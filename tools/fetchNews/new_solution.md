@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Implements Mandatory Two-Factor Authentication for Project Owners<a href="https://thehackernews.com/2023/05/pypi-implements-mandatory-two-factor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python Package Index (PyPI) announced last week that every account that maintains a project on the official third-party software repository will be required to turn on two-factor authentication ( 2FA ) by the end of the year. "Between now and the end of the year, PyPI will begin gating access to certain site functionality based on 2FA usage," PyPI administrator Donald Stufft said. "In addition, we may begin selecting certain users or projects for early enforcement." The enforcement also includes&nbsp; organization maintainers , but does not extend to every single user of the service. The goal is to neutralize the threats posed by account takeover attacks, which an attacker can leverage to distribute trojanized versions of popular packages to poison the software supply chain and deploy malware on a large scale. PyPI, like other open source repositories such as npm, has&nbsp; witnessed &nbsp;innumerable instances of malware and package impersonation. Earlier this month, F
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

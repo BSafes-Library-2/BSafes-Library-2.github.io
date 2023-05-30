@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: 20 NHS trusts shared patient details with Facebook without consent<a href="https://www.theguardian.com/society/2023/may/27/nhs-data-breach-trusts-shared-patient-details-with-facebook-meta-without-consent?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data includes granular details of pages viewed, buttons clicked and keywords searched. It is matched to the user’s IP address – an identifier linked to an individual or household – and, in many cases, details of their Facebook account.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

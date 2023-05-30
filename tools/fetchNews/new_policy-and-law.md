@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sports Warehouse Fined $300,000 Over Payment Card Data Theft<a href="https://www.bankinfosecurity.com/sports-warehouse-fined-300000-over-payment-card-data-theft-a-22187?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investigators found that the retailer was storing nearly 20 years' worth of payment card data on its e-commerce server in plaintext format, protected by only a password, which the attacker guessed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

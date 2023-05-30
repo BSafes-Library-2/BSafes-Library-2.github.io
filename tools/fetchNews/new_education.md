@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Challenges in Building a Continuous Threat Exposure Management (CTEM) Program and How to Beat Them<a href="https://thehackernews.com/2023/05/3-challenges-in-building-continuous.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you're a cybersecurity professional, you're likely familiar with the sea of acronyms our industry is obsessed with. From CNAPP, to CWPP, to CIEM and all of the myriad others, there seems to be a new initialism born each day. In this article, we'll look at another trending acronym – CTEM, which stands for Continuous Threat Exposure Management – and the often-surprising challenges that come along with seeing a CTEM program through to maturity. While the concept of CTEM isn't brand spanking new, having made its in-print debut in July of 2022, we are now at the point where many organizations are starting to try to operationalize the programs that they've been setting into motion over the last few months. And as organizations start to execute their carefully designed plans, they may find themselves bumping up against some unexpected challenges which can lead to setbacks.&nbsp; What is Continuous Threat Exposure Management (CTEM)? But first, to backtrack, let's just
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

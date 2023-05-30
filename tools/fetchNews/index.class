@@ -34,6 +34,267 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jimbos Protocol Hack Results in Loss of $7.5 Million Worth of Assets<a href="https://www.hackread.com/jimbos-protocol-hack-latest-defi-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest victim of a protocol hack is Jimbos Protocol, a decentralized liquidity platform operating on the Arbitrum system. The attack resulted in a loss of 4,000 Ether (ETH), valued at around $7.5 million during the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BrutePrint Attack Lets Attackers Unlock Smartphones with Fingerprint Brute-Force<a href="https://thehackernews.com/2023/05/new-bruteprint-attack-lets-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered an inexpensive attack technique that could be leveraged to brute-force fingerprints on smartphones to bypass user authentication and seize control of the devices. The approach, dubbed  BrutePrint , bypasses limits put in place to counter failed biometric authentication attempts by weaponizing two zero-day vulnerabilities in the smartphone fingerprint authentication (SFA) framework. The flaws, Cancel-After-Match-Fail (CAMF) and Match-After-Lock (MAL), leverage logical defects in the authentication framework, which arises due to insufficient protection of fingerprint data on the Serial Peripheral Interface (SPI) of fingerprint sensors. The result is a "hardware approach to do man-in-the-middle (MitM) attacks for fingerprint image hijacking," researchers Yu Chen and Yiling He  said  in a research paper. "BrutePrint acts as a middleman between fingerprint sensor and  TEE  [Trusted Execution Environment]." The goal, at its core, is to be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit ransomware attack on MCNA Dental impacts 8.9M individuals<a href="https://securityaffairs.com/146804/data-breach/mcna-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Managed Care of North America (MCNA) Dental disclosed a data breach that impacted more than 8.9 million individuals.
+Managed Care of North America (MCNA) Dental suffered a data breach that impacted 8,923,662 patients.
+MCNA Dental is one of the largest...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: 20 NHS trusts shared patient details with Facebook without consent<a href="https://www.theguardian.com/society/2023/may/27/nhs-data-breach-trusts-shared-patient-details-with-facebook-meta-without-consent?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data includes granular details of pages viewed, buttons clicked and keywords searched. It is matched to the user’s IP address – an identifier linked to an individual or household – and, in many cases, details of their Facebook account.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AceCryptor: Cybercriminals' Powerful Weapon, Detected in 240K+ Attacks<a href="https://thehackernews.com/2023/05/acecryptor-cybercriminals-powerful.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A crypter (alternatively spelled cryptor) malware dubbed  AceCryptor  has been used to pack numerous strains of malware since 2016. Slovak cybersecurity firm ESET  said  it identified over 240,000 detections of the crypter in its telemetry in 2021 and 2022. This amounts to more than 10,000 hits per month. Some of the prominent malware families contained within AceCryptor are SmokeLoader, RedLine Stealer, RanumBot, Raccoon Stealer, Stop ransomware, and Amadey, among others. The countries with the most detections include Peru, Egypt, Thailand, Indonesia, Turkey, Brazil, Mexico, South Africa, Poland, and India. AceCryptor was  first highlighted  by Avast in August 2022, detailing the use of the malware to distribute Stop ransomware and RedLine Stealer on Discord in the form of 7-Zip files. Crypters  are similar to packers, but instead of using compression, they are known to obfuscate the malware code with encryption to make detection and reverse engineering a lot more challenging.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Go-written GobRAT RAT targets Linux Routers in Japan<a href="https://securityaffairs.com/146795/malware/gobrat-targets-routers-japan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Golang remote access trojan (RAT), tracked as GobRAT, is targeting Linux routers in Japan, the JPCERT Coordination Center warns.
+JPCERT/CC is warning of cyberattacks against Linux routers in Japan that have been infected with a new Golang remote...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sports Warehouse Fined $300,000 Over Payment Card Data Theft<a href="https://www.bankinfosecurity.com/sports-warehouse-fined-300000-over-payment-card-data-theft-a-22187?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investigators found that the retailer was storing nearly 20 years' worth of payment card data on its e-commerce server in plaintext format, protected by only a password, which the attacker guessed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Challenges in Building a Continuous Threat Exposure Management (CTEM) Program and How to Beat Them<a href="https://thehackernews.com/2023/05/3-challenges-in-building-continuous.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you're a cybersecurity professional, you're likely familiar with the sea of acronyms our industry is obsessed with. From CNAPP, to CWPP, to CIEM and all of the myriad others, there seems to be a new initialism born each day. In this article, we'll look at another trending acronym – CTEM, which stands for Continuous Threat Exposure Management – and the often-surprising challenges that come along with seeing a CTEM program through to maturity. While the concept of CTEM isn't brand spanking new, having made its in-print debut in July of 2022, we are now at the point where many organizations are starting to try to operationalize the programs that they've been setting into motion over the last few months. And as organizations start to execute their carefully designed plans, they may find themselves bumping up against some unexpected challenges which can lead to setbacks.  What is Continuous Threat Exposure Management (CTEM)? But first, to backtrack, let's just
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers analyzed the PREDATOR spyware and its loader Alien<a href="https://securityaffairs.com/146780/malware/predator-spyware-analysis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos and the Citizen Lab researchers have published a technical analysis of the powerful Android spyware Predator.
+Security researchers at Cisco Talos and the Citizen Lab have shared technical details about a commercial Android spyware named...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enhanced Legion Credential Harvester Targets SSH Servers and AWS Credentials<a href="https://cyware.com/news/enhanced-legion-credential-harvester-targets-ssh-servers-and-aws-credentials-77e34efc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An updated version of the Python-based, cloud-focused hack tool called Legion—which can extract credentials from vulnerable web servers—has surfaced. The updated variant incorporates the Paramiko module to exploit SSH servers. Furthermore, it can now retrieve specific AWS credentials associated wit ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GobRAT Remote Access Trojan Targeting Linux Routers in Japan<a href="https://thehackernews.com/2023/05/new-gobrat-remote-access-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Linux routers in Japan are the target of a new Golang remote access trojan (RAT) called  GobRAT . "Initially, the attacker targets a router whose WEBUI is open to the public, executes scripts possibly by using vulnerabilities, and finally infects the GobRAT," the JPCERT Coordination Center (JPCERT/CC)  said  in a report published today. The compromise of an internet-exposed router is followed by the deployment of a loader script that acts as a conduit for delivering GobRAT, which, when launched, masquerades as the Apache daemon process (apached) to evade detection. The loader is also equipped to disable firewalls, establish persistence using the cron job scheduler, and register an SSH public key in the  .ssh/authorized_keys file  for remote access. GobRAT, for its part, communicates with a remote server via the Transport Layer Security ( TLS ) protocol to receive as many as 22 different encrypted commands for execution. Some of the major commands are as follows - Obt
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers use encrypted RPMSG messages in Microsoft 365 targeted phishing attacks<a href="https://securityaffairs.com/146768/cyber-crime/rpmsg-messages-microsoft-365-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of phishing attacks that are combining the use of compromised Microsoft 365 accounts and .rpmsg encrypted emails.
+Trustwave researchers have observed threat actors using encrypted RPMSG attachments sent via compromised Microsoft 365 accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at Dental Health Insurer MCNA Affects Nearly Nine Million Patients<a href="https://www.bankinfosecurity.com/dental-health-insurer-hack-affects-nearly-9-million-a-22185?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Fort Lauderdale, Florida-based insurance company, said it detected unauthorized access to certain systems on March 6 and discovered that certain systems within the network were infected with malicious code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Don't Click That ZIP File! Phishers Weaponizing .ZIP Domains to Trick Victims<a href="https://thehackernews.com/2023/05/dont-click-that-zip-file-phishers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing technique called "file archiver in the browser" can be leveraged to "emulate" a file archiver software in a web browser when a victim visits a .ZIP domain. "With this phishing attack, you simulate a file archiver software (e.g., WinRAR) in the browser and use a .zip domain to make it appear more legitimate," security researcher mr.d0x  disclosed  last week. Threat actors, in a nutshell, could create a realistic-looking  phishing landing page  using HTML and CSS that mimics legitimate file archive software, and host it on a .zip domain, thus elevating  social engineering campaigns . In a potential attack scenario, a miscreant could resort to such trickery to redirect users to a credential harvesting page when a file "contained" within the fake ZIP archive is clicked. "Another interesting use case is listing a non-executable file and when the user clicks to initiate a download, it downloads an executable file," mr.d0x
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tortoiseshell Eyes Israeli Logistics Industry<a href="https://cyware.com/news/tortoiseshell-eyes-israeli-logistics-industry-580ba4e8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alleged Iranian nation-state hacker group Tortoiseshell performed a watering hole attack on several shipping and logistics websites in Israel to collect information about their users. Attackers stay hidden by impersonating the genuine jQuery JavaScript framework. Organizations are urged to raise aw ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Implements Mandatory Two-Factor Authentication for Project Owners<a href="https://thehackernews.com/2023/05/pypi-implements-mandatory-two-factor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python Package Index (PyPI) announced last week that every account that maintains a project on the official third-party software repository will be required to turn on two-factor authentication ( 2FA ) by the end of the year. "Between now and the end of the year, PyPI will begin gating access to certain site functionality based on 2FA usage," PyPI administrator Donald Stufft said. "In addition, we may begin selecting certain users or projects for early enforcement." The enforcement also includes  organization maintainers , but does not extend to every single user of the service. The goal is to neutralize the threats posed by account takeover attacks, which an attacker can leverage to distribute trojanized versions of popular packages to poison the software supply chain and deploy malware on a large scale. PyPI, like other open source repositories such as npm, has  witnessed  innumerable instances of malware and package impersonation. Earlier this month, F
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

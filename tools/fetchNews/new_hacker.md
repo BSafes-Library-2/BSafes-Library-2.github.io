@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tortoiseshell Eyes Israeli Logistics Industry<a href="https://cyware.com/news/tortoiseshell-eyes-israeli-logistics-industry-580ba4e8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alleged Iranian nation-state hacker group Tortoiseshell performed a watering hole attack on several shipping and logistics websites in Israel to collect information about their users. Attackers stay hidden by impersonating the genuine jQuery JavaScript framework. Organizations are urged to raise aw ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

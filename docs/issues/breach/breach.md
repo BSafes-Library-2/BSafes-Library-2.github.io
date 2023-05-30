@@ -8,6 +8,50 @@ nav_order: 900029
 
 ## Breach
 ---
+May 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jimbos Protocol Hack Results in Loss of $7.5 Million Worth of Assets<a href="https://www.hackread.com/jimbos-protocol-hack-latest-defi-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest victim of a protocol hack is Jimbos Protocol, a decentralized liquidity platform operating on the Arbitrum system. The attack resulted in a loss of 4,000 Ether (ETH), valued at around $7.5 million during the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit ransomware attack on MCNA Dental impacts 8.9M individuals<a href="https://securityaffairs.com/146804/data-breach/mcna-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Managed Care of North America (MCNA) Dental disclosed a data breach that impacted more than 8.9 million individuals.
+Managed Care of North America (MCNA) Dental suffered a data breach that impacted 8,923,662 patients.
+MCNA Dental is one of the largest...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at Dental Health Insurer MCNA Affects Nearly Nine Million Patients<a href="https://www.bankinfosecurity.com/dental-health-insurer-hack-affects-nearly-9-million-a-22185?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Fort Lauderdale, Florida-based insurance company, said it detected unauthorized access to certain systems on March 6 and discovered that certain systems within the network were infected with malicious code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

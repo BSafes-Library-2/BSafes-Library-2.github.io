@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BrutePrint Attack Lets Attackers Unlock Smartphones with Fingerprint Brute-Force<a href="https://thehackernews.com/2023/05/new-bruteprint-attack-lets-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered an inexpensive attack technique that could be leveraged to brute-force fingerprints on smartphones to bypass user authentication and seize control of the devices. The approach, dubbed&nbsp; BrutePrint , bypasses limits put in place to counter failed biometric authentication attempts by weaponizing two zero-day vulnerabilities in the smartphone fingerprint authentication (SFA) framework. The flaws, Cancel-After-Match-Fail (CAMF) and Match-After-Lock (MAL), leverage logical defects in the authentication framework, which arises due to insufficient protection of fingerprint data on the Serial Peripheral Interface (SPI) of fingerprint sensors. The result is a "hardware approach to do man-in-the-middle (MitM) attacks for fingerprint image hijacking," researchers Yu Chen and Yiling He&nbsp; said &nbsp;in a research paper. "BrutePrint acts as a middleman between fingerprint sensor and&nbsp; TEE &nbsp;[Trusted Execution Environment]." The goal, at its core, is to be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
