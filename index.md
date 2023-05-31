@@ -34,6 +34,138 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Win $105,000 for Reporting Critical Security Flaws in Sonos One Speakers<a href="https://thehackernews.com/2023/05/hackers-win-105000-for-reporting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security flaws uncovered in Sonos One wireless speakers could be potentially exploited to achieve information disclosure and remote code execution, the Zero Day Initiative (ZDI)  said  in a report published last week. The vulnerabilities were demonstrated by three different teams from Qrious Secure, STAR Labs, and DEVCORE at the Pwn2Own hacking contest held in Toronto late last year, netting them $105,000 in monetary rewards. The list of four flaws, which impact Sonos One Speaker 70.3-35220, is below - CVE-2023-27352  and  CVE-2023-27355  (CVSS scores: 8.8)  - Unauthenticated flaws that allow network-adjacent attackers to execute arbitrary code on affected installations. CVE-2023-27353  and  CVE-2023-27354  (CVSS score: 6.5)  - Unauthenticated flaws that allow network-adjacent attackers to disclose sensitive information on affected installations. While CVE-2023-27352 stems from when processing SMB directory query commands, CVE-2023-27355 exists within the MPEG-TS pars
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI enforces 2FA authentication to prevent maintainers’ account takeover<a href="https://securityaffairs.com/146847/security/pypi-enforces-2fa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PyPI is going to enforce two-factor authentication (2FA) for all project maintainers by the end of this year over security concerns.
+Due to security concerns, PyPI will be mandating the use of two-factor authentication (2FA) for all project maintainers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CAPTCHA-Breaking Services with Human Solvers Helping Cybercriminals Defeat Security<a href="https://thehackernews.com/2023/05/captcha-breaking-services-with-human.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning about CAPTCHA-breaking services that are being offered for sale to bypass systems designed to distinguish legitimate users from bot traffic. "Because cybercriminals are keen on breaking CAPTCHAs accurately, several services that are primarily geared toward this market demand have been created," Trend Micro  said  in a report published last week. "These CAPTCHA-solving services don't use [optical character recognition] techniques or advanced machine learning methods; instead, they break CAPTCHAs by farming out CAPTCHA-breaking tasks to actual human solvers." CAPTCHA  – short for Completely Automated Public Turing test to tell Computers and Humans Apart – is a tool for differentiating real human users from automated users with the goal of combating spam and restricting fake account creation. While CAPTCHA mechanisms can be a  disruptive user experience , they are seen as an effective means to counter attacks from bot-ori
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A database containing 478,000 RaidForums members leaked online<a href="https://securityaffairs.com/146840/data-breach/raidforums-db-leaked-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The database of the popular RaidForums hacking forum has been leaked on a new hacking forum, 478,000 members exposed.
+A database belonging to the now-defunct RaidForums cybercrime platform has been leaked on a new hacking forum called Exposed. The database...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Implementing Risk-Based Vulnerability Discovery and Remediation<a href="https://thehackernews.com/2023/05/implementing-risk-based-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this day and age, vulnerabilities in software and systems pose a considerable danger to businesses, which is why it is essential to have an efficient vulnerability management program in place. To stay one step ahead of possible breaches and reduce the damage they may cause, it is crucial to automate the process of finding and fixing vulnerabilities depending on the level of danger they pose. This post will discuss the fundamental approaches and tools to implement and automate risk-based vulnerability management. To make this process easier, consider using an  all-in-one cloud-based solution  right from the start. Implementing a risk-based vulnerability management program A risk-based vulnerability management program is a complex preventative approach used for swiftly detecting and ranking vulnerabilities based on their potential threat to a business. By implementing a risk-based vulnerability management approach, organizations can improve their security posture and reduce the lik
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of the new phishing technique “file archiver in the browser” that exploits zip domains<a href="https://securityaffairs.com/146828/cyber-crime/file-archiver-in-the-browser-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"file archiver in the browser" is a new phishing technique that can be exploited by phishers when victims visit a .ZIP domain.
+A new phishing technique called "file archiver in the browser" can be used by phishers to "emulate" a file archiver software...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sneaky DogeRAT Trojan Poses as Popular Apps, Targets Indian Android Users<a href="https://thehackernews.com/2023/05/sneaky-dogerat-trojan-poses-as-popular.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new open source remote access trojan (RAT) called  DogeRAT  targets Android users primarily located in India as part of a sophisticated malware campaign. The malware is distributed via social media and messaging platforms under the guise of legitimate applications like Opera Mini, OpenAI ChatGOT, and Premium versions of YouTube, Netflix, and Instagram. "Once installed on a victim's device, the malware gains unauthorized access to sensitive data, including contacts, messages, and banking credentials," cybersecurity firm CloudSEK  said  in a Monday report. "It can also take control of the infected device, enabling malicious actions such as sending spam messages, making unauthorized payments, modifying files, and even remotely capturing photos through the device's cameras." DogeRAT, like many other malware-as-a-service ( MaaS ) offerings, is promoted by its India-based developer through a Telegram channel that has more than 2,100 subscribers since it wa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BrutePrint Attack allows to unlock smartphones with brute-forcing fingerprint<a href="https://securityaffairs.com/146810/hacking/bruteprint-attack-unlock-smartphones.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers devised an attack technique, dubbed BrutePrint Attack, that allows brute-forcing fingerprints on smartphones to bypass authentication.
+Researchers have devised an attack technique, dubbed BrutePrint, that allows to brute-force fingerprints...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
