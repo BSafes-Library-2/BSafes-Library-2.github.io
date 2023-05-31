@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Hackers Exploit Barracuda Email Security Gateway 0-Day Flaw for 7 Months<a href="https://thehackernews.com/2023/05/alert-hackers-exploit-barracuda-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise security firm Barracuda on Tuesday disclosed that a recently patched zero-day flaw in its Email Security Gateway (ESG) appliances had been abused by threat actors since October 2022 to backdoor the devices. The latest  findings  show that the  critical vulnerability , tracked as  CVE-2023-2868  (CVSS score: N/A), has been actively exploited for at least seven months prior to its discovery. The flaw, which Barracuda identified on May 19, 2023, affects versions 5.1.3.001 through 9.2.0.006 and could allow a remote attacker to achieve code execution on susceptible installations. Patches were released by Barracuda on May 20 and May 21. "CVE-2023-2868 was utilized to obtain unauthorized access to a subset of ESG appliances," the network and email security company  said  in an updated advisory. "Malware was identified on a subset of appliances allowing for persistent backdoor access. Evidence of data exfiltration was identified on a subset of impacted appliance
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 30, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
