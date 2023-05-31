@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2023
+May 31, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: Hackers Exploit Barracuda Email Security Gateway 0-Day Flaw for 7 Months<a href="https://thehackernews.com/2023/05/alert-hackers-exploit-barracuda-email.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2023
+May 30, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Win $105,000 for Reporting Critical Security Flaws in Sonos One Speakers<a href="https://thehackernews.com/2023/05/hackers-win-105000-for-reporting.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2023
+May 30, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI enforces 2FA authentication to prevent maintainers’ account takeover<a href="https://securityaffairs.com/146847/security/pypi-enforces-2fa.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2023
+May 30, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CAPTCHA-Breaking Services with Human Solvers Helping Cybercriminals Defeat Security<a href="https://thehackernews.com/2023/05/captcha-breaking-services-with-human.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2023
+May 30, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A database containing 478,000 RaidForums members leaked online<a href="https://securityaffairs.com/146840/data-breach/raidforums-db-leaked-online.html"> Full Text</a>
@@ -116,7 +116,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2023
+May 30, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Implementing Risk-Based Vulnerability Discovery and Remediation<a href="https://thehackernews.com/2023/05/implementing-risk-based-vulnerability.html"> Full Text</a>
@@ -132,7 +132,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2023
+May 30, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of the new phishing technique “file archiver in the browser” that exploits zip domains<a href="https://securityaffairs.com/146828/cyber-crime/file-archiver-in-the-browser-phishing.html"> Full Text</a>
@@ -149,7 +149,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2023
+May 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sneaky DogeRAT Trojan Poses as Popular Apps, Targets Indian Android Users<a href="https://thehackernews.com/2023/05/sneaky-dogerat-trojan-poses-as-popular.html"> Full Text</a>
@@ -165,7 +165,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2023
+May 30, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BrutePrint Attack allows to unlock smartphones with brute-forcing fingerprint<a href="https://securityaffairs.com/146810/hacking/bruteprint-attack-unlock-smartphones.html"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Implementing Risk-Based Vulnerability Discovery and Remediation<a href="https://thehackernews.com/2023/05/implementing-risk-based-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this day and age, vulnerabilities in software and systems pose a considerable danger to businesses, which is why it is essential to have an efficient vulnerability management program in place. To stay one step ahead of possible breaches and reduce the damage they may cause, it is crucial to automate the process of finding and fixing vulnerabilities depending on the level of danger they pose. This post will discuss the fundamental approaches and tools to implement and automate risk-based vulnerability management. To make this process easier, consider using an&nbsp; all-in-one cloud-based solution &nbsp;right from the start. Implementing a risk-based vulnerability management program A risk-based vulnerability management program is a complex preventative approach used for swiftly detecting and ranking vulnerabilities based on their potential threat to a business. By implementing a risk-based vulnerability management approach, organizations can improve their security posture and reduce the lik
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

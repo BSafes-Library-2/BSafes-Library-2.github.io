@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Hackers Exploit Barracuda Email Security Gateway 0-Day Flaw for 7 Months<a href="https://thehackernews.com/2023/05/alert-hackers-exploit-barracuda-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise security firm Barracuda on Tuesday disclosed that a recently patched zero-day flaw in its Email Security Gateway (ESG) appliances had been abused by threat actors since October 2022 to backdoor the devices. The latest&nbsp; findings &nbsp;show that the&nbsp; critical vulnerability , tracked as&nbsp; CVE-2023-2868 &nbsp;(CVSS score: N/A), has been actively exploited for at least seven months prior to its discovery. The flaw, which Barracuda identified on May 19, 2023, affects versions 5.1.3.001 through 9.2.0.006 and could allow a remote attacker to achieve code execution on susceptible installations. Patches were released by Barracuda on May 20 and May 21. "CVE-2023-2868 was utilized to obtain unauthorized access to a subset of ESG appliances," the network and email security company&nbsp; said &nbsp;in an updated advisory. "Malware was identified on a subset of appliances allowing for persistent backdoor access. Evidence of data exfiltration was identified on a subset of impacted appliance
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Win $105,000 for Reporting Critical Security Flaws in Sonos One Speakers<a href="https://thehackernews.com/2023/05/hackers-win-105000-for-reporting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security flaws uncovered in Sonos One wireless speakers could be potentially exploited to achieve information disclosure and remote code execution, the Zero Day Initiative (ZDI)&nbsp; said &nbsp;in a report published last week. The vulnerabilities were demonstrated by three different teams from Qrious Secure, STAR Labs, and DEVCORE at the Pwn2Own hacking contest held in Toronto late last year, netting them $105,000 in monetary rewards. The list of four flaws, which impact Sonos One Speaker 70.3-35220, is below - CVE-2023-27352 &nbsp;and&nbsp; CVE-2023-27355 &nbsp;(CVSS scores: 8.8) &nbsp;- Unauthenticated flaws that allow network-adjacent attackers to execute arbitrary code on affected installations. CVE-2023-27353 &nbsp;and&nbsp; CVE-2023-27354 &nbsp;(CVSS score: 6.5) &nbsp;- Unauthenticated flaws that allow network-adjacent attackers to disclose sensitive information on affected installations. While CVE-2023-27352 stems from when processing SMB directory query commands, CVE-2023-27355 exists within the MPEG-TS pars
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

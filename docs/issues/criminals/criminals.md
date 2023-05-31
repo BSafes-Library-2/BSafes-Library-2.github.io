@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CAPTCHA-Breaking Services with Human Solvers Helping Cybercriminals Defeat Security<a href="https://thehackernews.com/2023/05/captcha-breaking-services-with-human.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning about CAPTCHA-breaking services that are being offered for sale to bypass systems designed to distinguish legitimate users from bot traffic. "Because cybercriminals are keen on breaking CAPTCHAs accurately, several services that are primarily geared toward this market demand have been created," Trend Micro&nbsp; said &nbsp;in a report published last week. "These CAPTCHA-solving services don't use [optical character recognition] techniques or advanced machine learning methods; instead, they break CAPTCHAs by farming out CAPTCHA-breaking tasks to actual human solvers." CAPTCHA &nbsp;– short for Completely Automated Public Turing test to tell Computers and Humans Apart – is a tool for differentiating real human users from automated users with the goal of combating spam and restricting fake account creation. While CAPTCHA mechanisms can be a&nbsp; disruptive user experience , they are seen as an effective means to counter attacks from bot-ori
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

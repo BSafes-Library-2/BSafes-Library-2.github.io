@@ -8,6 +8,35 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers use encrypted RPMSG messages in Microsoft 365 targeted phishing attacks<a href="https://securityaffairs.com/146768/cyber-crime/rpmsg-messages-microsoft-365-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of phishing attacks that are combining the use of compromised Microsoft 365 accounts and .rpmsg encrypted emails.
+Trustwave researchers have observed threat actors using&nbsp;encrypted RPMSG attachments sent via compromised Microsoft 365 accounts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Don't Click That ZIP File! Phishers Weaponizing .ZIP Domains to Trick Victims<a href="https://thehackernews.com/2023/05/dont-click-that-zip-file-phishers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing technique called "file archiver in the browser" can be leveraged to "emulate" a file archiver software in a web browser when a victim visits a .ZIP domain. "With this phishing attack, you simulate a file archiver software (e.g., WinRAR) in the browser and use a .zip domain to make it appear more legitimate," security researcher mr.d0x&nbsp; disclosed &nbsp;last week. Threat actors, in a nutshell, could create a realistic-looking&nbsp; phishing landing page &nbsp;using HTML and CSS that mimics legitimate file archive software, and host it on a .zip domain, thus elevating&nbsp; social engineering campaigns . In a potential attack scenario, a miscreant could resort to such trickery to redirect users to a credential harvesting page when a file "contained" within the fake ZIP archive is clicked. "Another interesting use case is listing a non-executable file and when the user clicks to initiate a download, it downloads an executable file," mr.d0x
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

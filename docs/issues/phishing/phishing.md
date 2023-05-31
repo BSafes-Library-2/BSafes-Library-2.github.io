@@ -8,6 +8,21 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of the new phishing technique “file archiver in the browser” that exploits zip domains<a href="https://securityaffairs.com/146828/cyber-crime/file-archiver-in-the-browser-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"file archiver in the browser" is a new phishing technique that can be exploited by phishers when victims visit a .ZIP domain.
+A new phishing technique called "file archiver in the browser" can be used by phishers to "emulate" a file archiver software...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
