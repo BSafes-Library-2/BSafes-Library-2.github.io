@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Targeting Apache NiFi Instances for Cryptocurrency Mining<a href="https://thehackernews.com/2023/05/cybercriminals-targeting-apache-nifi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor is actively scouring the internet for unprotected&nbsp; Apache NiFi instances &nbsp;to covertly install a cryptocurrency miner and facilitate lateral movement. The findings come from the SANS Internet Storm Center (ISC), which detected a spike in HTTP requests for "/nifi" on May 19, 2023. "Persistence is achieved via timed processors or entries to cron,"&nbsp; said &nbsp;Dr. Johannes Ullrich, dean of research for SANS Technology Institute. "The attack script is not saved to the system. The attack scripts are kept in memory only." A honeypot setup allowed the ISC to determine that the initial foothold is weaponized to drop a shell script that removes the "/var/log/syslog" file, disables the firewall, and terminates competing crypto-mining tools, before downloading and launching the Kinsing malware from a remote server. It's worth pointing out that&nbsp; Kinsing &nbsp;has a&nbsp; track record &nbsp;of&nbsp; leveraging &nbsp;publicly disclosed vulnerabilities in publicly accessible web applicati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

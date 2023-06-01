@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2023
+May 31, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Targeting Apache NiFi Instances for Cryptocurrency Mining<a href="https://thehackernews.com/2023/05/cybercriminals-targeting-apache-nifi.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2023
+May 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of backdoor-like behavior within Gigabyte systems<a href="https://securityaffairs.com/146892/hacking/backdoor-like-behavior-gigabyte-systems.html"> Full Text</a>
@@ -68,7 +68,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2023
+May 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Firmware Vulnerability in Gigabyte Systems Exposes ~7 Million Devices<a href="https://thehackernews.com/2023/05/critical-firmware-vulnerability-in.html"> Full Text</a>
@@ -84,7 +84,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2023
+May 31, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors are exploiting Barracuda Email Security Gateway bug since October 2022<a href="https://securityaffairs.com/146876/hacking/barracuda-esg-bug-exploited-since-oct.html"> Full Text</a>
@@ -101,7 +101,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2023
+May 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of Ghost Sites: Silent Threat Lurking in Your Salesforce Communities<a href="https://thehackernews.com/2023/05/beware-of-ghost-sites-silent-threat.html"> Full Text</a>
@@ -117,7 +117,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2023
+May 31, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swiss real estate agency Neho fails to put a password on its systems<a href="https://securityaffairs.com/146879/data-breach/neho-data-exposed.html"> Full Text</a>
@@ -134,7 +134,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2023
+May 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Details Critical Apple macOS Vulnerability Allowing SIP Protection Bypass<a href="https://thehackernews.com/2023/05/microsoft-details-critical-apple-macos.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2023
+May 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft found a new bug that allows bypassing SIP root restrictions in macOS<a href="https://securityaffairs.com/146853/security/macos-sip-root-restrictions-bypass.html"> Full Text</a>
@@ -167,7 +167,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2023
+May 31, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 6 Steps to Effectively Threat Hunting: Safeguard Critical Assets and Fight Cybercrime<a href="https://thehackernews.com/2023/05/6-steps-to-effective-threat-hunting.html"> Full Text</a>
@@ -183,7 +183,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2023
+May 31, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark Pink APT Group Leverages TelePowerBot and KamiKakaBot in Sophisticated Attacks<a href="https://thehackernews.com/2023/05/dark-pink-apt-group-leverages.html"> Full Text</a>
@@ -199,7 +199,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2023
+May 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RomCom RAT Using Deceptive Web of Rogue Software Sites for Covert Attacks<a href="https://thehackernews.com/2023/05/romcom-rat-using-deceptive-web-of-rogue.html"> Full Text</a>

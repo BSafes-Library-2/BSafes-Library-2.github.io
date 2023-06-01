@@ -8,6 +8,21 @@ nav_order: 900195
 
 ## Solution
 ---
+May 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI enforces 2FA authentication to prevent maintainers’ account takeover<a href="https://securityaffairs.com/146847/security/pypi-enforces-2fa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PyPI is going to enforce two-factor authentication (2FA) for all project maintainers by the end of this year over security concerns.
+Due to security concerns, PyPI will be mandating the use of two-factor authentication (2FA) for all project maintainers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,187 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Targeting Apache NiFi Instances for Cryptocurrency Mining<a href="https://thehackernews.com/2023/05/cybercriminals-targeting-apache-nifi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor is actively scouring the internet for unprotected  Apache NiFi instances  to covertly install a cryptocurrency miner and facilitate lateral movement. The findings come from the SANS Internet Storm Center (ISC), which detected a spike in HTTP requests for "/nifi" on May 19, 2023. "Persistence is achieved via timed processors or entries to cron,"  said  Dr. Johannes Ullrich, dean of research for SANS Technology Institute. "The attack script is not saved to the system. The attack scripts are kept in memory only." A honeypot setup allowed the ISC to determine that the initial foothold is weaponized to drop a shell script that removes the "/var/log/syslog" file, disables the firewall, and terminates competing crypto-mining tools, before downloading and launching the Kinsing malware from a remote server. It's worth pointing out that  Kinsing  has a  track record  of  leveraging  publicly disclosed vulnerabilities in publicly accessible web applicati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of backdoor-like behavior within Gigabyte systems<a href="https://securityaffairs.com/146892/hacking/backdoor-like-behavior-gigabyte-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a suspected backdoor-like behavior within Gigabyte systems that exposes devices to compromise.
+Researchers from firmware security firm Eclypsium have discovered a suspected backdoor-like behavior within Gigabyte systems.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Firmware Vulnerability in Gigabyte Systems Exposes ~7 Million Devices<a href="https://thehackernews.com/2023/05/critical-firmware-vulnerability-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have found "backdoor-like behavior" within Gigabyte systems, which they say enables the  UEFI firmware  of the devices to drop a Windows executable and retrieve updates in an unsecure format. Firmware security firm Eclypsium  said  it first detected the anomaly in April 2023. Gigabyte has since acknowledged and addressed the issue. "Most Gigabyte firmware includes a Windows Native Binary executable embedded inside of the UEFI firmware," John Loucaides, senior vice president of strategy at Eclypsium, told The Hacker News. "The detected Windows executable is dropped to disk and executed as part of the Windows startup process, similar to the  LoJack double agent attack . This executable then downloads and runs additional binaries via insecure methods." "Only the intention of the author can distinguish this sort of vulnerability from a malicious backdoor," Loucaides added. The executable, per Eclypsium, is embedded in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors are exploiting Barracuda Email Security Gateway bug since October 2022<a href="https://securityaffairs.com/146876/hacking/barracuda-esg-bug-exploited-since-oct.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently disclosed zero-day flaw in Barracusa Email Security Gateway (ESG) appliances had been actively exploited by attackers since October 2022.
+The network security solutions provider Barracuda recently warned customers that some of its Email Security...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of Ghost Sites: Silent Threat Lurking in Your Salesforce Communities<a href="https://thehackernews.com/2023/05/beware-of-ghost-sites-silent-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Improperly deactivated and abandoned Salesforce  Sites  and  Communities  (aka Experience Cloud) could pose severe risks to organizations, leading to unauthorized access to sensitive data. Data security firm Varonis dubbed the abandoned, unprotected, and unmonitored resources " ghost sites ." "When these Communities are no longer needed, though, they are often set aside but not deactivated," Varonis Threat Labs researchers  said  in a new report shared with The Hacker News. "Because these unused sites are not maintained, they aren't tested against vulnerabilities, and Admins fail to update the site's security measures according to newer guidelines." Varonis said it found many of these deactivated (but still active) sites still fetching new data, thereby allowing threat actors to extract data by manipulating the  host header  in the HTTP request. Identifying the complete internal URLs associated with the sites is challenging but not impossible, as an adversary could leverage too
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swiss real estate agency Neho fails to put a password on its systems<a href="https://securityaffairs.com/146879/data-breach/neho-data-exposed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A misconfiguration of Swiss real estate agency Neho’s systems exposed sensitive credentials to the public.
+Neho, a Switzerland-based real estate agency, leaked credentials recently, potentially allowing threat actors to prey on sensitive data about...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Details Critical Apple macOS Vulnerability Allowing SIP Protection Bypass<a href="https://thehackernews.com/2023/05/microsoft-details-critical-apple-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared details of a now-patched flaw in Apple macOS that could be abused by threat actors with root access to bypass security enforcements and perform arbitrary actions on affected devices. Specifically, the flaw – dubbed  Migraine  and tracked as CVE-2023-32369 – could be abused to get around a key security measure called System Integrity Protection ( SIP ), or "rootless," which limits the actions the root user can perform on protected files and folders. "The most straight-forward implication of a SIP bypass is that [...] an attacker can create files that are protected by SIP and therefore undeletable by ordinary means," Microsoft researchers Jonathan Bar Or, Michael Pearse, and Anurag Bohra  said . Even worse, it could be exploited to gain arbitrary kernel code execution and even access sensitive data by replacing databases that manage Transparency, Consent, and Control (TCC) policies. The bypass is made possible by leveraging a built-in macOS tool called  Migrat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft found a new bug that allows bypassing SIP root restrictions in macOS<a href="https://securityaffairs.com/146853/security/macos-sip-root-restrictions-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple fixed a vulnerability discovered by Microsoft researchers that lets attackers with root privileges bypass System Integrity Protection (SIP).
+Researchers from Microsoft discovered a vulnerability, tracked as CVE-2023-32369 and dubbed Migraine,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+6 Steps to Effectively Threat Hunting: Safeguard Critical Assets and Fight Cybercrime<a href="https://thehackernews.com/2023/05/6-steps-to-effective-threat-hunting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finding threat actors before they find you is key to beefing up your cyber defenses. How to do that efficiently and effectively is no small task – but with a small investment of time, you can master threat hunting and save your organization millions of dollars. Consider this staggering statistic. Cybersecurity Ventures estimates that cybercrime will take a $10.5 trillion toll on the global economy by 2025. Measuring this amount as a country, the cost of cybercrime equals the world's third-largest economy after the U.S. and China. But with effective threat hunting, you can keep bad actors from wreaking havoc on your organization. This article offers a detailed explanation of threat hunting – what it is, how to do it thoroughly and effectively, and how cyber threat intelligence (CTI) can bolster your threat-hunting efforts. What is threat hunting? Cyber threat hunting is gathering evidence that a threat is materializing. It's a continuous process that helps you find the threats that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Pink APT Group Leverages TelePowerBot and KamiKakaBot in Sophisticated Attacks<a href="https://thehackernews.com/2023/05/dark-pink-apt-group-leverages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as  Dark Pink  has been linked to five new attacks aimed at various entities in Belgium, Brunei, Indonesia, Thailand, and Vietnam between February 2022 and April 2023. This includes educational institutions, government agencies, military bodies, and non-profit organizations, indicating the adversarial crew's continued focus on high-value targets. Dark Pink, also called Saaiwc Group, is an advanced persistent threat (APT) actor believed to be of Asia-Pacific origin, with  attacks   targeting  entities primarily located in East Asia and, to a lesser extent, in Europe. The group employs a set of custom malware tools such as TelePowerBot and KamiKakaBot that provide various functions to exfiltrate sensitive data from compromised hosts. "The group uses a range of sophisticated custom tools, deploys multiple kill chains relying on spear-phishing emails," Group-IB security researcher Andrey Polovinkin  said  in a technical report shared with The Hacker News. "Onc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RomCom RAT Using Deceptive Web of Rogue Software Sites for Covert Attacks<a href="https://thehackernews.com/2023/05/romcom-rat-using-deceptive-web-of-rogue.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind  RomCom RAT  are leveraging a network of fake websites advertising rogue versions of popular software at least since July 2022 to infiltrate targets. Cybersecurity firm Trend Micro is tracking the activity cluster under the name Void Rabisu, which is also known as Tropical Scorpius (Unit 42) and UNC2596 (Mandiant). "These lure sites are most likely only meant for a small number of targets, thus making discovery and analysis more difficult," security researchers Feike Hacquebord, Stephen Hilt, Fernando Merces, and Lord Alfred Remorin  said . Some of the impersonated apps spotted so far include AstraChat, Devolutions' Remote Desktop Manager, Gimp, GoTo Meeting, KeePass, OpenAI ChatGPT, Signal, Veeam Backup & Replication, and WinDirStat. RomCom RAT was  first chronicled  by Palo Alto Networks Unit 42 in August 2022, linking it to a financially motivated group deploying  Cuba Ransomware  (aka COLDDRAW). It's worth noting that there is no
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 31, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

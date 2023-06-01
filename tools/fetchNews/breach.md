@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+May 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A database containing 478,000 RaidForums members leaked online<a href="https://securityaffairs.com/146840/data-breach/raidforums-db-leaked-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The database of the popular RaidForums hacking forum has been leaked on a new hacking forum, 478,000 members exposed.
+A database belonging to the now-defunct RaidForums cybercrime platform has been leaked on a new hacking forum called Exposed. The database...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

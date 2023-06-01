@@ -8,6 +8,79 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+May 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of backdoor-like behavior within Gigabyte systems<a href="https://securityaffairs.com/146892/hacking/backdoor-like-behavior-gigabyte-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a suspected backdoor-like behavior within Gigabyte systems that exposes devices to compromise.
+Researchers from firmware security firm Eclypsium have discovered a&nbsp;suspected backdoor-like behavior within Gigabyte systems.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Firmware Vulnerability in Gigabyte Systems Exposes ~7 Million Devices<a href="https://thehackernews.com/2023/05/critical-firmware-vulnerability-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have found "backdoor-like behavior" within Gigabyte systems, which they say enables the&nbsp; UEFI firmware &nbsp;of the devices to drop a Windows executable and retrieve updates in an unsecure format. Firmware security firm Eclypsium&nbsp; said &nbsp;it first detected the anomaly in April 2023. Gigabyte has since acknowledged and addressed the issue. "Most Gigabyte firmware includes a Windows Native Binary executable embedded inside of the UEFI firmware," John Loucaides, senior vice president of strategy at Eclypsium, told The Hacker News. "The detected Windows executable is dropped to disk and executed as part of the Windows startup process, similar to the&nbsp; LoJack double agent attack . This executable then downloads and runs additional binaries via insecure methods." "Only the intention of the author can distinguish this sort of vulnerability from a malicious backdoor," Loucaides added. The executable, per Eclypsium, is embedded in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of Ghost Sites: Silent Threat Lurking in Your Salesforce Communities<a href="https://thehackernews.com/2023/05/beware-of-ghost-sites-silent-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Improperly deactivated and abandoned Salesforce&nbsp; Sites &nbsp;and&nbsp; Communities &nbsp;(aka Experience Cloud) could pose severe risks to organizations, leading to unauthorized access to sensitive data. Data security firm Varonis dubbed the abandoned, unprotected, and unmonitored resources " ghost sites ." "When these Communities are no longer needed, though, they are often set aside but not deactivated," Varonis Threat Labs researchers&nbsp; said &nbsp;in a new report shared with The Hacker News. "Because these unused sites are not maintained, they aren't tested against vulnerabilities, and Admins fail to update the site's security measures according to newer guidelines." Varonis said it found many of these deactivated (but still active) sites still fetching new data, thereby allowing threat actors to extract data by manipulating the&nbsp; host header &nbsp;in the HTTP request. Identifying the complete internal URLs associated with the sites is challenging but not impossible, as an adversary could leverage too
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Details Critical Apple macOS Vulnerability Allowing SIP Protection Bypass<a href="https://thehackernews.com/2023/05/microsoft-details-critical-apple-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has shared details of a now-patched flaw in Apple macOS that could be abused by threat actors with root access to bypass security enforcements and perform arbitrary actions on affected devices. Specifically, the flaw – dubbed&nbsp; Migraine &nbsp;and tracked as CVE-2023-32369 – could be abused to get around a key security measure called System Integrity Protection ( SIP ), or "rootless," which limits the actions the root user can perform on protected files and folders. "The most straight-forward implication of a SIP bypass is that [...] an attacker can create files that are protected by SIP and therefore undeletable by ordinary means," Microsoft researchers Jonathan Bar Or, Michael Pearse, and Anurag Bohra&nbsp; said . Even worse, it could be exploited to gain arbitrary kernel code execution and even access sensitive data by replacing databases that manage Transparency, Consent, and Control (TCC) policies. The bypass is made possible by leveraging a built-in macOS tool called&nbsp; Migrat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft found a new bug that allows bypassing SIP root restrictions in macOS<a href="https://securityaffairs.com/146853/security/macos-sip-root-restrictions-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple fixed a vulnerability discovered by Microsoft researchers that lets attackers with root privileges bypass System Integrity Protection (SIP).
+Researchers from Microsoft discovered a vulnerability, tracked as&nbsp;CVE-2023-32369 and dubbed Migraine,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Pink APT Group Leverages TelePowerBot and KamiKakaBot in Sophisticated Attacks<a href="https://thehackernews.com/2023/05/dark-pink-apt-group-leverages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as&nbsp; Dark Pink &nbsp;has been linked to five new attacks aimed at various entities in Belgium, Brunei, Indonesia, Thailand, and Vietnam between February 2022 and April 2023. This includes educational institutions, government agencies, military bodies, and non-profit organizations, indicating the adversarial crew's continued focus on high-value targets. Dark Pink, also called Saaiwc Group, is an advanced persistent threat (APT) actor believed to be of Asia-Pacific origin, with&nbsp; attacks &nbsp; targeting &nbsp;entities primarily located in East Asia and, to a lesser extent, in Europe. The group employs a set of custom malware tools such as TelePowerBot and KamiKakaBot that provide various functions to exfiltrate sensitive data from compromised hosts. "The group uses a range of sophisticated custom tools, deploys multiple kill chains relying on spear-phishing emails," Group-IB security researcher Andrey Polovinkin&nbsp; said &nbsp;in a technical report shared with The Hacker News. "Onc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
