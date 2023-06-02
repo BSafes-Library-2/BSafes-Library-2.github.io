@@ -7,20 +7,14 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 23, 2023 - NSA, CISA, FBI, ACSC, CCCS, NCSC-NZ, NCSC-UK
+June 1, 2023 - NSA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-People's Republic of China State-Sponsored Cyber Actor Living off the Land to Evade Detection <a href="https://s3.documentcloud.org/documents/23824901/csa_living_off_the_land.pdf"> Full Text</a>
+U.S., ROK Agencies Alert: DPRK Cyber Actors Impersonating Targets to Collect Intelligence <a href="https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3413621/us-rok-agencies-alert-dprk-cyber-actors-impersonating-targets-to-collect-intell/"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-The United States and international cybersecurity authorities are issuing this joint
-Cybersecurity Advisory (CSA) to highlight a recently discovered cluster of activity of
-interest associated with a People’s Republic of China (PRC) state-sponsored cyber
-actor, also known as Volt Typhoon. Private sector partners have identified that this
-activity affects networks across U.S. critical infrastructure sectors, and the authoring
-agencies believe the actor could apply the same techniques against these and other
-sectors worldwide.
+FORT MEADE, Md. - The National Security Agency (NSA) is partnering with several organizations to highlight the Democratic People’s Republic of Korea’s (DPRK) use of social engineering and malware to target think tanks, academia, and news media sectors.
 </details>
 </div>
 

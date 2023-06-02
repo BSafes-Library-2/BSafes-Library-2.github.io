@@ -34,6 +34,283 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Kimsuky Group Mimics Key Figures in Targeted Cyber Attacks<a href="https://thehackernews.com/2023/06/north-koreas-kimsuky-group-mimics-key.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. and South Korean intelligence agencies have issued a new alert warning of North Korean cyber actors' use of social engineering tactics to strike think tanks, academia, and news media sectors. The "sustained information gathering efforts" have been attributed to a state-sponsored cluster dubbed  Kimsuky , which is also known by the names APT43, ARCHIPELAGO, Black Banshee, Emerald Sleet (previously Thallium), Nickel Kimball, and Velvet Chollima. "North Korea relies heavily on intelligence gained from these spear-phishing campaigns," the agencies  said . "Successful compromises of the targeted individuals enable Kimsuky actors to craft more credible and effective spear-phishing emails that can be leveraged against sensitive, high-value targets." Kimsuky refers to an ancillary element within North Korea's Reconnaissance General Bureau (RGB) and is known to collect tactical intelligence on geopolitical events and negotiations affecting the regi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit Transfer Under Attack: Zero-Day Vulnerability Actively Being Exploited<a href="https://thehackernews.com/2023/06/moveit-transfer-under-attack-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical flaw in Progress Software's in MOVEit Transfer managed file transfer application has come under widespread exploitation in the wild to take over vulnerable systems. The shortcoming, which is yet to be assigned a CVE identifier, relates to a severe SQL injection vulnerability that could lead to escalated privileges and potential unauthorized access to the environment. "An SQL injection vulnerability has been found in the MOVEit Transfer web application that could allow an unauthenticated attacker to gain unauthorized access to MOVEit Transfer's database," the company  said . "Depending on the database engine being used (MySQL, Microsoft SQL Server, or Azure SQL), an attacker may be able to infer information about the structure and contents of the database in addition to executing SQL statements that alter or delete database elements." Patches for the bug have been made available by the Massachusetts-based company, which also owns Telerik, in t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evasive QBot Malware Leverages Short-lived Residential IPs for Dynamic Attacks<a href="https://thehackernews.com/2023/06/evasive-qbot-malware-leverages-short.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of the "evasive and tenacious" malware known as QBot has revealed that 25% of its command-and-control (C2) servers are merely active for a single day. What's more, 50% of the servers don't remain active for more than a week, indicating the use of an adaptable and dynamic  C2 infrastructure , Lumen Black Lotus Labs said in a report shared with The Hacker News. "This botnet has adapted techniques to conceal its infrastructure in residential IP space and infected web servers, as opposed to hiding in a network of hosted virtual private servers (VPSs)," security researchers Chris Formosa and Steve Rudd said. QBot , also called QakBot and Pinkslipbot, is a persistent and potent threat that started off as a banking trojan before evolving into a downloader for other payloads, including ransomware. Its origins go back as far as 2007. The malware arrives on victims' devices via spear-phishing emails, which either directly incorporate lure files o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Visions of Digital Sovereignty<a href="https://www.lawfareblog.com/two-visions-digital-sovereignty"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EU policymakers may soon finalize cybersecurity standards that could render the new Trans-Atlantic Data Privacy Framework irrelevant.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Triangulation: previously undetected malware targets iOS devices<a href="https://securityaffairs.com/146939/apt/operation-triangulation-ios-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented APT group targets iOS devices with zero-click exploits as part of a long-running campaign dubbed Operation Triangulation.
+Researchers from the Russian firm Kaspersky have uncovered a previously unknown APT group that is targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zero-Click Hack Targets iOS Users with Stealthy Root-Privilege Malware<a href="https://thehackernews.com/2023/06/new-zero-click-hack-targets-ios-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown advanced persistent threat (APT) is targeting iOS devices as part of a sophisticated and long-running mobile campaign dubbed  Operation Triangulation  that began in 2019. "The targets are infected using zero-click exploits via the iMessage platform, and the malware runs with root privileges, gaining complete control over the device and user data," Kaspersky  said . The Russian cybersecurity company said it discovered traces of compromise after creating offline backups of the targeted devices. The attack chain begins with the iOS device receiving a message via iMessage that contains an attachment bearing the exploit. The exploit is said to be  zero-click , meaning the receipt of the message triggers the vulnerability without requiring any user interaction in order to achieve code execution. It's also configured to retrieve additional payloads for privilege escalation and drop a final stage malware from a remote server that Kaspersky described as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California-based workforce platform Prosperix leaks drivers licenses and medical records<a href="https://securityaffairs.com/146935/security/prosperix-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prosperix leaked nearly 250,000 files. The breach exposed job seekers’ sensitive data, including home addresses and phone numbers.
+Prosperix, formally Crowdstaffing, calls itself a “workforce innovation” company that develops software solutions...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unmasking XE Group: Experts Reveal Identity of Suspected Cybercrime Kingpin<a href="https://thehackernews.com/2023/06/unmasking-xe-group-experts-reveal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unmasked the identity of one of the individuals who is believed to be associated with the e-crime actor known as  XE Group . According to  Menlo Security , which pieced together the information from different online sources, "Nguyen Huu Tai, who also goes by the names Joe Nguyen and Thanh Nguyen, has the strongest likelihood of being involved with the XE Group." XE Group (aka XeThanh), previously documented by  Malwarebytes  and  Volexity , has a history of carrying out cyber criminal activities since at least 2013. It's suspected to be a threat actor of Vietnamese origin. Some of the entities targeted by the threat actor span government agencies, construction organizations, and healthcare sectors. It's known to compromise internet-exposed servers with known exploits and monetize the intrusions by installing password theft or  credit card skimming code  for online services. "As far back as 2014, the threat actor was seen crea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apps with over 420 Million downloads from Google Play unveil the discovery of SpinOk spyware<a href="https://securityaffairs.com/146926/malware/spinok-android-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered spyware, dubbed SpinOk, hidden in 101 Android apps with over 400 million downloads in Google Play.
+The malicious module is distributed as a marketing SDK that developers behind the apps embedded in their applications and games,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPI Packages Using Compiled Python Code to Bypass Detection<a href="https://thehackernews.com/2023/06/malicious-pypi-packages-using-compiled.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered a novel attack on the Python Package Index (PyPI) repository that employs compiled Python code to sidestep detection by application security tools. "It may be the first supply chain attack to take advantage of the fact that Python bytecode (PYC) files can be directly executed," ReversingLabs analyst Karlo Zanki  said  in a report shared with The Hacker News. The package in question is  fshec2 , which was removed from the package registry on April 17, 2023, following responsible disclosure on the same day. PYC files are compiled bytecode files that are generated by the Python interpreter when a Python program is executed. "When a module is imported for the first time (or when the source file has changed since the current compiled file was created) a .pyc file containing the compiled code should be created in a __pycache__ subdirectory of the directory containing the .py file,"  explains  the Python documentation. The package, per th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat claims the hack of the Casepoint legal technology platform used by US agencies<a href="https://securityaffairs.com/146915/cyber-crime/blackcat-ransomware-casepoint.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat ransomware gang claims to have hacked the Casepoint legal technology platform used US agencies, including SEC and FBI.
+The cybersecurity researcher Dominic Alvieri first noticed that the BlackCat ransomware gang added the company Casepoint...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Wazuh Improves IT Hygiene for Cyber Security Resilience<a href="https://thehackernews.com/2023/06/how-wazuh-improves-it-hygiene-for-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT hygiene  is a security best practice that ensures that digital assets in an organization's environment are secure and running properly. Good IT hygiene includes vulnerability management, security configuration assessments, maintaining asset and system inventories, and comprehensive visibility into the activities occurring in an environment. As technology advances and the tools used by cybercriminals and cybersecurity professionals evolve, the strategies used to carry out cyber attacks differ based on their complexity and uniqueness. Threat actors continuously target organizations practicing poor IT hygiene to exploit known security weaknesses and human error. Security administrators can defend against cyberattacks by implementing good  IT hygiene  practices like whitelisting programs, keeping systems up to date, and more. Gaining complete visibility into the IT assets is fundamental to developing an effective security strategy. The emergence of shadow IT, like rogue assets, s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Widespread exploitation by botnet operators of Zyxel firewall flaw<a href="https://securityaffairs.com/146901/hacking/zyxel-firewall-flaw-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a command injection flaw, tracked as CVE-2023-28771, in Zyxel firewalls to install malware.
+Threat actors are actively attempting to exploit a command injection vulnerability, tracked as CVE-2023-28771, that impacts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Improved BlackCat Ransomware Strikes with Lightning Speed and Stealthy Tactics<a href="https://thehackernews.com/2023/06/improved-blackcat-ransomware-strikes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind BlackCat ransomware have come up with an improved variant that prioritizes speed and stealth in an attempt to bypass security guardrails and achieve their goals. The new version, dubbed  Sphynx  and announced in February 2023, packs a "number of updated capabilities that strengthen the group's efforts to evade detection," IBM Security X-Force said in a new analysis. The "product" update was  first highlighted  by vx-underground in April 2023. Trend Micro, last month,  detailed  a Linux version of Sphynx that's "focused primarily on its encryption routine." BlackCat , also called ALPHV and Noberus, is the first Rust-language-based ransomware strain spotted in the wild. Active since November 2021, it has emerged as a formidable ransomware actor, victimizing  more than 350 targets  as of May 2023. The group, like other ransomware-as-a-service (RaaS) offerings, is  known  to operate a double extortion scheme, deploying c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean ScarCruft Hackers Exploit LNK Files to Spread RokRAT<a href="https://thehackernews.com/2023/06/n-korean-scarcruft-hackers-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have offered a closer look at the RokRAT remote access trojan that's employed by the North Korean state-sponsored actor known as  ScarCruft . "RokRAT is a sophisticated remote access trojan (RAT) that has been observed as a critical component within the attack chain, enabling the threat actors to gain unauthorized access, exfiltrate sensitive information, and potentially maintain persistent control over compromised systems," ThreatMon  said . ScarCruft , active since at least 2012, is a  cyber espionage group  that operates on behalf of the North Korean government, exclusively focusing on targets in its southern counterpart. The group is believed to be a subordinate element within North Korea's Ministry of State Security (MSS). Attack chains mounted by the group have leaned heavily on social engineering to spear-phish victims and deliver payloads onto target networks. This includes exploiting vulnerabilities in Hancom's Hangul Word
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Active Mirai Botnet Variant Exploiting Zyxel Devices for DDoS Attacks<a href="https://thehackernews.com/2023/06/active-mirai-botnet-variant-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has  added  a recently patched critical security flaw in Zyxel gear to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active exploitation. Tracked as  CVE-2023-28771  (CVSS score: 9.8), the issue relates to a  command injection flaw  impacting different firewall models that could enable an unauthenticated attacker to execute arbitrary code by sending a specially crafted packet to the device. Zyxel addressed the security defect as part of updates released on April 25, 2023. The list of impacted devices is below - ATP (versions ZLD V4.60 to V5.35, patched in ZLD V5.36) USG FLEX (versions ZLD V4.60 to V5.35, patched in ZLD V5.36) VPN (versions ZLD V4.60 to V5.35, patched in ZLD V5.36), and ZyWALL/USG (versions ZLD V4.60 to V4.73, patched in ZLD V4.73 Patch 1) The Shadowserver Foundation, in a  recent tweet , said the flaw is "being actively exploited to build a  Mirai-like botnet " since M
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 01, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Urgent WordPress Update Fixes Critical Flaw in Jetpack Plugin on Million of Sites<a href="https://thehackernews.com/2023/06/urgent-wordpress-update-fixes-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress has issued an automatic update to address a critical flaw in the  Jetpack plugin  that's installed on over five million sites. The vulnerability, which was unearthed during an internal security audit, resides in an API present in the plugin since  version 2.0 , which was released in November 2012. "This vulnerability could be used by authors on a site to manipulate any files in the WordPress installation," Jetpack  said  in an advisory. 102 new versions of Jetpack have been released to remediate the bug. While there is no evidence the issue has been exploited in the wild, it's not uncommon for flaws in popular WordPress plugins to be leveraged by threat actors looking to take over the sites for malicious ends. This is not the first time severe security weaknesses in Jetpack have prompted WordPress to force install the patches. In November 2019, Jetpack released  version 7.9.1  to fix a defect in the way the plugin handled embed code that had existed since July 2017 (ve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 31, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

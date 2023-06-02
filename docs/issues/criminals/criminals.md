@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unmasking XE Group: Experts Reveal Identity of Suspected Cybercrime Kingpin<a href="https://thehackernews.com/2023/06/unmasking-xe-group-experts-reveal.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unmasked the identity of one of the individuals who is believed to be associated with the e-crime actor known as&nbsp; XE Group . According to&nbsp; Menlo Security , which pieced together the information from different online sources, "Nguyen Huu Tai, who also goes by the names Joe Nguyen and Thanh Nguyen, has the strongest likelihood of being involved with the XE Group." XE Group (aka XeThanh), previously documented by&nbsp; Malwarebytes &nbsp;and&nbsp; Volexity , has a history of carrying out cyber criminal activities since at least 2013. It's suspected to be a threat actor of Vietnamese origin. Some of the entities targeted by the threat actor span government agencies, construction organizations, and healthcare sectors. It's known to compromise internet-exposed servers with known exploits and monetize the intrusions by installing password theft or&nbsp; credit card skimming code &nbsp;for online services. "As far back as 2014, the threat actor was seen crea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

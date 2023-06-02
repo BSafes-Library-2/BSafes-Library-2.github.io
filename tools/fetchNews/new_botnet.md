@@ -8,6 +8,35 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Widespread exploitation by botnet operators of Zyxel firewall flaw<a href="https://securityaffairs.com/146901/hacking/zyxel-firewall-flaw-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a command injection flaw, tracked as CVE-2023-28771, in Zyxel firewalls to install malware.
+Threat actors are actively attempting to exploit a command injection vulnerability, tracked as CVE-2023-28771, that impacts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Active Mirai Botnet Variant Exploiting Zyxel Devices for DDoS Attacks<a href="https://thehackernews.com/2023/06/active-mirai-botnet-variant-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp; added &nbsp;a recently patched critical security flaw in Zyxel gear to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active exploitation. Tracked as&nbsp; CVE-2023-28771 &nbsp;(CVSS score: 9.8), the issue relates to a&nbsp; command injection flaw &nbsp;impacting different firewall models that could enable an unauthenticated attacker to execute arbitrary code by sending a specially crafted packet to the device. Zyxel addressed the security defect as part of updates released on April 25, 2023. The list of impacted devices is below - ATP (versions ZLD V4.60 to V5.35, patched in ZLD V5.36) USG FLEX (versions ZLD V4.60 to V5.35, patched in ZLD V5.36) VPN (versions ZLD V4.60 to V5.35, patched in ZLD V5.36), and ZyWALL/USG (versions ZLD V4.60 to V4.73, patched in ZLD V4.73 Patch 1) The Shadowserver Foundation, in a&nbsp; recent tweet , said the flaw is "being actively exploited to build a&nbsp; Mirai-like botnet " since M
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

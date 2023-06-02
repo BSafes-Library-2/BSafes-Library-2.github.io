@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean ScarCruft Hackers Exploit LNK Files to Spread RokRAT<a href="https://thehackernews.com/2023/06/n-korean-scarcruft-hackers-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have offered a closer look at the RokRAT remote access trojan that's employed by the North Korean state-sponsored actor known as&nbsp; ScarCruft . "RokRAT is a sophisticated remote access trojan (RAT) that has been observed as a critical component within the attack chain, enabling the threat actors to gain unauthorized access, exfiltrate sensitive information, and potentially maintain persistent control over compromised systems," ThreatMon&nbsp; said . ScarCruft , active since at least 2012, is a&nbsp; cyber espionage group &nbsp;that operates on behalf of the North Korean government, exclusively focusing on targets in its southern counterpart. The group is believed to be a subordinate element within North Korea's Ministry of State Security (MSS). Attack chains mounted by the group have leaned heavily on social engineering to spear-phish victims and deliver payloads onto target networks. This includes exploiting vulnerabilities in Hancom's Hangul Word
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

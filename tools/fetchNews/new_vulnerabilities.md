@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit Transfer Under Attack: Zero-Day Vulnerability Actively Being Exploited<a href="https://thehackernews.com/2023/06/moveit-transfer-under-attack-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical flaw in Progress Software's in MOVEit Transfer managed file transfer application has come under widespread exploitation in the wild to take over vulnerable systems. The shortcoming, which is yet to be assigned a CVE identifier, relates to a severe SQL injection vulnerability that could lead to escalated privileges and potential unauthorized access to the environment. "An SQL injection vulnerability has been found in the MOVEit Transfer web application that could allow an unauthenticated attacker to gain unauthorized access to MOVEit Transfer's database," the company&nbsp; said . "Depending on the database engine being used (MySQL, Microsoft SQL Server, or Azure SQL), an attacker may be able to infer information about the structure and contents of the database in addition to executing SQL statements that alter or delete database elements." Patches for the bug have been made available by the Massachusetts-based company, which also owns Telerik, in t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Urgent WordPress Update Fixes Critical Flaw in Jetpack Plugin on Million of Sites<a href="https://thehackernews.com/2023/06/urgent-wordpress-update-fixes-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress has issued an automatic update to address a critical flaw in the&nbsp; Jetpack plugin &nbsp;that's installed on over five million sites. The vulnerability, which was unearthed during an internal security audit, resides in an API present in the plugin since&nbsp; version 2.0 , which was released in November 2012. "This vulnerability could be used by authors on a site to manipulate any files in the WordPress installation," Jetpack&nbsp; said &nbsp;in an advisory. 102 new versions of Jetpack have been released to remediate the bug. While there is no evidence the issue has been exploited in the wild, it's not uncommon for flaws in popular WordPress plugins to be leveraged by threat actors looking to take over the sites for malicious ends. This is not the first time severe security weaknesses in Jetpack have prompted WordPress to force install the patches. In November 2019, Jetpack released&nbsp; version 7.9.1 &nbsp;to fix a defect in the way the plugin handled embed code that had existed since July 2017 (ve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

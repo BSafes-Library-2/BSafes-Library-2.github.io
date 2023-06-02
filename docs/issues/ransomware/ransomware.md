@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Improved BlackCat Ransomware Strikes with Lightning Speed and Stealthy Tactics<a href="https://thehackernews.com/2023/06/improved-blackcat-ransomware-strikes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind BlackCat ransomware have come up with an improved variant that prioritizes speed and stealth in an attempt to bypass security guardrails and achieve their goals. The new version, dubbed&nbsp; Sphynx &nbsp;and announced in February 2023, packs a "number of updated capabilities that strengthen the group's efforts to evade detection," IBM Security X-Force said in a new analysis. The "product" update was&nbsp; first highlighted &nbsp;by vx-underground in April 2023. Trend Micro, last month,&nbsp; detailed &nbsp;a Linux version of Sphynx that's "focused primarily on its encryption routine." BlackCat , also called ALPHV and Noberus, is the first Rust-language-based ransomware strain spotted in the wild. Active since November 2021, it has emerged as a formidable ransomware actor, victimizing&nbsp; more than 350 targets &nbsp;as of May 2023. The group, like other ransomware-as-a-service (RaaS) offerings, is&nbsp; known &nbsp;to operate a double extortion scheme, deploying c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

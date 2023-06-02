@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+6 Steps to Effectively Threat Hunting: Safeguard Critical Assets and Fight Cybercrime<a href="https://thehackernews.com/2023/05/6-steps-to-effective-threat-hunting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finding threat actors before they find you is key to beefing up your cyber defenses. How to do that efficiently and effectively is no small task – but with a small investment of time, you can master threat hunting and save your organization millions of dollars. Consider this staggering statistic. Cybersecurity Ventures estimates that cybercrime will take a $10.5 trillion toll on the global economy by 2025. Measuring this amount as a country, the cost of cybercrime equals the world's third-largest economy after the U.S. and China. But with effective threat hunting, you can keep bad actors from wreaking havoc on your organization. This article offers a detailed explanation of threat hunting – what it is, how to do it thoroughly and effectively, and how cyber threat intelligence (CTI) can bolster your threat-hunting efforts. What is threat hunting? Cyber threat hunting is gathering evidence that a threat is materializing. It's a continuous process that helps you find the threats that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
