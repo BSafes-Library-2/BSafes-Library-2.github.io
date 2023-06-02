@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Kimsuky Group Mimics Key Figures in Targeted Cyber Attacks<a href="https://thehackernews.com/2023/06/north-koreas-kimsuky-group-mimics-key.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. and South Korean intelligence agencies have issued a new alert warning of North Korean cyber actors' use of social engineering tactics to strike think tanks, academia, and news media sectors. The "sustained information gathering efforts" have been attributed to a state-sponsored cluster dubbed  Kimsuky , which is also known by the names APT43, ARCHIPELAGO, Black Banshee, Emerald Sleet (previously Thallium), Nickel Kimball, and Velvet Chollima. "North Korea relies heavily on intelligence gained from these spear-phishing campaigns," the agencies  said . "Successful compromises of the targeted individuals enable Kimsuky actors to craft more credible and effective spear-phishing emails that can be leveraged against sensitive, high-value targets." Kimsuky refers to an ancillary element within North Korea's Reconnaissance General Bureau (RGB) and is known to collect tactical intelligence on geopolitical events and negotiations affecting the regi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit Transfer Under Attack: Zero-Day Vulnerability Actively Being Exploited<a href="https://thehackernews.com/2023/06/moveit-transfer-under-attack-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical flaw in Progress Software's in MOVEit Transfer managed file transfer application has come under widespread exploitation in the wild to take over vulnerable systems. The shortcoming, which is yet to be assigned a CVE identifier, relates to a severe SQL injection vulnerability that could lead to escalated privileges and potential unauthorized access to the environment. "An SQL injection vulnerability has been found in the MOVEit Transfer web application that could allow an unauthenticated attacker to gain unauthorized access to MOVEit Transfer's database," the company  said . "Depending on the database engine being used (MySQL, Microsoft SQL Server, or Azure SQL), an attacker may be able to infer information about the structure and contents of the database in addition to executing SQL statements that alter or delete database elements." Patches for the bug have been made available by the Massachusetts-based company, which also owns Telerik, in t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 01, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
