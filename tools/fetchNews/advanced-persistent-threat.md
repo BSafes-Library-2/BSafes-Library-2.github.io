@@ -8,6 +8,35 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Kimsuky Group Mimics Key Figures in Targeted Cyber Attacks<a href="https://thehackernews.com/2023/06/north-koreas-kimsuky-group-mimics-key.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. and South Korean intelligence agencies have issued a new alert warning of North Korean cyber actors' use of social engineering tactics to strike think tanks, academia, and news media sectors. The "sustained information gathering efforts" have been attributed to a state-sponsored cluster dubbed&nbsp; Kimsuky , which is also known by the names APT43, ARCHIPELAGO, Black Banshee, Emerald Sleet (previously Thallium), Nickel Kimball, and Velvet Chollima. "North Korea relies heavily on intelligence gained from these spear-phishing campaigns," the agencies&nbsp; said . "Successful compromises of the targeted individuals enable Kimsuky actors to craft more credible and effective spear-phishing emails that can be leveraged against sensitive, high-value targets." Kimsuky refers to an ancillary element within North Korea's Reconnaissance General Bureau (RGB) and is known to collect tactical intelligence on geopolitical events and negotiations affecting the regi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Triangulation: previously undetected malware targets iOS devices<a href="https://securityaffairs.com/146939/apt/operation-triangulation-ios-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented APT group targets iOS devices with zero-click exploits as part of a long-running campaign dubbed&nbsp;Operation Triangulation.
+Researchers from the Russian firm Kaspersky have uncovered a previously unknown APT group that is targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

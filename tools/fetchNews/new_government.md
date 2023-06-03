@@ -8,6 +8,50 @@ nav_order: 900075
 
 ## Government
 ---
+June 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Progress MOVEit Transfer zero-day to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/146998/security/cisa-moveit-transfer-0day-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added actively exploited Progress MOVEit Transfer zero-day vulnerability to its Known Exploited Vulnerabilities catalog.
+US Cybersecurity and Infrastructure Security Agency (CISA) added a Progress MOVEit Transfer SQL injection vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal vision to streamline cyber incident reporting expected this summer<a href="https://www.nextgov.com/cybersecurity/2023/06/federal-vision-streamline-cyber-incident-reporting-expected-summer/387023/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Incident Reporting Council will issue a report to Congress "in the next month or two" with recommendations on ways to achieve harmony across a complex network of federal cyber mandates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia’s FSB blames the US intelligence for Operation Triangulation<a href="https://securityaffairs.com/146954/intelligence/fsb-blames-us-intel-operation-triangulation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia’s intelligence Federal Security Service (FSB) said that the recent attacks against iPhones with a zero-click iOS exploit as part of Operation Triangulation were carried out by US intelligence.
+Researchers from the Russian firm Kaspersky have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

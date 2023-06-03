@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+June 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California-based workforce platform Prosperix leaks drivers licenses and medical records<a href="https://securityaffairs.com/146935/security/prosperix-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prosperix leaked nearly 250,000 files. The breach exposed job seekers’ sensitive data, including home addresses and phone numbers.
+Prosperix, formally Crowdstaffing, calls itself a “workforce innovation” company that develops software solutions...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

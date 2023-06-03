@@ -8,6 +8,21 @@ nav_order: 900015
 
 ## Attack
 ---
+June 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat claims the hack of the Casepoint legal technology platform used by US agencies<a href="https://securityaffairs.com/146915/cyber-crime/blackcat-ransomware-casepoint.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat ransomware gang claims to have hacked the Casepoint legal technology platform used US agencies, including SEC and FBI.
+The cybersecurity researcher Dominic Alvieri first noticed that the BlackCat ransomware gang added the company Casepoint...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

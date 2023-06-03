@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+June 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian dissidents' claim of presidential hack likely legitimate, experts say<a href="https://cyberscoop.com/iranian-dissidents-presidential-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A trove of documents, images, and videos from the offices of Iranian President Ebrahim Raisi posted online Monday appear to be authentic, cybersecurity experts familiar with the matter told CyberScoop on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Point32Health ransomware attack exposed info of 2.5M people<a href="https://securityaffairs.com/146975/data-breach/point32health-ransomware-attack-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the recent ransomware attack, Point32Health disclosed a data breach that impacted 2.5 million Harvard Pilgrim Health Care subscribers.
+In April, the non-profit health insurer Point32Health took systems offline in response to a ransomware attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discord Admins Hacked by Malicious Bookmarks – Krebs on Security<a href="https://krebsonsecurity.com/2023/05/discord-admins-hacked-by-malicious-bookmarks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of Discord communities focused on cryptocurrency have been hacked this past month after their administrators were tricked into running malicious Javascript code disguised as a Web browser bookmark.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

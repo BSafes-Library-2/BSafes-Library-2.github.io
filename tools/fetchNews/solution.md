@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Wazuh Improves IT Hygiene for Cyber Security Resilience<a href="https://thehackernews.com/2023/06/how-wazuh-improves-it-hygiene-for-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT hygiene&nbsp; is a security best practice that ensures that digital assets in an organization's environment are secure and running properly. Good IT hygiene includes vulnerability management, security configuration assessments, maintaining asset and system inventories, and comprehensive visibility into the activities occurring in an environment. As technology advances and the tools used by cybercriminals and cybersecurity professionals evolve, the strategies used to carry out cyber attacks differ based on their complexity and uniqueness. Threat actors continuously target organizations practicing poor IT hygiene to exploit known security weaknesses and human error. Security administrators can defend against cyberattacks by implementing good&nbsp; IT hygiene &nbsp;practices like whitelisting programs, keeping systems up to date, and more. Gaining complete visibility into the IT assets is fundamental to developing an effective security strategy. The emergence of shadow IT, like rogue assets, s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Camaro Dragon Strikes with New TinyNote Backdoor for Intelligence Gathering<a href="https://thehackernews.com/2023/06/camaro-dragon-strikes-with-new-tinynote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese nation-state group known as&nbsp; Camaro Dragon &nbsp;has been linked to yet another backdoor that's designed to meet its intelligence-gathering goals. Israeli cybersecurity firm Check Point, which&nbsp; dubbed &nbsp;the Go-based malware TinyNote, said it functions as a first-stage payload capable of "basic machine enumeration and command execution via PowerShell or Goroutines." What the malware lacks in terms of sophistication, it makes up for it when it comes to establishing redundant methods to retain access to the compromised host by means of multiple persistency tasks and varied methods to communicate with different servers. Camaro Dragon overlaps with a threat actor widely tracked as Mustang Panda, a state-sponsored group from China that is known to be active since at least 2012. The adversarial collective was recently in the spotlight for a custom bespoke firmware implant called&nbsp; Horse Shell &nbsp;that co-opts TP-Link routers into a mesh network capable of transmitting co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
