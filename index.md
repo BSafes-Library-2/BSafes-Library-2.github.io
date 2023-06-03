@@ -34,6 +34,235 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Vulnerabilities Patched in Splunk Enterprise<a href="https://www.securityweek.com/high-severity-vulnerabilities-patched-in-splunk-enterprise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe of these is CVE-2023-32707, a privilege escalation issue that allows low-privileged users with the ‘edit_user’ capability to escalate privileges to administrator, via a specially crafted web request.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Botnet Malware 'Horabot' Targets Spanish-Speaking Users in Latin America<a href="https://thehackernews.com/2023/06/new-botnet-malware-horabot-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish-speaking users in Latin America have been at the receiving end of a new botnet malware dubbed  Horabot  since at least November 2020. "Horabot enables the threat actor to control the victim's Outlook mailbox, exfiltrate contacts' email addresses, and send phishing emails with malicious HTML attachments to all addresses in the victim's mailbox," Cisco Talos researcher Chetan Raghuprasad  said . The botnet program also delivers a Windows-based financial trojan and a spam tool to harvest online banking credentials as well as compromise Gmail, Outlook, and Yahoo! webmail accounts to blast spam emails. The cybersecurity firm said a majority of the infections are located in Mexico, with limited victims identified in Uruguay, Brazil, Venezuela, Argentina, Guatemala, and Panama. The threat actor behind the campaign is believed to be in Brazil. Targeted users of the ongoing campaign primarily span accounting, construction and engineering, wholesale distributio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Progress MOVEit Transfer zero-day to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/146998/security/cisa-moveit-transfer-0day-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added actively exploited Progress MOVEit Transfer zero-day vulnerability to its Known Exploited Vulnerabilities catalog.
+US Cybersecurity and Infrastructure Security Agency (CISA) added a Progress MOVEit Transfer SQL injection vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian dissidents' claim of presidential hack likely legitimate, experts say<a href="https://cyberscoop.com/iranian-dissidents-presidential-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A trove of documents, images, and videos from the offices of Iranian President Ebrahim Raisi posted online Monday appear to be authentic, cybersecurity experts familiar with the matter told CyberScoop on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Importance of Managing Your Data Security Posture<a href="https://thehackernews.com/2023/06/the-importance-of-managing-your-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data security is reinventing itself. As new data security posture management solutions come to market, organizations are increasingly recognizing the opportunity to provide evidence-based security that proves how their data is being protected. But what exactly is data security posture, and how do you manage it?  Data security posture management  (DSPM) became mainstream following the publication of Gartner® Cool Vendors™ in Data Security—Secure and Accelerate Advanced Use Cases. In that  report , Gartner1 seems to have kicked off the popular use of the data security posture management term and massive investment in this space by every VC. Since that report, Gartner has identified at least 16 DSPM vendors, including Symmetry Systems. What is Data Security Posture? There certainly is a lot being marketed and published about data security posture management solutions themselves, but we first wanted to dig into what is data security posture?  Symmetry Systems defines data security pos
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New botnet Horabot targets Latin America<a href="https://securityaffairs.com/146980/malware/horabot-botnet-latin-america.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new botnet malware dubbed Horabot is targeting Spanish-speaking users in Latin America since at least November 2020.
+Cisco Talos researchers were observed deploying a previously unidentified botnet, dubbed Horabot, that is targeting Spanish-speaking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California-based Workforce Platform Prosperix Leaks Drivers Licenses and Medical Records of Job Seekers<a href="https://securityaffairs.com/146935/security/prosperix-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The misconfiguration led to the exposure of approximately 250,000 files. 42,000 of them contained the sensitive data of job seekers, namely: Full names, Dates of birth, Occupation history, Home addresses, Phone numbers, and Email addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Camaro Dragon Strikes with New TinyNote Backdoor for Intelligence Gathering<a href="https://thehackernews.com/2023/06/camaro-dragon-strikes-with-new-tinynote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese nation-state group known as  Camaro Dragon  has been linked to yet another backdoor that's designed to meet its intelligence-gathering goals. Israeli cybersecurity firm Check Point, which  dubbed  the Go-based malware TinyNote, said it functions as a first-stage payload capable of "basic machine enumeration and command execution via PowerShell or Goroutines." What the malware lacks in terms of sophistication, it makes up for it when it comes to establishing redundant methods to retain access to the compromised host by means of multiple persistency tasks and varied methods to communicate with different servers. Camaro Dragon overlaps with a threat actor widely tracked as Mustang Panda, a state-sponsored group from China that is known to be active since at least 2012. The adversarial collective was recently in the spotlight for a custom bespoke firmware implant called  Horse Shell  that co-opts TP-Link routers into a mesh network capable of transmitting co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Point32Health ransomware attack exposed info of 2.5M people<a href="https://securityaffairs.com/146975/data-breach/point32health-ransomware-attack-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the recent ransomware attack, Point32Health disclosed a data breach that impacted 2.5 million Harvard Pilgrim Health Care subscribers.
+In April, the non-profit health insurer Point32Health took systems offline in response to a ransomware attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal vision to streamline cyber incident reporting expected this summer<a href="https://www.nextgov.com/cybersecurity/2023/06/federal-vision-streamline-cyber-incident-reporting-expected-summer/387023/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Incident Reporting Council will issue a report to Congress "in the next month or two" with recommendations on ways to achieve harmony across a complex network of federal cyber mandates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit Transfer software zero-day actively exploited in the wild<a href="https://securityaffairs.com/146963/hacking/moveit-transfer-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting a zero-day flaw in Progress Software’s MOVEit Transfer product to steal data from organizations.
+Threat actors are actively exploiting a zero-day vulnerability in the Progress MOVEit Transfer file transfer product to steal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Horabot Campaign Targets Spanish-Speaking Users in the Americas<a href="https://blog.talosintelligence.com/new-horabot-targets-americas/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Horabot enables the threat actor to control the victim’s Outlook mailbox, exfiltrate contacts’ email addresses, and send phishing emails with malicious HTML attachments to all addresses in the victim’s mailbox.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia’s FSB blames the US intelligence for Operation Triangulation<a href="https://securityaffairs.com/146954/intelligence/fsb-blames-us-intel-operation-triangulation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia’s intelligence Federal Security Service (FSB) said that the recent attacks against iPhones with a zero-click iOS exploit as part of Operation Triangulation were carried out by US intelligence.
+Researchers from the Russian firm Kaspersky have...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discord Admins Hacked by Malicious Bookmarks – Krebs on Security<a href="https://krebsonsecurity.com/2023/05/discord-admins-hacked-by-malicious-bookmarks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of Discord communities focused on cryptocurrency have been hacked this past month after their administrators were tricked into running malicious Javascript code disguised as a Web browser bookmark.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 02, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
