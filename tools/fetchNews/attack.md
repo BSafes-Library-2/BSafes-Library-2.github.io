@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Horabot Campaign Targets Spanish-Speaking Users in the Americas<a href="https://blog.talosintelligence.com/new-horabot-targets-americas/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Horabot enables the threat actor to control the victim’s Outlook mailbox, exfiltrate contacts’ email addresses, and send phishing emails with malicious HTML attachments to all addresses in the victim’s mailbox.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

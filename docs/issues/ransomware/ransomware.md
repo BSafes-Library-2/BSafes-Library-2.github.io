@@ -8,6 +8,49 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BlackSuit Ransomware Exhibit Striking Similarities With Royal<a href="https://cyware.com/news/new-blacksuit-ransomware-exhibit-striking-similarities-with-royal-f90d6997"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro examined and uncovered “an extremely high degree of similarity” between the recently surfaced BlackSuit group and the Royal ransomware group. They share approximately 98% similarity in functions, 99.5% similarity in code blocks, and 98.9% similarity in jump instructions, as witnessed on ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux Ransomware Strain BlackSuit Shows Striking Similarities to Royal<a href="https://thehackernews.com/2023/06/new-linux-ransomware-strain-blacksuit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of the Linux variant of a new ransomware strain called BlackSuit has covered significant similarities with another ransomware family called&nbsp; Royal . Trend Micro, which examined an x64 VMware ESXi version targeting Linux machines, said it identified an "extremely high degree of similarity" between Royal and BlackSuit. "In fact, they're nearly identical, with 98% similarities in functions, 99.5% similarities in blocks, and 98.9% similarities in jumps based on BinDiff, a comparison tool for binary files," Trend Micro researchers&nbsp; noted . A comparison of the Windows artifacts has identified 93.2% similarity in functions, 99.3% in basic blocks, and 98.4% in jumps based on BinDiff. BlackSuit&nbsp; first came to light &nbsp;in early&nbsp; May 2023 &nbsp;when Palo Alto Networks Unit 42 drew attention to its ability to target both Windows and Linux hosts. In line with other ransomware groups, it runs a double extortion scheme that steals and encrypts sensitive data in a c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux Ransomware BlackSuit is similar to Royal ransomware<a href="https://securityaffairs.com/147002/cyber-crime/blacksuit-similar-royal-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts noticed that the new Linux ransomware BlackSuit has significant similarities with the&nbsp;Royal ransomware family.
+Royal&nbsp;ransomware is one of the&nbsp;most notable ransomware families&nbsp;of 2022, it made the headlines in early May 2023 with the attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

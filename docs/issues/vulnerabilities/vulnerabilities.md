@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel published guidance for protecting devices from ongoing attacks<a href="https://securityaffairs.com/147030/security/zyxel-guidance-firewall-hardening.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has published guidance for protecting firewall and VPN devices from the ongoing attacks recently discovered.
+Zyxel has published guidance for protecting firewall and VPN devices from ongoing attacks exploiting &nbsp;CVE-2023-28771,&nbsp;CVE-2023-33009,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors can exfiltrate data from Google Drive without leaving a trace<a href="https://www.helpnetsecurity.com/2023/06/01/data-exfiltration-google-drive/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Workspace (formerly G Suite) has a weak spot that can prevent the discovery of data exfiltration from Google Drive by a malicious outsider or insider, Mitiga researchers say.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

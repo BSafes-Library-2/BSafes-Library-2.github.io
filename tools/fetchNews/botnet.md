@@ -8,6 +8,35 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Botnet Malware 'Horabot' Targets Spanish-Speaking Users in Latin America<a href="https://thehackernews.com/2023/06/new-botnet-malware-horabot-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish-speaking users in Latin America have been at the receiving end of a new botnet malware dubbed&nbsp; Horabot &nbsp;since at least November 2020. "Horabot enables the threat actor to control the victim's Outlook mailbox, exfiltrate contacts' email addresses, and send phishing emails with malicious HTML attachments to all addresses in the victim's mailbox," Cisco Talos researcher Chetan Raghuprasad&nbsp; said . The botnet program also delivers a Windows-based financial trojan and a spam tool to harvest online banking credentials as well as compromise Gmail, Outlook, and Yahoo! webmail accounts to blast spam emails. The cybersecurity firm said a majority of the infections are located in Mexico, with limited victims identified in Uruguay, Brazil, Venezuela, Argentina, Guatemala, and Panama. The threat actor behind the campaign is believed to be in Brazil. Targeted users of the ongoing campaign primarily span accounting, construction and engineering, wholesale distributio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New botnet Horabot targets Latin America<a href="https://securityaffairs.com/146980/malware/horabot-botnet-latin-america.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new botnet malware dubbed&nbsp;Horabot&nbsp;is targeting Spanish-speaking users in Latin America since at least November 2020.
+Cisco Talos researchers were observed deploying a previously unidentified botnet, dubbed Horabot, that is targeting Spanish-speaking...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

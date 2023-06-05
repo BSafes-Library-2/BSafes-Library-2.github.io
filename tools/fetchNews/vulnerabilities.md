@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Vulnerabilities Patched in Splunk Enterprise<a href="https://www.securityweek.com/high-severity-vulnerabilities-patched-in-splunk-enterprise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe of these is CVE-2023-32707, a privilege escalation issue that allows low-privileged users with the ‘edit_user’ capability to escalate privileges to administrator, via a specially crafted web request.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit Transfer software zero-day actively exploited in the wild<a href="https://securityaffairs.com/146963/hacking/moveit-transfer-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting a zero-day flaw in Progress Software’s MOVEit Transfer product to steal data from organizations.
+Threat actors are actively exploiting a zero-day vulnerability in the Progress MOVEit Transfer file transfer product to steal...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2023
+June 4, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BlackSuit Ransomware Exhibit Striking Similarities With Royal<a href="https://cyware.com/news/new-blacksuit-ransomware-exhibit-striking-similarities-with-royal-f90d6997"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2023
+June 4, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 422 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/147059/breaking-news/security-affairs-newsletter-round-422.html"> Full Text</a>
@@ -68,7 +68,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2023
+June 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Void Rabisu Group Uses RomCom for Geopolitical Attacks<a href="https://cyware.com/news/void-rabisu-group-uses-romcom-for-geopolitical-attacks-c4278726"> Full Text</a>
@@ -84,7 +84,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2023
+June 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Xplain hack impacted the Swiss cantonal police and Fedpol<a href="https://securityaffairs.com/147047/data-breach/fedpol-swiss-police-cyber-attack.html"> Full Text</a>
@@ -101,7 +101,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 4, 2023
+June 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel published guidance for protecting devices from ongoing attacks<a href="https://securityaffairs.com/147030/security/zyxel-guidance-firewall-hardening.html"> Full Text</a>
@@ -118,7 +118,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 03, 2023
+June 03, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux Ransomware Strain BlackSuit Shows Striking Similarities to Royal<a href="https://thehackernews.com/2023/06/new-linux-ransomware-strain-blacksuit.html"> Full Text</a>
@@ -134,7 +134,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 03, 2023
+June 03, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud Security Tops Concerns for Cybersecurity Leaders: EC-Council's Certified CISO Hall of Fame Report 2023<a href="https://thehackernews.com/2023/06/cloud-security-tops-concerns-for.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2023
+June 3, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DogeRAT Malware Eyes Banking and Entertainment Sectors<a href="https://cyware.com/news/dogerat-malware-eyes-banking-and-entertainment-sectors-a720b704"> Full Text</a>
@@ -166,7 +166,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 03, 2023
+June 03, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC Slams Amazon with $30.8M Fine for Privacy Violations Involving Alexa and Ring<a href="https://thehackernews.com/2023/06/ftc-slams-amazon-with-308m-fine-for.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2023
+June 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Barracuda ESG Zero-Day Flaw to Backdoor Malware<a href="https://cyware.com/news/hackers-exploit-barracuda-esg-zero-day-flaw-to-backdoor-malware-7f1cec8d"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2023
+June 3, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kimsuky APT poses as journalists and broadcast writers in its attacks<a href="https://securityaffairs.com/147014/apt/north-korea-kimsuky-advisory.html"> Full Text</a>
@@ -215,7 +215,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2023
+June 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat actors can exfiltrate data from Google Drive without leaving a trace<a href="https://www.helpnetsecurity.com/2023/06/01/data-exfiltration-google-drive/?&web_view=true"> Full Text</a>
@@ -231,7 +231,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2023
+June 3, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Linux Ransomware BlackSuit is similar to Royal ransomware<a href="https://securityaffairs.com/147002/cyber-crime/blacksuit-similar-royal-ransomware.html"> Full Text</a>

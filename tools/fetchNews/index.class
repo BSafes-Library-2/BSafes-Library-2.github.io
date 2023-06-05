@@ -34,6 +34,220 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BlackSuit Ransomware Exhibit Striking Similarities With Royal<a href="https://cyware.com/news/new-blacksuit-ransomware-exhibit-striking-similarities-with-royal-f90d6997"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro examined and uncovered “an extremely high degree of similarity” between the recently surfaced BlackSuit group and the Royal ransomware group. They share approximately 98% similarity in functions, 99.5% similarity in code blocks, and 98.9% similarity in jump instructions, as witnessed on ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 422 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/147059/breaking-news/security-affairs-newsletter-round-422.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+Xplain...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Void Rabisu Group Uses RomCom for Geopolitical Attacks<a href="https://cyware.com/news/void-rabisu-group-uses-romcom-for-geopolitical-attacks-c4278726"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers shed light on evolving objectives of the Void Rabisu hacking group as they uncovered a campaign that used a fake version of the Ukrainian army’s Delta situational awareness website to lure targets into installing the RomCom backdoor. While their previous operations were centered on data ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xplain hack impacted the Swiss cantonal police and Fedpol<a href="https://securityaffairs.com/147047/data-breach/fedpol-swiss-police-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Swiss cantonal police, the army, customs and the Federal Office of Police (Fedpol) were impacted by the attack against IT firm Xplain. 
+Swiss police launched an investigation into the cyber attack that hit the Bernese IT company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel published guidance for protecting devices from ongoing attacks<a href="https://securityaffairs.com/147030/security/zyxel-guidance-firewall-hardening.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has published guidance for protecting firewall and VPN devices from the ongoing attacks recently discovered.
+Zyxel has published guidance for protecting firewall and VPN devices from ongoing attacks exploiting  CVE-2023-28771, CVE-2023-33009,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux Ransomware Strain BlackSuit Shows Striking Similarities to Royal<a href="https://thehackernews.com/2023/06/new-linux-ransomware-strain-blacksuit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of the Linux variant of a new ransomware strain called BlackSuit has covered significant similarities with another ransomware family called  Royal . Trend Micro, which examined an x64 VMware ESXi version targeting Linux machines, said it identified an "extremely high degree of similarity" between Royal and BlackSuit. "In fact, they're nearly identical, with 98% similarities in functions, 99.5% similarities in blocks, and 98.9% similarities in jumps based on BinDiff, a comparison tool for binary files," Trend Micro researchers  noted . A comparison of the Windows artifacts has identified 93.2% similarity in functions, 99.3% in basic blocks, and 98.4% in jumps based on BinDiff. BlackSuit  first came to light  in early  May 2023  when Palo Alto Networks Unit 42 drew attention to its ability to target both Windows and Linux hosts. In line with other ransomware groups, it runs a double extortion scheme that steals and encrypts sensitive data in a c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Security Tops Concerns for Cybersecurity Leaders: EC-Council's Certified CISO Hall of Fame Report 2023<a href="https://thehackernews.com/2023/06/cloud-security-tops-concerns-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A survey of global cybersecurity leaders through the 2023 Certified CISO Hall of Fame Report commissioned by the EC-Council identified 4 primary areas of grave concern: cloud security, data security, security governance, and lack of cybersecurity talent. EC-Council, the global leader in cybersecurity education and training, released its Certified Chief Information Security Officer Hall of Fame Report today, honoring the top 50 Certified CISOs globally. This report reveals that approximately 50% of surveyed information security leaders identified cloud security as their top concern. Findings from the report suggest the top cybersecurity concerns with which organizations struggle and highlight the need for implementing robust security frameworks with skilled cybersecurity professionals to effectively contain emerging threats. On average, an enterprise uses approximately 1,295 cloud services, while an employee uses at least 36 cloud-based services daily. Cloud security risk is real for
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DogeRAT Malware Eyes Banking and Entertainment Sectors<a href="https://cyware.com/news/dogerat-malware-eyes-banking-and-entertainment-sectors-a720b704"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android malware threat was discovered targeting users primarily located in India. Named DogeRAT, the malware is distributed through social media and messaging platforms disguised as Opera Mini, OpenAI ChatGPT, and premium versions of Netflix and YouTube. It can gain unauthorized access to a u ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 03, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Slams Amazon with $30.8M Fine for Privacy Violations Involving Alexa and Ring<a href="https://thehackernews.com/2023/06/ftc-slams-amazon-with-308m-fine-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) has fined Amazon a cumulative $30.8 million over a series of privacy lapses regarding its Alexa assistant and Ring security cameras. This comprises a $25 million penalty for breaching children's privacy laws by retaining their Alexa voice recordings for indefinite time periods and preventing parents from exercising their deletion rights. "Amazon's history of misleading parents, keeping children's recordings indefinitely, and flouting parents' deletion requests violated  COPPA  and sacrificed privacy for profits," FTC's Samuel Levine said. As part of the court order, the retail giant has been mandated to delete the collected information, including inactive child accounts, geolocation data, and voice recordings, and prohibited from gathering such data to train its algorithms. It's also required to disclose to customers its data retention practices. Amazon has also agreed to fork out an additional $5.8 million
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Barracuda ESG Zero-Day Flaw to Backdoor Malware<a href="https://cyware.com/news/hackers-exploit-barracuda-esg-zero-day-flaw-to-backdoor-malware-7f1cec8d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Barracuda has disclosed information about a recent attack campaign that exploits a zero-day vulnerability in its ESG appliances to deploy three different malware strains. The CISA added the flaw to its KEV catalog last week, urging federal agencies to apply the patches by June 16.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky APT poses as journalists and broadcast writers in its attacks<a href="https://securityaffairs.com/147014/apt/north-korea-kimsuky-advisory.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT group Kimsuky is posing as journalists to gather intelligence, a joint advisory from NSA and FBI warns.
+A joint advisory from the FBI, the U.S. Department of State, the National Security Agency (NSA), South Korea’s National...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors can exfiltrate data from Google Drive without leaving a trace<a href="https://www.helpnetsecurity.com/2023/06/01/data-exfiltration-google-drive/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Workspace (formerly G Suite) has a weak spot that can prevent the discovery of data exfiltration from Google Drive by a malicious outsider or insider, Mitiga researchers say.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Linux Ransomware BlackSuit is similar to Royal ransomware<a href="https://securityaffairs.com/147002/cyber-crime/blacksuit-similar-royal-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts noticed that the new Linux ransomware BlackSuit has significant similarities with the Royal ransomware family.
+Royal ransomware is one of the most notable ransomware families of 2022, it made the headlines in early May 2023 with the attack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

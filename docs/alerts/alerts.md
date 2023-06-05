@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2023 - FBI, NSA, NIS, NPA, MOFA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea Using Social Engineering to Enable Hacking of Think Tanks, Academia, and Media  <a href="https://media.defense.gov/2023/Jun/01/2003234055/-1/-1/0/JOINT_CSA_DPRK_SOCIAL_ENGINEERING.PDF"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI), the U.S. Department of State, and the National Security Agency (NSA), together with the Republic of Korea’s National Intelligence Service (NIS), National Police Agency (NPA), and Ministry of Foreign Affairs (MOFA), are jointly issuing this advisory to highlight the use of social engineering by Democratic People’s Republic of Korea (DPRK a.k.a. North Korea) state-sponsored cyber actors to enable computer network exploitation (CNE) globally against individuals employed by research centers and think tanks, academic institutions, and news media organizations. These North Korean cyber actors are known to conduct spearphishing campaigns posing as real journalists, academics, or other individuals with credible links to North Korean policy circles. The DPRK employs social engineering to collect intelligence on geopolitical events, foreign policy strategies, and diplomatic efforts affecting its interests by gaining illicit access to the private documents, research, and communications of their targets.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 1, 2023 - NSA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

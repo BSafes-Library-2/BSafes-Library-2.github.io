@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky APT poses as journalists and broadcast writers in its attacks<a href="https://securityaffairs.com/147014/apt/north-korea-kimsuky-advisory.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT group Kimsuky is posing as journalists to gather intelligence, a joint advisory from NSA and FBI warns.
+A joint advisory from&nbsp;the FBI, the U.S. Department of State, the National Security Agency (NSA), South Korea’s National...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

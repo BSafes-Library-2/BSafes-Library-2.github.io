@@ -8,6 +8,36 @@ nav_order: 900072
 
 ## General
 ---
+June 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 422 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/147059/breaking-news/security-affairs-newsletter-round-422.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+Xplain...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Security Tops Concerns for Cybersecurity Leaders: EC-Council's Certified CISO Hall of Fame Report 2023<a href="https://thehackernews.com/2023/06/cloud-security-tops-concerns-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A survey of global cybersecurity leaders through the 2023 Certified CISO Hall of Fame Report commissioned by the EC-Council identified 4 primary areas of grave concern: cloud security, data security, security governance, and lack of cybersecurity talent. EC-Council, the global leader in cybersecurity education and training, released its Certified Chief Information Security Officer Hall of Fame Report today, honoring the top 50 Certified CISOs globally. This report reveals that approximately 50% of surveyed information security leaders identified cloud security as their top concern. Findings from the report suggest the top cybersecurity concerns with which organizations struggle and highlight the need for implementing robust security frameworks with skilled cybersecurity professionals to effectively contain emerging threats. On average, an enterprise uses approximately 1,295 cloud services, while an employee uses at least 36 cloud-based services daily. Cloud security risk is real for
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

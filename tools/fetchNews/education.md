@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Importance of Managing Your Data Security Posture<a href="https://thehackernews.com/2023/06/the-importance-of-managing-your-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data security is reinventing itself. As new data security posture management solutions come to market, organizations are increasingly recognizing the opportunity to provide evidence-based security that proves how their data is being protected. But what exactly is data security posture, and how do you manage it?&nbsp; Data security posture management &nbsp;(DSPM) became mainstream following the publication of Gartner® Cool Vendors™ in Data Security—Secure and Accelerate Advanced Use Cases. In that&nbsp; report , Gartner1 seems to have kicked off the popular use of the data security posture management term and massive investment in this space by every VC. Since that report, Gartner has identified at least 16 DSPM vendors, including Symmetry Systems. What is Data Security Posture? There certainly is a lot being marketed and published about data security posture management solutions themselves, but we first wanted to dig into what is data security posture?&nbsp; Symmetry Systems defines data security pos
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
