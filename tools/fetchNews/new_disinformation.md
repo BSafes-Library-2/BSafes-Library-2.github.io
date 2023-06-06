@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+June 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new wave of sophisticated digital fraud hits Europe<a href="https://www.helpnetsecurity.com/2023/06/05/forced-verification-digital-fraud/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forced verification and deepfake cases multiply at alarming rates in the UK and continental Europe, according to Sumsub. In Germany alone, forced verification grew by 1500% as a proportion of all fraud cases to 5% of all fraud in Q1 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

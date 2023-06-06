@@ -8,6 +8,36 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of a surge of TrueBot activity in May 2023<a href="https://securityaffairs.com/147082/cyber-crime/truebot-spike-may-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware’s Carbon Black Managed Detection and Response (MDR) team observed a surge of TrueBot activity in May 2023.
+Researchers at VMware’s Carbon Black Managed Detection and Response (MDR) team warn of a surge of TrueBot activity in May 2023.
+Truebot...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alarming Surge in TrueBot Activity Revealed with New Delivery Vectors<a href="https://thehackernews.com/2023/06/alarming-surge-in-truebot-activity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A surge in TrueBot activity was observed in May 2023, cybersecurity researchers disclosed. "TrueBot is a downloader trojan botnet that uses command and control servers to collect information on compromised systems and uses that compromised system as a launching point for further attacks," VMware's Fae Carlisle&nbsp; said . Active since at least 2017, TrueBot is linked to a group known as Silence that's believed to share overlaps with the notorious Russian cybercrime actor known as&nbsp; Evil Corp . Recent&nbsp; TrueBot infections &nbsp;have leveraged a critical flaw in Netwrix auditor ( CVE-2022-31199 , CVSS score: 9.8) as well as&nbsp; Raspberry Robin &nbsp;as delivery vectors. The attack chain documented by VMware, on the other hand, starts off with a drive-by-download of an executable named " update.exe " from Google Chrome, suggesting that users are lured into downloading the malware under the pretext of a software update. Once run, update.exe establishes connections with a k
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

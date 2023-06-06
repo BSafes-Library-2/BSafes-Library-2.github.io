@@ -8,6 +8,50 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft blames Clop ransomware gang for ‘MOVEit Transfer’ attacks<a href="https://securityaffairs.com/147093/hacking/clop-ransomware-moveit-transfer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft attributes the recent campaign exploiting a zero-day in the MOVEit Transfer platform to the Clop ransomware gang.
+The Clop ransomware gang (aka Lace Tempest) is credited by Microsoft for the recent campaign that exploits a zero-day vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian Cybercriminals Using LOLBaS and CMD Scripts to Drain Bank Accounts<a href="https://thehackernews.com/2023/06/brazilian-cybercriminals-using-lolbas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown cybercrime threat actor has been observed targeting Spanish- and Portuguese-speaking victims to compromise online banking accounts in Mexico, Peru, and Portugal. "This threat actor employs tactics such as LOLBaS (living-off-the-land binaries and scripts), along with CMD-based scripts to carry out its malicious activities," the BlackBerry Research and Intelligence Team&nbsp; said &nbsp;in a report published last week. The cybersecurity company attributed the campaign, dubbed Operation CMDStealer , to a Brazilian threat actor based on an analysis of the artifacts. The attack chain primarily leverages social engineering, banking on Portuguese and Spanish emails containing tax- or traffic violation-themed lures to trigger the infections and gain unauthorized access to victims' systems. The emails come fitted with an HTML attachment that contains obfuscated code to fetch the next-stage payload from a remote server in the form of a RAR archive file. The files, which are
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish bank Globalcaja confirms Play ransomware attack<a href="https://securityaffairs.com/147073/cyber-crime/globalcaja-confirms-play-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Play ransomware group claims responsibility for a ransomware attack that hit Globalcaja, one of the major banks in Spain.
+Globalcaja is a financial institution in the autonomous community of Castilla-La Mancha, it has more than 300 offices across...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KeePass fixed the bug that allows the extraction of the cleartext master password<a href="https://securityaffairs.com/147109/security/keepass-fixed-the-bug-that-allows-the-extraction-of-the-cleartext-master-password.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KeePass addressed the CVE-2023-32784 bug that allows the extraction of the cleartext master password from the memory of the client.
+KeePass has addressed the CVE-2023-32784 vulnerability, which allowed the retrieval of the clear-text master password...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gigabyte Rolls Out BIOS Updates to Remove Backdoor From Motherboards<a href="https://www.securityweek.com/gigabyte-rolls-out-bios-updates-to-remove-backdoor-from-motherboards/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue, disclosed last week by firmware and hardware security company Eclypsium, is that the firmware of more than 270 Gigabyte motherboards drops a Windows binary that is executed at boot-up to fetch and execute a payload from Gigabyte’s servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

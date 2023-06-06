@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Slams Amazon with $30.8M Fine for Privacy Violations Involving Alexa and Ring<a href="https://thehackernews.com/2023/06/ftc-slams-amazon-with-308m-fine-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) has fined Amazon a cumulative $30.8 million over a series of privacy lapses regarding its Alexa assistant and Ring security cameras. This comprises a $25 million penalty for breaching children's privacy laws by retaining their Alexa voice recordings for indefinite time periods and preventing parents from exercising their deletion rights. "Amazon's history of misleading parents, keeping children's recordings indefinitely, and flouting parents' deletion requests violated&nbsp; COPPA &nbsp;and sacrificed privacy for profits," FTC's Samuel Levine said. As part of the court order, the retail giant has been mandated to delete the collected information, including inactive child accounts, geolocation data, and voice recordings, and prohibited from gathering such data to train its algorithms. It's also required to disclose to customers its data retention practices. Amazon has also agreed to fork out an additional $5.8 million
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

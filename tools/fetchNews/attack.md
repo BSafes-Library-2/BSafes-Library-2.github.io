@@ -8,6 +8,49 @@ nav_order: 900015
 
 ## Attack
 ---
+June 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Void Rabisu Group Uses RomCom for Geopolitical Attacks<a href="https://cyware.com/news/void-rabisu-group-uses-romcom-for-geopolitical-attacks-c4278726"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers shed light on evolving objectives of the Void Rabisu hacking group as they uncovered a campaign that used a fake version of the Ukrainian army’s Delta situational awareness website to lure targets into installing the RomCom backdoor. While their previous operations were centered on data ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xplain hack impacted the Swiss cantonal police and Fedpol<a href="https://securityaffairs.com/147047/data-breach/fedpol-swiss-police-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several Swiss cantonal police, the army, customs and the Federal Office of Police (Fedpol) were impacted by the attack against IT firm Xplain.&nbsp;
+Swiss police launched an investigation into the cyber attack that hit the Bernese&nbsp;IT company...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Barracuda ESG Zero-Day Flaw to Backdoor Malware<a href="https://cyware.com/news/hackers-exploit-barracuda-esg-zero-day-flaw-to-backdoor-malware-7f1cec8d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Barracuda has disclosed information about a recent attack campaign that exploits a zero-day vulnerability in its ESG appliances to deploy three different malware strains. The CISA added the flaw to its KEV catalog last week, urging federal agencies to apply the patches by June 16.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

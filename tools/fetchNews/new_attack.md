@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian cyber-op attacked ISIL with zero-click exploit<a href="https://www.theregister.com/2023/06/05/australian_cyber_offense_techniques_revealed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The documentary, BREAKING the CODE: Cyber Secrets Revealed, reveals that the Australian Signals Directorate developed three payloads it could deploy to ISIL fighters' smartphones and PCs "without ISIL having to interact with the device in any way."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Annual Report: 2024 Plans and Priorities for SaaS Security<a href="https://thehackernews.com/2023/06/the-annual-report-2024-plans-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 55% of security executives report that they have experienced a SaaS security incident in the past two years — ranging from data leaks and data breaches to SaaS ransomware and malicious apps (as seen in figures 1 and 2). Figure 1. How many organizations have experienced a SaaS security incident within the past two years The&nbsp; SaaS Security Survey Report: Plans and Priorities for 2024 , developed by CSA in conjunction with Adaptive Shield, dives into these SaaS security incidents and more. This report shares the perspective of over 1,000 CISOs and other security professionals and shines a light on SaaS risks, existing threats, and the way organizations are preparing for 2024.&nbsp; Click here to download the full report . SaaS Security Incidents Are on the Rise Anecdotally, it was clear that SaaS security incidents increased over the last year. More headlines and stories covered SaaS breaches and data leaks than ever before. However, this report provides a stunning context to those
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

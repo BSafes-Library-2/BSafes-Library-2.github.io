@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Lace Tempest Hackers Behind Active Exploitation of MOVEit Transfer App<a href="https://thehackernews.com/2023/06/microsoft-lace-tempest-hackers-behind.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has officially linked the&nbsp; ongoing active exploitation &nbsp;of a critical flaw in the Progress Software MOVEit Transfer application to a threat actor it tracks as&nbsp; Lace Tempest . "Exploitation is often followed by deployment of a web shell with data exfiltration capabilities," the Microsoft Threat Intelligence team&nbsp; said &nbsp;in a series of tweets today. "CVE-2023-34362 allows attackers to authenticate as any user." Lace Tempest, also called Storm-0950, is a ransomware affiliate that overlaps with other groups such as FIN11, TA505, and Evil Corp. It's also known to operate the Cl0p extortion site.&nbsp; The threat actor also has a track record of exploiting different zero-day flaws to siphon data and extort victims, with the group recently observed weaponizing a&nbsp; severe bug in PaperCut servers . CVE-2023-34362 relates to an SQL injection vulnerability in MOVEit Transfer that enables unauthenticated, remote attackers to gain access to the database and execute
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ransomware Group Used MOVEit Exploit to Steal Data From Dozens of Organizations<a href="https://www.securityweek.com/ransomware-group-used-moveit-exploit-to-steal-data-from-dozens-of-organizations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant has attributed the attack to UNC4857, a new threat cluster, and named the delivered webshell LemurLoot. Microsoft, on the other hand, is confident that the threat actor behind the Cl0p ransomware is responsible for the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Hidden Menace of the Terminator Antivirus Killer<a href="https://cyware.com/news/the-hidden-menace-of-the-terminator-antivirus-killer-6bfe567d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor was discovered promoting a tool called Terminator that can reportedly bypass 24 antivirus, EDR, and XDR solutions. However, Crowdstrike found that it uses a Bring Your Own Vulnerable Driver (BYOVD) attack. Presently, the vulnerable driver used by Terminator is only being identified b ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
