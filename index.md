@@ -34,6 +34,301 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scrubs & Beyond Leaks 400GB of User PII and Card Data in Plain Text<a href="https://www.hackread.com/scrubs-beyond-leaks-400gb-of-user-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The database was exposed on May 16, 2023. Researchers identified the exposure on May 25, 2023, and since then, the information has remained exposed. Currently, the server holds over 100,000 customer records, totaling 400 GB in size.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: Lace Tempest Hackers Behind Active Exploitation of MOVEit Transfer App<a href="https://thehackernews.com/2023/06/microsoft-lace-tempest-hackers-behind.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has officially linked the  ongoing active exploitation  of a critical flaw in the Progress Software MOVEit Transfer application to a threat actor it tracks as  Lace Tempest . "Exploitation is often followed by deployment of a web shell with data exfiltration capabilities," the Microsoft Threat Intelligence team  said  in a series of tweets today. "CVE-2023-34362 allows attackers to authenticate as any user." Lace Tempest, also called Storm-0950, is a ransomware affiliate that overlaps with other groups such as FIN11, TA505, and Evil Corp. It's also known to operate the Cl0p extortion site.  The threat actor also has a track record of exploiting different zero-day flaws to siphon data and extort victims, with the group recently observed weaponizing a  severe bug in PaperCut servers . CVE-2023-34362 relates to an SQL injection vulnerability in MOVEit Transfer that enables unauthenticated, remote attackers to gain access to the database and execute
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KeePass fixed the bug that allows the extraction of the cleartext master password<a href="https://securityaffairs.com/147109/security/keepass-fixed-the-bug-that-allows-the-extraction-of-the-cleartext-master-password.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KeePass addressed the CVE-2023-32784 bug that allows the extraction of the cleartext master password from the memory of the client.
+KeePass has addressed the CVE-2023-32784 vulnerability, which allowed the retrieval of the clear-text master password...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gigabyte Rolls Out BIOS Updates to Remove Backdoor From Motherboards<a href="https://www.securityweek.com/gigabyte-rolls-out-bios-updates-to-remove-backdoor-from-motherboards/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue, disclosed last week by firmware and hardware security company Eclypsium, is that the firmware of more than 270 Gigabyte motherboards drops a Windows binary that is executed at boot-up to fetch and execute a payload from Gigabyte’s servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Annual Report: 2024 Plans and Priorities for SaaS Security<a href="https://thehackernews.com/2023/06/the-annual-report-2024-plans-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 55% of security executives report that they have experienced a SaaS security incident in the past two years — ranging from data leaks and data breaches to SaaS ransomware and malicious apps (as seen in figures 1 and 2). Figure 1. How many organizations have experienced a SaaS security incident within the past two years The  SaaS Security Survey Report: Plans and Priorities for 2024 , developed by CSA in conjunction with Adaptive Shield, dives into these SaaS security incidents and more. This report shares the perspective of over 1,000 CISOs and other security professionals and shines a light on SaaS risks, existing threats, and the way organizations are preparing for 2024.  Click here to download the full report . SaaS Security Incidents Are on the Rise Anecdotally, it was clear that SaaS security incidents increased over the last year. More headlines and stories covered SaaS breaches and data leaks than ever before. However, this report provides a stunning context to those
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft blames Clop ransomware gang for ‘MOVEit Transfer’ attacks<a href="https://securityaffairs.com/147093/hacking/clop-ransomware-moveit-transfer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft attributes the recent campaign exploiting a zero-day in the MOVEit Transfer platform to the Clop ransomware gang.
+The Clop ransomware gang (aka Lace Tempest) is credited by Microsoft for the recent campaign that exploits a zero-day vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian cyber-op attacked ISIL with zero-click exploit<a href="https://www.theregister.com/2023/06/05/australian_cyber_offense_techniques_revealed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The documentary, BREAKING the CODE: Cyber Secrets Revealed, reveals that the Australian Signals Directorate developed three payloads it could deploy to ISIL fighters' smartphones and PCs "without ISIL having to interact with the device in any way."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magento, WooCommerce, WordPress, and Shopify Exploited in Web Skimmer Attack<a href="https://thehackernews.com/2023/06/magento-woocommerce-wordpress-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unearthed a new ongoing  Magecart -style web skimmer campaign that's designed to steal personally identifiable information (PII) and credit card data from e-commerce websites. A noteworthy aspect that sets it apart from other Magecart campaigns is that the hijacked sites further serve as "makeshift" command-and-control (C2) servers, using the cover to facilitate the distribution of malicious code without the knowledge of the victim sites. Web security company Akamai said it identified victims of varying sizes in North America, Latin America, and Europe, potentially putting the personal data of thousands of site visitors at risk of being harvested and sold for illicit profits. "Attackers employ a number of evasion techniques during the campaign, including obfuscating [using] Base64 and masking the attack to resemble popular third-party services, such as Google Analytics or Google Tag Manager," Akamai security researcher Roman Lv
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Idaho Hospitals hit by a cyberattack that impacted their operations<a href="https://securityaffairs.com/147089/cyber-crime/idaho-hospitals-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last week two eastern Idaho hospitals and their clinics were hit by a cyberattack that temporarily impacted their operations.
+Last week the Idaho Falls Community Hospital was hit by a cyber attack that impacted its operations. Officials at the hospital...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ransomware Group Used MOVEit Exploit to Steal Data From Dozens of Organizations<a href="https://www.securityweek.com/ransomware-group-used-moveit-exploit-to-steal-data-from-dozens-of-organizations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant has attributed the attack to UNC4857, a new threat cluster, and named the delivered webshell LemurLoot. Microsoft, on the other hand, is confident that the threat actor behind the Cl0p ransomware is responsible for the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian Cybercriminals Using LOLBaS and CMD Scripts to Drain Bank Accounts<a href="https://thehackernews.com/2023/06/brazilian-cybercriminals-using-lolbas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown cybercrime threat actor has been observed targeting Spanish- and Portuguese-speaking victims to compromise online banking accounts in Mexico, Peru, and Portugal. "This threat actor employs tactics such as LOLBaS (living-off-the-land binaries and scripts), along with CMD-based scripts to carry out its malicious activities," the BlackBerry Research and Intelligence Team  said  in a report published last week. The cybersecurity company attributed the campaign, dubbed Operation CMDStealer , to a Brazilian threat actor based on an analysis of the artifacts. The attack chain primarily leverages social engineering, banking on Portuguese and Spanish emails containing tax- or traffic violation-themed lures to trigger the infections and gain unauthorized access to victims' systems. The emails come fitted with an HTML attachment that contains obfuscated code to fetch the next-stage payload from a remote server in the form of a RAR archive file. The files, which are
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of a surge of TrueBot activity in May 2023<a href="https://securityaffairs.com/147082/cyber-crime/truebot-spike-may-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware’s Carbon Black Managed Detection and Response (MDR) team observed a surge of TrueBot activity in May 2023.
+Researchers at VMware’s Carbon Black Managed Detection and Response (MDR) team warn of a surge of TrueBot activity in May 2023.
+Truebot...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new wave of sophisticated digital fraud hits Europe<a href="https://www.helpnetsecurity.com/2023/06/05/forced-verification-digital-fraud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forced verification and deepfake cases multiply at alarming rates in the UK and continental Europe, according to Sumsub. In Germany alone, forced verification grew by 1500% as a proportion of all fraud cases to 5% of all fraud in Q1 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alarming Surge in TrueBot Activity Revealed with New Delivery Vectors<a href="https://thehackernews.com/2023/06/alarming-surge-in-truebot-activity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A surge in TrueBot activity was observed in May 2023, cybersecurity researchers disclosed. "TrueBot is a downloader trojan botnet that uses command and control servers to collect information on compromised systems and uses that compromised system as a launching point for further attacks," VMware's Fae Carlisle  said . Active since at least 2017, TrueBot is linked to a group known as Silence that's believed to share overlaps with the notorious Russian cybercrime actor known as  Evil Corp . Recent  TrueBot infections  have leveraged a critical flaw in Netwrix auditor ( CVE-2022-31199 , CVSS score: 9.8) as well as  Raspberry Robin  as delivery vectors. The attack chain documented by VMware, on the other hand, starts off with a drive-by-download of an executable named " update.exe " from Google Chrome, suggesting that users are lured into downloading the malware under the pretext of a software update. Once run, update.exe establishes connections with a k
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart campaign abuses legitimate sites to host web skimmers and act as C2<a href="https://securityaffairs.com/147061/breaking-news/magecart-campaign-abuses-legitimate-websites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ongoing Magecart web skimmer campaign abuse legitimate websites to act as makeshift command and control (C2) servers.
+Akamai researchers discovered a new ongoing Magecart web skimmer campaign aimed at stealing personally identifiable information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel published guidance for protecting devices from ongoing attacks<a href="https://securityaffairs.com/147030/security/zyxel-guidance-firewall-hardening.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has published guidance for protecting firewall and VPN devices from ongoing attacks exploiting the CVE-2023-28771, CVE-2023-33009, and CVE-2023-33010 vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish bank Globalcaja confirms Play ransomware attack<a href="https://securityaffairs.com/147073/cyber-crime/globalcaja-confirms-play-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Play ransomware group claims responsibility for a ransomware attack that hit Globalcaja, one of the major banks in Spain.
+Globalcaja is a financial institution in the autonomous community of Castilla-La Mancha, it has more than 300 offices across...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Hidden Menace of the Terminator Antivirus Killer<a href="https://cyware.com/news/the-hidden-menace-of-the-terminator-antivirus-killer-6bfe567d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor was discovered promoting a tool called Terminator that can reportedly bypass 24 antivirus, EDR, and XDR solutions. However, Crowdstrike found that it uses a Bring Your Own Vulnerable Driver (BYOVD) attack. Presently, the vulnerable driver used by Terminator is only being identified b ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 4, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
