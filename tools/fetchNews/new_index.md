@@ -34,7 +34,300 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2023
+June 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Unveils Upcoming Privacy and Security Features<a href="https://www.securityweek.com/apple-unveils-upcoming-privacy-and-security-features/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple’s Safari browser is getting an improved Private Browsing mode, which will lock when not in use, so that users can leave tabs open even if they need to step away from the device.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malware Campaign Leveraging Satacom Downloader to Steal Cryptocurrency<a href="https://thehackernews.com/2023/06/new-malware-campaign-leveraging-satacom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent malware campaign has been found to leverage  Satacom downloader  as a conduit to deploy stealthy malware capable of siphoning cryptocurrency using a rogue extension for Chromium-based browsers. "The main purpose of the malware that is dropped by the Satacom downloader is to steal BTC from the victim's account by performing web injections into targeted cryptocurrency websites," Kaspersky researchers Haim Zigel and Oleg Kupreev  said . Targets of the campaign include Coinbase, Bybit, KuCoin, Huobi, and Binance users primarily located in Brazil, Algeria, Turkey, Vietnam, Indonesia, India, Egypt, and Mexico. Satacom downloader, also called  Legion Loader , first emerged in 2019 as a dropper for next-stage payloads, including information stealers and cryptocurrency miners. Infection chains involving the malware begin when users searching for cracked software are redirected to bogus websites that host ZIP archive files containing the malware. "Various types
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NASA website flaw jeopardizes astrobiology fans<a href="https://securityaffairs.com/147150/security/nasa-website-flaw-jeopardizes-astrobiology-fans.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in NASA website dedicated to astrobiology could have tricked users into visiting malicious websites by disguising a dangerous URL with NASA’s name.
+Space travel is undoubtedly dangerous. And, apparently, so is visiting NASA ’s legitimate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Augusta not in contact with ransomware group behind attack, mayor says<a href="https://therecord.media/augusta-georgia-no-contact-with-ransomware-attacker?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a statement on Friday, the office of Augusta Mayor Garnett Johnson said it has continued to work with the city’s IT team and outside security specialists to address the cyberattack that started on May 21.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 60K Adware Apps Posing as Cracked Versions of Popular Apps Target Android Devices<a href="https://thehackernews.com/2023/06/over-60k-adware-apps-posing-as-cracked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of adware apps for Android have been found to masquerade as cracks or modded versions of popular apps to redirect users to serve unwanted ads to users as part of a campaign ongoing since October 2022. "The campaign is designed to aggressively push adware to Android devices with the purpose to drive revenue," Bitdefender said in a technical report shared with The Hacker News. "However, the threat actors involved can easily switch tactics to  redirect users to other types of malware such as banking Trojans to steal credentials and financial information or ransomware." The Romanian cybersecurity company said it has discovered 60,000 unique apps carrying the adware, with a majority of the detections located in the U.S., South Korea, Brazil, Germany, the U.K., France, Kazakhstan, Romania, and Italy. It's worth pointing out that none of the apps are distributed through the official Google Play Store. Instead, users searching for apps like Netflix, PDF
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole around $35 million in Atomic Wallet security breach<a href="https://securityaffairs.com/147141/digital-id/atomic-wallet-security-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have stolen more than $35 million from the decentralized cryptocurrency wallet platform Atomic Wallet.
+Atomic Wallet is a multi-currency cryptocurrency wallet that allows users to securely store, manage, and exchange various digital...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals target C-suite, family members with sophisticated attacks<a href="https://www.cybersecuritydive.com/news/cybercriminals-target-c-suite/652052/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior corporate executives are increasingly being targeted by sophisticated cyberattacks that target their corporate and home office environments and even extend to family members, according to a study from BlackCloak and Ponemon Institute.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Reasons Why IT Security Tools Don't Work For OT<a href="https://thehackernews.com/2023/06/5-reasons-why-it-security-tools-dont.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attacks on critical infrastructure and other OT systems are on the rise as digital transformation and OT/IT convergence continue to accelerate. Water treatment facilities, energy providers, factories, and chemical plants — the infrastructure that undergirds our daily lives could all be at risk. Disrupting or manipulating OT systems stands to pose real physical harm to citizens, environments, and economies. Yet the landscape of OT security tools is far less developed than its information technology (IT) counterpart. According to a recent  report from Takepoint Research and Cyolo , there is a notable lack of confidence in the tools commonly used to secure remote access to industrial environments.  Figure 1: New research reveals a large gap across industries between the level of concern about security risks and the level of confidence in existing solutions for industrial secure remote access (I-SRA). The traditional security strategy of industrial environments was isolation – isolatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed the third Chrome zero-day of 2023<a href="https://securityaffairs.com/147137/hacking/chrome-zero-day-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released security updates to address a high-severity zero-day flaw in the Chrome web browser that it actively exploited in the wild.
+Google released security updates to address a high-severity vulnerability, tracked as CVE-2023-3079, in its Chrome...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verizon 2023 DBIR: Human Error Involved in Many Breaches, Ransomware Cost Surges<a href="https://www.securityweek.com/verizon-2023-dbir-human-error-involved-in-many-breaches-ransomware-cost-surges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware accounted for 24% of cybersecurity incidents analyzed by Verizon. The company saw the number of ransomware attacks being higher in the past two years than in the previous five years combined.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Alert: Google Issues Patch for New Chrome Vulnerability - Update Now!<a href="https://thehackernews.com/2023/06/zero-day-alert-google-issues-patch-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday released security updates to patch a high-severity flaw in its Chrome web browser that it said is being actively exploited in the wild. Tracked as  CVE-2023-3079 , the vulnerability has been described as a type confusion bug in the V8 JavaScript engine. Clement Lecigne of Google's Threat Analysis Group (TAG) has been credited with reporting the issue on June 1, 2023. "Type confusion in V8 in Google Chrome prior to 114.0.5735.110 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page,"  according  to the NIST's National Vulnerability Database (NVD). The tech giant, as is typically the case, did not disclose details of the nature of the attacks, but  noted  it's "aware that an exploit for CVE-2023-3079 exists in the wild." With the latest development, Google has addressed a total of three actively exploited zero-days in Chrome since the start of the year - CVE-2023-2033  (CVSS score: 8.8) - Type Co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyclops Ransomware group offers a multiplatform Info Stealer<a href="https://securityaffairs.com/147127/cyber-crime/cyclops-ransomware-gang-info-stealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from security firm Uptycs reported that threat actors linked to the Cyclops ransomware are offering a Go-based information stealer.
+The Cyclops group has developed multi-platform ransomware that can infect Windows, Linux, and macOS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Impulse Team Ran Years-Long Mostly-Undetected Cryptocurrency Scam<a href="https://www.trendmicro.com/en_us/research/23/f/impulse-team-massive-cryptocurrency-scam.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scam works via an advanced fee fraud, tricking victims into believing they've won cryptocurrency rewards but requiring them to pay a small activation fee to access their rewards.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyclops Ransomware Gang Offers Go-Based Info Stealer to Cybercriminals<a href="https://thehackernews.com/2023/06/cyclops-ransomware-gang-offers-go-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors associated with the  Cyclops ransomware  have been observed offering an information stealer malware that's designed to capture sensitive data from infected hosts. "The threat actor behind this [ransomware-as-a-service] promotes its offering on forums," Uptycs  said  in a new report. "There it requests a share of profits from those engaging in malicious activities using its malware." Cyclops ransomware is notable for targeting all major desktop operating systems, including Windows, macOS, and Linux. It's also designed to terminate any potential processes that could interfere with encryption. The macOS and Linux versions of Cyclops ransomware are written in Golang. The ransomware further employs a complex encryption scheme that's a mix of asymmetric and symmetric encryption. The Go-based stealer, for its part, is designed to target Windows and Linux systems, capturing details such as operating system information, computer name, number o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Airways, BBC and Boots were impacted the by Zellis data breach<a href="https://securityaffairs.com/147119/data-breach/zellis-data-breach-bbc-ba.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BBC and British Airways were both impacted by the data breach suffered by the payroll provider Zellis.
+As a result of the cyber attack on the payroll provider Zellis, the personal data of employees at the BBC and British Airways has been compromised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NATO: Military cyber defenders need to be present on networks during peacetime<a href="https://therecord.media/nato-peacetime-cyberdefense-david-van-weel-cycon?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+David van Weel, NATO’s assistant secretary general for emerging security challenges, told the 15th annual International Conference on Cyber Conflict (CyCon) that NATO members will begin recognizing cyberspace as “a permanently contested environment.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese PostalFurious Gang Strikes UAE Users with Sneaky SMS Phishing Scheme<a href="https://thehackernews.com/2023/06/chinese-postalfurious-gang-strikes-uae.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking phishing gang dubbed  PostalFurious  has been linked to a new SMS campaign that's targeting users in the U.A.E. by masquerading as postal services and toll operators, per Group-IB. The fraudulent scheme entails sending users bogus text messages asking them to pay a vehicle trip fee to avoid additional fines. The messages also contain a shortened URL to conceal the actual phishing link. Clicking on the link directs the unsuspecting recipients to a fake landing page that's designed to capture payment credentials and personal data. The campaign is estimated to be active as of April 15, 2023. "The URLs from the texts lead to fake branded payment pages that ask for personal details, such as name, address, and credit card information," Group-IB  said . "The phishing pages appropriate the official name and logo of the impersonated postal service provider." The exact scale of the attacks is currently unknown. What's known is that the tex
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Firewalls Under Attack! Urgent Patching Required<a href="https://thehackernews.com/2023/06/zyxel-firewalls-under-attack-urgent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday  placed  two recently disclosed flaws in Zyxel firewalls to its Known Exploited Vulnerabilities ( KEV ) catalog, based on evidence of active exploitation. The vulnerabilities, tracked as  CVE-2023-33009 and CVE-2023-33010 , are buffer overflow vulnerabilities that could enable an unauthenticated attacker to cause a denial-of-service (DoS) condition and remote code execution. Patches to plug the security holes were released by Zyxel on May 24, 2023. The following list of devices are affected - ATP (versions ZLD V4.32 to V5.36 Patch 1, patched in ZLD V5.36 Patch 2) USG FLEX (versions ZLD V4.50 to V5.36 Patch 1, patched in ZLD V5.36 Patch 2) USG FLEX50(W) / USG20(W)-VPN (versions ZLD V4.25 to V5.36 Patch 1, patched in ZLD V5.36 Patch 2) VPN (versions ZLD V4.30 to V5.36 Patch 1, patched in ZLD V5.36 Patch 2), and ZyWALL/USG (versions ZLD V4.25 to V4.73 Patch 1, patched in ZLD V4.73 Patch 2) While the exa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scrubs & Beyond Leaks 400GB of User PII and Card Data in Plain Text<a href="https://www.hackread.com/scrubs-beyond-leaks-400gb-of-user-data/?&web_view=true"> Full Text</a>
@@ -50,7 +343,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2023
+June 05, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: Lace Tempest Hackers Behind Active Exploitation of MOVEit Transfer App<a href="https://thehackernews.com/2023/06/microsoft-lace-tempest-hackers-behind.html"> Full Text</a>
@@ -66,7 +359,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2023
+June 5, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KeePass fixed the bug that allows the extraction of the cleartext master password<a href="https://securityaffairs.com/147109/security/keepass-fixed-the-bug-that-allows-the-extraction-of-the-cleartext-master-password.html"> Full Text</a>
@@ -83,7 +376,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2023
+June 5, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gigabyte Rolls Out BIOS Updates to Remove Backdoor From Motherboards<a href="https://www.securityweek.com/gigabyte-rolls-out-bios-updates-to-remove-backdoor-from-motherboards/?&web_view=true"> Full Text</a>
@@ -99,7 +392,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2023
+June 05, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Annual Report: 2024 Plans and Priorities for SaaS Security<a href="https://thehackernews.com/2023/06/the-annual-report-2024-plans-and.html"> Full Text</a>
@@ -115,7 +408,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2023
+June 5, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft blames Clop ransomware gang for ‘MOVEit Transfer’ attacks<a href="https://securityaffairs.com/147093/hacking/clop-ransomware-moveit-transfer.html"> Full Text</a>
@@ -132,7 +425,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2023
+June 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian cyber-op attacked ISIL with zero-click exploit<a href="https://www.theregister.com/2023/06/05/australian_cyber_offense_techniques_revealed/?&web_view=true"> Full Text</a>
@@ -148,7 +441,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2023
+June 05, 2023 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magento, WooCommerce, WordPress, and Shopify Exploited in Web Skimmer Attack<a href="https://thehackernews.com/2023/06/magento-woocommerce-wordpress-and.html"> Full Text</a>
@@ -164,7 +457,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2023
+June 5, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Idaho Hospitals hit by a cyberattack that impacted their operations<a href="https://securityaffairs.com/147089/cyber-crime/idaho-hospitals-cyber-attacks.html"> Full Text</a>
@@ -181,7 +474,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2023
+June 5, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Ransomware Group Used MOVEit Exploit to Steal Data From Dozens of Organizations<a href="https://www.securityweek.com/ransomware-group-used-moveit-exploit-to-steal-data-from-dozens-of-organizations/?&web_view=true"> Full Text</a>
@@ -197,7 +490,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2023
+June 05, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brazilian Cybercriminals Using LOLBaS and CMD Scripts to Drain Bank Accounts<a href="https://thehackernews.com/2023/06/brazilian-cybercriminals-using-lolbas.html"> Full Text</a>
@@ -213,7 +506,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2023
+June 5, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of a surge of TrueBot activity in May 2023<a href="https://securityaffairs.com/147082/cyber-crime/truebot-spike-may-2023.html"> Full Text</a>
@@ -231,7 +524,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2023
+June 5, 2023 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new wave of sophisticated digital fraud hits Europe<a href="https://www.helpnetsecurity.com/2023/06/05/forced-verification-digital-fraud/?&web_view=true"> Full Text</a>
@@ -247,7 +540,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 05, 2023
+June 05, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alarming Surge in TrueBot Activity Revealed with New Delivery Vectors<a href="https://thehackernews.com/2023/06/alarming-surge-in-truebot-activity.html"> Full Text</a>
@@ -263,7 +556,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2023
+June 5, 2023 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magecart campaign abuses legitimate sites to host web skimmers and act as C2<a href="https://securityaffairs.com/147061/breaking-news/magecart-campaign-abuses-legitimate-websites.html"> Full Text</a>
@@ -280,7 +573,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2023
+June 5, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel published guidance for protecting devices from ongoing attacks<a href="https://securityaffairs.com/147030/security/zyxel-guidance-firewall-hardening.html?&web_view=true"> Full Text</a>
@@ -296,7 +589,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2023
+June 5, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spanish bank Globalcaja confirms Play ransomware attack<a href="https://securityaffairs.com/147073/cyber-crime/globalcaja-confirms-play-ransomware-attack.html"> Full Text</a>
@@ -313,7 +606,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2023
+June 5, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Hidden Menace of the Terminator Antivirus Killer<a href="https://cyware.com/news/the-hidden-menace-of-the-terminator-antivirus-killer-6bfe567d"> Full Text</a>
