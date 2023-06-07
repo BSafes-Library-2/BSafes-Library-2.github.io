@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scrubs &amp; Beyond Leaks 400GB of User PII and Card Data in Plain Text<a href="https://www.hackread.com/scrubs-beyond-leaks-400gb-of-user-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The database was exposed on May 16, 2023. Researchers identified the exposure on May 25, 2023, and since then, the information has remained exposed. Currently, the server holds over 100,000 customer records, totaling 400 GB in size.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

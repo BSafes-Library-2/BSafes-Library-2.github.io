@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyclops Ransomware Gang Offers Go-Based Info Stealer to Cybercriminals<a href="https://thehackernews.com/2023/06/cyclops-ransomware-gang-offers-go-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors associated with the&nbsp; Cyclops ransomware &nbsp;have been observed offering an information stealer malware that's designed to capture sensitive data from infected hosts. "The threat actor behind this [ransomware-as-a-service] promotes its offering on forums," Uptycs&nbsp; said &nbsp;in a new report. "There it requests a share of profits from those engaging in malicious activities using its malware." Cyclops ransomware is notable for targeting all major desktop operating systems, including Windows, macOS, and Linux. It's also designed to terminate any potential processes that could interfere with encryption. The macOS and Linux versions of Cyclops ransomware are written in Golang. The ransomware further employs a complex encryption scheme that's a mix of asymmetric and symmetric encryption. The Go-based stealer, for its part, is designed to target Windows and Linux systems, capturing details such as operating system information, computer name, number o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900140
 
 ## Outage
 ---
+June 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Idaho Hospitals hit by a cyberattack that impacted their operations<a href="https://securityaffairs.com/147089/cyber-crime/idaho-hospitals-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last week two eastern Idaho hospitals and their clinics were hit by a cyberattack that temporarily impacted their operations.
+Last week the Idaho Falls Community Hospital was hit by a cyber attack that impacted its operations. Officials at the hospital...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

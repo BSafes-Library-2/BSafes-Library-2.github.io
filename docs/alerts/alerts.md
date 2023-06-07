@@ -31,6 +31,18 @@ FORT MEADE, Md. - The National Security Agency (NSA) is partnering with several 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30 - June 2, 2023 - NATO
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15th International Conference on Cyber Conflict: Meeting Reality <a href="https://cycon.org/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Throughout the years, the annual International Conference on Cyber Conflict, CyCon, organized by the NATO Cooperative Cyber Defence Centre of Excellence (CCDCOE), has established itself as a major multidisciplinary conference on the technical, legal, policy, strategy and military perspectives of cyber defence and security. In just over a decade, CyCon has also become a community-building event for cyber security professionals, drawing over 600 participants each spring to the Estonian capital Tallinn. CyCon proceedings are sponsored by the IEEE, ensuring the academic online publication and the standards of the research. CCDCOE produces hard copies of the proceedings and the articles will also be published on the Centre’s website.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 23, 2023 - NSA, CISA, FBI, ACSC, CCCS, NCSC-NZ, NCSC-UK
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

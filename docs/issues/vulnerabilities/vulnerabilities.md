@@ -8,6 +8,64 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NASA website flaw jeopardizes astrobiology fans<a href="https://securityaffairs.com/147150/security/nasa-website-flaw-jeopardizes-astrobiology-fans.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw in NASA website dedicated to astrobiology could have tricked users into visiting malicious websites by disguising a dangerous URL with NASA’s name.
+Space travel is undoubtedly dangerous. And, apparently, so is visiting NASA ’s legitimate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google fixed the third Chrome zero-day of 2023<a href="https://securityaffairs.com/147137/hacking/chrome-zero-day-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released security updates to address a high-severity zero-day flaw in the Chrome web browser that it actively exploited in the wild.
+Google released security updates to address a high-severity vulnerability, tracked as CVE-2023-3079, in its Chrome...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Alert: Google Issues Patch for New Chrome Vulnerability - Update Now!<a href="https://thehackernews.com/2023/06/zero-day-alert-google-issues-patch-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday released security updates to patch a high-severity flaw in its Chrome web browser that it said is being actively exploited in the wild. Tracked as&nbsp; CVE-2023-3079 , the vulnerability has been described as a type confusion bug in the V8 JavaScript engine. Clement Lecigne of Google's Threat Analysis Group (TAG) has been credited with reporting the issue on June 1, 2023. "Type confusion in V8 in Google Chrome prior to 114.0.5735.110 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page,"&nbsp; according &nbsp;to the NIST's National Vulnerability Database (NVD). The tech giant, as is typically the case, did not disclose details of the nature of the attacks, but&nbsp; noted &nbsp;it's "aware that an exploit for CVE-2023-3079 exists in the wild." With the latest development, Google has addressed a total of three actively exploited zero-days in Chrome since the start of the year - CVE-2023-2033 &nbsp;(CVSS score: 8.8) - Type Co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Firewalls Under Attack! Urgent Patching Required<a href="https://thehackernews.com/2023/06/zyxel-firewalls-under-attack-urgent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday&nbsp; placed &nbsp;two recently disclosed flaws in Zyxel firewalls to its Known Exploited Vulnerabilities ( KEV ) catalog, based on evidence of active exploitation. The vulnerabilities, tracked as&nbsp; CVE-2023-33009 and CVE-2023-33010 , are buffer overflow vulnerabilities that could enable an unauthenticated attacker to cause a denial-of-service (DoS) condition and remote code execution. Patches to plug the security holes were released by Zyxel on May 24, 2023. The following list of devices are affected - ATP (versions ZLD V4.32 to V5.36 Patch 1, patched in ZLD V5.36 Patch 2) USG FLEX (versions ZLD V4.50 to V5.36 Patch 1, patched in ZLD V5.36 Patch 2) USG FLEX50(W) / USG20(W)-VPN (versions ZLD V4.25 to V5.36 Patch 1, patched in ZLD V5.36 Patch 2) VPN (versions ZLD V4.30 to V5.36 Patch 1, patched in ZLD V5.36 Patch 2), and ZyWALL/USG (versions ZLD V4.25 to V4.73 Patch 1, patched in ZLD V4.73 Patch 2) While the exa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NATO: Military cyber defenders need to be present on networks during peacetime<a href="https://therecord.media/nato-peacetime-cyberdefense-david-van-weel-cycon?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+David van Weel, NATO’s assistant secretary general for emerging security challenges, told the 15th annual International Conference on Cyber Conflict (CyCon) that NATO members will begin recognizing cyberspace as “a permanently contested environment.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals target C-suite, family members with sophisticated attacks<a href="https://www.cybersecuritydive.com/news/cybercriminals-target-c-suite/652052/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior corporate executives are increasingly being targeted by sophisticated cyberattacks that target their corporate and home office environments and even extend to family members, according to a study from BlackCloak and Ponemon Institute.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyclops Ransomware group offers a multiplatform Info Stealer<a href="https://securityaffairs.com/147127/cyber-crime/cyclops-ransomware-gang-info-stealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from security firm Uptycs&nbsp;reported that threat actors linked to the&nbsp;Cyclops ransomware&nbsp;are offering a Go-based information stealer.
+The Cyclops group has developed multi-platform ransomware that can infect Windows, Linux, and macOS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

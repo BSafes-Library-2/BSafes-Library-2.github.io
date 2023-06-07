@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Reasons Why IT Security Tools Don't Work For OT<a href="https://thehackernews.com/2023/06/5-reasons-why-it-security-tools-dont.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attacks on critical infrastructure and other OT systems are on the rise as digital transformation and OT/IT convergence continue to accelerate. Water treatment facilities, energy providers, factories, and chemical plants — the infrastructure that undergirds our daily lives could all be at risk. Disrupting or manipulating OT systems stands to pose real physical harm to citizens, environments, and economies. Yet the landscape of OT security tools is far less developed than its information technology (IT) counterpart. According to a recent&nbsp; report from Takepoint Research and Cyolo , there is a notable lack of confidence in the tools commonly used to secure remote access to industrial environments.&nbsp; Figure 1: New research reveals a large gap across industries between the level of concern about security risks and the level of confidence in existing solutions for industrial secure remote access (I-SRA). The traditional security strategy of industrial environments was isolation – isolatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

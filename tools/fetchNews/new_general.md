@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Verizon 2023 DBIR: Human Error Involved in Many Breaches, Ransomware Cost Surges<a href="https://www.securityweek.com/verizon-2023-dbir-human-error-involved-in-many-breaches-ransomware-cost-surges/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware accounted for 24% of cybersecurity incidents analyzed by Verizon. The company saw the number of ransomware attacks being higher in the past two years than in the previous five years combined.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

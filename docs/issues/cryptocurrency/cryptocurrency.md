@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Impulse Team Ran Years-Long Mostly-Undetected Cryptocurrency Scam<a href="https://www.trendmicro.com/en_us/research/23/f/impulse-team-massive-cryptocurrency-scam.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scam works via an advanced fee fraud, tricking victims into believing they've won cryptocurrency rewards but requiring them to pay a small activation fee to access their rewards.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

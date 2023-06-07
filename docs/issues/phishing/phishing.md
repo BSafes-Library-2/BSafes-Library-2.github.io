@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 60K Adware Apps Posing as Cracked Versions of Popular Apps Target Android Devices<a href="https://thehackernews.com/2023/06/over-60k-adware-apps-posing-as-cracked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of adware apps for Android have been found to masquerade as cracks or modded versions of popular apps to redirect users to serve unwanted ads to users as part of a campaign ongoing since October 2022. "The campaign is designed to aggressively push adware to Android devices with the purpose to drive revenue," Bitdefender said in a technical report shared with The Hacker News. "However, the threat actors involved can easily switch tactics to&nbsp; redirect users to other types of malware such as banking Trojans to steal credentials and financial information or ransomware." The Romanian cybersecurity company said it has discovered 60,000 unique apps carrying the adware, with a majority of the detections located in the U.S., South Korea, Brazil, Germany, the U.K., France, Kazakhstan, Romania, and Italy. It's worth pointing out that none of the apps are distributed through the official Google Play Store. Instead, users searching for apps like Netflix, PDF
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese PostalFurious Gang Strikes UAE Users with Sneaky SMS Phishing Scheme<a href="https://thehackernews.com/2023/06/chinese-postalfurious-gang-strikes-uae.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking phishing gang dubbed&nbsp; PostalFurious &nbsp;has been linked to a new SMS campaign that's targeting users in the U.A.E. by masquerading as postal services and toll operators, per Group-IB. The fraudulent scheme entails sending users bogus text messages asking them to pay a vehicle trip fee to avoid additional fines. The messages also contain a shortened URL to conceal the actual phishing link. Clicking on the link directs the unsuspecting recipients to a fake landing page that's designed to capture payment credentials and personal data. The campaign is estimated to be active as of April 15, 2023. "The URLs from the texts lead to fake branded payment pages that ask for personal details, such as name, address, and credit card information," Group-IB&nbsp; said . "The phishing pages appropriate the official name and logo of the impersonated postal service provider." The exact scale of the attacks is currently unknown. What's known is that the tex
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

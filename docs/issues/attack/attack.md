@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Augusta not in contact with ransomware group behind attack, mayor says<a href="https://therecord.media/augusta-georgia-no-contact-with-ransomware-attacker?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a statement on Friday, the office of Augusta Mayor Garnett Johnson said it has continued to work with the city’s IT team and outside security specialists to address the cyberattack that started on May 21.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

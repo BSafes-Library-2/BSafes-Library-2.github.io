@@ -8,6 +8,35 @@ nav_order: 900190
 
 ## Skimming
 ---
+June 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magento, WooCommerce, WordPress, and Shopify Exploited in Web Skimmer Attack<a href="https://thehackernews.com/2023/06/magento-woocommerce-wordpress-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unearthed a new ongoing&nbsp; Magecart -style web skimmer campaign that's designed to steal personally identifiable information (PII) and credit card data from e-commerce websites. A noteworthy aspect that sets it apart from other Magecart campaigns is that the hijacked sites further serve as "makeshift" command-and-control (C2) servers, using the cover to facilitate the distribution of malicious code without the knowledge of the victim sites. Web security company Akamai said it identified victims of varying sizes in North America, Latin America, and Europe, potentially putting the personal data of thousands of site visitors at risk of being harvested and sold for illicit profits. "Attackers employ a number of evasion techniques during the campaign, including obfuscating [using] Base64 and masking the attack to resemble popular third-party services, such as Google Analytics or Google Tag Manager," Akamai security researcher Roman Lv
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magecart campaign abuses legitimate sites to host web skimmers and act as C2<a href="https://securityaffairs.com/147061/breaking-news/magecart-campaign-abuses-legitimate-websites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ongoing Magecart web skimmer campaign abuse legitimate websites to act as makeshift command and control (C2) servers.
+Akamai researchers discovered a new ongoing Magecart web skimmer campaign aimed at stealing personally identifiable information...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
