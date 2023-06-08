@@ -8,6 +8,49 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware gang claims the hack of hundreds of victims exploiting MOVEit Transfer bug<a href="https://securityaffairs.com/147195/cyber-crime/clop-ransomware-moveit-transfer-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clop ransomware group claims to have hacked hundreds of companies globally by exploiting MOVEit Transfer vulnerability.
+The Clop ransomware group may have compromised hundreds of companies worldwide by exploiting a vulnerability in MOVEit Transfer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+0mega ransomware gang changes tactics<a href="https://www.helpnetsecurity.com/2023/06/07/0mega-ransomware-gang-changes-tactics/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of ransomware gangs have stopped using malware to encrypt targets’ files and have switched to a data theft/extortion approach to get paid; 0mega – a low-profile and seemingly not very active threat actor – seems to be among them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Ransomware Group Issues Extortion Notice to ‘Hundreds’ of Victims<a href="https://therecord.media/clop-extortion-hundreds-organizations-moveit-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Potentially hundreds of companies globally are being extorted by the Clop ransomware group after it exploited a vulnerability in the file transfer tool MOVEit to break into computer networks around the world and steal sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2023
+June 7, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US, Israel Provide Guidance on Securing Remote Access Software<a href="https://www.securityweek.com/us-israel-provide-guidance-on-securing-remote-access-software/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2023
+June 07, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft to Pay $20 Million Penalty for Illegally Collecting Kids' Data on Xbox<a href="https://thehackernews.com/2023/06/microsoft-to-pay-20-million-penalty-for.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2023
+June 7, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The National Cybersecurity Strategy: Breaking a 50-Year Losing Streak<a href="https://www.lawfareblog.com/national-cybersecurity-strategy-breaking-50-year-losing-streak"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2023
+June 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware fixes a command injection flaw CVE-2023-20887 in VMware Aria Operations for Networks<a href="https://securityaffairs.com/147202/security/vmware-aria-operations-for-networks-cve-2023-20887.html"> Full Text</a>
@@ -99,7 +99,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2023
+June 7, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Traditional malware increasingly takes advantage of ChatGPT for attacks<a href="https://www.csoonline.com/article/3698518/traditional-malware-increasingly-takes-advantage-of-chatgpt-for-attacks.html#tk.rss_all?&web_view=true"> Full Text</a>
@@ -115,7 +115,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2023
+June 07, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Winning the Mind Game: The Role of the Ransomware Negotiator<a href="https://thehackernews.com/2023/06/winning-mind-game-role-of-ransomware.html"> Full Text</a>
@@ -131,7 +131,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2023
+June 7, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Path Forward for Israel Following the NSO Scandal<a href="https://www.lawfareblog.com/path-forward-israel-following-nso-scandal"> Full Text</a>
@@ -147,7 +147,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2023
+June 7, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop ransomware gang claims the hack of hundreds of victims exploiting MOVEit Transfer bug<a href="https://securityaffairs.com/147195/cyber-crime/clop-ransomware-moveit-transfer-attacks.html"> Full Text</a>
@@ -164,7 +164,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2023
+June 7, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 0mega ransomware gang changes tactics<a href="https://www.helpnetsecurity.com/2023/06/07/0mega-ransomware-gang-changes-tactics/?&web_view=true"> Full Text</a>
@@ -180,7 +180,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 07, 2023
+June 07, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PowerDrop Malware Targeting U.S. Aerospace Industry<a href="https://thehackernews.com/2023/06/new-powerdrop-malware-targeting-us.html"> Full Text</a>
@@ -196,7 +196,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2023
+June 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 June 2023 Security Update for Android fixed Arm Mali GPU bug used by spyware￼<a href="https://securityaffairs.com/147186/malware/june-2023-security-update-android-spyware.html"> Full Text</a>
@@ -213,7 +213,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2023
+June 7, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop Ransomware Group Issues Extortion Notice to ‘Hundreds’ of Victims<a href="https://therecord.media/clop-extortion-hundreds-organizations-moveit-vulnerability/?&web_view=true"> Full Text</a>
@@ -229,7 +229,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2023
+June 7, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PowerDrop malware targets U.S. aerospace defense industry<a href="https://securityaffairs.com/147168/apt/powerdrop-targets-aerospace.html"> Full Text</a>
@@ -246,7 +246,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2023
+June 7, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 When adopting security tools, less is more, Gartner says<a href="https://www.cybersecuritydive.com/news/security-tool-adoption-gartner/652150/?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2023
+June 7, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 +60,000 Android apps spotted hiding adware for past six months<a href="https://securityaffairs.com/147154/malware/60000-android-apps-adware.html"> Full Text</a>
@@ -279,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2023
+June 7, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Public sector apps show higher rates of security flaws<a href="https://www.helpnetsecurity.com/2023/06/07/public-sector-applications-flaws/?&web_view=true"> Full Text</a>
@@ -295,7 +295,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2023
+June 7, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House critical infrastructure protection order is ‘outdated’ and needs rethinking, Cyberspace Solarium Commission says<a href="https://therecord.media/critical-infrastructure-ppd21-white-house-outdated-cyberspace-solarium-commission?&web_view=true"> Full Text</a>
@@ -311,7 +311,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 7, 2023
+June 7, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Warns Against Cyberespionage Campaign Planting LonePage Malware on Targeted Systems<a href="https://www.bankinfosecurity.com/ukraine-warns-against-cyberespionage-campaign-a-22244?&web_view=true"> Full Text</a>

@@ -8,6 +8,36 @@ nav_order: 900029
 
 ## Breach
 ---
+June 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole around $35 million in Atomic Wallet security breach<a href="https://securityaffairs.com/147141/digital-id/atomic-wallet-security-incident.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have stolen more than $35 million from the decentralized cryptocurrency wallet platform Atomic Wallet.
+Atomic Wallet is a multi-currency cryptocurrency wallet that allows users to securely store, manage, and exchange various digital...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Airways, BBC and Boots were impacted the by Zellis data breach<a href="https://securityaffairs.com/147119/data-breach/zellis-data-breach-bbc-ba.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BBC and British Airways were both impacted by the data breach suffered by the payroll provider Zellis.
+As a result of the cyber attack on the payroll provider Zellis, the personal data of employees at the BBC and British Airways has been compromised...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Unveils Upcoming Privacy and Security Features<a href="https://www.securityweek.com/apple-unveils-upcoming-privacy-and-security-features/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple’s Safari browser is getting an improved Private Browsing mode, which will lock when not in use, so that users can leave tabs open even if they need to step away from the device.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

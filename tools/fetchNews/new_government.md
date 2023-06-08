@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+June 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, Israel Provide Guidance on Securing Remote Access Software<a href="https://www.securityweek.com/us-israel-provide-guidance-on-securing-remote-access-software/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Guide to Securing Remote Access Software (PDF) is authored by the CISA, the FBI, the NSA, the Multi-State Information Sharing and Analysis Center (MS-ISAC), and the Israel National Cyber Directorate (INCD).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The National Cybersecurity Strategy: Breaking a 50-Year Losing Streak<a href="https://www.lawfareblog.com/national-cybersecurity-strategy-breaking-50-year-losing-streak"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new White House strategy tackles long-standing cybersecurity problems head-on.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House critical infrastructure protection order is ‘outdated’ and needs rethinking, Cyberspace Solarium Commission says<a href="https://therecord.media/critical-infrastructure-ppd21-white-house-outdated-cyberspace-solarium-commission?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The document — 2013’s Presidential Policy Directive 21, or PPD-21 — established which agencies were responsible for steering protection of each of the 16 critical infrastructure sectors, today known as sector risk management agencies (SRMAs).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

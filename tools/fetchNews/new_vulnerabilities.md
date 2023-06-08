@@ -8,6 +8,36 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes a command injection flaw CVE-2023-20887 in VMware Aria Operations for Networks<a href="https://securityaffairs.com/147202/security/vmware-aria-operations-for-networks-cve-2023-20887.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virtualization giant VMware addressed critical and high-severity vulnerabilities in VMware Aria Operations for Networks.
+Virtualization technology giant VMware released security patches to address three critical and high-severity vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+June 2023 Security Update for Android fixed Arm Mali GPU bug used by spyware￼<a href="https://securityaffairs.com/147186/malware/june-2023-security-update-android-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+June 2023 security update for Android released by Google fixes about fifty flaws, including an Arm Mali GPU bug exploited by surveillance firms in their spyware.
+The June 2023 Android Security Bulletin provides details about the fix for more than...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winning the Mind Game: The Role of the Ransomware Negotiator<a href="https://thehackernews.com/2023/06/winning-mind-game-role-of-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Get exclusive insights from a real ransomware negotiator who shares authentic stories from network hostage situations and how he managed them. The Ransomware Industry Ransomware is an industry. As such, it has its own business logic: organizations pay money, in crypto-currency, in order to regain control over their systems and data. This industry's landscape is made up of approximately 10-20 core threat actors who originally developed the ransomware's malware. To distribute the malware, they work with affiliates and distributors who utilize widespread&nbsp; phishing attacks &nbsp;to breach organizations. Profits are distributed with approximately 70% allocated to the affiliates and 10%-30% to these developers. The use of phishing renders online-based industries, like gaming, finance and insurance, especially vulnerable.&nbsp; In addition to its financial motivations, the ransomware industry is also influenced by geo-political politics. For example, in June 2021, following the ransomware
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

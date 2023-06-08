@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft to Pay $20 Million Penalty for Illegally Collecting Kids' Data on Xbox<a href="https://thehackernews.com/2023/06/microsoft-to-pay-20-million-penalty-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has agreed to pay a penalty of $20 million to settle U.S. Federal Trade Commission (FTC) charges that the company illegally collected and retained the data of children who signed up to use its Xbox video game console without their parents' knowledge or consent. "Our proposed order makes it easier for parents to protect their children's privacy on Xbox, and limits what information Microsoft can collect and retain about kids," FTC's Samuel Levine&nbsp; said . "This action should also make it abundantly clear that kids' avatars, biometric data, and health information are not exempt from&nbsp; COPPA ." As part of the proposed settlement, which is pending court approval, Redmond has been ordered to update its account creation process for children to prevent the collection and storage of data, including obtaining parental consent and deleting said information within two weeks if approval is not obtained. The privacy protections also extend to third-par
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

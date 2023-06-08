@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2023 - CISA, NSA, FBI, MS-ISAC, Cyber Israel 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GUIDE TO SECURING REMOTE ACCESS SOFTWARE <a href="https://www.cisa.gov/sites/default/files/2023-06/Guide%20to%20Securing%20Remote%20Access%20Software_508c.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote access software and tools comprise a broad array of capabilities used to maintain and improve IT, operational technology (OT), and industrial control systems (ICS) services; they allow a proactive and flexible approach for organizations to remotely oversee networks, computers, and other devices.  Remote access software, including remote administration solutions and remote monitoring and management (RMM), enables managed service providers (MSPs), software-as-a-service (SaaS) providers, IT help desks, and other network administrators to remotely perform several functions, including gathering data on network and device health, automating maintenance, PC setup and configuration, remote recovery and backup, and patch management.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 1, 2023 - FBI, NSA, NIS, NPA, MOFA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,299 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, Israel Provide Guidance on Securing Remote Access Software<a href="https://www.securityweek.com/us-israel-provide-guidance-on-securing-remote-access-software/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Guide to Securing Remote Access Software (PDF) is authored by the CISA, the FBI, the NSA, the Multi-State Information Sharing and Analysis Center (MS-ISAC), and the Israel National Cyber Directorate (INCD).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft to Pay $20 Million Penalty for Illegally Collecting Kids' Data on Xbox<a href="https://thehackernews.com/2023/06/microsoft-to-pay-20-million-penalty-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has agreed to pay a penalty of $20 million to settle U.S. Federal Trade Commission (FTC) charges that the company illegally collected and retained the data of children who signed up to use its Xbox video game console without their parents' knowledge or consent. "Our proposed order makes it easier for parents to protect their children's privacy on Xbox, and limits what information Microsoft can collect and retain about kids," FTC's Samuel Levine  said . "This action should also make it abundantly clear that kids' avatars, biometric data, and health information are not exempt from  COPPA ." As part of the proposed settlement, which is pending court approval, Redmond has been ordered to update its account creation process for children to prevent the collection and storage of data, including obtaining parental consent and deleting said information within two weeks if approval is not obtained. The privacy protections also extend to third-par
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The National Cybersecurity Strategy: Breaking a 50-Year Losing Streak<a href="https://www.lawfareblog.com/national-cybersecurity-strategy-breaking-50-year-losing-streak"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new White House strategy tackles long-standing cybersecurity problems head-on.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixes a command injection flaw CVE-2023-20887 in VMware Aria Operations for Networks<a href="https://securityaffairs.com/147202/security/vmware-aria-operations-for-networks-cve-2023-20887.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virtualization giant VMware addressed critical and high-severity vulnerabilities in VMware Aria Operations for Networks.
+Virtualization technology giant VMware released security patches to address three critical and high-severity vulnerabilities,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Traditional malware increasingly takes advantage of ChatGPT for attacks<a href="https://www.csoonline.com/article/3698518/traditional-malware-increasingly-takes-advantage-of-chatgpt-for-attacks.html#tk.rss_all?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Between November 2022-April 2023, we noticed a 910% increase in monthly registrations for domains, both benign and malicious, related to ChatGPT,” according to the latest Network Threat Trends Research Report from Palo Alto Networks' Unit 42.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Winning the Mind Game: The Role of the Ransomware Negotiator<a href="https://thehackernews.com/2023/06/winning-mind-game-role-of-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Get exclusive insights from a real ransomware negotiator who shares authentic stories from network hostage situations and how he managed them. The Ransomware Industry Ransomware is an industry. As such, it has its own business logic: organizations pay money, in crypto-currency, in order to regain control over their systems and data. This industry's landscape is made up of approximately 10-20 core threat actors who originally developed the ransomware's malware. To distribute the malware, they work with affiliates and distributors who utilize widespread  phishing attacks  to breach organizations. Profits are distributed with approximately 70% allocated to the affiliates and 10%-30% to these developers. The use of phishing renders online-based industries, like gaming, finance and insurance, especially vulnerable.  In addition to its financial motivations, the ransomware industry is also influenced by geo-political politics. For example, in June 2021, following the ransomware
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Path Forward for Israel Following the NSO Scandal<a href="https://www.lawfareblog.com/path-forward-israel-following-nso-scandal"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How can Israel rebuild national and international trust in its cyber industry, and are the steps it’s currently taking enough?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware gang claims the hack of hundreds of victims exploiting MOVEit Transfer bug<a href="https://securityaffairs.com/147195/cyber-crime/clop-ransomware-moveit-transfer-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clop ransomware group claims to have hacked hundreds of companies globally by exploiting MOVEit Transfer vulnerability.
+The Clop ransomware group may have compromised hundreds of companies worldwide by exploiting a vulnerability in MOVEit Transfer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+0mega ransomware gang changes tactics<a href="https://www.helpnetsecurity.com/2023/06/07/0mega-ransomware-gang-changes-tactics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of ransomware gangs have stopped using malware to encrypt targets’ files and have switched to a data theft/extortion approach to get paid; 0mega – a low-profile and seemingly not very active threat actor – seems to be among them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 07, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PowerDrop Malware Targeting U.S. Aerospace Industry<a href="https://thehackernews.com/2023/06/new-powerdrop-malware-targeting-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor has been observed targeting the U.S. aerospace industry with a new PowerShell-based malware called PowerDrop . "PowerDrop uses advanced techniques to evade detection such as deception, encoding, and encryption," according to Adlumin, which  found the malware  implanted in an unnamed domestic aerospace defense contractor in May 2023. "The name is derived from the tool, Windows PowerShell, used to concoct the script, and 'Drop' from the DROP (DRP) string used in the code for padding." PowerDrop is also a post-exploitation tool, meaning it's designed to gather information from victim networks after obtaining initial access through other means. The malware employs Internet Control Message Protocol (ICMP) echo request messages as beacons to initiate communications with a command-and-control (C2) server. The server, for its part, responds back with an encrypted command that's decoded and run on the compromised host. A similar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+June 2023 Security Update for Android fixed Arm Mali GPU bug used by spyware￼<a href="https://securityaffairs.com/147186/malware/june-2023-security-update-android-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+June 2023 security update for Android released by Google fixes about fifty flaws, including an Arm Mali GPU bug exploited by surveillance firms in their spyware.
+The June 2023 Android Security Bulletin provides details about the fix for more than...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Ransomware Group Issues Extortion Notice to ‘Hundreds’ of Victims<a href="https://therecord.media/clop-extortion-hundreds-organizations-moveit-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Potentially hundreds of companies globally are being extorted by the Clop ransomware group after it exploited a vulnerability in the file transfer tool MOVEit to break into computer networks around the world and steal sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PowerDrop malware targets U.S. aerospace defense industry<a href="https://securityaffairs.com/147168/apt/powerdrop-targets-aerospace.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown threat actor has been observed targeting the U.S. aerospace defense sector with a new PowerShell malware dubbed PowerDrop.
+Researchers from the Adlumin Threat Research discovered a new malicious PowerShell script, dubbed PowerDrop,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When adopting security tools, less is more, Gartner says<a href="https://www.cybersecuritydive.com/news/security-tool-adoption-gartner/652150/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gartner analysts are calling for organizations to adopt a “minimum effective toolset” for enterprise security, using the fewest technologies required to observe, respond and defend against threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
++60,000 Android apps spotted hiding adware for past six months<a href="https://securityaffairs.com/147154/malware/60000-android-apps-adware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender researchers have discovered 60,000 different Android apps secretly installing adware in the past six months.
+Bitdefender announced the discovery of more than 60,000 Android apps in the past six months that were spotted installing adware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Public sector apps show higher rates of security flaws<a href="https://www.helpnetsecurity.com/2023/06/07/public-sector-applications-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The research findings from Veracode come amid a flurry of recent initiatives by the federal government to strengthen cybersecurity, including efforts to reduce vulnerabilities in applications that perform critical government functions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House critical infrastructure protection order is ‘outdated’ and needs rethinking, Cyberspace Solarium Commission says<a href="https://therecord.media/critical-infrastructure-ppd21-white-house-outdated-cyberspace-solarium-commission?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The document — 2013’s Presidential Policy Directive 21, or PPD-21 — established which agencies were responsible for steering protection of each of the 16 critical infrastructure sectors, today known as sector risk management agencies (SRMAs).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Warns Against Cyberespionage Campaign Planting LonePage Malware on Targeted Systems<a href="https://www.bankinfosecurity.com/ukraine-warns-against-cyberespionage-campaign-a-22244?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volodymyr Kondrashov, spokesperson for Ukraine's State Service of Special Communications and Information Protection tweeted Tuesday the campaign targets Microsoft Windows machines used by government agencies and media organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 6, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
