@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+June 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aix-Marseille, France’s largest university, hit by cyberattack<a href="https://therecord.media/aix-marseille-university-cyberattack-france?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The institution’s management described the attack as coming “from a foreign country” but said its security systems triggered an alert allowing them to take the network offline before “great damage” was caused.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky Targets Think Tanks and News Media with Social Engineering Attacks<a href="https://thehackernews.com/2023/06/kimsuky-targets-think-tanks-and-news.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean nation-state threat actor known as&nbsp; Kimsuky &nbsp;has been linked to a social engineering campaign targeting experts in North Korean affairs with the goal of stealing Google credentials and delivering reconnaissance malware. "Further, Kimsuky's objective extends to the theft of subscription credentials from NK News," cybersecurity firm SentinelOne&nbsp; said &nbsp;in a report shared with The Hacker News. "To achieve this, the group distributes emails that lure targeted individuals to log in on the malicious website nknews[.]pro, which masquerades as the authentic NK News site. The login form that is presented to the target is designed to capture entered credentials." NK News , established in 2011, is an American subscription-based news website that provides stories and analysis about North Korea. The disclosure comes days after U.S. and South Korean intelligence agencies&nbsp; issued an alert &nbsp;warning of Kimsuky's use of social engineering tactics to strik
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

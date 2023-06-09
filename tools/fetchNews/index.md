@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aix-Marseille, France’s largest university, hit by cyberattack<a href="https://therecord.media/aix-marseille-university-cyberattack-france?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2023
+June 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Unveil Exploit for Recent Windows Vulnerability Under Active Exploitation<a href="https://thehackernews.com/2023/06/experts-unveil-poc-exploit-for-recent.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers published PoC exploit code for actively exploited Windows elevation of privilege issue<a href="https://securityaffairs.com/147245/hacking/windows-cve-2023-29336-poc.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security professional's tweet forces big change to Google email authentication<a href="https://cyberscoop.com/security-professionals-tweet-bimi-google-gmail/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2023
+June 08, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop Ransomware Gang Likely Aware of MOVEit Transfer Vulnerability Since 2021<a href="https://thehackernews.com/2023/06/clop-ransomware-gang-likely-exploiting.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts detail a new Kimsuky social engineering campaign<a href="https://securityaffairs.com/147232/apt/kimsuky-social-engineering-campaign.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Asylum Ambuscade: crimeware or cyberespionage?<a href="https://www.welivesecurity.com/2023/06/08/asylum-ambuscade-crimeware-or-cyberespionage/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2023
+June 08, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Improve Your API Security Posture<a href="https://thehackernews.com/2023/06/how-to-improve-your-api-security-posture.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German recruiter Pflegia leaks sensitive job seeker info<a href="https://securityaffairs.com/147227/security/pflegia-leaks-sensitive-job-seeker-info.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German Recruiter Pflegia Leaks 360,000 Files Containing Sensitive Job Seeker Information<a href="https://securityaffairs.com/147227/security/pflegia-leaks-sensitive-job-seeker-info.html?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2023
+June 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Urgent Security Updates: Cisco and VMware Address Critical Vulnerabilities<a href="https://thehackernews.com/2023/06/urgent-security-updates-cisco-and.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes privilege escalation bug in Cisco Secure Client<a href="https://securityaffairs.com/147217/security/cisco-secure-client-privilege-escalation.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 API Vulnerabilities in Honda eCommerce Platform Exposed Customer, Dealer Data<a href="https://www.securityweek.com/vulnerabilities-in-honda-ecommerce-platform-exposed-customer-dealer-data/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2023
+June 08, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kimsuky Targets Think Tanks and News Media with Social Engineering Attacks<a href="https://thehackernews.com/2023/06/kimsuky-targets-think-tanks-and-news.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Barracuda ESG appliances impacted by CVE-2023-2868 must be immediately replaced<a href="https://securityaffairs.com/147211/hacking/barracuda-esg-cve-2023-2868-replacement.html"> Full Text</a>
@@ -279,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ascension Seton Reports Data Breach of Two Websites Impacting User Information<a href="https://www.kut.org/health/2023-06-07/ascension-seton-austin-hospital-data-breach?&web_view=true"> Full Text</a>
@@ -295,7 +295,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2023
+June 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Barracuda Urges Immediate Replacement of Hacked ESG Appliances<a href="https://thehackernews.com/2023/06/barracuda-urges-immediate-replacement.html"> Full Text</a>
@@ -311,7 +311,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber unicorn Snyk acquiring Israeli startup Enso Security for over $50 million<a href="https://www.calcalistech.com/ctechnews/article/r1jptg1p2?&web_view=true"> Full Text</a>
@@ -327,7 +327,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Patches Critical Vulnerability in Enterprise Collaboration Solutions<a href="https://www.securityweek.com/cisco-patches-critical-vulnerability-in-enterprise-collaboration-solutions/?&web_view=true"> Full Text</a>

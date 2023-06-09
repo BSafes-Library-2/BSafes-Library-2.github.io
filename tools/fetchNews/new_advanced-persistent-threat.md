@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts detail a new Kimsuky social engineering campaign<a href="https://securityaffairs.com/147232/apt/kimsuky-social-engineering-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT&nbsp;Kimsuky&nbsp;has been linked to a social engineering campaign aimed at experts in North Korean affairs.
+SentinelLabs researchers uncovered a social engineering campaign by the North Korea-linked APT group Kimsuky that is targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

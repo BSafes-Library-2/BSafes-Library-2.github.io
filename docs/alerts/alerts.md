@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 7, 2023 - CISA, FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI Release #StopRansomware: CL0P Ransomware Gang Exploits MOVEit Vulnerability <a href="https://www.cisa.gov/news-events/alerts/2023/06/07/cisa-and-fbi-release-stopransomware-cl0p-ransomware-gang-exploits-moveit-vulnerability"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and FBI released a joint Cybersecurity Advisory (CSA) CL0P Ransomware Gang Exploits MOVEit Vulnerability in response to a recent vulnerability exploitation attributed to CL0P Ransomware Gang. This joint guide provides indicators of compromise (IOCs) and tactics, techniques, and procedures (TTPs) identified through FBI investigations as recently as May this year. Additionally, it provides immediate actions to help reduce the impact of CL0P ransomware. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 6, 2023 - CISA, NSA, FBI, MS-ISAC, Cyber Israel 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,77 @@ nav_order: 900072
 
 ## General
 ---
+June 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Traditional malware increasingly takes advantage of ChatGPT for attacks<a href="https://www.csoonline.com/article/3698518/traditional-malware-increasingly-takes-advantage-of-chatgpt-for-attacks.html#tk.rss_all?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Between November 2022-April 2023, we noticed a 910% increase in monthly registrations for domains, both benign and malicious, related to ChatGPT,” according to the latest Network Threat Trends Research Report from Palo Alto Networks' Unit 42.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Path Forward for Israel Following the NSO Scandal<a href="https://www.lawfareblog.com/path-forward-israel-following-nso-scandal"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How can Israel rebuild national and international trust in its cyber industry, and are the steps it’s currently taking enough?
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When adopting security tools, less is more, Gartner says<a href="https://www.cybersecuritydive.com/news/security-tool-adoption-gartner/652150/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gartner analysts are calling for organizations to adopt a “minimum effective toolset” for enterprise security, using the fewest technologies required to observe, respond and defend against threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
++60,000 Android apps spotted hiding adware for past six months<a href="https://securityaffairs.com/147154/malware/60000-android-apps-adware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender researchers have discovered 60,000 different Android apps secretly installing adware in the past six months.
+Bitdefender announced the discovery of more than 60,000 Android apps in the past six months that were spotted installing adware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Public sector apps show higher rates of security flaws<a href="https://www.helpnetsecurity.com/2023/06/07/public-sector-applications-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The research findings from Veracode come amid a flurry of recent initiatives by the federal government to strengthen cybersecurity, including efforts to reduce vulnerabilities in applications that perform critical government functions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,121 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Unveil Exploit for Recent Windows Vulnerability Under Active Exploitation<a href="https://thehackernews.com/2023/06/experts-unveil-poc-exploit-for-recent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched actively exploited security flaw in Microsoft Windows that could be abused by a threat actor to gain elevated privileges on affected systems. The vulnerability, tracked as&nbsp; CVE-2023-29336 , is rated 7.8 for severity and concerns an elevation of privilege bug in the Win32k component. "An attacker who successfully exploited this vulnerability could gain SYSTEM privileges," Microsoft&nbsp; disclosed &nbsp;in an advisory issued last month as part of Patch Tuesday updates. Avast researchers Jan Vojtěšek, Milánek, and Luigino Camastra were credited with discovering and reporting the flaw. Win32k.sys is a kernel-mode driver and an integral part of the Windows architecture, being responsible for graphical device interface (GUI) and window management. While the exact specifics surrounding in-the-wild abuse of the flaw is presently not known, Numen Cyber has deconstructed the patch released by Microsoft to craft a proof-of-concept ( PoC ) exploit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers published PoC exploit code for actively exploited Windows elevation of privilege issue<a href="https://securityaffairs.com/147245/hacking/windows-cve-2023-29336-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers published an exploit for an actively exploited Microsoft Windows vulnerability tracked as&nbsp;CVE-2023-29336.
+The Microsoft Windows vulnerability&nbsp;CVE-2023-29336 (CVSS score 7.8) is an elevation of privilege issue that resides in the Win32k...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security professional's tweet forces big change to Google email authentication<a href="https://cyberscoop.com/security-professionals-tweet-bimi-google-gmail/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Less than a month after BIMI’s roll-out, scammers found a way around its controls and were able to successfully impersonate brands, sending emails to Google users that impersonated the logistics giant UPS.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Urgent Security Updates: Cisco and VMware Address Critical Vulnerabilities<a href="https://thehackernews.com/2023/06/urgent-security-updates-cisco-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has&nbsp; released &nbsp;security updates to fix a trio of flaws in Aria Operations for Networks that could result in information disclosure and remote code execution. The most critical of the three vulnerabilities is a command injection vulnerability tracked as&nbsp; CVE-2023-20887 &nbsp;(CVSS score: 9.8) that could allow a malicious actor with network access to achieve remote code execution. Also patched by VMware is another&nbsp; deserialization vulnerability &nbsp;( CVE-2023-20888 ) that's rated 9.1 out of a maximum of 10 on the CVSS scoring system. "A malicious actor with network access to VMware Aria Operations for Networks and valid 'member' role credentials may be able to perform a deserialization attack resulting in remote code execution," the company said in an advisory. The third security defect is a high-severity information disclosure bug ( CVE-2023-20889 , CVSS score: 8.8) that could permit an actor with network access to perform a command injection attack and obtain
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes privilege escalation bug in Cisco Secure Client<a href="https://securityaffairs.com/147217/security/cisco-secure-client-privilege-escalation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a high-severity flaw in Cisco Secure Client that can allow attackers to escalate privileges to the SYSTEM account.
+Cisco has fixed a high-severity vulnerability, tracked as CVE-2023-20178 (CVSS Score 7.8), found in Cisco Secure Client...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Barracuda ESG appliances impacted by CVE-2023-2868 must be immediately replaced<a href="https://securityaffairs.com/147211/hacking/barracuda-esg-cve-2023-2868-replacement.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Barracuda warns customers to immediately replace Email Security Gateway (ESG) appliances impacted by the flaw CVE-2023-2868.
+At the end of May, the network security solutions provider Barracuda&nbsp;warned customers&nbsp;that some of its Email Security Gateway...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Barracuda Urges Immediate Replacement of Hacked ESG Appliances<a href="https://thehackernews.com/2023/06/barracuda-urges-immediate-replacement.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise security company Barracuda is now urging customers who were impacted by a recently disclosed zero-day flaw in its Email Security Gateway (ESG) appliances to immediately replace them. "Impacted ESG appliances must be immediately replaced regardless of patch version level," the company&nbsp; said &nbsp;in an update, adding its "remediation recommendation at this time is full replacement of the impacted ESG." The latest development comes as Barracuda&nbsp; disclosed &nbsp;that a critical flaw in the devices (CVE-2023-2868, CVSS score: 9.8) has been exploited as a zero-day for at least seven months since October 2022 to deliver bespoke malware and steal data. The&nbsp; vulnerability &nbsp;concerns a case of remote code injection affecting versions 5.1.3.001 through 9.2.0.006 that stems from an incomplete validation of attachments contained within incoming emails. It was addressed on May 20 and May 21, 2023. The three different malware families discovered to date come with capabiliti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches Critical Vulnerability in Enterprise Collaboration Solutions<a href="https://www.securityweek.com/cisco-patches-critical-vulnerability-in-enterprise-collaboration-solutions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday announced patches for a critical vulnerability in its Expressway series and TelePresence Video Communication Server (VCS) enterprise collaboration and video communication solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

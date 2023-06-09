@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Improve Your API Security Posture<a href="https://thehackernews.com/2023/06/how-to-improve-your-api-security-posture.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APIs, more formally known as application programming interfaces, empower apps and microservices to communicate and share data. However, this level of connectivity doesn't come without major risks. Hackers can exploit vulnerabilities in APIs to gain unauthorized access to sensitive data or even take control of the entire system. Therefore, it's essential to have a robust API security posture to protect your organization from potential threats. What is API posture management? API posture management refers to the process of monitoring and managing the security posture of your APIs. It involves identifying potential vulnerabilities and misconfigurations that could be exploited by attackers, and taking the necessary steps to remediate them. Posture management also helps organizations classify sensitive data and ensure that it's compliant with the leading data compliance regulations such as GDPR, HIPAA, and PCI DSS.&nbsp; As mentioned above, APIs are a popular target for attackers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
