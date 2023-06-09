@@ -34,6 +34,315 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aix-Marseille, France’s largest university, hit by cyberattack<a href="https://therecord.media/aix-marseille-university-cyberattack-france?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The institution’s management described the attack as coming “from a foreign country” but said its security systems triggered an alert allowing them to take the network offline before “great damage” was caused.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Unveil Exploit for Recent Windows Vulnerability Under Active Exploitation<a href="https://thehackernews.com/2023/06/experts-unveil-poc-exploit-for-recent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched actively exploited security flaw in Microsoft Windows that could be abused by a threat actor to gain elevated privileges on affected systems. The vulnerability, tracked as  CVE-2023-29336 , is rated 7.8 for severity and concerns an elevation of privilege bug in the Win32k component. "An attacker who successfully exploited this vulnerability could gain SYSTEM privileges," Microsoft  disclosed  in an advisory issued last month as part of Patch Tuesday updates. Avast researchers Jan Vojtěšek, Milánek, and Luigino Camastra were credited with discovering and reporting the flaw. Win32k.sys is a kernel-mode driver and an integral part of the Windows architecture, being responsible for graphical device interface (GUI) and window management. While the exact specifics surrounding in-the-wild abuse of the flaw is presently not known, Numen Cyber has deconstructed the patch released by Microsoft to craft a proof-of-concept ( PoC ) exploit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers published PoC exploit code for actively exploited Windows elevation of privilege issue<a href="https://securityaffairs.com/147245/hacking/windows-cve-2023-29336-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers published an exploit for an actively exploited Microsoft Windows vulnerability tracked as CVE-2023-29336.
+The Microsoft Windows vulnerability CVE-2023-29336 (CVSS score 7.8) is an elevation of privilege issue that resides in the Win32k...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security professional's tweet forces big change to Google email authentication<a href="https://cyberscoop.com/security-professionals-tweet-bimi-google-gmail/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Less than a month after BIMI’s roll-out, scammers found a way around its controls and were able to successfully impersonate brands, sending emails to Google users that impersonated the logistics giant UPS.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Ransomware Gang Likely Aware of MOVEit Transfer Vulnerability Since 2021<a href="https://thehackernews.com/2023/06/clop-ransomware-gang-likely-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) have published a joint advisory regarding the active exploitation of a  recently disclosed critical flaw  in Progress Software's MOVEit Transfer application to drop ransomware. "The Cl0p Ransomware Gang, also known as TA505, reportedly began exploiting a previously unknown SQL injection vulnerability in Progress Software's managed file transfer (MFT) solution known as MOVEit Transfer," the agencies  said . "Internet-facing MOVEit Transfer web applications were infected with a web shell named LEMURLOOT, which was then used to steal data from underlying MOVEit Transfer databases." The prolific cybercrime gang has since  issued an ultimatum  to several impacted businesses, urging them to get in touch by June 14, 2023, or risk getting all their stolen data published. Microsoft is tracking the activity under the moniker  Lace Tempest  (aka Storm-0950),
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts detail a new Kimsuky social engineering campaign<a href="https://securityaffairs.com/147232/apt/kimsuky-social-engineering-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT Kimsuky has been linked to a social engineering campaign aimed at experts in North Korean affairs.
+SentinelLabs researchers uncovered a social engineering campaign by the North Korea-linked APT group Kimsuky that is targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asylum Ambuscade: crimeware or cyberespionage?<a href="https://www.welivesecurity.com/2023/06/08/asylum-ambuscade-crimeware-or-cyberespionage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group targets bank customers and cryptocurrency traders in various regions, including North America and Europe, as well as government entities in Europe and Central Asia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Improve Your API Security Posture<a href="https://thehackernews.com/2023/06/how-to-improve-your-api-security-posture.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APIs, more formally known as application programming interfaces, empower apps and microservices to communicate and share data. However, this level of connectivity doesn't come without major risks. Hackers can exploit vulnerabilities in APIs to gain unauthorized access to sensitive data or even take control of the entire system. Therefore, it's essential to have a robust API security posture to protect your organization from potential threats. What is API posture management? API posture management refers to the process of monitoring and managing the security posture of your APIs. It involves identifying potential vulnerabilities and misconfigurations that could be exploited by attackers, and taking the necessary steps to remediate them. Posture management also helps organizations classify sensitive data and ensure that it's compliant with the leading data compliance regulations such as GDPR, HIPAA, and PCI DSS.  As mentioned above, APIs are a popular target for attackers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German recruiter Pflegia leaks sensitive job seeker info<a href="https://securityaffairs.com/147227/security/pflegia-leaks-sensitive-job-seeker-info.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pflegia, a German healthcare recruitment platform, has exposed hundreds of thousands of files with sensitive user data such as names, home addresses, and emails.
+Scouting for a new career can be stressful. Now imagine that, instead of a new role,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Recruiter Pflegia Leaks 360,000 Files Containing Sensitive Job Seeker Information<a href="https://securityaffairs.com/147227/security/pflegia-leaks-sensitive-job-seeker-info.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed AWS bucket held hundreds of thousands of files with sensitive information, including user-submitted resumes with details such as full names, dates of birth, and occupation history.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Urgent Security Updates: Cisco and VMware Address Critical Vulnerabilities<a href="https://thehackernews.com/2023/06/urgent-security-updates-cisco-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has  released  security updates to fix a trio of flaws in Aria Operations for Networks that could result in information disclosure and remote code execution. The most critical of the three vulnerabilities is a command injection vulnerability tracked as  CVE-2023-20887  (CVSS score: 9.8) that could allow a malicious actor with network access to achieve remote code execution. Also patched by VMware is another  deserialization vulnerability  ( CVE-2023-20888 ) that's rated 9.1 out of a maximum of 10 on the CVSS scoring system. "A malicious actor with network access to VMware Aria Operations for Networks and valid 'member' role credentials may be able to perform a deserialization attack resulting in remote code execution," the company said in an advisory. The third security defect is a high-severity information disclosure bug ( CVE-2023-20889 , CVSS score: 8.8) that could permit an actor with network access to perform a command injection attack and obtain
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixes privilege escalation bug in Cisco Secure Client<a href="https://securityaffairs.com/147217/security/cisco-secure-client-privilege-escalation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco addressed a high-severity flaw in Cisco Secure Client that can allow attackers to escalate privileges to the SYSTEM account.
+Cisco has fixed a high-severity vulnerability, tracked as CVE-2023-20178 (CVSS Score 7.8), found in Cisco Secure Client...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+API Vulnerabilities in Honda eCommerce Platform Exposed Customer, Dealer Data<a href="https://www.securityweek.com/vulnerabilities-in-honda-ecommerce-platform-exposed-customer-dealer-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has disclosed the details of serious vulnerabilities discovered in a Honda e-commerce platform used for equipment sales. Exploitation of the flaws could have allowed an attacker to gain access to customer and dealer information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky Targets Think Tanks and News Media with Social Engineering Attacks<a href="https://thehackernews.com/2023/06/kimsuky-targets-think-tanks-and-news.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean nation-state threat actor known as  Kimsuky  has been linked to a social engineering campaign targeting experts in North Korean affairs with the goal of stealing Google credentials and delivering reconnaissance malware. "Further, Kimsuky's objective extends to the theft of subscription credentials from NK News," cybersecurity firm SentinelOne  said  in a report shared with The Hacker News. "To achieve this, the group distributes emails that lure targeted individuals to log in on the malicious website nknews[.]pro, which masquerades as the authentic NK News site. The login form that is presented to the target is designed to capture entered credentials." NK News , established in 2011, is an American subscription-based news website that provides stories and analysis about North Korea. The disclosure comes days after U.S. and South Korean intelligence agencies  issued an alert  warning of Kimsuky's use of social engineering tactics to strik
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Barracuda ESG appliances impacted by CVE-2023-2868 must be immediately replaced<a href="https://securityaffairs.com/147211/hacking/barracuda-esg-cve-2023-2868-replacement.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Barracuda warns customers to immediately replace Email Security Gateway (ESG) appliances impacted by the flaw CVE-2023-2868.
+At the end of May, the network security solutions provider Barracuda warned customers that some of its Email Security Gateway...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ascension Seton Reports Data Breach of Two Websites Impacting User Information<a href="https://www.kut.org/health/2023-06-07/ascension-seton-austin-hospital-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ascension Seton said it did not have specific details about what information had been affected but that some users’ personal details, such as name, address, SSNs, credit card numbers, and insurance information may be at risk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Barracuda Urges Immediate Replacement of Hacked ESG Appliances<a href="https://thehackernews.com/2023/06/barracuda-urges-immediate-replacement.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Enterprise security company Barracuda is now urging customers who were impacted by a recently disclosed zero-day flaw in its Email Security Gateway (ESG) appliances to immediately replace them. "Impacted ESG appliances must be immediately replaced regardless of patch version level," the company  said  in an update, adding its "remediation recommendation at this time is full replacement of the impacted ESG." The latest development comes as Barracuda  disclosed  that a critical flaw in the devices (CVE-2023-2868, CVSS score: 9.8) has been exploited as a zero-day for at least seven months since October 2022 to deliver bespoke malware and steal data. The  vulnerability  concerns a case of remote code injection affecting versions 5.1.3.001 through 9.2.0.006 that stems from an incomplete validation of attachments contained within incoming emails. It was addressed on May 20 and May 21, 2023. The three different malware families discovered to date come with capabiliti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber unicorn Snyk acquiring Israeli startup Enso Security for over $50 million<a href="https://www.calcalistech.com/ctechnews/article/r1jptg1p2?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Snyk said it plans to leverage Enso’s Application Security Posture Management (ASPM) solution to offer a developer security platform providing a holistic view of application security posture.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches Critical Vulnerability in Enterprise Collaboration Solutions<a href="https://www.securityweek.com/cisco-patches-critical-vulnerability-in-enterprise-collaboration-solutions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco on Wednesday announced patches for a critical vulnerability in its Expressway series and TelePresence Video Communication Server (VCS) enterprise collaboration and video communication solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 7, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
