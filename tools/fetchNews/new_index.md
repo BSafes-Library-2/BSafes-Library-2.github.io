@@ -34,7 +34,219 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Easily Exploitable Microsoft Visual Studio Bug Opens Developers to Takeover<a href="https://www.darkreading.com/application-security/researchers-warn-of-easily-exploitable-spoofing-bug-in-visual-studio?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning about a bug in the Microsoft Visual Studio installer that gives cyberattackers a way to create and distribute malicious extensions to application developers, under the guise of being a legitimate software publisher.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Critical MOVEit Transfer SQL Injection Vulnerabilities Discovered - Patch Now!<a href="https://thehackernews.com/2023/06/new-critical-moveit-transfer-sql.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software, the company behind the MOVEit Transfer application, has released patches to address brand new SQL injection vulnerabilities affecting the file transfer solution that could enable the theft of sensitive information. "Multiple SQL injection vulnerabilities have been identified in the MOVEit Transfer web application that could allow an unauthenticated attacker to gain unauthorized access to the MOVEit Transfer database," the company  said  in an advisory released on June 9, 2023. "An attacker could submit a crafted payload to a MOVEit Transfer application endpoint which could result in modification and disclosure of MOVEit database content." The flaws, which impact all versions of the service, have been addressed in MOVEit Transfer versions 2021.0.7 (13.0.7), 2021.1.5 (13.1.5), 2022.0.5 (14.0.5), 2022.1.6 (14.1.6), and 2023.0.2 (15.0.2). All  MOVEit Cloud instances  have been fully patched. Cybersecurity firm Huntress has been  credited  with d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russians charged with hacking Mt. Gox exchange and operating BTC-e<a href="https://securityaffairs.com/147280/digital-id/mt-gox-russian-nations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Russian nationals have been charged with the hack of the cryptocurrency exchange Mt. Gox in 2011 and money laundering.
+Russian nationals Alexey Bilyuchenko (43) and Aleksandr Verner (29) have been charged with the hack of the cryptocurrency exchange...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blackpoint Cyber raises $190 million to fund further development of its security technology<a href="https://www.helpnetsecurity.com/2023/06/09/blackpoint-cyber-growth-investment/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $190 million growth investment wasled by Bain Capital Tech Opportunities, with participation from Accel. They join existing investors including Adelphi Capital Partners, Telecom Ventures, Pelican Ventures, and WP Global Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Uncovers Banking AitM Phishing and BEC Attacks Targeting Financial Giants<a href="https://thehackernews.com/2023/06/microsoft-uncovers-banking-aitm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Banking and financial services organizations are the targets of a new multi-stage adversary-in-the-middle ( AitM ) phishing and business email compromise (BEC) attack, Microsoft has revealed. "The attack originated from a compromised trusted vendor and transitioned into a series of AiTM attacks and follow-on BEC activity spanning multiple organizations," the tech giant  disclosed  in a Thursday report. Microsoft, which is tracking the cluster under its emerging moniker  Storm-1167 , called out the group's use of indirect proxy to pull off the attack. This enabled the attackers to flexibly tailor the phishing pages to their targets and carry out session cookie theft, underscoring the continued sophistication of AitM attacks. The modus operandi is unlike other AitM campaigns where the decoy pages act as a  reverse proxy  to harvest credentials and time-based one-time passwords (TOTPs) entered by the victims. "The attacker presented targets with a website that mi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese Pharmaceutical giant Eisai hit by a ransomware attack<a href="https://securityaffairs.com/147276/cyber-crime/eisai-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the Japanese pharmaceutical giant Eisai has taken its systems offline in response to a ransomware attack.
+Eisai is a Japanese pharmaceutical company with about 10,000 employees and more than $5 billion in revenue. The company this week...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Employee cybersecurity awareness takes center stage in defense strategies<a href="https://www.helpnetsecurity.com/2023/06/09/employees-cybersecurity-knowledge/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest research from Fortinet reveals that more than 90% of leaders believe that increased employee cybersecurity awareness would help decrease the occurrence of cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asylum Ambuscade: A Cybercrime Group with Espionage Ambitions<a href="https://thehackernews.com/2023/06/asylum-ambuscade-cybercrime-group-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as  Asylum Ambuscade  has been observed straddling cybercrime and cyber espionage operations since at least early 2020. "It is a crimeware group that targets bank customers and cryptocurrency traders in various regions, including North America and Europe," ESET  said  in an analysis published Thursday. "Asylum Ambuscade also does espionage against government entities in Europe and Central Asia." Asylum Ambuscade was  first documented  by Proofpoint in March 2022 as a nation-state-sponsored phishing campaign that targeted European governmental entities in an attempt to obtain intelligence on refugee and supply movement in the region. The goal of the attackers, per the Slovak cybersecurity firm, is to siphon confidential information and web email credentials from official government email portals. The attacks start off with a spear-phishing email bearing a malicious Excel spreadsheet attachment that, when opened, either exploits VBA code o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware gang was testing MOVEit Transfer bug since 2021<a href="https://securityaffairs.com/147264/cyber-crime/clop-testing-moveit-transfer-bug-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered that the Clop ransomware gang was looking for a zero-day exploit in the MOVEit Transfer since 2021.
+Kroll security experts discovered that the Clop ransomware gang was looking for a zero-day exploit in the MOVEit Transfer since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of Manchester Announces Cyber Incident, Says Data ‘Likely’ Copied<a href="https://therecord.media/university-manchester-cyber-incident-uk?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Manchester, one of the largest universities in the United Kingdom by enrollment, announced on Friday that it was the victim of a cyber incident and that the hackers had accessed and “likely” copied data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Reasons Why Access Management is the Key to Securing the Modern Workplace<a href="https://thehackernews.com/2023/06/5-reasons-why-access-management-is-key.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The way we work has undergone a dramatic transformation in recent years. We now operate within digital ecosystems, where remote work and the reliance on a multitude of digital tools is the norm rather than the exception. This shift – as you likely know from your own life – has led to superhuman levels of productivity that we wouldn't ever want to give up. But moving fast comes at a cost. And for our digital work environment, that cost is security.  Our desire for innovation, speed and efficiency has birthed new and complex security challenges that all in some way or another revolve around securing how we access resources. Because of this, effective access management now plays a more critical role in securing the modern workplace than ever. Follow along as we uncover five reasons why this is the case. Educating People About Security is Not Working For years, we've held the belief that educating people about cyberthreats would make them more cautious online. Yet, despite 17 y
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealth Soldier backdoor used is targeted espionage attacks in Libya<a href="https://securityaffairs.com/147254/apt/stealth-soldier-targets-libya.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers detected a cyberespionage campaign in Libya that employs a new custom, modular backdoor dubbed Stealth Soldier.
+Experts at the Check Point Research team uncovered a series of highly-targeted espionage attacks in Libya that employ a new custom...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealth Soldier: A New Custom Backdoor Targets North Africa with Espionage Attacks<a href="https://thehackernews.com/2023/06/stealth-soldier-new-custom-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new custom backdoor dubbed  Stealth Soldier  has been deployed as part of a set of highly-targeted espionage attacks in North Africa. "Stealth Soldier malware is an undocumented backdoor that primarily operates surveillance functions such as file exfiltration, screen and microphone recording, keystroke logging and stealing browser information," cybersecurity company Check Point  said  in a technical report. The ongoing operation is characterized by the use of command-and-control (C&C) servers that mimic sites belonging to the Libyan Ministry of Foreign Affairs. The earliest artifacts associated with the campaign date back to October 2022. The attacks commence with potential targets downloading bogus downloader binaries that are delivered via social engineering attacks and act as a conduit for retrieving Stealth Soldier, while simultaneously displaying a decoy empty PDF file. The custom modular implant, which is believed to be used sparingly, enables surveillance c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 8, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aix-Marseille, France’s largest university, hit by cyberattack<a href="https://therecord.media/aix-marseille-university-cyberattack-france?&web_view=true"> Full Text</a>
@@ -50,7 +262,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2023
+June 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Unveil Exploit for Recent Windows Vulnerability Under Active Exploitation<a href="https://thehackernews.com/2023/06/experts-unveil-poc-exploit-for-recent.html"> Full Text</a>
@@ -66,7 +278,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers published PoC exploit code for actively exploited Windows elevation of privilege issue<a href="https://securityaffairs.com/147245/hacking/windows-cve-2023-29336-poc.html"> Full Text</a>
@@ -83,7 +295,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security professional's tweet forces big change to Google email authentication<a href="https://cyberscoop.com/security-professionals-tweet-bimi-google-gmail/?&web_view=true"> Full Text</a>
@@ -99,7 +311,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2023
+June 08, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop Ransomware Gang Likely Aware of MOVEit Transfer Vulnerability Since 2021<a href="https://thehackernews.com/2023/06/clop-ransomware-gang-likely-exploiting.html"> Full Text</a>
@@ -115,7 +327,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts detail a new Kimsuky social engineering campaign<a href="https://securityaffairs.com/147232/apt/kimsuky-social-engineering-campaign.html"> Full Text</a>
@@ -132,7 +344,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Asylum Ambuscade: crimeware or cyberespionage?<a href="https://www.welivesecurity.com/2023/06/08/asylum-ambuscade-crimeware-or-cyberespionage/?&web_view=true"> Full Text</a>
@@ -148,7 +360,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2023
+June 08, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Improve Your API Security Posture<a href="https://thehackernews.com/2023/06/how-to-improve-your-api-security-posture.html"> Full Text</a>
@@ -164,7 +376,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German recruiter Pflegia leaks sensitive job seeker info<a href="https://securityaffairs.com/147227/security/pflegia-leaks-sensitive-job-seeker-info.html"> Full Text</a>
@@ -181,7 +393,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German Recruiter Pflegia Leaks 360,000 Files Containing Sensitive Job Seeker Information<a href="https://securityaffairs.com/147227/security/pflegia-leaks-sensitive-job-seeker-info.html?&web_view=true"> Full Text</a>
@@ -197,7 +409,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2023
+June 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Urgent Security Updates: Cisco and VMware Address Critical Vulnerabilities<a href="https://thehackernews.com/2023/06/urgent-security-updates-cisco-and.html"> Full Text</a>
@@ -213,7 +425,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixes privilege escalation bug in Cisco Secure Client<a href="https://securityaffairs.com/147217/security/cisco-secure-client-privilege-escalation.html"> Full Text</a>
@@ -230,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 API Vulnerabilities in Honda eCommerce Platform Exposed Customer, Dealer Data<a href="https://www.securityweek.com/vulnerabilities-in-honda-ecommerce-platform-exposed-customer-dealer-data/?&web_view=true"> Full Text</a>
@@ -246,7 +458,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2023
+June 08, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kimsuky Targets Think Tanks and News Media with Social Engineering Attacks<a href="https://thehackernews.com/2023/06/kimsuky-targets-think-tanks-and-news.html"> Full Text</a>
@@ -262,7 +474,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Barracuda ESG appliances impacted by CVE-2023-2868 must be immediately replaced<a href="https://securityaffairs.com/147211/hacking/barracuda-esg-cve-2023-2868-replacement.html"> Full Text</a>
@@ -279,7 +491,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ascension Seton Reports Data Breach of Two Websites Impacting User Information<a href="https://www.kut.org/health/2023-06-07/ascension-seton-austin-hospital-data-breach?&web_view=true"> Full Text</a>
@@ -295,7 +507,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 08, 2023
+June 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Barracuda Urges Immediate Replacement of Hacked ESG Appliances<a href="https://thehackernews.com/2023/06/barracuda-urges-immediate-replacement.html"> Full Text</a>
@@ -311,7 +523,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber unicorn Snyk acquiring Israeli startup Enso Security for over $50 million<a href="https://www.calcalistech.com/ctechnews/article/r1jptg1p2?&web_view=true"> Full Text</a>
@@ -327,7 +539,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 8, 2023
+June 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Patches Critical Vulnerability in Enterprise Collaboration Solutions<a href="https://www.securityweek.com/cisco-patches-critical-vulnerability-in-enterprise-collaboration-solutions/?&web_view=true"> Full Text</a>
