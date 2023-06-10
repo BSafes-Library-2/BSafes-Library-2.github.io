@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Employee cybersecurity awareness takes center stage in defense strategies<a href="https://www.helpnetsecurity.com/2023/06/09/employees-cybersecurity-knowledge/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest research from Fortinet reveals that more than 90% of leaders believe that increased employee cybersecurity awareness would help decrease the occurrence of cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Reasons Why Access Management is the Key to Securing the Modern Workplace<a href="https://thehackernews.com/2023/06/5-reasons-why-access-management-is-key.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The way we work has undergone a dramatic transformation in recent years. We now operate within digital ecosystems, where remote work and the reliance on a multitude of digital tools is the norm rather than the exception. This shift – as you likely know from your own life – has led to superhuman levels of productivity that we wouldn't ever want to give up. But moving fast comes at a cost. And for our digital work environment, that cost is security.&nbsp; Our desire for innovation, speed and efficiency has birthed new and complex security challenges that all in some way or another revolve around securing how we access resources. Because of this, effective access management now plays a more critical role in securing the modern workplace than ever. Follow along as we uncover five reasons why this is the case. Educating People About Security is Not Working For years, we've held the belief that educating people about cyberthreats would make them more cautious online. Yet, despite 17 y
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

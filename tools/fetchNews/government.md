@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Ransomware Gang Likely Aware of MOVEit Transfer Vulnerability Since 2021<a href="https://thehackernews.com/2023/06/clop-ransomware-gang-likely-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) have published a joint advisory regarding the active exploitation of a&nbsp; recently disclosed critical flaw &nbsp;in Progress Software's MOVEit Transfer application to drop ransomware. "The Cl0p Ransomware Gang, also known as TA505, reportedly began exploiting a previously unknown SQL injection vulnerability in Progress Software's managed file transfer (MFT) solution known as MOVEit Transfer," the agencies&nbsp; said . "Internet-facing MOVEit Transfer web applications were infected with a web shell named LEMURLOOT, which was then used to steal data from underlying MOVEit Transfer databases." The prolific cybercrime gang has since&nbsp; issued an ultimatum &nbsp;to several impacted businesses, urging them to get in touch by June 14, 2023, or risk getting all their stolen data published. Microsoft is tracking the activity under the moniker&nbsp; Lace Tempest &nbsp;(aka Storm-0950),
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

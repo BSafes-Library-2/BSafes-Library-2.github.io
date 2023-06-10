@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blackpoint Cyber raises $190 million to fund further development of its security technology<a href="https://www.helpnetsecurity.com/2023/06/09/blackpoint-cyber-growth-investment/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $190 million growth investment wasled by Bain Capital Tech Opportunities, with participation from Accel. They join existing investors including Adelphi Capital Partners, Telecom Ventures, Pelican Ventures, and WP Global Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

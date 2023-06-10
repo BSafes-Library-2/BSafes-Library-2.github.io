@@ -8,6 +8,21 @@ nav_order: 900140
 
 ## Outage
 ---
+June 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese Pharmaceutical giant Eisai hit by a ransomware attack<a href="https://securityaffairs.com/147276/cyber-crime/eisai-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the Japanese pharmaceutical giant Eisai has taken its systems offline in response to a ransomware attack.
+Eisai is a Japanese&nbsp;pharmaceutical company&nbsp;with about 10,000 employees and more than $5 billion in revenue. The company this week...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

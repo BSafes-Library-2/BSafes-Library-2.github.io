@@ -8,6 +8,21 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russians charged with hacking Mt. Gox exchange and operating BTC-e<a href="https://securityaffairs.com/147280/digital-id/mt-gox-russian-nations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Russian nationals have been charged with the hack of the cryptocurrency exchange Mt. Gox in 2011 and money laundering.
+Russian nationals Alexey Bilyuchenko (43) and Aleksandr Verner (29) have been charged with the hack of the cryptocurrency exchange...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

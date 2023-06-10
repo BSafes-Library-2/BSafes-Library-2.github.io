@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber unicorn Snyk acquiring Israeli startup Enso Security for over $50 million<a href="https://www.calcalistech.com/ctechnews/article/r1jptg1p2?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Snyk said it plans to leverage Enso’s Application Security Posture Management (ASPM) solution to offer a developer security platform providing a holistic view of application security posture.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

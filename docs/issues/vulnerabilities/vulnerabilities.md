@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Easily Exploitable Microsoft Visual Studio Bug Opens Developers to Takeover<a href="https://www.darkreading.com/application-security/researchers-warn-of-easily-exploitable-spoofing-bug-in-visual-studio?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers are warning about a bug in the Microsoft Visual Studio installer that gives cyberattackers a way to create and distribute malicious extensions to application developers, under the guise of being a legitimate software publisher.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Critical MOVEit Transfer SQL Injection Vulnerabilities Discovered - Patch Now!<a href="https://thehackernews.com/2023/06/new-critical-moveit-transfer-sql.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software, the company behind the MOVEit Transfer application, has released patches to address brand new SQL injection vulnerabilities affecting the file transfer solution that could enable the theft of sensitive information. "Multiple SQL injection vulnerabilities have been identified in the MOVEit Transfer web application that could allow an unauthenticated attacker to gain unauthorized access to the MOVEit Transfer database," the company&nbsp; said &nbsp;in an advisory released on June 9, 2023. "An attacker could submit a crafted payload to a MOVEit Transfer application endpoint which could result in modification and disclosure of MOVEit database content." The flaws, which impact all versions of the service, have been addressed in MOVEit Transfer versions 2021.0.7 (13.0.7), 2021.1.5 (13.1.5), 2022.0.5 (14.0.5), 2022.1.6 (14.1.6), and 2023.0.2 (15.0.2). All&nbsp; MOVEit Cloud instances &nbsp;have been fully patched. Cybersecurity firm Huntress has been&nbsp; credited &nbsp;with d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

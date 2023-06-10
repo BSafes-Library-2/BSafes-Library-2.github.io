@@ -8,6 +8,63 @@ nav_order: 900029
 
 ## Breach
 ---
+June 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German recruiter Pflegia leaks sensitive job seeker info<a href="https://securityaffairs.com/147227/security/pflegia-leaks-sensitive-job-seeker-info.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pflegia, a German healthcare recruitment platform, has exposed hundreds of thousands of files with sensitive user data such as names, home addresses, and emails.
+Scouting for a new career can be stressful. Now imagine that, instead of a new role,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Recruiter Pflegia Leaks 360,000 Files Containing Sensitive Job Seeker Information<a href="https://securityaffairs.com/147227/security/pflegia-leaks-sensitive-job-seeker-info.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed AWS bucket held hundreds of thousands of files with sensitive information, including user-submitted resumes with details such as full names, dates of birth, and occupation history.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+API Vulnerabilities in Honda eCommerce Platform Exposed Customer, Dealer Data<a href="https://www.securityweek.com/vulnerabilities-in-honda-ecommerce-platform-exposed-customer-dealer-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher has disclosed the details of serious vulnerabilities discovered in a Honda e-commerce platform used for equipment sales. Exploitation of the flaws could have allowed an attacker to gain access to customer and dealer information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ascension Seton Reports Data Breach of Two Websites Impacting User Information<a href="https://www.kut.org/health/2023-06-07/ascension-seton-austin-hospital-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ascension Seton said it did not have specific details about what information had been affected but that some users’ personal details, such as name, address, SSNs, credit card numbers, and insurance information may be at risk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

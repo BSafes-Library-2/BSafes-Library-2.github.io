@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Asylum Ambuscade: A Cybercrime Group with Espionage Ambitions<a href="https://thehackernews.com/2023/06/asylum-ambuscade-cybercrime-group-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as&nbsp; Asylum Ambuscade &nbsp;has been observed straddling cybercrime and cyber espionage operations since at least early 2020. "It is a crimeware group that targets bank customers and cryptocurrency traders in various regions, including North America and Europe," ESET&nbsp; said &nbsp;in an analysis published Thursday. "Asylum Ambuscade also does espionage against government entities in Europe and Central Asia." Asylum Ambuscade was&nbsp; first documented &nbsp;by Proofpoint in March 2022 as a nation-state-sponsored phishing campaign that targeted European governmental entities in an attempt to obtain intelligence on refugee and supply movement in the region. The goal of the attackers, per the Slovak cybersecurity firm, is to siphon confidential information and web email credentials from official government email portals. The attacks start off with a spear-phishing email bearing a malicious Excel spreadsheet attachment that, when opened, either exploits VBA code o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop ransomware gang was testing MOVEit Transfer bug since 2021<a href="https://securityaffairs.com/147264/cyber-crime/clop-testing-moveit-transfer-bug-2021.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered that the Clop ransomware gang was looking for a zero-day exploit in the MOVEit Transfer since 2021.
+Kroll security experts discovered that the Clop ransomware gang was looking for a zero-day exploit in the MOVEit Transfer since...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
