@@ -34,6 +34,109 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of multi-stage AiTM phishing and BEC attacks<a href="https://securityaffairs.com/147327/hacking/aitm-bec-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft researchers warn of banking adversary-in-the-middle (AitM) phishing and BEC attacks targeting banking and financial organizations.
+Microsoft discovered multi-stage adversary-in-the-middle (AiTM) phishing and business email compromise (BEC)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 423 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/147322/breaking-news/security-affairs-newsletter-round-423.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+Experts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine Cyber Anarchy Squad claims the hack of the Russian telecom provider Infotel JSC<a href="https://securityaffairs.com/147307/hacktivism/cyber-anarchy-squad-hacks-infotel-jsc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Ukraine hackers Cyber Anarchy Squad claimed responsibility for the attack that hit Russian telecom provider Infotel JSC.
+Pro-Ukraine hacking group Cyber.Anarchy.Squad claimed responsibility for an attack on Russian telecom provider Infotel JSC....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SPECTRALVIPER Backdoor Targeting Vietnamese Public Companies<a href="https://thehackernews.com/2023/06/new-spectralviper-backdoor-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vietnamese public companies have been targeted as part of an ongoing campaign that deploys a novel backdoor called  SPECTRALVIPER . "SPECTRALVIPER is a heavily obfuscated, previously undisclosed, x64 backdoor that brings PE loading and injection, file upload and download, file and directory manipulation, and token impersonation capabilities," Elastic Security Labs  said  in a Friday report. The attacks have been attributed to an actor it tracks as REF2754, which overlaps with a Vietnamese threat group known as APT32, Canvas Cyclone (formerly Bismuth), Cobalt Kitty, and OceanLotus. Meta, in December 2020,  linked the activities  of the hacking crew to a cybersecurity company named CyberOne Group. In the latest infection flow unearthed by Elastic, the SysInternals  ProcDump  utility is leveraged to load an unsigned DLL file that contains DONUTLOADER, which, in turn, is configured to load SPECTRALVIPER and other malware such as P8LOADER or POWERSEAL. SPECTRALVIPER is desi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found new MOVEit Transfer SQL Injection flaws<a href="https://securityaffairs.com/147299/security/new-moveit-transfer-sql-inj.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software released security updates to fix several new SQL injection vulnerabilities in the MOVEit Transfer application.
+Progress Software has released security updates to address new SQL injection vulnerabilities in the MOVEit Transfer application.
+An...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The University of Manchester suffered a cyber attack and suspects a data breach<a href="https://securityaffairs.com/147290/data-breach/university-of-manchester-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Manchester suffered a cyberattack, attackers likely stole staff and students' data from its systems.
+The University of Manchester, one of the UK's largest educational institutions, suffered a cyberattack, The popular university suspects...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
