@@ -8,6 +8,21 @@ nav_order: 900015
 
 ## Attack
 ---
+June 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Ukraine Cyber Anarchy Squad claims the hack of the Russian telecom provider Infotel JSC<a href="https://securityaffairs.com/147307/hacktivism/cyber-anarchy-squad-hacks-infotel-jsc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Ukraine hackers Cyber Anarchy Squad claimed responsibility for the attack that hit Russian telecom provider Infotel JSC.
+Pro-Ukraine hacking group Cyber.Anarchy.Squad claimed responsibility for an attack on Russian telecom provider Infotel JSC....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

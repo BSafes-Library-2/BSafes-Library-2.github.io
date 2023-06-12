@@ -8,6 +8,21 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft warns of multi-stage AiTM phishing and BEC attacks<a href="https://securityaffairs.com/147327/hacking/aitm-bec-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft researchers warn of banking adversary-in-the-middle (AitM) phishing and BEC attacks targeting banking and financial organizations.
+Microsoft discovered multi-stage adversary-in-the-middle (AiTM) phishing and business email compromise (BEC)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

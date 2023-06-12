@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of Manchester Announces Cyber Incident, Says Data ‘Likely’ Copied<a href="https://therecord.media/university-manchester-cyber-incident-uk?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Manchester, one of the largest universities in the United Kingdom by enrollment, announced on Friday that it was the victim of a cyber incident and that the hackers had accessed and “likely” copied data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

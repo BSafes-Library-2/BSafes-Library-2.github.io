@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Uncovers Banking AitM Phishing and BEC Attacks Targeting Financial Giants<a href="https://thehackernews.com/2023/06/microsoft-uncovers-banking-aitm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Banking and financial services organizations are the targets of a new multi-stage adversary-in-the-middle ( AitM ) phishing and business email compromise (BEC) attack, Microsoft has revealed. "The attack originated from a compromised trusted vendor and transitioned into a series of AiTM attacks and follow-on BEC activity spanning multiple organizations," the tech giant&nbsp; disclosed &nbsp;in a Thursday report. Microsoft, which is tracking the cluster under its emerging moniker&nbsp; Storm-1167 , called out the group's use of indirect proxy to pull off the attack. This enabled the attackers to flexibly tailor the phishing pages to their targets and carry out session cookie theft, underscoring the continued sophistication of AitM attacks. The modus operandi is unlike other AitM campaigns where the decoy pages act as a&nbsp; reverse proxy &nbsp;to harvest credentials and time-based one-time passwords (TOTPs) entered by the victims. "The attacker presented targets with a website that mi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

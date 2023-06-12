@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2023
+June 11, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft warns of multi-stage AiTM phishing and BEC attacks<a href="https://securityaffairs.com/147327/hacking/aitm-bec-attacks.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2023
+June 11, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 423 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/147322/breaking-news/security-affairs-newsletter-round-423.html"> Full Text</a>
@@ -69,7 +69,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2023
+June 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Ukraine Cyber Anarchy Squad claims the hack of the Russian telecom provider Infotel JSC<a href="https://securityaffairs.com/147307/hacktivism/cyber-anarchy-squad-hacks-infotel-jsc.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2023
+June 10, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SPECTRALVIPER Backdoor Targeting Vietnamese Public Companies<a href="https://thehackernews.com/2023/06/new-spectralviper-backdoor-targeting.html"> Full Text</a>
@@ -102,7 +102,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2023
+June 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found new MOVEit Transfer SQL Injection flaws<a href="https://securityaffairs.com/147299/security/new-moveit-transfer-sql-inj.html"> Full Text</a>
@@ -120,7 +120,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2023
+June 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The University of Manchester suffered a cyber attack and suspects a data breach<a href="https://securityaffairs.com/147290/data-breach/university-of-manchester-cyber-attack.html"> Full Text</a>
