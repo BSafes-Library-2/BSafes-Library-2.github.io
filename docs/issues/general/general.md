@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Factors influencing IT security spending<a href="https://www.helpnetsecurity.com/2023/06/09/it-security-spending-barriers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security executives are overwhelmingly craving more AI solutions in 2023 to help them battle the growing cybersecurity threat landscape, according to a report by Netrix Global.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Now? The Rise of Attack Surface Management<a href="https://thehackernews.com/2023/06/why-now-rise-of-attack-surface.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The term " attack surface management "&nbsp;(ASM) went from unknown to ubiquitous in the cybersecurity space over the past few years. Gartner and Forrester have both highlighted the&nbsp; importance of ASM &nbsp;recently, multiple solution providers have emerged in the space, and investment and acquisition activity have seen an uptick. Many concepts come and go in cybersecurity, but attack surface management promises to have staying power. As it evolves into a critical component of threat and exposure management strategies, it's worth examining why attack surface management has grown to become a key category, and why it will continue to be a necessity for organizations worldwide. What is Attack Surface Management?&nbsp; Attack surfaces are rapidly expanding. The attack surface includes any IT asset connected to the internet – applications, IoT devices, Kubernetes clusters, cloud platforms – that threat actors could infiltrate and exploit to perpetuate an attack. A company's attack surface fa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: 1,000+ Fake Cryptocurrency Sites Trap Users in Bogus Rewards Scheme<a href="https://thehackernews.com/2023/06/beware-1000-fake-cryptocurrency-sites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undetected cryptocurrency scam has leveraged a constellation of over 1,000 fraudulent websites to ensnare users into a bogus rewards scheme since at least January 2021. "This massive campaign has likely resulted in thousands of people being scammed worldwide," Trend Micro researchers&nbsp; said &nbsp;in a report published last week, linking it to a Russian-speaking threat actor named "Impulse Team." "The scam works via an advanced fee fraud that involves tricking victims into believing that they've won a certain amount of cryptocurrency. However, to get their rewards, the victims would need to pay a small amount to open an account on their website." The compromise chain starts with a direct message propagated via Twitter to lure potential targets into visiting the decoy site. The account responsible for sending the messages has since been closed. The message urges recipients to sign up for an account on the website and apply a promo code specif
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

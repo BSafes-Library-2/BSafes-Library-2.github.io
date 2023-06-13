@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple's Safari Private Browsing Now Automatically Removes Tracking Parameters in URLs<a href="https://thehackernews.com/2023/06/apples-safari-private-browsing-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple is introducing major updates to&nbsp; Safari Private Browsing , offering users better protections against third-party trackers as they browse the web. "Advanced tracking and fingerprinting protections go even further to help prevent websites from using the latest techniques to track or identify a user's device," the iPhone maker&nbsp; said . "Private Browsing now locks when not in use, allowing a user to keep tabs open even when stepping away from the device." The privacy improvements were previewed at Apple's annual Worldwide Developers Conference (WWDC) last week. They are expected to be rolled out to users as part of iOS 17, iPadOS 17, and macOS Sonoma later this year. Another key change includes Link Tracking Protection in Mail, Messages, and Safari's private mode to automatically remove&nbsp; tracking parameters &nbsp;in URLs, which are often used to track information about a click. "Safari has been a somewhat unheralded pioneer of private browsing, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

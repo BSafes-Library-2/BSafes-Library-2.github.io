@@ -11,6 +11,22 @@ nav_order: 900220
 June 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Experts found new MOVEit Transfer SQL Injection flaws<a href="https://securityaffairs.com/147299/security/new-moveit-transfer-sql-inj.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software released security updates to fix several new SQL injection vulnerabilities in the MOVEit Transfer application.
+Progress Software has released security updates to address new SQL injection vulnerabilities in the MOVEit Transfer application.
+An...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Easily Exploitable Microsoft Visual Studio Bug Opens Developers to Takeover<a href="https://www.darkreading.com/application-security/researchers-warn-of-easily-exploitable-spoofing-bug-in-visual-studio?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -34,6 +34,299 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical FortiOS and FortiProxy Vulnerability Likely Exploited - Patch Now!<a href="https://thehackernews.com/2023/06/critical-fortios-and-fortiproxy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet on Monday disclosed that a  newly patched critical flaw  impacting FortiOS and FortiProxy may have been "exploited in a limited number of cases" in attacks targeting government, manufacturing, and critical infrastructure sectors. The  vulnerability , tracked as  CVE-2023-27997  (CVSS score: 9.2), concerns a  heap-based buffer overflow  vulnerability in FortiOS and FortiProxy SSL-VPN that could allow a remote attacker to execute arbitrary code or commands via specifically crafted requests. LEXFO security researchers Charles Fol and Dany Bach have been credited with discovering and reporting the flaw. It was addressed by Fortinet on June 9, 2023 in the following versions - FortiOS-6K7K version 7.0.12 or above FortiOS-6K7K version 6.4.13 or above FortiOS-6K7K version 6.2.15 or above FortiOS-6K7K version 6.0.17 or above FortiProxy version 7.2.4 or above FortiProxy version 7.0.10 or above FortiProxy version 2.0.13 or above FortiOS version 7.4.0 or above Fort
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC exploit for MOVEit Transfer CVE-2023-34362 flaw<a href="https://securityaffairs.com/147404/hacking/moveit-transfer-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security firm Horizon3 released proof-of-concept (PoC) exploit code for the remote code execution (RCE) flaw CVE-2023-34362 in the MOVEit Transfer MFT.
+MOVEit Transfer is a managed file transfer that is used by enterprises to securely transfer files...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Factors influencing IT security spending<a href="https://www.helpnetsecurity.com/2023/06/09/it-security-spending-barriers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security executives are overwhelmingly craving more AI solutions in 2023 to help them battle the growing cybersecurity threat landscape, according to a report by Netrix Global.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Entrants to Ransomware Unleash Frankenstein Malware<a href="https://www.bankinfosecurity.com/blogs/new-entrants-to-ransomware-unleash-frankenstein-malware-p-3459?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In their haste to make money, some new players are picking over the discarded remnants of previous ransomware groups, cobbling together ransomware rather than going through the trouble of coding bespoke crypto-locking software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Publisher Spoofing Bug in Microsoft Visual Studio Installer<a href="https://thehackernews.com/2023/06/researchers-uncover-publisher-spoofing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have warned about an "easily exploitable" flaw in the Microsoft Visual Studio installer that could be abused by a malicious actor to impersonate a legitimate publisher and distribute malicious extensions. "A threat actor could impersonate a popular publisher and issue a malicious extension to compromise a targeted system," Varonis researcher Dolev Taler  said . "Malicious extensions have been used to steal sensitive information, silently access and change code, or take full control of a system." The vulnerability, which is tracked as  CVE-2023-28299  (CVSS score: 5.5), was addressed by Microsoft as part of its  Patch Tuesday updates  for April 2023, describing it as a spoofing flaw. The bug discovered by Varonis has to do with the Visual Studio user interface, which allows for spoofed publisher digital signatures. Specifically, it trivially bypasses a restriction that prevents users from entering information in the "product
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intellihartx data breach exposed the personal and health info of 490,000 individuals<a href="https://securityaffairs.com/147380/data-breach/intellihartx-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intellihartx is notifying about 490,000 individuals that their personal information was compromised in the GoAnywhere zero-day attack in January.
+The Clop ransomware group has stolen stole personal and health information of 489,830 individuals as a result...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Francisco 49ers agree to pay out victims of 2022 data breach<a href="https://therecord.media/san-francisco-49ers-data-breach-class-action?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to The Athletic, three class action lawsuits related to the breach were combined into one case. The plaintiffs filed settlement papers in California federal court, the site reported, which they described as an “unopposed motion.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Now? The Rise of Attack Surface Management<a href="https://thehackernews.com/2023/06/why-now-rise-of-attack-surface.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The term " attack surface management " (ASM) went from unknown to ubiquitous in the cybersecurity space over the past few years. Gartner and Forrester have both highlighted the  importance of ASM  recently, multiple solution providers have emerged in the space, and investment and acquisition activity have seen an uptick. Many concepts come and go in cybersecurity, but attack surface management promises to have staying power. As it evolves into a critical component of threat and exposure management strategies, it's worth examining why attack surface management has grown to become a key category, and why it will continue to be a necessity for organizations worldwide. What is Attack Surface Management?  Attack surfaces are rapidly expanding. The attack surface includes any IT asset connected to the internet – applications, IoT devices, Kubernetes clusters, cloud platforms – that threat actors could infiltrate and exploit to perpetuate an attack. A company's attack surface fa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FUD Malware obfuscation engine BatCloak continues to evolve<a href="https://securityaffairs.com/147371/malware/fud-malware-obfuscation-engine-batcloak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers detailed a fully undetectable (FUD) malware obfuscation engine named BatCloak that is used by threat actors.
+Researchers from Trend Micro have analyzed the BatCloak, a fully undetectable (FUD) malware obfuscation engine used by threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT Botnet DDoS Attacks Threaten Global Telecom Networks, Nokia Reports<a href="https://www.hackread.com/iot-botnet-ddos-attacks-telecom-networks-nokia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In addition to the rise in botnet-driven DDoS attacks, Nokia's Threat Intelligence Report highlighted a doubling in the number of trojans targeting personal banking information on mobile devices, now accounting for 9% of all infections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using Powerful BatCloak Engine to Make Malware Fully Undetectable<a href="https://thehackernews.com/2023/06/cybercriminals-using-powerful-batcloak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fully undetectable (FUD) malware obfuscation engine named  BatCloak  is being used to deploy various malware strains since September 2022, while persistently evading antivirus detection. The samples grant "threat actors the ability to load numerous malware families and exploits with ease through highly obfuscated batch files," Trend Micro researchers  said . About 79.6% of the total 784 artifacts unearthed have no detection across all security solutions, the cybersecurity firm added, highlighting BatCloak's ability to circumvent traditional detection mechanisms. The BatCloak engine forms the crux of an off-the-shelf batch file builder tool called Jlaive, which comes with capabilities to bypass Antimalware Scan Interface ( AMSI ) as well as compress and encrypt the primary payload to achieve heightened security evasion. The open-source tool, although taken down since it was made available via GitHub and GitLab in September 2022 by a developer named ch2sh, has been
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet urges to patch a critical RCE flaw in Fortigate firewalls<a href="https://securityaffairs.com/147353/hacking/fortinet-fortigate-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet released security updates to fix a critical security flaw in its FortiGate firewalls that lead to remote code execution.
+Fortinet has released security patches to address a critical security vulnerability, tracked as CVE-2023-27997,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian nationals accused of Mt. Gox bitcoin heist, shifting stolen funds to BTC-e<a href="https://therecord.media/mt-gox-stolen-bitcoin-indictment-russian-nationals?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DOJ unsealed charges filed in 2019 against 43-year-old Alexey Bilyuchenko and 29-year-old Aleksandr Verner, accusing the two of stealing 647,000 BTC from Mt. Gox and using it to underpin illicit cryptocurrency exchange BTC-e from 2011 to 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Password Reset Hack Exposed in Honda's E-Commerce Platform, Dealers Data at Risk<a href="https://thehackernews.com/2023/06/password-reset-hack-exposed-in-hondas-e.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vulnerabilities discovered in Honda's e-commerce platform could have been exploited to gain unrestricted access to sensitive dealer information. "Broken/missing access controls made it possible to access all data on the platform, even when logged in as a test account," security researcher Eaton Zveare  said  in a report published last week. The  platform  is designed for the sale of power equipment, marine, lawn and garden businesses. It does not impact the Japanese company's automobile division. The hack, in a nutshell, exploits a password reset mechanism on one of Honda's sites, Power Equipment Tech Express (PETE), to reset the password associated with any account and obtain full admin-level access. This is made possible due to the fact that the API allows any user to send a password reset request simply by just knowing the username or email address and without having to enter a password tied to that account. Armed with this capability, a malicio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xplain data breach also impacted the national Swiss railway FSS<a href="https://securityaffairs.com/147346/malware/national-railway-fss-xplain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware attack suffered by the IT services provider Xplain also impacted the national railway company of Switzerland (FSS) and the canton of Aargau.
+The Play ransomware attack suffered by the IT services provider Xplain is worse than initially...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: 1,000+ Fake Cryptocurrency Sites Trap Users in Bogus Rewards Scheme<a href="https://thehackernews.com/2023/06/beware-1000-fake-cryptocurrency-sites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undetected cryptocurrency scam has leveraged a constellation of over 1,000 fraudulent websites to ensnare users into a bogus rewards scheme since at least January 2021. "This massive campaign has likely resulted in thousands of people being scammed worldwide," Trend Micro researchers  said  in a report published last week, linking it to a Russian-speaking threat actor named "Impulse Team." "The scam works via an advanced fee fraud that involves tricking victims into believing that they've won a certain amount of cryptocurrency. However, to get their rewards, the victims would need to pay a small amount to open an account on their website." The compromise chain starts with a direct message propagated via Twitter to lure potential targets into visiting the decoy site. The account responsible for sending the messages has since been closed. The message urges recipients to sign up for an account on the website and apply a promo code specif
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw Discovered in Fortinet FortiGate Firewalls - Patch Now!<a href="https://thehackernews.com/2023/06/critical-rce-flaw-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has released patches to address a critical security flaw in its FortiGate firewalls that could be abused by a threat actor to achieve remote code execution. The vulnerability, tracked as  CVE-2023-27997 , is "reachable pre-authentication, on every SSL VPN appliance," Lexfo Security researcher Charles Fol, who discovered and reported the flaw alongside Dany Bach,  said  in a tweet over the weekend. Details about the security flaw are currently withheld and Fortinet is yet to release an advisory, although the network security company is expected to publish more details in the coming days. French cybersecurity company Olympe Cyberdefense, in an independent alert,  said  the issue has been patched in versions 6.2.15, 6.4.13, 7.0.12, and 7.2.5. "The flaw would allow a hostile agent to interfere via the VPN, even if the MFA is activated," the firm noted. With Fortinet flaws  emerging  as a  lucrative   attack vector  for threat actors in recent years, it&#
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple's Safari Private Browsing Now Automatically Removes Tracking Parameters in URLs<a href="https://thehackernews.com/2023/06/apples-safari-private-browsing-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple is introducing major updates to  Safari Private Browsing , offering users better protections against third-party trackers as they browse the web. "Advanced tracking and fingerprinting protections go even further to help prevent websites from using the latest techniques to track or identify a user's device," the iPhone maker  said . "Private Browsing now locks when not in use, allowing a user to keep tabs open even when stepping away from the device." The privacy improvements were previewed at Apple's annual Worldwide Developers Conference (WWDC) last week. They are expected to be rolled out to users as part of iOS 17, iPadOS 17, and macOS Sonoma later this year. Another key change includes Link Tracking Protection in Mail, Messages, and Safari's private mode to automatically remove  tracking parameters  in URLs, which are often used to track information about a click. "Safari has been a somewhat unheralded pioneer of private browsing, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 11, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

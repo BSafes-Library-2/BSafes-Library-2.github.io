@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian nationals accused of Mt. Gox bitcoin heist, shifting stolen funds to BTC-e<a href="https://therecord.media/mt-gox-stolen-bitcoin-indictment-russian-nationals?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DOJ unsealed charges filed in 2019 against 43-year-old Alexey Bilyuchenko and 29-year-old Aleksandr Verner, accusing the two of stealing 647,000 BTC from Mt. Gox and using it to underpin illicit cryptocurrency exchange BTC-e from 2011 to 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,64 @@ nav_order: 900029
 
 ## Breach
 ---
+June 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intellihartx data breach exposed the personal and health info of 490,000 individuals<a href="https://securityaffairs.com/147380/data-breach/intellihartx-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intellihartx is notifying about 490,000 individuals that their personal information was compromised in the GoAnywhere zero-day attack in January.
+The Clop ransomware group has stolen stole personal and health information of 489,830 individuals as a result...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Francisco 49ers agree to pay out victims of 2022 data breach<a href="https://therecord.media/san-francisco-49ers-data-breach-class-action?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to The Athletic, three class action lawsuits related to the breach were combined into one case. The plaintiffs filed settlement papers in California federal court, the site reported, which they described as an “unopposed motion.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Password Reset Hack Exposed in Honda's E-Commerce Platform, Dealers Data at Risk<a href="https://thehackernews.com/2023/06/password-reset-hack-exposed-in-hondas-e.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security vulnerabilities discovered in Honda's e-commerce platform could have been exploited to gain unrestricted access to sensitive dealer information. "Broken/missing access controls made it possible to access all data on the platform, even when logged in as a test account," security researcher Eaton Zveare&nbsp; said &nbsp;in a report published last week. The&nbsp; platform &nbsp;is designed for the sale of power equipment, marine, lawn and garden businesses. It does not impact the Japanese company's automobile division. The hack, in a nutshell, exploits a password reset mechanism on one of Honda's sites, Power Equipment Tech Express (PETE), to reset the password associated with any account and obtain full admin-level access. This is made possible due to the fact that the API allows any user to send a password reset request simply by just knowing the username or email address and without having to enter a password tied to that account. Armed with this capability, a malicio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xplain data breach also impacted the national Swiss railway FSS<a href="https://securityaffairs.com/147346/malware/national-railway-fss-xplain.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware attack suffered by the IT services provider Xplain also impacted the national railway company of Switzerland (FSS) and the canton of Aargau.
+The Play ransomware attack suffered by the IT services provider Xplain is worse than initially...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

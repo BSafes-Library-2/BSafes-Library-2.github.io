@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+June 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The University of Manchester suffered a cyber attack and suspects a data breach<a href="https://securityaffairs.com/147290/data-breach/university-of-manchester-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Manchester suffered a cyberattack, attackers likely stole staff and students' data from its systems.
+The University of Manchester, one of the UK's largest educational institutions, suffered a cyberattack, The popular university suspects...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
