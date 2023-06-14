@@ -34,6 +34,283 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Xplain data breach also impacted the national Swiss railway FSS<a href="https://securityaffairs.com/147346/malware/national-railway-fss-xplain.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware attack suffered by the IT services provider Xplain is worse than initially estimated, the incident also impacted the national railway company of Switzerland (FSS) and the canton of Aargau.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: New DoubleFinger Loader Targets Cryptocurrency Wallets with Stealer<a href="https://thehackernews.com/2023/06/beware-new-doublefinger-loader-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel multi-stage loader called  DoubleFinger  has been observed delivering a cryptocurrency stealer dubbed GreetingGhoul in what's an advanced attack targeting users in Europe, the U.S., and Latin America. "DoubleFinger is deployed on the target machine, when the victim opens a malicious PIF attachment in an email message, ultimately executing the first of DoubleFinger's loader stages," Kaspersky researcher Sergey Lozhkin  said  in a Monday report. The starting point of the attacks is a modified version of  espexe.exe  – which refers to Microsoft Windows Economical Service Provider application – that's engineered to execute shellcode responsible for retrieving a PNG image file from the image hosting service Imgur. The image employs steganographic trickery to conceal an encrypted payload that triggers a four-stage compromise chain which eventually culminates in the execution of the GreetingGhoul stealer on the infected host. A notable aspect of GreetingGho
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for June 2023 fixes 6 critical flaws<a href="https://securityaffairs.com/147452/security/microsoft-patch-tuesday-june-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates for June 2023 fixed 69 flaws in its products, including six critical issues.
+Microsoft Patch Tuesday security updates for June 2023 fixed 69 vulnerabilities in multiple products, including Microsoft Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lack of adequate investments hinders identity security efforts<a href="https://www.helpnetsecurity.com/2023/06/12/identity-related-incidents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations are still grappling with identity-related incidents, with an alarming 90% reporting one in the last 12 months, a 6% increase from last year, according to The Identity Defined Security Alliance (IDSA).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over Half of Security Leaders Lack Confidence in Protecting App Secrets, Study Reveals<a href="https://thehackernews.com/2023/06/over-half-of-security-leaders-lack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It might come as a surprise, but secrets management has become the elephant in the AppSec room. While security vulnerabilities like Common Vulnerabilities and Exposures (CVEs) often make headlines in the cybersecurity world, secrets management remains an overlooked issue that can have immediate and impactful consequences for corporate safety.  A recent study by GitGuardian found that 75% of IT decision-makers in the US and the UK reported at least one secret leaked from an application, with 60% causing issues for the company or employees. Shockingly, less than half of respondents (48%) were confident in their ability to protect application secrets "to a great extent." The study, named  Voice of Practitioners: The State of Secrets in AppSec  (available for free download  here ), provides a fresh perspective on managing secrets, which is often reduced to clichés that do not reflect the operational reality in engineering departments.  Despite their ubiquity in modern cloud a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+St. Margaret’s Health is the first hospital to cite a cyberattack as a reason for its closure<a href="https://securityaffairs.com/147430/cyber-crime/st-margarets-health-closes-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+St. Margaret’s Health in Illinois is partly closing operations at its hospitals due to a 2021 ransomware attack that impacted its payment system.
+In February 2021a ransomware attack hit the St. Margaret’s Health in Illinois and forced the organization...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Played Major Role in Shutdown of Illinois Hospital<a href="https://www.securityweek.com/ransomware-attack-played-major-role-in-shutdown-of-illinois-hospital/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack occurred in February 2021 and forced the shutdown of the Spring Valley hospital’s computer network, impacting all web-based operations, including its patient portal. The Peru branch was not affected, as it operated on a separate system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adversary-in-the-Middle Attack Campaign Hits Dozens of Global Organizations<a href="https://thehackernews.com/2023/06/adversary-in-middle-attack-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Dozens" of organizations across the world have been targeted as part of a broad business email compromise ( BEC ) campaign that involved the use of adversary-in-the-middle ( AitM ) techniques to carry out the attacks. "Following a successful phishing attempt, the threat actor gained initial access to one of the victim employee's account and executed an 'adversary-in-the-middle' attack to bypass Office365 authentication and gain persistence access to that account," Sygnia researchers  said  in a report shared with The Hacker News. "Once gaining persistence, the threat actor exfiltrated data from the compromised account and used his access to spread the phishing attacks against other victim's employees along with several external targeted organizations." The findings come less than a week after Microsoft  detailed  a similar combination of an AitM phishing and a BEC attack aimed at banking and financial services organizations. BEC scam
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A database containing data of +8.9 million Zacks users was leaked online<a href="https://securityaffairs.com/147425/data-breach/zacks-investment-research-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A database containing the personal information of more than 8.9 million Zacks Investment Research users was leaked on a cybercrime forum.
+A database containing personal information of 8,929,503 Zacks Investment Research users emerged on a popular...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoubleFinger Loader Delivers GreetingGhoul Stealer to Target Crypto Wallets<a href="https://cyware.com/news/doublefinger-loader-delivers-greetingghoul-stealer-to-target-crypto-wallets-0d161a1f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals have added a new malware loader called DoubleFinger to their arsenal for stealing cryptocurrency and business information.  GreetingGhoul   comprises   two major components that work together to steal cryptocurrency credentials.  To protect themselves, organizations must look at the  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar - Mastering API Security: Understanding Your True Attack Surface<a href="https://thehackernews.com/2023/06/webinar-mastering-api-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Believe it or not, your attack surface is expanding faster than you realize. How? APIs, of course! More formally known as application programming interfaces, API calls are growing twice as fast as HTML traffic, making APIs an ideal candidate for new security solutions aimed at protecting customer data, according to Cloudflare. According to the "Quantifying the Cost of API Insecurity" report, US businesses incurred upwards of $23 billion in losses from API-related breaches in 2022. In fact, 76% of cybersecurity professionals admitted to experiencing an API-related security incident. This is why you can't afford to ignore your API security posture , especially when you consider that APIs don't exist in a vacuum. The infrastructure components powering those critical APIs can suffer from security misconfigurations as well, leaving you open to unexpected breaches. However, this isn't something you or your AppSec teams can take on alone, both in terms of volume and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet urges to patch the critical RCE flaw CVE-2023-27997 in Fortigate firewalls<a href="https://securityaffairs.com/147417/security/fortinet-urges-patch-cve-2023-27997.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet addressed a new critical flaw, tracked as CVE-2023-27997, in FortiOS and FortiProxy that is likely exploited in a limited number of attacks.
+Fortinet has finally published an official advisory about the critical vulnerability, tracked as CVE-2023-27997 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SPECTRALVIPER Backdoor Focuses on Vietnamese Public Companies<a href="https://cyware.com/news/spectralviper-backdoor-focuses-on-vietnamese-public-companies-09cf6555"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vietnamese public companies have been targeted by the  SPECTRALVIPER backdoor  in an ongoing campaign.  The backdoor, a previously undisclosed x64 variant, offers various capabilities including file manipulation, token impersonation, and PE loading. SPECTRALVIPER can be compiled as an executable o ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Russian Nationals Charged for Masterminding Mt. Gox Crypto Exchange Hack<a href="https://thehackernews.com/2023/06/two-russian-nationals-charged-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) has charged two Russian nationals in connection with masterminding the 2014 digital heist of the now-defunct cryptocurrency exchange Mt. Gox. According to unsealed indictments released last week, Alexey Bilyuchenko, 43, and Aleksandr Verner, 29, have been accused of conspiring to launder approximately 647,000 bitcoins stolen from September 2011 through at least May 2014 as a result of unauthorized access to a server holding crypto wallets used by Mt. Gox customers. "Starting in 2011, Bilyuchenko and Verner stole a massive amount of cryptocurrency from Mt. Gox, contributing to the exchange's ultimate insolvency," Assistant Attorney General Kenneth A. Polite, Jr.  said  in a statement. "Armed with the ill-gotten gains from Mt. Gox, Bilyuchenko allegedly went on to help set up the notorious  BTC-e virtual currency exchange , which laundered funds for cyber criminals worldwide." Bilyuchenko and Verner are also alleged to hav
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK communications regulator Ofcom hacked with a MOVEit file transfer zero-day<a href="https://securityaffairs.com/147396/data-breach/ofcom-hacked-moveit-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK communications regulator Ofcom suffered a data breach after a Clop ransomware attack exploiting the MOVEit file transfer zero-day.
+UK's communications regulator Ofcom disclosed a data breach after a Clop ransomware attack. The threat actors exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC exploit for MOVEit Transfer CVE-2023-34362 flaw<a href="https://securityaffairs.com/147404/hacking/moveit-transfer-poc.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from Horizon3 have released a proof-of-concept (PoC) exploit code for the CVE-2023-34362 flaw. The experts created the PoC exploit by performing reverse engineering of the patch released by the company.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Scam Spoofs German Media, Broadband Conference Anga<a href="https://www.hackread.com/german-broadband-media-conference-anga-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have devised an intricate phishing attack by leveraging the reputation of Germany’s renowned Anga Com conference to send spoofed emails and create deceptive web pages, deceiving unsuspecting users into divulging their login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
