@@ -8,6 +8,78 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical FortiOS and FortiProxy Vulnerability Likely Exploited - Patch Now!<a href="https://thehackernews.com/2023/06/critical-fortios-and-fortiproxy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet on Monday disclosed that a&nbsp; newly patched critical flaw &nbsp;impacting FortiOS and FortiProxy may have been "exploited in a limited number of cases" in attacks targeting government, manufacturing, and critical infrastructure sectors. The&nbsp; vulnerability , tracked as&nbsp; CVE-2023-27997 &nbsp;(CVSS score: 9.2), concerns a&nbsp; heap-based buffer overflow &nbsp;vulnerability in FortiOS and FortiProxy SSL-VPN that could allow a remote attacker to execute arbitrary code or commands via specifically crafted requests. LEXFO security researchers Charles Fol and Dany Bach have been credited with discovering and reporting the flaw. It was addressed by Fortinet on June 9, 2023 in the following versions - FortiOS-6K7K version 7.0.12 or above FortiOS-6K7K version 6.4.13 or above FortiOS-6K7K version 6.2.15 or above FortiOS-6K7K version 6.0.17 or above FortiProxy version 7.2.4 or above FortiProxy version 7.0.10 or above FortiProxy version 2.0.13 or above FortiOS version 7.4.0 or above Fort
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC exploit for MOVEit Transfer CVE-2023-34362 flaw<a href="https://securityaffairs.com/147404/hacking/moveit-transfer-poc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security firm Horizon3 released proof-of-concept (PoC) exploit code for the remote code execution (RCE) flaw CVE-2023-34362 in the MOVEit Transfer MFT.
+MOVEit Transfer is a managed file transfer that is used by enterprises to securely transfer files...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Publisher Spoofing Bug in Microsoft Visual Studio Installer<a href="https://thehackernews.com/2023/06/researchers-uncover-publisher-spoofing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have warned about an "easily exploitable" flaw in the Microsoft Visual Studio installer that could be abused by a malicious actor to impersonate a legitimate publisher and distribute malicious extensions. "A threat actor could impersonate a popular publisher and issue a malicious extension to compromise a targeted system," Varonis researcher Dolev Taler&nbsp; said . "Malicious extensions have been used to steal sensitive information, silently access and change code, or take full control of a system." The vulnerability, which is tracked as&nbsp; CVE-2023-28299 &nbsp;(CVSS score: 5.5), was addressed by Microsoft as part of its&nbsp; Patch Tuesday updates &nbsp;for April 2023, describing it as a spoofing flaw. The bug discovered by Varonis has to do with the Visual Studio user interface, which allows for spoofed publisher digital signatures. Specifically, it trivially bypasses a restriction that prevents users from entering information in the "product
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet urges to patch a critical RCE flaw in Fortigate firewalls<a href="https://securityaffairs.com/147353/hacking/fortinet-fortigate-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet released security updates to fix a critical security flaw in its FortiGate firewalls that lead to remote code execution.
+Fortinet has released security patches to address a critical security vulnerability, tracked as&nbsp;CVE-2023-27997,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Flaw Discovered in Fortinet FortiGate Firewalls - Patch Now!<a href="https://thehackernews.com/2023/06/critical-rce-flaw-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has released patches to address a critical security flaw in its FortiGate firewalls that could be abused by a threat actor to achieve remote code execution. The vulnerability, tracked as&nbsp; CVE-2023-27997 , is "reachable pre-authentication, on every SSL VPN appliance," Lexfo Security researcher Charles Fol, who discovered and reported the flaw alongside Dany Bach,&nbsp; said &nbsp;in a tweet over the weekend. Details about the security flaw are currently withheld and Fortinet is yet to release an advisory, although the network security company is expected to publish more details in the coming days. French cybersecurity company Olympe Cyberdefense, in an independent alert,&nbsp; said &nbsp;the issue has been patched in versions 6.2.15, 6.4.13, 7.0.12, and 7.2.5. "The flaw would allow a hostile agent to interfere via the VPN, even if the MFA is activated," the firm noted. With Fortinet flaws&nbsp; emerging &nbsp;as a&nbsp; lucrative &nbsp; attack vector &nbsp;for threat actors in recent years, it&amp;#
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

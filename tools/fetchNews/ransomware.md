@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Entrants to Ransomware Unleash Frankenstein Malware<a href="https://www.bankinfosecurity.com/blogs/new-entrants-to-ransomware-unleash-frankenstein-malware-p-3459?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In their haste to make money, some new players are picking over the discarded remnants of previous ransomware groups, cobbling together ransomware rather than going through the trouble of coding bespoke crypto-locking software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

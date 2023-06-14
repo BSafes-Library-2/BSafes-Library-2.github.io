@@ -8,6 +8,35 @@ nav_order: 900140
 
 ## Outage
 ---
+June 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+St. Margaret’s Health is the first hospital to cite a cyberattack as a reason for its closure<a href="https://securityaffairs.com/147430/cyber-crime/st-margarets-health-closes-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+St. Margaret’s Health in Illinois is partly closing operations at its hospitals due to a 2021 ransomware attack that impacted its payment system.
+In February 2021a ransomware attack hit the St. Margaret’s Health in Illinois and forced the organization...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Played Major Role in Shutdown of Illinois Hospital<a href="https://www.securityweek.com/ransomware-attack-played-major-role-in-shutdown-of-illinois-hospital/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack occurred in February 2021 and forced the shutdown of the Spring Valley hospital’s computer network, impacting all web-based operations, including its patient portal. The Peru branch was not affected, as it operated on a separate system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

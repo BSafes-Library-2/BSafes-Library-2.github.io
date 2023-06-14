@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lack of adequate investments hinders identity security efforts<a href="https://www.helpnetsecurity.com/2023/06/12/identity-related-incidents/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations are still grappling with identity-related incidents, with an alarming 90% reporting one in the last 12 months, a 6% increase from last year, according to The Identity Defined Security Alliance (IDSA).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over Half of Security Leaders Lack Confidence in Protecting App Secrets, Study Reveals<a href="https://thehackernews.com/2023/06/over-half-of-security-leaders-lack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It might come as a surprise, but secrets management has become the elephant in the AppSec room. While security vulnerabilities like Common Vulnerabilities and Exposures (CVEs) often make headlines in the cybersecurity world, secrets management remains an overlooked issue that can have immediate and impactful consequences for corporate safety.&nbsp; A recent study by GitGuardian found that 75% of IT decision-makers in the US and the UK reported at least one secret leaked from an application, with 60% causing issues for the company or employees. Shockingly, less than half of respondents (48%) were confident in their ability to protect application secrets "to a great extent." The study, named&nbsp; Voice of Practitioners: The State of Secrets in AppSec &nbsp;(available for free download&nbsp; here ), provides a fresh perspective on managing secrets, which is often reduced to clichés that do not reflect the operational reality in engineering departments.&nbsp; Despite their ubiquity in modern cloud a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

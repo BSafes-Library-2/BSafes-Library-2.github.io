@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar - Mastering API Security: Understanding Your True Attack Surface<a href="https://thehackernews.com/2023/06/webinar-mastering-api-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Believe it or not, your attack surface is expanding faster than you realize. How? APIs, of course! More formally known as application programming interfaces, API calls are growing twice as fast as HTML traffic, making APIs an ideal candidate for new security solutions aimed at protecting customer data, according to Cloudflare. According to the "Quantifying the Cost of API Insecurity" report, US businesses incurred upwards of $23 billion in losses from API-related breaches in 2022. In fact, 76% of cybersecurity professionals admitted to experiencing an API-related security incident. This is why you can't afford to ignore your API security posture , especially when you consider that APIs don't exist in a vacuum. The infrastructure components powering those critical APIs can suffer from security misconfigurations as well, leaving you open to unexpected breaches. However, this isn't something you or your AppSec teams can take on alone, both in terms of volume and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

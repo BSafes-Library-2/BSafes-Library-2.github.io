@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using Powerful BatCloak Engine to Make Malware Fully Undetectable<a href="https://thehackernews.com/2023/06/cybercriminals-using-powerful-batcloak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fully undetectable (FUD) malware obfuscation engine named&nbsp; BatCloak &nbsp;is being used to deploy various malware strains since September 2022, while persistently evading antivirus detection. The samples grant "threat actors the ability to load numerous malware families and exploits with ease through highly obfuscated batch files," Trend Micro researchers&nbsp; said . About 79.6% of the total 784 artifacts unearthed have no detection across all security solutions, the cybersecurity firm added, highlighting BatCloak's ability to circumvent traditional detection mechanisms. The BatCloak engine forms the crux of an off-the-shelf batch file builder tool called Jlaive, which comes with capabilities to bypass Antimalware Scan Interface ( AMSI ) as well as compress and encrypt the primary payload to achieve heightened security evasion. The open-source tool, although taken down since it was made available via GitHub and GitLab in September 2022 by a developer named ch2sh, has been
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

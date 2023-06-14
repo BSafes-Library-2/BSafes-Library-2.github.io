@@ -8,6 +8,36 @@ nav_order: 900029
 
 ## Breach
 ---
+June 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A database containing data of +8.9 million Zacks users was leaked online<a href="https://securityaffairs.com/147425/data-breach/zacks-investment-research-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A database containing the personal information of more than 8.9 million Zacks Investment Research users was leaked on a cybercrime forum.
+A database containing personal information of 8,929,503 Zacks Investment Research users emerged on a popular...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK communications regulator Ofcom hacked with a MOVEit file transfer zero-day<a href="https://securityaffairs.com/147396/data-breach/ofcom-hacked-moveit-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK communications regulator Ofcom suffered a data breach after a Clop ransomware attack exploiting the MOVEit file transfer zero-day.
+UK's communications regulator Ofcom disclosed a data breach after a Clop ransomware attack. The threat actors exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adversary-in-the-Middle Attack Campaign Hits Dozens of Global Organizations<a href="https://thehackernews.com/2023/06/adversary-in-middle-attack-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Dozens" of organizations across the world have been targeted as part of a broad business email compromise ( BEC ) campaign that involved the use of adversary-in-the-middle ( AitM ) techniques to carry out the attacks. "Following a successful phishing attempt, the threat actor gained initial access to one of the victim employee's account and executed an 'adversary-in-the-middle' attack to bypass Office365 authentication and gain persistence access to that account," Sygnia researchers&nbsp; said &nbsp;in a report shared with The Hacker News. "Once gaining persistence, the threat actor exfiltrated data from the compromised account and used his access to spread the phishing attacks against other victim's employees along with several external targeted organizations." The findings come less than a week after Microsoft&nbsp; detailed &nbsp;a similar combination of an AitM phishing and a BEC attack aimed at banking and financial services organizations. BEC scam
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
