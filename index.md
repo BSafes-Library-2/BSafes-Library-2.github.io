@@ -34,6 +34,332 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ICS Patch Tuesday: Siemens Addresses Over 180 Third-Party Component Vulnerabilities<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-addresses-over-180-third-party-component-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens has released a dozen new advisories covering roughly 200 vulnerabilities, with a majority of these flaws impacting third-party components. Schneider Electric has released four advisories covering five vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Exploit VMware Zero-Day to Backdoor Windows and Linux Systems<a href="https://thehackernews.com/2023/06/chinese-hackers-exploit-vmware-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese state-sponsored group known as  UNC3886  has been found to exploit a zero-day flaw in VMware ESXi hosts to backdoor Windows and Linux systems. The VMware Tools authentication bypass vulnerability, tracked as  CVE-2023-20867  (CVSS score: 3.9), "enabled the execution of privileged commands across Windows, Linux, and PhotonOS (vCenter) guest VMs without authentication of guest credentials from a compromised ESXi host and no default logging on guest VMs," Mandiant  said . UNC3886 was  initially documented  by the Google-owned threat intelligence firm in September 2022 as a cyber espionage actor infecting VMware ESXi and vCenter servers with backdoors named VIRTUALPITA and VIRTUALPIE. Earlier this March, the group was  linked  to the exploitation of a now-patched medium-severity security flaw in the Fortinet FortiOS operating system to deploy implants on the network appliances and interact with the aforementioned malware. The threat actor has been described as a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft links Cadet Blizzard APT to Russia’s military intelligence GRU<a href="https://securityaffairs.com/147470/apt/cadet-blizzard-apt-gru.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft linked a series of wiping attacks to a Russia-linked APT group, tracked as Cadet Blizzard, that is under the control of the GRU.
+Microsoft attributes the operations carried out by the Russia-linked APT group tracked as Cadet Blizzard to the Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deep dive into the Pikabot cyber threat<a href="https://news.sophos.com/en-us/2023/06/12/deep-dive-into-the-pikabot-cyber-threat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pikabot operates as a backdoor, enabling remote access to compromised systems, and receives commands from a C2 server. It uses anti-analysis techniques and deploys an injector to run tests before injecting its core module into a specified process.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Vulnerabilities Reported in Microsoft Azure Bastion and Container Registry<a href="https://thehackernews.com/2023/06/severe-vulnerabilities-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two "dangerous" security vulnerabilities have been disclosed in Microsoft Azure Bastion and Azure Container Registry that could have been exploited to carry out cross-site scripting (XSS) attacks. "The vulnerabilities allowed unauthorized access to the victim's session within the compromised Azure service iframe, which can lead to severe consequences, including unauthorized data access, unauthorized modifications, and disruption of the Azure services iframes," Orca security researcher Lidor Ben Shitrit  said  in a report shared with The Hacker News. XSS attacks  take place when threat actors inject arbitrary code into an otherwise trusted website, which then gets executed every time when unsuspecting users visit the site. The two flaws identified by Orca leverage a weakness in the postMessage iframe, which enables cross-origin communication between Window objects. This meant that the shortcoming could be abused to embed endpoints within remote servers usin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw found in WooCommerce Stripe Gateway Plugin used by +900K sites<a href="https://securityaffairs.com/147464/security/woocommerce-stripe-payment-gateway-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundreds of thousands of online stores are potentially exposed to hacking due to a critical vulnerability in the WooCommerce Stripe Payment Gateway plugin.
+The WooCommerce Stripe Payment Gateway plugin is affected by a critical vulnerability tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PikaBot Trojan Executes Diverse Range of Commands<a href="https://cyware.com/news/new-pikabot-trojan-executes-diverse-range-of-commands-b77601bc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have dissected a new modular malware trojan, dubbed Pikabot, that can execute a diverse range of malicious commands. The trojan self-terminates if the system’s language is Georgian, Kazakh, Uzbek, or Tajik.  To stay safe, organizations must deploy the necessary detection tools to root o ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Golang-based Skuld Malware Stealing Discord and Browser Data from Windows PCs<a href="https://thehackernews.com/2023/06/new-golang-based-skuld-malware-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Golang-based information stealer called  Skuld  has compromised Windows systems across Europe, Southeast Asia, and the U.S. "This new malware strain tries to steal sensitive information from its victims," Trellix researcher Ernesto Fernández Provecho  said  in a Tuesday analysis. "To accomplish this task, it searches for data stored in applications such as Discord and web browsers; information from the system and files stored in the victim's folders." Skuld, which shares overlaps with publicly available stealers like  Creal Stealer ,  Luna Grabber , and  BlackCap Grabber , is the handiwork of a developer who goes by the online alias Deathined on various social media platforms like GitHub, Twitter, Reddit, and Tumblr. Also spotted by Trellix is a Telegram group named deathinews, indicating that these online avenues could be used to promote the offering in the future as a service for other threat actors. The malware, upon execution, checks if it's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unveiling the Balada injector: a malware epidemic in WordPress<a href="https://securityaffairs.com/147460/malware/balada-injector-malware-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Learn the shocking truth behind the Balada Injector campaign and find out how to protect your organization from this relentless viral invasion.
+A deadly cyber campaign has been working silently to undermine website security by exploiting popular WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 181,000 Patients' Records at Pennsylvania Cardiology Group Breached<a href="https://news.yahoo.com/records-more-181-000-patients-000400881.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach of the cardiology group first occurred on Feb 2 in data maintained by Commonwealth Health Physician Network-Cardiology, aka Great Valley Cardiology (GVC). The breach wasn't discovered until April 13, the system said in a news release.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Where from, Where to — The Evolution of Network Security<a href="https://thehackernews.com/2023/06/where-from-where-to-evolution-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the better part of the 90s and early aughts, the sysadmin handbook said, " Filter your incoming traffic, not everyone is nice out there " (later coined by Gandalf as " You shall not pass "). So CIOs started to supercharge their network fences with every appliance they could get to protect against inbound (aka INGRESS) traffic. In the wake of the first mass phishing campaigns in the early 2010s, it became increasingly obvious that someone had to deal with the employees and, more and specifically, their stunning capacity to click on every link they'd receive. Outbound traffic filtering (aka EGRESS) became an obsession. Browser security, proxies, and other glorified antiviruses became the must-have every consulting firm would advise their clients to get their hands on ASAP. The risk was real, and the response was fairly adapted, but it also contributed to the famous " super soldier " stance. I'm alone against an army? So be it, I'll dig a t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT UNC3886 used VMware ESXi Zero-Day<a href="https://securityaffairs.com/147436/apt/unc3886-vmware-esxi-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked APT group tracked as UNC3886 has been spotted exploiting a VMware ESXi zero-day vulnerability.
+Mandiant researchers observed a China-linked cyberespionage group, tracked as UNC3886, exploiting a VMware ESXi zero-day vulnerability tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France accuses Russians of impersonating French government and media to spread disinformation<a href="https://therecord.media/france-accuses-russians-of-impersonating-french-government-media-misinformation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign impersonated four of France's most popular daily newspapers — 20 Minutes, Le Monde, Le Parisien, and Le Figaro — publishing “at least 58 articles” on the fake sites to push these false narratives, according to VIGINIUM.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Researcher Profiles Spread Malware through GitHub Repositories as PoC Exploits<a href="https://thehackernews.com/2023/06/fake-researcher-profiles-spread-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least half of dozen GitHub accounts from fake researchers associated with a fraudulent cybersecurity company have been observed pushing malicious repositories on the code hosting service. All seven repositories, which are still available as of writing, claim to be a proof-of-concept (PoC) exploit for purported zero-day flaws in Discord, Google Chrome, and Microsoft Exchange Server. VulnCheck, which discovered the activity,  said , "the individuals creating these repositories have put significant effort into making them look legitimate by creating a network of accounts and Twitter profiles, pretending to be part of a non-existent company called High Sierra Cyber Security." The cybersecurity firm said it first came across the rogue repositories in early May when they were observed releasing similar PoC exploits for zero-day bugs in Signal and WhatsApp. The two repositories have since been taken down. Besides sharing some of the purported findings on Twitter in an attem
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LLM meets Malware: Starting the Era of Autonomous Threat<a href="https://securityaffairs.com/147447/malware/llm-meets-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware researchers analyzed the application of Large Language Models (LLM) to malware automation investigating future abuse in autonomous threats.
+Executive Summary
+In this report we shared some insight that emerged during our exploratory research,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BatCloak: Obfuscation Solution Outwitting 80% of AV Engines<a href="https://cyware.com/news/batcloak-obfuscation-solution-outwitting-80-of-av-engines-373edb5d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro cautioned about the utilization of BatCloak, a tool designed to obfuscate batch files and evade antivirus detection engines with an 80% success rate. This ongoing research showcases the continuous evolution of the BatCloak engine, aiming to achieve compatibility with a wide range of mal ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Vulnerability Discovered in WooCommerce Stripe Gateway Plugin<a href="https://thehackernews.com/2023/06/critical-security-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw has been uncovered in the WooCommerce Stripe Gateway WordPress plugin that could lead to the unauthorized disclosure of sensitive information. The flaw, tracked as  CVE-2023-34000 , impacts versions 7.4.0 and below. It was addressed by the plugin maintainers in version 7.4.1, which shipped on May 30, 2023. WooCommerce Stripe Gateway  allows  e-commerce websites to directly accept various payment methods through Stripe's payment processing API. It boasts of over 900,000 active installations. According to Patch security researcher Rafie Muhammad, the plugin suffers from what's called an unauthenticated Insecure direct object references ( IDOR ) vulnerability, which allows a bad actor to bypass authorization and access resources. Specially, the problem stems from the insecure handling of order objects and a lack of adequate access control mechanism in the plugin's 'javascript_params' and 'payment_fields' functions of the plugin. "Thi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thales to Buy Tesserent for $119.1M to Aid Australian Growth<a href="https://www.bankinfosecurity.com/thales-to-buy-tesserent-for-1191m-to-aid-australian-growth-a-22287?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A French conglomerate plans to purchase Australia's largest publicly traded cybersecurity company to expand its cyber service delivery capability in the high-growth Oceania market.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Updates to Patch Critical Flaws in Windows and Other Software<a href="https://thehackernews.com/2023/06/microsoft-releases-updates-to-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has rolled out fixes for its Windows operating system and other software components to remediate major security shortcomings as part of  Patch Tuesday updates  for June 2023. Of the 73 flaws, six are rated Critical, 63 are rated Important, two are rated Moderate, and one is rated Low in severity. This also includes three issues the tech giant addressed in its Chromium-based Edge browser. It's worth noting that Microsoft also closed out  26 other flaws  in Edge – all of them rooted in Chromium itself – since the release of May Patch Tuesday updates. This comprises  CVE-2023-3079 , a zero-day bug that Google disclosed as being actively exploited in the wild last week. The June 2023 updates also mark the first time in several months that doesn't feature any zero-day flaw in Microsoft products that's publicly known or under active attack at the time of release. Topping the list of fixes is  CVE-2023-29357  (CVSS score: 9.8), a privilege escalation flaw in ShareP
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Research Shows Potential of Electromagnetic Fault Injection Attacks Against Drones<a href="https://www.securityweek.com/new-research-shows-potential-of-electromagnetic-fault-injection-attacks-against-drones/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research shows the potential of electromagnetic fault injection (EMFI) attacks against unmanned aerial vehicles, with experts showing how drones that don’t have any known vulnerabilities could be hacked.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
