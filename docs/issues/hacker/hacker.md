@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Exploit VMware Zero-Day to Backdoor Windows and Linux Systems<a href="https://thehackernews.com/2023/06/chinese-hackers-exploit-vmware-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese state-sponsored group known as&nbsp; UNC3886 &nbsp;has been found to exploit a zero-day flaw in VMware ESXi hosts to backdoor Windows and Linux systems. The VMware Tools authentication bypass vulnerability, tracked as&nbsp; CVE-2023-20867 &nbsp;(CVSS score: 3.9), "enabled the execution of privileged commands across Windows, Linux, and PhotonOS (vCenter) guest VMs without authentication of guest credentials from a compromised ESXi host and no default logging on guest VMs," Mandiant&nbsp; said . UNC3886 was&nbsp; initially documented &nbsp;by the Google-owned threat intelligence firm in September 2022 as a cyber espionage actor infecting VMware ESXi and vCenter servers with backdoors named VIRTUALPITA and VIRTUALPIE. Earlier this March, the group was&nbsp; linked &nbsp;to the exploitation of a now-patched medium-severity security flaw in the Fortinet FortiOS operating system to deploy implants on the network appliances and interact with the aforementioned malware. The threat actor has been described as a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

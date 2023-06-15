@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thales to Buy Tesserent for $119.1M to Aid Australian Growth<a href="https://www.bankinfosecurity.com/thales-to-buy-tesserent-for-1191m-to-aid-australian-growth-a-22287?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A French conglomerate plans to purchase Australia's largest publicly traded cybersecurity company to expand its cyber service delivery capability in the high-growth Oceania market.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

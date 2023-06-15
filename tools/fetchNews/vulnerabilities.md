@@ -11,6 +11,36 @@ nav_order: 900220
 June 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for June 2023 fixes 6 critical flaws<a href="https://securityaffairs.com/147452/security/microsoft-patch-tuesday-june-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates for June 2023 fixed 69 flaws in its products, including six critical issues.
+Microsoft Patch Tuesday security updates for June 2023 fixed 69 vulnerabilities in multiple products, including Microsoft Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet urges to patch the critical RCE flaw CVE-2023-27997 in Fortigate firewalls<a href="https://securityaffairs.com/147417/security/fortinet-urges-patch-cve-2023-27997.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet addressed a&nbsp;new critical flaw, tracked as CVE-2023-27997,&nbsp;in FortiOS and FortiProxy that is likely exploited in a limited number of attacks.
+Fortinet has finally published an official advisory about the critical vulnerability, tracked as&nbsp;CVE-2023-27997&nbsp;(CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Critical FortiOS and FortiProxy Vulnerability Likely Exploited - Patch Now!<a href="https://thehackernews.com/2023/06/critical-fortios-and-fortiproxy.html"> Full Text</a>
 </p>
 <details>

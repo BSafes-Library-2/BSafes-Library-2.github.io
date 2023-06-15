@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Russian Nationals Charged for Masterminding Mt. Gox Crypto Exchange Hack<a href="https://thehackernews.com/2023/06/two-russian-nationals-charged-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) has charged two Russian nationals in connection with masterminding the 2014 digital heist of the now-defunct cryptocurrency exchange Mt. Gox. According to unsealed indictments released last week, Alexey Bilyuchenko, 43, and Aleksandr Verner, 29, have been accused of conspiring to launder approximately 647,000 bitcoins stolen from September 2011 through at least May 2014 as a result of unauthorized access to a server holding crypto wallets used by Mt. Gox customers. "Starting in 2011, Bilyuchenko and Verner stole a massive amount of cryptocurrency from Mt. Gox, contributing to the exchange's ultimate insolvency," Assistant Attorney General Kenneth A. Polite, Jr.&nbsp; said &nbsp;in a statement. "Armed with the ill-gotten gains from Mt. Gox, Bilyuchenko allegedly went on to help set up the notorious&nbsp; BTC-e virtual currency exchange , which laundered funds for cyber criminals worldwide." Bilyuchenko and Verner are also alleged to hav
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

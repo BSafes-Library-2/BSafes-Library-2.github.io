@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoubleFinger Loader Delivers GreetingGhoul Stealer to Target Crypto Wallets<a href="https://cyware.com/news/doublefinger-loader-delivers-greetingghoul-stealer-to-target-crypto-wallets-0d161a1f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals have added a new malware loader called DoubleFinger to their arsenal for stealing cryptocurrency and business information.  GreetingGhoul   comprises   two major components that work together to steal cryptocurrency credentials.  To protect themselves, organizations must look at the  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

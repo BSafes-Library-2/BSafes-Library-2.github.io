@@ -8,6 +8,77 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ICS Patch Tuesday: Siemens Addresses Over 180 Third-Party Component Vulnerabilities<a href="https://www.securityweek.com/ics-patch-tuesday-siemens-addresses-over-180-third-party-component-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens has released a dozen new advisories covering roughly 200 vulnerabilities, with a majority of these flaws impacting third-party components. Schneider Electric has released four advisories covering five vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Severe Vulnerabilities Reported in Microsoft Azure Bastion and Container Registry<a href="https://thehackernews.com/2023/06/severe-vulnerabilities-reported-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two "dangerous" security vulnerabilities have been disclosed in Microsoft Azure Bastion and Azure Container Registry that could have been exploited to carry out cross-site scripting (XSS) attacks. "The vulnerabilities allowed unauthorized access to the victim's session within the compromised Azure service iframe, which can lead to severe consequences, including unauthorized data access, unauthorized modifications, and disruption of the Azure services iframes," Orca security researcher Lidor Ben Shitrit&nbsp; said &nbsp;in a report shared with The Hacker News. XSS attacks &nbsp;take place when threat actors inject arbitrary code into an otherwise trusted website, which then gets executed every time when unsuspecting users visit the site. The two flaws identified by Orca leverage a weakness in the postMessage iframe, which enables cross-origin communication between Window objects. This meant that the shortcoming could be abused to embed endpoints within remote servers usin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical flaw found in WooCommerce Stripe Gateway Plugin used by +900K sites<a href="https://securityaffairs.com/147464/security/woocommerce-stripe-payment-gateway-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundreds of thousands of online stores are potentially exposed to hacking due to a critical vulnerability in the WooCommerce Stripe Payment Gateway plugin.
+The WooCommerce Stripe Payment Gateway plugin is affected by a critical vulnerability tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Vulnerability Discovered in WooCommerce Stripe Gateway Plugin<a href="https://thehackernews.com/2023/06/critical-security-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw has been uncovered in the WooCommerce Stripe Gateway WordPress plugin that could lead to the unauthorized disclosure of sensitive information. The flaw, tracked as&nbsp; CVE-2023-34000 , impacts versions 7.4.0 and below. It was addressed by the plugin maintainers in version 7.4.1, which shipped on May 30, 2023. WooCommerce Stripe Gateway&nbsp; allows &nbsp;e-commerce websites to directly accept various payment methods through Stripe's payment processing API. It boasts of over 900,000 active installations. According to Patch security researcher Rafie Muhammad, the plugin suffers from what's called an unauthenticated Insecure direct object references ( IDOR ) vulnerability, which allows a bad actor to bypass authorization and access resources. Specially, the problem stems from the insecure handling of order objects and a lack of adequate access control mechanism in the plugin's 'javascript_params' and 'payment_fields' functions of the plugin. "Thi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2023a <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Updates to Patch Critical Flaws in Windows and Other Software<a href="https://thehackernews.com/2023/06/microsoft-releases-updates-to-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has rolled out fixes for its Windows operating system and other software components to remediate major security shortcomings as part of&nbsp; Patch Tuesday updates &nbsp;for June 2023. Of the 73 flaws, six are rated Critical, 63 are rated Important, two are rated Moderate, and one is rated Low in severity. This also includes three issues the tech giant addressed in its Chromium-based Edge browser. It's worth noting that Microsoft also closed out&nbsp; 26 other flaws &nbsp;in Edge – all of them rooted in Chromium itself – since the release of May Patch Tuesday updates. This comprises&nbsp; CVE-2023-3079 , a zero-day bug that Google disclosed as being actively exploited in the wild last week. The June 2023 updates also mark the first time in several months that doesn't feature any zero-day flaw in Microsoft products that's publicly known or under active attack at the time of release. Topping the list of fixes is&nbsp; CVE-2023-29357 &nbsp;(CVSS score: 9.8), a privilege escalation flaw in ShareP
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

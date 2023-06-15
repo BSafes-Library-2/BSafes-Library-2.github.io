@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+June 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unveiling the Balada injector: a malware epidemic in WordPress<a href="https://securityaffairs.com/147460/malware/balada-injector-malware-wordpress.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Learn the shocking truth behind the Balada Injector campaign and find out how to protect your organization from this relentless viral invasion.
+A deadly cyber campaign has been working silently to undermine website security by exploiting popular WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Research Shows Potential of Electromagnetic Fault Injection Attacks Against Drones<a href="https://www.securityweek.com/new-research-shows-potential-of-electromagnetic-fault-injection-attacks-against-drones/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research shows the potential of electromagnetic fault injection (EMFI) attacks against unmanned aerial vehicles, with experts showing how drones that don’t have any known vulnerabilities could be hacked.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

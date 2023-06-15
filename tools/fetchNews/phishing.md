@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Scam Spoofs German Media, Broadband Conference Anga<a href="https://www.hackread.com/german-broadband-media-conference-anga-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have devised an intricate phishing attack by leveraging the reputation of Germany’s renowned Anga Com conference to send spoofed emails and create deceptive web pages, deceiving unsuspecting users into divulging their login credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,36 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft links Cadet Blizzard APT to Russia’s military intelligence GRU<a href="https://securityaffairs.com/147470/apt/cadet-blizzard-apt-gru.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft linked a series of wiping attacks to a Russia-linked APT group, tracked as&nbsp;Cadet Blizzard, that is under the control of the GRU.
+Microsoft attributes the operations carried out by the Russia-linked APT group tracked as Cadet Blizzard to the Russian...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT UNC3886 used VMware ESXi Zero-Day<a href="https://securityaffairs.com/147436/apt/unc3886-vmware-esxi-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked APT group tracked as UNC3886 has been spotted exploiting a VMware ESXi zero-day vulnerability.
+Mandiant researchers observed a China-linked cyberespionage group, tracked as UNC3886, exploiting a VMware ESXi zero-day vulnerability tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
