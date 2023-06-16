@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Hackers and Scammers Utilizing Cloud Mining to Launder Cryptocurrency<a href="https://thehackernews.com/2023/06/ransomware-hackers-and-scammers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware actors and cryptocurrency scammers have joined nation-state actors in abusing cloud mining services to launder digital assets, new findings reveal. "Cryptocurrency mining is a crucial part of our industry, but it also holds special appeal to bad actors, as it provides a means to acquire money with a totally clean on-chain original source," blockchain analytics firm Chainalysis&nbsp; said &nbsp;in a report shared with The Hacker News. Earlier this March, Google Mandiant&nbsp; disclosed &nbsp;North Korea-based APT43's use of the hash rental and cloud mining services to obscure the forensic trail and wash the stolen cryptocurrency "clean." Cloud mining services &nbsp;allow users to rent a computer system and use that computer's hash power to mine cryptocurrencies without having to manage the mining hardware themselves. But according to Chainalysis, it's not just nation-state hacking crews who are leveraging such services in the wild. In one example highlighted by
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

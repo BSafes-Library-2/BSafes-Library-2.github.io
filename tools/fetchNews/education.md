@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Where from, Where to — The Evolution of Network Security<a href="https://thehackernews.com/2023/06/where-from-where-to-evolution-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the better part of the 90s and early aughts, the sysadmin handbook said, " Filter your incoming traffic, not everyone is nice out there " (later coined by Gandalf as " You shall not pass "). So CIOs started to supercharge their network fences with every appliance they could get to protect against inbound (aka INGRESS) traffic. In the wake of the first mass phishing campaigns in the early 2010s, it became increasingly obvious that someone had to deal with the employees and, more and specifically, their stunning capacity to click on every link they'd receive. Outbound traffic filtering (aka EGRESS) became an obsession. Browser security, proxies, and other glorified antiviruses became the must-have every consulting firm would advise their clients to get their hands on ASAP. The risk was real, and the response was fairly adapted, but it also contributed to the famous " super soldier " stance. I'm alone against an army? So be it, I'll dig a t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

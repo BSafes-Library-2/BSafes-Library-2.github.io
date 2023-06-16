@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2023 - CISA, FBI, MS-ISAC
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding Ransomware Threat Actors: LockBit <a href="https://www.cisa.gov/sites/default/files/2023-06/aa23-165a_understanding_TA_LockBit.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2022, LockBit was the most deployed ransomware variant across the world and continues to be prolific in 2023. Since January 2020, affiliates using LockBit have attacked organizations of varying sizes across an array of critical infrastructure sectors, including financial services, food and agriculture, education, energy, government and emergency services, healthcare, manufacturing, and transportation. LockBit ransomware operation functions as a Ransomware-as-a-Service (RaaS) model where affiliates are recruited to conduct ransomware attacks using LockBit ransomware tools and infrastructure. Due to the large number of unconnected affiliates in the operation, LockBit ransomware attacks vary significantly in observed tactics, techniques, and procedures (TTPs). This variance in observed ransomware TTPs presents a notable challenge for organizations working to maintain network security and protect against a ransomware threat
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 7, 2023 - CISA, FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

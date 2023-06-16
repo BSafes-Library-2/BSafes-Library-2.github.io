@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea created evil twin of South Korea's Naver.com<a href="https://www.theregister.com/2023/06/15/north_korea_fake_naver_attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea has created a fake version of South Korea's largest internet portal, Naver, in a large-scale phishing attempt, Seoul's National Intelligence Service (NIS) said on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

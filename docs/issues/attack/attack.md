@@ -8,6 +8,49 @@ nav_order: 900015
 
 ## Attack
 ---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Barracuda ESG zero-day exploited by China-linked APT<a href="https://securityaffairs.com/147511/apt/barracuda-esg-zero-day-china-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts linked the UNC4841 threat actor behind the attacks exploiting the recently patched Barracuda ESG zero-day to China.
+Mandiant researchers linked the threat actor UNC4841 behind the attacks that exploited the recently patched Barracuda ESG zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Supply Chain Attack Exploits Abandoned S3 Buckets to Distribute Malicious Binaries<a href="https://thehackernews.com/2023/06/new-supply-chain-attack-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's a new kind of software supply chain attack aimed at open source projects, it has emerged that threat actors could seize control of expired Amazon S3 buckets to serve rogue binaries without altering the modules themselves. "Malicious binaries steal the user IDs, passwords, local machine environment variables, and local host name, and then exfiltrates the stolen data to the hijacked bucket," Checkmarx researcher Guy Nachshon said. The attack was first observed in the case of an npm package called&nbsp; bignum , which, until version 0.13.0, relied on an Amazon S3 bucket to download pre-built binary versions of an addon named node-pre-gyp during installation. "These binaries were published on a now-expired S3 bucket which has since been claimed by a malicious third party which is now serving binaries containing malware that exfiltrates data from the user's computer," according to a&nbsp; GitHub advisory &nbsp;published on May 24, 2023. An unknown threat actor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Links Data Wiping Attacks on Ukraine to New Russian Threat Actor<a href="https://www.bankinfosecurity.com/microsoft-links-2022-whispergate-kyiv-attacks-to-russia-a-22298?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The computing giant dubbed the threat actor Cadet Blizzard and said it's distinct from other well-known Russian military intelligence hacking groups, such as Sandworm and APT28, which is also known as Fancy Bear.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

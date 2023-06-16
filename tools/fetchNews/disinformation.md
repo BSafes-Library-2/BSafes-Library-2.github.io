@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+June 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France accuses Russians of impersonating French government and media to spread disinformation<a href="https://therecord.media/france-accuses-russians-of-impersonating-french-government-media-misinformation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign impersonated four of France's most popular daily newspapers — 20 Minutes, Le Monde, Le Parisien, and Le Figaro — publishing “at least 58 articles” on the fake sites to push these false narratives, according to VIGINIUM.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SeroXen Incorporates Latest BatCloak Engine Iteration<a href="https://www.trendmicro.com/en_us/research/23/f/seroxen-incorporates-latest-batcloak-engine-iteration.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Hackers and Scammers Utilizing Cloud Mining to Launder Cryptocurrency<a href="https://thehackernews.com/2023/06/ransomware-hackers-and-scammers.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Dynamics of the Ukrainian IT Army’s Campaign in Russia<a href="https://www.lawfareblog.com/dynamics-ukrainian-it-armys-campaign-russia"> Full Text</a>
@@ -82,7 +82,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Proposed NIST Updates and Data Incident Response Planning<a href="https://www.lawfareblog.com/proposed-nist-updates-and-data-incident-response-planning"> Full Text</a>
@@ -98,7 +98,7 @@ Lawfare
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Barracuda ESG zero-day exploited by China-linked APT<a href="https://securityaffairs.com/147511/apt/barracuda-esg-zero-day-china-apt.html"> Full Text</a>
@@ -115,7 +115,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea created evil twin of South Korea's Naver.com<a href="https://www.theregister.com/2023/06/15/north_korea_fake_naver_attack/?&web_view=true"> Full Text</a>
@@ -131,7 +131,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese UNC4841 Group Exploits Zero-Day Flaw in Barracuda Email Security Gateway<a href="https://thehackernews.com/2023/06/chinese-unc4841-group-exploits-zero-day.html"> Full Text</a>
@@ -147,7 +147,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked APT Gamaredon update TTPs in recent attacks against Ukraine<a href="https://securityaffairs.com/147497/apt/gamaredon-targets-ukraine-new-ttps.html"> Full Text</a>
@@ -164,7 +164,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 114 Update Patches Critical Vulnerability<a href="https://www.securityweek.com/chrome-114-update-patches-critical-vulnerability/?&web_view=true"> Full Text</a>
@@ -180,7 +180,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vidar Malware Using New Tactics to Evade Detection and Anonymize Activities<a href="https://thehackernews.com/2023/06/vidar-malware-using-new-tactics-to.html"> Full Text</a>
@@ -196,7 +196,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity agencies published a joint LockBit ransomware advisory<a href="https://securityaffairs.com/147482/cyber-crime/lockbit-ransomware-advisory.html"> Full Text</a>
@@ -213,7 +213,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android Spyware GravityRAT Goes After WhatsApp Backups<a href="https://www.welivesecurity.com/2023/06/15/android-gravityrat-goes-after-whatsapp-backups/?&web_view=true"> Full Text</a>
@@ -229,7 +229,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning: GravityRAT Android Trojan Steals WhatsApp Backups and Deletes Files<a href="https://thehackernews.com/2023/06/warning-gravityrat-android-trojan.html"> Full Text</a>
@@ -245,7 +245,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Command reshuffles force expansion due to Navy readiness woes<a href="https://therecord.media/cyber-command-reshuffles-cyber-mission-force-due-to-navy-readiness-woes?_hsmi=262517807&web_view=true"> Full Text</a>
@@ -261,7 +261,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Research: 6% of Employees Paste Sensitive Data into GenAI tools as ChatGPT<a href="https://thehackernews.com/2023/06/new-research-6-of-employees-paste.html"> Full Text</a>
@@ -277,7 +277,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BreachForums Returns Under the Control of ShinyHunters Hackers<a href="https://www.hackread.com/breachforums-returns-with-shinyhunters-hackers/?&web_view=true"> Full Text</a>
@@ -293,7 +293,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Supply Chain Attack Exploits Abandoned S3 Buckets to Distribute Malicious Binaries<a href="https://thehackernews.com/2023/06/new-supply-chain-attack-exploits.html"> Full Text</a>
@@ -309,7 +309,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 E-Commerce Firms Are Top Targets for API, Web Apps Attacks<a href="https://www.bankinfosecurity.com/e-commerce-firms-are-top-targets-for-api-web-apps-attacks-a-22283?&web_view=true"> Full Text</a>
@@ -325,7 +325,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Report Reveals Shuckworm's Long-Running Intrusions on Ukrainian Organizations<a href="https://thehackernews.com/2023/06/new-report-reveals-shuckworms-long.html"> Full Text</a>
@@ -341,7 +341,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Small organizations outpace large enterprises in MFA adoption<a href="https://www.helpnetsecurity.com/2023/06/15/mfa-adoption-hurdles/?&web_view=true"> Full Text</a>
@@ -357,7 +357,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of New Russian State-Sponsored Hacker Group with Destructive Intent<a href="https://thehackernews.com/2023/06/microsoft-warns-of-new-russian-state.html"> Full Text</a>
@@ -373,7 +373,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Links Data Wiping Attacks on Ukraine to New Russian Threat Actor<a href="https://www.bankinfosecurity.com/microsoft-links-2022-whispergate-kyiv-attacks-to-russia-a-22298?&web_view=true"> Full Text</a>
@@ -389,7 +389,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2023
+June 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit Ransomware Extorts $91 Million from U.S. Companies<a href="https://thehackernews.com/2023/06/lockbit-ransomware-extorts-91-million.html"> Full Text</a>

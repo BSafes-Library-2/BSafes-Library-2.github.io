@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Research: 6% of Employees Paste Sensitive Data into GenAI tools as ChatGPT<a href="https://thehackernews.com/2023/06/new-research-6-of-employees-paste.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The revolutionary technology of GenAI tools, such as ChatGPT, has brought significant risks to organizations' sensitive data. But what do we really know about this risk? A&nbsp; new research &nbsp;by Browser Security company LayerX sheds light on the scope and nature of these risks. The report titled "Revealing the True GenAI Data Exposure Risk" provides crucial insights for data protection stakeholders and empowers them to take proactive measures. The Numbers Behind the ChatGPT Risk By analyzing the usage of ChatGPT and other generative AI apps among 10,000 employees, the report has identified key areas of concern. One alarming finding reveals that 6% of employees have pasted sensitive data into GenAI, with 4% engaging in this risky behavior on a weekly basis. This recurring action poses a severe threat of data exfiltration for organizations. The report addresses vital risk assessment questions, including the actual scope of GenAI usage across enterprise workforces, the relati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E-Commerce Firms Are Top Targets for API, Web Apps Attacks<a href="https://www.bankinfosecurity.com/e-commerce-firms-are-top-targets-for-api-web-apps-attacks-a-22283?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers hit the e-commerce industry with 14 billion attacks in 15 months, pushing it to the top of the list of targets for web application and API exploits, according to a new report by Akamai.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Small organizations outpace large enterprises in MFA adoption<a href="https://www.helpnetsecurity.com/2023/06/15/mfa-adoption-hurdles/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The use of MFA has nearly doubled since 2020 and that phishing-resistant authenticators represent the best choice in terms of security and convenience for users, according to Okta.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
