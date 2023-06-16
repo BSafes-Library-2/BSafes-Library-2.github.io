@@ -34,6 +34,377 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SeroXen Incorporates Latest BatCloak Engine Iteration<a href="https://www.trendmicro.com/en_us/research/23/f/seroxen-incorporates-latest-batcloak-engine-iteration.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SeroXen malware uses advanced, fully undetectable (FUD) techniques to infect victims with hVNC-capable malware. The malware uses highly obfuscated batch files as the loading mechanism, utilizing the BatCloak obfuscation engine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Hackers and Scammers Utilizing Cloud Mining to Launder Cryptocurrency<a href="https://thehackernews.com/2023/06/ransomware-hackers-and-scammers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware actors and cryptocurrency scammers have joined nation-state actors in abusing cloud mining services to launder digital assets, new findings reveal. "Cryptocurrency mining is a crucial part of our industry, but it also holds special appeal to bad actors, as it provides a means to acquire money with a totally clean on-chain original source," blockchain analytics firm Chainalysis  said  in a report shared with The Hacker News. Earlier this March, Google Mandiant  disclosed  North Korea-based APT43's use of the hash rental and cloud mining services to obscure the forensic trail and wash the stolen cryptocurrency "clean." Cloud mining services  allow users to rent a computer system and use that computer's hash power to mine cryptocurrencies without having to manage the mining hardware themselves. But according to Chainalysis, it's not just nation-state hacking crews who are leveraging such services in the wild. In one example highlighted by
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Dynamics of the Ukrainian IT Army’s Campaign in Russia<a href="https://www.lawfareblog.com/dynamics-ukrainian-it-armys-campaign-russia"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian IT Army offers a unique perspective into the choices of an offensive actor in a war.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proposed NIST Updates and Data Incident Response Planning<a href="https://www.lawfareblog.com/proposed-nist-updates-and-data-incident-response-planning"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proposals to update NIST 800-171—the U.S. government’s primary information security standard for the private sector—coincides with escalation of cyberattack against U.S. businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Barracuda ESG zero-day exploited by China-linked APT<a href="https://securityaffairs.com/147511/apt/barracuda-esg-zero-day-china-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts linked the UNC4841 threat actor behind the attacks exploiting the recently patched Barracuda ESG zero-day to China.
+Mandiant researchers linked the threat actor UNC4841 behind the attacks that exploited the recently patched Barracuda ESG zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea created evil twin of South Korea's Naver.com<a href="https://www.theregister.com/2023/06/15/north_korea_fake_naver_attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea has created a fake version of South Korea's largest internet portal, Naver, in a large-scale phishing attempt, Seoul's National Intelligence Service (NIS) said on Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese UNC4841 Group Exploits Zero-Day Flaw in Barracuda Email Security Gateway<a href="https://thehackernews.com/2023/06/chinese-unc4841-group-exploits-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected China-nexus threat actor dubbed UNC4841 has been linked to the exploitation of a recently patched zero-day flaw in Barracuda Email Security Gateway (ESG) appliances since October 2022. "UNC4841 is an espionage actor behind this wide-ranging campaign in support of the People's Republic of China," Google-owned Mandiant said in a new report published today, describing the group as "aggressive and skilled." The flaw in question is CVE-2023-2868 (CVSS score: 9.8), which relates to a remote code injection affecting versions 5.1.3.001 through 9.2.0.006 that arises as a result of an incomplete validation of attachments contained within incoming emails. Barracuda addressed the problem on May 20 and 21, 2023, but the company has since urged affected customers to immediately replace the devices "regardless of patch version level." Now according to the incident response and threat intelligence firm, which was appointed to probe the hack, UNC4
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT Gamaredon update TTPs in recent attacks against Ukraine<a href="https://securityaffairs.com/147497/apt/gamaredon-targets-ukraine-new-ttps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT group Gamaredon is using a new toolset in attacks aimed at critical organizations in Ukraine.
+The Gamaredon APT group (aka Shuckworm, Actinium, Armageddon, Primitive Bear, UAC-0010, and Trident Ursa)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 114 Update Patches Critical Vulnerability<a href="https://www.securityweek.com/chrome-114-update-patches-critical-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new Chrome 114 update that resolves five vulnerabilities, including four critical- and high-severity bugs reported by external researchers. The most important of these is CVE-2023-3214, a critical use-after-free flaw in Autofill payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vidar Malware Using New Tactics to Evade Detection and Anonymize Activities<a href="https://thehackernews.com/2023/06/vidar-malware-using-new-tactics-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the  Vidar malware  have made changes to their backend infrastructure, indicating attempts to retool and conceal their online trail in response to public disclosures about their modus operandi. "Vidar threat actors continue to rotate their backend IP infrastructure, favoring providers in Moldova and Russia," cybersecurity company Team Cymru said in a new analysis shared with The Hacker News. Vidar  is a commercial information stealer that's known to be active since late 2018. It's also a fork of another stealer malware called  Arkei  and is offered for sale between $130 and $750 depending on the subscription tier. Typically delivered through phishing campaigns and sites advertising cracked software, the malware comes with a wide range of capabilities to harvest sensitive information from infected hosts. Vidar has also been  observed  to be distributed via rogue Google Ads and a malware loader dubbed Bumblebee. Team Cymru, in a  report
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity agencies published a joint LockBit ransomware advisory<a href="https://securityaffairs.com/147482/cyber-crime/lockbit-ransomware-advisory.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware group successfully extorted roughly $91 million from approximately 1,700 U.S. organizations since 2020.
+According to a joint advisory published by cybersecurity agencies, the LockBit ransomware group has successfully extorted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Spyware GravityRAT Goes After WhatsApp Backups<a href="https://www.welivesecurity.com/2023/06/15/android-gravityrat-goes-after-whatsapp-backups/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BingeChat campaign is ongoing and the spyware can exfiltrate WhatsApp backups and receive commands to delete files. The actor behind GravityRAT remains unknown, and the group is tracked internally as SpaceCobra.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: GravityRAT Android Trojan Steals WhatsApp Backups and Deletes Files<a href="https://thehackernews.com/2023/06/warning-gravityrat-android-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An updated version of an Android remote access trojan dubbed  GravityRAT  has been found masquerading as messaging apps BingeChat and Chatico as part of a narrowly targeted campaign since June 2022. "Notable in the newly discovered campaign, GravityRAT can exfiltrate WhatsApp backups and receive commands to delete files," ESET researcher Lukáš Štefanko  said  in a new report published today. "The malicious apps also provide legitimate chat functionality based on the open-source  OMEMO  Instant Messenger app." GravityRAT is the name given to a  cross-platform malware  that's capable of targeting Windows, Android, and macOS devices. The Slovak cybersecurity firm is tracking the activity under the name SpaceCobra. The threat actor is suspected to be based in Pakistan, with recent attacks involving GravityRAT targeting military personnel in India and among the Pakistan Air Force by camouflaging it as cloud storage and entertainment apps, as  disclosed  by Meta
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command reshuffles force expansion due to Navy readiness woes<a href="https://therecord.media/cyber-command-reshuffles-cyber-mission-force-due-to-navy-readiness-woes?_hsmi=262517807&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. military has rearranged a years-long effort to expand the "action arm" of its top cyber forces, according to multiple sources, as leaders try to balance fighting advanced foreign threats like China with maintaining basic readiness.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Research: 6% of Employees Paste Sensitive Data into GenAI tools as ChatGPT<a href="https://thehackernews.com/2023/06/new-research-6-of-employees-paste.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The revolutionary technology of GenAI tools, such as ChatGPT, has brought significant risks to organizations' sensitive data. But what do we really know about this risk? A  new research  by Browser Security company LayerX sheds light on the scope and nature of these risks. The report titled "Revealing the True GenAI Data Exposure Risk" provides crucial insights for data protection stakeholders and empowers them to take proactive measures. The Numbers Behind the ChatGPT Risk By analyzing the usage of ChatGPT and other generative AI apps among 10,000 employees, the report has identified key areas of concern. One alarming finding reveals that 6% of employees have pasted sensitive data into GenAI, with 4% engaging in this risky behavior on a weekly basis. This recurring action poses a severe threat of data exfiltration for organizations. The report addresses vital risk assessment questions, including the actual scope of GenAI usage across enterprise workforces, the relati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BreachForums Returns Under the Control of ShinyHunters Hackers<a href="https://www.hackread.com/breachforums-returns-with-shinyhunters-hackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious hacking group ShinyHunters, who has been responsible for numerous massive data leaks in the past, has assumed control of the revived platform, raising alarm among cybersecurity experts and law enforcement agencies worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Supply Chain Attack Exploits Abandoned S3 Buckets to Distribute Malicious Binaries<a href="https://thehackernews.com/2023/06/new-supply-chain-attack-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's a new kind of software supply chain attack aimed at open source projects, it has emerged that threat actors could seize control of expired Amazon S3 buckets to serve rogue binaries without altering the modules themselves. "Malicious binaries steal the user IDs, passwords, local machine environment variables, and local host name, and then exfiltrates the stolen data to the hijacked bucket," Checkmarx researcher Guy Nachshon said. The attack was first observed in the case of an npm package called  bignum , which, until version 0.13.0, relied on an Amazon S3 bucket to download pre-built binary versions of an addon named node-pre-gyp during installation. "These binaries were published on a now-expired S3 bucket which has since been claimed by a malicious third party which is now serving binaries containing malware that exfiltrates data from the user's computer," according to a  GitHub advisory  published on May 24, 2023. An unknown threat actor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E-Commerce Firms Are Top Targets for API, Web Apps Attacks<a href="https://www.bankinfosecurity.com/e-commerce-firms-are-top-targets-for-api-web-apps-attacks-a-22283?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers hit the e-commerce industry with 14 billion attacks in 15 months, pushing it to the top of the list of targets for web application and API exploits, according to a new report by Akamai.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report Reveals Shuckworm's Long-Running Intrusions on Ukrainian Organizations<a href="https://thehackernews.com/2023/06/new-report-reveals-shuckworms-long.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian threat actor known as  Shuckworm  has continued its cyber assault spree against Ukrainian entities in a bid to steal sensitive information from compromised environments. Targets of the recent intrusions, which began in February/March 2023, include security services, military, and government organizations, Symantec  said  in a new report shared with The Hacker News. "In some cases, the Russian group succeeded in staging long-running intrusions, lasting for as long as three months," the cybersecurity company said. "The attackers repeatedly attempted to access and steal sensitive information such as reports about the deaths of Ukrainian service members, reports from enemy engagements and air strikes, arsenal inventory reports, training reports, and more." Shuckworm, also known by the names Aqua Blizzard (formerly Actinium), Armageddon, Gamaredon, Iron Tilden, Primitive Bear, Trident Ursa, UNC530, and Winterflounder, is attributed to the Russia's Fe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Small organizations outpace large enterprises in MFA adoption<a href="https://www.helpnetsecurity.com/2023/06/15/mfa-adoption-hurdles/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The use of MFA has nearly doubled since 2020 and that phishing-resistant authenticators represent the best choice in terms of security and convenience for users, according to Okta.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New Russian State-Sponsored Hacker Group with Destructive Intent<a href="https://thehackernews.com/2023/06/microsoft-warns-of-new-russian-state.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday took the lid off a "novel and distinct Russian threat actor," which it said is linked to the General Staff Main Intelligence Directorate ( GRU ) and has a "relatively low success rate." The tech giant's Threat Intelligence team, which was previously tracking the group under its emerging moniker  DEV-0586 , has graduated it to a named actor dubbed  Cadet Blizzard . "Cadet Blizzard seeks to conduct disruption, destruction, and information collection, using whatever means are available and sometimes acting in a haphazard fashion," the company  said . "While the group carries high risk due to their destructive activity, they appear to operate with a lower degree of operational security than that of longstanding and advanced Russian groups such as  Seashell Blizzard  and  Forest Blizzard ." Cadet Blizzard first came to light in January 2022 in connection with destructive cyber activity targeting Ukraine using a novel w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Links Data Wiping Attacks on Ukraine to New Russian Threat Actor<a href="https://www.bankinfosecurity.com/microsoft-links-2022-whispergate-kyiv-attacks-to-russia-a-22298?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The computing giant dubbed the threat actor Cadet Blizzard and said it's distinct from other well-known Russian military intelligence hacking groups, such as Sandworm and APT28, which is also known as Fancy Bear.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Extorts $91 Million from U.S. Companies<a href="https://thehackernews.com/2023/06/lockbit-ransomware-extorts-91-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the  LockBit  ransomware-as-a-service (RaaS) scheme have extorted $91 million following hundreds of attacks against numerous U.S. organizations since 2020. That's according to a  joint bulletin  published by the U.S. Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), the Multi-State Information Sharing and Analysis Center (MS-ISAC), and other partner authorities from Australia, Canada, France, Germany, New Zealand, and the U.K. "The LockBit ransomware-as-a-service (RaaS) attracts affiliates to use LockBit for conducting ransomware attacks, resulting in a large web of unconnected threat actors conducting wildly varying attacks," the agencies  said . LockBit, which first burst onto the scene in late 2019, has continued to be disruptive and prolific, targeting as many as 76 victims in May 2023 alone, per statistics shared by  Malwarebytes  last week. The Russia-linked cartel has claimed responsibil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
