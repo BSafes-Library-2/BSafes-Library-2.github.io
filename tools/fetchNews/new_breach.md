@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Energy Department Entities Breached as Part of Massive MOVEit Transfer Compromise<a href="https://cyberscoop.com/energy-department-cl0p-moveit-cisa/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple federal agencies, including two Department of Energy entities, were victims of a cyberattack that resulted from a widespread vulnerability in MOVEit file transfer software, federal officials said Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

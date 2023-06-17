@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BreachForums Returns Under the Control of ShinyHunters Hackers<a href="https://www.hackread.com/breachforums-returns-with-shinyhunters-hackers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious hacking group ShinyHunters, who has been responsible for numerous massive data leaks in the past, has assumed control of the revived platform, raising alarm among cybersecurity experts and law enforcement agencies worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report Reveals Shuckworm's Long-Running Intrusions on Ukrainian Organizations<a href="https://thehackernews.com/2023/06/new-report-reveals-shuckworms-long.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian threat actor known as&nbsp; Shuckworm &nbsp;has continued its cyber assault spree against Ukrainian entities in a bid to steal sensitive information from compromised environments. Targets of the recent intrusions, which began in February/March 2023, include security services, military, and government organizations, Symantec&nbsp; said &nbsp;in a new report shared with The Hacker News. "In some cases, the Russian group succeeded in staging long-running intrusions, lasting for as long as three months," the cybersecurity company said. "The attackers repeatedly attempted to access and steal sensitive information such as reports about the deaths of Ukrainian service members, reports from enemy engagements and air strikes, arsenal inventory reports, training reports, and more." Shuckworm, also known by the names Aqua Blizzard (formerly Actinium), Armageddon, Gamaredon, Iron Tilden, Primitive Bear, Trident Ursa, UNC530, and Winterflounder, is attributed to the Russia's Fe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New Russian State-Sponsored Hacker Group with Destructive Intent<a href="https://thehackernews.com/2023/06/microsoft-warns-of-new-russian-state.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday took the lid off a "novel and distinct Russian threat actor," which it said is linked to the General Staff Main Intelligence Directorate ( GRU ) and has a "relatively low success rate." The tech giant's Threat Intelligence team, which was previously tracking the group under its emerging moniker&nbsp; DEV-0586 , has graduated it to a named actor dubbed&nbsp; Cadet Blizzard . "Cadet Blizzard seeks to conduct disruption, destruction, and information collection, using whatever means are available and sometimes acting in a haphazard fashion," the company&nbsp; said . "While the group carries high risk due to their destructive activity, they appear to operate with a lower degree of operational security than that of longstanding and advanced Russian groups such as&nbsp; Seashell Blizzard &nbsp;and&nbsp; Forest Blizzard ." Cadet Blizzard first came to light in January 2022 in connection with destructive cyber activity targeting Ukraine using a novel w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

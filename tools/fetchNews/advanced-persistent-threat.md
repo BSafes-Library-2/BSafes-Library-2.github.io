@@ -8,6 +8,35 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese UNC4841 Group Exploits Zero-Day Flaw in Barracuda Email Security Gateway<a href="https://thehackernews.com/2023/06/chinese-unc4841-group-exploits-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected China-nexus threat actor dubbed UNC4841 has been linked to the exploitation of a recently patched zero-day flaw in Barracuda Email Security Gateway (ESG) appliances since October 2022. "UNC4841 is an espionage actor behind this wide-ranging campaign in support of the People's Republic of China," Google-owned Mandiant said in a new report published today, describing the group as "aggressive and skilled." The flaw in question is CVE-2023-2868 (CVSS score: 9.8), which relates to a remote code injection affecting versions 5.1.3.001 through 9.2.0.006 that arises as a result of an incomplete validation of attachments contained within incoming emails. Barracuda addressed the problem on May 20 and 21, 2023, but the company has since urged affected customers to immediately replace the devices "regardless of patch version level." Now according to the incident response and threat intelligence firm, which was appointed to probe the hack, UNC4
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT Gamaredon update TTPs in recent attacks against Ukraine<a href="https://securityaffairs.com/147497/apt/gamaredon-targets-ukraine-new-ttps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT group Gamaredon is using a new toolset in attacks aimed at critical organizations in Ukraine.
+The Gamaredon APT group (aka&nbsp;Shuckworm,&nbsp;Actinium,&nbsp;Armageddon,&nbsp;Primitive Bear,&nbsp;UAC-0010, and&nbsp;Trident Ursa)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

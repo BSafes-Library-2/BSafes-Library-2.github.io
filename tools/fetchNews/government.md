@@ -8,6 +8,63 @@ nav_order: 900075
 
 ## Government
 ---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Dynamics of the Ukrainian IT Army’s Campaign in Russia<a href="https://www.lawfareblog.com/dynamics-ukrainian-it-armys-campaign-russia"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian IT Army offers a unique perspective into the choices of an offensive actor in a war.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Proposed NIST Updates and Data Incident Response Planning<a href="https://www.lawfareblog.com/proposed-nist-updates-and-data-incident-response-planning"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proposals to update NIST 800-171—the U.S. government’s primary information security standard for the private sector—coincides with escalation of cyberattack against U.S. businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity agencies published a joint LockBit ransomware advisory<a href="https://securityaffairs.com/147482/cyber-crime/lockbit-ransomware-advisory.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware group successfully extorted roughly $91 million from approximately 1,700 U.S. organizations since 2020.
+According to a joint advisory published by cybersecurity agencies, the LockBit ransomware group has successfully extorted...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command reshuffles force expansion due to Navy readiness woes<a href="https://therecord.media/cyber-command-reshuffles-cyber-mission-force-due-to-navy-readiness-woes?_hsmi=262517807&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. military has rearranged a years-long effort to expand the "action arm" of its top cyber forces, according to multiple sources, as leaders try to balance fighting advanced foreign threats like China with maintaining basic readiness.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

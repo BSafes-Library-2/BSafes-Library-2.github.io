@@ -34,6 +34,250 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A simple bug exposed access to thousands of smart security alarm systems<a href="https://techcrunch.com/2023/06/16/eaton-secureconnect-security-alarm-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. power and electronics giant Eaton has fixed a security vulnerability that allowed a security researcher to remotely access thousands of smart security alarm systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Cryptojacking to DDoS Attacks: Diicot Expands Tactics with Cayosin Botnet<a href="https://thehackernews.com/2023/06/from-cryptojacking-to-ddos-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered previously undocumented payloads associated with a Romanian threat actor named  Diicot , revealing its potential for launching distributed denial-of-service (DDoS) attacks. "The Diicot name is significant, as it's also the name of the  Romanian organized crime and anti-terrorism policing unit ," Cado Security  said  in a technical report. "In addition, artifacts from the group's campaigns contain messaging and imagery related to this organization." Diicot (née Mexals) was  first documented  by Bitdefender in July 2021, uncovering the actor's use of a Go-based SSH brute-forcer tool called Diicot Brute to breach Linux hosts as part of a cryptojacking campaign. Then earlier this April, Akamai  disclosed  what it described as a "resurgence" of the 2021 activity that's believed to have started around October 2022, netting the actor about $10,000 in illicit profits. "The attackers use a long ch
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third MOVEit bug fixed a day after PoC exploit made public<a href="https://www.theregister.com/2023/06/16/third_moveit_bug_fixed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details of the latest vulnerability, tracked as CVE-2023-35708, were made public Thursday; proof-of-concept (PoC) exploit for the flaw, now fixed today, also emerged on Thursday. Progress Software issued a fix for it on Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department Charges Russian National for LockBit Ransomware Attacks<a href="https://www.lawfareblog.com/justice-department-charges-russian-national-lockbit-ransomware-attacks"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 20-year old allegedly participated in a conspiracy to commit wire fraud and intentionally damage protected computers and make ransom demands.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Russian national charged for committing LockBit Ransomware attacks<a href="https://securityaffairs.com/147551/cyber-crime/lockbit-ransomware-member-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DoJ charged a Russian national with conspiring to carry out LockBit ransomware attacks against U.S. and foreign businesses.
+The Justice Department announced charges against the Russian national Ruslan Magomedovich Astamirov (20) for his role in numerous...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChamelDoH: New Linux Backdoor Utilizing DNS-over-HTTPS Tunneling for Covert CnC<a href="https://thehackernews.com/2023/06/chameldoh-new-linux-backdoor-utilizing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as  ChamelGang  has been observed using a previously undocumented implant to backdoor Linux systems, marking a new expansion of the threat actor's capabilities. The malware, dubbed  ChamelDoH  by Stairwell, is a C++-based tool for communicating via DNS-over-HTTPS ( DoH ) tunneling. ChamelGang was  first outed  by Russian cybersecurity firm Positive Technologies in September 2021, detailing its attacks on fuel, energy, and aviation production industries in Russia, the U.S., India, Nepal, Taiwan, and Japan. Attack chains mounted by the actor have leveraged vulnerabilities in Microsoft Exchange servers and Red Hat JBoss Enterprise Application to gain initial access and carry out data theft attacks using a passive backdoor called DoorMe. "This is a native  IIS module  that is registered as a filter through which HTTP requests and responses are processed," Positive Technologies said at the time. "Its principle of operation is unusual: the back
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oil and gas giant Shell is another victim of Clop ransomware attacks<a href="https://securityaffairs.com/147545/cyber-crime/shell-clop-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British multinational oil and gas company Shell has confirmed that it has suffered a ransomware attack conducted by the Clop group.
+Oil and Gas giant Shell has confirmed that it is one of the victims of the recent large-scale ransomware campaign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Balada Injector Campaign Hacks WordPress Sites Using Unpatched Plugins<a href="https://securityaffairs.com/147460/malware/balada-injector-malware-wordpress.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Balada leverages functions written in the Go language to spread itself and maintain persistence by executing a series of attacks, cross-site infections, and installation of backdoors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Activities in the Cybercrime Underground Require a New Approach to Cybersecurity<a href="https://thehackernews.com/2023/06/activities-in-cybercrime-underground.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Threat Actors Continuously Adapt their TTPs in Today's Threat Landscape, So Must You Earlier this year, threat researchers at Cybersixgill released the annual report,  The State of the Cybercrime Underground .  The research stems from an analysis of Cybersixgill's collected intelligence items throughout 2022, gathered from the deep, dark and clear web. The report examines the continuous evolution of threat actors' tactics, tools, and procedures (TTPs) in the Digital Age – and how organizations can adapt to reduce risk and maintain business resilience. This article summarizes a few of the report's findings, including trends in credit card fraud, observations about cryptocurrency, AI developments and how they're lowering barriers to entry to cybercrime, and the rise of cybercriminal "as-a-service" activities. Further below, I also discuss the need for a new security approach, combining attack surface management (ASM) and cyber threat intelligence (CTI) to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Progress fixed a third flaw in MOVEit Transfer software<a href="https://securityaffairs.com/147541/cyber-crime/moveit-transfer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software addressed a third vulnerability impacting its MOVEit Transfer application that could lead to privilege escalation and information disclosure.
+Progress Software disclosed a new SQL injection vulnerability impacting its MOVEit Transfer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Energy Department Entities Breached as Part of Massive MOVEit Transfer Compromise<a href="https://cyberscoop.com/energy-department-cl0p-moveit-cisa/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple federal agencies, including two Department of Energy entities, were victims of a cyberattack that resulted from a widespread vulnerability in MOVEit file transfer software, federal officials said Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+20-Year-Old Russian LockBit Ransomware Affiliate Arrested in Arizona<a href="https://thehackernews.com/2023/06/20-year-old-russian-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Thursday unveiled charges against a Russian national for his alleged involvement in deploying LockBit ransomware to targets in the U.S., Asia, Europe, and Africa. Ruslan Magomedovich Astamirov, 20, of Chechen Republic has been accused of perpetrating at least five attacks between August 2020 and March 2023. He was arrested in the state of Arizona last month. "Astamirov allegedly participated in a conspiracy with other members of the LockBit ransomware campaign to commit wire fraud and to intentionally damage protected computers and make ransom demands through the use and deployment of ransomware," the DoJ  said . Astamirov, as part of his LockBit-related activities, managed various email addresses, IP addresses, and other online accounts to deploy the ransomware and communicate with the victims. Law enforcement agencies said they were able to trace a chunk of an unnamed victim's ransom payment to a virtual currency address operated by Astam
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Updated Android spyware GravityRAT steals WhatsApp Backups<a href="https://securityaffairs.com/147524/hacking/gravityrat-steals-whatsapp-backups.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An updated version of the Android remote access trojan GravityRAT can steal WhatsApp backup files and can delete files
+ESET researchers discovered an updated version of Android GravityRAT spyware that steals WhatsApp backup files and can delete files....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Diicot Threat Group Targets SSH Servers with Brute-Force Malware<a href="https://www.hackread.com/diicot-hackers-ssh-servers-brute-force-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deploying Cayosin botnet, an off-the-shelf Mirai-based botnet agent to target routers running the Linux-based OS OpenWRT is a newly adopted tactic, indicating that the group changes its attack style after examining its targets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third Flaw Uncovered in MOVEit Transfer App Amidst Cl0p Ransomware Mass Attack<a href="https://thehackernews.com/2023/06/third-flaw-uncovered-in-moveit-transfer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software on Thursday  disclosed  a third vulnerability impacting its MOVEit Transfer application, as the Cl0p cybercrime gang deployed extortion tactics against affected companies. The  new flaw , which is being tracked as CVE-2023-35708 , also concerns an SQL injection vulnerability that "could lead to escalated privileges and potential unauthorized access to the environment." The company is urging its customers to disable all HTTP and HTTPs traffic to MOVEit Transfer on ports 80 and 443 to safeguard their environments while a fix is being prepared to address the weakness. The cloud managed file transfer solution has been fully patched. The revelation comes a week after Progress  divulged  another set of SQL injection vulnerabilities ( CVE-2023-35036 ) that it said could be weaponized to access the application's database content. The vulnerabilities join  CVE-2023-34362 , which was  exploited  as a zero-day by the Clop ransomware gang in data theft attacks
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

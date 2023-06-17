@@ -8,6 +8,21 @@ nav_order: 900015
 
 ## Attack
 ---
+June 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oil and gas giant Shell is another victim of Clop ransomware attacks<a href="https://securityaffairs.com/147545/cyber-crime/shell-clop-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British&nbsp;multinational&nbsp;oil&nbsp;and&nbsp;gas&nbsp;company Shell has confirmed that it has suffered a ransomware attack conducted by the Clop group.
+Oil and Gas giant Shell has confirmed that it is one of the victims of the recent large-scale ransomware campaign...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

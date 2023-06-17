@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Cryptojacking to DDoS Attacks: Diicot Expands Tactics with Cayosin Botnet<a href="https://thehackernews.com/2023/06/from-cryptojacking-to-ddos-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered previously undocumented payloads associated with a Romanian threat actor named&nbsp; Diicot , revealing its potential for launching distributed denial-of-service (DDoS) attacks. "The Diicot name is significant, as it's also the name of the&nbsp; Romanian organized crime and anti-terrorism policing unit ," Cado Security&nbsp; said &nbsp;in a technical report. "In addition, artifacts from the group's campaigns contain messaging and imagery related to this organization." Diicot (née Mexals) was&nbsp; first documented &nbsp;by Bitdefender in July 2021, uncovering the actor's use of a Go-based SSH brute-forcer tool called Diicot Brute to breach Linux hosts as part of a cryptojacking campaign. Then earlier this April, Akamai&nbsp; disclosed &nbsp;what it described as a "resurgence" of the 2021 activity that's believed to have started around October 2022, netting the actor about $10,000 in illicit profits. "The attackers use a long ch
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

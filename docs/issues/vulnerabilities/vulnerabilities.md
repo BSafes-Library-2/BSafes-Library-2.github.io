@@ -8,6 +8,63 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A simple bug exposed access to thousands of smart security alarm systems<a href="https://techcrunch.com/2023/06/16/eaton-secureconnect-security-alarm-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. power and electronics giant Eaton has fixed a security vulnerability that allowed a security researcher to remotely access thousands of smart security alarm systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third MOVEit bug fixed a day after PoC exploit made public<a href="https://www.theregister.com/2023/06/16/third_moveit_bug_fixed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details of the latest vulnerability, tracked as CVE-2023-35708, were made public Thursday; proof-of-concept (PoC) exploit for the flaw, now fixed today, also emerged on Thursday. Progress Software issued a fix for it on Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Progress fixed a third flaw in MOVEit Transfer software<a href="https://securityaffairs.com/147541/cyber-crime/moveit-transfer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software addressed a third vulnerability impacting its MOVEit Transfer application that could lead to privilege escalation and information disclosure.
+Progress Software&nbsp;disclosed&nbsp;a new SQL injection vulnerability impacting its MOVEit Transfer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third Flaw Uncovered in MOVEit Transfer App Amidst Cl0p Ransomware Mass Attack<a href="https://thehackernews.com/2023/06/third-flaw-uncovered-in-moveit-transfer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software on Thursday&nbsp; disclosed &nbsp;a third vulnerability impacting its MOVEit Transfer application, as the Cl0p cybercrime gang deployed extortion tactics against affected companies. The&nbsp; new flaw , which is being tracked as CVE-2023-35708 , also concerns an SQL injection vulnerability that "could lead to escalated privileges and potential unauthorized access to the environment." The company is urging its customers to disable all HTTP and HTTPs traffic to MOVEit Transfer on ports 80 and 443 to safeguard their environments while a fix is being prepared to address the weakness. The cloud managed file transfer solution has been fully patched. The revelation comes a week after Progress&nbsp; divulged &nbsp;another set of SQL injection vulnerabilities ( CVE-2023-35036 ) that it said could be weaponized to access the application's database content. The vulnerabilities join&nbsp; CVE-2023-34362 , which was&nbsp; exploited &nbsp;as a zero-day by the Clop ransomware gang in data theft attacks
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

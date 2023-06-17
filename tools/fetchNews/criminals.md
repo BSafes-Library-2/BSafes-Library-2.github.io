@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Extorts $91 Million from U.S. Companies<a href="https://thehackernews.com/2023/06/lockbit-ransomware-extorts-91-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the&nbsp; LockBit &nbsp;ransomware-as-a-service (RaaS) scheme have extorted $91 million following hundreds of attacks against numerous U.S. organizations since 2020. That's according to a&nbsp; joint bulletin &nbsp;published by the U.S. Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), the Multi-State Information Sharing and Analysis Center (MS-ISAC), and other partner authorities from Australia, Canada, France, Germany, New Zealand, and the U.K. "The LockBit ransomware-as-a-service (RaaS) attracts affiliates to use LockBit for conducting ransomware attacks, resulting in a large web of unconnected threat actors conducting wildly varying attacks," the agencies&nbsp; said . LockBit, which first burst onto the scene in late 2019, has continued to be disruptive and prolific, targeting as many as 76 victims in May 2023 alone, per statistics shared by&nbsp; Malwarebytes &nbsp;last week. The Russia-linked cartel has claimed responsibil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
