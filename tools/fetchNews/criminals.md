@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Russian national charged for committing LockBit Ransomware attacks<a href="https://securityaffairs.com/147551/cyber-crime/lockbit-ransomware-member-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DoJ charged a Russian national with conspiring to carry out LockBit ransomware attacks against U.S. and foreign businesses.
+The Justice Department announced charges against the Russian national Ruslan Magomedovich Astamirov (20) for his role in numerous...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+20-Year-Old Russian LockBit Ransomware Affiliate Arrested in Arizona<a href="https://thehackernews.com/2023/06/20-year-old-russian-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Thursday unveiled charges against a Russian national for his alleged involvement in deploying LockBit ransomware to targets in the U.S., Asia, Europe, and Africa. Ruslan Magomedovich Astamirov, 20, of Chechen Republic has been accused of perpetrating at least five attacks between August 2020 and March 2023. He was arrested in the state of Arizona last month. "Astamirov allegedly participated in a conspiracy with other members of the LockBit ransomware campaign to commit wire fraud and to intentionally damage protected computers and make ransom demands through the use and deployment of ransomware," the DoJ&nbsp; said . Astamirov, as part of his LockBit-related activities, managed various email addresses, IP addresses, and other online accounts to deploy the ransomware and communicate with the victims. Law enforcement agencies said they were able to trace a chunk of an unnamed victim's ransom payment to a virtual currency address operated by Astam
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

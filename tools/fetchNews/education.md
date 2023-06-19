@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Activities in the Cybercrime Underground Require a New Approach to Cybersecurity<a href="https://thehackernews.com/2023/06/activities-in-cybercrime-underground.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As Threat Actors Continuously Adapt their TTPs in Today's Threat Landscape, So Must You Earlier this year, threat researchers at Cybersixgill released the annual report,&nbsp; The State of the Cybercrime Underground . &nbsp;The research stems from an analysis of Cybersixgill's collected intelligence items throughout 2022, gathered from the deep, dark and clear web. The report examines the continuous evolution of threat actors' tactics, tools, and procedures (TTPs) in the Digital Age – and how organizations can adapt to reduce risk and maintain business resilience. This article summarizes a few of the report's findings, including trends in credit card fraud, observations about cryptocurrency, AI developments and how they're lowering barriers to entry to cybercrime, and the rise of cybercriminal "as-a-service" activities. Further below, I also discuss the need for a new security approach, combining attack surface management (ASM) and cyber threat intelligence (CTI) to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

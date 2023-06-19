@@ -34,6 +34,92 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: June Outlook and cloud platform outages were caused by DDoS<a href="https://securityaffairs.com/147605/hacking/microsoft-outages-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft confirmed that the recent outages to the Azure, Outlook, and OneDrive services were caused by cyber attacks.
+In early June, Microsoft suffered severe outages for some of its services, including Outlook email, OneDrive file-sharing apps,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reddit Files: BlackCat/ALPHV ransomware gang claims to have stolen 80GB of data from Reddit<a href="https://securityaffairs.com/147591/data-breach/reddit-files-blackcat-alphv-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat/ALPHV ransomware gang claims to have stolen 80GB of data from the Reddit in February cyberattack.
+In February, the social news aggregation platform Reddit suffered a security breach, attackers gained unauthorized access to internal documents,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt offers $10 million bounty for info linking Clop ransomware gang to a foreign government.<a href="https://securityaffairs.com/147577/cyber-crime/clop-ransomware-reward.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government announced up to a $10 million bounty for information linking the Clop ransomware gang to a foreign government.
+The US goverment is offering up to a $10 million bounty for information linking CL0P Ransomware Gang or any other threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 424 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/147570/breaking-news/security-affairs-newsletter-round-424.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+Law...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law enforcement shutdown a long-standing DDoS-for-hire service<a href="https://securityaffairs.com/147564/cyber-crime/ddos-for-eye-service-seized.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Polish police, as part of the international law enforcement operation PowerOFF, dismantled a DDoS-for-hire service that has been active since at least 2013.
+An international operation codenamed PowerOff led to the shutdown of a DDoS-for-hire service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

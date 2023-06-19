@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2023
+June 18, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: June Outlook and cloud platform outages were caused by DDoS<a href="https://securityaffairs.com/147605/hacking/microsoft-outages-ddos.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2023
+June 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reddit Files: BlackCat/ALPHV ransomware gang claims to have stolen 80GB of data from Reddit<a href="https://securityaffairs.com/147591/data-breach/reddit-files-blackcat-alphv-ransomware.html"> Full Text</a>
@@ -68,7 +68,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2023
+June 18, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt offers $10 million bounty for info linking Clop ransomware gang to a foreign government.<a href="https://securityaffairs.com/147577/cyber-crime/clop-ransomware-reward.html"> Full Text</a>
@@ -85,7 +85,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2023
+June 18, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 424 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/147570/breaking-news/security-affairs-newsletter-round-424.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2023
+June 17, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Law enforcement shutdown a long-standing DDoS-for-hire service<a href="https://securityaffairs.com/147564/cyber-crime/ddos-for-eye-service-seized.html"> Full Text</a>

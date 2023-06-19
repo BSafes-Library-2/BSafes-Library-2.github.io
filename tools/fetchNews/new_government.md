@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+June 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt offers $10 million bounty for info linking Clop ransomware gang to a foreign government.<a href="https://securityaffairs.com/147577/cyber-crime/clop-ransomware-reward.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government announced up to a $10 million bounty for information linking the Clop ransomware gang to a foreign government.
+The US goverment is offering up to a $10 million bounty for information linking CL0P Ransomware Gang or any other threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

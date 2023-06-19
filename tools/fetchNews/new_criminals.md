@@ -8,6 +8,36 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reddit Files: BlackCat/ALPHV ransomware gang claims to have stolen 80GB of data from Reddit<a href="https://securityaffairs.com/147591/data-breach/reddit-files-blackcat-alphv-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat/ALPHV ransomware gang claims to have stolen 80GB of data from the Reddit in February cyberattack.
+In February, the social news aggregation platform Reddit suffered a security breach, attackers gained unauthorized access to internal documents,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law enforcement shutdown a long-standing DDoS-for-hire service<a href="https://securityaffairs.com/147564/cyber-crime/ddos-for-eye-service-seized.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Polish police, as part of the international law enforcement operation PowerOFF, dismantled a DDoS-for-hire service that has been active since at least 2013.
+An international operation codenamed PowerOff led to the shutdown of a DDoS-for-hire service...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
