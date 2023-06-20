@@ -34,7 +34,218 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2023
+June 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous Sudan and Killnet strike again, target EIB<a href="https://www.digit.fyi/anonymous-sudan-and-killnet-strike-again-target-eib/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The EIB‘s main site is currently down, and the bank has just released a Tweet acknowledging the issue as a ‘cyber attack.’ The EIB interconnection infrastructure has been allegedly disrupted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mystic Stealer Malware Targets 40 Web Browsers and 70 Browser Extensions<a href="https://thehackernews.com/2023/06/new-mystic-stealer-malware-targets-40.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new information-stealing malware called  Mystic Stealer  has been found to steal data from about 40 different web browsers and over 70 web browser extensions. First advertised on April 25, 2023, for $150 per month, the malware also targets cryptocurrency wallets, Steam, and Telegram, and employs extensive mechanisms to resist analysis. "The code is heavily obfuscated making use of polymorphic string obfuscation, hash-based import resolution, and runtime calculation of constants,"  InQuest  and  Zscaler  researchers said in an analysis published last week. Mystic Stealer, like many other crimeware solutions that are offered for sale, focuses on pilfering data and is implemented in the C programming language. The control panel has been developed using Python. Updates to the malware in May 2023 incorporate a loader component that allows it to retrieve and execute next-stage payloads fetched from a command-and-control (C2) server, making it a more formidable threat. C2 co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found components of a complex toolkit employed in macOS attacks<a href="https://securityaffairs.com/147622/malware/macos-attacks-toolkit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a set of malicious files with backdoor capabilities that they believe is part of a toolkit targeting Apple macOS systems.
+Bitdefender researchers discovered a set of malicious files with backdoor capabilities that are suspected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DcRAT Malware Distributed Using Explicit Lures of OnlyFans<a href="https://www.esentire.com/blog/onlydcratfans-malware-distributed-using-explicit-lures-of-onlyfans-pages-and-other-adult-content?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DcRAT malware is being distributed using explicit lures for OnlyFans pages and other adult content. DcRAT offers multiple methods of monetizing infected systems, file stealing, credential theft, and ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover New Sophisticated Toolkit Targeting Apple macOS Systems<a href="https://thehackernews.com/2023/06/researchers-discover-new-sophisticated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered a set of malicious artifacts that they say is part of a sophisticated toolkit targeting Apple macOS systems. "As of now, these samples are still largely undetected and very little information is available about any of them," Bitdefender researchers Andrei Lapusneanu and Bogdan Botezatu  said  in a preliminary report published on Friday. The Romanian firm's analysis is based on an examination of four samples that were uploaded to VirusTotal by an unnamed victim. The earliest sample dates back to April 18, 2023. Two of the three malicious programs are said to be generic Python-based backdoors that are designed to target Windows, Linux, and macOS systems. The payloads have been collectively dubbed  JokerSpy . The first constituent is shared.dat, which, once launched, runs an operating system check (0 for Windows, 1 for macOS, and 2 for Linux) and establishes contact with a remote server to fetch additional instructions for execut
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU member states are urged to restrict without delay 5G equipment from risky suppliers<a href="https://securityaffairs.com/147617/laws-and-regulations/eu-restrict-5g-risky-suppliers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Commission urges member states to limit “without delay” equipment from Chinese suppliers from their 5G networks, specifically Huawei and ZTE.
+The European Commission told member states to impose restrictions on high-risk suppliers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Britain to double cyber defense funding for Ukraine<a href="https://therecord.media/britain-to-double-cyber-defense-funding-for-ukraine?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom on Sunday announced a “major expansion” to its Ukraine Cyber Program, which has seen British experts provide remote incident response support to the Ukrainian government following Russian cyberattacks on critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Introducing AI-guided Remediation for IaC Security / KICS<a href="https://thehackernews.com/2023/06/introducing-ai-guided-remediation-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the use of Infrastructure as Code (IaC) has gained significant popularity as organizations embrace cloud computing and DevOps practices, the speed and flexibility that IaC provides can also introduce the potential for misconfigurations and security vulnerabilities.  IaC allows organizations to define and manage their infrastructure using machine-readable configuration files, which are typically version-controlled and treated as code. IaC misconfigurations are mistakes, or oversights, in the configuration of infrastructure resources and environments that happen when using IaC tools and frameworks. Discover the power of a comprehensive AppSec platform. Download this new whitepaper to discover how to effortlessly integrate application security into every stage of the software development life cycle. Learn about the role of integration and automation, the 7 requirements for choosing an AppSec platform, and how Checkmarx One™ simplifies security. Misconfigurations in IaC ca
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Diicot cybercrime gang expands its attack capabilities<a href="https://securityaffairs.com/147581/cyber-crime/diicot-gang-attack-capabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found evidence that Diicot threat actors are expanding their capabilities with new payloads and the Cayosin Botnet.
+Cado researchers recently detected an interesting attack pattern linked to an emerging cybercrime group tracked as Diicot...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third Bug in MOVEit Transfer Found<a href="https://cyware.com/news/third-bug-in-moveit-transfer-found-d35a9335"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software has reported a third vulnerability in its MOVEit Transfer application. The bug, which still awaits a CVE identifier, is an SQL injection vulnerability. The company strongly advised customers to disable all HTTP and HTTPS traffic to MOVEit Transfer on ports 80 and 443. This precaut ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Backed Hackers Employ Advanced Methods to Target Middle Eastern and African Governments<a href="https://thehackernews.com/2023/06/state-backed-hackers-employ-advanced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Governmental entities in the Middle East and Africa have been at the receiving end of sustained cyber-espionage attacks that leverage never-before-seen and rare credential theft and Exchange email exfiltration techniques. "The main goal of the attacks was to obtain highly confidential and sensitive information, specifically related to politicians, military activities, and ministries of foreign affairs," Lior Rochberger, senior threat researcher at Palo Alto Networks,  said  in a technical deep dive published last week. The company's Cortex Threat Research team is  tracking  the activity under the temporary name  CL-STA-0043  (where CL stands for cluster and STA stands for state-backed motivation), describing it as a "true advanced persistent threat." The infection chain is triggered by the exploitation of vulnerable on-premises Internet Information Services ( IIS ) and Microsoft Exchange serves to infiltrate target networks. Palo Alto Networks said it dete
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Content Moderation Tech Startup Trust Lab Snags $15M Investment<a href="https://www.securityweek.com/content-moderation-tech-startup-trust-lab-snags-15m-investment/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Palo Alto company said the $15 million Series A was led by U.S. Venture Partners (USVP) and Foundation Capital, two prominent investment firms betting on cybersecurity startups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Blames Massive DDoS Attack for Azure, Outlook, and OneDrive Disruptions<a href="https://thehackernews.com/2023/06/microsoft-blames-massive-ddos-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday attributed a string of service outages aimed at Azure, Outlook, and OneDrive earlier this month to an uncategorized cluster it tracks under the name  Storm-1359 . "These attacks likely rely on access to multiple virtual private servers (VPS) in conjunction with rented cloud infrastructure, open proxies, and DDoS tools," the tech giant  said  in a post on Friday. Storm-#### (previously DEV-####) is a temporary designation the Windows maker assigns to unknown, emerging, or developing groups whose identity or affiliation hasn't been definitively established yet. While there is no evidence that any customer data was accessed or compromised, the company noted the attacks "temporarily impacted availability" of some services. Redmond said it further observed the threat actor launching  layer 7 DDoS attacks  from multiple cloud services and open proxy infrastructures. This includes HTTP(S) flood attacks, which bombard the target services with a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft: June Outlook and cloud platform outages were caused by DDoS<a href="https://securityaffairs.com/147605/hacking/microsoft-outages-ddos.html"> Full Text</a>
@@ -51,7 +262,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2023
+June 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reddit Files: BlackCat/ALPHV ransomware gang claims to have stolen 80GB of data from Reddit<a href="https://securityaffairs.com/147591/data-breach/reddit-files-blackcat-alphv-ransomware.html"> Full Text</a>
@@ -68,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2023
+June 18, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US govt offers $10 million bounty for info linking Clop ransomware gang to a foreign government.<a href="https://securityaffairs.com/147577/cyber-crime/clop-ransomware-reward.html"> Full Text</a>
@@ -85,7 +296,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2023
+June 18, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 424 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/147570/breaking-news/security-affairs-newsletter-round-424.html"> Full Text</a>
@@ -103,7 +314,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2023
+June 17, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Law enforcement shutdown a long-standing DDoS-for-hire service<a href="https://securityaffairs.com/147564/cyber-crime/ddos-for-eye-service-seized.html"> Full Text</a>
