@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third Bug in MOVEit Transfer Found<a href="https://cyware.com/news/third-bug-in-moveit-transfer-found-d35a9335"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software has reported a third vulnerability in its MOVEit Transfer application. The bug, which still awaits a CVE identifier, is an SQL injection vulnerability. The company strongly advised customers to disable all HTTP and HTTPS traffic to MOVEit Transfer on ports 80 and 443. This precaut ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

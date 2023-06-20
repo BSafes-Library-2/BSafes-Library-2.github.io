@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Blames Massive DDoS Attack for Azure, Outlook, and OneDrive Disruptions<a href="https://thehackernews.com/2023/06/microsoft-blames-massive-ddos-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday attributed a string of service outages aimed at Azure, Outlook, and OneDrive earlier this month to an uncategorized cluster it tracks under the name&nbsp; Storm-1359 . "These attacks likely rely on access to multiple virtual private servers (VPS) in conjunction with rented cloud infrastructure, open proxies, and DDoS tools," the tech giant&nbsp; said &nbsp;in a post on Friday. Storm-#### (previously DEV-####) is a temporary designation the Windows maker assigns to unknown, emerging, or developing groups whose identity or affiliation hasn't been definitively established yet. While there is no evidence that any customer data was accessed or compromised, the company noted the attacks "temporarily impacted availability" of some services. Redmond said it further observed the threat actor launching&nbsp; layer 7 DDoS attacks &nbsp;from multiple cloud services and open proxy infrastructures. This includes HTTP(S) flood attacks, which bombard the target services with a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

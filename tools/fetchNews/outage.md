@@ -8,6 +8,21 @@ nav_order: 900140
 
 ## Outage
 ---
+June 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft: June Outlook and cloud platform outages were caused by DDoS<a href="https://securityaffairs.com/147605/hacking/microsoft-outages-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft confirmed that the recent outages to the Azure, Outlook, and OneDrive services were caused by cyber attacks.
+In early June, Microsoft suffered severe outages for some of its services, including Outlook email, OneDrive file-sharing apps,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

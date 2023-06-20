@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Backed Hackers Employ Advanced Methods to Target Middle Eastern and African Governments<a href="https://thehackernews.com/2023/06/state-backed-hackers-employ-advanced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Governmental entities in the Middle East and Africa have been at the receiving end of sustained cyber-espionage attacks that leverage never-before-seen and rare credential theft and Exchange email exfiltration techniques. "The main goal of the attacks was to obtain highly confidential and sensitive information, specifically related to politicians, military activities, and ministries of foreign affairs," Lior Rochberger, senior threat researcher at Palo Alto Networks,&nbsp; said &nbsp;in a technical deep dive published last week. The company's Cortex Threat Research team is&nbsp; tracking &nbsp;the activity under the temporary name&nbsp; CL-STA-0043 &nbsp;(where CL stands for cluster and STA stands for state-backed motivation), describing it as a "true advanced persistent threat." The infection chain is triggered by the exploitation of vulnerable on-premises Internet Information Services ( IIS ) and Microsoft Exchange serves to infiltrate target networks. Palo Alto Networks said it dete
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

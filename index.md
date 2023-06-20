@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous Sudan and Killnet strike again, target EIB<a href="https://www.digit.fyi/anonymous-sudan-and-killnet-strike-again-target-eib/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mystic Stealer Malware Targets 40 Web Browsers and 70 Browser Extensions<a href="https://thehackernews.com/2023/06/new-mystic-stealer-malware-targets-40.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found components of a complex toolkit employed in macOS attacks<a href="https://securityaffairs.com/147622/malware/macos-attacks-toolkit.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DcRAT Malware Distributed Using Explicit Lures of OnlyFans<a href="https://www.esentire.com/blog/onlydcratfans-malware-distributed-using-explicit-lures-of-onlyfans-pages-and-other-adult-content?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover New Sophisticated Toolkit Targeting Apple macOS Systems<a href="https://thehackernews.com/2023/06/researchers-discover-new-sophisticated.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU member states are urged to restrict without delay 5G equipment from risky suppliers<a href="https://securityaffairs.com/147617/laws-and-regulations/eu-restrict-5g-risky-suppliers.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Government](/docs/issues/government/government/)<br>-- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Britain to double cyber defense funding for Ukraine<a href="https://therecord.media/britain-to-double-cyber-defense-funding-for-ukraine?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Introducing AI-guided Remediation for IaC Security / KICS<a href="https://thehackernews.com/2023/06/introducing-ai-guided-remediation-for.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Diicot cybercrime gang expands its attack capabilities<a href="https://securityaffairs.com/147581/cyber-crime/diicot-gang-attack-capabilities.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Third Bug in MOVEit Transfer Found<a href="https://cyware.com/news/third-bug-in-moveit-transfer-found-d35a9335"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State-Backed Hackers Employ Advanced Methods to Target Middle Eastern and African Governments<a href="https://thehackernews.com/2023/06/state-backed-hackers-employ-advanced.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Content Moderation Tech Startup Trust Lab Snags $15M Investment<a href="https://www.securityweek.com/content-moderation-tech-startup-trust-lab-snags-15m-investment/?&web_view=true"> Full Text</a>
@@ -229,7 +229,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Blames Massive DDoS Attack for Azure, Outlook, and OneDrive Disruptions<a href="https://thehackernews.com/2023/06/microsoft-blames-massive-ddos-attack.html"> Full Text</a>

@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Diicot cybercrime gang expands its attack capabilities<a href="https://securityaffairs.com/147581/cyber-crime/diicot-gang-attack-capabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found evidence that Diicot threat actors are expanding their capabilities with new payloads and the Cayosin Botnet.
+Cado researchers recently detected an interesting attack pattern linked to an emerging cybercrime group tracked as Diicot...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

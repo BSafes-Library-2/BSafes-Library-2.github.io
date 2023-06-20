@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Content Moderation Tech Startup Trust Lab Snags $15M Investment<a href="https://www.securityweek.com/content-moderation-tech-startup-trust-lab-snags-15m-investment/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Palo Alto company said the $15 million Series A was led by U.S. Venture Partners (USVP) and Foundation Capital, two prominent investment firms betting on cybersecurity startups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
