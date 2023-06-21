@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OT:Icefall: Vulnerabilities Identified in Wago Controllers<a href="https://www.securityweek.com/oticefall-vulnerabilities-identified-in-wago-controllers/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Expose New Severe Flaws in Wago and Schneider Electric OT Products<a href="https://thehackernews.com/2023/06/researchers-expose-new-severe-flaws-in.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3CX data exposed, third-party to blame<a href="https://securityaffairs.com/147677/security/3cx-data-exposed-third-party-to-blame.html"> Full Text</a>
@@ -84,7 +84,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Compromised Linux SSH servers engage in DDoS attacks, cryptomining<a href="https://www.helpnetsecurity.com/2023/06/20/linux-ssh-ddos/?&web_view=true"> Full Text</a>
@@ -100,7 +100,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel Releases Urgent Security Updates for Critical Vulnerability in NAS Devices<a href="https://thehackernews.com/2023/06/zyxel-releases-urgent-security-updates.html"> Full Text</a>
@@ -116,7 +116,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Tsunami botnet targets Linux SSH servers<a href="https://securityaffairs.com/147656/cyber-crime/tsunami-botnet-targets-linux-ssh-servers.html"> Full Text</a>
@@ -133,7 +133,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing scam takes $950k from DoorDash drivers<a href="https://www.malwarebytes.com/blog/news/2023/06/phishing-scam-takes-950k-from-doordash-drivers?&web_view=true"> Full Text</a>
@@ -149,7 +149,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SaaS in the Real World: How Global Food Chains Can Secure Their Digital Dish<a href="https://thehackernews.com/2023/06/saas-in-real-world-how-global-food.html"> Full Text</a>
@@ -165,7 +165,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel addressed critical flaw CVE-2023-27992 in NAS Devices<a href="https://securityaffairs.com/147653/hacking/zyxel-cve-2023-27992-nas-devices.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside of the WASP's nest: deep dive into PyPI-hosted malware<a href="https://blog.virustotal.com/2023/06/inside-of-wasps-nest-deep-dive-into.html?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover Year-Long Cyber Attack on IT Firm Utilizing Custom Malware RDStealer<a href="https://thehackernews.com/2023/06/experts-uncover-year-long-cyber-attack.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tackling Data Sovereignty with DDR<a href="https://securityaffairs.com/147648/security/data-sovereignty-with-ddr.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Western Digital Blocks Unpatched Devices From Cloud Services<a href="https://www.securityweek.com/western-digital-blocks-unpatched-devices-from-cloud-services/?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ASUS Releases Patches to Fix Critical Security Bugs Impacting Multiple Router Models<a href="https://thehackernews.com/2023/06/asus-releases-patches-to-fix-critical.html"> Full Text</a>
@@ -263,7 +263,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ASUS addressed critical flaws in some router models<a href="https://securityaffairs.com/147639/security/asus-fixed-flaws-router-models.html"> Full Text</a>
@@ -281,7 +281,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Government](/docs/issues/government/government/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal Authority Warns Health Sector of TimisoaraHackerTeam Threats<a href="https://www.bankinfosecurity.com/feds-warn-health-sector-timisoarahackerteam-threats-a-22325?&web_view=true"> Full Text</a>
@@ -297,7 +297,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 100,000 Stolen ChatGPT Account Credentials Sold on Dark Web Marketplaces<a href="https://thehackernews.com/2023/06/over-100000-stolen-chatgpt-account.html"> Full Text</a>
@@ -313,7 +313,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2023
+June 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rogue Android Apps Target Pakistani Individuals in Sophisticated Espionage Campaign<a href="https://thehackernews.com/2023/06/rogue-android-apps-target-pakistani.html"> Full Text</a>

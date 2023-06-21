@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing scam takes $950k from DoorDash drivers<a href="https://www.malwarebytes.com/blog/news/2023/06/phishing-scam-takes-950k-from-doordash-drivers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scam involved placing bogus orders, contacting drivers claiming to be from the DoorDash support team, and convincing them to hand over banking details or log in to a fake portal.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Introducing AI-guided Remediation for IaC Security / KICS<a href="https://thehackernews.com/2023/06/introducing-ai-guided-remediation-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the use of Infrastructure as Code (IaC) has gained significant popularity as organizations embrace cloud computing and DevOps practices, the speed and flexibility that IaC provides can also introduce the potential for misconfigurations and security vulnerabilities.&nbsp; IaC allows organizations to define and manage their infrastructure using machine-readable configuration files, which are typically version-controlled and treated as code. IaC misconfigurations are mistakes, or oversights, in the configuration of infrastructure resources and environments that happen when using IaC tools and frameworks. Discover the power of a comprehensive AppSec platform. Download this new whitepaper to discover how to effortlessly integrate application security into every stage of the software development life cycle. Learn about the role of integration and automation, the 7 requirements for choosing an AppSec platform, and how Checkmarx One™ simplifies security. Misconfigurations in IaC ca
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

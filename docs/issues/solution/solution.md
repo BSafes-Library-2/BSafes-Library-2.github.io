@@ -8,6 +8,35 @@ nav_order: 900195
 
 ## Solution
 ---
+June 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SaaS in the Real World: How Global Food Chains Can Secure Their Digital Dish<a href="https://thehackernews.com/2023/06/saas-in-real-world-how-global-food.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Quick Serve Restaurant (QSR) industry is built on consistency and shared resources. National chains like McDonald's and regional ones like Cracker Barrel grow faster by reusing the same business model, decor, and menu, with little change from one location to the next.&nbsp; QSR technology stacks mirror the consistency of the front end of each store. Despite each franchise being independently owned and operated, they share subscriptions to SaaS applications, or use multiple tenants of the same application. Each app is typically segmented by store. Corporate IT and Security has access to the entire database, while each franchise has visibility into its own data.&nbsp; These SaaS apps cover everything from CRMs to supply chains to marketing and HR. The data within is used to understand consumer habits, improve marketing campaigns, and manage employees. Like every other industry, QSR SaaS apps contain a wealth of data that needs to be secured.&nbsp; At the same time, we're seeing food cha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tackling Data Sovereignty with DDR<a href="https://securityaffairs.com/147648/security/data-sovereignty-with-ddr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data-centric distributed resilience (DDR) offers a compelling approach to addressing data sovereignty in cybersecurity.
+As much of our modern life relies upon the cloud, the question of data protection is front of mind for many organizations. Those...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

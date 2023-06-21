@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 16, 2023 - HHS 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TimisoaraHackerTeam Analysis <a href="https://www.hhs.gov/sites/default/files/healthcare-public-health-sector-cybersecurity-notification.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware variant and threat group called TimisoaraHackerTeam has resurfaced in a recent ransomware attack on a medical facility. Little is known about the obscure group of hackers, but when its ransomware is deployed, their rarely used and very effective technique of encrypting data in a target environment has paralyzed the health and public health (HPH) sector. An examination of the ransomware strain and the group's tactics provides insight into how and why they target the healthcare sector, possible ties to other threat groups, and recommendations for how HPH organizations can better protect themselves.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 14, 2023 - CISA, FBI, MS-ISAC
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

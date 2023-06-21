@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Year-Long Cyber Attack on IT Firm Utilizing Custom Malware RDStealer<a href="https://thehackernews.com/2023/06/experts-uncover-year-long-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A highly targeted cyber attack against an East Asian IT company involved the deployment of a custom malware written in Golang called&nbsp; RDStealer . "The operation was active for more than a year with the end goal of compromising credentials and data exfiltration," Bitdefender security researcher Victor Vrabie&nbsp; said &nbsp;in a technical report shared with The Hacker News. Evidence gathered by the Romanian cybersecurity firm shows that the campaign started in early 2022. The target was an unspecified IT company located in East Asia. In the early phases, the operation relied on readily available remote access trojans like AsyncRAT and Cobalt Strike, before transitioning to bespoke malware in late 2021 or early 2022 in a bid to thwart detection. A primary evasion tactic concerns the use of Microsoft Windows folders that are likely to be excluded from scanning by security software (e.g., System32 and Program Files) to store the backdoor payloads. One of the sub-folders in question
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

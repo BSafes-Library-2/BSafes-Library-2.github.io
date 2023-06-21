@@ -8,6 +8,36 @@ nav_order: 900029
 
 ## Breach
 ---
+June 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3CX data exposed, third-party to blame<a href="https://securityaffairs.com/147677/security/3cx-data-exposed-third-party-to-blame.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A third-party vendor of 3CX, a popular Voice over Internet Protocol (VoIP) comms provider, left an open server and exposed sensitive 3CX data.
+The issue went under the company’s radar, even though it was recently targeted by North Korean hackers.
+While...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 100,000 Stolen ChatGPT Account Credentials Sold on Dark Web Marketplaces<a href="https://thehackernews.com/2023/06/over-100000-stolen-chatgpt-account.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 101,100 compromised OpenAI ChatGPT account credentials have found their way on illicit dark web marketplaces between June 2022 and May 2023, with India alone accounting for 12,632 stolen credentials. The credentials were discovered within information stealer logs made available for sale on the cybercrime underground, Group-IB said in a report shared with The Hacker News. "The number of available logs containing compromised ChatGPT accounts reached a peak of 26,802 in May 2023," the Singapore-headquartered company&nbsp; said . "The Asia-Pacific region has experienced the highest concentration of ChatGPT credentials being offered for sale over the past year." Other countries with the most number of compromised ChatGPT credentials include Pakistan, Brazil, Vietnam, Egypt, the U.S., France, Morocco, Indonesia, and Bangladesh. A further analysis has revealed that the majority of logs containing ChatGPT accounts have been breached by the notorious Raccoon info steal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

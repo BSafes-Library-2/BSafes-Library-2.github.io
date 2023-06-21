@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Tsunami botnet targets Linux SSH servers<a href="https://securityaffairs.com/147656/cyber-crime/tsunami-botnet-targets-linux-ssh-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of an ongoing Tsunami DDoS botnet campaign targeting inadequately protected Linux SSH servers.
+Researchers from AhnLab Security Emergency response Center (ASEC) have uncovered an ongoing hacking campaign, aimed at poorly protected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compromised Linux SSH servers engage in DDoS attacks, cryptomining<a href="https://www.helpnetsecurity.com/2023/06/20/linux-ssh-ddos/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor is mounting dictionary attacks to log into Linux servers with SSH installed and saddle the server with the Tsunami and ShellBot DDoS bots, the XMRig CoinMiner program, and Log Cleaner – a tool for deleting and modifying logs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
