@@ -34,7 +34,302 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OT:Icefall: Vulnerabilities Identified in Wago Controllers<a href="https://www.securityweek.com/oticefall-vulnerabilities-identified-in-wago-controllers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws were identified as part of the OT:Icefall research that has led to the public disclosure of 61 vulnerabilities impacting more than 100 OT products from 13 vendors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Expose New Severe Flaws in Wago and Schneider Electric OT Products<a href="https://thehackernews.com/2023/06/researchers-expose-new-severe-flaws-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three security vulnerabilities have been disclosed in operational technology (OT) products from Wago and Schneider Electric. The flaws, per Forescout, are part of a  broader   set  of  shortcomings  collectively called  OT:ICEFALL , which now comprises a total of 61 issues spanning 13 different vendors. "OT:ICEFALL demonstrates the need for tighter scrutiny of, and improvements to, processes related to secure design, patching and testing in OT device vendors," the company  said  in a report shared with The Hacker News. The most severe of the flaws is  CVE-2022-46680  (CVSS score: 8.8), which concerns the plaintext transmission of credentials in the ION/TCP protocol used by power meters from Schneider Electric. Successful exploitation of the bug could enable threat actors to gain control of vulnerable devices. It's worth noting that CVE-2022-46680 is one among the 56 flaws  originally unearthed  by Forescout in June 2022. The other two new security holes ( CVE-2023
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3CX data exposed, third-party to blame<a href="https://securityaffairs.com/147677/security/3cx-data-exposed-third-party-to-blame.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A third-party vendor of 3CX, a popular Voice over Internet Protocol (VoIP) comms provider, left an open server and exposed sensitive 3CX data.
+The issue went under the company’s radar, even though it was recently targeted by North Korean hackers.
+While...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compromised Linux SSH servers engage in DDoS attacks, cryptomining<a href="https://www.helpnetsecurity.com/2023/06/20/linux-ssh-ddos/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor is mounting dictionary attacks to log into Linux servers with SSH installed and saddle the server with the Tsunami and ShellBot DDoS bots, the XMRig CoinMiner program, and Log Cleaner – a tool for deleting and modifying logs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Releases Urgent Security Updates for Critical Vulnerability in NAS Devices<a href="https://thehackernews.com/2023/06/zyxel-releases-urgent-security-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has rolled out security updates to address a critical security flaw in its network-attached storage (NAS) devices that could result in the execution of arbitrary commands on affected systems. Tracked as  CVE-2023-27992  (CVSS score: 9.8), the issue has been described as a pre-authentication command injection vulnerability. "The pre-authentication command injection vulnerability in some Zyxel NAS devices could allow an unauthenticated attacker to execute some operating system (OS) commands remotely by sending a crafted HTTP request," Zyxel  said  in an advisory published today. Andrej Zaujec, NCSC-FI, and Maxim Suslov have been credited with discovering and reporting the flaw. The following versions are impacted by CVE-2023-27992 - NAS326 (V5.21(AAZF.13)C0 and earlier, patched in V5.21(AAZF.14)C0), NAS540 (V5.21(AATB.10)C0 and earlier, patched in V5.21(AATB.11)C0), and NAS542 (V5.21(ABAG.10)C0 and earlier, patched in V5.21(ABAG.11)C0) The alert comes two weeks
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Tsunami botnet targets Linux SSH servers<a href="https://securityaffairs.com/147656/cyber-crime/tsunami-botnet-targets-linux-ssh-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of an ongoing Tsunami DDoS botnet campaign targeting inadequately protected Linux SSH servers.
+Researchers from AhnLab Security Emergency response Center (ASEC) have uncovered an ongoing hacking campaign, aimed at poorly protected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing scam takes $950k from DoorDash drivers<a href="https://www.malwarebytes.com/blog/news/2023/06/phishing-scam-takes-950k-from-doordash-drivers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scam involved placing bogus orders, contacting drivers claiming to be from the DoorDash support team, and convincing them to hand over banking details or log in to a fake portal.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SaaS in the Real World: How Global Food Chains Can Secure Their Digital Dish<a href="https://thehackernews.com/2023/06/saas-in-real-world-how-global-food.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Quick Serve Restaurant (QSR) industry is built on consistency and shared resources. National chains like McDonald's and regional ones like Cracker Barrel grow faster by reusing the same business model, decor, and menu, with little change from one location to the next.  QSR technology stacks mirror the consistency of the front end of each store. Despite each franchise being independently owned and operated, they share subscriptions to SaaS applications, or use multiple tenants of the same application. Each app is typically segmented by store. Corporate IT and Security has access to the entire database, while each franchise has visibility into its own data.  These SaaS apps cover everything from CRMs to supply chains to marketing and HR. The data within is used to understand consumer habits, improve marketing campaigns, and manage employees. Like every other industry, QSR SaaS apps contain a wealth of data that needs to be secured.  At the same time, we're seeing food cha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel addressed critical flaw CVE-2023-27992 in NAS Devices<a href="https://securityaffairs.com/147653/hacking/zyxel-cve-2023-27992-nas-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel released security updates to address a critical vulnerability affecting its network-attached storage (NAS) devices.
+Zyxel released security updates to address a critical security flaw, tracked as CVE-2023-27992 (CVSS score: 9.8), affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside of the WASP's nest: deep dive into PyPI-hosted malware<a href="https://blog.virustotal.com/2023/06/inside-of-wasps-nest-deep-dive-into.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Virustotal experts identified a number of specific PyPI-based malware campaigns, including Discord Token Grabber V2, Hazard Token Grabber V2, Chromium Stealer, and W4SP Stealer (with Hyperion obfuscator).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Year-Long Cyber Attack on IT Firm Utilizing Custom Malware RDStealer<a href="https://thehackernews.com/2023/06/experts-uncover-year-long-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A highly targeted cyber attack against an East Asian IT company involved the deployment of a custom malware written in Golang called  RDStealer . "The operation was active for more than a year with the end goal of compromising credentials and data exfiltration," Bitdefender security researcher Victor Vrabie  said  in a technical report shared with The Hacker News. Evidence gathered by the Romanian cybersecurity firm shows that the campaign started in early 2022. The target was an unspecified IT company located in East Asia. In the early phases, the operation relied on readily available remote access trojans like AsyncRAT and Cobalt Strike, before transitioning to bespoke malware in late 2021 or early 2022 in a bid to thwart detection. A primary evasion tactic concerns the use of Microsoft Windows folders that are likely to be excluded from scanning by security software (e.g., System32 and Program Files) to store the backdoor payloads. One of the sub-folders in question
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tackling Data Sovereignty with DDR<a href="https://securityaffairs.com/147648/security/data-sovereignty-with-ddr.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data-centric distributed resilience (DDR) offers a compelling approach to addressing data sovereignty in cybersecurity.
+As much of our modern life relies upon the cloud, the question of data protection is front of mind for many organizations. Those...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital Blocks Unpatched Devices From Cloud Services<a href="https://www.securityweek.com/western-digital-blocks-unpatched-devices-from-cloud-services/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move, which began on June 15, comes one month after the company released firmware updates for its My Cloud product line to address multiple security defects, including a critical path traversal bug that leads to remote code execution (RCE).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ASUS Releases Patches to Fix Critical Security Bugs Impacting Multiple Router Models<a href="https://thehackernews.com/2023/06/asus-releases-patches-to-fix-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese company ASUS on Monday  released firmware updates  to address, among other issues, nine security bugs impacting a wide range of router models. Of the nine security flaws, two are rated Critical and six are rated High in severity. One vulnerability is currently awaiting analysis. The list of impacted products are GT6, GT-AXE16000, GT-AX11000 PRO, GT-AXE11000, GT-AX6000, GT-AX11000, GS-AX5400, GS-AX3000, XT9, XT8, XT8 V2, RT-AX86U PRO, RT-AX86U, RT-AX86S, RT-AX82U, RT-AX58U, RT-AX3000, TUF-AX6000, and TUF-AX5400. Topping the list of fixes are  CVE-2018-1160  and  CVE-2022-26376 , both of which are rated 9.8 out of a maximum of 10 on the CVSS scoring system. CVE-2018-1160 concerns a nearly five-year-old out-of-bounds write bug in Netatalk versions before 3.1.12 that could allow a remote unauthenticated attacker to achieve arbitrary code execution. CVE-2022-26376 has been described as a memory corruption vulnerability in the Asuswrt firmware that could be triggered by mean
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ASUS addressed critical flaws in some router models<a href="https://securityaffairs.com/147639/security/asus-fixed-flaws-router-models.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ASUS addressed critical vulnerabilities in multiple router models, urging customers to immediately install firmware updates.
+ASUS is warning customers to update some router models to the latest firmware to address critical vulnerabilities.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal Authority Warns Health Sector of TimisoaraHackerTeam Threats<a href="https://www.bankinfosecurity.com/feds-warn-health-sector-timisoarahackerteam-threats-a-22325?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal authorities are warning the healthcare sector of an apparent resurgence of TimisoaraHackerTeam threats after a recent attack by the "obscure" ransomware group on a U.S. cancer center.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 100,000 Stolen ChatGPT Account Credentials Sold on Dark Web Marketplaces<a href="https://thehackernews.com/2023/06/over-100000-stolen-chatgpt-account.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 101,100 compromised OpenAI ChatGPT account credentials have found their way on illicit dark web marketplaces between June 2022 and May 2023, with India alone accounting for 12,632 stolen credentials. The credentials were discovered within information stealer logs made available for sale on the cybercrime underground, Group-IB said in a report shared with The Hacker News. "The number of available logs containing compromised ChatGPT accounts reached a peak of 26,802 in May 2023," the Singapore-headquartered company  said . "The Asia-Pacific region has experienced the highest concentration of ChatGPT credentials being offered for sale over the past year." Other countries with the most number of compromised ChatGPT credentials include Pakistan, Brazil, Vietnam, Egypt, the U.S., France, Morocco, Indonesia, and Bangladesh. A further analysis has revealed that the majority of logs containing ChatGPT accounts have been breached by the notorious Raccoon info steal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rogue Android Apps Target Pakistani Individuals in Sophisticated Espionage Campaign<a href="https://thehackernews.com/2023/06/rogue-android-apps-target-pakistani.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Individuals in the Pakistan region have been targeted using two rogue Android apps available on the Google Play Store as part of a new targeted campaign. Cybersecurity firm Cyfirma attributed the campaign with moderate confidence to a threat actor known as  DoNot Team , which is also tracked as APT-C-35 and Viceroy Tiger. The espionage activity involves duping Android smartphone owners into downloading a program that's used to extract contact and location data from unwitting victims. "The motive behind the attack is to gather information via the stager payload and use the gathered information for the second-stage attack, using malware with more destructive features," the company  said . DoNot Team  is a suspected India-nexus threat actor that has a reputation for carrying out attacks against various countries in South Asia. It has been active since at least 2016. While an October 2021 report from Amnesty International linked the group's attack infrastructure to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous Sudan and Killnet strike again, target EIB<a href="https://www.digit.fyi/anonymous-sudan-and-killnet-strike-again-target-eib/?&web_view=true"> Full Text</a>
@@ -50,7 +345,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mystic Stealer Malware Targets 40 Web Browsers and 70 Browser Extensions<a href="https://thehackernews.com/2023/06/new-mystic-stealer-malware-targets-40.html"> Full Text</a>
@@ -66,7 +361,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found components of a complex toolkit employed in macOS attacks<a href="https://securityaffairs.com/147622/malware/macos-attacks-toolkit.html"> Full Text</a>
@@ -83,7 +378,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DcRAT Malware Distributed Using Explicit Lures of OnlyFans<a href="https://www.esentire.com/blog/onlydcratfans-malware-distributed-using-explicit-lures-of-onlyfans-pages-and-other-adult-content?&web_view=true"> Full Text</a>
@@ -99,7 +394,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover New Sophisticated Toolkit Targeting Apple macOS Systems<a href="https://thehackernews.com/2023/06/researchers-discover-new-sophisticated.html"> Full Text</a>
@@ -115,7 +410,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EU member states are urged to restrict without delay 5G equipment from risky suppliers<a href="https://securityaffairs.com/147617/laws-and-regulations/eu-restrict-5g-risky-suppliers.html"> Full Text</a>
@@ -132,7 +427,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Government](/docs/issues/government/government/)<br>-- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Britain to double cyber defense funding for Ukraine<a href="https://therecord.media/britain-to-double-cyber-defense-funding-for-ukraine?&web_view=true"> Full Text</a>
@@ -148,7 +443,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Introducing AI-guided Remediation for IaC Security / KICS<a href="https://thehackernews.com/2023/06/introducing-ai-guided-remediation-for.html"> Full Text</a>
@@ -164,7 +459,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Diicot cybercrime gang expands its attack capabilities<a href="https://securityaffairs.com/147581/cyber-crime/diicot-gang-attack-capabilities.html"> Full Text</a>
@@ -181,7 +476,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Third Bug in MOVEit Transfer Found<a href="https://cyware.com/news/third-bug-in-moveit-transfer-found-d35a9335"> Full Text</a>
@@ -197,7 +492,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State-Backed Hackers Employ Advanced Methods to Target Middle Eastern and African Governments<a href="https://thehackernews.com/2023/06/state-backed-hackers-employ-advanced.html"> Full Text</a>
@@ -213,7 +508,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Content Moderation Tech Startup Trust Lab Snags $15M Investment<a href="https://www.securityweek.com/content-moderation-tech-startup-trust-lab-snags-15m-investment/?&web_view=true"> Full Text</a>
@@ -229,7 +524,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2023
+June 19, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Blames Massive DDoS Attack for Azure, Outlook, and OneDrive Disruptions<a href="https://thehackernews.com/2023/06/microsoft-blames-massive-ddos-attack.html"> Full Text</a>
