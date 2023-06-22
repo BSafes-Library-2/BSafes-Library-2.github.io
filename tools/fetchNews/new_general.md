@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and European IT decision-makers have different cloud security priorities<a href="https://www.helpnetsecurity.com/2023/06/21/growing-cloud-security-fear/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The growing adoption of cloud has elevated cloud security fear for IT teams, as they grapple with the challenges and concerns arising from the widespread use of complex cloud environments while diligently addressing them, according to SUSE.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations actively embrace zero trust, integration remains a hurdle<a href="https://www.helpnetsecurity.com/2023/06/21/zero-trust-implementation-strategies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT teams have made security efforts and progress in zero-trust implementation strategies to establish a new sense of normalcy following the network upheaval caused by the start of the global pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

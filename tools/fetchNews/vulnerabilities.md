@@ -8,6 +8,107 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OT:Icefall: Vulnerabilities Identified in Wago Controllers<a href="https://www.securityweek.com/oticefall-vulnerabilities-identified-in-wago-controllers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws were identified as part of the OT:Icefall research that has led to the public disclosure of 61 vulnerabilities impacting more than 100 OT products from 13 vendors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Expose New Severe Flaws in Wago and Schneider Electric OT Products<a href="https://thehackernews.com/2023/06/researchers-expose-new-severe-flaws-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three security vulnerabilities have been disclosed in operational technology (OT) products from Wago and Schneider Electric. The flaws, per Forescout, are part of a&nbsp; broader &nbsp; set &nbsp;of&nbsp; shortcomings &nbsp;collectively called&nbsp; OT:ICEFALL , which now comprises a total of 61 issues spanning 13 different vendors. "OT:ICEFALL demonstrates the need for tighter scrutiny of, and improvements to, processes related to secure design, patching and testing in OT device vendors," the company&nbsp; said &nbsp;in a report shared with The Hacker News. The most severe of the flaws is&nbsp; CVE-2022-46680 &nbsp;(CVSS score: 8.8), which concerns the plaintext transmission of credentials in the ION/TCP protocol used by power meters from Schneider Electric. Successful exploitation of the bug could enable threat actors to gain control of vulnerable devices. It's worth noting that CVE-2022-46680 is one among the 56 flaws&nbsp; originally unearthed &nbsp;by Forescout in June 2022. The other two new security holes ( CVE-2023
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Releases Urgent Security Updates for Critical Vulnerability in NAS Devices<a href="https://thehackernews.com/2023/06/zyxel-releases-urgent-security-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has rolled out security updates to address a critical security flaw in its network-attached storage (NAS) devices that could result in the execution of arbitrary commands on affected systems. Tracked as&nbsp; CVE-2023-27992 &nbsp;(CVSS score: 9.8), the issue has been described as a pre-authentication command injection vulnerability. "The pre-authentication command injection vulnerability in some Zyxel NAS devices could allow an unauthenticated attacker to execute some operating system (OS) commands remotely by sending a crafted HTTP request," Zyxel&nbsp; said &nbsp;in an advisory published today. Andrej Zaujec, NCSC-FI, and Maxim Suslov have been credited with discovering and reporting the flaw. The following versions are impacted by CVE-2023-27992 - NAS326 (V5.21(AAZF.13)C0 and earlier, patched in V5.21(AAZF.14)C0), NAS540 (V5.21(AATB.10)C0 and earlier, patched in V5.21(AATB.11)C0), and NAS542 (V5.21(ABAG.10)C0 and earlier, patched in V5.21(ABAG.11)C0) The alert comes two weeks
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel addressed critical flaw CVE-2023-27992 in NAS Devices<a href="https://securityaffairs.com/147653/hacking/zyxel-cve-2023-27992-nas-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel released security updates to address a critical vulnerability affecting its network-attached storage (NAS) devices.
+Zyxel released security updates to address a critical security flaw, tracked as CVE-2023-27992&nbsp;(CVSS score: 9.8), affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Western Digital Blocks Unpatched Devices From Cloud Services<a href="https://www.securityweek.com/western-digital-blocks-unpatched-devices-from-cloud-services/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move, which began on June 15, comes one month after the company released firmware updates for its My Cloud product line to address multiple security defects, including a critical path traversal bug that leads to remote code execution (RCE).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ASUS Releases Patches to Fix Critical Security Bugs Impacting Multiple Router Models<a href="https://thehackernews.com/2023/06/asus-releases-patches-to-fix-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Taiwanese company ASUS on Monday&nbsp; released firmware updates &nbsp;to address, among other issues, nine security bugs impacting a wide range of router models. Of the nine security flaws, two are rated Critical and six are rated High in severity. One vulnerability is currently awaiting analysis. The list of impacted products are GT6, GT-AXE16000, GT-AX11000 PRO, GT-AXE11000, GT-AX6000, GT-AX11000, GS-AX5400, GS-AX3000, XT9, XT8, XT8 V2, RT-AX86U PRO, RT-AX86U, RT-AX86S, RT-AX82U, RT-AX58U, RT-AX3000, TUF-AX6000, and TUF-AX5400. Topping the list of fixes are&nbsp; CVE-2018-1160 &nbsp;and&nbsp; CVE-2022-26376 , both of which are rated 9.8 out of a maximum of 10 on the CVSS scoring system. CVE-2018-1160 concerns a nearly five-year-old out-of-bounds write bug in Netatalk versions before 3.1.12 that could allow a remote unauthenticated attacker to achieve arbitrary code execution. CVE-2022-26376 has been described as a memory corruption vulnerability in the Asuswrt firmware that could be triggered by mean
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ASUS addressed critical flaws in some router models<a href="https://securityaffairs.com/147639/security/asus-fixed-flaws-router-models.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ASUS addressed critical vulnerabilities in multiple router models, urging customers to immediately install firmware updates.
+ASUS is warning customers to update some router models to the latest firmware to address critical vulnerabilities.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

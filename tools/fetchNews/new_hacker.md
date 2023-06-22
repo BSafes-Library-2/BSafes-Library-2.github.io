@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScarCruft Hackers Exploit Ably Service for Stealthy Wiretapping Attacks<a href="https://thehackernews.com/2023/06/scarcruft-hackers-exploit-ably-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean threat actor known as ScarCruft has been observed using an information-stealing malware with previous undocumented wiretapping features as well as a backdoor developed using Golang that exploits the Ably real-time messaging service. "The threat actor sent their commands through the Golang backdoor that is using the Ably service," the AhnLab Security Emergency response Center (ASEC) said in a technical report. "The API key value required for command communication was saved in a GitHub repository." ScarCruft is a state-sponsored outfit with links to North Korea's Ministry of State Security (MSS). It's known to be active since at least 2012. Attack chains mounted by the group entail the use of spear-phishing lures to deliver RokRAT , although it has leveraged a wide range of other custom tools to harvest sensitive information. In the latest intrusion detected by ASEC, the email comes bearing a Microsoft Compiled HTML Help (.CHM) file --
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hacker Group 'Flea' Targets American Ministries with Graphican Backdoor<a href="https://thehackernews.com/2023/06/chinese-hacker-group-flea-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foreign affairs ministries in the Americas have been targeted by a Chinese state-sponsored actor named&nbsp; Flea &nbsp;as part of a recent campaign that spanned from late 2022 to early 2023. The cyber attacks, per Broadcom's Symantec, involved a new backdoor codenamed Graphican. Some of the other targets included a government finance department and a corporation that markets products in the Americas as well as one unspecified victim in an European country. "Flea used a large number of tools in this campaign," the company&nbsp; said &nbsp;in a report shared with The Hacker News, describing the threat actor as "large and well-resourced." "As well as the new Graphican backdoor, the attackers leveraged a variety of living-off-the-land tools, as well as tools that have been previously linked to Flea." Flea, also called APT15, BackdoorDiplomacy, ke3chang, Nylon Typhoon (formerly Nickel), Playful Taurus, Royal APT, and Vixen Panda, is an advanced persistent threat group tha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

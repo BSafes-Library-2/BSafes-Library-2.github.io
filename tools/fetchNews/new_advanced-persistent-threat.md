@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT28 hacked Roundcube email servers of Ukrainian entities<a href="https://securityaffairs.com/147681/apt/apt28-hacked-roundcube-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT28 group hacked into Roundcube email servers belonging to multiple Ukrainian organizations.
+A joint investigation conducted by Ukraine's Computer Emergency Response Team (CERT-UA) and Recorded Future revealed that the Russia-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DOJ unit will focus on prosecuting nation-state cybercrime<a href="https://therecord.media/doj-national-security-division-new-cybercrimes-section?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decision to put cyber on equal footing with the division’s three existing sections comes as the DOJ has ramped up its own efforts to defeat botnets, contain or eliminate malware outbreaks and pursue digital criminals around the globe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2023 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

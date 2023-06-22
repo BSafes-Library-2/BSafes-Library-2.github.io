@@ -8,6 +8,35 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Condi DDoS botnet targets TP-Link Wi-Fi routers<a href="https://securityaffairs.com/147683/cyber-crime/condi-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new strain of malware called&nbsp;Condi&nbsp;that targets TP-Link Archer AX21 (AX1800) Wi-Fi routers.
+Fortinet FortiGuard Labs&nbsp;Researchers discovered a new strain of malware called&nbsp;Condi&nbsp;that was observed exploiting a vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tsunami Botnet Found Targeting Unsecured Linux SSH Servers<a href="https://cyware.com/news/tsunami-botnet-found-targeting-unsecured-linux-ssh-servers-fbc09978"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unidentified cybercrime group was observed brute-forcing vulnerable Linux SSH servers to drop various malware strains, including the Tsunami DDoS bot. Tsunami, also known as Kaiten, is used by a multitude of threat actors as the source code of the botnet is publicly available.&nbsp;administrator ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
