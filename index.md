@@ -34,6 +34,281 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RDStealer Compromises Remote Desktop Drives for Data Theft<a href="https://cyware.com/news/rdstealer-compromises-remote-desktop-drives-for-data-theft-ec9c3132"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers took the wraps off of a year-long cyberattack campaign deploying a custom Golang malware called RDStealer. The malware strain focuses on stealing credentials and extracting data from compromised hosts. Not a coincidence but all the compromised machines were Dell-manufactured devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScarCruft Hackers Exploit Ably Service for Stealthy Wiretapping Attacks<a href="https://thehackernews.com/2023/06/scarcruft-hackers-exploit-ably-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean threat actor known as ScarCruft has been observed using an information-stealing malware with previous undocumented wiretapping features as well as a backdoor developed using Golang that exploits the Ably real-time messaging service. "The threat actor sent their commands through the Golang backdoor that is using the Ably service," the AhnLab Security Emergency response Center (ASEC) said in a technical report. "The API key value required for command communication was saved in a GitHub repository." ScarCruft is a state-sponsored outfit with links to North Korea's Ministry of State Security (MSS). It's known to be active since at least 2012. Attack chains mounted by the group entail the use of spear-phishing lures to deliver RokRAT , although it has leveraged a wide range of other custom tools to harvest sensitive information. In the latest intrusion detected by ASEC, the email comes bearing a Microsoft Compiled HTML Help (.CHM) file --
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT28 hacked Roundcube email servers of Ukrainian entities<a href="https://securityaffairs.com/147681/apt/apt28-hacked-roundcube-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT28 group hacked into Roundcube email servers belonging to multiple Ukrainian organizations.
+A joint investigation conducted by Ukraine's Computer Emergency Response Team (CERT-UA) and Recorded Future revealed that the Russia-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical WordPress Plugin Vulnerabilities Impact Thousands of Sites<a href="https://www.securityweek.com/critical-wordpress-plugin-vulnerabilities-impact-thousands-of-sites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first security defect, tracked as CVE-2023-2986 (CVSS score 9.8/10), impacts the Abandoned Cart Lite for WooCommerce, a plugin that notifies customers who did not complete the purchase process, and which has more than 30,000 active installations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report Exposes Operation Triangulation's Spyware Implant Targeting iOS Devices<a href="https://thehackernews.com/2023/06/new-report-exposes-operation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details have emerged about the spyware implant that's delivered to iOS devices as part of a campaign called Operation Triangulation. Kaspersky, which  discovered the operation  after becoming one of the targets at the start of the year, said the malware has a lifespan of 30 days, after which it gets automatically uninstalled unless the time period is extended by the attackers. The Russian cybersecurity company has codenamed the backdoor  TriangleDB . "The implant is deployed after the attackers obtain root privileges on the target iOS device by exploiting a kernel vulnerability," Kaspersky researchers  said  in a new report published today. "It is deployed in memory, meaning that all traces of the implant are lost when the device gets rebooted. Therefore, if the victim reboots their device, the attackers have to reinfect it by sending an iMessage with a malicious attachment, thus launching the whole exploitation chain again." Operation Triangulation
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Condi DDoS botnet targets TP-Link Wi-Fi routers<a href="https://securityaffairs.com/147683/cyber-crime/condi-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new strain of malware called Condi that targets TP-Link Archer AX21 (AX1800) Wi-Fi routers.
+Fortinet FortiGuard Labs Researchers discovered a new strain of malware called Condi that was observed exploiting a vulnerability...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+May ransomware activity rises behind 8base, LockBit gangs<a href="https://www.techtarget.com/searchsecurity/news/366542455/May-ransomware-activity-rises-behind-8base-LockBit-gangs?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit was the most active group last month, but NCC Group researchers were surprised by 8base, which started listing victims from attacks that occurred beginning in April 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Startup Security Tactics: Friction Surveys<a href="https://thehackernews.com/2023/06/startup-security-tactics-friction.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When we do quarterly  planning , my team categorizes our goals within four evergreen outcomes: Reduce the risk of information security incidents Increase trust in Vanta's information security program Reduce the friction caused by information security controls Use security expertise to support the business In this article, I'm going to focus on number three: reducing friction. Declaring your intentions There is value in making "reducing friction" an explicit goal of your security program. It sets the right tone with your counterparts across the organization, and is one step toward building a positive security culture. The first time I presented those outcomes in a company-wide forum, I received a Slack message from a senior leader who had just joined the company: "fantastic to hear about the security's teams focus on removing invisible security controls. Excellent philosophy for the security team [...] its just awesome too many security teams vi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE flaw CVE-2023-20887 in VMware vRealize exploited in the wild<a href="https://securityaffairs.com/147668/hacking/vmware-cve-2023-20887-flaw-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware is warning customers that critical remote code execution vulnerability CVE-2023-20887 is being actively exploited in attacks.
+VMware is warning customers that a critical remote code execution vulnerability in Aria Operations for Networks (Formerly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and European IT decision-makers have different cloud security priorities<a href="https://www.helpnetsecurity.com/2023/06/21/growing-cloud-security-fear/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The growing adoption of cloud has elevated cloud security fear for IT teams, as they grapple with the challenges and concerns arising from the widespread use of complex cloud environments while diligently addressing them, according to SUSE.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical 'nOAuth' Flaw in Microsoft Azure AD Enabled Complete Account Takeover<a href="https://thehackernews.com/2023/06/critical-noauth-flaw-in-microsoft-azure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security shortcoming in Microsoft Azure Active Directory (AD) Open Authorization ( OAuth ) process could have been exploited to achieve full account takeover, researchers said. California-based identity and access management service Descope, which discovered and reported the issue in April 2023, dubbed it  nOAuth . "nOAuth is an authentication implementation flaw that can affect Microsoft Azure AD multi-tenant OAuth applications," Omer Cohen, chief security officer at Descope,  said . The misconfiguration has to do with how a malicious actor can modify email attributes under "Contact Information" in the Azure AD account and exploit the "Log in with Microsoft" feature to hijack a victim account. To pull off the attack, all an adversary has to do is to create and access an Azure AD admin account and modify their email address to that of a victim and take advantage of the single sign-on scheme on a vulnerable app or website. "If the app merges u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DOJ unit will focus on prosecuting nation-state cybercrime<a href="https://therecord.media/doj-national-security-division-new-cybercrimes-section?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decision to put cyber on equal footing with the division’s three existing sections comes as the DOJ has ramped up its own efforts to defeat botnets, contain or eliminate malware outbreaks and pursue digital criminals around the globe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hacker Group 'Flea' Targets American Ministries with Graphican Backdoor<a href="https://thehackernews.com/2023/06/chinese-hacker-group-flea-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foreign affairs ministries in the Americas have been targeted by a Chinese state-sponsored actor named  Flea  as part of a recent campaign that spanned from late 2022 to early 2023. The cyber attacks, per Broadcom's Symantec, involved a new backdoor codenamed Graphican. Some of the other targets included a government finance department and a corporation that markets products in the Americas as well as one unspecified victim in an European country. "Flea used a large number of tools in this campaign," the company  said  in a report shared with The Hacker News, describing the threat actor as "large and well-resourced." "As well as the new Graphican backdoor, the attackers leveraged a variety of living-off-the-land tools, as well as tools that have been previously linked to Flea." Flea, also called APT15, BackdoorDiplomacy, ke3chang, Nylon Typhoon (formerly Nickel), Playful Taurus, Royal APT, and Vixen Panda, is an advanced persistent threat group tha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations actively embrace zero trust, integration remains a hurdle<a href="https://www.helpnetsecurity.com/2023/06/21/zero-trust-implementation-strategies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT teams have made security efforts and progress in zero-trust implementation strategies to establish a new sense of normalcy following the network upheaval caused by the start of the global pandemic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Condi Malware Hijacking TP-Link Wi-Fi Routers for DDoS Botnet Attacks<a href="https://thehackernews.com/2023/06/new-condi-malware-hijacking-tp-link-wi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware called  Condi  has been observed exploiting a security vulnerability in TP-Link Archer AX21 (AX1800) Wi-Fi routers to rope the devices into a distributed denial-of-service (DDoS) botnet. Fortinet FortiGuard Labs  said  the campaign has ramped up since the end of May 2023. Condi is the work of a threat actor who goes by the online alias zxcr9999 on Telegram and runs a Telegram channel called Condi Network to advertise their warez. "The Telegram channel was started in May 2022, and the threat actor has been monetizing its botnet by providing DDoS-as-a-service and selling the malware source code," security researchers Joie Salvio and Roy Tay said. An analysis of the malware artifact reveals its ability to terminate other competing botnets on the same host. It, however, lacks a persistence mechanism, meaning the program cannot survive a system reboot. To get around this limitation, the malware deletes multiple binaries that are used to shut down or reboot the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tsunami Botnet Found Targeting Unsecured Linux SSH Servers<a href="https://cyware.com/news/tsunami-botnet-found-targeting-unsecured-linux-ssh-servers-fbc09978"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unidentified cybercrime group was observed brute-forcing vulnerable Linux SSH servers to drop various malware strains, including the Tsunami DDoS bot. Tsunami, also known as Kaiten, is used by a multitude of threat actors as the source code of the botnet is publicly available. administrator ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert! Hackers Exploiting Critical Vulnerability in VMware's Aria Operations Networks<a href="https://thehackernews.com/2023/06/alert-hackers-exploiting-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has flagged that a recently patched critical command injection vulnerability in Aria Operations for Networks (formerly vRealize Network Insight) has come under active exploitation in the wild. The flaw, tracked as  CVE-2023-20887 , could  allow  a malicious actor with network access to the product to perform a command injection attack, resulting in remote code execution. It impacts VMware Aria Operations Networks versions 6.x, with fixes released in versions 6.2, 6.3, 6.4, 6.5.1, 6.6, 6.7, 6.8, 6.9, and 6.10 on June 7, 2023. Now according to an update shared by the virtualization services provider on June 20, 2023, the flaw has been weaponized in real-world attacks, although the exact specifics are unknown as yet. "VMware has confirmed that exploitation of CVE-2023-20887 has occurred in the wild," the company  noted . Data gathered by threat intelligence firm GreyNoise  shows  active exploitation of the flaw from two different IP addresses located in the Netherl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
