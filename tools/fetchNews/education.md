@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Startup Security Tactics: Friction Surveys<a href="https://thehackernews.com/2023/06/startup-security-tactics-friction.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When we do quarterly&nbsp; planning , my team categorizes our goals within four evergreen outcomes: Reduce the risk of information security incidents Increase trust in Vanta's information security program Reduce the friction caused by information security controls Use security expertise to support the business In this article, I'm going to focus on number three: reducing friction. Declaring your intentions There is value in making "reducing friction" an explicit goal of your security program. It sets the right tone with your counterparts across the organization, and is one step toward building a positive security culture. The first time I presented those outcomes in a company-wide forum, I received a Slack message from a senior leader who had just joined the company: "fantastic to hear about the security's teams focus on removing invisible security controls. Excellent philosophy for the security team [...] its just awesome too many security teams vi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

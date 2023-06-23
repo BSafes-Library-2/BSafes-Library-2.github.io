@@ -8,6 +8,77 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than a million GitHub repositories potentially vulnerable to RepoJacking<a href="https://securityaffairs.com/147756/hacking/github-repositories-repojacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that millions of GitHub repositories are likely vulnerable to an attack called RepoJacking.
+A study conducted by Aqua researchers revealed that millions of GitHub repositories are potentially vulnerable to RepoJacking.
+In...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Dataset Research Reveals Millions Potentially Vulnerable&nbsp;to RepoJacking<a href="https://blog.aquasec.com/github-dataset-research-reveals-millions-potentially-vulnerable-to-repojacking?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RepoJacking is a security vulnerability that may lead to code execution on organizations' internal or customer environments. Millions of GitHub repositories are potentially vulnerable to it, including popular organizations such as Google and Lyft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple addressed actively exploited zero-day flaws in iOS, macOS, and Safari<a href="https://securityaffairs.com/147729/hacking/apple-zero-day-flaws-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple rolled out security updates to address actively exploited zero-day flaws in iOS, iPadOS, macOS, watchOS, and Safari.
+Apple addressed a set of vulnerabilities in iOS, iPadOS, macOS, watchOS, and the Safari browser that were actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw Found in WordPress Plugin for WooCommerce Used by 30,000 Websites<a href="https://thehackernews.com/2023/06/critical-flaw-found-in-wordpress-plugin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security flaw has been disclosed in the WordPress "Abandoned Cart Lite for WooCommerce" plugin that's&nbsp; installed &nbsp;on more than 30,000 websites. "This vulnerability makes it possible for an attacker to gain access to the accounts of users who have abandoned their carts, who are typically customers but can extend to other high-level users when the right conditions are met," Defiant's Wordfence&nbsp; said &nbsp;in an advisory. Tracked as CVE-2023-2986, the shortcoming has been rated 9.8 out of 10 for severity on the CVSS scoring system. It impacts all versions of the plugin, including and prior to versions 5.14.2. The problem, at its core, is a case of authentication bypass that arises as a result of insufficient encryption protections that are applied when customers are notified when they have abandoned their shopping carts on e-commerce sites without completing the purchase. Specifically, the encryption key is hard-coded in the plugin, thereby allowing
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2023 <br {:="" .fs-4="" .fw-700="" .lh-0="" }="" <p="" style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Alert: Apple Releases Patches for Actively Exploited Flaws in iOS, macOS, and Safari<a href="https://thehackernews.com/2023/06/zero-day-alert-apple-releases-patches.html"> Full Text</a>
+<p></p>
+<details>
+  <summary>Abstract</summary>
+Apple on Wednesday released a&nbsp; slew of updates &nbsp;for iOS, iPadOS, macOS, watchOS, and Safari browser to address a set of flaws it said were actively exploited in the wild. This includes a pair of zero-days that have been weaponized in a mobile surveillance campaign called&nbsp; Operation Triangulation &nbsp;that has been active since 2019. The exact threat actor behind the activity is not known. CVE-2023-32434 &nbsp;- An integer overflow vulnerability in the Kernel that could be exploited by a malicious app to execute arbitrary code with kernel privileges. CVE-2023-32435 &nbsp;- A memory corruption vulnerability in WebKit that could lead to arbitrary code execution when processing specially crafted web content. The iPhone maker said it's aware that the two issues "may have been actively exploited against versions of iOS released before iOS 15.7," crediting Kaspersky researchers Georgy Kucherin, Leonid Bezvershenko, and Boris Larin for reporting them. The advisory comes as the Russia
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,32 @@ nav_order: 900053
 
 ## Education
 ---
+June 22, 2023 <br {:="" .fs-4="" .fw-700="" .lh-0="" }="" <p="" style="font-weight:500; margin:0px" markdown="1">
+Generative-AI apps &amp; ChatGPT: Potential risks and mitigation strategies<a href="https://thehackernews.com/2023/06/generative-ai-apps-chatgpt-potential.html"> Full Text</a>
+<p></p>
+<details>
+  <summary>Abstract</summary>
+Losing sleep over Generative-AI apps? You're not alone or wrong. According to the Astrix Security Research Group, mid size organizations already have, on average, 54 Generative-AI integrations to core systems like Slack, GitHub and Google Workspace and this number is only expected to grow. Continue reading to understand the potential risks and how to minimize them.&nbsp; Book a Generative-AI Discovery session with Astrix Security's experts (free - no strings attached - agentless &amp; zero friction) "Hey ChatGPT, review and optimize our source code"&nbsp; "Hey Jasper.ai, generate a summary email of all our net new customers from this quarter"&nbsp; "Hey Otter.ai, summarize our Zoom board meeting" In this era of financial turmoil, businesses and employees alike are constantly looking for tools to automate work processes and increase efficiency and productivity by connecting third party apps to core business systems such as Google workspace, Slack and GitHub
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unveiling the Unseen: Identifying Data Exfiltration with Machine Learning<a href="https://thehackernews.com/2023/06/unveiling-unseen-identifying-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Why Data Exfiltration Detection is Paramount? The world is witnessing an exponential rise in ransomware and data theft employed to extort companies. At the same time, the industry faces numerous critical vulnerabilities in database software and company websites. This evolution paints a dire picture of data exposure and exfiltration that every security leader and team is grappling with. This article highlights this challenge and expounds on the benefits that Machine Learning algorithms and Network Detection &amp; Response (NDR) approaches bring to the table. Data exfiltration often serves as the final act of a cyberattack, making it the last window of opportunity to detect the breach before the data is made public or is used for other sinister activities, such as espionage. However, data leakage isn't only an aftermath of cyberattacks, it can also be a consequence of human error. While prevention of data exfiltration through security controls is ideal, the escalating complexity a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 23, 2023
+June 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More than a million GitHub repositories potentially vulnerable to RepoJacking<a href="https://securityaffairs.com/147756/hacking/github-repositories-repojacking.html"> Full Text</a>
@@ -52,7 +52,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Dataset Research Reveals Millions Potentially Vulnerable to RepoJacking<a href="https://blog.aquasec.com/github-dataset-research-reveals-millions-potentially-vulnerable-to-repojacking?&web_view=true"> Full Text</a>
@@ -68,7 +68,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MULTI#STORM Campaign Targets India and U.S. with Remote Access Trojans<a href="https://thehackernews.com/2023/06/multistorm-campaign-targets-india-and.html"> Full Text</a>
@@ -84,7 +84,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Reverse Engineer Flutter-based Fluhorse Android Malware<a href="https://www.fortinet.com/blog/threat-research/fortinet-reverses-flutter-based-android-malware-fluhorse?&web_view=true"> Full Text</a>
@@ -100,7 +100,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Education](/docs/issues/education/education/)<br
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Generative-AI apps & ChatGPT: Potential risks and mitigation strategies<a href="https://thehackernews.com/2023/06/generative-ai-apps-chatgpt-potential.html"> Full Text</a>
@@ -116,7 +116,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mirai botnet targets tens of flaws in popular IoT devices<a href="https://securityaffairs.com/147750/malware/mirai-botnet-iot-devices.html"> Full Text</a>
@@ -133,7 +133,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Third-Party Vendor Exposes 3CX Data via Unsecured Elasticsearch and Kibana Instances<a href="https://securityaffairs.com/147677/security/3cx-data-exposed-third-party-to-blame.html?&web_view=true"> Full Text</a>
@@ -149,7 +149,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: Million of GitHub Repositories Likely Vulnerable to RepoJacking Attack<a href="https://thehackernews.com/2023/06/alert-million-of-github-repositories.html"> Full Text</a>
@@ -165,7 +165,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers released a PoC exploit for CVE-2023-20178 flaw in Cisco AnyConnect Secure<a href="https://securityaffairs.com/147744/hacking/cve-2023-20178-poc-exploit-code.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British law firms warned to upgrade cyber defenses against ransomware attacks<a href="https://therecord.media/british-law-firms-ransomware-defense-ncsc-warning?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Camaro Dragon Hackers Strike with USB-Driven Self-Propagating Malware<a href="https://thehackernews.com/2023/06/camaro-dragon-hackers-strike-with-usb.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Norton parent firm Gen Digital, was victim of a MOVEit ransomware attack too<a href="https://securityaffairs.com/147739/cyber-crime/gen-digital-moveit-ransomware-attack.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Police Disrupt Cryptocurrency Scam Aimed at Canada<a href="https://www.bankinfosecurity.com/ukrainian-police-disrupt-cryptocurrency-scam-aimed-at-canada-a-22341?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unveiling the Unseen: Identifying Data Exfiltration with Machine Learning<a href="https://thehackernews.com/2023/06/unveiling-unseen-identifying-data.html"> Full Text</a>
@@ -263,7 +263,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple addressed actively exploited zero-day flaws in iOS, macOS, and Safari<a href="https://securityaffairs.com/147729/hacking/apple-zero-day-flaws-exploited.html"> Full Text</a>
@@ -280,7 +280,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian hacking group puts fresh emphasis on stealing credentials<a href="https://therecord.media/nobelium-hacking-group-stealing-credentials?&web_view=true"> Full Text</a>
@@ -296,7 +296,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw Found in WordPress Plugin for WooCommerce Used by 30,000 Websites<a href="https://thehackernews.com/2023/06/critical-flaw-found-in-wordpress-plugin.html"> Full Text</a>
@@ -312,7 +312,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analyzing the TriangleDB implant used in Operation Triangulation<a href="https://securityaffairs.com/147717/malware/triangledb-implant-used-operation-triangulation.html"> Full Text</a>
@@ -329,7 +329,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hawaiʻi Community College Hit with NoEscape Ransomware Attack<a href="https://therecord.media/hawaii-community-college-ransomware?&web_view=true"> Full Text</a>
@@ -345,7 +345,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero-Day Alert: Apple Releases Patches for Actively Exploited Flaws in iOS, macOS, and Safari<a href="https://thehackernews.com/2023/06/zero-day-alert-apple-releases-patches.html"> Full Text</a>
@@ -361,7 +361,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2023
+June 22, 2023 -- [General](/docs/issues/general/general/)<br
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISOs’ New Stressors Brought on by Digitalization: Report<a href="https://www.securityweek.com/cisos-new-stressors-brought-on-by-digitalization-report/?&web_view=true"> Full Text</a>

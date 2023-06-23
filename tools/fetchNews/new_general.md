@@ -8,6 +8,46 @@ nav_order: 900072
 
 ## General
 ---
+June 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Million of GitHub Repositories Likely Vulnerable to RepoJacking Attack<a href="https://thehackernews.com/2023/06/alert-million-of-github-repositories.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millions of software repositories on GitHub are likely vulnerable to an attack called RepoJacking , a new study has revealed. This includes repositories from organizations such as Google, Lyft, and several others, Massachusetts-based cloud-native security firm Aqua&nbsp; said &nbsp;in a Wednesday report. The supply chain vulnerability, also known as dependency repository hijacking, is a&nbsp; class of attacks &nbsp;that makes it possible to take over&nbsp;retired organization or user names and publish trojanized versions of repositories to run malicious code. "When a repository owner changes their username, a link is created between the old name and the new name for anyone who downloads dependencies from the old repository," researchers Ilay Goldman and Yakir Kadkoda said. "However, it is possible for anyone to create the old username and break this link." Alternatively, a similar scenario could arise when a repository ownership is transferred to another user and the original account
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British law firms warned to upgrade cyber defenses against ransomware attacks<a href="https://therecord.media/british-law-firms-ransomware-defense-ncsc-warning?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law firms in Britain were warned on Thursday to upgrade their cyber defenses in the wake of a number of ransomware attacks that led to sensitive and potentially legally privileged information being stolen by criminals and published online.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2023 <br {:="" .fs-4="" .fw-700="" .lh-0="" }="" <p="" style="font-weight:500; margin:0px" markdown="1">
+CISOs’ New Stressors Brought on by Digitalization: Report<a href="https://www.securityweek.com/cisos-new-stressors-brought-on-by-digitalization-report/?&amp;web_view=true"> Full Text</a>
+<p></p>
+<details>
+  <summary>Abstract</summary>
+Salt Security surveyed an international selection of 300 CISOs and CSOs to examine the cybersecurity ramifications of digitalization – and it is worth noting that almost 90% of them said that digital transformation introduces unforeseen risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

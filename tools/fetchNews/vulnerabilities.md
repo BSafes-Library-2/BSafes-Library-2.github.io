@@ -8,6 +8,63 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical WordPress Plugin Vulnerabilities Impact Thousands of Sites<a href="https://www.securityweek.com/critical-wordpress-plugin-vulnerabilities-impact-thousands-of-sites/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first security defect, tracked as CVE-2023-2986 (CVSS score 9.8/10), impacts the Abandoned Cart Lite for WooCommerce, a plugin that notifies customers who did not complete the purchase process, and which has more than 30,000 active installations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE flaw CVE-2023-20887 in VMware vRealize exploited in the wild<a href="https://securityaffairs.com/147668/hacking/vmware-cve-2023-20887-flaw-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware is warning customers that critical remote code execution vulnerability CVE-2023-20887 is being actively exploited in attacks.
+VMware is warning customers that a critical remote code execution vulnerability in Aria Operations for Networks (Formerly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical 'nOAuth' Flaw in Microsoft Azure AD Enabled Complete Account Takeover<a href="https://thehackernews.com/2023/06/critical-noauth-flaw-in-microsoft-azure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security shortcoming in Microsoft Azure Active Directory (AD) Open Authorization ( OAuth ) process could have been exploited to achieve full account takeover, researchers said. California-based identity and access management service Descope, which discovered and reported the issue in April 2023, dubbed it&nbsp; nOAuth . "nOAuth is an authentication implementation flaw that can affect Microsoft Azure AD multi-tenant OAuth applications," Omer Cohen, chief security officer at Descope,&nbsp; said . The misconfiguration has to do with how a malicious actor can modify email attributes under "Contact Information" in the Azure AD account and exploit the "Log in with Microsoft" feature to hijack a victim account. To pull off the attack, all an adversary has to do is to create and access an Azure AD admin account and modify their email address to that of a victim and take advantage of the single sign-on scheme on a vulnerable app or website. "If the app merges u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2023  <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert! Hackers Exploiting Critical Vulnerability in VMware's Aria Operations Networks<a href="https://thehackernews.com/2023/06/alert-hackers-exploiting-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has flagged that a recently patched critical command injection vulnerability in Aria Operations for Networks (formerly vRealize Network Insight) has come under active exploitation in the wild. The flaw, tracked as&nbsp; CVE-2023-20887 , could&nbsp; allow &nbsp;a malicious actor with network access to the product to perform a command injection attack, resulting in remote code execution. It impacts VMware Aria Operations Networks versions 6.x, with fixes released in versions 6.2, 6.3, 6.4, 6.5.1, 6.6, 6.7, 6.8, 6.9, and 6.10 on June 7, 2023. Now according to an update shared by the virtualization services provider on June 20, 2023, the flaw has been weaponized in real-world attacks, although the exact specifics are unknown as yet. "VMware has confirmed that exploitation of CVE-2023-20887 has occurred in the wild," the company&nbsp; noted . Data gathered by threat intelligence firm GreyNoise&nbsp; shows &nbsp;active exploitation of the flaw from two different IP addresses located in the Netherl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

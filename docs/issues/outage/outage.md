@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+June 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hawaiʻi Community College Hit with NoEscape Ransomware Attack<a href="https://therecord.media/hawaii-community-college-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hawai?i Community College is the latest university to deal with a ransomware attack, announcing on Tuesday night that it was forced to shut off its network and contact federal authorities about the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

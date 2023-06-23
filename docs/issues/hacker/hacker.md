@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Camaro Dragon Hackers Strike with USB-Driven Self-Propagating Malware<a href="https://thehackernews.com/2023/06/camaro-dragon-hackers-strike-with-usb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese cyber espionage actor known as&nbsp; Camaro Dragon &nbsp;has been observed leveraging a new strain of self-propagating malware that spreads through compromised USB drives. "While their primary focus has traditionally been Southeast Asian countries, this latest discovery reveals their global reach and highlights the alarming role USB drives play in spreading malware," Check Point said in new research shared with The Hacker News. The cybersecurity company, which found evidence of USB malware infections in Myanmar, South Korea, Great Britain, India, and Russia, said the findings are the result of a cyber incident that it investigated at an unnamed European hospital in early 2023. The probe found that the entity was not directly targeted by the adversary but rather suffered a breach via an employee's USB drive, which became infected when it was plugged into a colleague's computer at a conference in Asia. "Consequently, upon returning to the healthcare institu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hacking group puts fresh emphasis on stealing credentials<a href="https://therecord.media/nobelium-hacking-group-stealing-credentials?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These attacks by APT29 (aka Cozy Bear, Nobelium, or Midnight Blizzard) are directed at governments, IT service providers, nongovernmental organizations (NGOs), and defense and critical manufacturing industries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

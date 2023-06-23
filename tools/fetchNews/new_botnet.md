@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mirai botnet targets tens of flaws in popular IoT devices<a href="https://securityaffairs.com/147750/malware/mirai-botnet-iot-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since March 2023, Unit 42 researchers have observed a variant of the Mirai botnet spreading by targeting tens of flaws in D-Link, Zyxel, and Netgear devices.
+Since March 2023, researchers at Palo Alto Networks Unit 42 have observed a new variant of the Mirai...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

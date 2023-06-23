@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+June 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norton parent firm Gen Digital, was victim of a MOVEit ransomware attack too<a href="https://securityaffairs.com/147739/cyber-crime/gen-digital-moveit-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norton parent firm, Gen Digital, was the victim of a ransomware attack that exploited the recently disclosed MOVEit zero-day vulnerability.
+Gen Digital Inc.&nbsp;(formerly&nbsp;Symantec Corporation&nbsp;and&nbsp;NortonLifeLock) is a multinational&nbsp;software company&nbsp;that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
