@@ -34,6 +34,349 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than a million GitHub repositories potentially vulnerable to RepoJacking<a href="https://securityaffairs.com/147756/hacking/github-repositories-repojacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that millions of GitHub repositories are likely vulnerable to an attack called RepoJacking.
+A study conducted by Aqua researchers revealed that millions of GitHub repositories are potentially vulnerable to RepoJacking.
+In...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Dataset Research Reveals Millions Potentially Vulnerable to RepoJacking<a href="https://blog.aquasec.com/github-dataset-research-reveals-millions-potentially-vulnerable-to-repojacking?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RepoJacking is a security vulnerability that may lead to code execution on organizations' internal or customer environments. Millions of GitHub repositories are potentially vulnerable to it, including popular organizations such as Google and Lyft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MULTI#STORM Campaign Targets India and U.S. with Remote Access Trojans<a href="https://thehackernews.com/2023/06/multistorm-campaign-targets-india-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign codenamed  MULTI#STORM  has set its sights on India and the U.S. by leveraging JavaScript files to deliver remote access trojans on compromised systems. "The attack chain ends with the victim machine infected with multiple unique RAT (remote access trojan) malware instances, such as Warzone RAT and Quasar RAT," Securonix researchers Den Iuzvyk, Tim Peck, and Oleg Kolesnikov  said . "Both are used for command-and-control during different stages of the infection chain." The multi-stage attack chain commences when an email recipient clicks the embedded link pointing to a password-protected ZIP file ("REQUEST.zip") hosted on Microsoft OneDrive with the password "12345." Extracting the archive file reveals a heavily obfuscated JavaScript file ("REQUEST.js") that, when double clicked, activates the infection by executing two PowerShell commands that are responsible for retrieving two separate payloads from OneDri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Reverse Engineer Flutter-based Fluhorse Android Malware<a href="https://www.fortinet.com/blog/threat-research/fortinet-reverses-flutter-based-android-malware-fluhorse?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware poses as a legitimate app for an electronic toll system used in Southern Asia and steals user credentials and 2FA codes. The malware is distributed via email phishing campaigns and has been downloaded over 100,000 times.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Generative-AI apps & ChatGPT: Potential risks and mitigation strategies<a href="https://thehackernews.com/2023/06/generative-ai-apps-chatgpt-potential.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Losing sleep over Generative-AI apps? You're not alone or wrong. According to the Astrix Security Research Group, mid size organizations already have, on average, 54 Generative-AI integrations to core systems like Slack, GitHub and Google Workspace and this number is only expected to grow. Continue reading to understand the potential risks and how to minimize them.  Book a Generative-AI Discovery session with Astrix Security's experts (free - no strings attached - agentless & zero friction) "Hey ChatGPT, review and optimize our source code"  "Hey Jasper.ai, generate a summary email of all our net new customers from this quarter"  "Hey Otter.ai, summarize our Zoom board meeting" In this era of financial turmoil, businesses and employees alike are constantly looking for tools to automate work processes and increase efficiency and productivity by connecting third party apps to core business systems such as Google workspace, Slack and GitHub
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mirai botnet targets tens of flaws in popular IoT devices<a href="https://securityaffairs.com/147750/malware/mirai-botnet-iot-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since March 2023, Unit 42 researchers have observed a variant of the Mirai botnet spreading by targeting tens of flaws in D-Link, Zyxel, and Netgear devices.
+Since March 2023, researchers at Palo Alto Networks Unit 42 have observed a new variant of the Mirai...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Third-Party Vendor Exposes 3CX Data via Unsecured Elasticsearch and Kibana Instances<a href="https://securityaffairs.com/147677/security/3cx-data-exposed-third-party-to-blame.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A third-party vendor of 3CX left an open server and exposed sensitive data. Attackers could use the exposed call metadata, license keys, and database connection strings to spy on 3CX clients or launch more sophisticated attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Million of GitHub Repositories Likely Vulnerable to RepoJacking Attack<a href="https://thehackernews.com/2023/06/alert-million-of-github-repositories.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millions of software repositories on GitHub are likely vulnerable to an attack called RepoJacking , a new study has revealed. This includes repositories from organizations such as Google, Lyft, and several others, Massachusetts-based cloud-native security firm Aqua  said  in a Wednesday report. The supply chain vulnerability, also known as dependency repository hijacking, is a  class of attacks  that makes it possible to take over retired organization or user names and publish trojanized versions of repositories to run malicious code. "When a repository owner changes their username, a link is created between the old name and the new name for anyone who downloads dependencies from the old repository," researchers Ilay Goldman and Yakir Kadkoda said. "However, it is possible for anyone to create the old username and break this link." Alternatively, a similar scenario could arise when a repository ownership is transferred to another user and the original account
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers released a PoC exploit for CVE-2023-20178 flaw in Cisco AnyConnect Secure<a href="https://securityaffairs.com/147744/hacking/cve-2023-20178-poc-exploit-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The proof-of-concept (PoC) exploit code for high-severity vulnerability (CVE-2023-20178) in Cisco AnyConnect Secure was published online.
+A security researcher has published a proof-of-concept (PoC) exploit code for the high-severity vulnerability,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British law firms warned to upgrade cyber defenses against ransomware attacks<a href="https://therecord.media/british-law-firms-ransomware-defense-ncsc-warning?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law firms in Britain were warned on Thursday to upgrade their cyber defenses in the wake of a number of ransomware attacks that led to sensitive and potentially legally privileged information being stolen by criminals and published online.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Camaro Dragon Hackers Strike with USB-Driven Self-Propagating Malware<a href="https://thehackernews.com/2023/06/camaro-dragon-hackers-strike-with-usb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese cyber espionage actor known as  Camaro Dragon  has been observed leveraging a new strain of self-propagating malware that spreads through compromised USB drives. "While their primary focus has traditionally been Southeast Asian countries, this latest discovery reveals their global reach and highlights the alarming role USB drives play in spreading malware," Check Point said in new research shared with The Hacker News. The cybersecurity company, which found evidence of USB malware infections in Myanmar, South Korea, Great Britain, India, and Russia, said the findings are the result of a cyber incident that it investigated at an unnamed European hospital in early 2023. The probe found that the entity was not directly targeted by the adversary but rather suffered a breach via an employee's USB drive, which became infected when it was plugged into a colleague's computer at a conference in Asia. "Consequently, upon returning to the healthcare institu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norton parent firm Gen Digital, was victim of a MOVEit ransomware attack too<a href="https://securityaffairs.com/147739/cyber-crime/gen-digital-moveit-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Norton parent firm, Gen Digital, was the victim of a ransomware attack that exploited the recently disclosed MOVEit zero-day vulnerability.
+Gen Digital Inc. (formerly Symantec Corporation and NortonLifeLock) is a multinational software company that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Police Disrupt Cryptocurrency Scam Aimed at Canada<a href="https://www.bankinfosecurity.com/ukrainian-police-disrupt-cryptocurrency-scam-aimed-at-canada-a-22341?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian and Canadian authorities conducted a joint operation to disrupt the two call centers and confiscate computer equipment, mobile phones, SIM cards, cars, and cash.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unveiling the Unseen: Identifying Data Exfiltration with Machine Learning<a href="https://thehackernews.com/2023/06/unveiling-unseen-identifying-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Why Data Exfiltration Detection is Paramount? The world is witnessing an exponential rise in ransomware and data theft employed to extort companies. At the same time, the industry faces numerous critical vulnerabilities in database software and company websites. This evolution paints a dire picture of data exposure and exfiltration that every security leader and team is grappling with. This article highlights this challenge and expounds on the benefits that Machine Learning algorithms and Network Detection & Response (NDR) approaches bring to the table. Data exfiltration often serves as the final act of a cyberattack, making it the last window of opportunity to detect the breach before the data is made public or is used for other sinister activities, such as espionage. However, data leakage isn't only an aftermath of cyberattacks, it can also be a consequence of human error. While prevention of data exfiltration through security controls is ideal, the escalating complexity a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple addressed actively exploited zero-day flaws in iOS, macOS, and Safari<a href="https://securityaffairs.com/147729/hacking/apple-zero-day-flaws-exploited.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple rolled out security updates to address actively exploited zero-day flaws in iOS, iPadOS, macOS, watchOS, and Safari.
+Apple addressed a set of vulnerabilities in iOS, iPadOS, macOS, watchOS, and the Safari browser that were actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian hacking group puts fresh emphasis on stealing credentials<a href="https://therecord.media/nobelium-hacking-group-stealing-credentials?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These attacks by APT29 (aka Cozy Bear, Nobelium, or Midnight Blizzard) are directed at governments, IT service providers, nongovernmental organizations (NGOs), and defense and critical manufacturing industries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw Found in WordPress Plugin for WooCommerce Used by 30,000 Websites<a href="https://thehackernews.com/2023/06/critical-flaw-found-in-wordpress-plugin.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security flaw has been disclosed in the WordPress "Abandoned Cart Lite for WooCommerce" plugin that's  installed  on more than 30,000 websites. "This vulnerability makes it possible for an attacker to gain access to the accounts of users who have abandoned their carts, who are typically customers but can extend to other high-level users when the right conditions are met," Defiant's Wordfence  said  in an advisory. Tracked as CVE-2023-2986, the shortcoming has been rated 9.8 out of 10 for severity on the CVSS scoring system. It impacts all versions of the plugin, including and prior to versions 5.14.2. The problem, at its core, is a case of authentication bypass that arises as a result of insufficient encryption protections that are applied when customers are notified when they have abandoned their shopping carts on e-commerce sites without completing the purchase. Specifically, the encryption key is hard-coded in the plugin, thereby allowing
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analyzing the TriangleDB implant used in Operation Triangulation<a href="https://securityaffairs.com/147717/malware/triangledb-implant-used-operation-triangulation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky provided more details about Operation Triangulation, including the exploitation chain and the implant used by the threat actors.
+Kaspersky researchers dug into Operation Triangulation and discovered more details about the exploit chain employed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hawaiʻi Community College Hit with NoEscape Ransomware Attack<a href="https://therecord.media/hawaii-community-college-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hawai?i Community College is the latest university to deal with a ransomware attack, announcing on Tuesday night that it was forced to shut off its network and contact federal authorities about the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Alert: Apple Releases Patches for Actively Exploited Flaws in iOS, macOS, and Safari<a href="https://thehackernews.com/2023/06/zero-day-alert-apple-releases-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Wednesday released a  slew of updates  for iOS, iPadOS, macOS, watchOS, and Safari browser to address a set of flaws it said were actively exploited in the wild. This includes a pair of zero-days that have been weaponized in a mobile surveillance campaign called  Operation Triangulation  that has been active since 2019. The exact threat actor behind the activity is not known. CVE-2023-32434  - An integer overflow vulnerability in the Kernel that could be exploited by a malicious app to execute arbitrary code with kernel privileges. CVE-2023-32435  - A memory corruption vulnerability in WebKit that could lead to arbitrary code execution when processing specially crafted web content. The iPhone maker said it's aware that the two issues "may have been actively exploited against versions of iOS released before iOS 15.7," crediting Kaspersky researchers Georgy Kucherin, Leonid Bezvershenko, and Boris Larin for reporting them. The advisory comes as the Russia
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs’ New Stressors Brought on by Digitalization: Report<a href="https://www.securityweek.com/cisos-new-stressors-brought-on-by-digitalization-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Salt Security surveyed an international selection of 300 CISOs and CSOs to examine the cybersecurity ramifications of digitalization – and it is worth noting that almost 90% of them said that digital transformation introduces unforeseen risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
