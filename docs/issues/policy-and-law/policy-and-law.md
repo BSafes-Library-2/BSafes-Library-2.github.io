@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit Data Breach Victims Sue Progress Software<a href="https://www.bankinfosecurity.com/moveit-data-breach-victims-sue-progress-software-a-22350?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fallout for Progress Software continues over a massive data breach that appears to have affected hundreds of private and public sector organizations that use its MOVEit file transfer software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach Lawsuit Alleges Mismanagement of 3rd-Party Risk<a href="https://www.bankinfosecurity.com/data-breach-lawsuit-alleges-mismanagement-3rd-party-risk-a-22356?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A proposed federal class action lawsuit alleges that patient debt collection software firm Intellihartx was negligent in its handling of third-party risk, contributing to a breach affecting nearly 490,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

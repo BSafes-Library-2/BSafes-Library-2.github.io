@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Power of Browser Fingerprinting: Personalized UX, Fraud Detection, and Secure Logins<a href="https://thehackernews.com/2023/06/the-power-of-browser-fingerprinting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The case for browser fingerprinting: personalizing user experience, improving fraud detection, and optimizing login security Have you ever heard of browser fingerprinting? You should! It's an online user identification technique that collects information about a visitor's web browser and its configuration preferences to associate individual browsing sessions with a single website visitor.&nbsp; With browser fingerprinting, many pieces of data can be collected about a user's web browser and device, such as screen resolution, location, language, and operating system. When you stitch these pieces together, they reveal a unique combination of information that forms every user's visitor ID or "digital fingerprint." Websites can use the visitor ID in various ways, including personalizing the user's experience, improving fraud detection, and optimizing login security. This article discusses the case for browser fingerprinting and how to use it safely on your websi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2023 <br {:="" .fs-4="" .fw-700="" .lh-0="" }="" <p="" style="font-weight:500; margin:0px" markdown="1">
 Generative-AI apps &amp; ChatGPT: Potential risks and mitigation strategies<a href="https://thehackernews.com/2023/06/generative-ai-apps-chatgpt-potential.html"> Full Text</a>
 <p></p>

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Kill Chain Approach to Disrupting Online Threats<a href="https://www.lawfareblog.com/new-kill-chain-approach-disrupting-online-threats"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The defender community has learned a great deal since the 2016 U.S. election, but it still needs to find a common language.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

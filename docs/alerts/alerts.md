@@ -7,6 +7,37 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Five Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2023/06/23/cisa-adds-five-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+    CVE-2023-32434 Apple Multiple Products Integer Overflow Vulnerability
+    CVE-2023-32435 Apple iOS and iPadOS WebKit Memory Corruption Vulnerability
+    CVE-2023-32439 Apple iOS, iPadOS, and macOS WebKit Type Confusion Vulnerability
+    CVE-2023-20867 VMware Tools Authentication Bypass Vulnerability
+    CVE-2023-27992 Mozilla Firefox, Firefox ESR, and Thunderbird Use-After-Free Vulnerability
+
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Releases Guide to Mitigate BlackLotus Threat  <a href="https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3435305/nsa-releases-guide-to-mitigate-blacklotus-threat/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FORT MEADE, Md. — Malicious cyber actors could take advantage of a known vulnerability in the Microsoft Windows secure startup process to bypass Secure Boot protection and execute BlackLotus malware.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 16, 2023 - HHS 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

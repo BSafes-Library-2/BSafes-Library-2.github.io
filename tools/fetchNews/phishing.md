@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MULTI#STORM Campaign Targets India and U.S. with Remote Access Trojans<a href="https://thehackernews.com/2023/06/multistorm-campaign-targets-india-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign codenamed&nbsp; MULTI#STORM &nbsp;has set its sights on India and the U.S. by leveraging JavaScript files to deliver remote access trojans on compromised systems. "The attack chain ends with the victim machine infected with multiple unique RAT (remote access trojan) malware instances, such as Warzone RAT and Quasar RAT," Securonix researchers Den Iuzvyk, Tim Peck, and Oleg Kolesnikov&nbsp; said . "Both are used for command-and-control during different stages of the infection chain." The multi-stage attack chain commences when an email recipient clicks the embedded link pointing to a password-protected ZIP file ("REQUEST.zip") hosted on Microsoft OneDrive with the password "12345." Extracting the archive file reveals a heavily obfuscated JavaScript file ("REQUEST.js") that, when double clicked, activates the infection by executing two PowerShell commands that are responsible for retrieving two separate payloads from OneDri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

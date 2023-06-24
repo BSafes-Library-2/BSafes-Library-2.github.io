@@ -11,6 +11,36 @@ nav_order: 900220
 June 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed five memory corruption issues in vCenter Server<a href="https://securityaffairs.com/147774/hacking/vmware-vcenter-server-memory-corruption-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed multiple memory corruption vulnerabilities in vCenter Server that can be exploited to achieve remote code execution.
+VMware released security updates to five memory corruption vulnerabilities (CVE-2023-20892, CVE-2023-20893, CVE-2023-20894,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixes critical FortiNAC RCE, install updates asap<a href="https://securityaffairs.com/147770/security/fortinet-fortinac-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet addressed a critical remote command execution vulnerability, tracked as CVE-2023-33299, affecting FortiNAC solution.
+FortiNAC is a network access control (NAC) solution designed by Fortinet that is used by organizations to secure and control...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 More than a million GitHub repositories potentially vulnerable to RepoJacking<a href="https://securityaffairs.com/147756/hacking/github-repositories-repojacking.html"> Full Text</a>
 </p>
 <details>

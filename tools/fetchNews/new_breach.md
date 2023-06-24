@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2.5 million Genworth policyholders affected by MOVEit hack<a href="https://abcnews.go.com/Technology/wireStory/personal-data-700000-retired-california-workers-beneficiaries-stolen-100317932?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A third-party vendor lost the personal data of at least 2.5 million Genworth Financial policyholders, including Social Security numbers, to the Russian Cl0p ransomware gang, according to the Fortune 500 insurer.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

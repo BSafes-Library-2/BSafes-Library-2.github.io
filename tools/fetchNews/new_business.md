@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google announces $20 million investment for cyber clinics<a href="https://cyberscoop.com/google-investment-cyber-clinics/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By deploying students to community organizations to improve digital defenses, university cybersecurity clinics aim to give students cybersecurity experience, improve local defensive capacity and steer students toward work in cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cryptocurrency Mining Campaign Targets Linux Systems and IoT Devices<a href="https://thehackernews.com/2023/06/new-cryptocurrency-mining-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet-facing Linux systems and Internet of Things (IoT) devices are being targeted as part of a new campaign designed to illicitly mine cryptocurrency. "The threat actors behind the attack use a backdoor that deploys a wide array of tools and components such as rootkits and an IRC bot to steal device resources for mining operations," Microsoft threat intelligence researcher Rotem Sde-Or&nbsp; said . "The backdoor also installs a patched version of OpenSSH on affected devices, allowing threat actors to hijack SSH credentials, move laterally within the network, and conceal malicious SSH connections." To pull off the scheme, misconfigured Linux hosts are brute-forced to gain initial access, following which the threat actors move to disable shell history and fetch a trojanized version of OpenSSH from a remote server. The rogue OpenSSH package is configured to install and launch the backdoor, a shell script that allows the attackers to distribute additional payloads a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
