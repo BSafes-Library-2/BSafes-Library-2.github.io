@@ -34,6 +34,249 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2.5 million Genworth policyholders affected by MOVEit hack<a href="https://abcnews.go.com/Technology/wireStory/personal-data-700000-retired-california-workers-beneficiaries-stolen-100317932?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A third-party vendor lost the personal data of at least 2.5 million Genworth Financial policyholders, including Social Security numbers, to the Russian Cl0p ransomware gang, according to the Fortune 500 insurer.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Group 'Muddled Libra' Targets BPO Sector with Advanced Social Engineering<a href="https://thehackernews.com/2023/06/cybercrime-group-muddled-libra-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as  Muddled Libra  is targeting the business process outsourcing (BPO) industry with persistent attacks that leverage advanced social engineering ploys to gain initial access. "The attack style defining Muddled Libra appeared on the cybersecurity radar in late 2022 with the release of the 0ktapus phishing kit, which offered a prebuilt hosting framework and bundled templates," Palo Alto Networks Unit 42  said  in a technical report. Libra is the  designation  given by the cybersecurity company for cybercrime groups. The "muddled" moniker for the threat actor stems from the prevailing ambiguity with regards to the use of the 0ktapus framework. 0ktapus , also known as Scatter Swine, refers to an intrusion set that first came to light in August 2022 in connection with smishing attacks against over 100 organizations, including Twilio and Cloudflare. Then in late 2022, CrowdStrike  detailed  a string of cyber assaults aimed at telecom and BPO co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Kill Chain Approach to Disrupting Online Threats<a href="https://www.lawfareblog.com/new-kill-chain-approach-disrupting-online-threats"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The defender community has learned a great deal since the 2016 U.S. election, but it still needs to find a common language.
+</details>
+<div style="text-align: right" markdown="1">
+Lawfare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders govt agencies to fix recently disclosed flaws in Apple devices<a href="https://securityaffairs.com/147782/hacking/known-exploited-vulnerabilities-catalog-apple-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) added six new vulnerabilities to its Known Exploited Vulnerabilities catalog.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added six new security flaws to its  Known...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google announces $20 million investment for cyber clinics<a href="https://cyberscoop.com/google-investment-cyber-clinics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By deploying students to community organizations to improve digital defenses, university cybersecurity clinics aim to give students cybersecurity experience, improve local defensive capacity and steer students toward work in cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Power of Browser Fingerprinting: Personalized UX, Fraud Detection, and Secure Logins<a href="https://thehackernews.com/2023/06/the-power-of-browser-fingerprinting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The case for browser fingerprinting: personalizing user experience, improving fraud detection, and optimizing login security Have you ever heard of browser fingerprinting? You should! It's an online user identification technique that collects information about a visitor's web browser and its configuration preferences to associate individual browsing sessions with a single website visitor.  With browser fingerprinting, many pieces of data can be collected about a user's web browser and device, such as screen resolution, location, language, and operating system. When you stitch these pieces together, they reveal a unique combination of information that forms every user's visitor ID or "digital fingerprint." Websites can use the visitor ID in various ways, including personalizing the user's experience, improving fraud detection, and optimizing login security. This article discusses the case for browser fingerprinting and how to use it safely on your websi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware fixed five memory corruption issues in vCenter Server<a href="https://securityaffairs.com/147774/hacking/vmware-vcenter-server-memory-corruption-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware addressed multiple memory corruption vulnerabilities in vCenter Server that can be exploited to achieve remote code execution.
+VMware released security updates to five memory corruption vulnerabilities (CVE-2023-20892, CVE-2023-20893, CVE-2023-20894,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit Data Breach Victims Sue Progress Software<a href="https://www.bankinfosecurity.com/moveit-data-breach-victims-sue-progress-software-a-22350?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fallout for Progress Software continues over a massive data breach that appears to have affected hundreds of private and public sector organizations that use its MOVEit file transfer software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Powerful JavaScript Dropper PindOS Distributes Bumblebee and IcedID Malware<a href="https://thehackernews.com/2023/06/powerful-javascript-dropper-pindos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new strain of JavaScript dropper has been observed delivering next-stage payloads like Bumblebee and IcedID. Cybersecurity firm Deep Instinct is tracking the malware as  PindOS , which contains the name in its " User-Agent " string. Both  Bumblebee  and IcedID serve as loaders, acting as a vector for other malware on compromised hosts, including ransomware. A recent report from Proofpoint  highlighted  IcedID's abandoning of banking fraud features to solely focus on malware delivery. Bumblebee , notably, is a replacement for another loader called  BazarLoader , which has been attributed to the now-defunct TrickBot and Conti groups. A report from Secureworks in April 2022  found  evidence of collaboration between several actors in the Russian cybercrime ecosystem, including that of  Conti ,  Emotet , and IcedID. Deep Instinct's source code analysis of PindOS shows that it contains comments in Russian, raising the possibility of a continued partnership between
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixes critical FortiNAC RCE, install updates asap<a href="https://securityaffairs.com/147770/security/fortinet-fortinac-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet addressed a critical remote command execution vulnerability, tracked as CVE-2023-33299, affecting FortiNAC solution.
+FortiNAC is a network access control (NAC) solution designed by Fortinet that is used by organizations to secure and control...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mirai botnet targets tens of flaws in popular IoT devices<a href="https://securityaffairs.com/147750/malware/mirai-botnet-iot-devices.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The botnet has been observed targeting IoT devices, routers, DVRs, access control systems, and Solar power generation monitoring systems from brands such as D-Link, Arris, Zyxel, TP-Link, Tenda, Netgear, and MediaTek.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Releases Guide to Combat Powerful BlackLotus Bootkit Targeting Windows Systems<a href="https://thehackernews.com/2023/06/nsa-releases-guide-to-combat-powerful.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Security Agency (NSA) on Thursday released guidance to help organizations detect and prevent infections of a Unified Extensible Firmware Interface ( UEFI ) bootkit called  BlackLotus . To that end, the agency is  recommending  that "infrastructure owners take action by hardening user executable policies and monitoring the integrity of the boot partition." BlackLotus is an  advanced  crimeware solution that was first spotlighted in October 2022 by Kaspersky. A UEFI bootkit capable of bypassing Windows Secure Boot protections, samples of the malware have since emerged in the wild. This is accomplished by taking advantage of a known Windows flaw called Baton Drop ( CVE-2022-21894 , CVSS score: 4.4) discovered in vulnerable  boot loaders  not added into the  Secure Boot DBX revocation list . The vulnerability was addressed by Microsoft in January 2022. This loophole could be exploited by threat actors to replace fully patched boot loaders with vulnerable v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal incentives could help utilities overcome major cybersecurity hurdle: money<a href="https://cyberscoop.com/ferc-cybersecurity-incentives-electric-grid/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyber incentive framework from the Federal Energy Regulatory Commission could help utilities adapt to new threats at a faster pace, by providing flexibility for them to invest in pre-qualified cybersecurity measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cryptocurrency Mining Campaign Targets Linux Systems and IoT Devices<a href="https://thehackernews.com/2023/06/new-cryptocurrency-mining-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Internet-facing Linux systems and Internet of Things (IoT) devices are being targeted as part of a new campaign designed to illicitly mine cryptocurrency. "The threat actors behind the attack use a backdoor that deploys a wide array of tools and components such as rootkits and an IRC bot to steal device resources for mining operations," Microsoft threat intelligence researcher Rotem Sde-Or  said . "The backdoor also installs a patched version of OpenSSH on affected devices, allowing threat actors to hijack SSH credentials, move laterally within the network, and conceal malicious SSH connections." To pull off the scheme, misconfigured Linux hosts are brute-forced to gain initial access, following which the threat actors move to disable shell history and fetch a trojanized version of OpenSSH from a remote server. The rogue OpenSSH package is configured to install and launch the backdoor, a shell script that allows the attackers to distribute additional payloads a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach Lawsuit Alleges Mismanagement of 3rd-Party Risk<a href="https://www.bankinfosecurity.com/data-breach-lawsuit-alleges-mismanagement-3rd-party-risk-a-22356?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A proposed federal class action lawsuit alleges that patient debt collection software firm Intellihartx was negligent in its handling of third-party risk, contributing to a breach affecting nearly 490,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
