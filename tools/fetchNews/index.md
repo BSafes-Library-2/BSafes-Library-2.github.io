@@ -34,6 +34,139 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trojanized Super Mario Bros game spreads malware<a href="https://securityaffairs.com/147809/malware/trojanized-super-mario-bros-game.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers observed threat actors spreading a trojanized Super Mario Bros game installer to deliver multiple malware. 
+Researchers from Cyble Research and Intelligence Labs (CRIL) discovered a trojanized Super Mario Bros game installer for Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter hacker sentenced to five years in prison for cybercrime offenses<a href="https://securityaffairs.com/147801/cyber-crime/twitter-hacker-sentenced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.K. citizen, who was involved in the attack on Twitter in 2020, was sentenced to five years in prison for cybercrime offenses. 
+Joseph James O'Connor, aka PlugwalkJoe (24), the hacker who was involved in the attacks on Twitter in 2020, was sentenced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 425 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/147797/breaking-news/security-affairs-newsletter-round-425-by-pierluigi-paganini-international-edition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+Someone...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Military Personnel Targeted by Unsolicited Smartwatches Linked to Data Breaches<a href="https://www.hackread.com/us-military-unsolicited-smartwatches-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent reports indicate that these seemingly innocuous devices, once activated, automatically connect to Wi-Fi networks and establish unauthorized connections with users’ cell phones, potentially exposing sensitive personal data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cybersecurity Agency Adds 6 Flaws to Known Exploited Vulnerabilities Catalog<a href="https://thehackernews.com/2023/06/us-cybersecurity-agency-adds-6-flaws-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency has  added  a batch of six flaws to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active exploitation. This comprises three vulnerabilities that Apple patched this week ( CVE-2023-32434, CVE-2023-32435, and CVE-2023-32439 ), two flaws in VMware ( CVE-2023-20867  and  CVE-2023-20887 ), and one shortcoming impacting Zyxel devices ( CVE-2023-27992 ). CVE-2023-32434 and CVE-2023-32435, both of which allow code execution, are said to have been exploited as zero-days to deploy spyware as part of a years-long cyber espionage campaign that commenced in 2019. Dubbed Operation Triangulation, the activity culminates in the deployment of  TriangleDB  that's designed to harvest a wide range of information from compromised devices, such as creating, modifying, removing, and stealing files, listing and terminating processes, gathering credentials from iCloud Keychain, and tracking a user's location. The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Identifies Popular Swing VPN Android App as DDoS Botnet<a href="https://www.hackread.com/swing-vpn-android-app-ddos-botnet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swing VPN is a legitimate VPN app developed for Android and iOS systems by Limestone Software Solutions. However, according to researcher Lecromee, the Android version of this app is a DDoS botnet and allegedly harbors malicious intent.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Hacker Sentenced to 5 Years in Prison for $120,000 Crypto Scam<a href="https://thehackernews.com/2023/06/twitter-hacker-sentenced-to-5-years-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.K. citizen who took part in the massive July 2020 hack of Twitter has been sentenced to five years in prison in the U.S. Joseph James O'Connor (aka PlugwalkJoe), 24, was awarded the sentence on Friday in the Southern District of New York, a little over a month  after  he  pleaded guilty  to the criminal schemes. He was  arrested  in Spain in July 2021. The infamous Twitter breach allowed the defendant and his co-conspirators to obtain unauthorized access to backend tools used by Twitter, abusing them to hijack 130 popular accounts to perpetrate a crypto scam that netted them about $120,000 in illegal profits. "In other instances, the co-conspirators sold access to Twitter accounts to others," the U.S. Department of Justice (DoJ)  said . "O'Connor communicated with others regarding purchasing unauthorized access to a variety of Twitter accounts, including accounts associated with public figures around the world." The defendant has also been accused o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Someone is sending mysterious smartwatches to the US Military personnel<a href="https://securityaffairs.com/147788/intelligence/unsolicited-smartwatches-us-army.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Army’s Criminal Investigation Division warns that US military personnel have reported receiving unsolicited smartwatches in the mail.
+The U.S. Army’s Criminal Investigation Division reported that service members across the military received...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 23, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
