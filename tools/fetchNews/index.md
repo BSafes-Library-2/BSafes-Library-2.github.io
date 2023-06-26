@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trojanized Super Mario Bros game spreads malware<a href="https://securityaffairs.com/147809/malware/trojanized-super-mario-bros-game.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2023
+June 25, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter hacker sentenced to five years in prison for cybercrime offenses<a href="https://securityaffairs.com/147801/cyber-crime/twitter-hacker-sentenced.html"> Full Text</a>
@@ -68,7 +68,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2023
+June 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 425 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/147797/breaking-news/security-affairs-newsletter-round-425-by-pierluigi-paganini-international-edition.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2023
+June 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Military Personnel Targeted by Unsolicited Smartwatches Linked to Data Breaches<a href="https://www.hackread.com/us-military-unsolicited-smartwatches-data-breach/?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2023
+June 24, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Cybersecurity Agency Adds 6 Flaws to Known Exploited Vulnerabilities Catalog<a href="https://thehackernews.com/2023/06/us-cybersecurity-agency-adds-6-flaws-to.html"> Full Text</a>
@@ -118,7 +118,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2023
+June 24, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher Identifies Popular Swing VPN Android App as DDoS Botnet<a href="https://www.hackread.com/swing-vpn-android-app-ddos-botnet/?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2023
+June 24, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twitter Hacker Sentenced to 5 Years in Prison for $120,000 Crypto Scam<a href="https://thehackernews.com/2023/06/twitter-hacker-sentenced-to-5-years-in.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2023
+June 24, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Someone is sending mysterious smartwatches to the US Military personnel<a href="https://securityaffairs.com/147788/intelligence/unsolicited-smartwatches-us-army.html"> Full Text</a>

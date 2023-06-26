@@ -8,6 +8,21 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter hacker sentenced to five years in prison for cybercrime offenses<a href="https://securityaffairs.com/147801/cyber-crime/twitter-hacker-sentenced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.K. citizen, who was involved in the attack on Twitter in 2020, was sentenced to five years in prison for cybercrime offenses.&nbsp;
+Joseph James O'Connor, aka PlugwalkJoe (24), the hacker who was involved in the attacks on Twitter in 2020, was sentenced...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

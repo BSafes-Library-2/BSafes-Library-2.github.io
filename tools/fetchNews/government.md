@@ -8,6 +8,49 @@ nav_order: 900075
 
 ## Government
 ---
+June 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA orders govt agencies to fix recently disclosed flaws in Apple devices<a href="https://securityaffairs.com/147782/hacking/known-exploited-vulnerabilities-catalog-apple-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Cybersecurity and Infrastructure Security Agency (CISA) added six new vulnerabilities to its Known Exploited Vulnerabilities catalog.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added six new security flaws to its &nbsp;Known...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Releases Guide to Combat Powerful BlackLotus Bootkit Targeting Windows Systems<a href="https://thehackernews.com/2023/06/nsa-releases-guide-to-combat-powerful.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Security Agency (NSA) on Thursday released guidance to help organizations detect and prevent infections of a Unified Extensible Firmware Interface ( UEFI ) bootkit called&nbsp; BlackLotus . To that end, the agency is&nbsp; recommending &nbsp;that "infrastructure owners take action by hardening user executable policies and monitoring the integrity of the boot partition." BlackLotus is an&nbsp; advanced &nbsp;crimeware solution that was first spotlighted in October 2022 by Kaspersky. A UEFI bootkit capable of bypassing Windows Secure Boot protections, samples of the malware have since emerged in the wild. This is accomplished by taking advantage of a known Windows flaw called Baton Drop ( CVE-2022-21894 , CVSS score: 4.4) discovered in vulnerable&nbsp; boot loaders &nbsp;not added into the&nbsp; Secure Boot DBX revocation list . The vulnerability was addressed by Microsoft in January 2022. This loophole could be exploited by threat actors to replace fully patched boot loaders with vulnerable v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal incentives could help utilities overcome major cybersecurity hurdle: money<a href="https://cyberscoop.com/ferc-cybersecurity-incentives-electric-grid/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyber incentive framework from the Federal Energy Regulatory Commission could help utilities adapt to new threats at a faster pace, by providing flexibility for them to invest in pre-qualified cybersecurity measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

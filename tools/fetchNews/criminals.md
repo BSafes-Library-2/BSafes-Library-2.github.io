@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Group 'Muddled Libra' Targets BPO Sector with Advanced Social Engineering<a href="https://thehackernews.com/2023/06/cybercrime-group-muddled-libra-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as&nbsp; Muddled Libra &nbsp;is targeting the business process outsourcing (BPO) industry with persistent attacks that leverage advanced social engineering ploys to gain initial access. "The attack style defining Muddled Libra appeared on the cybersecurity radar in late 2022 with the release of the 0ktapus phishing kit, which offered a prebuilt hosting framework and bundled templates," Palo Alto Networks Unit 42&nbsp; said &nbsp;in a technical report. Libra is the&nbsp; designation &nbsp;given by the cybersecurity company for cybercrime groups. The "muddled" moniker for the threat actor stems from the prevailing ambiguity with regards to the use of the 0ktapus framework. 0ktapus , also known as Scatter Swine, refers to an intrusion set that first came to light in August 2022 in connection with smishing attacks against over 100 organizations, including Twilio and Cloudflare. Then in late 2022, CrowdStrike&nbsp; detailed &nbsp;a string of cyber assaults aimed at telecom and BPO co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -50,6 +50,18 @@ A ransomware variant and threat group called TimisoaraHackerTeam has resurfaced 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2023 - Department of the Army Criminal Investigation Division 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CID Lookout: Unsolicited Smartwatches Received by Mail <a href="https://www.cid.army.mil/Media/Press-Center/Article-Display/Article/3429159/cid-lookout-unsolicited-smartwatches-received-by-mail/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Service members across the military have reported receiving smartwatches unsolicited in the mail. These smartwatches, when used, have auto-connected to Wi-Fi and began connecting to cell phones unprompted, gaining access to a myriad of user data.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 14, 2023 - CISA, FBI, MS-ISAC
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
