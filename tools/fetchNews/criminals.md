@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Twitter Hacker Sentenced to 5 Years in Prison for $120,000 Crypto Scam<a href="https://thehackernews.com/2023/06/twitter-hacker-sentenced-to-5-years-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A U.K. citizen who took part in the massive July 2020 hack of Twitter has been sentenced to five years in prison in the U.S. Joseph James O'Connor (aka PlugwalkJoe), 24, was awarded the sentence on Friday in the Southern District of New York, a little over a month&nbsp; after &nbsp;he&nbsp; pleaded guilty &nbsp;to the criminal schemes. He was&nbsp; arrested &nbsp;in Spain in July 2021. The infamous Twitter breach allowed the defendant and his co-conspirators to obtain unauthorized access to backend tools used by Twitter, abusing them to hijack 130 popular accounts to perpetrate a crypto scam that netted them about $120,000 in illegal profits. "In other instances, the co-conspirators sold access to Twitter accounts to others," the U.S. Department of Justice (DoJ)&nbsp; said . "O'Connor communicated with others regarding purchasing unauthorized access to a variety of Twitter accounts, including accounts associated with public figures around the world." The defendant has also been accused o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

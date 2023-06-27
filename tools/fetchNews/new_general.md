@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Congress needs ‘private sector buy-in’ to address cyber workforce shortage<a href="https://www.nextgov.com/cybersecurity/2023/06/congress-needs-private-sector-buy-address-cyber-workforce-shortage/387845/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations are working to educate and train the next generation of professionals to fill critical cybersecurity vacancies, but private sector firms need to change their hiring practices to integrate this pool of talent into the workforce.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

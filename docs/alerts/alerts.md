@@ -26,6 +26,18 @@ CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities C
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2023 - Microsoft
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft has detected increased credential attack activity by the threat actor Midnight Blizzard <a href="https://twitter.com/MsftSecIntel/status/1671579358031486991"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has detected increased credential attack activity by the threat actor Midnight Blizzard using residential proxy services to obfuscate the source of their attacks. These attacks target governments, IT service providers, NGOs, defense industry, and critical manufacturing.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 22, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Military Personnel Targeted by Unsolicited Smartwatches Linked to Data Breaches<a href="https://www.hackread.com/us-military-unsolicited-smartwatches-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent reports indicate that these seemingly innocuous devices, once activated, automatically connect to Wi-Fi networks and establish unauthorized connections with users’ cell phones, potentially exposing sensitive personal data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

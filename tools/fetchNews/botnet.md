@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Identifies Popular Swing VPN Android App as DDoS Botnet<a href="https://www.hackread.com/swing-vpn-android-app-ddos-botnet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swing VPN is a legitimate VPN app developed for Android and iOS systems by Limestone Software Solutions. However, according to researcher Lecromee, the Android version of this app is a DDoS botnet and allegedly harbors malicious intent.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

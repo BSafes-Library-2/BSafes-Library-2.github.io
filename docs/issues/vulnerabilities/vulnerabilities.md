@@ -8,6 +8,21 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet Systems Consortium (ISC) fixed three DoS flaw in BIND<a href="https://securityaffairs.com/147828/hacking/bind-dns-dos-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Systems Consortium (ISC) addressed three denial-of-service (DoS) vulnerabilities in the DNS software suite BIND.
+The Internet Systems Consortium (ISC) released security updates to address three denial-of-service (DoS) vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

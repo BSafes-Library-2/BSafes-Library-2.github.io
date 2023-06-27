@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sweetwater Union High School District confirms data breach caused outages in February<a href="https://www.10news.com/news/local-news/south-bay-news/sweetwater-union-high-school-district-confirms-data-breach-caused-outages-in-february?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Find Way to Recover Cryptographic Keys by Analyzing LED Flickers<a href="https://thehackernews.com/2023/06/researchers-find-way-to-recover.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Citizen of Croatia charged with running the Monopoly Market drug marketplace<a href="https://securityaffairs.com/147849/cyber-crime/monopoly-market-admin-charged.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MOVEit Breach Exposes Sensitive Data on New York City Public Schools<a href="https://abc7ny.com/nyc-doe-data-breach-department-of-education-cyberattack-public-schools/13420314/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japanese Cryptocurrency Exchange Falls Victim to JokerSpy macOS Backdoor Attack<a href="https://thehackernews.com/2023/06/japanese-cryptocurrency-exchange-falls.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Energy company Suncor suffered a cyber attack and its company Petro-Canada gas reported problems at its gas stations in Canada<a href="https://securityaffairs.com/147834/hacking/petro-canada-suncor-problems.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals target high-profit companies: AEI<a href="https://www.cybersecuritydive.com/news/cybercriminals-target-high-profit-companies-aei-cybersecurity-cyberattack-FBI/652754/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Generative AI Can Dupe SaaS Authentication Protocols — And Effective Ways To Prevent Other Key AI Risks in SaaS<a href="https://thehackernews.com/2023/06/how-generative-ai-can-dupe-saas.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Internet Systems Consortium (ISC) fixed three DoS flaw in BIND<a href="https://securityaffairs.com/147828/hacking/bind-dns-dos-flaws.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai Variant Targets Multiple IoT Vulnerabilities in Recent Campaign<a href="https://cyware.com/news/mirai-variant-targets-multiple-iot-vulnerabilities-in-recent-campaign-2898a4c7"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Widescale Credential Stealing Attacks by Russian Hackers<a href="https://thehackernews.com/2023/06/microsoft-warns-of-widescale-credential.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT group VANGUARD PANDA uses a new tradecraft in recent attacks<a href="https://securityaffairs.com/147820/apt/vanguard-panda-novel-attacks.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Activision Blizzard Games Crippled by Hours-Long DDoS Attack<a href="https://therecord.media/activision-blizzard-crippled-by-ddos?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Using Never-Before-Seen Tactics for Critical Infrastructure Attacks<a href="https://thehackernews.com/2023/06/chinese-hackers-using-never-before-seen.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 An Overview of the Different Versions of the Trigona Ransomware<a href="https://www.trendmicro.com/en_us/research/23/f/an-overview-of-the-trigona-ransomware.html?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2023
+June 26, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Congress needs ‘private sector buy-in’ to address cyber workforce shortage<a href="https://www.nextgov.com/cybersecurity/2023/06/congress-needs-private-sector-buy-address-cyber-workforce-shortage/387845/?&web_view=true"> Full Text</a>

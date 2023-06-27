@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit Breach Exposes Sensitive Data on New York City Public Schools<a href="https://abc7ny.com/nyc-doe-data-breach-department-of-education-cyberattack-public-schools/13420314/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A MOVEit cyberattack has exposed sensitive data on around 45 thousand New York City Public School students - as well as Department of Education staff and service providers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

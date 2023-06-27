@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+June 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Way to Recover Cryptographic Keys by Analyzing LED Flickers<a href="https://thehackernews.com/2023/06/researchers-find-way-to-recover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's an ingenious&nbsp; side-channel attack , a group of academics has found that it's possible to recover secret keys from a device by analyzing video footage of its power LED. "Cryptographic computations performed by the CPU change the power consumption of the device which affects the brightness of the device's power LED," researchers from the Ben-Gurion University of the Negev and Cornell University&nbsp; said &nbsp;in a study. By taking advantage of this observation, it's possible for threat actors to leverage video camera devices such as an iPhone 13 or an internet-connected surveillance camera to extract the cryptographic keys from a smart card reader­. Specifically, video-based cryptanalysis is accomplished by obtaining video footage of rapid changes in an LED's brightness and exploiting the video camera's&nbsp; rolling shutter &nbsp;effect to capture the physical emanations. "This is caused by the fact that the power LED is connected directly to the pow
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Generative AI Can Dupe SaaS Authentication Protocols — And Effective Ways To Prevent Other Key AI Risks in SaaS<a href="https://thehackernews.com/2023/06/how-generative-ai-can-dupe-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security and IT teams are routinely forced to adopt software before fully understanding the security risks. And AI tools are no exception. Employees and business leaders alike are flocking to generative AI software and similar programs, often unaware of the major SaaS security vulnerabilities they're introducing into the enterprise. A February 2023&nbsp; generative AI survey of 1,000 executives &nbsp;revealed that 49% of respondents use ChatGPT now, and 30% plan to tap into the ubiquitous generative AI tool soon. Ninety-nine percent of those using ChatGPT claimed some form of cost-savings, and 25% attested to reducing expenses by $75,000 or more. As the researchers conducted this survey a mere three months after ChatGPT's general availability, today's ChatGPT and AI tool usage is undoubtedly higher.&nbsp; Security and risk teams are already overwhelmed protecting their SaaS estate (which has now become the operating system of business) from common vulnerabilities such as misconfigurati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

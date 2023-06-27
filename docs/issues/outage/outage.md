@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+June 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sweetwater Union High School District confirms data breach caused outages in February<a href="https://www.10news.com/news/local-news/south-bay-news/sweetwater-union-high-school-district-confirms-data-breach-caused-outages-in-february?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The district says their investigation determined in mid-May that some personal information from current and former employees, their dependents, students, and families, was potentially accessed by attackers from the district's network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Activision Blizzard Games Crippled by Hours-Long DDoS Attack<a href="https://therecord.media/activision-blizzard-crippled-by-ddos?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack lasted for more than 10 hours and was mitigated late on Sunday, according to Activision Blizzard’s statement on Twitter. Blizzard has not yet identified the hacker group behind it and no one has yet come forward to claim responsibility.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

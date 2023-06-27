@@ -34,6 +34,266 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sweetwater Union High School District confirms data breach caused outages in February<a href="https://www.10news.com/news/local-news/south-bay-news/sweetwater-union-high-school-district-confirms-data-breach-caused-outages-in-february?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The district says their investigation determined in mid-May that some personal information from current and former employees, their dependents, students, and families, was potentially accessed by attackers from the district's network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Way to Recover Cryptographic Keys by Analyzing LED Flickers<a href="https://thehackernews.com/2023/06/researchers-find-way-to-recover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's an ingenious  side-channel attack , a group of academics has found that it's possible to recover secret keys from a device by analyzing video footage of its power LED. "Cryptographic computations performed by the CPU change the power consumption of the device which affects the brightness of the device's power LED," researchers from the Ben-Gurion University of the Negev and Cornell University  said  in a study. By taking advantage of this observation, it's possible for threat actors to leverage video camera devices such as an iPhone 13 or an internet-connected surveillance camera to extract the cryptographic keys from a smart card reader­. Specifically, video-based cryptanalysis is accomplished by obtaining video footage of rapid changes in an LED's brightness and exploiting the video camera's  rolling shutter  effect to capture the physical emanations. "This is caused by the fact that the power LED is connected directly to the pow
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citizen of Croatia charged with running the Monopoly Market drug marketplace<a href="https://securityaffairs.com/147849/cyber-crime/monopoly-market-admin-charged.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Milomir Desnica, a citizen of Croatia and Serbia, has been charged with running the Monopoly Market drug darknet marketplace.
+Milomir Desnica (33), a citizen of Croatia and Serbia, has been extradited from Austria to the United States to face charges...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit Breach Exposes Sensitive Data on New York City Public Schools<a href="https://abc7ny.com/nyc-doe-data-breach-department-of-education-cyberattack-public-schools/13420314/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A MOVEit cyberattack has exposed sensitive data on around 45 thousand New York City Public School students - as well as Department of Education staff and service providers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese Cryptocurrency Exchange Falls Victim to JokerSpy macOS Backdoor Attack<a href="https://thehackernews.com/2023/06/japanese-cryptocurrency-exchange-falls.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown cryptocurrency exchange located in Japan was the target of a new attack earlier this month to deploy an Apple macOS backdoor called JokerSpy. Elastic Security Labs, which is monitoring the intrusion set under the name  REF9134 ,  said  the attack led to the installation of Swiftbelt, a Swift-based enumeration tool inspired by an open-source utility called  SeatBelt . JokerSky was  first documented  by Bitdefender last week, describing it as a sophisticated toolkit designed to breach macOS machines. Very little is known about the threat actor behind the operation other than the fact that the attacks leverage a set of programs written in Python and Swift that come with capabilities to gather data and execute arbitrary commands on compromised hosts. A primary component of the toolkit is a self-signed multi-architecture binary known as xcc that's engineered to check for FullDiskAccess and ScreenRecording permissions. The file is signed as XProtectCheck, indicating an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Energy company Suncor suffered a cyber attack and its company Petro-Canada gas reported problems at its gas stations in Canada<a href="https://securityaffairs.com/147834/hacking/petro-canada-suncor-problems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber attack suffered by Suncor Energy impacted payment operations at Petro-Canada gas stations in Canada.
+Suncor Energy is Canada's leading integrated energy company that provides oil sands development, production and upgrading, offshore oil and gas,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals target high-profit companies: AEI<a href="https://www.cybersecuritydive.com/news/cybercriminals-target-high-profit-companies-aei-cybersecurity-cyberattack-FBI/652754/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals tend to strike highly profitable companies, those holding abundant cash, and organizations that spend generously on advertising, according to an American Enterprise Institute study of cyberattacks from January 1999 until January 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Generative AI Can Dupe SaaS Authentication Protocols — And Effective Ways To Prevent Other Key AI Risks in SaaS<a href="https://thehackernews.com/2023/06/how-generative-ai-can-dupe-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security and IT teams are routinely forced to adopt software before fully understanding the security risks. And AI tools are no exception. Employees and business leaders alike are flocking to generative AI software and similar programs, often unaware of the major SaaS security vulnerabilities they're introducing into the enterprise. A February 2023  generative AI survey of 1,000 executives  revealed that 49% of respondents use ChatGPT now, and 30% plan to tap into the ubiquitous generative AI tool soon. Ninety-nine percent of those using ChatGPT claimed some form of cost-savings, and 25% attested to reducing expenses by $75,000 or more. As the researchers conducted this survey a mere three months after ChatGPT's general availability, today's ChatGPT and AI tool usage is undoubtedly higher.  Security and risk teams are already overwhelmed protecting their SaaS estate (which has now become the operating system of business) from common vulnerabilities such as misconfigurati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Internet Systems Consortium (ISC) fixed three DoS flaw in BIND<a href="https://securityaffairs.com/147828/hacking/bind-dns-dos-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Systems Consortium (ISC) addressed three denial-of-service (DoS) vulnerabilities in the DNS software suite BIND.
+The Internet Systems Consortium (ISC) released security updates to address three denial-of-service (DoS) vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Variant Targets Multiple IoT Vulnerabilities in Recent Campaign<a href="https://cyware.com/news/mirai-variant-targets-multiple-iot-vulnerabilities-in-recent-campaign-2898a4c7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 researchers uncovered a modified version of the Mirai botnet that is actively abusing at least 22 security flaws in devices manufactured by the likes of D-Link, Arris, Zyxel, TP-Link, Tenda, Netgear, and MediaTek. The attackers aim to take control of these devices and utilize them to carry  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Widescale Credential Stealing Attacks by Russian Hackers<a href="https://thehackernews.com/2023/06/microsoft-warns-of-widescale-credential.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has disclosed that it's detected a spike in credential-stealing attacks conducted by the Russian state-affiliated hacker group known as Midnight Blizzard. The intrusions, which made use of residential proxy services to obfuscate the source IP address of the attacks, target governments, IT service providers, NGOs, defense, and critical manufacturing sectors, the tech giant's threat intelligence team said. Midnight Blizzard, formerly known as Nobelium , is also tracked under the monikers APT29, Cozy Bear, Iron Hemlock, and The Dukes. The  group , which drew worldwide attention for the SolarWinds supply chain compromise in December 2020, has  continued  to rely on  unseen tooling  in its targeted attacks aimed at foreign ministries and diplomatic entities. It's a sign of how determined they are to keep their operations up and running despite being exposed, which makes them a particularly formidable actor in the espionage area. "These credential attacks us
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT group VANGUARD PANDA uses a new tradecraft in recent attacks<a href="https://securityaffairs.com/147820/apt/vanguard-panda-novel-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group VANGUARD PANDA, aka Volt Typhoon, was spotted observing a novel tradecraft to gain initial access to target networks.
+CrowdStrike researchers observed the China-linked APT group VANGUARD PANDA, aka Volt Typhoon, using a novel...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Activision Blizzard Games Crippled by Hours-Long DDoS Attack<a href="https://therecord.media/activision-blizzard-crippled-by-ddos?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack lasted for more than 10 hours and was mitigated late on Sunday, according to Activision Blizzard’s statement on Twitter. Blizzard has not yet identified the hacker group behind it and no one has yet come forward to claim responsibility.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Using Never-Before-Seen Tactics for Critical Infrastructure Attacks<a href="https://thehackernews.com/2023/06/chinese-hackers-using-never-before-seen.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newly discovered Chinese nation-state actor known as Volt Typhoon has been observed to be active in the wild since at least mid-2020, with the hacking crew linked to never-before-seen tradecraft to retain remote access to targets of interest. The findings come from CrowdStrike, which is tracking the adversary under the name  Vanguard Panda . "The adversary consistently employed ManageEngine Self-service Plus exploits to gain initial access, followed by custom web shells for persistent access, and living-off-the-land (LotL) techniques for lateral movement," the cybersecurity company  said . Volt Typhoon, as known as Bronze Silhouette, is a  cyber espionage group  from China that's been linked to network intrusion operations against the U.S government, defense, and other critical infrastructure organizations. An analysis of the group's modus operandi has revealed its emphasis on operational security, carefully using an extensive set of open-source tools against
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Overview of the Different Versions of the Trigona Ransomware<a href="https://www.trendmicro.com/en_us/research/23/f/an-overview-of-the-trigona-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trigona ransomware is a relatively new family that targets compromised MSSQL servers and has been detected mainly in the technology and healthcare industries in countries such as the US, India, and Israel.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Congress needs ‘private sector buy-in’ to address cyber workforce shortage<a href="https://www.nextgov.com/cybersecurity/2023/06/congress-needs-private-sector-buy-address-cyber-workforce-shortage/387845/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations are working to educate and train the next generation of professionals to fill critical cybersecurity vacancies, but private sector firms need to change their hiring practices to integrate this pool of talent into the workforce.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Variant Targets Multiple IoT Vulnerabilities in Recent Campaign<a href="https://cyware.com/news/mirai-variant-targets-multiple-iot-vulnerabilities-in-recent-campaign-2898a4c7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 researchers uncovered a modified version of the Mirai botnet that is actively abusing at least 22 security flaws in devices manufactured by the likes of D-Link, Arris, Zyxel, TP-Link, Tenda, Netgear, and MediaTek. The attackers aim to take control of these devices and utilize them to carry  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

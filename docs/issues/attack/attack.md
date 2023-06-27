@@ -8,6 +8,49 @@ nav_order: 900015
 
 ## Attack
 ---
+June 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese Cryptocurrency Exchange Falls Victim to JokerSpy macOS Backdoor Attack<a href="https://thehackernews.com/2023/06/japanese-cryptocurrency-exchange-falls.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown cryptocurrency exchange located in Japan was the target of a new attack earlier this month to deploy an Apple macOS backdoor called JokerSpy. Elastic Security Labs, which is monitoring the intrusion set under the name&nbsp; REF9134 ,&nbsp; said &nbsp;the attack led to the installation of Swiftbelt, a Swift-based enumeration tool inspired by an open-source utility called&nbsp; SeatBelt . JokerSky was&nbsp; first documented &nbsp;by Bitdefender last week, describing it as a sophisticated toolkit designed to breach macOS machines. Very little is known about the threat actor behind the operation other than the fact that the attacks leverage a set of programs written in Python and Swift that come with capabilities to gather data and execute arbitrary commands on compromised hosts. A primary component of the toolkit is a self-signed multi-architecture binary known as xcc that's engineered to check for FullDiskAccess and ScreenRecording permissions. The file is signed as XProtectCheck, indicating an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Energy company Suncor suffered a cyber attack and its company Petro-Canada gas reported problems at its gas stations in Canada<a href="https://securityaffairs.com/147834/hacking/petro-canada-suncor-problems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber attack suffered by Suncor Energy impacted payment operations at Petro-Canada gas stations in Canada.
+Suncor Energy is Canada's leading integrated energy company that provides oil sands development, production and upgrading, offshore oil and gas,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Widescale Credential Stealing Attacks by Russian Hackers<a href="https://thehackernews.com/2023/06/microsoft-warns-of-widescale-credential.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has disclosed that it's detected a spike in credential-stealing attacks conducted by the Russian state-affiliated hacker group known as Midnight Blizzard. The intrusions, which made use of residential proxy services to obfuscate the source IP address of the attacks, target governments, IT service providers, NGOs, defense, and critical manufacturing sectors, the tech giant's threat intelligence team said. Midnight Blizzard, formerly known as Nobelium , is also tracked under the monikers APT29, Cozy Bear, Iron Hemlock, and The Dukes. The&nbsp; group , which drew worldwide attention for the SolarWinds supply chain compromise in December 2020, has&nbsp; continued &nbsp;to rely on&nbsp; unseen tooling &nbsp;in its targeted attacks aimed at foreign ministries and diplomatic entities. It's a sign of how determined they are to keep their operations up and running despite being exposed, which makes them a particularly formidable actor in the espionage area. "These credential attacks us
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

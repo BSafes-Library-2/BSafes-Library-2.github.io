@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Using Never-Before-Seen Tactics for Critical Infrastructure Attacks<a href="https://thehackernews.com/2023/06/chinese-hackers-using-never-before-seen.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newly discovered Chinese nation-state actor known as Volt Typhoon has been observed to be active in the wild since at least mid-2020, with the hacking crew linked to never-before-seen tradecraft to retain remote access to targets of interest. The findings come from CrowdStrike, which is tracking the adversary under the name&nbsp; Vanguard Panda . "The adversary consistently employed ManageEngine Self-service Plus exploits to gain initial access, followed by custom web shells for persistent access, and living-off-the-land (LotL) techniques for lateral movement," the cybersecurity company&nbsp; said . Volt Typhoon, as known as Bronze Silhouette, is a&nbsp; cyber espionage group &nbsp;from China that's been linked to network intrusion operations against the U.S government, defense, and other critical infrastructure organizations. An analysis of the group's modus operandi has revealed its emphasis on operational security, carefully using an extensive set of open-source tools against
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
