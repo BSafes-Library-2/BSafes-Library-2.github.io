@@ -34,6 +34,298 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal Messages, Call Logs, and Locations Intercepted by Phone Monitoring App<a href="https://techcrunch.com/2023/06/27/letmespy-hacked-spyware-thousands/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phone monitoring app, which is used to spy on thousands of people using Android phones, said in a notice on its login page that on June 21, “a security incident occurred involving obtaining unauthorized access to the data of website users??.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mockingjay Process Injection Technique Could Let Malware Evade Detection<a href="https://thehackernews.com/2023/06/new-mockingjay-process-injection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new process injection technique dubbed Mockingjay could be exploited by threat actors to bypass security solutions to execute malicious code on compromised systems. "The injection is executed without space allocation, setting permissions or even starting a thread," Security Joes researchers Thiago Peixoto, Felipe Duarte, and Ido Naor  said  in a report shared with The Hacker News. "The uniqueness of this technique is that it requires a vulnerable DLL and copying code to the right section." Process injection is an  attack method  that allows adversaries to inject code into processes in order to evade process-based defenses and elevate privileges. In doing so, it could allow for the execution of arbitrary code in the memory space of a separate live process. Some of the well-known process injection techniques include dynamic link library (DLL) injection, portable executable injection, thread execution hijacking, process hollowing, and process doppelgänging, amon
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mockingjay process injection technique allows EDR bypass<a href="https://securityaffairs.com/147887/hacking/mockingjay-process-injection-technique.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mockingjay is a new process injection technique that can be exploited to bypass security solutions to execute malware on compromised systems.
+A new process injection technique dubbed Mockingjay can be exploited by attackers to bypass security controls...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found hundreds of devices within federal networks having internet-exposed management interfaces<a href="https://securityaffairs.com/147876/hacking/fceb-internet-exposed-management-interfaces.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Censys have analyzed the attack surfaces of more than 50 Federal Civilian Executive Branch (FCEB) organizations and sub-organizations and discovered more than 13,000 distinct hosts across 100 autonomous systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ongoing Campaign Targets npm Ecosystem with Unique Execution Chain<a href="https://thehackernews.com/2023/06/new-ongoing-campaign-targets-npm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new ongoing campaign aimed at the npm ecosystem that leverages a unique execution chain to deliver an unknown payload to targeted systems. "The packages in question seem to be published in pairs, each pair working in unison to fetch additional resources which are subsequently decoded and/or executed," software supply chain security firm Phylum  said  in a report released last week. To that end, the order in which the pair of packages are installed is paramount to pulling off a successful attack, as the first of the two modules are designed to store locally a token retrieved from a remote server. The campaign was first discovered on June 11, 2023. The second package subsequently passes this token as a parameter alongside the operating system type to an  HTTP GET request  to acquire a second script from the remote server. A successful execution returns a Base64-encoded string that is immediately executed but only if that string is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found hundreds of devices within federal networks having internet-exposed management interfaces<a href="https://securityaffairs.com/147876/hacking/fceb-internet-exposed-management-interfaces.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Censys have identified hundreds of devices deployed within federal networks that have internet-exposed management interfaces.
+Researchers at Censys have analyzed the attack surfaces of more than 50 Federal Civilian Executive Branch...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senior Choice, Inc. Provides Notice of Security Incident<a href="https://finance.yahoo.com/news/senior-choice-inc-provides-notice-210000997.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company, which manages three residential facilities in Pennsylvania, discovered suspicious activity in its internal systems used for business operations and immediately implemented measures to contain the situation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beyond Asset Discovery: How Attack Surface Management Prioritizes Vulnerability Remediation<a href="https://thehackernews.com/2023/06/beyond-asset-discovery-how-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the business environment becomes increasingly connected, organizations' attack surfaces continue to expand, making it challenging to map and secure both known and unknown assets. In particular, unknown assets present security challenges related to shadow IT, misconfigurations, ineffective scan coverage, among others. Given attack surface sprawl and evolving threats, many organizations are embracing  attack surface management (ASM)  tools to discover and address critical exposures. Asset discovery is an important capability to have, and one that's helping to drive the adoption of attack surface management tools and services. That said, asset discovery is only one aspect of effective attack surface management. Making the attack surface as impenetrable as possible takes offensive security that goes far beyond the discovery phase. Why Asset Discovery Isn't Enough  Given the complexity and ever-expanding scale of the digital infrastructure at most companies, cataloging all the known
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schneider Electric and Siemens Energy are two more victims of a MOVEit attack<a href="https://securityaffairs.com/147865/data-breach/schneider-electric-siemens-energy-moveit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clop ransomware group added five new victims of MOVEit attacks to its dark web leak site, including Schneider Electric and Siemens Energy.
+The Clop ransomware group added five new victims of MOVEit attacks to its dark web leak site, including the industrial...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Socure Buys Berbix for $70M to Fortify Identity Verification<a href="https://www.bankinfosecurity.com/socure-buys-berbix-for-70m-to-fortify-identity-verification-a-22380?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Nevada-based identity verification company said the acquisition of San Francisco-based Berbix will help it optimize the digital capturing and back-end processing of driver's licenses and passports at faster speeds and with greater accuracy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EncroChat Bust Leads to 6,558 Criminals' Arrests and €900 Million Seizure<a href="https://thehackernews.com/2023/06/encrochat-bust-leads-to-6558-criminals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol on Tuesday  announced  that the takedown of EncroChat in July 2020 led to 6,558 arrests worldwide and the seizure of €900 million in illicit criminal proceeds. The law enforcement agency said that a subsequent joint investigation initiated by French and Dutch authorities intercepted and analyzed over 115 million conversations that took place over the encrypted messaging platform between no less than 60,000 users. Now almost three years later, the information obtained from digital correspondence has resulted in - Arrests of 6,558 suspects, including 197 high-value targets 7,134 years of imprisonment of convicted criminals Confiscation of €739.7 million in cash Freeze of €154.1 million frozen in assets or bank accounts Seizure of 30.5 million pills of chemical drugs Seizure of 103.5 tonnes of cocaine, 163.4 tonnes of cannabis, and 3.3 tonnes of heroin Seizure of 971 vehicles, 83 boats, and 40 planes Seizure of 271 estates or homes, and Seizure of 923 weapons, as well
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JOKERSPY used to target a cryptocurrency exchange in Japan<a href="https://securityaffairs.com/147840/hacking/jokerspy-attack-japanese-cryptocurrency-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unnamed Japanese cryptocurrency exchange was the victim of a cyber attack aimed at deploying an Apple macOS backdoor named JokerSpy.
+Elastic Security Labs researchers provided details about a recently discovered intrusion at an unnamed cryptocurrency...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schneider Electric and Siemens Energy Among the Latest Victims of MOVEit Zero-Day Attacks<a href="https://securityaffairs.com/147865/data-breach/schneider-electric-siemens-energy-moveit.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cl0p ransomware group added five new victims of MOVEit attacks to its dark web leak site, including the industrial control systems giants Schneider Electric and Siemens Energy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anatsa Banking Trojan Targeting Users in US, UK, Germany, Austria, and Switzerland<a href="https://thehackernews.com/2023/06/anatsa-banking-trojan-targeting-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android malware campaign has been observed pushing the Anatsa banking trojan to target banking customers in the U.S., U.K., Germany, Austria, and Switzerland since the start of March 2023. "The actors behind Anatsa aim to steal credentials used to authorize customers in mobile banking applications and perform Device-Takeover Fraud (DTO) to initiate fraudulent transactions," ThreatFabric  said  in an analysis published Monday. The Dutch cybersecurity company said Anatsa-infected Google Play Store  dropper apps  have accrued over 30,000 installations to date, indicating that the official app storefront has become an effective distribution vector for the malware. Anatsa, also known by the name TeaBot and Toddler, first  emerged  in  early 2021 , and has been observed  masquerading  as  seemingly innocuous utility apps  like PDF readers, QR code scanners, and two-factor authentication (2FA) apps on Google Play to siphon users' credentials. It has since become one o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CalypsoAI Raises $23 Million for AI Security Tech<a href="https://www.securityweek.com/calypsoai-raises-23-million-for-ai-security-tech/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company, founded by DARPA, NASA, and DoD veterans, said the Series A-1 financing was led by Paladin Capital Group. Existing investors including Lockheed Martin Ventures, new investors Hakluyt Capital and Expeditions Fund, also took part.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Fortinet's FortiNAC Vulnerability Exposes Networks to Code Execution Attacks<a href="https://thehackernews.com/2023/06/new-fortinets-fortinac-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has rolled out updates to address a critical security vulnerability impacting its FortiNAC network access control solution that could lead to the execution of arbitrary code. Tracked as  CVE-2023-33299 , the flaw is rated 9.6 out of 10 for severity on the CVSS scoring system. It has been described as a case of Java untrusted object deserialization. "A  deserialization  of untrusted data vulnerability [ CWE-502 ] in FortiNAC may allow an unauthenticated user to execute unauthorized code or commands via specifically crafted requests to the tcp/1050 service," Fortinet  said  in an advisory published last week. The shortcoming impacts the following products, with patches available in FortiNAC versions 7.2.2, 9.1.10, 9.2.8, and 9.4.3 or later - FortiNAC version 9.4.0 through 9.4.2 FortiNAC version 9.2.0 through 9.2.7 FortiNAC version 9.1.0 through 9.1.9 FortiNAC version 7.2.0 through 7.2.1 FortiNAC 8.8 all versions FortiNAC 8.7 all versions FortiNAC 8.6 all v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 114 Update Patches High-Severity Vulnerabilities<a href="https://www.securityweek.com/chrome-114-update-patches-high-severity-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced a new Chrome 114 update that patches a total of four vulnerabilities, including three high-severity bugs reported by external security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The potent cyber adversary threatening to further inflame Iranian politics<a href="https://cyberscoop.com/iran-government-hack-leak-documents-hacktivist/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest hack claimed by GhyamSarnegouni demonstrates the depth of information that hackers and hacktivists are accessing in Iran's internal politics, with potentially significant implications for national security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 26, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
