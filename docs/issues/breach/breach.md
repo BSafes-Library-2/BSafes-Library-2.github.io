@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schneider Electric and Siemens Energy Among the Latest Victims of MOVEit Zero-Day Attacks<a href="https://securityaffairs.com/147865/data-breach/schneider-electric-siemens-energy-moveit.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cl0p ransomware group added five new victims of MOVEit attacks to its dark web leak site, including the industrial control systems giants Schneider Electric and Siemens Energy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals target high-profit companies: AEI<a href="https://www.cybersecuritydive.com/news/cybercriminals-target-high-profit-companies-aei-cybersecurity-cyberattack-FBI/652754/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals tend to strike highly profitable companies, those holding abundant cash, and organizations that spend generously on advertising, according to an American Enterprise Institute study of cyberattacks from January 1999 until January 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

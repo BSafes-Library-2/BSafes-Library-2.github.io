@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found hundreds of devices within federal networks having internet-exposed management interfaces<a href="https://securityaffairs.com/147876/hacking/fceb-internet-exposed-management-interfaces.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Censys have identified hundreds of devices deployed within federal networks that have internet-exposed management interfaces.
+Researchers at Censys have analyzed the attack surfaces of more than 50 Federal Civilian Executive Branch...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

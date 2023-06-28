@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found hundreds of devices within federal networks having internet-exposed management interfaces<a href="https://securityaffairs.com/147876/hacking/fceb-internet-exposed-management-interfaces.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Censys have analyzed the attack surfaces of more than 50 Federal Civilian Executive Branch (FCEB) organizations and sub-organizations and discovered more than 13,000 distinct hosts across 100 autonomous systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Fortinet's FortiNAC Vulnerability Exposes Networks to Code Execution Attacks<a href="https://thehackernews.com/2023/06/new-fortinets-fortinac-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has rolled out updates to address a critical security vulnerability impacting its FortiNAC network access control solution that could lead to the execution of arbitrary code. Tracked as&nbsp; CVE-2023-33299 , the flaw is rated 9.6 out of 10 for severity on the CVSS scoring system. It has been described as a case of Java untrusted object deserialization. "A&nbsp; deserialization &nbsp;of untrusted data vulnerability [ CWE-502 ] in FortiNAC may allow an unauthenticated user to execute unauthorized code or commands via specifically crafted requests to the tcp/1050 service," Fortinet&nbsp; said &nbsp;in an advisory published last week. The shortcoming impacts the following products, with patches available in FortiNAC versions 7.2.2, 9.1.10, 9.2.8, and 9.4.3 or later - FortiNAC version 9.4.0 through 9.4.2 FortiNAC version 9.2.0 through 9.2.7 FortiNAC version 9.1.0 through 9.1.9 FortiNAC version 7.2.0 through 7.2.1 FortiNAC 8.8 all versions FortiNAC 8.7 all versions FortiNAC 8.6 all v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 114 Update Patches High-Severity Vulnerabilities<a href="https://www.securityweek.com/chrome-114-update-patches-high-severity-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced a new Chrome 114 update that patches a total of four vulnerabilities, including three high-severity bugs reported by external security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

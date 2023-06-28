@@ -8,6 +8,21 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citizen of Croatia charged with running the Monopoly Market drug marketplace<a href="https://securityaffairs.com/147849/cyber-crime/monopoly-market-admin-charged.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Milomir Desnica, a citizen of Croatia and Serbia, has been charged with running the Monopoly Market drug darknet marketplace.
+Milomir Desnica (33), a citizen of Croatia and Serbia, has been extradited from Austria to the United States to face charges...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

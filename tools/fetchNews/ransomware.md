@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+An Overview of the Different Versions of the Trigona Ransomware<a href="https://www.trendmicro.com/en_us/research/23/f/an-overview-of-the-trigona-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trigona ransomware is a relatively new family that targets compromised MSSQL servers and has been detected mainly in the technology and healthcare industries in countries such as the US, India, and Israel.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beyond Asset Discovery: How Attack Surface Management Prioritizes Vulnerability Remediation<a href="https://thehackernews.com/2023/06/beyond-asset-discovery-how-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the business environment becomes increasingly connected, organizations' attack surfaces continue to expand, making it challenging to map and secure both known and unknown assets. In particular, unknown assets present security challenges related to shadow IT, misconfigurations, ineffective scan coverage, among others. Given attack surface sprawl and evolving threats, many organizations are embracing&nbsp; attack surface management (ASM) &nbsp;tools to discover and address critical exposures. Asset discovery is an important capability to have, and one that's helping to drive the adoption of attack surface management tools and services. That said, asset discovery is only one aspect of effective attack surface management. Making the attack surface as impenetrable as possible takes offensive security that goes far beyond the discovery phase. Why Asset Discovery Isn't Enough&nbsp; Given the complexity and ever-expanding scale of the digital infrastructure at most companies, cataloging all the known
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Socure Buys Berbix for $70M to Fortify Identity Verification<a href="https://www.bankinfosecurity.com/socure-buys-berbix-for-70m-to-fortify-identity-verification-a-22380?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Nevada-based identity verification company said the acquisition of San Francisco-based Berbix will help it optimize the digital capturing and back-end processing of driver's licenses and passports at faster speeds and with greater accuracy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CalypsoAI Raises $23 Million for AI Security Tech<a href="https://www.securityweek.com/calypsoai-raises-23-million-for-ai-security-tech/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company, founded by DARPA, NASA, and DoD veterans, said the Series A-1 financing was led by Paladin Capital Group. Existing investors including Lockheed Martin Ventures, new investors Hakluyt Capital and Expeditions Fund, also took part.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

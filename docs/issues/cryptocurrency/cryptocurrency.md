@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JOKERSPY used to target a cryptocurrency exchange in Japan<a href="https://securityaffairs.com/147840/hacking/jokerspy-attack-japanese-cryptocurrency-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unnamed Japanese cryptocurrency exchange was the victim of a cyber attack aimed at deploying an Apple macOS backdoor named JokerSpy.
+Elastic Security Labs researchers provided details about a recently discovered intrusion at an unnamed cryptocurrency...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
