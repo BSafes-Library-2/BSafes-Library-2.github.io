@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The potent cyber adversary threatening to further inflame Iranian politics<a href="https://cyberscoop.com/iran-government-hack-leak-documents-hacktivist/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest hack claimed by GhyamSarnegouni demonstrates the depth of information that hackers and hacktivists are accessing in Iran's internal politics, with potentially significant implications for national security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

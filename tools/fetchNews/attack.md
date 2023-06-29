@@ -8,6 +8,49 @@ nav_order: 900015
 
 ## Attack
 ---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ongoing Campaign Targets npm Ecosystem with Unique Execution Chain<a href="https://thehackernews.com/2023/06/new-ongoing-campaign-targets-npm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new ongoing campaign aimed at the npm&nbsp;ecosystem that leverages a unique execution chain to deliver an unknown payload to targeted systems. "The packages in question seem to be published in pairs, each pair working in unison to fetch additional resources which are subsequently decoded and/or executed," software supply chain security firm Phylum&nbsp; said &nbsp;in a report released last week. To that end, the order in which the pair of packages are installed is paramount to pulling off a successful attack, as the first of the two modules are designed to store locally a token retrieved from a remote server. The campaign was first discovered on June 11, 2023. The second package subsequently passes this token as a parameter alongside the operating system type to an&nbsp; HTTP GET request &nbsp;to acquire a second script from the remote server. A successful execution returns a Base64-encoded string that is immediately executed but only if that string is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senior Choice, Inc. Provides Notice of Security Incident<a href="https://finance.yahoo.com/news/senior-choice-inc-provides-notice-210000997.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company, which manages three residential facilities in Pennsylvania, discovered suspicious activity in its internal systems used for business operations and immediately implemented measures to contain the situation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schneider Electric and Siemens Energy are two more victims of a MOVEit attack<a href="https://securityaffairs.com/147865/data-breach/schneider-electric-siemens-energy-moveit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clop ransomware group added five new victims of MOVEit attacks to its dark web leak site, including Schneider Electric and Siemens Energy.
+The Clop ransomware group added five new victims of MOVEit attacks to its dark web leak site, including the industrial...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

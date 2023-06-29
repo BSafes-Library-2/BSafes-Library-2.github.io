@@ -8,6 +8,63 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CryptosLabs Scam Ring Targets French-Speaking Investors, Rakes in €480 Million<a href="https://thehackernews.com/2023/06/cryptoslabs-scam-ring-targets-french.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have exposed the workings of a scam ring called CryptosLabs that's estimated to have made €480 million in illegal profits by targeting users in French-speaking individuals in France, Belgium, and Luxembourg since April 2018. The syndicate's massive fake investment schemes primarily involve impersonating 40 well-known banks, fin-techs, asset management firms, and crypto platforms, setting up a scam infrastructure spanning over 350 domains hosted on more than 80 servers, Group-IB&nbsp; said &nbsp;in a deep-dive report. The Singapore-headquartered company described the criminal outfit as "operated by a hierarchy of kingpins, sales agents, developers, and call center operators" who are recruited to ensnare potential victims by promising high returns on their capital. "CryptoLabs made their scam schemes more convincing through region-focused tactics, such as hiring French-speaking callers as 'managers' and creating fake landing pages, socia
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EncroChat dismantling led to 6,558 arrests and the seizure of $979M in criminal funds<a href="https://securityaffairs.com/147903/cyber-crime/encrochat-shutdown-followup.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol announced that the takedown of the EncroChat encrypted chat network has led to the arrest of 6,558 people and the seizure of $979 million in illicit funds.
+Europol announced that the dismantling of the encrypted chat network EncroChat has led to the arrest...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8Base ransomware gang escalates double extortion attacks in June<a href="https://www.bleepingcomputer.com/news/security/8base-ransomware-gang-escalates-double-extortion-attacks-in-june/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​A 8Base ransomware gang is targeting organizations worldwide in double-extortion attacks, with a steady stream of new victims since the beginning of June.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EncroChat takedown led to 6,500 arrests and $979 million seized<a href="https://www.bleepingcomputer.com/news/security/encrochat-takedown-led-to-6-500-arrests-and-979-million-seized/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol announced today that the takedown of the EncroChat encrypted mobile communications platform has led to the arrest of over 6,600 people and the seizure of $979 million in illicit funds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

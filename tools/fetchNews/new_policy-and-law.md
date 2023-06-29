@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds says SEC investigation ‘progressing to charges’<a href="https://therecord.media/solarwinds-says-sec-investigation-progressing-to-charges?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds — the technology firm at the center of a December 2020 hack that affected multiple U.S. government agencies — said its executives may soon face charges from the Securities and Exchange Commission (SEC) for its response to the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of devices found violating new CISA federal agency directive<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-devices-found-violating-new-cisa-federal-agency-directive/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Censys researchers have discovered hundreds of Internet-exposed devices on the networks of U.S. federal agencies that have to be secured according to a recently issued CISA Binding Operational Directive.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,105 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: New Electromagnetic Attacks on Drones Could Let Attackers Take Control<a href="https://thehackernews.com/2023/06/alert-new-electromagnetic-attacks-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drones that don't have any known security weaknesses could be the target of electromagnetic fault injection (EMFI) attacks, potentially enabling a threat actor to achieve arbitrary code execution and compromise their functionality and safety. The research comes from IOActive, which&nbsp; found &nbsp;that it is "feasible to compromise the targeted device by injecting a specific EM glitch at the right time during a firmware update." "This would allow an attacker to gain code execution on the main processor, gaining access to the Android OS that implements the core functionality of the drone," Gabriel Gonzalez, director of hardware security at the company, said in a report published this month. The&nbsp; study , which was undertaken to determine the current security posture of Unmanned Aerial Vehicles (UAVs), was carried out on&nbsp; Mavic Pro , a popular quadcopter drone manufactured by DJI that employs various security features like signed and encrypted firmware, Trusted Executi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for new Arcserve UDP auth bypass vulnerability<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-new-arcserve-udp-auth-bypass-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data protection vendor Arcserve has addressed a high-severity security flaw in its Unified Data Protection (UDP) backup software that can let attackers bypass authentication and gain admin privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Numerous Devices Discovered Violating CISA's BOD<a href="https://cyware.com/news/numerous-devices-discovered-violating-cisas-bod-8b9c3831"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Censys has recently analyzed the attack surfaces of over 50 FCEB organizations and&nbsp;detected several hundred devices to be publicly exposed to a variety of cybersecurity threats. They are not secured according to CISA’s latest Binding Operational Directive (BOD). Moreover, software programs suc ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SQL Injection flaws in Gentoo Soko can lead to Remote Code Execution<a href="https://securityaffairs.com/147911/hacking/gentoo-soko-sqli.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SQL injection vulnerabilities in Gentoo Soko could lead to remote code execution (RCE) on impacted systems.
+SonarSource researchers discovered two SQL injection vulnerabilities in Gentoo Soko, collectively tracked as CVE-2023-28424 (CVSS score: 9.1)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NPM Registry Found to be Vulnerable to 'Manifest Confusion' Abuse<a href="https://www.theregister.com/2023/06/27/javascript_registry_npm_vulnerable/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The npm Public Registry, a database of JavaScript packages, fails to compare npm package manifest data with the archive of files that data describes, creating an opportunity for the installation and execution of malicious files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NPM ecosystem at risk from “Manifest Confusion” attacks<a href="https://www.bleepingcomputer.com/news/security/npm-ecosystem-at-risk-from-manifest-confusion-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NPM (Node Package Manager) registry suffers from a security lapse called "manifest confusion," which undermines the trustworthiness of packages and makes it possible for attackers to hide malware in dependencies or perform malicious script execution during installation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SQL Injection Flaws Expose Gentoo Soko to Remote Code Execution<a href="https://thehackernews.com/2023/06/critical-sql-injection-flaws-expose.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple SQL injection vulnerabilities have been disclosed in Gentoo Soko that could lead to remote code execution (RCE) on vulnerable systems. "These SQL injections happened despite the use of an Object-Relational Mapping (ORM) library and prepared statements," SonarSource researcher Thomas Chauchefoin&nbsp; said , adding they could result in RCE on Soko because of a "misconfiguration of the database." The&nbsp; two &nbsp; issues , which were discovered in the search feature of Soko, have been collectively tracked as CVE-2023-28424 (CVSS score: 9.1). They were addressed within 24 hours of responsible disclosure on March 17, 2023. Soko is a Go software module that powers&nbsp; packages.gentoo.org , offering users an easy way to search through different Portage packages that are available for Gentoo Linux distribution. But the shortcomings identified in the service meant that it could have been possible for a malicious actor to&nbsp; inject specially crafted code , resulting in the expo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,49 @@ nav_order: 900072
 
 ## General
 ---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of a spike in May and June of 8Base ransomware attacks<a href="https://securityaffairs.com/147922/cyber-crime/8base-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a massive spike in May and June 2023 of the activity associated with the ransomware group named&nbsp;8Base.
+VMware Carbon Black researchers observed an intensification of the activity associated with a stealthy ransomware group named&nbsp;8Base....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Current State of Business Email Compromise Attacks<a href="https://www.bleepingcomputer.com/news/security/the-current-state-of-business-email-compromise-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Business Email Compromise (BEC) poses a growing threat to businesses of all sizes. Learn more from Specops Software about the types of BEC attacks and how to avoid them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Just released: Session tracks for Mandiant’s 2023 mWISE event <a href="https://www.bleepingcomputer.com/news/security/just-released-session-tracks-for-mandiants-2023-mwise-event/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are just a few days left to get the lowest price available for the mWISE cybersecurity conference. It runs from September 18 - 20, 2023 in Washington, DC. If you register now, you'll get 45% off the standard conference rate.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

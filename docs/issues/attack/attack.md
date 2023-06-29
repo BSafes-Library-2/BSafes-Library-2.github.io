@@ -8,6 +8,21 @@ nav_order: 900015
 
 ## Attack
 ---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using Electromagnetic Fault Injection Attacks to take over drones<a href="https://securityaffairs.com/147929/hacking/electromagnetic-fault-injection-attacks-drones.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Electromagnetic fault injection (EMFI) attacks on drones can potentially allow attackers to achieve arbitrary code execution and take over them.
+While the use of drones continues to grow, researchers from IOActive analyzed how to develop fault injection...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 28, 2023 <br><br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux version of Akira ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-akira-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Akira ransomware operation uses a Linux encryptor to encrypt VMware ESXi virtual machines in double-extortion attacks against companies worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8Base Ransomware Spikes in Activity, Threatens U.S. and Brazilian Businesses<a href="https://thehackernews.com/2023/06/8base-ransomware-spikes-in-activity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware threat called 8Base that has been operating under the radar for over a year has been attributed to a "massive spike in activity" in May and June 2023. "The group utilizes encryption paired with 'name-and-shame' techniques to compel their victims to pay their ransoms," VMware Carbon Black researchers Deborah Snyder and Fae Carlisle&nbsp; said &nbsp;in a report shared with The Hacker News. "8Base has an opportunistic pattern of compromise with recent victims spanning across varied industries." 8Base, according to statistics gathered by&nbsp; Malwarebytes &nbsp;and&nbsp; NCC Group , has been linked to 67 attacks as of May 2023, with about 50% of the victims&nbsp; operating &nbsp;in the business services, manufacturing, and construction sectors. A majority of the targeted companies are located in the U.S. and Brazil. With very little known about the operators of the ransomware, its origins remain something of a cipher. What's evident is that it has been active sinc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

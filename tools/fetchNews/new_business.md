@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Astrix Security, which uses ML to secure app integrations, raises $25M<a href="https://techcrunch.com/2023/06/28/astrix-security-which-uses-ml-to-secure-app-integrations-raises-25m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Astrix Security, a platform that helps companies manage and secure third-party app integrations, today announced that it closed a $25 million Series A funding round led by CRV with participation from Bessemer Venture Partners and F2 Venture Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyera Raises $100M to Bring Data Protection to Hybrid Cloud<a href="https://www.bankinfosecurity.com/cyera-raises-100m-to-bring-data-protection-to-hybrid-cloud-a-22385/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The startup, founded by longtime Israeli Military Intelligence leaders, landed the Accel-led $100 million Series B funding to support the cloud and on-premises data protection needs of hybrid organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

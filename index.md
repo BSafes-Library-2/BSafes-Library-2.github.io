@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Sysmon now detects when executables files are created<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-sysmon-now-detects-when-executables-files-are-created/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Infectious NPM and PyPI Packages Raise Fresh Supply Chain Concerns<a href="https://cyware.com/news/infectious-npm-and-pypi-packages-raise-fresh-supply-chain-concerns-e33c6cd5"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: New Electromagnetic Attacks on Drones Could Let Attackers Take Control<a href="https://thehackernews.com/2023/06/alert-new-electromagnetic-attacks-on.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Using Electromagnetic Fault Injection Attacks to take over drones<a href="https://securityaffairs.com/147929/hacking/electromagnetic-fault-injection-attacks-drones.html"> Full Text</a>
@@ -99,7 +99,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit released for new Arcserve UDP auth bypass vulnerability<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-new-arcserve-udp-auth-bypass-vulnerability/"> Full Text</a>
@@ -115,7 +115,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Numerous Devices Discovered Violating CISA's BOD<a href="https://cyware.com/news/numerous-devices-discovered-violating-cisas-bod-8b9c3831"> Full Text</a>
@@ -131,7 +131,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CryptosLabs Scam Ring Targets French-Speaking Investors, Rakes in €480 Million<a href="https://thehackernews.com/2023/06/cryptoslabs-scam-ring-targets-french.html"> Full Text</a>
@@ -147,7 +147,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of a spike in May and June of 8Base ransomware attacks<a href="https://securityaffairs.com/147922/cyber-crime/8base-ransomware-attacks.html"> Full Text</a>
@@ -164,7 +164,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>-- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux version of Akira ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-akira-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
@@ -180,7 +180,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Astrix Security, which uses ML to secure app integrations, raises $25M<a href="https://techcrunch.com/2023/06/28/astrix-security-which-uses-ml-to-secure-app-integrations-raises-25m/?&web_view=true"> Full Text</a>
@@ -196,7 +196,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 Things CISOs Need to Know About Securing OT Environments<a href="https://thehackernews.com/2023/06/5-things-cisos-need-to-know-about.html"> Full Text</a>
@@ -212,7 +212,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical SQL Injection flaws in Gentoo Soko can lead to Remote Code Execution<a href="https://securityaffairs.com/147911/hacking/gentoo-soko-sqli.html"> Full Text</a>
@@ -229,7 +229,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brave Browser boosts privacy with new local resources restrictions<a href="https://www.bleepingcomputer.com/news/security/brave-browser-boosts-privacy-with-new-local-resources-restrictions/"> Full Text</a>
@@ -245,7 +245,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NPM Registry Found to be Vulnerable to 'Manifest Confusion' Abuse<a href="https://www.theregister.com/2023/06/27/javascript_registry_npm_vulnerable/?&web_view=true"> Full Text</a>
@@ -261,7 +261,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 8Base Ransomware Spikes in Activity, Threatens U.S. and Brazilian Businesses<a href="https://thehackernews.com/2023/06/8base-ransomware-spikes-in-activity.html"> Full Text</a>
@@ -277,7 +277,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EncroChat dismantling led to 6,558 arrests and the seizure of $979M in criminal funds<a href="https://securityaffairs.com/147903/cyber-crime/encrochat-shutdown-followup.html"> Full Text</a>
@@ -294,7 +294,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NPM ecosystem at risk from “Manifest Confusion” attacks<a href="https://www.bleepingcomputer.com/news/security/npm-ecosystem-at-risk-from-manifest-confusion-attacks/"> Full Text</a>
@@ -310,7 +310,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Cracks Down on Investment Scams, Raids Call Centers<a href="https://www.bankinfosecurity.com/ukraine-cracks-down-on-investment-scams-raids-call-centers-a-22386?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical SQL Injection Flaws Expose Gentoo Soko to Remote Code Execution<a href="https://thehackernews.com/2023/06/critical-sql-injection-flaws-expose.html"> Full Text</a>
@@ -342,7 +342,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Current State of Business Email Compromise Attacks<a href="https://www.bleepingcomputer.com/news/security/the-current-state-of-business-email-compromise-attacks/"> Full Text</a>
@@ -358,7 +358,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Victim Count in Ransomware Attack at Maryland Healthcare Provider Jumps Fivefold to 137,000<a href="https://www.bankinfosecurity.com/victim-count-in-maryland-ransomware-breach-jumps-fivefold-a-22378?&web_view=true"> Full Text</a>
@@ -374,7 +374,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 8Base ransomware gang escalates double extortion attacks in June<a href="https://www.bleepingcomputer.com/news/security/8base-ransomware-gang-escalates-double-extortion-attacks-in-june/"> Full Text</a>
@@ -390,7 +390,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyera Raises $100M to Bring Data Protection to Hybrid Cloud<a href="https://www.bankinfosecurity.com/cyera-raises-100m-to-bring-data-protection-to-hybrid-cloud-a-22385/?&web_view=true"> Full Text</a>
@@ -406,7 +406,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SolarWinds says SEC investigation ‘progressing to charges’<a href="https://therecord.media/solarwinds-says-sec-investigation-progressing-to-charges?&web_view=true"> Full Text</a>
@@ -422,7 +422,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2023
+June 28, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UAE, Israel create ‘Crystal Ball’ platform to fight hackers<a href="https://circuit.news/2023/06/28/uae-israel-create-crystal-ball-platform-to-fight-hackers/?&web_view=true"> Full Text</a>
@@ -438,7 +438,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 27, 2023
+June 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Siemens Energy confirms data breach after MOVEit data-theft attack<a href="https://www.bleepingcomputer.com/news/security/siemens-energy-confirms-data-breach-after-moveit-data-theft-attack/"> Full Text</a>
@@ -454,7 +454,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 27, 2023
+June 27, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of devices found violating new CISA federal agency directive<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-devices-found-violating-new-cisa-federal-agency-directive/"> Full Text</a>
@@ -470,7 +470,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 27, 2023
+June 27, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EncroChat takedown led to 6,500 arrests and $979 million seized<a href="https://www.bleepingcomputer.com/news/security/encrochat-takedown-led-to-6-500-arrests-and-979-million-seized/"> Full Text</a>
@@ -486,7 +486,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 27, 2023
+June 27, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Just released: Session tracks for Mandiant’s 2023 mWISE event <a href="https://www.bleepingcomputer.com/news/security/just-released-session-tracks-for-mandiants-2023-mwise-event/"> Full Text</a>
@@ -502,7 +502,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 27, 2023
+June 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mockingjay process injection technique evades EDR detection<a href="https://www.bleepingcomputer.com/news/security/new-mockingjay-process-injection-technique-evades-edr-detection/"> Full Text</a>

@@ -34,6 +34,490 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Sysmon now detects when executables files are created<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-sysmon-now-detects-when-executables-files-are-created/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released Sysmon 15, converting it into a protected process and adding the new 'FileExecutableDetected' option to log when executable files are created.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infectious NPM and PyPI Packages Raise Fresh Supply Chain Concerns<a href="https://cyware.com/news/infectious-npm-and-pypi-packages-raise-fresh-supply-chain-concerns-e33c6cd5"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have laid bare an ongoing attack campaign that specifically targets the npm ecosystem via a pair of malicious packages. Meanwhile, another researcher group reported seven malicious PyPI packages. Developers, package maintainers, and users must remain diligent in verifying the i ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: New Electromagnetic Attacks on Drones Could Let Attackers Take Control<a href="https://thehackernews.com/2023/06/alert-new-electromagnetic-attacks-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Drones that don't have any known security weaknesses could be the target of electromagnetic fault injection (EMFI) attacks, potentially enabling a threat actor to achieve arbitrary code execution and compromise their functionality and safety. The research comes from IOActive, which  found  that it is "feasible to compromise the targeted device by injecting a specific EM glitch at the right time during a firmware update." "This would allow an attacker to gain code execution on the main processor, gaining access to the Android OS that implements the core functionality of the drone," Gabriel Gonzalez, director of hardware security at the company, said in a report published this month. The  study , which was undertaken to determine the current security posture of Unmanned Aerial Vehicles (UAVs), was carried out on  Mavic Pro , a popular quadcopter drone manufactured by DJI that employs various security features like signed and encrypted firmware, Trusted Executi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using Electromagnetic Fault Injection Attacks to take over drones<a href="https://securityaffairs.com/147929/hacking/electromagnetic-fault-injection-attacks-drones.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Electromagnetic fault injection (EMFI) attacks on drones can potentially allow attackers to achieve arbitrary code execution and take over them.
+While the use of drones continues to grow, researchers from IOActive analyzed how to develop fault injection...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for new Arcserve UDP auth bypass vulnerability<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-new-arcserve-udp-auth-bypass-vulnerability/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data protection vendor Arcserve has addressed a high-severity security flaw in its Unified Data Protection (UDP) backup software that can let attackers bypass authentication and gain admin privileges.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Numerous Devices Discovered Violating CISA's BOD<a href="https://cyware.com/news/numerous-devices-discovered-violating-cisas-bod-8b9c3831"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Censys has recently analyzed the attack surfaces of over 50 FCEB organizations and detected several hundred devices to be publicly exposed to a variety of cybersecurity threats. They are not secured according to CISA’s latest Binding Operational Directive (BOD). Moreover, software programs suc ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CryptosLabs Scam Ring Targets French-Speaking Investors, Rakes in €480 Million<a href="https://thehackernews.com/2023/06/cryptoslabs-scam-ring-targets-french.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have exposed the workings of a scam ring called CryptosLabs that's estimated to have made €480 million in illegal profits by targeting users in French-speaking individuals in France, Belgium, and Luxembourg since April 2018. The syndicate's massive fake investment schemes primarily involve impersonating 40 well-known banks, fin-techs, asset management firms, and crypto platforms, setting up a scam infrastructure spanning over 350 domains hosted on more than 80 servers, Group-IB  said  in a deep-dive report. The Singapore-headquartered company described the criminal outfit as "operated by a hierarchy of kingpins, sales agents, developers, and call center operators" who are recruited to ensnare potential victims by promising high returns on their capital. "CryptoLabs made their scam schemes more convincing through region-focused tactics, such as hiring French-speaking callers as 'managers' and creating fake landing pages, socia
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of a spike in May and June of 8Base ransomware attacks<a href="https://securityaffairs.com/147922/cyber-crime/8base-ransomware-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of a massive spike in May and June 2023 of the activity associated with the ransomware group named 8Base.
+VMware Carbon Black researchers observed an intensification of the activity associated with a stealthy ransomware group named 8Base....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>-- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux version of Akira ransomware targets VMware ESXi servers<a href="https://www.bleepingcomputer.com/news/security/linux-version-of-akira-ransomware-targets-vmware-esxi-servers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Akira ransomware operation uses a Linux encryptor to encrypt VMware ESXi virtual machines in double-extortion attacks against companies worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Astrix Security, which uses ML to secure app integrations, raises $25M<a href="https://techcrunch.com/2023/06/28/astrix-security-which-uses-ml-to-secure-app-integrations-raises-25m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Astrix Security, a platform that helps companies manage and secure third-party app integrations, today announced that it closed a $25 million Series A funding round led by CRV with participation from Bessemer Venture Partners and F2 Venture Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Things CISOs Need to Know About Securing OT Environments<a href="https://thehackernews.com/2023/06/5-things-cisos-need-to-know-about.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For too long the cybersecurity world focused exclusively on information technology (IT), leaving operational technology (OT) to fend for itself. Traditionally, few industrial enterprises had dedicated cybersecurity leaders. Any security decisions that arose fell to the plant and factory managers, who are highly skilled technical experts in other areas but often lack cybersecurity training or knowledge. In more recent years, an uptick in cyberattacks against industrial facilities and the trend of IT/OT convergence driven by Industry 4.0 have highlighted the vacuum of ownership around OT security.  According to a new Fortinet report , most organizations are looking to Chief Information Security Officers (CISOs) to solve the problem. Fortunately, CISOs are no strangers to change or difficult challenges. The position itself is less than 20 years old, yet in those two decades CISOs have navigated some of the most disruptive cybersecurity events that were truly watershed moments in techno
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SQL Injection flaws in Gentoo Soko can lead to Remote Code Execution<a href="https://securityaffairs.com/147911/hacking/gentoo-soko-sqli.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SQL injection vulnerabilities in Gentoo Soko could lead to remote code execution (RCE) on impacted systems.
+SonarSource researchers discovered two SQL injection vulnerabilities in Gentoo Soko, collectively tracked as CVE-2023-28424 (CVSS score: 9.1)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brave Browser boosts privacy with new local resources restrictions<a href="https://www.bleepingcomputer.com/news/security/brave-browser-boosts-privacy-with-new-local-resources-restrictions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Brave team has announced that the privacy-centric browser will soon introduce new restriction controls allowing users to specify how long sites can access local network resources.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NPM Registry Found to be Vulnerable to 'Manifest Confusion' Abuse<a href="https://www.theregister.com/2023/06/27/javascript_registry_npm_vulnerable/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The npm Public Registry, a database of JavaScript packages, fails to compare npm package manifest data with the archive of files that data describes, creating an opportunity for the installation and execution of malicious files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8Base Ransomware Spikes in Activity, Threatens U.S. and Brazilian Businesses<a href="https://thehackernews.com/2023/06/8base-ransomware-spikes-in-activity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware threat called 8Base that has been operating under the radar for over a year has been attributed to a "massive spike in activity" in May and June 2023. "The group utilizes encryption paired with 'name-and-shame' techniques to compel their victims to pay their ransoms," VMware Carbon Black researchers Deborah Snyder and Fae Carlisle  said  in a report shared with The Hacker News. "8Base has an opportunistic pattern of compromise with recent victims spanning across varied industries." 8Base, according to statistics gathered by  Malwarebytes  and  NCC Group , has been linked to 67 attacks as of May 2023, with about 50% of the victims  operating  in the business services, manufacturing, and construction sectors. A majority of the targeted companies are located in the U.S. and Brazil. With very little known about the operators of the ransomware, its origins remain something of a cipher. What's evident is that it has been active sinc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EncroChat dismantling led to 6,558 arrests and the seizure of $979M in criminal funds<a href="https://securityaffairs.com/147903/cyber-crime/encrochat-shutdown-followup.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol announced that the takedown of the EncroChat encrypted chat network has led to the arrest of 6,558 people and the seizure of $979 million in illicit funds.
+Europol announced that the dismantling of the encrypted chat network EncroChat has led to the arrest...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NPM ecosystem at risk from “Manifest Confusion” attacks<a href="https://www.bleepingcomputer.com/news/security/npm-ecosystem-at-risk-from-manifest-confusion-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NPM (Node Package Manager) registry suffers from a security lapse called "manifest confusion," which undermines the trustworthiness of packages and makes it possible for attackers to hide malware in dependencies or perform malicious script execution during installation.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Cracks Down on Investment Scams, Raids Call Centers<a href="https://www.bankinfosecurity.com/ukraine-cracks-down-on-investment-scams-raids-call-centers-a-22386?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian cyber police raided and closed over a dozen fraudulent call centers last week, saying the operations were running fake investment scams that involved stealing cryptocurrency and payment card details from European and Central Asian citizens.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SQL Injection Flaws Expose Gentoo Soko to Remote Code Execution<a href="https://thehackernews.com/2023/06/critical-sql-injection-flaws-expose.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple SQL injection vulnerabilities have been disclosed in Gentoo Soko that could lead to remote code execution (RCE) on vulnerable systems. "These SQL injections happened despite the use of an Object-Relational Mapping (ORM) library and prepared statements," SonarSource researcher Thomas Chauchefoin  said , adding they could result in RCE on Soko because of a "misconfiguration of the database." The  two   issues , which were discovered in the search feature of Soko, have been collectively tracked as CVE-2023-28424 (CVSS score: 9.1). They were addressed within 24 hours of responsible disclosure on March 17, 2023. Soko is a Go software module that powers  packages.gentoo.org , offering users an easy way to search through different Portage packages that are available for Gentoo Linux distribution. But the shortcomings identified in the service meant that it could have been possible for a malicious actor to  inject specially crafted code , resulting in the expo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Current State of Business Email Compromise Attacks<a href="https://www.bleepingcomputer.com/news/security/the-current-state-of-business-email-compromise-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Business Email Compromise (BEC) poses a growing threat to businesses of all sizes. Learn more from Specops Software about the types of BEC attacks and how to avoid them.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Victim Count in Ransomware Attack at Maryland Healthcare Provider Jumps Fivefold to 137,000<a href="https://www.bankinfosecurity.com/victim-count-in-maryland-ransomware-breach-jumps-fivefold-a-22378?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Berlin, Maryland-based hospital recently told regulators that a ransomware breach discovered in January had compromised the sensitive information of nearly 137,000 patients, about five times the number of people originally estimated to be affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8Base ransomware gang escalates double extortion attacks in June<a href="https://www.bleepingcomputer.com/news/security/8base-ransomware-gang-escalates-double-extortion-attacks-in-june/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+​A 8Base ransomware gang is targeting organizations worldwide in double-extortion attacks, with a steady stream of new victims since the beginning of June.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyera Raises $100M to Bring Data Protection to Hybrid Cloud<a href="https://www.bankinfosecurity.com/cyera-raises-100m-to-bring-data-protection-to-hybrid-cloud-a-22385/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The startup, founded by longtime Israeli Military Intelligence leaders, landed the Accel-led $100 million Series B funding to support the cloud and on-premises data protection needs of hybrid organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds says SEC investigation ‘progressing to charges’<a href="https://therecord.media/solarwinds-says-sec-investigation-progressing-to-charges?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds — the technology firm at the center of a December 2020 hack that affected multiple U.S. government agencies — said its executives may soon face charges from the Securities and Exchange Commission (SEC) for its response to the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 28, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAE, Israel create ‘Crystal Ball’ platform to fight hackers<a href="https://circuit.news/2023/06/28/uae-israel-create-crystal-ball-platform-to-fight-hackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mission is to “design, deploy and enable regional intelligence enhancement” through collaboration and knowledge-sharing to combat national-level cyberthreats, according to a presentation by Mohamed Al Kuwaiti, UAE head of cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Energy confirms data breach after MOVEit data-theft attack<a href="https://www.bleepingcomputer.com/news/security/siemens-energy-confirms-data-breach-after-moveit-data-theft-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens Energy has confirmed that data was stolen during the recent Clop ransomware data-theft attacks using a zero-day vulnerability in the MOVEit Transfer platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of devices found violating new CISA federal agency directive<a href="https://www.bleepingcomputer.com/news/security/hundreds-of-devices-found-violating-new-cisa-federal-agency-directive/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Censys researchers have discovered hundreds of Internet-exposed devices on the networks of U.S. federal agencies that have to be secured according to a recently issued CISA Binding Operational Directive.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EncroChat takedown led to 6,500 arrests and $979 million seized<a href="https://www.bleepingcomputer.com/news/security/encrochat-takedown-led-to-6-500-arrests-and-979-million-seized/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol announced today that the takedown of the EncroChat encrypted mobile communications platform has led to the arrest of over 6,600 people and the seizure of $979 million in illicit funds.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Just released: Session tracks for Mandiant’s 2023 mWISE event <a href="https://www.bleepingcomputer.com/news/security/just-released-session-tracks-for-mandiants-2023-mwise-event/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are just a few days left to get the lowest price available for the mWISE cybersecurity conference. It runs from September 18 - 20, 2023 in Washington, DC. If you register now, you'll get 45% off the standard conference rate.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mockingjay process injection technique evades EDR detection<a href="https://www.bleepingcomputer.com/news/security/new-mockingjay-process-injection-technique-evades-edr-detection/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new process injection technique named 'Mockingjay' could allow threat actors to bypass EDR (Endpoint Detection and Response) and other security products to stealthily execute malicious code on compromised systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

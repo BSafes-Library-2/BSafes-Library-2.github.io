@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAE, Israel create ‘Crystal Ball’ platform to fight hackers<a href="https://circuit.news/2023/06/28/uae-israel-create-crystal-ball-platform-to-fight-hackers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mission is to “design, deploy and enable regional intelligence enhancement” through collaboration and knowledge-sharing to combat national-level cyberthreats, according to a presentation by Mohamed Al Kuwaiti, UAE head of cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

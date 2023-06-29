@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EncroChat Bust Leads to 6,558 Criminals' Arrests and €900 Million Seizure<a href="https://thehackernews.com/2023/06/encrochat-bust-leads-to-6558-criminals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol on Tuesday&nbsp; announced &nbsp;that the takedown of EncroChat in July 2020 led to 6,558 arrests worldwide and the seizure of €900 million in illicit criminal proceeds. The law enforcement agency said that a subsequent joint investigation initiated by French and Dutch authorities intercepted and analyzed over 115 million conversations that took place over the encrypted messaging platform between no less than 60,000 users. Now almost three years later, the information obtained from digital correspondence has resulted in - Arrests of 6,558 suspects, including 197 high-value targets 7,134 years of imprisonment of convicted criminals Confiscation of €739.7 million in cash Freeze of €154.1 million frozen in assets or bank accounts Seizure of 30.5 million pills of chemical drugs Seizure of 103.5 tonnes of cocaine, 163.4 tonnes of cannabis, and 3.3 tonnes of heroin Seizure of 971 vehicles, 83 boats, and 40 planes Seizure of 271 estates or homes, and Seizure of 923 weapons, as well
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
