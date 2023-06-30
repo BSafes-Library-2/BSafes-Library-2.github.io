@@ -34,6 +34,331 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8Base Ransomware Activity Spikes, Researcher Warn<a href="https://cyware.com/news/8base-ransomware-activity-spikes-researcher-warn-b3147541"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware threat 8Base has been conducting double extortion attacks for over a year and its activities spiked suddenly in May and June 2023. 8Base has been connected to 67 attacks by Malwarebytes and NCC Group. Approximately 50% of the targeted victims belong to the business services, manufacturin ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From MuddyC3 to PhonyC2: Iran's MuddyWater Evolves with a New Cyber Weapon<a href="https://thehackernews.com/2023/06/from-muddyc3-to-phonyc2-irans.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian state-sponsored group dubbed MuddyWater has been attributed to a previously unseen command-and-control (C2) framework called  PhonyC2  that's been put to use by the actor since 2021. Evidence shows that the custom made, actively developed framework has been leveraged in the  February 2023 attack on Technion , an Israeli research institute, cybersecurity firm Deep Instinct said in a report shared with The Hacker News. What's more, additional links have been unearthed between the Python 3-based program and other attacks carried out by MuddyWater, including the  ongoing exploitation of PaperCut servers . "It is structurally and functionally similar to  MuddyC3 , a previous MuddyWater  custom C2 framework  that was written in Python 2," security researcher Simon Kenin said. "MuddyWater is continuously updating the PhonyC2 framework and changing TTPs to avoid detection." MuddyWater, also known as Mango Sandstorm (previously Mercury), is a cyber
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The phone monitoring app LetMeSpy disclosed a data breach<a href="https://securityaffairs.com/147968/data-breach/letmespy-disclosed-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Android app LetMeSpy disclosed a security breach, sensitive data associated with thousands of Android users were exposed.
+The phone monitoring app LetMeSpy disclosed a security breach, threat actors have stolen sensitive data associated with thousands...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Cyber Agency Remains Underfunded<a href="https://www.bankinfosecurity.com/european-cyber-agency-remains-underfunded-a-22389?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are multiple discrepancies in how the European Commission allocates funds to the cyber agency, Juhan Lepassaar, the executive director of the EU Agency for Cybersecurity, said during a Tuesday parliamentary hearing evaluating allocated budgets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fluhorse: Flutter-Based Android Malware Targets Credit Cards and 2FA Codes<a href="https://thehackernews.com/2023/06/fluhorse-flutter-based-android-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shared the inner workings of an Android malware family called  Fluhorse . The malware "represents a significant shift as it incorporates the malicious components directly within the Flutter code," Fortinet FortiGuard Labs researcher Axelle Apvrille  said  in a report published last week. Fluhorse was  first documented  by Check Point in early May 2023, detailing its attacks on users located in East Asia through rogue apps masquerading as ETC and VPBank Neo, which are popular in Taiwan and Vietnam. The initial intrusion vector for the malware is phishing. The ultimate goal of the app is to steal credentials, credit card details, and two-factor authentication (2FA) codes received as SMS to a remote server under the control of the threat actors. The latest findings from Fortinet, which reverse-engineered a  Fluhorse sample  uploaded to VirusTotal on June 11, 2023, suggest that the malware has evolved, incorporating additional sophistication b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Previously undetected ThirdEye malware appears in the threat landscape<a href="https://securityaffairs.com/147954/malware/thirdeye-infostealer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Windows information stealer dubbed ThirdEye appeared in the threat landscape, it has been active since April.
+Fortinet FortiGuard Labs discovered a previously undetected information stealer named ThirdEye.
+The malicious code is not sophisticated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Details Disclosed for Critical SAP Vulnerabilities, Including Wormable Exploit Chain<a href="https://www.securityweek.com/details-disclosed-for-critical-sap-vulnerabilities-including-wormable-exploit-chain/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities are tracked as CVE-2021-27610, CVE-2021-33677, CVE-2021-33684, and CVE-2023-0014, and they impact products that use the SAP Application Server for ABAP component.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Right Way to Enhance CTI with AI (Hint: It's the Data)<a href="https://thehackernews.com/2023/06/the-right-way-to-enhance-cti-with-ai.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber threat intelligence is an effective weapon in the ongoing battle to protect digital assets and infrastructure - especially when combined with AI. But AI is only as good as the data feeding it. Access to unique, underground sources is key. Threat Intelligence offers tremendous value to people and companies. At the same time, its ability to address organizations' cybersecurity needs and the benefits it offers vary by company, industry, and other factors. A common challenge with cyber threat intelligence (CTI) is that the data it produces can be vast and overwhelming, creating confusion and inefficiencies among security teams' threat exposure management efforts. Additionally, organizations have different levels of security maturity, which can make access to and understanding of CTI data difficult. Enter generative AI. Many cybersecurity companies – and more specifically, threat intelligence companies – are bringing generative AI to market to simplify threat intelligence a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Group-IB manager has been arrested in Kazahstan<a href="https://securityaffairs.com/147956/cyber-crime/former-group-ib-manager-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The former head of network security at Group-IB has been arrested in Kazakhstan based on a request from U.S. law enforcement.
+Nikita Kislitsin who worked as the head of network security at Group-IB, as well as its Russian-based spinoff company (known...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saudi Arabia's Cyber Capabilities Ranked Second Globally<a href="https://www.darkreading.com/dr-global/saudi-arabia-cyber-capabilities-ranked-second-globally?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the IIMD, the development of a National Cybersecurity Authority (NCA) and the planned development of a Global Cybersecurity Forum institute in the country have both affirmed Saudi Arabia's role in the field of cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hacker Group Andariel Strikes with New EarlyRat Malware<a href="https://thehackernews.com/2023/06/north-korean-hacker-group-andariel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-aligned threat actor known as Andariel leveraged a previously undocumented malware called EarlyRat in attacks exploiting the Log4j Log4Shell vulnerability last year. "Andariel infects machines by executing a Log4j exploit, which, in turn, downloads further malware from the command-and-control (C2) server," Kaspersky  said  in a new report. Also called Silent Chollima and Stonefly, Andariel is associated with North Korea's Lab 110, a primary hacking unit that also houses  APT38  (aka BlueNoroff ) and other subordinate elements collectively tracked under the umbrella name  Lazarus Group .  The threat actor, besides conducting espionage attacks against foreign government and military entities that are of strategic interest, is known to  carry out cyber crime  as an extra source of income to the sanctions-hit nation. Some of the key cyber weapons in its arsenal include a ransomware strain referred to as  Maui  and numerous remote access trojans and backd
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts published PoC exploits for Arcserve UDP authentication bypass issue<a href="https://securityaffairs.com/147940/hacking/poc-exploits-arcserve-udp-auth-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data protection firm Arcserve addressed an authentication bypass vulnerability in its Unified Data Protection (UDP) backup software.
+Data protection vendor Arcserve addressed a high-severity bypass authentication flaw, tracked as CVE-2023-26258, in its Unified...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command to expand 'canary in the coal mine' unit working with private sector<a href="https://therecord.media/cyber-command-under-advisement-team-cyberthreat-collaboration?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Cyber Command is doubling the size of a little-known program that serves as one of the military's chief links to private industry in order to bolster the country’s defenses against cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Spy App LetMeSpy Suffers Major Data Breach, Exposing Users' Personal Data<a href="https://thehackernews.com/2023/06/android-spy-app-letmespy-suffers-major.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Android-based phone monitoring app LetMeSpy has disclosed a security breach that allowed an unauthorized third-party to steal sensitive data associated with thousands of Android users. "As a result of the attack, the criminals gained access to email addresses, telephone numbers and the content of messages collected on accounts," LetMeSpy  said  in an announcement on its website, noting the incident took place on June 21, 2023. Following the discovery of the hack, LetMeSpy said it notified law enforcement and data protection authorities. It's also taking steps to suspend all account-related functions until further notice. The identity of the threat actor and their motives are currently unknown. The work of a Polish company named Radeal, LetMeSpy is offered as a monthly subscription ($6 for Standard or $12 for Pro), allowing its customers to snoop on others simply by installing the software on their devices. An  Internet Archive snapshot  from December 2013 shows that i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manic Menagerie 2.0: The Evolution of a Highly Motivated Threat Actor<a href="https://unit42.paloaltonetworks.com/manic-menagerie-targets-web-hosting-and-it/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor used a variety of tactics, techniques, and tools to evade detection and maintain access to the compromised networks, including deploying web shells, exploiting vulnerabilities, and attempting local privilege escalation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Flaw in Social Login Plugin for WordPress Exposes Users' Accounts<a href="https://thehackernews.com/2023/06/critical-security-flaw-in-social-login.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security flaw has been disclosed in miniOrange's  Social Login and Register plugin  for WordPress that could enable a malicious actor to log in as any user-provided information about email address is already known. Tracked as CVE-2023-2982 (CVSS score: 9.8), the authentication bypass flaw impacts all versions of the plugin, including and prior to 7.6.4. It was addressed on June 14, 2023, with the release of version 7.6.5 following responsible disclosure on June 2, 2023. "The vulnerability makes it possible for an unauthenticated attacker to gain access to any account on a site including accounts used to administer the site, if the attacker knows, or can find, the associated email address," Wordfence researcher István Márton  said . The issue is rooted in the fact that the encryption key used to secure the information during login using social media accounts is hard-coded, thus leading to a scenario where attackers could create a valid request with a properl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Power Ransomware on the Ascent – A Technical Insight into 2023’s Latest Ransomware Strain<a href="https://heimdalsecurity.com/blog/dark-power-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dark Power is a highly advanced ransomware strain that uses advanced encryption techniques and targets various industries globally. It stops critical system services and processes, encrypts files, and drops a ransom note with payment instructions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Uncovered ThirdEye Windows-Based Malware Steals Sensitive Data<a href="https://thehackernews.com/2023/06/newly-uncovered-thirdeye-windows-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented Windows-based information stealer called  ThirdEye  has been discovered in the wild with capabilities to harvest sensitive data from infected hosts. Fortinet FortiGuard Labs, which  made the discovery , said it found the malware in an executable that masqueraded as a  PDF file  with a Russian name "CMK Правила оформления больничных листов.pdf.exe," which translates to "CMK Rules for issuing sick leaves.pdf.exe." The arrival vector for the malware is presently unknown, although the nature of the lure points to it being used in a phishing campaign. The very  first ThirdEye sample  was uploaded to VirusTotal on April 4, 2023, with relatively fewer features. The evolving stealer, like  other malware families  of its kind, is equipped to gather system metadata, including BIOS release date and vendor, total/free disk space on the C drive, currently running processes, register usernames, and volume information. The amassed details are then tra
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security analyst wanted by both Russia and the US<a href="https://www.theregister.com/2023/06/29/russian_facct_employee_extradiation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian network security specialist and former editor of Hacker magazine who is wanted by the US and Russia on cybercrime charges has been detained in Kazakhstan as the two governments seek his extradition.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Patent and Trademark Office Notifies Filers of Years-Long Data Leak<a href="https://techcrunch.com/2023/06/28/uspto-trademark-data-api-leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Patent and Trademark Office (USPTO) said in a notice sent to affected trademark applicants that their private domicile address — often their home address — inadvertently appeared in public records between February 2020 and March 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 28, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
