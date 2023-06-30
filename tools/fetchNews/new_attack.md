@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8Base Ransomware Activity Spikes, Researcher Warn<a href="https://cyware.com/news/8base-ransomware-activity-spikes-researcher-warn-b3147541"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware threat 8Base has been conducting double extortion attacks for over a year and its activities spiked suddenly in May and June 2023. 8Base has been connected to 67 attacks by Malwarebytes and NCC Group. Approximately 50% of the targeted victims belong to the business services, manufacturin ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

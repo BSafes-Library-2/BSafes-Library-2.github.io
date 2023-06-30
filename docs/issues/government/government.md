@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Cyber Agency Remains Underfunded<a href="https://www.bankinfosecurity.com/european-cyber-agency-remains-underfunded-a-22389?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are multiple discrepancies in how the European Commission allocates funds to the cyber agency, Juhan Lepassaar, the executive director of the EU Agency for Cybersecurity, said during a Tuesday parliamentary hearing evaluating allocated budgets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Command to expand 'canary in the coal mine' unit working with private sector<a href="https://therecord.media/cyber-command-under-advisement-team-cyberthreat-collaboration?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Cyber Command is doubling the size of a little-known program that serves as one of the military's chief links to private industry in order to bolster the country’s defenses against cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Power Ransomware on the Ascent – A Technical Insight into 2023’s Latest Ransomware Strain<a href="https://heimdalsecurity.com/blog/dark-power-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dark Power is a highly advanced ransomware strain that uses advanced encryption techniques and targets various industries globally. It stops critical system services and processes, encrypts files, and drops a ransom note with payment instructions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2023 <br><br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

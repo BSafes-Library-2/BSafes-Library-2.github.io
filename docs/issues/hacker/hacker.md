@@ -8,6 +8,48 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From MuddyC3 to PhonyC2: Iran's MuddyWater Evolves with a New Cyber Weapon<a href="https://thehackernews.com/2023/06/from-muddyc3-to-phonyc2-irans.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian state-sponsored group dubbed MuddyWater has been attributed to a previously unseen command-and-control (C2) framework called&nbsp; PhonyC2 &nbsp;that's been put to use by the actor since 2021. Evidence shows that the custom made, actively developed framework has been leveraged in the&nbsp; February 2023 attack on Technion , an Israeli research institute, cybersecurity firm Deep Instinct said in a report shared with The Hacker News. What's more, additional links have been unearthed between the Python 3-based program and other attacks carried out by MuddyWater, including the&nbsp; ongoing exploitation of PaperCut servers . "It is structurally and functionally similar to&nbsp; MuddyC3 , a previous MuddyWater&nbsp; custom C2 framework &nbsp;that was written in Python 2," security researcher Simon Kenin said. "MuddyWater is continuously updating the PhonyC2 framework and changing TTPs to avoid detection." MuddyWater, also known as Mango Sandstorm (previously Mercury), is a cyber
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hacker Group Andariel Strikes with New EarlyRat Malware<a href="https://thehackernews.com/2023/06/north-korean-hacker-group-andariel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-aligned threat actor known as Andariel leveraged a previously undocumented malware called EarlyRat in attacks exploiting the Log4j Log4Shell vulnerability last year. "Andariel infects machines by executing a Log4j exploit, which, in turn, downloads further malware from the command-and-control (C2) server," Kaspersky&nbsp; said &nbsp;in a new report. Also called Silent Chollima and Stonefly, Andariel is associated with North Korea's Lab 110, a primary hacking unit that also houses&nbsp; APT38 &nbsp;(aka BlueNoroff ) and other subordinate elements collectively tracked under the umbrella name&nbsp; Lazarus Group .&nbsp; The threat actor, besides conducting espionage attacks against foreign government and military entities that are of strategic interest, is known to&nbsp; carry out cyber crime &nbsp;as an extra source of income to the sanctions-hit nation. Some of the key cyber weapons in its arsenal include a ransomware strain referred to as&nbsp; Maui &nbsp;and numerous remote access trojans and backd
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manic Menagerie 2.0: The Evolution of a Highly Motivated Threat Actor<a href="https://unit42.paloaltonetworks.com/manic-menagerie-targets-web-hosting-and-it/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor used a variety of tactics, techniques, and tools to evade detection and maintain access to the compromised networks, including deploying web shells, exploiting vulnerabilities, and attempting local privilege escalation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

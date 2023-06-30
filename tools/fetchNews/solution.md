@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Sysmon now detects when executables files are created<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-sysmon-now-detects-when-executables-files-are-created/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released Sysmon 15, converting it into a protected process and adding the new 'FileExecutableDetected' option to log when executable files are created.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brave Browser boosts privacy with new local resources restrictions<a href="https://www.bleepingcomputer.com/news/security/brave-browser-boosts-privacy-with-new-local-resources-restrictions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Brave team has announced that the privacy-centric browser will soon introduce new restriction controls allowing users to specify how long sites can access local network resources.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

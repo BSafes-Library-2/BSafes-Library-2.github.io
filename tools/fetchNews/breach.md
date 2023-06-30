@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Victim Count in Ransomware Attack at Maryland Healthcare Provider Jumps Fivefold to 137,000<a href="https://www.bankinfosecurity.com/victim-count-in-maryland-ransomware-breach-jumps-fivefold-a-22378?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Berlin, Maryland-based hospital recently told regulators that a ransomware breach discovered in January had compromised the sensitive information of nearly 137,000 patients, about five times the number of people originally estimated to be affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Siemens Energy confirms data breach after MOVEit data-theft attack<a href="https://www.bleepingcomputer.com/news/security/siemens-energy-confirms-data-breach-after-moveit-data-theft-attack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens Energy has confirmed that data was stolen during the recent Clop ransomware data-theft attacks using a zero-day vulnerability in the MOVEit Transfer platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

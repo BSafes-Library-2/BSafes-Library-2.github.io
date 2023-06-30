@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Group-IB manager has been arrested in Kazahstan<a href="https://securityaffairs.com/147956/cyber-crime/former-group-ib-manager-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The former head of network security at Group-IB has been arrested in Kazakhstan based on a request from U.S. law enforcement.
+Nikita Kislitsin who worked as the head of network security at Group-IB, as well as its Russian-based spinoff company (known...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security analyst wanted by both Russia and the US<a href="https://www.theregister.com/2023/06/29/russian_facct_employee_extradiation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian network security specialist and former editor of Hacker magazine who is wanted by the US and Russia on cybercrime charges has been detained in Kazakhstan as the two governments seek his extradition.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Things CISOs Need to Know About Securing OT Environments<a href="https://thehackernews.com/2023/06/5-things-cisos-need-to-know-about.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For too long the cybersecurity world focused exclusively on information technology (IT), leaving operational technology (OT) to fend for itself. Traditionally, few industrial enterprises had dedicated cybersecurity leaders. Any security decisions that arose fell to the plant and factory managers, who are highly skilled technical experts in other areas but often lack cybersecurity training or knowledge. In more recent years, an uptick in cyberattacks against industrial facilities and the trend of IT/OT convergence driven by Industry 4.0 have highlighted the vacuum of ownership around OT security.&nbsp; According to a new Fortinet report , most organizations are looking to Chief Information Security Officers (CISOs) to solve the problem. Fortunately, CISOs are no strangers to change or difficult challenges. The position itself is less than 20 years old, yet in those two decades CISOs have navigated some of the most disruptive cybersecurity events that were truly watershed moments in techno
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

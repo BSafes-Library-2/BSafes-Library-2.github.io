@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Right Way to Enhance CTI with AI (Hint: It's the Data)<a href="https://thehackernews.com/2023/06/the-right-way-to-enhance-cti-with-ai.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber threat intelligence is an effective weapon in the ongoing battle to protect digital assets and infrastructure - especially when combined with AI. But AI is only as good as the data feeding it. Access to unique, underground sources is key. Threat Intelligence offers tremendous value to people and companies. At the same time, its ability to address organizations' cybersecurity needs and the benefits it offers vary by company, industry, and other factors. A common challenge with cyber threat intelligence (CTI) is that the data it produces can be vast and overwhelming, creating confusion and inefficiencies among security teams' threat exposure management efforts. Additionally, organizations have different levels of security maturity, which can make access to and understanding of CTI data difficult. Enter generative AI. Many cybersecurity companies – and more specifically, threat intelligence companies – are bringing generative AI to market to simplify threat intelligence a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
