@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saudi Arabia's Cyber Capabilities Ranked Second Globally<a href="https://www.darkreading.com/dr-global/saudi-arabia-cyber-capabilities-ranked-second-globally?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the IIMD, the development of a National Cybersecurity Authority (NCA) and the planned development of a Global Cybersecurity Forum institute in the country have both affirmed Saudi Arabia's role in the field of cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

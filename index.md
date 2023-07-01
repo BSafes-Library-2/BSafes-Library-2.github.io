@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japan Threat Landscape Takes on Global Significance<a href="https://www.securityweek.com/rapid7-japan-threat-landscape-takes-on-global-significance/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Charming Kitten Utilize POWERSTAR Backdoor in Targeted Espionage Attacks<a href="https://thehackernews.com/2023/06/iranian-hackers-charming-kitten-utilize.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked Charming Kitten APT enhanced its POWERSTAR Backdoor<a href="https://securityaffairs.com/147995/apt/charming-kitten-powerstar-backdoor.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 Reasons SaaS Security is the Imperative First Step to Ensuring Secure AI Usage<a href="https://thehackernews.com/2023/06/3-reasons-saas-security-is-imperative.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 miniOrange’s WordPress Social Login and Register plugin was affected by a critical auth bypass bug<a href="https://securityaffairs.com/147981/hacking/wordpress-social-login-and-register-plugin-auth-bypass.html"> Full Text</a>
@@ -116,7 +116,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp Upgrades Proxy Feature Against Internet Shutdowns<a href="https://thehackernews.com/2023/06/whatsapp-upgrades-proxy-feature-against.html"> Full Text</a>
@@ -132,7 +132,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked Andariel APT used a new malware named EarlyRat last year<a href="https://securityaffairs.com/147976/apt/andariel-apt-earlyrat-malware.html"> Full Text</a>
@@ -149,7 +149,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Hijacking Vulnerable SSH Servers in New Proxyjacking Campaign<a href="https://thehackernews.com/2023/06/cybercriminals-hijacking-vulnerable-ssh.html"> Full Text</a>
@@ -165,7 +165,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MITRE Unveils Top 25 Most Dangerous Software Weaknesses of 2023: Are You at Risk?<a href="https://thehackernews.com/2023/06/mitre-unveils-top-25-most-dangerous.html"> Full Text</a>

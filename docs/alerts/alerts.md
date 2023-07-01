@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+2023 CWE Top 25 Most Dangerous Software Weaknesses <a href="https://www.cisa.gov/news-events/alerts/2023/06/29/2023-cwe-top-25-most-dangerous-software-weaknesses"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Homeland Security Systems Engineering and Development Institute, sponsored by the Department of Homeland Security and operated by MITRE, has released the 2023 Common Weakness Enumeration (CWE) Top 25 Most Dangerous Software Weaknesses. The CWE Top 25 is calculated by analyzing public vulnerability data in the National Vulnerability Data (NVD) for root cause mappings to CWE weaknesses for the previous two calendar years. These weaknesses lead to serious vulnerabilities in software. An attacker can often exploit these vulnerabilities to take control of an affected system, steal data, or prevent applications from working. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 23, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

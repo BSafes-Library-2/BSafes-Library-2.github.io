@@ -8,6 +8,21 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+miniOrange’s WordPress Social Login and Register plugin was affected by a critical auth bypass bug<a href="https://securityaffairs.com/147981/hacking/wordpress-social-login-and-register-plugin-auth-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical authentication bypass flaw in&nbsp;miniOrange’s WordPress Social Login and Register plugin,&nbsp;can allow gaining access to any account on a site.
+Wordfence researchers discovered an authentication bypass vulnerability in&nbsp;miniOrange’s WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

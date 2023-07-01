@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The phone monitoring app LetMeSpy disclosed a data breach<a href="https://securityaffairs.com/147968/data-breach/letmespy-disclosed-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Android app&nbsp;LetMeSpy&nbsp;disclosed a security breach, sensitive data associated with thousands of Android users were exposed.
+The phone monitoring app LetMeSpy disclosed a security breach, threat actors have stolen sensitive data associated with thousands...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Spy App LetMeSpy Suffers Major Data Breach, Exposing Users' Personal Data<a href="https://thehackernews.com/2023/06/android-spy-app-letmespy-suffers-major.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Android-based phone monitoring app LetMeSpy has disclosed a security breach that allowed an unauthorized third-party to steal sensitive data associated with thousands of Android users. "As a result of the attack, the criminals gained access to email addresses, telephone numbers and the content of messages collected on accounts," LetMeSpy&nbsp; said &nbsp;in an announcement on its website, noting the incident took place on June 21, 2023. Following the discovery of the hack, LetMeSpy said it notified law enforcement and data protection authorities. It's also taking steps to suspend all account-related functions until further notice. The identity of the threat actor and their motives are currently unknown. The work of a Polish company named Radeal, LetMeSpy is offered as a monthly subscription ($6 for Standard or $12 for Pro), allowing its customers to snoop on others simply by installing the software on their devices. An&nbsp; Internet Archive snapshot &nbsp;from December 2013 shows that i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Patent and Trademark Office Notifies Filers of Years-Long Data Leak<a href="https://techcrunch.com/2023/06/28/uspto-trademark-data-api-leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Patent and Trademark Office (USPTO) said in a notice sent to affected trademark applicants that their private domicile address — often their home address — inadvertently appeared in public records between February 2020 and March 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

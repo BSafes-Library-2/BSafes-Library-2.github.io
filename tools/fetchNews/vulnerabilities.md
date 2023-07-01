@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Details Disclosed for Critical SAP Vulnerabilities, Including Wormable Exploit Chain<a href="https://www.securityweek.com/details-disclosed-for-critical-sap-vulnerabilities-including-wormable-exploit-chain/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities are tracked as CVE-2021-27610, CVE-2021-33677, CVE-2021-33684, and CVE-2023-0014, and they impact products that use the SAP Application Server for ABAP component.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts published PoC exploits for Arcserve UDP authentication bypass issue<a href="https://securityaffairs.com/147940/hacking/poc-exploits-arcserve-udp-auth-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data protection firm Arcserve addressed an authentication bypass vulnerability in its Unified Data Protection (UDP) backup software.
+Data protection vendor Arcserve addressed a high-severity bypass authentication flaw, tracked as CVE-2023-26258, in its Unified...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Flaw in Social Login Plugin for WordPress Exposes Users' Accounts<a href="https://thehackernews.com/2023/06/critical-security-flaw-in-social-login.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security flaw has been disclosed in miniOrange's&nbsp; Social Login and Register plugin &nbsp;for WordPress that could enable a malicious actor to log in as any user-provided information about email address is already known. Tracked as CVE-2023-2982 (CVSS score: 9.8), the authentication bypass flaw impacts all versions of the plugin, including and prior to 7.6.4. It was addressed on June 14, 2023, with the release of version 7.6.5 following responsible disclosure on June 2, 2023. "The vulnerability makes it possible for an unauthenticated attacker to gain access to any account on a site including accounts used to administer the site, if the attacker knows, or can find, the associated email address," Wordfence researcher István Márton&nbsp; said . The issue is rooted in the fact that the encryption key used to secure the information during login using social media accounts is hard-coded, thus leading to a scenario where attackers could create a valid request with a properl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
