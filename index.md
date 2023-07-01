@@ -34,6 +34,153 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan Threat Landscape Takes on Global Significance<a href="https://www.securityweek.com/rapid7-japan-threat-landscape-takes-on-global-significance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The primary cause of cyberattacks against Japanese computer systems is the strength and quality of its manufacturing base. The size of Japanese manufacturers makes them an attractive target for criminal extortion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Charming Kitten Utilize POWERSTAR Backdoor in Targeted Espionage Attacks<a href="https://thehackernews.com/2023/06/iranian-hackers-charming-kitten-utilize.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Charming Kitten, the nation-state actor affiliated with Iran's Islamic Revolutionary Guard Corps (IRGC), has been attributed to a bespoke spear-phishing campaign that delivers an updated version of a fully-featured PowerShell backdoor called POWERSTAR. "There have been improved operational security measures placed in the malware to make it more difficult to analyze and collect intelligence," Volexity researchers Ankur Saini and Charlie Gardner said in a report published this week. The threat actor is something of an expert when it comes to employing social engineering to lure targets, often crafting tailored fake personas on social media platforms and engaging in sustained conversations to build rapport before sending a malicious link. It's also tracked under the names APT35, Cobalt Illusion, Mint Sandstorm (formerly Phosphorus), and Yellow Garuda. Recent intrusions orchestrated by Charming Kitten have made use of other implants such as PowerLess and BellaCiao
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked Charming Kitten APT enhanced its POWERSTAR Backdoor<a href="https://securityaffairs.com/147995/apt/charming-kitten-powerstar-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked Charming Kitten group used an updated version of the PowerShell backdoor called POWERSTAR in a spear-phishing campaign.
+Security firm Volexity observed the Iran-linked Charming Kitten (aka APT35, Phosphorus, Newscaster, and Ajax Security Team)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Reasons SaaS Security is the Imperative First Step to Ensuring Secure AI Usage<a href="https://thehackernews.com/2023/06/3-reasons-saas-security-is-imperative.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's fast-paced digital landscape, the widespread adoption of AI (Artificial Intelligence) tools is transforming the way organizations operate. From chatbots to generative AI models, these SaaS-based applications offer numerous benefits, from enhanced productivity to improved decision-making. Employees using AI tools experience the advantages of quick answers and accurate results, enabling them to perform their jobs more effectively and efficiently. This popularity is reflected in the staggering numbers associated with AI tools.  OpenAI's viral chatbot, ChatGPT, has amassed approximately 100 million users worldwide, while other generative AI tools like DALL·E and Bard have also gained significant traction for their ability to generate impressive content effortlessly. The generative AI market is projected to exceed $22 billion by 2025,  indicating the growing reliance on AI technologies. However, amidst the enthusiasm surrounding AI adoption, it is imperative to address
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+miniOrange’s WordPress Social Login and Register plugin was affected by a critical auth bypass bug<a href="https://securityaffairs.com/147981/hacking/wordpress-social-login-and-register-plugin-auth-bypass.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical authentication bypass flaw in miniOrange’s WordPress Social Login and Register plugin, can allow gaining access to any account on a site.
+Wordfence researchers discovered an authentication bypass vulnerability in miniOrange’s WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Upgrades Proxy Feature Against Internet Shutdowns<a href="https://thehackernews.com/2023/06/whatsapp-upgrades-proxy-feature-against.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta's WhatsApp has rolled out updates to its proxy feature, allowing more flexibility in the kind of content that can be shared in conversations. This includes the ability to send and receive images, voice notes, files, stickers and GIFs, WhatsApp told The Hacker News. The new features were  first reported  by BBC Persian. Some of the other improvements include streamlined steps to simplify the setup process as well as the introduction of shareable links to "share functioning/valid proxy addresses to their contacts for easy and automatic installation." Support for  proxy servers  was officially launched by the messaging service  earlier this January , thereby helping users circumvent government-imposed censorship and internet shutdowns and obtain indirect access to WhatsApp. The company has also made available a  reference implementation  for setting up a proxy server with ports 80, 443 or 5222 available and domain name that points to the server's IP address. &
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Andariel APT used a new malware named EarlyRat last year<a href="https://securityaffairs.com/147976/apt/andariel-apt-earlyrat-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked cyberespionage group Andariel used a previously undocumented malware called EarlyRat.
+Kaspersky researchers reported that the North Korea-linked APT group Andariel used a previously undocumented malware dubbed EarlyRat in...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Hijacking Vulnerable SSH Servers in New Proxyjacking Campaign<a href="https://thehackernews.com/2023/06/cybercriminals-hijacking-vulnerable-ssh.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An active financially motivated campaign is targeting vulnerable SSH servers to covertly ensnare them into a proxy network. "This is an active campaign in which the attacker leverages SSH for remote access, running malicious scripts that stealthily enlist victim servers into a peer-to-peer (P2P) proxy network, such as Peer2Profit or Honeygain," Akamai researcher Allen West said in a Thursday report. Unlike cryptojacking, in which a compromised system's resources are used to illicitly mine cryptocurrency, proxyjacking offers the ability for threat actors to leverage the victim's unused bandwidth to covertly run different services as a P2P node. This offers two-fold benefits: It not only enables the attacker to monetize the extra bandwidth with a significantly reduced resource load that would be necessary to carry out cryptojacking, it also reduces the chances of discovery. "It is a stealthier alternative to cryptojacking and has serious implications that ca
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE Unveils Top 25 Most Dangerous Software Weaknesses of 2023: Are You at Risk?<a href="https://thehackernews.com/2023/06/mitre-unveils-top-25-most-dangerous.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MITRE has released its annual list of the Top 25 "most dangerous software weaknesses" for the year 2023. "These weaknesses lead to serious vulnerabilities in software," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)  said . "An attacker can often exploit these vulnerabilities to take control of an affected system, steal data, or prevent applications from working." The  list  is based on an  analysis  of public vulnerability data in the National Vulnerability Data ( NVD ) for root cause mappings to CWE weaknesses for the previous two years. A total of 43,996 CVE entries were examined and a score was attached to each of them based on prevalence and severity. Coming out top is Out-of-bounds Write, followed by Cross-site Scripting, SQL Injection, Use After Free, OS Command Injection, Improper Input Validation, Out-of-bounds Read, Path Traversal, Cross-Site Request Forgery (CSRF), and Unrestricted Upload of File with Dangerous Type. Out-of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 29, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
