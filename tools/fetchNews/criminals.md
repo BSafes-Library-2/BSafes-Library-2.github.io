@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Hijacking Vulnerable SSH Servers in New Proxyjacking Campaign<a href="https://thehackernews.com/2023/06/cybercriminals-hijacking-vulnerable-ssh.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An active financially motivated campaign is targeting vulnerable SSH servers to covertly ensnare them into a proxy network. "This is an active campaign in which the attacker leverages SSH for remote access, running malicious scripts that stealthily enlist victim servers into a peer-to-peer (P2P) proxy network, such as Peer2Profit or Honeygain," Akamai researcher Allen West said in a Thursday report. Unlike cryptojacking, in which a compromised system's resources are used to illicitly mine cryptocurrency, proxyjacking offers the ability for threat actors to leverage the victim's unused bandwidth to covertly run different services as a P2P node. This offers two-fold benefits: It not only enables the attacker to monetize the extra bandwidth with a significantly reduced resource load that would be necessary to carry out cryptojacking, it also reduces the chances of discovery. "It is a stealthier alternative to cryptojacking and has serious implications that ca
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

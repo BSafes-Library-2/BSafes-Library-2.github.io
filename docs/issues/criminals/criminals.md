@@ -8,6 +8,22 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit gang demands a $70 million ransom to the semiconductor manufacturing giant TSMC<a href="https://securityaffairs.com/148022/cyber-crime/tsmc-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware gang claims to have hacked Taiwan Semiconductor Manufacturing Company (TSMC).
+The LockBit ransomware group this week claimed to have hacked the Taiwan Semiconductor Manufacturing Company (TSMC) and $70 million ransom.
+TSMC...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

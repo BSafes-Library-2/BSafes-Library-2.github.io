@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+June 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan Threat Landscape Takes on Global Significance<a href="https://www.securityweek.com/rapid7-japan-threat-landscape-takes-on-global-significance/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The primary cause of cyberattacks against Japanese computer systems is the strength and quality of its manufacturing base. The size of Japanese manufacturers makes them an attractive target for criminal extortion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Reasons SaaS Security is the Imperative First Step to Ensuring Secure AI Usage<a href="https://thehackernews.com/2023/06/3-reasons-saas-security-is-imperative.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's fast-paced digital landscape, the widespread adoption of AI (Artificial Intelligence) tools is transforming the way organizations operate. From chatbots to generative AI models, these SaaS-based applications offer numerous benefits, from enhanced productivity to improved decision-making. Employees using AI tools experience the advantages of quick answers and accurate results, enabling them to perform their jobs more effectively and efficiently. This popularity is reflected in the staggering numbers associated with AI tools.&nbsp; OpenAI's viral chatbot, ChatGPT, has amassed approximately 100 million users worldwide, while other generative AI tools like DALL·E and Bard have also gained significant traction for their ability to generate impressive content effortlessly. The generative AI market is projected to exceed $22 billion by 2025,&nbsp; indicating the growing reliance on AI technologies. However, amidst the enthusiasm surrounding AI adoption, it is imperative to address
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITRE Unveils Top 25 Most Dangerous Software Weaknesses of 2023: Are You at Risk?<a href="https://thehackernews.com/2023/06/mitre-unveils-top-25-most-dangerous.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MITRE has released its annual list of the Top 25 "most dangerous software weaknesses" for the year 2023. "These weaknesses lead to serious vulnerabilities in software," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)&nbsp; said . "An attacker can often exploit these vulnerabilities to take control of an affected system, steal data, or prevent applications from working." The&nbsp; list &nbsp;is based on an&nbsp; analysis &nbsp;of public vulnerability data in the National Vulnerability Data ( NVD ) for root cause mappings to CWE weaknesses for the previous two years. A total of 43,996 CVE entries were examined and a score was attached to each of them based on prevalence and severity. Coming out top is Out-of-bounds Write, followed by Cross-site Scripting, SQL Injection, Use After Free, OS Command Injection, Improper Input Validation, Out-of-bounds Read, Path Traversal, Cross-Site Request Forgery (CSRF), and Unrestricted Upload of File with Dangerous Type. Out-of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

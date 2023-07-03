@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2023
+July 2, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 426 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/148038/breaking-news/security-affairs-newsletter-round-426-by-pierluigi-paganini-international-edition.html"> Full Text</a>
@@ -52,7 +52,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 2, 2023
+July 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress sites using the Ultimate Member plugin are under attack<a href="https://securityaffairs.com/148030/hacking/wordpress-ultimate-member-plugin-attacks.html"> Full Text</a>
@@ -69,7 +69,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2023
+July 1, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 200,000 WordPress Sites Exposed to Attacks Exploiting Flaw in ‘Ultimate Member’ Plugin<a href="https://www.securityweek.com/200000-wordpress-sites-exposed-to-attacks-exploiting-flaw-in-ultimate-member-plugin/?&web_view=true"> Full Text</a>
@@ -85,7 +85,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2023
+July 01, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploiting Unpatched WordPress Plugin Flaw to Create Secret Admin Accounts<a href="https://thehackernews.com/2023/07/unpatched-wordpress-plugin-flaw-could.html"> Full Text</a>
@@ -101,7 +101,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2023
+July 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More than 16 million people and counting have had data exposed in MOVEit breaches<a href="https://therecord.media/data-of-sixteen-million-exposed-moveit?&web_view=true"> Full Text</a>
@@ -117,7 +117,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 01, 2023
+July 01, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware: New 'RustBucket' Malware Variant Targeting macOS Users<a href="https://thehackernews.com/2023/07/beware-new-rustbucket-malware-variant.html"> Full Text</a>
@@ -133,7 +133,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2023
+July 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: 1.1 Million NHS Patients' Data Also Breached in the University of Manchester Attack<a href="https://www.bankinfosecurity.com/trauma-terrorist-victim-data-breached-in-university-attack-a-22409?&web_view=true"> Full Text</a>
@@ -149,7 +149,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2023
+July 1, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit gang demands a $70 million ransom to the semiconductor manufacturing giant TSMC<a href="https://securityaffairs.com/148022/cyber-crime/tsmc-lockbit-ransomware.html"> Full Text</a>
@@ -167,7 +167,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2023
+July 1, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers claim to take down Russian satellite communications provider<a href="https://therecord.media/hackers-take-down-russian-satellite-provider?&web_view=true"> Full Text</a>
@@ -183,7 +183,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2023
+July 1, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avast released a free decryptor for the Windows version of the Akira ransomware<a href="https://securityaffairs.com/148007/cyber-crime/akira-ransomware-decryptor.html"> Full Text</a>
@@ -200,7 +200,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2023
+July 1, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malvertising Used as Entry Vector for BlackCat, Actors Also Leverage SpyBoy Terminator<a href="https://www.trendmicro.com/en_us/research/23/f/malvertising-used-as-entry-vector-for-blackcat-actors-also-lever.html?&web_view=true"> Full Text</a>

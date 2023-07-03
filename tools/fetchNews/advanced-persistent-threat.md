@@ -8,6 +8,36 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked Charming Kitten APT enhanced its POWERSTAR Backdoor<a href="https://securityaffairs.com/147995/apt/charming-kitten-powerstar-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked Charming Kitten group used an updated version of the PowerShell backdoor called POWERSTAR in a spear-phishing campaign.
+Security firm Volexity observed the Iran-linked Charming Kitten (aka&nbsp;APT35,&nbsp;Phosphorus,&nbsp;Newscaster, and&nbsp;Ajax Security&nbsp;Team)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked Andariel APT used a new malware named EarlyRat last year<a href="https://securityaffairs.com/147976/apt/andariel-apt-earlyrat-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked cyberespionage group&nbsp;Andariel&nbsp;used a previously undocumented malware called&nbsp;EarlyRat.
+Kaspersky researchers reported that the North Korea-linked APT group&nbsp;Andariel&nbsp;used a previously undocumented malware dubbed&nbsp;EarlyRat&nbsp;in...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

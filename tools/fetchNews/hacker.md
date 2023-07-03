@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Charming Kitten Utilize POWERSTAR Backdoor in Targeted Espionage Attacks<a href="https://thehackernews.com/2023/06/iranian-hackers-charming-kitten-utilize.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Charming Kitten, the nation-state actor affiliated with Iran's Islamic Revolutionary Guard Corps (IRGC), has been attributed to a bespoke spear-phishing campaign that delivers an updated version of a fully-featured PowerShell backdoor called POWERSTAR. "There have been improved operational security measures placed in the malware to make it more difficult to analyze and collect intelligence," Volexity researchers Ankur Saini and Charlie Gardner said in a report published this week. The threat actor is something of an expert when it comes to employing social engineering to lure targets, often crafting tailored fake personas on social media platforms and engaging in sustained conversations to build rapport before sending a malicious link. It's also tracked under the names APT35, Cobalt Illusion, Mint Sandstorm (formerly Phosphorus), and Yellow Garuda. Recent intrusions orchestrated by Charming Kitten have made use of other implants such as PowerLess and BellaCiao
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

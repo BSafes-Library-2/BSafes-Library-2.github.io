@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Upgrades Proxy Feature Against Internet Shutdowns<a href="https://thehackernews.com/2023/06/whatsapp-upgrades-proxy-feature-against.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta's WhatsApp has rolled out updates to its proxy feature, allowing more flexibility in the kind of content that can be shared in conversations. This includes the ability to send and receive images, voice notes, files, stickers and GIFs, WhatsApp told The Hacker News. The new features were&nbsp; first reported &nbsp;by BBC Persian. Some of the other improvements include streamlined steps to simplify the setup process as well as the introduction of shareable links to "share functioning/valid proxy addresses to their contacts for easy and automatic installation." Support for&nbsp; proxy servers &nbsp;was officially launched by the messaging service&nbsp; earlier this January , thereby helping users circumvent government-imposed censorship and internet shutdowns and obtain indirect access to WhatsApp. The company has also made available a&nbsp; reference implementation &nbsp;for setting up a proxy server with ports 80, 443 or 5222 available and domain name that points to the server's IP address. &amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

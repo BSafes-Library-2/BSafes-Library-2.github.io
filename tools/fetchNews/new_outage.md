@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers claim to take down Russian satellite communications provider<a href="https://therecord.media/hackers-take-down-russian-satellite-provider?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of previously unknown hackers has claimed responsibility for a cyberattack on the Russian satellite communications provider Dozor-Teleport, which is used by energy companies and the country's defense and security services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

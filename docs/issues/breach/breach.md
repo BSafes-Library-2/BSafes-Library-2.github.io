@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than 16 million people and counting have had data exposed in MOVEit breaches<a href="https://therecord.media/data-of-sixteen-million-exposed-moveit?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since June 1, experts have warned of the vulnerability affecting the popular file transfer software, and dozens of the biggest organizations in the U.S. and Europe have since come forward to reveal that they were affected by the situation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: 1.1 Million NHS Patients' Data Also Breached in the University of Manchester Attack<a href="https://www.bankinfosecurity.com/trauma-terrorist-victim-data-breached-in-university-attack-a-22409?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised NHS data includes records of major trauma patients across England and individuals treated after terror attacks, which the university collected for research purposes, according to media outlet The Independent on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
