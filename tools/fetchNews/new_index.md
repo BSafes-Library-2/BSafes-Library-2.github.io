@@ -34,7 +34,189 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+July 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 426 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/148038/breaking-news/security-affairs-newsletter-round-426-by-pierluigi-paganini-international-edition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+WordPress...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress sites using the Ultimate Member plugin are under attack<a href="https://securityaffairs.com/148030/hacking/wordpress-ultimate-member-plugin-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting a critical WordPress zero-day in the Ultimate Member plugin to create secret admin accounts.
+Hackers are actively exploiting a critical unpatched WordPress Plugin flaw, tracked as CVE-2023-3460 (CVSS score: 9.8), to create...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+200,000 WordPress Sites Exposed to Attacks Exploiting Flaw in ‘Ultimate Member’ Plugin<a href="https://www.securityweek.com/200000-wordpress-sites-exposed-to-attacks-exploiting-flaw-in-ultimate-member-plugin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2023-3460 (CVSS score of 9.8), the recently identified security defect in Ultimate Member plugin allows attackers to add a new user account to the administrators group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Unpatched WordPress Plugin Flaw to Create Secret Admin Accounts<a href="https://thehackernews.com/2023/07/unpatched-wordpress-plugin-flaw-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 200,000 WordPress websites are at risk of ongoing attacks exploiting a critical unpatched security vulnerability in the Ultimate Member plugin. The flaw, tracked as CVE-2023-3460 (CVSS score: 9.8), impacts all versions of the Ultimate Member plugin, including the latest version (2.6.6) that was released on June 29, 2023. Ultimate Member is a  popular plugin  that facilitates the creation of user-profiles and communities on WordPress sites. It also provides account management features. "This is a very serious issue: unauthenticated attackers may exploit this vulnerability to create new user accounts with administrative privileges, giving them the power to take complete control of affected sites," WordPress security firm WPScan  said  in an alert. Although details about the flaw have been withheld due to active abuse, it stems from an inadequate blocklist logic put in place to alter the wp_capabilities user meta value of a new user to that of an administrator a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than 16 million people and counting have had data exposed in MOVEit breaches<a href="https://therecord.media/data-of-sixteen-million-exposed-moveit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Since June 1, experts have warned of the vulnerability affecting the popular file transfer software, and dozens of the biggest organizations in the U.S. and Europe have since come forward to reveal that they were affected by the situation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: New 'RustBucket' Malware Variant Targeting macOS Users<a href="https://thehackernews.com/2023/07/beware-new-rustbucket-malware-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have pulled back the curtain on an updated version of an Apple macOS malware called RustBucket that comes with improved capabilities to establish persistence and avoid detection by security software. "This variant of RustBucket, a malware family that targets macOS systems, adds persistence capabilities not previously observed," Elastic Security Labs researchers  said  in a report published this week, adding it's "leveraging a dynamic network infrastructure methodology for command-and-control." RustBucket is the work of a North Korean threat actor known as BlueNoroff, which is part of a larger intrusion set tracked under the name  Lazarus Group , an elite hacking unit supervised by the Reconnaissance General Bureau (RGB), the country's primary intelligence agency. The malware came to light in April 2023, when Jamf Threat Labs  described  it as an AppleScript-based backdoor capable of retrieving a second-stage payload from a remote server. Elas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: 1.1 Million NHS Patients' Data Also Breached in the University of Manchester Attack<a href="https://www.bankinfosecurity.com/trauma-terrorist-victim-data-breached-in-university-attack-a-22409?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised NHS data includes records of major trauma patients across England and individuals treated after terror attacks, which the university collected for research purposes, according to media outlet The Independent on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit gang demands a $70 million ransom to the semiconductor manufacturing giant TSMC<a href="https://securityaffairs.com/148022/cyber-crime/tsmc-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware gang claims to have hacked Taiwan Semiconductor Manufacturing Company (TSMC).
+The LockBit ransomware group this week claimed to have hacked the Taiwan Semiconductor Manufacturing Company (TSMC) and $70 million ransom.
+TSMC...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers claim to take down Russian satellite communications provider<a href="https://therecord.media/hackers-take-down-russian-satellite-provider?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of previously unknown hackers has claimed responsibility for a cyberattack on the Russian satellite communications provider Dozor-Teleport, which is used by energy companies and the country's defense and security services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast released a free decryptor for the Windows version of the Akira ransomware<a href="https://securityaffairs.com/148007/cyber-crime/akira-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast released a free decryptor for the Akira ransomware that can allow victims to recover their data without paying the ransom.
+Cybersecurity firm Avast released a free decryptor for the Akira ransomware that can allow victims to recover their data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertising Used as Entry Vector for BlackCat, Actors Also Leverage SpyBoy Terminator<a href="https://www.trendmicro.com/en_us/research/23/f/malvertising-used-as-entry-vector-for-blackcat-actors-also-lever.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infection chain started with a malicious ad for the WinSCP application displayed in search engine results. Users who clicked on the ad were redirected to a cloned download webpage where they unknowingly downloaded a malware-infected ISO file.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 30, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japan Threat Landscape Takes on Global Significance<a href="https://www.securityweek.com/rapid7-japan-threat-landscape-takes-on-global-significance/?&web_view=true"> Full Text</a>
@@ -50,7 +232,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Charming Kitten Utilize POWERSTAR Backdoor in Targeted Espionage Attacks<a href="https://thehackernews.com/2023/06/iranian-hackers-charming-kitten-utilize.html"> Full Text</a>
@@ -66,7 +248,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked Charming Kitten APT enhanced its POWERSTAR Backdoor<a href="https://securityaffairs.com/147995/apt/charming-kitten-powerstar-backdoor.html"> Full Text</a>
@@ -83,7 +265,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 Reasons SaaS Security is the Imperative First Step to Ensuring Secure AI Usage<a href="https://thehackernews.com/2023/06/3-reasons-saas-security-is-imperative.html"> Full Text</a>
@@ -99,7 +281,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 miniOrange’s WordPress Social Login and Register plugin was affected by a critical auth bypass bug<a href="https://securityaffairs.com/147981/hacking/wordpress-social-login-and-register-plugin-auth-bypass.html"> Full Text</a>
@@ -116,7 +298,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp Upgrades Proxy Feature Against Internet Shutdowns<a href="https://thehackernews.com/2023/06/whatsapp-upgrades-proxy-feature-against.html"> Full Text</a>
@@ -132,7 +314,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-linked Andariel APT used a new malware named EarlyRat last year<a href="https://securityaffairs.com/147976/apt/andariel-apt-earlyrat-malware.html"> Full Text</a>
@@ -149,7 +331,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Hijacking Vulnerable SSH Servers in New Proxyjacking Campaign<a href="https://thehackernews.com/2023/06/cybercriminals-hijacking-vulnerable-ssh.html"> Full Text</a>
@@ -165,7 +347,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 30, 2023
+June 30, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MITRE Unveils Top 25 Most Dangerous Software Weaknesses of 2023: Are You at Risk?<a href="https://thehackernews.com/2023/06/mitre-unveils-top-25-most-dangerous.html"> Full Text</a>
