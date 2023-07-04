@@ -34,6 +34,301 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GCHQ reveals British government was hacked by foreign cyber spies 20 years ago<a href="https://therecord.media/britain-gchq-2003-hack-espionage-revealed?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This month marks the 20th anniversary of the first time cyber experts at GCHQ responded to a foreign state hacking the British government, the intelligence and security agency revealed on Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Use HTML Smuggling to Infiltrate European Ministries with PlugX<a href="https://thehackernews.com/2023/07/chinese-hackers-use-html-smuggling-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese nation-state group has been observed targeting Foreign Affairs ministries and embassies in Europe using  HTML smuggling techniques  to deliver the PlugX remote access trojan on compromised systems. Cybersecurity firm Check Point said the activity, dubbed  SmugX , has been ongoing since at least December 2022. "The campaign uses new delivery methods to deploy (most notably – HTML Smuggling) a new variant of PlugX, an implant commonly associated with a wide variety of Chinese threat actors," Check Point  said . "Although the payload itself remains similar to the one found in older PlugX variants, its delivery methods result in low detection rates, which until recently helped the campaign fly under the radar." The exact identity of the threat actor behind the operation is a little hazy, although existing clues point in the direction of  Mustang Panda , which also shares overlaps with clusters tracked as Earth Preta, RedDelta, and Check Point's own d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous Sudan claims to have stolen 30 million Microsoft’s customer accounts<a href="https://securityaffairs.com/148119/hacktivism/anonymous-sudan-claims-stolen-microsoft-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft denied the data breach after the collective of hacktivists known as Anonymous Sudan claimed to have hacked the company.
+In early June, Microsoft suffered severe outages for some of its services, including Outlook email, OneDrive file-sharing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacks targeting British exam boards raise fears of students cheating<a href="https://therecord.media/exam-boards-uk-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Police in Britain are investigating multiple incidents in which national exam papers for school-leavers were stolen by hackers and sold online to students seeking to cheat on their tests.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Improve Your Security WordPress Spam Protection With CleanTalk Anti-Spam<a href="https://thehackernews.com/2023/07/improve-your-security-wordpress-spam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every website owner or webmaster grapples with the issue of spam on their website forms. The volume of spam can be so overwhelming that finding useful information within it becomes quite challenging. What exacerbates this issue is that spam can populate your public pages, appearing in comments and reviews. You likely understand how this can damage your website's reputation, affect search results, overload your web server, and divert your focus from website development. Website owners and webmasters need a solution to this problem. When selecting an anti-spam solution, the following requirements should be taken into account: The solution must operate automatically, eliminating the need for manual spam checks. It should provide a quick and efficient method of accuracy control. It must be universal, protecting all website forms simultaneously. It should be easy and straightforward to install and set up. It should not require any extra steps from your visitors, ensuring they do
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SmugX: Chinese APT uses HTML smuggling to target European Ministries and embassies<a href="https://securityaffairs.com/148091/apt/china-linked-apt-html-smuggling-europe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group was spotted using HTML smuggling in attacks aimed at Foreign Affairs ministries and embassies in Europe.
+A China-linked APT group was observed using HTML smuggling in attacks against Foreign Affairs ministries and embassies...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ireland: Dublin Airport staff pay data hit by criminals<a href="https://www.theregister.com/2023/07/03/dublin_airport_data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pay and benefits details of Dublin Airport staff were compromised in a cyberattack on professional service provider Aon, highlighting the vulnerability of supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Flags 8 Actively Exploited Flaws in Samsung and D-Link Devices<a href="https://thehackernews.com/2023/07/cisa-flags-8-actively-exploited-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has  placed  a set of eight flaws to the Known Exploited Vulnerabilities ( KEV ) catalog, based on evidence of active exploitation. This includes six shortcomings affecting Samsung smartphones and two vulnerabilities impacting D-Link devices. All the flaws have been patched as of 2021. CVE-2021-25394  (CVSS score: 6.4) - Samsung mobile devices race condition vulnerability CVE-2021-25395  (CVSS score: 6.4) - Samsung mobile devices race condition vulnerability CVE-2021-25371  (CVSS score: 6.7) - An unspecified vulnerability in the DSP driver used in Samsung mobile devices that allows loading of arbitrary ELF libraries CVE-2021-25372  (CVSS score: 6.7) - Samsung mobile devices improper boundary check within the DSP driver in Samsung mobile devices CVE-2021-25487  (CVSS score: 7.8) - Samsung mobile devices out-of-bounds read vulnerability leading to arbitrary code execution CVE-2021-25489  (CVSS score: 5.5) - Samsung
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Impacts of Data Loss on Your Organization<a href="https://securityaffairs.com/148086/security/impacts-of-data-loss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What are the causes of Data Loss and which are their impact on your organization?
+In today's digital age, data has become the lifeblood of organizations, driving critical decision-making, improving operational efficiency, and allowing for smoother...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GuLoader Campaign Targets Law Firms in the US<a href="https://blog.morphisec.com/guloader-campaign-targets-law-firms-in-the-us?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GuLoader malware campaign utilizes a multi-stage infection chain, including a PDF lure, a GuLoader VBScript, and obfuscated Powershell scripts, to deliver the Remcos RAT.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evasive Meduza Stealer Targets 19 Password Managers and 76 Crypto Wallets<a href="https://thehackernews.com/2023/07/evasive-meduza-stealer-targets-19.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In yet another sign of a lucrative crimeware-as-a-service ( CaaS ) ecosystem, cybersecurity researchers have discovered a new Windows-based information stealer called  Meduza Stealer  that's actively being developed by its author to evade detection by software solutions. "The Meduza Stealer has a singular objective: comprehensive data theft," Uptycs  said  in a new report. "It pilfers users' browsing activities, extracting a wide array of browser-related data." "From critical login credentials to the valuable record of browsing history and meticulously curated bookmarks, no digital artifact is safe. Even crypto wallet extensions, password managers, and 2FA extensions are vulnerable." Despite the similarity in features, Meduza boasts of a "crafty" operational design that eschews the use of obfuscation techniques and promptly terminates its execution on compromised hosts should a connection to the attacker's server fail. It's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Samsung and D-link bugs to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/148079/security/cisa-adds-samsung-and-d-link-bugs-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added actively exploited Samsung and D-Link vulnerabilities to its Known Exploited Vulnerabilities catalog.
+US Cybersecurity and Infrastructure Security Agency (CISA) added six Samsung and two D-Link vulnerabilities to its Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Torrent of image-based phishing emails are harder to detect and more convincing<a href="https://arstechnica.com/security/2023/06/torrent-of-image-based-phishing-emails-are-harder-to-detect-and-more-convincing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing mongers have released a torrent of image-based junk emails that embed QR codes into their bodies to successfully bypass security protections and provide a level of customization to more easily fool recipients, researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Operators Distributing Ransomware Disguised as WinSCP via Malvertising<a href="https://thehackernews.com/2023/07/blackcat-operators-distributing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors associated with the  BlackCat ransomware  have been observed employing malvertising tricks to distribute rogue installers of the WinSCP file transfer application. "Malicious actors used malvertising to distribute a piece of malware via cloned webpages of legitimate organizations," Trend Micro researchers  said  in an analysis published last week. "In this case, the distribution involved a webpage of the well-known application WinSCP, an open-source Windows application for file transfer." Malvertising   refers  to the use of  SEO poisoning techniques  to spread malware via online advertising. It typically involves hijacking a chosen set of keywords to display bogus ads on Bing and Google search results pages with the goal of redirecting unsuspecting users to sketchy pages. The idea is to trick users searching for applications like WinSCP into downloading malware, in this instance, a backdoor that contains a  Cobalt Strike Beacon  that connects to a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows Meduza Stealer targets tens of crypto wallets and password managers<a href="https://securityaffairs.com/148059/cyber-crime/meduza-stealer-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new Windows information stealer called Meduza Stealer, the authors employ sophisticated marketing strategies to promote it.
+The Meduza Stealer can steal browsing activities and extract a wide array of browser-related data, including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HHS Says At Least 100,000 People's Data Exposed After Hacks at Government Contractors<a href="https://edition.cnn.com/2023/06/29/politics/us-health-department-cyberattack/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While no HHS systems or networks were compromised, attackers gained access to HHS data by exploiting the vulnerability in the MOVEit software used by third-party vendors, the official said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts detected a new variant of North Korea-linked RUSTBUCKET macOS malware<a href="https://securityaffairs.com/148042/malware/rustbucket-macos-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new version of the RustBucket Apple macOS malware that supports enhanced capabilities.
+Researchers from the Elastic Security Labs have spotted a new variant of the RustBucket Apple macOS malware.
+In April, the security firm...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One third of security breaches go unnoticed by security professionals<a href="https://www.helpnetsecurity.com/2023/07/03/hybrid-cloud-security-breaches/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+94% of global respondents believe their hybrid cloud security offers full visibility into IT infrastructure, yet almost one-third of security breaches go undetected by IT pros, according to a Gigamon report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 2, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
