@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2023
+July 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GCHQ reveals British government was hacked by foreign cyber spies 20 years ago<a href="https://therecord.media/britain-gchq-2003-hack-espionage-revealed?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 03, 2023
+July 03, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Use HTML Smuggling to Infiltrate European Ministries with PlugX<a href="https://thehackernews.com/2023/07/chinese-hackers-use-html-smuggling-to.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2023
+July 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous Sudan claims to have stolen 30 million Microsoft’s customer accounts<a href="https://securityaffairs.com/148119/hacktivism/anonymous-sudan-claims-stolen-microsoft-data.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2023
+July 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacks targeting British exam boards raise fears of students cheating<a href="https://therecord.media/exam-boards-uk-data-breach?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 03, 2023
+July 03, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Improve Your Security WordPress Spam Protection With CleanTalk Anti-Spam<a href="https://thehackernews.com/2023/07/improve-your-security-wordpress-spam.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2023
+July 3, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SmugX: Chinese APT uses HTML smuggling to target European Ministries and embassies<a href="https://securityaffairs.com/148091/apt/china-linked-apt-html-smuggling-europe.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2023
+July 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ireland: Dublin Airport staff pay data hit by criminals<a href="https://www.theregister.com/2023/07/03/dublin_airport_data/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 03, 2023
+July 03, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Flags 8 Actively Exploited Flaws in Samsung and D-Link Devices<a href="https://thehackernews.com/2023/07/cisa-flags-8-actively-exploited-flaws.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2023
+July 3, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Impacts of Data Loss on Your Organization<a href="https://securityaffairs.com/148086/security/impacts-of-data-loss.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2023
+July 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GuLoader Campaign Targets Law Firms in the US<a href="https://blog.morphisec.com/guloader-campaign-targets-law-firms-in-the-us?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 03, 2023
+July 03, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evasive Meduza Stealer Targets 19 Password Managers and 76 Crypto Wallets<a href="https://thehackernews.com/2023/07/evasive-meduza-stealer-targets-19.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2023
+July 3, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Samsung and D-link bugs to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/148079/security/cisa-adds-samsung-and-d-link-bugs-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2023
+July 3, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Torrent of image-based phishing emails are harder to detect and more convincing<a href="https://arstechnica.com/security/2023/06/torrent-of-image-based-phishing-emails-are-harder-to-detect-and-more-convincing/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 03, 2023
+July 03, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat Operators Distributing Ransomware Disguised as WinSCP via Malvertising<a href="https://thehackernews.com/2023/07/blackcat-operators-distributing.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2023
+July 3, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Windows Meduza Stealer targets tens of crypto wallets and password managers<a href="https://securityaffairs.com/148059/cyber-crime/meduza-stealer-malware.html"> Full Text</a>
@@ -279,7 +279,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2023
+July 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HHS Says At Least 100,000 People's Data Exposed After Hacks at Government Contractors<a href="https://edition.cnn.com/2023/06/29/politics/us-health-department-cyberattack/index.html?&web_view=true"> Full Text</a>
@@ -295,7 +295,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2023
+July 3, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts detected a new variant of North Korea-linked RUSTBUCKET macOS malware<a href="https://securityaffairs.com/148042/malware/rustbucket-macos-malware.html"> Full Text</a>
@@ -313,7 +313,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2023
+July 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 One third of security breaches go unnoticed by security professionals<a href="https://www.helpnetsecurity.com/2023/07/03/hybrid-cloud-security-breaches/?&web_view=true"> Full Text</a>

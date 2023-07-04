@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Operators Distributing Ransomware Disguised as WinSCP via Malvertising<a href="https://thehackernews.com/2023/07/blackcat-operators-distributing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors associated with the&nbsp; BlackCat ransomware &nbsp;have been observed employing malvertising tricks to distribute rogue installers of the WinSCP file transfer application. "Malicious actors used malvertising to distribute a piece of malware via cloned webpages of legitimate organizations," Trend Micro researchers&nbsp; said &nbsp;in an analysis published last week. "In this case, the distribution involved a webpage of the well-known application WinSCP, an open-source Windows application for file transfer." Malvertising &nbsp; refers &nbsp;to the use of&nbsp; SEO poisoning techniques &nbsp;to spread malware via online advertising. It typically involves hijacking a chosen set of keywords to display bogus ads on Bing and Google search results pages with the goal of redirecting unsuspecting users to sketchy pages. The idea is to trick users searching for applications like WinSCP into downloading malware, in this instance, a backdoor that contains a&nbsp; Cobalt Strike Beacon &nbsp;that connects to a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900015
 
 ## Attack
 ---
+July 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress sites using the Ultimate Member plugin are under attack<a href="https://securityaffairs.com/148030/hacking/wordpress-ultimate-member-plugin-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting a critical WordPress zero-day in the Ultimate Member plugin to create secret admin accounts.
+Hackers are actively exploiting a critical unpatched WordPress Plugin flaw, tracked as CVE-2023-3460 (CVSS score: 9.8), to create...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

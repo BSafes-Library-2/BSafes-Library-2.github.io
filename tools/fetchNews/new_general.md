@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+One third of security breaches go unnoticed by security professionals<a href="https://www.helpnetsecurity.com/2023/07/03/hybrid-cloud-security-breaches/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+94% of global respondents believe their hybrid cloud security offers full visibility into IT infrastructure, yet almost one-third of security breaches go undetected by IT pros, according to a Gigamon report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

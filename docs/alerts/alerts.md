@@ -10,6 +10,27 @@ nav_order: 150
 June 29, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Eight Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2023/06/29/cisa-adds-eight-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+CVE-2019-17621 D-Link DIR-859 Router Command Execution Vulnerability
+CVE-2019-20500 D-Link DWL-2600AP Access Point Command Injection Vulnerability
+CVE-2021-25487 Samsung Mobile Devices Out-of-Bounds Read Vulnerability
+CVE-2021-25489 Samsung Mobile Devices Improper Input Validation Vulnerability
+CVE-2021-25394 Samsung Mobile Devices Race Condition Vulnerability
+CVE-2021-25395 Samsung Mobile Devices Race Condition Vulnerability
+CVE-2021-25371 Samsung Mobile Devices Unspecified Vulnerability
+CVE-2021-25372 Samsung Mobile Devices Improper Boundary Check Vulnerability
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 2023 CWE Top 25 Most Dangerous Software Weaknesses <a href="https://www.cisa.gov/news-events/alerts/2023/06/29/2023-cwe-top-25-most-dangerous-software-weaknesses"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+July 3, 2023 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous Sudan claims to have stolen 30 million Microsoft’s customer accounts<a href="https://securityaffairs.com/148119/hacktivism/anonymous-sudan-claims-stolen-microsoft-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft denied the data breach after the collective of hacktivists known as Anonymous Sudan claimed to have hacked the company.
+In early June, Microsoft suffered severe outages for some of its services, including Outlook email, OneDrive file-sharing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ireland: Dublin Airport staff pay data hit by criminals<a href="https://www.theregister.com/2023/07/03/dublin_airport_data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pay and benefits details of Dublin Airport staff were compromised in a cyberattack on professional service provider Aon, highlighting the vulnerability of supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HHS Says At Least 100,000 People's Data Exposed After Hacks at Government Contractors<a href="https://edition.cnn.com/2023/06/29/politics/us-health-department-cyberattack/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While no HHS systems or networks were compromised, attackers gained access to HHS data by exploiting the vulnerability in the MOVEit software used by third-party vendors, the official said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

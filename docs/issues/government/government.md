@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+July 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Flags 8 Actively Exploited Flaws in Samsung and D-Link Devices<a href="https://thehackernews.com/2023/07/cisa-flags-8-actively-exploited-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp; placed &nbsp;a set of eight flaws to the Known Exploited Vulnerabilities ( KEV ) catalog, based on evidence of active exploitation. This includes six shortcomings affecting Samsung smartphones and two vulnerabilities impacting D-Link devices. All the flaws have been patched as of 2021. CVE-2021-25394 &nbsp;(CVSS score: 6.4) - Samsung mobile devices race condition vulnerability CVE-2021-25395 &nbsp;(CVSS score: 6.4) - Samsung mobile devices race condition vulnerability CVE-2021-25371 &nbsp;(CVSS score: 6.7) - An unspecified vulnerability in the DSP driver used in Samsung mobile devices that allows loading of arbitrary ELF libraries CVE-2021-25372 &nbsp;(CVSS score: 6.7) - Samsung mobile devices improper boundary check within the DSP driver in Samsung mobile devices CVE-2021-25487 &nbsp;(CVSS score: 7.8) - Samsung mobile devices out-of-bounds read vulnerability leading to arbitrary code execution CVE-2021-25489 &nbsp;(CVSS score: 5.5) - Samsung
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Samsung and D-link bugs to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/148079/security/cisa-adds-samsung-and-d-link-bugs-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added actively exploited Samsung and D-Link vulnerabilities to its Known Exploited Vulnerabilities catalog.
+US Cybersecurity and Infrastructure Security Agency (CISA) added six Samsung and two D-Link vulnerabilities to its&nbsp;Known Exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

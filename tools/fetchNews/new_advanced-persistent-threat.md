@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SmugX: Chinese APT uses HTML smuggling to target European Ministries and embassies<a href="https://securityaffairs.com/148091/apt/china-linked-apt-html-smuggling-europe.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group was spotted using HTML smuggling in attacks aimed at Foreign Affairs ministries and embassies in Europe.
+A China-linked APT group was observed using HTML smuggling in attacks against Foreign Affairs ministries and embassies...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

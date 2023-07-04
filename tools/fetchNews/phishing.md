@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertising Used as Entry Vector for BlackCat, Actors Also Leverage SpyBoy Terminator<a href="https://www.trendmicro.com/en_us/research/23/f/malvertising-used-as-entry-vector-for-blackcat-actors-also-lever.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infection chain started with a malicious ad for the WinSCP application displayed in search engine results. Users who clicked on the ad were redirected to a cloned download webpage where they unknowingly downloaded a malware-infected ISO file.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

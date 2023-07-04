@@ -8,6 +8,21 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avast released a free decryptor for the Windows version of the Akira ransomware<a href="https://securityaffairs.com/148007/cyber-crime/akira-ransomware-decryptor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Avast released a free decryptor for the Akira ransomware that can allow victims to recover their data without paying the ransom.
+Cybersecurity firm Avast released a free decryptor for the Akira ransomware that can allow victims to recover their data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

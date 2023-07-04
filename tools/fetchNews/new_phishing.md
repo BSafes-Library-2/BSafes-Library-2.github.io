@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Torrent of image-based phishing emails are harder to detect and more convincing<a href="https://arstechnica.com/security/2023/06/torrent-of-image-based-phishing-emails-are-harder-to-detect-and-more-convincing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing mongers have released a torrent of image-based junk emails that embed QR codes into their bodies to successfully bypass security protections and provide a level of customization to more easily fool recipients, researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+200,000 WordPress Sites Exposed to Attacks Exploiting Flaw in ‘Ultimate Member’ Plugin<a href="https://www.securityweek.com/200000-wordpress-sites-exposed-to-attacks-exploiting-flaw-in-ultimate-member-plugin/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2023-3460 (CVSS score of 9.8), the recently identified security defect in Ultimate Member plugin allows attackers to add a new user account to the administrators group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting Unpatched WordPress Plugin Flaw to Create Secret Admin Accounts<a href="https://thehackernews.com/2023/07/unpatched-wordpress-plugin-flaw-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 200,000 WordPress websites are at risk of ongoing attacks exploiting a critical unpatched security vulnerability in the Ultimate Member plugin. The flaw, tracked as CVE-2023-3460 (CVSS score: 9.8), impacts all versions of the Ultimate Member plugin, including the latest version (2.6.6) that was released on June 29, 2023. Ultimate Member is a&nbsp; popular plugin &nbsp;that facilitates the creation of user-profiles and communities on WordPress sites. It also provides account management features. "This is a very serious issue: unauthenticated attackers may exploit this vulnerability to create new user accounts with administrative privileges, giving them the power to take complete control of affected sites," WordPress security firm WPScan&nbsp; said &nbsp;in an alert. Although details about the flaw have been withheld due to active abuse, it stems from an inadequate blocklist logic put in place to alter the wp_capabilities user meta value of a new user to that of an administrator a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
