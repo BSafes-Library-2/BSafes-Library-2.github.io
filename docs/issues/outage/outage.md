@@ -8,6 +8,21 @@ nav_order: 900140
 
 ## Outage
 ---
+July 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole millions of dollars worth of crypto assets from Poly Network platform<a href="https://securityaffairs.com/148129/cyber-crime/poly-network-platform-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poly Network platform suspended its services during the weekend due to a cyber attack that resulted in the theft of millions of dollars in crypto assets.
+Threat actors have stolen millions of dollars worth of crypto assets from the Poly Network platform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

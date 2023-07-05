@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+July 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GCHQ reveals British government was hacked by foreign cyber spies 20 years ago<a href="https://therecord.media/britain-gchq-2003-hack-espionage-revealed?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This month marks the 20th anniversary of the first time cyber experts at GCHQ responded to a foreign state hacking the British government, the intelligence and security agency revealed on Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacks targeting British exam boards raise fears of students cheating<a href="https://therecord.media/exam-boards-uk-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Police in Britain are investigating multiple incidents in which national exam papers for school-leavers were stolen by hackers and sold online to students seeking to cheat on their tests.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GuLoader Campaign Targets Law Firms in the US<a href="https://blog.morphisec.com/guloader-campaign-targets-law-firms-in-the-us?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GuLoader malware campaign utilizes a multi-stage infection chain, including a PDF lure, a GuLoader VBScript, and obfuscated Powershell scripts, to deliver the Remcos RAT.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

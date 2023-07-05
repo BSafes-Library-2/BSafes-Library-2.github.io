@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manufacturing companies hit by ransomware had their data encrypted: Report<a href="https://timesofindia.indiatimes.com/gadgets-news/manufacturing-companies-hit-by-ransomware-had-their-data-encrypted-report/articleshow/101490330.cms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+the percentage of manufacturing organizations that used back backups to recover data has increased, with 73% of the manufacturing organizations surveyed using backups this year versus 58% in the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Fileless Attacks Increase by 1,400%<a href="https://www.helpnetsecurity.com/2023/07/04/threat-actors-detection-evasion/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Protecting runtime environments requires at least a monitoring approach that includes scanning for known malicious files and network communications, then blocking them and alerting when they appear. However, this is still insufficient.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

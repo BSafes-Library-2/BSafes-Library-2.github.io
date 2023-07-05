@@ -8,6 +8,21 @@ nav_order: 900053
 
 ## Education
 ---
+July 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Impacts of Data Loss on Your Organization<a href="https://securityaffairs.com/148086/security/impacts-of-data-loss.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What are the causes of Data Loss and which are their impact on your organization?
+In today's digital age, data has become the lifeblood of organizations, driving critical decision-making, improving operational efficiency, and allowing for smoother...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

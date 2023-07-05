@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2023 - Swedish Authority for Privacy Protection
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four companies must stop using Google Analytics <a href="https://www.imy.se/en/news/four-companies-must-stop-using-google-analytics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Swedish Authority for Privacy Protection (IMY) has audited how four companies use Google Analytics for web statistics. IMY issues administrative fines against two of the companies. One of the companies has recently stopped using the statistics tool on its own initiative, while IMY orders the other three to also stop using it.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 29, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swedish Data Protection Authority Warns Companies Against Google Analytics Use<a href="https://thehackernews.com/2023/07/swedish-data-protection-authority-warns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Swedish data protection watchdog has warned companies against using Google Analytics due to risks posed by U.S. government surveillance, following similar moves by&nbsp; Austria, France , and&nbsp; Italy &nbsp;last year. The development comes in the aftermath of an audit initiated by the Swedish Authority for Privacy Protection (IMY) against four companies CDON, Coop, Dagens Industri, and Tele2. "In its audits, IMY considers that the data transferred to the U.S. via Google's statistics tool is personal data because the data can be linked with other unique data that is transferred," IMY&nbsp; said . "The authority also concludes that the technical security measures that the companies have taken are not sufficient to ensure a level of protection that essentially corresponds to that guaranteed within the EU/EEA." The data protection authority also fined $1.1 million for Swedish telecom service provider Tele2 and less than $30,000 for local online marketplace CDON failing to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

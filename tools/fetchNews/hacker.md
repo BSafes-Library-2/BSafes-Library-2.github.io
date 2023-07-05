@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Use HTML Smuggling to Infiltrate European Ministries with PlugX<a href="https://thehackernews.com/2023/07/chinese-hackers-use-html-smuggling-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese nation-state group has been observed targeting Foreign Affairs ministries and embassies in Europe using&nbsp; HTML smuggling techniques &nbsp;to deliver the PlugX remote access trojan on compromised systems. Cybersecurity firm Check Point said the activity, dubbed&nbsp; SmugX , has been ongoing since at least December 2022. "The campaign uses new delivery methods to deploy (most notably – HTML Smuggling) a new variant of PlugX, an implant commonly associated with a wide variety of Chinese threat actors," Check Point&nbsp; said . "Although the payload itself remains similar to the one found in older PlugX variants, its delivery methods result in low detection rates, which until recently helped the campaign fly under the radar." The exact identity of the threat actor behind the operation is a little hazy, although existing clues point in the direction of&nbsp; Mustang Panda , which also shares overlaps with clusters tracked as Earth Preta, RedDelta, and Check Point's own d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

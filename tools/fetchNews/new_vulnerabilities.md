@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: 330,000 FortiGate Firewalls Still Unpatched to CVE-2023-27997 RCE Flaw<a href="https://thehackernews.com/2023/07/alert-330000-fortigate-firewalls-still.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No less than 330,000 FortiGate firewalls are still unpatched and vulnerable to CVE-2023-27997, a critical security flaw affecting Fortinet devices that has come under active exploitation in the wild. Cybersecurity firm Bishop Fox, in a&nbsp; report &nbsp;published last week, said that out of nearly 490,000 Fortinet SSL-VPN interfaces exposed on the internet, about 69 percent remain unpatched. CVE-2023-27997 &nbsp;(CVSS score: 9.8), also called XORtigate, is a critical vulnerability impacting Fortinet FortiOS and FortiProxy SSL-VPN appliances that could allow a remote attacker to execute arbitrary code or commands via specifically crafted requests. Patches were released by Fortinet last month in versions 6.0.17, 6.2.15, 6.4.13, 7.0.12, and 7.2.5, although the company&nbsp; acknowledged &nbsp;that the flaw may have been "exploited in a limited number of cases" in attacks targeting government, manufacturing, and critical infrastructure sectors. Bishop Fox's analysis further found that 153,414
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+335,923 out of 489,337 Fortinet firewalls vulnerable to CVE-2023-27997<a href="https://securityaffairs.com/148110/hacking/fortinet-fortios-vulnerable-devices-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that there are 490,000 Fortinet firewalls exposing SSL VPN interfaces on the internet, and roughly 69% of them are still vulnerable to CVE-2023-27997.
+In Mid-June Fortinet addressed a&nbsp;critical flaw, tracked as CVE-2023-27997...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Law Firms Targeted in New GuLoader Campaign<a href="https://cyware.com/news/us-law-firms-targeted-in-new-guloader-campaign-840ce48f"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2023
+July 04, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swedish Data Protection Authority Warns Companies Against Google Analytics Use<a href="https://thehackernews.com/2023/07/swedish-data-protection-authority-warns.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MOVEit attack on Aon exposed data of the staff at the Dublin Airport<a href="https://securityaffairs.com/148152/data-breach/dublin-airport-data-breach.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Manufacturing companies hit by ransomware had their data encrypted: Report<a href="https://timesofindia.indiatimes.com/gadgets-news/manufacturing-companies-hit-by-ransomware-had-their-data-encrypted-report/articleshow/101490330.cms?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2023
+July 04, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoSia Attack Tool Evolves with Encryption, Targeting Multiple Sectors<a href="https://thehackernews.com/2023/07/ddosia-attack-tool-evolves-with.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Neo_Net runs eCrime campaign targeting clients of banks globally<a href="https://securityaffairs.com/148137/cyber-crime/neo_net-ecrime-campaign-targets-banks.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Malware Alert: EarlyRAT Linked to North Korean Hacking Group<a href="https://heimdalsecurity.com/blog/new-malware-alert-earlyrat-linked-to-north-korean-hacking-group/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2023
+July 04, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mexico-Based Hacker Targets Global Banks with Android Malware<a href="https://thehackernews.com/2023/07/mexico-based-hacker-targets-global.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers stole millions of dollars worth of crypto assets from Poly Network platform<a href="https://securityaffairs.com/148129/cyber-crime/poly-network-platform-hacked.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major Data Leaks on TikTok, Instagram, and Yahoo<a href="https://socradar.io/major-data-leaks-on-tiktok-instagram-and-yahoo/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2023
+July 04, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: 330,000 FortiGate Firewalls Still Unpatched to CVE-2023-27997 RCE Flaw<a href="https://thehackernews.com/2023/07/alert-330000-fortigate-firewalls-still.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 335,923 out of 489,337 Fortinet firewalls vulnerable to CVE-2023-27997<a href="https://securityaffairs.com/148110/hacking/fortinet-fortios-vulnerable-devices-online.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous Sudan Claims to Have Stolen 30 Million Microsoft’s Customer Accounts<a href="https://securityaffairs.com/148119/hacktivism/anonymous-sudan-claims-stolen-microsoft-data.html?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Fileless Attacks Increase by 1,400%<a href="https://www.helpnetsecurity.com/2023/07/04/threat-actors-detection-evasion/?&web_view=true"> Full Text</a>

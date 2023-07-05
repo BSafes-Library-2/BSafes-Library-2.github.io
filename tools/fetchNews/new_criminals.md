@@ -8,6 +8,49 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Neo_Net runs eCrime campaign targeting clients of banks globally<a href="https://securityaffairs.com/148137/cyber-crime/neo_net-ecrime-campaign-targets-banks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Mexican threat actor that goes online with the moniker Neo_Net is behind an Android malware campaign targeting banks worldwide.
+A joint study conducted by vx-underground and SentinelOne recently revealed that a Mexican threat actor that goes online...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mexico-Based Hacker Targets Global Banks with Android Malware<a href="https://thehackernews.com/2023/07/mexico-based-hacker-targets-global.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An e-crime actor of Mexican provenance has been linked to an Android mobile malware campaign targeting financial institutions globally, but with a specific focus on Spanish and Chilean banks, from June 2021 to April 2023. The activity is being attributed to an actor codenamed&nbsp; Neo_Net , according to security researcher Pol Thill. The findings were published by SentinelOne following a Malware Research Challenge in collaboration with vx-underground. "Despite using relatively unsophisticated tools, Neo_Net has achieved a high success rate by tailoring their infrastructure to specific targets, resulting in the theft of over 350,000 EUR from victims' bank accounts and compromising Personally Identifiable Information (PII) of thousands of victims," Thill&nbsp; said . Some of the major targets include banks such as Santander, BBVA, CaixaBank, Deutsche Bank, Crédit Agricole, and ING. Neo_Net, linked to a Spanish-speaking actor residing in Mexico, has established themselves as a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous Sudan Claims to Have Stolen 30 Million Microsoft’s Customer Accounts<a href="https://securityaffairs.com/148119/hacktivism/anonymous-sudan-claims-stolen-microsoft-data.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers said “We announce that we have successfully hacked Microsoft and have access to a large database containing more than 30 million Microsoft accounts, email and password. Price for full database : 50,000 USD.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
