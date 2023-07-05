@@ -34,6 +34,234 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Law Firms Targeted in New GuLoader Campaign<a href="https://cyware.com/news/us-law-firms-targeted-in-new-guloader-campaign-840ce48f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GuLoader is increasingly prevalent as a malware loader within phishing campaigns. Morphisec Labs uncovered a GuLoader campaign that has been targeting law firms (46.4%), alongside investment (17.9%) and healthcare (21.4%) firms, in the U.S. The campaign has been ongoing since April.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swedish Data Protection Authority Warns Companies Against Google Analytics Use<a href="https://thehackernews.com/2023/07/swedish-data-protection-authority-warns.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Swedish data protection watchdog has warned companies against using Google Analytics due to risks posed by U.S. government surveillance, following similar moves by  Austria, France , and  Italy  last year. The development comes in the aftermath of an audit initiated by the Swedish Authority for Privacy Protection (IMY) against four companies CDON, Coop, Dagens Industri, and Tele2. "In its audits, IMY considers that the data transferred to the U.S. via Google's statistics tool is personal data because the data can be linked with other unique data that is transferred," IMY  said . "The authority also concludes that the technical security measures that the companies have taken are not sufficient to ensure a level of protection that essentially corresponds to that guaranteed within the EU/EEA." The data protection authority also fined $1.1 million for Swedish telecom service provider Tele2 and less than $30,000 for local online marketplace CDON failing to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit attack on Aon exposed data of the staff at the Dublin Airport<a href="https://securityaffairs.com/148152/data-breach/dublin-airport-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal data of the personnel at the Dublin Airport was compromised due to a MOVEit attack on professional service provider Aon.
+Data of about 3000 employees of Dublin Airport (DDA) were compromised after professional service provider Aon fell victim...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manufacturing companies hit by ransomware had their data encrypted: Report<a href="https://timesofindia.indiatimes.com/gadgets-news/manufacturing-companies-hit-by-ransomware-had-their-data-encrypted-report/articleshow/101490330.cms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+the percentage of manufacturing organizations that used back backups to recover data has increased, with 73% of the manufacturing organizations surveyed using backups this year versus 58% in the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoSia Attack Tool Evolves with Encryption, Targeting Multiple Sectors<a href="https://thehackernews.com/2023/07/ddosia-attack-tool-evolves-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the  DDoSia  attack tool have come up with a new version that incorporates a new mechanism to retrieve the list of targets to be bombarded with junk HTTP requests in an attempt to bring them down. The updated variant, written in Golang, "implements an additional security mechanism to conceal the list of targets, which is transmitted from the [command-and-control] to the users," cybersecurity company Sekoia  said  in a technical write-up. DDoSia is attributed to a pro-Russian hacker group called  NoName(057)16 . Launched in 2022 and a successor of the  Bobik botnet , the attack tool is  designed  for staging distributed denial-of-service (DDoS) attacks against targets primarily located in Europe as well as Australia, Canada, and Japan. Lithuania, Ukraine, Poland, Italy, Czechia, Denmark, Latvia, France, the U.K., and Switzerland have emerged as the most targeted countries over a period ranging from May 8 to June 26, 2023. A total of 486 different w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Neo_Net runs eCrime campaign targeting clients of banks globally<a href="https://securityaffairs.com/148137/cyber-crime/neo_net-ecrime-campaign-targets-banks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Mexican threat actor that goes online with the moniker Neo_Net is behind an Android malware campaign targeting banks worldwide.
+A joint study conducted by vx-underground and SentinelOne recently revealed that a Mexican threat actor that goes online...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malware Alert: EarlyRAT Linked to North Korean Hacking Group<a href="https://heimdalsecurity.com/blog/new-malware-alert-earlyrat-linked-to-north-korean-hacking-group/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EarlyRAT is a straightforward program that immediately starts gathering system data and sending it via a POST request to the C2 server. The execution of commands on the infected system is EarlyRAT’s second main purpose.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mexico-Based Hacker Targets Global Banks with Android Malware<a href="https://thehackernews.com/2023/07/mexico-based-hacker-targets-global.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An e-crime actor of Mexican provenance has been linked to an Android mobile malware campaign targeting financial institutions globally, but with a specific focus on Spanish and Chilean banks, from June 2021 to April 2023. The activity is being attributed to an actor codenamed  Neo_Net , according to security researcher Pol Thill. The findings were published by SentinelOne following a Malware Research Challenge in collaboration with vx-underground. "Despite using relatively unsophisticated tools, Neo_Net has achieved a high success rate by tailoring their infrastructure to specific targets, resulting in the theft of over 350,000 EUR from victims' bank accounts and compromising Personally Identifiable Information (PII) of thousands of victims," Thill  said . Some of the major targets include banks such as Santander, BBVA, CaixaBank, Deutsche Bank, Crédit Agricole, and ING. Neo_Net, linked to a Spanish-speaking actor residing in Mexico, has established themselves as a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers stole millions of dollars worth of crypto assets from Poly Network platform<a href="https://securityaffairs.com/148129/cyber-crime/poly-network-platform-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poly Network platform suspended its services during the weekend due to a cyber attack that resulted in the theft of millions of dollars in crypto assets.
+Threat actors have stolen millions of dollars worth of crypto assets from the Poly Network platform...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Data Leaks on TikTok, Instagram, and Yahoo<a href="https://socradar.io/major-data-leaks-on-tiktok-instagram-and-yahoo/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A SOCRadar dark web analyst recently discovered an alleged database leak for Instagram. The leaked data reportedly contains over 17 million records in JSON format. The nature of the data suggests that it may have been collected from open source.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: 330,000 FortiGate Firewalls Still Unpatched to CVE-2023-27997 RCE Flaw<a href="https://thehackernews.com/2023/07/alert-330000-fortigate-firewalls-still.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+No less than 330,000 FortiGate firewalls are still unpatched and vulnerable to CVE-2023-27997, a critical security flaw affecting Fortinet devices that has come under active exploitation in the wild. Cybersecurity firm Bishop Fox, in a  report  published last week, said that out of nearly 490,000 Fortinet SSL-VPN interfaces exposed on the internet, about 69 percent remain unpatched. CVE-2023-27997  (CVSS score: 9.8), also called XORtigate, is a critical vulnerability impacting Fortinet FortiOS and FortiProxy SSL-VPN appliances that could allow a remote attacker to execute arbitrary code or commands via specifically crafted requests. Patches were released by Fortinet last month in versions 6.0.17, 6.2.15, 6.4.13, 7.0.12, and 7.2.5, although the company  acknowledged  that the flaw may have been "exploited in a limited number of cases" in attacks targeting government, manufacturing, and critical infrastructure sectors. Bishop Fox's analysis further found that 153,414
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+335,923 out of 489,337 Fortinet firewalls vulnerable to CVE-2023-27997<a href="https://securityaffairs.com/148110/hacking/fortinet-fortios-vulnerable-devices-online.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that there are 490,000 Fortinet firewalls exposing SSL VPN interfaces on the internet, and roughly 69% of them are still vulnerable to CVE-2023-27997.
+In Mid-June Fortinet addressed a critical flaw, tracked as CVE-2023-27997...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous Sudan Claims to Have Stolen 30 Million Microsoft’s Customer Accounts<a href="https://securityaffairs.com/148119/hacktivism/anonymous-sudan-claims-stolen-microsoft-data.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers said “We announce that we have successfully hacked Microsoft and have access to a large database containing more than 30 million Microsoft accounts, email and password. Price for full database : 50,000 USD.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Fileless Attacks Increase by 1,400%<a href="https://www.helpnetsecurity.com/2023/07/04/threat-actors-detection-evasion/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Protecting runtime environments requires at least a monitoring approach that includes scanning for known malicious files and network communications, then blocking them and alerting when they appear. However, this is still insufficient.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
