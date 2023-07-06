@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoSia Attack Tool Evolves with Encryption, Targeting Multiple Sectors<a href="https://thehackernews.com/2023/07/ddosia-attack-tool-evolves-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the&nbsp; DDoSia &nbsp;attack tool have come up with a new version that incorporates a new mechanism to retrieve the list of targets to be bombarded with junk HTTP requests in an attempt to bring them down. The updated variant, written in Golang, "implements an additional security mechanism to conceal the list of targets, which is transmitted from the [command-and-control] to the users," cybersecurity company Sekoia&nbsp; said &nbsp;in a technical write-up. DDoSia is attributed to a pro-Russian hacker group called&nbsp; NoName(057)16 . Launched in 2022 and a successor of the&nbsp; Bobik botnet , the attack tool is&nbsp; designed &nbsp;for staging distributed denial-of-service (DDoS) attacks against targets primarily located in Europe as well as Australia, Canada, and Japan. Lithuania, Ukraine, Poland, Italy, Czechia, Denmark, Latvia, France, the U.K., and Switzerland have emerged as the most targeted countries over a period ranging from May 8 to June 26, 2023. A total of 486 different w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

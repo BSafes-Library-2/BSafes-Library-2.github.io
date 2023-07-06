@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secrets, Secrets Are No Fun. Secrets, Secrets (Stored in Plain Text Files) Hurt Someone<a href="https://thehackernews.com/2023/07/secrets-secrets-are-no-fun-secrets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Secrets are meant to be hidden or, at the very least, only known to a specific and limited set of individuals (or systems). Otherwise, they aren't really secrets. In personal life, a secret revealed can damage relationships, lead to social stigma, or, at the very least, be embarrassing. In a developer's or application security engineer's professional life, the consequences of exposing secrets can lead to breaches of security, data leaks, and, well, also be embarrassing. And while there are tools available for detecting source code and code repositories, there are few options for identifying secrets in plain text, documents, emails, chat logs, content management systems, and more. What Are Secrets? In the context of applications, secrets are sensitive information such as passwords, API keys, cryptographic keys, and other confidential data that an application needs to function but should not be exposed to unauthorized users. Secrets are typically stored securely and access
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

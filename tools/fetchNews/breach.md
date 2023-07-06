@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+July 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit attack on Aon exposed data of the staff at the Dublin Airport<a href="https://securityaffairs.com/148152/data-breach/dublin-airport-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Personal data of the personnel at the Dublin Airport was compromised due to a MOVEit attack on professional service provider Aon.
+Data of about 3000 employees of Dublin Airport (DDA) were compromised after professional service provider Aon fell victim...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Data Leaks on TikTok, Instagram, and Yahoo<a href="https://socradar.io/major-data-leaks-on-tiktok-instagram-and-yahoo/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A SOCRadar dark web analyst recently discovered an alleged database leak for Instagram. The leaked data reportedly contains over 17 million records in JSON format. The nature of the data suggests that it may have been collected from open source.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2023 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Redefined: RedEnergy Stealer-as-a-Ransomware<a href="https://www.zscaler.com/blogs/security-research/ransomware-redefined-redenergy-stealer-ransomware-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RedEnergy stealer uses a fake update campaign to target multiple industry verticals and possesses the ability to steal information from various browsers while also incorporating different modules for carrying out ransomware activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedEnergy Stealer-as-a-Ransomware Threat Targeting Energy and Telecom Sectors<a href="https://thehackernews.com/2023/07/redenergy-stealer-as-ransomware-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated stealer-as-a-ransomware threat dubbed&nbsp; RedEnergy &nbsp;has been spotted in the wild targeting energy utilities, oil, gas, telecom, and machinery sectors in Brazil and the Philippines through their LinkedIn pages. The malware "possesses the ability to steal information from various browsers, enabling the exfiltration of sensitive data, while also incorporating different modules for carrying out ransomware activities," Zscaler researchers Shatak Jain and Gurkirat Singh&nbsp; said &nbsp;in a recent analysis. The goal, the researchers noted, is to couple data theft with encryption with the goal of inflicting maximum damage to the victims. The starting point for the multi-stage attack is a&nbsp; FakeUpdates &nbsp;(aka SocGholish) campaign that tricks users into downloading JavaScript-based malware under the guise of web browser updates. What makes it novel is the use of reputable LinkedIn pages to target victims, redirecting users clicking on the website URLs to a bogus landing page
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Criminals Are Dumping Kids’ Private Files Online After School Hacks<a href="https://www.securityweek.com/ransomware-criminals-are-dumping-kids-private-files-online-after-school-hacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Complete sexual assault case folios containing these details were among more than 300,000 files dumped online in March after the 36,000-student Minneapolis Public Schools refused to pay a $1 million ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teen among suspects arrested in Android banking malware scheme<a href="https://www.hackread.com/teen-arrest-android-malware-scheme/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Preliminary findings suggest that seven men, two women aged 19 to 27, and a 16-year-old facilitated the scam by providing their bank accounts, Internet banking credentials, and Singpass credentials to perpetrators for monetary gain.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

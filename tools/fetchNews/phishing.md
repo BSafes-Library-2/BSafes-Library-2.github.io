@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Law Firms Targeted in New GuLoader Campaign<a href="https://cyware.com/news/us-law-firms-targeted-in-new-guloader-campaign-840ce48f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GuLoader is increasingly prevalent as a malware loader within phishing campaigns. Morphisec Labs uncovered a GuLoader campaign that has been targeting law firms (46.4%), alongside investment (17.9%) and healthcare (21.4%) firms, in the U.S. The campaign has been ongoing since April.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
