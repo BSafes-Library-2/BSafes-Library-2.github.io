@@ -34,7 +34,251 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Redefined: RedEnergy Stealer-as-a-Ransomware<a href="https://www.zscaler.com/blogs/security-research/ransomware-redefined-redenergy-stealer-ransomware-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RedEnergy stealer uses a fake update campaign to target multiple industry verticals and possesses the ability to steal information from various browsers while also incorporating different modules for carrying out ransomware activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedEnergy Stealer-as-a-Ransomware Threat Targeting Energy and Telecom Sectors<a href="https://thehackernews.com/2023/07/redenergy-stealer-as-ransomware-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated stealer-as-a-ransomware threat dubbed  RedEnergy  has been spotted in the wild targeting energy utilities, oil, gas, telecom, and machinery sectors in Brazil and the Philippines through their LinkedIn pages. The malware "possesses the ability to steal information from various browsers, enabling the exfiltration of sensitive data, while also incorporating different modules for carrying out ransomware activities," Zscaler researchers Shatak Jain and Gurkirat Singh  said  in a recent analysis. The goal, the researchers noted, is to couple data theft with encryption with the goal of inflicting maximum damage to the victims. The starting point for the multi-stage attack is a  FakeUpdates  (aka SocGholish) campaign that tricks users into downloading JavaScript-based malware under the guise of web browser updates. What makes it novel is the use of reputable LinkedIn pages to target victims, redirecting users clicking on the website URLs to a bogus landing page
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedEnergy Stealer-as-a-Ransomware employed in attacks in the wild<a href="https://securityaffairs.com/148193/malware/redenergy-stealer-as-a-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RedEnergy is a sophisticated stealer-as-a-ransomware that was employed in attacks targeting energy utilities, oil, gas, telecom, and machinery sectors.
+Zscaler ThreatLabz researchers discovered a new Stealer-as-a-Ransomware named RedEnergy used in attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Entities Targeted in SmugX Campaign<a href="https://cyware.com/news/european-entities-targeted-in-smugx-campaign-90f0835b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point spotted a new campaign by a Chinese threat actor targeting diplomatic entities in Europe. Dubbed SmugX, the campaign uses HTML smuggling to deploy a new variant of PlugX RAT. The campaign reportedly overlaps with the activity of RedDelta and Mustang Panda. Organizations are advised to u ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secrets, Secrets Are No Fun. Secrets, Secrets (Stored in Plain Text Files) Hurt Someone<a href="https://thehackernews.com/2023/07/secrets-secrets-are-no-fun-secrets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Secrets are meant to be hidden or, at the very least, only known to a specific and limited set of individuals (or systems). Otherwise, they aren't really secrets. In personal life, a secret revealed can damage relationships, lead to social stigma, or, at the very least, be embarrassing. In a developer's or application security engineer's professional life, the consequences of exposing secrets can lead to breaches of security, data leaks, and, well, also be embarrassing. And while there are tools available for detecting source code and code repositories, there are few options for identifying secrets in plain text, documents, emails, chat logs, content management systems, and more. What Are Secrets? In the context of applications, secrets are sensitive information such as passwords, API keys, cryptographic keys, and other confidential data that an application needs to function but should not be exposed to unauthorized users. Secrets are typically stored securely and access
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Port of Nagoya, the largest Japanese port, suffered a ransomware attack<a href="https://securityaffairs.com/148184/cyber-crime/port-of-nagoya-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Port of Nagoya, the largest port in Japan, suffered a ransomware attack that severely impacted its operations.
+The Port of Nagoya, in the Ise Bay, is the largest and busiest trading port in Japan, accounting for about 10% of the total trade value...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Criminals Are Dumping Kids’ Private Files Online After School Hacks<a href="https://www.securityweek.com/ransomware-criminals-are-dumping-kids-private-files-online-after-school-hacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Complete sexual assault case folios containing these details were among more than 300,000 files dumped online in March after the 36,000-student Minneapolis Public Schools refused to pay a $1 million ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Node.js Users Beware: Manifest Confusion Attack Opens Door to Malware<a href="https://thehackernews.com/2023/07/nodejs-users-beware-manifest-confusion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The npm registry for the Node.js JavaScript runtime environment is susceptible to what's called a  manifest confusion  attack that could potentially allow threat actors to conceal malware in project dependencies or perform arbitrary script execution during installation. "A npm package's manifest is published independently from its tarball," Darcy Clarke, a former GitHub and npm engineering manager,  said  in a technical write-up published last week. "Manifests are never fully validated against the tarball's contents." "The ecosystem has broadly assumed the contents of the manifest and tarball are consistent," Clarke added. The problem, at its core, stems from the fact that the manifest and package metadata are decoupled and that they are never cross-referenced against one another, thereby leading to unexpected behavior and misuse when there is a mismatch. As a result, a threat actor could exploit this loophole to publish a module with a ma
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NoName(057)16’s DDoSia Project’s gets an upgrade<a href="https://securityaffairs.com/148167/hacking/ddosia-attack-tool-upgrade.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DDoSia attack tool received an upgrade, it supports a new security mechanism to conceal the list of targets.
+Researchers at the cybersecurity firm Sekoia analyzed an updated variant of the DDoSia attack tool that was developed and used by the pro-Russia...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poly Network Loses Millions of Dollars in Crypto Assets<a href="https://securityaffairs.com/148129/cyber-crime/poly-network-platform-hacked.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The services of the company were suspended early Sunday and during the afternoon the company shared a Google spreadsheet showing crypto assets that have been stolen by the attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram's Twitter Alternative 'Threads' Launch Halted in Europe Over Privacy Concerns<a href="https://thehackernews.com/2023/07/instagrams-twitter-alternative-threads.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instagram Threads, the upcoming Twitter competitor from Meta, will not be launched in the European Union due to privacy concerns, according to Ireland's Data Protection Commission (DPC). The development was  reported  by the Irish Independent, which said the watchdog has been in contact with the social media giant about the new product and confirmed the release won't extend to the E.U. "at this point." Threads  is Meta's answer to Twitter that's set for launch on July 6, 2023. It's billed as a "text-based conversation app" that allows Instagram users to "discuss everything from the topics you care about today to what'll be trending tomorrow." It also enables users to follow the same accounts they already follow on Instagram. A listing for the app has already appeared in the  Apple App Store  and  Google Play Store , although it's yet to be available for download. The " App Privacy " section on the App Store indic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swedish data protection authority rules against the use of Google Analytics<a href="https://securityaffairs.com/148157/laws-and-regulations/swedish-data-protection-authority-google-analytics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish data protection watchdog warns companies against using Google Analytics due to the risk of surveillance operated by the US government.
+The Swedish data protection watchdog warned businesses against using Google Analytics due to the risk of surveillance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teen among suspects arrested in Android banking malware scheme<a href="https://www.hackread.com/teen-arrest-android-malware-scheme/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Preliminary findings suggest that seven men, two women aged 19 to 27, and a 16-year-old facilitated the scam by providing their bank accounts, Internet banking credentials, and Singpass credentials to perpetrators for monetary gain.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+75% of consumers prepared to ditch brands hit by ransomware<a href="https://www.helpnetsecurity.com/2023/07/05/consumers-data-protection-request/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+81% of consumers report feeling “very scared or worried” about their data being held by organizations lacking robust resilience against ransomware. After an attack, one in three consumers demands evidence of resilient backup and recovery strategies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghostscript Bug Could Allow Rogue Documents to Run System Commands<a href="https://nakedsecurity.sophos.com/2023/07/04/ghostscript-bug-could-allow-rogue-documents-to-run-system-commands/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ghostscript reads in PostScript program code, which describes how to construct the pages in a document, and converts it, or renders it, into a format more suitable for displaying or printing, such as raw pixel data or a PNG graphics file.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Law Firms Targeted in New GuLoader Campaign<a href="https://cyware.com/news/us-law-firms-targeted-in-new-guloader-campaign-840ce48f"> Full Text</a>
@@ -50,7 +294,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2023
+July 04, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swedish Data Protection Authority Warns Companies Against Google Analytics Use<a href="https://thehackernews.com/2023/07/swedish-data-protection-authority-warns.html"> Full Text</a>
@@ -66,7 +310,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MOVEit attack on Aon exposed data of the staff at the Dublin Airport<a href="https://securityaffairs.com/148152/data-breach/dublin-airport-data-breach.html"> Full Text</a>
@@ -83,7 +327,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Manufacturing companies hit by ransomware had their data encrypted: Report<a href="https://timesofindia.indiatimes.com/gadgets-news/manufacturing-companies-hit-by-ransomware-had-their-data-encrypted-report/articleshow/101490330.cms?&web_view=true"> Full Text</a>
@@ -99,7 +343,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2023
+July 04, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoSia Attack Tool Evolves with Encryption, Targeting Multiple Sectors<a href="https://thehackernews.com/2023/07/ddosia-attack-tool-evolves-with.html"> Full Text</a>
@@ -115,7 +359,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Neo_Net runs eCrime campaign targeting clients of banks globally<a href="https://securityaffairs.com/148137/cyber-crime/neo_net-ecrime-campaign-targets-banks.html"> Full Text</a>
@@ -132,7 +376,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Malware Alert: EarlyRAT Linked to North Korean Hacking Group<a href="https://heimdalsecurity.com/blog/new-malware-alert-earlyrat-linked-to-north-korean-hacking-group/?&web_view=true"> Full Text</a>
@@ -148,7 +392,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2023
+July 04, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mexico-Based Hacker Targets Global Banks with Android Malware<a href="https://thehackernews.com/2023/07/mexico-based-hacker-targets-global.html"> Full Text</a>
@@ -164,7 +408,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers stole millions of dollars worth of crypto assets from Poly Network platform<a href="https://securityaffairs.com/148129/cyber-crime/poly-network-platform-hacked.html"> Full Text</a>
@@ -181,7 +425,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major Data Leaks on TikTok, Instagram, and Yahoo<a href="https://socradar.io/major-data-leaks-on-tiktok-instagram-and-yahoo/?&web_view=true"> Full Text</a>
@@ -197,7 +441,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 04, 2023
+July 04, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: 330,000 FortiGate Firewalls Still Unpatched to CVE-2023-27997 RCE Flaw<a href="https://thehackernews.com/2023/07/alert-330000-fortigate-firewalls-still.html"> Full Text</a>
@@ -213,7 +457,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 335,923 out of 489,337 Fortinet firewalls vulnerable to CVE-2023-27997<a href="https://securityaffairs.com/148110/hacking/fortinet-fortios-vulnerable-devices-online.html"> Full Text</a>
@@ -230,7 +474,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous Sudan Claims to Have Stolen 30 Million Microsoft’s Customer Accounts<a href="https://securityaffairs.com/148119/hacktivism/anonymous-sudan-claims-stolen-microsoft-data.html?&web_view=true"> Full Text</a>
@@ -246,7 +490,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2023
+July 4, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Fileless Attacks Increase by 1,400%<a href="https://www.helpnetsecurity.com/2023/07/04/threat-actors-detection-evasion/?&web_view=true"> Full Text</a>
