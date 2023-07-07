@@ -34,6 +34,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamsPhisher Tool Exploits Microsoft Teams to Deploy Malware<a href="https://cyware.com/news/teamsphisher-tool-exploits-microsoft-teams-to-deploy-malware-325a6034"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new tool available on GitHub can enable attackers to misuse a recently disclosed vulnerability in Microsoft Teams and automatically deliver malicious files to users' systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers' Sophisticated Malware Targets Windows and macOS Users<a href="https://thehackernews.com/2023/07/iranian-hackers-sophisticated-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian nation-state actor known as TA453 has been linked to a new set of spear-phishing attacks that infect both Windows and macOS operating systems with malware. "TA453 eventually used a variety of cloud hosting providers to deliver a novel infection chain that deploys the newly identified PowerShell backdoor GorjolEcho," Proofpoint  said  in a new report. "When given the opportunity, TA453 ported its malware and attempted to launch an Apple flavored infection chain dubbed NokNok. TA453 also employed  multi-persona impersonation  in its unending espionage quest." TA453, also known by the names APT35, Charming Kitten, Mint Sandstorm, and Yellow Garuda, is a threat group linked to Iran's Islamic Revolutionary Guard Corps (IRGC) that has been active since at least 2011. Most recently, Volexity highlighted the adversary's use of an updated version of a Powershell implant called  CharmPower  (aka GhostEcho or POWERSTAR). In the attack sequence discove
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco warns of a flaw in Nexus 9000 series switches that allows modifying encrypted traffic<a href="https://securityaffairs.com/148235/security/cisco-nexus-9000-series-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco warns of a high-severity vulnerability in Nexus 9000 series switches that can allow attackers to read or modify encrypted traffic.
+Cisco disclosed a high-severity vulnerability, tracked as CVE-2023-20185 (CVSS Score 7.4), in the Cisco ACI Multi-Site...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedEnergy: New Stealer-as-a-Ransomware Out in the Wild<a href="https://cyware.com/news/redenergy-new-stealer-as-a-ransomware-out-in-the-wild-6ab8cc7c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent detection of RedEnergy stealer-as-a-ransomware represents an advanced threat that combines stealthy data theft and encryption techniques to cause significant damage and seize control over its targets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surviving the 800 Gbps Storm: Gain Insights from Gcore's 2023 DDoS Attack Statistics<a href="https://thehackernews.com/2023/07/surviving-800-gbps-storm-gain-insights.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gcore Radar is a quarterly report prepared by Gcore that provides insights into the current state of the DDoS protection market and cybersecurity trends. This report offers you an understanding of the evolving threat landscape and highlights the measures required to protect against attacks effectively. It serves as an insight for businesses and individuals seeking to stay informed about the latest developments in cybersecurity. As we entered 2023, the cybersecurity landscape witnessed an increase in sophisticated, high-volume attacks. Here, we present the current state of the DDoS protection market based on Gcore's statistics. Key Highlights from Q1–Q2  The maximum attack power rose from 600 to 800 Gbps. UDP flood attacks were most common and amounted to 52% of total attacks, while SYN flood accounted for 24%. In third place was TCP flood. The most-attacked business sectors are gaming, telecom, and financial. The longest attack duration in the year's first half was seve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StackRot, a new Linux Kernel privilege escalation vulnerability<a href="https://securityaffairs.com/148231/security/stackrot-linux-kernel-privilege-escalation-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+StackRot is s new security vulnerability in the Linux kernel that could be exploited to gain elevated privileges on a target system.
+A security vulnerability, dubbed StackRot was found impacting Linux versions 6.1 through 6.4. The issue, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+28,000 Employees Impacted by Data Breach at Pepsi Bottling Ventures<a href="https://www.securityweek.com/28000-impacted-by-data-breach-at-pepsi-bottling-ventures/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discovered on January 10, the data breach occurred between December 23, 2022, and January 19, 2023, and resulted in the personal, financial, and health information of the company’s employees being accessed by an unauthorized party.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Linux Kernel 'StackRot' Privilege Escalation Vulnerability<a href="https://thehackernews.com/2023/07/researchers-uncover-new-linux-kernel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a newly identified security flaw in the Linux kernel that could allow a user to gain elevated privileges on a target host. Dubbed  StackRot  ( CVE-2023-3269 , CVSS score: 7.8), the flaw impacts Linux versions 6.1 through 6.4. There is no evidence that the shortcoming has been exploited in the wild to date. "As StackRot is a Linux kernel vulnerability found in the memory management subsystem, it affects almost all kernel configurations and requires minimal capabilities to trigger," Peking University security researcher Ruihan Li  said . "However, it should be noted that maple nodes are freed using RCU callbacks, delaying the actual memory deallocation until after the RCU grace period. Consequently, exploiting this vulnerability is considered challenging." Following  responsible disclosure  on June 15, 2023, it has been  addressed  in stable versions 6.1.37, 6.3.11, and 6.4.1 as of July 1, 2023, after a two-week effort led by Linus Tor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware accounts for 54% of cyber threats in the health sector<a href="https://securityaffairs.com/148207/reports/enisa-threat-landscape-report-health-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union Agency for Cybersecurity (ENISA) releases its first cyber threat landscape report for the health sector.
+The European Union Agency for Cybersecurity (ENISA) releases today its first cyber threat landscape report for the health...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crysis Threat Actors Use RDP Connections to Distribute Venus Ransomware<a href="https://cyware.com/news/crysis-threat-actors-use-rdp-connections-to-distribute-venus-ransomware-bddeda1e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ASEC recently discovered that Crysis ransomware attackers were scanning the internet, via brute force or dictionary attacks, for vulnerable RDP endpoints to install Venus ransomware on systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Pen Testing can Soften the Blow on Rising Costs of Cyber Insurance<a href="https://thehackernews.com/2023/07/how-pen-testing-can-soften-blow-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As technology advances and organizations become more reliant on data, the risks associated with data breaches and cyber-attacks also increase. The introduction of data privacy laws, such as the GDPR, has made it mandatory for organizations to disclose breaches of personal data to those affected. As such, it has become essential for businesses to protect themselves from the financial and reputational costs of cyber incidents. One solution to help organizations protect themselves is cyber insurance, despite the rising costs of cyber insurance, where the average  price in the U.S. rose 79%  in the second quarter of 2022. Also, with strict eligibility requirements that have emerged in response to risk and sharp spikes in successful breaches during and post-COVID-19, cyber insurance remains essential for organizations to protect sensitive customer information and their own data from falling into the wrong hands. While cyber insurance is not a one-size-fits-all solution and may not cover
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-29303 flaw in SolarView product can be exploited in attacks against the energy sector<a href="https://securityaffairs.com/148216/hacking/solarview-flaws-energy-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in SolarView product can be exploited in attacks targeting organizations in the energy sector.
+Researchers from the cybersecurity firm VulnCheck reported that the vulnerability CVE-2022-29303 in the solar power monitoring Contec SolarView...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Node4 acquires ThreeTwoFour to strengthen its security capabilities<a href="https://www.helpnetsecurity.com/2023/07/04/node4-threetwofour/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition is Node4’s third significant growth purchase in the last 18 months, having also bought risual, an IT managed services and solutions provider and Tisski, a leading UK-based independent Microsoft Business applications partner.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silentbob Campaign: Cloud-Native Environments Under Attack<a href="https://thehackernews.com/2023/07/silentbob-campaign-cloud-native.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unearthed an attack infrastructure that's being used as part of a "potentially massive campaign" against cloud-native environments. "This infrastructure is in early stages of testing and deployment, and is mainly consistent of an aggressive cloud worm, designed to deploy on exposed JupyterLab and Docker APIs in order to deploy  Tsunami malware , cloud credentials hijack, resource hijack, and further infestation of the worm," cloud security firm Aqua  said . The activity, dubbed  Silentbob  in reference to an AnonDNS domain set up by the attacker, is said to be linked to the infamous cryptojacking group tracked as  TeamTNT , citing overlaps in tactics, techniques, and procedures (TTPs). However, the involvement of an "advanced copycat" hasn't been ruled out. Aqua's investigation was prompted in the aftermath of an attack targeting its honeypot in early June 2023, leading to the discovery of four malicious cont
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Small organizations face security threats on a limited budget<a href="https://www.helpnetsecurity.com/2023/07/05/small-organizations-security-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Small organizations face the same security threats as organizations overall but have fewer resources to address them, according to Netwrix. The most common security incidents are phishing, ransomware, and user account compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 06, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INTERPOL Nabs Hacking Crew OPERA1ER's Leader Behind $11 Million Cybercrime<a href="https://thehackernews.com/2023/07/interpol-nabs-hacking-crew-opera1ers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected senior member of a French-speaking hacking crew known as OPERA1ER has been arrested as part of an international law enforcement operation codenamed Nervone, Interpol has announced. "The group is believed to have stolen an estimated USD 11 million -- potentially as much as 30 million -- in more than 30 attacks across 15 countries in Africa, Asia, and Latin America," the agency  said . The arrest was made by authorities in Côte d'Ivoire early last month. Additional insight was provided by the U.S. Secret Service's Criminal Investigative Division and Booz Allen Hamilton DarkLabs. The financially motivated collective is also known by the aliases Common Raven, DESKTOP-GROUP, and NX$M$. Its modus operandi was  first exposed  by Group-IB and Orange CERT Coordination Center (Orange-CERT-CC) in November 2022, detailing its intrusions on banks, financial services, and telecom companies between March 2018 and October 2022. Earlier this January, Broadcom's S
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large Indian Tech Retailer Exposes Employee and Customer Data<a href="https://securitydiscovery.com/indias-largest-tech-retailer-suffered-data-breach-with-employee-and-customer-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tech retailer Poorvika had a non-password-protected data breach exposing sensitive employee and customer data. The breach included a vast number of records, including personal information, email addresses, tax invoices, and payment receipts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 5, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

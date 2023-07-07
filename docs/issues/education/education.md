@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Pen Testing can Soften the Blow on Rising Costs of Cyber Insurance<a href="https://thehackernews.com/2023/07/how-pen-testing-can-soften-blow-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As technology advances and organizations become more reliant on data, the risks associated with data breaches and cyber-attacks also increase. The introduction of data privacy laws, such as the GDPR, has made it mandatory for organizations to disclose breaches of personal data to those affected. As such, it has become essential for businesses to protect themselves from the financial and reputational costs of cyber incidents. One solution to help organizations protect themselves is cyber insurance, despite the rising costs of cyber insurance, where the average&nbsp; price in the U.S. rose 79% &nbsp;in the second quarter of 2022. Also, with strict eligibility requirements that have emerged in response to risk and sharp spikes in successful breaches during and post-COVID-19, cyber insurance remains essential for organizations to protect sensitive customer information and their own data from falling into the wrong hands. While cyber insurance is not a one-size-fits-all solution and may not cover
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

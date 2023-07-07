@@ -8,6 +8,65 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco warns of a flaw in Nexus 9000 series switches that allows modifying encrypted traffic<a href="https://securityaffairs.com/148235/security/cisco-nexus-9000-series-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco warns of a high-severity vulnerability in Nexus 9000 series switches that can allow attackers to read or modify encrypted traffic.
+Cisco disclosed a high-severity vulnerability, tracked as CVE-2023-20185 (CVSS Score 7.4), in the Cisco ACI Multi-Site...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StackRot, a new Linux Kernel privilege escalation vulnerability<a href="https://securityaffairs.com/148231/security/stackrot-linux-kernel-privilege-escalation-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+StackRot&nbsp;is s new security vulnerability in the Linux kernel that could be exploited to gain elevated privileges on a target system.
+A security vulnerability, dubbed StackRot&nbsp;was found impacting Linux versions 6.1 through 6.4. The issue, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Linux Kernel 'StackRot' Privilege Escalation Vulnerability<a href="https://thehackernews.com/2023/07/researchers-uncover-new-linux-kernel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a newly identified security flaw in the Linux kernel that could allow a user to gain elevated privileges on a target host. Dubbed&nbsp; StackRot &nbsp;( CVE-2023-3269 , CVSS score: 7.8), the flaw impacts Linux versions 6.1 through 6.4. There is no evidence that the shortcoming has been exploited in the wild to date. "As StackRot is a Linux kernel vulnerability found in the memory management subsystem, it affects almost all kernel configurations and requires minimal capabilities to trigger," Peking University security researcher Ruihan Li&nbsp; said . "However, it should be noted that maple nodes are freed using RCU callbacks, delaying the actual memory deallocation until after the RCU grace period. Consequently, exploiting this vulnerability is considered challenging." Following&nbsp; responsible disclosure &nbsp;on June 15, 2023, it has been&nbsp; addressed &nbsp;in stable versions 6.1.37, 6.3.11, and 6.4.1 as of July 1, 2023, after a two-week effort led by Linus Tor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2022-29303 flaw in SolarView product can be exploited in attacks against the energy sector<a href="https://securityaffairs.com/148216/hacking/solarview-flaws-energy-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in SolarView product can be exploited in attacks targeting organizations in the energy sector.
+Researchers from the cybersecurity firm VulnCheck reported that the vulnerability CVE-2022-29303 in the solar power monitoring Contec SolarView...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

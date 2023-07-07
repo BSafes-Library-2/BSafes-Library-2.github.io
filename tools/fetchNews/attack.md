@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+July 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Entities Targeted in SmugX Campaign<a href="https://cyware.com/news/european-entities-targeted-in-smugx-campaign-90f0835b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point spotted a new campaign by a Chinese threat actor targeting diplomatic entities in Europe. Dubbed SmugX, the campaign uses HTML smuggling to deploy a new variant of PlugX RAT. The campaign reportedly overlaps with the activity of RedDelta and Mustang Panda. Organizations are advised to u ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Port of Nagoya, the largest Japanese port, suffered a ransomware attack<a href="https://securityaffairs.com/148184/cyber-crime/port-of-nagoya-ransomware-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Port of Nagoya, the largest port in Japan, suffered a ransomware attack that severely impacted its operations.
+The Port of Nagoya, in the Ise Bay, is the largest and busiest trading port in Japan, accounting for about 10% of the total trade value...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

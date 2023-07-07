@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+28,000 Employees Impacted by Data Breach at Pepsi Bottling Ventures<a href="https://www.securityweek.com/28000-impacted-by-data-breach-at-pepsi-bottling-ventures/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discovered on January 10, the data breach occurred between December 23, 2022, and January 19, 2023, and resulted in the personal, financial, and health information of the company’s employees being accessed by an unauthorized party.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large Indian Tech Retailer Exposes Employee and Customer Data<a href="https://securitydiscovery.com/indias-largest-tech-retailer-suffered-data-breach-with-employee-and-customer-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tech retailer Poorvika had a non-password-protected data breach exposing sensitive employee and customer data. The breach included a vast number of records, including personal information, email addresses, tax invoices, and payment receipts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

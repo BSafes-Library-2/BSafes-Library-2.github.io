@@ -8,6 +8,35 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Instagram's Twitter Alternative 'Threads' Launch Halted in Europe Over Privacy Concerns<a href="https://thehackernews.com/2023/07/instagrams-twitter-alternative-threads.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instagram Threads, the upcoming Twitter competitor from Meta, will not be launched in the European Union due to privacy concerns, according to Ireland's Data Protection Commission (DPC). The development was&nbsp; reported &nbsp;by the Irish Independent, which said the watchdog has been in contact with the social media giant about the new product and confirmed the release won't extend to the E.U. "at this point." Threads &nbsp;is Meta's answer to Twitter that's set for launch on July 6, 2023. It's billed as a "text-based conversation app" that allows Instagram users to "discuss everything from the topics you care about today to what'll be trending tomorrow." It also enables users to follow the same accounts they already follow on Instagram. A listing for the app has already appeared in the&nbsp; Apple App Store &nbsp;and&nbsp; Google Play Store , although it's yet to be available for download. The " App Privacy " section on the App Store indic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swedish data protection authority rules against the use of Google Analytics<a href="https://securityaffairs.com/148157/laws-and-regulations/swedish-data-protection-authority-google-analytics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish data protection watchdog warns companies against using Google Analytics due to the risk of surveillance operated by the US government.
+The Swedish data protection watchdog warned businesses against using Google Analytics due to the risk of surveillance...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamsPhisher Tool Exploits Microsoft Teams to Deploy Malware<a href="https://cyware.com/news/teamsphisher-tool-exploits-microsoft-teams-to-deploy-malware-325a6034"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2023
+July 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers' Sophisticated Malware Targets Windows and macOS Users<a href="https://thehackernews.com/2023/07/iranian-hackers-sophisticated-malware.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco warns of a flaw in Nexus 9000 series switches that allows modifying encrypted traffic<a href="https://securityaffairs.com/148235/security/cisco-nexus-9000-series-flaw.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedEnergy: New Stealer-as-a-Ransomware Out in the Wild<a href="https://cyware.com/news/redenergy-new-stealer-as-a-ransomware-out-in-the-wild-6ab8cc7c"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2023
+July 06, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Surviving the 800 Gbps Storm: Gain Insights from Gcore's 2023 DDoS Attack Statistics<a href="https://thehackernews.com/2023/07/surviving-800-gbps-storm-gain-insights.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 StackRot, a new Linux Kernel privilege escalation vulnerability<a href="https://securityaffairs.com/148231/security/stackrot-linux-kernel-privilege-escalation-bug.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 28,000 Employees Impacted by Data Breach at Pepsi Bottling Ventures<a href="https://www.securityweek.com/28000-impacted-by-data-breach-at-pepsi-bottling-ventures/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2023
+July 06, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover New Linux Kernel 'StackRot' Privilege Escalation Vulnerability<a href="https://thehackernews.com/2023/07/researchers-uncover-new-linux-kernel.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware accounts for 54% of cyber threats in the health sector<a href="https://securityaffairs.com/148207/reports/enisa-threat-landscape-report-health-sector.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crysis Threat Actors Use RDP Connections to Distribute Venus Ransomware<a href="https://cyware.com/news/crysis-threat-actors-use-rdp-connections-to-distribute-venus-ransomware-bddeda1e"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2023
+July 06, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Pen Testing can Soften the Blow on Rising Costs of Cyber Insurance<a href="https://thehackernews.com/2023/07/how-pen-testing-can-soften-blow-on.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2022-29303 flaw in SolarView product can be exploited in attacks against the energy sector<a href="https://securityaffairs.com/148216/hacking/solarview-flaws-energy-sector.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Node4 acquires ThreeTwoFour to strengthen its security capabilities<a href="https://www.helpnetsecurity.com/2023/07/04/node4-threetwofour/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2023
+July 06, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Silentbob Campaign: Cloud-Native Environments Under Attack<a href="https://thehackernews.com/2023/07/silentbob-campaign-cloud-native.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Small organizations face security threats on a limited budget<a href="https://www.helpnetsecurity.com/2023/07/05/small-organizations-security-threats/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2023
+July 06, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 INTERPOL Nabs Hacking Crew OPERA1ER's Leader Behind $11 Million Cybercrime<a href="https://thehackernews.com/2023/07/interpol-nabs-hacking-crew-opera1ers.html"> Full Text</a>
@@ -294,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Large Indian Tech Retailer Exposes Employee and Customer Data<a href="https://securitydiscovery.com/indias-largest-tech-retailer-suffered-data-breach-with-employee-and-customer-data/?&web_view=true"> Full Text</a>

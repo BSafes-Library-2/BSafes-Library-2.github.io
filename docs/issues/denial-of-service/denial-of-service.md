@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+July 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surviving the 800 Gbps Storm: Gain Insights from Gcore's 2023 DDoS Attack Statistics<a href="https://thehackernews.com/2023/07/surviving-800-gbps-storm-gain-insights.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gcore Radar is a quarterly report prepared by Gcore that provides insights into the current state of the DDoS protection market and cybersecurity trends. This report offers you an understanding of the evolving threat landscape and highlights the measures required to protect against attacks effectively. It serves as an insight for businesses and individuals seeking to stay informed about the latest developments in cybersecurity. As we entered 2023, the cybersecurity landscape witnessed an increase in sophisticated, high-volume attacks. Here, we present the current state of the DDoS protection market based on Gcore's statistics. Key Highlights from Q1–Q2&nbsp; The maximum attack power rose from 600 to 800 Gbps. UDP flood attacks were most common and amounted to 52% of total attacks, while SYN flood accounted for 24%. In third place was TCP flood. The most-attacked business sectors are gaming, telecom, and financial. The longest attack duration in the year's first half was seve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

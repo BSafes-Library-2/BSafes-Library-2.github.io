@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+75% of consumers prepared to ditch brands hit by ransomware<a href="https://www.helpnetsecurity.com/2023/07/05/consumers-data-protection-request/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+81% of consumers report feeling “very scared or worried” about their data being held by organizations lacking robust resilience against ransomware. After an attack, one in three consumers demands evidence of resilient backup and recovery strategies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
