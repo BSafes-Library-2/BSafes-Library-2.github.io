@@ -34,7 +34,283 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TMF announces five new digital services and cybersecurity investments<a href="https://www.nextgov.com/it-modernization/2023/07/tmf-announces-5-new-digital-services-and-cybersecurity-investments/388236/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Labor Department will use the $15.2 million in the most recent batch of funding for zero-trust architecture. The EPA will put its $2.5 million toward the cybersecurity of its analytical radiation data system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vishing Goes High-Tech: New 'Letscall' Malware Employs Voice Traffic Routing<a href="https://thehackernews.com/2023/07/vishing-goes-high-tech-new-letscall.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have issued a warning about an emerging and advanced form of voice phishing ( vishing ) known as " Letscall ." This technique is currently targeting individuals in South Korea. The criminals behind "Letscall" employ a multi-step attack to deceive victims into downloading malicious apps from a counterfeit Google Play Store website. Once the malicious software is installed, it redirects incoming calls to a call center under the control of the criminals. Trained operators posing as bank employees then extract sensitive information from unsuspecting victims. To facilitate the routing of voice traffic, "Letscall" utilizes cutting-edge technologies such as voice over IP (VOIP) and WebRTC. It also makes use of Session Traversal Utilities for NAT (STUN) and Traversal Using Relays around NAT (TURN) protocols, including Google STUN servers, to ensure high-quality phone or video calls and bypass NAT and firewall restrictions. The "Letscall&quo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bangladesh government website leaked data of millions of citizens<a href="https://securityaffairs.com/148264/data-breach/bangladesh-government-website-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher recently discovered that a Bangladesh government website leaks the personal data of citizens.
+The researcher Viktor Markopoulos discovered a Bangladeshi government website that was leaking the personal information of millions of Bangladesh...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals can Break Voice Authentication with 99% Success Rate<a href="https://www.helpnetsecurity.com/2023/07/06/voice-authentication-insecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Computer scientists at the University of Waterloo have discovered a method of attack that can successfully bypass voice authentication security systems with up to a 99% success rate after only six tries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Critical Unauthenticated SQLi Flaw Discovered in MOVEit Transfer Software<a href="https://thehackernews.com/2023/07/another-critical-unauthenticated-sqli.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software has announced the discovery and patching of a critical SQL injection vulnerability in MOVEit Transfer, popular software used for secure file transfer. In addition, Progress Software has patched two other high-severity vulnerabilities. The identified SQL injection vulnerability, tagged as CVE-2023-36934 , could potentially allow unauthenticated attackers to gain unauthorized access to the MOVEit Transfer database. SQL injection vulnerabilities are a well-known and dangerous security flaw that allows attackers to manipulate databases and run any code they want. Attackers can send specifically designed payloads to certain endpoints of the affected application, which could change or expose sensitive data in the database. The reason CVE-2023-36934 is so critical is that it can be exploited without having to be logged in. This means that even attackers without valid credentials can potentially exploit the vulnerability. However, as of now, there have been no reports of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A man has been charged with a cyber attack on the Discovery Bay water treatment facility<a href="https://securityaffairs.com/148258/cyber-crime/discovery-bay-water-treatment-facility-attck.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A man from Tracy, California, has been charged with a computer attack on the Discovery Bay water treatment facility.
+Rambler Gallo (53), a man from Tracy (California) has been charged with intentionally causing damage to a computer after he allegedly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Truebot's Activity Spikes, U.S and Canada Authorities Issue Warning<a href="https://cyware.com/news/truebots-activity-spikes-us-and-canada-authorities-issue-warning-0f9d84cc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint advisory from the CISA, the FBI, the MS-ISAC, and the Canadian Centre for Cyber Security (CCCS) discovered a rise in the use of the Truebot malware by threat actors. Notably, these actors are increasingly exploiting the CVE-2022-31199 flaw to target organizations in the U.S. and Canada with ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastodon Social Network Patches Critical Flaws Allowing Server Takeover<a href="https://thehackernews.com/2023/07/mastodon-social-network-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mastodon, a popular decentralized social network, has released a security update to fix critical vulnerabilities that could expose millions of users to potential attacks. Mastodon is known for its federated model, consisting of thousands of separate servers called "instances," and it has over 14 million users across more than 20,000 instances. The most critical vulnerability, CVE-2023-36460 , allows hackers to exploit a flaw in the media attachments feature, creating and overwriting files in any location the software could access on an instance. This software vulnerability could be used for DoS and arbitrary remote code execution attacks, posing a significant threat to users and the broader Internet ecosystem. If an attacker gains control over multiple instances, they could cause harm by instructing users to download malicious applications or even bring down the entire Mastodon infrastructure. Fortunately, there is no evidence of this vulnerability being exploited so fa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Progress warns customers of a new critical flaw in MOVEit Transfer software<a href="https://securityaffairs.com/148252/security/moveit-transfer-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress released security patches for a new critical SQL injection vulnerability affecting its MOVEit Transfer software.
+Progress is informing customers of a new critical SQL injection vulnerability, tracked as CVE-2023-36934, in its MOVEit Transfer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT’s unknown potential keeps us guessing<a href="https://www.helpnetsecurity.com/2023/07/06/chatgpt-trust-concerns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A survey by Malwarebytes revealed that a majority of respondents do not trust the information produced by ChatGPT and believe it poses potential safety and security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Close Security Gaps with Continuous Threat Exposure Management<a href="https://thehackernews.com/2023/07/close-security-gaps-with-continuous.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs, security leaders, and SOC teams often struggle with limited visibility into all connections made to their company-owned assets and networks. They are hindered by a lack of open-source intelligence and powerful technology required for proactive, continuous, and effective discovery and protection of their systems, data, and assets. As advanced threat actors constantly search for easily exploitable vulnerabilities around the clock, CISOs are in pursuit of improved methods to reduce threat exposures and safeguard their assets, users, and data from relentless cyber-attacks and the severe consequences of breaches. In response to this need, an emerging solution addressing the most critical priorities at the initial stage of the attack chain has provided security leaders with a new tool to manage their most pressing threat exposures at their origin. Leading analyst firm Gartner Research describes the solution: "By 2026, organizations prioritizing their security investments based
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI warn of Truebot infecting US and Canada based organizations<a href="https://securityaffairs.com/148241/cyber-crime/truebot-variant-netwrix-auditor-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and the FBI warned today of a new Truebot variant employed in attacks against organizations in the United States and Canada.
+A new variant of the Truebot malware was used in attacks against organizations in the United States and Canada. Threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, MS-ISAC, and CCCS Warn of Truebot Infecting US and Canadian Organizations<a href="https://securityaffairs.com/148241/cyber-crime/truebot-variant-netwrix-auditor-rce.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the attacks compromised target networks by exploiting a critical remote code execution (RCE) vulnerability in the Netwrix Auditor software tracked as CVE-2022-31199.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte 2.0 Ransomware: Infiltrate, Encrypt, and Extort in Just 5 Days<a href="https://thehackernews.com/2023/07/blackbyte-20-ransomware-infiltrate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks are a major problem for organizations everywhere, and the severity of this problem continues to intensify. Recently, Microsoft's Incident Response team investigated the BlackByte 2.0 ransomware attacks and exposed these cyber strikes' terrifying velocity and damaging nature. The findings indicate that hackers can complete the entire attack process, from gaining initial access to causing significant damage, in just five days. They waste no time infiltrating systems, encrypting important data, and demanding a ransom to release it. This shortened timeline poses a significant challenge for organizations trying to protect themselves against these harmful operations. BlackByte ransomware is used in the final stage of the attack, using an 8-digit number key to encrypt the data. To carry out these attacks, hackers use a powerful combination of tools and techniques. The investigation revealed that they take advantage of unpatched Microsoft Exchange Servers—an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases Android Patch Update for 3 Actively Exploited Vulnerabilities<a href="https://thehackernews.com/2023/07/google-releases-android-patch-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released its monthly security updates for the Android operating system, addressing 46 new software vulnerabilities. Among these, three vulnerabilities have been identified as actively exploited in targeted attacks. One of the vulnerabilities tracked as CVE-2023-26083 is a memory leak flaw affecting the Arm Mali GPU driver for Bifrost, Avalon, and Valhall chips. This particular vulnerability was exploited in a previous attack that enabled spyware infiltration on Samsung devices in December 2022. This vulnerability was regarded as serious enough to prompt the Cybersecurity and Infrastructure Security Agency (CISA) to issue a patching order for federal agencies in April 2023. Another significant vulnerability, identified as CVE-2021-29256, is a high-severity issue that affects specific versions of the Bifrost and Midgard Arm Mali GPU kernel drivers. This flaw permits an unprivileged user to gain unauthorized access to sensitive data and escalate privileges to the root lev
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JumpCloud Resets API Keys Amid Ongoing Cybersecurity Incident<a href="https://thehackernews.com/2023/07/jumpcloud-resets-api-keys-amid-ongoing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JumpCloud, a provider of cloud-based identity and access management solutions, has swiftly reacted to an ongoing cybersecurity incident that impacted some of its clients. As part of its damage control efforts, JumpCloud has reset the application programming interface (API) keys of all customers affected by this event, aiming to protect their valuable data. The company has informed the concerned clients about the critical nature of this move, reinforcing its commitment to safeguarding their operations and organizations. This API key reset will, however, disrupt certain functionalities like AD import, HRIS integrations, JumpCloud PowerShell modules, JumpCloud Slack apps, Directory Insights Serverless apps, ADMU, third-party zero-touch MDM packages, Command Triggers, Okta SCIM integration, Azure AD SCIM integration, Workato, Aquera, Tray, and more. Despite the potential disruptions, JumpCloud maintains that the key reset is for the greater good of its clients. For those needing assis
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Agencies Sound Alarm on Rising TrueBot Malware Attacks<a href="https://thehackernews.com/2023/07/cybersecurity-agencies-sound-alarm-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies have warned about the emergence of new variants of the TrueBot malware. This enhanced threat is now targeting companies in the U.S. and Canada with the intention of extracting confidential data from infiltrated systems. These sophisticated attacks exploit a critical vulnerability ( CVE-2022-31199 ) in the widely used Netwrix Auditor server and its associated agents. This vulnerability enables unauthorized attackers to execute malicious code with the SYSTEM user's privileges, granting them unrestricted access to compromised systems. The TrueBot malware , linked with cybercriminal collectives Silence and FIN11, is deployed to siphon off data and disseminate ransomware, jeopardising the safety of numerous infiltrated networks. The cybercriminals gain their initial foothold by exploiting the cited vulnerability, then proceed to install TrueBot. Once they have breached the networks, they install the FlawedGrace Remote Access Trojan (RAT) to escalate their p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamsPhisher Tool Exploits Microsoft Teams to Deploy Malware<a href="https://cyware.com/news/teamsphisher-tool-exploits-microsoft-teams-to-deploy-malware-325a6034"> Full Text</a>
@@ -50,7 +326,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2023
+July 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers' Sophisticated Malware Targets Windows and macOS Users<a href="https://thehackernews.com/2023/07/iranian-hackers-sophisticated-malware.html"> Full Text</a>
@@ -66,7 +342,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco warns of a flaw in Nexus 9000 series switches that allows modifying encrypted traffic<a href="https://securityaffairs.com/148235/security/cisco-nexus-9000-series-flaw.html"> Full Text</a>
@@ -83,7 +359,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedEnergy: New Stealer-as-a-Ransomware Out in the Wild<a href="https://cyware.com/news/redenergy-new-stealer-as-a-ransomware-out-in-the-wild-6ab8cc7c"> Full Text</a>
@@ -99,7 +375,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2023
+July 06, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Surviving the 800 Gbps Storm: Gain Insights from Gcore's 2023 DDoS Attack Statistics<a href="https://thehackernews.com/2023/07/surviving-800-gbps-storm-gain-insights.html"> Full Text</a>
@@ -115,7 +391,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 StackRot, a new Linux Kernel privilege escalation vulnerability<a href="https://securityaffairs.com/148231/security/stackrot-linux-kernel-privilege-escalation-bug.html"> Full Text</a>
@@ -132,7 +408,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 28,000 Employees Impacted by Data Breach at Pepsi Bottling Ventures<a href="https://www.securityweek.com/28000-impacted-by-data-breach-at-pepsi-bottling-ventures/?&web_view=true"> Full Text</a>
@@ -148,7 +424,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2023
+July 06, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover New Linux Kernel 'StackRot' Privilege Escalation Vulnerability<a href="https://thehackernews.com/2023/07/researchers-uncover-new-linux-kernel.html"> Full Text</a>
@@ -164,7 +440,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware accounts for 54% of cyber threats in the health sector<a href="https://securityaffairs.com/148207/reports/enisa-threat-landscape-report-health-sector.html"> Full Text</a>
@@ -181,7 +457,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crysis Threat Actors Use RDP Connections to Distribute Venus Ransomware<a href="https://cyware.com/news/crysis-threat-actors-use-rdp-connections-to-distribute-venus-ransomware-bddeda1e"> Full Text</a>
@@ -197,7 +473,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2023
+July 06, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Pen Testing can Soften the Blow on Rising Costs of Cyber Insurance<a href="https://thehackernews.com/2023/07/how-pen-testing-can-soften-blow-on.html"> Full Text</a>
@@ -213,7 +489,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE-2022-29303 flaw in SolarView product can be exploited in attacks against the energy sector<a href="https://securityaffairs.com/148216/hacking/solarview-flaws-energy-sector.html"> Full Text</a>
@@ -230,7 +506,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Node4 acquires ThreeTwoFour to strengthen its security capabilities<a href="https://www.helpnetsecurity.com/2023/07/04/node4-threetwofour/?&web_view=true"> Full Text</a>
@@ -246,7 +522,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2023
+July 06, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Silentbob Campaign: Cloud-Native Environments Under Attack<a href="https://thehackernews.com/2023/07/silentbob-campaign-cloud-native.html"> Full Text</a>
@@ -262,7 +538,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Small organizations face security threats on a limited budget<a href="https://www.helpnetsecurity.com/2023/07/05/small-organizations-security-threats/?&web_view=true"> Full Text</a>
@@ -278,7 +554,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 06, 2023
+July 06, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 INTERPOL Nabs Hacking Crew OPERA1ER's Leader Behind $11 Million Cybercrime<a href="https://thehackernews.com/2023/07/interpol-nabs-hacking-crew-opera1ers.html"> Full Text</a>
@@ -294,7 +570,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2023
+July 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Large Indian Tech Retailer Exposes Employee and Customer Data<a href="https://securitydiscovery.com/indias-largest-tech-retailer-suffered-data-breach-with-employee-and-customer-data/?&web_view=true"> Full Text</a>
