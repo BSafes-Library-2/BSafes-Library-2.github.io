@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JumpCloud Resets API Keys Amid Ongoing Cybersecurity Incident<a href="https://thehackernews.com/2023/07/jumpcloud-resets-api-keys-amid-ongoing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JumpCloud, a provider of cloud-based identity and access management solutions, has swiftly reacted to an ongoing cybersecurity incident that impacted some of its clients. As part of its damage control efforts, JumpCloud has reset the application programming interface (API) keys of all customers affected by this event, aiming to protect their valuable data. The company has informed the concerned clients about the critical nature of this move, reinforcing its commitment to safeguarding their operations and organizations. This API key reset will, however, disrupt certain functionalities like AD import, HRIS integrations, JumpCloud PowerShell modules, JumpCloud Slack apps, Directory Insights Serverless apps, ADMU, third-party zero-touch MDM packages, Command Triggers, Okta SCIM integration, Azure AD SCIM integration, Workato, Aquera, Tray, and more. Despite the potential disruptions, JumpCloud maintains that the key reset is for the greater good of its clients. For those needing assis
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

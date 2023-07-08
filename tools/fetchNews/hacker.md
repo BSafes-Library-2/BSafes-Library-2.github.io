@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crysis Threat Actors Use RDP Connections to Distribute Venus Ransomware<a href="https://cyware.com/news/crysis-threat-actors-use-rdp-connections-to-distribute-venus-ransomware-bddeda1e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ASEC recently discovered that Crysis ransomware attackers were scanning the internet, via brute force or dictionary attacks, for vulnerable RDP endpoints to install Venus ransomware on systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

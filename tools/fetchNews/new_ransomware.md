@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte 2.0 Ransomware: Infiltrate, Encrypt, and Extort in Just 5 Days<a href="https://thehackernews.com/2023/07/blackbyte-20-ransomware-infiltrate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks are a major problem for organizations everywhere, and the severity of this problem continues to intensify. Recently, Microsoft's Incident Response team investigated the BlackByte 2.0 ransomware attacks and exposed these cyber strikes' terrifying velocity and damaging nature. The findings indicate that hackers can complete the entire attack process, from gaining initial access to causing significant damage, in just five days. They waste no time infiltrating systems, encrypting important data, and demanding a ransom to release it. This shortened timeline poses a significant challenge for organizations trying to protect themselves against these harmful operations. BlackByte ransomware is used in the final stage of the attack, using an 8-digit number key to encrypt the data. To carry out these attacks, hackers use a powerful combination of tools and techniques. The investigation revealed that they take advantage of unpatched Microsoft Exchange Servers—an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

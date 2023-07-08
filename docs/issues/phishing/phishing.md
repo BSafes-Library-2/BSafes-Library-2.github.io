@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vishing Goes High-Tech: New 'Letscall' Malware Employs Voice Traffic Routing<a href="https://thehackernews.com/2023/07/vishing-goes-high-tech-new-letscall.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have issued a warning about an emerging and advanced form of voice phishing ( vishing ) known as " Letscall ." This technique is currently targeting individuals in South Korea. The criminals behind "Letscall" employ a multi-step attack to deceive victims into downloading malicious apps from a counterfeit Google Play Store website. Once the malicious software is installed, it redirects incoming calls to a call center under the control of the criminals. Trained operators posing as bank employees then extract sensitive information from unsuspecting victims. To facilitate the routing of voice traffic, "Letscall" utilizes cutting-edge technologies such as voice over IP (VOIP) and WebRTC. It also makes use of Session Traversal Utilities for NAT (STUN) and Traversal Using Relays around NAT (TURN) protocols, including Google STUN servers, to ensure high-quality phone or video calls and bypass NAT and firewall restrictions. The "Letscall&amp;quo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

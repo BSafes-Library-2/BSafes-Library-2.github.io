@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Node4 acquires ThreeTwoFour to strengthen its security capabilities<a href="https://www.helpnetsecurity.com/2023/07/04/node4-threetwofour/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition is Node4’s third significant growth purchase in the last 18 months, having also bought risual, an IT managed services and solutions provider and Tisski, a leading UK-based independent Microsoft Business applications partner.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

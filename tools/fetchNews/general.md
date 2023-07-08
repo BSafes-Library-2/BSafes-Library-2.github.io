@@ -8,6 +8,35 @@ nav_order: 900072
 
 ## General
 ---
+July 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware accounts for 54% of cyber threats in the health sector<a href="https://securityaffairs.com/148207/reports/enisa-threat-landscape-report-health-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union Agency for Cybersecurity (ENISA) releases its first cyber threat landscape report for the health sector.
+The European Union Agency for Cybersecurity (ENISA) releases today its first cyber threat landscape report for the health...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Small organizations face security threats on a limited budget<a href="https://www.helpnetsecurity.com/2023/07/05/small-organizations-security-threats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Small organizations face the same security threats as organizations overall but have fewer resources to address them, according to Netwrix. The most common security incidents are phishing, ransomware, and user account compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

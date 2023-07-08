@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INTERPOL Nabs Hacking Crew OPERA1ER's Leader Behind $11 Million Cybercrime<a href="https://thehackernews.com/2023/07/interpol-nabs-hacking-crew-opera1ers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected senior member of a French-speaking hacking crew known as OPERA1ER has been arrested as part of an international law enforcement operation codenamed Nervone, Interpol has announced. "The group is believed to have stolen an estimated USD 11 million -- potentially as much as 30 million -- in more than 30 attacks across 15 countries in Africa, Asia, and Latin America," the agency&nbsp; said . The arrest was made by authorities in Côte d'Ivoire early last month. Additional insight was provided by the U.S. Secret Service's Criminal Investigative Division and Booz Allen Hamilton DarkLabs. The financially motivated collective is also known by the aliases Common Raven, DESKTOP-GROUP, and NX$M$. Its modus operandi was&nbsp; first exposed &nbsp;by Group-IB and Orange CERT Coordination Center (Orange-CERT-CC) in November 2022, detailing its intrusions on banks, financial services, and telecom companies between March 2018 and October 2022. Earlier this January, Broadcom's S
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

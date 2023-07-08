@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+July 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bangladesh government website leaked data of millions of citizens<a href="https://securityaffairs.com/148264/data-breach/bangladesh-government-website-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher recently discovered that a Bangladesh government website leaks the personal data of citizens.
+The researcher Viktor Markopoulos discovered a Bangladeshi government website that was leaking the personal information of millions of Bangladesh...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

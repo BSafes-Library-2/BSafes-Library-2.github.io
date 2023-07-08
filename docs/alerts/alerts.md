@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2023 - CISA, FBI, MS-ISAC, CCCS 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Increased Truebot Activity Infects U.S. and Canada Based Networks <a href="https://www.imy.se/en/news/four-companies-must-stop-using-google-analytics/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), the Multi-State Information Sharing and Analysis Center (MS-ISAC), and the Canadian Centre for Cyber Security (CCCS) are releasing this joint Cybersecurity Advisory (CSA) in response to cyber threat actors leveraging newly identified Truebot malware variants against organizations in the United States and Canada. As recently as May 31, 2023, the authoring organizations have observed an increase in cyber threat actors using new malware variants of Truebot (also known as Silence.Downloader). Truebot is a botnet that has been used by malicious cyber groups like CL0P Ransomware Gang to collect and exfiltrate information from its target victims.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 3, 2023 - Swedish Authority for Privacy Protection
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

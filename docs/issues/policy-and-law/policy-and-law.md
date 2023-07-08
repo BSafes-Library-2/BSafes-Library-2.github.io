@@ -8,6 +8,21 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A man has been charged with a cyber attack on the Discovery Bay water treatment facility<a href="https://securityaffairs.com/148258/cyber-crime/discovery-bay-water-treatment-facility-attck.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A man from Tracy, California, has been charged with a computer attack on the Discovery Bay water treatment facility.
+Rambler Gallo (53), a man from Tracy (California) has been charged with intentionally causing damage to a computer after he allegedly...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

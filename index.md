@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2023
+July 7, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TMF announces five new digital services and cybersecurity investments<a href="https://www.nextgov.com/it-modernization/2023/07/tmf-announces-5-new-digital-services-and-cybersecurity-investments/388236/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2023
+July 07, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vishing Goes High-Tech: New 'Letscall' Malware Employs Voice Traffic Routing<a href="https://thehackernews.com/2023/07/vishing-goes-high-tech-new-letscall.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2023
+July 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bangladesh government website leaked data of millions of citizens<a href="https://securityaffairs.com/148264/data-breach/bangladesh-government-website-data-leak.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2023
+July 7, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals can Break Voice Authentication with 99% Success Rate<a href="https://www.helpnetsecurity.com/2023/07/06/voice-authentication-insecurity/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2023
+July 07, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Another Critical Unauthenticated SQLi Flaw Discovered in MOVEit Transfer Software<a href="https://thehackernews.com/2023/07/another-critical-unauthenticated-sqli.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2023
+July 7, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A man has been charged with a cyber attack on the Discovery Bay water treatment facility<a href="https://securityaffairs.com/148258/cyber-crime/discovery-bay-water-treatment-facility-attck.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2023
+July 7, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Truebot's Activity Spikes, U.S and Canada Authorities Issue Warning<a href="https://cyware.com/news/truebots-activity-spikes-us-and-canada-authorities-issue-warning-0f9d84cc"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2023
+July 07, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mastodon Social Network Patches Critical Flaws Allowing Server Takeover<a href="https://thehackernews.com/2023/07/mastodon-social-network-patches.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2023
+July 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Progress warns customers of a new critical flaw in MOVEit Transfer software<a href="https://securityaffairs.com/148252/security/moveit-transfer-critical-flaw.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2023
+July 7, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ChatGPT’s unknown potential keeps us guessing<a href="https://www.helpnetsecurity.com/2023/07/06/chatgpt-trust-concerns/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2023
+July 07, 2023 -- [Solution](/docs/issues/solution/solution/)<br>                   
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Close Security Gaps with Continuous Threat Exposure Management<a href="https://thehackernews.com/2023/07/close-security-gaps-with-continuous.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2023
+July 7, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA and FBI warn of Truebot infecting US and Canada based organizations<a href="https://securityaffairs.com/148241/cyber-crime/truebot-variant-netwrix-auditor-rce.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 7, 2023
+July 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA, FBI, MS-ISAC, and CCCS Warn of Truebot Infecting US and Canadian Organizations<a href="https://securityaffairs.com/148241/cyber-crime/truebot-variant-netwrix-auditor-rce.html?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2023
+July 07, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackByte 2.0 Ransomware: Infiltrate, Encrypt, and Extort in Just 5 Days<a href="https://thehackernews.com/2023/07/blackbyte-20-ransomware-infiltrate.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2023
+July 07, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Releases Android Patch Update for 3 Actively Exploited Vulnerabilities<a href="https://thehackernews.com/2023/07/google-releases-android-patch-update.html"> Full Text</a>
@@ -278,7 +278,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2023
+July 07, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JumpCloud Resets API Keys Amid Ongoing Cybersecurity Incident<a href="https://thehackernews.com/2023/07/jumpcloud-resets-api-keys-amid-ongoing.html"> Full Text</a>
@@ -294,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 07, 2023
+July 07, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Agencies Sound Alarm on Rising TrueBot Malware Attacks<a href="https://thehackernews.com/2023/07/cybersecurity-agencies-sound-alarm-on.html"> Full Text</a>
