@@ -7,6 +7,22 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PiiGAB M-Bus <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-23-187-01"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVSS v3 9.8 
+ATTENTION: Exploitable remotely/low attack complexity   
+Vendor: PiiGAB, Processinformation i Göteborg Aktiebolag   
+Equipment: M-Bus SoftwarePack 900S   
+Vulnerabilities: Code Injection, Improper Restriction of Excessive Authentication Attempts, Unprotected Transport of Credentials, Use of Hard-coded Credentials, Plaintext Storage of a Password, Cross-site Scripting, Weak Password Requirements, Use of Password Hash with Insufficient Computational Effort, Cross-Site Request Forgery   
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 6, 2023 - CISA, FBI, MS-ISAC, CCCS 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

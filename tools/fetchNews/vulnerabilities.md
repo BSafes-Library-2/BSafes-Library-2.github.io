@@ -8,6 +8,77 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Another Critical Unauthenticated SQLi Flaw Discovered in MOVEit Transfer Software<a href="https://thehackernews.com/2023/07/another-critical-unauthenticated-sqli.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software has announced the discovery and patching of a critical SQL injection vulnerability in MOVEit Transfer, popular software used for secure file transfer. In addition, Progress Software has patched two other high-severity vulnerabilities. The identified SQL injection vulnerability, tagged as CVE-2023-36934 , could potentially allow unauthenticated attackers to gain unauthorized access to the MOVEit Transfer database. SQL injection vulnerabilities are a well-known and dangerous security flaw that allows attackers to manipulate databases and run any code they want. Attackers can send specifically designed payloads to certain endpoints of the affected application, which could change or expose sensitive data in the database. The reason CVE-2023-36934 is so critical is that it can be exploited without having to be logged in. This means that even attackers without valid credentials can potentially exploit the vulnerability. However, as of now, there have been no reports of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastodon Social Network Patches Critical Flaws Allowing Server Takeover<a href="https://thehackernews.com/2023/07/mastodon-social-network-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mastodon, a popular decentralized social network, has released a security update to fix critical vulnerabilities that could expose millions of users to potential attacks. Mastodon is known for its federated model, consisting of thousands of separate servers called "instances," and it has over 14 million users across more than 20,000 instances. The most critical vulnerability, CVE-2023-36460 , allows hackers to exploit a flaw in the media attachments feature, creating and overwriting files in any location the software could access on an instance. This software vulnerability could be used for DoS and arbitrary remote code execution attacks, posing a significant threat to users and the broader Internet ecosystem. If an attacker gains control over multiple instances, they could cause harm by instructing users to download malicious applications or even bring down the entire Mastodon infrastructure. Fortunately, there is no evidence of this vulnerability being exploited so fa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Progress warns customers of a new critical flaw in MOVEit Transfer software<a href="https://securityaffairs.com/148252/security/moveit-transfer-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress released security patches for a new critical SQL injection vulnerability affecting its MOVEit Transfer software.
+Progress is informing customers of a new critical SQL injection vulnerability, tracked as CVE-2023-36934, in its MOVEit Transfer...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, MS-ISAC, and CCCS Warn of Truebot Infecting US and Canadian Organizations<a href="https://securityaffairs.com/148241/cyber-crime/truebot-variant-netwrix-auditor-rce.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the attacks compromised target networks by exploiting a critical remote code execution (RCE) vulnerability in the Netwrix Auditor software tracked as CVE-2022-31199.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases Android Patch Update for 3 Actively Exploited Vulnerabilities<a href="https://thehackernews.com/2023/07/google-releases-android-patch-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released its monthly security updates for the Android operating system, addressing 46 new software vulnerabilities. Among these, three vulnerabilities have been identified as actively exploited in targeted attacks. One of the vulnerabilities tracked as CVE-2023-26083 is a memory leak flaw affecting the Arm Mali GPU driver for Bifrost, Avalon, and Valhall chips. This particular vulnerability was exploited in a previous attack that enabled spyware infiltration on Samsung devices in December 2022. This vulnerability was regarded as serious enough to prompt the Cybersecurity and Infrastructure Security Agency (CISA) to issue a patching order for federal agencies in April 2023. Another significant vulnerability, identified as CVE-2021-29256, is a high-severity issue that affects specific versions of the Bifrost and Midgard Arm Mali GPU kernel drivers. This flaw permits an unprivileged user to gain unauthorized access to sensitive data and escalate privileges to the root lev
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,22 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked APT TA453 targets Windows and macOS systems<a href="https://securityaffairs.com/148275/apt/ta453-malware-windows-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked APT group tracked TA453 has been linked to a new malware campaign targeting both Windows and macOS systems.
+The Iran-linked threat actor TA453 has been linked to a malware campaign that targets both Windows and macOS.
+TA453 is a nation-state...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

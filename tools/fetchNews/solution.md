@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 07, 2023 <br>                   
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Close Security Gaps with Continuous Threat Exposure Management<a href="https://thehackernews.com/2023/07/close-security-gaps-with-continuous.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs, security leaders, and SOC teams often struggle with limited visibility into all connections made to their company-owned assets and networks. They are hindered by a lack of open-source intelligence and powerful technology required for proactive, continuous, and effective discovery and protection of their systems, data, and assets. As advanced threat actors constantly search for easily exploitable vulnerabilities around the clock, CISOs are in pursuit of improved methods to reduce threat exposures and safeguard their assets, users, and data from relentless cyber-attacks and the severe consequences of breaches. In response to this need, an emerging solution addressing the most critical priorities at the initial stage of the attack chain has provided security leaders with a new tool to manage their most pressing threat exposures at their origin. Leading analyst firm Gartner Research describes the solution: "By 2026, organizations prioritizing their security investments based
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

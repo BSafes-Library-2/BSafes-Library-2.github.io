@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tailing Big Head Ransomware’s Variants, Tactics, and Impact<a href="https://www.trendmicro.com/en_us/research/23/g/tailing-big-head-ransomware-variants-tactics-and-impact.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Big Head ransomware displays a fake Windows update to deceive victims, communicates with the threat actor via a Telegram bot, and drops ransom notes with contact information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

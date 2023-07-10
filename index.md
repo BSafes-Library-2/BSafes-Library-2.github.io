@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2023
+July 9, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two spyware sending data of more than 1.5M users to China were found in Google Play Store<a href="https://securityaffairs.com/148295/malware/spyware-sending-data-china-google-play-store.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2023
+July 9, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 427 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/148291/breaking-news/security-affairs-newsletter-round-427-by-pierluigi-paganini-international-edition.html"> Full Text</a>
@@ -69,7 +69,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2023
+July 8, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tailing Big Head Ransomware’s Variants, Tactics, and Impact<a href="https://www.trendmicro.com/en_us/research/23/g/tailing-big-head-ransomware-variants-tactics-and-impact.html?&web_view=true"> Full Text</a>
@@ -85,7 +85,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2023
+July 08, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Spyware Apps on Google Play with 1.5 Million Users Sending Data to China<a href="https://thehackernews.com/2023/07/two-spyware-apps-on-google-play-with-15.html"> Full Text</a>
@@ -101,7 +101,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2023
+July 8, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WISE REMOTE Stealer Unleashed : Unveiling Its Multifaceted Malicious Arsenal<a href="https://www.cyfirma.com/outofband/wise-remote-stealer-unleashed-unveiling-its-multifaceted-malicious-arsenal/?&web_view=true"> Full Text</a>
@@ -117,7 +117,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2023
+July 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Translation Service Exposed Highly Sensitive Records Online<a href="https://www.hackread.com/global-translation-service-exposed-records/?&web_view=true"> Full Text</a>
@@ -133,7 +133,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2023
+July 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google addressed 3 actively exploited flaws in Android<a href="https://securityaffairs.com/148286/mobile-2/android-actively-exploited-flaws-fixed.html"> Full Text</a>
@@ -150,7 +150,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2023
+July 8, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities in PiiGAB Product Could Expose Industrial Organizations to Attacks<a href="https://www.securityweek.com/vulnerabilities-in-piigab-product-could-expose-industrial-organizations-to-attacks/?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2023
+July 8, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked APT TA453 targets Windows and macOS systems<a href="https://securityaffairs.com/148275/apt/ta453-malware-windows-macos.html"> Full Text</a>

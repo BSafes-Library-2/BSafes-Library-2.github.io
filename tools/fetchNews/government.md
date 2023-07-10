@@ -8,6 +8,49 @@ nav_order: 900075
 
 ## Government
 ---
+July 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TMF announces five new digital services and cybersecurity investments<a href="https://www.nextgov.com/it-modernization/2023/07/tmf-announces-5-new-digital-services-and-cybersecurity-investments/388236/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Labor Department will use the $15.2 million in the most recent batch of funding for zero-trust architecture. The EPA will put its $2.5 million toward the cybersecurity of its analytical radiation data system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Truebot's Activity Spikes, U.S and Canada Authorities Issue Warning<a href="https://cyware.com/news/truebots-activity-spikes-us-and-canada-authorities-issue-warning-0f9d84cc"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint advisory from the CISA, the FBI, the MS-ISAC, and the Canadian Centre for Cyber Security (CCCS) discovered a rise in the use of the Truebot malware by threat actors. Notably, these actors are increasingly exploiting the CVE-2022-31199 flaw to target organizations in the U.S. and Canada with ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI warn of Truebot infecting US and Canada based organizations<a href="https://securityaffairs.com/148241/cyber-crime/truebot-variant-netwrix-auditor-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA and the FBI warned today of&nbsp;a new Truebot variant employed in attacks against organizations in the United States and Canada.
+A new variant of the Truebot malware was used in attacks against organizations in the United States and Canada. Threat...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

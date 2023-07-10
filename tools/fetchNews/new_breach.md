@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Translation Service Exposed Highly Sensitive Records Online<a href="https://www.hackread.com/global-translation-service-exposed-records/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Website Planet‘s security researcher Jeremiah Fowler discovered a non-password-protected database that contained over 25,000 records, all publicly exposed, including ‘highly sensitive’ documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

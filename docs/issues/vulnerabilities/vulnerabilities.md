@@ -8,6 +8,21 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google addressed 3 actively exploited flaws in Android<a href="https://securityaffairs.com/148286/mobile-2/android-actively-exploited-flaws-fixed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released July security updates for Android that addressed tens of vulnerabilities, including three actively exploited flaws.
+July security updates for Android addressed more than 40 vulnerabilities, including three flaws that were actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

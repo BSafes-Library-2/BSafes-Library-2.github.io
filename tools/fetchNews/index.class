@@ -34,6 +34,156 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two spyware sending data of more than 1.5M users to China were found in Google Play Store<a href="https://securityaffairs.com/148295/malware/spyware-sending-data-china-google-play-store.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two apps on the Google Play Store with more than 1.5 million downloads have been discovered spying on users and sending data to China.
+Researchers from cybersecurity firm Pradeo discovered two malicious apps on Google Play hinding spyware and spying...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 427 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/148291/breaking-news/security-affairs-newsletter-round-427-by-pierluigi-paganini-international-edition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+Google...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tailing Big Head Ransomware’s Variants, Tactics, and Impact<a href="https://www.trendmicro.com/en_us/research/23/g/tailing-big-head-ransomware-variants-tactics-and-impact.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Big Head ransomware displays a fake Windows update to deceive victims, communicates with the threat actor via a Telegram bot, and drops ransom notes with contact information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 08, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Spyware Apps on Google Play with 1.5 Million Users Sending Data to China<a href="https://thehackernews.com/2023/07/two-spyware-apps-on-google-play-with-15.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two file management apps on the Google Play Store have been discovered to be spyware, putting the privacy and security of up to 1.5 million Android users at risk. These apps engage in deceptive behaviour and secretly send sensitive user data to malicious servers in China. Pradeo, a leading mobile security company, has uncovered this alarming infiltration. The report shows that both spyware apps, namely File Recovery and Data Recovery (com.spot.music.filedate) with over 1 million installs, and File Manager (com.file.box.master.gkd) with over 500,000 installs, are developed by the same group. These seemingly harmless Android apps use similar malicious tactics and automatically launch when the device reboots without user input. Contrary to what they claim on the Google Play Store, where both apps assure users that no data is collected, Pradeo's analytics engine has found that various personal information is collected without users' knowledge. Stolen data includes contact list
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WISE REMOTE Stealer Unleashed : Unveiling Its Multifaceted Malicious Arsenal<a href="https://www.cyfirma.com/outofband/wise-remote-stealer-unleashed-unveiling-its-multifaceted-malicious-arsenal/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The WISE REMOTE Stealer is an advanced information stealer and Remote Access Trojan (RAT) that is coded in the Go programming language and utilizes code manipulation techniques to evade antivirus detection, making it difficult to detect and mitigate.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Translation Service Exposed Highly Sensitive Records Online<a href="https://www.hackread.com/global-translation-service-exposed-records/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Website Planet‘s security researcher Jeremiah Fowler discovered a non-password-protected database that contained over 25,000 records, all publicly exposed, including ‘highly sensitive’ documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google addressed 3 actively exploited flaws in Android<a href="https://securityaffairs.com/148286/mobile-2/android-actively-exploited-flaws-fixed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released July security updates for Android that addressed tens of vulnerabilities, including three actively exploited flaws.
+July security updates for Android addressed more than 40 vulnerabilities, including three flaws that were actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in PiiGAB Product Could Expose Industrial Organizations to Attacks<a href="https://www.securityweek.com/vulnerabilities-in-piigab-product-could-expose-industrial-organizations-to-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Cybersecurity and Infrastructure Security Agency (CISA) on Thursday published an advisory describing the vulnerabilities discovered by researchers at Radboud University in PiiGAB M-Bus 900s gateway/converter.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-linked APT TA453 targets Windows and macOS systems<a href="https://securityaffairs.com/148275/apt/ta453-malware-windows-macos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked APT group tracked TA453 has been linked to a new malware campaign targeting both Windows and macOS systems.
+The Iran-linked threat actor TA453 has been linked to a malware campaign that targets both Windows and macOS.
+TA453 is a nation-state...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 7, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

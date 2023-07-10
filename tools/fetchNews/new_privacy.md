@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Spyware Apps on Google Play with 1.5 Million Users Sending Data to China<a href="https://thehackernews.com/2023/07/two-spyware-apps-on-google-play-with-15.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two file management apps on the Google Play Store have been discovered to be spyware, putting the privacy and security of up to 1.5 million Android users at risk. These apps engage in deceptive behaviour and secretly send sensitive user data to malicious servers in China. Pradeo, a leading mobile security company, has uncovered this alarming infiltration. The report shows that both spyware apps, namely File Recovery and Data Recovery (com.spot.music.filedate) with over 1 million installs, and File Manager (com.file.box.master.gkd) with over 500,000 installs, are developed by the same group. These seemingly harmless Android apps use similar malicious tactics and automatically launch when the device reboots without user input. Contrary to what they claim on the Google Play Store, where both apps assure users that no data is collected, Pradeo's analytics engine has found that various personal information is collected without users' knowledge. Stolen data includes contact list
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
