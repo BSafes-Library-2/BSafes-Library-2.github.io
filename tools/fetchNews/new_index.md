@@ -34,7 +34,379 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2023
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RomCom hackers target NATO Summit attendees in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/romcom-hackers-target-nato-summit-attendees-in-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor referred to as 'RomCom' has been targeting organizations supporting Ukraine and guests of the upcoming NATO Summit set to start tomorrow in Vilnius, Lithuania.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Genesis Market gang tries to sell platform after FBI disruption<a href="https://therecord.media/genesis-market-fraud-platform-for-sale-dark-web?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unlike its competitors, Genesis Market did not just sell stolen data and credentials but also provided a platform to criminals that allowed them to weaponize that data using a custom browser extension to impersonate victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mozilla Feature Blocks Risky Add-Ons on Specific Websites to Safeguard User Security<a href="https://thehackernews.com/2023/07/new-mozilla-feature-blocks-risky-add.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has announced that some add-ons may be blocked from running on certain sites as part of a new feature called  Quarantined Domains . "We have introduced a new back-end feature to only allow some extensions monitored by Mozilla to run on specific websites for various reasons, including security concerns," the company  said  in its Release Notes for Firefox 115.0 released last week. The company said the openness afforded by the add-on ecosystem could be exploited by malicious actors to their advantage. "This feature allows us to prevent attacks by malicious actors targeting specific domains when we have reason to believe there may be malicious add-ons we have not yet discovered," Mozilla  said  in a separate support document. Users are expected to have more control over the setting for each add-on, starting with Firefox version 116. That said, it can be disabled by loading "about:config" in the address bar and setting "extensions.quarantine
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC exploit for Ubiquiti EdgeRouter flaw<a href="https://securityaffairs.com/148334/hacking/ubiquiti-edgerouter-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Proof-of-Concept (PoC) exploit for the CVE-2023-31998 vulnerability in the Ubiquiti EdgeRouter has been publicly released.
+The CVE-2023-31998 flaw (CVSS v3 5.9) is a heap overflow issue impacting Ubiquiti EdgeRouters and Aircubes, an attacker can exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns of exploit available for critical vRealize RCE bug<a href="https://www.bleepingcomputer.com/news/security/vmware-warns-of-exploit-available-for-critical-vrealize-rce-bug/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware warned customers today that exploit code is now available for a critical vulnerability in the VMware Aria Operations for Logs analysis tool, which helps admins manage terabytes worth of app and infrastructure logs in large-scale environments.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Published for Recent Ubiquiti EdgeRouter Vulnerability<a href="https://www.securityweek.com/poc-exploit-published-for-recent-ubiquiti-edgerouter-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently patched vulnerability in Ubiquiti EdgeRouter and AirCube devices could be exploited to execute arbitrary code, vulnerability reporting firm SSD Secure Disclosure warns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New TOITOIN Banking Trojan Targeting Latin American Businesses<a href="https://thehackernews.com/2023/07/new-toitoin-banking-trojan-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Businesses operating in the Latin American (LATAM) region are the target of a new Windows-based banking trojan called  TOITOIN  since May 2023. "This sophisticated campaign employs a trojan that follows a multi-staged infection chain, utilizing specially crafted modules throughout each stage," Zscaler researchers Niraj Shivtarkar and Preet Kamal  said  in a report published last week. "These modules are custom designed to carry out malicious activities, such as injecting harmful code into remote processes, circumventing User Account Control via COM Elevation Moniker, and evading detection by Sandboxes through clever techniques like system reboots and parent process checks." The six-stage endeavor has all the hallmarks of a well-crafted attack sequence, beginning with a phishing email containing an embedded link that points to a ZIP archive hosted on an Amazon EC2 instance to evade domain-based detections. The email messages leverage an invoice-themed lure to t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RomCom RAT attackers target groups supporting NATO membership of Ukraine<a href="https://securityaffairs.com/148324/intelligence/romcom-rat-groups-supporting-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting NATO and groups supporting Ukraine in a spear-phishing campaign distributing the RomCom RAT.
+On July 4, the BlackBerry Threat Research and Intelligence team uncovered a spear phishing campaign aimed at an organization...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple releases emergency update to fix zero-day exploited in attacks<a href="https://www.bleepingcomputer.com/news/apple/apple-releases-emergency-update-to-fix-zero-day-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has issued a new round of Rapid Security Response (RSR) updates to address a new zero-day bug exploited in attacks and impacting fully-patched iPhones, Macs, and iPads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Honeywell Boosting OT Cybersecurity Offering With Acquisition of SCADAfence<a href="https://www.securityweek.com/honeywell-boosting-ot-cybersecurity-offering-with-acquisition-of-scadafence/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Honeywell has agreed to acquire SCADAfence for an undisclosed amount and plans on integrating its solutions into the company’s Forge Cybersecurity+ suite. The deal is expected to close in the second half of the year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Retailers Must Keep an Eye on Their SaaS Stack<a href="https://thehackernews.com/2023/07/global-retailers-must-keep-eye-on-their.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brick-and-mortar retailers and e-commerce sellers may be locked in a fierce battle for market share, but one area both can agree on is the need to secure their SaaS stack. From communications tools to order management and fulfillment systems, much of today's critical retail software lives in SaaS apps in the cloud. Securing those applications is crucial to ongoing operations, chain management, and business continuity.  Breaches in retail send out seismic shockwaves. Ten years later, many still remember one national retailer that had 40 million credit card records stolen. Those attacks have continued. According to  Verizon's  Data Breach Investigations Report, last year saw 629 cybersecurity incidents in the sector. Clearly, retailers must take concrete steps to secure their SaaS stack.  And yet, securing applications is complicated. Retailers tend to have multiple tenants of apps, which leads to confusion over which instances of the application were already secured and whic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in Revolut US payments resulted in the theft of $20 Million<a href="https://securityaffairs.com/148315/breaking-news/revolut-payment-systems-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day vulnerability in the Revolut payment systems allowed threat actors to steal more than $20 million in early 2022.
+In early 2022, threat actors exploited a zero-day flaw in Revolut payment systems to steal more than $20 million, reported...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former employee charged for attacking water treatment plant<a href="https://www.bleepingcomputer.com/news/security/former-employee-charged-for-attacking-water-treatment-plant/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former employee of Discovery Bay Water Treatment Facility in California was indicted by a federal grand jury for intentionally attempting to cause malfunction to the facility's safety and protection systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+35 Million Indonesians' Passport Data for Sale on Dark Web for $10K<a href="https://www.bankinfosecurity.com/35m-indonesians-passport-data-for-sale-on-dark-web-for-10k-a-22492?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indonesian security researcher Teguh Aprianto revealed on Twitter last week that a hacker had put up for sale Indonesian passport holders' details including their full names, birth dates, gender, passport numbers, and passport validity dates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RomCom RAT Targeting NATO and Ukraine Support Groups<a href="https://thehackernews.com/2023/07/romcom-rat-targeting-nato-and-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the RomCom RAT have been suspected of phishing attacks targeting the  upcoming NATO Summit  in Vilnius as well as an identified organization supporting Ukraine abroad. The findings come from the BlackBerry Threat Research and Intelligence team, which  found  two malicious documents submitted from a Hungarian IP address on July 4, 2023. RomCom, also tracked under the names Tropical Scorpius, UNC2596, and Void Rabisu, was recently observed staging cyber attacks against politicians in Ukraine who are working closely with Western countries and a U.S.-based healthcare organization involved with aiding refugees fleeing the war-torn country. Attack chains mounted by the group are geopolitically motivated and have employed spear-phishing emails to point victims to cloned websites hosting trojanized versions of popular software. Targets include militaries, food supply chains, and IT companies. The latest lure documents identified by BlackBerry impersonate Ukrainia
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France’s government is giving the police more surveillance power<a href="https://securityaffairs.com/148305/laws-and-regulations/french-government-surveillance-power.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French government is going to grant law enforcement the power to spy on suspects through smartphones and other devices.
+French legislators are going to approve a justice reform bill that also gives more power to law enforcement, allowing them...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Razer investigates data breach claims, resets user sessions<a href="https://www.bleepingcomputer.com/news/security/razer-investigates-data-breach-claims-resets-user-sessions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gaming gear company Razer reacted to recent rumors of a massive data breach with a short statement on Twitter, letting users know that they started an investigation into the matter.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ISACA joins ECSO to strengthen cybersecurity and digital skills in Europe<a href="https://www.helpnetsecurity.com/2023/07/06/isaca-ecso/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ISACA is joining the European Cyber Security Organisation (ECSO). The membership will work to accelerate ECSO and ISACA’s shared commitment to advancing cybersecurity, fostering collaboration and driving digital trust across Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal $20 Million by Exploiting Flaw in Revolut's Payment Systems<a href="https://thehackernews.com/2023/07/hackers-steal-20-million-by-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors exploited an unknown flaw in Revolut's payment systems to steal more than $20 million of the company's funds in early 2022. The development was  reported  by the Financial Times, citing multiple unnamed sources with knowledge of the incident. The breach has not been disclosed publicly. The fault stemmed from discrepancies between Revolut's U.S. and European systems, causing funds to be erroneously refunded using its own money when some transactions were declined. The problem was first detected in late 2021. But before it could be closed, the report said organized criminal groups leveraged the loophole by "encouraging individuals to try to make expensive purchases that would go on to be declined." The refunded amounts would then be withdrawn from ATMs. The exact technical details associated with the flaw are currently unclear. About $23 million was stolen in total, with some funds recovered by pursuing those who had withdrawn cash. The mass
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Streamlining security operations with automated incident response<a href="https://www.bleepingcomputer.com/news/security/streamlining-security-operations-with-automated-incident-response/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automated incident response solutions help reduce the mean time to respond to incidents, address known security threats, and also minimize alert fatigue. Learn more about these solutions from Wazuh, the open source XDR/SIEM platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Midyear Health Data Breach Analysis: The Top Culprits<a href="https://www.bankinfosecurity.com/midyear-health-data-breach-analysis-top-culprits-a-22495?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HHS HIPAA Breach Reporting Tool shows that 336 major health data breaches affected nearly 41.4 million individuals between January 1st and June 30th this year - nearly double the number affected during the same period last year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Attack Spoofs Microsoft 365 Authentication System<a href="https://www.hackread.com/phishing-attack-microsoft-365-authentication/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers at Vade, the attack email includes a harmful HTML attachment with JavaScript code. This code is designed to gather the recipient’s email address and modify the page using data from a callback function’s variable.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten hackers use new ‘NokNok’ malware for macOS<a href="https://www.bleepingcomputer.com/news/security/charming-kitten-hackers-use-new-noknok-malware-for-macos/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers observed a new campaign they attribute to the Charming Kitten APT group where hackers used new NokNok malware that targets macOS systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two spyware sending data of more than 1.5M users to China were found in Google Play Store<a href="https://securityaffairs.com/148295/malware/spyware-sending-data-china-google-play-store.html"> Full Text</a>
@@ -51,7 +423,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2023
+July 9, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 427 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/148291/breaking-news/security-affairs-newsletter-round-427-by-pierluigi-paganini-international-edition.html"> Full Text</a>
@@ -69,7 +441,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2023
+July 8, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tailing Big Head Ransomware’s Variants, Tactics, and Impact<a href="https://www.trendmicro.com/en_us/research/23/g/tailing-big-head-ransomware-variants-tactics-and-impact.html?&web_view=true"> Full Text</a>
@@ -85,7 +457,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 08, 2023
+July 08, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Spyware Apps on Google Play with 1.5 Million Users Sending Data to China<a href="https://thehackernews.com/2023/07/two-spyware-apps-on-google-play-with-15.html"> Full Text</a>
@@ -101,7 +473,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2023
+July 8, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WISE REMOTE Stealer Unleashed : Unveiling Its Multifaceted Malicious Arsenal<a href="https://www.cyfirma.com/outofband/wise-remote-stealer-unleashed-unveiling-its-multifaceted-malicious-arsenal/?&web_view=true"> Full Text</a>
@@ -117,7 +489,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2023
+July 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Translation Service Exposed Highly Sensitive Records Online<a href="https://www.hackread.com/global-translation-service-exposed-records/?&web_view=true"> Full Text</a>
@@ -133,7 +505,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2023
+July 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google addressed 3 actively exploited flaws in Android<a href="https://securityaffairs.com/148286/mobile-2/android-actively-exploited-flaws-fixed.html"> Full Text</a>
@@ -150,7 +522,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2023
+July 8, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities in PiiGAB Product Could Expose Industrial Organizations to Attacks<a href="https://www.securityweek.com/vulnerabilities-in-piigab-product-could-expose-industrial-organizations-to-attacks/?&web_view=true"> Full Text</a>
@@ -166,7 +538,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 8, 2023
+July 8, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-linked APT TA453 targets Windows and macOS systems<a href="https://securityaffairs.com/148275/apt/ta453-malware-windows-macos.html"> Full Text</a>
