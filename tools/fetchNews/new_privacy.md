@@ -8,6 +8,21 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+France’s government is giving the police more surveillance power<a href="https://securityaffairs.com/148305/laws-and-regulations/french-government-surveillance-power.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The French government is going to grant law enforcement the power to spy on suspects through smartphones and other devices.
+French legislators are going to approve a justice reform bill that also gives more power to law enforcement, allowing them...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

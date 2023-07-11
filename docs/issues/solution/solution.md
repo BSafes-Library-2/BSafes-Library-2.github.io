@@ -8,6 +8,48 @@ nav_order: 900195
 
 ## Solution
 ---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mozilla Feature Blocks Risky Add-Ons on Specific Websites to Safeguard User Security<a href="https://thehackernews.com/2023/07/new-mozilla-feature-blocks-risky-add.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has announced that some add-ons may be blocked from running on certain sites as part of a new feature called&nbsp; Quarantined Domains . "We have introduced a new back-end feature to only allow some extensions monitored by Mozilla to run on specific websites for various reasons, including security concerns," the company&nbsp; said &nbsp;in its Release Notes for Firefox 115.0 released last week. The company said the openness afforded by the add-on ecosystem could be exploited by malicious actors to their advantage. "This feature allows us to prevent attacks by malicious actors targeting specific domains when we have reason to believe there may be malicious add-ons we have not yet discovered," Mozilla&nbsp; said &nbsp;in a separate support document. Users are expected to have more control over the setting for each add-on, starting with Firefox version 116. That said, it can be disabled by loading "about:config" in the address bar and setting "extensions.quarantine
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Honeywell Boosting OT Cybersecurity Offering With Acquisition of SCADAfence<a href="https://www.securityweek.com/honeywell-boosting-ot-cybersecurity-offering-with-acquisition-of-scadafence/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Honeywell has agreed to acquire SCADAfence for an undisclosed amount and plans on integrating its solutions into the company’s Forge Cybersecurity+ suite. The deal is expected to close in the second half of the year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Streamlining security operations with automated incident response<a href="https://www.bleepingcomputer.com/news/security/streamlining-security-operations-with-automated-incident-response/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automated incident response solutions help reduce the mean time to respond to incidents, address known security threats, and also minimize alert fatigue. Learn more about these solutions from Wazuh, the open source XDR/SIEM platform.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 07, 2023 <br>                   
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts released PoC exploit for Ubiquiti EdgeRouter flaw<a href="https://securityaffairs.com/148334/hacking/ubiquiti-edgerouter-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Proof-of-Concept (PoC) exploit for the CVE-2023-31998 vulnerability in the Ubiquiti EdgeRouter has been publicly released.
+The CVE-2023-31998 flaw (CVSS v3 5.9) is a heap overflow issue impacting Ubiquiti EdgeRouters and Aircubes, an attacker can exploit...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Published for Recent Ubiquiti EdgeRouter Vulnerability<a href="https://www.securityweek.com/poc-exploit-published-for-recent-ubiquiti-edgerouter-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently patched vulnerability in Ubiquiti EdgeRouter and AirCube devices could be exploited to execute arbitrary code, vulnerability reporting firm SSD Secure Disclosure warns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple releases emergency update to fix zero-day exploited in attacks<a href="https://www.bleepingcomputer.com/news/apple/apple-releases-emergency-update-to-fix-zero-day-exploited-in-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has issued a new round of Rapid Security Response (RSR) updates to address a new zero-day bug exploited in attacks and impacting fully-patched iPhones, Macs, and iPads.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Retailers Must Keep an Eye on Their SaaS Stack<a href="https://thehackernews.com/2023/07/global-retailers-must-keep-eye-on-their.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brick-and-mortar retailers and e-commerce sellers may be locked in a fierce battle for market share, but one area both can agree on is the need to secure their SaaS stack. From communications tools to order management and fulfillment systems, much of today's critical retail software lives in SaaS apps in the cloud. Securing those applications is crucial to ongoing operations, chain management, and business continuity.&nbsp; Breaches in retail send out seismic shockwaves. Ten years later, many still remember one national retailer that had 40 million credit card records stolen. Those attacks have continued. According to&nbsp; Verizon's &nbsp;Data Breach Investigations Report, last year saw 629 cybersecurity incidents in the sector. Clearly, retailers must take concrete steps to secure their SaaS stack.&nbsp; And yet, securing applications is complicated. Retailers tend to have multiple tenants of apps, which leads to confusion over which instances of the application were already secured and whic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ISACA joins ECSO to strengthen cybersecurity and digital skills in Europe<a href="https://www.helpnetsecurity.com/2023/07/06/isaca-ecso/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ISACA is joining the European Cyber Security Organisation (ECSO). The membership will work to accelerate ECSO and ISACA’s shared commitment to advancing cybersecurity, fostering collaboration and driving digital trust across Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Midyear Health Data Breach Analysis: The Top Culprits<a href="https://www.bankinfosecurity.com/midyear-health-data-breach-analysis-top-culprits-a-22495?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HHS HIPAA Breach Reporting Tool shows that 336 major health data breaches affected nearly 41.4 million individuals between January 1st and June 30th this year - nearly double the number affected during the same period last year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

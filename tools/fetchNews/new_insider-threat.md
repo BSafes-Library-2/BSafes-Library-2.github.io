@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former employee charged for attacking water treatment plant<a href="https://www.bleepingcomputer.com/news/security/former-employee-charged-for-attacking-water-treatment-plant/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former employee of Discovery Bay Water Treatment Facility in California was indicted by a federal grand jury for intentionally attempting to cause malfunction to the facility's safety and protection systems.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Genesis Market gang tries to sell platform after FBI disruption<a href="https://therecord.media/genesis-market-fraud-platform-for-sale-dark-web?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unlike its competitors, Genesis Market did not just sell stolen data and credentials but also provided a platform to criminals that allowed them to weaponize that data using a custom browser extension to impersonate victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal $20 Million by Exploiting Flaw in Revolut's Payment Systems<a href="https://thehackernews.com/2023/07/hackers-steal-20-million-by-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors exploited an unknown flaw in Revolut's payment systems to steal more than $20 million of the company's funds in early 2022. The development was&nbsp; reported &nbsp;by the Financial Times, citing multiple unnamed sources with knowledge of the incident. The breach has not been disclosed publicly. The fault stemmed from discrepancies between Revolut's U.S. and European systems, causing funds to be erroneously refunded using its own money when some transactions were declined. The problem was first detected in late 2021. But before it could be closed, the report said organized criminal groups leveraged the loophole by "encouraging individuals to try to make expensive purchases that would go on to be declined." The refunded amounts would then be withdrawn from ATMs. The exact technical details associated with the flaw are currently unclear. About $23 million was stolen in total, with some funds recovered by pursuing those who had withdrawn cash. The mass
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

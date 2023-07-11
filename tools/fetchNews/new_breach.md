@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in Revolut US payments resulted in the theft of $20 Million<a href="https://securityaffairs.com/148315/breaking-news/revolut-payment-systems-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day vulnerability in the Revolut payment systems allowed threat actors to steal more than $20 million in early 2022.
+In early 2022, threat actors exploited a zero-day flaw in Revolut payment systems to steal more than $20 million, reported...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+35 Million Indonesians' Passport Data for Sale on Dark Web for $10K<a href="https://www.bankinfosecurity.com/35m-indonesians-passport-data-for-sale-on-dark-web-for-10k-a-22492?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indonesian security researcher Teguh Aprianto revealed on Twitter last week that a hacker had put up for sale Indonesian passport holders' details including their full names, birth dates, gender, passport numbers, and passport validity dates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Razer investigates data breach claims, resets user sessions<a href="https://www.bleepingcomputer.com/news/security/razer-investigates-data-breach-claims-resets-user-sessions/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gaming gear company Razer reacted to recent rumors of a massive data breach with a short statement on Twitter, letting users know that they started an investigation into the matter.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

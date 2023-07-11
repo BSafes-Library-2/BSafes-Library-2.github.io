@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RomCom RAT attackers target groups supporting NATO membership of Ukraine<a href="https://securityaffairs.com/148324/intelligence/romcom-rat-groups-supporting-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting NATO and groups supporting Ukraine in a spear-phishing campaign distributing the RomCom RAT.
+On July 4,&nbsp;the BlackBerry Threat Research and Intelligence team&nbsp;uncovered a spear phishing campaign aimed at an organization...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RomCom RAT Targeting NATO and Ukraine Support Groups<a href="https://thehackernews.com/2023/07/romcom-rat-targeting-nato-and-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the RomCom RAT have been suspected of phishing attacks targeting the&nbsp; upcoming NATO Summit &nbsp;in Vilnius as well as an identified organization supporting Ukraine abroad. The findings come from the BlackBerry Threat Research and Intelligence team, which&nbsp; found &nbsp;two malicious documents submitted from a Hungarian IP address on July 4, 2023. RomCom, also tracked under the names Tropical Scorpius, UNC2596, and Void Rabisu, was recently observed staging cyber attacks against politicians in Ukraine who are working closely with Western countries and a U.S.-based healthcare organization involved with aiding refugees fleeing the war-torn country. Attack chains mounted by the group are geopolitically motivated and have employed spear-phishing emails to point victims to cloned websites hosting trojanized versions of popular software. Targets include militaries, food supply chains, and IT companies. The latest lure documents identified by BlackBerry impersonate Ukrainia
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
