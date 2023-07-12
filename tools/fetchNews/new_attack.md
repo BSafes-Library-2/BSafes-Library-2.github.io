@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Office zero-day CVE-2023-36884 actively exploited in targeted attacks<a href="https://securityaffairs.com/148380/hacking/office-zero-day-cve-2023-36884.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned today that an unpatched zero-day in multiple Windows and Office products was actively exploited in the wild.
+Microsoft disclosed an unpatched zero-day vulnerability in multiple Windows and Office products that has been actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Infrastructure Company Ventia Hit With Cyberattack<a href="https://therecord.media/ventia-hit-with-cyberattack-australia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian infrastructure services provider Ventia is dealing with a cyberattack that began this weekend. On Saturday, the company said it identified a cyber intrusion and took some “key systems” offline to contain the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RomCom hackers target NATO Summit attendees in phishing attacks<a href="https://www.bleepingcomputer.com/news/security/romcom-hackers-target-nato-summit-attendees-in-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor referred to as 'RomCom' has been targeting organizations supporting Ukraine and guests of the upcoming NATO Summit set to start tomorrow in Vilnius, Lithuania.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Attack Spoofs Microsoft 365 Authentication System<a href="https://www.hackread.com/phishing-attack-microsoft-365-authentication/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researchers at Vade, the attack email includes a harmful HTML attachment with JavaScript code. This code is designed to gather the recipient’s email address and modify the page using data from a callback function’s variable.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

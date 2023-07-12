@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Evolve Antidetect Tooling for Mobile OS-Based Fraud<a href="https://securityaffairs.com/148341/cyber-crime/antidetect-tooling-mobile-fraud.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity identified the emergence of adversarial mobile Android-based Antidetect Tooling for Mobile OS-Based Fraud.
+Resecurity has identified the emergence of adversarial mobile Android-based tools (called "mobile anti-detects"), like Enclave and McFly,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

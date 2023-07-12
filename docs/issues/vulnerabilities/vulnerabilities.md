@@ -8,6 +8,106 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Apple’s Rapid Security Response Patches Causing Website Access Issues<a href="https://www.securityweek.com/apples-rapid-security-response-patches-are-breaking-websites/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has pulled its latest Rapid Security Response updates for iOS and macOS after users complained that they were getting errors when accessing some websites through Safari.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Patches for 132 Vulnerabilities, Including 6 Under Active Attack<a href="https://thehackernews.com/2023/07/microsoft-releases-patches-for-130.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday released updates to address a total&nbsp; of 132 new security flaws &nbsp;spanning its software, including six zero-day flaws that it said have been actively exploited in the wild. Of the 132 vulnerabilities, nine are rated Critical, 122 are rated Important in severity, and one has been assigned a severity rating of "None." This is in addition to&nbsp; eight flaws &nbsp;the tech giant patched in its Chromium-based Edge browser towards the end of last month. The list of issues that have come under active exploitation is as follows - CVE-2023-32046 &nbsp;(CVSS score: 7.8) - Windows MSHTML Platform Elevation of Privilege Vulnerability CVE-2023-32049 &nbsp;(CVSS score: 8.8) - Windows SmartScreen Security Feature Bypass Vulnerability CVE-2023-35311 &nbsp;(CVSS score: 8.8) - Microsoft Outlook Security Feature Bypass Vulnerability CVE-2023-36874 &nbsp;(CVSS score: 7.8) - Windows Error Reporting Service Elevation of Privilege Vulnerability CVE-2023-36884 &nbsp;(CVSS score: 8.3) - Office and Windows
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Windows Policy Loophole to Forge Kernel-Mode Driver Signatures<a href="https://thehackernews.com/2023/07/hackers-exploit-windows-policy-loophole.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Microsoft Windows policy loophole has been observed being exploited primarily by native Chinese-speaking threat actors to forge signatures on kernel-mode drivers. "Actors are leveraging multiple open-source tools that alter the signing date of kernel mode drivers to load malicious and unverified drivers signed with expired certificates," Cisco Talos said in an&nbsp; exhaustive two-part report &nbsp;shared with The Hacker News. "This is a major threat, as access to the kernel provides complete access to a system, and therefore total compromise." Following responsible disclosure, Microsoft&nbsp; said &nbsp;it has taken steps to block all certificates to mitigate the threat. It further stated that its investigation found "the activity was limited to the abuse of several developer program accounts and that no Microsoft account compromise has been identified." The tech giant, besides suspending developer program accounts involved in the incident, emphasized that the threat a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple issued Rapid Security Response updates to fix a zero-day but pulled them due to a Safari bug<a href="https://securityaffairs.com/148360/security/apple-issued-rapid-security-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released&nbsp;Rapid Security Response&nbsp;updates for iOS, iPadOS, macOS, and Safari web browser to&nbsp;address&nbsp;an actively exploited zero-day.
+Apple has released&nbsp;Rapid Security Response&nbsp;updates for iOS, iPadOS, macOS, and Safari web browser to&nbsp;address&nbsp;a...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns customers of exploit available for critical vRealize RCE flaw CVE-2023-20864<a href="https://securityaffairs.com/148346/hacking/vmware-vmware-rce-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware warns customers of the public availability of an exploit code for the RCE vulnerability CVE-2023-20864 affecting vRealize.
+VMware warned customers of the availability of an exploit code for the critical RCE vulnerability CVE-2023-20864 in the VMware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Owncast, EaseProbe Security Vulnerabilities Revealed<a href="https://www.helpnetsecurity.com/2023/07/11/cve-2023-3188-cve-2023-33967/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oxeye has uncovered two critical security vulnerabilities and recommends immediate action to mitigate risk. The vulnerabilities were discovered in Owncast (CVE-2023-3188) and EaseProbe (CVE-2023-33967), two open-source platforms written in Go.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Issues Urgent Patch for Zero-Day Flaw Targeting iOS, iPadOS, macOS, and Safari<a href="https://thehackernews.com/2023/07/apple-issues-urgent-patch-for-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released&nbsp; Rapid Security Response &nbsp;updates for iOS, iPadOS, macOS, and Safari web browser to&nbsp; address &nbsp;a zero-day flaw that it said has been actively exploited in the wild. The WebKit bug, cataloged as&nbsp; CVE-2023-37450 , could allow threat actors to achieve arbitrary code execution when processing specially crafted web content. The iPhone maker said it addressed the issue with improved checks. Credited with discovering and reporting the flaw is an anonymous researcher. As with most cases like this, there are scant details about the nature and the scale of the attacks and the identity of the threat actor behind them. But Apple noted in a terse advisory that it's "aware of a report that this issue may have been actively exploited." The updates, iOS 16.5.1 (a), iPadOS 16.5.1 (a), macOS Ventura 13.4.1 (a), and Safari 16.5.2, are available for devices running the following operating system versions: iOS 16.5.1 and iPadOS 16.5.1 macOS Ventura 13.4.1 macOS Big
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of Big Head Ransomware: Spreading Through Fake Windows Updates<a href="https://thehackernews.com/2023/07/beware-of-big-head-ransomware-spreading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A developing piece of ransomware called&nbsp; Big Head &nbsp;is being distributed as part of a malvertising campaign that takes the form of bogus Microsoft Windows updates and Word installers. Big Head was&nbsp; first documented &nbsp;by Fortinet FortiGuard Labs last month, when it discovered multiple variants of the ransomware that are designed to encrypt files on victims' machines in exchange for a cryptocurrency payment. "One Big Head ransomware variant displays a fake Windows Update, potentially indicating that the ransomware was also distributed as a fake Windows Update," Fortinet researchers said at the time. "One of the variants has a Microsoft Word icon and was likely distributed as counterfeit software." A majority of the Big Head samples have been submitted so far from the U.S., Spain, France, and Turkey. In a new analysis of the .NET-based ransomware, Trend Micro detailed its inner workings, calling out its ability to deploy three encrypted binaries: 1.exe to propag
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

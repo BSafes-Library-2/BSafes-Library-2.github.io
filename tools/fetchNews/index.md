@@ -34,6 +34,332 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two more lawsuits filed against Scranton cardiology group over data breach<a href="https://www.yahoo.com/entertainment/two-more-lawsuits-filed-against-000500558.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals attempted to access accounts of a Scranton couple who are among clients whose personal information was exposed in a data breach at a Commonwealth Health cardiology group's practice, according to a proposed class-action lawsuit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python-Based PyLoose Fileless Attack Targets Cloud Workloads for Cryptocurrency Mining<a href="https://thehackernews.com/2023/07/python-based-pyloose-fileless-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new fileless attack dubbed  PyLoose  has been observed striking cloud workloads with the goal of delivering a cryptocurrency miner, new findings from Wiz reveal. "The attack consists of Python code that loads an XMRig Miner directly into memory using  memfd , a known Linux fileless technique," security researchers Avigayil Mechtinger, Oren Ofer, and Itamar Gilad  said . "This is the first publicly documented Python-based fileless attack targeting cloud workloads in the wild." The cloud security firm said it found nearly 200 instances where the attack method was employed for cryptocurrency mining. No other details about the threat actor are currently known other than the fact that they possess sophisticated capabilities. In the infection chain documented by Wiz, initial access is achieved through the exploitation of a publicly accessible Jupyter Notebook service that allowed for the execution of system commands using Python modules. PyLoose , first detected on
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Office zero-day CVE-2023-36884 actively exploited in targeted attacks<a href="https://securityaffairs.com/148380/hacking/office-zero-day-cve-2023-36884.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft warned today that an unpatched zero-day in multiple Windows and Office products was actively exploited in the wild.
+Microsoft disclosed an unpatched zero-day vulnerability in multiple Windows and Office products that has been actively exploited...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Apple’s Rapid Security Response Patches Causing Website Access Issues<a href="https://www.securityweek.com/apples-rapid-security-response-patches-are-breaking-websites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has pulled its latest Rapid Security Response updates for iOS and macOS after users complained that they were getting errors when accessing some websites through Safari.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Patches for 132 Vulnerabilities, Including 6 Under Active Attack<a href="https://thehackernews.com/2023/07/microsoft-releases-patches-for-130.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday released updates to address a total  of 132 new security flaws  spanning its software, including six zero-day flaws that it said have been actively exploited in the wild. Of the 132 vulnerabilities, nine are rated Critical, 122 are rated Important in severity, and one has been assigned a severity rating of "None." This is in addition to  eight flaws  the tech giant patched in its Chromium-based Edge browser towards the end of last month. The list of issues that have come under active exploitation is as follows - CVE-2023-32046  (CVSS score: 7.8) - Windows MSHTML Platform Elevation of Privilege Vulnerability CVE-2023-32049  (CVSS score: 8.8) - Windows SmartScreen Security Feature Bypass Vulnerability CVE-2023-35311  (CVSS score: 8.8) - Microsoft Outlook Security Feature Bypass Vulnerability CVE-2023-36874  (CVSS score: 7.8) - Windows Error Reporting Service Elevation of Privilege Vulnerability CVE-2023-36884  (CVSS score: 8.3) - Office and Windows
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HCA Healthcare data breach impacted 11 million patients<a href="https://securityaffairs.com/148371/data-breach/hca-healthcare-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HCA Healthcare disclosed a data breach that exposed the personal information of roughly 11 million patients.
+HCA Healthcare this week announced that the personal information of roughly 11 million patients was compromised in a data breach.
+The organization...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New TOITOIN Trojan Targets LATAM<a href="https://cyware.com/news/new-toitoin-trojan-targets-latam-b95b66fe"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Businesses in the Latin American region are facing a new threat from a sophisticated malicious campaign distributing the TOITOIN trojan. Moreover, the campaign uses Amazon EC2 instances to evade domain-based detections. It is crucial for organizations to maintain a high level of vigilance against e ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Windows Policy Loophole to Forge Kernel-Mode Driver Signatures<a href="https://thehackernews.com/2023/07/hackers-exploit-windows-policy-loophole.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Microsoft Windows policy loophole has been observed being exploited primarily by native Chinese-speaking threat actors to forge signatures on kernel-mode drivers. "Actors are leveraging multiple open-source tools that alter the signing date of kernel mode drivers to load malicious and unverified drivers signed with expired certificates," Cisco Talos said in an  exhaustive two-part report  shared with The Hacker News. "This is a major threat, as access to the kernel provides complete access to a system, and therefore total compromise." Following responsible disclosure, Microsoft  said  it has taken steps to block all certificates to mitigate the threat. It further stated that its investigation found "the activity was limited to the abuse of several developer program accounts and that no Microsoft account compromise has been identified." The tech giant, besides suspending developer program accounts involved in the incident, emphasized that the threat a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple issued Rapid Security Response updates to fix a zero-day but pulled them due to a Safari bug<a href="https://securityaffairs.com/148360/security/apple-issued-rapid-security-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released Rapid Security Response updates for iOS, iPadOS, macOS, and Safari web browser to address an actively exploited zero-day.
+Apple has released Rapid Security Response updates for iOS, iPadOS, macOS, and Safari web browser to address a...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Purr-fectly Crafted for Macs: Charming Kitten Introduces NokNok Malware<a href="https://cyware.com/news/purr-fectly-crafted-for-macs-charming-kitten-introduces-noknok-malware-513ab2c4"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers uncovered a new campaign by Charming Kitten (APT42) targeting Windows and macOS systems using different malware payloads. A new type of malware called NokNok, is specifically used for targeting macOS systems. For Windows, adversaries leverage PowerShell code and an LNK file to  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Apply MITRE ATT&CK to Your Organization<a href="https://thehackernews.com/2023/07/how-to-apply-mitre-att-to-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discover all the ways MITRE ATT&CK can help you defend your organization. Build your security strategy and policies by making the most of this important framework. What is the MITRE ATT&CK Framework? MITRE ATT&CK (Adversarial Tactics, Techniques, and Common Knowledge) is a widely adopted framework and knowledge base that outlines and categorizes the  tactics, techniques, and procedures (TTPs) used in cyberattacks . Created by the nonprofit organization MITRE, this framework provides security professionals with insights and context that can help them comprehend, identify, and mitigate cyber threats effectively. The techniques and tactics in the framework are organized in a dynamic matrix. This makes navigation easy and also provides a holistic view of the entire spectrum of adversary behaviors. As a result, the framework is more actionable and usable than if it were a static list. The MITRE ATT&CK Framework can be found here:  https://attack.mitre.org/ Look Out: MI
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware warns customers of exploit available for critical vRealize RCE flaw CVE-2023-20864<a href="https://securityaffairs.com/148346/hacking/vmware-vmware-rce-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware warns customers of the public availability of an exploit code for the RCE vulnerability CVE-2023-20864 affecting vRealize.
+VMware warned customers of the availability of an exploit code for the critical RCE vulnerability CVE-2023-20864 in the VMware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Owncast, EaseProbe Security Vulnerabilities Revealed<a href="https://www.helpnetsecurity.com/2023/07/11/cve-2023-3188-cve-2023-33967/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oxeye has uncovered two critical security vulnerabilities and recommends immediate action to mitigate risk. The vulnerabilities were discovered in Owncast (CVE-2023-3188) and EaseProbe (CVE-2023-33967), two open-source platforms written in Go.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SCARLETEEL Cryptojacking Campaign Exploiting AWS Fargate in Ongoing Campaign<a href="https://thehackernews.com/2023/07/scarleteel-cryptojacking-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud environments continue to be at the receiving end of an ongoing advanced attack campaign dubbed SCARLETEEL, with the threat actors now setting their sights on Amazon Web Services (AWS) Fargate. "Cloud environments are still their primary target, but the tools and techniques used have adapted to bypass new security measures, along with a more resilient and stealthy command and control architecture," Sysdig security researcher Alessandro Brucato said in a new report shared with The Hacker News. SCARLETEEL was  first exposed  by the cybersecurity company in February 2023, detailing a sophisticated attack chain that culminated in the theft of proprietary data from AWS infrastructure and the deployment of cryptocurrency miners to profit off the compromised systems' resources illegally. A follow-up analysis by Cado Security  uncovered  potential links to a prolific cryptojacking group known as  TeamTNT , although Sysdig told The Hacker News that it "could be some
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Evolve Antidetect Tooling for Mobile OS-Based Fraud<a href="https://securityaffairs.com/148341/cyber-crime/antidetect-tooling-mobile-fraud.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resecurity identified the emergence of adversarial mobile Android-based Antidetect Tooling for Mobile OS-Based Fraud.
+Resecurity has identified the emergence of adversarial mobile Android-based tools (called "mobile anti-detects"), like Enclave and McFly,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HCA Healthcare Reports Breach of 11 Million Patients’ Personal Data<a href="https://techcrunch.com/2023/07/11/hca-healthcare-breach-patients-personal-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a website notice, HCA confirmed that the data includes “information used for email messages, such as reminders that patients may wish to schedule an appointment and education on healthcare programs and services.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of Big Head Ransomware: Spreading Through Fake Windows Updates<a href="https://thehackernews.com/2023/07/beware-of-big-head-ransomware-spreading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A developing piece of ransomware called  Big Head  is being distributed as part of a malvertising campaign that takes the form of bogus Microsoft Windows updates and Word installers. Big Head was  first documented  by Fortinet FortiGuard Labs last month, when it discovered multiple variants of the ransomware that are designed to encrypt files on victims' machines in exchange for a cryptocurrency payment. "One Big Head ransomware variant displays a fake Windows Update, potentially indicating that the ransomware was also distributed as a fake Windows Update," Fortinet researchers said at the time. "One of the variants has a Microsoft Word icon and was likely distributed as counterfeit software." A majority of the Big Head samples have been submitted so far from the U.S., Spain, France, and Turkey. In a new analysis of the .NET-based ransomware, Trend Micro detailed its inner workings, calling out its ability to deploy three encrypted binaries: 1.exe to propag
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Six Malicious Python Packages in the PyPI Targeting Windows Users<a href="https://unit42.paloaltonetworks.com/malicious-packages-in-pypi/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers imitated the W4SP attack group by using custom entry points and leveraging free file hosting services to remain undetected during the installation or execution process.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Issues Urgent Patch for Zero-Day Flaw Targeting iOS, iPadOS, macOS, and Safari<a href="https://thehackernews.com/2023/07/apple-issues-urgent-patch-for-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released  Rapid Security Response  updates for iOS, iPadOS, macOS, and Safari web browser to  address  a zero-day flaw that it said has been actively exploited in the wild. The WebKit bug, cataloged as  CVE-2023-37450 , could allow threat actors to achieve arbitrary code execution when processing specially crafted web content. The iPhone maker said it addressed the issue with improved checks. Credited with discovering and reporting the flaw is an anonymous researcher. As with most cases like this, there are scant details about the nature and the scale of the attacks and the identity of the threat actor behind them. But Apple noted in a terse advisory that it's "aware of a report that this issue may have been actively exploited." The updates, iOS 16.5.1 (a), iPadOS 16.5.1 (a), macOS Ventura 13.4.1 (a), and Safari 16.5.2, are available for devices running the following operating system versions: iOS 16.5.1 and iPadOS 16.5.1 macOS Ventura 13.4.1 macOS Big
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Infrastructure Company Ventia Hit With Cyberattack<a href="https://therecord.media/ventia-hit-with-cyberattack-australia?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian infrastructure services provider Ventia is dealing with a cyberattack that began this weekend. On Saturday, the company said it identified a cyber intrusion and took some “key systems” offline to contain the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 10, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

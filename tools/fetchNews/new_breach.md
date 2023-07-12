@@ -8,6 +8,36 @@ nav_order: 900029
 
 ## Breach
 ---
+July 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HCA Healthcare data breach impacted 11 million patients<a href="https://securityaffairs.com/148371/data-breach/hca-healthcare-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HCA Healthcare disclosed a data breach that exposed the personal information of roughly 11 million patients.
+HCA Healthcare this week announced that the personal information of roughly 11 million patients was compromised in a data breach.
+The organization...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HCA Healthcare Reports Breach of 11 Million Patients’ Personal Data<a href="https://techcrunch.com/2023/07/11/hca-healthcare-breach-patients-personal-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a website notice, HCA confirmed that the data includes “information used for email messages, such as reminders that patients may wish to schedule an appointment and education on healthcare programs and services.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
