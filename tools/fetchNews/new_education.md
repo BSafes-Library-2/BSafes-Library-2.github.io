@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Risks and Preventions of AI in Business: Safeguarding Against Potential Pitfalls<a href="https://thehackernews.com/2023/07/the-risks-and-preventions-of-ai-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Artificial intelligence (AI) holds immense potential for optimizing internal processes within businesses. However, it also comes with legitimate concerns regarding unauthorized use, including data loss risks and legal consequences. In this article, we will explore the risks associated with AI implementation and discuss measures to minimize damages. Additionally, we will examine regulatory initiatives by countries and ethical frameworks adopted by companies to regulate AI. Security risks&nbsp; AI phishing attacks Cybercriminals can leverage AI in various ways to enhance their phishing attacks and increase their chances of success. Here are some ways AI can be exploited for phishing: -&nbsp; Automated Phishing Campaigns: &nbsp;AI-powered tools can automate the creation and dissemination of phishing emails on a large scale. These tools can generate convincing email content, craft personalized messages, and mimic the writing style of a specific individual, making phishing attempts appear more legit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

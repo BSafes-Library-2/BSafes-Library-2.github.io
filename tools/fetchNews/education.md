@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Apply MITRE ATT&amp;CK to Your Organization<a href="https://thehackernews.com/2023/07/how-to-apply-mitre-att-to-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discover all the ways MITRE ATT&amp;CK can help you defend your organization. Build your security strategy and policies by making the most of this important framework. What is the MITRE ATT&amp;CK Framework? MITRE ATT&amp;CK (Adversarial Tactics, Techniques, and Common Knowledge) is a widely adopted framework and knowledge base that outlines and categorizes the&nbsp; tactics, techniques, and procedures (TTPs) used in cyberattacks . Created by the nonprofit organization MITRE, this framework provides security professionals with insights and context that can help them comprehend, identify, and mitigate cyber threats effectively. The techniques and tactics in the framework are organized in a dynamic matrix. This makes navigation easy and also provides a holistic view of the entire spectrum of adversary behaviors. As a result, the framework is more actionable and usable than if it were a static list. The MITRE ATT&amp;CK Framework can be found here:&nbsp; https://attack.mitre.org/ Look Out: MI
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

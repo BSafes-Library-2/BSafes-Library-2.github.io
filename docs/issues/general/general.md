@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Extortion Skyrockets in 2023, Reaching $449.1 Million and Counting<a href="https://thehackernews.com/2023/07/ransomware-extortion-skyrockets-in-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware has emerged as the only cryptocurrency-based crime to grow in 2023, with cybercriminals extorting nearly $175.8 million more than they did a year ago, according to findings from Chainalysis. "Ransomware attackers are on pace for their second-biggest year ever, having extorted at least $449.1 million through June," the blockchain analytics firm&nbsp; said &nbsp;in a midyear crypto crime report shared with The Hacker News. "If this pace continues, ransomware attackers will extort $898.6 million from victims in 2023, trailing only 2021's $939.9 million." In contrast, crypto scams have pulled in 77% less revenue than they did through June of 2022, largely driven by the abrupt exit of&nbsp; VidiLook , which pays users VDL tokens in return for watching digital ads that then can be exchanged for large rewards. So have the inflows to illicit addresses associated with malware, darknet markets, child abuse material, and fraud shops. The development, following a&nbsp; decline
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

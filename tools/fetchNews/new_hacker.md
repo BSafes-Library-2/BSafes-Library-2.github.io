@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Deploy Microsoft-Signed Rootkit to Target Gaming Sector<a href="https://thehackernews.com/2023/07/chinese-hackers-deploy-microsoft-signed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unearthed a novel rootkit signed by Microsoft that's engineered to communicate with an actor-controlled attack infrastructure. Trend Micro has attributed the activity cluster to the same actor that was previously identified as behind the&nbsp; FiveSys rootkit , which came to light in October 2021. "This malicious actor originates from China and their main victims are the gaming sector in China," Trend Micro's Mahmoud Zohdy, Sherif Magdy, and Mohamed Fahmy&nbsp; said . Their malware seems to have passed through the Windows Hardware Quality Labs ( WHQL ) process for getting a valid signature. Multiple variants of the rootkit spanning eight different clusters have been discovered, with 75 such drivers signed using Microsoft's WHQL program in 2022 and 2023. Trend Micro's analysis of some of the samples has revealed the presence of debug messages in the source code, indicating that the operation is still in the development and testing phas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

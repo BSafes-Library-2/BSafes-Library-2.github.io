@@ -11,6 +11,20 @@ nav_order: 900163
 July 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+British Prosecutors Say Teen Lapsus$ Member Was Behind Hacks on Uber, Rockstar<a href="https://therecord.media/british-prosecutors-accuse-teen-lapsus-member-of-uber-revolut-rockstar-hacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A British Crown Court on Tuesday lifted a reporting restriction, allowing the naming of teenager Arion Kurtaj who is accused of hacking Uber, Revolut, and video game developer Rockstar Games in a short period of time last September.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Two more lawsuits filed against Scranton cardiology group over data breach<a href="https://www.yahoo.com/entertainment/two-more-lawsuits-filed-against-000500558.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

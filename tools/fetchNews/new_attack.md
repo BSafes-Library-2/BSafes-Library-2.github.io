@@ -11,6 +11,35 @@ nav_order: 900015
 July 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Thwarts Chinese Cyber Attack Targeting Western European Governments<a href="https://thehackernews.com/2023/07/microsoft-thwarts-chinese-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday&nbsp; revealed &nbsp;that it repelled a cyber attack staged by a Chinese nation-state actor targeting two dozen organizations, some of which include government agencies, in a cyber espionage campaign designed to acquire confidential data. The attacks, which commenced on May 15, 2023, entailed access to email accounts affecting approximately 25 entities and a small number of related individual consumer accounts. The tech giant attributed the campaign to Storm-0558, describing it as a nation-state activity group based out of China that primarily singles out government agencies in Western Europe. "They focus on espionage, data theft, and credential access," Microsoft&nbsp; said . "They are also known to use custom malware that Microsoft tracks as Cigril and Bling, for credential access." The breach is said to have been detected a month later on June 16, 2023, after an unidentified customer reported the anomalous email activity to the company. Microsoft sai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft mitigated an attack by Chinese threat actor Storm-0558<a href="https://securityaffairs.com/148387/hacking/microsoft-blocked-storm-0558-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced it has mitigated a cyber attack by a China-linked threat actor, tracked as Storm-0558, which targeted customer emails.
+Microsoft announced it has mitigated an attack conducted by a China-linked threat actor, tracked as Storm-0558,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Office zero-day CVE-2023-36884 actively exploited in targeted attacks<a href="https://securityaffairs.com/148380/hacking/office-zero-day-cve-2023-36884.html"> Full Text</a>
 </p>
 <details>

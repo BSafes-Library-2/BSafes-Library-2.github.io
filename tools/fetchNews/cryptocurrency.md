@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python-Based PyLoose Fileless Attack Targets Cloud Workloads for Cryptocurrency Mining<a href="https://thehackernews.com/2023/07/python-based-pyloose-fileless-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new fileless attack dubbed&nbsp; PyLoose &nbsp;has been observed striking cloud workloads with the goal of delivering a cryptocurrency miner, new findings from Wiz reveal. "The attack consists of Python code that loads an XMRig Miner directly into memory using&nbsp; memfd , a known Linux fileless technique," security researchers Avigayil Mechtinger, Oren Ofer, and Itamar Gilad&nbsp; said . "This is the first publicly documented Python-based fileless attack targeting cloud workloads in the wild." The cloud security firm said it found nearly 200 instances where the attack method was employed for cryptocurrency mining. No other details about the threat actor are currently known other than the fact that they possess sophisticated capabilities. In the infection chain documented by Wiz, initial access is achieved through the exploitation of a publicly accessible Jupyter Notebook service that allowed for the execution of system commands using Python modules. PyLoose , first detected on
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SCARLETEEL Cryptojacking Campaign Exploiting AWS Fargate in Ongoing Campaign<a href="https://thehackernews.com/2023/07/scarleteel-cryptojacking-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud environments continue to be at the receiving end of an ongoing advanced attack campaign dubbed SCARLETEEL, with the threat actors now setting their sights on Amazon Web Services (AWS) Fargate. "Cloud environments are still their primary target, but the tools and techniques used have adapted to bypass new security measures, along with a more resilient and stealthy command and control architecture," Sysdig security researcher Alessandro Brucato said in a new report shared with The Hacker News. SCARLETEEL was&nbsp; first exposed &nbsp;by the cybersecurity company in February 2023, detailing a sophisticated attack chain that culminated in the theft of proprietary data from AWS infrastructure and the deployment of cryptocurrency miners to profit off the compromised systems' resources illegally. A follow-up analysis by Cado Security&nbsp; uncovered &nbsp;potential links to a prolific cryptojacking group known as&nbsp; TeamTNT , although Sysdig told The Hacker News that it "could be some
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

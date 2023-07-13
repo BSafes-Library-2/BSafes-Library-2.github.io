@@ -11,6 +11,64 @@ nav_order: 900220
 July 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Citrix fixed a critical flaw in Secure Access Client for Ubuntu<a href="https://securityaffairs.com/148405/security/citrix-critical-flaw-secure-access-client-for-ubuntu.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix fixed a critical flaw affecting the Secure Access client for Ubuntu that could be exploited to achieve remote code execution.
+Citrix addressed a critical vulnerability, tracked as CVE-2023-24492 (CVSS score of 9.6), affecting the Secure Access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixed a critical flaw in FortiOS and FortiProxy<a href="https://securityaffairs.com/148395/hacking/fortinet-fortios-fortiproxy-critical-bug-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet warns of a critical vulnerability impacting FortiOS and FortiProxy that can allow remote attackers to perform arbitrary code execution.
+Fortinet has disclosed a critical vulnerability, tracked as CVE-2023-33308 (CVSS score 9.8), that impacts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Patches Critical FortiOS Vulnerability Leading to Remote Code Execution<a href="https://www.securityweek.com/fortinet-patches-critical-fortios-vulnerability-leading-to-remote-code-execution/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability impacts FortiOS and FortiProxy versions 7.2.x and 7.0.x and was resolved in FortiOS versions 7.4.0, 7.2.4, and 7.0.11, and FortiProxy versions 7.2.3 and 7.0.10.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Critical Vulnerability in ECC and S/4HANA Products<a href="https://www.securityweek.com/sap-patches-critical-vulnerability-in-ecc-and-s-4hana-products/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German enterprise software maker SAP on Tuesday announced the release of 16 new security notes as part of its July 2023 Security Patch Day. In addition, updates were announced for two previously released notes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Update: Apple’s Rapid Security Response Patches Causing Website Access Issues<a href="https://www.securityweek.com/apples-rapid-security-response-patches-are-breaking-websites/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>
