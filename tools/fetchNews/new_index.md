@@ -37,6 +37,267 @@ BSafes library includes mobile-friendly cybersecurity publications.
 July 12, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+British Prosecutors Say Teen Lapsus$ Member Was Behind Hacks on Uber, Rockstar<a href="https://therecord.media/british-prosecutors-accuse-teen-lapsus-member-of-uber-revolut-rockstar-hacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A British Crown Court on Tuesday lifted a reporting restriction, allowing the naming of teenager Arion Kurtaj who is accused of hacking Uber, Revolut, and video game developer Rockstar Games in a short period of time last September.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Extortion Skyrockets in 2023, Reaching $449.1 Million and Counting<a href="https://thehackernews.com/2023/07/ransomware-extortion-skyrockets-in-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware has emerged as the only cryptocurrency-based crime to grow in 2023, with cybercriminals extorting nearly $175.8 million more than they did a year ago, according to findings from Chainalysis. "Ransomware attackers are on pace for their second-biggest year ever, having extorted at least $449.1 million through June," the blockchain analytics firm  said  in a midyear crypto crime report shared with The Hacker News. "If this pace continues, ransomware attackers will extort $898.6 million from victims in 2023, trailing only 2021's $939.9 million." In contrast, crypto scams have pulled in 77% less revenue than they did through June of 2022, largely driven by the abrupt exit of  VidiLook , which pays users VDL tokens in return for watching digital ads that then can be exchanged for large rewards. So have the inflows to illicit addresses associated with malware, darknet markets, child abuse material, and fraud shops. The development, following a  decline
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix fixed a critical flaw in Secure Access Client for Ubuntu<a href="https://securityaffairs.com/148405/security/citrix-critical-flaw-secure-access-client-for-ubuntu.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix fixed a critical flaw affecting the Secure Access client for Ubuntu that could be exploited to achieve remote code execution.
+Citrix addressed a critical vulnerability, tracked as CVE-2023-24492 (CVSS score of 9.6), affecting the Secure Access...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Staying ahead of the “professionals”: The service-oriented ransomware crime industry<a href="https://www.helpnetsecurity.com/2023/07/12/ransomware-industry-profitability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The total amount of ransom paid since 2020 is estimated to be at least $2 billion, and this has both motivated and enabled the groups who are profiting from this activity to become more professional.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Risks and Preventions of AI in Business: Safeguarding Against Potential Pitfalls<a href="https://thehackernews.com/2023/07/the-risks-and-preventions-of-ai-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Artificial intelligence (AI) holds immense potential for optimizing internal processes within businesses. However, it also comes with legitimate concerns regarding unauthorized use, including data loss risks and legal consequences. In this article, we will explore the risks associated with AI implementation and discuss measures to minimize damages. Additionally, we will examine regulatory initiatives by countries and ethical frameworks adopted by companies to regulate AI. Security risks  AI phishing attacks Cybercriminals can leverage AI in various ways to enhance their phishing attacks and increase their chances of success. Here are some ways AI can be exploited for phishing: -  Automated Phishing Campaigns:  AI-powered tools can automate the creation and dissemination of phishing emails on a large scale. These tools can generate convincing email content, craft personalized messages, and mimic the writing style of a specific individual, making phishing attempts appear more legit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cl0p hacker operating from Russia-Ukraine war front line – exclusive<a href="https://securityaffairs.com/148399/cyber-crime/cl0p-hacker-operating-from-russia-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers discovered that at least one of the Cl0p ransomware gang masterminds is still residing in Ukraine.
+Original post at: https://cybernews.com/security/cl0p-hacker-hides-in-ukraine/
+As the Cl0p ransomware gang continues to sow anxiety...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden’s Cyber Command and NSA Nominee Seen as a Pick for Continuity<a href="https://therecord.media/timothy-haugh-cyber-command-nsa-nominee-senate-hearing?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At his first Senate confirmation hearing on Wednesday, Air Force Lt. Gen. Timothy Haugh, Cyber Command’s deputy chief, will explain how he plans to fill the shoes of Paul Nakasone.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Thwarts Chinese Cyber Attack Targeting Western European Governments<a href="https://thehackernews.com/2023/07/microsoft-thwarts-chinese-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Tuesday  revealed  that it repelled a cyber attack staged by a Chinese nation-state actor targeting two dozen organizations, some of which include government agencies, in a cyber espionage campaign designed to acquire confidential data. The attacks, which commenced on May 15, 2023, entailed access to email accounts affecting approximately 25 entities and a small number of related individual consumer accounts. The tech giant attributed the campaign to Storm-0558, describing it as a nation-state activity group based out of China that primarily singles out government agencies in Western Europe. "They focus on espionage, data theft, and credential access," Microsoft  said . "They are also known to use custom malware that Microsoft tracks as Cigril and Bling, for credential access." The breach is said to have been detected a month later on June 16, 2023, after an unidentified customer reported the anomalous email activity to the company. Microsoft sai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet fixed a critical flaw in FortiOS and FortiProxy<a href="https://securityaffairs.com/148395/hacking/fortinet-fortios-fortiproxy-critical-bug-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet warns of a critical vulnerability impacting FortiOS and FortiProxy that can allow remote attackers to perform arbitrary code execution.
+Fortinet has disclosed a critical vulnerability, tracked as CVE-2023-33308 (CVSS score 9.8), that impacts...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cl0p Crime Group Adds 62 Ernst & Young Clients to Leak Sites<a href="https://www.bankinfosecurity.com/clop-crime-group-adds-62-ernst-young-clients-to-leak-sites-a-22514?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The growing list of MOVEit cyberattack victims has grown. Sixty-two clients of Big Four accounting firm Ernst & Young now appear on the Clop ransomware group's data leak sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Deploy Microsoft-Signed Rootkit to Target Gaming Sector<a href="https://thehackernews.com/2023/07/chinese-hackers-deploy-microsoft-signed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unearthed a novel rootkit signed by Microsoft that's engineered to communicate with an actor-controlled attack infrastructure. Trend Micro has attributed the activity cluster to the same actor that was previously identified as behind the  FiveSys rootkit , which came to light in October 2021. "This malicious actor originates from China and their main victims are the gaming sector in China," Trend Micro's Mahmoud Zohdy, Sherif Magdy, and Mohamed Fahmy  said . Their malware seems to have passed through the Windows Hardware Quality Labs ( WHQL ) process for getting a valid signature. Multiple variants of the rootkit spanning eight different clusters have been discovered, with 75 such drivers signed using Microsoft's WHQL program in 2022 and 2023. Trend Micro's analysis of some of the samples has revealed the presence of debug messages in the source code, indicating that the operation is still in the development and testing phas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft mitigated an attack by Chinese threat actor Storm-0558<a href="https://securityaffairs.com/148387/hacking/microsoft-blocked-storm-0558-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced it has mitigated a cyber attack by a China-linked threat actor, tracked as Storm-0558, which targeted customer emails.
+Microsoft announced it has mitigated an attack conducted by a China-linked threat actor, tracked as Storm-0558,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Patches Critical FortiOS Vulnerability Leading to Remote Code Execution<a href="https://www.securityweek.com/fortinet-patches-critical-fortios-vulnerability-leading-to-remote-code-execution/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability impacts FortiOS and FortiProxy versions 7.2.x and 7.0.x and was resolved in FortiOS versions 7.4.0, 7.2.4, and 7.0.11, and FortiProxy versions 7.2.3 and 7.0.10.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attacks Soar by 168% on Government Services, Report Warns<a href="https://www.hackread.com/ddos-attacks-stormwall-q2-2023-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to StormWall’s Q2 2023 Report, the United States, India, and China remain the most heavily targeted countries, bearing the brunt of the escalating DDoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SAP Patches Critical Vulnerability in ECC and S/4HANA Products<a href="https://www.securityweek.com/sap-patches-critical-vulnerability-in-ecc-and-s-4hana-products/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German enterprise software maker SAP on Tuesday announced the release of 16 new security notes as part of its July 2023 Security Patch Day. In addition, updates were announced for two previously released notes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Chinese Twitter Accounts Seek to Expand Beijing’s Influence in Latin America<a href="https://cyberscoop.com/china-twitter-latin-america/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three Twitter accounts that appear to have links to the Chinese government have been spreading propaganda in Latin America and successfully avoided Twitter's efforts to label state media, researchers said in an analysis published Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Two more lawsuits filed against Scranton cardiology group over data breach<a href="https://www.yahoo.com/entertainment/two-more-lawsuits-filed-against-000500558.html?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -50,7 +311,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2023
+July 12, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python-Based PyLoose Fileless Attack Targets Cloud Workloads for Cryptocurrency Mining<a href="https://thehackernews.com/2023/07/python-based-pyloose-fileless-attack.html"> Full Text</a>
@@ -66,7 +327,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2023
+July 12, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Office zero-day CVE-2023-36884 actively exploited in targeted attacks<a href="https://securityaffairs.com/148380/hacking/office-zero-day-cve-2023-36884.html"> Full Text</a>
@@ -83,7 +344,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2023
+July 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Apple’s Rapid Security Response Patches Causing Website Access Issues<a href="https://www.securityweek.com/apples-rapid-security-response-patches-are-breaking-websites/?&web_view=true"> Full Text</a>
@@ -99,7 +360,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2023
+July 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Releases Patches for 132 Vulnerabilities, Including 6 Under Active Attack<a href="https://thehackernews.com/2023/07/microsoft-releases-patches-for-130.html"> Full Text</a>
@@ -115,7 +376,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2023
+July 11, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HCA Healthcare data breach impacted 11 million patients<a href="https://securityaffairs.com/148371/data-breach/hca-healthcare-data-breach.html"> Full Text</a>
@@ -133,7 +394,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2023
+July 11, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New TOITOIN Trojan Targets LATAM<a href="https://cyware.com/news/new-toitoin-trojan-targets-latam-b95b66fe"> Full Text</a>
@@ -149,7 +410,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2023
+July 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit Windows Policy Loophole to Forge Kernel-Mode Driver Signatures<a href="https://thehackernews.com/2023/07/hackers-exploit-windows-policy-loophole.html"> Full Text</a>
@@ -165,7 +426,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2023
+July 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple issued Rapid Security Response updates to fix a zero-day but pulled them due to a Safari bug<a href="https://securityaffairs.com/148360/security/apple-issued-rapid-security-response.html"> Full Text</a>
@@ -182,7 +443,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2023
+July 11, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Purr-fectly Crafted for Macs: Charming Kitten Introduces NokNok Malware<a href="https://cyware.com/news/purr-fectly-crafted-for-macs-charming-kitten-introduces-noknok-malware-513ab2c4"> Full Text</a>
@@ -198,7 +459,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2023
+July 11, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Apply MITRE ATT&CK to Your Organization<a href="https://thehackernews.com/2023/07/how-to-apply-mitre-att-to-your.html"> Full Text</a>
@@ -214,7 +475,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2023
+July 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware warns customers of exploit available for critical vRealize RCE flaw CVE-2023-20864<a href="https://securityaffairs.com/148346/hacking/vmware-vmware-rce-exploit.html"> Full Text</a>
@@ -231,7 +492,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2023
+July 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Owncast, EaseProbe Security Vulnerabilities Revealed<a href="https://www.helpnetsecurity.com/2023/07/11/cve-2023-3188-cve-2023-33967/?&web_view=true"> Full Text</a>
@@ -247,7 +508,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2023
+July 11, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SCARLETEEL Cryptojacking Campaign Exploiting AWS Fargate in Ongoing Campaign<a href="https://thehackernews.com/2023/07/scarleteel-cryptojacking-campaign.html"> Full Text</a>
@@ -263,7 +524,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2023
+July 11, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Evolve Antidetect Tooling for Mobile OS-Based Fraud<a href="https://securityaffairs.com/148341/cyber-crime/antidetect-tooling-mobile-fraud.html"> Full Text</a>
@@ -280,7 +541,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2023
+July 11, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HCA Healthcare Reports Breach of 11 Million Patients’ Personal Data<a href="https://techcrunch.com/2023/07/11/hca-healthcare-breach-patients-personal-data/?&web_view=true"> Full Text</a>
@@ -296,7 +557,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2023
+July 11, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of Big Head Ransomware: Spreading Through Fake Windows Updates<a href="https://thehackernews.com/2023/07/beware-of-big-head-ransomware-spreading.html"> Full Text</a>
@@ -312,7 +573,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2023
+July 11, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Six Malicious Python Packages in the PyPI Targeting Windows Users<a href="https://unit42.paloaltonetworks.com/malicious-packages-in-pypi/?&web_view=true"> Full Text</a>
@@ -328,7 +589,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2023
+July 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Issues Urgent Patch for Zero-Day Flaw Targeting iOS, iPadOS, macOS, and Safari<a href="https://thehackernews.com/2023/07/apple-issues-urgent-patch-for-zero-day.html"> Full Text</a>
@@ -344,7 +605,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2023
+July 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Infrastructure Company Ventia Hit With Cyberattack<a href="https://therecord.media/ventia-hit-with-cyberattack-australia?&web_view=true"> Full Text</a>
