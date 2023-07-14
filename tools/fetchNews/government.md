@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden’s Cyber Command and NSA Nominee Seen as a Pick for Continuity<a href="https://therecord.media/timothy-haugh-cyber-command-nsa-nominee-senate-hearing?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At his first Senate confirmation hearing on Wednesday, Air Force Lt. Gen. Timothy Haugh, Cyber Command’s deputy chief, will explain how he plans to fill the shoes of Paul Nakasone.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Chinese Twitter Accounts Seek to Expand Beijing’s Influence in Latin America<a href="https://cyberscoop.com/china-twitter-latin-america/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three Twitter accounts that appear to have links to the Chinese government have been spreading propaganda in Latin America and successfully avoided Twitter's efforts to label state media, researchers said in an analysis published Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

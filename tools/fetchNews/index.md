@@ -34,6 +34,314 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Juniper Networks Patches High-Severity Vulnerabilities in Junos OS<a href="https://www.securityweek.com/juniper-networks-patches-high-severity-vulnerabilities-in-junos-os/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company published 17 advisories detailing roughly a dozen Junos OS-specific security defects, and nearly three times as many issues in third-party components used in its products.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PicassoLoader Malware Used in Ongoing Attacks on Ukraine and Poland<a href="https://thehackernews.com/2023/07/picassoloader-malware-used-in-ongoing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government entities, military organizations, and civilian users in Ukraine and Poland have been targeted as part of a series of campaigns designed to steal sensitive data and gain persistent remote access to the infected systems. The intrusion set, which stretches from April 2022 to July 2023, leverages phishing lures and decoy documents to deploy a downloader malware called PicassoLoader, which acts as a conduit to launch Cobalt Strike Beacon and njRAT. "The attacks used a multistage infection chain initiated with malicious Microsoft Office documents, most commonly using Microsoft Excel and PowerPoint file formats," Cisco Talos researcher Vanja Svajcer  said  in a new report. "This was followed by an executable downloader and payload concealed in an image file, likely to make its detection more difficult." Some  of the  activities  have been attributed to a threat actor called GhostWriter (aka UAC-0057 or UNC1151), whose priorities are said to align with the Be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple re-released Rapid Security Response to fix recently disclosed zero-day<a href="https://securityaffairs.com/148441/security/apple-second-rapid-security-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple re-released its Rapid Security Response updates for iOS and macOS after fixing browsing issues on certain websites caused by the first RSR.
+Apple has re-released its Rapid Security Response updates to address the CVE-2023-37450 flaw in iOS and macOS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tampa Bay Zoo Targeted in Cyberattack by Apparent Offshoot of Royal Ransomware<a href="https://therecord.media/tampa-zoo-targeted-in-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the U.S.’s most popular zoos has been hit with a cyberattack involving the theft of employee and vendor information, and a likely offshoot of the Royal ransomware gang is taking credit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT's Silentbob Botnet Infecting 196 Hosts in Cloud Attack Campaign<a href="https://thehackernews.com/2023/07/teamtnts-silentbob-botnet-infecting-196.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 196 hosts have been infected as part of an aggressive cloud campaign mounted by the TeamTNT group called  Silentbob . "The botnet run by TeamTNT has set its sights on Docker and Kubernetes environments, Redis servers, Postgres databases, Hadoop clusters, Tomcat and Nginx servers, Weave Scope, SSH, and Jupyter applications," Aqua security researchers Ofek Itach and Assaf Morag  said  in a report shared with The Hacker News. "The focus this time seems to be more on infecting systems and testing the botnet, rather than deploying cryptominers for profit." The development arrives a week after the cloud security company  detailed  an intrusion set linked to the TeamTNT group that targets exposed JupyterLab and Docker APIs to deploy the Tsunami malware and hijack system resources to run a cryptocurrency miner. The latest findings suggest a broader campaign and the use of a larger attack infrastructure than previously thought, including various shell script
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra urges customers to manually fix actively exploited zero-day reported by Google TAG<a href="https://securityaffairs.com/148429/hacking/zimbra-collaboration-suite-zeroday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zimbra has released updates to address a zero-day vulnerability actively exploited in attacks aimed at Zimbra Collaboration Suite (ZCS) email servers.
+Zimbra urges customers to manually install updates to fix a zero-day vulnerability that is actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminals Target Businesses With Malicious Extension for Meta’s Ads Manager and Accidentally Leak Stolen Accounts<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/07/criminals-target-businesses-with-malicious-extension-for-metas-ads-manager-and-accidentally-leak-stolen-accounts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vietnamese threat actors are using malicious Chrome extensions to steal Facebook account credentials, with over 800 victims worldwide and $180K in compromised ad budget.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake PoC for Linux Kernel Vulnerability on GitHub Exposes Researchers to Malware<a href="https://thehackernews.com/2023/07/blog-post.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a sign that cybersecurity researchers continue to be under the radar of malicious actors, a proof-of-concept (PoC) has been discovered on GitHub, concealing a backdoor with a "crafty" persistence method. "In this instance, the PoC is a wolf in sheep's clothing, harboring malicious intent under the guise of a harmless learning tool," Uptycs researchers Nischay Hegde and Siddartha Malladi  said . "Operating as a downloader, it silently dumps and executes a Linux bash script, all the while disguising its operations as a kernel-level process." The  repository  masquerades as a PoC for  CVE-2023-35829 , a recently disclosed high-severity flaw in the Linux kernel. It has since been taken down, but not before it was forked 25 times.  Another PoC  shared by the same account, ChriSanders22, for  CVE-2023-20871 , a privilege escalation bug impacting VMware Fusion, was forked twice. Uptypcs also identified a  second GitHub profile  containing a bogus PoC f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers compromised emails of U.S. Government agencies<a href="https://securityaffairs.com/148422/intelligence/chinese-hackers-compromised-emails-us-gov.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese hackers have compromised the emails of an unnamed US Federal Civilian Executive Branch (FCEB) agency.
+In Mid-June a malicious email activity was reported by an unnamed US Federal Civilian Executive Branch (FCEB) agency. Microsoft experts who investigated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Crypto Payments Poised to Set New Record in 2023<a href="https://www.bankinfosecurity.com/ransomware-crypto-payments-poised-to-set-new-record-in-2023-a-22529?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While overall crypto proceeds, including from crimes such as scams, fell dramatically over the past year, ransomware funds are expected to hit $899 million in 2023, according to Chainalysis.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rockwell Automation ControlLogix Bugs Expose Industrial Systems to Remote Attacks<a href="https://thehackernews.com/2023/07/rockwell-automation-controllogix-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has alerted of two security flaws impacting Rockwell Automation ControlLogix EtherNet/IP (ENIP) communication module models that could be exploited to achieve remote code execution and denial-of-service (DoS). "The results and impact of exploiting these vulnerabilities vary depending on the ControlLogix system configuration, but they could lead to denial or loss of control, denial or loss of view, theft of operational data, or manipulation of control for disruptive or destructive consequences on the industrial process for which the ControlLogix system is responsible," Draogos  said . The list of flaws is as follows - CVE-2023-3595  (CVSS score: 9.8) - An out-of-bounds write flaw impacting 1756 EN2* and 1756 EN3* products that could result in arbitrary code execution with persistence on the target system through maliciously crafted common industrial protocol ( CIP ) messages. CVE-2023-3596  (CVSS score: 7.5
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall urges organizations to fix critical flaws in GMS/Analytics products<a href="https://securityaffairs.com/148411/security/sonicwall-critical-flaws-gms-analytics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall fixed multiple critical vulnerabilities impacting its GMS firewall management and Analytics management and reporting engine.
+SonicWall addressed multiple critical vulnerabilities in its Global Management System (GMS) firewall management...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Exploit Targeting Rockwell Automation Flaws Threatens Critical Infrastructure<a href="https://www.securityweek.com/apt-exploit-targeting-rockwell-automation-flaws-could-threaten-critical-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 1756 EN2 and 1756 EN3 products are impacted by CVE-2023-3595, a critical flaw that can allow attackers to achieve remote code execution with persistence on targeted systems by using specially crafted Common Industrial Protocol (CIP) messages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Agencies' Emails Compromised in China-Backed Cyber Attack<a href="https://thehackernews.com/2023/07/us-government-agencies-emails.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unnamed Federal Civilian Executive Branch (FCEB) agency in the U.S. detected anomalous email activity in mid-June 2023, leading to Microsoft's discovery of a new China-linked  espionage campaign  targeting two dozen organizations. The details come from a joint cybersecurity advisory released by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) on July 12, 2023. "In June 2023, a Federal Civilian Executive Branch (FCEB) agency identified suspicious activity in their Microsoft 365 (M365) cloud environment," the authorities  said . "Microsoft determined that advanced persistent threat (APT) actors accessed and exfiltrated unclassified Exchange Online Outlook data." While the name of the government agency was not revealed,  CNN  and  the Washington Post  reported it was the U.S. State Department, citing people familiar with the matter. Also targeted were the Commerce Department as well as the email accou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Office Zero-Day CVE-2023-36884 Actively Exploited in Targeted Attacks<a href="https://securityaffairs.com/148380/hacking/office-zero-day-cve-2023-36884.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“An attacker could create a specially crafted Microsoft Office document that enables them to perform remote code execution in the context of the victim," reads the advisory published by Microsoft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Vulnerabilities Disclosed in SonicWall and Fortinet Network Security Products<a href="https://thehackernews.com/2023/07/new-vulnerabilities-disclosed-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall on Wednesday urged customers of Global Management System (GMS) firewall management and Analytics network reporting engine software to apply the latest fixes to secure against a set of 15 security flaws that could be exploited by a threat actor to circumvent authentication and access sensitive information. Of the 15 shortcomings (tracked from CVE-2023-34123 through CVE-2023-34137), four are rated Critical, four are rated High, and seven are rated Medium in severity. The vulnerabilities were disclosed by NCC Group. The flaws impact on-premise versions of GMS 9.3.2-SP1 and before and Analytics 2.5.0.4-R7 and before. Fixes are available in versions GMS 9.3.3 and Analytics 2.5.2. "The suite of vulnerabilities allows an attacker to view data that they are not normally able to retrieve," SonicWall  said . "This might include data belonging to other users, or any other data that the application itself is able to access. In many cases, an attacker can modify or dele
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Only 45% of Cloud Data is Currently Encrypted<a href="https://www.helpnetsecurity.com/2023/07/13/cloud-environments-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 39% of businesses experienced a data breach in their cloud environment last year, an increase from the 35% reported in 2022, according to Thales. Human error was reported as the leading cause of cloud data breaches by 55% of those surveyed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Drops LokiBot Malware via Malicious Macros in Word Documents<a href="https://www.hackread.com/lokibot-malware-malicious-macros-word-docs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs recently uncovered a concerning discovery in their investigation, revealing a series of malicious Microsoft Office documents designed to take advantage of well-known vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 13, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silk Road Drug Market’s ‘Mentor’ Sentenced to 20 Years in Prison<a href="https://therecord.media/silk-road-mentor-variety-jones-sentenced-to-20-years?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During its operation from 2011 until 2013, Silk Road was used by thousands of drug dealers to distribute narcotics and other illicit goods and services to more than 100,000 buyers and to launder hundreds of millions from those unlawful transactions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 12, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

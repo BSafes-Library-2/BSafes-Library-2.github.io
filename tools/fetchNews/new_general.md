@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Crypto Payments Poised to Set New Record in 2023<a href="https://www.bankinfosecurity.com/ransomware-crypto-payments-poised-to-set-new-record-in-2023-a-22529?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While overall crypto proceeds, including from crimes such as scams, fell dramatically over the past year, ransomware funds are expected to hit $899 million in 2023, according to Chainalysis.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

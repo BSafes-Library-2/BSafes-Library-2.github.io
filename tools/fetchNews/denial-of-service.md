@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attacks Soar by 168% on Government Services, Report Warns<a href="https://www.hackread.com/ddos-attacks-stormwall-q2-2023-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to StormWall’s Q2 2023 Report, the United States, India, and China remain the most heavily targeted countries, bearing the brunt of the escalating DDoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

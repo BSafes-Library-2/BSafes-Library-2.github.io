@@ -8,6 +8,121 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Juniper Networks Patches High-Severity Vulnerabilities in Junos OS<a href="https://www.securityweek.com/juniper-networks-patches-high-severity-vulnerabilities-in-junos-os/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company published 17 advisories detailing roughly a dozen Junos OS-specific security defects, and nearly three times as many issues in third-party components used in its products.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple re-released Rapid Security Response to fix recently disclosed zero-day<a href="https://securityaffairs.com/148441/security/apple-second-rapid-security-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple re-released its Rapid Security Response updates for iOS and macOS after fixing browsing issues on certain websites caused by the first RSR.
+Apple has re-released its Rapid Security Response updates to address the CVE-2023-37450 flaw in iOS and macOS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra urges customers to manually fix actively exploited zero-day reported by Google TAG<a href="https://securityaffairs.com/148429/hacking/zimbra-collaboration-suite-zeroday.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zimbra has released updates to address a zero-day vulnerability actively exploited in attacks aimed at Zimbra Collaboration Suite (ZCS) email servers.
+Zimbra urges customers to manually install updates to fix a zero-day vulnerability that is actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake PoC for Linux Kernel Vulnerability on GitHub Exposes Researchers to Malware<a href="https://thehackernews.com/2023/07/blog-post.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a sign that cybersecurity researchers continue to be under the radar of malicious actors, a proof-of-concept (PoC) has been discovered on GitHub, concealing a backdoor with a "crafty" persistence method. "In this instance, the PoC is a wolf in sheep's clothing, harboring malicious intent under the guise of a harmless learning tool," Uptycs researchers Nischay Hegde and Siddartha Malladi&nbsp; said . "Operating as a downloader, it silently dumps and executes a Linux bash script, all the while disguising its operations as a kernel-level process." The&nbsp; repository &nbsp;masquerades as a PoC for&nbsp; CVE-2023-35829 , a recently disclosed high-severity flaw in the Linux kernel. It has since been taken down, but not before it was forked 25 times.&nbsp; Another PoC &nbsp;shared by the same account, ChriSanders22, for&nbsp; CVE-2023-20871 , a privilege escalation bug impacting VMware Fusion, was forked twice. Uptypcs also identified a&nbsp; second GitHub profile &nbsp;containing a bogus PoC f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rockwell Automation ControlLogix Bugs Expose Industrial Systems to Remote Attacks<a href="https://thehackernews.com/2023/07/rockwell-automation-controllogix-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has alerted of two security flaws impacting Rockwell Automation ControlLogix EtherNet/IP (ENIP) communication module models that could be exploited to achieve remote code execution and denial-of-service (DoS). "The results and impact of exploiting these vulnerabilities vary depending on the ControlLogix system configuration, but they could lead to denial or loss of control, denial or loss of view, theft of operational data, or manipulation of control for disruptive or destructive consequences on the industrial process for which the ControlLogix system is responsible," Draogos&nbsp; said . The list of flaws is as follows - CVE-2023-3595 &nbsp;(CVSS score: 9.8) - An out-of-bounds write flaw impacting 1756 EN2* and 1756 EN3* products that could result in arbitrary code execution with persistence on the target system through maliciously crafted common industrial protocol ( CIP ) messages. CVE-2023-3596 &nbsp;(CVSS score: 7.5
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall urges organizations to fix critical flaws in GMS/Analytics&nbsp;products<a href="https://securityaffairs.com/148411/security/sonicwall-critical-flaws-gms-analytics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall fixed multiple critical vulnerabilities impacting its GMS firewall management and Analytics management and reporting engine.
+SonicWall addressed multiple critical vulnerabilities in its Global Management System (GMS) firewall management...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Exploit Targeting Rockwell Automation Flaws Threatens Critical Infrastructure<a href="https://www.securityweek.com/apt-exploit-targeting-rockwell-automation-flaws-could-threaten-critical-infrastructure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 1756 EN2 and 1756 EN3 products are impacted by CVE-2023-3595, a critical flaw that can allow attackers to achieve remote code execution with persistence on targeted systems by using specially crafted Common Industrial Protocol (CIP) messages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Vulnerabilities Disclosed in SonicWall and Fortinet Network Security Products<a href="https://thehackernews.com/2023/07/new-vulnerabilities-disclosed-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall on Wednesday urged customers of Global Management System (GMS) firewall management and Analytics network reporting engine software to apply the latest fixes to secure against a set of 15 security flaws that could be exploited by a threat actor to circumvent authentication and access sensitive information. Of the 15 shortcomings (tracked from CVE-2023-34123 through CVE-2023-34137), four are rated Critical, four are rated High, and seven are rated Medium in severity. The vulnerabilities were disclosed by NCC Group. The flaws impact on-premise versions of GMS 9.3.2-SP1 and before and Analytics 2.5.0.4-R7 and before. Fixes are available in versions GMS 9.3.3 and Analytics 2.5.2. "The suite of vulnerabilities allows an attacker to view data that they are not normally able to retrieve," SonicWall&nbsp; said . "This might include data belonging to other users, or any other data that the application itself is able to access. In many cases, an attacker can modify or dele
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

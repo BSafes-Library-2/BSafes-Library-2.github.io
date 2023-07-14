@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Juniper Networks Patches High-Severity Vulnerabilities in Junos OS<a href="https://www.securityweek.com/juniper-networks-patches-high-severity-vulnerabilities-in-junos-os/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PicassoLoader Malware Used in Ongoing Attacks on Ukraine and Poland<a href="https://thehackernews.com/2023/07/picassoloader-malware-used-in-ongoing.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple re-released Rapid Security Response to fix recently disclosed zero-day<a href="https://securityaffairs.com/148441/security/apple-second-rapid-security-response.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tampa Bay Zoo Targeted in Cyberattack by Apparent Offshoot of Royal Ransomware<a href="https://therecord.media/tampa-zoo-targeted-in-cyberattack?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamTNT's Silentbob Botnet Infecting 196 Hosts in Cloud Attack Campaign<a href="https://thehackernews.com/2023/07/teamtnts-silentbob-botnet-infecting-196.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zimbra urges customers to manually fix actively exploited zero-day reported by Google TAG<a href="https://securityaffairs.com/148429/hacking/zimbra-collaboration-suite-zeroday.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Criminals Target Businesses With Malicious Extension for Meta’s Ads Manager and Accidentally Leak Stolen Accounts<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/07/criminals-target-businesses-with-malicious-extension-for-metas-ads-manager-and-accidentally-leak-stolen-accounts?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake PoC for Linux Kernel Vulnerability on GitHub Exposes Researchers to Malware<a href="https://thehackernews.com/2023/07/blog-post.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese hackers compromised emails of U.S. Government agencies<a href="https://securityaffairs.com/148422/intelligence/chinese-hackers-compromised-emails-us-gov.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Crypto Payments Poised to Set New Record in 2023<a href="https://www.bankinfosecurity.com/ransomware-crypto-payments-poised-to-set-new-record-in-2023-a-22529?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rockwell Automation ControlLogix Bugs Expose Industrial Systems to Remote Attacks<a href="https://thehackernews.com/2023/07/rockwell-automation-controllogix-bugs.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall urges organizations to fix critical flaws in GMS/Analytics products<a href="https://securityaffairs.com/148411/security/sonicwall-critical-flaws-gms-analytics.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT Exploit Targeting Rockwell Automation Flaws Threatens Critical Infrastructure<a href="https://www.securityweek.com/apt-exploit-targeting-rockwell-automation-flaws-could-threaten-critical-infrastructure/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Government Agencies' Emails Compromised in China-Backed Cyber Attack<a href="https://thehackernews.com/2023/07/us-government-agencies-emails.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Office Zero-Day CVE-2023-36884 Actively Exploited in Targeted Attacks<a href="https://securityaffairs.com/148380/hacking/office-zero-day-cve-2023-36884.html?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Vulnerabilities Disclosed in SonicWall and Fortinet Network Security Products<a href="https://thehackernews.com/2023/07/new-vulnerabilities-disclosed-in.html"> Full Text</a>
@@ -294,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Only 45% of Cloud Data is Currently Encrypted<a href="https://www.helpnetsecurity.com/2023/07/13/cloud-environments-security/?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Attack Drops LokiBot Malware via Malicious Macros in Word Documents<a href="https://www.hackread.com/lokibot-malware-malicious-macros-word-docs/?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 13, 2023
+July 13, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Silk Road Drug Market’s ‘Mentor’ Sentenced to 20 Years in Prison<a href="https://therecord.media/silk-road-mentor-variety-jones-sentenced-to-20-years?&web_view=true"> Full Text</a>

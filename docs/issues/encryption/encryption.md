@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+July 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Only 45% of Cloud Data is Currently Encrypted<a href="https://www.helpnetsecurity.com/2023/07/13/cloud-environments-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 39% of businesses experienced a data breach in their cloud environment last year, an increase from the 35% reported in 2022, according to Thales. Human error was reported as the leading cause of cloud data breaches by 55% of those surveyed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

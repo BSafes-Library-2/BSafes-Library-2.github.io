@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT's Silentbob Botnet Infecting 196 Hosts in Cloud Attack Campaign<a href="https://thehackernews.com/2023/07/teamtnts-silentbob-botnet-infecting-196.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 196 hosts have been infected as part of an aggressive cloud campaign mounted by the TeamTNT group called&nbsp; Silentbob . "The botnet run by TeamTNT has set its sights on Docker and Kubernetes environments, Redis servers, Postgres databases, Hadoop clusters, Tomcat and Nginx servers, Weave Scope, SSH, and Jupyter applications," Aqua security researchers Ofek Itach and Assaf Morag&nbsp; said &nbsp;in a report shared with The Hacker News. "The focus this time seems to be more on infecting systems and testing the botnet, rather than deploying cryptominers for profit." The development arrives a week after the cloud security company&nbsp; detailed &nbsp;an intrusion set linked to the TeamTNT group that targets exposed JupyterLab and Docker APIs to deploy the Tsunami malware and hijack system resources to run a cryptocurrency miner. The latest findings suggest a broader campaign and the use of a larger attack infrastructure than previously thought, including various shell script
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

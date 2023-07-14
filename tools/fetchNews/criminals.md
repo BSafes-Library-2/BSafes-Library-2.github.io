@@ -8,6 +8,50 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Staying ahead of the “professionals”: The service-oriented ransomware crime industry<a href="https://www.helpnetsecurity.com/2023/07/12/ransomware-industry-profitability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The total amount of ransom paid since 2020 is estimated to be at least $2 billion, and this has both motivated and enabled the groups who are profiting from this activity to become more professional.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cl0p hacker operating from Russia-Ukraine war front line – exclusive<a href="https://securityaffairs.com/148399/cyber-crime/cl0p-hacker-operating-from-russia-ukraine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberNews researchers discovered that at least one of the Cl0p ransomware gang masterminds is still residing in Ukraine.
+Original post at: https://cybernews.com/security/cl0p-hacker-hides-in-ukraine/
+As the Cl0p ransomware gang continues to sow anxiety...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cl0p Crime Group Adds 62 Ernst &amp; Young Clients to Leak Sites<a href="https://www.bankinfosecurity.com/clop-crime-group-adds-62-ernst-young-clients-to-leak-sites-a-22514?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The growing list of MOVEit cyberattack victims has grown. Sixty-two clients of Big Four accounting firm Ernst &amp; Young now appear on the Clop ransomware group's data leak sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
