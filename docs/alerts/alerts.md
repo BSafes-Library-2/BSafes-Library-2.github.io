@@ -7,6 +7,40 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases One Industrial Control Systems Advisory <a href="https://www.cisa.gov/news-events/alerts/2023/07/12/cisa-releases-one-industrial-control-systems-advisory"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA released one Critical Industrial Control Systems (ICS) advisory on July 12, 2023. This advisory provides timely information about current security issues, vulnerabilities, and exploits surrounding ICS. 
+
+    ICSA-23-193-01 Rockwell Automation Select Communication Modules
+
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Five Known Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2023/07/11/cisa-adds-five-known-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+    CVE-2023-32046 Microsoft Windows MSHTML Platform Privilege Escalation Vulnerability
+    CVE-2023-32049 Microsoft Windows Defender SmartScreen Security Feature Bypass Vulnerability
+    CVE-2023-35311 Microsoft Outlook Security Feature Bypass Vulnerability
+    CVE-2023-36874 Microsoft Windows Error Reporting Service Privilege Escalation Vulnerability
+    CVE-2022-31199 Netwrix Auditor Insecure Object Deserialization Vulnerability
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 6, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

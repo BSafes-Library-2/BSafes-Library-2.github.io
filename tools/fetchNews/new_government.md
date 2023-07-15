@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+July 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA warns of Rockwell Automation ControlLogix flaws<a href="https://securityaffairs.com/148472/ics-scada/rockwell-automation-controllogix-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA warns of two flaws impacting Rockwell Automation ControlLogix that can lead to remote code execution and DoS attacks.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of two vulnerabilities affecting Rockwell...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Gives US Civilian Agencies Until August 1 to Resolve Four Microsoft Vulnerabilities<a href="https://therecord.media/four-microsoft-vulnerabilities-cisa-civilian-agencies?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The inclusion of the four vulnerabilities — CVE-2023-32046, CVE-2023-32049, CVE-2023-35311, and CVE-2023-36874 — into CISA’s catalog means the bugs are already being exploited by hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

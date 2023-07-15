@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silk Road Drug Market’s ‘Mentor’ Sentenced to 20 Years in Prison<a href="https://therecord.media/silk-road-mentor-variety-jones-sentenced-to-20-years?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During its operation from 2011 until 2013, Silk Road was used by thousands of drug dealers to distribute narcotics and other illicit goods and services to more than 100,000 buyers and to launder hundreds of millions from those unlawful transactions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

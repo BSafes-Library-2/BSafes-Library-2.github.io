@@ -34,6 +34,267 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular WordPress Security Plugin Caught Logging Plaintext Passwords<a href="https://www.securityweek.com/popular-wordpress-security-plugin-caught-logging-plaintext-passwords/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was discovered that AIOS version 5.1.9 writes plaintext passwords from login attempts to the database, which essentially provides any privileged user with access to the login credentials of all other administrator users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Flaws Uncovered in Honeywell Experion DCS and QuickBlox Services<a href="https://thehackernews.com/2023/07/critical-security-flaws-uncovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been discovered in various services, including Honeywell Experion distributed control system (DCS) and QuickBlox, that, if successfully exploited, could result in severe compromise of affected systems. Dubbed Crit.IX, the nine flaws in the Honeywell Experion DCS platform allow for "unauthorized remote code execution, which means an attacker would have the power to take over the devices and alter the operation of the DCS controller, whilst also hiding the alterations from the engineering workstation that manages the controller," Armis said in a statement shared with The Hacker News. Put differently, the issues relate to lack of encryption and adequate authentication mechanisms in a proprietary protocol called Control Data Access (CDA) that's used to communicate between Experion Servers and C300 controllers, effectively enabling a threat actor to take over the devices and alter the operation of the DCS controller. "As a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The source code of the BlackLotus UEFI Bootkit was leaked on GitHub<a href="https://securityaffairs.com/148482/malware/source-code-blacklotus-uefi-bootkit-leaked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The source code for the BlackLotus UEFI bootkit has been published on GitHub and experts warn of the risks of proliferation of custom versions.
+Researchers from ESET discovered in March a new stealthy Unified Extensible Firmware Interface (UEFI) bootkit,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackLotus UEFI Bootkit Source Code Leaked on GitHub<a href="https://www.securityweek.com/blacklotus-uefi-bootkit-source-code-leaked-on-github/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackLotus source code that was published on GitHub on Wednesday has been stripped of the ‘Baton Drop’ exploit targeting CVE-2022-21894, and uses the bootlicker UEFI firmware rootkit, but contains the rest of the original code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defend Against Insider Threats: Join this Webinar on SaaS Security Posture Management<a href="https://thehackernews.com/2023/07/defend-against-insider-threats-join.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As security practices continue to evolve, one primary concern persists in the minds of security professionals—the risk of employees unintentionally or deliberately exposing vital information. Insider threats, whether originating from deliberate actions or accidental incidents, pose a significant challenge to safeguarding sensitive data. To effectively address insider risks, organizations must adopt a holistic approach that encompasses technical, procedural, and human elements. While access controls, encryption, and monitoring systems are crucial for identifying and mitigating unauthorized access and suspicious activities, the increasing prevalence of cloud-based environments and the surge in SaaS application usage demand a fresh perspective on Insider Risk Management from a SaaS security standpoint. Stay ahead of the game by embracing the SaaS security lens. Join us for an enlightening webinar where we will demonstrate how security practitioners can proactively adapt their approach
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US CISA warns of Rockwell Automation ControlLogix flaws<a href="https://securityaffairs.com/148472/ics-scada/rockwell-automation-controllogix-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. CISA warns of two flaws impacting Rockwell Automation ControlLogix that can lead to remote code execution and DoS attacks.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of two vulnerabilities affecting Rockwell...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Gives US Civilian Agencies Until August 1 to Resolve Four Microsoft Vulnerabilities<a href="https://therecord.media/four-microsoft-vulnerabilities-cisa-civilian-agencies?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The inclusion of the four vulnerabilities — CVE-2023-32046, CVE-2023-32049, CVE-2023-35311, and CVE-2023-36874 — into CISA’s catalog means the bugs are already being exploited by hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AIOS WordPress Plugin Faces Backlash for Storing User Passwords in Plain Text<a href="https://thehackernews.com/2023/07/aios-wordpress-plugin-faces-backlash.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All-In-One Security (AIOS), a WordPress plugin installed on over one million sites, has issued a security update after a bug introduced in version 5.1.9 of the software caused users' passwords being added to the database in plaintext format. "A malicious site administrator (i.e. a user already logged into the site as an admin) could then have read them," UpdraftPlus, the maintainers of AIOS,  said . "This would be a problem if those site administrators were to try out those passwords on other services where your users might have used the same password. If those other services' logins are not protected by two-factor authentication, this could be a risk to the affected website." The issue surfaced nearly three weeks ago when a user of the plugin  reported  the behavior, stating they were "absolutely shocked that a security plugin is making such a basic security 101 error." AIOS also noted that the updates remove the existing logged data from th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indexing Over 15 Million WordPress Websites with PWNPress<a href="https://securityaffairs.com/148465/hacking/pwnpress-platform.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sicuranex's PWNPress platform indexed over 15 million WordPress websites, it collects data related to vulnerabilities and misconfigurations
+Leveraging the extensive Common Crawl dataset and pushing the boundaries of data analysis, cybersecurity firm...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secure Code Warrior Lands $50M to Educate Developers on Best Cyber Practices<a href="https://techcrunch.com/2023/07/13/secure-code-warrior-lands-50m-to-educate-developers-on-best-cyber-practices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With a recent $50 million Series C funding round led by Paladin Capital Group, Secure Code Warrior plans to improve its platform and expand its workforce to meet the growing demand for cybersecurity skills training.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT's Cloud Credential Stealing Campaign Now Targets Azure and Google Cloud<a href="https://thehackernews.com/2023/07/teamtnts-cloud-credential-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious actor has been linked to a cloud credential stealing campaign in June 2023 that's focused on Azure and Google Cloud Platform (GCP) services, marking the adversary's expansion in targeting beyond Amazon Web Services (AWS). The findings come from  SentinelOne  and  Permiso , which said the "campaigns share similarity with tools attributed to the notorious TeamTNT cryptojacking crew," although it emphasized that "attribution remains challenging with script-based tools." They also overlap with an ongoing TeamTNT campaign  disclosed  by Aqua called Silentbob that leverages misconfigured cloud services to drop malware as part of what's said to be a testing effort, while also linking  SCARLETEEL  attacks to the threat actor, citing infrastructure commonalities. "TeamTNT is scanning for credentials across multiple cloud environments, including AWS, Azure, and GCP," Aqua noted. The attacks, which single out public-facing Docker instanc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New AVrecon botnet remained under the radar for two years while targeting SOHO Routers<a href="https://securityaffairs.com/148447/cyber-crime/avrecon-botnet-targets-soho.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware dubbed AVrecon targets small office/home office (SOHO) routers, it infected over 70,000 devices from 20 countries.
+Lumen Black Lotus Labs uncovered a long-running hacking campaign targeting SOHO routers with a strain of malware dubbed AVrecon.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hardcoded Accounts Allow Full Takeover of Technicolor Routers<a href="https://www.securityweek.com/hardcoded-accounts-allow-full-takeover-of-technicolor-routers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple hardcoded credentials found on the Technicolor TG670 DSL gateway router allow attackers to completely take over devices, the CERT Coordination Center (CERT/CC) warns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SOHO Router Botnet AVrecon Spreads to 70,000 Devices Across 20 Countries<a href="https://thehackernews.com/2023/07/new-soho-router-botnet-avrecon-spreads.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware strain has been found covertly targeting small office/home office (SOHO) routers for more than two years, infiltrating over 70,000 devices and creating a botnet with 40,000 nodes spanning 20 countries. Lumen Black Lotus Labs has dubbed the malware  AVrecon , making it the third such strain to focus on SOHO routers after  ZuoRAT  and  HiatusRAT  over the past year. "This makes AVrecon one of the largest SOHO router-targeting botnets ever seen," the company  said . "The purpose of the campaign appears to be the creation of a covert network to quietly enable a range of criminal activities from password spraying to digital advertising fraud." A majority of the infections are located in the U.K. and the U.S., followed by Argentina, Nigeria, Brazil, Italy, Bangladesh, Vietnam, India, Russia, and South Africa, among others. AVrecon was  first highlighted  by Kaspersky senior security researcher Ye (Seth) Jin in May 2021, indicating that the malware has
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norwegian Refugee Council hit by cyberattack<a href="https://therecord.media/norwegian-refugee-council-hit-by-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NRC said it immediately suspended the database to protect the data and prevent further attacks. They also launched an external forensic investigation to determine the scope and impact of the cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra Warns of Critical Zero-Day Flaw in Email Software Amid Active Exploitation<a href="https://thehackernews.com/2023/07/zimbra-warns-of-critical-zero-day-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zimbra has warned of a critical zero-day security flaw in its email software that has come under active exploitation in the wild. "A security vulnerability in Zimbra Collaboration Suite Version 8.8.15 that could potentially impact the confidentiality and integrity of your data has surfaced," the company  said  in an advisory. It also said that the issue has been addressed and that it's expected to be delivered in the July patch release. Additional details about the flaw are currently unavailable. In the interim, it is urging customers to  apply a manual fix  to eliminate the attack vector - Take a backup of the file /opt/zimbra/jetty/webapps/zimbra/m/momoveto Edit this file and go to line number 40 Update the parameter value as: <input name="st" type="hidden" value="${fn:escapeXml(param.st)}"/> Before the update, the line appeared as: <input name="st" type="hidden" value="${param.st}"/> Whi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

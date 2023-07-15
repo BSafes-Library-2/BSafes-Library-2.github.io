@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+July 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamTNT's Cloud Credential Stealing Campaign Now Targets Azure and Google Cloud<a href="https://thehackernews.com/2023/07/teamtnts-cloud-credential-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious actor has been linked to a cloud credential stealing campaign in June 2023 that's focused on Azure and Google Cloud Platform (GCP) services, marking the adversary's expansion in targeting beyond Amazon Web Services (AWS). The findings come from&nbsp; SentinelOne &nbsp;and&nbsp; Permiso , which said the "campaigns share similarity with tools attributed to the notorious TeamTNT cryptojacking crew," although it emphasized that "attribution remains challenging with script-based tools." They also overlap with an ongoing TeamTNT campaign&nbsp; disclosed &nbsp;by Aqua called Silentbob that leverages misconfigured cloud services to drop malware as part of what's said to be a testing effort, while also linking&nbsp; SCARLETEEL &nbsp;attacks to the threat actor, citing infrastructure commonalities. "TeamTNT is scanning for credentials across multiple cloud environments, including AWS, Azure, and GCP," Aqua noted. The attacks, which single out public-facing Docker instanc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norwegian Refugee Council hit by cyberattack<a href="https://therecord.media/norwegian-refugee-council-hit-by-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NRC said it immediately suspended the database to protect the data and prevent further attacks. They also launched an external forensic investigation to determine the scope and impact of the cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secure Code Warrior Lands $50M to Educate Developers on Best Cyber Practices<a href="https://techcrunch.com/2023/07/13/secure-code-warrior-lands-50m-to-educate-developers-on-best-cyber-practices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With a recent $50 million Series C funding round led by Paladin Capital Group, Secure Code Warrior plans to improve its platform and expand its workforce to meet the growing demand for cybersecurity skills training.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

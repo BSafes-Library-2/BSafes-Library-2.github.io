@@ -8,6 +8,77 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Popular WordPress Security Plugin Caught Logging Plaintext Passwords<a href="https://www.securityweek.com/popular-wordpress-security-plugin-caught-logging-plaintext-passwords/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It was discovered that AIOS version 5.1.9 writes plaintext passwords from login attempts to the database, which essentially provides any privileged user with access to the login credentials of all other administrator users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Flaws Uncovered in Honeywell Experion DCS and QuickBlox Services<a href="https://thehackernews.com/2023/07/critical-security-flaws-uncovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been discovered in various services, including Honeywell Experion distributed control system (DCS) and QuickBlox, that, if successfully exploited, could result in severe compromise of affected systems. Dubbed Crit.IX, the nine flaws in the Honeywell Experion DCS platform allow for "unauthorized remote code execution, which means an attacker would have the power to take over the devices and alter the operation of the DCS controller, whilst also hiding the alterations from the engineering workstation that manages the controller," Armis said in a statement shared with The Hacker News. Put differently, the issues relate to lack of encryption and adequate authentication mechanisms in a proprietary protocol called Control Data Access (CDA) that's used to communicate between Experion Servers and C300 controllers, effectively enabling a threat actor to take over the devices and alter the operation of the DCS controller. "As a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indexing Over 15 Million WordPress Websites with PWNPress<a href="https://securityaffairs.com/148465/hacking/pwnpress-platform.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sicuranex's PWNPress platform indexed over 15 million WordPress websites, it collects data related to vulnerabilities and misconfigurations
+Leveraging the extensive Common Crawl dataset and pushing the boundaries of data analysis,&nbsp;cybersecurity firm...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hardcoded Accounts Allow Full Takeover of Technicolor Routers<a href="https://www.securityweek.com/hardcoded-accounts-allow-full-takeover-of-technicolor-routers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple hardcoded credentials found on the Technicolor TG670 DSL gateway router allow attackers to completely take over devices, the CERT Coordination Center (CERT/CC) warns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra Warns of Critical Zero-Day Flaw in Email Software Amid Active Exploitation<a href="https://thehackernews.com/2023/07/zimbra-warns-of-critical-zero-day-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zimbra has warned of a critical zero-day security flaw in its email software that has come under active exploitation in the wild. "A security vulnerability in Zimbra Collaboration Suite Version 8.8.15 that could potentially impact the confidentiality and integrity of your data has surfaced," the company&nbsp; said &nbsp;in an advisory. It also said that the issue has been addressed and that it's expected to be delivered in the July patch release. Additional details about the flaw are currently unavailable. In the interim, it is urging customers to&nbsp; apply a manual fix &nbsp;to eliminate the attack vector - Take a backup of the file /opt/zimbra/jetty/webapps/zimbra/m/momoveto Edit this file and go to line number 40 Update the parameter value as: <input name="st" type="hidden" value="${fn:escapeXml(param.st)}"> Before the update, the line appeared as: <input name="st" type="hidden" value="${param.st}"> Whi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

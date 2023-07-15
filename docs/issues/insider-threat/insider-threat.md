@@ -8,6 +8,34 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+July 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defend Against Insider Threats: Join this Webinar on SaaS Security Posture Management<a href="https://thehackernews.com/2023/07/defend-against-insider-threats-join.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As security practices continue to evolve, one primary concern persists in the minds of security professionals—the risk of employees unintentionally or deliberately exposing vital information. Insider threats, whether originating from deliberate actions or accidental incidents, pose a significant challenge to safeguarding sensitive data. To effectively address insider risks, organizations must adopt a holistic approach that encompasses technical, procedural, and human elements. While access controls, encryption, and monitoring systems are crucial for identifying and mitigating unauthorized access and suspicious activities, the increasing prevalence of cloud-based environments and the surge in SaaS application usage demand a fresh perspective on Insider Risk Management from a SaaS security standpoint. Stay ahead of the game by embracing the SaaS security lens. Join us for an enlightening webinar where we will demonstrate how security practitioners can proactively adapt their approach
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AIOS WordPress Plugin Faces Backlash for Storing User Passwords in Plain Text<a href="https://thehackernews.com/2023/07/aios-wordpress-plugin-faces-backlash.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All-In-One Security (AIOS), a WordPress plugin installed on over one million sites, has issued a security update after a bug introduced in version 5.1.9 of the software caused users' passwords being added to the database in plaintext format. "A malicious site administrator (i.e. a user already logged into the site as an admin) could then have read them," UpdraftPlus, the maintainers of AIOS,&nbsp; said . "This would be a problem if those site administrators were to try out those passwords on other services where your users might have used the same password. If those other services' logins are not protected by two-factor authentication, this could be a risk to the affected website." The issue surfaced nearly three weeks ago when a user of the plugin&nbsp; reported &nbsp;the behavior, stating they were "absolutely shocked that a security plugin is making such a basic security 101 error." AIOS also noted that the updates remove the existing logged data from th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

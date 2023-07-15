@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Criminals Target Businesses With Malicious Extension for Meta’s Ads Manager and Accidentally Leak Stolen Accounts<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/07/criminals-target-businesses-with-malicious-extension-for-metas-ads-manager-and-accidentally-leak-stolen-accounts?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vietnamese threat actors are using malicious Chrome extensions to steal Facebook account credentials, with over 800 victims worldwide and $180K in compromised ad budget.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

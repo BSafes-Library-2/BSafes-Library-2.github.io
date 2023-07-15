@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+July 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The source code of the BlackLotus UEFI Bootkit was leaked on GitHub<a href="https://securityaffairs.com/148482/malware/source-code-blacklotus-uefi-bootkit-leaked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The source code for the BlackLotus UEFI bootkit has been published on GitHub and experts warn of the risks of proliferation of custom versions.
+Researchers from ESET discovered in March a new stealthy Unified Extensible Firmware Interface (UEFI) bootkit,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackLotus UEFI Bootkit Source Code Leaked on GitHub<a href="https://www.securityweek.com/blacklotus-uefi-bootkit-source-code-leaked-on-github/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackLotus source code that was published on GitHub on Wednesday has been stripped of the ‘Baton Drop’ exploit targeting CVE-2022-21894, and uses the bootlicker UEFI firmware rootkit, but contains the rest of the original code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

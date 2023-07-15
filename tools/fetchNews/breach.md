@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+July 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese hackers compromised emails of U.S. Government agencies<a href="https://securityaffairs.com/148422/intelligence/chinese-hackers-compromised-emails-us-gov.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese hackers have compromised the emails of an unnamed US Federal Civilian Executive Branch (FCEB) agency.
+In Mid-June a malicious email activity was reported by an unnamed US Federal Civilian Executive Branch (FCEB) agency. Microsoft experts who investigated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Agencies' Emails Compromised in China-Backed Cyber Attack<a href="https://thehackernews.com/2023/07/us-government-agencies-emails.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unnamed Federal Civilian Executive Branch (FCEB) agency in the U.S. detected anomalous email activity in mid-June 2023, leading to Microsoft's discovery of a new China-linked&nbsp; espionage campaign &nbsp;targeting two dozen organizations. The details come from a joint cybersecurity advisory released by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and Federal Bureau of Investigation (FBI) on July 12, 2023. "In June 2023, a Federal Civilian Executive Branch (FCEB) agency identified suspicious activity in their Microsoft 365 (M365) cloud environment," the authorities&nbsp; said . "Microsoft determined that advanced persistent threat (APT) actors accessed and exfiltrated unclassified Exchange Online Outlook data." While the name of the government agency was not revealed,&nbsp; CNN &nbsp;and&nbsp; the Washington Post &nbsp;reported it was the U.S. State Department, citing people familiar with the matter. Also targeted were the Commerce Department as well as the email accou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
