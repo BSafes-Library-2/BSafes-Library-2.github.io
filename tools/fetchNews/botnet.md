@@ -8,6 +8,22 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New AVrecon botnet remained under the radar for two years while targeting SOHO Routers<a href="https://securityaffairs.com/148447/cyber-crime/avrecon-botnet-targets-soho.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware dubbed AVrecon targets small office/home office (SOHO) routers, it infected over 70,000 devices from 20 countries.
+Lumen Black Lotus Labs uncovered a long-running hacking campaign targeting SOHO routers with a strain of malware dubbed&nbsp;AVrecon.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

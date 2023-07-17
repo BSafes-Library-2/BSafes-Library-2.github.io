@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target Reddit Alternative Lemmy via Zero-Day Vulnerability<a href="https://www.securityweek.com/hackers-target-reddit-alternative-lemmy-via-zero-day-vulnerability/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CERT-UA Uncovers Gamaredon's Rapid Data Exfiltration Tactics Following Initial Compromise<a href="https://thehackernews.com/2023/07/cert-ua-uncovers-gamaredons-rapid-data.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixed a critical flaw in SD-WAN vManage<a href="https://securityaffairs.com/148524/security/cisco-sd-wan-vmanage-critical-bug.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FCC Chair Proposes $200M Investment to Boost K-12 Cybersecurity<a href="https://www.cybersecuritydive.com/news/fcc-rosenworcel-k12-cybersecurity/686985/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pompompurin, the BreachForums owner, pleads guilty to hacking charges and possession of child pornography<a href="https://securityaffairs.com/148515/cyber-crime/pompompurin-pleas-guilty-hacking-charges.html"> Full Text</a>
@@ -116,7 +116,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 16, 2023
+July 16, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WormGPT, the generative AI tool to launch sophisticated BEC attacks<a href="https://securityaffairs.com/148504/cyber-crime/wormgpt-bec-attacks.html"> Full Text</a>
@@ -133,7 +133,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2023
+July 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WormGPT: New AI Tool Allows Cybercriminals to Launch Sophisticated Cyber Attacks<a href="https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html"> Full Text</a>
@@ -149,7 +149,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2023
+July 15, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 USB Flash Drives for Malware Attack Surges<a href="https://cyware.com/news/usb-flash-drives-for-malware-attack-surges-652be276"> Full Text</a>
@@ -165,7 +165,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2023
+July 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Bug Allowed Hackers to Breach Over Two Dozen Organizations via Forged Azure AD Tokens<a href="https://thehackernews.com/2023/07/microsoft-bug-allowed-hackers-to-breach.html"> Full Text</a>
@@ -181,7 +181,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2023
+July 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meet CustomerLoader: A Multifaceted Malware Unleashing Diverse Payloads<a href="https://cyware.com/news/meet-customerloader-a-multifaceted-malware-unleashing-diverse-payloads-ab2b92b9"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2023
+July 15, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 428 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/148500/breaking-news/security-affairs-newsletter-round-428-by-pierluigi-paganini-international-edition.html"> Full Text</a>
@@ -215,7 +215,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2023
+July 15, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Satellites lack standard security mechanisms found in mobile phones and laptops<a href="https://www.helpnetsecurity.com/2023/07/14/satellite-security-mechanisms/?&web_view=true"> Full Text</a>
@@ -231,7 +231,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2023
+July 15, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-linked APT Gamaredon starts stealing data from victims between 30 and 50 minutes after the initial compromise<a href="https://securityaffairs.com/148488/apt/gamaredon-ttps.html"> Full Text</a>
@@ -248,7 +248,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 15, 2023
+July 15, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three Tax Prep Firms Shared ‘Extraordinarily Sensitive’ Data About Taxpayers With Meta, Lawmakers Say<a href="https://www.securityweek.com/3-tax-prep-firms-shared-extraordinarily-sensitive-data-about-taxpayers-with-meta-lawmakers-say/?&web_view=true"> Full Text</a>

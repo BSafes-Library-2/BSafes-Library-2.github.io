@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Bug Allowed Hackers to Breach Over Two Dozen Organizations via Forged Azure AD Tokens<a href="https://thehackernews.com/2023/07/microsoft-bug-allowed-hackers-to-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday said a validation error in its source code allowed for Azure Active Directory (Azure AD) tokens to be forged by a malicious actor known as&nbsp; Storm-0558 &nbsp;using a Microsoft account (MSA) consumer signing key to breach two dozen organizations. "Storm-0558 acquired an inactive MSA consumer signing key and used it to forge authentication tokens for Azure AD enterprise and MSA consumer to access OWA and Outlook.com," the tech giant&nbsp; said &nbsp;in a deeper analysis of the campaign. "The method by which the actor acquired the key is a matter of ongoing investigation." "Though the key was intended only for MSA accounts, a validation issue allowed this key to be trusted for signing Azure AD tokens. This issue has been corrected." It's not immediately clear if the token validation issue was exploited as a "zero-day vulnerability" or if Microsoft was already aware of the problem before it came under in-the-wild abuse. The attacks singl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

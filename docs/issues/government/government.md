@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Chair Proposes $200M Investment to Boost K-12 Cybersecurity<a href="https://www.cybersecuritydive.com/news/fcc-rosenworcel-k12-cybersecurity/686985/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move follows urgent calls for the FCC to update its E-rate program to cover advanced firewalls and other network security measures. The pilot program is part of FCC Chairwoman Jessica Rosenworcel’s Learn Without Limits initiative.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WormGPT: New AI Tool Allows Cybercriminals to Launch Sophisticated Cyber Attacks<a href="https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With generative artificial intelligence (AI) becoming all the rage these days, it's perhaps not surprising that the technology has been repurposed by malicious actors to their own advantage, enabling avenues for accelerated cybercrime. According to findings from SlashNext, a new generative AI cybercrime tool called&nbsp; WormGPT &nbsp;has been advertised on underground forums as a way for adversaries to launch sophisticated phishing and business email compromise ( BEC ) attacks. "This tool presents itself as a blackhat alternative to GPT models, designed specifically for malicious activities," security researcher Daniel Kelley&nbsp; said . "Cybercriminals can use such technology to automate the creation of highly convincing fake emails, personalized to the recipient, thus increasing the chances of success for the attack." The author of the software has described it as the "biggest enemy of the well-known ChatGPT" that "lets you do all sorts of illegal stuff.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

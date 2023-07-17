@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA Uncovers Gamaredon's Rapid Data Exfiltration Tactics Following Initial Compromise<a href="https://thehackernews.com/2023/07/cert-ua-uncovers-gamaredons-rapid-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked threat actor known as Gamaredon has been observed conducting data exfiltration activities within an hour of the initial compromise. "As a vector of primary compromise, for the most part, emails and messages in messengers (Telegram, WhatsApp, Signal) are used, in most cases, using previously compromised accounts," the Computer Emergency Response Team of Ukraine (CERT-UA)&nbsp; said &nbsp;in an analysis of the group published last week. Gamaredon , also called Aqua Blizzard, Armageddon, Shuckworm, or UAC-0010, is a&nbsp; state-sponsored actor &nbsp;with ties to the SBU Main Office in the Autonomous Republic of Crimea, which was annexed by Russia in 2014. The group is estimated to have infected thousands of government computers. It is also one of the&nbsp; many Russian hacking crews &nbsp;that have maintained an&nbsp; active presence &nbsp;since the start of the Russo-Ukrainian war in February 2022, leveraging phishing campaigns to deliver PowerShell backdoors such as GammaSteel to conduct recon
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

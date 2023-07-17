@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT Gamaredon starts stealing data from victims between 30 and 50 minutes after the initial compromise<a href="https://securityaffairs.com/148488/apt/gamaredon-ttps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Computer Emergency Response Team (CERT-UA) states that Russia-linked APT Gamaredon starts stealing data 30 minutes after the initial compromise.
+Ukraine's Computer Emergency Response Team (CERT-UA) is warning that the Russia-linked APT group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

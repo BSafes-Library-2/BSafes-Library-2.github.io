@@ -8,6 +8,50 @@ nav_order: 900072
 
 ## General
 ---
+July 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+USB Flash Drives for Malware Attack Surges<a href="https://cyware.com/news/usb-flash-drives-for-malware-attack-surges-652be276"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant experts have observed a significant rise in malware attacks aimed at stealing sensitive information through the use of USB drives. The attacks targeted a variety of industries including those in construction, engineering, government, manufacturing, retail, media, and pharmaceutical. Organi ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 428 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/148500/breaking-news/security-affairs-newsletter-round-428-by-pierluigi-paganini-international-edition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+Russia-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Satellites lack standard security mechanisms found in mobile phones and laptops<a href="https://www.helpnetsecurity.com/2023/07/14/satellite-security-mechanisms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Ruhr University Bochum and the CISPA Helmholtz Center for Information Security in Saarbrücken have assessed the security mechanisms of satellites currently orbiting the Earth from an IT perspective.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
