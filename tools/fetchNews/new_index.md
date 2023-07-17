@@ -34,6 +34,236 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Reddit Alternative Lemmy via Zero-Day Vulnerability<a href="https://www.securityweek.com/hackers-target-reddit-alternative-lemmy-via-zero-day-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A few days ago, an attacker leveraged a cross-site scripting (XSS) vulnerability to deface pages on some popular instances, including Lemmy.world, the most popular instance, which has over 100,000 users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA Uncovers Gamaredon's Rapid Data Exfiltration Tactics Following Initial Compromise<a href="https://thehackernews.com/2023/07/cert-ua-uncovers-gamaredons-rapid-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked threat actor known as Gamaredon has been observed conducting data exfiltration activities within an hour of the initial compromise. "As a vector of primary compromise, for the most part, emails and messages in messengers (Telegram, WhatsApp, Signal) are used, in most cases, using previously compromised accounts," the Computer Emergency Response Team of Ukraine (CERT-UA)  said  in an analysis of the group published last week. Gamaredon , also called Aqua Blizzard, Armageddon, Shuckworm, or UAC-0010, is a  state-sponsored actor  with ties to the SBU Main Office in the Autonomous Republic of Crimea, which was annexed by Russia in 2014. The group is estimated to have infected thousands of government computers. It is also one of the  many Russian hacking crews  that have maintained an  active presence  since the start of the Russo-Ukrainian war in February 2022, leveraging phishing campaigns to deliver PowerShell backdoors such as GammaSteel to conduct recon
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed a critical flaw in SD-WAN vManage<a href="https://securityaffairs.com/148524/security/cisco-sd-wan-vmanage-critical-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco warns of a critical unauthenticated REST API access vulnerability, tracked as CVE-2023-20214, impacting its SD-WAN vManage.
+Cisco addressed a critical unauthenticated REST API access vulnerability, tracked as CVE-2023-20214 (CVSS Score 9.1),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Chair Proposes $200M Investment to Boost K-12 Cybersecurity<a href="https://www.cybersecuritydive.com/news/fcc-rosenworcel-k12-cybersecurity/686985/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The move follows urgent calls for the FCC to update its E-rate program to cover advanced firewalls and other network security measures. The pilot program is part of FCC Chairwoman Jessica Rosenworcel’s Learn Without Limits initiative.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pompompurin, the BreachForums owner, pleads guilty to hacking charges and possession of child pornography<a href="https://securityaffairs.com/148515/cyber-crime/pompompurin-pleas-guilty-hacking-charges.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The owner of the BreachForums Conor Brian Fitzpatrick, aka Pompompurin, pleads guilty to hacking charges.
+The owner of the BreachForums Conor Brian Fitzpatrick agrees to plead guilty to a three-count criminal information charging the defendant with...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WormGPT, the generative AI tool to launch sophisticated BEC attacks<a href="https://securityaffairs.com/148504/cyber-crime/wormgpt-bec-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The WormGPT case: How Generative artificial intelligence (AI) can improve the capabilities of cybercriminals and allows them to launch sophisticated attacks.
+Researchers from SlashNext warn of the dangers related to a new generative AI cybercrime...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WormGPT: New AI Tool Allows Cybercriminals to Launch Sophisticated Cyber Attacks<a href="https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With generative artificial intelligence (AI) becoming all the rage these days, it's perhaps not surprising that the technology has been repurposed by malicious actors to their own advantage, enabling avenues for accelerated cybercrime. According to findings from SlashNext, a new generative AI cybercrime tool called  WormGPT  has been advertised on underground forums as a way for adversaries to launch sophisticated phishing and business email compromise ( BEC ) attacks. "This tool presents itself as a blackhat alternative to GPT models, designed specifically for malicious activities," security researcher Daniel Kelley  said . "Cybercriminals can use such technology to automate the creation of highly convincing fake emails, personalized to the recipient, thus increasing the chances of success for the attack." The author of the software has described it as the "biggest enemy of the well-known ChatGPT" that "lets you do all sorts of illegal stuff.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+USB Flash Drives for Malware Attack Surges<a href="https://cyware.com/news/usb-flash-drives-for-malware-attack-surges-652be276"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant experts have observed a significant rise in malware attacks aimed at stealing sensitive information through the use of USB drives. The attacks targeted a variety of industries including those in construction, engineering, government, manufacturing, retail, media, and pharmaceutical. Organi ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Bug Allowed Hackers to Breach Over Two Dozen Organizations via Forged Azure AD Tokens<a href="https://thehackernews.com/2023/07/microsoft-bug-allowed-hackers-to-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday said a validation error in its source code allowed for Azure Active Directory (Azure AD) tokens to be forged by a malicious actor known as  Storm-0558  using a Microsoft account (MSA) consumer signing key to breach two dozen organizations. "Storm-0558 acquired an inactive MSA consumer signing key and used it to forge authentication tokens for Azure AD enterprise and MSA consumer to access OWA and Outlook.com," the tech giant  said  in a deeper analysis of the campaign. "The method by which the actor acquired the key is a matter of ongoing investigation." "Though the key was intended only for MSA accounts, a validation issue allowed this key to be trusted for signing Azure AD tokens. This issue has been corrected." It's not immediately clear if the token validation issue was exploited as a "zero-day vulnerability" or if Microsoft was already aware of the problem before it came under in-the-wild abuse. The attacks singl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meet CustomerLoader: A Multifaceted Malware Unleashing Diverse Payloads<a href="https://cyware.com/news/meet-customerloader-a-multifaceted-malware-unleashing-diverse-payloads-ab2b92b9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unreported .NET loader referred to as CustomerLoader is being distributed through deceptive phishing emails, YouTube videos, and web pages that mimicked genuine websites. This loader possesses the capability to retrieve, decrypt, and execute additional payloads.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 428 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/148500/breaking-news/security-affairs-newsletter-round-428-by-pierluigi-paganini-international-edition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+Russia-linked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Satellites lack standard security mechanisms found in mobile phones and laptops<a href="https://www.helpnetsecurity.com/2023/07/14/satellite-security-mechanisms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Ruhr University Bochum and the CISPA Helmholtz Center for Information Security in Saarbrücken have assessed the security mechanisms of satellites currently orbiting the Earth from an IT perspective.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-linked APT Gamaredon starts stealing data from victims between 30 and 50 minutes after the initial compromise<a href="https://securityaffairs.com/148488/apt/gamaredon-ttps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Computer Emergency Response Team (CERT-UA) states that Russia-linked APT Gamaredon starts stealing data 30 minutes after the initial compromise.
+Ukraine's Computer Emergency Response Team (CERT-UA) is warning that the Russia-linked APT group...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Tax Prep Firms Shared ‘Extraordinarily Sensitive’ Data About Taxpayers With Meta, Lawmakers Say<a href="https://www.securityweek.com/3-tax-prep-firms-shared-extraordinarily-sensitive-data-about-taxpayers-with-meta-lawmakers-say/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of congressional Democrats reported that three large tax preparation firms sent “extraordinarily sensitive” information on tens of millions of taxpayers to Facebook parent company Meta over the course of at least two years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
