@@ -8,6 +8,21 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco fixed a critical flaw in SD-WAN vManage<a href="https://securityaffairs.com/148524/security/cisco-sd-wan-vmanage-critical-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco warns of a critical unauthenticated REST API access vulnerability, tracked as CVE-2023-20214, impacting its SD-WAN vManage.
+Cisco addressed a critical unauthenticated REST API access vulnerability, tracked as CVE-2023-20214 (CVSS Score 9.1),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,35 @@ nav_order: 900220
 July 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Adobe warns customers of a critical ColdFusion RCE exploited in attacks<a href="https://securityaffairs.com/148542/hacking/coldfusion-rce-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe is warning customers of a critical ColdFusion pre-authentication RCE bug, tracked as CVE-2023-29300, which is actively exploited.
+Adobe warns customers of a critical ColdFusion pre-authentication remote code execution vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploitation of ColdFusion Vulnerability Reported as Adobe Patches Another Critical Flaw<a href="https://www.securityweek.com/exploitation-of-coldfusion-vulnerability-reported-as-adobe-patches-another-critical-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2023-38203 (CVSS score of 9.8), the flaw is described as “deserialization of untrusted data” in ColdFusion versions 2023, 2021, and?2018. This allows an attacker to use specially crafted data to trigger the execution of arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Cisco fixed a critical flaw in SD-WAN vManage<a href="https://securityaffairs.com/148524/security/cisco-sd-wan-vmanage-critical-bug.html"> Full Text</a>
 </p>
 <details>

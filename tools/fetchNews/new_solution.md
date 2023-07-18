@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These 6 Questions Will Help You Choose the Best Attack Surface Management Platform<a href="https://thehackernews.com/2023/07/these-6-questions-will-help-you-choose.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hype around different security categories can make it difficult to discern features and capabilities from bias when researching new platforms. You want to advance your security measures, but what steps actually make sense for your business? For anyone ready to find an&nbsp; attack surface management (ASM) vendor , review these six questions before getting started to understand the key features to look for in an ASM platform and the qualities of the vendor who supports it. Refer to these as your quick guide for interviewing vendors to walk away with the most suitable ASM platform for your needs.&nbsp; Checklist: 6 Questions to Ask Attack Surface Management Vendors&nbsp; Does your platform have the capability to discover the unknown?&nbsp; How do you prevent alert fatigue, prioritize alerts and remove false positives?&nbsp; Can you track attack surface changes over time?&nbsp; How do you plan to evolve the platform going forward? What services related to ASM do you offer? Can we demo or test run the pl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

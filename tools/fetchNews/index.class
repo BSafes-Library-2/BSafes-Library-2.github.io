@@ -34,6 +34,216 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta’s Threads App Used as a Lure<a href="https://www.helpnetsecurity.com/2023/07/14/threads-app-lure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers with Veriti are warning about “over 700 domains related to Threads being registered daily” in recent weeks, offering an Android version of the app for download outside of Google’s official app store.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit WebAPK to Deceive Android Users into Installing Malicious Apps<a href="https://thehackernews.com/2023/07/hackers-exploit-webapk-to-deceive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are taking advantage of Android's  WebAPK technology  to trick unsuspecting users into installing malicious web apps on Android phones that are designed to capture sensitive personal information. "The attack began with victims receiving SMS messages suggesting the need to update a mobile banking application," researchers from CSIRT KNF  said  in an analysis released last week. "The link contained in the message led to a site that used WebAPK technology to install a malicious application on the victim's device." The application impersonates PKO Bank Polski, a multinational banking and financial services company headquartered in Warsaw. Details of the campaign were  first shared  by Polish cybersecurity firm RIFFSEC. WebAPK allows users to install progressive web apps (PWAs) to their home screen on Android devices without having to use the Google Play Store. "When a user installs a PWA from Google Chrome and a WebAPK is used, the minti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe warns customers of a critical ColdFusion RCE exploited in attacks<a href="https://securityaffairs.com/148542/hacking/coldfusion-rce-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe is warning customers of a critical ColdFusion pre-authentication RCE bug, tracked as CVE-2023-29300, which is actively exploited.
+Adobe warns customers of a critical ColdFusion pre-authentication remote code execution vulnerability, tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploitation of ColdFusion Vulnerability Reported as Adobe Patches Another Critical Flaw<a href="https://www.securityweek.com/exploitation-of-coldfusion-vulnerability-reported-as-adobe-patches-another-critical-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2023-38203 (CVSS score of 9.8), the flaw is described as “deserialization of untrusted data” in ColdFusion versions 2023, 2021, and?2018. This allows an attacker to use specially crafted data to trigger the execution of arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These 6 Questions Will Help You Choose the Best Attack Surface Management Platform<a href="https://thehackernews.com/2023/07/these-6-questions-will-help-you-choose.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hype around different security categories can make it difficult to discern features and capabilities from bias when researching new platforms. You want to advance your security measures, but what steps actually make sense for your business? For anyone ready to find an  attack surface management (ASM) vendor , review these six questions before getting started to understand the key features to look for in an ASM platform and the qualities of the vendor who supports it. Refer to these as your quick guide for interviewing vendors to walk away with the most suitable ASM platform for your needs.  Checklist: 6 Questions to Ask Attack Surface Management Vendors  Does your platform have the capability to discover the unknown?  How do you prevent alert fatigue, prioritize alerts and remove false positives?  Can you track attack surface changes over time?  How do you plan to evolve the platform going forward? What services related to ASM do you offer? Can we demo or test run the pl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Admins of Genesis Market marketplace sold their infrastructure on a hacker forum<a href="https://securityaffairs.com/148531/cyber-crime/genesis-market-infrastructure-sold.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The admins of the darkweb Genesis Market announced the sale of their platform to a threat actor that will restart operations next month.
+In April, the FBI seized the Genesis Market, a black marketplace for stolen credentials that was launched in 2017....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Google Removes Swing VPN Android App Exposed as DDoS Botnet<a href="https://www.hackread.com/google-removes-swing-vpn-android-ddos-botnet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident serves as a reminder that even seemingly legitimate apps can harbor dangerous intentions, highlighting the importance of staying informed and vigilant against cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious USB Drives Targetinging Global Targets with SOGU and SNOWYDRIVE Malware<a href="https://thehackernews.com/2023/07/malicious-usb-drives-targetinging.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber attacks using infected USB infection drives as an initial access vector have witnessed a three-fold increase in the first half of 2023,  That's according to new findings from Mandiant, which detailed two such campaigns – SOGU and SNOWYDRIVE – targeting both public and private sector entities across the world. SOGU is the "most prevalent USB-based cyber espionage attack using USB flash drives and one of the most aggressive cyber espionage campaigns targeting both public and private sector organizations globally across industry verticals," the Google-owned threat intelligence firm  said . The activity has been attributed to a China-based cluster called TEMP.Hex, which is also tracked under the names Camaro Dragon, Earth Preta, and Mustang Panda. Targets include construction and engineering, business services, government, health, transportation, and retail in Europe, Asia, and the U.S. The infection chain detailed by Mandiant exhibits tactical commonalities with
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Pakistani Government, Bank, and Telecom Provider With China-Made Malware<a href="https://therecord.media/hackers-target-pakistani-government-with-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Trend Micro identified three entities in Pakistan targeted by Shadowpad last year: an unnamed government agency, a state bank, and a telecommunications provider.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploit Microsoft Word Vulnerabilities to Deploy LokiBot Malware<a href="https://thehackernews.com/2023/07/cybercriminals-exploit-microsoft-word.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Word documents exploiting known remote code execution flaws are being used as phishing lures to drop malware called  LokiBot  on compromised systems. "LokiBot, also known as Loki PWS, has been a well-known information-stealing Trojan active since 2015," Fortinet FortiGuard Labs researcher Cara Lin  said . "It primarily targets Windows systems and aims to gather sensitive information from infected machines." The cybersecurity company, which spotted the campaign in May 2023, said the attacks take advantage of  CVE-2021-40444  and  CVE-2022-30190  (aka Follina) to achieve code execution. The Word file that weaponizes CVE-2021-40444 contains an external GoFile link embedded within an XML file that leads to the download of an HTML file, which exploits Follina to download a next-stage payload, an injector module written in Visual Basic that decrypts and launches LokiBot. The injector also features evasion techniques to check for the presence of debuggers a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Data Breach Could Impact 70,000 Residents, Vendor Employees With Hillsborough County<a href="https://www.fox13news.com/news/global-data-breach-could-impact-70000-residents-vendor-employees-with-hillsborough-county?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hillsborough County said they've mailed notification letters to 70,636 people who are clients of Healthcare services and vendors of aging services who they know were impacted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Linked Gamaredon APT Starts Stealing Data From Victims Between 30 and 50 Minutes After the Initial Compromise<a href="https://securityaffairs.com/148488/apt/gamaredon-ttps.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked APT group employs spear-phishing emails and messages, such as on Telegram and Signal, to trick victims into opening malicious attachments. Gamaredon uses malware and PowerShell scripts for reconnaissance and executing commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New AVrecon Malware Infects 70,000 Linux Routers Across 20 Countries<a href="https://cyware.com/news/new-avrecon-malware-infects-70000-linux-routers-across-20-countries-2254d2c2"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stealthy Linux malware, dubbed AVrecon, was found targeting more than 70,000 Linux-based SOHO routers at least since May 2021. It reportedly hijacked these devices to form a botnet that could steal bandwidth and provide a hidden residential proxy service. A total of 15 second-stage control server ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

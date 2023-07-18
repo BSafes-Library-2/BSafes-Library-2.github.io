@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Tax Prep Firms Shared ‘Extraordinarily Sensitive’ Data About Taxpayers With Meta, Lawmakers Say<a href="https://www.securityweek.com/3-tax-prep-firms-shared-extraordinarily-sensitive-data-about-taxpayers-with-meta-lawmakers-say/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of congressional Democrats reported that three large tax preparation firms sent “extraordinarily sensitive” information on tens of millions of taxpayers to Facebook parent company Meta over the course of at least two years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

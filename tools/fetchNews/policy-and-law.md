@@ -8,6 +8,21 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pompompurin, the BreachForums owner, pleads guilty to hacking charges and possession of child pornography<a href="https://securityaffairs.com/148515/cyber-crime/pompompurin-pleas-guilty-hacking-charges.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The owner of the BreachForums Conor Brian Fitzpatrick, aka Pompompurin, pleads guilty to hacking charges.
+The owner of the BreachForums Conor Brian Fitzpatrick agrees to plead guilty to a three-count criminal information charging the defendant with...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

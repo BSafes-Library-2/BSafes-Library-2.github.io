@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta’s Threads App Used as a Lure<a href="https://www.helpnetsecurity.com/2023/07/14/threads-app-lure/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit WebAPK to Deceive Android Users into Installing Malicious Apps<a href="https://thehackernews.com/2023/07/hackers-exploit-webapk-to-deceive.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe warns customers of a critical ColdFusion RCE exploited in attacks<a href="https://securityaffairs.com/148542/hacking/coldfusion-rce-attacks.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploitation of ColdFusion Vulnerability Reported as Adobe Patches Another Critical Flaw<a href="https://www.securityweek.com/exploitation-of-coldfusion-vulnerability-reported-as-adobe-patches-another-critical-flaw/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 These 6 Questions Will Help You Choose the Best Attack Surface Management Platform<a href="https://thehackernews.com/2023/07/these-6-questions-will-help-you-choose.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Admins of Genesis Market marketplace sold their infrastructure on a hacker forum<a href="https://securityaffairs.com/148531/cyber-crime/genesis-market-infrastructure-sold.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Google Removes Swing VPN Android App Exposed as DDoS Botnet<a href="https://www.hackread.com/google-removes-swing-vpn-android-ddos-botnet/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious USB Drives Targetinging Global Targets with SOGU and SNOWYDRIVE Malware<a href="https://thehackernews.com/2023/07/malicious-usb-drives-targetinging.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target Pakistani Government, Bank, and Telecom Provider With China-Made Malware<a href="https://therecord.media/hackers-target-pakistani-government-with-malware?&web_view=true"> Full Text</a>
@@ -180,7 +180,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Exploit Microsoft Word Vulnerabilities to Deploy LokiBot Malware<a href="https://thehackernews.com/2023/07/cybercriminals-exploit-microsoft-word.html"> Full Text</a>
@@ -196,7 +196,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Data Breach Could Impact 70,000 Residents, Vendor Employees With Hillsborough County<a href="https://www.fox13news.com/news/global-data-breach-could-impact-70000-residents-vendor-employees-with-hillsborough-county?&web_view=true"> Full Text</a>
@@ -212,7 +212,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-Linked Gamaredon APT Starts Stealing Data From Victims Between 30 and 50 Minutes After the Initial Compromise<a href="https://securityaffairs.com/148488/apt/gamaredon-ttps.html?&web_view=true"> Full Text</a>
@@ -228,7 +228,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2023
+July 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New AVrecon Malware Infects 70,000 Linux Routers Across 20 Countries<a href="https://cyware.com/news/new-avrecon-malware-infects-70000-linux-routers-across-20-countries-2254d2c2"> Full Text</a>

@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta’s Threads App Used as a Lure<a href="https://www.helpnetsecurity.com/2023/07/14/threads-app-lure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers with Veriti are warning about “over 700 domains related to Threads being registered daily” in recent weeks, offering an Android version of the app for download outside of Google’s official app store.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit WebAPK to Deceive Android Users into Installing Malicious Apps<a href="https://thehackernews.com/2023/07/hackers-exploit-webapk-to-deceive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are taking advantage of Android's&nbsp; WebAPK technology &nbsp;to trick unsuspecting users into installing malicious web apps on Android phones that are designed to capture sensitive personal information. "The attack began with victims receiving SMS messages suggesting the need to update a mobile banking application," researchers from CSIRT KNF&nbsp; said &nbsp;in an analysis released last week. "The link contained in the message led to a site that used WebAPK technology to install a malicious application on the victim's device." The application impersonates PKO Bank Polski, a multinational banking and financial services company headquartered in Warsaw. Details of the campaign were&nbsp; first shared &nbsp;by Polish cybersecurity firm RIFFSEC. WebAPK allows users to install progressive web apps (PWAs) to their home screen on Android devices without having to use the Google Play Store. "When a user installs a PWA from Google Chrome and a WebAPK is used, the minti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
