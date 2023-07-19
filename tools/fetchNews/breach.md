@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Data Breach Could Impact 70,000 Residents, Vendor Employees With Hillsborough County<a href="https://www.fox13news.com/news/global-data-breach-could-impact-70000-residents-vendor-employees-with-hillsborough-county?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hillsborough County said they've mailed notification letters to 70,636 people who are clients of Healthcare services and vendors of aging services who they know were impacted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

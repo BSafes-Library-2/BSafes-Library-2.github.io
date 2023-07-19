@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Growing Scam Activity Linked to Social Media and Automation<a href="https://www.helpnetsecurity.com/2023/07/17/scam-resources-average-number/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The average number of scam resources per brand across all regions and industries more than doubled year-on-year in 2022, up 162%, according to Group-IB. Additionally, the total number of scam pages detected in 2022 was more than thrice in 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

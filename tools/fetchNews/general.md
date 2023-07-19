@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious USB Drives Targetinging Global Targets with SOGU and SNOWYDRIVE Malware<a href="https://thehackernews.com/2023/07/malicious-usb-drives-targetinging.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber attacks using infected USB infection drives as an initial access vector have witnessed a three-fold increase in the first half of 2023,&nbsp; That's according to new findings from Mandiant, which detailed two such campaigns – SOGU and SNOWYDRIVE – targeting both public and private sector entities across the world. SOGU is the "most prevalent USB-based cyber espionage attack using USB flash drives and one of the most aggressive cyber espionage campaigns targeting both public and private sector organizations globally across industry verticals," the Google-owned threat intelligence firm&nbsp; said . The activity has been attributed to a China-based cluster called TEMP.Hex, which is also tracked under the names Camaro Dragon, Earth Preta, and Mustang Panda. Targets include construction and engineering, business services, government, health, transportation, and retail in Europe, Asia, and the U.S. The infection chain detailed by Mandiant exhibits tactical commonalities with
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

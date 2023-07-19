@@ -11,6 +11,20 @@ nav_order: 900015
 July 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Pakistani Government, Bank, and Telecom Provider With China-Made Malware<a href="https://therecord.media/hackers-target-pakistani-government-with-malware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Trend Micro identified three entities in Pakistan targeted by Shadowpad last year: an unnamed government agency, a state bank, and a telecommunications provider.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target Reddit Alternative Lemmy via Zero-Day Vulnerability<a href="https://www.securityweek.com/hackers-target-reddit-alternative-lemmy-via-zero-day-vulnerability/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

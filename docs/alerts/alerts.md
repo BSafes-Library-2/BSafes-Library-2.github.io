@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023 - White House 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden-⁠Harris Administration Announces Cybersecurity Labeling Program for Smart Devices to Protect American Consumers <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2023/07/18/biden-harris-administration-announces-cybersecurity-labeling-program-for-smart-devices-to-protect-american-consumers/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Leading electronics and appliance manufacturers and retailers make voluntary commitments to increase cybersecurity on smart devices, help consumers choose products that are less vulnerable to cyberattacks.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 12, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

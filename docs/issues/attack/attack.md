@@ -8,6 +8,50 @@ nav_order: 900015
 
 ## Attack
 ---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistani Entities Targeted in Sophisticated Attack Deploying ShadowPad Malware<a href="https://thehackernews.com/2023/07/pakistani-entities-targeted-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unidentified threat actor compromised an application used by multiple entities in Pakistan to deliver&nbsp; ShadowPad , a successor to the PlugX backdoor that's commonly associated with&nbsp; Chinese hacking crews . Targets included a Pakistan government entity, a public sector bank, and a telecommunications provider, according to Trend Micro. The infections took place between mid-February 2022 and September 2022. The cybersecurity company said the incident could be the result of a supply-chain attack, in which a legitimate piece of software used by targets of interest is trojanized to deploy malware capable of gathering sensitive information from compromised systems. The attack chain takes the form of a malicious installer for&nbsp; E-Office , an application developed by the National Information Technology Board (NITB) of Pakistan to help government departments go paperless. It's currently not clear how the backdoored E-Office installer was delivered to the targets. That said, there&amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking campaign targets sites using WordPress WooCommerce Payments Plugin<a href="https://securityaffairs.com/148561/hacking/woocommerce-payments-wordpress-plugin-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a critical flaw, tracked as CVE-2023-28121,&nbsp;in the WooCommerce Payments WordPress plugin.
+Threat actors are actively exploiting a recently disclosed critical vulnerability, tracked as CVE-2023-28121&nbsp;(CVSS score:...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JumpCloud revealed it was hit by a sophisticated attack by a nation-state actor<a href="https://securityaffairs.com/148547/apt/jumpcloud-nation-state-actor-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software firm JumpCloud announced it was the victim of a sophisticated cyber attack carried out by a nation-state actor.
+JumpCloud is a cloud-based directory service platform designed to manage user identities, devices, and applications in a seamless...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

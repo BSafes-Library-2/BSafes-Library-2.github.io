@@ -8,6 +8,35 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Admins of Genesis Market marketplace sold their infrastructure on a hacker forum<a href="https://securityaffairs.com/148531/cyber-crime/genesis-market-infrastructure-sold.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The admins of the darkweb Genesis Market announced the sale of their platform to a threat actor that will restart operations next month.
+In April, the FBI seized the&nbsp;Genesis Market, a black marketplace for stolen credentials that was launched in 2017....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploit Microsoft Word Vulnerabilities to Deploy LokiBot Malware<a href="https://thehackernews.com/2023/07/cybercriminals-exploit-microsoft-word.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Word documents exploiting known remote code execution flaws are being used as phishing lures to drop malware called&nbsp; LokiBot &nbsp;on compromised systems. "LokiBot, also known as Loki PWS, has been a well-known information-stealing Trojan active since 2015," Fortinet FortiGuard Labs researcher Cara Lin&nbsp; said . "It primarily targets Windows systems and aims to gather sensitive information from infected machines." The cybersecurity company, which spotted the campaign in May 2023, said the attacks take advantage of&nbsp; CVE-2021-40444 &nbsp;and&nbsp; CVE-2022-30190 &nbsp;(aka Follina) to achieve code execution. The Word file that weaponizes CVE-2021-40444 contains an external GoFile link embedded within an XML file that leads to the download of an HTML file, which exploits Follina to download a next-stage payload, an injector module written in Visual Basic that decrypts and launches LokiBot. The injector also features evasion techniques to check for the presence of debuggers a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

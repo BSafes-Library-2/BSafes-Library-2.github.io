@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal Data Leak Exposes Some Registered Customers' Details<a href="https://thehackernews.com/2023/07/virustotal-data-leak-exposes-some.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data associated with a subset of registered customers of VirusTotal, including their names and email addresses, were exposed after an employee inadvertently uploaded the information to the malware scanning platform. The security incident, which comprises a database of 5,600 names in a 313KB file, was first disclosed by&nbsp; Der Spiegel &nbsp;and&nbsp; Der Standard &nbsp;yesterday. Launched in 2004, VirusTotal is a popular service that analyzes suspicious files and URLs to detect types of malware and malicious content using antivirus engines and website scanners. It was acquired by Google in 2012 and became a subsidiary of Google Cloud's Chronicle unit in 2018. When reached for comment, Google confirmed the leak and said it took immediate steps to remove the data. "We are aware of the unintentional distribution of a small segment of customer group administrator emails and organization names by one of our employees on the VirusTotal platform," a Google Cloud spokesperson told The Hacker
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

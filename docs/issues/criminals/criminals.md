@@ -8,6 +8,77 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 Group spotted delivering the BlackCat Ransomware<a href="https://securityaffairs.com/148569/cyber-crime/fin8-group-spotted-delivering-the-blackcat-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercrime group FIN8 is using a revamped version of the Sardonic&nbsp;backdoor to deliver the&nbsp;BlackCat ransomware.
+The financially motivated group FIN8 (aka Syssphinx) was spotted using a revamped version of a backdoor tracked as&nbsp;Sardonic&nbsp;to deliver...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Hat Hacker Exposes Real Identity After Infecting Own Computer With Malware<a href="https://www.securityweek.com/black-hat-hacker-exposes-real-identity-after-infecting-own-computer-with-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using the online moniker ‘La_Citrix’, the threat actor has been active on Russian-speaking cybercrime forums since 2020, offering access to hacked companies and info-stealer logs from active infections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Go Beyond the Headlines for Deeper Dives into the Cybercriminal Underground<a href="https://thehackernews.com/2023/07/go-beyond-headlines-for-deeper-dives.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discover stories about threat actors' latest tactics, techniques, and procedures from Cybersixgill's threat experts each month. Each story brings you details on emerging underground threats, the threat actors involved, and how you can take action to mitigate risks. Learn about the top vulnerabilities and review the latest ransomware and malware trends from the deep and dark web. Stolen ChatGPT credentials flood dark web markets Over the past year, 100,000 stolen credentials for ChatGPT were advertised on underground sites, being sold for as little as $5 on dark web marketplaces in addition to being offered for free. Stolen ChatGPT credentials include usernames, passwords, and other personal information associated with accounts. This is problematic because ChatGPT accounts may store sensitive information from queries, including confidential data and intellectual property. Speciﬁcally, companies increasingly incorporate ChatGPT into daily workﬂows, which means employees may disclose
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 Group Using Modified Sardonic Backdoor for BlackCat Ransomware Attacks<a href="https://thehackernews.com/2023/07/fin8-group-using-modified-sardonic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financially motivated threat actor known as FIN8 has been observed using a "revamped" version of a backdoor called&nbsp; Sardonic &nbsp;to deliver the&nbsp; BlackCat ransomware . According to the Symantec Threat Hunter Team, part of Broadcom, the development is an attempt on the part of the e-crime group to diversify its focus and maximize profits from infected entities. The intrusion attempt took place in December 2022. FIN8 is being tracked by the cybersecurity company under the name Syssphinx. Known to be active since at least 2016, the adversary was originally attributed to attacks targeting point-of-sale (PoS) systems using malware such as PUNCHTRACK and BADHATCH. The group resurfaced after more than a year in March 2021 with an updated version of BADHATCH, following it up with a completely new bespoke implant called Sardonic , which was disclosed by Bitdefender in August 2021. "The C++-based Sardonic backdoor has the ability to harvest system information and execute co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploiting WooCommerce Payments Plugin Flaw to Hijack Websites<a href="https://thehackernews.com/2023/07/cybercriminals-exploiting-woocommerce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a recently disclosed critical security flaw in the WooCommerce Payments WordPress plugin as part of a massive targeted campaign. The flaw, tracked as&nbsp; CVE-2023-28121 &nbsp;(CVSS score: 9.8), is a case of authentication bypass that enables unauthenticated attackers to impersonate arbitrary users and perform some actions as the impersonated user, including an administrator, potentially leading to site takeover. "Large-scale attacks against the vulnerability, assigned CVE-2023-28121, began on Thursday, July 14, 2023 and continued over the weekend, peaking at 1.3 million attacks against 157,000 sites on Saturday, July 16, 2023," Wordfence security researcher Ram Gall&nbsp; said &nbsp;in a Monday post. Versions 4.8.0 through 5.6.1 of WooCommerce Payments are vulnerable. The plugin is installed on over 600,000 sites. Patches for the bug were released by WooCommerce back in March 2023, with WordPress issuing auto-updates to sites using affected versions of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

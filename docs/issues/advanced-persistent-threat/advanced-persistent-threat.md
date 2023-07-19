@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamaredon APT Steals Data Within an Hour<a href="https://cyware.com/news/gamaredon-apt-steals-data-within-an-hour-459a9658"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once again, the Gamaredon APT is carrying out a new wave of phishing attacks targeting Ukrainian government agencies, stealing data within an hour of the attack. The campaign is aimed at entities in Ukraine, including security services, military, and government organizations.&nbsp;It is advised tha ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
