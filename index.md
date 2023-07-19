@@ -34,6 +34,314 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamaredon APT Steals Data Within an Hour<a href="https://cyware.com/news/gamaredon-apt-steals-data-within-an-hour-459a9658"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once again, the Gamaredon APT is carrying out a new wave of phishing attacks targeting Ukrainian government agencies, stealing data within an hour of the attack. The campaign is aimed at entities in Ukraine, including security services, military, and government organizations. It is advised tha ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistani Entities Targeted in Sophisticated Attack Deploying ShadowPad Malware<a href="https://thehackernews.com/2023/07/pakistani-entities-targeted-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unidentified threat actor compromised an application used by multiple entities in Pakistan to deliver  ShadowPad , a successor to the PlugX backdoor that's commonly associated with  Chinese hacking crews . Targets included a Pakistan government entity, a public sector bank, and a telecommunications provider, according to Trend Micro. The infections took place between mid-February 2022 and September 2022. The cybersecurity company said the incident could be the result of a supply-chain attack, in which a legitimate piece of software used by targets of interest is trojanized to deploy malware capable of gathering sensitive information from compromised systems. The attack chain takes the form of a malicious installer for  E-Office , an application developed by the National Information Technology Board (NITB) of Pakistan to help government departments go paperless. It's currently not clear how the backdoored E-Office installer was delivered to the targets. That said, there&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Virustotal data leak exposed data of some registered customers, including intelligence members<a href="https://securityaffairs.com/148577/security/virustotal-leaked-customers-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The online malware scanning service VirusTotal leaked data associated with some registered customers, German newspapers reported.
+German newspapers Der Spiegel and Der Standard reported that the online malware scanning service VirusTotal leaked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: UKG Agrees to Pay Up to $6M in Lawsuit Tied to 2021 Breach<a href="https://www.cybersecuritydive.com/news/ukg-settles-6M-lawsuit-ransomware-attack/688265/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack, which impacted multiple UKG customers such as Tesla, PepsiCo, Whole Foods, and New York City’s Metropolitan Transportation Authority, hindered some customers’ ability to process payroll.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VirusTotal Data Leak Exposes Some Registered Customers' Details<a href="https://thehackernews.com/2023/07/virustotal-data-leak-exposes-some.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data associated with a subset of registered customers of VirusTotal, including their names and email addresses, were exposed after an employee inadvertently uploaded the information to the malware scanning platform. The security incident, which comprises a database of 5,600 names in a 313KB file, was first disclosed by  Der Spiegel  and  Der Standard  yesterday. Launched in 2004, VirusTotal is a popular service that analyzes suspicious files and URLs to detect types of malware and malicious content using antivirus engines and website scanners. It was acquired by Google in 2012 and became a subsidiary of Google Cloud's Chronicle unit in 2018. When reached for comment, Google confirmed the leak and said it took immediate steps to remove the data. "We are aware of the unintentional distribution of a small segment of customer group administrator emails and organization names by one of our employees on the VirusTotal platform," a Google Cloud spokesperson told The Hacker
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 Group spotted delivering the BlackCat Ransomware<a href="https://securityaffairs.com/148569/cyber-crime/fin8-group-spotted-delivering-the-blackcat-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercrime group FIN8 is using a revamped version of the Sardonic backdoor to deliver the BlackCat ransomware.
+The financially motivated group FIN8 (aka Syssphinx) was spotted using a revamped version of a backdoor tracked as Sardonic to deliver...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Hat Hacker Exposes Real Identity After Infecting Own Computer With Malware<a href="https://www.securityweek.com/black-hat-hacker-exposes-real-identity-after-infecting-own-computer-with-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using the online moniker ‘La_Citrix’, the threat actor has been active on Russian-speaking cybercrime forums since 2020, offering access to hacked companies and info-stealer logs from active infections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Go Beyond the Headlines for Deeper Dives into the Cybercriminal Underground<a href="https://thehackernews.com/2023/07/go-beyond-headlines-for-deeper-dives.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discover stories about threat actors' latest tactics, techniques, and procedures from Cybersixgill's threat experts each month. Each story brings you details on emerging underground threats, the threat actors involved, and how you can take action to mitigate risks. Learn about the top vulnerabilities and review the latest ransomware and malware trends from the deep and dark web. Stolen ChatGPT credentials flood dark web markets Over the past year, 100,000 stolen credentials for ChatGPT were advertised on underground sites, being sold for as little as $5 on dark web marketplaces in addition to being offered for free. Stolen ChatGPT credentials include usernames, passwords, and other personal information associated with accounts. This is problematic because ChatGPT accounts may store sensitive information from queries, including confidential data and intellectual property. Speciﬁcally, companies increasingly incorporate ChatGPT into daily workﬂows, which means employees may disclose
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking campaign targets sites using WordPress WooCommerce Payments Plugin<a href="https://securityaffairs.com/148561/hacking/woocommerce-payments-wordpress-plugin-bug.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a critical flaw, tracked as CVE-2023-28121, in the WooCommerce Payments WordPress plugin.
+Threat actors are actively exploiting a recently disclosed critical vulnerability, tracked as CVE-2023-28121 (CVSS score:...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Unveils Consumer Labeling Program to Strengthen IoT Security<a href="https://www.cybersecuritydive.com/news/white-house-consumer-labeling-IoT/688256/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration has considered an Energy Star type of consumer labeling program a key part of an effort to strengthen the nation’s cyber infrastructure following the SolarWinds and Colonial Pipeline attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN8 Group Using Modified Sardonic Backdoor for BlackCat Ransomware Attacks<a href="https://thehackernews.com/2023/07/fin8-group-using-modified-sardonic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financially motivated threat actor known as FIN8 has been observed using a "revamped" version of a backdoor called  Sardonic  to deliver the  BlackCat ransomware . According to the Symantec Threat Hunter Team, part of Broadcom, the development is an attempt on the part of the e-crime group to diversify its focus and maximize profits from infected entities. The intrusion attempt took place in December 2022. FIN8 is being tracked by the cybersecurity company under the name Syssphinx. Known to be active since at least 2016, the adversary was originally attributed to attacks targeting point-of-sale (PoS) systems using malware such as PUNCHTRACK and BADHATCH. The group resurfaced after more than a year in March 2021 with an updated version of BADHATCH, following it up with a completely new bespoke implant called Sardonic , which was disclosed by Bitdefender in August 2021. "The C++-based Sardonic backdoor has the ability to harvest system information and execute co
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JumpCloud revealed it was hit by a sophisticated attack by a nation-state actor<a href="https://securityaffairs.com/148547/apt/jumpcloud-nation-state-actor-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software firm JumpCloud announced it was the victim of a sophisticated cyber attack carried out by a nation-state actor.
+JumpCloud is a cloud-based directory service platform designed to manage user identities, devices, and applications in a seamless...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phoenician Medical Center Cyberattack Affects Up to 162,500 Patients<a href="https://www.hipaajournal.com/phoenician-medical-center-cyberattack-affects-up-to-162500-patients/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The forensic investigation confirmed that there had been unauthorized access to files containing the protected health information of patients, some of which may have been obtained by the hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Owner of BreachForums Pleads Guilty to Cybercrime and Child Pornography Charges<a href="https://thehackernews.com/2023/07/owner-of-breachforums-pleads-guilty-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conor Brian Fitzpatrick , the owner of the now-defunct BreachForums website, has pleaded guilty to charges related to his operation of the cybercrime forum as well as having child pornography images. The development,  first reported  by DataBreaches.net last week, comes nearly four months after Fitzpatrick (aka pompompurin) was  formally charged  in the U.S. with conspiracy to commit access device fraud and possession of child pornography. BreachForums, launched in March 2022, operated as an illegal marketplace that allowed its members to trade hacked or stolen databases, enabling other criminal actors to gain unauthorized access to target systems. It was shut down in March 2023 shortly after  Fitzpatrick's arrest  in New York. As many as 888 databases consisting of 14 billion individual records are estimated to have been found in total. The forum had over 333,000 members prior to its takedown. "The purpose of BreachForums, and Fitzpatrick's intent in operating the f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Millions of emails' for US military sent to .ml addresses<a href="https://www.theregister.com/2023/07/18/us_military_mali_email_typos/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the past decade, millions of emails destined for .mil US military addresses were actually directed at .ml addresses, that being the top-level domain for the African nation of Mali, it's claimed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploiting WooCommerce Payments Plugin Flaw to Hijack Websites<a href="https://thehackernews.com/2023/07/cybercriminals-exploiting-woocommerce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively exploiting a recently disclosed critical security flaw in the WooCommerce Payments WordPress plugin as part of a massive targeted campaign. The flaw, tracked as  CVE-2023-28121  (CVSS score: 9.8), is a case of authentication bypass that enables unauthenticated attackers to impersonate arbitrary users and perform some actions as the impersonated user, including an administrator, potentially leading to site takeover. "Large-scale attacks against the vulnerability, assigned CVE-2023-28121, began on Thursday, July 14, 2023 and continued over the weekend, peaking at 1.3 million attacks against 157,000 sites on Saturday, July 16, 2023," Wordfence security researcher Ram Gall  said  in a Monday post. Versions 4.8.0 through 5.6.1 of WooCommerce Payments are vulnerable. The plugin is installed on over 600,000 sites. Patches for the bug were released by WooCommerce back in March 2023, with WordPress issuing auto-updates to sites using affected versions of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Growing Scam Activity Linked to Social Media and Automation<a href="https://www.helpnetsecurity.com/2023/07/17/scam-resources-average-number/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The average number of scam resources per brand across all regions and industries more than doubled year-on-year in 2022, up 162%, according to Group-IB. Additionally, the total number of scam pages detected in 2022 was more than thrice in 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JumpCloud Blames 'Sophisticated Nation-State' Actor for Security Breach<a href="https://thehackernews.com/2023/07/jumpcloud-blames-sophisticated-nation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A little over a week after  JumpCloud reset API keys of customers  impacted by a security incident, the company said the intrusion was the work of a sophisticated nation-state actor. The adversary "gained unauthorized access to our systems to target a small and specific set of our customers," Bob Phan, chief information security officer (CISO) at JumpCloud,  said  in a post-mortem report. "The attack vector used by the threat actor has been mitigated." The U.S. enterprise software firm said it identified anomalous activity on June 27, 2023, on an internal orchestration system, which it traced back to a spear-phishing campaign mounted by the attacker on June 22. While JumpCloud said it took security steps to shield its network by rotating credentials and rebuilding its systems, it wasn't until July 5 when it detected "unusual activity" in the commands framework for a small set of customers, prompting a forced-rotation of all admin API keys. The num
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dating App That Claims 50 Million Users Suffered a Data Breach<a href="https://www.vpnmentor.com/news/report-419dating-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researcher Jeremiah Fowler discovered a non-password-protected database containing approximately 2.3 million records associated with multiple dating applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 17, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
