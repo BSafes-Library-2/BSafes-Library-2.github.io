@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trends in Ransomware-as-a-Service and Cryptocurrency to Monitor<a href="https://www.helpnetsecurity.com/2023/07/19/cryptocurrency-ransomware-payments/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To defend against RaaS groups, organizations need a holistic, defense-in-depth approach that includes measures like multi-factor authentication, email security, patch management, and comprehensive asset management.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

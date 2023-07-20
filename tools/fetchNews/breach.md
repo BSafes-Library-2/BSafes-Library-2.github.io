@@ -8,6 +8,77 @@ nav_order: 900029
 
 ## Breach
 ---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Virustotal data leak exposed data of some registered customers, including intelligence members<a href="https://securityaffairs.com/148577/security/virustotal-leaked-customers-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The online malware scanning service VirusTotal leaked data associated with some registered customers, German newspapers reported.
+German newspapers Der Spiegel&nbsp;and&nbsp;Der Standard&nbsp;reported that the online malware scanning service VirusTotal leaked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phoenician Medical Center Cyberattack Affects Up to 162,500 Patients<a href="https://www.hipaajournal.com/phoenician-medical-center-cyberattack-affects-up-to-162500-patients/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The forensic investigation confirmed that there had been unauthorized access to files containing the protected health information of patients, some of which may have been obtained by the hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Millions of emails' for US military sent to .ml addresses<a href="https://www.theregister.com/2023/07/18/us_military_mali_email_typos/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the past decade, millions of emails destined for .mil US military addresses were actually directed at .ml addresses, that being the top-level domain for the African nation of Mali, it's claimed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JumpCloud Blames 'Sophisticated Nation-State' Actor for Security Breach<a href="https://thehackernews.com/2023/07/jumpcloud-blames-sophisticated-nation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A little over a week after&nbsp; JumpCloud reset API keys of customers &nbsp;impacted by a security incident, the company said the intrusion was the work of a sophisticated nation-state actor. The adversary "gained unauthorized access to our systems to target a small and specific set of our customers," Bob Phan, chief information security officer (CISO) at JumpCloud,&nbsp; said &nbsp;in a post-mortem report. "The attack vector used by the threat actor has been mitigated." The U.S. enterprise software firm said it identified anomalous activity on June 27, 2023, on an internal orchestration system, which it traced back to a spear-phishing campaign mounted by the attacker on June 22. While JumpCloud said it took security steps to shield its network by rotating credentials and rebuilding its systems, it wasn't until July 5 when it detected "unusual activity" in the commands framework for a small set of customers, prompting a forced-rotation of all admin API keys. The num
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dating App That Claims 50 Million Users Suffered a Data Breach<a href="https://www.vpnmentor.com/news/report-419dating-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researcher Jeremiah Fowler discovered a non-password-protected database containing approximately 2.3 million records associated with multiple dating applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

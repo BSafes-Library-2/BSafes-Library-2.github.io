@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+July 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIA World Endurance Championship Driver Passports Left Unsecured<a href="https://securityaffairs.com/148587/security/fia-world-endurance-championship-data-leak.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 16th, Cybernews researchers came across two misconfigured, meaning publicly exposed, Google Cloud Storage buckets. Both combined, they contained over 1.1 million files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

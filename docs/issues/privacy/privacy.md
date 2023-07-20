@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Blacklists Cytrox and Intellexa Spyware Vendors for Cyber Espionage<a href="https://thehackernews.com/2023/07/us-government-blacklists-cytrox-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Tuesday added two foreign commercial spyware vendors, Cytrox and Intellexa, to an economic blocklist for weaponizing cyber exploits to gain unauthorized access to devices and "threatening the privacy and security of individuals and organizations worldwide." This includes the companies' corporate holdings in Hungary (Cytrox Holdings Crt), North Macedonia (Cytrox AD), Greece (Intellexa S.A.), and Ireland (Intellexa Limited). By adding to the economic denylist, it prohibits U.S. companies from transacting with these businesses. "Recognizing the increasingly key role that surveillance technology plays in enabling campaigns of repression and other human rights abuses, the Commerce Department's action today targets these entities' ability to access commodities, software, and technology that could contribute to the development of surveillance tools that pose a risk of misuse in violations or abuses of human rights," the Bureau of Indus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

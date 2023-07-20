@@ -7,6 +7,22 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023 - BUREAU OF INDUSTRY AND SECURITY 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Commerce Adds Four Entities to Entity List for Trafficking in Cyber Exploits <a href="https://www.bis.doc.gov/index.php/documents/about-bis/newsroom/press-releases/3297-2023-07-18-bis-press-package-spyware-document/file"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WASHINGTON, D.C. – Today, the Commerce Department’s Bureau of Industry and Security
+(BIS) added four entities, Intellexa S.A. in Greece, Cytrox Holdings Crt in Hungary, Intellexa
+Limited in Ireland, and Cytrox AD in North Macedonia to the Entity List for trafficking in cyber
+exploits used to gain access to information systems, threatening the privacy and security of
+individuals and organizations worldwide.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 18, 2023 - White House 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -15,6 +31,18 @@ Biden-⁠Harris Administration Announces Cybersecurity Labeling Program for Smar
 <details>
   <summary>Abstract</summary>
 Leading electronics and appliance manufacturers and retailers make voluntary commitments to increase cybersecurity on smart devices, help consumers choose products that are less vulnerable to cyberattacks.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023 - NSA, CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA, CISA Release Guidance on Security Considerations for 5G Network Slicing <a href="https://www.cisa.gov/news-events/alerts/2023/07/17/nsa-cisa-release-guidance-security-considerations-5g-network-slicing"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the National Security Agency (NSA) and CISA published 5G Network Slicing: Security Considerations for Design, Deployment, and Maintenance. This guidance—created by the Enduring Security Framework (ESF), a public-private cross-sector working group led by the NSA and CISA—presents recommendations to address some identified threats to 5G standalone network slicing, and provides industry recognized practices for the design, deployment, operation, and maintenance of a hardened 5G standalone network slice(s). This guidance builds upon the 2022 ESF guidance Potential Threats to 5G Network Slicing. 
 </details>
 </div>
 

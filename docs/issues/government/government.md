@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+July 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and NSA Issue New Guidance to Strengthen 5G Network Slicing Against Threats<a href="https://thehackernews.com/2023/07/cisa-and-nsa-issue-new-guidance-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. cybersecurity and intelligence agencies have&nbsp; released &nbsp;a set of recommendations to address security concerns with 5G standalone network slicing and harden them against possible threats. "The threat landscape in 5G is dynamic; due to this, advanced monitoring, auditing, and other analytical capabilities are required to meet certain levels of network slicing service level requirements over time," the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the National Security Agency (NSA)&nbsp; said . 5G is the fifth-generation technology standard for broadband cellular networks, offering increased data speeds and lower latency. Network slicing is an architectural model that allows mobile service providers to partition their network up into several independent "slices" in order to create virtual networks that cater to different clients and use cases. The latest advisory builds upon guidance&nbsp; previously issued &nbsp;by the agencies in December 2022, warning
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Gov adds surveillance firms Cytrox and Intellexa to Entity List for trafficking in cyber exploits<a href="https://securityaffairs.com/148603/laws-and-regulations/us-gov-cytrox-intellexa-entity-list.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government added surveillance technology vendors Cytrox and Intellexa to an economic blocklist for trafficking in cyber exploits.
+The Commerce Department’s Bureau of Industry and Security (BIS) added surveillance technology vendors Intellexa...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

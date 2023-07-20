@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Manage Your Attack Surface?<a href="https://thehackernews.com/2023/07/how-to-manage-your-attack-surface.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attack surfaces are growing faster than security teams can keep up. To stay ahead, you need to know what's exposed and where attackers are most likely to strike. With cloud migration dramatically increasing the number of internal and external targets, prioritizing threats and managing your attack surface from an attacker's perspective has never been more important. Let's look at why it's growing, and how to monitor and manage it properly with tools like&nbsp; Intruder . What is your attack surface? First, it's important to understand that your attack surface is the sum of your digital assets that are 'exposed' – whether the digital assets are secure or vulnerable, known or unknown, in active use or not. This attack surface changes continuously over time, and includes digital assets that are on-premises, in the cloud, in subsidiary networks, and in third-party environments. In short, it's anything that a hacker can attack.&nbsp; What is attack surface managemen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

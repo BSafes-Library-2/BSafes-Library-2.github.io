@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploring the Dark Side: OSINT Tools and Techniques for Unmasking Dark Web Operations<a href="https://thehackernews.com/2023/07/exploring-dark-side-osint-tools-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On April 5, 2023, the FBI and Dutch National Police&nbsp; announced the takedown of Genesis Market , one of the largest dark web marketplaces. The operation, dubbed "Operation Cookie Monster," resulted in the arrest of 119 people and the seizure of over $1M in cryptocurrency. You can read the FBI's warrant&nbsp; here &nbsp;for details specific to this case. In light of these events, I'd like to discuss how OSINT can assist with dark web investigations. The Dark Web's anonymity attracts a variety of users, from whistleblowers and political activists to cybercriminals and terrorists. There are several techniques that can be used to try and identify the individuals behind these sites and personas. Technical Vulnerabilities While not considered OSINT, there have been instances when technical vulnerabilities have existed in the technology used to host dark websites. These vulnerabilities may exist in the software itself or be due to misconfigurations, but they can sometimes revea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Police Bust Another Bot Farm Accused of Pro-Russia Propaganda, Internet Fraud<a href="https://therecord.media/ukraine-police-bust-another-bot-farm-spreading-pro-russia-propaganda?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Cyber Police shut down yet another bot farm that was reportedly spreading disinformation about the war in Ukraine on social media, just one month after a similar illicit operation was raided in west-central Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

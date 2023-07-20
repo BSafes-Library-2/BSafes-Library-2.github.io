@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT41 Hackers Target Mobile Devices with New WyrmSpy and DragonEgg Spyware<a href="https://thehackernews.com/2023/07/chinese-apt41-hackers-target-mobile.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The prolific China-linked nation-state actor known as APT41 has been linked to two previously undocumented strains of Android spyware called WyrmSpy and DragonEgg. "Known for its exploitation of web-facing applications and infiltration of traditional endpoint devices, an established threat actor like APT 41 including mobile in its arsenal of malware shows how mobile endpoints are high-value targets with coveted corporate and personal data," Lookout&nbsp; said &nbsp;in a report shared with The Hacker News. APT41, also tracked under the names Axiom, Blackfly, Brass Typhoon (formerly Barium), Bronze Atlas, HOODOO, Wicked Panda, and Winnti, is known to be operational since at least 2007, targeting a wide range of industries to conduct intellectual property theft. Recent attacks mounted by the adversarial collective have&nbsp; leveraged &nbsp;an open-source red teaming tool known as Google Command and Control (GC2) as part of attacks aimed at media and job platforms in Taiwan and Italy. The init
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix warns of actively exploited zero-day in ADC and Gateway<a href="https://securityaffairs.com/148594/security/citrix-netscaler-application-delivery-controller-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix is warning customers of an actively exploited critical vulnerability in NetScaler Application Delivery Controller (ADC) and Gateway.
+Citrix is warning customers of a critical vulnerability, tracked as&nbsp;CVE-2023-3519&nbsp;(CVSS score: 9.8), in NetScaler...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bad.Build Flaw in Google Cloud Build Raises Concerns of Privilege Escalation<a href="https://thehackernews.com/2023/07/badbuild-flaw-in-google-cloud-build.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered a privilege escalation vulnerability in Google Cloud that could enable malicious actors tamper with application images and infect users, leading to supply chain attacks. The issue, dubbed&nbsp; Bad.Build , is rooted in the&nbsp; Google Cloud Build service , according to cloud security firm Orca, which discovered and reported the issue. "By abusing the flaw and enabling an impersonation of the default Cloud Build service, attackers can manipulate images in the Google Artifact Registry and inject malicious code," the company&nbsp; said &nbsp;in a statement shared with The Hacker News. "Any applications built from the manipulated images are then affected and, if the malformed applications are meant to be deployed on customer's environments, the risk crosses from the supplying organization's environment to their customers' environments, constituting a major supply chain risk." Following responsible disclosure, Google has&nbsp; issued &nbsp;a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Attacks Exploited Critical Vulnerability in Citrix ADC and Gateway<a href="https://thehackernews.com/2023/07/zero-day-attacks-exploited-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix is&nbsp; alerting &nbsp;users of a critical security flaw in NetScaler Application Delivery Controller (ADC) and Gateway that it said is being actively exploited in the wild. Tracked as&nbsp; CVE-2023-3519 &nbsp;(CVSS score: 9.8), the issue relates to a case of&nbsp; code injection &nbsp;that could result in unauthenticated remote code execution. It impacts the following versions - NetScaler ADC and NetScaler Gateway 13.1 before 13.1-49.13 NetScaler ADC and NetScaler Gateway 13.0 before 13.0-91.13 NetScaler ADC and NetScaler Gateway version 12.1 (currently end-of-life) NetScaler ADC 13.1-FIPS before 13.1-37.159 NetScaler ADC 12.1-FIPS before 12.1-55.297, and NetScaler ADC 12.1-NDcPP before 12.1-55.297 The company did not give further details on the flaw tied to CVE-2023-3519 other than to say that exploits for the flaw have been observed on "unmitigated appliances." However, successful exploitation requires the device to be configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RD
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: UKG Agrees to Pay Up to $6M in Lawsuit Tied to 2021 Breach<a href="https://www.cybersecuritydive.com/news/ukg-settles-6M-lawsuit-ransomware-attack/688265/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack, which impacted multiple UKG customers such as Tesla, PepsiCo, Whole Foods, and New York City’s Metropolitan Transportation Authority, hindered some customers’ ability to process payroll.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Owner of BreachForums Pleads Guilty to Cybercrime and Child Pornography Charges<a href="https://thehackernews.com/2023/07/owner-of-breachforums-pleads-guilty-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conor Brian Fitzpatrick , the owner of the now-defunct BreachForums website, has pleaded guilty to charges related to his operation of the cybercrime forum as well as having child pornography images. The development,&nbsp; first reported &nbsp;by DataBreaches.net last week, comes nearly four months after Fitzpatrick (aka pompompurin) was&nbsp; formally charged &nbsp;in the U.S. with conspiracy to commit access device fraud and possession of child pornography. BreachForums, launched in March 2022, operated as an illegal marketplace that allowed its members to trade hacked or stolen databases, enabling other criminal actors to gain unauthorized access to target systems. It was shut down in March 2023 shortly after&nbsp; Fitzpatrick's arrest &nbsp;in New York. As many as 888 databases consisting of 14 billion individual records are estimated to have been found in total. The forum had over 333,000 members prior to its takedown. "The purpose of BreachForums, and Fitzpatrick's intent in operating the f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
