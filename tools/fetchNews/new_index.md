@@ -34,7 +34,299 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Legislators say HHS is failing to adequately protect health records from law enforcement<a href="https://therecord.media/protected-health-information-law-enforcement-warrants-lawmakers-hhs?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lawmakers are demanding the Department of Health and Human Services (HHS) to prevent law enforcement from accessing reproductive and other health records without a warrant.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Manage Your Attack Surface?<a href="https://thehackernews.com/2023/07/how-to-manage-your-attack-surface.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attack surfaces are growing faster than security teams can keep up. To stay ahead, you need to know what's exposed and where attackers are most likely to strike. With cloud migration dramatically increasing the number of internal and external targets, prioritizing threats and managing your attack surface from an attacker's perspective has never been more important. Let's look at why it's growing, and how to monitor and manage it properly with tools like  Intruder . What is your attack surface? First, it's important to understand that your attack surface is the sum of your digital assets that are 'exposed' – whether the digital assets are secure or vulnerable, known or unknown, in active use or not. This attack surface changes continuously over time, and includes digital assets that are on-premises, in the cloud, in subsidiary networks, and in third-party environments. In short, it's anything that a hacker can attack.  What is attack surface managemen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine’s cyber police dismantled a massive bot farm spreading propaganda<a href="https://securityaffairs.com/148616/intelligence/massive-bot-farm-russia-propaganda.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber ​​Police Department of the National Police of Ukraine dismantled a massive bot farm and seized 150,000 SIM cards.
+A gang of more than 100 individuals used fake social network accounts to conduct disinformation and psychological operations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DangerousPassword Attacks Targeting Developers’ Windows, macOS, and Linux Environments<a href="https://blogs.jpcert.or.jp/en/2023/07/dangerouspassword_dev.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The targeted attack group DangerousPassword has been continuously attacking cryptocurrency exchange developers since June 2019, using malware that infects Windows, macOS, and Linux environments with Python and Node.js installed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and NSA Issue New Guidance to Strengthen 5G Network Slicing Against Threats<a href="https://thehackernews.com/2023/07/cisa-and-nsa-issue-new-guidance-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. cybersecurity and intelligence agencies have  released  a set of recommendations to address security concerns with 5G standalone network slicing and harden them against possible threats. "The threat landscape in 5G is dynamic; due to this, advanced monitoring, auditing, and other analytical capabilities are required to meet certain levels of network slicing service level requirements over time," the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the National Security Agency (NSA)  said . 5G is the fifth-generation technology standard for broadband cellular networks, offering increased data speeds and lower latency. Network slicing is an architectural model that allows mobile service providers to partition their network up into several independent "slices" in order to create virtual networks that cater to different clients and use cases. The latest advisory builds upon guidance  previously issued  by the agencies in December 2022, warning
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Gov adds surveillance firms Cytrox and Intellexa to Entity List for trafficking in cyber exploits<a href="https://securityaffairs.com/148603/laws-and-regulations/us-gov-cytrox-intellexa-entity-list.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government added surveillance technology vendors Cytrox and Intellexa to an economic blocklist for trafficking in cyber exploits.
+The Commerce Department’s Bureau of Industry and Security (BIS) added surveillance technology vendors Intellexa...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Campaign Enters the 'FakeUpdates' Arena to Deliver NetSupport RAT<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/07/socgholish-copycat-delivers-netsupport-rat?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new campaign called FakeSG, similar to SocGholish, is using hacked WordPress websites to distribute the NetSupport RAT and deliver additional payloads. FakeSG utilizes different layers of obfuscation and delivery techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT41 Hackers Target Mobile Devices with New WyrmSpy and DragonEgg Spyware<a href="https://thehackernews.com/2023/07/chinese-apt41-hackers-target-mobile.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The prolific China-linked nation-state actor known as APT41 has been linked to two previously undocumented strains of Android spyware called WyrmSpy and DragonEgg. "Known for its exploitation of web-facing applications and infiltration of traditional endpoint devices, an established threat actor like APT 41 including mobile in its arsenal of malware shows how mobile endpoints are high-value targets with coveted corporate and personal data," Lookout  said  in a report shared with The Hacker News. APT41, also tracked under the names Axiom, Blackfly, Brass Typhoon (formerly Barium), Bronze Atlas, HOODOO, Wicked Panda, and Winnti, is known to be operational since at least 2007, targeting a wide range of industries to conduct intellectual property theft. Recent attacks mounted by the adversarial collective have  leveraged  an open-source red teaming tool known as Google Command and Control (GC2) as part of attacks aimed at media and job platforms in Taiwan and Italy. The init
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix warns of actively exploited zero-day in ADC and Gateway<a href="https://securityaffairs.com/148594/security/citrix-netscaler-application-delivery-controller-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix is warning customers of an actively exploited critical vulnerability in NetScaler Application Delivery Controller (ADC) and Gateway.
+Citrix is warning customers of a critical vulnerability, tracked as CVE-2023-3519 (CVSS score: 9.8), in NetScaler...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norwegian Mining and Recycling Company TOMRA Experiences Disruptive Cyberattack<a href="https://www.theregister.com/2023/07/18/tomra_cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack on TOMRA highlights the ongoing threat to companies involved in critical infrastructure, with potential significant financial and social damage if operations are disrupted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploring the Dark Side: OSINT Tools and Techniques for Unmasking Dark Web Operations<a href="https://thehackernews.com/2023/07/exploring-dark-side-osint-tools-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On April 5, 2023, the FBI and Dutch National Police  announced the takedown of Genesis Market , one of the largest dark web marketplaces. The operation, dubbed "Operation Cookie Monster," resulted in the arrest of 119 people and the seizure of over $1M in cryptocurrency. You can read the FBI's warrant  here  for details specific to this case. In light of these events, I'd like to discuss how OSINT can assist with dark web investigations. The Dark Web's anonymity attracts a variety of users, from whistleblowers and political activists to cybercriminals and terrorists. There are several techniques that can be used to try and identify the individuals behind these sites and personas. Technical Vulnerabilities While not considered OSINT, there have been instances when technical vulnerabilities have existed in the technology used to host dark websites. These vulnerabilities may exist in the software itself or be due to misconfigurations, but they can sometimes revea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIA World Endurance Championship driver passports leaked<a href="https://securityaffairs.com/148587/security/fia-world-endurance-championship-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Le Mans Endurance Management, operating the FIA World Endurance Championship’s website, exposed the data of hundreds of drivers by leaking their IDs and drivers’ licenses, the Cybernews research team has discovered.
+On June 16th, our researchers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trends in Ransomware-as-a-Service and Cryptocurrency to Monitor<a href="https://www.helpnetsecurity.com/2023/07/19/cryptocurrency-ransomware-payments/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To defend against RaaS groups, organizations need a holistic, defense-in-depth approach that includes measures like multi-factor authentication, email security, patch management, and comprehensive asset management.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bad.Build Flaw in Google Cloud Build Raises Concerns of Privilege Escalation<a href="https://thehackernews.com/2023/07/badbuild-flaw-in-google-cloud-build.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered a privilege escalation vulnerability in Google Cloud that could enable malicious actors tamper with application images and infect users, leading to supply chain attacks. The issue, dubbed  Bad.Build , is rooted in the  Google Cloud Build service , according to cloud security firm Orca, which discovered and reported the issue. "By abusing the flaw and enabling an impersonation of the default Cloud Build service, attackers can manipulate images in the Google Artifact Registry and inject malicious code," the company  said  in a statement shared with The Hacker News. "Any applications built from the manipulated images are then affected and, if the malformed applications are meant to be deployed on customer's environments, the risk crosses from the supplying organization's environment to their customers' environments, constituting a major supply chain risk." Following responsible disclosure, Google has  issued  a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Police Bust Another Bot Farm Accused of Pro-Russia Propaganda, Internet Fraud<a href="https://therecord.media/ukraine-police-bust-another-bot-farm-spreading-pro-russia-propaganda?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Cyber Police shut down yet another bot farm that was reportedly spreading disinformation about the war in Ukraine on social media, just one month after a similar illicit operation was raided in west-central Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Government Blacklists Cytrox and Intellexa Spyware Vendors for Cyber Espionage<a href="https://thehackernews.com/2023/07/us-government-blacklists-cytrox-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Tuesday added two foreign commercial spyware vendors, Cytrox and Intellexa, to an economic blocklist for weaponizing cyber exploits to gain unauthorized access to devices and "threatening the privacy and security of individuals and organizations worldwide." This includes the companies' corporate holdings in Hungary (Cytrox Holdings Crt), North Macedonia (Cytrox AD), Greece (Intellexa S.A.), and Ireland (Intellexa Limited). By adding to the economic denylist, it prohibits U.S. companies from transacting with these businesses. "Recognizing the increasingly key role that surveillance technology plays in enabling campaigns of repression and other human rights abuses, the Commerce Department's action today targets these entities' ability to access commodities, software, and technology that could contribute to the development of surveillance tools that pose a risk of misuse in violations or abuses of human rights," the Bureau of Indus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIA World Endurance Championship Driver Passports Left Unsecured<a href="https://securityaffairs.com/148587/security/fia-world-endurance-championship-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 16th, Cybernews researchers came across two misconfigured, meaning publicly exposed, Google Cloud Storage buckets. Both combined, they contained over 1.1 million files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Attacks Exploited Critical Vulnerability in Citrix ADC and Gateway<a href="https://thehackernews.com/2023/07/zero-day-attacks-exploited-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix is  alerting  users of a critical security flaw in NetScaler Application Delivery Controller (ADC) and Gateway that it said is being actively exploited in the wild. Tracked as  CVE-2023-3519  (CVSS score: 9.8), the issue relates to a case of  code injection  that could result in unauthenticated remote code execution. It impacts the following versions - NetScaler ADC and NetScaler Gateway 13.1 before 13.1-49.13 NetScaler ADC and NetScaler Gateway 13.0 before 13.0-91.13 NetScaler ADC and NetScaler Gateway version 12.1 (currently end-of-life) NetScaler ADC 13.1-FIPS before 13.1-37.159 NetScaler ADC 12.1-FIPS before 12.1-55.297, and NetScaler ADC 12.1-NDcPP before 12.1-55.297 The company did not give further details on the flaw tied to CVE-2023-3519 other than to say that exploits for the flaw have been observed on "unmitigated appliances." However, successful exploitation requires the device to be configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RD
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 18, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gamaredon APT Steals Data Within an Hour<a href="https://cyware.com/news/gamaredon-apt-steals-data-within-an-hour-459a9658"> Full Text</a>
@@ -50,7 +342,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pakistani Entities Targeted in Sophisticated Attack Deploying ShadowPad Malware<a href="https://thehackernews.com/2023/07/pakistani-entities-targeted-in.html"> Full Text</a>
@@ -66,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Virustotal data leak exposed data of some registered customers, including intelligence members<a href="https://securityaffairs.com/148577/security/virustotal-leaked-customers-data.html"> Full Text</a>
@@ -83,7 +375,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: UKG Agrees to Pay Up to $6M in Lawsuit Tied to 2021 Breach<a href="https://www.cybersecuritydive.com/news/ukg-settles-6M-lawsuit-ransomware-attack/688265/?&web_view=true"> Full Text</a>
@@ -99,7 +391,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VirusTotal Data Leak Exposes Some Registered Customers' Details<a href="https://thehackernews.com/2023/07/virustotal-data-leak-exposes-some.html"> Full Text</a>
@@ -115,7 +407,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN8 Group spotted delivering the BlackCat Ransomware<a href="https://securityaffairs.com/148569/cyber-crime/fin8-group-spotted-delivering-the-blackcat-ransomware.html"> Full Text</a>
@@ -132,7 +424,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Hat Hacker Exposes Real Identity After Infecting Own Computer With Malware<a href="https://www.securityweek.com/black-hat-hacker-exposes-real-identity-after-infecting-own-computer-with-malware/?&web_view=true"> Full Text</a>
@@ -148,7 +440,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Go Beyond the Headlines for Deeper Dives into the Cybercriminal Underground<a href="https://thehackernews.com/2023/07/go-beyond-headlines-for-deeper-dives.html"> Full Text</a>
@@ -164,7 +456,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking campaign targets sites using WordPress WooCommerce Payments Plugin<a href="https://securityaffairs.com/148561/hacking/woocommerce-payments-wordpress-plugin-bug.html"> Full Text</a>
@@ -181,7 +473,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House Unveils Consumer Labeling Program to Strengthen IoT Security<a href="https://www.cybersecuritydive.com/news/white-house-consumer-labeling-IoT/688256/?&web_view=true"> Full Text</a>
@@ -197,7 +489,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN8 Group Using Modified Sardonic Backdoor for BlackCat Ransomware Attacks<a href="https://thehackernews.com/2023/07/fin8-group-using-modified-sardonic.html"> Full Text</a>
@@ -213,7 +505,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JumpCloud revealed it was hit by a sophisticated attack by a nation-state actor<a href="https://securityaffairs.com/148547/apt/jumpcloud-nation-state-actor-attack.html"> Full Text</a>
@@ -230,7 +522,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phoenician Medical Center Cyberattack Affects Up to 162,500 Patients<a href="https://www.hipaajournal.com/phoenician-medical-center-cyberattack-affects-up-to-162500-patients/?&web_view=true"> Full Text</a>
@@ -246,7 +538,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Owner of BreachForums Pleads Guilty to Cybercrime and Child Pornography Charges<a href="https://thehackernews.com/2023/07/owner-of-breachforums-pleads-guilty-to.html"> Full Text</a>
@@ -262,7 +554,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Millions of emails' for US military sent to .ml addresses<a href="https://www.theregister.com/2023/07/18/us_military_mali_email_typos/?&web_view=true"> Full Text</a>
@@ -278,7 +570,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Exploiting WooCommerce Payments Plugin Flaw to Hijack Websites<a href="https://thehackernews.com/2023/07/cybercriminals-exploiting-woocommerce.html"> Full Text</a>
@@ -294,7 +586,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Growing Scam Activity Linked to Social Media and Automation<a href="https://www.helpnetsecurity.com/2023/07/17/scam-resources-average-number/?&web_view=true"> Full Text</a>
@@ -310,7 +602,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JumpCloud Blames 'Sophisticated Nation-State' Actor for Security Breach<a href="https://thehackernews.com/2023/07/jumpcloud-blames-sophisticated-nation.html"> Full Text</a>
@@ -326,7 +618,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 18, 2023
+July 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dating App That Claims 50 Million Users Suffered a Data Breach<a href="https://www.vpnmentor.com/news/report-419dating-breach/?&web_view=true"> Full Text</a>
