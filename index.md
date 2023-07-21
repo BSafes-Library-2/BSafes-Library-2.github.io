@@ -34,6 +34,315 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Renewable technologies add risk to the US electric grid, experts warn<a href="https://cyberscoop.com/electric-grid-inverter-cyber/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technologies that underpin solar and wind energy storage systems, which are central to transferring renewable power to the grid, are potential hacking risks, experts noted at a congressional hearing Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws in AMI MegaRAC BMC Software Expose Servers to Remote Attacks<a href="https://thehackernews.com/2023/07/critical-flaws-in-ami-megarac-bmc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two more security flaws have been disclosed in AMI MegaRAC Baseboard Management Controller (BMC) software that, if successfully exploited, could allow threat actors to remotely commandeer vulnerable servers and deploy malware. "These new vulnerabilities range in severity from High to Critical, including unauthenticated remote code execution and unauthorized device access with superuser permissions," Eclypsium researchers Vlad Babkin and Scott Scheferman said in a report shared with The Hacker News. "They can be exploited by remote attackers having access to Redfish remote management interfaces, or from a compromised host operating system." To make matters worse, the shortcomings could also be weaponized to drop persistent firmware implants that are immune to operating system reinstalls and hard drive replacements, brick motherboard components, cause physical damage through overvolting attacks, and induce indefinite reboot loops. "As attackers shift their
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts attribute WyrmSpy and DragonEgg spyware to the Chinese APT41 group<a href="https://securityaffairs.com/148660/malware/apt41-wyrmspy-dragonegg-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked group APT41 was spotted using two previously undocumented Android spyware called WyrmSpy and DragonEgg
+China-linked APT group APT41 has been observed using two previously undocumented Android spyware called WyrmSpy and DragonEgg.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing via Google Ads<a href="https://www.avanan.com/blog/phishing-via-google-ads?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are using URL redirects within Google ads to lead users to malicious sites, leveraging the trust and legitimacy of Google Ads. This technique, known as BEC 3.0, involves referencing legitimate sites instead of spoofed ones.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mallox Ransomware Exploits Weak MS-SQL Servers to Breach Networks<a href="https://thehackernews.com/2023/07/mallox-ransomware-exploits-weak-ms-sql.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mallox ransomware activities in 2023 have witnessed a 174% increase when compared to the previous year, new findings from Palo Alto Networks Unit 42 reveal. "Mallox ransomware, like many other ransomware threat actors, follows the double extortion trend: stealing data before encrypting an organization's files, and then threatening to publish the stolen data on a leak site as leverage to convince victims to pay the ransom fee," security researchers Lior Rochberger and Shimi Cohen  said  in a new report shared with The Hacker News. Mallox is linked to a threat actor that's also linked to  other ransomware strains , such as TargetCompany, Tohnichi, Fargo, and, most recently, Xollam. It first burst onto the scene in June 2021. Some of the prominent sectors targeted by Mallox are manufacturing, professional and legal services, and wholesale and retail. A notable aspect of the group is its pattern of exploiting poorly secured MS-SQL servers via  dictionary attacks  as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV/BlackCat and Clop gangs claim to have hacked cosmetics giant Estée Lauder<a href="https://securityaffairs.com/148651/hacking/alphv-blackcat-clop-estee-lauder.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American cosmetics giant company Estée Lauder was hacked by two distinct ransomware groups, the ALPHV/BlackCat and Clop gangs.
+Yesterday the cybersecurity expert @sonoclaudio first alerted me about a strange circumstance, two ransomware actors,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tampa General Hospital Says Hackers Exfiltrated the Data of 1.2 Million Patients<a href="https://www.hipaajournal.com/tampa-general-hospital-says-hackers-exfiltrated-the-data-of-1-2-million-patients/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security breach was detected on May 31, 2023, when suspicious activity was identified within its network. The affected systems were immediately taken offline to prevent further unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache OpenMeetings Web Conferencing Tool Exposed to Critical Vulnerabilities<a href="https://thehackernews.com/2023/07/apache-openmeetings-web-conferencing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security flaws have been disclosed in Apache OpenMeetings, a web conferencing solution, that could be potentially exploited by malicious actors to seize control of admin accounts and run malicious code on susceptible servers. "Attackers can bring the application into an unexpected state, which allows them to take over any user account, including the admin account," Sonar vulnerability researcher Stefan Schiller  said  in a report shared with The Hacker News. "The acquired admin privileges can further be leveraged to exploit another vulnerability allowing attackers to execute arbitrary code on the Apache OpenMeetings server." Following responsible disclosure on March 20, 2023, the vulnerabilities were addressed with the release of  Openmeetings version 7.1.0  that was released on May 9, 2023. The list of three flaws is as follows - CVE-2023-28936  (CVSS score: 5.3) - Insufficient check of invitation hash CVE-2023-29032  (CVSS score: 8.1) - An authenti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+P2PInfect, a Rusty P2P worm targets Redis Servers on Linux and Windows systems<a href="https://securityaffairs.com/148636/malware/p2pinfect-a-rusty-p2p-worm-targets-redis-servers-on-linux-and-windows-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers discovered a new peer-to-peer (P2P) worm called P2PInfect that targets Redis servers.
+Palo Alto Networks Unit 42 researchers have discovered a new peer-to-peer (P2P) worm called P2PInfect that targets...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Medical Lab Suspends Some Services After Ransomware Attack<a href="https://therecord.media/russian-medical-lab-suspends-some-services-after-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Customers of the Russian medical laboratory Helix have been unable to receive their test results for several days due to a “serious” cyberattack that crippled the company's systems over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean State-Sponsored Hackers Suspected in JumpCloud Supply Chain Attack<a href="https://thehackernews.com/2023/07/north-korean-state-sponsored-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of the indicators of compromise ( IoCs ) associated with the JumpCloud hack has uncovered evidence pointing to the involvement of North Korean state-sponsored groups, in a style that's reminiscent of the  supply chain attack targeting 3CX . The findings come from SentinelOne, which  mapped out  the infrastructure pertaining to the intrusion to uncover underlying patterns. It's worth noting that JumpCloud, last week,  attributed  the attack to an unnamed "sophisticated nation-state sponsored threat actor." "The North Korean threat actors demonstrate a high level of creativity and strategic awareness in their targeting strategies," SentinelOne security researcher Tom Hegel told The Hacker News. "The research findings reveal a successful and multifaceted approach employed by these actors to infiltrate developer environments." "They actively seek access to tools and networks that can serve as gateways to more extensive opportunitie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe out-of-band update addresses an actively exploited ColdFusion zero-day<a href="https://securityaffairs.com/148625/hacking/coldfusion-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe released an emergency update to address critical vulnerabilities in ColdFusion, including an actively exploited zero-day.
+Adobe released an out-of-band update to address critical and moderate vulnerabilities in ColdFusion, including a zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Estée Lauder Takes Down Some Systems Following Cyberattack<a href="https://www.cybersecuritydive.com/news/estee-lauder-cyberattack/688397/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ALPHV group claims Estée Lauder has not responded and listed the company on its leak site Tuesday, according to activity observed by Emsisoft Threat Analyst Brett Callow.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Few More Reasons Why RDP is Insecure (Surprise!)<a href="https://thehackernews.com/2023/07/a-few-more-reasons-why-rdp-is-insecure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If it seems like Remote Desktop Protocol (RDP) has been around forever, it's because it has (at least compared to the many technologies that rise and fall within just a few years.) The initial version, known as "Remote Desktop Protocol 4.0," was released in 1996 as part of the Windows NT 4.0 Terminal Server edition and allowed users to remotely access and control Windows-based computers over a network connection.  In the intervening decades, RDP has become a widely used protocol for remote access and administration of Windows-based systems. RDP plays a crucial role in enabling remote work, IT support, and system management and has served as the foundation for various remote desktop and virtual desktop infrastructure (VDI) solutions.  The downside of RDP's widespread use is that a Remote Code Execution (RCE) vulnerability in an RDP gateway can have severe consequences, potentially leading to significant damage and compromising the security and integrity of the affec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Set to Expand Access to Detailed Logs in the Wake of Chinese Hacking Operation<a href="https://cyberscoop.com/microsoft-logging-china-hacking/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said in a blog post on Wednesday that it will include “access to wider cloud security logs for our worldwide customers at no additional cost” starting in September and that it would increase default log retention from 90 to 180 days.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Turla's New DeliveryCheck Backdoor Breaches Ukrainian Defense Sector<a href="https://thehackernews.com/2023/07/turlas-new-deliverycheck-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The defense sector in Ukraine and Eastern Europe has been targeted by a novel .NET-based backdoor called  DeliveryCheck  (aka CAPIBAR or GAMEDAY) that's capable of delivering next-stage payloads. The Microsoft threat intelligence team, in  collaboration  with the Computer Emergency Response Team of Ukraine (CERT-UA), attributed the attacks to a Russian nation-state actor known as  Turla , which is also tracked under the names Iron Hunter, Secret Blizzard (formerly Krypton), Uroburos, Venomous Bear, and Waterbug. It's linked to Russia's Federal Security Service (FSB). "DeliveryCheck is distributed via email as documents with malicious macros," the company  said  in a series of tweets. "It persists via a scheduled task that downloads and launches it in memory. It also contacts a C2 server to retrieve tasks, which can include the launch of arbitrary payloads embedded in XSLT stylesheets." Successful initial access is also accompanied in some cases by t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New P2PInfect Worm Targeting Redis Servers on Linux and Windows Systems<a href="https://thehackernews.com/2023/07/new-p2pinfect-worm-targeting-redis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered a new cloud targeting, peer-to-peer (P2P) worm called  P2PInfect  that targets vulnerable Redis instances for follow-on exploitation. "P2PInfect exploits Redis servers running on both Linux and Windows Operating Systems making it more scalable and potent than other worms," Palo Alto Networks Unit 42 researchers William Gamazo and Nathaniel Quist  said . "This worm is also written in Rust, a highly scalable and cloud-friendly programming language." It's estimated that as many as 934 unique Redis systems may be vulnerable to the threat. The first known instance of P2PInfect was detected on July 11, 2023. A notable characteristic of the worm is its ability to infects vulnerable Redis instances by exploiting a critical Lua sandbox escape vulnerability,  CVE-2022-0543  (CVSS score: 10.0), which has been previously exploited to deliver multiple  malware families  such as  Muhstik ,  Redigo , and  HeadCrab  over the past ye
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Expands Cloud Logging to Counter Rising Nation-State Cyber Threats<a href="https://thehackernews.com/2023/07/microsoft-expands-cloud-logging-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday announced that it's expanding cloud logging capabilities to help organizations investigate cybersecurity incidents and gain more visibility after facing criticism in the wake of a recent  espionage attack campaign  aimed at its email infrastructure. The tech giant said it's making the change in direct response to increasing frequency and evolution of nation-state cyber threats. It's expected to roll out starting in September 2023 to all government and commercial customers. "Over the coming months, we will include access to wider cloud security logs for our worldwide customers at no additional cost," Vasu Jakkal, corporate vice president of security, compliance, identity, and management at Microsoft,  said . "As these changes take effect, customers can use Microsoft Purview Audit to centrally visualize more types of cloud log data generated across their enterprise." As part of this change, users are expected to receive access to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Rolls Out New Patches for Actively Exploited ColdFusion Vulnerability<a href="https://thehackernews.com/2023/07/adobe-rolls-out-new-patches-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released a fresh round of updates to address an incomplete fix for a recently disclosed ColdFusion flaw that has come under active exploitation in the wild. The critical shortcoming, tracked as  CVE-2023-38205  (CVSS score: 7.5), has been described as an instance of improper access control that could result in a security bypass. It impacts the following versions: ColdFusion 2023 (Update 2 and earlier versions) ColdFusion 2021 (Update 8 and earlier versions), and ColdFusion 2018 (Update 18 and earlier versions) "Adobe is aware that CVE-2023-38205 has been exploited in the wild in limited attacks targeting Adobe ColdFusion," the company  said . The update also addresses two other flaws, including a critical deserialization bug ( CVE-2023-38204 , CVSS score: 9.8) that could lead to remote code execution and a second improper access control flaw that could also pave the way for a security bypass ( CVE-2023-38206 , CVSS score: 5.3). The disclosure arrives days
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 19, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
