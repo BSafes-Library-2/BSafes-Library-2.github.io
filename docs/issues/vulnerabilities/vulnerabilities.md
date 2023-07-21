@@ -8,6 +8,63 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws in AMI MegaRAC BMC Software Expose Servers to Remote Attacks<a href="https://thehackernews.com/2023/07/critical-flaws-in-ami-megarac-bmc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two more security flaws have been disclosed in AMI MegaRAC Baseboard Management Controller (BMC) software that, if successfully exploited, could allow threat actors to remotely commandeer vulnerable servers and deploy malware. "These new vulnerabilities range in severity from High to Critical, including unauthenticated remote code execution and unauthorized device access with superuser permissions," Eclypsium researchers Vlad Babkin and Scott Scheferman said in a report shared with The Hacker News. "They can be exploited by remote attackers having access to Redfish remote management interfaces, or from a compromised host operating system." To make matters worse, the shortcomings could also be weaponized to drop persistent firmware implants that are immune to operating system reinstalls and hard drive replacements, brick motherboard components, cause physical damage through overvolting attacks, and induce indefinite reboot loops. "As attackers shift their
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache OpenMeetings Web Conferencing Tool Exposed to Critical Vulnerabilities<a href="https://thehackernews.com/2023/07/apache-openmeetings-web-conferencing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security flaws have been disclosed in Apache OpenMeetings, a web conferencing solution, that could be potentially exploited by malicious actors to seize control of admin accounts and run malicious code on susceptible servers. "Attackers can bring the application into an unexpected state, which allows them to take over any user account, including the admin account," Sonar vulnerability researcher Stefan Schiller&nbsp; said &nbsp;in a report shared with The Hacker News. "The acquired admin privileges can further be leveraged to exploit another vulnerability allowing attackers to execute arbitrary code on the Apache OpenMeetings server." Following responsible disclosure on March 20, 2023, the vulnerabilities were addressed with the release of&nbsp; Openmeetings version 7.1.0 &nbsp;that was released on May 9, 2023. The list of three flaws is as follows - CVE-2023-28936 &nbsp;(CVSS score: 5.3) - Insufficient check of invitation hash CVE-2023-29032 &nbsp;(CVSS score: 8.1) - An authenti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe out-of-band update addresses an actively exploited ColdFusion zero-day<a href="https://securityaffairs.com/148625/hacking/coldfusion-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe released an emergency update to address critical vulnerabilities in ColdFusion, including an actively exploited zero-day.
+Adobe released an out-of-band update to address critical and moderate vulnerabilities in ColdFusion, including a zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Rolls Out New Patches for Actively Exploited ColdFusion Vulnerability<a href="https://thehackernews.com/2023/07/adobe-rolls-out-new-patches-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe has released a fresh round of updates to address an incomplete fix for a recently disclosed ColdFusion flaw that has come under active exploitation in the wild. The critical shortcoming, tracked as&nbsp; CVE-2023-38205 &nbsp;(CVSS score: 7.5), has been described as an instance of improper access control that could result in a security bypass. It impacts the following versions: ColdFusion 2023 (Update 2 and earlier versions) ColdFusion 2021 (Update 8 and earlier versions), and ColdFusion 2018 (Update 18 and earlier versions) "Adobe is aware that CVE-2023-38205 has been exploited in the wild in limited attacks targeting Adobe ColdFusion," the company&nbsp; said . The update also addresses two other flaws, including a critical deserialization bug ( CVE-2023-38204 , CVSS score: 9.8) that could lead to remote code execution and a second improper access control flaw that could also pave the way for a security bypass ( CVE-2023-38206 , CVSS score: 5.3). The disclosure arrives days
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

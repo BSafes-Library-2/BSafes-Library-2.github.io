@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tampa General Hospital Says Hackers Exfiltrated the Data of 1.2 Million Patients<a href="https://www.hipaajournal.com/tampa-general-hospital-says-hackers-exfiltrated-the-data-of-1-2-million-patients/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security breach was detected on May 31, 2023, when suspicious activity was identified within its network. The affected systems were immediately taken offline to prevent further unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Turla's New DeliveryCheck Backdoor Breaches Ukrainian Defense Sector<a href="https://thehackernews.com/2023/07/turlas-new-deliverycheck-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The defense sector in Ukraine and Eastern Europe has been targeted by a novel .NET-based backdoor called&nbsp; DeliveryCheck &nbsp;(aka CAPIBAR or GAMEDAY) that's capable of delivering next-stage payloads. The Microsoft threat intelligence team, in&nbsp; collaboration &nbsp;with the Computer Emergency Response Team of Ukraine (CERT-UA), attributed the attacks to a Russian nation-state actor known as&nbsp; Turla , which is also tracked under the names Iron Hunter, Secret Blizzard (formerly Krypton), Uroburos, Venomous Bear, and Waterbug. It's linked to Russia's Federal Security Service (FSB). "DeliveryCheck is distributed via email as documents with malicious macros," the company&nbsp; said &nbsp;in a series of tweets. "It persists via a scheduled task that downloads and launches it in memory. It also contacts a C2 server to retrieve tasks, which can include the launch of arbitrary payloads embedded in XSLT stylesheets." Successful initial access is also accompanied in some cases by t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

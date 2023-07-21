@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine’s cyber police dismantled a massive bot farm spreading propaganda<a href="https://securityaffairs.com/148616/intelligence/massive-bot-farm-russia-propaganda.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber ​​Police Department of the National Police of Ukraine dismantled a massive bot farm and seized 150,000 SIM cards.
+A gang of more than 100 individuals used fake social network accounts to conduct disinformation and psychological operations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

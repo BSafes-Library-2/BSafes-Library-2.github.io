@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Renewable technologies add risk to the US electric grid, experts warn<a href="https://cyberscoop.com/electric-grid-inverter-cyber/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technologies that underpin solar and wind energy storage systems, which are central to transferring renewable power to the grid, are potential hacking risks, experts noted at a congressional hearing Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Few More Reasons Why RDP is Insecure (Surprise!)<a href="https://thehackernews.com/2023/07/a-few-more-reasons-why-rdp-is-insecure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If it seems like Remote Desktop Protocol (RDP) has been around forever, it's because it has (at least compared to the many technologies that rise and fall within just a few years.) The initial version, known as "Remote Desktop Protocol 4.0," was released in 1996 as part of the Windows NT 4.0 Terminal Server edition and allowed users to remotely access and control Windows-based computers over a network connection.&nbsp; In the intervening decades, RDP has become a widely used protocol for remote access and administration of Windows-based systems. RDP plays a crucial role in enabling remote work, IT support, and system management and has served as the foundation for various remote desktop and virtual desktop infrastructure (VDI) solutions.&nbsp; The downside of RDP's widespread use is that a Remote Code Execution (RCE) vulnerability in an RDP gateway can have severe consequences, potentially leading to significant damage and compromising the security and integrity of the affec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Expands Cloud Logging to Counter Rising Nation-State Cyber Threats<a href="https://thehackernews.com/2023/07/microsoft-expands-cloud-logging-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday announced that it's expanding cloud logging capabilities to help organizations investigate cybersecurity incidents and gain more visibility after facing criticism in the wake of a recent&nbsp; espionage attack campaign &nbsp;aimed at its email infrastructure. The tech giant said it's making the change in direct response to increasing frequency and evolution of nation-state cyber threats. It's expected to roll out starting in September 2023 to all government and commercial customers. "Over the coming months, we will include access to wider cloud security logs for our worldwide customers at no additional cost," Vasu Jakkal, corporate vice president of security, compliance, identity, and management at Microsoft,&nbsp; said . "As these changes take effect, customers can use Microsoft Purview Audit to centrally visualize more types of cloud log data generated across their enterprise." As part of this change, users are expected to receive access to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

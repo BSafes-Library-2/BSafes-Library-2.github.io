@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+July 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIA World Endurance Championship driver passports leaked<a href="https://securityaffairs.com/148587/security/fia-world-endurance-championship-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Le Mans Endurance Management, operating the FIA World Endurance Championship’s website, exposed the data of hundreds of drivers by leaking their IDs and drivers’ licenses, the Cybernews research team has discovered.
+On June 16th, our researchers...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

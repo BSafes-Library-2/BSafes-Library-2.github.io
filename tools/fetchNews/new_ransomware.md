@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mallox Ransomware Exploits Weak MS-SQL Servers to Breach Networks<a href="https://thehackernews.com/2023/07/mallox-ransomware-exploits-weak-ms-sql.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mallox ransomware activities in 2023 have witnessed a 174% increase when compared to the previous year, new findings from Palo Alto Networks Unit 42 reveal. "Mallox ransomware, like many other ransomware threat actors, follows the double extortion trend: stealing data before encrypting an organization's files, and then threatening to publish the stolen data on a leak site as leverage to convince victims to pay the ransom fee," security researchers Lior Rochberger and Shimi Cohen&nbsp; said &nbsp;in a new report shared with The Hacker News. Mallox is linked to a threat actor that's also linked to&nbsp; other ransomware strains , such as TargetCompany, Tohnichi, Fargo, and, most recently, Xollam. It first burst onto the scene in June 2021. Some of the prominent sectors targeted by Mallox are manufacturing, professional and legal services, and wholesale and retail. A notable aspect of the group is its pattern of exploiting poorly secured MS-SQL servers via&nbsp; dictionary attacks &nbsp;as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

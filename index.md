@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Renewable technologies add risk to the US electric grid, experts warn<a href="https://cyberscoop.com/electric-grid-inverter-cyber/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws in AMI MegaRAC BMC Software Expose Servers to Remote Attacks<a href="https://thehackernews.com/2023/07/critical-flaws-in-ami-megarac-bmc.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts attribute WyrmSpy and DragonEgg spyware to the Chinese APT41 group<a href="https://securityaffairs.com/148660/malware/apt41-wyrmspy-dragonegg-malware.html"> Full Text</a>
@@ -84,7 +84,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing via Google Ads<a href="https://www.avanan.com/blog/phishing-via-google-ads?&web_view=true"> Full Text</a>
@@ -100,7 +100,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mallox Ransomware Exploits Weak MS-SQL Servers to Breach Networks<a href="https://thehackernews.com/2023/07/mallox-ransomware-exploits-weak-ms-sql.html"> Full Text</a>
@@ -116,7 +116,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ALPHV/BlackCat and Clop gangs claim to have hacked cosmetics giant Estée Lauder<a href="https://securityaffairs.com/148651/hacking/alphv-blackcat-clop-estee-lauder.html"> Full Text</a>
@@ -133,7 +133,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tampa General Hospital Says Hackers Exfiltrated the Data of 1.2 Million Patients<a href="https://www.hipaajournal.com/tampa-general-hospital-says-hackers-exfiltrated-the-data-of-1-2-million-patients/?&web_view=true"> Full Text</a>
@@ -149,7 +149,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache OpenMeetings Web Conferencing Tool Exposed to Critical Vulnerabilities<a href="https://thehackernews.com/2023/07/apache-openmeetings-web-conferencing.html"> Full Text</a>
@@ -165,7 +165,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 P2PInfect, a Rusty P2P worm targets Redis Servers on Linux and Windows systems<a href="https://securityaffairs.com/148636/malware/p2pinfect-a-rusty-p2p-worm-targets-redis-servers-on-linux-and-windows-systems.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Medical Lab Suspends Some Services After Ransomware Attack<a href="https://therecord.media/russian-medical-lab-suspends-some-services-after-ransomware-attack?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean State-Sponsored Hackers Suspected in JumpCloud Supply Chain Attack<a href="https://thehackernews.com/2023/07/north-korean-state-sponsored-hackers.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe out-of-band update addresses an actively exploited ColdFusion zero-day<a href="https://securityaffairs.com/148625/hacking/coldfusion-zero-day.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Estée Lauder Takes Down Some Systems Following Cyberattack<a href="https://www.cybersecuritydive.com/news/estee-lauder-cyberattack/688397/?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Few More Reasons Why RDP is Insecure (Surprise!)<a href="https://thehackernews.com/2023/07/a-few-more-reasons-why-rdp-is-insecure.html"> Full Text</a>
@@ -263,7 +263,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Set to Expand Access to Detailed Logs in the Wake of Chinese Hacking Operation<a href="https://cyberscoop.com/microsoft-logging-china-hacking/?&web_view=true"> Full Text</a>
@@ -279,7 +279,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Turla's New DeliveryCheck Backdoor Breaches Ukrainian Defense Sector<a href="https://thehackernews.com/2023/07/turlas-new-deliverycheck-backdoor.html"> Full Text</a>
@@ -295,7 +295,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New P2PInfect Worm Targeting Redis Servers on Linux and Windows Systems<a href="https://thehackernews.com/2023/07/new-p2pinfect-worm-targeting-redis.html"> Full Text</a>
@@ -311,7 +311,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Expands Cloud Logging to Counter Rising Nation-State Cyber Threats<a href="https://thehackernews.com/2023/07/microsoft-expands-cloud-logging-to.html"> Full Text</a>
@@ -327,7 +327,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2023
+July 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe Rolls Out New Patches for Actively Exploited ColdFusion Vulnerability<a href="https://thehackernews.com/2023/07/adobe-rolls-out-new-patches-for.html"> Full Text</a>

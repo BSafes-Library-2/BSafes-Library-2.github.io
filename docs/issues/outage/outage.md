@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Medical Lab Suspends Some Services After Ransomware Attack<a href="https://therecord.media/russian-medical-lab-suspends-some-services-after-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Customers of the Russian medical laboratory Helix have been unable to receive their test results for several days due to a “serious” cyberattack that crippled the company's systems over the weekend.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Estée Lauder Takes Down Some Systems Following Cyberattack<a href="https://www.cybersecuritydive.com/news/estee-lauder-cyberattack/688397/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ALPHV group claims Estée Lauder has not responded and listed the company on its leak site Tuesday, according to activity observed by Emsisoft Threat Analyst Brett Callow.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

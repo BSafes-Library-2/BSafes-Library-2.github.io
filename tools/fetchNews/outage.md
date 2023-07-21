@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norwegian Mining and Recycling Company TOMRA Experiences Disruptive Cyberattack<a href="https://www.theregister.com/2023/07/18/tomra_cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack on TOMRA highlights the ongoing threat to companies involved in critical infrastructure, with potential significant financial and social damage if operations are disrupted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV/BlackCat and Clop gangs claim to have hacked cosmetics giant Estée Lauder<a href="https://securityaffairs.com/148651/hacking/alphv-blackcat-clop-estee-lauder.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American cosmetics giant company Estée Lauder was hacked by two distinct ransomware groups, the ALPHV/BlackCat and Clop gangs.
+Yesterday the cybersecurity expert @sonoclaudio first alerted me about a strange circumstance, two ransomware actors,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean State-Sponsored Hackers Suspected in JumpCloud Supply Chain Attack<a href="https://thehackernews.com/2023/07/north-korean-state-sponsored-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of the indicators of compromise ( IoCs ) associated with the JumpCloud hack has uncovered evidence pointing to the involvement of North Korean state-sponsored groups, in a style that's reminiscent of the&nbsp; supply chain attack targeting 3CX . The findings come from SentinelOne, which&nbsp; mapped out &nbsp;the infrastructure pertaining to the intrusion to uncover underlying patterns. It's worth noting that JumpCloud, last week,&nbsp; attributed &nbsp;the attack to an unnamed "sophisticated nation-state sponsored threat actor." "The North Korean threat actors demonstrate a high level of creativity and strategic awareness in their targeting strategies," SentinelOne security researcher Tom Hegel told The Hacker News. "The research findings reveal a successful and multifaceted approach employed by these actors to infiltrate developer environments." "They actively seek access to tools and networks that can serve as gateways to more extensive opportunitie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

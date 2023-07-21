@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing via Google Ads<a href="https://www.avanan.com/blog/phishing-via-google-ads?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are using URL redirects within Google ads to lead users to malicious sites, leveraging the trust and legitimacy of Google Ads. This technique, known as BEC 3.0, involves referencing legitimate sites instead of spoofed ones.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
