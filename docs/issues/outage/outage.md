@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coastal Mississippi County Recovering From Ransomware Attack<a href="https://therecord.media/coastal-mississippi-county-recovering-from-ransomware-attack-digital-hurricane?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The local government in George County, Mississippi, was thrown into chaos this weekend when ransomware actors used a discrete phishing email to gain deep access to the county’s systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

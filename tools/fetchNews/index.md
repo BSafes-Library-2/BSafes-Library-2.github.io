@@ -34,6 +34,265 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global CDN Service ‘jsdelivr’ Exposed Users to Phishing Attacks<a href="https://www.hackread.com/global-cdn-service-jsdelivr-phishing-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious NPM package, which masqueraded as a legitimate alternative to a popular package, downloaded a phishing HTML code from the jsdelivr CDN service to steal users' credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Threatens to Pull iMessage and FaceTime from U.K. Amid Surveillance Demands<a href="https://thehackernews.com/2023/07/apple-threatens-to-pull-imessage-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has warned that it would rather stop offering iMessage and FaceTime services in the U.K. than bowing down to government pressure in response to new proposals that seek to expand digital surveillance powers available to state intelligence agencies. The development, first  reported  by BBC News, makes the iPhone maker the latest to join the chorus of voices protesting against forthcoming legislative changes to the  Investigatory Powers Act  ( IPA ) 2016 in a manner that would effectively render encryption protections ineffective. Specifically, the  Online Safety Bill  requires companies to install technology to scan for child sex exploitation and abuse (CSEA) material and terrorism content in encrypted messaging apps and other services. It also mandates that messaging services clear security features with the Home Office before releasing them and take immediate action to disable them if required without informing the public. While the fact does not explicitly call out for the r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHL Investigating MOVEit Breach as Number of Victims Surpasses 20 Million<a href="https://therecord.media/dhl-moveit-breach-investigation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom arm of shipping giant DHL said it is investigating a data breach sourced back to its use of the MOVEit software, which has been exploited by a Russia-based ransomware group for nearly two months.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coastal Mississippi County Recovering From Ransomware Attack<a href="https://therecord.media/coastal-mississippi-county-recovering-from-ransomware-attack-digital-hurricane?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The local government in George County, Mississippi, was thrown into chaos this weekend when ransomware actors used a discrete phishing email to gain deep access to the county’s systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2023 -- [Government](/docs/issues/government/government/)<br
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns of attacks against Citrix NetScaler ADC and Gateway Devices<a href="https://securityaffairs.com/148690/security/cisa-citrix-netscaler-adc.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US CISA warns of cyber attacks targeting Citrix NetScaler Application Delivery Controller (ADC) and Gateway devices.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warning of cyber attacks against Citrix NetScaler Application...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure AD Token Forging Technique in Microsoft Attack Extends Beyond Outlook, Wiz Reports<a href="https://thehackernews.com/2023/07/azure-ad-token-forging-technique-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent attack against  Microsoft's email infrastructure  by a Chinese nation-state actor referred to as Storm-0558 is said to have a broader scope than previously thought. According to cloud security company Wiz, the inactive Microsoft account (MSA) consumer signing key used to forge Azure Active Directory (Azure AD or AAD) tokens to gain illicit access to Outlook Web Access (OWA) and Outlook.com could also have allowed the adversary to forge access tokens for various types of Azure AD applications. This  includes  every application that supports personal account authentication, such as OneDrive, SharePoint, and Teams; customers applications that support the "Login with Microsoft functionality," and multi-tenant applications in certain conditions. "Everything in the world of Microsoft leverages Azure Active Directory auth tokens for access," Ami Luttwak, chief technology officer and co-founder of Wiz, said in a statement. "An attacker with an AAD si
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts believe North Korea behind JumpCloud supply chain attack<a href="https://securityaffairs.com/148680/apt/north-korea-jumpcloud-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelOne researchers attribute the recent supply chain attacks on JumpCloud to North Korea-linked threat actors.
+JumpCloud is a cloud-based directory service platform designed to manage user identities, devices, and applications in a seamless and secure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HotRat: New Variant of AsyncRAT Malware Spreading Through Pirated Software<a href="https://thehackernews.com/2023/07/hotrat-new-variant-of-asyncrat-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of  AsyncRAT  malware dubbed  HotRat  is being distributed via free, pirated versions of popular software and utilities such as video games, image and sound editing software, and Microsoft Office. "HotRat malware equips attackers with a wide array of capabilities, such as stealing login credentials, cryptocurrency wallets, screen capturing, keylogging, installing more malware, and gaining access to or altering clipboard data," Avast security researcher Martin a Milánek  said . The Czech cybersecurity firm said the trojan has been prevalent in the wild since at least in October 2022, with a majority of the infections concentrated in Thailand, Guyana, Libya, Suriname, Mali, Pakistan, Cambodia, South Africa, and India. The attacks entail bundling the cracked software available online via torrent sites with a malicious AutoHotkey ( AHK ) script that initiates an infection chain designed to deactivate antivirus solutions on the compromised host and ultimately la
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nice Suzuki, sport: shame dealer left your data up for grabs<a href="https://securityaffairs.com/148675/data-breach/nice-suzuki-sport-shame-dealer-left-your-data-up-for-grabs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybernews research team discovered that two Suzuki-authorized dealer websites were leaking customers' sensitive information.
+Suzuki or otherwise, buying a new vehicle is an intense experience with complicated credit, insurance, documentation, and contracts....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HotRat as Hidden Script in Cracked Software<a href="https://cyware.com/news/hotrat-as-hidden-script-in-cracked-software-b2baa5b3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent encounter, security researchers stumbled across a HotRat malware distribution campaign that cybercriminals were offering bundled as cracked programs and games. HotRat is an offshoot of the open-source AsyncRAT framework. Implement strict software policies, regularly update and patch sys ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated BundleBot Malware Disguised as Google AI Chatbot and Utilities<a href="https://thehackernews.com/2023/07/sophisticated-bundlebot-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware strain known as BundleBot has been stealthily operating under the radar by taking advantage of  .NET single-file deployment techniques , enabling threat actors to capture sensitive information from compromised hosts. "BundleBot is abusing the dotnet bundle (single-file), self-contained format that results in very low or no static detection at all," Check Point  said  in a report published this week, adding it is "commonly distributed via Facebook Ads and compromised accounts leading to websites masquerading as regular program utilities, AI tools, and games." Some of these websites aim to mimic Google Bard, the company's conversational generative artificial intelligence chatbot, enticing victims into downloading a bogus RAR archive ("Google_AI.rar") hosted on legitimate cloud storage services such as Dropbox. The archive file, when unpacked, contains an executable file ("GoogleAI.exe"), which is the .NET single-file, self-con
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android SpyNote Attacks Electric and Water Public Utility Users in Japan<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/android-spynote-attacks-electric-and-water-public-utility-users-in-japan/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A smishing campaign is targeting Japanese Android users by posing as a power and water infrastructure company and luring victims to a phishing website to download the SpyNote malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Local Governments Targeted for Ransomware – How to Prevent Falling Victim<a href="https://thehackernews.com/2023/07/local-governments-targeted-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Regardless of the country, local government is essential in most citizens' lives. It provides many day-to-day services and handles various issues. Therefore, their effects can be far-reaching and deeply felt when security failures occur. In early 2023, Oakland, California,  fell victim to a ransomware attack . Although city officials have not disclosed how the attack occurred, experts suspect a phishing email is the most likely cause. As a result, city officials brought down their servers to contain the attack. Governments have been the target to many ransomware attacks  and breaches. As most local governments maintain a small IT staff, there is potential for shared passwords, reused credentials, and a lack of multi-factor authentication security, exposing vulnerabilities for a breach.  Oakland is Breached It was first noticed on a Wednesday evening in early February; when Oakland, California city officials quickly took most services' backend servers offline and posted a m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mallox Ransomware Activity Surges by 174%<a href="https://cyware.com/news/mallox-ransomware-activity-surges-by-174-084fc5bd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mallox ransomware activity surged by nearly 174% in 2023, using the new variant Xollam, employing the double extortion tactic to demand ransom from victims. The development is also being perceived as more affiliate groups coming together in this mission. Organizations must remain vigilant and adapt ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Botnets Hijacking Zyxel Devices to Launch Devastating Attacks<a href="https://thehackernews.com/2023/07/ddos-botnets-hijacking-zyxel-devices-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several distributed denial-of-service (DDoS) botnets have been observed exploiting a critical flaw in Zyxel devices that came to light in April 2023 to gain remote control of vulnerable systems. "Through the capture of exploit traffic, the attacker's IP address was identified, and it was determined that the attacks were occurring in multiple regions, including Central America, North America, East Asia, and South Asia," Fortinet FortiGuard Labs researcher Cara Lin  said . The flaw, tracked as CVE-2023-28771 (CVSS score: 9.8), is a command injection bug affecting multiple firewall models that could potentially allow an unauthorized actor to execute arbitrary code by sending a specifically crafted packet to the targeted appliance. Last month, the Shadowserver Foundation  warned  that the flaw was being "actively exploited to build a Mirai-like botnet" at least since May 26, 2023, an indication of how abuse of  servers running unpatched software  is on the rise.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 21, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix NetScaler ADC and Gateway Devices Under Attack: CISA Urges Immediate Action<a href="https://thehackernews.com/2023/07/citrix-netscaler-adc-and-gateway.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) issued an advisory on Thursday warning that the newly disclosed critical security flaw in Citrix NetScaler Application Delivery Controller (ADC) and Gateway devices is being abused to drop web shells on vulnerable systems. "In June 2023, threat actors exploited this vulnerability as a zero-day to drop a web shell on a critical infrastructure organization's non-production environment NetScaler ADC appliance," the agency  said . "The web shell enabled the actors to perform discovery on the victim's active directory (AD) and collect and exfiltrate AD data. The actors attempted to move laterally to a domain controller but network segmentation controls for the appliance blocked movement." The shortcoming in question is  CVE-2023-3519  (CVSS score: 9.8), a code injection bug that could result in unauthenticated remote code execution. Citrix, earlier this week, released patches for the issue and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 20, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

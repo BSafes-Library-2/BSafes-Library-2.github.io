@@ -8,6 +8,33 @@ nav_order: 900075
 
 ## Government
 ---
+July 21, 2023 <br {:="" .fs-4="" .fw-700="" .lh-0="" }="" <p="" style="font-weight:500; margin:0px" markdown="1">
+CISA warns of attacks against Citrix NetScaler ADC and Gateway Devices<a href="https://securityaffairs.com/148690/security/cisa-citrix-netscaler-adc.html"> Full Text</a>
+<p></p>
+<details>
+  <summary>Abstract</summary>
+The US CISA warns of cyber attacks targeting Citrix NetScaler Application Delivery Controller (ADC) and Gateway devices.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warning of cyber attacks against Citrix NetScaler Application...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix NetScaler ADC and Gateway Devices Under Attack: CISA Urges Immediate Action<a href="https://thehackernews.com/2023/07/citrix-netscaler-adc-and-gateway.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) issued an advisory on Thursday warning that the newly disclosed critical security flaw in Citrix NetScaler Application Delivery Controller (ADC) and Gateway devices is being abused to drop web shells on vulnerable systems. "In June 2023, threat actors exploited this vulnerability as a zero-day to drop a web shell on a critical infrastructure organization's non-production environment NetScaler ADC appliance," the agency&nbsp; said . "The web shell enabled the actors to perform discovery on the victim's active directory (AD) and collect and exfiltrate AD data. The actors attempted to move laterally to a domain controller but network segmentation controls for the appliance blocked movement." The shortcoming in question is&nbsp; CVE-2023-3519 &nbsp;(CVSS score: 9.8), a code injection bug that could result in unauthenticated remote code execution. Citrix, earlier this week, released patches for the issue and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

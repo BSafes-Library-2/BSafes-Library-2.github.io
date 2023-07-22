@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mallox Ransomware Activity Surges by 174%<a href="https://cyware.com/news/mallox-ransomware-activity-surges-by-174-084fc5bd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mallox ransomware activity surged by nearly 174% in 2023, using the new variant Xollam, employing the double extortion tactic to demand ransom from victims. The development is also being perceived as more affiliate groups coming together in this mission. Organizations must remain vigilant and adapt ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

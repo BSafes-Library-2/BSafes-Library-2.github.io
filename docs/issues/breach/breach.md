@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+July 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global CDN Service ‘jsdelivr’ Exposed Users to Phishing Attacks<a href="https://www.hackread.com/global-cdn-service-jsdelivr-phishing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious NPM package, which masqueraded as a legitimate alternative to a popular package, downloaded a phishing HTML code from the jsdelivr CDN service to steal users' credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHL Investigating MOVEit Breach as Number of Victims Surpasses 20 Million<a href="https://therecord.media/dhl-moveit-breach-investigation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom arm of shipping giant DHL said it is investigating a data breach sourced back to its use of the MOVEit software, which has been exploited by a Russia-based ransomware group for nearly two months.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nice Suzuki, sport: shame dealer left your data up for grabs<a href="https://securityaffairs.com/148675/data-breach/nice-suzuki-sport-shame-dealer-left-your-data-up-for-grabs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybernews research team discovered that two Suzuki-authorized dealer websites were leaking customers' sensitive information.
+Suzuki or otherwise, buying a new vehicle is an intense experience with complicated credit, insurance, documentation, and contracts....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

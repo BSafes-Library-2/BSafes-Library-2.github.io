@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Threatens to Pull iMessage and FaceTime from U.K. Amid Surveillance Demands<a href="https://thehackernews.com/2023/07/apple-threatens-to-pull-imessage-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has warned that it would rather stop offering iMessage and FaceTime services in the U.K. than bowing down to government pressure in response to new proposals that seek to expand digital surveillance powers available to state intelligence agencies. The development, first&nbsp; reported &nbsp;by BBC News, makes the iPhone maker the latest to join the chorus of voices protesting against forthcoming legislative changes to the&nbsp; Investigatory Powers Act &nbsp;( IPA ) 2016 in a manner that would effectively render encryption protections ineffective. Specifically, the&nbsp; Online Safety Bill &nbsp;requires companies to install technology to scan for child sex exploitation and abuse (CSEA) material and terrorism content in encrypted messaging apps and other services. It also mandates that messaging services clear security features with the Home Office before releasing them and take immediate action to disable them if required without informing the public. While the fact does not explicitly call out for the r
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

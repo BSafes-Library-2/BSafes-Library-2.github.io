@@ -8,6 +8,49 @@ nav_order: 900015
 
 ## Attack
 ---
+July 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure AD Token Forging Technique in Microsoft Attack Extends Beyond Outlook, Wiz Reports<a href="https://thehackernews.com/2023/07/azure-ad-token-forging-technique-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent attack against&nbsp; Microsoft's email infrastructure &nbsp;by a Chinese nation-state actor referred to as Storm-0558 is said to have a broader scope than previously thought. According to cloud security company Wiz, the inactive Microsoft account (MSA) consumer signing key used to forge Azure Active Directory (Azure AD or AAD) tokens to gain illicit access to Outlook Web Access (OWA) and Outlook.com could also have allowed the adversary to forge access tokens for various types of Azure AD applications. This&nbsp; includes &nbsp;every application that supports personal account authentication, such as OneDrive, SharePoint, and Teams; customers applications that support the "Login with Microsoft functionality," and multi-tenant applications in certain conditions. "Everything in the world of Microsoft leverages Azure Active Directory auth tokens for access," Ami Luttwak, chief technology officer and co-founder of Wiz, said in a statement. "An attacker with an AAD si
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts believe North Korea behind JumpCloud supply chain attack<a href="https://securityaffairs.com/148680/apt/north-korea-jumpcloud-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelOne researchers attribute the recent supply chain attacks on JumpCloud to North Korea-linked threat actors.
+JumpCloud is a cloud-based directory service platform designed to manage user identities, devices, and applications in a seamless and secure...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android SpyNote Attacks Electric and Water Public Utility Users in Japan<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/android-spynote-attacks-electric-and-water-public-utility-users-in-japan/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A smishing campaign is targeting Japanese Android users by posing as a power and water infrastructure company and luring victims to a phishing website to download the SpyNote malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

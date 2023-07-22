@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+July 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Botnets Hijacking Zyxel Devices to Launch Devastating Attacks<a href="https://thehackernews.com/2023/07/ddos-botnets-hijacking-zyxel-devices-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several distributed denial-of-service (DDoS) botnets have been observed exploiting a critical flaw in Zyxel devices that came to light in April 2023 to gain remote control of vulnerable systems. "Through the capture of exploit traffic, the attacker's IP address was identified, and it was determined that the attacks were occurring in multiple regions, including Central America, North America, East Asia, and South Asia," Fortinet FortiGuard Labs researcher Cara Lin&nbsp; said . The flaw, tracked as CVE-2023-28771 (CVSS score: 9.8), is a command injection bug affecting multiple firewall models that could potentially allow an unauthorized actor to execute arbitrary code by sending a specifically crafted packet to the targeted appliance. Last month, the Shadowserver Foundation&nbsp; warned &nbsp;that the flaw was being "actively exploited to build a Mirai-like botnet" at least since May 26, 2023, an indication of how abuse of&nbsp; servers running unpatched software &nbsp;is on the rise.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

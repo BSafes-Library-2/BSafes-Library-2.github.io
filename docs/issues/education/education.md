@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Local Governments Targeted for Ransomware – How to Prevent Falling Victim<a href="https://thehackernews.com/2023/07/local-governments-targeted-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Regardless of the country, local government is essential in most citizens' lives. It provides many day-to-day services and handles various issues. Therefore, their effects can be far-reaching and deeply felt when security failures occur. In early 2023, Oakland, California, &nbsp;fell victim to a ransomware attack . Although city officials have not disclosed how the attack occurred, experts suspect a phishing email is the most likely cause. As a result, city officials brought down their servers to contain the attack. Governments have been the target to many ransomware attacks &nbsp;and breaches. As most local governments maintain a small IT staff, there is potential for shared passwords, reused credentials, and a lack of multi-factor authentication security, exposing vulnerabilities for a breach.&nbsp; Oakland is Breached It was first noticed on a Wednesday evening in early February; when Oakland, California city officials quickly took most services' backend servers offline and posted a m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Set to Expand Access to Detailed Logs in the Wake of Chinese Hacking Operation<a href="https://cyberscoop.com/microsoft-logging-china-hacking/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said in a blog post on Wednesday that it will include “access to wider cloud security logs for our worldwide customers at no additional cost” starting in September and that it would increase default log retention from 90 to 180 days.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

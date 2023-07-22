@@ -35,6 +35,18 @@ Leading electronics and appliance manufacturers and retailers make voluntary com
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2023 - NSA, CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Cybersecurity Advisory on Threat Actors Exploiting Citrix CVE-2023-3519 <a href="https://www.cisa.gov/news-events/alerts/2023/07/20/cisa-releases-cybersecurity-advisory-threat-actors-exploiting-citrix-cve-2023-3519"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) released a Cybersecurity Advisory (CSA), Threat Actors Exploiting Citrix CVE-2023-3519 to Implant Webshells, to warn organizations about threat actors exploiting CVE-2023-3519, an unauthenticated remote code execution (RCE) vulnerability affecting NetScaler (formerly Citrix) Application Delivery Controller (ADC) and NetScaler Gateway. In June 2023, threat actors exploited this vulnerability as a zero-day to drop a webshell on a critical infrastructure organization’s NetScaler ADC appliance. The webshell enabled the actors to perform discovery on the victim’s active directory (AD) and collect and exfiltrate AD data. The actors attempted to move laterally to a domain controller but network-segmentation controls for the appliance blocked movement.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 17, 2023 - NSA, CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

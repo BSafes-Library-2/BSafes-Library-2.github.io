@@ -8,6 +8,22 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts attribute WyrmSpy and DragonEgg spyware to the Chinese APT41 group<a href="https://securityaffairs.com/148660/malware/apt41-wyrmspy-dragonegg-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked group APT41 was spotted using two previously undocumented Android spyware called WyrmSpy and DragonEgg
+China-linked APT group APT41 has been observed using two previously undocumented Android spyware called WyrmSpy and DragonEgg.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
