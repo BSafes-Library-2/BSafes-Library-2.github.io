@@ -34,7 +34,60 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 429 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/148745/breaking-news/security-affairs-newsletter-round-429-by-pierluigi-paganini-international-edition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+Multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shadowserver reported that +15K Citrix servers are likely vulnerable to attacks exploiting the flaw CVE-2023-3519<a href="https://securityaffairs.com/148735/hacking/15k-citrix-servers-vulnerable-cve-2023-3519.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that more than 15000 Citrix servers exposed online are likely vulnerable to attacks exploiting the vulnerability CVE-2023-3519.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week warned of cyber attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple DDoS botnets were observed targeting Zyxel devices<a href="https://securityaffairs.com/148724/malware/ddos-botnets-targets-zyxel-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of several DDoS botnets exploiting a critical flaw tracked as CVE-2023-28771 in Zyxel devices.
+Fortinet FortiGuard Labs researchers warned of multiple DDoS botnets exploiting a vulnerability impacting multiple Zyxel firewalls.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global CDN Service ‘jsdelivr’ Exposed Users to Phishing Attacks<a href="https://www.hackread.com/global-cdn-service-jsdelivr-phishing-attacks/?&web_view=true"> Full Text</a>
@@ -50,7 +103,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2023
+July 22, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Threatens to Pull iMessage and FaceTime from U.K. Amid Surveillance Demands<a href="https://thehackernews.com/2023/07/apple-threatens-to-pull-imessage-and.html"> Full Text</a>
@@ -66,7 +119,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2023
+July 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHL Investigating MOVEit Breach as Number of Victims Surpasses 20 Million<a href="https://therecord.media/dhl-moveit-breach-investigation?&web_view=true"> Full Text</a>
@@ -82,7 +135,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2023
+July 22, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coastal Mississippi County Recovering From Ransomware Attack<a href="https://therecord.media/coastal-mississippi-county-recovering-from-ransomware-attack-digital-hurricane?&web_view=true"> Full Text</a>
@@ -98,7 +151,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2023
+July 21, 2023 -- [Government](/docs/issues/government/government/)<br
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns of attacks against Citrix NetScaler ADC and Gateway Devices<a href="https://securityaffairs.com/148690/security/cisa-citrix-netscaler-adc.html"> Full Text</a>
@@ -115,7 +168,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2023
+July 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Azure AD Token Forging Technique in Microsoft Attack Extends Beyond Outlook, Wiz Reports<a href="https://thehackernews.com/2023/07/azure-ad-token-forging-technique-in.html"> Full Text</a>
@@ -131,7 +184,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2023
+July 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts believe North Korea behind JumpCloud supply chain attack<a href="https://securityaffairs.com/148680/apt/north-korea-jumpcloud-attack.html"> Full Text</a>
@@ -148,7 +201,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2023
+July 21, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HotRat: New Variant of AsyncRAT Malware Spreading Through Pirated Software<a href="https://thehackernews.com/2023/07/hotrat-new-variant-of-asyncrat-malware.html"> Full Text</a>
@@ -164,7 +217,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2023
+July 21, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nice Suzuki, sport: shame dealer left your data up for grabs<a href="https://securityaffairs.com/148675/data-breach/nice-suzuki-sport-shame-dealer-left-your-data-up-for-grabs.html"> Full Text</a>
@@ -181,7 +234,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2023
+July 21, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HotRat as Hidden Script in Cracked Software<a href="https://cyware.com/news/hotrat-as-hidden-script-in-cracked-software-b2baa5b3"> Full Text</a>
@@ -197,7 +250,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2023
+July 21, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophisticated BundleBot Malware Disguised as Google AI Chatbot and Utilities<a href="https://thehackernews.com/2023/07/sophisticated-bundlebot-malware.html"> Full Text</a>
@@ -213,7 +266,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2023
+July 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android SpyNote Attacks Electric and Water Public Utility Users in Japan<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/android-spynote-attacks-electric-and-water-public-utility-users-in-japan/?&web_view=true"> Full Text</a>
@@ -229,7 +282,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2023
+July 21, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Local Governments Targeted for Ransomware – How to Prevent Falling Victim<a href="https://thehackernews.com/2023/07/local-governments-targeted-for.html"> Full Text</a>
@@ -245,7 +298,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2023
+July 21, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mallox Ransomware Activity Surges by 174%<a href="https://cyware.com/news/mallox-ransomware-activity-surges-by-174-084fc5bd"> Full Text</a>
@@ -261,7 +314,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2023
+July 21, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS Botnets Hijacking Zyxel Devices to Launch Devastating Attacks<a href="https://thehackernews.com/2023/07/ddos-botnets-hijacking-zyxel-devices-to.html"> Full Text</a>
@@ -277,7 +330,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 21, 2023
+July 21, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Citrix NetScaler ADC and Gateway Devices Under Attack: CISA Urges Immediate Action<a href="https://thehackernews.com/2023/07/citrix-netscaler-adc-and-gateway.html"> Full Text</a>

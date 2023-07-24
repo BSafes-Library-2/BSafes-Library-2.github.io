@@ -34,6 +34,59 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 429 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/148745/breaking-news/security-affairs-newsletter-round-429-by-pierluigi-paganini-international-edition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+Multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shadowserver reported that +15K Citrix servers are likely vulnerable to attacks exploiting the flaw CVE-2023-3519<a href="https://securityaffairs.com/148735/hacking/15k-citrix-servers-vulnerable-cve-2023-3519.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers reported that more than 15000 Citrix servers exposed online are likely vulnerable to attacks exploiting the vulnerability CVE-2023-3519.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) this week warned of cyber attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple DDoS botnets were observed targeting Zyxel devices<a href="https://securityaffairs.com/148724/malware/ddos-botnets-targets-zyxel-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of several DDoS botnets exploiting a critical flaw tracked as CVE-2023-28771 in Zyxel devices.
+Fortinet FortiGuard Labs researchers warned of multiple DDoS botnets exploiting a vulnerability impacting multiple Zyxel firewalls.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
