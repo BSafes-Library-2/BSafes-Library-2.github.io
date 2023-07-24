@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2023
+July 23, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 429 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/148745/breaking-news/security-affairs-newsletter-round-429-by-pierluigi-paganini-international-edition.html"> Full Text</a>
@@ -52,7 +52,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 23, 2023
+July 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shadowserver reported that +15K Citrix servers are likely vulnerable to attacks exploiting the flaw CVE-2023-3519<a href="https://securityaffairs.com/148735/hacking/15k-citrix-servers-vulnerable-cve-2023-3519.html"> Full Text</a>
@@ -69,7 +69,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2023
+July 22, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple DDoS botnets were observed targeting Zyxel devices<a href="https://securityaffairs.com/148724/malware/ddos-botnets-targets-zyxel-devices.html"> Full Text</a>
