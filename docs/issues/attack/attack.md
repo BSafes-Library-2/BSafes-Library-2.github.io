@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norwegian Government Security and Service Organisation Hit by Cyberattack<a href="https://www.reuters.com/technology/norway-government-ministries-hit-by-cyber-attack-2023-07-24/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twelve Norwegian government ministries have been hit by a cyberattack, the Norwegian government said on Monday, the latest attack to hit the public sector of Europe's largest gas supplier and NATO's northernmost member.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Banking Sector Targeted in Open-Source Software Supply Chain Attacks<a href="https://thehackernews.com/2023/07/banking-sector-targeted-in-open-source.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers said they have discovered what they say is the first open-source software supply chain attacks specifically targeting the banking sector. "These attacks showcased advanced techniques, including targeting specific components in web assets of the victim bank by attaching malicious functionalities to it," Checkmarx&nbsp; said &nbsp;in a report published last week. "The attackers employed deceptive tactics such as creating a fake LinkedIn profile to appear credible and customized command-and-control (C2) centers for each target, exploiting legitimate services for illicit activities." The npm packages have since been reported and taken down. The names of the packages were not disclosed. In the first attack, the malware author is said to have uploaded a couple of packages to the npm registry in early April 2023 by posing as an employee of the target bank. The modules came with a preinstall script to activate the infection sequence. To complete the rus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+First Known Targeted OSS Supply Chain Attacks Against the Banking&nbsp;Sector<a href="https://checkmarx.com/blog/first-known-targeted-oss-supply-chain-attacks-against-the-banking-sector/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers employed deceptive tactics such as creating fake LinkedIn profiles to appear credible and using customized command and control (C2) centers for each target, exploiting legitimate services for illicit activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

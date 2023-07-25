@@ -8,6 +8,91 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Patches Remote Code Execution Vulnerabilities in Confluence, Bamboo<a href="https://www.securityweek.com/atlassian-patches-remote-code-execution-vulnerabilities-in-confluence-bamboo/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe of these issues, tracked as CVE-2023-22508 (CVSS score of 8.5), was introduced in Confluence version 7.4.0. The second bug, tracked as CVE-2023-22505 (CVSS score of 8.0), was introduced in Confluence version 8.0.0.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Zero-Days in Atera Windows Installers Expose Users to Privilege Escalation Attacks<a href="https://thehackernews.com/2023/07/critical-zero-days-in-atera-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day vulnerabilities in Windows Installers for the Atera remote monitoring and management software could act as a springboard to launch privilege escalation attacks. The flaws, discovered by Mandiant on February 28, 2023, have been assigned the identifiers&nbsp; CVE-2023-26077 &nbsp;and&nbsp; CVE-2023-26078 , with the issues remediated in versions 1.8.3.7 and 1.8.4.9 released by Atera on April 17, 2023, and June 26, 2023, respectively. "The ability to initiate an operation from a NT AUTHORITY\SYSTEM context can present potential security risks if not properly managed," security researcher Andrew Oliveau&nbsp; said . "For instance, misconfigured&nbsp; Custom Actions &nbsp;running as NT AUTHORITY\SYSTEM can be exploited by attackers to execute local privilege escalation attacks." Successful exploitation of such weaknesses could pave the way for the execution of arbitrary code with elevated privileges. Both the flaws reside in the MSI installer's repair functionality, potentially crea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in OpenSSH forwarded ssh-agent allows remote code execution<a href="https://securityaffairs.com/148770/hacking/openssh-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new flaw in OpenSSH could be potentially exploited to run arbitrary commands remotely on compromised hosts under specific conditions.
+Researchers from the Qualys Threat Research Unit (TRU) have discovered a remote code execution vulnerability in OpenSSH’s...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 20,000 Citrix Appliances Vulnerable to New Exploit<a href="https://www.securityweek.com/over-20000-citrix-appliances-vulnerable-to-new-exploit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new exploit technique targeting a recent Citrix Application Delivery Controller (ADC) and Gateway vulnerability can be used against thousands of unpatched devices, cybersecurity firm Bishop Fox claims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New OpenSSH Vulnerability Exposes Linux Systems to Remote Command Injection<a href="https://thehackernews.com/2023/07/new-openssh-vulnerability-exposes-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched flaw in OpenSSH that could be potentially exploited to run arbitrary commands remotely on compromised hosts under specific conditions. "This vulnerability allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH's forwarded ssh-agent," Saeed Abbasi, manager of vulnerability research at Qualys,&nbsp; said &nbsp;in an analysis last week. The vulnerability is being tracked under the CVE identifier&nbsp; CVE-2023-38408 &nbsp;(CVSS score: N/A). It impacts all versions of OpenSSH before&nbsp; 9.3p2 . OpenSSH is a popular connectivity tool for remote login with the SSH protocol that's used for encrypting all traffic to eliminate eavesdropping, connection hijacking, and other attacks. Successful exploitation requires the presence of certain libraries on the victim system and that the SSH authentication agent is&nbsp; forwarded &nbsp;to an attacker-controlled system. SSH agent is a&nbsp; background program &nbsp;that maintains users' keys
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Perimeter81 Vulnerability Disclosed After Botched Disclosure Process<a href="https://www.securityweek.com/perimeter81-vulnerability-disclosed-after-botched-disclosure-process/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researcher Erhad Husovic published a blog post in late June to disclose the details of a local privilege escalation vulnerability discovered in Perimeter81’s macOS application.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

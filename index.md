@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Patches Remote Code Execution Vulnerabilities in Confluence, Bamboo<a href="https://www.securityweek.com/atlassian-patches-remote-code-execution-vulnerabilities-in-confluence-bamboo/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Zero-Days in Atera Windows Installers Expose Users to Privilege Escalation Attacks<a href="https://thehackernews.com/2023/07/critical-zero-days-in-atera-windows.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A flaw in OpenSSH forwarded ssh-agent allows remote code execution<a href="https://securityaffairs.com/148770/hacking/openssh-critical-flaw.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Targets Windows IIS Web Servers for Malware Distribution<a href="https://cyware.com/news/lazarus-targets-windows-iis-web-servers-for-malware-distribution-73185d3e"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Messages Getting Cross-Platform End-to-End Encryption with MLS Protocol<a href="https://thehackernews.com/2023/07/google-messages-getting-cross-platform.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn of OSS supply chain attacks against the banking sector<a href="https://securityaffairs.com/148757/cyber-crime/supply-chain-attack-banking-sector.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 20,000 Citrix Appliances Vulnerable to New Exploit<a href="https://www.securityweek.com/over-20000-citrix-appliances-vulnerable-to-new-exploit/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Protect Patients and Their Privacy in Your SaaS Apps<a href="https://thehackernews.com/2023/07/how-to-protect-patients-and-their.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple could opt to stop iMessage and FaceTime services due to the government’s surveillance demands<a href="https://securityaffairs.com/148749/security/apple-against-uk-gov-surveillance.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Banking Sector Witnesses First-Ever OSS Supply Chain Attack<a href="https://cyware.com/news/banking-sector-witnesses-first-ever-oss-supply-chain-attack-9b4ae39b"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New OpenSSH Vulnerability Exposes Linux Systems to Remote Command Injection<a href="https://thehackernews.com/2023/07/new-openssh-vulnerability-exposes-linux.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Norwegian Government Security and Service Organisation Hit by Cyberattack<a href="https://www.reuters.com/technology/norway-government-ministries-hit-by-cyber-attack-2023-07-24/?&web_view=true"> Full Text</a>
@@ -230,7 +230,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Banking Sector Targeted in Open-Source Software Supply Chain Attacks<a href="https://thehackernews.com/2023/07/banking-sector-targeted-in-open-source.html"> Full Text</a>
@@ -246,7 +246,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Perimeter81 Vulnerability Disclosed After Botched Disclosure Process<a href="https://www.securityweek.com/perimeter81-vulnerability-disclosed-after-botched-disclosure-process/?&web_view=true"> Full Text</a>
@@ -262,7 +262,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISOs are making cybersecurity a business problem<a href="https://www.helpnetsecurity.com/2023/07/21/enterprises-growing-cybersecurity-threats/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 24, 2023
+July 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 First Known Targeted OSS Supply Chain Attacks Against the Banking Sector<a href="https://checkmarx.com/blog/first-known-targeted-oss-supply-chain-attacks-against-the-banking-sector/?&web_view=true"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Messages Getting Cross-Platform End-to-End Encryption with MLS Protocol<a href="https://thehackernews.com/2023/07/google-messages-getting-cross-platform.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced that it intends to add support for Message Layer Security ( MLS ) to its Messages service for Android and open source implementation of the specification. "Most modern consumer messaging platforms (including Google Messages) support end-to-end encryption, but users today are limited to communicating with contacts who use the same platform," Giles Hogben, privacy engineering director at Google,&nbsp; said . "This is why Google is strongly supportive of regulatory efforts that require interoperability for large end-to-end messaging platforms." The development comes as the Internet Engineering Task Force (IETF)&nbsp; released &nbsp;the core specification of the Messaging Layer Security (MLS) protocol as a Request for Comments ( RFC 9420 ). Some of the other major companies that have thrown their weight behind the protocol are Amazon Web Services (AWS) Wickr, Cisco, Cloudflare, The Matrix.org Foundation, Mozilla, Phoenix R&amp;D, and Wire. Notably missing from
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,49 @@ nav_order: 900072
 
 ## General
 ---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of OSS supply chain attacks against the banking&nbsp;sector<a href="https://securityaffairs.com/148757/cyber-crime/supply-chain-attack-banking-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Checkmark researchers have uncovered the first known targeted OSS supply chain attacks against the banking&nbsp;sector.
+In the first half of 2023, Checkmarx researchers detected multiple open-source software supply chain attacks aimed at the banking sector....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Banking Sector Witnesses First-Ever OSS Supply Chain Attack<a href="https://cyware.com/news/banking-sector-witnesses-first-ever-oss-supply-chain-attack-9b4ae39b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the first time, the banking sector has been explicitly targeted by two distinct Open-Source Software (OSS) supply chain attacks that enabled attackers to stealthily overlay the banking sites. O rganizations must equip themselves with the best early  threat alerting and sharing platforms  that c ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs are making cybersecurity a business problem<a href="https://www.helpnetsecurity.com/2023/07/21/enterprises-growing-cybersecurity-threats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. enterprises are responding to growing cybersecurity threats by working to make the best use of tools and services to ensure business resilience, according to an ISG report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

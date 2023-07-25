@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Protect Patients and Their Privacy in Your SaaS Apps<a href="https://thehackernews.com/2023/07/how-to-protect-patients-and-their.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The healthcare industry is under a constant barrage of cyberattacks. It has traditionally been one of the most frequently targeted industries, and things haven't changed in 2023. The U.S. Government's Office for Civil Rights reported&nbsp; 145 data breaches &nbsp;in the United States during the first quarter of this year. That follows 707 incidents a year ago, during which over 50 million records were stolen. Health records often include names, birth dates, social security numbers, and addresses. This treasure trove of data is used in identity theft, tax fraud, and other crimes. It is the high value of the data that makes healthcare applications such a promising target. The healthcare industry was hesitant to adopt SaaS applications. However, SaaS applications lead to better collaboration among medical professionals, leading to improved patient outcomes. That, combined with SaaS's ability to reduce costs and improve financial performance, has led to the industry fully embracing SaaS solutions
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

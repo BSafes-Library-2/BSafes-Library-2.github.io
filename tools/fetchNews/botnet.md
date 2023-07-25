@@ -8,6 +8,22 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple DDoS botnets were observed targeting Zyxel devices<a href="https://securityaffairs.com/148724/malware/ddos-botnets-targets-zyxel-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn of several DDoS botnets exploiting a critical flaw tracked as CVE-2023-28771 in Zyxel devices.
+Fortinet FortiGuard Labs researchers warned of multiple DDoS botnets exploiting a vulnerability impacting multiple Zyxel firewalls.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

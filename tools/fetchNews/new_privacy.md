@@ -8,6 +8,22 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple could opt to stop iMessage and FaceTime services due to the government’s surveillance demands<a href="https://securityaffairs.com/148749/security/apple-against-uk-gov-surveillance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple could opt to pull iMessage and FaceTime services in the U.K. in response to the government's surveillance demands.
+In light of the government's surveillance demands, Apple might consider withdrawing iMessage and FaceTime services from the U.K.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

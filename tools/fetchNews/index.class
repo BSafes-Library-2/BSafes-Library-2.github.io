@@ -34,6 +34,266 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Patches Remote Code Execution Vulnerabilities in Confluence, Bamboo<a href="https://www.securityweek.com/atlassian-patches-remote-code-execution-vulnerabilities-in-confluence-bamboo/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe of these issues, tracked as CVE-2023-22508 (CVSS score of 8.5), was introduced in Confluence version 7.4.0. The second bug, tracked as CVE-2023-22505 (CVSS score of 8.0), was introduced in Confluence version 8.0.0.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Zero-Days in Atera Windows Installers Expose Users to Privilege Escalation Attacks<a href="https://thehackernews.com/2023/07/critical-zero-days-in-atera-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero-day vulnerabilities in Windows Installers for the Atera remote monitoring and management software could act as a springboard to launch privilege escalation attacks. The flaws, discovered by Mandiant on February 28, 2023, have been assigned the identifiers  CVE-2023-26077  and  CVE-2023-26078 , with the issues remediated in versions 1.8.3.7 and 1.8.4.9 released by Atera on April 17, 2023, and June 26, 2023, respectively. "The ability to initiate an operation from a NT AUTHORITY\SYSTEM context can present potential security risks if not properly managed," security researcher Andrew Oliveau  said . "For instance, misconfigured  Custom Actions  running as NT AUTHORITY\SYSTEM can be exploited by attackers to execute local privilege escalation attacks." Successful exploitation of such weaknesses could pave the way for the execution of arbitrary code with elevated privileges. Both the flaws reside in the MSI installer's repair functionality, potentially crea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A flaw in OpenSSH forwarded ssh-agent allows remote code execution<a href="https://securityaffairs.com/148770/hacking/openssh-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new flaw in OpenSSH could be potentially exploited to run arbitrary commands remotely on compromised hosts under specific conditions.
+Researchers from the Qualys Threat Research Unit (TRU) have discovered a remote code execution vulnerability in OpenSSH’s...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Targets Windows IIS Web Servers for Malware Distribution<a href="https://cyware.com/news/lazarus-targets-windows-iis-web-servers-for-malware-distribution-73185d3e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ASEC  discovered  that the North Korean state-sponsored Lazarus APT group is attacking Windows Internet Information Service (IIS) web servers and using them to distribute malware. It  is imperative for organizations to adopt stringent measures, including attack surface management, to identify expo ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Messages Getting Cross-Platform End-to-End Encryption with MLS Protocol<a href="https://thehackernews.com/2023/07/google-messages-getting-cross-platform.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced that it intends to add support for Message Layer Security ( MLS ) to its Messages service for Android and open source implementation of the specification. "Most modern consumer messaging platforms (including Google Messages) support end-to-end encryption, but users today are limited to communicating with contacts who use the same platform," Giles Hogben, privacy engineering director at Google,  said . "This is why Google is strongly supportive of regulatory efforts that require interoperability for large end-to-end messaging platforms." The development comes as the Internet Engineering Task Force (IETF)  released  the core specification of the Messaging Layer Security (MLS) protocol as a Request for Comments ( RFC 9420 ). Some of the other major companies that have thrown their weight behind the protocol are Amazon Web Services (AWS) Wickr, Cisco, Cloudflare, The Matrix.org Foundation, Mozilla, Phoenix R&D, and Wire. Notably missing from
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn of OSS supply chain attacks against the banking sector<a href="https://securityaffairs.com/148757/cyber-crime/supply-chain-attack-banking-sector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Checkmark researchers have uncovered the first known targeted OSS supply chain attacks against the banking sector.
+In the first half of 2023, Checkmarx researchers detected multiple open-source software supply chain attacks aimed at the banking sector....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 20,000 Citrix Appliances Vulnerable to New Exploit<a href="https://www.securityweek.com/over-20000-citrix-appliances-vulnerable-to-new-exploit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new exploit technique targeting a recent Citrix Application Delivery Controller (ADC) and Gateway vulnerability can be used against thousands of unpatched devices, cybersecurity firm Bishop Fox claims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Protect Patients and Their Privacy in Your SaaS Apps<a href="https://thehackernews.com/2023/07/how-to-protect-patients-and-their.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The healthcare industry is under a constant barrage of cyberattacks. It has traditionally been one of the most frequently targeted industries, and things haven't changed in 2023. The U.S. Government's Office for Civil Rights reported  145 data breaches  in the United States during the first quarter of this year. That follows 707 incidents a year ago, during which over 50 million records were stolen. Health records often include names, birth dates, social security numbers, and addresses. This treasure trove of data is used in identity theft, tax fraud, and other crimes. It is the high value of the data that makes healthcare applications such a promising target. The healthcare industry was hesitant to adopt SaaS applications. However, SaaS applications lead to better collaboration among medical professionals, leading to improved patient outcomes. That, combined with SaaS's ability to reduce costs and improve financial performance, has led to the industry fully embracing SaaS solutions
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple could opt to stop iMessage and FaceTime services due to the government’s surveillance demands<a href="https://securityaffairs.com/148749/security/apple-against-uk-gov-surveillance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple could opt to pull iMessage and FaceTime services in the U.K. in response to the government's surveillance demands.
+In light of the government's surveillance demands, Apple might consider withdrawing iMessage and FaceTime services from the U.K.
+The...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Banking Sector Witnesses First-Ever OSS Supply Chain Attack<a href="https://cyware.com/news/banking-sector-witnesses-first-ever-oss-supply-chain-attack-9b4ae39b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For the first time, the banking sector has been explicitly targeted by two distinct Open-Source Software (OSS) supply chain attacks that enabled attackers to stealthily overlay the banking sites. O rganizations must equip themselves with the best early  threat alerting and sharing platforms  that c ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New OpenSSH Vulnerability Exposes Linux Systems to Remote Command Injection<a href="https://thehackernews.com/2023/07/new-openssh-vulnerability-exposes-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a now-patched flaw in OpenSSH that could be potentially exploited to run arbitrary commands remotely on compromised hosts under specific conditions. "This vulnerability allows a remote attacker to potentially execute arbitrary commands on vulnerable OpenSSH's forwarded ssh-agent," Saeed Abbasi, manager of vulnerability research at Qualys,  said  in an analysis last week. The vulnerability is being tracked under the CVE identifier  CVE-2023-38408  (CVSS score: N/A). It impacts all versions of OpenSSH before  9.3p2 . OpenSSH is a popular connectivity tool for remote login with the SSH protocol that's used for encrypting all traffic to eliminate eavesdropping, connection hijacking, and other attacks. Successful exploitation requires the presence of certain libraries on the victim system and that the SSH authentication agent is  forwarded  to an attacker-controlled system. SSH agent is a  background program  that maintains users' keys
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norwegian Government Security and Service Organisation Hit by Cyberattack<a href="https://www.reuters.com/technology/norway-government-ministries-hit-by-cyber-attack-2023-07-24/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Twelve Norwegian government ministries have been hit by a cyberattack, the Norwegian government said on Monday, the latest attack to hit the public sector of Europe's largest gas supplier and NATO's northernmost member.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Banking Sector Targeted in Open-Source Software Supply Chain Attacks<a href="https://thehackernews.com/2023/07/banking-sector-targeted-in-open-source.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers said they have discovered what they say is the first open-source software supply chain attacks specifically targeting the banking sector. "These attacks showcased advanced techniques, including targeting specific components in web assets of the victim bank by attaching malicious functionalities to it," Checkmarx  said  in a report published last week. "The attackers employed deceptive tactics such as creating a fake LinkedIn profile to appear credible and customized command-and-control (C2) centers for each target, exploiting legitimate services for illicit activities." The npm packages have since been reported and taken down. The names of the packages were not disclosed. In the first attack, the malware author is said to have uploaded a couple of packages to the npm registry in early April 2023 by posing as an employee of the target bank. The modules came with a preinstall script to activate the infection sequence. To complete the rus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Perimeter81 Vulnerability Disclosed After Botched Disclosure Process<a href="https://www.securityweek.com/perimeter81-vulnerability-disclosed-after-botched-disclosure-process/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researcher Erhad Husovic published a blog post in late June to disclose the details of a local privilege escalation vulnerability discovered in Perimeter81’s macOS application.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs are making cybersecurity a business problem<a href="https://www.helpnetsecurity.com/2023/07/21/enterprises-growing-cybersecurity-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. enterprises are responding to growing cybersecurity threats by working to make the best use of tools and services to ensure business resilience, according to an ISG report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+First Known Targeted OSS Supply Chain Attacks Against the Banking Sector<a href="https://checkmarx.com/blog/first-known-targeted-oss-supply-chain-attacks-against-the-banking-sector/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers employed deceptive tactics such as creating fake LinkedIn profiles to appear credible and using customized command and control (C2) centers for each target, exploiting legitimate services for illicit activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 23, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
