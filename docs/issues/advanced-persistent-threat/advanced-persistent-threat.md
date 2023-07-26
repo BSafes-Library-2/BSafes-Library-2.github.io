@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Nation-State Actors Exposed in JumpCloud Hack After OPSEC Blunder<a href="https://thehackernews.com/2023/07/north-korean-nation-state-actors.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean nation-state actors affiliated with the Reconnaissance General Bureau (RGB) have been attributed to the&nbsp; JumpCloud hack &nbsp;following an operational security (OPSEC) blunder that exposed their actual IP address. Google-owned threat intelligence firm Mandiant attributed the activity to a threat actor it tracks under the name UNC4899, which likely shares overlaps with clusters already being monitored as Jade Sleet and TraderTraitor, a group with a history of striking blockchain and cryptocurrency sectors. UNC4899 also overlaps with&nbsp; APT43 , another hacking crew associated with the Democratic People's Republic of Korea (DPRK) that was unmasked earlier this March as conducting a series of campaigns to gather intelligence and siphon cryptocurrency from targeted companies. The adversarial collective's modus operandi is characterized by the use of Operational Relay Boxes ( ORBs ) using L2TP IPsec tunnels along with commercial VPN providers to disguise the attacker's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cyberespionage Group APT31 Targets Eastern European Entities<a href="https://cyware.com/news/chinese-cyberespionage-group-apt31-targets-eastern-european-entities-ac48a235"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A China-linked group APT31 (aka Zirconium) has been linked to a cyberespionage campaign targeting industrial organizations in Eastern Europe.  The attackers  abused  DLL hijacking vulnerabilities in cloud-based data storage systems such as Dropbox or Yandex, as well as a temporary file-sharing serv ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

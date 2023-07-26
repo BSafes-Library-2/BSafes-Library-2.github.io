@@ -8,6 +8,121 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian addressed 3 flaws in Confluence and Bamboo products<a href="https://securityaffairs.com/148803/security/atlassian-confluence-bamboo-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian addressed&nbsp;three vulnerabilities in its Confluence Server, Data Center, and Bamboo Data Center products that can lead to remote code execution.
+Atlassian has&nbsp;addressed&nbsp;three critical and high severity vulnerabilities impacting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware addressed an information disclosure flaw in VMware Tanzu Application Service for VMs and Isolation Segment<a href="https://securityaffairs.com/148793/security/vmware-tanzu-application-service-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware fixed an information disclosure flaw in VMware Tanzu Application Service for VMs and Isolation Segment that exposed CF API admin credentials in audit logs.
+VMware has addressed an information disclosure vulnerability, tracked as CVE-2023-20891...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple addressed a new actively exploited zero-day tracked as CVE-2023-38606<a href="https://securityaffairs.com/148786/hacking/cve-2023-38606-zero-day-apple.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple released security updates&nbsp;to address an actively exploited zero-day flaw in iOS, iPadOS, macOS, tvOS, watchOS, and Safari.
+Apple released urgent security updates&nbsp;to address multiple flaws in iOS, iPadOS, macOS, tvOS, watchOS, and Safari, including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TETRA:BURST — 5 New Vulnerabilities Exposed in Widely Used Radio Communication System<a href="https://thehackernews.com/2023/07/tetraburst-5-new-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of five security vulnerabilities have been disclosed in the Terrestrial Trunked Radio ( TETRA ) standard for radio communication used widely by government entities and critical infrastructure sectors, including what's believed to be an intentional backdoor that could have potentially exposed sensitive information. The issues, discovered by Midnight Blue in 2021 and held back until now, have been collectively called&nbsp; TETRA:BURST . There is no conclusive evidence to determine that the vulnerabilities have been exploited in the wild to date. "Depending on infrastructure and device configurations, these vulnerabilities allow for real time decryption, harvest-now-decrypt-later attacks, message injection, user deanonymization, or session key pinning," the Netherlands-based cybersecurity company&nbsp; said . Standardized by the European Telecommunications Standards Institute (ETSI) in 1995, TETRA is used in more than 100 countries and as a police radio communication system
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zenbleed: New Flaw in AMD Zen 2 Processors Puts Encryption Keys and Passwords at Risk<a href="https://thehackernews.com/2023/07/zenbleed-new-flaw-in-amd-zen-2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new security vulnerability has been discovered in AMD's Zen 2 architecture-based processors that could be exploited to extract sensitive data such as encryption keys and passwords. Discovered by Google Project Zero researcher Tavis Ormandy, the flaw – codenamed&nbsp; Zenbleed &nbsp;and tracked as&nbsp; CVE-2023-20593 &nbsp;(CVSS score: 6.5) – allows data exfiltration at the rate of 30 kb per core, per second. The issue is part of a broader category of weaknesses called&nbsp; speculative execution attacks , in which the optimization technique widely used in modern CPUs is abused to access cryptographic keys from CPU registers. "Under specific microarchitectural circumstances, a register in 'Zen 2' CPUs may not be written to 0 correctly," AMD&nbsp; explained &nbsp;in an advisory. "This may cause data from another process and/or thread to be stored in the YMM register , which may allow an attacker to potentially access sensitive information." Web infrastructure company Cloudflare note
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Releases Patches for Critical Flaws in Confluence and Bamboo<a href="https://thehackernews.com/2023/07/atlassian-releases-patches-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has&nbsp; released &nbsp;updates to address three security flaws impacting its Confluence Server, Data Center, and Bamboo Data Center products that, if successfully exploited, could result in remote code execution on susceptible systems. The list of the flaws is below - CVE-2023-22505 &nbsp;(CVSS score: 8.0) - RCE (Remote Code Execution) in Confluence Data Center and Server (Fixed in versions 8.3.2 and 8.4.0) CVE-2023-22508 &nbsp;(CVSS score: 8.5) - RCE (Remote Code Execution) in Confluence Data Center and Server (Fixed in versions 7.19.8 and 8.2.0) CVE-2023-22506 &nbsp;(CVSS score: 7.5) - Injection, RCE (Remote Code Execution) in Bamboo (Fixed in versions 9.2.3 and 9.3.1) CVE-2023-22505 and CVE-2023-22508 allow an "authenticated attacker to execute arbitrary code which has high impact to confidentiality, high impact to integrity, high impact to availability, and no user interaction," the company said. While the first bug was introduced in version 8.0.0, CVE-2023-22508 was introduc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti Releases Urgent Patch for EPMM Zero-Day Vulnerability Under Active Exploitation<a href="https://thehackernews.com/2023/07/ivanti-releases-urgent-patch-for-epmm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti is warning users to update their Endpoint Manager Mobile (EPMM) mobile device management software (formerly MobileIron Core) to the latest version that fixes an actively exploited zero-day vulnerability. Dubbed&nbsp; CVE-2023-35078 , the issue has been described as a remote unauthenticated API access vulnerability that impacts currently supported version 11.4 releases 11.10, 11.9, and 11.8 as well as older releases. It has the maximum severity rating of 10 on the CVSS scale. "An authentication bypass vulnerability in Ivanti EPMM allows unauthorized users to access restricted functionality or resources of the application without proper authentication," the company&nbsp; said &nbsp;in a terse advisory. "If exploited, this vulnerability enables an unauthorized, remote (internet-facing) actor to potentially access users' personally identifiable information and make limited changes to the server." The U.S. Cybersecurity and Infrastructure Security Agency (CISA) said an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Rolls Out Urgent Patches for Zero-Day Flaws Impacting iPhones, iPads and Macs<a href="https://thehackernews.com/2023/07/apple-rolls-out-urgent-patches-for-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has&nbsp; rolled out security updates &nbsp;to iOS, iPadOS, macOS, tvOS, watchOS, and Safari to address several security vulnerabilities, including one actively exploited zero-day bug in the wild. Tracked as&nbsp; CVE-2023-38606 , the shortcoming resides in the kernel and permits a malicious app to modify sensitive kernel state potentially. The company said it was addressed with improved state management. "Apple is aware of a report that this issue may have been actively exploited against versions of iOS released before iOS 15.7.1," the tech giant noted in its advisory. It's worth noting that CVE-2023-38606 is the third security vulnerability discovered in connection with&nbsp; Operation Triangulation , a sophisticated mobile cyber espionage campaign targeting iOS devices since 2019 using a zero-click exploit chain. The other two zero-days,&nbsp; CVE-2023-32434 and CVE-2023-32435 , were patched by Apple last month. Kaspersky researchers Valentin Pashkov, Mikhail Vinogradov, Georgy Kuc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

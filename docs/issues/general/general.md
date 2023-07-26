@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+macOS Under Attack: Examining the Growing Threat and User Perspectives<a href="https://thehackernews.com/2023/07/macos-under-attack-examining-growing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the number of people using macOS keeps going up, so does the desire of hackers to take advantage of flaws in Apple's operating system.&nbsp; What Are the Rising Threats to macOS? There is a common misconception among macOS fans that Apple devices are immune to hacking and malware infection. However, users have been facing more and more dangers recently. Inventive attackers are specifically targeting Mac systems, as seen with the "Geacon" Cobalt Strike tool attack. This tool enables them to perform malicious actions such as data theft, privilege elevation, and remote device control, placing the security and privacy of Mac users at grave risk. Earlier this year, researchers also uncovered the MacStealer malware, which also stole sensitive data from Apple users. Documents, iCloud keychain data, browser cookies, credit card credentials – nothing is safe from the prying eyes.&nbsp; But that's not all. CloudMensis is malicious software that specifically targets macOS systems,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RaaS proliferation: 14 new ransomware groups target organizations worldwide<a href="https://www.helpnetsecurity.com/2023/07/25/active-ransomware-groups-2023/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the second quarter of 2023, GuidePoint Research and Intelligence Team (GRIT) tracked 1,177 total publicly posted ransomware victims claimed by 41 different threat groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

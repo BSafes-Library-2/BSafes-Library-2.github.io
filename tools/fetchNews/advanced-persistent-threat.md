@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Targets Windows IIS Web Servers for Malware Distribution<a href="https://cyware.com/news/lazarus-targets-windows-iis-web-servers-for-malware-distribution-73185d3e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ASEC  discovered  that the North Korean state-sponsored Lazarus APT group is attacking Windows Internet Information Service (IIS) web servers and using them to distribute malware. It  is imperative for organizations to adopt stringent measures, including attack surface management, to identify expo ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

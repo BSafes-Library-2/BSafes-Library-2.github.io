@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spyhide Stalkerware is Spying on Tens of Thousands of Phones<a href="https://techcrunch.com/2023/07/24/spyhide-stalkerware-android/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Nation-State Actors Exposed in JumpCloud Hack After OPSEC Blunder<a href="https://thehackernews.com/2023/07/north-korean-nation-state-actors.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian addressed 3 flaws in Confluence and Bamboo products<a href="https://securityaffairs.com/148803/security/atlassian-confluence-bamboo-flaws.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thales Acquiring Imperva From Thoma Bravo for $3.6 Billion<a href="https://www.securityweek.com/thales-acquiring-imperva-from-thoma-bravo-for-3-6-billion/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Casbaneiro Banking Malware Goes Under the Radar with UAC Bypass Technique<a href="https://thehackernews.com/2023/07/casbaneiro-banking-malware-goes-under.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware addressed an information disclosure flaw in VMware Tanzu Application Service for VMs and Isolation Segment<a href="https://securityaffairs.com/148793/security/vmware-tanzu-application-service-flaw.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Cyberespionage Group APT31 Targets Eastern European Entities<a href="https://cyware.com/news/chinese-cyberespionage-group-apt31-targets-eastern-european-entities-ac48a235"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 macOS Under Attack: Examining the Growing Threat and User Perspectives<a href="https://thehackernews.com/2023/07/macos-under-attack-examining-growing.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple addressed a new actively exploited zero-day tracked as CVE-2023-38606<a href="https://securityaffairs.com/148786/hacking/cve-2023-38606-zero-day-apple.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RaaS proliferation: 14 new ransomware groups target organizations worldwide<a href="https://www.helpnetsecurity.com/2023/07/25/active-ransomware-groups-2023/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TETRA:BURST — 5 New Vulnerabilities Exposed in Widely Used Radio Communication System<a href="https://thehackernews.com/2023/07/tetraburst-5-new-vulnerabilities.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twelve Norwegian ministries were hacked using a zero-day vulnerability<a href="https://securityaffairs.com/148778/hacking/norwegian-ministries-cyber-attack.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How MDR Helps Solve the Cybersecurity Talent Gap<a href="https://thehackernews.com/2023/07/how-mdr-helps-solve-cybersecurity.html"> Full Text</a>
@@ -246,7 +246,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zenbleed: New Flaw in AMD Zen 2 Processors Puts Encryption Keys and Passwords at Risk<a href="https://thehackernews.com/2023/07/zenbleed-new-flaw-in-amd-zen-2.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Releases Patches for Critical Flaws in Confluence and Bamboo<a href="https://thehackernews.com/2023/07/atlassian-releases-patches-for-critical.html"> Full Text</a>
@@ -278,7 +278,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ivanti Releases Urgent Patch for EPMM Zero-Day Vulnerability Under Active Exploitation<a href="https://thehackernews.com/2023/07/ivanti-releases-urgent-patch-for-epmm.html"> Full Text</a>
@@ -294,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Rolls Out Urgent Patches for Zero-Day Flaws Impacting iPhones, iPads and Macs<a href="https://thehackernews.com/2023/07/apple-rolls-out-urgent-patches-for-zero.html"> Full Text</a>
