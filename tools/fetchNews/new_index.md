@@ -34,7 +34,283 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protect AI Raises $35M to Build a Suite of AI-Defending Tools<a href="https://techcrunch.com/2023/07/26/protect-ai-raises-35m-to-build-a-suite-of-ai-defending-tools/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Protect AI announced that it raised $35 million in a Series A round led by Evolution Equity Partners with participation from Salesforce Ventures, Acrew Capital, boldstart ventures, Knollwood Capital and Pelion Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decoy Dog: New Breed of Malware Posing Serious Threats to Enterprise Networks<a href="https://thehackernews.com/2023/07/decoy-dog-new-breed-of-malware-posing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A deeper analysis of a recently discovered malware called  Decoy Dog  has revealed that it's a significant upgrade over the  Pupy RAT , an open-source remote access trojan it's modeled on. "Decoy Dog has a full suite of powerful, previously unknown capabilities – including the ability to move victims to another controller, allowing them to maintain communication with compromised machines and remain hidden for long periods of time," Infoblox  said  in a Tuesday report. "Some victims have actively communicated with a Decoy Dog server for over a year." Other new features allow the malware to execute arbitrary Java code on the client and connect to emergency controllers using a mechanism that's similar to a traditional DNS domain generation algorithm ( DGA ), with the Decoy Dog domains engineered to respond to replayed DNS queries from breached clients. The sophisticated toolkit was  first discovered  by the cybersecurity firm in early April 2023 after
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two ambulance services in UK lost access to patient records after a cyber attack on software provider<a href="https://securityaffairs.com/148847/cyber-crime/ambulance-services-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish software firm Ortivus suffered a cyberattack that has resulted in at least two British ambulance services losing access to electronic patient records.
+Two British ambulance services were not able to access electronic patient records after...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Ambulance Services Disrupted by Infosec Fiends<a href="https://www.theregister.com/2023/07/26/uk_ambulance_services_cyber_attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several UK NHS ambulance organizations have been struggling to record patient data and pass it to other providers following a cyberattack aimed at health software company Ortivus.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Alarming Rise of Infostealers: How to Detect this Silent Threat<a href="https://thehackernews.com/2023/07/the-alarming-rise-of-infostealers-how.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new study conducted by Uptycs has uncovered a stark increase in the distribution of information stealing (a.k.a. infostealer or stealer) malware. Incidents have more than doubled in Q1 2023, indicating an alarming trend that threatens global organizations. According to the new Uptycs' whitepaper,  Stealers are Organization Killers , a variety of new info stealers have emerged this year, preying on Windows, Linux, and macOS systems. Telegram has notably been used extensively by these malware authors for command, control, and data exfiltration. What is a Stealer? A stealer is a type of malware that targets its victim by stealing sensitive information that can include passwords, login credentials, and other personal data. After collecting such data, the stealer sends it to the threat actor's command and control (C2) system. RedLine and Vidar, two well-known stealers, took advantage of log-providing services to infiltrate private systems. RedLine primarily targets credenti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FraudGPT, a new malicious generative AI tool appears in the threat landscape<a href="https://securityaffairs.com/148829/cyber-crime/fraudgpt-cybercrime-generative-ai.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FraudGPT is another cybercrime generative artificial intelligence (AI) tool that is advertised in the hacking underground.
+Generative AI models are becoming attractive for crooks, Netenrich researchers recently spotted a new platform dubbed FraudGPT...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+To Execute the National Cyber Strategy, It’s Going to Take the Whole US Government<a href="https://www.cybersecuritydive.com/news/national-cybersecurity-strategy-initiatives/688911/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The implementation plan for the national cybersecurity strategy assigns specific tasks and responsibilities to various government agencies, highlighting the need for coordination and collaboration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fenix Cybercrime Group Poses as Tax Authorities to Target Latin American Users<a href="https://thehackernews.com/2023/07/fenix-cybercrime-group-poses-as-tax.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tax-paying individuals in Mexico and Chile have been targeted by a Mexico-based cybercrime group that goes by the name  Fenix  to breach targeted networks and steal valuable data. A key hallmark of the operation entails cloning official portals of the Servicio de Administración Tributaria (SAT) in Mexico and the Servicio de Impuestos Internos (SII) in Chile and redirecting potential victims to those sites.  "These fake websites prompt users to download a supposed security tool, claiming it will enhance their portal navigation safety," Metabase Q security researchers Gerardo Corona and Julio Vidal  said  in a recent analysis. "However, unbeknownst to the victims, this download actually installs the initial stage of malware, ultimately enabling the theft of sensitive information such as credentials." The goal of Fenix, according to the Latin America-focused cybersecurity firm, is to act as an initial access broker and get a foothold into different companies in t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Ivanti EPMM flaw to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/148830/hacking/cisa-ivanti-epmm-flaw-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added actively exploited Ivanti 's Endpoint Manager Mobile (EPMM) vulnerability to its Known Exploited Vulnerabilities catalog.
+US Cybersecurity and Infrastructure Security Agency (CISA) added actively exploited Ivanti 's Endpoint Manager...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FraudGPT: The Villain Avatar of ChatGPT<a href="https://netenrich.com/blog/fraudgpt-the-villain-avatar-of-chatgpt?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are using artificial intelligence tools like FraudGPT to create sophisticated phishing attacks and other malicious activities, posing a significant threat to organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New AI Tool 'FraudGPT' Emerges, Tailored for Sophisticated Attacks<a href="https://thehackernews.com/2023/07/new-ai-tool-fraudgpt-emerges-tailored.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following the footsteps of  WormGPT , threat actors are advertising yet another cybercrime generative artificial intelligence (AI) tool dubbed  FraudGPT  on various dark web marketplaces and Telegram channels. "This is an AI bot, exclusively targeted for offensive purposes, such as crafting spear phishing emails, creating cracking tools, carding, etc.," Netenrich security researcher Rakesh Krishnan   said  in a report published Tuesday. The cybersecurity firm said the offering has been circulating since at least July 22, 2023, for a subscription cost of $200 a month (or $1,000 for six months and $1,700 for a year). "If your [sic] looking for a Chat GPT alternative designed to provide a wide range of exclusive tools, features, and capabilities tailored to anyone's individuals with no boundaries then look no further!," claims the actor, who goes by the online alias CanadianKingpin. The author also states that the tool could be used to write malicious code, c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 500K MikroTik RouterOS systems potentially exposed to hacking due to critical flaw<a href="https://securityaffairs.com/148811/hacking/mikrotik-routeros-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a severe privilege escalation, tracked as CVE-2023-30799, in MikroTik RouterOS that can be exploited to hack vulnerable devices.
+VulnCheck researchers warn of a critical vulnerability, tracked as CVE-2023-30799 (CVSS score:...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal Privacy Bill Would Strip FCC's Role as Telecom Industry’s Privacy Cop<a href="https://therecord.media/federal-privacy-bill-strip-fcc-as-telecom-privacy-cop-in-favor-of-ftc?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sweeping federal privacy legislation now under debate in Congress is expected to move oversight of the telecom industry’s privacy practices from the FCC to the FTC, a shift that has long been a priority for telecom companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rust-based Realst Infostealer Targeting Apple macOS Users' Cryptocurrency Wallets<a href="https://thehackernews.com/2023/07/rust-based-realst-infostealer-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware family called  Realst  has become the latest to target Apple macOS systems, with a third of the samples already designed to infect macOS 14 Sonoma, the upcoming major release of the operating system. Written in the Rust programming language, the malware is distributed in the form of bogus blockchain games and is capable of "emptying crypto wallets and stealing stored password and browser data" from both Windows and macOS machines. Realst was first discovered in the wild by security researcher  iamdeadlyz . "Realst Infostealer is distributed via malicious websites advertising fake blockchain games with names such as Brawl Earth, WildWorld, Dawnland, Destruction, Evolion, Pearl, Olymp of Reptiles, and SaintLegend," SentinelOne security researcher Phil Stokes  said  in a report. "Each version of the fake blockchain game is hosted on its own website complete with associated Twitter and Discord accounts." The cybersecurity firm, which identif
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain, Open Source Pose Major Challenge to AI Systems<a href="https://www.bankinfosecurity.com/supply-chain-open-source-pose-major-challenge-to-ai-systems-a-22644?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Supply chain compromise, open source technology, and rapid advances in artificial intelligence capabilities pose significant challenges to safeguarding AI, experts told a Senate panel Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical MikroTik RouterOS Vulnerability Exposes Over Half a Million Devices to Hacking<a href="https://thehackernews.com/2023/07/critical-mikrotik-routeros.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe privilege escalation issue impacting MikroTik RouterOS could be weaponized by remote malicious actors to execute arbitrary code and seize full control of vulnerable devices. Cataloged as  CVE-2023-30799  (CVSS score: 9.1), the shortcoming is expected to put approximately 500,000 and 900,000 RouterOS systems at risk of exploitation via their web and/or Winbox interfaces, respectively, VulnCheck disclosed in a Tuesday report. "CVE-2023-30799 does require authentication," security researcher Jacob Baines  said . "In fact, the vulnerability itself is a simple privilege escalation from admin to 'super-admin' which results in access to an arbitrary function. Acquiring credentials to RouterOS systems is easier than one might expect." This is because the Mikrotik RouterOS operating system does not offer any protection against password brute-force attacks and ships with a well-known default "admin" user, with its password being an empty string
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Realst Info-stealer Targets MacOS, Empties Crypto Wallets<a href="https://cyware.com/news/new-realst-info-stealer-targets-macos-empties-crypto-wallets-66409f4b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the ever-evolving information-stealer landscape, a new malware dubbed Realst has emerged.  Realst   is designed to target macOS systems and is capable of emptying crypto wallets and stealing stored passwords and browser data. A ttackers are using tricks to lure gamers with money, which is a red  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spyhide Stalkerware is Spying on Tens of Thousands of Phones<a href="https://techcrunch.com/2023/07/24/spyhide-stalkerware-android/?&web_view=true"> Full Text</a>
@@ -50,7 +326,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Nation-State Actors Exposed in JumpCloud Hack After OPSEC Blunder<a href="https://thehackernews.com/2023/07/north-korean-nation-state-actors.html"> Full Text</a>
@@ -66,7 +342,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian addressed 3 flaws in Confluence and Bamboo products<a href="https://securityaffairs.com/148803/security/atlassian-confluence-bamboo-flaws.html"> Full Text</a>
@@ -83,7 +359,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thales Acquiring Imperva From Thoma Bravo for $3.6 Billion<a href="https://www.securityweek.com/thales-acquiring-imperva-from-thoma-bravo-for-3-6-billion/?&web_view=true"> Full Text</a>
@@ -99,7 +375,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Casbaneiro Banking Malware Goes Under the Radar with UAC Bypass Technique<a href="https://thehackernews.com/2023/07/casbaneiro-banking-malware-goes-under.html"> Full Text</a>
@@ -115,7 +391,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware addressed an information disclosure flaw in VMware Tanzu Application Service for VMs and Isolation Segment<a href="https://securityaffairs.com/148793/security/vmware-tanzu-application-service-flaw.html"> Full Text</a>
@@ -132,7 +408,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Cyberespionage Group APT31 Targets Eastern European Entities<a href="https://cyware.com/news/chinese-cyberespionage-group-apt31-targets-eastern-european-entities-ac48a235"> Full Text</a>
@@ -148,7 +424,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 macOS Under Attack: Examining the Growing Threat and User Perspectives<a href="https://thehackernews.com/2023/07/macos-under-attack-examining-growing.html"> Full Text</a>
@@ -164,7 +440,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple addressed a new actively exploited zero-day tracked as CVE-2023-38606<a href="https://securityaffairs.com/148786/hacking/cve-2023-38606-zero-day-apple.html"> Full Text</a>
@@ -181,7 +457,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RaaS proliferation: 14 new ransomware groups target organizations worldwide<a href="https://www.helpnetsecurity.com/2023/07/25/active-ransomware-groups-2023/?&web_view=true"> Full Text</a>
@@ -197,7 +473,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TETRA:BURST — 5 New Vulnerabilities Exposed in Widely Used Radio Communication System<a href="https://thehackernews.com/2023/07/tetraburst-5-new-vulnerabilities.html"> Full Text</a>
@@ -213,7 +489,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Twelve Norwegian ministries were hacked using a zero-day vulnerability<a href="https://securityaffairs.com/148778/hacking/norwegian-ministries-cyber-attack.html"> Full Text</a>
@@ -230,7 +506,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How MDR Helps Solve the Cybersecurity Talent Gap<a href="https://thehackernews.com/2023/07/how-mdr-helps-solve-cybersecurity.html"> Full Text</a>
@@ -246,7 +522,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zenbleed: New Flaw in AMD Zen 2 Processors Puts Encryption Keys and Passwords at Risk<a href="https://thehackernews.com/2023/07/zenbleed-new-flaw-in-amd-zen-2.html"> Full Text</a>
@@ -262,7 +538,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Releases Patches for Critical Flaws in Confluence and Bamboo<a href="https://thehackernews.com/2023/07/atlassian-releases-patches-for-critical.html"> Full Text</a>
@@ -278,7 +554,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ivanti Releases Urgent Patch for EPMM Zero-Day Vulnerability Under Active Exploitation<a href="https://thehackernews.com/2023/07/ivanti-releases-urgent-patch-for-epmm.html"> Full Text</a>
@@ -294,7 +570,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2023
+July 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Rolls Out Urgent Patches for Zero-Day Flaws Impacting iPhones, iPads and Macs<a href="https://thehackernews.com/2023/07/apple-rolls-out-urgent-patches-for-zero.html"> Full Text</a>
