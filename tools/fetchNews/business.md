@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thales Acquiring Imperva From Thoma Bravo for $3.6 Billion<a href="https://www.securityweek.com/thales-acquiring-imperva-from-thoma-bravo-for-3-6-billion/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thales will buy Imperva for an enterprise value of $3.6 billion ($3.7 billion gross value minus $0.1 billion tax benefits). The transaction is expected to close by the beginning of 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

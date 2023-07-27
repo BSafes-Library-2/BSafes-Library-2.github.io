@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Alarming Rise of Infostealers: How to Detect this Silent Threat<a href="https://thehackernews.com/2023/07/the-alarming-rise-of-infostealers-how.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new study conducted by Uptycs has uncovered a stark increase in the distribution of information stealing (a.k.a. infostealer or stealer) malware. Incidents have more than doubled in Q1 2023, indicating an alarming trend that threatens global organizations. According to the new Uptycs' whitepaper,&nbsp; Stealers are Organization Killers , a variety of new info stealers have emerged this year, preying on Windows, Linux, and macOS systems. Telegram has notably been used extensively by these malware authors for command, control, and data exfiltration. What is a Stealer? A stealer is a type of malware that targets its victim by stealing sensitive information that can include passwords, login credentials, and other personal data. After collecting such data, the stealer sends it to the threat actor's command and control (C2) system. RedLine and Vidar, two well-known stealers, took advantage of log-providing services to infiltrate private systems. RedLine primarily targets credenti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain, Open Source Pose Major Challenge to AI Systems<a href="https://www.bankinfosecurity.com/supply-chain-open-source-pose-major-challenge-to-ai-systems-a-22644?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Supply chain compromise, open source technology, and rapid advances in artificial intelligence capabilities pose significant challenges to safeguarding AI, experts told a Senate panel Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

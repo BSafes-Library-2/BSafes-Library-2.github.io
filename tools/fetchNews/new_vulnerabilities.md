@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 500K MikroTik RouterOS systems potentially exposed to hacking due to critical flaw<a href="https://securityaffairs.com/148811/hacking/mikrotik-routeros-critical-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of a severe privilege escalation, tracked as&nbsp;CVE-2023-30799, in MikroTik RouterOS that can be exploited to hack vulnerable devices.
+VulnCheck researchers warn of a critical vulnerability, tracked as CVE-2023-30799&nbsp;(CVSS score:...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical MikroTik RouterOS Vulnerability Exposes Over Half a Million Devices to Hacking<a href="https://thehackernews.com/2023/07/critical-mikrotik-routeros.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe privilege escalation issue impacting MikroTik RouterOS could be weaponized by remote malicious actors to execute arbitrary code and seize full control of vulnerable devices. Cataloged as&nbsp; CVE-2023-30799 &nbsp;(CVSS score: 9.1), the shortcoming is expected to put approximately 500,000 and 900,000 RouterOS systems at risk of exploitation via their web and/or Winbox interfaces, respectively, VulnCheck disclosed in a Tuesday report. "CVE-2023-30799 does require authentication," security researcher Jacob Baines&nbsp; said . "In fact, the vulnerability itself is a simple privilege escalation from admin to 'super-admin' which results in access to an arbitrary function. Acquiring credentials to RouterOS systems is easier than one might expect." This is because the Mikrotik RouterOS operating system does not offer any protection against password brute-force attacks and ships with a well-known default "admin" user, with its password being an empty string
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

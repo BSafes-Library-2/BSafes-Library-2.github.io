@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protect AI Raises $35M to Build a Suite of AI-Defending Tools<a href="https://techcrunch.com/2023/07/26/protect-ai-raises-35m-to-build-a-suite-of-ai-defending-tools/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Protect AI announced that it raised $35 million in a Series A round led by Evolution Equity Partners with participation from Salesforce Ventures, Acrew Capital, boldstart ventures, Knollwood Capital and Pelion Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+July 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+To Execute the National Cyber Strategy, It’s Going to Take the Whole US Government<a href="https://www.cybersecuritydive.com/news/national-cybersecurity-strategy-initiatives/688911/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The implementation plan for the national cybersecurity strategy assigns specific tasks and responsibilities to various government agencies, highlighting the need for coordination and collaboration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Ivanti EPMM flaw to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/148830/hacking/cisa-ivanti-epmm-flaw-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added actively exploited Ivanti 's Endpoint Manager Mobile (EPMM) vulnerability to its Known Exploited Vulnerabilities catalog.
+US Cybersecurity and Infrastructure Security Agency (CISA) added actively exploited Ivanti 's Endpoint Manager...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2023 <br {:="" .fs-4="" .fw-700="" .lh-0="" }="" <p="" style="font-weight:500; margin:0px" markdown="1">
 CISA warns of attacks against Citrix NetScaler ADC and Gateway Devices<a href="https://securityaffairs.com/148690/security/cisa-citrix-netscaler-adc.html"> Full Text</a>
 <p></p>

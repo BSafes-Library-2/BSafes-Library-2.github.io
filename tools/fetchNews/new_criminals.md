@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fenix Cybercrime Group Poses as Tax Authorities to Target Latin American Users<a href="https://thehackernews.com/2023/07/fenix-cybercrime-group-poses-as-tax.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tax-paying individuals in Mexico and Chile have been targeted by a Mexico-based cybercrime group that goes by the name&nbsp; Fenix &nbsp;to breach targeted networks and steal valuable data. A key hallmark of the operation entails cloning official portals of the Servicio de Administración Tributaria (SAT) in Mexico and the Servicio de Impuestos Internos (SII) in Chile and redirecting potential victims to those sites.&nbsp; "These fake websites prompt users to download a supposed security tool, claiming it will enhance their portal navigation safety," Metabase Q security researchers Gerardo Corona and Julio Vidal&nbsp; said &nbsp;in a recent analysis. "However, unbeknownst to the victims, this download actually installs the initial stage of malware, ultimately enabling the theft of sensitive information such as credentials." The goal of Fenix, according to the Latin America-focused cybersecurity firm, is to act as an initial access broker and get a foothold into different companies in t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FraudGPT: The Villain Avatar of ChatGPT<a href="https://netenrich.com/blog/fraudgpt-the-villain-avatar-of-chatgpt?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are using artificial intelligence tools like FraudGPT to create sophisticated phishing attacks and other malicious activities, posing a significant threat to organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

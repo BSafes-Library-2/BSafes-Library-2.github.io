@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How MDR Helps Solve the Cybersecurity Talent Gap<a href="https://thehackernews.com/2023/07/how-mdr-helps-solve-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How do you overcome today's talent gap in cybersecurity? This is a crucial issue — particularly when you find executive leadership or the board asking pointed questions about your security team's ability to defend the organization against new and current threats. This is why many security leaders find themselves turning to managed security services like MDR ( managed detection and response ), which can offer an immediate solution. The right MDR partner can act as an extension of your existing team, while offering a fast and budget-friendly option for uplevelling security at organizations of virtually any size. Here's a look at common staffing challenges that MDR helps solve: Overcoming Cybersecurity Talent Challenges From stopping ransomware to securing the attack surface of the environment, most security teams have more to do than they can manage. This leads to security gaps that increase both cyber risk and frustration for stakeholders across the business. The chall
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
