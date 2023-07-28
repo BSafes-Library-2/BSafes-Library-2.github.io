@@ -34,6 +34,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Analysis Shows Most Cyberattacks on Governments, Critical Infrastructure Involve Valid Credentials<a href="https://therecord.media/cisa-cyberattacks-using-valid-credentials?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than half of all cyberattacks on government agencies, critical infrastructure organizations, and state-level government bodies involved the use of valid accounts, according to a new report from the CISA.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GameOver(lay): Two Severe Linux Vulnerabilities Impact 40% of Ubuntu Users<a href="https://thehackernews.com/2023/07/gameoverlay-two-severe-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed two high-severity security flaws in the Ubuntu kernel that could pave the way for local privilege escalation attacks. Cloud security firm Wiz, in a  report  shared with The Hacker News, said the easy-to-exploit shortcomings have the potential to impact 40% of Ubuntu users. "The impacted Ubuntu versions are prevalent in the cloud as they serve as the default operating systems for multiple [cloud service providers]," security researchers Sagi Tzadik and Shir Tamari said. The  vulnerabilities  – tracked as CVE-2023-32629 and 2023-2640 (CVSS scores: 7.8) and dubbed  GameOver(lay)  – are present in a module called  OverlayFS  and arise as a result of inadequate permissions checks in certain scenarios, enabling a local attacker to gain elevated privileges. Overlay Filesystem refers to a union mount file system that makes it possible to combine multiple directory trees or file systems into a single, unified filesystem. A brief descrip
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra fixed actively exploited zero-day CVE-2023-38750 in ZCS<a href="https://securityaffairs.com/148880/security/zimbra-fixed-2023-38750-zcs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zimbra addressed a zero-day vulnerability exploited in attacks aimed at Zimbra Collaboration Suite (ZCS) email servers.
+Two weeks ago Zimbra urged customers to manually install updates to fix a zero-day vulnerability, now tracked as CVE-2023-38750,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CardioComm Takes Systems Offline Following Cyberattack<a href="https://www.securityweek.com/cardiocomm-takes-systems-offline-following-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack, the company says, impacted its production server environments and has an impact on its business operations. Visitors to the company’s website are informed that CardioComm services are currently offline.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malvertising Campaign Distributing Trojanized IT Tools via Google and Bing Search Ads<a href="https://thehackernews.com/2023/07/new-malvertising-campaign-distributing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malvertising campaign has been observed leveraging ads on Google Search and Bing to target users seeking IT tools like AnyDesk, Cisco AnyConnect VPN, and WinSCP, and trick them into downloading trojanized installers with an aim to breach enterprise networks and likely carry out future ransomware attacks. Dubbed  Nitrogen , the "opportunistic" activity is designed to deploy second-stage attack tools such as Cobalt Strike, Sophos  said  in a Wednesday analysis. Nitrogen was  first documented  by eSentire in June 2023, detailing an infection chain that redirects users to compromised WordPress sites hosting malicious ISO image files that ultimately culminate in the delivery of Python scripts and Cobalt Strike Beacons onto the targeted system. Then earlier this month, Trend Micro  uncovered  a similar attack sequence in which a fraudulent WinSCP application functioned as a stepping stone for a BlackCat ransomware attack. "Throughout the infection chain, the threat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DepositFiles exposed config file, jeopardizing user security<a href="https://securityaffairs.com/148875/data-breach/depositfiles-exposed-config-file.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DepositFiles, a popular web hosting service, left its environment configuration file accessible, revealing a trove of highly sensitive credentials.
+The recent tsunami of Cl0p-driven ransomware attacks via the MOVEit Transfer exploit is a painful...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Up to 11 Million People Hit by MOVEit Hack at Government Services Firm Maximus<a href="https://www.securityweek.com/up-to-11-million-people-hit-by-moveit-hack-at-government-services-firm-maximus/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Maximus, the attackers stole files containing personal information and protected health information, including Social Security numbers, “of at least 8 to 11 million individuals”.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The 4 Keys to Building Cloud Security Programs That Can Actually Shift Left<a href="https://thehackernews.com/2023/07/the-4-keys-to-building-cloud-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As cloud applications are built, tested and updated, they wind their way through an ever-complex series of different tools and teams. Across hundreds or even thousands of technologies that make up the patchwork quilt of development and cloud environments, security processes are all too often applied in only the final phases of software development.  Placing security at the very end of the production pipeline puts both devs and security on the back foot. Developers want to build and ship secure apps; security teams want to support this process by strengthening application security. However, today's security processes are legacy approaches that once worked brilliantly for the tight constraints of on-prem production, but struggle in quasi-public, ever-shifting cloud environments. As a result, security is an afterthought, and any attempt to squeeze siloed security into agile SDLC can  swell the cost of patching by 600% . A new cloud security operating model is long overdue. Shift-le
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group-IB CEO Ilya Sachkov sentenced to 14 years in a strict prison colony<a href="https://securityaffairs.com/148866/intelligence/group-ib-ceo-sachkov-prison.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ilya Sachkov, CEO and co-founder of Group-IB was sentenced to 14 years in a high security prison colony according to the Moscow court announcement.
+As per the announcement from the Moscow court, Ilya Sachkov, the CEO and co-founder of Group-IB, has been...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China Allegedly Turns to Transnational Criminals to Spread Disinformation in Australia<a href="https://therecord.media/china-disinformation-cybercrime-groups-australia-aspi-report?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Australian researchers have found evidence that China is using fake social media accounts linked to transnational criminal groups to spread online propaganda and disinformation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Apache Tomcat Servers for Mirai Botnet and Crypto Mining<a href="https://thehackernews.com/2023/07/hackers-target-apache-tomcat-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured and poorly secured Apache Tomcat servers are being targeted as part of a new campaign designed to deliver the  Mirai botnet malware  and cryptocurrency miners. The findings come courtesy of Aqua, which detected more than 800 attacks against its Tomcat server honeypots over a two-year time period, with 96% of the attacks linked to the Mirai botnet. Of these attack attempts, 20% (or 152) entailed the use of a web shell script dubbed "neww" that originated from 24 unique IP addresses, with 68% of them originating from a single IP address (104.248.157[.]218). "The threat actor scanned for Tomcat servers and launched a brute force attack against it, attempting to gain access to the Tomcat web application manager by trying different combinations of credentials associated with it," Aqua security researcher Nitzan Yaakov  said . Upon gaining a successful foothold, the threat actors have been observed deploying a  WAR file  that contains a malicious web s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two flaws in Linux Ubuntu affect 40% of Ubuntu users<a href="https://securityaffairs.com/148856/hacking/linux-ubuntu-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wiz researchers discovered two Linux vulnerabilities in the Ubuntu kernel that can allow an unprivileged local user to gain elevated privileges.
+Wiz Research discovered two privilege escalation vulnerabilities, tracked as CVE-2023-2640 and CVE-2023-32629,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Introducing FraudGPT: The Latest AI Cybercrime Tool in the Dark Web<a href="https://cyware.com/news/introducing-fraudgpt-the-latest-ai-cybercrime-tool-in-the-dark-web-1ba40d2f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the wake of WormGPT's success, threat actors have now introduced another AI-powered cybercrime tool called  FraudGPT . This AI bot is being promoted on numerous dark web marketplaces and Telegram channels, and is capable of designing spear-phishing emails, generating cracking tools, and facilit ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group-IB Co-Founder Sentenced to 14 Years in Russian Prison for Alleged High Treason<a href="https://thehackernews.com/2023/07/group-ib-co-founder-sentenced-to-14.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A city court in Moscow on Wednesday convicted Group-IB co-founder and CEO Ilya Sachkov of "high treason" and jailed him for 14 years in a "strict regime colony" over accusations of passing information to foreign spies. "The court found Sachkov guilty under Article 275 of the Russian Criminal Code (high treason) sentencing him to 14 years of incarceration in a maximum-security jail, restriction of freedom for one year and a fine of 500,000 rubles (about $5,550)," state news agency TASS  reported . Sachkov, who has been in custody  since September 2021  and denied wrongdoing, had been accused of handing over classified information to foreign intelligence in 2011, which the prosecutors said caused reputational damage to Russia's national interests. The exact nature of the charges is unclear. The 37-year-old is expected to appeal the decision, Bloomberg  said , adding, "Sachkov was alleged to have  given the U.S. government  information regardin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decoy Dog Malware Evolves to Expand its Reach<a href="https://cyware.com/news/decoy-dog-malware-evolves-to-expand-its-reach-015a4ea3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unidentified nation-state appears to be preparing for a new hacking campaign, according to researchers at Infoblox. The campaign uses the relatively new Decoy Dog malware toolkit.  Decoy Dog has undergone a major upgrade from  Pupy , an open-source remote access tool, to disguise its activities  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SEC Rules Require U.S. Companies to Reveal Cyber Attacks Within 4 Days<a href="https://thehackernews.com/2023/07/new-sec-rules-require-us-companies-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Securities and Exchange Commission (SEC) on Wednesday approved new rules that require publicly traded companies to publicize details of a cyber attack within four days of identifying that it has a "material" impact on their finances, marking a major shift in how computer breaches are disclosed. "Whether a company loses a factory in a fire — or millions of files in a cybersecurity incident — it may be material to investors," SEC chair Gary Gensler  said . "Currently, many public companies provide cybersecurity disclosure to investors. I think companies and investors alike, however, would benefit if this disclosure were made in a more consistent, comparable, and decision-useful way." To that end, the new obligations mandate that companies reveal the incident's nature, scope, and timing, as well as its impact. This disclosure, however, may be delayed by an additional period of up to 60 days should it be determined that giving out such specific
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ Reorganizes Units to Better Fight Ransomware<a href="https://securityboulevard.com/2023/07/doj-reorganizes-units-to-better-fight-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department is merging its National Cryptocurrency Enforcement Team with its Crime and Intellectual Property Section to strengthen its capabilities in investigating cryptocurrency-related criminal cases and cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 26, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

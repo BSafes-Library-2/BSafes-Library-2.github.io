@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Risk and Vulnerability Assessments <a href="https://www.cisa.gov/resources-tools/resources/risk-and-vulnerability-assessments"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA analyzes and maps, to the MITRE ATT&CK® framework, the findings from the Risk and Vulnerability Assessments (RVA) we conduct each fiscal year (FY). These analyses include:
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 24, 2023 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

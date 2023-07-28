@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malvertising Campaign Distributing Trojanized IT Tools via Google and Bing Search Ads<a href="https://thehackernews.com/2023/07/new-malvertising-campaign-distributing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malvertising campaign has been observed leveraging ads on Google Search and Bing to target users seeking IT tools like AnyDesk, Cisco AnyConnect VPN, and WinSCP, and trick them into downloading trojanized installers with an aim to breach enterprise networks and likely carry out future ransomware attacks. Dubbed&nbsp; Nitrogen , the "opportunistic" activity is designed to deploy second-stage attack tools such as Cobalt Strike, Sophos&nbsp; said &nbsp;in a Wednesday analysis. Nitrogen was&nbsp; first documented &nbsp;by eSentire in June 2023, detailing an infection chain that redirects users to compromised WordPress sites hosting malicious ISO image files that ultimately culminate in the delivery of Python scripts and Cobalt Strike Beacons onto the targeted system. Then earlier this month, Trend Micro&nbsp; uncovered &nbsp;a similar attack sequence in which a fraudulent WinSCP application functioned as a stepping stone for a BlackCat ransomware attack. "Throughout the infection chain, the threat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

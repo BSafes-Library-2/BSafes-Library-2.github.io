@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+July 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CardioComm Takes Systems Offline Following Cyberattack<a href="https://www.securityweek.com/cardiocomm-takes-systems-offline-following-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack, the company says, impacted its production server environments and has an impact on its business operations. Visitors to the company’s website are informed that CardioComm services are currently offline.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900140
 
 ## Outage
 ---
+July 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two ambulance services in UK lost access to patient records after a cyber attack on software provider<a href="https://securityaffairs.com/148847/cyber-crime/ambulance-services-cyberattack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Swedish software firm Ortivus suffered a cyberattack that has resulted in at least two British ambulance services losing access to electronic patient records.
+Two British ambulance services were not able to access electronic patient records after...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Ambulance Services Disrupted by Infosec Fiends<a href="https://www.theregister.com/2023/07/26/uk_ambulance_services_cyber_attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several UK NHS ambulance organizations have been struggling to record patient data and pass it to other providers following a cyberattack aimed at health software company Ortivus.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

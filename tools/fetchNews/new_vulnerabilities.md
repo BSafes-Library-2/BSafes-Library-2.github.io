@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GameOver(lay): Two Severe Linux Vulnerabilities Impact 40% of Ubuntu Users<a href="https://thehackernews.com/2023/07/gameoverlay-two-severe-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed two high-severity security flaws in the Ubuntu kernel that could pave the way for local privilege escalation attacks. Cloud security firm Wiz, in a&nbsp; report &nbsp;shared with The Hacker News, said the easy-to-exploit shortcomings have the potential to impact 40% of Ubuntu users. "The impacted Ubuntu versions are prevalent in the cloud as they serve as the default operating systems for multiple [cloud service providers]," security researchers Sagi Tzadik and Shir Tamari said. The&nbsp; vulnerabilities &nbsp;– tracked as CVE-2023-32629 and 2023-2640 (CVSS scores: 7.8) and dubbed&nbsp; GameOver(lay) &nbsp;– are present in a module called&nbsp; OverlayFS &nbsp;and arise as a result of inadequate permissions checks in certain scenarios, enabling a local attacker to gain elevated privileges. Overlay Filesystem refers to a union mount file system that makes it possible to combine multiple directory trees or file systems into a single, unified filesystem. A brief descrip
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zimbra fixed actively exploited zero-day CVE-2023-38750 in ZCS<a href="https://securityaffairs.com/148880/security/zimbra-fixed-2023-38750-zcs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zimbra addressed a zero-day vulnerability exploited in attacks aimed at Zimbra Collaboration Suite (ZCS) email servers.
+Two weeks ago Zimbra urged customers to manually install updates to fix a zero-day vulnerability, now tracked as CVE-2023-38750,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

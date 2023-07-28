@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal Privacy Bill Would Strip FCC's Role as Telecom Industry’s Privacy Cop<a href="https://therecord.media/federal-privacy-bill-strip-fcc-as-telecom-privacy-cop-in-favor-of-ftc?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sweeping federal privacy legislation now under debate in Congress is expected to move oversight of the telecom industry’s privacy practices from the FCC to the FTC, a shift that has long been a priority for telecom companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

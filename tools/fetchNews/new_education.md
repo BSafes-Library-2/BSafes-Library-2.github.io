@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The 4 Keys to Building Cloud Security Programs That Can Actually Shift Left<a href="https://thehackernews.com/2023/07/the-4-keys-to-building-cloud-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As cloud applications are built, tested and updated, they wind their way through an ever-complex series of different tools and teams. Across hundreds or even thousands of technologies that make up the patchwork quilt of development and cloud environments, security processes are all too often applied in only the final phases of software development.&nbsp; Placing security at the very end of the production pipeline puts both devs and security on the back foot. Developers want to build and ship secure apps; security teams want to support this process by strengthening application security. However, today's security processes are legacy approaches that once worked brilliantly for the tight constraints of on-prem production, but struggle in quasi-public, ever-shifting cloud environments. As a result, security is an afterthought, and any attempt to squeeze siloed security into agile SDLC can&nbsp; swell the cost of patching by 600% . A new cloud security operating model is long overdue. Shift-le
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

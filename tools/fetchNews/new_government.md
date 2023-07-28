@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+July 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Analysis Shows Most Cyberattacks on Governments, Critical Infrastructure Involve Valid Credentials<a href="https://therecord.media/cisa-cyberattacks-using-valid-credentials?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than half of all cyberattacks on government agencies, critical infrastructure organizations, and state-level government bodies involved the use of valid accounts, according to a new report from the CISA.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ Reorganizes Units to Better Fight Ransomware<a href="https://securityboulevard.com/2023/07/doj-reorganizes-units-to-better-fight-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department is merging its National Cryptocurrency Enforcement Team with its Crime and Intellectual Property Section to strengthen its capabilities in investigating cryptocurrency-related criminal cases and cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
