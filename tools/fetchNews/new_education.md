@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Data Exfiltration Attack Scenario: The Porsche Experience<a href="https://thehackernews.com/2023/07/a-data-exfiltration-attack-scenario.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of&nbsp; Checkmarx's mission &nbsp;to help organizations develop and deploy secure software, the Security Research team started looking at the security posture of major car manufacturers. Porsche has a well-established Vulnerability Reporting Policy (Disclosure Policy) [1] , it was considered in scope for our research, so we decided to start there, and see what we could find. What we found is an attack scenario that results from chaining security issues found on different Porsche's assets, a website and a GraphQL API, that could lead to data exfiltration. Data exfiltration is an attack technique that can impact businesses and organizations, regardless of size. When malicious users breach a company's or organization's systems and exfiltrate data, it can be a jarring and business-critical moment. Porsche has a diverse online presence - deploying several microsites, websites, and web applications. The Porsche Experience [2] is one website that allows registered users to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

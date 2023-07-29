@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Innovative Attack Methodology Leverages the "search-ms" URI Protocol Handler<a href="https://www.trellix.com/en-us/about/newsroom/stories/research/beyond-file-search-a-novel-method.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A legitimate Windows search feature could be exploited by malicious actors to download arbitrary payloads from remote servers and compromise targeted systems with remote access trojans such as AsyncRAT and Remcos RAT.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Security Flaw Discovered in Metabase BI Software – Urgent Update Required<a href="https://thehackernews.com/2023/07/major-security-flaw-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of Metabase, a popular business intelligence and data visualization software package, are being advised to update to the latest version following the discovery of an "extremely severe" flaw that could result in pre-authenticated remote code execution on affected installations. Tracked as CVE-2023-38646 , the issue impacts open-source editions prior to 0.46.6.1 and Metabase Enterprise versions before 1.46.6.1. "An unauthenticated attacker can run arbitrary commands with the same privileges as the Metabase server on the server you are running Metabase on," Metabase said in an advisory released last week. The issue has also been addressed in the following older versions - 0.45.4.1 and 1.45.4.1 0.44.7.1 and 1.44.7.1, and 0.43.7.2 and 1.43.7.2 While there is no evidence that the issue has been exploited in the wild, data gathered by the Shadowserver Foundation shows that 5,488 out of the total 6,936 Metabase instances are vulnerable as of July 26, 202
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

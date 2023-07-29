@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+STARK#MULE Targets Koreans with U.S. Military-themed Document Lures<a href="https://thehackernews.com/2023/07/starkmule-targets-koreans-with-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing cyber attack campaign has set its sights on Korean-speaking individuals by employing U.S. Military-themed document lures to trick them into running malware on compromised systems. Cybersecurity firm Securonix is tracking the activity under the name&nbsp; STARK#MULE . "Based on the source and likely targets, these types of attacks are on par with past attacks stemming from typical North Korean groups such as APT37 as South Korea has historically been a primary target of the group, especially its government officials," security researchers Den Iuzvyk, Tim Peck, and Oleg Kolesnikov said in a report shared with The Hacker News. APT37, also known by the names Nickel Foxcroft, Reaper, Ricochet Chollima, and ScarCruft, is a&nbsp; North Korean nation-state actor &nbsp;that's known to exclusively focus on targets in its southern counterpart, specifically those involved in reporting on North Korea and supporting defectors. Attack chains mounted by the group have historically reli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nitrogen Malvertising - Sneaky Malware in Search Ads<a href="https://cyware.com/news/nitrogen-malvertising-sneaky-malware-in-search-ads-ea2339c6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently detected malvertising campaign, known as Nitrogen, has been discovered exploiting  Google Search  and Bing ads to target users searching for IT tools. The  Nitrogen campaign  predominantly focuses on technology and non-profit organizations in North America. It operates by posing as inst ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

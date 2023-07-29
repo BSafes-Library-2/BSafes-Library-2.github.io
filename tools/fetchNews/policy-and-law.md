@@ -8,6 +8,49 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group-IB CEO Ilya Sachkov sentenced to 14 years in a strict prison colony<a href="https://securityaffairs.com/148866/intelligence/group-ib-ceo-sachkov-prison.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ilya Sachkov, CEO and co-founder of Group-IB was sentenced to 14 years in a high security prison colony according to the Moscow court announcement.
+As per the announcement from the Moscow court, Ilya Sachkov, the CEO and co-founder of Group-IB, has been...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Group-IB Co-Founder Sentenced to 14 Years in Russian Prison for Alleged High Treason<a href="https://thehackernews.com/2023/07/group-ib-co-founder-sentenced-to-14.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A city court in Moscow on Wednesday convicted Group-IB co-founder and CEO Ilya Sachkov of "high treason" and jailed him for 14 years in a "strict regime colony" over accusations of passing information to foreign spies. "The court found Sachkov guilty under Article 275 of the Russian Criminal Code (high treason) sentencing him to 14 years of incarceration in a maximum-security jail, restriction of freedom for one year and a fine of 500,000 rubles (about $5,550)," state news agency TASS&nbsp; reported . Sachkov, who has been in custody&nbsp; since September 2021 &nbsp;and denied wrongdoing, had been accused of handing over classified information to foreign intelligence in 2011, which the prosecutors said caused reputational damage to Russia's national interests. The exact nature of the charges is unclear. The 37-year-old is expected to appeal the decision, Bloomberg&nbsp; said , adding, "Sachkov was alleged to have&nbsp; given the U.S. government &nbsp;information regardin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SEC Rules Require U.S. Companies to Reveal Cyber Attacks Within 4 Days<a href="https://thehackernews.com/2023/07/new-sec-rules-require-us-companies-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Securities and Exchange Commission (SEC) on Wednesday approved new rules that require publicly traded companies to publicize details of a cyber attack within four days of identifying that it has a "material" impact on their finances, marking a major shift in how computer breaches are disclosed. "Whether a company loses a factory in a fire — or millions of files in a cybersecurity incident — it may be material to investors," SEC chair Gary Gensler&nbsp; said . "Currently, many public companies provide cybersecurity disclosure to investors. I think companies and investors alike, however, would benefit if this disclosure were made in a more consistent, comparable, and decision-useful way." To that end, the new obligations mandate that companies reveal the incident's nature, scope, and timing, as well as its impact. This disclosure, however, may be delayed by an additional period of up to 60 days should it be determined that giving out such specific
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

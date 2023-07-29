@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+July 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DepositFiles exposed config file, jeopardizing user security<a href="https://securityaffairs.com/148875/data-breach/depositfiles-exposed-config-file.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DepositFiles, a popular web hosting service, left its environment configuration file accessible, revealing a trove of highly sensitive credentials.
+The recent tsunami of Cl0p-driven ransomware attacks via the&nbsp;MOVEit Transfer exploit&nbsp;is a painful...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Up to 11 Million People Hit by MOVEit Hack at Government Services Firm Maximus<a href="https://www.securityweek.com/up-to-11-million-people-hit-by-moveit-hack-at-government-services-firm-maximus/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Maximus, the attackers stole files containing personal information and protected health information, including Social Security numbers, “of at least 8 to 11 million individuals”.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

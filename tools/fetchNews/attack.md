@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Apache Tomcat Servers for Mirai Botnet and Crypto Mining<a href="https://thehackernews.com/2023/07/hackers-target-apache-tomcat-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Misconfigured and poorly secured Apache Tomcat servers are being targeted as part of a new campaign designed to deliver the&nbsp; Mirai botnet malware &nbsp;and cryptocurrency miners. The findings come courtesy of Aqua, which detected more than 800 attacks against its Tomcat server honeypots over a two-year time period, with 96% of the attacks linked to the Mirai botnet. Of these attack attempts, 20% (or 152) entailed the use of a web shell script dubbed "neww" that originated from 24 unique IP addresses, with 68% of them originating from a single IP address (104.248.157[.]218). "The threat actor scanned for Tomcat servers and launched a brute force attack against it, attempting to gain access to the Tomcat web application manager by trying different combinations of credentials associated with it," Aqua security researcher Nitzan Yaakov&nbsp; said . Upon gaining a successful foothold, the threat actors have been observed deploying a&nbsp; WAR file &nbsp;that contains a malicious web s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

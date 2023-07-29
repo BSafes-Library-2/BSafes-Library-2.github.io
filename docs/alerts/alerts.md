@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023 - ACSC, NSA, CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and Partners Release Joint Cybersecurity Advisory on Preventing Web Application Access Control Abuse <a href="https://www.cisa.gov/resources-tools/resources/risk-and-vulnerability-assessments"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Signals Directorate’s Australian Cyber Security Centre (ACSC), the Cybersecurity and Infrastructure Security Agency (CISA), and the National Security Agency (NSA) are releasing a joint Cybersecurity Advisory (CSA), Preventing Web Application Access Control Abuse, to warn vendors, designers, developers, and end-user organizations of web applications about insecure direct object reference (IDOR) vulnerabilities. These vulnerabilities are frequently exploited by malicious actors in data breach incidents and have resulted in the compromise of personal, financial, and health information of millions of users and consumers.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 26, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

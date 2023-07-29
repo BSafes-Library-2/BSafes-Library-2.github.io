@@ -8,6 +8,35 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+July 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monitor Insider Threats but Build Trust First<a href="https://securityaffairs.com/148893/security/insider-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue of how to prevent insider threats without infringing on employee privacy is one that has been a hot topic of debate in recent years.
+Because insider threats are uniquely challenging to detect and identify, different methods are needed than...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA to Establish Network of Regional Election Advisers for 2024<a href="https://therecord.media/election-security-advisers-network-cisa-2024?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Announced by Director Jen Easterly on Tuesday, the 10 advisers will support election officials working in their respective areas in an effort to “build even stronger connective tissue between state and local election officials and … CISA.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

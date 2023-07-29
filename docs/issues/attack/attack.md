@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+July 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Abusing Windows Search Feature to Install Remote Access Trojans<a href="https://thehackernews.com/2023/07/hackers-abusing-windows-search-feature.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A legitimate Windows search feature is being exploited by malicious actors to download arbitrary payloads from remote servers and compromise targeted systems with remote access trojans such as AsyncRAT and Remcos RAT. The novel attack technique, per Trellix, takes advantage of the " search-ms: " URI protocol handler, which offers the ability for applications and HTML links to launch custom local searches on a device, and the " search: " application protocol, a mechanism for calling the desktop search application on Windows. "Attackers are directing users to websites that exploit the 'search-ms' functionality using JavaScript hosted on the page," security researchers Mathanraj Thangaraju and Sijo Jacob&nbsp; said &nbsp;in a Thursday write-up. "This technique has even been extended to HTML attachments, expanding the attack surface." In such attacks, threat actors have been observed creating deceptive emails that embed hyperlinks or&nbsp; HTML attachme
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueBravo Deploys GraphicalProton Backdoor Against European Diplomatic Entities<a href="https://thehackernews.com/2023/07/bluebravo-deploys-graphicalproton.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian nation-state actor known as&nbsp; BlueBravo &nbsp;has been observed targeting diplomatic entities throughout Eastern Europe with the goal of delivering a new backdoor called GraphicalProton, exemplifying the continuous evolution of the threat. The phishing campaign is characterized by the use of legitimate internet services (LIS) for command-and-control (C2) obfuscation, Recorded Future said in a new report published Thursday. The activity was observed between March and May 2023. BlueBravo , also known by the names APT29, Cloaked Ursa, and Midnight Blizzard (formerly Nobelium), is attributed to Russia's Foreign Intelligence Service (SVR), and has in the past&nbsp; used &nbsp;Dropbox, Firebase, Google Drive, Notion, and Trello to evade detection and stealthily establish communications with infected hosts. To that end, GraphicalProton is the latest addition to a long list of malware targeting diplomatic organizations after&nbsp; GraphicalNeutrino &nbsp;(aka SNOWYAMBER),&nbsp; HALFRIG, and QUARTERRIG .
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
