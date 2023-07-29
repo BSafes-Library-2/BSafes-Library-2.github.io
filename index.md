@@ -34,6 +34,266 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOD, OMB expect September release of proposed CMMC rule<a href="https://www.nextgov.com/cybersecurity/2023/07/dod-omb-expect-september-release-proposed-cmmc-rule/388834/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rule has been delayed several times as the DOD revamp its approach, including changing to the longer proposed rule-making process. Originally, the expectation was that CMMC would come out as an interim final rule to be finalized in 60 days.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IcedID Malware Adapts and Expands Threat with Updated BackConnect Module<a href="https://thehackernews.com/2023/07/icedid-malware-adapts-and-expands.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors linked to the malware loader known as IcedID have made updates to the BackConnect (BC) module that's used for post-compromise activity on hacked systems, new findings from Team Cymru reveal. IcedID, also called BokBot , is a strain of malware similar to  Emotet  and  QakBot  that started off as a banking trojan in 2017, before switching to the role of an initial access facilitator for other payloads. Recent versions of the malware have been  observed  removing functionality related to online banking fraud to prioritize ransomware delivery. The BackConnect (BC) module,  first documented  by Netresec in October 2022, relies on a proprietary command-and-control (C2) protocol to exchange commands between a server and the infected host. The protocol, which comes with a VNC component for remote access, has also been identified in other malware such as the now-discontinued  BazarLoader  and QakBot. In December 2022, Team Cymru  reported  the discovery of 11 BC C2s a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT BlueBravo targets diplomatic entities with GraphicalProton backdoor<a href="https://securityaffairs.com/148920/apt/bluebravo-graphicalproton-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked BlueBravo has been spotted targeting diplomatic entities in Eastern Europe with the GraphicalProton Backdoor.
+The Russia-linked threat-state actor BlueBravo (aka APT29, Cloaked Ursa, and Midnight Blizzard, Nobelium) has been observed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Innovative Attack Methodology Leverages the "search-ms" URI Protocol Handler<a href="https://www.trellix.com/en-us/about/newsroom/stories/research/beyond-file-search-a-novel-method.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A legitimate Windows search feature could be exploited by malicious actors to download arbitrary payloads from remote servers and compromise targeted systems with remote access trojans such as AsyncRAT and Remcos RAT.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+STARK#MULE Targets Koreans with U.S. Military-themed Document Lures<a href="https://thehackernews.com/2023/07/starkmule-targets-koreans-with-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing cyber attack campaign has set its sights on Korean-speaking individuals by employing U.S. Military-themed document lures to trick them into running malware on compromised systems. Cybersecurity firm Securonix is tracking the activity under the name  STARK#MULE . "Based on the source and likely targets, these types of attacks are on par with past attacks stemming from typical North Korean groups such as APT37 as South Korea has historically been a primary target of the group, especially its government officials," security researchers Den Iuzvyk, Tim Peck, and Oleg Kolesnikov said in a report shared with The Hacker News. APT37, also known by the names Nickel Foxcroft, Reaper, Ricochet Chollima, and ScarCruft, is a  North Korean nation-state actor  that's known to exclusively focus on targets in its southern counterpart, specifically those involved in reporting on North Korea and supporting defectors. Attack chains mounted by the group have historically reli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CoinsPaid blames North Korea-linked APT Lazarus for theft of $37M worth of cryptocurrency<a href="https://securityaffairs.com/148895/cyber-crime/coinspaid-cyber-heist.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto-payments service provider CoinsPaid suffered a cyber attack that resulted in the theft of $37,200,000 worth of cryptocurrency.
+CoinsPaid, a crypto-payment service provider, fell victim to a cyber attack, leading to the theft of $37,200,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nitrogen Malvertising - Sneaky Malware in Search Ads<a href="https://cyware.com/news/nitrogen-malvertising-sneaky-malware-in-search-ads-ea2339c6"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently detected malvertising campaign, known as Nitrogen, has been discovered exploiting  Google Search  and Bing ads to target users searching for IT tools. The  Nitrogen campaign  predominantly focuses on technology and non-profit organizations in North America. It operates by posing as inst ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Data Exfiltration Attack Scenario: The Porsche Experience<a href="https://thehackernews.com/2023/07/a-data-exfiltration-attack-scenario.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of  Checkmarx's mission  to help organizations develop and deploy secure software, the Security Research team started looking at the security posture of major car manufacturers. Porsche has a well-established Vulnerability Reporting Policy (Disclosure Policy) [1] , it was considered in scope for our research, so we decided to start there, and see what we could find. What we found is an attack scenario that results from chaining security issues found on different Porsche's assets, a website and a GraphQL API, that could lead to data exfiltration. Data exfiltration is an attack technique that can impact businesses and organizations, regardless of size. When malicious users breach a company's or organization's systems and exfiltrate data, it can be a jarring and business-critical moment. Porsche has a diverse online presence - deploying several microsites, websites, and web applications. The Porsche Experience [2] is one website that allows registered users to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monitor Insider Threats but Build Trust First<a href="https://securityaffairs.com/148893/security/insider-threats.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue of how to prevent insider threats without infringing on employee privacy is one that has been a hot topic of debate in recent years.
+Because insider threats are uniquely challenging to detect and identify, different methods are needed than...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA to Establish Network of Regional Election Advisers for 2024<a href="https://therecord.media/election-security-advisers-network-cisa-2024?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Announced by Director Jen Easterly on Tuesday, the 10 advisers will support election officials working in their respective areas in an effort to “build even stronger connective tissue between state and local election officials and … CISA.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Abusing Windows Search Feature to Install Remote Access Trojans<a href="https://thehackernews.com/2023/07/hackers-abusing-windows-search-feature.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A legitimate Windows search feature is being exploited by malicious actors to download arbitrary payloads from remote servers and compromise targeted systems with remote access trojans such as AsyncRAT and Remcos RAT. The novel attack technique, per Trellix, takes advantage of the " search-ms: " URI protocol handler, which offers the ability for applications and HTML links to launch custom local searches on a device, and the " search: " application protocol, a mechanism for calling the desktop search application on Windows. "Attackers are directing users to websites that exploit the 'search-ms' functionality using JavaScript hosted on the page," security researchers Mathanraj Thangaraju and Sijo Jacob  said  in a Thursday write-up. "This technique has even been extended to HTML attachments, expanding the attack surface." In such attacks, threat actors have been observed creating deceptive emails that embed hyperlinks or  HTML attachme
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Related CherryBlos and FakeTrade Android Malware Involved in Scam Campaigns<a href="https://www.trendmicro.com/en_us/research/23/g/cherryblos-and-faketrade-android-malware-involved-in-scam-campai.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CherryBlos malware steals cryptocurrency wallet credentials and replaces withdrawal addresses, while the FakeTrade malware tricks users into downloading apps that promise increased income but prevent fund withdrawals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueBravo Deploys GraphicalProton Backdoor Against European Diplomatic Entities<a href="https://thehackernews.com/2023/07/bluebravo-deploys-graphicalproton.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian nation-state actor known as  BlueBravo  has been observed targeting diplomatic entities throughout Eastern Europe with the goal of delivering a new backdoor called GraphicalProton, exemplifying the continuous evolution of the threat. The phishing campaign is characterized by the use of legitimate internet services (LIS) for command-and-control (C2) obfuscation, Recorded Future said in a new report published Thursday. The activity was observed between March and May 2023. BlueBravo , also known by the names APT29, Cloaked Ursa, and Midnight Blizzard (formerly Nobelium), is attributed to Russia's Foreign Intelligence Service (SVR), and has in the past  used  Dropbox, Firebase, Google Drive, Notion, and Trello to evade detection and stealthily establish communications with infected hosts. To that end, GraphicalProton is the latest addition to a long list of malware targeting diplomatic organizations after  GraphicalNeutrino  (aka SNOWYAMBER),  HALFRIG, and QUARTERRIG .
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Security Flaw Discovered in Metabase BI Software – Urgent Update Required<a href="https://thehackernews.com/2023/07/major-security-flaw-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of Metabase, a popular business intelligence and data visualization software package, are being advised to update to the latest version following the discovery of an "extremely severe" flaw that could result in pre-authenticated remote code execution on affected installations. Tracked as CVE-2023-38646 , the issue impacts open-source editions prior to 0.46.6.1 and Metabase Enterprise versions before 1.46.6.1. "An unauthenticated attacker can run arbitrary commands with the same privileges as the Metabase server on the server you are running Metabase on," Metabase said in an advisory released last week. The issue has also been addressed in the following older versions - 0.45.4.1 and 1.45.4.1 0.44.7.1 and 1.44.7.1, and 0.43.7.2 and 1.43.7.2 While there is no evidence that the issue has been exploited in the wild, data gathered by the Shadowserver Foundation shows that 5,488 out of the total 6,936 Metabase instances are vulnerable as of July 26, 202
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Agencies Warn Against IDOR Bugs Exploited for Data Breaches<a href="https://thehackernews.com/2023/07/cybersecurity-agencies-warn-against.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies in Australia and the U.S. have  published  a joint cybersecurity advisory warning against security flaws in web applications that could be exploited by malicious actors to orchestrate data breach incidents and steal confidential data. This includes a specific class of bugs called Insecure Direct Object Reference ( IDOR ), a type of access control flaw that occurs when an application utilizes user-supplied input or an identifier for direct access to an internal resource, such as a database record, without any additional validations. A  typical example  of an IDOR flaw is the ability of a user to trivially change the URL (e.g., https://example[.]site/details.php?id= 12345 ) to obtain unauthorized data of another transaction (i.e., https://example[.]site/details.php?id= 67890 ). "IDOR vulnerabilities are access control vulnerabilities enabling malicious actors to modify or delete data or access sensitive data by issuing requests to a website or a web appli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GROUP-IB Co-Founder ILYA SACHKOV SENTENCED TO 14 YEARS IN A STRICT PRISON COLONY<a href="https://securityaffairs.com/148866/intelligence/group-ib-former-ceo-sachkov-prison.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ilya Sachkov, former CEO and co-founder of Group-IB was sentenced to 14 years in a high security prison colony according to the Moscow court announcement.
+As per the announcement from the Moscow court, Ilya Sachkov, the former CEO and co-founder of Group-IB,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 27, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
