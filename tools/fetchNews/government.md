@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+July 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOD, OMB expect September release of proposed CMMC rule<a href="https://www.nextgov.com/cybersecurity/2023/07/dod-omb-expect-september-release-proposed-cmmc-rule/388834/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rule has been delayed several times as the DOD revamp its approach, including changing to the longer proposed rule-making process. Originally, the expectation was that CMMC would come out as an interim final rule to be finalized in 60 days.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Agencies Warn Against IDOR Bugs Exploited for Data Breaches<a href="https://thehackernews.com/2023/07/cybersecurity-agencies-warn-against.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies in Australia and the U.S. have&nbsp; published &nbsp;a joint cybersecurity advisory warning against security flaws in web applications that could be exploited by malicious actors to orchestrate data breach incidents and steal confidential data. This includes a specific class of bugs called Insecure Direct Object Reference ( IDOR ), a type of access control flaw that occurs when an application utilizes user-supplied input or an identifier for direct access to an internal resource, such as a database record, without any additional validations. A&nbsp; typical example &nbsp;of an IDOR flaw is the ability of a user to trivially change the URL (e.g., https://example[.]site/details.php?id= 12345 ) to obtain unauthorized data of another transaction (i.e., https://example[.]site/details.php?id= 67890 ). "IDOR vulnerabilities are access control vulnerabilities enabling malicious actors to modify or delete data or access sensitive data by issuing requests to a website or a web appli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

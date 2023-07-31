@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CoinsPaid Blames North Korea-Linked APT Lazarus for Theft of $37M Worth of Cryptocurrency<a href="https://securityaffairs.com/148895/cyber-crime/coinspaid-cyber-heist.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“On July 22nd, CoinsPaid experienced a hacker attack, resulting in the theft of USD 37.3M,” reads the announcement published by the company. “We believe Lazarus expected the attack on CoinsPaid to be much more successful.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

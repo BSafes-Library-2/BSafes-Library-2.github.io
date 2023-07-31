@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+July 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT BlueBravo targets diplomatic entities with GraphicalProton backdoor<a href="https://securityaffairs.com/148920/apt/bluebravo-graphicalproton-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked BlueBravo has been spotted targeting diplomatic entities in Eastern Europe with the GraphicalProton Backdoor.
+The Russia-linked threat-state actor BlueBravo (aka APT29, Cloaked Ursa, and Midnight Blizzard, Nobelium)&nbsp;has been observed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+July 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Deploy "SUBMARINE" Backdoor in Barracuda Email Security Gateway Attacks<a href="https://thehackernews.com/2023/07/hackers-deploy-submarine-backdoor-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday disclosed details of a "novel persistent backdoor" called&nbsp; SUBMARINE &nbsp;deployed by threat actors in connection with the hack on Barracuda Email Security Gateway (ESG) appliances. "SUBMARINE comprises multiple artifacts — including a SQL trigger, shell scripts, and a loaded library for a Linux daemon — that together enable execution with root privileges, persistence, command and control, and cleanup," the agency&nbsp; said . The findings come from an analysis of malware samples obtained from an unnamed organization that had been compromised by threat actors exploiting a critical flaw in ESG devices,&nbsp; CVE-2023-2868 &nbsp;(CVSS score: 9.8), which allows for remote command injection. Evidence gathered so far shows that the attackers behind the activity, a suspected China nexus-actor tracked by Mandiant as&nbsp; UNC4841 , leveraged the flaw as a zero-day in October 2022 to gain initial access to victim envir
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns about SUBMARINE Backdoor employed in Barracuda ESG attacks<a href="https://securityaffairs.com/148942/malware/submarine-backdoor-barracuda-esg-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warns of threat actors deploying the SUBMARINE Backdoor in Barracuda ESG attacks.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) published an alert on a malware variant,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

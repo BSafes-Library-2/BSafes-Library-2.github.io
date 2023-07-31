@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+July 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RFP Template for Browser Security<a href="https://thehackernews.com/2023/07/rfp-template-for-browser-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Increasing cyber threats and attacks have made protecting organizational data a paramount concern for businesses of all sizes. A group of experts have recognized the pressing need for comprehensive browser security solutions and collaborated to develop "The Definitive&nbsp; Browser Security RFP Template . " This resource helps streamline the process of evaluating and procuring browser security platforms. It provides organizations with a standardized approach to enhance their security posture by protecting the key employee workspace - the browser. The Importance of a Standardized RFP Template The RFP (Request for Proposal) template offers numerous advantages for organizations seeking robust browser security solutions. By promoting standardization, the RFP template ensures a consistent structure and format for proposals, saving time and effort for both the procurement team and vendors. Moreover, it facilitates clear and specific instructions to vendors, resulting in higher-qualit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Sets New Rules for Developers to Prevent Fingerprinting and Data Misuse<a href="https://thehackernews.com/2023/07/apple-sets-new-rules-for-developers-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has announced plans to require developers to submit reasons to use certain APIs in their apps starting later this year with the release of iOS 17, iPadOS 17, macOS Sonoma, tvOS 17, and watchOS 10 to prevent their abuse for data collection. "This will help ensure that apps only use these APIs for their intended purpose," the company&nbsp; said &nbsp;in a statement. "As part of this process, you'll need to select one or more approved reasons that accurately reflect how your app uses the API, and your app can only use the API for the reasons you've selected." The APIs that&nbsp; require &nbsp;reasons for use relate to the following - File timestamp APIs System boot time APIs Disk space APIs Active keyboard APIs, and User defaults APIs The iPhone maker said it's making the move to ensure that such APIs are not abused by app developers to collect device signals to carry out&nbsp; fingerprinting , which could be employed to&nbsp; uniquely identify users &nbsp;across different a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

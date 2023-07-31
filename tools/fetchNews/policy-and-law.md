@@ -11,6 +11,21 @@ nav_order: 900163
 July 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+GROUP-IB Co-Founder ILYA SACHKOV SENTENCED TO 14 YEARS IN A STRICT PRISON COLONY<a href="https://securityaffairs.com/148866/intelligence/group-ib-former-ceo-sachkov-prison.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ilya Sachkov, former CEO and co-founder of Group-IB was sentenced to 14 years in a high security prison colony according to the Moscow court announcement.
+As per the announcement from the Moscow court, Ilya Sachkov, the former CEO and co-founder of Group-IB,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Group-IB CEO Ilya Sachkov sentenced to 14 years in a strict prison colony<a href="https://securityaffairs.com/148866/intelligence/group-ib-ceo-sachkov-prison.html"> Full Text</a>
 </p>
 <details>

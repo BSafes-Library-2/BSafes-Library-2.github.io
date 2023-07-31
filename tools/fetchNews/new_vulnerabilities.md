@@ -8,6 +8,63 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New flaw in Ivanti Endpoint Manager Mobile actively exploited in the wild<a href="https://securityaffairs.com/148957/hacking/ivanti-epmm-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software firm Ivanti disclosed another security vulnerability impacting Endpoint Manager Mobile (EPMM), that it said actively exploited.
+Ivanti disclosed a new security vulnerability impacting Endpoint Manager Mobile (EPMM), tracked as CVE-2023-35081&nbsp;(CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploitation of Recent Citrix ShareFile RCE Vulnerability Begins<a href="https://www.securityweek.com/exploitation-of-recent-citrix-sharefile-rce-vulnerability-begins/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2023-24489 (CVSS score of 9.1), was the result of errors leading to unauthenticated file upload, which could then be exploited to obtain RCE, says security firm Assetnote, which identified and reported the bug.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Weintek Weincloud Vulnerabilities Allowed Manipulation, Damaging of ICS Devices<a href="https://www.securityweek.com/weintek-weincloud-vulnerabilities-allowed-manipulation-damaging-of-ics-devices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several vulnerabilities discovered by a researcher from industrial cybersecurity firm TXOne Networks in a Weintek product could have been exploited to manipulate and damage industrial control systems (ICS).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti Warns of Another Endpoint Manager Mobile Vulnerability Under Active Attack<a href="https://thehackernews.com/2023/07/ivanti-warns-of-another-endpoint.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti has disclosed yet another security flaw impacting Endpoint Manager Mobile (EPMM), formerly known as MobileIron Core, that it said has been weaponized as part of an exploit chain by malicious actors in the wild. The new vulnerability, tracked as&nbsp; CVE-2023-35081 &nbsp;(CVSS score: 7.8), impacts supported versions 11.10, 11.9, and 11.8, as well as those that are currently end-of-life (EoL). "CVE-2023-35081 enables an authenticated administrator to perform arbitrary file writes to the EPMM server," the company&nbsp; said &nbsp;in an advisory. "This vulnerability can be used in conjunction with&nbsp; CVE-2023-35078 , bypassing administrator authentication and ACLs restrictions (if applicable)." A successful exploit could allow a threat actor to write arbitrary files on the appliance, thereby enabling the malicious party to execute OS commands on the appliance as the tomcat user. "As of now we are only aware of the same limited number of customers impacted by CVE-2023-35078
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

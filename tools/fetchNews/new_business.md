@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coro Buys Privatise to Infuse SASE With Network Connectivity<a href="https://www.bankinfosecurity.com/coro-buys-privatise-to-infuse-sase-network-connectivity-a-22674?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The New York-based company said its acquisition of Jerusalem-based Privatise will provide Coro clients with a secure way to connect, manage and filter out malicious content, according to co-founder Dror Liwer.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CoinsPaid blames North Korea-linked APT Lazarus for theft of $37M worth of cryptocurrency<a href="https://securityaffairs.com/148895/cyber-crime/coinspaid-cyber-heist.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto-payments service provider CoinsPaid suffered a cyber attack that resulted in the theft of $37,200,000 worth of cryptocurrency.
+CoinsPaid, a crypto-payment service provider, fell victim to a cyber attack, leading to the theft of $37,200,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

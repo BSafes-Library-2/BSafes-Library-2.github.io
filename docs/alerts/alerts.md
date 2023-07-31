@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 28, 2023 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Malware Analysis Reports on Barracuda Backdoors <a href="https://www.cisa.gov/news-events/alerts/2023/07/28/cisa-releases-malware-analysis-reports-barracuda-backdoors"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has published three malware analysis reports on malware variants associated with exploitation of CVE-2023-2868. CVE-2023-2868 is a remote command injection vulnerability affecting Barracuda Email Security Gateway (ESG) Appliance, versions 5.1.3.001-9.2.0.006. It was exploited as a zero day as early as October 2022 to gain access to ESG appliances. According to industry reporting, the actors exploited the vulnerability to gain initial access to victim systems and then implanted backdoors to establish and maintain persistence.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 27, 2023 - ACSC, NSA, CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

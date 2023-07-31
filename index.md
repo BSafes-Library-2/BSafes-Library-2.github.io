@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2023
+July 30, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 In 2022, more than 40% of zero-day exploits used in the wild were variations of previous issues<a href="https://securityaffairs.com/148965/hacking/zero-day-2022-google-report.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2023
+July 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New flaw in Ivanti Endpoint Manager Mobile actively exploited in the wild<a href="https://securityaffairs.com/148957/hacking/ivanti-epmm-flaw.html"> Full Text</a>
@@ -68,7 +68,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2023
+July 30, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 430 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/148955/breaking-news/security-affairs-newsletter-round-430-by-pierluigi-paganini-international-edition.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2023
+July 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploitation of Recent Citrix ShareFile RCE Vulnerability Begins<a href="https://www.securityweek.com/exploitation-of-recent-citrix-sharefile-rce-vulnerability-begins/?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2023
+July 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android Malware CherryBlos Utilizing OCR to Steal Sensitive Data<a href="https://thehackernews.com/2023/07/new-android-malware-cherryblos.html"> Full Text</a>
@@ -118,7 +118,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2023
+July 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: More Malicious NPM Packages Found in Wake of Jumpcloud Supply Chain Hack<a href="https://www.reversinglabs.com/blog/more-malicious-npm-packages-found-in-wake-of-jumpcloud-supply-chain-hack?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2023
+July 29, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RFP Template for Browser Security<a href="https://thehackernews.com/2023/07/rfp-template-for-browser-security.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2023
+July 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CoinsPaid Blames North Korea-Linked APT Lazarus for Theft of $37M Worth of Cryptocurrency<a href="https://securityaffairs.com/148895/cyber-crime/coinspaid-cyber-heist.html?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2023
+July 29, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Sets New Rules for Developers to Prevent Fingerprinting and Data Misuse<a href="https://thehackernews.com/2023/07/apple-sets-new-rules-for-developers-to.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2023
+July 29, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coro Buys Privatise to Infuse SASE With Network Connectivity<a href="https://www.bankinfosecurity.com/coro-buys-privatise-to-infuse-sase-network-connectivity-a-22674?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2023
+July 29, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Deploy "SUBMARINE" Backdoor in Barracuda Email Security Gateway Attacks<a href="https://thehackernews.com/2023/07/hackers-deploy-submarine-backdoor-in.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2023
+July 29, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA warns about SUBMARINE Backdoor employed in Barracuda ESG attacks<a href="https://securityaffairs.com/148942/malware/submarine-backdoor-barracuda-esg-attacks.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2023
+July 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Weintek Weincloud Vulnerabilities Allowed Manipulation, Damaging of ICS Devices<a href="https://www.securityweek.com/weintek-weincloud-vulnerabilities-allowed-manipulation-damaging-of-ics-devices/?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2023
+July 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ivanti Warns of Another Endpoint Manager Mobile Vulnerability Under Active Attack<a href="https://thehackernews.com/2023/07/ivanti-warns-of-another-endpoint.html"> Full Text</a>
@@ -263,7 +263,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2023
+July 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Now Abyss Locker also targets VMware ESXi servers<a href="https://securityaffairs.com/148933/malware/abyss-locker-vmware-esxi.html"> Full Text</a>

@@ -8,6 +8,37 @@ nav_order: 900072
 
 ## General
 ---
+July 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In 2022, more than 40% of zero-day exploits used in the wild were variations of previous issues<a href="https://securityaffairs.com/148965/hacking/zero-day-2022-google-report.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Threat Analysis Group Google states that more than 40% of zero-day flaws discovered in 2022 were variants of previous issues.
+The popular Threat Analysis Group (TAG) Maddie Stone wrote Google’s fourth annual year-in-review of zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 430 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/148955/breaking-news/security-affairs-newsletter-round-430-by-pierluigi-paganini-international-edition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+Now...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
