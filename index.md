@@ -34,6 +34,253 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In 2022, more than 40% of zero-day exploits used in the wild were variations of previous issues<a href="https://securityaffairs.com/148965/hacking/zero-day-2022-google-report.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google’s Threat Analysis Group Google states that more than 40% of zero-day flaws discovered in 2022 were variants of previous issues.
+The popular Threat Analysis Group (TAG) Maddie Stone wrote Google’s fourth annual year-in-review of zero-day...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New flaw in Ivanti Endpoint Manager Mobile actively exploited in the wild<a href="https://securityaffairs.com/148957/hacking/ivanti-epmm-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software firm Ivanti disclosed another security vulnerability impacting Endpoint Manager Mobile (EPMM), that it said actively exploited.
+Ivanti disclosed a new security vulnerability impacting Endpoint Manager Mobile (EPMM), tracked as CVE-2023-35081 (CVSS...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 430 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/148955/breaking-news/security-affairs-newsletter-round-430-by-pierluigi-paganini-international-edition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+Now...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploitation of Recent Citrix ShareFile RCE Vulnerability Begins<a href="https://www.securityweek.com/exploitation-of-recent-citrix-sharefile-rce-vulnerability-begins/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2023-24489 (CVSS score of 9.1), was the result of errors leading to unauthenticated file upload, which could then be exploited to obtain RCE, says security firm Assetnote, which identified and reported the bug.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android Malware CherryBlos Utilizing OCR to Steal Sensitive Data<a href="https://thehackernews.com/2023/07/new-android-malware-cherryblos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android malware strain called  CherryBlos  has been observed making use of optical character recognition (OCR) techniques to gather sensitive data stored in pictures. CherryBlos, per  Trend Micro , is distributed via bogus posts on social media platforms and comes with capabilities to steal cryptocurrency wallet-related credentials and act as a  clipper  to substitute wallet addresses when a victim copies a string matching a predefined format is copied to the clipboard. Once installed, the apps seek users' permissions to grant it accessibility permissions, which allows it to automatically grant itself additional permissions as required. As a defense evasion measure, users attempting to kill or uninstall the app by entering the Settings app are redirected back to the home screen. Besides displaying fake overlays on top of legitimate crypto wallet apps to steal credentials and make fraudulent fund transfers to an attacker-controlled address, CherryBlos utilizes OCR to recog
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: More Malicious NPM Packages Found in Wake of Jumpcloud Supply Chain Hack<a href="https://www.reversinglabs.com/blog/more-malicious-npm-packages-found-in-wake-of-jumpcloud-supply-chain-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation by ReversingLabs researchers has uncovered evidence of more malicious npm packages, with links to the same infrastructure that also appear to target cryptocurrency providers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RFP Template for Browser Security<a href="https://thehackernews.com/2023/07/rfp-template-for-browser-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Increasing cyber threats and attacks have made protecting organizational data a paramount concern for businesses of all sizes. A group of experts have recognized the pressing need for comprehensive browser security solutions and collaborated to develop "The Definitive  Browser Security RFP Template . " This resource helps streamline the process of evaluating and procuring browser security platforms. It provides organizations with a standardized approach to enhance their security posture by protecting the key employee workspace - the browser. The Importance of a Standardized RFP Template The RFP (Request for Proposal) template offers numerous advantages for organizations seeking robust browser security solutions. By promoting standardization, the RFP template ensures a consistent structure and format for proposals, saving time and effort for both the procurement team and vendors. Moreover, it facilitates clear and specific instructions to vendors, resulting in higher-qualit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CoinsPaid Blames North Korea-Linked APT Lazarus for Theft of $37M Worth of Cryptocurrency<a href="https://securityaffairs.com/148895/cyber-crime/coinspaid-cyber-heist.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“On July 22nd, CoinsPaid experienced a hacker attack, resulting in the theft of USD 37.3M,” reads the announcement published by the company. “We believe Lazarus expected the attack on CoinsPaid to be much more successful.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Sets New Rules for Developers to Prevent Fingerprinting and Data Misuse<a href="https://thehackernews.com/2023/07/apple-sets-new-rules-for-developers-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has announced plans to require developers to submit reasons to use certain APIs in their apps starting later this year with the release of iOS 17, iPadOS 17, macOS Sonoma, tvOS 17, and watchOS 10 to prevent their abuse for data collection. "This will help ensure that apps only use these APIs for their intended purpose," the company  said  in a statement. "As part of this process, you'll need to select one or more approved reasons that accurately reflect how your app uses the API, and your app can only use the API for the reasons you've selected." The APIs that  require  reasons for use relate to the following - File timestamp APIs System boot time APIs Disk space APIs Active keyboard APIs, and User defaults APIs The iPhone maker said it's making the move to ensure that such APIs are not abused by app developers to collect device signals to carry out  fingerprinting , which could be employed to  uniquely identify users  across different a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coro Buys Privatise to Infuse SASE With Network Connectivity<a href="https://www.bankinfosecurity.com/coro-buys-privatise-to-infuse-sase-network-connectivity-a-22674?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The New York-based company said its acquisition of Jerusalem-based Privatise will provide Coro clients with a secure way to connect, manage and filter out malicious content, according to co-founder Dror Liwer.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Deploy "SUBMARINE" Backdoor in Barracuda Email Security Gateway Attacks<a href="https://thehackernews.com/2023/07/hackers-deploy-submarine-backdoor-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday disclosed details of a "novel persistent backdoor" called  SUBMARINE  deployed by threat actors in connection with the hack on Barracuda Email Security Gateway (ESG) appliances. "SUBMARINE comprises multiple artifacts — including a SQL trigger, shell scripts, and a loaded library for a Linux daemon — that together enable execution with root privileges, persistence, command and control, and cleanup," the agency  said . The findings come from an analysis of malware samples obtained from an unnamed organization that had been compromised by threat actors exploiting a critical flaw in ESG devices,  CVE-2023-2868  (CVSS score: 9.8), which allows for remote command injection. Evidence gathered so far shows that the attackers behind the activity, a suspected China nexus-actor tracked by Mandiant as  UNC4841 , leveraged the flaw as a zero-day in October 2022 to gain initial access to victim envir
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA warns about SUBMARINE Backdoor employed in Barracuda ESG attacks<a href="https://securityaffairs.com/148942/malware/submarine-backdoor-barracuda-esg-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warns of threat actors deploying the SUBMARINE Backdoor in Barracuda ESG attacks.
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) published an alert on a malware variant,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Weintek Weincloud Vulnerabilities Allowed Manipulation, Damaging of ICS Devices<a href="https://www.securityweek.com/weintek-weincloud-vulnerabilities-allowed-manipulation-damaging-of-ics-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several vulnerabilities discovered by a researcher from industrial cybersecurity firm TXOne Networks in a Weintek product could have been exploited to manipulate and damage industrial control systems (ICS).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti Warns of Another Endpoint Manager Mobile Vulnerability Under Active Attack<a href="https://thehackernews.com/2023/07/ivanti-warns-of-another-endpoint.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti has disclosed yet another security flaw impacting Endpoint Manager Mobile (EPMM), formerly known as MobileIron Core, that it said has been weaponized as part of an exploit chain by malicious actors in the wild. The new vulnerability, tracked as  CVE-2023-35081  (CVSS score: 7.8), impacts supported versions 11.10, 11.9, and 11.8, as well as those that are currently end-of-life (EoL). "CVE-2023-35081 enables an authenticated administrator to perform arbitrary file writes to the EPMM server," the company  said  in an advisory. "This vulnerability can be used in conjunction with  CVE-2023-35078 , bypassing administrator authentication and ACLs restrictions (if applicable)." A successful exploit could allow a threat actor to write arbitrary files on the appliance, thereby enabling the malicious party to execute OS commands on the appliance as the tomcat user. "As of now we are only aware of the same limited number of customers impacted by CVE-2023-35078
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Now Abyss Locker also targets VMware ESXi servers<a href="https://securityaffairs.com/148933/malware/abyss-locker-vmware-esxi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Linux variant of the Abyss Locker designed to target VMware ESXi servers appeared in the threat landscape, experts warn.
+The operators behind the Abyss Locker developed a Linux variant that targets VMware ESXi servers expanding their potential targets.
+VMware...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 28, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
