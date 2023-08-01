@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Unveils National Cyber Workforce Strategy<a href="https://www.bankinfosecurity.com/white-house-unveils-national-cyber-workforce-strategy-a-22696?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Cyber education and workforce development have not kept pace with demand and the rapid pace of technological change," says the strategy document. "Moreover, skills in demand in the cyber workforce are evolving."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

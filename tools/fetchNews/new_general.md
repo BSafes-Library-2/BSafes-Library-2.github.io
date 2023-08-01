@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blocking Access to ChatGPT is a Short Term Solution to Mitigate Risk<a href="https://www.helpnetsecurity.com/2023/07/28/chatgpt-exposure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For every 10,000 enterprise users, an enterprise organization is experiencing approximately 183 incidents of sensitive data being posted to ChatGPT per month, according to Netskope.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

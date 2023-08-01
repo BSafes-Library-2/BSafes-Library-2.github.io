@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+School Accreditation Organization Exposed Sensitive Information on Students, Parents, and Teachers Online<a href="https://www.websiteplanet.com/news/sais-breach-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unprotected database belonging to the Southern Association of Independent Schools (SAIS) was found exposing sensitive data on students, parents, and teachers, including health records, social security numbers, and confidential security reports.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

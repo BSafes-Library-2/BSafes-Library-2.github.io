@@ -8,6 +8,50 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+July 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three flaws in Ninja Forms plugin for WordPress impact 900K sites<a href="https://securityaffairs.com/148993/security/ninja-forms-plugin-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of vulnerabilities impacting the Ninja Forms plugin for WordPress that could be exploited for escalating privileges and data theft.
+The Ninja Forms plugin for WordPress is affected by multiple vulnerabilities (tracked as CVE-2023-37979,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn attackers started exploiting Citrix ShareFile RCE flaw CVE-2023-24489<a href="https://securityaffairs.com/148981/hacking/citrix-sharefile-cve-2023-24489-flaws-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that threat actors started exploiting Citrix ShareFile RCE vulnerability CVE-2023-24489 in the wild.
+Citrix ShareFile is a widely used cloud-based file-sharing application, which is affected by the critical remote code execution (RCE)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Flaws Found in Ninja Forms Plugin Leave 800,000 Sites Vulnerable<a href="https://thehackernews.com/2023/07/multiple-flaws-found-in-ninja-forms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in the Ninja Forms plugin for WordPress that could be exploited by threat actors to escalate privileges and steal sensitive data. The flaws, tracked as CVE-2023-37979, CVE-2023-38386, and CVE-2023-38393, impact versions 3.6.25 and below, Patchstack&nbsp; said &nbsp;in a report last week. Ninja Forms is installed on over 800,000 sites. A brief description of each of the vulnerabilities is below - CVE-2023-37979 &nbsp;(CVSS score: 7.1) - A POST-based reflected cross-site scripting (XSS) flaw that could allow any unauthenticated user to achieve privilege escalation on a target WordPress site by tricking privileged users to visit a specially crafted website. CVE-2023-38386 &nbsp;and&nbsp; CVE-2023-38393 &nbsp;- Broken access control flaws in the form submissions export feature that could enable a bad actor with Subscriber and Contributor roles to export all Ninja Forms submissions on a WordPress site. Users of the plugin are recommended to update to version
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

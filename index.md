@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House Unveils National Cyber Workforce Strategy<a href="https://www.bankinfosecurity.com/white-house-unveils-national-cyber-workforce-strategy-a-22696?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New P2PInfect Worm Targets Redis Servers with Undocumented Breach Methods<a href="https://thehackernews.com/2023/07/new-p2pinfect-worm-targets-redis.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts discovered a previously undocumented initial access vector used by P2PInfect worm<a href="https://securityaffairs.com/149012/malware/p2pinfect-worm-initial-access-vector.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blocking Access to ChatGPT is a Short Term Solution to Mitigate Risk<a href="https://www.helpnetsecurity.com/2023/07/28/chatgpt-exposure/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patchwork Hackers Target Chinese Research Organizations Using EyeShell Backdoor<a href="https://thehackernews.com/2023/07/patchwork-hackers-target-chinese.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts link AVRecon bot to the malware proxy service SocksEscort<a href="https://securityaffairs.com/149007/hacking/avrecon-bot-socksescort.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ztna can be More Than a VPN Replacement for Application Access<a href="https://www.helpnetsecurity.com/2023/07/28/ztna-adoption-vpn-replacement/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar: Riding the vCISO Wave: How to Provide vCISO Services<a href="https://thehackernews.com/2023/07/webinar-riding-vciso-wave-how-to.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three flaws in Ninja Forms plugin for WordPress impact 900K sites<a href="https://securityaffairs.com/148993/security/ninja-forms-plugin-flaws.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 School Accreditation Organization Exposed Sensitive Information on Students, Parents, and Teachers Online<a href="https://www.websiteplanet.com/news/sais-breach-report/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AVRecon Botnet Leveraging Compromised Routers to Fuel Illegal Proxy Service<a href="https://thehackernews.com/2023/07/avrecon-botnet-leveraging-compromised.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts warn attackers started exploiting Citrix ShareFile RCE flaw CVE-2023-24489<a href="https://securityaffairs.com/148981/hacking/citrix-sharefile-cve-2023-24489-flaws-attacks.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Jersey Supreme Court to Hear Merck Insurance Dispute Over NotPetya Attack<a href="https://www.cybersecuritydive.com/news/new-jersey-court-merck-insurers-notpetya/689315/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fruity Trojan Uses Deceptive Software Installers to Spread Remcos RAT<a href="https://thehackernews.com/2023/07/fruity-trojan-uses-deceptive-software.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware ESXi Servers Face New Threat from Abyss Locker<a href="https://cyware.com/news/vmware-esxi-servers-face-new-threat-from-abyss-locker-086083ce"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2023
+July 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Flaws Found in Ninja Forms Plugin Leave 800,000 Sites Vulnerable<a href="https://thehackernews.com/2023/07/multiple-flaws-found-in-ninja-forms.html"> Full Text</a>

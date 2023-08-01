@@ -34,6 +34,266 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Unveils National Cyber Workforce Strategy<a href="https://www.bankinfosecurity.com/white-house-unveils-national-cyber-workforce-strategy-a-22696?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Cyber education and workforce development have not kept pace with demand and the rapid pace of technological change," says the strategy document. "Moreover, skills in demand in the cyber workforce are evolving."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New P2PInfect Worm Targets Redis Servers with Undocumented Breach Methods<a href="https://thehackernews.com/2023/07/new-p2pinfect-worm-targets-redis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The P2PInfect peer-to-peer (P2) worm has been observed employing previously undocumented initial access methods to breach susceptible Redis servers and rope them into a botnet. "The malware compromises exposed instances of the Redis data store by exploiting the replication feature," Cado Security researchers Nate Bill and Matt Muir  said  in a report shared with The Hacker News. "A common attack pattern against Redis in cloud environments is to exploit this feature using a malicious instance to enable replication. This is achieved via connecting to an exposed Redis instance and issuing the SLAVEOF command." The Rust-based malware was  first documented  by Palo Alto Networks Unit 42, calling out the malware's ability to exploit a critical Lua sandbox escape vulnerability ( CVE-2022-0543 , CVSS score: 10.0) to obtain a foothold into Redis instances. The campaign is believed to have commenced on or after June 29, 2023. However, the latest discovery suggests th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts discovered a previously undocumented initial access vector used by P2PInfect worm<a href="https://securityaffairs.com/149012/malware/p2pinfect-worm-initial-access-vector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cado Security observed a new variant of the P2PInfect worm targets Redis servers with a previously undocumented initial access vector.
+In July, Palo Alto Networks Unit 42 researchers discovered a new peer-to-peer (P2P) worm called P2PInfect that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blocking Access to ChatGPT is a Short Term Solution to Mitigate Risk<a href="https://www.helpnetsecurity.com/2023/07/28/chatgpt-exposure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For every 10,000 enterprise users, an enterprise organization is experiencing approximately 183 incidents of sensitive data being posted to ChatGPT per month, according to Netskope.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patchwork Hackers Target Chinese Research Organizations Using EyeShell Backdoor<a href="https://thehackernews.com/2023/07/patchwork-hackers-target-chinese.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors associated with the hacking crew known as Patchwork have been spotted targeting universities and research organizations in China as part of a recently observed campaign. The activity, according to  KnownSec 404 Team , entailed the use of a backdoor codenamed  EyeShell . Patchwork , also known by the names Operation Hangover and Zinc Emerson, is suspected to be a threat group that operates on behalf of India. Active since at least December 2015, attack chains mounted by the outfit have a narrow focus and tend to single out Pakistan and China with custom implants such as BADNEWS via spear-phishing and watering hole attacks. The adversarial collective has been found to share tactical overlaps with other cyber-espionage groups with an Indian connection, including  SideWinder  and the  DoNot Team . Earlier this May, Meta  disclosed  that it took down 50 accounts on Facebook and Instagram operated by Patchwork, which took advantage of rogue messaging apps uploaded to the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts link AVRecon bot to the malware proxy service SocksEscort<a href="https://securityaffairs.com/149007/hacking/avrecon-bot-socksescort.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AVRecon botnet relies on compromised small office/home office (SOHO) routers since at least May 2021.
+In early July, researchers from Lumen Black Lotus Labs discovered the AVRecon botnet that targets small office/home office (SOHO) routers and infected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ztna can be More Than a VPN Replacement for Application Access<a href="https://www.helpnetsecurity.com/2023/07/28/ztna-adoption-vpn-replacement/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero Trust Network Access (ZTNA) should leverage contextual information, implement continuous authentication mechanisms, and be application-aware to make access decisions and reduce the risk of unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: Riding the vCISO Wave: How to Provide vCISO Services<a href="https://thehackernews.com/2023/07/webinar-riding-vciso-wave-how-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Demand for Virtual CISO services is soaring. According to Gartner, the use of vCISO services among small and mid-size businesses and non-regulated enterprises was expected to grow by a whopping 1900% in just one year, from only 1% in 2021 to 20% in 2022! Offering vCISO services can be especially attractive for MSPs and MSSPs. By addressing their customers' needs for proactive cyber resilience, they can generate a growing amount of recurring revenue from existing and new customers. And all while differentiating themselves from the competition. vCISO services also enable upselling of additional products and services the MSP or MSSP specializes in. However, not all MSPs and MSSPs fully understand how to provide vCISO services . Some may be unsure about which services are expected from them. Others may not realize they are already providing vCISO services and have the potential to effortlessly broaden their offerings into a complete vCISO suite or package it differently to make it more
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three flaws in Ninja Forms plugin for WordPress impact 900K sites<a href="https://securityaffairs.com/148993/security/ninja-forms-plugin-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of vulnerabilities impacting the Ninja Forms plugin for WordPress that could be exploited for escalating privileges and data theft.
+The Ninja Forms plugin for WordPress is affected by multiple vulnerabilities (tracked as CVE-2023-37979,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+School Accreditation Organization Exposed Sensitive Information on Students, Parents, and Teachers Online<a href="https://www.websiteplanet.com/news/sais-breach-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unprotected database belonging to the Southern Association of Independent Schools (SAIS) was found exposing sensitive data on students, parents, and teachers, including health records, social security numbers, and confidential security reports.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AVRecon Botnet Leveraging Compromised Routers to Fuel Illegal Proxy Service<a href="https://thehackernews.com/2023/07/avrecon-botnet-leveraging-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details have emerged about a botnet called  AVRecon , which has been observed making use of compromised small office/home office (SOHO) routers as part of a multi-year campaign active since at least May 2021. AVRecon was  first disclosed  by Lumen Black Lotus Labs earlier this month as malware capable of executing additional commands and stealing victim's bandwidth for what appears to be an illegal proxy service made available for other actors. It has also surpassed QakBot in terms of scale, having infiltrated over 41,000 nodes located across 20 countries worldwide. "The malware has been used to create residential proxy services to shroud malicious activity such as password spraying, web-traffic proxying, and ad fraud," the researchers said in the report. This has been corroborated by new findings from KrebsOnSecurity and Spur.us, which last week  revealed  that "AVrecon is the malware engine behind a 12-year-old service called SocksEscort, which rents hacke
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts warn attackers started exploiting Citrix ShareFile RCE flaw CVE-2023-24489<a href="https://securityaffairs.com/148981/hacking/citrix-sharefile-cve-2023-24489-flaws-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that threat actors started exploiting Citrix ShareFile RCE vulnerability CVE-2023-24489 in the wild.
+Citrix ShareFile is a widely used cloud-based file-sharing application, which is affected by the critical remote code execution (RCE)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Jersey Supreme Court to Hear Merck Insurance Dispute Over NotPetya Attack<a href="https://www.cybersecuritydive.com/news/new-jersey-court-merck-insurers-notpetya/689315/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The New Jersey Supreme Court agreed to review the legal fight between Merck and several of the world’s top insurance providers involving $1.4 billion in claims stemming from the 2017 NotPetya cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fruity Trojan Uses Deceptive Software Installers to Spread Remcos RAT<a href="https://thehackernews.com/2023/07/fruity-trojan-uses-deceptive-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are creating fake websites hosting trojanized software installers to trick unsuspecting users into downloading a downloader malware called Fruity with the goal of installing remote trojans tools like Remcos RAT. "Among the software in question are various instruments for fine-tuning CPUs, graphic cards, and BIOS; PC hardware-monitoring tools; and some other apps," cybersecurity vendor Doctor Web  said  in an analysis.  "Such installers are used as a decoy and contain not only the software potential victims are interested in, but also the trojan itself with all its components." The exact initial access vector used in the campaign is unclear but it could potentially range from phishing to drive-by downloads to malicious ads. Users who land on the fake site are prompted to download a ZIP installer package. The installer, besides activating the standard installation process, stealthily drops the Fruity trojan, a Python-based malware that unpacks an MP
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware ESXi Servers Face New Threat from Abyss Locker<a href="https://cyware.com/news/vmware-esxi-servers-face-new-threat-from-abyss-locker-086083ce"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MalwareHunterTeam reported a new variant of the Abyss Locker ransomware designed to target Linux-based VMware ESXi servers. It employs SSH brute force attacks to gain unauthorized access to servers. The ransomware has claimed data theft ranging from 35GB to 700GB. Researchers also suspect a connect ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Flaws Found in Ninja Forms Plugin Leave 800,000 Sites Vulnerable<a href="https://thehackernews.com/2023/07/multiple-flaws-found-in-ninja-forms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in the Ninja Forms plugin for WordPress that could be exploited by threat actors to escalate privileges and steal sensitive data. The flaws, tracked as CVE-2023-37979, CVE-2023-38386, and CVE-2023-38393, impact versions 3.6.25 and below, Patchstack  said  in a report last week. Ninja Forms is installed on over 800,000 sites. A brief description of each of the vulnerabilities is below - CVE-2023-37979  (CVSS score: 7.1) - A POST-based reflected cross-site scripting (XSS) flaw that could allow any unauthenticated user to achieve privilege escalation on a target WordPress site by tricking privileged users to visit a specially crafted website. CVE-2023-38386  and  CVE-2023-38393  - Broken access control flaws in the form submissions export feature that could enable a bad actor with Subscriber and Contributor roles to export all Ninja Forms submissions on a WordPress site. Users of the plugin are recommended to update to version
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 30, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

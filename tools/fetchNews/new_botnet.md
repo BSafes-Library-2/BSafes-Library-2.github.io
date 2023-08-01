@@ -8,6 +8,35 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts link AVRecon bot to the malware proxy service SocksEscort<a href="https://securityaffairs.com/149007/hacking/avrecon-bot-socksescort.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AVRecon botnet relies on compromised small office/home office (SOHO) routers since at least May 2021.
+In early July, researchers from Lumen Black Lotus Labs discovered the AVRecon botnet that targets small office/home office (SOHO) routers and infected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AVRecon Botnet Leveraging Compromised Routers to Fuel Illegal Proxy Service<a href="https://thehackernews.com/2023/07/avrecon-botnet-leveraging-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details have emerged about a botnet called&nbsp; AVRecon , which has been observed making use of compromised small office/home office (SOHO) routers as part of a multi-year campaign active since at least May 2021. AVRecon was&nbsp; first disclosed &nbsp;by Lumen Black Lotus Labs earlier this month as malware capable of executing additional commands and stealing victim's bandwidth for what appears to be an illegal proxy service made available for other actors. It has also surpassed QakBot in terms of scale, having infiltrated over 41,000 nodes located across 20 countries worldwide. "The malware has been used to create residential proxy services to shroud malicious activity such as password spraying, web-traffic proxying, and ad fraud," the researchers said in the report. This has been corroborated by new findings from KrebsOnSecurity and Spur.us, which last week&nbsp; revealed &nbsp;that "AVrecon is the malware engine behind a 12-year-old service called SocksEscort, which rents hacke
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

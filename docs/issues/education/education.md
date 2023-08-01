@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: Riding the vCISO Wave: How to Provide vCISO Services<a href="https://thehackernews.com/2023/07/webinar-riding-vciso-wave-how-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Demand for Virtual CISO services is soaring. According to Gartner, the use of vCISO services among small and mid-size businesses and non-regulated enterprises was expected to grow by a whopping 1900% in just one year, from only 1% in 2021 to 20% in 2022! Offering vCISO services can be especially attractive for MSPs and MSSPs. By addressing their customers' needs for proactive cyber resilience, they can generate a growing amount of recurring revenue from existing and new customers. And all while differentiating themselves from the competition. vCISO services also enable upselling of additional products and services the MSP or MSSP specializes in. However, not all MSPs and MSSPs fully understand how to provide vCISO services . Some may be unsure about which services are expected from them. Others may not realize they are already providing vCISO services and have the potential to effortlessly broaden their offerings into a complete vCISO suite or package it differently to make it more
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

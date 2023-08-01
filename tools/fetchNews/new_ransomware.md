@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware ESXi Servers Face New Threat from Abyss Locker<a href="https://cyware.com/news/vmware-esxi-servers-face-new-threat-from-abyss-locker-086083ce"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MalwareHunterTeam reported a new variant of the Abyss Locker ransomware designed to target Linux-based VMware ESXi servers. It employs SSH brute force attacks to gain unauthorized access to servers. The ransomware has claimed data theft ranging from 35GB to 700GB. Researchers also suspect a connect ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2023 - Whitehouse
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NATIONAL CYBER WORKFORCE AND EDUCATION STRATEGY <a href="https://www.whitehouse.gov/wp-content/uploads/2023/07/NCWES-2023.07.31.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technology and humanity are intertwined. Technology itself does not have a value system; rather it carries the values of its owners and operators. Cyberspace is composed not only of technology and protocols, but also people. People are an integral part of cyberspace, both in creating and using it. In less than a generation, technology has transformed our daily lives – among other things, we pay bills, connect with families and friends, build businesses, and build communities. We rely on cyberspace for our national security, economic development, and innovation. More than any other domain – air, space, sea, or land – people conceived of and created cyberspace and will continue to improve it. The Biden-Harris Administration’s 2023 National Cybersecurity Strategy establishes an affirmative, valuesdriven vision for a secure and resilient cyberspace that enables us to achieve our collective aspirations.  To achieve a vision aligned with our values, we must ensure that people are appropriately equipped.  This National Cyber Workforce and Education Strategy provides a critical element of the President’s approach to securing cyberspace. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 28, 2023 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
