@@ -34,6 +34,282 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dynatrace Acquires Cloud-Native Debugging Platform Rookout<a href="https://techcrunch.com/2023/07/31/dynatrace-acquires-cloud-native-debugging-platform-rookout/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Observability and security platform Dynatrace today announced that it plans to acquire Rookout, a Tel Aviv-based observability startup that focuses on helping developers troubleshoot and debug their code in production.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New NodeStealer Targeting Facebook Business Accounts and Crypto Wallets<a href="https://thehackernews.com/2023/08/new-nodestealer-targeting-facebook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unearthed a Python variant of a stealer malware  NodeStealer  that's equipped to fully take over Facebook business accounts as well as siphon cryptocurrency. Palo Alto Network Unit 42 said it detected the previously undocumented strain as part of a campaign that commenced in December 2022. NodeStealer was  first exposed  by Meta in May 2023, describing it as a stealer capable of harvesting cookies and passwords from web browsers to compromise Facebook, Gmail, and Outlook accounts. While the prior samples were written in JavaScript, the latest versions are coded in Python. "NodeStealer poses great risk for both individuals and organizations," Unit 42 researcher Lior Rochberger  said . "Besides the direct impact on Facebook business accounts, which is mainly financial, the malware also steals credentials from browsers, which can be used for further attacks." The attacks start with bogus messages on Facebook that purportedly clai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NodeStealer 2.0 takes over Facebook Business accounts and targets crypto wallets<a href="https://securityaffairs.com/149055/malware/nodestealer-2-takes-over-facebook-business-accounts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a Python variant of the NodeStealer that was designed to take over Facebook business accounts and cryptocurrency wallets.
+Palo Alto Network Unit 42 discovered a previously unreported phishing campaign that distributed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Posed as Israelis in Targeted LinkedIn Phishing Attack<a href="https://www.hackread.com/iran-hackers-israel-linkedin-phishing-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+During the conversation, the malicious actors would send seemingly harmless attachments, such as invitations to conferences or files related to the targets’ professional interests, such as studies or articles.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Bank Customers Targeted in SpyNote Android Trojan Campaign<a href="https://thehackernews.com/2023/08/european-bank-customers-targeted-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Various European customers of different banks are being targeted by an Android banking trojan called  SpyNote  as part of an aggressive campaign detected in June and July 2023. "The spyware is distributed through email phishing or smishing campaigns and the fraudulent activities are executed with a combination of remote access trojan (RAT) capabilities and vishing attack," Italian cybersecurity firm Cleafy  said  in a technical analysis released Monday. SpyNote , also called SpyMax, is similar to other Android banking Trojans in that it requires  Android's accessibility permissions  in order to grant itself other necessary permissions and gather sensitive data from infected devices. What makes the malware strain notable is its dual functions as spyware and perform bank fraud. The attack chains commence with a bogus SMS message urging users to install a banking app by clicking on the accompanying link, redirecting the victim to the legitimate TeamViewer QuickSupport a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt is hunting a Chinese malware that can interfere with its military operations<a href="https://securityaffairs.com/149041/security/china-malware-critical-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government believes that China has deployed malware in key US power and communications networks that can be activated in case of a conflict.
+American intelligence officials believe China has implanted malware in key US power and communications...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stremio Vulnerability Exposes Millions to Attack<a href="https://www.helpnetsecurity.com/2023/08/01/stremio-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyFox researchers have discovered a DLL planting/hijacking vulnerability in popular media center application Stremio, which could be exploited by attackers to execute code on the victim’s system, steal information, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is Data Security Posture Management (DSPM)?<a href="https://thehackernews.com/2023/08/what-is-data-security-posture.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data Security Posture Management is an approach to securing cloud data by ensuring that sensitive data always has the correct security posture - regardless of where it's been duplicated or moved to. So, what is DSPM? Here's a quick example: Let's say you've built an excellent  security posture  for your cloud data. For the sake of this example, your data is in production, it's protected behind a firewall, it's not publicly accessible, and your IAM controls have limited access properly. Now along comes a developer and replicates that data into a lower environment. What happens to that fine security posture you've built?  Well, it's gone - and now the data is only protected by the security posture in that lower environment. So if that environment is exposed or improperly secured - so is all that sensitive data you've been trying to protect. Security postures just don't travel with their data . Data Security Posture Management ( DSPM ) was crea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WikiLoader malware-as-a-service targets Italian organizations<a href="https://securityaffairs.com/149025/cyber-crime/wikiloader-malware-as-a-service-italy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting Italian organizations with a phishing campaign aimed at delivering a new malware called WikiLoader.
+WikiLoader is a new piece of malware that is employed in a phishing campaign that is targeting Italian organizations....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meow Campaign Reaches Misconfigured Jupyter Notebook Instances<a href="https://blog.aquasec.com/three-years-later-the-meow-campaign-reaches-jupyter?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The "Meow" campaign, targeting unsecured databases, has resurfaced, with the threat actor using misconfigured Jupyter Notebook instances to gather information and delete databases.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Expose Space Pirates' Cyber Campaign Across Russia and Serbia<a href="https://thehackernews.com/2023/08/researchers-expose-space-pirate-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as  Space Pirates  has been linked to attacks against at least 16 organizations in Russia and Serbia over the past year by employing novel tactics and adding new cyber weapons to its arsenal. "The cybercriminals' main goals are still espionage and theft of confidential information, but the group has expanded its interests and the geography of its attacks," Positive Technologies  said  in a deep dive report published last week. Targets comprise government agencies, educational institutions, private security companies, aerospace manufacturers, agricultural producers, defense, energy, and healthcare firms in Russia and Serbia. Space Pirates was  first exposed  by the Russian cybersecurity company in May 2022, highlighting its attacks on the aerospace sector in the nation. The group, said to be active since at least late 2019, has links to another adversary tracked by Symantec as  Webworm . Positive Technologies' analysis of the attack infrast
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Be aware of exposure of sensitive data on Wi-Fi settings for Canon inkjet printers<a href="https://securityaffairs.com/149017/hacking/wi-fi-settings-exposure-canon-printers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canon warns that sensitive data on the Wi-Fi connection settings stored in the memories of inkjet printers may not be deleted during initialization.
+Canon warns that sensitive information on the Wi-Fi connection settings stored in the memories of home...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mattress Giant Tempur Sealy Hit with Cyberattack Forcing System Shutdown<a href="https://therecord.media/mattress-giant-tempur-sealy-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company’s chief financial officer Bhaskar Rao reported to the U.S. Securities and Exchange Commission on Monday morning that Tempur Sealy’s operations had been hindered by a cyberattack that began on July 23.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's APT31 Suspected in Attacks on Air-Gapped Systems in Eastern Europe<a href="https://thehackernews.com/2023/08/chinas-apt31-suspected-in-attacks-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nation-state actor with links to China is suspected of being behind a series of attacks against industrial organizations in Eastern Europe that took place last year to siphon data stored on air-gapped systems. Cybersecurity company Kaspersky attributed the intrusions with medium to high confidence to a hacking crew called  APT31 , which is also tracked under the monikers Bronze Vinewood, Judgement Panda, and Violet Typhoon (formerly Zirconium), citing commonalities in the tactics observed. The attacks entailed the use of more than 15 distinct implants and their variants, broken down into three broad categories based on their ability to establish persistent remote access, gather sensitive information, and transmit the collected data to actor-controlled infrastructure. "One of the implant types appeared to be a sophisticated modular malware, aimed at profiling removable drives and contaminating them with a worm to exfiltrate data from isolated, or air-gapped, networks of indus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spike in Ransomware Delivery via URLs, Reports Unit 42<a href="https://cyware.com/news/spike-in-ransomware-delivery-via-urls-reports-unit-42-ea6c4b0d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware delivered through URLs has become the leading method for distributing ransomware, accounting for over 77% of cases in 2022 - found Unit 42. This is followed by emails at 12%. Researchers observed attackers using different URLs/hostnames to host or deliver different malware, including ran ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Renting WikiLoader to Target Italian Organizations with Banking Trojan<a href="https://thehackernews.com/2023/08/cybercriminals-renting-wikiloader-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations in Italy are the target of a new phishing campaign that leverages a new strain of malware called  WikiLoader  with an ultimate aim to install a banking trojan, stealer, and spyware referred to as  Ursnif  (aka Gozi). "It is a sophisticated downloader with the objective of installing a second malware payload," Proofpoint  said  in a technical report. "The malware uses multiple mechanisms to evade detection and was likely developed as a malware that can be rented out to select cybercriminal threat actors." WikiLoader is so named due to the malware making a request to Wikipedia and checking that the response has the string "The Free." The enterprise security firm said it first detected the malware in the wild on December 27, 2022, in connection with an intrusion set mounted by a threat actor it tracks as  TA544 , which is also known as Bamboo Spider and Zeus Panda. The campaigns are centered around the use of emails containing either Micro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Subsidiaries Must Pay $14M Over Misleading Data Collection Disclosure<a href="https://www.malwarebytes.com/blog/news/2023/07/meta-subsidiaries-must-pay-14m-over-misleading-data-collection-disclosure?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Facebook's subsidiaries, including Onavo, have been ordered to pay $14 million in an Australian court case for undisclosed data collection through a now-discontinued VPN, highlighting the company's privacy issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 31, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
