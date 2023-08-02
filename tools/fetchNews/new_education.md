@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is Data Security Posture Management (DSPM)?<a href="https://thehackernews.com/2023/08/what-is-data-security-posture.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data Security Posture Management is an approach to securing cloud data by ensuring that sensitive data always has the correct security posture - regardless of where it's been duplicated or moved to. So, what is DSPM? Here's a quick example: Let's say you've built an excellent&nbsp; security posture &nbsp;for your cloud data. For the sake of this example, your data is in production, it's protected behind a firewall, it's not publicly accessible, and your IAM controls have limited access properly. Now along comes a developer and replicates that data into a lower environment. What happens to that fine security posture you've built?&nbsp; Well, it's gone - and now the data is only protected by the security posture in that lower environment. So if that environment is exposed or improperly secured - so is all that sensitive data you've been trying to protect. Security postures just don't travel with their data . Data Security Posture Management ( DSPM ) was crea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

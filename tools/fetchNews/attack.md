@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patchwork Hackers Target Chinese Research Organizations Using EyeShell Backdoor<a href="https://thehackernews.com/2023/07/patchwork-hackers-target-chinese.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors associated with the hacking crew known as Patchwork have been spotted targeting universities and research organizations in China as part of a recently observed campaign. The activity, according to&nbsp; KnownSec 404 Team , entailed the use of a backdoor codenamed&nbsp; EyeShell . Patchwork , also known by the names Operation Hangover and Zinc Emerson, is suspected to be a threat group that operates on behalf of India. Active since at least December 2015, attack chains mounted by the outfit have a narrow focus and tend to single out Pakistan and China with custom implants such as BADNEWS via spear-phishing and watering hole attacks. The adversarial collective has been found to share tactical overlaps with other cyber-espionage groups with an Indian connection, including&nbsp; SideWinder &nbsp;and the&nbsp; DoNot Team . Earlier this May, Meta&nbsp; disclosed &nbsp;that it took down 50 accounts on Facebook and Instagram operated by Patchwork, which took advantage of rogue messaging apps uploaded to the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

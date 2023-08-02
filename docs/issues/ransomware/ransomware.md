@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spike in Ransomware Delivery via URLs, Reports Unit 42<a href="https://cyware.com/news/spike-in-ransomware-delivery-via-urls-reports-unit-42-ea6c4b0d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware delivered through URLs has become the leading method for distributing ransomware, accounting for over 77% of cases in 2022 - found Unit 42. This is followed by emails at 12%. Researchers observed attackers using different URLs/hostnames to host or deliver different malware, including ran ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

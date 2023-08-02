@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Bank Customers Targeted in SpyNote Android Trojan Campaign<a href="https://thehackernews.com/2023/08/european-bank-customers-targeted-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Various European customers of different banks are being targeted by an Android banking trojan called&nbsp; SpyNote &nbsp;as part of an aggressive campaign detected in June and July 2023. "The spyware is distributed through email phishing or smishing campaigns and the fraudulent activities are executed with a combination of remote access trojan (RAT) capabilities and vishing attack," Italian cybersecurity firm Cleafy&nbsp; said &nbsp;in a technical analysis released Monday. SpyNote , also called SpyMax, is similar to other Android banking Trojans in that it requires&nbsp; Android's accessibility permissions &nbsp;in order to grant itself other necessary permissions and gather sensitive data from infected devices. What makes the malware strain notable is its dual functions as spyware and perform bank fraud. The attack chains commence with a bogus SMS message urging users to install a banking app by clicking on the accompanying link, redirecting the victim to the legitimate TeamViewer QuickSupport a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meow Campaign Reaches Misconfigured Jupyter Notebook Instances<a href="https://blog.aquasec.com/three-years-later-the-meow-campaign-reaches-jupyter?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The "Meow" campaign, targeting unsecured databases, has resurfaced, with the threat actor using misconfigured Jupyter Notebook instances to gather information and delete databases.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

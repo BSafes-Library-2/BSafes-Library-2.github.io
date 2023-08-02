@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Expose Space Pirates' Cyber Campaign Across Russia and Serbia<a href="https://thehackernews.com/2023/08/researchers-expose-space-pirate-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as&nbsp; Space Pirates &nbsp;has been linked to attacks against at least 16 organizations in Russia and Serbia over the past year by employing novel tactics and adding new cyber weapons to its arsenal. "The cybercriminals' main goals are still espionage and theft of confidential information, but the group has expanded its interests and the geography of its attacks," Positive Technologies&nbsp; said &nbsp;in a deep dive report published last week. Targets comprise government agencies, educational institutions, private security companies, aerospace manufacturers, agricultural producers, defense, energy, and healthcare firms in Russia and Serbia. Space Pirates was&nbsp; first exposed &nbsp;by the Russian cybersecurity company in May 2022, highlighting its attacks on the aerospace sector in the nation. The group, said to be active since at least late 2019, has links to another adversary tracked by Symantec as&nbsp; Webworm . Positive Technologies' analysis of the attack infrast
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Renting WikiLoader to Target Italian Organizations with Banking Trojan<a href="https://thehackernews.com/2023/08/cybercriminals-renting-wikiloader-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations in Italy are the target of a new phishing campaign that leverages a new strain of malware called&nbsp; WikiLoader &nbsp;with an ultimate aim to install a banking trojan, stealer, and spyware referred to as&nbsp; Ursnif &nbsp;(aka Gozi). "It is a sophisticated downloader with the objective of installing a second malware payload," Proofpoint&nbsp; said &nbsp;in a technical report. "The malware uses multiple mechanisms to evade detection and was likely developed as a malware that can be rented out to select cybercriminal threat actors." WikiLoader is so named due to the malware making a request to Wikipedia and checking that the response has the string "The Free." The enterprise security firm said it first detected the malware in the wild on December 27, 2022, in connection with an intrusion set mounted by a threat actor it tracks as&nbsp; TA544 , which is also known as Bamboo Spider and Zeus Panda. The campaigns are centered around the use of emails containing either Micro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

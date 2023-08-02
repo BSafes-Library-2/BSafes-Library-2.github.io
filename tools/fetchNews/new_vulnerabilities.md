@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stremio Vulnerability Exposes Millions to Attack<a href="https://www.helpnetsecurity.com/2023/08/01/stremio-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyFox researchers have discovered a DLL planting/hijacking vulnerability in popular media center application Stremio, which could be exploited by attackers to execute code on the victim’s system, steal information, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Be aware of exposure of sensitive data on Wi-Fi settings for Canon inkjet printers<a href="https://securityaffairs.com/149017/hacking/wi-fi-settings-exposure-canon-printers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canon warns that sensitive data on the Wi-Fi connection settings stored in the memories of inkjet printers may not be deleted during initialization.
+Canon warns that sensitive information on the Wi-Fi connection settings stored in the memories of home...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

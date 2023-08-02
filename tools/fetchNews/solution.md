@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ztna can be More Than a VPN Replacement for Application Access<a href="https://www.helpnetsecurity.com/2023/07/28/ztna-adoption-vpn-replacement/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero Trust Network Access (ZTNA) should leverage contextual information, implement continuous authentication mechanisms, and be application-aware to make access decisions and reduce the risk of unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

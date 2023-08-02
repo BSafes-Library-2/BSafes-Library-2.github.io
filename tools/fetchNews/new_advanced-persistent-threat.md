@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's APT31 Suspected in Attacks on Air-Gapped Systems in Eastern Europe<a href="https://thehackernews.com/2023/08/chinas-apt31-suspected-in-attacks-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nation-state actor with links to China is suspected of being behind a series of attacks against industrial organizations in Eastern Europe that took place last year to siphon data stored on air-gapped systems. Cybersecurity company Kaspersky attributed the intrusions with medium to high confidence to a hacking crew called&nbsp; APT31 , which is also tracked under the monikers Bronze Vinewood, Judgement Panda, and Violet Typhoon (formerly Zirconium), citing commonalities in the tactics observed. The attacks entailed the use of more than 15 distinct implants and their variants, broken down into three broad categories based on their ability to establish persistent remote access, gather sensitive information, and transmit the collected data to actor-controlled infrastructure. "One of the implant types appeared to be a sophisticated modular malware, aimed at profiling removable drives and contaminating them with a worm to exfiltrate data from isolated, or air-gapped, networks of indus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
