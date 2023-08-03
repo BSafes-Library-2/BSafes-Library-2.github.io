@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+August 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Gap in Users’ Identity Security Knowledge Gives Cybercriminals an Opening<a href="https://www.helpnetsecurity.com/2023/08/01/identity-security-knowledge/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With exponential growth in the number of human and machine actors on the network and more sophisticated technology in more places, identity in this new era is rapidly becoming a super-human problem, according to RSA.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Control Systems Vulnerabilities Soar: Over One-Third Unpatched in 2023<a href="https://thehackernews.com/2023/08/industrial-control-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 34% of security vulnerabilities impacting industrial control systems (ICSs) that were reported in the first half of 2023 have no patch or remediation, registering a significant increase from 13% the previous year. According to data compiled by SynSaber, a total of 670 ICS product flaws were reported via the U.S. Cybersecurity and Infrastructure Security Agency (CISA) in the first half of 2023, down from&nbsp; 681 reported &nbsp;during the first half of 2022. Of the 670 CVEs, 88 are rated Critical, 349 are rated High, 215 are rated Medium, and 18 are rated Low in Severity. 227 of the flaws have no fixes in comparison to 88 in H1 2022. "Critical manufacturing (37.3% of total reported CVEs) and Energy (24.3% of the total reported) sectors are the most likely to be affected," the OT cybersecurity and asset monitoring company said in a report shared with The Hacker News. Other prominent industry verticals include water and wastewater systems, commercial facilities, communication
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Industries Significantly Impacted by Illicit Telegram Networks<a href="https://thehackernews.com/2023/08/top-industries-significantly-impacted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In recent years the rise of illicit activities conducted within online messaging platforms has become a growing concern for countless industries. One of the most notable platforms that has been host to many malicious actors and nefarious activities has been Telegram. Thanks to its accessibility, popularity, and user anonymity, Telegram has attracted a large number of threat actors driven by criminal purposes.&nbsp; Many of the cybercriminals that have moved operations into&nbsp; illicit telegram channels &nbsp;in order to expand their reach and exploits to wider audiences. As a result, many of these illicit Telegram networks have negatively impacted many industries in relation to the increase of cyberattacks and data leaks that have occurred across the globe.&nbsp; While any industry can be affected by the cybercriminals operating on Telegram, there are several industries that are more significantly impacted by these illicit activities. In this post, we'll cover several of the common illicit activi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

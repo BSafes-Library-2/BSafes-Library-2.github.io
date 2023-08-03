@@ -5,7 +5,19 @@ has_children: true
 nav_order: 150 
 ---
 
-## Alerts 
+## Alerts  
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2023 - CISA, NCSC-NO 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Exploiting Ivanti EPMM Vulnerabilities <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-213a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) and the Norwegian National Cyber Security Centre (NCSC-NO) are releasing this joint Cybersecurity Advisory (CSA) in response to active exploitation of CVE-2023-35078 and CVE-2023-35081. Advanced persistent threat (APT) actors exploited CVE-2023-35078 as a zero day from at least April 2023 through July 2023 to gather information from several Norwegian organizations, as well as to gain access to and compromise a Norwegian government agency’s network.
+</details>
+</div>
+
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 31, 2023 - Whitehouse
 {: .fs-4 .fw-700 .lh-0  }

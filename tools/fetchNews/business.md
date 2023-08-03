@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dynatrace Acquires Cloud-Native Debugging Platform Rookout<a href="https://techcrunch.com/2023/07/31/dynatrace-acquires-cloud-native-debugging-platform-rookout/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Observability and security platform Dynatrace today announced that it plans to acquire Rookout, a Tel Aviv-based observability startup that focuses on helping developers troubleshoot and debug their code in production.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

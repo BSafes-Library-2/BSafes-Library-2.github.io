@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Cyber Adversary BlueCharlie Alters Infrastructure in Response to Disclosures<a href="https://thehackernews.com/2023/08/russian-cyber-adversary-bluecharlie.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russia-nexus adversary has been linked to 94 new domains starting March 2023, suggesting that the group is actively modifying its infrastructure in response to public disclosures about its activities. Cybersecurity firm Recorded Future&nbsp;linked the revamped infrastructure to a threat actor it tracks under the name&nbsp; BlueCharlie , a hacking crew that's broadly known by the names Blue Callisto, Callisto (or Calisto), COLDRIVER, Star Blizzard (formerly SEABORGIUM), and TA446. BlueCharlie was previously given the temporary designation Threat Activity Group 53 (TAG-53). "These shifts demonstrate that these threat actors are aware of industry reporting and show a certain level of sophistication in their efforts to obfuscate or modify their activity, aiming to stymie security researchers," the company said in a technical report shared with The Hacker News. BlueCharlie is assessed to be affiliated with Russia's Federal Security Service (FSB), with the threat actor linked
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

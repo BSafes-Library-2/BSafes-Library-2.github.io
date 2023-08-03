@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nile, Which Offers Enterprise Networks as a Service, Raises $175M<a href="https://techcrunch.com/2023/08/01/nile-which-offers-enterprise-networks-as-a-service-raises-175m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nile, a networking-as-a-service (NaaS) provider founded by former Cisco executive Pankaj Patel, has raised $175 million in a Series C funding round. The funding will be used for go-to-market growth and expanding the company's workforce.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Company Cloudzy Accused of Aiding Cybercriminals and Nation-State Hackers<a href="https://thehackernews.com/2023/08/iranian-company-cloudzy-accused-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Services offered by an obscure Iranian company known as Cloudzy are being leveraged by multiple threat actors, including cybercrime groups and nation-state crews. "Although Cloudzy is incorporated in the United States, it almost certainly operates out of Tehran, Iran – in possible violation of U.S. sanctions – under the direction of someone going by the name&nbsp; Hassan Nozari ," Halcyon&nbsp; said &nbsp;in a new report published Tuesday. The Texas-based cybersecurity firm said the company acts as a command-and-control provider (C2P), which provides attackers with Remote Desktop Protocol (RDP) virtual private servers and other anonymized services that ransomware affiliates and others use to pull off the cybercriminal endeavors. "[C2Ps] enjoy a liability loophole that does not require them to ensure that the infrastructure they provide is not being used for illegal operations," Halcyon said in a statement shared with The Hacker News. The ransomware-as-a-service (RaaS) busine
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

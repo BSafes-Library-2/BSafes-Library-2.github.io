@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norwegian Entities Targeted in Ongoing Attacks Exploiting Ivanti EPMM Vulnerability<a href="https://thehackernews.com/2023/08/norwegian-entities-targeted-in-ongoing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advanced persistent threat (APT) actors exploited a recently disclosed critical flaw impacting Ivanti Endpoint Manager Mobile (EPMM) as a zero-day since at least April 2023 in attacks directed against Norwegian entities, including a government network. The disclosure comes as part of a new joint advisory released by the Cybersecurity and Infrastructure Security Agency (CISA) and the Norwegian National Cyber Security Centre (NCSC-NO) Tuesday. The exact identity or origin of the threat actor remains unclear. "The APT actors have exploited CVE-2023-35078 since at least April 2023," the authorities&nbsp; said . "The actors leveraged compromised small office/home office (SOHO) routers, including ASUS routers, to proxy to target infrastructure.' CVE-2023-35078 refers to a&nbsp; severe flaw &nbsp;that allows threat actors to access personally identifiable information (PII) and gain the ability to make configuration changes on compromised systems. It can be chained with a second vulne
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawsuit Alleges Bytedance’s Capcut App Secretly Reaps Massive Amounts of User Data<a href="https://therecord.media/capcut-privacy-lawsuit-illinois-bipa-bytedance-china?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CapCut and sister company TikTok are owned by the Chinese company ByteDance Ltd., which has long been under scrutiny by American officials concerned with how it collects and leverages American users’ personal data, allegedly including biometric data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on Montclair Township Led to $450K Settlement<a href="https://montclairlocal.news/cyber-attack-on-montclair-township-led-to-450k-settlement/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Garden State Joint Insurance Fund made the deal as law enforcement began investigations into possible criminal charges, Joseph Hartnett, interim township manager, said Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

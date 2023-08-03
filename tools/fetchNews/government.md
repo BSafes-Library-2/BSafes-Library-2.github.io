@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+August 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US govt is hunting a Chinese malware that can interfere with its military operations<a href="https://securityaffairs.com/149041/security/china-malware-critical-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government believes that China has deployed malware in key US power and communications networks that can be activated in case of a conflict.
+American intelligence officials believe China has implanted malware in key US power and communications...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

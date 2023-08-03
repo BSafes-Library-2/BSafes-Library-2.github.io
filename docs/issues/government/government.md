@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+August 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds second Ivanti EPMM flaw to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/149071/security/cisa-adds-second-ivanti-epmm-flaw-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added a second actively exploited Ivanti ‘s Endpoint Manager Mobile (EPMM) vulnerability to its Known Exploited Vulnerabilities catalog.
+US Cybersecurity and Infrastructure Security Agency (CISA) added the second actively exploited Ivanti...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Possible Chinese Malware in US Systems a ‘Ticking Time Bomb’: Report<a href="https://www.securityweek.com/possible-chinese-malware-in-us-systems-a-ticking-time-bomb-report/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration believes China has implanted malware in key US power and communications networks in a “ticking time bomb” that could disrupt the military in event of a conflict, The New York Times reported Saturday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
