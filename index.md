@@ -34,6 +34,347 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Variants of NodeStealer Found Infecting Facebook Business Accounts<a href="https://cyware.com/news/new-variants-of-nodestealer-found-infecting-facebook-business-accounts-00270eaa"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 researchers discovered a previously unreported phishing campaign targeting Facebook business accounts. The campaign distributed new variants of NodeStealer malware that could fully take over these accounts, steal cryptocurrency, and download further payloads. This type of attack can cause b ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exposes Russian Hackers' Sneaky Phishing Tactics via Microsoft Teams Chats<a href="https://thehackernews.com/2023/08/microsoft-exposes-russian-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday disclosed that it identified a set of highly targeted social engineering attacks mounted by a Russian nation-state threat actor using credential theft phishing lures sent as Microsoft Teams chats. The tech giant attributed the attacks to a group it tracks as  Midnight Blizzard  (previously Nobelium). It's also called APT29, BlueBravo, Cozy Bear, Iron Hemlock, and The Dukes. "In this latest activity, the threat actor uses previously compromised Microsoft 365 tenants owned by small businesses to create new domains that appear as technical support entities," the company  said . "Using these domains from compromised tenants, Midnight Blizzard leverages Teams messages to send lures that attempt to steal credentials from a targeted organization by engaging a user and eliciting approval of multi-factor authentication (MFA) prompts." Microsoft said the campaign, observed since at least late May 2023, affected less than 40 organizations global
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Bypass for Recently Patched Critical Ivanti EPMM Vulnerability<a href="https://thehackernews.com/2023/08/researchers-discover-bypass-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a bypass for a recently fixed actively exploited vulnerability in some versions of Ivanti Endpoint Manager Mobile (EPMM), prompting Ivanti to urge users to update to the latest version of the software. Tracked as  CVE-2023-35082  (CVSS score: 10.0) and discovered by Rapid7, the issue "allows unauthenticated attackers to access the API in older unsupported versions of MobileIron Core (11.2 and below)." "If exploited, this vulnerability enables an unauthorized, remote (internet-facing) actor to potentially access users' personally identifiable information and make limited changes to the server," Ivanti  said  in an advisory released on August 2, 2023. Rapid7 security researcher Stephen Fewer  said , "CVE-2023-35082 arises from the same place as CVE-2023-35078, specifically the permissive nature of certain entries in the mifs web application's security filter chain." With the latest disclosure, Ivanti has
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers already installed web shells on 581 Citrix servers in CVE-2023-3519 attacks<a href="https://securityaffairs.com/149094/hacking/citrix-servers-webshells-cve-2023-3519-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that hundreds of Citrix servers have been hacked in an ongoing campaign exploiting the RCE CVE-2023-3519.
+Security researchers from the non-profit organization Shadowserver Foundation reported that hundreds of Citrix Netscaler ADC and Gateway...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions Stolen From Crypto Platforms Through Exploited ‘Vyper’ Vulnerability<a href="https://therecord.media/millions-stolen-in-vyper-crypto-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millions of dollars worth of cryptocurrency were stolen from several platforms over the weekend after hackers exploited a vulnerability in a programming language used widely in the cryptocurrency world.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day in Salesforce email services exploited in targeted Facebook phishing campaign<a href="https://securityaffairs.com/149083/hacking/phishing-facebook-campaign-salesforce-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a spear-phishing Facebook campaign exploiting a zero-day vulnerability in Salesforce email services.
+Researchers from Guardio Labs uncovered a sophisticated phishing campaign exploiting a zero-day vulnerability in Salesforce email...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Gap in Users’ Identity Security Knowledge Gives Cybercriminals an Opening<a href="https://www.helpnetsecurity.com/2023/08/01/identity-security-knowledge/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With exponential growth in the number of human and machine actors on the network and more sophisticated technology in more places, identity in this new era is rapidly becoming a super-human problem, according to RSA.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Cyber Adversary BlueCharlie Alters Infrastructure in Response to Disclosures<a href="https://thehackernews.com/2023/08/russian-cyber-adversary-bluecharlie.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russia-nexus adversary has been linked to 94 new domains starting March 2023, suggesting that the group is actively modifying its infrastructure in response to public disclosures about its activities. Cybersecurity firm Recorded Future linked the revamped infrastructure to a threat actor it tracks under the name  BlueCharlie , a hacking crew that's broadly known by the names Blue Callisto, Callisto (or Calisto), COLDRIVER, Star Blizzard (formerly SEABORGIUM), and TA446. BlueCharlie was previously given the temporary designation Threat Activity Group 53 (TAG-53). "These shifts demonstrate that these threat actors are aware of industry reporting and show a certain level of sophistication in their efforts to obfuscate or modify their activity, aiming to stymie security researchers," the company said in a technical report shared with The Hacker News. BlueCharlie is assessed to be affiliated with Russia's Federal Security Service (FSB), with the threat actor linked
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Burger King forgets to put a password on their systems, again<a href="https://securityaffairs.com/149076/data-breach/burger-king-exposed-sensitive-credentials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fast food giant Burger King put their systems and data at risk by exposing sensitive credentials to the public for a second time.
+Original post @https://cybernews.com/security/burger-king-data-leak/
+Burger King is a renowned US-based international...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nile, Which Offers Enterprise Networks as a Service, Raises $175M<a href="https://techcrunch.com/2023/08/01/nile-which-offers-enterprise-networks-as-a-service-raises-175m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nile, a networking-as-a-service (NaaS) provider founded by former Cisco executive Pankaj Patel, has raised $175 million in a Series C funding round. The funding will be used for go-to-market growth and expanding the company's workforce.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishers Exploit Salesforce's Email Services Zero-Day in Targeted Facebook Campaign<a href="https://thehackernews.com/2023/08/phishers-exploit-salesforces-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated Facebook phishing campaign has been observed exploiting a zero-day flaw in Salesforce's email services, allowing threat actors to craft targeted phishing messages using the company's domain and infrastructure. "Those phishing campaigns cleverly evade conventional detection methods by chaining the Salesforce vulnerability and legacy quirks in Facebook's Web Games platform," Guardio Labs researchers Oleg Zaytsev and Nati Tal  said  in a report shared with The Hacker News. The email messages masquerade as coming from Meta, while being sent from an email address with a "@salesforce.com" domain. They seek to trick recipients into clicking on a link by claiming that their Facebook accounts are undergoing a "comprehensive investigation" due to "suspicions of engaging in impersonation." The goal is to direct users to a rogue landing page that's designed to capture the victim's account credentials and two-factor aut
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds second Ivanti EPMM flaw to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/149071/security/cisa-adds-second-ivanti-epmm-flaw-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added a second actively exploited Ivanti ‘s Endpoint Manager Mobile (EPMM) vulnerability to its Known Exploited Vulnerabilities catalog.
+US Cybersecurity and Infrastructure Security Agency (CISA) added the second actively exploited Ivanti...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox Fixes a Flurry of Flaws in the First of Two Releases This Month<a href="https://nakedsecurity.sophos.com/2023/08/01/firefox-fixes-a-flurry-of-flaws-in-the-first-of-two-releases-this-month/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has released a new version of Firefox, marking the first of two upgrades for the month. The patched flaws are tracked as CVE-2023-4045, CVE-2023-4047, CVE-2023-4048, CVE-2023-4050, CVE-2023-4051, CVE-2023-4057, and CVE-2023-4058.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial Control Systems Vulnerabilities Soar: Over One-Third Unpatched in 2023<a href="https://thehackernews.com/2023/08/industrial-control-systems.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+About 34% of security vulnerabilities impacting industrial control systems (ICSs) that were reported in the first half of 2023 have no patch or remediation, registering a significant increase from 13% the previous year. According to data compiled by SynSaber, a total of 670 ICS product flaws were reported via the U.S. Cybersecurity and Infrastructure Security Agency (CISA) in the first half of 2023, down from  681 reported  during the first half of 2022. Of the 670 CVEs, 88 are rated Critical, 349 are rated High, 215 are rated Medium, and 18 are rated Low in Severity. 227 of the flaws have no fixes in comparison to 88 in H1 2022. "Critical manufacturing (37.3% of total reported CVEs) and Energy (24.3% of the total reported) sectors are the most likely to be affected," the OT cybersecurity and asset monitoring company said in a report shared with The Hacker News. Other prominent industry verticals include water and wastewater systems, commercial facilities, communication
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawsuit Alleges Bytedance’s Capcut App Secretly Reaps Massive Amounts of User Data<a href="https://therecord.media/capcut-privacy-lawsuit-illinois-bipa-bytedance-china?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CapCut and sister company TikTok are owned by the Chinese company ByteDance Ltd., which has long been under scrutiny by American officials concerned with how it collects and leverages American users’ personal data, allegedly including biometric data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Industries Significantly Impacted by Illicit Telegram Networks<a href="https://thehackernews.com/2023/08/top-industries-significantly-impacted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In recent years the rise of illicit activities conducted within online messaging platforms has become a growing concern for countless industries. One of the most notable platforms that has been host to many malicious actors and nefarious activities has been Telegram. Thanks to its accessibility, popularity, and user anonymity, Telegram has attracted a large number of threat actors driven by criminal purposes.  Many of the cybercriminals that have moved operations into  illicit telegram channels  in order to expand their reach and exploits to wider audiences. As a result, many of these illicit Telegram networks have negatively impacted many industries in relation to the increase of cyberattacks and data leaks that have occurred across the globe.  While any industry can be affected by the cybercriminals operating on Telegram, there are several industries that are more significantly impacted by these illicit activities. In this post, we'll cover several of the common illicit activi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on Montclair Township Led to $450K Settlement<a href="https://montclairlocal.news/cyber-attack-on-montclair-township-led-to-450k-settlement/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Garden State Joint Insurance Fund made the deal as law enforcement began investigations into possible criminal charges, Joseph Hartnett, interim township manager, said Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover AWS SSM Agent Misuse as a Covert Remote Access Trojan<a href="https://thehackernews.com/2023/08/researchers-uncover-aws-ssm-agent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new post-exploitation technique in Amazon Web Services (AWS) that allows the AWS Systems Manager Agent (SSM Agent) to be run as a remote access trojan on Windows and Linux environments "The SSM agent, a legitimate tool used by admins to manage their instances, can be re-purposed by an attacker who has achieved high privilege access on an endpoint with SSM agent installed, to carry out malicious activities on an ongoing basis," Mitiga researchers Ariel Szarf and Or Aspir  said  in a report shared with The Hacker News. "This allows an attacker who has compromised a machine, hosted on AWS or anywhere else, to maintain access to it and perform various malicious activities." SSM Agent is a  software  installed on Amazon Elastic Compute Cloud (Amazon EC2) instances that makes it possible for administrators to update, manage, and configure their AWS resources through a unified interface. The advantages of using an SSM Agent
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Possible Chinese Malware in US Systems a ‘Ticking Time Bomb’: Report<a href="https://www.securityweek.com/possible-chinese-malware-in-us-systems-a-ticking-time-bomb-report/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration believes China has implanted malware in key US power and communications networks in a “ticking time bomb” that could disrupt the military in event of a conflict, The New York Times reported Saturday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Company Cloudzy Accused of Aiding Cybercriminals and Nation-State Hackers<a href="https://thehackernews.com/2023/08/iranian-company-cloudzy-accused-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Services offered by an obscure Iranian company known as Cloudzy are being leveraged by multiple threat actors, including cybercrime groups and nation-state crews. "Although Cloudzy is incorporated in the United States, it almost certainly operates out of Tehran, Iran – in possible violation of U.S. sanctions – under the direction of someone going by the name  Hassan Nozari ," Halcyon  said  in a new report published Tuesday. The Texas-based cybersecurity firm said the company acts as a command-and-control provider (C2P), which provides attackers with Remote Desktop Protocol (RDP) virtual private servers and other anonymized services that ransomware affiliates and others use to pull off the cybercriminal endeavors. "[C2Ps] enjoy a liability loophole that does not require them to ensure that the infrastructure they provide is not being used for illegal operations," Halcyon said in a statement shared with The Hacker News. The ransomware-as-a-service (RaaS) busine
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norwegian Entities Targeted in Ongoing Attacks Exploiting Ivanti EPMM Vulnerability<a href="https://thehackernews.com/2023/08/norwegian-entities-targeted-in-ongoing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Advanced persistent threat (APT) actors exploited a recently disclosed critical flaw impacting Ivanti Endpoint Manager Mobile (EPMM) as a zero-day since at least April 2023 in attacks directed against Norwegian entities, including a government network. The disclosure comes as part of a new joint advisory released by the Cybersecurity and Infrastructure Security Agency (CISA) and the Norwegian National Cyber Security Centre (NCSC-NO) Tuesday. The exact identity or origin of the threat actor remains unclear. "The APT actors have exploited CVE-2023-35078 since at least April 2023," the authorities  said . "The actors leveraged compromised small office/home office (SOHO) routers, including ASUS routers, to proxy to target infrastructure.' CVE-2023-35078 refers to a  severe flaw  that allows threat actors to access personally identifiable information (PII) and gain the ability to make configuration changes on compromised systems. It can be chained with a second vulne
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 1, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
