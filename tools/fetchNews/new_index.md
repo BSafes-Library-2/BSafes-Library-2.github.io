@@ -37,6 +37,266 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 3, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome 115 Update Patches V8 JavaScript and WebAssembly Engine Vulnerabilities<a href="https://www.securityweek.com/google-awards-60000-for-v8-vulnerabilities-patched-with-chrome-115-update/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The browser update resolves three high-severity type confusion bugs in the V8 JavaScript and WebAssembly engine that earned the reporting researchers over $60,000 in bug bounties, Google notes in its advisory.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Apps Use Sneaky Versioning Technique to Bypass Google Play Store Scanners<a href="https://thehackernews.com/2023/08/malicious-apps-use-sneaky-versioning.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are leveraging a technique called versioning to evade Google Play Store's malware detections and target Android users. "Campaigns using versioning commonly target users' credentials, data, and finances," Google Cybersecurity Action Team (GCAT)  s aid  in its August 2023 Threat Horizons Report shared with The Hacker News. While versioning is not a new phenomenon, it's sneaky and hard to detect. In this method, a developer releases an initial version of an app on the Play Store that passes Google's pre-publication checks, but is later updated with a malware component. This is achieved by pushing an update from an attacker-controlled server to serve malicious code on the end user device using a method called dynamic code loading (DCL), effectively turning the app into a backdoor. Earlier this May, ESET  discovered  a screen recording app named "iRecorder - Screen Recorder" that remained innocuous for nearly a year after it was first
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decommissioned medical infusion pumps sold on secondary market could reveal Wi-Fi configuration settings<a href="https://securityaffairs.com/149130/hacking/decommissioned-medical-infusion-pumps-wi-fi-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that decommissioned medical infusion pumps sold via the secondary market could expose Wi-Fi configuration settings.
+The sale of decommissioned medical infusion pumps through the secondary market may lead to the potential exposure of Wi-Fi...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Healthcare Workers’ Private Information Subject to Data Breach<a href="https://bc.ctvnews.ca/b-c-health-care-workers-private-information-subject-to-data-breach-1.6502818?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers had access to the HEABC system from May 9 to June 10 and the breach wasn’t detected until July 13, according to the association, after staff “identified a potential anomaly” but did not provide further explanation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Version of Rilide Data Theft Malware Adapts to Chrome Extension Manifest V3<a href="https://thehackernews.com/2023/08/new-version-of-rilide-data-theft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new version of malware called  Rilide  that targets Chromium-based web browsers to steal sensitive data and steal cryptocurrency. "It exhibits a higher level of sophistication through modular design, code obfuscation, adoption to the  Chrome Extension Manifest V3 , and additional features such as the ability to exfiltrate stolen data to a Telegram channel or interval-based screenshot captures," Trustwave security researcher Pawel Knapczyk  said  in a report shared with The Hacker News. Rilide was  first documented  by the cybersecurity company in April 2023, uncovering two different attack chains that made use of Ekipa RAT and Aurora Stealer to deploy rogue browser extensions capable of data and crypto theft. It's sold on dark web forums by an actor named "friezer" for $5,000. The malware is equipped with a wide range of features that allow it to disable other browser add-ons, harvest browsing history and cookies,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OWASP Top 10 for LLM (Large Language Model) applications is out!<a href="https://securityaffairs.com/149124/security/owasp-top-10-for-llm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OWASP Top 10 for LLM (Large Language Model) Applications version 1.0 is out, it focuses on the potential security risks when using LLMs.
+OWASP released the OWASP Top 10 for LLM (Large Language Model) Applications project, which provides a list...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Intelligence Provider Cyble Raises $24 Million in Series B Funding<a href="https://www.securityweek.com/cyble-raises-24-million-for-ai-powered-threat-intelligence-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new funding round was co-led by Blackbird Ventures and King River Capital, with participation from January Capital, Spider Capital, Summit Peak Ventures, and other investors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Citrix NetScaler ADC and Gateway Servers Hacked in Major Cyber Attack<a href="https://thehackernews.com/2023/08/hundreds-of-citrix-netscaler-adc-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundreds of Citrix NetScaler ADC and Gateway servers have been breached by malicious actors to deploy web shells, according to the Shadowserver Foundation. The non-profit  said  the attacks take advantage of  CVE-2023-3519 , a critical code injection vulnerability that could lead to unauthenticated remote code execution. The flaw, patched by Citrix last month, carries a CVSS score of 9.8. The  largest number  of impacted IP addresses are based in Germany, followed by France, Switzerland, Italy, Sweden, Spain, Japan, China, Austria, and Brazil. The  exploitation  of CVE-2023-3519 to deploy web shells was previously disclosed by the U.S. Cybersecurity and Infrastructure Security Agency (CISA), which  said  the attack was directed against an unnamed critical infrastructure organization in June 2023. The disclosure comes as GreyNoise  said  it detected three IP addresses  attempting  to exploit CVE-2023-24489 (CVSS score: 9.1), another critical flaw in Citrix ShareFile software that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7 found a bypass for the recently patched actively exploited Ivanti EPMM bug<a href="https://securityaffairs.com/149116/security/ivanti-epmm-bypass-cve-2023-35082.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a bypass for a recently fixed actively exploited vulnerability in Ivanti Endpoint Manager Mobile (EPMM).
+Rapid7 cybersecurity researchers have discovered a bypass for the recently patched actively exploited vulnerability in Ivanti...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pennsylvania County Says Data Breach May Have Exposed 690,000 People's Personal Information<a href="https://www.cbsnews.com/pittsburgh/news/allegheny-county-issues-notice-of-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The county says it, along with 22 million people worldwide, has been targeted by a global cyber security breach. The breach gave a group of cybercriminals access to personal information like driver's license numbers and Social Security numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Penetration Testing Buyer's Guide for IT Security Teams<a href="https://thehackernews.com/2023/08/a-penetration-testing-buyers-guide-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The frequency and complexity of cyber threats are constantly evolving. At the same time, organizations are now collecting sensitive data that, if compromised, could result in severe financial and reputational damage.  According to Cybersecurity Ventures , the cost of cybercrime is predicted to hit $8 trillion in 2023 and will grow to $10.5 trillion by 2025. There is also increasing public and regulatory scrutiny over data protection. Compliance regulations (such as PCI DSS and ISO 27001), as well as the need for a better understanding of your cybersecurity risks, are driving the need to conduct regular penetration tests.  Pen testing helps to identify security flaws in your IT infrastructure before threat actors can detect and exploit them. This gives you visibility into the risks posed by potential attacks and enables you to take swift corrective action to address them. Here, we outline key factors to consider before, during, and post the penetration testing process. Pre-Penetrati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT29 conducts phishing attacks through Microsoft Teams<a href="https://securityaffairs.com/149103/apt/apt29-microsoft-teams-phishing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT29 group targeted dozens of organizations and government agencies worldwide with Microsoft Teams phishing attacks.
+Microsoft Threat Intelligence reported that Russia-linked cyberespionage group APT29  (aka SVR group, Cozy Bear, Nobelium,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hacker Group NoName057(16) Claim Attacks on Italian Banks, Government Agencies<a href="https://therecord.media/russian-hackers-claim-attacks-on-italy?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pro-Russian hacking group has claimed responsibility for cyberattacks on Italian banks, businesses, and government agencies which flooded networks and disrupted services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Flags Growing Cybersecurity Concerns for Major Sporting Events<a href="https://thehackernews.com/2023/08/microsoft-flags-growing-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of the threat malicious cyber actors pose to stadium operations, warning that the cyber risk surface of live sporting events is "rapidly expanding." "Information on athletic performance, competitive advantage, and personal information is a lucrative target," the company said in a Cyber Signals report shared with The Hacker News. "Sports teams, major league and global sporting associations, and entertainment venues house a trove of valuable information desirable to cybercriminals." "Unfortunately, this information can be vulnerable at-scale, due to the number of connected devices and interconnected networks in these environments." The company specifically singled out hospitals delivering critical support and health services for fans and players as being targets of ransomware attacks, resulting in service disruptions. To defend against such attacks, Microsoft is recommending that - Companies disable unnecessary ports a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: One in 100 Emails is Malicious<a href="https://www.helpnetsecurity.com/2023/08/02/h1-2023-phishing-bec/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the ever-increasing reliance on workplace technologies, including web-based tools and SaaS applications, organizations face an unparalleled need to strengthen their cybersecurity measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+"Mysterious Team Bangladesh" Targeting India with DDoS Attacks and Data Breaches<a href="https://thehackernews.com/2023/08/mysterious-team-bangladesh-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacktivist group known as  Mysterious Team Bangladesh  has been linked to over 750 distributed denial-of-service (DDoS) attacks and 78 website defacements since June 2022. "The group most frequently attacks logistics, government, and financial sector organizations in India and Israel," Singapore-headquartered cybersecurity firm Group-IB said in a report shared with The Hacker News. "The group is primarily driven by religious and political motives." Some of the other targeted countries include Australia, Senegal, the Netherlands, Sweden, and Ethiopia. In addition, the threat actor is said to have gained access to web servers and administrative panels, likely by exploiting known security flaws or poorly-secured passwords. Mysterious Team Bangladesh, as the name indicates, is suspected to be of Bangladeshi origin. "We are working to protect Our Bangladesh Cyberspace," the group's Intro on Facebook  reads . The group has an active social media pre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 New Variants of NodeStealer Found Infecting Facebook Business Accounts<a href="https://cyware.com/news/new-variants-of-nodestealer-found-infecting-facebook-business-accounts-00270eaa"> Full Text</a>
 </p>
 <details>
@@ -50,7 +310,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2023
+August 03, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exposes Russian Hackers' Sneaky Phishing Tactics via Microsoft Teams Chats<a href="https://thehackernews.com/2023/08/microsoft-exposes-russian-hackers.html"> Full Text</a>
@@ -66,7 +326,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2023
+August 03, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover Bypass for Recently Patched Critical Ivanti EPMM Vulnerability<a href="https://thehackernews.com/2023/08/researchers-discover-bypass-for.html"> Full Text</a>
@@ -82,7 +342,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2023
+August 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers already installed web shells on 581 Citrix servers in CVE-2023-3519 attacks<a href="https://securityaffairs.com/149094/hacking/citrix-servers-webshells-cve-2023-3519-attacks.html"> Full Text</a>
@@ -99,7 +359,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2023
+August 2, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions Stolen From Crypto Platforms Through Exploited ‘Vyper’ Vulnerability<a href="https://therecord.media/millions-stolen-in-vyper-crypto-hack?&web_view=true"> Full Text</a>
@@ -115,7 +375,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2023
+August 2, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero-day in Salesforce email services exploited in targeted Facebook phishing campaign<a href="https://securityaffairs.com/149083/hacking/phishing-facebook-campaign-salesforce-zero-day.html"> Full Text</a>
@@ -132,7 +392,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2023
+August 2, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Gap in Users’ Identity Security Knowledge Gives Cybercriminals an Opening<a href="https://www.helpnetsecurity.com/2023/08/01/identity-security-knowledge/?&web_view=true"> Full Text</a>
@@ -148,7 +408,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2023
+August 02, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Cyber Adversary BlueCharlie Alters Infrastructure in Response to Disclosures<a href="https://thehackernews.com/2023/08/russian-cyber-adversary-bluecharlie.html"> Full Text</a>
@@ -164,7 +424,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2023
+August 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Burger King forgets to put a password on their systems, again<a href="https://securityaffairs.com/149076/data-breach/burger-king-exposed-sensitive-credentials.html"> Full Text</a>
@@ -182,7 +442,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2023
+August 2, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nile, Which Offers Enterprise Networks as a Service, Raises $175M<a href="https://techcrunch.com/2023/08/01/nile-which-offers-enterprise-networks-as-a-service-raises-175m/?&web_view=true"> Full Text</a>
@@ -198,7 +458,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2023
+August 02, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishers Exploit Salesforce's Email Services Zero-Day in Targeted Facebook Campaign<a href="https://thehackernews.com/2023/08/phishers-exploit-salesforces-email.html"> Full Text</a>
@@ -214,7 +474,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2023
+August 2, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds second Ivanti EPMM flaw to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/149071/security/cisa-adds-second-ivanti-epmm-flaw-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -231,7 +491,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2023
+August 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firefox Fixes a Flurry of Flaws in the First of Two Releases This Month<a href="https://nakedsecurity.sophos.com/2023/08/01/firefox-fixes-a-flurry-of-flaws-in-the-first-of-two-releases-this-month/?&web_view=true"> Full Text</a>
@@ -247,7 +507,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2023
+August 02, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industrial Control Systems Vulnerabilities Soar: Over One-Third Unpatched in 2023<a href="https://thehackernews.com/2023/08/industrial-control-systems.html"> Full Text</a>
@@ -263,7 +523,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2023
+August 2, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawsuit Alleges Bytedance’s Capcut App Secretly Reaps Massive Amounts of User Data<a href="https://therecord.media/capcut-privacy-lawsuit-illinois-bipa-bytedance-china?&web_view=true"> Full Text</a>
@@ -279,7 +539,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2023
+August 02, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top Industries Significantly Impacted by Illicit Telegram Networks<a href="https://thehackernews.com/2023/08/top-industries-significantly-impacted.html"> Full Text</a>
@@ -295,7 +555,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2023
+August 2, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack on Montclair Township Led to $450K Settlement<a href="https://montclairlocal.news/cyber-attack-on-montclair-township-led-to-450k-settlement/?&web_view=true"> Full Text</a>
@@ -311,7 +571,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2023
+August 02, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover AWS SSM Agent Misuse as a Covert Remote Access Trojan<a href="https://thehackernews.com/2023/08/researchers-uncover-aws-ssm-agent.html"> Full Text</a>
@@ -327,7 +587,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 2, 2023
+August 2, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Possible Chinese Malware in US Systems a ‘Ticking Time Bomb’: Report<a href="https://www.securityweek.com/possible-chinese-malware-in-us-systems-a-ticking-time-bomb-report/?&web_view=true"> Full Text</a>
@@ -343,7 +603,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2023
+August 02, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Company Cloudzy Accused of Aiding Cybercriminals and Nation-State Hackers<a href="https://thehackernews.com/2023/08/iranian-company-cloudzy-accused-of.html"> Full Text</a>
@@ -359,7 +619,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 02, 2023
+August 02, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Norwegian Entities Targeted in Ongoing Attacks Exploiting Ivanti EPMM Vulnerability<a href="https://thehackernews.com/2023/08/norwegian-entities-targeted-in-ongoing.html"> Full Text</a>
