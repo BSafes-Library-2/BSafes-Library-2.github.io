@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts  
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2023 - OWASP 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OWASP Top 10 for Large Language Model Applications <a href="https://owasp.org/www-project-top-10-for-large-language-model-applications/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+he OWASP Top 10 for Large Language Model Applications project aims to educate developers, designers, architects, managers, and organizations about the potential security risks when deploying and managing Large Language Models (LLMs). The project provides a list of the top 10 most critical vulnerabilities often seen in LLM applications, highlighting their potential impact, ease of exploitation, and prevalence in real-world applications. Examples of vulnerabilities include prompt injections, data leakage, inadequate sandboxing, and unauthorized code execution, among others. The goal is to raise awareness of these vulnerabilities, suggest remediation strategies, and ultimately improve the security posture of LLM applications.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2023 - Microsoft 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberthreats increasingly target the world’s biggest event stages <a href="https://www.microsoft.com/en-us/security/business/security-insider/reports/cyber-signals/cyber-signals-issue-5-cyberthreats-increasingly-target-the-worlds-biggest-event-stages/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors go where the targets are, capitalizing on opportunities to launch targeted or widespread, opportunistic attacks. This extends into high profile sporting events, especially those in increasingly connected environments, introducing cyber risk for organizers, regional host facilities, and attendees. The United Kingdom’s National Cyber Security Centre (NCSC) found that cyberattacks against sports organizations are increasingly common, with 70 percent of those surveyed experiencing at least one attack per year, significantly higher than the average across businesses in the United Kingdom.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 1, 2023 - CISA, NCSC-NO 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Penetration Testing Buyer's Guide for IT Security Teams<a href="https://thehackernews.com/2023/08/a-penetration-testing-buyers-guide-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The frequency and complexity of cyber threats are constantly evolving. At the same time, organizations are now collecting sensitive data that, if compromised, could result in severe financial and reputational damage.&nbsp; According to Cybersecurity Ventures , the cost of cybercrime is predicted to hit $8 trillion in 2023 and will grow to $10.5 trillion by 2025. There is also increasing public and regulatory scrutiny over data protection. Compliance regulations (such as PCI DSS and ISO 27001), as well as the need for a better understanding of your cybersecurity risks, are driving the need to conduct regular penetration tests.&nbsp; Pen testing helps to identify security flaws in your IT infrastructure before threat actors can detect and exploit them. This gives you visibility into the risks posed by potential attacks and enables you to take swift corrective action to address them. Here, we outline key factors to consider before, during, and post the penetration testing process. Pre-Penetrati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

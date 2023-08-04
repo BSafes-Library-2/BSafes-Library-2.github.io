@@ -8,6 +8,37 @@ nav_order: 900029
 
 ## Breach
 ---
+August 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers already installed web shells on 581 Citrix servers in CVE-2023-3519 attacks<a href="https://securityaffairs.com/149094/hacking/citrix-servers-webshells-cve-2023-3519-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that hundreds of Citrix servers have been hacked in an ongoing campaign exploiting the RCE CVE-2023-3519.
+Security researchers from the non-profit organization Shadowserver Foundation reported that hundreds of Citrix Netscaler ADC and Gateway...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Burger King forgets to put a password on their systems, again<a href="https://securityaffairs.com/149076/data-breach/burger-king-exposed-sensitive-credentials.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fast food giant Burger King put their systems and data at risk by exposing sensitive credentials to the public for a second time.
+Original post @https://cybernews.com/security/burger-king-data-leak/
+Burger King is a renowned US-based international...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

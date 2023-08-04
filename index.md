@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome 115 Update Patches V8 JavaScript and WebAssembly Engine Vulnerabilities<a href="https://www.securityweek.com/google-awards-60000-for-v8-vulnerabilities-patched-with-chrome-115-update/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2023
+August 03, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Apps Use Sneaky Versioning Technique to Bypass Google Play Store Scanners<a href="https://thehackernews.com/2023/08/malicious-apps-use-sneaky-versioning.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Decommissioned medical infusion pumps sold on secondary market could reveal Wi-Fi configuration settings<a href="https://securityaffairs.com/149130/hacking/decommissioned-medical-infusion-pumps-wi-fi-leak.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian Healthcare Workers’ Private Information Subject to Data Breach<a href="https://bc.ctvnews.ca/b-c-health-care-workers-private-information-subject-to-data-breach-1.6502818?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2023
+August 03, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Version of Rilide Data Theft Malware Adapts to Chrome Extension Manifest V3<a href="https://thehackernews.com/2023/08/new-version-of-rilide-data-theft.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OWASP Top 10 for LLM (Large Language Model) applications is out!<a href="https://securityaffairs.com/149124/security/owasp-top-10-for-llm.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Intelligence Provider Cyble Raises $24 Million in Series B Funding<a href="https://www.securityweek.com/cyble-raises-24-million-for-ai-powered-threat-intelligence-platform/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2023
+August 03, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of Citrix NetScaler ADC and Gateway Servers Hacked in Major Cyber Attack<a href="https://thehackernews.com/2023/08/hundreds-of-citrix-netscaler-adc-and.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rapid7 found a bypass for the recently patched actively exploited Ivanti EPMM bug<a href="https://securityaffairs.com/149116/security/ivanti-epmm-bypass-cve-2023-35082.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pennsylvania County Says Data Breach May Have Exposed 690,000 People's Personal Information<a href="https://www.cbsnews.com/pittsburgh/news/allegheny-county-issues-notice-of-data-breach/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2023
+August 03, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Penetration Testing Buyer's Guide for IT Security Teams<a href="https://thehackernews.com/2023/08/a-penetration-testing-buyers-guide-for.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian APT29 conducts phishing attacks through Microsoft Teams<a href="https://securityaffairs.com/149103/apt/apt29-microsoft-teams-phishing-attacks.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hacker Group NoName057(16) Claim Attacks on Italian Banks, Government Agencies<a href="https://therecord.media/russian-hackers-claim-attacks-on-italy?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2023
+August 03, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Flags Growing Cybersecurity Concerns for Major Sporting Events<a href="https://thehackernews.com/2023/08/microsoft-flags-growing-cybersecurity.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: One in 100 Emails is Malicious<a href="https://www.helpnetsecurity.com/2023/08/02/h1-2023-phishing-bec/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2023
+August 03, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 "Mysterious Team Bangladesh" Targeting India with DDoS Attacks and Data Breaches<a href="https://thehackernews.com/2023/08/mysterious-team-bangladesh-targeting.html"> Full Text</a>

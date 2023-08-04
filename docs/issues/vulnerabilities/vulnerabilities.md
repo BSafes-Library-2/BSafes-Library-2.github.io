@@ -8,6 +8,50 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome 115 Update Patches V8 JavaScript and WebAssembly Engine Vulnerabilities<a href="https://www.securityweek.com/google-awards-60000-for-v8-vulnerabilities-patched-with-chrome-115-update/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The browser update resolves three high-severity type confusion bugs in the V8 JavaScript and WebAssembly engine that earned the reporting researchers over $60,000 in bug bounties, Google notes in its advisory.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decommissioned medical infusion pumps sold on secondary market could reveal Wi-Fi configuration settings<a href="https://securityaffairs.com/149130/hacking/decommissioned-medical-infusion-pumps-wi-fi-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn that decommissioned medical infusion pumps sold via the secondary market could expose Wi-Fi configuration settings.
+The sale of decommissioned medical infusion pumps through the secondary market may lead to the potential exposure of Wi-Fi...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7 found a bypass for the recently patched actively exploited Ivanti EPMM bug<a href="https://securityaffairs.com/149116/security/ivanti-epmm-bypass-cve-2023-35082.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a bypass for a recently fixed actively exploited vulnerability in Ivanti Endpoint Manager Mobile (EPMM).
+Rapid7 cybersecurity researchers have discovered a bypass for the recently patched actively exploited vulnerability in Ivanti...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

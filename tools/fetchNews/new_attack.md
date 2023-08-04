@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Citrix NetScaler ADC and Gateway Servers Hacked in Major Cyber Attack<a href="https://thehackernews.com/2023/08/hundreds-of-citrix-netscaler-adc-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hundreds of Citrix NetScaler ADC and Gateway servers have been breached by malicious actors to deploy web shells, according to the Shadowserver Foundation. The non-profit&nbsp; said &nbsp;the attacks take advantage of&nbsp; CVE-2023-3519 , a critical code injection vulnerability that could lead to unauthenticated remote code execution. The flaw, patched by Citrix last month, carries a CVSS score of 9.8. The&nbsp; largest number &nbsp;of impacted IP addresses are based in Germany, followed by France, Switzerland, Italy, Sweden, Spain, Japan, China, Austria, and Brazil. The&nbsp; exploitation &nbsp;of CVE-2023-3519 to deploy web shells was previously disclosed by the U.S. Cybersecurity and Infrastructure Security Agency (CISA), which&nbsp; said &nbsp;the attack was directed against an unnamed critical infrastructure organization in June 2023. The disclosure comes as GreyNoise&nbsp; said &nbsp;it detected three IP addresses&nbsp; attempting &nbsp;to exploit CVE-2023-24489 (CVSS score: 9.1), another critical flaw in Citrix ShareFile software that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hacker Group NoName057(16) Claim Attacks on Italian Banks, Government Agencies<a href="https://therecord.media/russian-hackers-claim-attacks-on-italy?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pro-Russian hacking group has claimed responsibility for cyberattacks on Italian banks, businesses, and government agencies which flooded networks and disrupted services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

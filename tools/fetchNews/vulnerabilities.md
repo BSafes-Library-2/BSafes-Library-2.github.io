@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Bypass for Recently Patched Critical Ivanti EPMM Vulnerability<a href="https://thehackernews.com/2023/08/researchers-discover-bypass-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a bypass for a recently fixed actively exploited vulnerability in some versions of Ivanti Endpoint Manager Mobile (EPMM), prompting Ivanti to urge users to update to the latest version of the software. Tracked as&nbsp; CVE-2023-35082 &nbsp;(CVSS score: 10.0) and discovered by Rapid7, the issue "allows unauthenticated attackers to access the API in older unsupported versions of MobileIron Core (11.2 and below)." "If exploited, this vulnerability enables an unauthorized, remote (internet-facing) actor to potentially access users' personally identifiable information and make limited changes to the server," Ivanti&nbsp; said &nbsp;in an advisory released on August 2, 2023. Rapid7 security researcher Stephen Fewer&nbsp; said , "CVE-2023-35082 arises from the same place as CVE-2023-35078, specifically the permissive nature of certain entries in the mifs web application's security filter chain." With the latest disclosure, Ivanti has
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox Fixes a Flurry of Flaws in the First of Two Releases This Month<a href="https://nakedsecurity.sophos.com/2023/08/01/firefox-fixes-a-flurry-of-flaws-in-the-first-of-two-releases-this-month/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla has released a new version of Firefox, marking the first of two upgrades for the month. The patched flaws are tracked as CVE-2023-4045, CVE-2023-4047, CVE-2023-4048, CVE-2023-4050, CVE-2023-4051, CVE-2023-4057, and CVE-2023-4058.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 02, 2023 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover AWS SSM Agent Misuse as a Covert Remote Access Trojan<a href="https://thehackernews.com/2023/08/researchers-uncover-aws-ssm-agent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new post-exploitation technique in Amazon Web Services (AWS) that allows the AWS Systems Manager Agent (SSM Agent) to be run as a remote access trojan on Windows and Linux environments "The SSM agent, a legitimate tool used by admins to manage their instances, can be re-purposed by an attacker who has achieved high privilege access on an endpoint with SSM agent installed, to carry out malicious activities on an ongoing basis," Mitiga researchers Ariel Szarf and Or Aspir&nbsp; said &nbsp;in a report shared with The Hacker News. "This allows an attacker who has compromised a machine, hosted on AWS or anywhere else, to maintain access to it and perform various malicious activities." SSM Agent is a&nbsp; software &nbsp;installed on Amazon Elastic Compute Cloud (Amazon EC2) instances that makes it possible for administrators to update, manage, and configure their AWS resources through a unified interface. The advantages of using an SSM Agent
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

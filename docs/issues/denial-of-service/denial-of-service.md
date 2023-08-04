@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+August 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+"Mysterious Team Bangladesh" Targeting India with DDoS Attacks and Data Breaches<a href="https://thehackernews.com/2023/08/mysterious-team-bangladesh-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacktivist group known as&nbsp; Mysterious Team Bangladesh &nbsp;has been linked to over 750 distributed denial-of-service (DDoS) attacks and 78 website defacements since June 2022. "The group most frequently attacks logistics, government, and financial sector organizations in India and Israel," Singapore-headquartered cybersecurity firm Group-IB said in a report shared with The Hacker News. "The group is primarily driven by religious and political motives." Some of the other targeted countries include Australia, Senegal, the Netherlands, Sweden, and Ethiopia. In addition, the threat actor is said to have gained access to web servers and administrative panels, likely by exploiting known security flaws or poorly-secured passwords. Mysterious Team Bangladesh, as the name indicates, is suspected to be of Bangladeshi origin. "We are working to protect Our Bangladesh Cyberspace," the group's Intro on Facebook&nbsp; reads . The group has an active social media pre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions Stolen From Crypto Platforms Through Exploited ‘Vyper’ Vulnerability<a href="https://therecord.media/millions-stolen-in-vyper-crypto-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millions of dollars worth of cryptocurrency were stolen from several platforms over the weekend after hackers exploited a vulnerability in a programming language used widely in the cryptocurrency world.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

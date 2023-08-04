@@ -8,6 +8,49 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exposes Russian Hackers' Sneaky Phishing Tactics via Microsoft Teams Chats<a href="https://thehackernews.com/2023/08/microsoft-exposes-russian-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday disclosed that it identified a set of highly targeted social engineering attacks mounted by a Russian nation-state threat actor using credential theft phishing lures sent as Microsoft Teams chats. The tech giant attributed the attacks to a group it tracks as&nbsp; Midnight Blizzard &nbsp;(previously Nobelium). It's also called APT29, BlueBravo, Cozy Bear, Iron Hemlock, and The Dukes. "In this latest activity, the threat actor uses previously compromised Microsoft 365 tenants owned by small businesses to create new domains that appear as technical support entities," the company&nbsp; said . "Using these domains from compromised tenants, Midnight Blizzard leverages Teams messages to send lures that attempt to steal credentials from a targeted organization by engaging a user and eliciting approval of multi-factor authentication (MFA) prompts." Microsoft said the campaign, observed since at least late May 2023, affected less than 40 organizations global
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-day in Salesforce email services exploited in targeted Facebook phishing campaign<a href="https://securityaffairs.com/149083/hacking/phishing-facebook-campaign-salesforce-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts spotted a spear-phishing Facebook campaign exploiting a zero-day vulnerability in Salesforce email services.
+Researchers from Guardio Labs uncovered a sophisticated phishing campaign exploiting a zero-day vulnerability in Salesforce email...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishers Exploit Salesforce's Email Services Zero-Day in Targeted Facebook Campaign<a href="https://thehackernews.com/2023/08/phishers-exploit-salesforces-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated Facebook phishing campaign has been observed exploiting a zero-day flaw in Salesforce's email services, allowing threat actors to craft targeted phishing messages using the company's domain and infrastructure. "Those phishing campaigns cleverly evade conventional detection methods by chaining the Salesforce vulnerability and legacy quirks in Facebook's Web Games platform," Guardio Labs researchers Oleg Zaytsev and Nati Tal&nbsp; said &nbsp;in a report shared with The Hacker News. The email messages masquerade as coming from Meta, while being sent from an email address with a "@salesforce.com" domain. They seek to trick recipients into clicking on a link by claiming that their Facebook accounts are undergoing a "comprehensive investigation" due to "suspicions of engaging in impersonation." The goal is to direct users to a rogue landing page that's designed to capture the victim's account credentials and two-factor aut
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
