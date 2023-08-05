@@ -8,6 +8,49 @@ nav_order: 900072
 
 ## General
 ---
+August 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OWASP Top 10 for LLM (Large Language Model) applications is out!<a href="https://securityaffairs.com/149124/security/owasp-top-10-for-llm.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp;OWASP Top 10 for LLM (Large Language Model) Applications version 1.0 is out, it focuses on the potential security risks when using LLMs.
+OWASP released the OWASP Top 10 for LLM (Large Language Model) Applications project, which provides a list...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Flags Growing Cybersecurity Concerns for Major Sporting Events<a href="https://thehackernews.com/2023/08/microsoft-flags-growing-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of the threat malicious cyber actors pose to stadium operations, warning that the cyber risk surface of live sporting events is "rapidly expanding." "Information on athletic performance, competitive advantage, and personal information is a lucrative target," the company said in a Cyber Signals report shared with The Hacker News. "Sports teams, major league and global sporting associations, and entertainment venues house a trove of valuable information desirable to cybercriminals." "Unfortunately, this information can be vulnerable at-scale, due to the number of connected devices and interconnected networks in these environments." The company specifically singled out hospitals delivering critical support and health services for fans and players as being targets of ransomware attacks, resulting in service disruptions. To defend against such attacks, Microsoft is recommending that - Companies disable unnecessary ports a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: One in 100 Emails is Malicious<a href="https://www.helpnetsecurity.com/2023/08/02/h1-2023-phishing-bec/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the ever-increasing reliance on workplace technologies, including web-based tools and SaaS applications, organizations face an unparalleled need to strengthen their cybersecurity measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

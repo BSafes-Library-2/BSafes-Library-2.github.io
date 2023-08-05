@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts  
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2023 - CISA, NSA, FBI  
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, NSA, FBI, and International Partners Release Joint CSA on Top Routinely Exploited Vulnerabilities of 2022  <a href="https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA), National Security Agency (NSA), Federal Bureau of Investigation (FBI), and international partners are releasing a joint Cybersecurity Advisory (CSA), 2022 Top Routinely Exploited Vulnerabilities. This advisory provides details on the top Common Vulnerabilities and Exposures (CVEs) routinely exploited by malicious cyber actors in 2022, and the associated Common Weakness Enumeration(s) (CWE), to help organizations better understand the impact exploitation could have on their systems. International partners include: Australian Signals Directorate’s Australian Cyber Security Centre (ACSC), Canadian Centre for Cyber Security (CCCS), New Zealand National Cyber Security Centre (NCSC-NZ), New Zealand Computer Emergency Response Team (CERT-NZ), and the United Kingdom’s National Cyber Security Centre (NCSC-UK), and the United Kingdom’s National Cyber Security Centre (NCSC-UK).
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 3, 2023 - OWASP 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

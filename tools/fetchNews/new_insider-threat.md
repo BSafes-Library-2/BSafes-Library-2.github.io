@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+August 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Burger King Forgets to put a Password on Their Systems, Again<a href="https://securityaffairs.com/149076/data-breach/burger-king-exposed-sensitive-credentials.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 1st, 2023, the Cybernews research team discovered a publicly accessible environment file (.env) belonging to Burger King’s French website, containing various credentials. The file was hosted on the subdomain used for posting job offers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2023
+August 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mondee Security Lapse Exposed Flight Itineraries and Unencrypted Credit Card Numbers<a href="https://techcrunch.com/2023/08/02/mondee-data-exposed-credit-cards-flight-itineraries/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2023
+August 04, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NYC Couple Pleads Guilty to Money Laundering in $3.6 Billion Bitfinex Hack<a href="https://thehackernews.com/2023/08/nyc-couple-pleads-guilty-to-money.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2023
+August 4, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A cyberattack impacted operations of multiple hospitals in several US states<a href="https://securityaffairs.com/149181/hacking/cyberattack-impacted-multiple-us-hospitals.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2023
+August 4, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hawai’I’s Gemini North Observatory Suspends Operations Following Cyberattack<a href="https://therecord.media/gemini-north-observatory-cyberattack?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2023
+August 04, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar - Making PAM Great Again: Solving the Top 5 Identity Team PAM Challenges<a href="https://thehackernews.com/2023/08/webinar-making-pam-great-again-solving.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2023
+August 4, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Married couple pleaded guilty to laundering billions in cryptocurrency stolen from Bitfinex in 2016<a href="https://securityaffairs.com/149173/cyber-crime/married-couple-pleaded-guilty-bitfinex.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2023
+August 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rilide Stealer Evolves to Target Chrome Extension Manifest V3<a href="https://cyware.com/news/rilide-stealer-evolves-to-target-chrome-extension-manifest-v3-915eaba0"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2023
+August 04, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious npm Packages Found Exfiltrating Sensitive Data from Developers<a href="https://thehackernews.com/2023/08/malicious-npm-packages-found.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2023
+August 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious packages in the NPM designed for highly-targeted attacks<a href="https://securityaffairs.com/149165/hacking/npm-highly-targeted-attacks.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2023
+August 4, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Burger King Forgets to put a Password on Their Systems, Again<a href="https://securityaffairs.com/149076/data-breach/burger-king-exposed-sensitive-credentials.html?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 04, 2023
+August 04, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major Cybersecurity Agencies Collaborate to Unveil 2022's Most Exploited Vulnerabilities<a href="https://thehackernews.com/2023/08/major-cybersecurity-agencies.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2023
+August 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers use dynamic code loading to bypass Google Play store’s malware detections<a href="https://securityaffairs.com/149150/hacking/google-play-malware-versioning-evasion.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2023
+August 4, 2023 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SCARF Cipher Sets New Standards in Protecting Sensitive Data<a href="https://www.helpnetsecurity.com/2023/08/03/scarf-cipher-protecting-sensitive-data/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2023
+August 4, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA, FBI, and NSA published the list of 12 most exploited vulnerabilities of 2022<a href="https://securityaffairs.com/149141/security/14914112-most-exploited-vulnerabilities-2022.html"> Full Text</a>
@@ -263,7 +263,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 4, 2023
+August 4, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 These Are the Top Five Cloud Security Risks, Qualys Says<a href="https://www.securityweek.com/these-are-the-top-five-cloud-security-risks-qualys-says/?&web_view=true"> Full Text</a>

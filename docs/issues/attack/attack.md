@@ -8,6 +8,21 @@ nav_order: 900015
 
 ## Attack
 ---
+August 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers use dynamic code loading to bypass Google Play store’s malware detections<a href="https://securityaffairs.com/149150/hacking/google-play-malware-versioning-evasion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors rely on the 'versioning' technique to evade malware detections of malicious code uploaded to the Google Play Store.
+Google Cybersecurity Action Team (GCAT) revealed that threat actors are using a technique called versioning to evade...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

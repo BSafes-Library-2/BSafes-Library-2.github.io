@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar - Making PAM Great Again: Solving the Top 5 Identity Team PAM Challenges<a href="https://thehackernews.com/2023/08/webinar-making-pam-great-again-solving.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Privileged Access Management (PAM) solutions are widely acknowledged as the gold standard for securing critical privileged accounts. However, many security and identity teams face inherent obstacles during the PAM journey, hindering these solutions from reaching their full potential. These challenges deprive organizations of the resilience they seek, making it essential to address them effectively. Discover how you can enhance your PAM strategy in our upcoming webinar: " Solving the Top 5 PAM Pain Points Plaguing Identity Teams ," featuring Yiftach Keshet from Silverfort. Reserve your spot now [Register here] to gain invaluable insights. Gain insights into: Key Challenges: Identify the primary challenges identity teams encounter when implementing PAM solutions. Solutions &amp; Approaches: Discover different strategies to effectively overcome these challenges and enhance your security posture. Unified Identity Protection: Learn how combining Unified Identity Protectio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

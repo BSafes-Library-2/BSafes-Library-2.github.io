@@ -8,6 +8,35 @@ nav_order: 900140
 
 ## Outage
 ---
+August 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyberattack impacted operations of multiple hospitals in several US states<a href="https://securityaffairs.com/149181/hacking/cyberattack-impacted-multiple-us-hospitals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack has disrupted the computer systems of multiple hospitals in several states, with a severe impact on their operations.
+Some emergency rooms in multiple hospitals in several states were forced to close and ambulances were diverted due to a cyberattack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hawai’I’s Gemini North Observatory Suspends Operations Following Cyberattack<a href="https://therecord.media/gemini-north-observatory-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Science Foundation’s NOIRLab did not respond to requests for comment but published a notice on Tuesday night explaining that the lab had discovered an attempted cyberattack on its systems that morning.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

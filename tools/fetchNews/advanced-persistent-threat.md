@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT29 conducts phishing attacks through Microsoft Teams<a href="https://securityaffairs.com/149103/apt/apt29-microsoft-teams-phishing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT29 group targeted dozens of organizations and government agencies worldwide with Microsoft Teams phishing attacks.
+Microsoft Threat Intelligence reported that Russia-linked cyberespionage group APT29 &nbsp;(aka&nbsp;SVR group,&nbsp;Cozy Bear,&nbsp;Nobelium,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

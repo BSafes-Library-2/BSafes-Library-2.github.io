@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NYC Couple Pleads Guilty to Money Laundering in $3.6 Billion Bitfinex Hack<a href="https://thehackernews.com/2023/08/nyc-couple-pleads-guilty-to-money.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A married couple from New York City has pleaded guilty to money laundering charges in connection with the 2016 hack of cryptocurrency stock exchange Bitfinex, resulting in the theft of about 120,000 bitcoin. The development comes more than a year after Ilya Lichtenstein, 35, and his wife, Heather Morgan, 33, were&nbsp; arrested in February 2022 , following the seizure of roughly 95,000 of the stolen crypto assets that were held by the defendants. The funds were valued at $3.6 billion at the time. Since then, the U.S. government said it has since seized another approximately $475 million tied to the breach. "Lichtenstein used a number of advanced hacking tools and techniques to gain access to Bitfinex's network," the U.S. Department of Justice (DoJ)&nbsp; said . "Once inside their systems, Lichtenstein fraudulently authorized more than 2,000 transactions in which 119,754 bitcoin was transferred from Bitfinex to a cryptocurrency wallet in Lichtenstein's control."
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

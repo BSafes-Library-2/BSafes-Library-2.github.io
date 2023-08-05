@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+August 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Cybersecurity Agencies Collaborate to Unveil 2022's Most Exploited Vulnerabilities<a href="https://thehackernews.com/2023/08/major-cybersecurity-agencies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A four-year-old critical security flaw impacting Fortinet FortiOS SSL has emerged as one of the most routinely and frequently exploited vulnerabilities in 2022. "In 2022, malicious cyber actors exploited older software vulnerabilities more frequently than recently disclosed vulnerabilities and targeted unpatched, internet-facing systems," cybersecurity and intelligence agencies from the Five Eyes nations, which comprises Australia, Canada, New Zealand, the U.K., and the U.S.,&nbsp; said &nbsp;in a joint alert. The continued weaponization of&nbsp; CVE-2018-13379 , which was also one among the most exploited bugs in&nbsp; 2020 &nbsp;and&nbsp; 2021 , suggests a failure on the part of organizations to apply patches in a timely manner, the authorities said. "Malicious cyber actors likely prioritize developing exploits for severe and globally prevalent CVEs," according to the advisory. "While sophisticated actors also develop tools to exploit other vulnerabilities, developing exploits for cri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, and NSA published the list of 12 most exploited vulnerabilities of 2022<a href="https://securityaffairs.com/149141/security/14914112-most-exploited-vulnerabilities-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, the FBI, and NSA, along with Five Eyes cybersecurity agencies published a list of the 12 most exploited vulnerabilities of 2022.
+CISA, the NSA, and the FBI, in collaboration with cybersecurity authorities from Australia, Canada, New Zealand,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

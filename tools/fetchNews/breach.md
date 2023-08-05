@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Healthcare Workers’ Private Information Subject to Data Breach<a href="https://bc.ctvnews.ca/b-c-health-care-workers-private-information-subject-to-data-breach-1.6502818?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers had access to the HEABC system from May 9 to June 10 and the breach wasn’t detected until July 13, according to the association, after staff “identified a potential anomaly” but did not provide further explanation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pennsylvania County Says Data Breach May Have Exposed 690,000 People's Personal Information<a href="https://www.cbsnews.com/pittsburgh/news/allegheny-county-issues-notice-of-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The county says it, along with 22 million people worldwide, has been targeted by a global cyber security breach. The breach gave a group of cybercriminals access to personal information like driver's license numbers and Social Security numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

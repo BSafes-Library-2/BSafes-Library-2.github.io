@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mondee Security Lapse Exposed Flight Itineraries and Unencrypted Credit Card Numbers<a href="https://techcrunch.com/2023/08/02/mondee-data-exposed-credit-cards-flight-itineraries/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The database, hosted on Oracle’s cloud and more than 1.7 terabytes in size at the time it was exposed, contained customer’s personal information, including names, gender, dates of birth, home addresses, flight information and passport numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
