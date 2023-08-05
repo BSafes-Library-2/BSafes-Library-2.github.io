@@ -34,7 +34,252 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mondee Security Lapse Exposed Flight Itineraries and Unencrypted Credit Card Numbers<a href="https://techcrunch.com/2023/08/02/mondee-data-exposed-credit-cards-flight-itineraries/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The database, hosted on Oracle’s cloud and more than 1.7 terabytes in size at the time it was exposed, contained customer’s personal information, including names, gender, dates of birth, home addresses, flight information and passport numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NYC Couple Pleads Guilty to Money Laundering in $3.6 Billion Bitfinex Hack<a href="https://thehackernews.com/2023/08/nyc-couple-pleads-guilty-to-money.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A married couple from New York City has pleaded guilty to money laundering charges in connection with the 2016 hack of cryptocurrency stock exchange Bitfinex, resulting in the theft of about 120,000 bitcoin. The development comes more than a year after Ilya Lichtenstein, 35, and his wife, Heather Morgan, 33, were  arrested in February 2022 , following the seizure of roughly 95,000 of the stolen crypto assets that were held by the defendants. The funds were valued at $3.6 billion at the time. Since then, the U.S. government said it has since seized another approximately $475 million tied to the breach. "Lichtenstein used a number of advanced hacking tools and techniques to gain access to Bitfinex's network," the U.S. Department of Justice (DoJ)  said . "Once inside their systems, Lichtenstein fraudulently authorized more than 2,000 transactions in which 119,754 bitcoin was transferred from Bitfinex to a cryptocurrency wallet in Lichtenstein's control."
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyberattack impacted operations of multiple hospitals in several US states<a href="https://securityaffairs.com/149181/hacking/cyberattack-impacted-multiple-us-hospitals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyberattack has disrupted the computer systems of multiple hospitals in several states, with a severe impact on their operations.
+Some emergency rooms in multiple hospitals in several states were forced to close and ambulances were diverted due to a cyberattack...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hawai’I’s Gemini North Observatory Suspends Operations Following Cyberattack<a href="https://therecord.media/gemini-north-observatory-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Science Foundation’s NOIRLab did not respond to requests for comment but published a notice on Tuesday night explaining that the lab had discovered an attempted cyberattack on its systems that morning.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar - Making PAM Great Again: Solving the Top 5 Identity Team PAM Challenges<a href="https://thehackernews.com/2023/08/webinar-making-pam-great-again-solving.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Privileged Access Management (PAM) solutions are widely acknowledged as the gold standard for securing critical privileged accounts. However, many security and identity teams face inherent obstacles during the PAM journey, hindering these solutions from reaching their full potential. These challenges deprive organizations of the resilience they seek, making it essential to address them effectively. Discover how you can enhance your PAM strategy in our upcoming webinar: " Solving the Top 5 PAM Pain Points Plaguing Identity Teams ," featuring Yiftach Keshet from Silverfort. Reserve your spot now [Register here] to gain invaluable insights. Gain insights into: Key Challenges: Identify the primary challenges identity teams encounter when implementing PAM solutions. Solutions & Approaches: Discover different strategies to effectively overcome these challenges and enhance your security posture. Unified Identity Protection: Learn how combining Unified Identity Protectio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Married couple pleaded guilty to laundering billions in cryptocurrency stolen from Bitfinex in 2016<a href="https://securityaffairs.com/149173/cyber-crime/married-couple-pleaded-guilty-bitfinex.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A married couple from New York pleaded guilty this week to laundering billions of dollars stolen from Bitfinex in 2016.
+The couple pleaded guilty to money laundering charges in connection with the hack of the cryptocurrency stock exchange Bitfinex...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rilide Stealer Evolves to Target Chrome Extension Manifest V3<a href="https://cyware.com/news/rilide-stealer-evolves-to-target-chrome-extension-manifest-v3-915eaba0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A rather sophisticated version of the Rilide malware was identified targeting Chromium-based web browsers to steal sensitive data and cryptocurrency.  Experts identified over 1,300 phishing websites distributing the new version of Rilide Stealer along with other harmful malware such as Bu ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious npm Packages Found Exfiltrating Sensitive Data from Developers<a href="https://thehackernews.com/2023/08/malicious-npm-packages-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new bunch of malicious packages on the npm package registry that are designed to exfiltrate sensitive developer information. Software supply chain firm Phylum, which first identified the "test" packages on July 31, 2023, said they "demonstrated increasing functionality and refinement," hours after which they were removed and re-uploaded under different, legitimate-sounding package names. While the end goal of the undertaking is not clear, it's suspected to be a highly targeted campaign  aimed at the cryptocurrency sector  based on references to modules such as "rocketrefer" and "binarium." All the packages were published by the npm user malikrukd4732. A common feature across all the modules is the ability to launch JavaScript ("index.js") that's equipped to exfiltrate valuable information to a remote server. "The index.js code is spawned in a child process by the preinstall.j
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious packages in the NPM designed for highly-targeted attacks<a href="https://securityaffairs.com/149165/hacking/npm-highly-targeted-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a new set of malicious packages on the npm package manager that can exfiltrate sensitive developer data.
+On July 31, 2023, Phylum researchers observed the publication of ten different "test" packages on the npm package manager...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Burger King Forgets to put a Password on Their Systems, Again<a href="https://securityaffairs.com/149076/data-breach/burger-king-exposed-sensitive-credentials.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On June 1st, 2023, the Cybernews research team discovered a publicly accessible environment file (.env) belonging to Burger King’s French website, containing various credentials. The file was hosted on the subdomain used for posting job offers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Cybersecurity Agencies Collaborate to Unveil 2022's Most Exploited Vulnerabilities<a href="https://thehackernews.com/2023/08/major-cybersecurity-agencies.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A four-year-old critical security flaw impacting Fortinet FortiOS SSL has emerged as one of the most routinely and frequently exploited vulnerabilities in 2022. "In 2022, malicious cyber actors exploited older software vulnerabilities more frequently than recently disclosed vulnerabilities and targeted unpatched, internet-facing systems," cybersecurity and intelligence agencies from the Five Eyes nations, which comprises Australia, Canada, New Zealand, the U.K., and the U.S.,  said  in a joint alert. The continued weaponization of  CVE-2018-13379 , which was also one among the most exploited bugs in  2020  and  2021 , suggests a failure on the part of organizations to apply patches in a timely manner, the authorities said. "Malicious cyber actors likely prioritize developing exploits for severe and globally prevalent CVEs," according to the advisory. "While sophisticated actors also develop tools to exploit other vulnerabilities, developing exploits for cri
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers use dynamic code loading to bypass Google Play store’s malware detections<a href="https://securityaffairs.com/149150/hacking/google-play-malware-versioning-evasion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors rely on the 'versioning' technique to evade malware detections of malicious code uploaded to the Google Play Store.
+Google Cybersecurity Action Team (GCAT) revealed that threat actors are using a technique called versioning to evade...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SCARF Cipher Sets New Standards in Protecting Sensitive Data<a href="https://www.helpnetsecurity.com/2023/08/03/scarf-cipher-protecting-sensitive-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cipher, designed by Assistant Professor Rei Ueno from the Research Institute of Electrical Communication at Tohoku University, addresses the threat of cache side-channel attacks, offering enhanced security and exceptional performance.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, and NSA published the list of 12 most exploited vulnerabilities of 2022<a href="https://securityaffairs.com/149141/security/14914112-most-exploited-vulnerabilities-2022.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, the FBI, and NSA, along with Five Eyes cybersecurity agencies published a list of the 12 most exploited vulnerabilities of 2022.
+CISA, the NSA, and the FBI, in collaboration with cybersecurity authorities from Australia, Canada, New Zealand,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These Are the Top Five Cloud Security Risks, Qualys Says<a href="https://www.securityweek.com/these-are-the-top-five-cloud-security-risks-qualys-says/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The five key risk areas are misconfigurations, external-facing vulnerabilities, weaponized vulnerabilities, malware inside a cloud environment, and remediation lag (that is, delays in patching).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome 115 Update Patches V8 JavaScript and WebAssembly Engine Vulnerabilities<a href="https://www.securityweek.com/google-awards-60000-for-v8-vulnerabilities-patched-with-chrome-115-update/?&web_view=true"> Full Text</a>
@@ -50,7 +295,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2023
+August 03, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Apps Use Sneaky Versioning Technique to Bypass Google Play Store Scanners<a href="https://thehackernews.com/2023/08/malicious-apps-use-sneaky-versioning.html"> Full Text</a>
@@ -66,7 +311,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Decommissioned medical infusion pumps sold on secondary market could reveal Wi-Fi configuration settings<a href="https://securityaffairs.com/149130/hacking/decommissioned-medical-infusion-pumps-wi-fi-leak.html"> Full Text</a>
@@ -83,7 +328,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian Healthcare Workers’ Private Information Subject to Data Breach<a href="https://bc.ctvnews.ca/b-c-health-care-workers-private-information-subject-to-data-breach-1.6502818?&web_view=true"> Full Text</a>
@@ -99,7 +344,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2023
+August 03, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Version of Rilide Data Theft Malware Adapts to Chrome Extension Manifest V3<a href="https://thehackernews.com/2023/08/new-version-of-rilide-data-theft.html"> Full Text</a>
@@ -115,7 +360,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OWASP Top 10 for LLM (Large Language Model) applications is out!<a href="https://securityaffairs.com/149124/security/owasp-top-10-for-llm.html"> Full Text</a>
@@ -132,7 +377,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Intelligence Provider Cyble Raises $24 Million in Series B Funding<a href="https://www.securityweek.com/cyble-raises-24-million-for-ai-powered-threat-intelligence-platform/?&web_view=true"> Full Text</a>
@@ -148,7 +393,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2023
+August 03, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of Citrix NetScaler ADC and Gateway Servers Hacked in Major Cyber Attack<a href="https://thehackernews.com/2023/08/hundreds-of-citrix-netscaler-adc-and.html"> Full Text</a>
@@ -164,7 +409,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rapid7 found a bypass for the recently patched actively exploited Ivanti EPMM bug<a href="https://securityaffairs.com/149116/security/ivanti-epmm-bypass-cve-2023-35082.html"> Full Text</a>
@@ -181,7 +426,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pennsylvania County Says Data Breach May Have Exposed 690,000 People's Personal Information<a href="https://www.cbsnews.com/pittsburgh/news/allegheny-county-issues-notice-of-data-breach/?&web_view=true"> Full Text</a>
@@ -197,7 +442,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2023
+August 03, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Penetration Testing Buyer's Guide for IT Security Teams<a href="https://thehackernews.com/2023/08/a-penetration-testing-buyers-guide-for.html"> Full Text</a>
@@ -213,7 +458,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian APT29 conducts phishing attacks through Microsoft Teams<a href="https://securityaffairs.com/149103/apt/apt29-microsoft-teams-phishing-attacks.html"> Full Text</a>
@@ -230,7 +475,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hacker Group NoName057(16) Claim Attacks on Italian Banks, Government Agencies<a href="https://therecord.media/russian-hackers-claim-attacks-on-italy?&web_view=true"> Full Text</a>
@@ -246,7 +491,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2023
+August 03, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Flags Growing Cybersecurity Concerns for Major Sporting Events<a href="https://thehackernews.com/2023/08/microsoft-flags-growing-cybersecurity.html"> Full Text</a>
@@ -262,7 +507,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 3, 2023
+August 3, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: One in 100 Emails is Malicious<a href="https://www.helpnetsecurity.com/2023/08/02/h1-2023-phishing-bec/?&web_view=true"> Full Text</a>
@@ -278,7 +523,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 03, 2023
+August 03, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 "Mysterious Team Bangladesh" Targeting India with DDoS Attacks and Data Breaches<a href="https://thehackernews.com/2023/08/mysterious-team-bangladesh-targeting.html"> Full Text</a>
