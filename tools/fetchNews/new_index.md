@@ -34,6 +34,269 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixed a flaw in Power Platform after being criticized<a href="https://securityaffairs.com/149237/hacking/microsoft-power-platform-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced it has addressed a critical flaw in its Power Platform after it was criticized for the delay in fixing the issue.
+Microsoft this week addressed a critical vulnerability in its Power Platform, after it was criticized for the delay...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colorado Department of Higher Education (CDHE) discloses data breach after ransomware attack<a href="https://securityaffairs.com/149228/data-breach/colorado-department-of-higher-education-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Colorado Department of Higher Education (CDHE) finally disclosed a data breach impacting students, past students, and teachers after the June attack.
+In June a ransomware attack hit the Colorado Department of Higher Education (CDHE), now the organization...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 431 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/149224/breaking-news/security-affairs-newsletter-round-431-by-pierluigi-paganini-international-edition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+ Reptile...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueCharlie changes attack infrastructure in response to reports on its activity<a href="https://securityaffairs.com/149213/apt/bluecharlie-changes-attack-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT group BlueCharlie was observed changing its infrastructure in response to recent reports on its activity.
+Researchers from Recorded Future reported that Russia-linked APT group BlueCharlie (aka Blue Callisto, Callisto, COLDRIVER,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Cybersecurity Strategic Plan: An Important Step To Secure Critical Infrastructure<a href="https://blogs.cisco.com/gov/cisa-cybersecurity-strategy?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a founding member of the Network Resilience Coalition, Cisco appreciates CISA’s shared commitment to driving focused attention and investment in efforts to secure and maintain existing critical networked technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MDR: Empowering Organizations with Enhanced Security<a href="https://thehackernews.com/2023/08/mdr-empowering-organizations-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Managed Detection and Response (MDR) has emerged as a crucial solution for organizations looking to bolster their security measures. MDR allows businesses to outsource the management of Endpoint Detection and Response (EDR) products deployed across their network domain. With real-time threat-hunting capabilities, MDR services detect and mitigate malicious activities on individual endpoints while promptly alerting the service provider's Security Operations Center (SOC) for further investigation. By leveraging the expertise of security specialists, MDR services relieve organizations of the complexities and criticality associated with security operations. Types of MDR Solutions: MDR services come in various forms, tailored to an organization's technology environment and risk requirements.  These include: Bring-Your-Own Security Stack / Hybrid Solution: MDR solutions that integrate with existing security products deployed within an environment. Full Vendor-Supplied MDR Sta
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, Five Eyes cyber advisory lists common vulnerabilities among 2022’s top exploits<a href="https://www.nextgov.com/cybersecurity/2023/08/cisa-five-eyes-cyber-advisory-lists-common-vulnerabilities-among-2022s-top-exploits/389113/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This guidance is the latest released by the Five Eyes organization, which consists of government cybersecurity organizations from the U.S., New Zealand, the U.K., Australia and Canada.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reptile Rootkit: Advanced Linux Malware Targeting South Korean Systems<a href="https://thehackernews.com/2023/08/reptile-rootkit-advanced-linux-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using an open-source rootkit called  Reptile  to target Linux systems in South Korea. "Unlike other rootkit malware that typically only provide concealment capabilities, Reptile goes a step further by offering a reverse shell, allowing threat actors to easily take control of systems," the AhnLab Security Emergency Response Center (ASEC)  said  in a report published this week. "Port knocking is a method where the malware opens a specific port on an infected system and goes on standby. When the threat actor sends a magic packet to the system, the received packet is used as a basis to establish a connection with the C&C server." A rootkit is a malicious software program that's designed to provide privileged, root-level access to a machine while concealing its presence. At least four different campaigns have leveraged Reptile since 2022. The first use of the rootkit was  recorded  by Trend Micro in May 2022 in connection with an intrusion
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of people's healthcare files accessed by Clop gang<a href="https://www.theregister.co.uk/2023/07/27/deloitte_moveit_hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new additions to the victims' list bring the headcount to 514 organizations and more than 36 million individuals, according to Emsisoft threat researchers. It may take months if not years for the full impact and costs to become clear.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Addresses Critical Power Platform Flaw After Delays and Criticism<a href="https://thehackernews.com/2023/08/microsoft-addresses-critical-power.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday disclosed that it has addressed a critical security flaw impacting Power Platform , but not before it came under criticism for its failure to swiftly act on it. "The vulnerability could lead to unauthorized access to Custom Code functions used for Power Platform custom connectors," the tech giant  said . "The potential impact could be unintended information disclosure if secrets or other sensitive information were embedded in the Custom Code function." The company further noted that no customer action is required and that it found no evidence of active exploitation of the vulnerability in the wild. Tenable, which initially discovered and reported the shortcoming to Redmond on March 30, 2023,  said  the problem could enable limited, unauthorized access to cross-tenant applications and sensitive data. The cybersecurity firm said the flaw arises as a result of insufficient access control to Azure Function hosts, leading to a scenario where a t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack disrupts hospital computer systems across US, hindering services<a href="https://www.theguardian.com/us-news/2023/aug/04/cyberattack-us-hospitals-california?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hack caused chaos in medical facilities in several states. In Connecticut, the emergency departments at Manchester Memorial and Rockville General hospital were closed for much of the day and patients were diverted to other nearby medical centers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New High-Severity Vulnerability in PaperCut Software<a href="https://thehackernews.com/2023/08/researchers-uncover-new-high-severity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new high-severity security flaw in PaperCut print management software for Windows that could result in remote code execution under specific circumstances. Tracked as  CVE-2023-39143  (CVSS score: 8.4), the flaw impacts PaperCut NG/MF prior to version 22.1.3. It has been described as a combination of a path traversal and file upload vulnerability. "CVE-2023-39143 enables unauthenticated attackers to potentially read, delete, and upload arbitrary files to the PaperCut MF/NG application server, resulting in remote code execution in certain configurations," Horizon3.ai's Naveen Sunkavally  said . The cybersecurity firm said that file upload leading to remote code execution is possible when the external device integration setting is enabled, which is on by default in some installations of PaperCut. Earlier this April, another remote code execution vulnerability in the same product (CVE-2023-27350, CVSS score: 9.8) and an infor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Government watchdog finds U.S. embassies running software vulnerable to attacks<a href="https://www.politico.com/news/2023/08/04/watchdog-us-embassies-software-vulnerable-00109895?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The assessment, which GAO began at the end of last year, also found that many State Department posts lack not only a chief information security officer, but any cybersecurity personnel whatsoever.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reptile Rootkit employed in attacks against Linux systems in South Korea<a href="https://securityaffairs.com/149203/malware/reptile-rootkit-south-korea.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers observed threat actors that are using an open-source rootkit called Reptile in attacks aimed at systems in South Korea.
+Reptile is an open-source kernel module rootkit that was designed to target Linux systems, unlike other rootkits,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious packages in the NPM designed for highly-targeted attacks<a href="https://securityaffairs.com/149165/hacking/npm-highly-targeted-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The files and directories targeted by the malicious code could potentially contain developers' sensitive data. Researchers speculate the packages are part of a highly-targeted attack on developers working in the cryptocurrency sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PaperCut flaw in print management software exposes servers to RCE attacks<a href="https://securityaffairs.com/149191/security/papercut-rce-cve-2023-39143.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a vulnerability in PaperCut NG/MF print management software that can lead to remote code execution.
+Cybersecurity researchers at Horizon3 discovered a high-severity vulnerability, tracked as CVE-2023-39143 (CVSS score: 8.4),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
