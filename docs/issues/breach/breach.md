@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+August 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colorado Department of Higher Education (CDHE) discloses data breach after ransomware attack<a href="https://securityaffairs.com/149228/data-breach/colorado-department-of-higher-education-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Colorado Department of Higher Education (CDHE) finally disclosed a data breach impacting students, past students, and teachers after the June attack.
+In June a ransomware attack hit the Colorado Department of Higher Education (CDHE), now the organization...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of people's healthcare files accessed by Clop gang<a href="https://www.theregister.co.uk/2023/07/27/deloitte_moveit_hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new additions to the victims' list bring the headcount to 514 organizations and more than 36 million individuals, according to Emsisoft threat researchers. It may take months if not years for the full impact and costs to become clear.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

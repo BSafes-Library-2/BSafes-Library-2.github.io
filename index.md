@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2023
+August 6, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft fixed a flaw in Power Platform after being criticized<a href="https://securityaffairs.com/149237/hacking/microsoft-power-platform-flaw.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2023
+August 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colorado Department of Higher Education (CDHE) discloses data breach after ransomware attack<a href="https://securityaffairs.com/149228/data-breach/colorado-department-of-higher-education-data-breach.html"> Full Text</a>
@@ -68,7 +68,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2023
+August 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 431 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/149224/breaking-news/security-affairs-newsletter-round-431-by-pierluigi-paganini-international-edition.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2023
+August 6, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlueCharlie changes attack infrastructure in response to reports on its activity<a href="https://securityaffairs.com/149213/apt/bluecharlie-changes-attack-infrastructure.html"> Full Text</a>
@@ -103,7 +103,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2023
+August 5, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Cybersecurity Strategic Plan: An Important Step To Secure Critical Infrastructure<a href="https://blogs.cisco.com/gov/cisa-cybersecurity-strategy?&web_view=true"> Full Text</a>
@@ -119,7 +119,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2023
+August 05, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MDR: Empowering Organizations with Enhanced Security<a href="https://thehackernews.com/2023/08/mdr-empowering-organizations-with.html"> Full Text</a>
@@ -135,7 +135,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2023
+August 5, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA, Five Eyes cyber advisory lists common vulnerabilities among 2022’s top exploits<a href="https://www.nextgov.com/cybersecurity/2023/08/cisa-five-eyes-cyber-advisory-lists-common-vulnerabilities-among-2022s-top-exploits/389113/?&web_view=true"> Full Text</a>
@@ -151,7 +151,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2023
+August 05, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reptile Rootkit: Advanced Linux Malware Targeting South Korean Systems<a href="https://thehackernews.com/2023/08/reptile-rootkit-advanced-linux-malware.html"> Full Text</a>
@@ -167,7 +167,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2023
+August 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of people's healthcare files accessed by Clop gang<a href="https://www.theregister.co.uk/2023/07/27/deloitte_moveit_hack/?&web_view=true"> Full Text</a>
@@ -183,7 +183,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2023
+August 05, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Addresses Critical Power Platform Flaw After Delays and Criticism<a href="https://thehackernews.com/2023/08/microsoft-addresses-critical-power.html"> Full Text</a>
@@ -199,7 +199,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2023
+August 5, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack disrupts hospital computer systems across US, hindering services<a href="https://www.theguardian.com/us-news/2023/aug/04/cyberattack-us-hospitals-california?&web_view=true"> Full Text</a>
@@ -215,7 +215,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 05, 2023
+August 05, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover New High-Severity Vulnerability in PaperCut Software<a href="https://thehackernews.com/2023/08/researchers-uncover-new-high-severity.html"> Full Text</a>
@@ -231,7 +231,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2023
+August 5, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Government watchdog finds U.S. embassies running software vulnerable to attacks<a href="https://www.politico.com/news/2023/08/04/watchdog-us-embassies-software-vulnerable-00109895?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2023
+August 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reptile Rootkit employed in attacks against Linux systems in South Korea<a href="https://securityaffairs.com/149203/malware/reptile-rootkit-south-korea.html"> Full Text</a>
@@ -264,7 +264,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2023
+August 5, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious packages in the NPM designed for highly-targeted attacks<a href="https://securityaffairs.com/149165/hacking/npm-highly-targeted-attacks.html?&web_view=true"> Full Text</a>
@@ -280,7 +280,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2023
+August 5, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PaperCut flaw in print management software exposes servers to RCE attacks<a href="https://securityaffairs.com/149191/security/papercut-rce-cve-2023-39143.html"> Full Text</a>

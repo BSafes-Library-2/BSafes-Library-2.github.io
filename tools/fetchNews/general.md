@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+These Are the Top Five Cloud Security Risks, Qualys Says<a href="https://www.securityweek.com/these-are-the-top-five-cloud-security-risks-qualys-says/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The five key risk areas are misconfigurations, external-facing vulnerabilities, weaponized vulnerabilities, malware inside a cloud environment, and remediation lag (that is, delays in patching).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

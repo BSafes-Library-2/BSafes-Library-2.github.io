@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueCharlie changes attack infrastructure in response to reports on its activity<a href="https://securityaffairs.com/149213/apt/bluecharlie-changes-attack-infrastructure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT group BlueCharlie was observed changing its infrastructure in response to recent reports on its activity.
+Researchers from Recorded Future reported that Russia-linked APT group BlueCharlie (aka Blue Callisto, Callisto, COLDRIVER,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

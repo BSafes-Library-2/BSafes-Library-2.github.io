@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts  
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Cybersecurity Strategic Plan FY2024-2026  <a href="https://www.cisa.gov/news-events/alerts/2023/08/03/cisa-nsa-fbi-and-international-partners-release-joint-csa-top-routinely-exploited-vulnerabilities"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Our nation is at a moment of opportunity. The 2023 U.S. National Cybersecurity Strategy outlines a new vision for cybersecurity, a vision grounded in collaboration, in innovation, and in accountability. Now is the moment where our country has a choice: to invest in a future where collaboration is a default rather than an exception; where innovation in defense and resilience dramatically outpaces that of those seeking to do us harm; and where the burden of cybersecurity is allocated toward those who are most able to bear it. We must be clear-eyed about the future we seek, one in which damaging cyber intrusions are a shocking anomaly, in which organizations are secure and resilient, in which technology products are safe and secure by design and default. This is a shared journey and a shared challenge, and CISA, as America’s cyber defense agency, is privileged to serve a foundational role in the global cybersecurity community as we achieve measurable progress to our shared end state. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 3, 2023 - CISA, NSA, FBI  
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

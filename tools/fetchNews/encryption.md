@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+August 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SCARF Cipher Sets New Standards in Protecting Sensitive Data<a href="https://www.helpnetsecurity.com/2023/08/03/scarf-cipher-protecting-sensitive-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cipher, designed by Assistant Professor Rei Ueno from the Research Institute of Electrical Communication at Tohoku University, addresses the threat of cache side-channel attacks, offering enhanced security and exceptional performance.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

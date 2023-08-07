@@ -8,6 +8,21 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Married couple pleaded guilty to laundering billions in cryptocurrency stolen from Bitfinex in 2016<a href="https://securityaffairs.com/149173/cyber-crime/married-couple-pleaded-guilty-bitfinex.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A married couple from New York pleaded guilty this week to laundering billions of dollars stolen from Bitfinex in 2016.
+The couple pleaded guilty to money laundering charges in connection with the hack of the cryptocurrency stock exchange Bitfinex...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
