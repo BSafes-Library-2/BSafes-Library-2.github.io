@@ -34,7 +34,88 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2023
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teach a Man to Phish and He’s Set for Life – Krebs on Security<a href="https://krebsonsecurity.com/2023/08/teach-a-man-to-phish-and-hes-set-for-life/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent phishing scam has been using an old trick to fool Microsoft Windows users. The scam involves sending an email with an attachment that appears to be a PDF file, but is actually an .eml file disguised as a .pdf.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LOLBAS in the Wild: 11 Living-Off-The-Land Binaries Used for Malicious Purposes<a href="https://thehackernews.com/2023/08/lolbas-in-wild-11-living-off-land.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a set of 11 living-off-the-land binaries-and-scripts ( LOLBAS ) that could be maliciously abused by threat actors to conduct post-exploitation activities.  "LOLBAS is an attack method that uses binaries and scripts that are already part of the system for malicious purposes," Pentera security researcher Nir Chako  said . "This makes it hard for security teams to distinguish between legitimate and malicious activities, since they are all performed by trusted system utilities." To that end, the Israeli cybersecurity company said it uncovered nine LOLBAS downloaders and three executors that could enable adversaries to download and execute "more robust malware" on infected hosts. This includes: MsoHtmEd.exe, Mspub.exe, ProtocolHandler.exe, ConfigSecurityPolicy.exe, InstallUtil.exe, Mshta.exe, Presentationhost.exe, Outlook.exe, MSAccess.exe, scp.exe, and sftp.exe.  "In a complete attack chain, a hacker will us
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+43 Android apps in Google Play with 2.5M installs loaded ads when a phone screen was off<a href="https://securityaffairs.com/149274/malware/google-play-43-rogue-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found 43 Android apps in Google Play with 2.5 million installs that displayed advertisements while a phone's screen was off.
+Recently, researchers from McAfee’s Mobile Research Team discovered 43 Android apps in Google Play with 2.5 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberinsurance Firm Resilience Raises $100 Million to Expand Its Cyber Risk Platform<a href="https://www.securityweek.com/cyberinsurance-firm-resilience-raises-100-million-to-expand-its-cyber-risk-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series D round was led by Intact Ventures, an affiliate of Resilience’s primary capacity provider, Intact Insurance’s underwriting companies, with participation by Lightspeed Venture Partners, as well as General Catalyst and Founders Fund.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Batloader Campaigns Use Pyarmor Pro for Evasion<a href="https://www.trendmicro.com/en_us/research/23/h/batloader-campaigns-use-pyarmor-pro-for-evasion.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Batloader initial access malware, used by the group Water Minyades, has upgraded its evasion techniques by utilizing Pyarmor Pro to obfuscate its malicious Python scripts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cl0p Ransomware Gang Revises its Extortion Strategy<a href="https://cyware.com/news/cl0p-ransomware-gang-revises-its-extortion-strategy-848dc9ea"> Full Text</a>
@@ -50,7 +131,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 07, 2023
+August 07, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Malware Campaign Targets Inexperienced Cyber Criminals with OpenBullet Configs<a href="https://thehackernews.com/2023/08/new-malware-campaign-targets.html"> Full Text</a>
@@ -66,7 +147,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2023
+August 7, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom trains its AI model with some user data, without giving them an opt-out option<a href="https://securityaffairs.com/149282/security/zoom-ai-privacy-issue.html"> Full Text</a>
@@ -83,7 +164,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2023
+August 7, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spyware Maker Letmespy Shuts Down After Hacker Deletes Server Data<a href="https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/?&web_view=true"> Full Text</a>
@@ -99,7 +180,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 07, 2023
+August 07, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Targets Russian Missile Engineering Firm<a href="https://thehackernews.com/2023/08/north-korean-hackers-targets-russian.html"> Full Text</a>
@@ -115,7 +196,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2023
+August 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea compromised Russian missile engineering firm NPO Mashinostroyeniya<a href="https://securityaffairs.com/149263/apt/north-korea-hacked-russian-npo-mashinostroyeniya.html"> Full Text</a>
@@ -132,7 +213,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2023
+August 7, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 C-Suite, Rank-And-File at Odds Over Security’s Role<a href="https://www.cybersecuritydive.com/news/cybersecurity-IT-C-suite-CSA/690022/?&web_view=true"> Full Text</a>
@@ -148,7 +229,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 07, 2023
+August 07, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enhancing Security Operations Using Wazuh: Open Source XDR and SIEM<a href="https://thehackernews.com/2023/08/enhancing-security-operations-using.html"> Full Text</a>
@@ -164,7 +245,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2023
+August 7, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A new sophisticated SkidMap variant targets unsecured Redis servers<a href="https://securityaffairs.com/149258/malware/skidmap-malware-redis-servers.html"> Full Text</a>
@@ -181,7 +262,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2023
+August 7, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US ‘Lagging Behind’ on Border Gateway Protocol Security Practices, CISA and FCC Chiefs Say<a href="https://therecord.media/cisa-fcc-us-lagging-behind-on-bgp-security-border-gateway-protocol?&web_view=true"> Full Text</a>
@@ -197,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 07, 2023
+August 07, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'Deep Learning Attack' Deciphers Laptop Keystrokes with 95% Accuracy<a href="https://thehackernews.com/2023/08/new-deep-learning-attack-deciphers.html"> Full Text</a>
@@ -213,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2023
+August 7, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI warns of crooks posing as NFT developers in fraudulent schema<a href="https://securityaffairs.com/149251/cyber-crime/fbi-nft-scam.html"> Full Text</a>
@@ -230,7 +311,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2023
+August 7, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VPNs remain a risky gamble for remote access<a href="https://www.helpnetsecurity.com/2023/08/04/vpns-security-risks/?&web_view=true"> Full Text</a>
@@ -246,7 +327,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 07, 2023
+August 07, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SkidMap Linux Malware Variant Targeting Vulnerable Redis Servers<a href="https://thehackernews.com/2023/08/new-skidmap-redis-malware-variant.html"> Full Text</a>
@@ -262,7 +343,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2023
+August 7, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The number of ransomware attacks targeting Finland increased fourfold since it started the process to join NATO<a href="https://securityaffairs.com/149244/hacking/ransomware-attacks-against-finland.html"> Full Text</a>
@@ -279,7 +360,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2023
+August 7, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reptile Rootkit Targets Linux Systems in South Korea<a href="https://cyware.com/news/reptile-rootkit-targets-linux-systems-in-south-korea-ae139d03"> Full Text</a>
@@ -295,7 +376,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 07, 2023
+August 07, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Alert: Crypto Scammers are Masquerading as NFT Developers<a href="https://thehackernews.com/2023/08/fbi-alert-crypto-scammers-are.html"> Full Text</a>
@@ -311,7 +392,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2023
+August 7, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multi-Modal Data Protection With AI’s Help<a href="https://www.helpnetsecurity.com/2023/08/04/multi-modal-data-protection/?&web_view=true"> Full Text</a>
