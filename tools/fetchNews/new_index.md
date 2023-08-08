@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 8, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Nigerian Man Admits to $1.3M Business Email Compromise Scam<a href="https://www.bankinfosecurity.com/nigerian-man-admits-to-13m-business-email-compromise-scam-a-22751?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Nigerian national pleaded guilty to participating in a BEC scheme to steal $1.25m from a Boston investment firm. The scam involved using malware and a spoofed domain name to trick the firm into transferring money to attacker-controlled accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Teach a Man to Phish and He’s Set for Life – Krebs on Security<a href="https://krebsonsecurity.com/2023/08/teach-a-man-to-phish-and-hes-set-for-life/?&web_view=true"> Full Text</a>
 </p>
 <details>
