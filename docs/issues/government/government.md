@@ -8,6 +8,49 @@ nav_order: 900075
 
 ## Government
 ---
+August 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US ‘Lagging Behind’ on Border Gateway Protocol Security Practices, CISA and FCC Chiefs Say<a href="https://therecord.media/cisa-fcc-us-lagging-behind-on-bgp-security-border-gateway-protocol?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government is lagging behind other countries in instituting more stringent cybersecurity measures governing the Border Gateway Protocol (BGP) – a set of technical rules responsible for routing data efficiently.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of crooks posing as NFT developers in fraudulent schema<a href="https://securityaffairs.com/149251/cyber-crime/fbi-nft-scam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is warning about cyber criminals masquerading as NFT developers to steal cryptocurrency and other digital assets.
+The U.S. Federal Bureau of Investigation (FBI) is warning about cyber criminals posing as legitimate NFT developers in fraud...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Alert: Crypto Scammers are Masquerading as NFT Developers<a href="https://thehackernews.com/2023/08/fbi-alert-crypto-scammers-are.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) is warning about cyber crooks masquerading as legitimate non-fungible token (NFT) developers to steal cryptocurrency and other digital assets from unsuspecting users. In these fraudulent schemes, criminals either obtain direct access to NFT developer social media accounts or create look-alike accounts to promote "exclusive" new NFT releases, often employing misleading advertising campaigns that create a sense of urgency to pull them off. "Links provided in these announcements are phishing links directing victims to a spoofed website that appears to be a legitimate extension of a particular NFT project," the FBI&nbsp; said &nbsp;in an advisory last week. The replica websites urge potential targets to connect their cryptocurrency wallets and purchase the NFT, only for the threat actors to siphon the funds and NFTs to wallets under their control. "Contents stolen from victims' wallets are often processed through a ser
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

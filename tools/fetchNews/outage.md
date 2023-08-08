@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+August 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack disrupts hospital computer systems across US, hindering services<a href="https://www.theguardian.com/us-news/2023/aug/04/cyberattack-us-hospitals-california?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hack caused chaos in medical facilities in several states. In Connecticut, the emergency departments at Manchester Memorial and Rockville General hospital were closed for much of the day and patients were diverted to other nearby medical centers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

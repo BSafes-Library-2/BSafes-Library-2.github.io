@@ -8,6 +8,21 @@ nav_order: 900015
 
 ## Attack
 ---
+August 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reptile Rootkit employed in attacks against Linux systems in South Korea<a href="https://securityaffairs.com/149203/malware/reptile-rootkit-south-korea.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers observed threat actors that are using an open-source rootkit called&nbsp;Reptile&nbsp;in attacks aimed at systems in South Korea.
+Reptile is an open-source kernel module rootkit that was designed to target Linux systems, unlike other rootkits,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

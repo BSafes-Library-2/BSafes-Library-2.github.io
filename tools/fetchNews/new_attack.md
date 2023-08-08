@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Targets Russian Missile Engineering Firm<a href="https://thehackernews.com/2023/08/north-korean-hackers-targets-russian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two different North Korean nation-state actors have been linked to a cyber intrusion against the major Russian missile engineering company NPO Mashinostroyeniya. Cybersecurity firm SentinelOne&nbsp; said &nbsp;it identified "two instances of North Korea related compromise of sensitive internal IT infrastructure," including a case of an email server compromise and the deployment of a Windows backdoor dubbed OpenCarrot. The breach of the Linux email server has been attributed to&nbsp; ScarCruft . OpenCarrot, on the other hand, is a known implant&nbsp; previously identified &nbsp;as used by the Lazarus Group. The attacks were flagged in mid-May 2022. A rocket design bureau based in Reutov, NPO Mashinostroyeniya was&nbsp; sanctioned &nbsp;by the U.S. Treasury Department in July 2014 in&nbsp; connection &nbsp;to "Russia's continued attempts to destabilize eastern Ukraine and its ongoing occupation of Crimea." While both ScarCruft (aka APT37) and the Lazarus Group are affiliated to North Korea, it's&nbsp; w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

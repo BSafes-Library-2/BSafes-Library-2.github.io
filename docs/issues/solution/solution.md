@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+August 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enhancing Security Operations Using Wazuh: Open Source XDR and SIEM<a href="https://thehackernews.com/2023/08/enhancing-security-operations-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's interconnected world, evolving security solutions to meet growing demand is more critical than ever. Collaboration across multiple solutions for intelligence gathering and information sharing is indispensable. The idea of multiple-source intelligence gathering stems from the concept that threats are rarely isolated. Hence, their detection and prevention require a comprehensive understanding of the broader landscape. A comprehensive and robust security framework should be established by aggregating resources, knowledge, and expertise from various sources. This collaborative effort allows for the analysis of diverse data sets, the identification of emerging patterns, and the timely dissemination of crucial information.&nbsp; In this article, we discuss a versatile security platform that can operate in two distinct roles within a security ecosystem. This platform can function as a subscriber, actively collecting and aggregating security data from various endpoints and other so
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Modal Data Protection With AI’s Help<a href="https://www.helpnetsecurity.com/2023/08/04/multi-modal-data-protection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multi-modal monitoring through AI enables the identification of both data and conversation types, enhancing the ability to detect and prevent data leakage or any unauthorized activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

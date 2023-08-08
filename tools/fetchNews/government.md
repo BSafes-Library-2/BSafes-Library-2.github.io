@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+August 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Cybersecurity Strategic Plan: An Important Step To Secure Critical Infrastructure<a href="https://blogs.cisco.com/gov/cisa-cybersecurity-strategy?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a founding member of the Network Resilience Coalition, Cisco appreciates CISA’s shared commitment to driving focused attention and investment in efforts to secure and maintain existing critical networked technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Government watchdog finds U.S. embassies running software vulnerable to attacks<a href="https://www.politico.com/news/2023/08/04/watchdog-us-embassies-software-vulnerable-00109895?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The assessment, which GAO began at the end of last year, also found that many State Department posts lack not only a chief information security officer, but any cybersecurity personnel whatsoever.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

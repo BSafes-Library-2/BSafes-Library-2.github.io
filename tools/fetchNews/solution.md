@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MDR: Empowering Organizations with Enhanced Security<a href="https://thehackernews.com/2023/08/mdr-empowering-organizations-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Managed Detection and Response (MDR) has emerged as a crucial solution for organizations looking to bolster their security measures. MDR allows businesses to outsource the management of Endpoint Detection and Response (EDR) products deployed across their network domain. With real-time threat-hunting capabilities, MDR services detect and mitigate malicious activities on individual endpoints while promptly alerting the service provider's Security Operations Center (SOC) for further investigation. By leveraging the expertise of security specialists, MDR services relieve organizations of the complexities and criticality associated with security operations. Types of MDR Solutions: MDR services come in various forms, tailored to an organization's technology environment and risk requirements.&nbsp; These include: Bring-Your-Own Security Stack / Hybrid Solution: MDR solutions that integrate with existing security products deployed within an environment. Full Vendor-Supplied MDR Sta
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

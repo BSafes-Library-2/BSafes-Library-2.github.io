@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Deep Learning Attack' Deciphers Laptop Keystrokes with 95% Accuracy<a href="https://thehackernews.com/2023/08/new-deep-learning-attack-deciphers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics has devised a "deep learning-based acoustic side-channel attack" that can be used to classify laptop keystrokes that are recorded using a nearby phone with 95% accuracy. "When trained on keystrokes recorded using the video conferencing software Zoom, an accuracy of 93% was achieved, a new best for the medium," researchers Joshua Harrison, Ehsan Toreini, and Maryam Mehrnezhad&nbsp; said &nbsp;in a new study published last week. Side-channel attacks&nbsp; refer &nbsp;to a class of&nbsp; security exploits &nbsp;that aim to glean insights from a system by monitoring and measuring its physical effects during the processing of sensitive data. Some of the common observable effects include runtime behavior, power consumption, electromagnetic radiation, acoustics, and cache accesses. Although a completely side-channel-free implementation does not exist, practical attacks of this kind can have damaging consequences for user privacy and security as they could be weaponized by a ma
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

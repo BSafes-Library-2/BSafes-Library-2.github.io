@@ -8,6 +8,78 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft fixed a flaw in Power Platform after being criticized<a href="https://securityaffairs.com/149237/hacking/microsoft-power-platform-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced it has addressed a critical flaw in its&nbsp;Power Platform after it was criticized for the delay in fixing the issue.
+Microsoft this week addressed a critical vulnerability in its&nbsp;Power Platform, after it was criticized for the delay...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, Five Eyes cyber advisory lists common vulnerabilities among 2022’s top exploits<a href="https://www.nextgov.com/cybersecurity/2023/08/cisa-five-eyes-cyber-advisory-lists-common-vulnerabilities-among-2022s-top-exploits/389113/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This guidance is the latest released by the Five Eyes organization, which consists of government cybersecurity organizations from the U.S., New Zealand, the U.K., Australia and Canada.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Addresses Critical Power Platform Flaw After Delays and Criticism<a href="https://thehackernews.com/2023/08/microsoft-addresses-critical-power.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday disclosed that it has addressed a critical security flaw impacting Power Platform , but not before it came under criticism for its failure to swiftly act on it. "The vulnerability could lead to unauthorized access to Custom Code functions used for Power Platform custom connectors," the tech giant&nbsp; said . "The potential impact could be unintended information disclosure if secrets or other sensitive information were embedded in the Custom Code function." The company further noted that no customer action is required and that it found no evidence of active exploitation of the vulnerability in the wild. Tenable, which initially discovered and reported the shortcoming to Redmond on March 30, 2023,&nbsp; said &nbsp;the problem could enable limited, unauthorized access to cross-tenant applications and sensitive data. The cybersecurity firm said the flaw arises as a result of insufficient access control to Azure Function hosts, leading to a scenario where a t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New High-Severity Vulnerability in PaperCut Software<a href="https://thehackernews.com/2023/08/researchers-uncover-new-high-severity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new high-severity security flaw in PaperCut print management software for Windows that could result in remote code execution under specific circumstances. Tracked as&nbsp; CVE-2023-39143 &nbsp;(CVSS score: 8.4), the flaw impacts PaperCut NG/MF prior to version 22.1.3. It has been described as a combination of a path traversal and file upload vulnerability. "CVE-2023-39143 enables unauthenticated attackers to potentially read, delete, and upload arbitrary files to the PaperCut MF/NG application server, resulting in remote code execution in certain configurations," Horizon3.ai's Naveen Sunkavally&nbsp; said . The cybersecurity firm said that file upload leading to remote code execution is possible when the external device integration setting is enabled, which is on by default in some installations of PaperCut. Earlier this April, another remote code execution vulnerability in the same product (CVE-2023-27350, CVSS score: 9.8) and an infor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PaperCut flaw in print management software exposes servers to RCE attacks<a href="https://securityaffairs.com/149191/security/papercut-rce-cve-2023-39143.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a vulnerability in PaperCut NG/MF print management software that can lead to remote code execution.
+Cybersecurity researchers at Horizon3 discovered a high-severity vulnerability, tracked as CVE-2023-39143&nbsp;(CVSS score: 8.4),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
