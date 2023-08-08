@@ -34,6 +34,299 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cl0p Ransomware Gang Revises its Extortion Strategy<a href="https://cyware.com/news/cl0p-ransomware-gang-revises-its-extortion-strategy-848dc9ea"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MOVEit-hijacker Cl0p ransomware gang has changed its extortion tactics and is now using torrents to distribute data stolen in the MOVEit Transfer breaches. Previously, the group utilized Tor data leak sites, but this method was slow and easier to shut down. Through torrents, criminals are expecting ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malware Campaign Targets Inexperienced Cyber Criminals with OpenBullet Configs<a href="https://thehackernews.com/2023/08/new-malware-campaign-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign has been observed making use of malicious OpenBullet configuration files to target inexperienced cyber criminals with the goal of delivering a remote access trojan (RAT) capable of stealing sensitive information. Bot mitigation company Kasada  said  the activity is designed to "exploit trusted criminal networks," describing it as an instance of advanced threat actors "preying on beginner hackers." OpenBullet  is a legitimate  open-source pen testing tool  used for automating credential stuffing attacks. It takes in a  configuration file  that's tailored to a specific website and can combine it with a password list procured through other means to log successful attempts. "OpenBullet can be used with Puppeteer, which is a headless browser that can be used for automating web interactions," the company  said . "This makes it very easy to launch credential stuffing attacks without having to deal with browser windows popping u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom trains its AI model with some user data, without giving them an opt-out option<a href="https://securityaffairs.com/149282/security/zoom-ai-privacy-issue.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom changed its terms of service requiring users to allow AI to train on all their data without giving them an opt-out option.
+Zoom updated its terms of service and informed users that it will train its artificial intelligence models using some...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyware Maker Letmespy Shuts Down After Hacker Deletes Server Data<a href="https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a notice on its website in both English and Polish, LetMeSpy confirmed the “permanent shutdown” of the spyware service and that it would cease operations by the end of August.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Targets Russian Missile Engineering Firm<a href="https://thehackernews.com/2023/08/north-korean-hackers-targets-russian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two different North Korean nation-state actors have been linked to a cyber intrusion against the major Russian missile engineering company NPO Mashinostroyeniya. Cybersecurity firm SentinelOne  said  it identified "two instances of North Korea related compromise of sensitive internal IT infrastructure," including a case of an email server compromise and the deployment of a Windows backdoor dubbed OpenCarrot. The breach of the Linux email server has been attributed to  ScarCruft . OpenCarrot, on the other hand, is a known implant  previously identified  as used by the Lazarus Group. The attacks were flagged in mid-May 2022. A rocket design bureau based in Reutov, NPO Mashinostroyeniya was  sanctioned  by the U.S. Treasury Department in July 2014 in  connection  to "Russia's continued attempts to destabilize eastern Ukraine and its ongoing occupation of Crimea." While both ScarCruft (aka APT37) and the Lazarus Group are affiliated to North Korea, it's  w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea compromised Russian missile engineering firm NPO Mashinostroyeniya<a href="https://securityaffairs.com/149263/apt/north-korea-hacked-russian-npo-mashinostroyeniya.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two North Korea-linked APT groups compromised the infrastructure of the major Russian missile engineering firm NPO Mashinostroyeniya.
+Cybersecurity firm SentinelOne linked the compromise of the major Russian missile engineering firm NPO Mashinostroyeniya...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+C-Suite, Rank-And-File at Odds Over Security’s Role<a href="https://www.cybersecuritydive.com/news/cybersecurity-IT-C-suite-CSA/690022/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A disconnect is brewing between how C-suite executives and cybersecurity workers perceive security’s role, according to a Cloud Security Alliance report released last week. The study by Expel surveyed 1,000 IT and security professionals in May.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enhancing Security Operations Using Wazuh: Open Source XDR and SIEM<a href="https://thehackernews.com/2023/08/enhancing-security-operations-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's interconnected world, evolving security solutions to meet growing demand is more critical than ever. Collaboration across multiple solutions for intelligence gathering and information sharing is indispensable. The idea of multiple-source intelligence gathering stems from the concept that threats are rarely isolated. Hence, their detection and prevention require a comprehensive understanding of the broader landscape. A comprehensive and robust security framework should be established by aggregating resources, knowledge, and expertise from various sources. This collaborative effort allows for the analysis of diverse data sets, the identification of emerging patterns, and the timely dissemination of crucial information.  In this article, we discuss a versatile security platform that can operate in two distinct roles within a security ecosystem. This platform can function as a subscriber, actively collecting and aggregating security data from various endpoints and other so
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new sophisticated SkidMap variant targets unsecured Redis servers<a href="https://securityaffairs.com/149258/malware/skidmap-malware-redis-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new campaign targets Redis servers, this time the malware employed in the attacks is a new variant of the SkidMap malware.
+Skidmap is a piece of crypto-miner detected by Trend Micro in September 2019 while it was targeting Linux machines. The malicious...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US ‘Lagging Behind’ on Border Gateway Protocol Security Practices, CISA and FCC Chiefs Say<a href="https://therecord.media/cisa-fcc-us-lagging-behind-on-bgp-security-border-gateway-protocol?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government is lagging behind other countries in instituting more stringent cybersecurity measures governing the Border Gateway Protocol (BGP) – a set of technical rules responsible for routing data efficiently.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'Deep Learning Attack' Deciphers Laptop Keystrokes with 95% Accuracy<a href="https://thehackernews.com/2023/08/new-deep-learning-attack-deciphers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics has devised a "deep learning-based acoustic side-channel attack" that can be used to classify laptop keystrokes that are recorded using a nearby phone with 95% accuracy. "When trained on keystrokes recorded using the video conferencing software Zoom, an accuracy of 93% was achieved, a new best for the medium," researchers Joshua Harrison, Ehsan Toreini, and Maryam Mehrnezhad  said  in a new study published last week. Side-channel attacks  refer  to a class of  security exploits  that aim to glean insights from a system by monitoring and measuring its physical effects during the processing of sensitive data. Some of the common observable effects include runtime behavior, power consumption, electromagnetic radiation, acoustics, and cache accesses. Although a completely side-channel-free implementation does not exist, practical attacks of this kind can have damaging consequences for user privacy and security as they could be weaponized by a ma
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI warns of crooks posing as NFT developers in fraudulent schema<a href="https://securityaffairs.com/149251/cyber-crime/fbi-nft-scam.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is warning about cyber criminals masquerading as NFT developers to steal cryptocurrency and other digital assets.
+The U.S. Federal Bureau of Investigation (FBI) is warning about cyber criminals posing as legitimate NFT developers in fraud...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VPNs remain a risky gamble for remote access<a href="https://www.helpnetsecurity.com/2023/08/04/vpns-security-risks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Zscaler report stresses the need for organizations to reevaluate their security posture and migrate to a zero-trust architecture due to the increasing threat of cybercriminals exploiting VPN vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SkidMap Linux Malware Variant Targeting Vulnerable Redis Servers<a href="https://thehackernews.com/2023/08/new-skidmap-redis-malware-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerable  Redis services  have been targeted by a "new, improved, dangerous" variant of a malware called SkidMap that's engineered to target a wide range of Linux distributions. "The malicious nature of this malware is to adapt to the system on which it is executed," Trustwave security researcher Radoslaw Zdonczyk  said  in an analysis published last week. Some of the Linux distribution SkidMap sets its eyes on include Alibaba, Anolis, openEuler, EulerOS, Stream, CentOS, RedHat, and Rocky. SkidMap was  first disclosed  by Trend Micro in September 2019 as a cryptocurrency mining botnet with capabilities to load malicious kernel modules that can obfuscate its activities as well as monitor the miner process. The operators of the malware have also been found camouflaging their backup command-and-control (C2) IP address on the Bitcoin blockchain, evocative of another botnet malware known as  Glupteba . "The technique of fetching real-time data from a de
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The number of ransomware attacks targeting Finland increased fourfold since it started the process to join NATO<a href="https://securityaffairs.com/149244/hacking/ransomware-attacks-against-finland.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior official reports a quadruple increase in ransomware attacks against Finland since it started the process to join NATO.
+The number of ransomware attacks targeting Finland has increased fourfold since the country began the process of joining...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reptile Rootkit Targets Linux Systems in South Korea<a href="https://cyware.com/news/reptile-rootkit-targets-linux-systems-in-south-korea-ae139d03"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reptile, an open-source kernel module rootkit, designed to target Linux systems was found on GitHub. Unlike typical rootkit malware, Reptile not only conceals its presence but also offers a reverse shell, granting threat actors control over compromised systems. I t is crucial to regularly inspect  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Alert: Crypto Scammers are Masquerading as NFT Developers<a href="https://thehackernews.com/2023/08/fbi-alert-crypto-scammers-are.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) is warning about cyber crooks masquerading as legitimate non-fungible token (NFT) developers to steal cryptocurrency and other digital assets from unsuspecting users. In these fraudulent schemes, criminals either obtain direct access to NFT developer social media accounts or create look-alike accounts to promote "exclusive" new NFT releases, often employing misleading advertising campaigns that create a sense of urgency to pull them off. "Links provided in these announcements are phishing links directing victims to a spoofed website that appears to be a legitimate extension of a particular NFT project," the FBI  said  in an advisory last week. The replica websites urge potential targets to connect their cryptocurrency wallets and purchase the NFT, only for the threat actors to siphon the funds and NFTs to wallets under their control. "Contents stolen from victims' wallets are often processed through a ser
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multi-Modal Data Protection With AI’s Help<a href="https://www.helpnetsecurity.com/2023/08/04/multi-modal-data-protection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multi-modal monitoring through AI enables the identification of both data and conversation types, enhancing the ability to detect and prevent data leakage or any unauthorized activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 6, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
