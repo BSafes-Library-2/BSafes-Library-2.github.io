@@ -34,6 +34,87 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teach a Man to Phish and He’s Set for Life – Krebs on Security<a href="https://krebsonsecurity.com/2023/08/teach-a-man-to-phish-and-hes-set-for-life/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent phishing scam has been using an old trick to fool Microsoft Windows users. The scam involves sending an email with an attachment that appears to be a PDF file, but is actually an .eml file disguised as a .pdf.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LOLBAS in the Wild: 11 Living-Off-The-Land Binaries Used for Malicious Purposes<a href="https://thehackernews.com/2023/08/lolbas-in-wild-11-living-off-land.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a set of 11 living-off-the-land binaries-and-scripts ( LOLBAS ) that could be maliciously abused by threat actors to conduct post-exploitation activities.  "LOLBAS is an attack method that uses binaries and scripts that are already part of the system for malicious purposes," Pentera security researcher Nir Chako  said . "This makes it hard for security teams to distinguish between legitimate and malicious activities, since they are all performed by trusted system utilities." To that end, the Israeli cybersecurity company said it uncovered nine LOLBAS downloaders and three executors that could enable adversaries to download and execute "more robust malware" on infected hosts. This includes: MsoHtmEd.exe, Mspub.exe, ProtocolHandler.exe, ConfigSecurityPolicy.exe, InstallUtil.exe, Mshta.exe, Presentationhost.exe, Outlook.exe, MSAccess.exe, scp.exe, and sftp.exe.  "In a complete attack chain, a hacker will us
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+43 Android apps in Google Play with 2.5M installs loaded ads when a phone screen was off<a href="https://securityaffairs.com/149274/malware/google-play-43-rogue-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found 43 Android apps in Google Play with 2.5 million installs that displayed advertisements while a phone's screen was off.
+Recently, researchers from McAfee’s Mobile Research Team discovered 43 Android apps in Google Play with 2.5 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberinsurance Firm Resilience Raises $100 Million to Expand Its Cyber Risk Platform<a href="https://www.securityweek.com/cyberinsurance-firm-resilience-raises-100-million-to-expand-its-cyber-risk-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series D round was led by Intact Ventures, an affiliate of Resilience’s primary capacity provider, Intact Insurance’s underwriting companies, with participation by Lightspeed Venture Partners, as well as General Catalyst and Founders Fund.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Batloader Campaigns Use Pyarmor Pro for Evasion<a href="https://www.trendmicro.com/en_us/research/23/h/batloader-campaigns-use-pyarmor-pro-for-evasion.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Batloader initial access malware, used by the group Water Minyades, has upgraded its evasion techniques by utilizing Pyarmor Pro to obfuscate its malicious Python scripts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 7, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
