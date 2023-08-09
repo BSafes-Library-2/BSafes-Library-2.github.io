@@ -8,6 +8,49 @@ nav_order: 900072
 
 ## General
 ---
+August 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+C-Suite, Rank-And-File at Odds Over Security’s Role<a href="https://www.cybersecuritydive.com/news/cybersecurity-IT-C-suite-CSA/690022/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A disconnect is brewing between how C-suite executives and cybersecurity workers perceive security’s role, according to a Cloud Security Alliance report released last week. The study by Expel surveyed 1,000 IT and security professionals in May.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VPNs remain a risky gamble for remote access<a href="https://www.helpnetsecurity.com/2023/08/04/vpns-security-risks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Zscaler report stresses the need for organizations to reevaluate their security posture and migrate to a zero-trust architecture due to the increasing threat of cybercriminals exploiting VPN vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The number of ransomware attacks targeting Finland increased fourfold since it started the process to join NATO<a href="https://securityaffairs.com/149244/hacking/ransomware-attacks-against-finland.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior official reports a quadruple increase in ransomware attacks against Finland since it started the process to join NATO.
+The number of ransomware attacks targeting Finland has increased fourfold since the country began the process of joining...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

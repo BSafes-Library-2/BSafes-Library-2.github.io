@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2023 - Office of Educational Technology
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Building Technology Infrastructure for Learning <a href="https://tech.ed.gov/infrastructure/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Education infrastructure is undeniably critical infrastructure, and in the digital age, the need to prioritize cybersecurity has become more apparent than ever. Just as we work to provide physical infrastructure for our schools that is safe, healthy, and supportive for all students, the time has come to align resources towards creating a digital infrastructure that is equally safe, accessible, resilient, sustainable, and future-proof. The Department, in partnership with CISA, has released the K-12 Digital Infrastructure Brief: Defensible and Resilient to highlight cybersecurity recommendations and promising practices from states and districts across the country.
+</details>
+</div> 
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 4, 2023 - HHS
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhysida Ransomware <a href="https://www.hhs.gov/sites/default/files/rhysida-ransomware-sector-alert-tlpclear.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rhysida is a new ransomware-as-a-service (RaaS) group that has emerged since May 2023. The group drops an eponymous ransomware via phishing attacks and Cobalt Strike to breach targets’ networks and deploy their payloads. The group threatens to publicly distribute the exfiltrated data if the ransom is not paid. Rhysida is still in early stages of development, as indicated by the lack of advanced features and the program name Rhysida-0.1. The ransomware also leaves PDF notes on the affected folders, instructing the victims to contact the group via their portal and pay in Bitcoin. Its victims are distributed throughout several countries across Western Europe, North and South America, and Australia. They primarily attack education, government, manufacturing, and technology and managed service provider sectors;  however, there has been recent attacks against the Healthcare and Public Health (HPH) sector. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 4, 2023 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

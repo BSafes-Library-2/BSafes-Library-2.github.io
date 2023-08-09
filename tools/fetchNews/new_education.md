@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding Active Directory Attack Paths to Improve Security<a href="https://thehackernews.com/2023/08/understanding-active-directory-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Introduced in 1999, Microsoft Active Directory is the default identity and access management service in Windows networks, responsible for assigning and enforcing security policies for all network endpoints. With it, users can access various resources across networks. As things tend to do, times, they are a'changin' – and a few years back, Microsoft introduced Azure Active Directory, the cloud-based version of AD to extend the AD paradigm, providing organizations with an Identity-as-a-Service (IDaaS) solution across both the cloud and on-prem apps. (Note that as of July 11th 2023, this service was renamed to&nbsp; Microsoft Entra ID , but for the sake of simplicity, we'll refer to it as Azure AD in this post) Both Active Directory and Azure AD are critical to the functioning of on-prem, cloud-based, and hybrid ecosystems, playing a key role in uptime and business continuity. And with 90% of organizations using the service for employee authentication, access control and ID manag
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

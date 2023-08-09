@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+August 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea compromised Russian missile engineering firm NPO Mashinostroyeniya<a href="https://securityaffairs.com/149263/apt/north-korea-hacked-russian-npo-mashinostroyeniya.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two North Korea-linked APT groups compromised the infrastructure of the major Russian missile engineering firm NPO Mashinostroyeniya.
+Cybersecurity firm SentinelOne linked the compromise of the major Russian missile engineering firm NPO Mashinostroyeniya...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

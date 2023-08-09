@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2023
+August 8, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian State Agencies Targeted with Open-Source Malware MerlinAgent<a href="https://therecord.media/ukrainian-agencies-targeted-with-merlin?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 08, 2023
+August 08, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QakBot Malware Operators Expand C2 Network with 15 New Servers<a href="https://thehackernews.com/2023/08/qakbot-malware-operators-expand-c2.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2023
+August 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patch Tuesday for August 2023 fixed 2 actively exploited flaws<a href="https://securityaffairs.com/149299/security/microsoft-patch-tuesday-august-2023.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2023
+August 8, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Threat Actor Targets Bulgaria, China, Vietnam, and Other Countries With Customized Yashma Ransomware<a href="https://blog.talosintelligence.com/new-threat-actor-using-yashma-ransomware/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 08, 2023
+August 08, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Abusing Cloudflare Tunnels for Covert Communications<a href="https://thehackernews.com/2023/08/hackers-abusing-cloudflare-tunnels-for.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2023
+August 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Electoral Commission discloses a data breach<a href="https://securityaffairs.com/149288/data-breach/uk-electoral-commission-data-breach.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2023
+August 8, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House Pushes Cybersecurity Defense for K-12 Schools<a href="https://www.bankinfosecurity.com/white-house-pushes-cybersecurity-defense-for-k-12-schools-a-22745?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 08, 2023
+August 08, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Understanding Active Directory Attack Paths to Improve Security<a href="https://thehackernews.com/2023/08/understanding-active-directory-attack.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2023
+August 8, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HHS Warns Healthcare Sector of Attacks by Rhysida Ransomware Group<a href="https://www.healthcareinfosecurity.com/authorities-warn-health-sector-attacks-by-rhysida-group-a-22753?&web_view=true"> Full Text</a>
@@ -180,7 +180,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 08, 2023
+August 08, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Yashma Ransomware Variant Targets Multiple English-Speaking Countries<a href="https://thehackernews.com/2023/08/new-yashma-ransomware-variant-targets.html"> Full Text</a>
@@ -196,7 +196,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2023
+August 8, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Unveils Cybersecurity Strategic Plan for Next Three Years<a href="https://www.securityweek.com/cisa-unveils-cybersecurity-strategic-plan-for-next-3-years/?&web_view=true"> Full Text</a>
@@ -212,7 +212,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2023
+August 8, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Phishing Campaign Impersonates 340 Companies Using Over 800 Scam Domains<a href="https://www.imperva.com/blog/analysis-of-a-phishing-campaign/?&web_view=true"> Full Text</a>
@@ -228,7 +228,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2023
+August 8, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nigerian Man Admits to $1.3M Business Email Compromise Scam<a href="https://www.bankinfosecurity.com/nigerian-man-admits-to-13m-business-email-compromise-scam-a-22751?&web_view=true"> Full Text</a>
@@ -244,7 +244,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2023
+August 8, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Teach a Man to Phish and He’s Set for Life – Krebs on Security<a href="https://krebsonsecurity.com/2023/08/teach-a-man-to-phish-and-hes-set-for-life/?&web_view=true"> Full Text</a>
@@ -260,7 +260,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 08, 2023
+August 08, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LOLBAS in the Wild: 11 Living-Off-The-Land Binaries Used for Malicious Purposes<a href="https://thehackernews.com/2023/08/lolbas-in-wild-11-living-off-land.html"> Full Text</a>
@@ -276,7 +276,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2023
+August 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 43 Android apps in Google Play with 2.5M installs loaded ads when a phone screen was off<a href="https://securityaffairs.com/149274/malware/google-play-43-rogue-android.html"> Full Text</a>
@@ -293,7 +293,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2023
+August 8, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberinsurance Firm Resilience Raises $100 Million to Expand Its Cyber Risk Platform<a href="https://www.securityweek.com/cyberinsurance-firm-resilience-raises-100-million-to-expand-its-cyber-risk-platform/?&web_view=true"> Full Text</a>
@@ -309,7 +309,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 8, 2023
+August 8, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Batloader Campaigns Use Pyarmor Pro for Evasion<a href="https://www.trendmicro.com/en_us/research/23/h/batloader-campaigns-use-pyarmor-pro-for-evasion.html?&web_view=true"> Full Text</a>

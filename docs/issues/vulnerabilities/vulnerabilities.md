@@ -8,6 +8,36 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for August 2023 fixed 2 actively exploited flaws<a href="https://securityaffairs.com/149299/security/microsoft-patch-tuesday-august-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates for August 2023 addressed 74 vulnerabilities, including two actively exploited flaws.
+Microsoft Patch Tuesday security updates for August 2023 addressed 74 new vulnerabilities in multiple products including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+43 Android apps in Google Play with 2.5M installs loaded ads when a phone screen was off<a href="https://securityaffairs.com/149274/malware/google-play-43-rogue-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts found 43 Android apps in Google Play with 2.5 million installs that displayed advertisements while a phone's screen was off.
+Recently, researchers from McAfee’s Mobile Research Team discovered 43 Android apps in Google Play with 2.5 million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

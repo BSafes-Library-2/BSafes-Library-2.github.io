@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cl0p Ransomware Gang Revises its Extortion Strategy<a href="https://cyware.com/news/cl0p-ransomware-gang-revises-its-extortion-strategy-848dc9ea"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MOVEit-hijacker Cl0p ransomware gang has changed its extortion tactics and is now using torrents to distribute data stolen in the MOVEit Transfer breaches. Previously, the group utilized Tor data leak sites, but this method was slow and easier to shut down. Through torrents, criminals are expecting ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyware Maker Letmespy Shuts Down After Hacker Deletes Server Data<a href="https://techcrunch.com/2023/08/05/letmespy-spyware-shuts-down-wiped-server/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a notice on its website in both English and Polish, LetMeSpy confirmed the “permanent shutdown” of the spyware service and that it would cease operations by the end of August.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

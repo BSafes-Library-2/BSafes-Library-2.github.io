@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat Actor Targets Bulgaria, China, Vietnam, and Other Countries With Customized Yashma Ransomware<a href="https://blog.talosintelligence.com/new-threat-actor-using-yashma-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind this operation uses an uncommon technique of downloading the ransom note from a GitHub repository, evading detection by embedding it in an embedded batch file.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Abusing Cloudflare Tunnels for Covert Communications<a href="https://thehackernews.com/2023/08/hackers-abusing-cloudflare-tunnels-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has revealed that threat actors are abusing Cloudflare Tunnels to establish covert communication channels from compromised hosts and retain persistent access. "Cloudflared is functionally very similar to ngrok," Nic Finn, a senior threat intelligence analyst at GuidePoint Security, said . "However, Cloudflared differs from ngrok in that it provides a lot more usability for free, including the ability to host TCP connectivity over cloudflared." A command-line tool for Cloudflare Tunnel, cloudflared allows users to create secure connections between an origin web server and Cloudflare's nearest data center so as to hide the web server IP addresses as well as block volumetric distributed denial-of-service (DDoS) and brute-force login attacks. For a threat actor with elevated access on an infected host, this feature presents a lucrative approach to set up a foothold by generating a token required to establish the tunnel from the victim machine.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
