@@ -37,6 +37,200 @@ BSafes library includes mobile-friendly cybersecurity publications.
 August 8, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian State Agencies Targeted with Open-Source Malware MerlinAgent<a href="https://therecord.media/ukrainian-agencies-targeted-with-merlin?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In early August, an unidentified threat actor tracked as UAC-0154 sent malicious emails to its targets, purportedly containing security tips from Ukraine's computer emergency response team (CERT-UA).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QakBot Malware Operators Expand C2 Network with 15 New Servers<a href="https://thehackernews.com/2023/08/qakbot-malware-operators-expand-c2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators associated with the QakBot (aka QBot) malware have set up 15 new command-and-control (C2) servers as of late June 2023. The findings are a continuation of the malware's infrastructure analysis from Team Cymru, and arrive a little over two months after Lumen Black Lotus Labs  revealed  that 25% of its C2 servers are only active for a single day. "QakBot has a history of taking an extended break each summer before returning sometime in September, with this year's spamming activities ceasing around 22 June 2023," the cybersecurity firm  said . "But are the QakBot operators actually on vacation when they aren't spamming, or is this 'break' a time for them to refine and update their infrastructure and tools?" QakBot's C2 network, like in the case of Emotet and IcedID, is  characterized  by a tiered architecture in which C2 nodes communicate with upstream Tier 2 (T2) C2 nodes hosted on VPS providers geolocated in Russia. A majo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patch Tuesday for August 2023 fixed 2 actively exploited flaws<a href="https://securityaffairs.com/149299/security/microsoft-patch-tuesday-august-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Patch Tuesday security updates for August 2023 addressed 74 vulnerabilities, including two actively exploited flaws.
+Microsoft Patch Tuesday security updates for August 2023 addressed 74 new vulnerabilities in multiple products including...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat Actor Targets Bulgaria, China, Vietnam, and Other Countries With Customized Yashma Ransomware<a href="https://blog.talosintelligence.com/new-threat-actor-using-yashma-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind this operation uses an uncommon technique of downloading the ransom note from a GitHub repository, evading detection by embedding it in an embedded batch file.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Abusing Cloudflare Tunnels for Covert Communications<a href="https://thehackernews.com/2023/08/hackers-abusing-cloudflare-tunnels-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has revealed that threat actors are abusing Cloudflare Tunnels to establish covert communication channels from compromised hosts and retain persistent access. "Cloudflared is functionally very similar to ngrok," Nic Finn, a senior threat intelligence analyst at GuidePoint Security, said . "However, Cloudflared differs from ngrok in that it provides a lot more usability for free, including the ability to host TCP connectivity over cloudflared." A command-line tool for Cloudflare Tunnel, cloudflared allows users to create secure connections between an origin web server and Cloudflare's nearest data center so as to hide the web server IP addresses as well as block volumetric distributed denial-of-service (DDoS) and brute-force login attacks. For a threat actor with elevated access on an infected host, this feature presents a lucrative approach to set up a foothold by generating a token required to establish the tunnel from the victim machine.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Electoral Commission discloses a data breach<a href="https://securityaffairs.com/149288/data-breach/uk-electoral-commission-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK Electoral Commission suffered a data breach that exposed voters' personal information between 2014 and 2022.
+The UK Electoral Commission disclosed a data breach that exposed the personal information of voters in the United Kingdom between 2014...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Pushes Cybersecurity Defense for K-12 Schools<a href="https://www.bankinfosecurity.com/white-house-pushes-cybersecurity-defense-for-k-12-schools-a-22745?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Typically understaffed and underfunded when it comes to cybersecurity, American K-12 schools have experienced a ramp-up in ransomware attacks, particularly after the pandemic forced the hasty adoption of remote tools for teaching.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding Active Directory Attack Paths to Improve Security<a href="https://thehackernews.com/2023/08/understanding-active-directory-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Introduced in 1999, Microsoft Active Directory is the default identity and access management service in Windows networks, responsible for assigning and enforcing security policies for all network endpoints. With it, users can access various resources across networks. As things tend to do, times, they are a'changin' – and a few years back, Microsoft introduced Azure Active Directory, the cloud-based version of AD to extend the AD paradigm, providing organizations with an Identity-as-a-Service (IDaaS) solution across both the cloud and on-prem apps. (Note that as of July 11th 2023, this service was renamed to  Microsoft Entra ID , but for the sake of simplicity, we'll refer to it as Azure AD in this post) Both Active Directory and Azure AD are critical to the functioning of on-prem, cloud-based, and hybrid ecosystems, playing a key role in uptime and business continuity. And with 90% of organizations using the service for employee authentication, access control and ID manag
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HHS Warns Healthcare Sector of Attacks by Rhysida Ransomware Group<a href="https://www.healthcareinfosecurity.com/authorities-warn-health-sector-attacks-by-rhysida-group-a-22753?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authorities are sounding the alarm about double-extortion attacks against healthcare and public health sector organizations by a relatively new ransomware-as-a-service group, Rhysida, which until recently had mainly focused on other industries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Yashma Ransomware Variant Targets Multiple English-Speaking Countries<a href="https://thehackernews.com/2023/08/new-yashma-ransomware-variant-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor is using a variant of the Yashma ransomware to target various entities in English-speaking countries, Bulgaria, China, and Vietnam at least since June 4, 2023. Cisco Talos, in a new write-up, attributed the operation with moderate confidence to an adversary of likely Vietnamese origin. "The threat actor uses an uncommon technique to deliver the ransom note," security researcher Chetan Raghuprasad  said . "Instead of embedding the ransom note strings in the binary, they download the ransom note from the actor-controlled GitHub repository by executing an embedded batch file." Yashma,  first described  by the BlackBerry research and intelligence team in May 2022, is a rebranded version of another ransomware strain called Chaos. A month prior to its emergence, the Chaos ransomware builder was leaked in the wild. A notable aspect of the ransom note is its resemblance to the well-known WannaCry ransomware, possibly done so in an attempt to obs
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Unveils Cybersecurity Strategic Plan for Next Three Years<a href="https://www.securityweek.com/cisa-unveils-cybersecurity-strategic-plan-for-next-3-years/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity Strategic Plan for fiscal years 2024-2026 outlines the agency’s plans for achieving a future where damaging cyberattacks are rare, organizations are resilient, and technology is secure by design.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Phishing Campaign Impersonates 340 Companies Using Over 800 Scam Domains<a href="https://www.imperva.com/blog/analysis-of-a-phishing-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing operation, originating from Russia but pretending to be Ukrainian, utilized a high-quality single-page application to create convincing websites and steal credit card and bank details.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Nigerian Man Admits to $1.3M Business Email Compromise Scam<a href="https://www.bankinfosecurity.com/nigerian-man-admits-to-13m-business-email-compromise-scam-a-22751?&web_view=true"> Full Text</a>
 </p>
 <details>
