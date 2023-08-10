@@ -34,6 +34,346 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Horizon3 AI Raises $40 Million to Expand Automated Pentesting Platform<a href="https://www.securityweek.com/horizon3-ai-raises-40-million-to-expand-automated-pentesting-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The additional funding will help the San Francisco-based company integrate pentesting, SOAR, and detection engineering into its platform and expand its channel and partner presence to fuel global growth.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Collide+Power, Downfall, and Inception: New Side-Channel Attacks Affecting Modern CPUs<a href="https://thehackernews.com/2023/08/collidepower-downfall-and-inception-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of a trio of side-channel attacks that could be exploited to leak sensitive data from modern CPUs. Called  Collide+Power  ( CVE-2023-20583 ),  Downfall  ( CVE-2022-40982 ), and  Inception  ( CVE-2023-20569 ), the novel methods follow the disclosure of another newly discovered security vulnerability affecting AMD's Zen 2 architecture-based processors known as  Zenbleed  (CVE-2023-20593). "Downfall attacks target a critical weakness found in billions of modern processors used in personal and cloud computers,"  Daniel Moghimi , senior research scientist at Google,  said . "This vulnerability [...] enables a user to access and steal data from other users who share the same computer." In a hypothetical attack scenario, a malicious app installed on a device could weaponize the method to steal sensitive information like passwords and encryption keys, effectively undermining Intel's Software Guard eXtensions ( SGX
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Balada Injector still at large – new domains discovered<a href="https://securityaffairs.com/149353/cyber-crime/balada-injector-evolution.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Balada Injector is still at large and still evading security software by utilizing new domain names and using new obfuscation.
+During a routine web monitoring operation, we discovered an address that led us down a rabbit hole of WordPress-orientated...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Exfiltration is Now the Go-to Cyber Extortion Strategy<a href="https://www.helpnetsecurity.com/2023/08/09/ransomware-groups-extortion-source/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The abuse of zero-day and one-day vulnerabilities in the past six months led to a 143% increase in victims when comparing Q1 2022 with Q1 2023, according to a report by Akamai.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Hackers Strike Worldwide: 17 Nations Hit in 3-Year Cyber Campaign<a href="https://thehackernews.com/2023/08/china-linked-hackers-strike-worldwide.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers associated with China's Ministry of State Security (MSS) have been linked to attacks in 17 different countries in Asia, Europe, and North America from 2021 to 2023. Cybersecurity firm Recorded Future attributed the intrusion set to a nation-state group it tracks under the name  RedHotel  (previously Threat Activity Group-22 or TAG-22), which overlaps with a cluster of activity broadly monitored as  Aquatic Panda ,  Bronze University , Charcoal Typhoon,  Earth Lusca , and  Red Scylla  (or Red Dev 10). Active since 2019, some of the prominent sectors targeted by the prolific actor encompass academia, aerospace, government, media, telecommunications, and research. A majority of the victims during the period were government organizations. "RedHotel has a dual mission of intelligence gathering and economic espionage," the cybersecurity company  said , calling out its persistence, operational intensity, and global reach. "It targets both government entities for
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EvilProxy used in massive cloud account takeover scheme<a href="https://securityaffairs.com/149348/hacking/cloud-account-takeover-scheme-evilproxy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud account takeover scheme utilizing EvilProxy hit over 100 top-level executives of global organizations
+EvilProxy was observed sending 120,000 phishing emails to over a hundred organizations to steal Microsoft 365 accounts. Proofpoint noticed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Prepare to Take on a Satellite at DEF CON<a href="https://cyberscoop.com/hack-a-sat-moonlighter-def-con/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The annual Hack-A-Sat CTF competition held at Aerospace Village at the DEF CON in Las Vegas is the first time an on-orbit satellite will test contestants' mettle while bringing together hackers who don’t typically work on space systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Continuous Security Validation with Penetration Testing as a Service (PTaaS)<a href="https://thehackernews.com/2023/08/continuous-security-validation-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Validate security continuously across your full stack with Pen Testing as a Service. In today's modern security operations center (SOC), it's a battle between the defenders and the cybercriminals. Both are using tools and expertise – however, the cybercriminals have the element of surprise on their side, and a host of tactics, techniques, and procedures (TTPs) that have evolved. These external threat actors have now been further emboldened in the era of AI with open-source tools like ChatGPT. With the potential of an attack leading to a breach within minutes, CISOs now are looking to prepare all systems and assets for cyber resilience and rapid response when needed. With tools and capabilities to validate security continuously – including penetration testing as a service – DevSecOps teams can remediate critical vulnerabilities fast due to the easy access to tactical support to the teams that need it the most. This gives the SOC and DevOps teams tools to that remove false po
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Downfall Intel CPU side-channel attack exposes sensitive data<a href="https://securityaffairs.com/149326/hacking/downfall-intel-cpu-side-channel-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google researcher Daniel Moghimi devised a new side-channel attack technique, named Downfall, against Intel CPU.
+Google researcher Daniel Moghimi devised a new side-channel attack technique Intel CPU, named Downfall, that relies on a flaw tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Ransomware Rollercoaster Continues as Criminals Advance Their Business Models<a href="https://www.helpnetsecurity.com/2023/08/09/ransomware-detections-1h-2023/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware shows no signs of slowing, with ransomware activity ending 13 times higher than at the start of 2023 as a proportion of all malware detections, according to Fortinet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android 14 Security Feature: IT Admins Can Now Disable 2G Networks<a href="https://thehackernews.com/2023/08/new-android-14-security-feature-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has introduced a new security feature in Android 14 that allows IT administrators to disable support for 2G cellular networks in their managed device fleet. The search giant said it's introducing a second user setting to turn off support, at the model level, for  null-ciphered cellular connections . "The Android Security Model assumes that all networks are hostile to keep users safe from network packet injection, tampering, or eavesdropping on user traffic," Roger Piqueras Jover, Yomna Nasser, and Sudhi Herle  said . "Android does not rely on link-layer encryption to address this threat model. Instead, Android establishes that all network traffic should be end-to-end encrypted (E2EE)." 2G networks, in particular, employ weak encryption and lack mutual authentication,  rendering  them  susceptible  to over-the-air interception and traffic decryption attacks by impersonating a real 2G tower. The  threat posed by rogue cellular base stations  means th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit threatens to leak medical data of cancer patients stolen from Varian Medical Systems<a href="https://securityaffairs.com/149307/cyber-crime/varian-medical-systems-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware group threatens to leak medical data of cancer patients stolen from Varian Medical Systems.
+The LockBit ransomware group claims to have hacked the healthcare company Varian Medical Systems and threatens to leak the medical data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rubrik Buys Startup Laminar to Unify Cyber Posture, Recovery<a href="https://www.bankinfosecurity.com/rubrik-buys-startup-laminar-to-unify-cyber-posture-recovery-a-22764?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rubrik purchased a data security posture management startup backed by Salesforce and SentinelOne to provide visibility into where a company's data lives and who has access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. Electoral Commission Breach Exposes Voter Data of 40 Million Britons<a href="https://thehackernews.com/2023/08/uk-electoral-commission-breach-exposes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. Electoral Commission on Tuesday disclosed a "complex" cyber attack on its systems that went undetected for over a year, allowing the threat actors to access years worth of voter data belonging to 40 million people. "The incident was identified in October 2022 after suspicious activity was detected on our systems," the regulator  said . "It became clear that hostile actors had first accessed the systems in August 2021." The intrusion enabled unauthorized access to the Commission's servers hosting email, control systems, and copies of the electoral registers it maintains for research purposes. The identity of the intruders are presently unknown. The registers included the name and address of anyone in the U.K. who registered to vote between 2014 and 2022, as well as the names of those registered as overseas voters. However, they did not contain information of those who qualified to register anonymously and addresses of overseas electors regi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Big Cyberespionage Attack Against Japan Attributed to China<a href="https://www.bankinfosecurity.com/big-cyberespionage-attack-against-japan-attributed-to-china-a-22757?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Classified military networks run by Japan reportedly suffered a massive breach in 2020 at the hands of a Chinese cyberespionage group that proved tough to eject even after being discovered.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Patches for 74 New Vulnerabilities in August Update<a href="https://thehackernews.com/2023/08/microsoft-releases-patches-for-74-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has patched a total of  74 flaws  in its software as part of the company's Patch Tuesday updates for August 2023, down from the voluminous 132 vulnerabilities the company fixed last month. This comprises six Critical, 67 Important, and one Moderate severity vulnerabilities. Released along with the security improvements are two defense-in-depth updates for Microsoft Office ( ADV230003 ) and the Memory Integrity System Readiness Scan Tool ( ADV230004 ). The updates are also in addition to 30 issues addressed by Microsoft in its Chromium-based Edge browser since last month's Patch Tuesday edition and one side-channel flaw impacting certain processor models offered by AMD ( CVE-2023-20569  or  Inception ). ADV230003 concerns an already known security flaw tracked as  CVE-2023-36884 , a remote code execution vulnerability in Office and Windows HTML that has been actively exploited by the Russia-linked RomCom threat actor in attacks targeting Ukraine as well as pro-Ukr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android 14 Introduces First-Of-Its-Kind Cellular Connectivity Security Features<a href="https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Android 14 introduces new security measures to mitigate the risks associated with 2G networks, allowing users and enterprises to disable 2G connectivity and protect against potential attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Campaigns Exploit Weak Kubernetes Clusters for Crypto Mining<a href="https://thehackernews.com/2023/08/malicious-campaigns-exploit-weak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exposed Kubernetes (K8s) clusters are being exploited by malicious actors to deploy cryptocurrency miners and other backdoors. Cloud security firm Aqua, in a  report  shared with The Hacker News, said a majority of the clusters belonged to small to medium-sized organizations, with a smaller subset tied to bigger companies, spanning financial, aerospace, automotive, industrial, and security sectors. In total, Kubernetes clusters belonging to more than 350 organizations, open-source projects, and individuals were discovered, 60% of which were the target of an active crypto-mining campaign. The publicly-accessible clusters, per Aqua, are said to suffer from two different kinds of misconfigurations: allowing anonymous access with high privileges and running kubectl proxy with the flags "--address=`0.0.0.0` --accept-hosts `.*`" "Housing a wide array of sensitive and valuable assets, Kubernetes clusters can store customer data, financial records, intellectual property, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit Threatens to Leak Medical Data of Cancer Patients Stolen From Varian Medical Systems<a href="https://securityaffairs.com/149307/cyber-crime/varian-medical-systems-lockbit-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lockbit has fixed the deadline for the ransom payment on August 17, 2023. If confirmed the incident could have a dramatic impact on the privacy of cancer patients. The company has yet to disclose the security incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report Exposes Vice Society's Collaboration with Rhysida Ransomware<a href="https://thehackernews.com/2023/08/new-report-exposes-vice-societys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tactical similarities have been unearthed between the double extortion ransomware group known as Rhysida and Vice Society , including in their targeting of education and healthcare sectors. "As Vice Society was observed deploying a variety of commodity ransomware payloads, this link does not suggest that Rhysida is exclusively used by Vice Society, but shows with at least medium confidence that Vice Society operators are now using Rhysida ransomware," Check Point  said  in a new report. Vice Society , tracked by Microsoft under the name Storm-0832, has a  pattern  of employing already existing ransomware binaries that are sold on criminal forums to pull off their attacks. The financially motivated gang has also been observed resorting to pure extortion-themed attacks wherein the data is exfiltrated without encrypting them. First observed in May 2023, the  Rhysida  ransomware group is known to rely on phishing attacks and Cobalt Strike to breach targets' networks and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+For TSA’s Updated Pipeline Security Directive, Consistency and Collaboration are Key<a href="https://www.helpnetsecurity.com/2023/08/08/tsa-pipeline-security-directive/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This most recent update does not vacate previously established requirements in the simple pursuit of change. Instead, the new directive pursues incremental change that builds on but does not abandon previous requirements.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 8, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
