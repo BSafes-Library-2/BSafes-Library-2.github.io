@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian State Agencies Targeted with Open-Source Malware MerlinAgent<a href="https://therecord.media/ukrainian-agencies-targeted-with-merlin?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In early August, an unidentified threat actor tracked as UAC-0154 sent malicious emails to its targets, purportedly containing security tips from Ukraine's computer emergency response team (CERT-UA).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

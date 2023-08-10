@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Phishing Campaign Impersonates 340 Companies Using Over 800 Scam Domains<a href="https://www.imperva.com/blog/analysis-of-a-phishing-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing operation, originating from Russia but pretending to be Ukrainian, utilized a high-quality single-page application to create convincing websites and steal credit card and bank details.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Teach a Man to Phish and He’s Set for Life – Krebs on Security<a href="https://krebsonsecurity.com/2023/08/teach-a-man-to-phish-and-hes-set-for-life/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent phishing scam has been using an old trick to fool Microsoft Windows users. The scam involves sending an email with an attachment that appears to be a PDF file, but is actually an .eml file disguised as a .pdf.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

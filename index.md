@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2023
+August 9, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Horizon3 AI Raises $40 Million to Expand Automated Pentesting Platform<a href="https://www.securityweek.com/horizon3-ai-raises-40-million-to-expand-automated-pentesting-platform/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2023
+August 09, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Collide+Power, Downfall, and Inception: New Side-Channel Attacks Affecting Modern CPUs<a href="https://thehackernews.com/2023/08/collidepower-downfall-and-inception-new.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2023
+August 9, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Balada Injector still at large – new domains discovered<a href="https://securityaffairs.com/149353/cyber-crime/balada-injector-evolution.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2023
+August 9, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Exfiltration is Now the Go-to Cyber Extortion Strategy<a href="https://www.helpnetsecurity.com/2023/08/09/ransomware-groups-extortion-source/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2023
+August 09, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked Hackers Strike Worldwide: 17 Nations Hit in 3-Year Cyber Campaign<a href="https://thehackernews.com/2023/08/china-linked-hackers-strike-worldwide.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2023
+August 9, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EvilProxy used in massive cloud account takeover scheme<a href="https://securityaffairs.com/149348/hacking/cloud-account-takeover-scheme-evilproxy.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2023
+August 9, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Prepare to Take on a Satellite at DEF CON<a href="https://cyberscoop.com/hack-a-sat-moonlighter-def-con/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2023
+August 09, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Continuous Security Validation with Penetration Testing as a Service (PTaaS)<a href="https://thehackernews.com/2023/08/continuous-security-validation-with.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2023
+August 9, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Downfall Intel CPU side-channel attack exposes sensitive data<a href="https://securityaffairs.com/149326/hacking/downfall-intel-cpu-side-channel-attack.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2023
+August 9, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Ransomware Rollercoaster Continues as Criminals Advance Their Business Models<a href="https://www.helpnetsecurity.com/2023/08/09/ransomware-detections-1h-2023/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2023
+August 09, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android 14 Security Feature: IT Admins Can Now Disable 2G Networks<a href="https://thehackernews.com/2023/08/new-android-14-security-feature-it.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2023
+August 9, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit threatens to leak medical data of cancer patients stolen from Varian Medical Systems<a href="https://securityaffairs.com/149307/cyber-crime/varian-medical-systems-lockbit-ransomware.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2023
+August 9, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rubrik Buys Startup Laminar to Unify Cyber Posture, Recovery<a href="https://www.bankinfosecurity.com/rubrik-buys-startup-laminar-to-unify-cyber-posture-recovery-a-22764?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2023
+August 09, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.K. Electoral Commission Breach Exposes Voter Data of 40 Million Britons<a href="https://thehackernews.com/2023/08/uk-electoral-commission-breach-exposes.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2023
+August 9, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Big Cyberespionage Attack Against Japan Attributed to China<a href="https://www.bankinfosecurity.com/big-cyberespionage-attack-against-japan-attributed-to-china-a-22757?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2023
+August 09, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Releases Patches for 74 New Vulnerabilities in August Update<a href="https://thehackernews.com/2023/08/microsoft-releases-patches-for-74-new.html"> Full Text</a>
@@ -294,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2023
+August 9, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android 14 Introduces First-Of-Its-Kind Cellular Connectivity Security Features<a href="https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2023
+August 09, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Campaigns Exploit Weak Kubernetes Clusters for Crypto Mining<a href="https://thehackernews.com/2023/08/malicious-campaigns-exploit-weak.html"> Full Text</a>
@@ -326,7 +326,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2023
+August 9, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lockbit Threatens to Leak Medical Data of Cancer Patients Stolen From Varian Medical Systems<a href="https://securityaffairs.com/149307/cyber-crime/varian-medical-systems-lockbit-ransomware.html?&web_view=true"> Full Text</a>
@@ -342,7 +342,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 09, 2023
+August 09, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Report Exposes Vice Society's Collaboration with Rhysida Ransomware<a href="https://thehackernews.com/2023/08/new-report-exposes-vice-societys.html"> Full Text</a>
@@ -358,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 9, 2023
+August 9, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 For TSA’s Updated Pipeline Security Directive, Consistency and Collaboration are Key<a href="https://www.helpnetsecurity.com/2023/08/08/tsa-pipeline-security-directive/?&web_view=true"> Full Text</a>

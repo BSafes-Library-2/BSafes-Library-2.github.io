@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Exfiltration is Now the Go-to Cyber Extortion Strategy<a href="https://www.helpnetsecurity.com/2023/08/09/ransomware-groups-extortion-source/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The abuse of zero-day and one-day vulnerabilities in the past six months led to a 143% increase in victims when comparing Q1 2022 with Q1 2023, according to a report by Akamai.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Prepare to Take on a Satellite at DEF CON<a href="https://cyberscoop.com/hack-a-sat-moonlighter-def-con/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The annual Hack-A-Sat CTF competition held at Aerospace Village at the DEF CON in Las Vegas is the first time an on-orbit satellite will test contestants' mettle while bringing together hackers who don’t typically work on space systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

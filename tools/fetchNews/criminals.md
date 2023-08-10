@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nigerian Man Admits to $1.3M Business Email Compromise Scam<a href="https://www.bankinfosecurity.com/nigerian-man-admits-to-13m-business-email-compromise-scam-a-22751?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Nigerian national pleaded guilty to participating in a BEC scheme to steal $1.25m from a Boston investment firm. The scam involved using malware and a spoofed domain name to trick the firm into transferring money to attacker-controlled accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

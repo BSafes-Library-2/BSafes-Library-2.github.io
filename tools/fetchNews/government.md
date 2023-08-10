@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+August 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Pushes Cybersecurity Defense for K-12 Schools<a href="https://www.bankinfosecurity.com/white-house-pushes-cybersecurity-defense-for-k-12-schools-a-22745?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Typically understaffed and underfunded when it comes to cybersecurity, American K-12 schools have experienced a ramp-up in ransomware attacks, particularly after the pandemic forced the hasty adoption of remote tools for teaching.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HHS Warns Healthcare Sector of Attacks by Rhysida Ransomware Group<a href="https://www.healthcareinfosecurity.com/authorities-warn-health-sector-attacks-by-rhysida-group-a-22753?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authorities are sounding the alarm about double-extortion attacks against healthcare and public health sector organizations by a relatively new ransomware-as-a-service group, Rhysida, which until recently had mainly focused on other industries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Unveils Cybersecurity Strategic Plan for Next Three Years<a href="https://www.securityweek.com/cisa-unveils-cybersecurity-strategic-plan-for-next-3-years/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity Strategic Plan for fiscal years 2024-2026 outlines the agency’s plans for achieving a future where damaging cyberattacks are rare, organizations are resilient, and technology is secure by design.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

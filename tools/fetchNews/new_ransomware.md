@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Ransomware Rollercoaster Continues as Criminals Advance Their Business Models<a href="https://www.helpnetsecurity.com/2023/08/09/ransomware-detections-1h-2023/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware shows no signs of slowing, with ransomware activity ending 13 times higher than at the start of 2023 as a proportion of all malware detections, according to Fortinet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Yashma Ransomware Variant Targets Multiple English-Speaking Countries<a href="https://thehackernews.com/2023/08/new-yashma-ransomware-variant-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor is using a variant of the Yashma ransomware to target various entities in English-speaking countries, Bulgaria, China, and Vietnam at least since June 4, 2023. Cisco Talos, in a new write-up, attributed the operation with moderate confidence to an adversary of likely Vietnamese origin. "The threat actor uses an uncommon technique to deliver the ransom note," security researcher Chetan Raghuprasad&nbsp; said . "Instead of embedding the ransom note strings in the binary, they download the ransom note from the actor-controlled GitHub repository by executing an embedded batch file." Yashma,&nbsp; first described &nbsp;by the BlackBerry research and intelligence team in May 2022, is a rebranded version of another ransomware strain called Chaos. A month prior to its emergence, the Chaos ransomware builder was leaked in the wild. A notable aspect of the ransom note is its resemblance to the well-known WannaCry ransomware, possibly done so in an attempt to obs
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

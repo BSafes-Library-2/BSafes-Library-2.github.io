@@ -8,6 +8,49 @@ nav_order: 900029
 
 ## Breach
 ---
+August 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit threatens to leak medical data of cancer patients stolen from Varian Medical Systems<a href="https://securityaffairs.com/149307/cyber-crime/varian-medical-systems-lockbit-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit ransomware group threatens to leak medical data of cancer patients stolen from Varian Medical Systems.
+The LockBit ransomware group claims to have hacked the healthcare company Varian Medical Systems and threatens to leak the medical data...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. Electoral Commission Breach Exposes Voter Data of 40 Million Britons<a href="https://thehackernews.com/2023/08/uk-electoral-commission-breach-exposes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. Electoral Commission on Tuesday disclosed a "complex" cyber attack on its systems that went undetected for over a year, allowing the threat actors to access years worth of voter data belonging to 40 million people. "The incident was identified in October 2022 after suspicious activity was detected on our systems," the regulator&nbsp; said . "It became clear that hostile actors had first accessed the systems in August 2021." The intrusion enabled unauthorized access to the Commission's servers hosting email, control systems, and copies of the electoral registers it maintains for research purposes. The identity of the intruders are presently unknown. The registers included the name and address of anyone in the U.K. who registered to vote between 2014 and 2022, as well as the names of those registered as overseas voters. However, they did not contain information of those who qualified to register anonymously and addresses of overseas electors regi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit Threatens to Leak Medical Data of Cancer Patients Stolen From Varian Medical Systems<a href="https://securityaffairs.com/149307/cyber-crime/varian-medical-systems-lockbit-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lockbit has fixed the deadline for the ransom payment on August 17, 2023. If confirmed the incident could have a dramatic impact on the privacy of cancer patients. The company has yet to disclose the security incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

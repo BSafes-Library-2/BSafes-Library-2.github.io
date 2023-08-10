@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+August 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Electoral Commission discloses a data breach<a href="https://securityaffairs.com/149288/data-breach/uk-electoral-commission-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK Electoral Commission suffered a data breach that exposed voters' personal information between 2014 and 2022.
+The UK Electoral Commission disclosed a data breach that exposed the personal information of voters in the United Kingdom between 2014...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
