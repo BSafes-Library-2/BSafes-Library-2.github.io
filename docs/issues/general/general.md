@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 37% Of Third-Party Applications Have High-Risk Permissions<a href="https://www.helpnetsecurity.com/2023/08/10/third-party-applications-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Examining data since 2013, Abnormal identified a massive increase in third-party apps integrated with email, underscoring the proliferation of an emerging threat vector that cybercriminals are exploiting as they continue to shift their tactics.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

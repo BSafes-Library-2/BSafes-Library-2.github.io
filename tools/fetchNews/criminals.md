@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report Exposes Vice Society's Collaboration with Rhysida Ransomware<a href="https://thehackernews.com/2023/08/new-report-exposes-vice-societys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tactical similarities have been unearthed between the double extortion ransomware group known as Rhysida and Vice Society , including in their targeting of education and healthcare sectors. "As Vice Society was observed deploying a variety of commodity ransomware payloads, this link does not suggest that Rhysida is exclusively used by Vice Society, but shows with at least medium confidence that Vice Society operators are now using Rhysida ransomware," Check Point&nbsp; said &nbsp;in a new report. Vice Society , tracked by Microsoft under the name Storm-0832, has a&nbsp; pattern &nbsp;of employing already existing ransomware binaries that are sold on criminal forums to pull off their attacks. The financially motivated gang has also been observed resorting to pure extortion-themed attacks wherein the data is exfiltrated without encrypting them. First observed in May 2023, the&nbsp; Rhysida &nbsp;ransomware group is known to rely on phishing attacks and Cobalt Strike to breach targets' networks and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

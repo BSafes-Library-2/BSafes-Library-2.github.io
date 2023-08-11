@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Increasingly Using EvilProxy Phishing Kit to Target Executives<a href="https://thehackernews.com/2023/08/cybercriminals-increasingly-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly using a phishing-as-a-service (PhaaS) toolkit dubbed EvilProxy to pull off account takeover attacks aimed at high-ranking executives at prominent companies. According to Proofpoint, an ongoing hybrid campaign has leveraged the service to target thousands of Microsoft 365 user accounts, sending approximately 120,000 phishing emails to hundreds of organizations worldwide between March and June 2023. Nearly 39% of the hundreds of compromised users are said to be C-level executives, including CEOs (9%) and CFOs (17%). The attacks have also singled out personnel with access to financial assets or sensitive information. At least 35% of all compromised users had additional account protections enabled. The campaigns are seen as a response to the increased adoption of multi-factor authentication (MFA) in enterprises, prompting threat actors to evolve their tactics to bypass new security layers by incorporating adversary-in-the-middle ( AitM ) phishing kits to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

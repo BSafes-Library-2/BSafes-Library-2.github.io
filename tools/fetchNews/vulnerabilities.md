@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Collide+Power, Downfall, and Inception: New Side-Channel Attacks Affecting Modern CPUs<a href="https://thehackernews.com/2023/08/collidepower-downfall-and-inception-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed details of a trio of side-channel attacks that could be exploited to leak sensitive data from modern CPUs. Called&nbsp; Collide+Power &nbsp;( CVE-2023-20583 ),&nbsp; Downfall &nbsp;( CVE-2022-40982 ), and&nbsp; Inception &nbsp;( CVE-2023-20569 ), the novel methods follow the disclosure of another newly discovered security vulnerability affecting AMD's Zen 2 architecture-based processors known as&nbsp; Zenbleed &nbsp;(CVE-2023-20593). "Downfall attacks target a critical weakness found in billions of modern processors used in personal and cloud computers,"&nbsp; Daniel Moghimi , senior research scientist at Google,&nbsp; said . "This vulnerability [...] enables a user to access and steal data from other users who share the same computer." In a hypothetical attack scenario, a malicious app installed on a device could weaponize the method to steal sensitive information like passwords and encryption keys, effectively undermining Intel's Software Guard eXtensions ( SGX
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Downfall Intel CPU side-channel attack exposes sensitive data<a href="https://securityaffairs.com/149326/hacking/downfall-intel-cpu-side-channel-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google researcher Daniel Moghimi devised a new side-channel attack technique, named Downfall, against Intel CPU.
+Google researcher Daniel Moghimi devised a new side-channel attack technique Intel CPU, named Downfall, that relies on a flaw tracked...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Patches for 74 New Vulnerabilities in August Update<a href="https://thehackernews.com/2023/08/microsoft-releases-patches-for-74-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has patched a total of&nbsp; 74 flaws &nbsp;in its software as part of the company's Patch Tuesday updates for August 2023, down from the voluminous 132 vulnerabilities the company fixed last month. This comprises six Critical, 67 Important, and one Moderate severity vulnerabilities. Released along with the security improvements are two defense-in-depth updates for Microsoft Office ( ADV230003 ) and the Memory Integrity System Readiness Scan Tool ( ADV230004 ). The updates are also in addition to 30 issues addressed by Microsoft in its Chromium-based Edge browser since last month's Patch Tuesday edition and one side-channel flaw impacting certain processor models offered by AMD ( CVE-2023-20569 &nbsp;or&nbsp; Inception ). ADV230003 concerns an already known security flaw tracked as&nbsp; CVE-2023-36884 , a remote code execution vulnerability in Office and Windows HTML that has been actively exploited by the Russia-linked RomCom threat actor in attacks targeting Ukraine as well as pro-Ukr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+August 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Horizon3 AI Raises $40 Million to Expand Automated Pentesting Platform<a href="https://www.securityweek.com/horizon3-ai-raises-40-million-to-expand-automated-pentesting-platform/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The additional funding will help the San Francisco-based company integrate pentesting, SOAR, and detection engineering into its platform and expand its channel and partner presence to fuel global growth.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rubrik Buys Startup Laminar to Unify Cyber Posture, Recovery<a href="https://www.bankinfosecurity.com/rubrik-buys-startup-laminar-to-unify-cyber-posture-recovery-a-22764?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rubrik purchased a data security posture management startup backed by Salesforce and SentinelOne to provide visibility into where a company's data lives and who has access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

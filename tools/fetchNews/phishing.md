@@ -8,6 +8,21 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EvilProxy used in massive cloud account takeover scheme<a href="https://securityaffairs.com/149348/hacking/cloud-account-takeover-scheme-evilproxy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud account takeover scheme utilizing EvilProxy hit over 100 top-level executives of global organizations
+EvilProxy was observed sending 120,000 phishing emails to over a hundred organizations to steal Microsoft 365 accounts. Proofpoint noticed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

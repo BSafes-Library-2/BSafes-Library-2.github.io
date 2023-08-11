@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fourty Vulnerabilities Patched in Android With August 2023 Security Updates<a href="https://www.securityweek.com/40-vulnerabilities-patched-in-android-with-august-2023-security-updates/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Exploitation for many issues on Android is made more difficult by enhancements in newer versions of the Android platform. We encourage all users to update to the latest version of Android where possible,” Google noted in its security bulletin.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Emerging Attacker Exploit: Microsoft Cross-Tenant Synchronization<a href="https://thehackernews.com/2023/08/emerging-attacker-exploit-microsoft.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers continue to target Microsoft identities to gain access to connected Microsoft applications and federated SaaS applications. Additionally, attackers continue to progress their attacks in these environments, not by exploiting vulnerabilities, but by abusing native Microsoft functionality to achieve their objective. The attacker group Nobelium, linked with the SolarWinds attacks, has been documented using native functionality like the creation of Federated Trusts&nbsp; [1] &nbsp;to enable persistent access to a Microsoft tenant. This article demonstrates an additional native functionality that when leveraged by an attacker enables persistent access to a Microsoft cloud tenant and lateral movement capabilities to another tenant. This attack vector enables an attacker operating in a compromised tenant to abuse a misconfigured Cross-Tenant Synchronization (CTS) configuration and gain access to other connected tenants or deploy a rogue CTS configuration to maintain persistence within the te
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adobe Patches 30 Acrobat, Reader Vulnerabilities on Patch Tuesday<a href="https://www.securityweek.com/patch-tuesday-adobe-patches-30-acrobat-reader-vulns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe on Tuesday rolled out a big batch of security updates for its flagship Acrobat and Reader software, patching at least 30 vulnerabilities affecting Windows and macOS installations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encryption Flaws in Popular Chinese Language App Put Users' Typed Data at Risk<a href="https://thehackernews.com/2023/08/encryption-flaws-in-popular-chinese.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A widely used Chinese language input app for Windows and Android has been found vulnerable to serious security flaws that could allow a malicious interloper to decipher the text typed by users. The findings from the University of Toronto's Citizen Lab, which carried out an analysis of the encryption mechanism used in Tencent's Sogou Input Method , an app that has over 455 million monthly active users across Windows, Android, and iOS. The vulnerabilities are rooted in EncryptWall, the service's custom encryption system, allowing network eavesdroppers to extract the textual content and access sensitive data. "The Windows and Android versions of Sogou Input Method contain vulnerabilities in this encryption system, including a vulnerability to a CBC&nbsp; padding oracle attack , which allow network eavesdroppers to recover the plaintext of encrypted network transmissions, revealing sensitive information including what users have typed," the researchers&nbsp; said . CBC, s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

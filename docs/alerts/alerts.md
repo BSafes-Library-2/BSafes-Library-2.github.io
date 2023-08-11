@@ -7,6 +7,19 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 8, 2023 - NIST 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The NIST Cybersecurity Framework 2.0 <a href="https://csrc.nist.gov/pubs/cswp/29/the-nist-cybersecurity-framework-20/ipd"> Full Text</a>
+</p>
+<details>
+This is the public draft of the NIST Cybersecurity Framework (CSF or Framework) 2.0.
+
+The Framework has been used widely to reduce cybersecurity risks since its initial publication in 2014. Many organizations have told NIST that CSF 1.1 remains an effective framework for addressing cybersecurity risks. There is also widespread agreement that changes are warranted to address current and future cybersecurity challenges and to make it easier for organizations to use the Framework. NIST is working with the community to ensure that CSF 2.0 is effective for the future while fulfilling the CSF’s original goals and objectives.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 7, 2023 - Office of Educational Technology
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,65 @@ nav_order: 900075
 
 ## Government
 ---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA discovered a new backdoor, named Whirlpool, used in Barracuda ESG attacks<a href="https://securityaffairs.com/149392/hacking/whirlpool-backdoor-barracuda-esg-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity &amp; Infrastructure Security Agency (CISA) observed a new backdoor, named Whirlpool, in attacks on Barracuda ESG appliances.
+The U.S. Cybersecurity &amp; Infrastructure Security Agency (CISA) has discovered a new backdoor,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds actively exploited flaw in .NET, Visual Studio&nbsp;to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/149382/security/cisa-known-exploited-vulnerabilities-catalog-cve-2023-38180.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added zero-day vulnerability CVE-2023-38180 affecting .NET and Visual Studio to its Known Exploited Vulnerabilities catalog.
+US Cybersecurity and Infrastructure Security Agency (CISA) added an actively exploited zero-day vulnerability CVE-2023-38180...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Govt launches Artificial Intelligence Cyber Challenge<a href="https://securityaffairs.com/149372/security/us-govt-artificial-intelligence-cyber-challenge.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Government House this week launched an Artificial Intelligence Cyber Challenge competition for creating a new generation of AI systems.
+On Wednesday, the United States Government House introduced an Artificial Intelligence Cyber Challenge competition....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Releases Draft Overhaul of Its Core Cybersecurity Framework<a href="https://www.cybersecuritydive.com/news/nist-draft-overhaul-cybersecurity-framework/690381/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology released a long-anticipated draft version of the Cybersecurity Framework 2.0 Tuesday,  the first major update of the agency’s risk guidance since 2014.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

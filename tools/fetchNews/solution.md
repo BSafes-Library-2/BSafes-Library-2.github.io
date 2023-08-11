@@ -8,6 +8,48 @@ nav_order: 900195
 
 ## Solution
 ---
+August 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Continuous Security Validation with Penetration Testing as a Service (PTaaS)<a href="https://thehackernews.com/2023/08/continuous-security-validation-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Validate security continuously across your full stack with Pen Testing as a Service. In today's modern security operations center (SOC), it's a battle between the defenders and the cybercriminals. Both are using tools and expertise – however, the cybercriminals have the element of surprise on their side, and a host of tactics, techniques, and procedures (TTPs) that have evolved. These external threat actors have now been further emboldened in the era of AI with open-source tools like ChatGPT. With the potential of an attack leading to a breach within minutes, CISOs now are looking to prepare all systems and assets for cyber resilience and rapid response when needed. With tools and capabilities to validate security continuously – including penetration testing as a service – DevSecOps teams can remediate critical vulnerabilities fast due to the easy access to tactical support to the teams that need it the most. This gives the SOC and DevOps teams tools to that remove false po
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android 14 Security Feature: IT Admins Can Now Disable 2G Networks<a href="https://thehackernews.com/2023/08/new-android-14-security-feature-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has introduced a new security feature in Android 14 that allows IT administrators to disable support for 2G cellular networks in their managed device fleet. The search giant said it's introducing a second user setting to turn off support, at the model level, for&nbsp; null-ciphered cellular connections . "The Android Security Model assumes that all networks are hostile to keep users safe from network packet injection, tampering, or eavesdropping on user traffic," Roger Piqueras Jover, Yomna Nasser, and Sudhi Herle&nbsp; said . "Android does not rely on link-layer encryption to address this threat model. Instead, Android establishes that all network traffic should be end-to-end encrypted (E2EE)." 2G networks, in particular, employ weak encryption and lack mutual authentication,&nbsp; rendering &nbsp;them&nbsp; susceptible &nbsp;to over-the-air interception and traffic decryption attacks by impersonating a real 2G tower. The&nbsp; threat posed by rogue cellular base stations &nbsp;means th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android 14 Introduces First-Of-Its-Kind Cellular Connectivity Security Features<a href="https://security.googleblog.com/2023/08/android-14-introduces-first-of-its-kind.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Android 14 introduces new security measures to mitigate the risks associated with 2G networks, allowing users and enterprises to disable 2G connectivity and protect against potential attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

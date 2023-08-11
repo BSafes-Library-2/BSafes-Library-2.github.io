@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Campaigns Exploit Weak Kubernetes Clusters for Crypto Mining<a href="https://thehackernews.com/2023/08/malicious-campaigns-exploit-weak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exposed Kubernetes (K8s) clusters are being exploited by malicious actors to deploy cryptocurrency miners and other backdoors. Cloud security firm Aqua, in a&nbsp; report &nbsp;shared with The Hacker News, said a majority of the clusters belonged to small to medium-sized organizations, with a smaller subset tied to bigger companies, spanning financial, aerospace, automotive, industrial, and security sectors. In total, Kubernetes clusters belonging to more than 350 organizations, open-source projects, and individuals were discovered, 60% of which were the target of an active crypto-mining campaign. The publicly-accessible clusters, per Aqua, are said to suffer from two different kinds of misconfigurations: allowing anonymous access with high privileges and running kubectl proxy with the flags "--address=`0.0.0.0` --accept-hosts `.*`" "Housing a wide array of sensitive and valuable assets, Kubernetes clusters can store customer data, financial records, intellectual property, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IRS Confirms Takedown of Bulletproof Hosting Provider Lolek<a href="https://therecord.media/lolek-bulletproof-hosting-seizure-fbi-irs?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A popular bulletproof hosting platform was taken down by authorities in the U.S. and Poland this week, marking the latest effort to limit the anonymous access cybercriminals have to critical tools.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Interpol Busts Phishing-as-a-Service Platform '16Shop,' Leading to 3 Arrests<a href="https://thehackernews.com/2023/08/interpol-busts-phishing-as-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol has announced the takedown of a phishing-as-a-service (PhaaS) platform called 16Shop, in addition to the arrests of three individuals in Indonesia and Japan. 16Shop specialized in the sales of phishing kits that other cybercriminals can purchase to mount phishing attacks on a large scale, ultimately facilitating the theft of credentials and payment details from users of popular services such as Apple, PayPal, American Express, Amazon, and Cash App, among others. "Victims typically receive an email with a pdf file or link that redirects to a site requesting the victims' credit card or other personally identifiable information," Interpol&nbsp; said . "This information is then stolen and used to extract money from the victims." No less than 70,000 users across 43 countries are estimated to have been compromised via services offered on 16Shop. The law enforcement operation has also led to the arrest of the site's administrator, a 21-year-old Indonesian
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

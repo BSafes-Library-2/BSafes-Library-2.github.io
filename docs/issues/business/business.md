@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sweet Security Raises $12M Seed Round for its Cloud Security Suite<a href="https://techcrunch.com/2023/08/09/sweet-security-raises-12m-seed-round-for-its-cloud-security-suite/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $12 million seed round was led by Glilot Capital Partners, with participation from CyberArk Ventures and a number of angel investors including Gerhard Eschelbeck, a former CISO at Google, and Travis McPeak, who led product security at Databricks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

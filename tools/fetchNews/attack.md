@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Hackers Strike Worldwide: 17 Nations Hit in 3-Year Cyber Campaign<a href="https://thehackernews.com/2023/08/china-linked-hackers-strike-worldwide.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers associated with China's Ministry of State Security (MSS) have been linked to attacks in 17 different countries in Asia, Europe, and North America from 2021 to 2023. Cybersecurity firm Recorded Future attributed the intrusion set to a nation-state group it tracks under the name&nbsp; RedHotel &nbsp;(previously Threat Activity Group-22 or TAG-22), which overlaps with a cluster of activity broadly monitored as&nbsp; Aquatic Panda ,&nbsp; Bronze University , Charcoal Typhoon,&nbsp; Earth Lusca , and&nbsp; Red Scylla &nbsp;(or Red Dev 10). Active since 2019, some of the prominent sectors targeted by the prolific actor encompass academia, aerospace, government, media, telecommunications, and research. A majority of the victims during the period were government organizations. "RedHotel has a dual mission of intelligence gathering and economic espionage," the cybersecurity company&nbsp; said , calling out its persistence, operational intensity, and global reach. "It targets both government entities for
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Big Cyberespionage Attack Against Japan Attributed to China<a href="https://www.bankinfosecurity.com/big-cyberespionage-attack-against-japan-attributed-to-china-a-22757?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Classified military networks run by Japan reportedly suffered a massive breach in 2020 at the hands of a Chinese cyberespionage group that proved tough to eject even after being discovered.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
