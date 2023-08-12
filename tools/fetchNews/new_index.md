@@ -34,7 +34,234 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magento Shopping Cart Attack Targets Critical Vulnerability<a href="https://www.theregister.com/2023/08/11/magento_shopping_cart_attack_targets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Akamai say they have identified a server-side template injection campaign aimed at Magneto 2 shops that have yet to address CVE-2022-24086, an input validation flaw with a CVSS score of 9.8.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Years-Long Cyber Espionage on Foreign Embassies in Belarus<a href="https://thehackernews.com/2023/08/researchers-uncover-decade-long-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hitherto undocumented threat actor operating for nearly a decade and codenamed  MoustachedBouncer has been attributed to cyber espionage attacks aimed at foreign embassies in Belarus. "Since 2020, MoustachedBouncer has most likely been able to perform adversary-in-the-middle (AitM) attacks at the ISP level, within Belarus, in order to compromise its targets," ESET security researcher Matthieu Faou  said , describing the group as skilled and advanced. The adversary, active since at least 2014, is assessed to be aligned with Belarusian interests, likely employing a lawful interception system such as  SORM  to conduct its AitM attacks as well as deploy disparate tools called NightClub and Disco. Both the Windows malware frameworks support additional spying plugins including a screenshotter, an audio recorder, and a file stealer. The oldest sample of NightClub dates back to November 19, 2014, when it was uploaded to VirusTotal from Ukraine. Embassy staff from four differ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Evolution of API: From Commerce to Cloud<a href="https://securityaffairs.com/149429/breaking-news/the-evolution-of-api-from-commerce-to-cloud.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+API (or Application Programming Interface) is a ubiquitous term in the tech community today, and it’s one with a long history.
+As a concept, APIs (or Application Programming Interfaces) have been around since the 1950s. What started out as a potential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten Hackers Target Iranian Dissidents in Germany<a href="https://therecord.media/charming-kitten-iran-targets-dissidents-in-germany?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Office for the Protection of the Constitution (BfV) reported it had found concrete attempts by the group known as Charming Kitten to target the Iranian opposition and exiles based in Germany.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enhancing TLS Security: Google Adds Quantum-Resistant Encryption in Chrome 116<a href="https://thehackernews.com/2023/08/enhancing-tls-security-google-adds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced plans to add support for quantum-resistant encryption algorithms in its Chrome browser, starting with version 116. "Chrome will begin supporting  X25519Kyber768  for establishing symmetric secrets in  TLS , starting in Chrome 116, and available behind a flag in Chrome 115," Devon O'Brien  said  in a post published Thursday. Kyber was  chosen  by the U.S. Department of Commerce's National Institute of Standards and Technology (NIST) as the candidate for general encryption in a bid to tackle future cyber attacks posed by the advent of quantum computing.  Kyber-768  is roughly the security equivalent of  AES-192 . The encryption algorithm has already been adopted by  Cloudflare ,  Amazon Web Services , and IBM. X25519Kyber768 is a hybrid algorithm that combines the output of  X25519 , an elliptic curve algorithm widely used for key agreement in TLS, and Kyber-768 to create a strong session key to encrypt TLS connections. "Hybrid mechanism
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gafgyt botnet is targeting EoL Zyxel routers<a href="https://securityaffairs.com/149417/cyber-crime/gafgyt-botnet-targets-zyxel-p660hn-t1a-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that the Gafgyt botnet is actively exploiting a vulnerability impacting the end-of-life Zyxel P660HN-T1A router.
+A variant of the Gafgyt botnet is actively attempting to exploit a vulnerability, tracked as CVE-2017-18368 (CVSS v3: 9.8),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Official Touts Country’s Wartime Cyber Intelligence Efforts<a href="https://therecord.media/ukraine-cyber-intelligence-war-russia?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intelligence gathered in cyberspace is helping Ukraine understand Russia's plans and stop the enemy from carrying them out, according to the country’s top cyber and information security official.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Shed Light on APT31's Advanced Backdoors and Data Exfiltration Tactics<a href="https://thehackernews.com/2023/08/researchers-shed-light-on-apt31s.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese threat actor known as APT31 (aka Bronze Vinewood, Judgement Panda, or Violet Typhoon) has been linked to a set of advanced backdoors that are capable of exfiltrating harvested sensitive information to Dropbox. The malware is part of a broader collection of  more than 15 implants  that have been put to use by the adversary in attacks targeting industrial organizations in Eastern Europe in 2022. "The attackers aimed to establish a permanent channel for data exfiltration, including data stored on air-gapped systems," Kaspersky  said  in an analysis spotlighting APT31's previously undocumented tradecraft. The intrusions employ a three-stage malware stack, each focused on disparate aspects of the attack chain: setting up persistence, gathering sensitive data, and transmitting the information to a remote server under the threat actor's control. Some variants of the second-stage backdoors also come with features designed to look up file names in the Microso
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten APT is targeting Iranian dissidents in Germany<a href="https://securityaffairs.com/149400/breaking-news/charming-kitten-targets-iranian-dissidents.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany’s Federal Office for the Protection of the Constitution (BfV) warns that the Charming Kitten APT group targeted Iranian dissidents in the country.
+The Federal Office for the Protection of the Constitution (BfV) is warning that an alleged...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India Passes Data Protection Legislation in Parliament. Critics Fear Privacy Violation<a href="https://www.securityweek.com/india-passes-data-protection-legislation-in-parliament-critics-fear-privacy-violation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indian lawmakers Wednesday approved a data protection legislation that “seeks to better regulate big tech firms and penalize companies for data breaches” as several groups expressed concern over citizens’ privacy rights.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SystemBC Malware Variant Targets Southern African Power Company<a href="https://thehackernews.com/2023/08/new-systembc-malware-variant-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor has been linked to a cyber attack on a power generation company in southern Africa with a new variant of the SystemBC malware called DroxiDat as a precursor to a suspected ransomware attack. "The proxy-capable backdoor was deployed alongside Cobalt Strike Beacons in a south African nation's critical infrastructure," Kurt Baumgartner, principal security researcher at Kaspersky's Global Research and Analysis Team (GReAT),  said . The Russian cybersecurity company said the attack, which took place in late March 2023, was in its early stages and involved the use of DroxiDat to profile the system and proxy network traffic using the  SOCKS5 protocol  to and from command-and-control (C2) infrastructure. SystemBC  is a C/C++-based commodity malware and remote administrative tool that was  first seen in 2019 . Its main feature is to set up  SOCKS5 proxies  on victim computers that can then be used by threat actors to tunnel malicious traffic associ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California City Investigating Data Theft After Ransomware Group’s Claims<a href="https://therecord.media/california-city-el-cerrito-investigates-data-theft-lockbit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit gang added 15 victims to its leak site on Wednesday including El Cerrito, which is home to more than 25,000 residents and is about 10 minutes north of Oakland.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+16 New CODESYS SDK Flaws Expose OT Environments to Remote Attacks<a href="https://thehackernews.com/2023/08/15-new-codesys-sdk-flaws-expose-ot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of 16 high-severity security flaws have been disclosed in the  CODESYS V3  software development kit (SDK) that could result in remote code execution and denial-of-service under specific conditions, posing risks to operational technology (OT) environments. The flaws, tracked from CVE-2022-47378 through CVE-2022-47393 and dubbed  CoDe16 , carry a CVSS score of 8.8 with the exception of CVE-2022-47391, which has a severity rating of 7.5. Twelve of the flaws are buffer overflow vulnerabilities. "Exploitation of the discovered vulnerabilities, which affect all versions of CODESYS V3 prior to version 3.5.19.0, could put operational technology (OT) infrastructure at risk of attacks, such as remote code execution (RCE) and denial-of-service (DoS)," Vladimir Tokarev of the Microsoft Threat Intelligence Community  said  in a report. While a successful weaponization of the flaws requires user authentication as well as an in-depth knowledge of the proprietary protocol of CODESY
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Microsoft .NET Vulnerability to KEV Catalog Due to Active Exploitation<a href="https://thehackernews.com/2023/08/cisa-adds-microsoft-net-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has  added  a recently patched security flaw in Microsoft's .NET and Visual Studio products to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active exploitation. Tracked as  CVE-2023-38180  (CVSS score: 7.5), the high-severity flaw relates to a case denial-of-service (DoS) impacting .NET and Visual Studio. It was  addressed  by Microsoft as part of its August 2023 Patch Tuesday updates shipped earlier this week, tagging it with an "Exploitation More Likely" assessment. While exact details surrounding the nature of exploitation are unclear, the Windows maker has acknowledged the existence of a proof-of-concept (PoC) in its advisory. It also said that attacks leveraging the flaw can be pulled off without any additional privileges or user interaction. "Proof-of-concept exploit code is available, or an attack demonstration is not practical for most systems," the company
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sweet Security Raises $12M Seed Round for its Cloud Security Suite<a href="https://techcrunch.com/2023/08/09/sweet-security-raises-12m-seed-round-for-its-cloud-security-suite/?&web_view=true"> Full Text</a>
@@ -50,7 +277,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Attack Alert: Freeze[.]rs Injector Weaponized for XWorm Malware Attacks<a href="https://thehackernews.com/2023/08/new-attack-alert-freezers-injector.html"> Full Text</a>
@@ -66,7 +293,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Statc Stealer, a new sophisticated info-stealing malware<a href="https://securityaffairs.com/149405/hacking/statc-stealer-info-stealer.html"> Full Text</a>
@@ -83,7 +310,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fourty Vulnerabilities Patched in Android With August 2023 Security Updates<a href="https://www.securityweek.com/40-vulnerabilities-patched-in-android-with-august-2023-security-updates/?&web_view=true"> Full Text</a>
@@ -99,7 +326,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Statc Stealer Malware Emerges: Your Sensitive Data at Risk<a href="https://thehackernews.com/2023/08/new-statc-stealer-malware-emerges-your.html"> Full Text</a>
@@ -115,7 +342,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA discovered a new backdoor, named Whirlpool, used in Barracuda ESG attacks<a href="https://securityaffairs.com/149392/hacking/whirlpool-backdoor-barracuda-esg-attacks.html"> Full Text</a>
@@ -132,7 +359,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IRS Confirms Takedown of Bulletproof Hosting Provider Lolek<a href="https://therecord.media/lolek-bulletproof-hosting-seizure-fbi-irs?&web_view=true"> Full Text</a>
@@ -148,7 +375,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emerging Attacker Exploit: Microsoft Cross-Tenant Synchronization<a href="https://thehackernews.com/2023/08/emerging-attacker-exploit-microsoft.html"> Full Text</a>
@@ -164,7 +391,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds actively exploited flaw in .NET, Visual Studio to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/149382/security/cisa-known-exploited-vulnerabilities-catalog-cve-2023-38180.html"> Full Text</a>
@@ -181,7 +408,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adobe Patches 30 Acrobat, Reader Vulnerabilities on Patch Tuesday<a href="https://www.securityweek.com/patch-tuesday-adobe-patches-30-acrobat-reader-vulns/?&web_view=true"> Full Text</a>
@@ -197,7 +424,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Encryption Flaws in Popular Chinese Language App Put Users' Typed Data at Risk<a href="https://thehackernews.com/2023/08/encryption-flaws-in-popular-chinese.html"> Full Text</a>
@@ -213,7 +440,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Govt launches Artificial Intelligence Cyber Challenge<a href="https://securityaffairs.com/149372/security/us-govt-artificial-intelligence-cyber-challenge.html"> Full Text</a>
@@ -230,7 +457,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: The MOVEit Spree is as Bad as — or Worse — Than You Think it is<a href="https://www.cybersecuritydive.com/news/moveit-attacks-bad-to-worse/690267/?&web_view=true"> Full Text</a>
@@ -246,7 +473,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Increasingly Using EvilProxy Phishing Kit to Target Executives<a href="https://thehackernews.com/2023/08/cybercriminals-increasingly-using.html"> Full Text</a>
@@ -262,7 +489,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of all serving police officers Police Service of Northern Ireland (PSNI) mistakenly published online<a href="https://securityaffairs.com/149359/data-breach/psni-data-leak.html"> Full Text</a>
@@ -279,7 +506,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Releases Draft Overhaul of Its Core Cybersecurity Framework<a href="https://www.cybersecuritydive.com/news/nist-draft-overhaul-cybersecurity-framework/690381/?&web_view=true"> Full Text</a>
@@ -295,7 +522,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Interpol Busts Phishing-as-a-Service Platform '16Shop,' Leading to 3 Arrests<a href="https://thehackernews.com/2023/08/interpol-busts-phishing-as-service.html"> Full Text</a>
@@ -311,7 +538,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russian Hacker Group Claims Attacks on French, Dutch Websites<a href="https://therecord.media/prorussian-hackers-claim-attacks?&web_view=true"> Full Text</a>
@@ -327,7 +554,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 10, 2023
+August 10, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 37% Of Third-Party Applications Have High-Risk Permissions<a href="https://www.helpnetsecurity.com/2023/08/10/third-party-applications-risk/?&web_view=true"> Full Text</a>
