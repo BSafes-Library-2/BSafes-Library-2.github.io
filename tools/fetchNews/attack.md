@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Alert: Freeze[.]rs Injector Weaponized for XWorm Malware Attacks<a href="https://thehackernews.com/2023/08/new-attack-alert-freezers-injector.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are using a legitimate Rust-based injector called&nbsp; Freeze[.]rs &nbsp;to deploy a commodity malware called XWorm in victim environments. The novel attack chain, detected by Fortinet FortiGuard Labs on July 13, 2023, is initiated via a phishing email containing a booby-trapped PDF file. It has also been used to introduce Remcos RAT by means of a crypter called SYK Crypter, which was first documented by Morphisec in May 2022. "This file redirects to an HTML file and utilizes the 'search-ms' protocol to access an LNK file on a remote server," security researcher Cara Lin&nbsp; said . "Upon clicking the LNK file, a PowerShell script executes Freeze[.]rs and SYK Crypter for further offensive actions." Freeze[.]rs, released on May 4, 2023, is a&nbsp; open-source red teaming tool &nbsp;from Optiv that functions as a payload creation tool used for circumventing security solutions and executing shellcode in a stealthy manner. "Freeze[.]rs&nbsp;utilizes multiple tec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian Hacker Group Claims Attacks on French, Dutch Websites<a href="https://therecord.media/prorussian-hackers-claim-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest attacks come a week after the group, NoName057(16), hit Spanish and Italian government and private sector organizations with distributed denial-of-service (DDoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

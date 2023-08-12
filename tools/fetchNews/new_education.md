@@ -8,6 +8,21 @@ nav_order: 900053
 
 ## Education
 ---
+August 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Evolution of API: From Commerce to Cloud<a href="https://securityaffairs.com/149429/breaking-news/the-evolution-of-api-from-commerce-to-cloud.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+API (or Application Programming Interface) is a ubiquitous term in the tech community today, and it’s one with a long history.
+As a concept, APIs (or Application Programming Interfaces) have been around since the 1950s. What started out as a potential...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

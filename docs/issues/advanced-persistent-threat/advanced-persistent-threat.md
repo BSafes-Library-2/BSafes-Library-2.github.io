@@ -8,6 +8,35 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Shed Light on APT31's Advanced Backdoors and Data Exfiltration Tactics<a href="https://thehackernews.com/2023/08/researchers-shed-light-on-apt31s.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese threat actor known as APT31 (aka Bronze Vinewood, Judgement Panda, or Violet Typhoon) has been linked to a set of advanced backdoors that are capable of exfiltrating harvested sensitive information to Dropbox. The malware is part of a broader collection of&nbsp; more than 15 implants &nbsp;that have been put to use by the adversary in attacks targeting industrial organizations in Eastern Europe in 2022. "The attackers aimed to establish a permanent channel for data exfiltration, including data stored on air-gapped systems," Kaspersky&nbsp; said &nbsp;in an analysis spotlighting APT31's previously undocumented tradecraft. The intrusions employ a three-stage malware stack, each focused on disparate aspects of the attack chain: setting up persistence, gathering sensitive data, and transmitting the information to a remote server under the threat actor's control. Some variants of the second-stage backdoors also come with features designed to look up file names in the Microso
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten APT is targeting Iranian dissidents in Germany<a href="https://securityaffairs.com/149400/breaking-news/charming-kitten-targets-iranian-dissidents.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany’s Federal Office for the Protection of the Constitution (BfV) warns that the Charming Kitten APT group targeted Iranian dissidents in the country.
+The Federal Office for the Protection of the Constitution (BfV) is warning that an alleged...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+August 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enhancing TLS Security: Google Adds Quantum-Resistant Encryption in Chrome 116<a href="https://thehackernews.com/2023/08/enhancing-tls-security-google-adds.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced plans to add support for quantum-resistant encryption algorithms in its Chrome browser, starting with version 116. "Chrome will begin supporting&nbsp; X25519Kyber768 &nbsp;for establishing symmetric secrets in&nbsp; TLS , starting in Chrome 116, and available behind a flag in Chrome 115," Devon O'Brien&nbsp; said &nbsp;in a post published Thursday. Kyber was&nbsp; chosen &nbsp;by the U.S. Department of Commerce's National Institute of Standards and Technology (NIST) as the candidate for general encryption in a bid to tackle future cyber attacks posed by the advent of quantum computing.&nbsp; Kyber-768 &nbsp;is roughly the security equivalent of&nbsp; AES-192 . The encryption algorithm has already been adopted by&nbsp; Cloudflare ,&nbsp; Amazon Web Services , and IBM. X25519Kyber768 is a hybrid algorithm that combines the output of&nbsp; X25519 , an elliptic curve algorithm widely used for key agreement in TLS, and Kyber-768 to create a strong session key to encrypt TLS connections. "Hybrid mechanism
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

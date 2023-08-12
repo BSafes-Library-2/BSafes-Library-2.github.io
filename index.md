@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2023
+August 11, 2023  - [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magento Shopping Cart Attack Targets Critical Vulnerability<a href="https://www.theregister.com/2023/08/11/magento_shopping_cart_attack_targets/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2023
+August 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Years-Long Cyber Espionage on Foreign Embassies in Belarus<a href="https://thehackernews.com/2023/08/researchers-uncover-decade-long-cyber.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2023
+August 11, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Evolution of API: From Commerce to Cloud<a href="https://securityaffairs.com/149429/breaking-news/the-evolution-of-api-from-commerce-to-cloud.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2023
+August 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Charming Kitten Hackers Target Iranian Dissidents in Germany<a href="https://therecord.media/charming-kitten-iran-targets-dissidents-in-germany?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2023
+August 11, 2023 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Enhancing TLS Security: Google Adds Quantum-Resistant Encryption in Chrome 116<a href="https://thehackernews.com/2023/08/enhancing-tls-security-google-adds.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2023
+August 11, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gafgyt botnet is targeting EoL Zyxel routers<a href="https://securityaffairs.com/149417/cyber-crime/gafgyt-botnet-targets-zyxel-p660hn-t1a-routers.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2023
+August 11, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Official Touts Country’s Wartime Cyber Intelligence Efforts<a href="https://therecord.media/ukraine-cyber-intelligence-war-russia?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2023
+August 11, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Shed Light on APT31's Advanced Backdoors and Data Exfiltration Tactics<a href="https://thehackernews.com/2023/08/researchers-shed-light-on-apt31s.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2023
+August 11, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Charming Kitten APT is targeting Iranian dissidents in Germany<a href="https://securityaffairs.com/149400/breaking-news/charming-kitten-targets-iranian-dissidents.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2023
+August 11, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India Passes Data Protection Legislation in Parliament. Critics Fear Privacy Violation<a href="https://www.securityweek.com/india-passes-data-protection-legislation-in-parliament-critics-fear-privacy-violation/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2023
+August 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SystemBC Malware Variant Targets Southern African Power Company<a href="https://thehackernews.com/2023/08/new-systembc-malware-variant-targets.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2023
+August 11, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 California City Investigating Data Theft After Ransomware Group’s Claims<a href="https://therecord.media/california-city-el-cerrito-investigates-data-theft-lockbit?&web_view=true"> Full Text</a>
@@ -229,7 +229,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2023
+August 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 16 New CODESYS SDK Flaws Expose OT Environments to Remote Attacks<a href="https://thehackernews.com/2023/08/15-new-codesys-sdk-flaws-expose-ot.html"> Full Text</a>
@@ -245,7 +245,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 11, 2023
+August 11, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Microsoft .NET Vulnerability to KEV Catalog Due to Active Exploitation<a href="https://thehackernews.com/2023/08/cisa-adds-microsoft-net-vulnerability.html"> Full Text</a>

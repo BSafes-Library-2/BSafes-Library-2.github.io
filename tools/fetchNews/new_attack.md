@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+August 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Years-Long Cyber Espionage on Foreign Embassies in Belarus<a href="https://thehackernews.com/2023/08/researchers-uncover-decade-long-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hitherto undocumented threat actor operating for nearly a decade and codenamed&nbsp; MoustachedBouncer has been attributed to cyber espionage attacks aimed at foreign embassies in Belarus. "Since 2020, MoustachedBouncer has most likely been able to perform adversary-in-the-middle (AitM) attacks at the ISP level, within Belarus, in order to compromise its targets," ESET security researcher Matthieu Faou&nbsp; said , describing the group as skilled and advanced. The adversary, active since at least 2014, is assessed to be aligned with Belarusian interests, likely employing a lawful interception system such as&nbsp; SORM &nbsp;to conduct its AitM attacks as well as deploy disparate tools called NightClub and Disco. Both the Windows malware frameworks support additional spying plugins including a screenshotter, an audio recorder, and a file stealer. The oldest sample of NightClub dates back to November 19, 2014, when it was uploaded to VirusTotal from Ukraine. Embassy staff from four differ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten Hackers Target Iranian Dissidents in Germany<a href="https://therecord.media/charming-kitten-iran-targets-dissidents-in-germany?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Office for the Protection of the Constitution (BfV) reported it had found concrete attempts by the group known as Charming Kitten to target the Iranian opposition and exiles based in Germany.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SystemBC Malware Variant Targets Southern African Power Company<a href="https://thehackernews.com/2023/08/new-systembc-malware-variant-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor has been linked to a cyber attack on a power generation company in southern Africa with a new variant of the SystemBC malware called DroxiDat as a precursor to a suspected ransomware attack. "The proxy-capable backdoor was deployed alongside Cobalt Strike Beacons in a south African nation's critical infrastructure," Kurt Baumgartner, principal security researcher at Kaspersky's Global Research and Analysis Team (GReAT),&nbsp; said . The Russian cybersecurity company said the attack, which took place in late March 2023, was in its early stages and involved the use of DroxiDat to profile the system and proxy network traffic using the&nbsp; SOCKS5 protocol &nbsp;to and from command-and-control (C2) infrastructure. SystemBC &nbsp;is a C/C++-based commodity malware and remote administrative tool that was&nbsp; first seen in 2019 . Its main feature is to set up&nbsp; SOCKS5 proxies &nbsp;on victim computers that can then be used by threat actors to tunnel malicious traffic associ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

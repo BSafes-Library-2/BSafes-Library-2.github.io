@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: The MOVEit Spree is as Bad as — or Worse — Than You Think it is<a href="https://www.cybersecuritydive.com/news/moveit-attacks-bad-to-worse/690267/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mass exploit of a zero-day vulnerability in MOVEit has compromised more than 600 organizations and 40 million individuals to date, but the numbers mask a more disastrous outcome that’s still unfolding.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of all serving police officers Police Service of Northern Ireland (PSNI) mistakenly published online<a href="https://securityaffairs.com/149359/data-breach/psni-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Police Service of Northern Ireland (PSNI) mistakenly shared sensitive data of all 10,000 serving police officers in response to a FOI request.
+The Police Service of Northern Ireland (PSNI) has mistakenly shared sensitive data of all 10,000 serving...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
