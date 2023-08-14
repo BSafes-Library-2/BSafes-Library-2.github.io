@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2023
+August 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple flaws in CODESYS V3 SDK could lead to RCE or DoS￼<a href="https://securityaffairs.com/149474/security/codesys-v3-sdk-rce-dos.html"> Full Text</a>
@@ -51,7 +51,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2023
+August 13, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 432 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/149472/breaking-news/security-affairs-newsletter-round-432-by-pierluigi-paganini-international-edition.html"> Full Text</a>
@@ -69,7 +69,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2023
+August 13, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The DHS’s CSRB to review cloud security practices following the hack of Microsoft Exchange govt email accounts<a href="https://securityaffairs.com/149467/security/csrb-cloud-security-practices-microsoft-exchange.html"> Full Text</a>
@@ -86,7 +86,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MacOS Systems Turned Into Proxy Exit Nodes by Adload<a href="https://cybersecurity.att.com/blogs/labs-research/mac-systems-turned-into-proxy-exit-nodes-by-adload?&web_view=true"> Full Text</a>
@@ -102,7 +102,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Flaws in CyberPower and Dataprobe Products Put Data Centers at Risk<a href="https://thehackernews.com/2023/08/multiple-flaws-in-cyberpower-and.html"> Full Text</a>
@@ -118,7 +118,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Honor Among Cybercriminals? Why a Canadian Firm Paid Ransom<a href="https://www.bankinfosecurity.com/honor-among-cybercriminals-canadian-firm-paid-ransom-a-22798?&web_view=true"> Full Text</a>
@@ -134,7 +134,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom ZTP & AudioCodes Phones Flaws Uncovered, Exposing Users to Eavesdropping<a href="https://thehackernews.com/2023/08/zoom-ztp-audiocodes-phones-flaws.html"> Full Text</a>
@@ -150,7 +150,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JanelaRAT: Repurposed BX Rat Variant Targeting LATAM FinTech<a href="https://www.zscaler.com/blogs/security-research/janelarat-repurposed-bx-rat-variant-targeting-latam-fintech?&web_view=true"> Full Text</a>
@@ -166,7 +166,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lolek Bulletproof Hosting Servers Seized, 5 Key Operators Arrested<a href="https://thehackernews.com/2023/08/lolek-bulletproof-hosting-servers.html"> Full Text</a>
@@ -182,7 +182,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK: Cumbria Police Admit Huge Breach of Data of Officers and Staff<a href="https://www.theguardian.com/uk-news/2023/aug/11/cumbria-police-admits-huge-breach-of-data-of-officers-and-staff?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Python URL Parsing Flaw Could Enable Command Execution Attacks<a href="https://thehackernews.com/2023/08/new-python-url-parsing-flaw-enables.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police dismantled bulletproof hosting service provider Lolek Hosted<a href="https://securityaffairs.com/149458/cyber-crime/police-dismantled-lolek-hosted.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python URL parsing function flaw can enable command execution<a href="https://securityaffairs.com/149447/hacking/python-url-severe-vulnerability.html"> Full Text</a>
@@ -248,7 +248,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK govt contractor MPD FM leaks employee passport data<a href="https://securityaffairs.com/149440/security/mpd-fm-data-leak.html"> Full Text</a>
@@ -265,7 +265,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Power Generator in South Africa hit with DroxiDat and Cobalt Strike<a href="https://securityaffairs.com/149432/malware/power-generator-droxidat.html"> Full Text</a>

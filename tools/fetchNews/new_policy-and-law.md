@@ -8,6 +8,21 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police dismantled bulletproof hosting service provider&nbsp;Lolek Hosted<a href="https://securityaffairs.com/149458/cyber-crime/police-dismantled-lolek-hosted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint operation conducted by European and U.S. law enforcement agencies dismantled the bulletproof hosting service provider&nbsp;Lolek Hosted.
+Lolek Hosted is a bulletproof hosting service provider used to facilitate the distribution of information-stealing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

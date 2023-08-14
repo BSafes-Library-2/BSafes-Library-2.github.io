@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India Passes Data Protection Legislation in Parliament. Critics Fear Privacy Violation<a href="https://www.securityweek.com/india-passes-data-protection-legislation-in-parliament-critics-fear-privacy-violation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indian lawmakers Wednesday approved a data protection legislation that “seeks to better regulate big tech firms and penalize companies for data breaches” as several groups expressed concern over citizens’ privacy rights.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

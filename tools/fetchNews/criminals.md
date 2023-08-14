@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California City Investigating Data Theft After Ransomware Group’s Claims<a href="https://therecord.media/california-city-el-cerrito-investigates-data-theft-lockbit?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit gang added 15 victims to its leak site on Wednesday including El Cerrito, which is home to more than 25,000 residents and is about 10 minutes north of Oakland.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

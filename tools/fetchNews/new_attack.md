@@ -8,6 +8,21 @@ nav_order: 900015
 
 ## Attack
 ---
+August 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Power Generator in South Africa hit with DroxiDat and Cobalt Strike<a href="https://securityaffairs.com/149432/malware/power-generator-droxidat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors employed a new variant of the SystemBC malware, named&nbsp;DroxiDat, in attacks aimed at African critical infrastructure.
+Researchers from Kaspersky's Global Research and Analysis Team (GReAT) reported that an unknown threat actor used a new variant...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+August 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Official Touts Country’s Wartime Cyber Intelligence Efforts<a href="https://therecord.media/ukraine-cyber-intelligence-war-russia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intelligence gathered in cyberspace is helping Ukraine understand Russia's plans and stop the enemy from carrying them out, according to the country’s top cyber and information security official.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Microsoft .NET Vulnerability to KEV Catalog Due to Active Exploitation<a href="https://thehackernews.com/2023/08/cisa-adds-microsoft-net-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp; added &nbsp;a recently patched security flaw in Microsoft's .NET and Visual Studio products to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active exploitation. Tracked as&nbsp; CVE-2023-38180 &nbsp;(CVSS score: 7.5), the high-severity flaw relates to a case denial-of-service (DoS) impacting .NET and Visual Studio. It was&nbsp; addressed &nbsp;by Microsoft as part of its August 2023 Patch Tuesday updates shipped earlier this week, tagging it with an "Exploitation More Likely" assessment. While exact details surrounding the nature of exploitation are unclear, the Windows maker has acknowledged the existence of a proof-of-concept (PoC) in its advisory. It also said that attacks leveraging the flaw can be pulled off without any additional privileges or user interaction. "Proof-of-concept exploit code is available, or an attack demonstration is not practical for most systems," the company
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

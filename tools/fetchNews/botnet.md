@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+August 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gafgyt botnet is targeting EoL Zyxel routers<a href="https://securityaffairs.com/149417/cyber-crime/gafgyt-botnet-targets-zyxel-p660hn-t1a-routers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that the Gafgyt botnet is actively exploiting a vulnerability impacting the end-of-life Zyxel P660HN-T1A router.
+A variant of the Gafgyt botnet is actively attempting to exploit a vulnerability, tracked as&nbsp;CVE-2017-18368 (CVSS v3: 9.8),...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

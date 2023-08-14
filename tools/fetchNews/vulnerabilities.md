@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+16 New CODESYS SDK Flaws Expose OT Environments to Remote Attacks<a href="https://thehackernews.com/2023/08/15-new-codesys-sdk-flaws-expose-ot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of 16 high-severity security flaws have been disclosed in the&nbsp; CODESYS V3 &nbsp;software development kit (SDK) that could result in remote code execution and denial-of-service under specific conditions, posing risks to operational technology (OT) environments. The flaws, tracked from CVE-2022-47378 through CVE-2022-47393 and dubbed&nbsp; CoDe16 , carry a CVSS score of 8.8 with the exception of CVE-2022-47391, which has a severity rating of 7.5. Twelve of the flaws are buffer overflow vulnerabilities. "Exploitation of the discovered vulnerabilities, which affect all versions of CODESYS V3 prior to version 3.5.19.0, could put operational technology (OT) infrastructure at risk of attacks, such as remote code execution (RCE) and denial-of-service (DoS)," Vladimir Tokarev of the Microsoft Threat Intelligence Community&nbsp; said &nbsp;in a report. While a successful weaponization of the flaws requires user authentication as well as an in-depth knowledge of the proprietary protocol of CODESY
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

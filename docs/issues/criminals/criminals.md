@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Honor Among Cybercriminals? Why a Canadian Firm Paid Ransom<a href="https://www.bankinfosecurity.com/honor-among-cybercriminals-canadian-firm-paid-ransom-a-22798?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nonprofit firm that administers government dental programs in Canada is notifying nearly 1.5 million individuals that their data, including banking information for some, was compromised in a ransomware incident last month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lolek Bulletproof Hosting Servers Seized, 5 Key Operators Arrested<a href="https://thehackernews.com/2023/08/lolek-bulletproof-hosting-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European and U.S. law enforcement agencies have announced the dismantling of a bulletproof hosting service provider called&nbsp; Lolek Hosted , which cybercriminals have used to launch cyber-attacks across the globe. "Five of its administrators were arrested, and all of its servers seized, rendering LolekHosted.net no longer available," Europol&nbsp; said &nbsp;in a statement. "The service facilitated the distribution of information-stealing malware, and also the launching of DDoS (distributed denial of service) attacks, fictitious online shops, botnet server management, and distribution of spam messages worldwide," it added. Polish authorities, who made the arrests,&nbsp; said &nbsp;three other detainees have been subjected to preventive measures in the form of police supervision, bail, and a ban on leaving the country. Alongside the arrests, hundreds of servers containing terabytes of data, computer equipment, and mobile phones have been confiscated. The seizure, carried out on Augu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

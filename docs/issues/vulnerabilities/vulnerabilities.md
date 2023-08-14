@@ -8,6 +8,78 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple flaws in CODESYS V3 SDK could lead to RCE or DoS￼<a href="https://securityaffairs.com/149474/security/codesys-v3-sdk-rce-dos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+16 vulnerabilities in Codesys products could result in remote code execution and DoS attacks exposing OT environments to hacking.
+Microsoft Threat Intelligence researchers discovered 16 high-severity vulnerabilities, collectively tracked as CoDe16,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Flaws in CyberPower and Dataprobe Products Put Data Centers at Risk<a href="https://thehackernews.com/2023/08/multiple-flaws-in-cyberpower-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities impacting CyberPower's PowerPanel Enterprise Data Center Infrastructure Management (DCIM) platform and Dataprobe's iBoot Power Distribution Unit (PDU) could be potentially exploited to gain unauthenticated access to these systems and inflict catastrophic damage in target environments. The nine vulnerabilities, from CVE-2023-3259 through CVE-2023-3267, carry severity scores ranging from 6.7 to 9.8, enabling threat actors to shut down entire data centers and compromise data center deployments to steal data or launch massive attacks at a massive scale. "An attacker could chain these vulnerabilities together to gain full access to these systems," Trellix security researchers Sam Quinn, Jesse Chick, and Philippe Laulheret&nbsp; said &nbsp;in a report shared with The Hacker News. "Furthermore, both products are vulnerable to remote code injection that could be leveraged to create a backdoor or an entry point to the broader network of connect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom ZTP &amp; AudioCodes Phones Flaws Uncovered, Exposing Users to Eavesdropping<a href="https://thehackernews.com/2023/08/zoom-ztp-audiocodes-phones-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in AudioCodes desk phones and Zoom's Zero Touch Provisioning ( ZTP ) that could be potentially exploited by a malicious attacker to conduct remote attacks. "An external attacker who leverages the vulnerabilities discovered in AudioCodes Ltd.'s desk phones and Zoom's Zero Touch Provisioning feature can gain full remote control of the devices," SySS security researcher Moritz Abrell&nbsp; said &nbsp;in an analysis published Friday. The unfettered access could then be weaponized to eavesdrop on rooms or phone calls, pivot through the devices and attack corporate networks, and even build a botnet of infected devices. The research was&nbsp; presented &nbsp;at the Black Hat USA security conference earlier this week. The problems are rooted in Zoom's ZTP, which allows IT administrators to configure VoIP devices in a centralized manner such that it makes it easy for organizations to monitor, troubleshoot and update the devices as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Python URL Parsing Flaw Could Enable Command Execution Attacks<a href="https://thehackernews.com/2023/08/new-python-url-parsing-flaw-enables.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity security flaw has been disclosed in the Python URL parsing function that could be exploited to bypass domain or protocol filtering methods implemented with a blocklist, ultimately resulting in arbitrary file reads and command execution. "urlparse has a parsing problem when the entire URL starts with blank characters," the CERT Coordination Center (CERT/CC) said in a Friday advisory. "This problem affects both the parsing of hostname and scheme, and eventually causes any blocklisting methods to fail." The flaw has been assigned the identifier&nbsp; CVE-2023-24329 &nbsp;and carries a CVSS score of 7.5. Security researcher Yebo Cao has been credited with discovering and reporting the issue in August 2022. It has been addressed in the following versions - &gt;= 3.12 3.11.x &gt;= 3.11.4 3.10.x &gt;= 3.10.12 3.9.x &gt;= 3.9.17 3.8.x &gt;= 3.8.17, and&nbsp; 3.7.x &gt;= 3.7.17 urllib.parse &nbsp;is a widely used parsing function that makes it possible to break dow
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python URL parsing function flaw can enable command execution<a href="https://securityaffairs.com/149447/hacking/python-url-severe-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe vulnerability in the Python URL parsing function can be exploited to gain arbitrary file reads and command execution.
+Researchers warn of a high-severity security vulnerability, tracked as CVE-2023-24329&nbsp;(CVSS score of 7.5), has been disclosed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

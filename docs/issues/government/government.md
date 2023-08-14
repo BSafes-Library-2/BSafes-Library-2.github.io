@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+August 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The DHS’s CSRB to review cloud security practices following the hack of Microsoft Exchange govt email accounts<a href="https://securityaffairs.com/149467/security/csrb-cloud-security-practices-microsoft-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DHS's CSRB will review cloud security practices following recent hacks of Microsoft Exchange accounts used by US govt agencies.
+The US DHS announced that the Cyber Safety Review Board (CSRB) will review the security measure to protect cloud computing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
