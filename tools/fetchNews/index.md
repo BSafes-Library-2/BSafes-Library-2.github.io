@@ -34,6 +34,254 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple flaws in CODESYS V3 SDK could lead to RCE or DoS￼<a href="https://securityaffairs.com/149474/security/codesys-v3-sdk-rce-dos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+16 vulnerabilities in Codesys products could result in remote code execution and DoS attacks exposing OT environments to hacking.
+Microsoft Threat Intelligence researchers discovered 16 high-severity vulnerabilities, collectively tracked as CoDe16,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 432 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/149472/breaking-news/security-affairs-newsletter-round-432-by-pierluigi-paganini-international-edition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+Police...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The DHS’s CSRB to review cloud security practices following the hack of Microsoft Exchange govt email accounts<a href="https://securityaffairs.com/149467/security/csrb-cloud-security-practices-microsoft-exchange.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DHS's CSRB will review cloud security practices following recent hacks of Microsoft Exchange accounts used by US govt agencies.
+The US DHS announced that the Cyber Safety Review Board (CSRB) will review the security measure to protect cloud computing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MacOS Systems Turned Into Proxy Exit Nodes by Adload<a href="https://cybersecurity.att.com/blogs/labs-research/mac-systems-turned-into-proxy-exit-nodes-by-adload?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AdLoad malware is still infecting Mac systems and has been observed turning infected systems into a giant proxy botnet. AT&T Alien Labs has identified over 10,000 IPs behaving as proxy exit nodes, indicating a potentially widespread infection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Flaws in CyberPower and Dataprobe Products Put Data Centers at Risk<a href="https://thehackernews.com/2023/08/multiple-flaws-in-cyberpower-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities impacting CyberPower's PowerPanel Enterprise Data Center Infrastructure Management (DCIM) platform and Dataprobe's iBoot Power Distribution Unit (PDU) could be potentially exploited to gain unauthenticated access to these systems and inflict catastrophic damage in target environments. The nine vulnerabilities, from CVE-2023-3259 through CVE-2023-3267, carry severity scores ranging from 6.7 to 9.8, enabling threat actors to shut down entire data centers and compromise data center deployments to steal data or launch massive attacks at a massive scale. "An attacker could chain these vulnerabilities together to gain full access to these systems," Trellix security researchers Sam Quinn, Jesse Chick, and Philippe Laulheret  said  in a report shared with The Hacker News. "Furthermore, both products are vulnerable to remote code injection that could be leveraged to create a backdoor or an entry point to the broader network of connect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Honor Among Cybercriminals? Why a Canadian Firm Paid Ransom<a href="https://www.bankinfosecurity.com/honor-among-cybercriminals-canadian-firm-paid-ransom-a-22798?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nonprofit firm that administers government dental programs in Canada is notifying nearly 1.5 million individuals that their data, including banking information for some, was compromised in a ransomware incident last month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zoom ZTP & AudioCodes Phones Flaws Uncovered, Exposing Users to Eavesdropping<a href="https://thehackernews.com/2023/08/zoom-ztp-audiocodes-phones-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in AudioCodes desk phones and Zoom's Zero Touch Provisioning ( ZTP ) that could be potentially exploited by a malicious attacker to conduct remote attacks. "An external attacker who leverages the vulnerabilities discovered in AudioCodes Ltd.'s desk phones and Zoom's Zero Touch Provisioning feature can gain full remote control of the devices," SySS security researcher Moritz Abrell  said  in an analysis published Friday. The unfettered access could then be weaponized to eavesdrop on rooms or phone calls, pivot through the devices and attack corporate networks, and even build a botnet of infected devices. The research was  presented  at the Black Hat USA security conference earlier this week. The problems are rooted in Zoom's ZTP, which allows IT administrators to configure VoIP devices in a centralized manner such that it makes it easy for organizations to monitor, troubleshoot and update the devices as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JanelaRAT: Repurposed BX Rat Variant Targeting LATAM FinTech<a href="https://www.zscaler.com/blogs/security-research/janelarat-repurposed-bx-rat-variant-targeting-latam-fintech?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zscaler ThreatLabz has discovered a threat actor targeting FinTech users in the LATAM region with a malware called JanelaRAT. This malware uses tactics such as DLL side-loading and dynamic C2 infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lolek Bulletproof Hosting Servers Seized, 5 Key Operators Arrested<a href="https://thehackernews.com/2023/08/lolek-bulletproof-hosting-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European and U.S. law enforcement agencies have announced the dismantling of a bulletproof hosting service provider called  Lolek Hosted , which cybercriminals have used to launch cyber-attacks across the globe. "Five of its administrators were arrested, and all of its servers seized, rendering LolekHosted.net no longer available," Europol  said  in a statement. "The service facilitated the distribution of information-stealing malware, and also the launching of DDoS (distributed denial of service) attacks, fictitious online shops, botnet server management, and distribution of spam messages worldwide," it added. Polish authorities, who made the arrests,  said  three other detainees have been subjected to preventive measures in the form of police supervision, bail, and a ban on leaving the country. Alongside the arrests, hundreds of servers containing terabytes of data, computer equipment, and mobile phones have been confiscated. The seizure, carried out on Augu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: Cumbria Police Admit Huge Breach of Data of Officers and Staff<a href="https://www.theguardian.com/uk-news/2023/aug/11/cumbria-police-admits-huge-breach-of-data-of-officers-and-staff?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cumbria police have admitted accidentally publishing the names and salaries of every one of its more than 2,000 employees and have apologized. The data breach happened in March and has not previously been publicized.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Python URL Parsing Flaw Could Enable Command Execution Attacks<a href="https://thehackernews.com/2023/08/new-python-url-parsing-flaw-enables.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity security flaw has been disclosed in the Python URL parsing function that could be exploited to bypass domain or protocol filtering methods implemented with a blocklist, ultimately resulting in arbitrary file reads and command execution. "urlparse has a parsing problem when the entire URL starts with blank characters," the CERT Coordination Center (CERT/CC) said in a Friday advisory. "This problem affects both the parsing of hostname and scheme, and eventually causes any blocklisting methods to fail." The flaw has been assigned the identifier  CVE-2023-24329  and carries a CVSS score of 7.5. Security researcher Yebo Cao has been credited with discovering and reporting the issue in August 2022. It has been addressed in the following versions - >= 3.12 3.11.x >= 3.11.4 3.10.x >= 3.10.12 3.9.x >= 3.9.17 3.8.x >= 3.8.17, and  3.7.x >= 3.7.17 urllib.parse  is a widely used parsing function that makes it possible to break dow
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police dismantled bulletproof hosting service provider Lolek Hosted<a href="https://securityaffairs.com/149458/cyber-crime/police-dismantled-lolek-hosted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A joint operation conducted by European and U.S. law enforcement agencies dismantled the bulletproof hosting service provider Lolek Hosted.
+Lolek Hosted is a bulletproof hosting service provider used to facilitate the distribution of information-stealing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python URL parsing function flaw can enable command execution<a href="https://securityaffairs.com/149447/hacking/python-url-severe-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A severe vulnerability in the Python URL parsing function can be exploited to gain arbitrary file reads and command execution.
+Researchers warn of a high-severity security vulnerability, tracked as CVE-2023-24329 (CVSS score of 7.5), has been disclosed...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK govt contractor MPD FM leaks employee passport data<a href="https://securityaffairs.com/149440/security/mpd-fm-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK govt contractor MPD FM left an open instance that exposed employee passports, visas, and other sensitive data
+MPD FM, a facility management and security company providing services to various UK government departments, left an open instance that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Power Generator in South Africa hit with DroxiDat and Cobalt Strike<a href="https://securityaffairs.com/149432/malware/power-generator-droxidat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors employed a new variant of the SystemBC malware, named DroxiDat, in attacks aimed at African critical infrastructure.
+Researchers from Kaspersky's Global Research and Analysis Team (GReAT) reported that an unknown threat actor used a new variant...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 11, 2023  - [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
