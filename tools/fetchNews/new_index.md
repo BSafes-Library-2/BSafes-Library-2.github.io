@@ -34,7 +34,284 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2023
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ford Says Wi-Fi Vulnerability Not a Safety Risk to Vehicles<a href="https://www.securityweek.com/ford-says-wi-fi-vulnerability-not-a-safety-risk-to-vehicles/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue is described as a buffer overflow that could lead to remote code execution. An attacker within the wireless range of an impacted device can trigger the flaw using a specially crafted frame.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QwixxRAT: New Remote Access Trojan Emerges via Telegram and Discord<a href="https://thehackernews.com/2023/08/qwixxrat-new-remote-access-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new remote access trojan (RAT) called  QwixxRAT  is being advertised for sale by its threat actor through Telegram and Discord platforms. "Once installed on the victim's Windows platform machines, the RAT stealthily collects sensitive data, which is then sent to the attacker's Telegram bot, providing them with unauthorized access to the victim's sensitive information," Uptycs  said  in a new report published today. The cybersecurity company, which discovered the malware earlier this month, said it's "meticulously designed" to harvest web browser histories, bookmarks, cookies, credit card information, keystrokes, screenshots, files matching certain extensions, and data from apps like Steam and Telegram. The tool is offered for 150 rubles for weekly access and 500 rubles for a lifetime license. It also comes in a limited free version. A C#-based binary, QwixxRAT comes with various anti-analysis features to remain covert and evade detection. Thi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Xurum attacks target Magento 2 e-stores<a href="https://securityaffairs.com/149509/cyber-crime/xurum-adobes-magento-2-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of ongoing attacks, dubbed Xurum, targeting e-commerce websites using Adobe's Magento 2 CMS.
+Akamai researchers warn of ongoing attacks, dubbed Xurum, targeting e-commerce websites running the Magento 2 CMS.
+The attackers are actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nine Flaws in CyberPower and Dataprobe Solutions Expose Data Centers to Hacking<a href="https://securityaffairs.com/149478/security/cyberpower-dcim-pdu-flaws.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Trellix Advanced Research Center discovered multiple vulnerabilities impacting CyberPower’s PowerPanel Enterprise Data Center Infrastructure Management (DCIM) platform and Dataprobe’s iBoot Power Distribution Unit (PDU).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Xurum Attacks on E-commerce Sites Exploiting Critical Magento 2 Vulnerability<a href="https://thehackernews.com/2023/08/ongoing-xurum-attacks-on-e-commerce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+E-commerce sites using Adobe's Magento 2 software are the target of an ongoing campaign that has been active since at least January 2023. The attacks, dubbed  Xurum  by Akamai, leverage a now-patched critical security flaw ( CVE-2022-24086 , CVSS score: 9.8) in Adobe Commerce and Magento Open Source that, if successfully exploited, could lead to arbitrary code execution. "The attacker seems to be interested in payment stats from the orders in the victim's Magento store placed in the past 10 days," Akamai researchers  said  in an analysis published last week, attributing the campaign to actors of Russian origin. Some of the websites have also been observed to be infected with simple JavaScript-based skimmers that's designed to collect credit card information and transmit it to a remote server. The exact scale of the campaign remains unclear. In the attack chains observed by the company, CVE-2022-24086 is weaponized for initial access, subsequently exploiting
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colorado HCPF Department notifies 4 million individuals after IBM MOVEit breach<a href="https://securityaffairs.com/149498/data-breach/colorado-hcpf-department-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Colorado Department of Health Care Policy & Financing (HCPF) disclose a data breach after MOVEit attack on IBM.
+The Colorado Department of Health Care Policy & Financing (HCPF) disclosed a data breach that impacted more than four million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iagona ScrutisWeb Vulnerabilities Could Expose ATMs to Remote Hacking<a href="https://www.securityweek.com/iagona-scrutisweb-vulnerabilities-could-expose-atms-to-remote-hacking/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several vulnerabilities in the ScrutisWeb ATM could be exploited to remotely hack ATMs. The security holes were discovered by Synack Red Team members and they were patched by the vendor in July 2023 with the release of ScrutisWeb version 2.1.38.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Identity Threat Detection and Response: Rips in Your Identity Fabric<a href="https://thehackernews.com/2023/08/identity-threat-detection-and-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Why SaaS Security Is a Challenge In today's digital landscape, organizations are increasingly relying on Software-as-a-Service (SaaS) applications to drive their operations. However, this widespread adoption has also opened the doors to new security risks and vulnerabilities. The SaaS security attack surface continues to widen. It started with managing misconfigurations and now requires a holistic approach to handling the entire SaaS ecosystem. This includes the continuous monitoring and management of user access, roles and permissions, 3rd party apps installed by users, risks deriving from SaaS user devices and Identity Threat Detection & Response (ITDR). There are a variety of reasons that SaaS security is so complex today. Firstly, there are a diverse range of applications, each having its own UI and terminology. And those environments are dynamic, from SaaS vendors understanding the importance of security and continually enhancing their applications with modern security
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found multiple flaws in AudioCodes desk phones and Zoom’s Zero Touch Provisioning (ZTP)<a href="https://securityaffairs.com/149487/hacking/zooms-zero-touch-provisioning-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple flaws in AudioCodes desk phones and Zoom's Zero Touch Provisioning (ZTP) can expose to several attacks.
+Researchers from security firm SySS discovered multiple vulnerabilities in AudioCodes desk phones and Zoom's Zero Touch Provisioning (ZTP)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivists Claim Attacks Against 21 Organizations Over Fukushima Wastewater Release<a href="https://www.theregister.com/2023/08/14/hactivitsts_claim_japanese_government_attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anonymous Italia, a group claiming to be affiliated with the hacktivist collective Anonymous, has launched cyber protests against the Japanese government over its decision to release wastewater from the Fukushima Daini Nuclear Power Plant.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten Targets Iranian Dissidents with Advanced Cyber Attacks<a href="https://thehackernews.com/2023/08/charming-kitten-targets-iranian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany's Federal Office for the Protection of the Constitution (BfV) has warned of cyber attacks targeting Iranian persons and organizations in the country since the end of 2022. "The cyber attacks were mainly directed against dissident organizations and individuals – such as lawyers, journalists, or human rights activists – inside and outside Iran," the agency  said  in an advisory. The intrusions have been attributed to a threat actor called  Charming Kitten , which is also tracked under the names APT35, Mint Sandstorm, TA453 and Yellow Garuda. While Iranian nation-state actors lag behind their Russian and Chinese counterparts in sophistication, they have demonstrated a continued advancement of tools and techniques, adding an arsenal of custom malware to facilitate information gathering and rapidly exploiting n-day security flaws to obtain initial access. Charming Kitten, in particular, has a long,  storied history  of leveraging elaborate social engineering and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nine flaws in CyberPower and Dataprobe solutions expose data centers to hacking<a href="https://securityaffairs.com/149478/security/cyberpower-dcim-pdu-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple vulnerabilities in CyberPower PowerPanel Enterprise DCIM platform and Dataprobe PDU could expose data centers to hacking.
+Researchers from Trellix Advanced Research Center discovered multiple vulnerabilities impacting CyberPower's PowerPanel...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Handle API Sprawl and the Security Threat it Poses<a href="https://www.helpnetsecurity.com/2023/08/11/api-sprawl-security-risks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With recent reports indicating that API vulnerabilities are costing businesses billions of dollars annually, it’s no wonder they are at the top of mind of many cybersecurity professionals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Financial Malware 'JanelaRAT' Targets Latin American Users<a href="https://thehackernews.com/2023/08/new-financial-malware-janelarat-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users in Latin America (LATAM) are the target of a financial malware called  JanelaRAT  that's capable of capturing sensitive information from compromised Microsoft Windows systems. "JanelaRAT mainly targets financial and cryptocurrency data from LATAM bank and financial institutions," Zscaler ThreatLabz researchers Gaetano Pellegrino and Sudeep Singh  said , adding it "abuses DLL side-loading techniques from legitimate sources (like VMWare and Microsoft) to evade endpoint detection." The exact starting point of the infection chain is unclear, but the cybersecurity company, which discovered the campaign in June 2023, said the unknown vector is used to deliver a ZIP archive file containing a Visual Basic Script. The VBScript is engineered to fetch a second ZIP archive from the attackers' server as well as drop a batch file used to establish persistence of the malware. The ZIP archive is packed with two components, the JanelaRAT payload and a legitimate
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monti Ransomware Unleashes New Encryptor for Linux<a href="https://www.trendmicro.com/en_us/research/23/h/monti-ransomware-unleashes-a-new-encryptor-for-linux.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Monti ransomware group has reemerged after a two-month break, targeting legal and government institutions with a new Linux-based variant that shows significant differences from its previous versions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India Passes New Digital Personal Data Protection Bill (DPDPB), Putting Users' Privacy First<a href="https://thehackernews.com/2023/08/india-passes-new-digital-personal-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Indian President Droupadi Murmu on Friday granted assent to the Digital Personal Data Protection Bill ( DPDPB ) after it was unanimously passed by both houses of the parliament last week, marking a significant step towards securing people's information. "The Bill provides for the processing of digital personal data in a manner that recognizes both the rights of the individuals to protect their personal data and the need to process such personal data for lawful purposes and for matters connected therewith or incidental thereto," the Indian government  said . The  long-awaited data protection law  comes months after the Ministry of Electronics and Information Technology (MeitY) released a  draft version  of the bill in November 2022. It has been in the making for over five years, with a first draft released in July 2018. A year before, India's Supreme Court  upheld  privacy as a  fundamental right . The legislative framework, which applies to personal data coll
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Executives’ Personal Devices Threaten Business Security<a href="https://www.helpnetsecurity.com/2023/08/11/personal-devices-risks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the cyber threat landscape has seen this major shift, security software to manage these direct personal risks has not kept up to protect public-facing individuals and leaders the way large enterprise organizations have.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple flaws in CODESYS V3 SDK could lead to RCE or DoS￼<a href="https://securityaffairs.com/149474/security/codesys-v3-sdk-rce-dos.html"> Full Text</a>
@@ -51,7 +328,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2023
+August 13, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Affairs newsletter Round 432 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/149472/breaking-news/security-affairs-newsletter-round-432-by-pierluigi-paganini-international-edition.html"> Full Text</a>
@@ -69,7 +346,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2023
+August 13, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The DHS’s CSRB to review cloud security practices following the hack of Microsoft Exchange govt email accounts<a href="https://securityaffairs.com/149467/security/csrb-cloud-security-practices-microsoft-exchange.html"> Full Text</a>
@@ -86,7 +363,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MacOS Systems Turned Into Proxy Exit Nodes by Adload<a href="https://cybersecurity.att.com/blogs/labs-research/mac-systems-turned-into-proxy-exit-nodes-by-adload?&web_view=true"> Full Text</a>
@@ -102,7 +379,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Flaws in CyberPower and Dataprobe Products Put Data Centers at Risk<a href="https://thehackernews.com/2023/08/multiple-flaws-in-cyberpower-and.html"> Full Text</a>
@@ -118,7 +395,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Honor Among Cybercriminals? Why a Canadian Firm Paid Ransom<a href="https://www.bankinfosecurity.com/honor-among-cybercriminals-canadian-firm-paid-ransom-a-22798?&web_view=true"> Full Text</a>
@@ -134,7 +411,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zoom ZTP & AudioCodes Phones Flaws Uncovered, Exposing Users to Eavesdropping<a href="https://thehackernews.com/2023/08/zoom-ztp-audiocodes-phones-flaws.html"> Full Text</a>
@@ -150,7 +427,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JanelaRAT: Repurposed BX Rat Variant Targeting LATAM FinTech<a href="https://www.zscaler.com/blogs/security-research/janelarat-repurposed-bx-rat-variant-targeting-latam-fintech?&web_view=true"> Full Text</a>
@@ -166,7 +443,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lolek Bulletproof Hosting Servers Seized, 5 Key Operators Arrested<a href="https://thehackernews.com/2023/08/lolek-bulletproof-hosting-servers.html"> Full Text</a>
@@ -182,7 +459,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK: Cumbria Police Admit Huge Breach of Data of Officers and Staff<a href="https://www.theguardian.com/uk-news/2023/aug/11/cumbria-police-admits-huge-breach-of-data-of-officers-and-staff?&web_view=true"> Full Text</a>
@@ -198,7 +475,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Python URL Parsing Flaw Could Enable Command Execution Attacks<a href="https://thehackernews.com/2023/08/new-python-url-parsing-flaw-enables.html"> Full Text</a>
@@ -214,7 +491,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police dismantled bulletproof hosting service provider Lolek Hosted<a href="https://securityaffairs.com/149458/cyber-crime/police-dismantled-lolek-hosted.html"> Full Text</a>
@@ -231,7 +508,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Python URL parsing function flaw can enable command execution<a href="https://securityaffairs.com/149447/hacking/python-url-severe-vulnerability.html"> Full Text</a>
@@ -248,7 +525,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK govt contractor MPD FM leaks employee passport data<a href="https://securityaffairs.com/149440/security/mpd-fm-data-leak.html"> Full Text</a>
@@ -265,7 +542,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 12, 2023
+August 12, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Power Generator in South Africa hit with DroxiDat and Cobalt Strike<a href="https://securityaffairs.com/149432/malware/power-generator-droxidat.html"> Full Text</a>
