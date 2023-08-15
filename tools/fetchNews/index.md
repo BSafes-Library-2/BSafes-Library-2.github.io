@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ford Says Wi-Fi Vulnerability Not a Safety Risk to Vehicles<a href="https://www.securityweek.com/ford-says-wi-fi-vulnerability-not-a-safety-risk-to-vehicles/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QwixxRAT: New Remote Access Trojan Emerges via Telegram and Discord<a href="https://thehackernews.com/2023/08/qwixxrat-new-remote-access-trojan.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ongoing Xurum attacks target Magento 2 e-stores<a href="https://securityaffairs.com/149509/cyber-crime/xurum-adobes-magento-2-attacks.html"> Full Text</a>
@@ -84,7 +84,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nine Flaws in CyberPower and Dataprobe Solutions Expose Data Centers to Hacking<a href="https://securityaffairs.com/149478/security/cyberpower-dcim-pdu-flaws.html?&web_view=true"> Full Text</a>
@@ -100,7 +100,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ongoing Xurum Attacks on E-commerce Sites Exploiting Critical Magento 2 Vulnerability<a href="https://thehackernews.com/2023/08/ongoing-xurum-attacks-on-e-commerce.html"> Full Text</a>
@@ -116,7 +116,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colorado HCPF Department notifies 4 million individuals after IBM MOVEit breach<a href="https://securityaffairs.com/149498/data-breach/colorado-hcpf-department-data-breach.html"> Full Text</a>
@@ -133,7 +133,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iagona ScrutisWeb Vulnerabilities Could Expose ATMs to Remote Hacking<a href="https://www.securityweek.com/iagona-scrutisweb-vulnerabilities-could-expose-atms-to-remote-hacking/?&web_view=true"> Full Text</a>
@@ -149,7 +149,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Identity Threat Detection and Response: Rips in Your Identity Fabric<a href="https://thehackernews.com/2023/08/identity-threat-detection-and-response.html"> Full Text</a>
@@ -165,7 +165,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found multiple flaws in AudioCodes desk phones and Zoom’s Zero Touch Provisioning (ZTP)<a href="https://securityaffairs.com/149487/hacking/zooms-zero-touch-provisioning-flaws.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacktivists Claim Attacks Against 21 Organizations Over Fukushima Wastewater Release<a href="https://www.theregister.com/2023/08/14/hactivitsts_claim_japanese_government_attack/?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Charming Kitten Targets Iranian Dissidents with Advanced Cyber Attacks<a href="https://thehackernews.com/2023/08/charming-kitten-targets-iranian.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nine flaws in CyberPower and Dataprobe solutions expose data centers to hacking<a href="https://securityaffairs.com/149478/security/cyberpower-dcim-pdu-flaws.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Handle API Sprawl and the Security Threat it Poses<a href="https://www.helpnetsecurity.com/2023/08/11/api-sprawl-security-risks/?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Financial Malware 'JanelaRAT' Targets Latin American Users<a href="https://thehackernews.com/2023/08/new-financial-malware-janelarat-targets.html"> Full Text</a>
@@ -263,7 +263,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Monti Ransomware Unleashes New Encryptor for Linux<a href="https://www.trendmicro.com/en_us/research/23/h/monti-ransomware-unleashes-a-new-encryptor-for-linux.html?&web_view=true"> Full Text</a>
@@ -279,7 +279,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India Passes New Digital Personal Data Protection Bill (DPDPB), Putting Users' Privacy First<a href="https://thehackernews.com/2023/08/india-passes-new-digital-personal-data.html"> Full Text</a>
@@ -295,7 +295,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Executives’ Personal Devices Threaten Business Security<a href="https://www.helpnetsecurity.com/2023/08/11/personal-devices-risks/?&web_view=true"> Full Text</a>

@@ -8,6 +8,21 @@ nav_order: 900029
 
 ## Breach
 ---
+August 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Colorado HCPF Department notifies 4 million individuals after IBM MOVEit breach<a href="https://securityaffairs.com/149498/data-breach/colorado-hcpf-department-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Colorado Department of Health Care Policy &amp; Financing (HCPF) disclose a data breach after MOVEit attack on IBM.
+The Colorado Department of Health Care Policy &amp; Financing (HCPF) disclosed a data breach that impacted more than four million...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

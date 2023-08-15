@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India Passes New Digital Personal Data Protection Bill (DPDPB), Putting Users' Privacy First<a href="https://thehackernews.com/2023/08/india-passes-new-digital-personal-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Indian President Droupadi Murmu on Friday granted assent to the Digital Personal Data Protection Bill ( DPDPB ) after it was unanimously passed by both houses of the parliament last week, marking a significant step towards securing people's information. "The Bill provides for the processing of digital personal data in a manner that recognizes both the rights of the individuals to protect their personal data and the need to process such personal data for lawful purposes and for matters connected therewith or incidental thereto," the Indian government&nbsp; said . The&nbsp; long-awaited data protection law &nbsp;comes months after the Ministry of Electronics and Information Technology (MeitY) released a&nbsp; draft version &nbsp;of the bill in November 2022. It has been in the making for over five years, with a first draft released in July 2018. A year before, India's Supreme Court&nbsp; upheld &nbsp;privacy as a&nbsp; fundamental right . The legislative framework, which applies to personal data coll
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

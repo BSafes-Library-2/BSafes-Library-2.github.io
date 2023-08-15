@@ -8,6 +8,36 @@ nav_order: 900015
 
 ## Attack
 ---
+August 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Xurum attacks target Magento 2 e-stores<a href="https://securityaffairs.com/149509/cyber-crime/xurum-adobes-magento-2-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of ongoing attacks, dubbed Xurum, targeting e-commerce websites using Adobe's Magento 2 CMS.
+Akamai researchers warn of ongoing attacks, dubbed Xurum, targeting e-commerce websites running the Magento 2 CMS.
+The attackers are actively...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten Targets Iranian Dissidents with Advanced Cyber Attacks<a href="https://thehackernews.com/2023/08/charming-kitten-targets-iranian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany's Federal Office for the Protection of the Constitution (BfV) has warned of cyber attacks targeting Iranian persons and organizations in the country since the end of 2022. "The cyber attacks were mainly directed against dissident organizations and individuals – such as lawyers, journalists, or human rights activists – inside and outside Iran," the agency&nbsp; said &nbsp;in an advisory. The intrusions have been attributed to a threat actor called&nbsp; Charming Kitten , which is also tracked under the names APT35, Mint Sandstorm, TA453 and Yellow Garuda. While Iranian nation-state actors lag behind their Russian and Chinese counterparts in sophistication, they have demonstrated a continued advancement of tools and techniques, adding an arsenal of custom malware to facilitate information gathering and rapidly exploiting n-day security flaws to obtain initial access. Charming Kitten, in particular, has a long,&nbsp; storied history &nbsp;of leveraging elaborate social engineering and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

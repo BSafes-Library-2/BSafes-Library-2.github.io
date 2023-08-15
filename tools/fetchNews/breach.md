@@ -8,6 +8,35 @@ nav_order: 900029
 
 ## Breach
 ---
+August 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: Cumbria Police Admit Huge Breach of Data of Officers and Staff<a href="https://www.theguardian.com/uk-news/2023/aug/11/cumbria-police-admits-huge-breach-of-data-of-officers-and-staff?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cumbria police have admitted accidentally publishing the names and salaries of every one of its more than 2,000 employees and have apologized. The data breach happened in March and has not previously been publicized.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK govt contractor MPD FM leaks employee passport data<a href="https://securityaffairs.com/149440/security/mpd-fm-data-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK govt contractor MPD FM left an open instance that exposed employee passports, visas, and other sensitive data
+MPD FM, a facility management and security company providing services to various UK government departments, left an open instance that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

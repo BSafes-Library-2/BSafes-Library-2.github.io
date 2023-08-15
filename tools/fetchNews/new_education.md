@@ -8,6 +8,48 @@ nav_order: 900053
 
 ## Education
 ---
+August 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Identity Threat Detection and Response: Rips in Your Identity Fabric<a href="https://thehackernews.com/2023/08/identity-threat-detection-and-response.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Why SaaS Security Is a Challenge In today's digital landscape, organizations are increasingly relying on Software-as-a-Service (SaaS) applications to drive their operations. However, this widespread adoption has also opened the doors to new security risks and vulnerabilities. The SaaS security attack surface continues to widen. It started with managing misconfigurations and now requires a holistic approach to handling the entire SaaS ecosystem. This includes the continuous monitoring and management of user access, roles and permissions, 3rd party apps installed by users, risks deriving from SaaS user devices and Identity Threat Detection &amp; Response (ITDR). There are a variety of reasons that SaaS security is so complex today. Firstly, there are a diverse range of applications, each having its own UI and terminology. And those environments are dynamic, from SaaS vendors understanding the importance of security and continually enhancing their applications with modern security
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Handle API Sprawl and the Security Threat it Poses<a href="https://www.helpnetsecurity.com/2023/08/11/api-sprawl-security-risks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With recent reports indicating that API vulnerabilities are costing businesses billions of dollars annually, it’s no wonder they are at the top of mind of many cybersecurity professionals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Executives’ Personal Devices Threaten Business Security<a href="https://www.helpnetsecurity.com/2023/08/11/personal-devices-risks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the cyber threat landscape has seen this major shift, security software to manage these direct personal risks has not kept up to protect public-facing individuals and leaders the way large enterprise organizations have.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
