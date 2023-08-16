@@ -34,7 +34,299 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Georgia Healthcare System Notifies 180,000 People of Breach After Suffering Ransomware Attack<a href="https://www.bankinfosecurity.com/healthcare-system-notifies-180000-people-1-year-after-hack-a-22811?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The apparent Hive ransomware attack on the Tift Regional Health System involved hackers accessing and copying files containing patient information, including medical and banking account information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Abusing Cloudflare R2 for Hosting Phishing Pages, Experts Warn<a href="https://thehackernews.com/2023/08/cybercriminals-abusing-cloudflare-r2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors' use of Cloudflare R2 to host phishing pages has witnessed a 61-fold increase over the past six months. "The majority of the phishing campaigns target Microsoft login credentials, although there are some pages targeting Adobe, Dropbox, and other cloud apps," Netskope security researcher Jan Michael  said . Cloudflare R2 , analogous to Amazon Web Service S3, Google Cloud Storage, and Azure Blob Storage, is a data storage service for the cloud. The development comes as the total number of cloud apps from which malware downloads originate has  increased to 167 , with Microsoft OneDrive, Squarespace, GitHub, SharePoint, and Weebly taking the top five spots. The phishing campaigns identified by Netskope not only abuse Cloudflare R2 to distribute static phishing pages, but also leverage the company's  Turnstile  offering, a CAPTCHA replacement, to place such pages behind anti-bot barriers to evade detection. In doing so, it prevents online scanners like
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credentials for cybercrime forums found on roughly 120K computers infected with info stealers<a href="https://securityaffairs.com/149547/cyber-crime/cybercrime-forums-credentials-info-stealers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered credentials associated with cybercrime forums on roughly 120,000 computers infected with information stealers.
+Threat intelligence firm Hudson Rock has discovered credentials associated with cybercrime forums on roughly 120,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most DDoS Attacks Tied to Gaming, Business Disputes, FBI and Prosecutors Say<a href="https://therecord.media/ddos-attacks-tied-to-gaming-business-disputes-fbi-says?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The majority of distributed denial-of-service (DDoS) attacks are launched in response to disputes over business or gaming, according to federal officials investigating the incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Catching the Catphish: Join the Expert Webinar on Combating Credential Phishing<a href="https://thehackernews.com/2023/08/catching-catphish-join-expert-webinar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Is your organization constantly under threat from credential phishing? Even with comprehensive security awareness training, many employees still fall victim to credential phishing scams. The result? Cybercriminals gaining immediate and unhindered access to sensitive data, email accounts, and other applications. But what if you could outsmart these criminals and protect your organization? Join  Graham Cluley , renowned cybersecurity expert and host of the Smashing Security podcast, and  Mike Britton , CISO at Abnormal Security, for an illuminating webinar that delves into the world of credential phishing and offers actionable insights. What Will You Learn? Understanding the Lure:  How attackers manipulate victims into submitting credentials, employing tactics such as generative AI. Why Victims Fall for the Trap:  A detailed look at why security awareness training may not always succeed in preventing employees from taking the bait. Effective Strategies to Combat Threats:  Compre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monti Ransomware gang launched a new Linux encryptor<a href="https://securityaffairs.com/149539/cyber-crime/monti-ransomware-news-linux-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Monti Ransomware operators returned, after a two-month pause, with a new Linux variant of their encryptor.
+The Monti ransomware operators returned, after a two-month break, with a new Linux version of the encryptor. The variant was employed in attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: Norfolk and Suffolk Police Admit Breach Involving Personal Data of 1,230 People<a href="https://www.theguardian.com/uk-news/2023/aug/15/norfolk-and-suffolk-police-identify-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two police forces in England have admitted mishandling the sensitive data of victims, witnesses, and suspects in cases including domestic abuse incidents, sexual offenses, assaults, thefts, and hate crime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Flaws Found in ScrutisWeb Software Exposes ATMs to Remote Hacking<a href="https://thehackernews.com/2023/08/multiple-flaws-found-in-scrutisweb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four security vulnerabilities in the ScrutisWeb ATM fleet monitoring software made by Iagona could be exploited to remotely break into ATMs, upload arbitrary files, and even reboot the terminals. The shortcomings were  discovered  by the Synack Red Team (SRT) following a client engagement. The issues have been addressed in ScrutisWeb version 2.1.38. "Successful exploitation of these vulnerabilities could allow an attacker to upload and execute arbitrary files," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)  said  in an advisory published last month. ScrutisWeb  is a web browser-based solution for monitoring banking and retail ATM fleets, including gleaning information system status, detecting low paper alerts, shutting down or restarting a terminal, and remotely modifying data. Details of the four flaws are as follows - CVE-2023-33871  (CVSS score: 7.5) - A directory traversal vulnerability that could allow an unauthenticated user to directly access
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking ATMs by exploiting flaws in ScrutisWeb ATM fleet software<a href="https://securityaffairs.com/149533/hacking/scrutisweb-atm-sw-atms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found several flaws in the ScrutisWeb ATM fleet monitoring software that can expose ATMs to hack. 
+Researchers from the Synack Red Team found multi flaws (CVE-2023-33871, CVE-2023-38257, CVE-2023-35763 and CVE-2023-35189) in the ScrutisWeb...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protect AI Purchases Huntr to Extend Bug Bounties to AI, ML<a href="https://www.bankinfosecurity.com/protect-ai-purchases-huntr-to-extend-bug-bounties-to-ai-ml-a-22801?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Seattle-based AI and ML security vendor said its acquisition of Seattle-based Huntr will allow customers to discover exploits in the artificial intelligence or machine learning supply chain weeks before they're publicly revealed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monti Ransomware Returns with New Linux Variant and Enhanced Evasion Tactics<a href="https://thehackernews.com/2023/08/monti-ransomware-returns-with-new-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the Monti ransomware have resurfaced after a two-month break with a new Linux version of the encryptor in its attacks targeting government and legal sectors. Monti  emerged  in June 2022, weeks after the Conti ransomware group shut down its operations, deliberately imitating the tactics and tools associated with the latter, including its leaked source code. Not anymore. The new version, per Trend Micro, is a departure of sorts, exhibiting significant changes from its other Linux-based predecessors. "Unlike the earlier variant, which is primarily based on the leaked Conti source code, this new version employs a different encryptor with additional distinct behaviors," Trend Micro researchers Nathaniel Morales and Joshua Paul Ignacio  said . A  BinDiff analysis  has revealed that while the older iterations had a 99% similarity rate with Conti, the latest version has only a 29% similarity rate, suggesting an overhaul. Some of the crucial changes in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QwixxRAT, a new Windows RAT appears in the threat landscape<a href="https://securityaffairs.com/149525/cyber-crime/qwixxrat-telegramrat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QwixxRAT is a new Windows remote access trojan (RAT) that is offered for sale through Telegram and Discord platforms.
+The Uptycs Threat Research team discovered the QwixxRAT (aka Telegram RAT) in early August 2023 while it was advertised through Telegram...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Windows Malware QwixxRAT Appears in the Threat Landscape<a href="https://securityaffairs.com/149525/cyber-crime/qwixxrat-telegramrat.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the experts, QwixxRAT is meticulously designed to steal a broad range of information, including data from browser histories, credit card details, screenshots, and keystrokes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Unleashed: Public Sector Hit in Sudden Surge, Reveals New Report<a href="https://thehackernews.com/2023/08/malware-unleashed-public-sector-hit-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The just-released BlackBerry Global Threat Intelligence Report reveals a 40% increase in cyberattacks against government and public service organizations versus the previous quarter. This includes public transit, utilities, schools, and other government services we rely on daily. With limited resources and often immature cyber defense programs, these publicly funded organizations are struggling against the double-pronged threat of attacks from both nation-states and the criminal underground.  These are just a few of the findings contained in the  latest edition  of BlackBerry's quarterly cybersecurity benchmarking guide. Covering events between March and May 2023, provides new information for the cybersecurity industry worldwide based on a detailed geopolitical analysis. BlackBerry observed and stopped 1.5 million attacks within the 90-day period.  Here are a few highlights in the report: 90 days by the numbers:  From March 2023 to May 2023, threat actors deployed approximat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dallas to Pay Vendors $8.6m for Their Ransomware Recovery Services<a href="https://www.cybersecuritydive.com/news/dallas-8-million-ransomware-recovery/690762/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bill covers invoices from “various vendors for emergency purchases of hardware, software, professional services, consultants and monitoring services,” the city said in a statement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gigabud RAT Android Banking Malware Targets Institutions Across Countries<a href="https://thehackernews.com/2023/08/gigabud-rat-android-banking-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Account holders of over numerous financial institutions in Thailand, Indonesia, Vietnam, the Philippines, and Peru are being targeted by an Android banking malware called  Gigabud RAT . "One of Gigabud RAT's unique features is that it doesn't execute any malicious actions until the user is authorized into the malicious application by a fraudster, [...] which makes it harder to detect," Group-IB researchers Pavel Naumov and Artem Grischenko  said . "Instead of using HTML overlay attacks, Gigabud RAT gathers sensitive information primarily through screen recording." Gigabud RAT was  first documented  by Cyble in January 2023 after it was spotted impersonating bank and government apps to siphon sensitive data. It's known to be active in the wild since at least July 2022. The Singapore-based company said it also identified a second variant of the malware minus the RAT capabilities. Dubbed Gigabud.Loan, it comes under the guise of a loan application that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 120,000 Computers Compromised by Info Stealers Linked to Users of Cybercrime Forums<a href="https://thehackernews.com/2023/08/over-12000-computers-compromised-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "staggering" 120,000 computers infected by stealer malware have credentials associated with cybercrime forums, many of them belonging to malicious actors. The  findings  come from Hudson Rock, which analyzed data collected from computers compromised between 2018 to 2023. "Hackers around the world infect computers opportunistically by promoting results for fake software or through YouTube tutorials directing victims to download infected software," Hudson Rock CTO Alon Gal told The Hacker News. "It is not a case of the threat actor infecting his own computer, it is that out of the 14,500,000 computers we have in our cybercrime database, some of them happen to be hackers that  accidentally got infected ." Data retrieved from machines compromised by stealer malware is often expansive and wide-ranging, enabling the real-world identities of hackers to be discovered based on indicators such as credentials, addresses, phone numbers, computer names, and IP a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Suspected in New Wave of Malicious npm Packages<a href="https://thehackernews.com/2023/08/north-korean-hackers-suspected-in-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The npm package registry has emerged as the target of yet another highly targeted attack campaign that aims to entice developers into downloading malevolent modules. Software supply chain security firm Phylum told The Hacker News the activity exhibits similar behaviors to that of a previous attack wave  uncovered in June , which has since been  linked to North Korean threat actors . As many as nine packages have been identified as uploaded to npm between August 9 and 12, 2023. This includes: ws-paso-jssdk, pingan-vue-floating, srm-front-util, cloud-room-video, progress-player, ynf-core-loader, ynf-core-renderer, ynf-dx-scripts, and ynf-dx-webpack-plugins. "Due to the sophisticated nature of the attack and the small number of affected packages, we suspect this is another highly targeted attack, likely with a social engineering aspect involved in order to get targets to install these packages," the company  said . The attack chain commences with the package.json file with
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ford Says Wi-Fi Vulnerability Not a Safety Risk to Vehicles<a href="https://www.securityweek.com/ford-says-wi-fi-vulnerability-not-a-safety-risk-to-vehicles/?&web_view=true"> Full Text</a>
@@ -50,7 +342,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QwixxRAT: New Remote Access Trojan Emerges via Telegram and Discord<a href="https://thehackernews.com/2023/08/qwixxrat-new-remote-access-trojan.html"> Full Text</a>
@@ -66,7 +358,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ongoing Xurum attacks target Magento 2 e-stores<a href="https://securityaffairs.com/149509/cyber-crime/xurum-adobes-magento-2-attacks.html"> Full Text</a>
@@ -84,7 +376,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nine Flaws in CyberPower and Dataprobe Solutions Expose Data Centers to Hacking<a href="https://securityaffairs.com/149478/security/cyberpower-dcim-pdu-flaws.html?&web_view=true"> Full Text</a>
@@ -100,7 +392,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ongoing Xurum Attacks on E-commerce Sites Exploiting Critical Magento 2 Vulnerability<a href="https://thehackernews.com/2023/08/ongoing-xurum-attacks-on-e-commerce.html"> Full Text</a>
@@ -116,7 +408,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Colorado HCPF Department notifies 4 million individuals after IBM MOVEit breach<a href="https://securityaffairs.com/149498/data-breach/colorado-hcpf-department-data-breach.html"> Full Text</a>
@@ -133,7 +425,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iagona ScrutisWeb Vulnerabilities Could Expose ATMs to Remote Hacking<a href="https://www.securityweek.com/iagona-scrutisweb-vulnerabilities-could-expose-atms-to-remote-hacking/?&web_view=true"> Full Text</a>
@@ -149,7 +441,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Identity Threat Detection and Response: Rips in Your Identity Fabric<a href="https://thehackernews.com/2023/08/identity-threat-detection-and-response.html"> Full Text</a>
@@ -165,7 +457,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts found multiple flaws in AudioCodes desk phones and Zoom’s Zero Touch Provisioning (ZTP)<a href="https://securityaffairs.com/149487/hacking/zooms-zero-touch-provisioning-flaws.html"> Full Text</a>
@@ -182,7 +474,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacktivists Claim Attacks Against 21 Organizations Over Fukushima Wastewater Release<a href="https://www.theregister.com/2023/08/14/hactivitsts_claim_japanese_government_attack/?&web_view=true"> Full Text</a>
@@ -198,7 +490,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Charming Kitten Targets Iranian Dissidents with Advanced Cyber Attacks<a href="https://thehackernews.com/2023/08/charming-kitten-targets-iranian.html"> Full Text</a>
@@ -214,7 +506,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nine flaws in CyberPower and Dataprobe solutions expose data centers to hacking<a href="https://securityaffairs.com/149478/security/cyberpower-dcim-pdu-flaws.html"> Full Text</a>
@@ -231,7 +523,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Handle API Sprawl and the Security Threat it Poses<a href="https://www.helpnetsecurity.com/2023/08/11/api-sprawl-security-risks/?&web_view=true"> Full Text</a>
@@ -247,7 +539,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Financial Malware 'JanelaRAT' Targets Latin American Users<a href="https://thehackernews.com/2023/08/new-financial-malware-janelarat-targets.html"> Full Text</a>
@@ -263,7 +555,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Monti Ransomware Unleashes New Encryptor for Linux<a href="https://www.trendmicro.com/en_us/research/23/h/monti-ransomware-unleashes-a-new-encryptor-for-linux.html?&web_view=true"> Full Text</a>
@@ -279,7 +571,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India Passes New Digital Personal Data Protection Bill (DPDPB), Putting Users' Privacy First<a href="https://thehackernews.com/2023/08/india-passes-new-digital-personal-data.html"> Full Text</a>
@@ -295,7 +587,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2023
+August 14, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Executives’ Personal Devices Threaten Business Security<a href="https://www.helpnetsecurity.com/2023/08/11/personal-devices-risks/?&web_view=true"> Full Text</a>
