@@ -34,6 +34,266 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 116 Patches 26 Vulnerabilities<a href="https://www.securityweek.com/chrome-116-patches-26-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday announced the release of Chrome 116 to the stable channel with patches for 26 vulnerabilities, including 21 reported by external researchers. Of the externally reported bugs, eight have a severity rating of ‘high.’
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What's the State of Credential theft in 2023?<a href="https://thehackernews.com/2023/08/whats-state-of-credential-theft-in-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At a little overt halfway through 2023, credential theft is still a major thorn in the side of IT teams. The heart of the problem is the value of data to cybercriminals and the evolution of the techniques they use to get hold of it. The  2023 Verizon Data Breach Investigations Report (DBIR)  revealed that 83% of breaches involved external actors, with almost all attacks being financially motivated. Of these breaches by external actors, 49% involved the use of stolen credentials.  We'll explore why credential theft is still such an attractive (and successful) attack route, and look at how IT security teams can fight back in the second half of 2023 and beyond. Users are still often the weak link The hallmarks of many successful cyberattacks are the determination, inventiveness, and patience threat actors show. Though a user may spot some attacks through security and awareness training, it only takes one well-crafted attack to catch them. Sometimes all it takes is for a user to be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds flaw in Citrix ShareFile to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/149578/hacking/citrix-sharefile-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added critical vulnerability CVE-2023-24489 in Citrix ShareFile to its Known Exploited Vulnerabilities catalog.
+US Cybersecurity and Infrastructure Security Agency (CISA) added critical flaw CVE-2023-24489 (CVSS score 9.8) affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chamber of Commerce Urges SEC to Delay Cyber Rule Implementation<a href="https://www.cybersecuritydive.com/news/chamber-sec-delay-cyber-rule-implementation/690888/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Chamber of Commerce urged the Securities and Exchange Commission to delay by a year the effective date of new cybersecurity rules, saying the regulatory move could otherwise have “severe consequences” for companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Weaknesses in PowerShell Gallery Enabling Supply Chain Attacks<a href="https://thehackernews.com/2023/08/experts-uncover-weaknesses-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Active flaws in the PowerShell Gallery could be weaponized by threat actors to pull off supply chain attacks against the registry's users. "These flaws make typosquatting attacks inevitable in this registry, while also making it extremely difficult for users to identify the true owner of a package," Aqua security researchers Mor Weinberger, Yakir Kadkoda, and Ilay Goldman said in a report shared with The Hacker News. Maintained by Microsoft,  PowerShell Gallery  is a  central repository  for sharing and acquiring PowerShell code, including PowerShell modules, scripts, and Desired State Configuration (DSC) resources. The registry boasts 11,829 unique packages and 244,615 packages in total. The issues identified by the cloud security firm have to do with the service's lax policy surrounding package names, lacking protections against typosquatting attacks, as a result enabling attackers to upload malicious PowerShell modules that appear genuine to unsuspecting users
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A massive phishing campaign using QR codes targets the energy sector<a href="https://securityaffairs.com/149567/hacking/phishing-campaign-qr-codes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign employing QR codes targeted a leading energy company in the US, cybersecurity firm Cofense reported.
+Starting from May 2023, researchers from Cofense discovered a large-scale phishing campaign using QR codes in attacks aimed at stealing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automotive data privacy under scrutiny in California<a href="https://www.cybersecuritydive.com/news/automotive-data-privacy-california/690775/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+California regulators are examining how automakers and others handle data collected from internet-connected vehicles, the California Privacy Protection Agency said late last month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guide: How Google Workspace-based Organizations can leverage Chrome to improve Security<a href="https://thehackernews.com/2023/08/guide-how-google-workspace-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More and more organizations are choosing Google Workspace as their default employee toolset of choice. But despite the productivity advantages, this organizational action also incurs a new security debt. Security teams now have to find a way to adjust their security architecture to this new cloud workload. Some teams may rely on their existing network security solutions. According to a  new guide , this is a hit and a miss. Network solutions, the guide claims, just don't cover all SaaS and browsing requirements. Meanwhile, Google offers a wide range of native security functionalities built-in to Chrome. These functionalities enable the organization to leverage the browser for consolidating security, simplifying operations and reducing costs. If you're wary about trusting Chrome with your security, then the guide is recommended to read. In great detail, it explains which security features Chrome offers users. These include: Forcing users to sign into Chrome, to ensure the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two unauthenticated stack buffer overflows found in Ivanti Avalanche EMM<a href="https://securityaffairs.com/149561/hacking/ivanti-avalanche-buffer-overflow-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti Avalanche EMM product is impacted by two buffer overflows collectively tracked as CVE-2023-32560.
+Tenable researchers discovered two stack-based buffer overflows, collectively tracked as CVE-2023-32560 (CVSS v3: 9.8), impacting the Ivanti...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack on Rapattoni Disrupts US Real Estate Property Listings<a href="https://www.bankinfosecurity.com/ransomware-hit-disrupts-real-estate-property-listings-in-us-a-22818?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Real estate agents' ability to list or update property information has been compromised by an attack on California-based data services company Rapattoni, which hosts multiple listing services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Introduces First Quantum Resilient FIDO2 Security Key<a href="https://thehackernews.com/2023/08/google-introduces-first-quantum.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday announced the first quantum resilient FIDO2 security key implementation as part of its OpenSK security keys initiative. "This open-source hardware optimized implementation uses a novel ECC/Dilithium hybrid signature schema that benefits from the security of ECC against standard attacks and Dilithium's resilience against quantum attacks," Elie Bursztein and Fabian Kaczmarczyck  said . OpenSK  is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards. The development comes less than a week after the tech giant  said  it plans to add support for quantum-resistant encryption algorithms in Chrome 116 to set up symmetric keys in TLS connections. It's also part of broader efforts to switch to cryptographic algorithms that can withstand quantum attacks in the future, necessitating the need to incorporate such technologies early on to facilitate a gradual rollout. "Fortunately, with the rece
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Approximately 2000 Citrix NetScaler servers were backdoored in a massive campaign<a href="https://securityaffairs.com/149551/hacking/2000-citrix-netscaler-servers-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor has compromised roughly 2,000 Citrix NetScaler servers exploiting a remote code execution tracked as CVE-2023-3519.
+In July Citrix warned customers of a critical vulnerability, tracked as CVE-2023-3519 (CVSS score: 9.8), in NetScaler...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clorox Cleans up Security Breach That Disrupted Operations<a href="https://www.theregister.com/2023/08/15/clorox_cleans_up_security_breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The intrusion continues to disrupt "parts of the company's business operations," and it is "working diligently to respond to and address this issue, and is also coordinating with law enforcement," according to the Form 8-K submission.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Flaws Affect Ivanti Avalanche, Threatening 30,000 Organizations<a href="https://thehackernews.com/2023/08/critical-security-flaws-affect-ivanti.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical security flaws have been reported in  Ivanti Avalanche , an enterprise mobile device management solution that's used by 30,000 organizations. The vulnerabilities, collectively tracked as  CVE-2023-32560  (CVSS score: 9.8), are stack-based buffer overflows in Ivanti Avalanche WLAvanacheServer.exe v6.4.0.0. Cybersecurity company Tenable  said  the shortcomings are the result of buffer overflows arising as a consequence of processing specific data types. An unauthenticated remote attacker can specify a long hex string or long type 9 item to overflow the buffer, it noted. Successful exploitation of both issues could be exploited by a remote adversary to achieve code execution or a system crash. Stack-based buffer overflow vulnerabilities  occur when  the buffer being overwritten is in the stack, leading to a scenario where program execution can be altered to run arbitrary code with elevated privileges. Ivanti has released  Avalanche version 6.4.1  to remediate the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prince George's County Public Schools Responds Suffers Network Outage Owing to Cyberattack<a href="https://therecord.media/prince-georges-county-schools-maryland-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+District leaders initially said they were working to address a “broad network outage” that knocked out email and other services. On Monday night, the district released a statement saying 4,500 of the system’s 180,000 accounts were “impacted.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 2,000 Citrix NetScaler Instances Hacked via Critical Vulnerability<a href="https://thehackernews.com/2023/08/nearly-2000-citrix-netscaler-instances.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly 2,000 Citrix NetScaler instances have been compromised with a backdoor by weaponizing a recently disclosed critical security vulnerability as part of a large-scale attack. "An adversary appears to have exploited CVE-2023-3519 in an automated fashion, placing web shells on vulnerable NetScalers to gain persistent access," NCC Group  said  in an advisory released Tuesday. "The adversary can execute arbitrary commands with this webshell, even when a NetScaler is patched and/or rebooted." CVE-2023-3519 refers to a critical code injection vulnerability impacting NetScaler ADC and Gateway servers that could lead to unauthenticated remote code execution. It was patched by Citrix last month. The development comes a week after the Shadowserver Foundation  said  it identified close to 7,000 vulnerable, unpatched NetScaler ADC and Gateway instances online and the flaw is being abused to drop PHP web shells on vulnerable servers for remote access. A follow-up anal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 15, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
