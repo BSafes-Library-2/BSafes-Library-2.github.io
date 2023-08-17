@@ -8,6 +8,63 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Abusing Cloudflare R2 for Hosting Phishing Pages, Experts Warn<a href="https://thehackernews.com/2023/08/cybercriminals-abusing-cloudflare-r2.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors' use of Cloudflare R2 to host phishing pages has witnessed a 61-fold increase over the past six months. "The majority of the phishing campaigns target Microsoft login credentials, although there are some pages targeting Adobe, Dropbox, and other cloud apps," Netskope security researcher Jan Michael&nbsp; said . Cloudflare R2 , analogous to Amazon Web Service S3, Google Cloud Storage, and Azure Blob Storage, is a data storage service for the cloud. The development comes as the total number of cloud apps from which malware downloads originate has&nbsp; increased to 167 , with Microsoft OneDrive, Squarespace, GitHub, SharePoint, and Weebly taking the top five spots. The phishing campaigns identified by Netskope not only abuse Cloudflare R2 to distribute static phishing pages, but also leverage the company's&nbsp; Turnstile &nbsp;offering, a CAPTCHA replacement, to place such pages behind anti-bot barriers to evade detection. In doing so, it prevents online scanners like
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credentials for cybercrime forums found on roughly 120K computers infected with info stealers<a href="https://securityaffairs.com/149547/cyber-crime/cybercrime-forums-credentials-info-stealers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered credentials associated with cybercrime forums on roughly 120,000 computers infected with information stealers.
+Threat intelligence firm Hudson Rock has discovered credentials associated with cybercrime forums on roughly 120,000...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monti Ransomware Returns with New Linux Variant and Enhanced Evasion Tactics<a href="https://thehackernews.com/2023/08/monti-ransomware-returns-with-new-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the Monti ransomware have resurfaced after a two-month break with a new Linux version of the encryptor in its attacks targeting government and legal sectors. Monti&nbsp; emerged &nbsp;in June 2022, weeks after the Conti ransomware group shut down its operations, deliberately imitating the tactics and tools associated with the latter, including its leaked source code. Not anymore. The new version, per Trend Micro, is a departure of sorts, exhibiting significant changes from its other Linux-based predecessors. "Unlike the earlier variant, which is primarily based on the leaked Conti source code, this new version employs a different encryptor with additional distinct behaviors," Trend Micro researchers Nathaniel Morales and Joshua Paul Ignacio&nbsp; said . A&nbsp; BinDiff analysis &nbsp;has revealed that while the older iterations had a 99% similarity rate with Conti, the latest version has only a 29% similarity rate, suggesting an overhaul. Some of the crucial changes in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 120,000 Computers Compromised by Info Stealers Linked to Users of Cybercrime Forums<a href="https://thehackernews.com/2023/08/over-12000-computers-compromised-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "staggering" 120,000 computers infected by stealer malware have credentials associated with cybercrime forums, many of them belonging to malicious actors. The&nbsp; findings &nbsp;come from Hudson Rock, which analyzed data collected from computers compromised between 2018 to 2023. "Hackers around the world infect computers opportunistically by promoting results for fake software or through YouTube tutorials directing victims to download infected software," Hudson Rock CTO Alon Gal told The Hacker News. "It is not a case of the threat actor infecting his own computer, it is that out of the 14,500,000 computers we have in our cybercrime database, some of them happen to be hackers that&nbsp; accidentally got infected ." Data retrieved from machines compromised by stealer malware is often expansive and wide-ranging, enabling the real-world identities of hackers to be discovered based on indicators such as credentials, addresses, phone numbers, computer names, and IP a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

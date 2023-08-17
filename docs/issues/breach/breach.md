@@ -8,6 +8,63 @@ nav_order: 900029
 
 ## Breach
 ---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Approximately 2000 Citrix NetScaler servers were backdoored in a massive campaign<a href="https://securityaffairs.com/149551/hacking/2000-citrix-netscaler-servers-hacked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor has compromised roughly 2,000 Citrix NetScaler servers exploiting a remote code execution tracked as CVE-2023-3519.
+In July Citrix warned customers of a critical vulnerability, tracked as&nbsp;CVE-2023-3519&nbsp;(CVSS score: 9.8), in NetScaler...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 2,000 Citrix NetScaler Instances Hacked via Critical Vulnerability<a href="https://thehackernews.com/2023/08/nearly-2000-citrix-netscaler-instances.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly 2,000 Citrix NetScaler instances have been compromised with a backdoor by weaponizing a recently disclosed critical security vulnerability as part of a large-scale attack. "An adversary appears to have exploited CVE-2023-3519 in an automated fashion, placing web shells on vulnerable NetScalers to gain persistent access," NCC Group&nbsp; said &nbsp;in an advisory released Tuesday. "The adversary can execute arbitrary commands with this webshell, even when a NetScaler is patched and/or rebooted." CVE-2023-3519 refers to a critical code injection vulnerability impacting NetScaler ADC and Gateway servers that could lead to unauthenticated remote code execution. It was patched by Citrix last month. The development comes a week after the Shadowserver Foundation&nbsp; said &nbsp;it identified close to 7,000 vulnerable, unpatched NetScaler ADC and Gateway instances online and the flaw is being abused to drop PHP web shells on vulnerable servers for remote access. A follow-up anal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Georgia Healthcare System Notifies 180,000 People of Breach After Suffering Ransomware Attack<a href="https://www.bankinfosecurity.com/healthcare-system-notifies-180000-people-1-year-after-hack-a-22811?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The apparent Hive ransomware attack on the Tift Regional Health System involved hackers accessing and copying files containing patient information, including medical and banking account information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: Norfolk and Suffolk Police Admit Breach Involving Personal Data of 1,230 People<a href="https://www.theguardian.com/uk-news/2023/aug/15/norfolk-and-suffolk-police-identify-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two police forces in England have admitted mishandling the sensitive data of victims, witnesses, and suspects in cases including domestic abuse incidents, sexual offenses, assaults, thefts, and hate crime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

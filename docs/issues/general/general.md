@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What's the State of Credential theft in 2023?<a href="https://thehackernews.com/2023/08/whats-state-of-credential-theft-in-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At a little overt halfway through 2023, credential theft is still a major thorn in the side of IT teams. The heart of the problem is the value of data to cybercriminals and the evolution of the techniques they use to get hold of it. The&nbsp; 2023 Verizon Data Breach Investigations Report (DBIR) &nbsp;revealed that 83% of breaches involved external actors, with almost all attacks being financially motivated. Of these breaches by external actors, 49% involved the use of stolen credentials.&nbsp; We'll explore why credential theft is still such an attractive (and successful) attack route, and look at how IT security teams can fight back in the second half of 2023 and beyond. Users are still often the weak link The hallmarks of many successful cyberattacks are the determination, inventiveness, and patience threat actors show. Though a user may spot some attacks through security and awareness training, it only takes one well-crafted attack to catch them. Sometimes all it takes is for a user to be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Unleashed: Public Sector Hit in Sudden Surge, Reveals New Report<a href="https://thehackernews.com/2023/08/malware-unleashed-public-sector-hit-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The just-released BlackBerry Global Threat Intelligence Report reveals a 40% increase in cyberattacks against government and public service organizations versus the previous quarter. This includes public transit, utilities, schools, and other government services we rely on daily. With limited resources and often immature cyber defense programs, these publicly funded organizations are struggling against the double-pronged threat of attacks from both nation-states and the criminal underground.&nbsp; These are just a few of the findings contained in the&nbsp; latest edition &nbsp;of BlackBerry's quarterly cybersecurity benchmarking guide. Covering events between March and May 2023, provides new information for the cybersecurity industry worldwide based on a detailed geopolitical analysis. BlackBerry observed and stopped 1.5 million attacks within the 90-day period.&nbsp; Here are a few highlights in the report: 90 days by the numbers:&nbsp; From March 2023 to May 2023, threat actors deployed approximat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

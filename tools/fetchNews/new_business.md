@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+August 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protect AI Purchases Huntr to Extend Bug Bounties to AI, ML<a href="https://www.bankinfosecurity.com/protect-ai-purchases-huntr-to-extend-bug-bounties-to-ai-ml-a-22801?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Seattle-based AI and ML security vendor said its acquisition of Seattle-based Huntr will allow customers to discover exploits in the artificial intelligence or machine learning supply chain weeks before they're publicly revealed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dallas to Pay Vendors $8.6m for Their Ransomware Recovery Services<a href="https://www.cybersecuritydive.com/news/dallas-8-million-ransomware-recovery/690762/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bill covers invoices from “various vendors for emergency purchases of hardware, software, professional services, consultants and monitoring services,” the city said in a statement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

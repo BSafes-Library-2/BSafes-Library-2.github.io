@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 116 Patches 26 Vulnerabilities<a href="https://www.securityweek.com/chrome-116-patches-26-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What's the State of Credential theft in 2023?<a href="https://thehackernews.com/2023/08/whats-state-of-credential-theft-in-2023.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds flaw in Citrix ShareFile to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/149578/hacking/citrix-sharefile-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chamber of Commerce Urges SEC to Delay Cyber Rule Implementation<a href="https://www.cybersecuritydive.com/news/chamber-sec-delay-cyber-rule-implementation/690888/?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover Weaknesses in PowerShell Gallery Enabling Supply Chain Attacks<a href="https://thehackernews.com/2023/08/experts-uncover-weaknesses-in.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A massive phishing campaign using QR codes targets the energy sector<a href="https://securityaffairs.com/149567/hacking/phishing-campaign-qr-codes.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Automotive data privacy under scrutiny in California<a href="https://www.cybersecuritydive.com/news/automotive-data-privacy-california/690775/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Guide: How Google Workspace-based Organizations can leverage Chrome to improve Security<a href="https://thehackernews.com/2023/08/guide-how-google-workspace-based.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two unauthenticated stack buffer overflows found in Ivanti Avalanche EMM<a href="https://securityaffairs.com/149561/hacking/ivanti-avalanche-buffer-overflow-bugs.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack on Rapattoni Disrupts US Real Estate Property Listings<a href="https://www.bankinfosecurity.com/ransomware-hit-disrupts-real-estate-property-listings-in-us-a-22818?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Introduces First Quantum Resilient FIDO2 Security Key<a href="https://thehackernews.com/2023/08/google-introduces-first-quantum.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Approximately 2000 Citrix NetScaler servers were backdoored in a massive campaign<a href="https://securityaffairs.com/149551/hacking/2000-citrix-netscaler-servers-hacked.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clorox Cleans up Security Breach That Disrupted Operations<a href="https://www.theregister.com/2023/08/15/clorox_cleans_up_security_breach/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Security Flaws Affect Ivanti Avalanche, Threatening 30,000 Organizations<a href="https://thehackernews.com/2023/08/critical-security-flaws-affect-ivanti.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prince George's County Public Schools Responds Suffers Network Outage Owing to Cyberattack<a href="https://therecord.media/prince-georges-county-schools-maryland-cyberattack?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2023
+August 16, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly 2,000 Citrix NetScaler Instances Hacked via Critical Vulnerability<a href="https://thehackernews.com/2023/08/nearly-2000-citrix-netscaler-instances.html"> Full Text</a>
@@ -294,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Georgia Healthcare System Notifies 180,000 People of Breach After Suffering Ransomware Attack<a href="https://www.bankinfosecurity.com/healthcare-system-notifies-180000-people-1-year-after-hack-a-22811?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Abusing Cloudflare R2 for Hosting Phishing Pages, Experts Warn<a href="https://thehackernews.com/2023/08/cybercriminals-abusing-cloudflare-r2.html"> Full Text</a>
@@ -326,7 +326,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Credentials for cybercrime forums found on roughly 120K computers infected with info stealers<a href="https://securityaffairs.com/149547/cyber-crime/cybercrime-forums-credentials-info-stealers.html"> Full Text</a>
@@ -343,7 +343,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most DDoS Attacks Tied to Gaming, Business Disputes, FBI and Prosecutors Say<a href="https://therecord.media/ddos-attacks-tied-to-gaming-business-disputes-fbi-says?&web_view=true"> Full Text</a>
@@ -359,7 +359,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Catching the Catphish: Join the Expert Webinar on Combating Credential Phishing<a href="https://thehackernews.com/2023/08/catching-catphish-join-expert-webinar.html"> Full Text</a>
@@ -375,7 +375,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Monti Ransomware gang launched a new Linux encryptor<a href="https://securityaffairs.com/149539/cyber-crime/monti-ransomware-news-linux-variant.html"> Full Text</a>
@@ -392,7 +392,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK: Norfolk and Suffolk Police Admit Breach Involving Personal Data of 1,230 People<a href="https://www.theguardian.com/uk-news/2023/aug/15/norfolk-and-suffolk-police-identify-data-breach?&web_view=true"> Full Text</a>
@@ -408,7 +408,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Flaws Found in ScrutisWeb Software Exposes ATMs to Remote Hacking<a href="https://thehackernews.com/2023/08/multiple-flaws-found-in-scrutisweb.html"> Full Text</a>
@@ -424,7 +424,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking ATMs by exploiting flaws in ScrutisWeb ATM fleet software<a href="https://securityaffairs.com/149533/hacking/scrutisweb-atm-sw-atms.html"> Full Text</a>
@@ -441,7 +441,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Protect AI Purchases Huntr to Extend Bug Bounties to AI, ML<a href="https://www.bankinfosecurity.com/protect-ai-purchases-huntr-to-extend-bug-bounties-to-ai-ml-a-22801?&web_view=true"> Full Text</a>
@@ -457,7 +457,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Monti Ransomware Returns with New Linux Variant and Enhanced Evasion Tactics<a href="https://thehackernews.com/2023/08/monti-ransomware-returns-with-new-linux.html"> Full Text</a>
@@ -473,7 +473,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QwixxRAT, a new Windows RAT appears in the threat landscape<a href="https://securityaffairs.com/149525/cyber-crime/qwixxrat-telegramrat.html"> Full Text</a>
@@ -490,7 +490,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Windows Malware QwixxRAT Appears in the Threat Landscape<a href="https://securityaffairs.com/149525/cyber-crime/qwixxrat-telegramrat.html?&web_view=true"> Full Text</a>
@@ -506,7 +506,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Unleashed: Public Sector Hit in Sudden Surge, Reveals New Report<a href="https://thehackernews.com/2023/08/malware-unleashed-public-sector-hit-in.html"> Full Text</a>
@@ -522,7 +522,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dallas to Pay Vendors $8.6m for Their Ransomware Recovery Services<a href="https://www.cybersecuritydive.com/news/dallas-8-million-ransomware-recovery/690762/?&web_view=true"> Full Text</a>
@@ -538,7 +538,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gigabud RAT Android Banking Malware Targets Institutions Across Countries<a href="https://thehackernews.com/2023/08/gigabud-rat-android-banking-malware.html"> Full Text</a>
@@ -554,7 +554,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 120,000 Computers Compromised by Info Stealers Linked to Users of Cybercrime Forums<a href="https://thehackernews.com/2023/08/over-12000-computers-compromised-by.html"> Full Text</a>
@@ -570,7 +570,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 15, 2023
+August 15, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Suspected in New Wave of Malicious npm Packages<a href="https://thehackernews.com/2023/08/north-korean-hackers-suspected-in-new.html"> Full Text</a>

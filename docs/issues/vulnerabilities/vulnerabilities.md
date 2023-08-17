@@ -8,6 +8,92 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 116 Patches 26 Vulnerabilities<a href="https://www.securityweek.com/chrome-116-patches-26-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday announced the release of Chrome 116 to the stable channel with patches for 26 vulnerabilities, including 21 reported by external researchers. Of the externally reported bugs, eight have a severity rating of ‘high.’
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Weaknesses in PowerShell Gallery Enabling Supply Chain Attacks<a href="https://thehackernews.com/2023/08/experts-uncover-weaknesses-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Active flaws in the PowerShell Gallery could be weaponized by threat actors to pull off supply chain attacks against the registry's users. "These flaws make typosquatting attacks inevitable in this registry, while also making it extremely difficult for users to identify the true owner of a package," Aqua security researchers Mor Weinberger, Yakir Kadkoda, and Ilay Goldman said in a report shared with The Hacker News. Maintained by Microsoft,&nbsp; PowerShell Gallery &nbsp;is a&nbsp; central repository &nbsp;for sharing and acquiring PowerShell code, including PowerShell modules, scripts, and Desired State Configuration (DSC) resources. The registry boasts 11,829 unique packages and 244,615 packages in total. The issues identified by the cloud security firm have to do with the service's lax policy surrounding package names, lacking protections against typosquatting attacks, as a result enabling attackers to upload malicious PowerShell modules that appear genuine to unsuspecting users
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two unauthenticated stack buffer overflows found in Ivanti Avalanche EMM<a href="https://securityaffairs.com/149561/hacking/ivanti-avalanche-buffer-overflow-bugs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti Avalanche EMM product is impacted by two buffer overflows collectively tracked as CVE-2023-32560.
+Tenable researchers&nbsp;discovered two stack-based buffer overflows, collectively tracked as CVE-2023-32560 (CVSS v3: 9.8), impacting the Ivanti...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Flaws Affect Ivanti Avalanche, Threatening 30,000 Organizations<a href="https://thehackernews.com/2023/08/critical-security-flaws-affect-ivanti.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical security flaws have been reported in&nbsp; Ivanti Avalanche , an enterprise mobile device management solution that's used by 30,000 organizations. The vulnerabilities, collectively tracked as&nbsp; CVE-2023-32560 &nbsp;(CVSS score: 9.8), are stack-based buffer overflows in Ivanti Avalanche WLAvanacheServer.exe v6.4.0.0. Cybersecurity company Tenable&nbsp; said &nbsp;the shortcomings are the result of buffer overflows arising as a consequence of processing specific data types. An unauthenticated remote attacker can specify a long hex string or long type 9 item to overflow the buffer, it noted. Successful exploitation of both issues could be exploited by a remote adversary to achieve code execution or a system crash. Stack-based buffer overflow vulnerabilities&nbsp; occur when &nbsp;the buffer being overwritten is in the stack, leading to a scenario where program execution can be altered to run arbitrary code with elevated privileges. Ivanti has released&nbsp; Avalanche version 6.4.1 &nbsp;to remediate the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Flaws Found in ScrutisWeb Software Exposes ATMs to Remote Hacking<a href="https://thehackernews.com/2023/08/multiple-flaws-found-in-scrutisweb.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four security vulnerabilities in the ScrutisWeb ATM fleet monitoring software made by Iagona could be exploited to remotely break into ATMs, upload arbitrary files, and even reboot the terminals. The shortcomings were&nbsp; discovered &nbsp;by the Synack Red Team (SRT) following a client engagement. The issues have been addressed in ScrutisWeb version 2.1.38. "Successful exploitation of these vulnerabilities could allow an attacker to upload and execute arbitrary files," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)&nbsp; said &nbsp;in an advisory published last month. ScrutisWeb &nbsp;is a web browser-based solution for monitoring banking and retail ATM fleets, including gleaning information system status, detecting low paper alerts, shutting down or restarting a terminal, and remotely modifying data. Details of the four flaws are as follows - CVE-2023-33871 &nbsp;(CVSS score: 7.5) - A directory traversal vulnerability that could allow an unauthenticated user to directly access
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking ATMs by exploiting flaws in ScrutisWeb ATM fleet software<a href="https://securityaffairs.com/149533/hacking/scrutisweb-atm-sw-atms.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found several flaws in the ScrutisWeb ATM fleet monitoring software that can expose ATMs to hack.&nbsp;
+Researchers from the Synack Red Team found multi flaws (CVE-2023-33871, CVE-2023-38257, CVE-2023-35763 and CVE-2023-35189) in the ScrutisWeb...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

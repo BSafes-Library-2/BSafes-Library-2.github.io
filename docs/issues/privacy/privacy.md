@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automotive data privacy under scrutiny in California<a href="https://www.cybersecuritydive.com/news/automotive-data-privacy-california/690775/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+California regulators are examining how automakers and others handle data collected from internet-connected vehicles, the California Privacy Protection Agency said late last month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

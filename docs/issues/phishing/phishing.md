@@ -8,6 +8,21 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A massive phishing campaign using QR codes targets the energy sector<a href="https://securityaffairs.com/149567/hacking/phishing-campaign-qr-codes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign employing QR codes targeted a leading energy company in the US, cybersecurity firm Cofense reported.
+Starting from May 2023, researchers from Cofense discovered a large-scale phishing campaign using QR codes in attacks aimed at stealing...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

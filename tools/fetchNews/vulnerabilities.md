@@ -8,6 +8,92 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ford Says Wi-Fi Vulnerability Not a Safety Risk to Vehicles<a href="https://www.securityweek.com/ford-says-wi-fi-vulnerability-not-a-safety-risk-to-vehicles/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue is described as a buffer overflow that could lead to remote code execution. An attacker within the wireless range of an impacted device can trigger the flaw using a specially crafted frame.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nine Flaws in CyberPower and Dataprobe Solutions Expose Data Centers to Hacking<a href="https://securityaffairs.com/149478/security/cyberpower-dcim-pdu-flaws.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Trellix Advanced Research Center discovered multiple vulnerabilities impacting CyberPower’s PowerPanel Enterprise Data Center Infrastructure Management (DCIM) platform and Dataprobe’s iBoot Power Distribution Unit (PDU).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Xurum Attacks on E-commerce Sites Exploiting Critical Magento 2 Vulnerability<a href="https://thehackernews.com/2023/08/ongoing-xurum-attacks-on-e-commerce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+E-commerce sites using Adobe's Magento 2 software are the target of an ongoing campaign that has been active since at least January 2023. The attacks, dubbed&nbsp; Xurum &nbsp;by Akamai, leverage a now-patched critical security flaw ( CVE-2022-24086 , CVSS score: 9.8) in Adobe Commerce and Magento Open Source that, if successfully exploited, could lead to arbitrary code execution. "The attacker seems to be interested in payment stats from the orders in the victim's Magento store placed in the past 10 days," Akamai researchers&nbsp; said &nbsp;in an analysis published last week, attributing the campaign to actors of Russian origin. Some of the websites have also been observed to be infected with simple JavaScript-based skimmers that's designed to collect credit card information and transmit it to a remote server. The exact scale of the campaign remains unclear. In the attack chains observed by the company, CVE-2022-24086 is weaponized for initial access, subsequently exploiting
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iagona ScrutisWeb Vulnerabilities Could Expose ATMs to Remote Hacking<a href="https://www.securityweek.com/iagona-scrutisweb-vulnerabilities-could-expose-atms-to-remote-hacking/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several vulnerabilities in the ScrutisWeb ATM could be exploited to remotely hack ATMs. The security holes were discovered by Synack Red Team members and they were patched by the vendor in July 2023 with the release of ScrutisWeb version 2.1.38.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts found multiple flaws in AudioCodes desk phones and Zoom’s Zero Touch Provisioning (ZTP)<a href="https://securityaffairs.com/149487/hacking/zooms-zero-touch-provisioning-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple flaws in AudioCodes desk phones and Zoom's Zero Touch Provisioning (ZTP) can expose to several attacks.
+Researchers from security firm SySS discovered multiple vulnerabilities in AudioCodes desk phones and Zoom's Zero Touch Provisioning (ZTP)...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nine flaws in CyberPower and Dataprobe solutions expose data centers to hacking<a href="https://securityaffairs.com/149478/security/cyberpower-dcim-pdu-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple vulnerabilities in CyberPower PowerPanel Enterprise DCIM platform and Dataprobe PDU could expose data centers to hacking.
+Researchers from Trellix Advanced Research Center discovered multiple vulnerabilities impacting CyberPower's PowerPanel...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

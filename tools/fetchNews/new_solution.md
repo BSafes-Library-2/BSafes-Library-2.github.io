@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guide: How Google Workspace-based Organizations can leverage Chrome to improve Security<a href="https://thehackernews.com/2023/08/guide-how-google-workspace-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More and more organizations are choosing Google Workspace as their default employee toolset of choice. But despite the productivity advantages, this organizational action also incurs a new security debt. Security teams now have to find a way to adjust their security architecture to this new cloud workload. Some teams may rely on their existing network security solutions. According to a&nbsp; new guide , this is a hit and a miss. Network solutions, the guide claims, just don't cover all SaaS and browsing requirements. Meanwhile, Google offers a wide range of native security functionalities built-in to Chrome. These functionalities enable the organization to leverage the browser for consolidating security, simplifying operations and reducing costs. If you're wary about trusting Chrome with your security, then the guide is recommended to read. In great detail, it explains which security features Chrome offers users. These include: Forcing users to sign into Chrome, to ensure the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

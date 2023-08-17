@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Catching the Catphish: Join the Expert Webinar on Combating Credential Phishing<a href="https://thehackernews.com/2023/08/catching-catphish-join-expert-webinar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Is your organization constantly under threat from credential phishing? Even with comprehensive security awareness training, many employees still fall victim to credential phishing scams. The result? Cybercriminals gaining immediate and unhindered access to sensitive data, email accounts, and other applications. But what if you could outsmart these criminals and protect your organization? Join&nbsp; Graham Cluley , renowned cybersecurity expert and host of the Smashing Security podcast, and&nbsp; Mike Britton , CISO at Abnormal Security, for an illuminating webinar that delves into the world of credential phishing and offers actionable insights. What Will You Learn? Understanding the Lure: &nbsp;How attackers manipulate victims into submitting credentials, employing tactics such as generative AI. Why Victims Fall for the Trap: &nbsp;A detailed look at why security awareness training may not always succeed in preventing employees from taking the bait. Effective Strategies to Combat Threats: &nbsp;Compre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
