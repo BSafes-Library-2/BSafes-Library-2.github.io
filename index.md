@@ -34,6 +34,363 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy LABRAT Operation Runs Cryptojacking and Proxyjacking Campaign Targeting GitLab<a href="https://sysdig.com/blog/labrat-cryptojacking-proxyjacking-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Sysdig Threat Research Team (TRT) recently discovered a new, financially motivated operation, dubbed LABRAT. This operation set itself apart from others due to the attacker’s emphasis on stealth and defense evasion in their attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NoFilter Attack: Sneaky Privilege Escalation Method Bypasses Windows Security<a href="https://thehackernews.com/2023/08/nofilter-attack-sneaky-privilege.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undetected attack method called  NoFilter  has been found to abuse the Windows Filtering Platform ( WFP ) to achieve privilege escalation in the Windows operating system. "If an attacker has the ability to execute code with admin privilege and the target is to perform  LSASS Shtinkering , these privileges are not enough," Ron Ben Yizhak, a security researcher at Deep Instinct, told The Hacker News. "Running as "NT AUTHORITY\SYSTEM" is required. The techniques described in this research can escalate from admin to SYSTEM." The  findings  were presented at the DEF CON security conference over the weekend. The starting point of the  research  is an in-house tool called RPC Mapper the cybersecurity company used to map remote procedure call ( RPC ) methods, specifically those that invoke  WinAPI , leading to the discovery of a method named "BfeRpcOpenToken," which is part of WFP. WFP is a  set of API and system services  that's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT29 is targeting Ministries of Foreign Affairs of NATO-aligned countries<a href="https://securityaffairs.com/149620/apt/apt29-used-zulip-chat-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT29 used the Zulip Chat App in attacks aimed at ministries of foreign affairs of NATO-aligned countries
+EclecticIQ researchers uncovered an ongoing spear-phishing campaign conducted by Russia-linked threat actors targeting Ministries...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NYC Finance Department Sent Every Employee Their Colleagues’ Personal Info<a href="https://www.thecity.nyc/2023/8/16/23835283/department-finance-personal-info?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The New York City’s tax collection agency accidentally shared the home addresses, cell phone numbers, and personal email addresses of more than 1,700 workers with all those employees.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Bronze Starlight Group Targeting Gambling Sector with Cobalt Strike Beacons<a href="https://thehackernews.com/2023/08/china-linked-bronze-starlight-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing cyber attack campaign originating from China is targeting the Southeast Asian gambling sector to deploy Cobalt Strike beacons on compromised systems.  Cybersecurity firm SentinelOne said the tactics, techniques, and procedures point to the involvement of a threat actor tracked as  Bronze Starlight  (aka Emperor Dragonfly or Storm-0401), which has been linked to the use of  short-lived   ransomware families  as a smokescreen to conceal its espionage motives. "The threat actors abuse Adobe Creative Cloud, Microsoft Edge, and McAfee VirusScan executables vulnerable to DLL hijacking to deploy Cobalt Strike beacons," security researchers Aleksandar Milenkoski and Tom Hegel  said  in an analysis published today. It also bears noting that the campaign exhibits overlaps with an intrusion set monitored by ESET under the name  Operation ChattyGoblin . This activity, in turn, shares commonalities with a  supply chain attack  that came to light last year leveraging a troja
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A massive campaign delivered a proxy server application to 400,000 Windows systems<a href="https://securityaffairs.com/149592/cyber-crime/rise-proxy-server-application.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a massive campaign that delivered a proxy server application to at least 400,000 Windows systems.
+AT&T Alien Labs researchers uncovered a massive campaign that delivered a proxy server application to at least 400,000 Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play Ransomware Found Using Security MSPs and N-Day Exploits to Attack<a href="https://www.bankinfosecurity.com/play-ransomware-using-msps-n-days-to-attack-a-22836?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware group is targeting managed security service providers (MSSPs) to gain initial access and use up to a half-decade-old vulnerabilities in security appliances, warn security researchers with Adlumin.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Apple iOS 16 Exploit Enables Stealthy Cellular Access Under Fake Airplane Mode<a href="https://thehackernews.com/2023/08/new-apple-ios-16-exploit-enables.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have documented a novel post-exploit persistence technique on iOS 16 that could be abused to fly under the radar and main access to an Apple device even when the victim believes it is offline. The method "tricks the victim into thinking their device's Airplane Mode works when in reality the attacker (following successful device exploit) has planted an artificial Airplane Mode which edits the UI to display Airplane Mode icon and cuts internet connection to all apps except the attacker application," Jamf Threat Labs researchers Hu Ke and Nir Avraham said in a report shared with The Hacker News. Airplane Mode , as the name implies, allows users to turn off wireless features in their devices, effectively preventing them from connecting to Wi-Fi networks, cellular data, and Bluetooth as well as sending or receiving calls and text messages. The approach devised by Jamf, in a nutshell, provides an illusion to the user that the Airplane Mode is on
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alarming lack of cybersecurity practices on world’s most popular websites<a href="https://securityaffairs.com/149607/security/alarming-lack-cybersecurity-popular-websites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The world’s most popular websites lack basic cybersecurity hygiene, an investigation by Cybernews shows.
+Do you happen to love exploring DIY ideas on Pinterest? Scrolling through IMDB to pick the next movie to watch? Or simply scrolling through...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are Increasingly Hiding Within Services Such as Slack and Trello to Deploy Malware<a href="https://cyberscoop.com/hackers-hiding-cloud-services-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of more than 400 malware families deployed over the past two years found that at least a quarter of them abused legitimate internet services in some way as part of their infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LABRAT Campaign Exploits GitLab Flaw for Cryptojacking and Proxyjacking Activities<a href="https://thehackernews.com/2023/08/new-labrat-campaign-exploits-gitlab.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new, financially motivated operation dubbed  LABRAT  has been observed weaponizing a now-patched critical flaw in GitLab as part of a cryptojacking and proxyjacking campaign. "The attacker utilized undetected signature-based tools, sophisticated and stealthy cross-platform malware, command-and-control (C2) tools which bypassed firewalls, and kernel-based rootkits to hide their presence," Sysdig  said  in a report shared with The Hacker News. "Furthermore, the attacker abused a legitimate service,  TryCloudflare , to obfuscate their C2 network." Proxyjacking  allows the attacker to rent the compromised host out to a proxy network, making it possible to monetize the unused bandwidth. Cryptojacking, on the other hand, refers to the abuse of the system resources to mine cryptocurrency. A notable aspect of the campaign is the use of compiled binaries written in Go and .NET to fly under the radar, with LABRAT also providing backdoor access to the infected systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts devise an exploit for Apple iOS 16 that relies on fake Airplane Mode<a href="https://securityaffairs.com/149597/mobile-2/airplane-mode-apple-ios-16-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers detailed a new exploit for Apple iOS 16 that can allow attackers to gain access to a device even when the victim believes it is in Airplane Mode.
+Jamf Threat Labs researchers developed a post-exploit persistence technique on iOS 16 that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Plan to Better Protect US Hospitals From Ransomware<a href="https://www.wired.com/story/hospital-ransomware-hhs-digiheals/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HHS' Advanced Research Projects Agency for Health (Arpa-H) launched an initiative to find and help fund the development of cybersecurity technologies that can specifically improve defenses for digital infrastructure in US health care.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why You Need Continuous Network Monitoring?<a href="https://thehackernews.com/2023/08/why-you-need-continuous-network.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Changes in the way we work have had significant implications for cybersecurity, not least in network monitoring. Workers no longer sit safely side-by-side on a corporate network, dev teams constantly spin up and tear down systems, exposing services to the internet. Keeping track of these users, changes and services is difficult – internet-facing attack surfaces rarely stay the same for long. But a secure working network is the backbone of every modern business, and with so many different attack vectors and entry points, relying on firewalls and point-in-time scanning is no longer enough. You need to understand how your firewalls are being changed in real-time, with real-world validation of how they're configured. You need continuous network monitoring. What needs protecting in your network? There is so much sprawl in today's corporate networks with remote working, cloud computing and third-party integrations, that it's no longer just the devices or systems that you have in your off
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cleaning Products manufacturer Clorox Company took some systems offline after a cyberattack<a href="https://securityaffairs.com/149585/cyber-crime/clorox-company-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cleaning products manufacturer Clorox Company announced that it has taken some systems offline in response to a cyberattack.
+The Clorox Company is a multinational consumer goods company that specializes in the production and marketing of various household...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Selling SMS Bomber Attack Tools on Underground Forums<a href="https://socradar.io/sms-bomber-how-dangerous-can-a-text-be/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The underground market for SMS Bomber services is thriving, with various platforms offering attack services for a fee, highlighting the need for increased security measures in registration pages and APIs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Use Zulip Chat App for Covert C&C in Diplomatic Phishing Attacks<a href="https://thehackernews.com/2023/08/russian-hackers-use-zulip-chat-app-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing campaign targeting ministries of foreign affairs of NATO-aligned countries points to the involvement of Russian threat actors. The phishing attacks feature PDF documents with diplomatic lures, some of which are disguised as coming from Germany, to deliver a variant of a malware called  Duke , which has been attributed to  APT29  (aka BlueBravo, Cloaked Ursa, Cozy Bear, Iron Hemlock, Midnight Blizzard, and The Dukes). "The threat actor used Zulip – an open-source chat application – for command-and-control, to evade and hide its activities behind legitimate web traffic," Dutch cybersecurity company EclecticIQ  said  in an analysis last week. The infection sequence is as follows: The PDF attachment, named "Farewell to Ambassador of Germany," comes embedded with JavaScript code that initiates a multi-stage process to leave a persistent backdoor on compromised networks. APT29's use of invitation themes has been previously reported by Lab52, which  doc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Publishes Plan For Remote Monitoring Tools After Nation-State, Ransomware Exploitation<a href="https://therecord.media/cisa-jcdc-remote-monitoring-management-plan?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an announcement Wednesday, CISA said it worked with industry partners as part of the Joint Cyber Defense Collaborative (JCDC) to create a “clear roadmap to advance security and resilience of the RMM ecosystem.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Citrix ShareFile Flaw to KEV Catalog Due to In-the-Wild Attacks<a href="https://thehackernews.com/2023/08/cisa-adds-citrix-sharefile-flaw-to-kev.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical security flaw in Citrix ShareFile storage zones controller to its Known Exploited Vulnerabilities ( KEV ) catalog, based on evidence of active in-the-wild exploitation. Tracked as  CVE-2023-24489  (CVSS score: 9.8), the shortcoming has been described as an improper access control bug that, if successfully exploited, could allow an unauthenticated attacker to compromise vulnerable instances remotely. The problem is rooted in ShareFile's handling of cryptographic operations, enabling adversaries to upload arbitrary files, resulting in remote code execution. "This vulnerability affects all currently supported versions of customer-managed ShareFile storage zones controller before version 5.11.24," Citrix  said  in an advisory released in June. Dylan Pindur of Assetnote has been credited with discovering and reporting the issue. It's worth noting that the  first signs of exploitatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large-Scale Campaign Delivers Proxy Server App to Make Systems Serve as Residential Exit Nodes<a href="https://cybersecurity.att.com/blogs/labs-research/proxynation-the-dark-nexus-between-proxy-apps-and-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The proxy application is silently installed by malware on infected systems without user knowledge or interaction, and it goes undetected by anti-virus software as it is signed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertisers up Their Game Against Researchers<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/08/malvertisers-up-the-game-against-researchers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using advanced cloaking techniques in malvertising campaigns to remain undetected and drop malware, making it more challenging for defenders to identify and report these incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Hijacking Campaign Targets LinkedIn Accounts<a href="https://cyware.com/news/ongoing-hijacking-campaign-targets-linkedin-accounts-37354d62"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several LinkedIn users have reported difficulties in recovering their hacked or locked-out accounts through LinkedIn support. Some claimed to have faced ransom demands or account deletion threats. In the past few months, according to Google Trends, there’s been a 5000% increase in searches related  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
