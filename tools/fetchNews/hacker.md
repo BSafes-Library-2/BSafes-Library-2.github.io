@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Suspected in New Wave of Malicious npm Packages<a href="https://thehackernews.com/2023/08/north-korean-hackers-suspected-in-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The npm package registry has emerged as the target of yet another highly targeted attack campaign that aims to entice developers into downloading malevolent modules. Software supply chain security firm Phylum told The Hacker News the activity exhibits similar behaviors to that of a previous attack wave&nbsp; uncovered in June , which has since been&nbsp; linked to North Korean threat actors . As many as nine packages have been identified as uploaded to npm between August 9 and 12, 2023. This includes: ws-paso-jssdk, pingan-vue-floating, srm-front-util, cloud-room-video, progress-player, ynf-core-loader, ynf-core-renderer, ynf-dx-scripts, and ynf-dx-webpack-plugins. "Due to the sophisticated nature of the attack and the small number of affected packages, we suspect this is another highly targeted attack, likely with a social engineering aspect involved in order to get targets to install these packages," the company&nbsp; said . The attack chain commences with the package.json file with
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,21 @@ nav_order: 900140
 
 ## Outage
 ---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cleaning Products manufacturer Clorox Company took some systems offline after a cyberattack<a href="https://securityaffairs.com/149585/cyber-crime/clorox-company-cyber-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cleaning products manufacturer Clorox Company announced that it has taken some systems offline in response to a cyberattack.
+The Clorox Company is a multinational consumer goods company that specializes in the production and marketing of various household...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

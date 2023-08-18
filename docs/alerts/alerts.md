@@ -7,6 +7,44 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2023 - ARPA-H 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden-Harris Administration’s ARPA-H initiative launches digital health security effort to address cybersecurity threats to U.S. healthcare <a href="https://arpa-h.gov/news/digiheals/"> Full Text</a>
+</p>
+<details>
+The ARPA-H project aims to ensure patients continue to receive care in the wake of a medical facility cyberattack
+
+Today, the Advanced Research Projects Agency for Health (ARPA-H), an agency within the U.S. Department of Health and Human Services (HHS), launched the Digital Health Security (DIGIHEALS) project to protect the U.S. healthcare system’s electronic infrastructure. Through a Broad Agency Announcement (BAA), the project will solicit proposals for proven technologies developed for national security and apply them to civilian health systems, clinical care facilities, and personal health devices.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+JCDC Remote Monitoring and Management Cyber Defense Plan <a href="https://www.cisa.gov/topics/partnerships-and-collaboration/joint-cyber-defense-collaborative/jcdc-remote-monitoring-and-management-cyber-defense-plan?utm_source=EA_Press&utm_medium=press_release&utm_campaign=2023_RMM_Cyber_Defense_Plan"> Full Text</a>
+</p>
+<details>
+Remote Monitoring and Management (RMM) is software that is installed on an endpoint to continuously monitor a machine or system’s health and status, as well as enabling remote unattended administration functions. As ransomware threat actors continue to use RMM tools in their attacks, exploitation of RMM platforms presents a growing risk to small and medium-sized organizations that support national critical functions. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds One Known Exploited Vulnerability to Catalog <a href="https://www.cisa.gov/news-events/alerts/2023/08/16/cisa-adds-one-known-exploited-vulnerability-catalog"> Full Text</a>
+</p>
+<details>
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+CVE-2023-24489 Citrix Content Collaboration ShareFile Improper Access Control Vulnerability
+These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Note: To view other newly added vulnerabilities in the catalog, click on the arrow in the "Date Added to Catalog" column—which will sort by descending dates.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 9, 2023 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

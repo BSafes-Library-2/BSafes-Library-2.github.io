@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Use Zulip Chat App for Covert C&amp;C in Diplomatic Phishing Attacks<a href="https://thehackernews.com/2023/08/russian-hackers-use-zulip-chat-app-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing campaign targeting ministries of foreign affairs of NATO-aligned countries points to the involvement of Russian threat actors. The phishing attacks feature PDF documents with diplomatic lures, some of which are disguised as coming from Germany, to deliver a variant of a malware called&nbsp; Duke , which has been attributed to&nbsp; APT29 &nbsp;(aka BlueBravo, Cloaked Ursa, Cozy Bear, Iron Hemlock, Midnight Blizzard, and The Dukes). "The threat actor used Zulip – an open-source chat application – for command-and-control, to evade and hide its activities behind legitimate web traffic," Dutch cybersecurity company EclecticIQ&nbsp; said &nbsp;in an analysis last week. The infection sequence is as follows: The PDF attachment, named "Farewell to Ambassador of Germany," comes embedded with JavaScript code that initiates a multi-stage process to leave a persistent backdoor on compromised networks. APT29's use of invitation themes has been previously reported by Lab52, which&nbsp; doc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertisers up Their Game Against Researchers<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/08/malvertisers-up-the-game-against-researchers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using advanced cloaking techniques in malvertising campaigns to remain undetected and drop malware, making it more challenging for defenders to identify and report these incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

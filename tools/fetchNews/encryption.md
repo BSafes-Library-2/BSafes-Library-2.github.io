@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Introduces First Quantum Resilient FIDO2 Security Key<a href="https://thehackernews.com/2023/08/google-introduces-first-quantum.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday announced the first quantum resilient FIDO2 security key implementation as part of its OpenSK security keys initiative. "This open-source hardware optimized implementation uses a novel ECC/Dilithium hybrid signature schema that benefits from the security of ECC against standard attacks and Dilithium's resilience against quantum attacks," Elie Bursztein and Fabian Kaczmarczyck&nbsp; said . OpenSK &nbsp;is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards. The development comes less than a week after the tech giant&nbsp; said &nbsp;it plans to add support for quantum-resistant encryption algorithms in Chrome 116 to set up symmetric keys in TLS connections. It's also part of broader efforts to switch to cryptographic algorithms that can withstand quantum attacks in the future, necessitating the need to incorporate such technologies early on to facilitate a gradual rollout. "Fortunately, with the rece
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

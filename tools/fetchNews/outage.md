@@ -8,6 +8,48 @@ nav_order: 900140
 
 ## Outage
 ---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack on Rapattoni Disrupts US Real Estate Property Listings<a href="https://www.bankinfosecurity.com/ransomware-hit-disrupts-real-estate-property-listings-in-us-a-22818?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Real estate agents' ability to list or update property information has been compromised by an attack on California-based data services company Rapattoni, which hosts multiple listing services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clorox Cleans up Security Breach That Disrupted Operations<a href="https://www.theregister.com/2023/08/15/clorox_cleans_up_security_breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The intrusion continues to disrupt "parts of the company's business operations," and it is "working diligently to respond to and address this issue, and is also coordinating with law enforcement," according to the Form 8-K submission.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prince George's County Public Schools Responds Suffers Network Outage Owing to Cyberattack<a href="https://therecord.media/prince-georges-county-schools-maryland-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+District leaders initially said they were working to address a “broad network outage” that knocked out email and other services. On Monday night, the district released a statement saying 4,500 of the system’s 180,000 accounts were “impacted.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

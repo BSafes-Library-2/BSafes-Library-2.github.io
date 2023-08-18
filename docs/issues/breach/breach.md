@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NYC Finance Department Sent Every Employee Their Colleagues’ Personal Info<a href="https://www.thecity.nyc/2023/8/16/23835283/department-finance-personal-info?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The New York City’s tax collection agency accidentally shared the home addresses, cell phone numbers, and personal email addresses of more than 1,700 workers with all those employees.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Hijacking Campaign Targets LinkedIn Accounts<a href="https://cyware.com/news/ongoing-hijacking-campaign-targets-linkedin-accounts-37354d62"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several LinkedIn users have reported difficulties in recovering their hacked or locked-out accounts through LinkedIn support. Some claimed to have faced ransom demands or account deletion threats. In the past few months, according to Google Trends, there’s been a 5000% increase in searches related  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

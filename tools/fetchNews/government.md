@@ -8,6 +8,35 @@ nav_order: 900075
 
 ## Government
 ---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds flaw in Citrix ShareFile&nbsp;to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/149578/hacking/citrix-sharefile-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added critical vulnerability CVE-2023-24489 in Citrix ShareFile to its Known Exploited Vulnerabilities catalog.
+US Cybersecurity and Infrastructure Security Agency (CISA) added critical flaw&nbsp;CVE-2023-24489&nbsp;(CVSS score 9.8) affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chamber of Commerce Urges SEC to Delay Cyber Rule Implementation<a href="https://www.cybersecuritydive.com/news/chamber-sec-delay-cyber-rule-implementation/690888/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Chamber of Commerce urged the Securities and Exchange Commission to delay by a year the effective date of new cybersecurity rules, saying the regulatory move could otherwise have “severe consequences” for companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

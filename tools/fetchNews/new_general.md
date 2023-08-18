@@ -8,6 +8,21 @@ nav_order: 900072
 
 ## General
 ---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alarming lack of cybersecurity practices on world’s most popular websites<a href="https://securityaffairs.com/149607/security/alarming-lack-cybersecurity-popular-websites.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The world’s most popular websites lack basic cybersecurity hygiene, an investigation by Cybernews shows.
+Do you happen to love exploring DIY ideas on Pinterest? Scrolling through IMDB to pick the next movie to watch? Or simply scrolling through...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

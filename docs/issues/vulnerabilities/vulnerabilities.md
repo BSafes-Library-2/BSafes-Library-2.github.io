@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NoFilter Attack: Sneaky Privilege Escalation Method Bypasses Windows Security<a href="https://thehackernews.com/2023/08/nofilter-attack-sneaky-privilege.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undetected attack method called&nbsp; NoFilter &nbsp;has been found to abuse the Windows Filtering Platform ( WFP ) to achieve privilege escalation in the Windows operating system. "If an attacker has the ability to execute code with admin privilege and the target is to perform&nbsp; LSASS Shtinkering , these privileges are not enough," Ron Ben Yizhak, a security researcher at Deep Instinct, told The Hacker News. "Running as "NT AUTHORITY\SYSTEM" is required. The techniques described in this research can escalate from admin to SYSTEM." The&nbsp; findings &nbsp;were presented at the DEF CON security conference over the weekend. The starting point of the&nbsp; research &nbsp;is an in-house tool called RPC Mapper the cybersecurity company used to map remote procedure call ( RPC ) methods, specifically those that invoke&nbsp; WinAPI , leading to the discovery of a method named "BfeRpcOpenToken," which is part of WFP. WFP is a&nbsp; set of API and system services &nbsp;that's
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Apple iOS 16 Exploit Enables Stealthy Cellular Access Under Fake Airplane Mode<a href="https://thehackernews.com/2023/08/new-apple-ios-16-exploit-enables.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have documented a novel post-exploit persistence technique on iOS 16 that could be abused to fly under the radar and main access to an Apple device even when the victim believes it is offline. The method "tricks the victim into thinking their device's Airplane Mode works when in reality the attacker (following successful device exploit) has planted an artificial Airplane Mode which edits the UI to display Airplane Mode icon and cuts internet connection to all apps except the attacker application," Jamf Threat Labs researchers Hu Ke and Nir Avraham said in a report shared with The Hacker News. Airplane Mode , as the name implies, allows users to turn off wireless features in their devices, effectively preventing them from connecting to Wi-Fi networks, cellular data, and Bluetooth as well as sending or receiving calls and text messages. The approach devised by Jamf, in a nutshell, provides an illusion to the user that the Airplane Mode is on
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts devise an exploit for Apple iOS 16 that relies on fake Airplane Mode<a href="https://securityaffairs.com/149597/mobile-2/airplane-mode-apple-ios-16-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers detailed a new exploit for Apple iOS 16 that can allow attackers to gain access to a device even when the victim believes it is in Airplane Mode.
+Jamf Threat Labs researchers developed a post-exploit persistence technique on iOS 16 that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

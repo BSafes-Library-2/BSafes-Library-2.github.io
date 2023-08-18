@@ -8,6 +8,63 @@ nav_order: 900015
 
 ## Attack
 ---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy LABRAT Operation Runs Cryptojacking and Proxyjacking Campaign Targeting GitLab<a href="https://sysdig.com/blog/labrat-cryptojacking-proxyjacking-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Sysdig Threat Research Team (TRT) recently discovered a new, financially motivated operation, dubbed LABRAT. This operation set itself apart from others due to the attacker’s emphasis on stealth and defense evasion in their attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Bronze Starlight Group Targeting Gambling Sector with Cobalt Strike Beacons<a href="https://thehackernews.com/2023/08/china-linked-bronze-starlight-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing cyber attack campaign originating from China is targeting the Southeast Asian gambling sector to deploy Cobalt Strike beacons on compromised systems.&nbsp; Cybersecurity firm SentinelOne said the tactics, techniques, and procedures point to the involvement of a threat actor tracked as&nbsp; Bronze Starlight &nbsp;(aka Emperor Dragonfly or Storm-0401), which has been linked to the use of&nbsp; short-lived &nbsp; ransomware families &nbsp;as a smokescreen to conceal its espionage motives. "The threat actors abuse Adobe Creative Cloud, Microsoft Edge, and McAfee VirusScan executables vulnerable to DLL hijacking to deploy Cobalt Strike beacons," security researchers Aleksandar Milenkoski and Tom Hegel&nbsp; said &nbsp;in an analysis published today. It also bears noting that the campaign exhibits overlaps with an intrusion set monitored by ESET under the name&nbsp; Operation ChattyGoblin . This activity, in turn, shares commonalities with a&nbsp; supply chain attack &nbsp;that came to light last year leveraging a troja
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A massive campaign delivered a proxy server application to 400,000 Windows systems<a href="https://securityaffairs.com/149592/cyber-crime/rise-proxy-server-application.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a massive campaign that delivered a proxy server application to at least 400,000 Windows systems.
+AT&amp;T Alien Labs researchers uncovered a massive campaign that delivered a proxy server application to at least 400,000 Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LABRAT Campaign Exploits GitLab Flaw for Cryptojacking and Proxyjacking Activities<a href="https://thehackernews.com/2023/08/new-labrat-campaign-exploits-gitlab.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new, financially motivated operation dubbed&nbsp; LABRAT &nbsp;has been observed weaponizing a now-patched critical flaw in GitLab as part of a cryptojacking and proxyjacking campaign. "The attacker utilized undetected signature-based tools, sophisticated and stealthy cross-platform malware, command-and-control (C2) tools which bypassed firewalls, and kernel-based rootkits to hide their presence," Sysdig&nbsp; said &nbsp;in a report shared with The Hacker News. "Furthermore, the attacker abused a legitimate service,&nbsp; TryCloudflare , to obfuscate their C2 network." Proxyjacking &nbsp;allows the attacker to rent the compromised host out to a proxy network, making it possible to monetize the unused bandwidth. Cryptojacking, on the other hand, refers to the abuse of the system resources to mine cryptocurrency. A notable aspect of the campaign is the use of compiled binaries written in Go and .NET to fly under the radar, with LABRAT also providing backdoor access to the infected systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

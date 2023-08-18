@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Plan to Better Protect US Hospitals From Ransomware<a href="https://www.wired.com/story/hospital-ransomware-hhs-digiheals/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HHS' Advanced Research Projects Agency for Health (Arpa-H) launched an initiative to find and help fund the development of cybersecurity technologies that can specifically improve defenses for digital infrastructure in US health care.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Publishes Plan For Remote Monitoring Tools After Nation-State, Ransomware Exploitation<a href="https://therecord.media/cisa-jcdc-remote-monitoring-management-plan?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an announcement Wednesday, CISA said it worked with industry partners as part of the Joint Cyber Defense Collaborative (JCDC) to create a “clear roadmap to advance security and resilience of the RMM ecosystem.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Citrix ShareFile Flaw to KEV Catalog Due to In-the-Wild Attacks<a href="https://thehackernews.com/2023/08/cisa-adds-citrix-sharefile-flaw-to-kev.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a critical security flaw in Citrix ShareFile storage zones controller to its Known Exploited Vulnerabilities ( KEV ) catalog, based on evidence of active in-the-wild exploitation. Tracked as&nbsp; CVE-2023-24489 &nbsp;(CVSS score: 9.8), the shortcoming has been described as an improper access control bug that, if successfully exploited, could allow an unauthenticated attacker to compromise vulnerable instances remotely. The problem is rooted in ShareFile's handling of cryptographic operations, enabling adversaries to upload arbitrary files, resulting in remote code execution. "This vulnerability affects all currently supported versions of customer-managed ShareFile storage zones controller before version 5.11.24," Citrix&nbsp; said &nbsp;in an advisory released in June. Dylan Pindur of Assetnote has been credited with discovering and reporting the issue. It's worth noting that the&nbsp; first signs of exploitatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
