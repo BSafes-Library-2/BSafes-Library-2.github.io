@@ -34,6 +34,236 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean Kimsuky APT targets S. Korea-US military exercises<a href="https://securityaffairs.com/149698/apt/kimsuky-war-simulation-centre.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT Kimsuky launched a spear-phishing campaign targeting US contractors working at the war simulation centre.
+North Korea-linked APT group Kimsuky carried out a spear-phishing campaign against US contractors involved in a joint...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four Juniper Junos OS flaws can be chained to remotely hack devices<a href="https://securityaffairs.com/149693/security/juniper-networks-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Juniper Networks addressed multiple flaws in the J-Web component of Junos OS that could be chained to achieve remote code execution.
+Juniper Networks has released an "out-of-cycle" security update to address four vulnerabilities in the J-Web component...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Affairs newsletter Round 433 by Pierluigi Paganini – International edition<a href="https://securityaffairs.com/149686/breaking-news/security-affairs-newsletter-round-433-by-pierluigi-paganini-international-edition.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box.
+Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press.
+Over...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity: CASB vs SASE<a href="https://securityaffairs.com/149688/security/cybersecurity-casb-vs-sase.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Understanding cybersecurity aspects addressed by Cloud Access Security Broker (CASB) and Secure Access Service Edge (SASE)
+In an increasingly digital world, where businesses rely on cloud services and remote access, cybersecurity has become paramount....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany’s National Bar Association Investigating Ransomware Attack<a href="https://therecord.media/german-national-bar-association-investigating-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German Federal Bar (BRAK) Association discovered the attack on August 2. The group is an umbrella organization overseeing 28 regional bars across Germany and representing about 166,000 lawyers nationally and internationally.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WoofLocker Toolkit Hides Malicious Codes in Images to Run Tech Support Scams<a href="https://thehackernews.com/2023/08/wooflocker-toolkit-hides-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed an updated version of an advanced fingerprinting and redirection toolkit called  WoofLocker  that's engineered to conduct tech support scams. The sophisticated traffic redirection scheme was  first documented  by Malwarebytes in January 2020, leveraging JavaScript embedded in compromised websites to perform anti-bot and web traffic filtering checks to serve next-stage JavaScript that redirects users to a browser locker (aka browlock). This redirection mechanism, in turn, makes use of steganographic tricks to conceal the JavaScript code within a PNG image that's served only when the validation phase is successful. Should a user be detected as a bot or not interesting traffic, a decoy PNG file without the malicious code is used. WoofLocker is also known as 404Browlock due to the fact that visiting the browlock URL directly without the appropriate redirection or one-time session token results in a 404 error page. The cybersecurity firm&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware Deploys New Tools to Target U.S. Critical Infrastructure Sector and IT Integrator in Latin America<a href="https://blogs.blackberry.com/en/2023/08/cuba-ransomware-deploys-new-tools-targets-critical-infrastructure-sector-in-the-usa-and-it-integrator-in-latin-america?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group's toolkit includes custom and off-the-shelf parts, such as the BUGHATCH downloader and the Metasploit framework. The attacks often start with the compromise of valid credentials through a credentials reuse scheme or vulnerability exploits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Juniper Junos OS Flaws Expose Devices to Remote Attacks - Patch Now<a href="https://thehackernews.com/2023/08/new-juniper-junos-os-flaws-expose.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking hardware company Juniper Networks has released an "out-of-cycle" security update to address multiple flaws in the J-Web component of Junos OS that could be combined to achieve remote code execution on susceptible installations. The four vulnerabilities have a cumulative CVSS rating of 9.8, making them Critical in severity. They affect all versions of Junos OS on SRX and EX Series. "By chaining exploitation of these vulnerabilities, an unauthenticated, network-based attacker may be able to remotely execute code on the devices," the company  said  in an advisory released on August 17, 2023. The J-Web interface allows users to configure, manage, and monitor Junos OS devices. A brief description of the flaws is as follows - CVE-2023-36844  and  CVE-2023-36845  (CVSS scores: 5.3) - Two PHP external variable modification vulnerabilities in J-Web of Juniper Networks Junos OS on EX Series and SRX Series allows an unauthenticated, network-based attacker to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Illinois Hospital Notifies Patients, Employees of Data Breach After Royal Gang Posting<a href="https://therecord.media/illinois-hospital-notifies-patients-employees-of-cyber-incident?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In late May, reports said the Royal ransomware gang had posted data from the organization on its leak site. As of May 23, the hospital had said it was still investigating the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Android Malware Apps Using Stealthy APK Compression to Evade Detection<a href="https://thehackernews.com/2023/08/thousands-of-android-malware-apps-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using Android Package (APK) files with unknown or unsupported compression methods to elude malware analysis. That's according to findings from Zimperium, which found 3,300 artifacts leveraging such compression algorithms in the wild. 71 of the identified samples can be loaded on the operating system without any problems. There is no evidence that the apps were available on the Google Play Store at any point in time, indicating that the apps were distributed through other means, typically via untrusted app stores or social engineering to trick the victims into sideloading them. The APK files use "a technique that limits the possibility of decompiling the application for a large number of tools, reducing the possibilities of being analyzed," security researcher Fernando Ortega  said . "In order to do that, the APK (which is in essence a ZIP file), is using an unsupported decompression method." The advantage of such an approach is its abilit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Companies Respond to ‘Downfall’ Intel CPU Vulnerability<a href="https://www.securityweek.com/companies-respond-to-downfall-intel-cpu-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AWS said its customers’ data and cloud instances are not affected by Downfall and no action is required. The cloud giant did note that it has “designed and implemented its infrastructure with protections against this class of issues”.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gang Threatens Raleigh Housing Authority Months After Devastating Attack<a href="https://therecord.media/raleigh-housing-authority-black-basta-ransomware-group?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware gang has started posting sensitive personal information connected to a devastating attack on the Raleigh Housing Authority (RHA) that disrupted the organization for weeks in May.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 3,000 Android Malware spotted using unsupported/unknown compression methods to avoid detection<a href="https://securityaffairs.com/149678/malware/android-malware-using-unsupported-unknown-compression.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using Android Package (APK) files with unsupported compression methods to prevent malware analysis.
+On June 28th, researchers from Zimperium zLab researchers observed that Joe Sandbox announced the availability of an Android APK that...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Man Arrested in Northern Ireland Police Data Leak<a href="https://www.theregister.com/2023/08/17/man_arrested_in_ni_police/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unnamed man was questioned by detectives who were said to be "investigating criminality linked to last week's freedom of information data breach," but has now been released on bail to allow for further inquiries, the PSNI stated.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 18, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
