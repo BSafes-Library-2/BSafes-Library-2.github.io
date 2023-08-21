@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Vulnerability of Zero Trust: Lessons from the Storm 0558 Hack<a href="https://thehackernews.com/2023/08/the-vulnerability-of-zero-trust-lessons.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While IT security managers in companies and public administrations rely on the concept of Zero Trust, APTS (Advanced Persistent Threats) are putting its practical effectiveness to the test. Analysts, on the other hand, understand that Zero Trust can only be achieved with comprehensive insight into one's own network.&nbsp; Just recently, an attack believed to be perpetrated by the Chinese hacker group&nbsp; Storm-0558 &nbsp;targeted several government agencies. They used fake digital authentication tokens to access webmail accounts running on Microsoft's Outlook service. In this incident, the attackers stole a signing key from Microsoft, enabling them to issue functional access tokens for Outlook Web Access (OWA) and Outlook.com and to download emails and attachments. Due to a plausibility check error, the digital signature, which was only intended for private customer accounts (MSA), also worked in the Azure Active Directory for business customers.&nbsp; Embracing the Zero Trust Revolution Acc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Basics Aren’t So Basic — They’re Hard<a href="https://www.cybersecuritydive.com/news/security-basics-lacking/691171/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fundamental defenses — identity and access management, MFA, memory-safe languages, patching and vulnerability management — are lacking or nonexistent across the economy, according to cybersecurity experts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

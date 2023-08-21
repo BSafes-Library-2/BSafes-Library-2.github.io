@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers are Increasingly Hiding Within Services Such as Slack and Trello to Deploy Malware<a href="https://cyberscoop.com/hackers-hiding-cloud-services-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of more than 400 malware families deployed over the past two years found that at least a quarter of them abused legitimate internet services in some way as part of their infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

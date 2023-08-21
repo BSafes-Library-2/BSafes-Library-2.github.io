@@ -8,6 +8,35 @@ nav_order: 900195
 
 ## Solution
 ---
+August 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity: CASB vs SASE<a href="https://securityaffairs.com/149688/security/cybersecurity-casb-vs-sase.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Understanding cybersecurity aspects addressed by Cloud Access Security Broker (CASB) and Secure Access Service Edge (SASE)
+In an increasingly digital world, where businesses rely on cloud services and remote access, cybersecurity has become paramount....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome's New Feature Alerts Users About Auto-Removal of Malicious Extensions<a href="https://thehackernews.com/2023/08/google-chromes-new-feature-alerts-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced plans to add a new feature in the upcoming version of its Chrome web browser to alert users when an extension they have installed has been removed from the Chrome Web Store. The feature, set for release alongside Chrome 117, allows users to be notified when an add-on has been unpublished by a developer, taken down for violating Chrome Web Store policy, or marked as malware. The tech giant said it intends to highlight such extensions under a "Safety check" category in the "Privacy and security" section of the browser settings page. "When a user clicks 'Review,' they will be taken to their extensions and given the choice to either remove the extension or hide the warning if they wish to keep the extension installed," Oliver Dunk, a developer relations engineer for Chrome extensions,&nbsp; said . "As in previous versions of Chrome, extensions marked as malware are automatically disabled." The development comes as the c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

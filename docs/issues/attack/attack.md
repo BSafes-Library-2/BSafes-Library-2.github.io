@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+August 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany’s National Bar Association Investigating Ransomware Attack<a href="https://therecord.media/german-national-bar-association-investigating-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German Federal Bar (BRAK) Association discovered the attack on August 2. The group is an umbrella organization overseeing 28 regional bars across Germany and representing about 166,000 lawyers nationally and internationally.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wave of Attack Campaign Targeting Zimbra Email Users for Credential Theft<a href="https://thehackernews.com/2023/08/new-wave-of-attack-campaign-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new "mass-spreading" social engineering campaign is targeting users of the Zimbra Collaboration email server with an aim to collect their login credentials for use in follow-on operations. The activity, active since April 2023 and still ongoing, targets a wide range of small and medium businesses and governmental entities, most of which are located in Poland, Ecuador, Mexico, Italy, and Russia. It has not been attributed to any known threat actor or group. "Initially, the target receives an email with a phishing page in the attached HTML file," ESET researcher Viktor Šperka&nbsp; said &nbsp;in a report. "The email warns the target about an email server update, account deactivation, or similar issue and directs the user to click on the attached file." The messages also spoof the from address to appear as if they are coming from a Zimbra administrator in a likely attempt to convince the recipients into opening the attachment. The HTML file contains a Zimbra lo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cleveland City School District Suffers Ransomware Attack<a href="https://newschannel9.com/news/local/cleveland-city-schools-hit-by-ransomware-attack-tuesday-personal-data-not-affected?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cleveland City Schools say they are dealing with the aftermath of a ransomware attack Tuesday. They say less than 5% of faculty and staff devices were affected. A CCS spokesperson says their printers are down.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

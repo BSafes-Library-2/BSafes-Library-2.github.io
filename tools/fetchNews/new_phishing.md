@@ -8,6 +8,92 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloaked Malvertising: Unmasking Complex Fingerprinting and Evading Detection<a href="https://cyware.com/news/cloaked-malvertising-unmasking-complex-fingerprinting-and-evading-detection-2201648c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malwarebytes Labs identified a new trend in malvertising campaigns that use advanced cloaking techniques to evade detection. Threat actors are targeting the users of popular IT programs by creating malicious ads displayed on Google search results. To safeguard against ever-evolving malvertising tac ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Phishing Campaign Targets Zimbra Credentials<a href="https://cyware.com/news/ongoing-phishing-campaign-targets-zimbra-credentials-91ac29f0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET uncovered an ongoing phishing campaign targeting Zimbra Collaboration users, aiming to harvest their Zimbra account credentials. The phishing emails lure victims by posing as email server updates, account deactivations, or similar issues, and directing them to click on an attached HTML file. S ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Behind WoofLocker: Long-running Traffic Diversion Scheme<a href="https://cyware.com/news/behind-wooflocker-long-running-traffic-diversion-scheme-3efe7ca0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The long-standing WoofLocker tech support scam campaign, initiated in 2017, remains active with enhanced resilience as it employs a unique traffic redirection approach on compromised websites. Redirecting targeted users to a fake virus warning browser locker screen, WoofLocker has exhibited stabili ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive phishing campaign targets users of the Zimbra Collaboration email server<a href="https://securityaffairs.com/149649/cyber-crime/zimbra-collaboration-phishing-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive social engineering campaign is targeting users of the Zimbra Collaboration email server to steal their login credentials.
+ESET researchers uncovered a mass-spreading phishing campaign targeting users of the Zimbra Collaboration email server...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Catching up With Wooflocker, the Most Elaborate Traffic Redirection Scheme to Tech Support Scams<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/08/wooflocker2?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The WoofLocker tech support scam campaign, which was first discovered in 2020, is still active and has evolved to become more sophisticated. The campaign relies on compromised websites to distribute its malicious code, with a focus on adult websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A massive campaign delivered a proxy server application to 400,000 Windows systems<a href="https://securityaffairs.com/149592/cyber-crime/rise-proxy-server-application.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a massive campaign that delivered a proxy server application to at least 400,000 Windows systems.
+AT&amp;T Alien Labs researchers uncovered a massive campaign that delivered a proxy server application to at least 400,000 Windows...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

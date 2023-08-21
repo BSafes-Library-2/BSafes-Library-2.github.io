@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gang Threatens Raleigh Housing Authority Months After Devastating Attack<a href="https://therecord.media/raleigh-housing-authority-black-basta-ransomware-group?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware gang has started posting sensitive personal information connected to a devastating attack on the Raleigh Housing Authority (RHA) that disrupted the organization for weeks in May.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Man Arrested in Northern Ireland Police Data Leak<a href="https://www.theregister.com/2023/08/17/man_arrested_in_ni_police/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unnamed man was questioned by detectives who were said to be "investigating criminality linked to last week's freedom of information data breach," but has now been released on bail to allow for further inquiries, the PSNI stated.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+14 Suspected Cybercriminals Arrested Across Africa in Coordinated Crackdown<a href="https://thehackernews.com/2023/08/14-suspected-cybercriminals-arrested.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated law enforcement operation across 25 African countries has led to the arrest of 14 suspected cybercriminals, INTERPOL&nbsp; announced &nbsp;Friday. The exercise, conducted in partnership with AFRIPOL, enabled investigators to identify 20,674 cyber networks that were linked to financial losses of more than $40 million. "The four-month Africa Cyber Surge II operation was launched in April 2023 and focused on identifying cybercriminals and compromised infrastructure," the agency said. As part of the operation, three suspects were arrested in Cameroon in connection with an online scam involving the fraudulent sale of works of art worth $850,000. Another suspect was arrested in Nigeria for defrauding a Gambian victim. Also arrested were two money mules linked to scams initiated through messaging platforms. The cyber networks comprised 3,786 command-and-control (C2) servers, 14,134 victim IP addresses tied to data stealer infections, 1,415 phishing links and domains, 939
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

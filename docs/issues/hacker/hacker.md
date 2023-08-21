@@ -8,6 +8,49 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#OpFukushima: Anonymous group protests against the plan to dump Fukushima RADIOACTIVE wastewater into Pacific<a href="https://securityaffairs.com/149660/hacking/opfukushima-anonymous.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+#OpFukushima: The famous collective Anonymous has launched cyberattacks against Japan nuclear websites over Fukushima water plan.
+The hacker collective Anonymous has launched cyberattacks against nuclear power-linked groups in Japan as part of an operation...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Accused of Targeting Southeast Asian Gambling Sector<a href="https://therecord.media/chinese-hackers-target-southeast-asia-gambling-sector?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers based in China are targeting the gambling sector across Southeast Asia in a campaign that researchers say is closely related to data collection and surveillance operations identified earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Bronze Starlight Group Targeting Gambling Sector with Cobalt Strike Beacons<a href="https://thehackernews.com/2023/08/china-linked-bronze-starlight-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing cyber attack campaign originating from China is targeting the Southeast Asian gambling sector to deploy Cobalt Strike beacons on compromised systems.&nbsp; Cybersecurity firm SentinelOne said the tactics, techniques, and procedures point to the involvement of a threat actor tracked as&nbsp; Bronze Starlight &nbsp;(aka Emperor Dragonfly or Storm-0401), which has been linked to the use of&nbsp; short-lived &nbsp; ransomware families &nbsp;as a smokescreen to conceal its espionage motives. "The threat actors abuse Adobe Creative Cloud, Microsoft Edge, and McAfee VirusScan executables vulnerable to DLL hijacking to deploy Cobalt Strike beacons," security researchers Aleksandar Milenkoski and Tom Hegel&nbsp; said &nbsp;in an analysis published today. It also bears noting that the campaign exhibits overlaps with an intrusion set monitored by ESET under the name&nbsp; Operation ChattyGoblin . This activity, in turn, shares commonalities with a&nbsp; supply chain attack &nbsp;that came to light last year leveraging a troja
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

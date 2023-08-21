@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why You Need Continuous Network Monitoring?<a href="https://thehackernews.com/2023/08/why-you-need-continuous-network.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Changes in the way we work have had significant implications for cybersecurity, not least in network monitoring. Workers no longer sit safely side-by-side on a corporate network, dev teams constantly spin up and tear down systems, exposing services to the internet. Keeping track of these users, changes and services is difficult – internet-facing attack surfaces rarely stay the same for long. But a secure working network is the backbone of every modern business, and with so many different attack vectors and entry points, relying on firewalls and point-in-time scanning is no longer enough. You need to understand how your firewalls are being changed in real-time, with real-world validation of how they're configured. You need continuous network monitoring. What needs protecting in your network? There is so much sprawl in today's corporate networks with remote working, cloud computing and third-party integrations, that it's no longer just the devices or systems that you have in your off
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

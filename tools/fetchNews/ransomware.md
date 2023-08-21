@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play Ransomware Found Using Security MSPs and N-Day Exploits to Attack<a href="https://www.bankinfosecurity.com/play-ransomware-using-msps-n-days-to-attack-a-22836?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware group is targeting managed security service providers (MSSPs) to gain initial access and use up to a half-decade-old vulnerabilities in security appliances, warn security researchers with Adlumin.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

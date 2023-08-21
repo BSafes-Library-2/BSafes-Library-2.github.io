@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware Deploys New Tools to Target U.S. Critical Infrastructure Sector and IT Integrator in Latin America<a href="https://blogs.blackberry.com/en/2023/08/cuba-ransomware-deploys-new-tools-targets-critical-infrastructure-sector-in-the-usa-and-it-integrator-in-latin-america?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group's toolkit includes custom and off-the-shelf parts, such as the BUGHATCH downloader and the Metasploit framework. The attacks often start with the compromise of valid credentials through a credentials reuse scheme or vulnerability exploits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BlackCat Ransomware Variant Adopts Advanced Impacket and RemCom Tools<a href="https://thehackernews.com/2023/08/new-blackcat-ransomware-variant-adopts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday disclosed that it found a new version of the&nbsp; BlackCat &nbsp;ransomware (aka ALPHV and Noberus) that embeds tools like Impacket and RemCom to facilitate lateral movement and remote code execution. "The&nbsp; Impacket tool &nbsp;has credential dumping and remote service execution modules that could be used for broad deployment of the BlackCat ransomware in target environments," the company's threat intelligence team&nbsp; said &nbsp;in a series of posts on X (formerly Twitter). "This BlackCat version also has the&nbsp; RemCom hacktool &nbsp;embedded in the executable for remote code execution. The file also contains hardcoded compromised target credentials that actors use for lateral movement and further ransomware deployment." RemCom, billed as an open-source alternative to PsExec, has been put to use by Chinese and Iranian nation-state threat actors like&nbsp; Dalbit &nbsp;and&nbsp; Chafer &nbsp;(aka Remix Kitten) to move across the victim environments in the past. Redmond said it started
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

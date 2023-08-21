@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT29 is targeting Ministries of Foreign Affairs of NATO-aligned countries<a href="https://securityaffairs.com/149620/apt/apt29-used-zulip-chat-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-linked APT29 used the Zulip Chat App in attacks aimed at ministries of foreign affairs of NATO-aligned countries
+EclecticIQ researchers uncovered an ongoing spear-phishing campaign conducted by Russia-linked threat actors targeting Ministries...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

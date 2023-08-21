@@ -8,6 +8,36 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean Kimsuky APT targets S. Korea-US military exercises<a href="https://securityaffairs.com/149698/apt/kimsuky-war-simulation-centre.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked APT Kimsuky launched a spear-phishing campaign targeting US contractors working at the war simulation centre.
+North Korea-linked APT group Kimsuky carried out a spear-phishing campaign against US contractors involved in a joint...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bronze Starlight targets the Southeast Asian gambling sector<a href="https://securityaffairs.com/149634/apt/bronze-starlight-target-gambling-asia.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts warn of an ongoing campaign attributed to China-linked Bronze Starlight that is targeting the Southeast Asian gambling sector.
+SentinelOne observed China-linked APT group&nbsp;Bronze Starlight&nbsp;(aka APT10, Emperor Dragonfly or Storm-0401) targeting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

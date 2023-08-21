@@ -8,6 +8,78 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four Juniper Junos OS flaws can be chained to remotely hack devices<a href="https://securityaffairs.com/149693/security/juniper-networks-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Juniper Networks addressed multiple flaws in the J-Web component of Junos OS that could be chained to achieve remote code execution.
+Juniper Networks has released an "out-of-cycle" security update to address four vulnerabilities in the J-Web component...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Juniper Junos OS Flaws Expose Devices to Remote Attacks - Patch Now<a href="https://thehackernews.com/2023/08/new-juniper-junos-os-flaws-expose.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Networking hardware company Juniper Networks has released an "out-of-cycle" security update to address multiple flaws in the J-Web component of Junos OS that could be combined to achieve remote code execution on susceptible installations. The four vulnerabilities have a cumulative CVSS rating of 9.8, making them Critical in severity. They affect all versions of Junos OS on SRX and EX Series. "By chaining exploitation of these vulnerabilities, an unauthenticated, network-based attacker may be able to remotely execute code on the devices," the company&nbsp; said &nbsp;in an advisory released on August 17, 2023. The J-Web interface allows users to configure, manage, and monitor Junos OS devices. A brief description of the flaws is as follows - CVE-2023-36844 &nbsp;and&nbsp; CVE-2023-36845 &nbsp;(CVSS scores: 5.3) - Two PHP external variable modification vulnerabilities in J-Web of Juniper Networks Junos OS on EX Series and SRX Series allows an unauthenticated, network-based attacker to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Companies Respond to ‘Downfall’ Intel CPU Vulnerability<a href="https://www.securityweek.com/companies-respond-to-downfall-intel-cpu-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AWS said its customers’ data and cloud instances are not affected by Downfall and no action is required. The cloud giant did note that it has “designed and implemented its infrastructure with protections against this class of issues”.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WinRAR flaw enables remote code execution of arbitrary code<a href="https://securityaffairs.com/149670/hacking/winrar-rce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A flaw impacting the file archiver utility for Windows WinRAR can allow the execution of commands on a computer by opening an archive.
+WinRAR is a popular file compression and archival utility for Windows operating systems. The utility is affected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LABRAT Campaign Exploits GitLab Flaw for Cryptojacking and Proxyjacking Activities<a href="https://thehackernews.com/2023/08/new-labrat-campaign-exploits-gitlab.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new, financially motivated operation dubbed&nbsp; LABRAT &nbsp;has been observed weaponizing a now-patched critical flaw in GitLab as part of a cryptojacking and proxyjacking campaign. "The attacker utilized undetected signature-based tools, sophisticated and stealthy cross-platform malware, command-and-control (C2) tools which bypassed firewalls, and kernel-based rootkits to hide their presence," Sysdig&nbsp; said &nbsp;in a report shared with The Hacker News. "Furthermore, the attacker abused a legitimate service,&nbsp; TryCloudflare , to obfuscate their C2 network." Proxyjacking &nbsp;allows the attacker to rent the compromised host out to a proxy network, making it possible to monetize the unused bandwidth. Cryptojacking, on the other hand, refers to the abuse of the system resources to mine cryptocurrency. A notable aspect of the campaign is the use of compiled binaries written in Go and .NET to fly under the radar, with LABRAT also providing backdoor access to the infected systems.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

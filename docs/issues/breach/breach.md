@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Illinois Hospital Notifies Patients, Employees of Data Breach After Royal Gang Posting<a href="https://therecord.media/illinois-hospital-notifies-patients-employees-of-cyber-incident?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In late May, reports said the Royal ransomware gang had posted data from the organization on its leak site. As of May 23, the hospital had said it was still investigating the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
