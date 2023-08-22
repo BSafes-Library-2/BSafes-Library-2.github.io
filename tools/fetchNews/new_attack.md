@@ -8,6 +8,21 @@ nav_order: 900015
 
 ## Attack
 ---
+August 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New HiatusRAT campaign targets Taiwan and U.S.&nbsp;military&nbsp;procurement&nbsp;system<a href="https://securityaffairs.com/149723/intelligence/hiatusrat-campaign-taiwan-us.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HiatusRAT malware operators resurfaced with a new wave of attacks targeting Taiwan-based organizations and a U.S. military procurement system.
+In March 2023, Lumen Black Lotus Labs researchers uncovered a sophisticated campaign called “HiatusRAT”...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

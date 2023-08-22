@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Spoof an Apple Device and Trick Users Into Sharing Sensitive Data<a href="https://securityaffairs.com/149711/hacking/spoofing-apple-device.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The spoofed Apple device prompts users to connect their Apple ID or share a password with a nearby Apple TV, allowing threat actors to collect data such as phone numbers and Apple ID emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

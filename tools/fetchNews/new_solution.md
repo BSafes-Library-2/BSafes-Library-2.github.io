@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Investigate an OAuth Grant for Suspicious Activity or Overly Permissive Scopes<a href="https://thehackernews.com/2023/08/how-to-investigate-oauth-grant-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+From a user's perspective, OAuth works like magic. In just a few keystrokes, you can whisk through the account creation process and gain immediate access to whatever new app or integration you're seeking. Unfortunately, few users understand the implications of the permissions they allow when they create a new OAuth grant, making it easy for malicious actors to manipulate employees into giving away unintended access to corporate environments. In one of the&nbsp; highest-profile examples , Pawn Storm's attacks against the Democratic National Convention and others leveraged OAuth to target victims through social engineering.&nbsp; Security and IT teams would be wise to establish a practice of reviewing new and existing OAuth grants programmatically to catch risky activity or overly-permissive scopes. And, there are new solutions for&nbsp; SaaS security &nbsp;cropping up that can make this process easier. Let's take a look at some best practices for prioritizing and investigating your organization's grants
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

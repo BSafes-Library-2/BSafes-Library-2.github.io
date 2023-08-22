@@ -8,6 +8,21 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Africa Cyber Surge II law enforcement operation has led to the arrest of 14 suspects<a href="https://securityaffairs.com/149643/cyber-crime/africa-cyber-surge-ii-law-enforcement.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An international law enforcement operation across 25 African countries has led to the arrest of 14 cybercriminals.
+A coordinated law enforcement operation conducted by INTERPOL and AFRIPOL across 25 African countries has led to the arrest of 14 suspected...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

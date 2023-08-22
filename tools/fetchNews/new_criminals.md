@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Real Identity of CypherRAT and CraxsRAT Malware Developer<a href="https://www.securityweek.com/researchers-uncover-real-identity-of-cypherrat-and-craxsrat-malware-developer/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CraxsRAT builder, Cyfirma says, generates highly obfuscated packages, allowing threat actors to customize the contents based on the type of attack they are preparing, including with WebView page injections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia’s .AU Domain Administrator Denies Data Breach After Ransomware Posting<a href="https://therecord.media/australia-domain-name-admin-denies-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization that manages Australia’s internet domain .au denied that it was affected by a data breach on Friday after a ransomware gang added it to their list of victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

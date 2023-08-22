@@ -8,6 +8,35 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New WinRAR Vulnerability Could Allow Hackers to Take Control of Your PC<a href="https://thehackernews.com/2023/08/new-winrar-vulnerability-could-allow.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity security flaw has been disclosed in the WinRAR utility that could be potentially exploited by a threat actor to achieve remote code execution on Windows systems. Tracked as&nbsp; CVE-2023-40477 &nbsp;(CVSS score: 7.8), the vulnerability has been described as a case of improper validation while processing recovery volumes. "The issue results from the lack of proper validation of user-supplied data, which can result in a memory access past the end of an allocated buffer," the Zero Day Initiative (ZDI)&nbsp; said &nbsp;in an advisory. "An attacker can leverage this vulnerability to execute code in the context of the current process." Successful exploitation of the flaw requires user interaction in that the target must be lured into visiting a malicious page or by simply opening a booby-trapped archive file. A security researcher, who goes by the alias goodbyeselene, has been credited with discovering and reporting the flaw on June 8, 2023. The issue has been address
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spoofing an Apple device and tricking users into sharing sensitive data<a href="https://securityaffairs.com/149711/hacking/spoofing-apple-device.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+White hat hackers at the recent hacking conference Def Con demonstrated how to spoof an Apple device and trick users into sharing their sensitive data.
+At the recent Def Con hacking conference, white hat hackers demonstrated how to spoof an Apple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
