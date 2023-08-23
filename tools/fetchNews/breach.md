@@ -8,6 +8,36 @@ nav_order: 900029
 
 ## Breach
 ---
+August 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat ransomware group claims the hack of Seiko network<a href="https://securityaffairs.com/149734/cyber-crime/blackcat-alphv-ransomware-group-seiko.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat/ALPHV ransomware group claims to have hacked the Japanese maker of watches Seiko and added the company to its data leak site.
+On August 10, 2023, the Japanese maker of watches Seiko disclosed a data breach following a cyber attack.
+"Seiko...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tesla Discloses Data Breach Impacting 75,000 People's Personal Information<a href="https://www.securityweek.com/tesla-discloses-data-breach-related-to-whistleblower-leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A notification letter sent to impacted people reveals that the data breach is related to a couple of former employees sending confidential information to German media outlet Handelsblatt.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

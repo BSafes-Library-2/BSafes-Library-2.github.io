@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs Tout SaaS Cybersecurity Confidence, But 79% Admit to SaaS Incidents, New Report Finds<a href="https://thehackernews.com/2023/08/cisos-tout-saas-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A&nbsp; new State of SaaS Security Posture Management Report &nbsp;from SaaS cybersecurity provider&nbsp; AppOmni &nbsp;indicates that Cybersecurity, IT, and business leaders alike recognize SaaS cybersecurity as an increasingly important part of the cyber threat landscape. And at first glance, respondents appear generally optimistic about their SaaS cybersecurity. Over 600 IT, cybersecurity, and business leaders at companies between 500-2,500+ employees were surveyed and responded with confidence in their SaaS cybersecurity preparedness and capabilities. For example: When asked to rate the SaaS cybersecurity maturity level of their organizations, 71% noted that their organizations' SaaS cybersecurity maturity has achieved either a mid-high level (43%) or the highest level (28%). For the security levels of the SaaS applications authorized for use in their organization, sentiment was similarly high. Seventy-three percent rated SaaS application security as mid-high (41%) or the highest maturity level (
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

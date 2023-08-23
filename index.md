@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MOVEit Attack Spree Makes Clop This Summer’s Most-Prolific Ransomware Group<a href="https://www.cybersecuritydive.com/news/clop-one-third-ransomware-attacks/691433/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISOs Tout SaaS Cybersecurity Confidence, But 79% Admit to SaaS Incidents, New Report Finds<a href="https://thehackernews.com/2023/08/cisos-tout-saas-cybersecurity.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Defense contractor Belcan leaks admin password with a list of flaws<a href="https://securityaffairs.com/149779/data-breach/belcan-leaks-admin-password.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Android Malware Apps Use Stealthy APKs to Bypass Security<a href="https://cyware.com/news/thousands-of-android-malware-apps-use-stealthy-apks-to-bypass-security-e5ffd6ae"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Carderbee Attacks: Hong Kong Organizations Targeted via Malicious Software Updates<a href="https://thehackernews.com/2023/08/carderbee-attacks-hong-kong.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Akira ransomware gang spotted targeting Cisco VPN products to hack organizations<a href="https://securityaffairs.com/149770/malware/akira-ransomware-cisco-vpn.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EVLF DEV - Knowing the Creator of CypherRAT and CraxsRAT<a href="https://cyware.com/news/evlf-dev-knowing-the-creator-of-cypherrat-and-craxsrat-82edf546"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Variant of XLoader macOS Malware Disguised as 'OfficeNote' Productivity App<a href="https://thehackernews.com/2023/08/new-variant-of-xloader-macos-malware.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Snatch gang claims the hack of the Department of Defence South Africa<a href="https://securityaffairs.com/149760/cyber-crime/snatch-ransomware-department-of-defence-south-africa.html"> Full Text</a>
@@ -182,7 +182,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Data Breaches in Gadsden: Court System, EMS Report That Data May Have Been Stolen<a href="https://news.yahoo.com/data-breach-under-investigation-involving-151107667.html?&web_view=true"> Full Text</a>
@@ -198,7 +198,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ivanti Warns of Critical Zero-Day Flaw Being Actively Exploited in Sentry Software<a href="https://thehackernews.com/2023/08/ivanti-warns-of-critical-zero-day-flaw.html"> Full Text</a>
@@ -214,7 +214,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds critical Adobe ColdFusion flaw to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/149754/security/cisa-adds-critical-adobe-coldfusion-flaw-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -231,7 +231,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Snatch Gang Claims the Hack of South Africa's Department of Defense<a href="https://securityaffairs.com/149760/cyber-crime/snatch-ransomware-department-of-defence-south-africa.html?&web_view=true"> Full Text</a>
@@ -247,7 +247,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Adobe ColdFusion Flaw Added to CISA's Exploited Vulnerability Catalog<a href="https://thehackernews.com/2023/08/critical-adobe-coldfusion-flaw-added-to.html"> Full Text</a>
@@ -263,7 +263,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A cyber attack hit the Australian software provider Energy One<a href="https://securityaffairs.com/149746/hacking/cyber-attack-hit-energy-one.html"> Full Text</a>
@@ -280,7 +280,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Carderbee APT Uses Legitimate Software in Supply Chain Attack Targeting Hong Kong Firms<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/carderbee-software-supply-chain-certificate-abuse?&web_view=true"> Full Text</a>
@@ -296,7 +296,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ivanti fixed a new critical Sentry API authentication bypass flaw<a href="https://securityaffairs.com/149739/hacking/ivanti-sentry-api-flaw.html"> Full Text</a>
@@ -313,7 +313,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Grip Security Raises $41 Million to Accelerate Growth and Extend its Market<a href="https://www.helpnetsecurity.com/2023/08/22/grip-security-funding/?&web_view=true"> Full Text</a>
@@ -329,7 +329,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Hackers Claim to Leak Emails of Russian Parliament Deputy Chief<a href="https://therecord.media/ukrainian-hackers-claim-to-leak-emails-of-russia-duma-deputy?&web_view=true"> Full Text</a>
@@ -345,7 +345,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cerby Raises $17 Million for Access Management Platform for Nonstandard Applications<a href="https://www.securityweek.com/cerby-raises-17-million-for-access-management-platform-for-nonstandard-applications/?&web_view=true"> Full Text</a>

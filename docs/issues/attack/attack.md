@@ -8,6 +8,35 @@ nav_order: 900015
 
 ## Attack
 ---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Carderbee Attacks: Hong Kong Organizations Targeted via Malicious Software Updates<a href="https://thehackernews.com/2023/08/carderbee-attacks-hong-kong.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented threat cluster has been linked to a software supply chain attack targeting organizations primarily located in Hong Kong and other regions in Asia. The Symantec Threat Hunter Team, part of Broadcom, is tracking the activity under its insect-themed moniker Carderbee. The attacks, per the cybersecurity firm, leverage a trojanized version of a legitimate software called EsafeNet Cobra DocGuard Client to deliver a known backdoor called&nbsp; PlugX &nbsp;(aka Korplug) on victim networks. "In the course of this attack, the attackers used malware signed with a legitimate Microsoft certificate," the company&nbsp; said &nbsp;in a report shared with The Hacker News. The use of Cobra DocGuard Client to pull off a supply chain attack was previously highlighted by ESET in its&nbsp; quarterly Threat Report &nbsp;this year, detailing a September 2022 intrusion in which an unnamed gambling company in Hong Kong was compromised via a malicious update pushed by the software. The same company
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyber attack hit the Australian software provider Energy One<a href="https://securityaffairs.com/149746/hacking/cyber-attack-hit-energy-one.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian software provider Energy One announced it was hit by a cyberattack last week that affected certain corporate systems in Australia and the UK.
+The Australian software provider Energy One announced that a cyberattack hit certain corporate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

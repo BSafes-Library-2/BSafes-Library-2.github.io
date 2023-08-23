@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EVLF DEV - Knowing the Creator of CypherRAT and CraxsRAT<a href="https://cyware.com/news/evlf-dev-knowing-the-creator-of-cypherrat-and-craxsrat-82edf546"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fresh player in the realm of cyber threats has emerged under the moniker EVLF DEV, operating as a Malware-as-a-Service (MaaS) provider. Hailing from Syria and active for over eight years, this actor has developed the CypherRAT and CraxsRAT malware strains. To counteract such campaigns by maliciou ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

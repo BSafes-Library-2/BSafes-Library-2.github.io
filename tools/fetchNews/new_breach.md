@@ -8,6 +8,63 @@ nav_order: 900029
 
 ## Breach
 ---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defense contractor Belcan leaks admin password with a list of flaws<a href="https://securityaffairs.com/149779/data-breach/belcan-leaks-admin-password.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Government and defense contractor Belcan left its super admin credentials open to the public, Cybernews research team reveals.
+Belcan is a government, defense, and aerospace contractor offering global design, software, manufacturing, supply chain,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Data Breaches in Gadsden: Court System, EMS Report That Data May Have Been Stolen<a href="https://news.yahoo.com/data-breach-under-investigation-involving-151107667.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 2nd Judicial Circuit announced Monday that law enforcement is investigating a data breach involving Gadsden County court records. In a news release, the circuit said that initial assessments show some of the records contained PII.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snatch Gang Claims the Hack of South Africa's Department of Defense<a href="https://securityaffairs.com/149760/cyber-crime/snatch-ransomware-department-of-defence-south-africa.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group claims to have stolen military contracts, internal call signs, and personal data, amounting to 1.6 TB. If the attack gets confirmed, the disclosure of confidential information poses a serious risk to organizations involved in the contracts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Hackers Claim to Leak Emails of Russian Parliament Deputy Chief<a href="https://therecord.media/ukrainian-hackers-claim-to-leak-emails-of-russia-duma-deputy?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian hackers claim to have broken into the email account of a senior Russian politician and exposed documents that allegedly prove his involvement in money laundering and sanction evasion schemes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

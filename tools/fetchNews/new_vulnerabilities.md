@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti Warns of Critical Zero-Day Flaw Being Actively Exploited in Sentry Software<a href="https://thehackernews.com/2023/08/ivanti-warns-of-critical-zero-day-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software services provider Ivanti is&nbsp; warning &nbsp;of a new critical zero-day flaw impacting Ivanti Sentry (formerly MobileIron Sentry) that it said is being actively exploited in the wild, marking an escalation of its security woes. Tracked as&nbsp; CVE-2023-38035 &nbsp;(CVSS score: 9.8), the issue has been described as a case of authentication bypass impacting versions 9.18 and prior due to what it called an due to an insufficiently restrictive Apache HTTPD configuration. "If exploited, this vulnerability enables an unauthenticated actor to access some sensitive APIs that are used to configure the Ivanti Sentry on the administrator portal (port 8443, commonly MICS)," the company&nbsp; said . "While the issue has a high CVSS score, there is a low risk of exploitation for customers who do not expose port 8443 to the internet." Successful exploitation of the bug could allow an attacker to change configuration, run system commands, or write files onto the system. It's recommen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Adobe ColdFusion Flaw Added to CISA's Exploited Vulnerability Catalog<a href="https://thehackernews.com/2023/08/critical-adobe-coldfusion-flaw-added-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp; added &nbsp;a critical security flaw in Adobe ColdFusion to its Known Exploited Vulnerabilities ( KEV ) catalog, based on evidence of active exploitation. The vulnerability, cataloged as&nbsp; CVE-2023-26359 &nbsp;(CVSS score: 9.8), relates to a deserialization flaw present in Adobe ColdFusion 2018 (Update 15 and earlier) and ColdFusion 2021 (Update 5 and earlier) that could result in arbitrary code execution in the context of the current user without requiring any interaction. Deserialization &nbsp;(aka unmarshaling) refers to the process of reconstructing a data structure or an object from a byte stream. But when it's performed without validating its source or sanitizing its contents, it can lead to&nbsp; unexpected consequences &nbsp;such as code execution or denial-of-service (DoS). It was&nbsp; patched &nbsp;by Adobe as part of updates issued in March 2023. As of writing, it's immediately not clear how the flaw is being&nbsp; abused in the wil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti fixed a new critical Sentry API authentication bypass flaw<a href="https://securityaffairs.com/149739/hacking/ivanti-sentry-api-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti warned customers of a new critical Sentry API authentication bypass vulnerability tracked as CVE-2023-38035.
+The software company Ivanti released urgent security patches to address a critical-severity vulnerability, tracked as CVE-2023-38035...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

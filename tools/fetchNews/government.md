@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+August 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israel and US to Invest $3.85 Million in projects for critical infrastructure protection through the BIRD Cyber Program<a href="https://securityaffairs.com/149703/security/bird-cyber-program.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel and US government agencies announced the BIRD Cyber Program, an investment of roughly $4M in projects to enhance the cyber resilience of critical infrastructure.
+The BIRD Cyber Program is a joint initiative from the Israel National Cyber Directorate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
