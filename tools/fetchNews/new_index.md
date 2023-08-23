@@ -34,7 +34,334 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2023
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit Attack Spree Makes Clop This Summer’s Most-Prolific Ransomware Group<a href="https://www.cybersecuritydive.com/news/clop-one-third-ransomware-attacks/691433/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clop was responsible for one-third of all ransomware attacks in July, positioning the financially-motivated threat actor to become the most prolific ransomware threat actor this summer, according to multiple threat intelligence reports.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs Tout SaaS Cybersecurity Confidence, But 79% Admit to SaaS Incidents, New Report Finds<a href="https://thehackernews.com/2023/08/cisos-tout-saas-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A  new State of SaaS Security Posture Management Report  from SaaS cybersecurity provider  AppOmni  indicates that Cybersecurity, IT, and business leaders alike recognize SaaS cybersecurity as an increasingly important part of the cyber threat landscape. And at first glance, respondents appear generally optimistic about their SaaS cybersecurity. Over 600 IT, cybersecurity, and business leaders at companies between 500-2,500+ employees were surveyed and responded with confidence in their SaaS cybersecurity preparedness and capabilities. For example: When asked to rate the SaaS cybersecurity maturity level of their organizations, 71% noted that their organizations' SaaS cybersecurity maturity has achieved either a mid-high level (43%) or the highest level (28%). For the security levels of the SaaS applications authorized for use in their organization, sentiment was similarly high. Seventy-three percent rated SaaS application security as mid-high (41%) or the highest maturity level (
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defense contractor Belcan leaks admin password with a list of flaws<a href="https://securityaffairs.com/149779/data-breach/belcan-leaks-admin-password.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US Government and defense contractor Belcan left its super admin credentials open to the public, Cybernews research team reveals.
+Belcan is a government, defense, and aerospace contractor offering global design, software, manufacturing, supply chain,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Android Malware Apps Use Stealthy APKs to Bypass Security<a href="https://cyware.com/news/thousands-of-android-malware-apps-use-stealthy-apks-to-bypass-security-e5ffd6ae"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are reportedly exploiting APK files that employ unknown or unsupported compression methods to bypass malware analysis, warned cybersecurity firm Zimperium. The approach hinders decompilation efforts while still enabling installation on Android devices running OS versions above Android ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Carderbee Attacks: Hong Kong Organizations Targeted via Malicious Software Updates<a href="https://thehackernews.com/2023/08/carderbee-attacks-hong-kong.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented threat cluster has been linked to a software supply chain attack targeting organizations primarily located in Hong Kong and other regions in Asia. The Symantec Threat Hunter Team, part of Broadcom, is tracking the activity under its insect-themed moniker Carderbee. The attacks, per the cybersecurity firm, leverage a trojanized version of a legitimate software called EsafeNet Cobra DocGuard Client to deliver a known backdoor called  PlugX  (aka Korplug) on victim networks. "In the course of this attack, the attackers used malware signed with a legitimate Microsoft certificate," the company  said  in a report shared with The Hacker News. The use of Cobra DocGuard Client to pull off a supply chain attack was previously highlighted by ESET in its  quarterly Threat Report  this year, detailing a September 2022 intrusion in which an unnamed gambling company in Hong Kong was compromised via a malicious update pushed by the software. The same company
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akira ransomware gang spotted targeting Cisco VPN products to hack organizations<a href="https://securityaffairs.com/149770/malware/akira-ransomware-cisco-vpn.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Akira ransomware gang targets Cisco VPN products to gain initial access to corporate networks and steal their data.
+The Akira ransomware has been active since March 2023, the threat actors behind the malware claim to have already hacked multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EVLF DEV - Knowing the Creator of CypherRAT and CraxsRAT<a href="https://cyware.com/news/evlf-dev-knowing-the-creator-of-cypherrat-and-craxsrat-82edf546"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fresh player in the realm of cyber threats has emerged under the moniker EVLF DEV, operating as a Malware-as-a-Service (MaaS) provider. Hailing from Syria and active for over eight years, this actor has developed the CypherRAT and CraxsRAT malware strains. To counteract such campaigns by maliciou ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Variant of XLoader macOS Malware Disguised as 'OfficeNote' Productivity App<a href="https://thehackernews.com/2023/08/new-variant-of-xloader-macos-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of an  Apple macOS malware  called  XLoader  has surfaced in the wild, masquerading its malicious features under the guise of an office productivity app called "OfficeNote." "The new version of XLoader is bundled inside a standard Apple disk image with the name OfficeNote.dmg," SentinelOne security researchers Dinesh Devadoss and Phil Stokes  said  in a Monday analysis. "The application contained within is signed with the developer signature MAIT JAKHU (54YDV8NU9C)." XLoader , first detected in 2020, is  considered  a successor to Formbook and is an information stealer and keylogger offered under the malware-as-a-service (MaaS) model. A macOS variant of the malware emerged in July 2021, distributed as a Java program in the form of a compiled .JAR file. "Such files require the Java Runtime Environment, and for that reason the malicious .jar file will not execute on a macOS install out of the box, since Apple stopped shipping JRE with
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snatch gang claims the hack of the Department of Defence South Africa<a href="https://securityaffairs.com/149760/cyber-crime/snatch-ransomware-department-of-defence-south-africa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Snatch gang claims the hack of the Department of Defence South Africa and added the military organization to its leak site.
+The Snatch ransomware group added the Department of Defence South Africa to its data leak site.
+The mission of the Department...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Data Breaches in Gadsden: Court System, EMS Report That Data May Have Been Stolen<a href="https://news.yahoo.com/data-breach-under-investigation-involving-151107667.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 2nd Judicial Circuit announced Monday that law enforcement is investigating a data breach involving Gadsden County court records. In a news release, the circuit said that initial assessments show some of the records contained PII.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti Warns of Critical Zero-Day Flaw Being Actively Exploited in Sentry Software<a href="https://thehackernews.com/2023/08/ivanti-warns-of-critical-zero-day-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software services provider Ivanti is  warning  of a new critical zero-day flaw impacting Ivanti Sentry (formerly MobileIron Sentry) that it said is being actively exploited in the wild, marking an escalation of its security woes. Tracked as  CVE-2023-38035  (CVSS score: 9.8), the issue has been described as a case of authentication bypass impacting versions 9.18 and prior due to what it called an due to an insufficiently restrictive Apache HTTPD configuration. "If exploited, this vulnerability enables an unauthenticated actor to access some sensitive APIs that are used to configure the Ivanti Sentry on the administrator portal (port 8443, commonly MICS)," the company  said . "While the issue has a high CVSS score, there is a low risk of exploitation for customers who do not expose port 8443 to the internet." Successful exploitation of the bug could allow an attacker to change configuration, run system commands, or write files onto the system. It's recommen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds critical Adobe ColdFusion flaw to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/149754/security/cisa-adds-critical-adobe-coldfusion-flaw-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US CISA added critical vulnerability CVE-2023-26359 in Adobe ColdFusion to its Known Exploited Vulnerabilities catalog.
+US Cybersecurity and Infrastructure Security Agency (CISA) added a critical flaw CVE-2023-26359 (CVSS score 9.8) affecting...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snatch Gang Claims the Hack of South Africa's Department of Defense<a href="https://securityaffairs.com/149760/cyber-crime/snatch-ransomware-department-of-defence-south-africa.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group claims to have stolen military contracts, internal call signs, and personal data, amounting to 1.6 TB. If the attack gets confirmed, the disclosure of confidential information poses a serious risk to organizations involved in the contracts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Adobe ColdFusion Flaw Added to CISA's Exploited Vulnerability Catalog<a href="https://thehackernews.com/2023/08/critical-adobe-coldfusion-flaw-added-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has  added  a critical security flaw in Adobe ColdFusion to its Known Exploited Vulnerabilities ( KEV ) catalog, based on evidence of active exploitation. The vulnerability, cataloged as  CVE-2023-26359  (CVSS score: 9.8), relates to a deserialization flaw present in Adobe ColdFusion 2018 (Update 15 and earlier) and ColdFusion 2021 (Update 5 and earlier) that could result in arbitrary code execution in the context of the current user without requiring any interaction. Deserialization  (aka unmarshaling) refers to the process of reconstructing a data structure or an object from a byte stream. But when it's performed without validating its source or sanitizing its contents, it can lead to  unexpected consequences  such as code execution or denial-of-service (DoS). It was  patched  by Adobe as part of updates issued in March 2023. As of writing, it's immediately not clear how the flaw is being  abused in the wil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A cyber attack hit the Australian software provider Energy One<a href="https://securityaffairs.com/149746/hacking/cyber-attack-hit-energy-one.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian software provider Energy One announced it was hit by a cyberattack last week that affected certain corporate systems in Australia and the UK.
+The Australian software provider Energy One announced that a cyberattack hit certain corporate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Carderbee APT Uses Legitimate Software in Supply Chain Attack Targeting Hong Kong Firms<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/carderbee-software-supply-chain-certificate-abuse?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group appears to be skilled and patient, selectively pushing payloads to specific victims. The use of signed malware and supply chain attacks makes it difficult for security software to detect.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ivanti fixed a new critical Sentry API authentication bypass flaw<a href="https://securityaffairs.com/149739/hacking/ivanti-sentry-api-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti warned customers of a new critical Sentry API authentication bypass vulnerability tracked as CVE-2023-38035.
+The software company Ivanti released urgent security patches to address a critical-severity vulnerability, tracked as CVE-2023-38035...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grip Security Raises $41 Million to Accelerate Growth and Extend its Market<a href="https://www.helpnetsecurity.com/2023/08/22/grip-security-funding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The investment brings Grip Security’s total funding to $66 million and marks a major milestone for the company, further accelerating its go-to-market strategy and advancing product development.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Hackers Claim to Leak Emails of Russian Parliament Deputy Chief<a href="https://therecord.media/ukrainian-hackers-claim-to-leak-emails-of-russia-duma-deputy?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian hackers claim to have broken into the email account of a senior Russian politician and exposed documents that allegedly prove his involvement in money laundering and sanction evasion schemes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cerby Raises $17 Million for Access Management Platform for Nonstandard Applications<a href="https://www.securityweek.com/cerby-raises-17-million-for-access-management-platform-for-nonstandard-applications/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The investment round was led by Two Sigma Ventures, with additional funding from Outpost Ventures, AV8, Bowery Capital, Founders Fund, Incubate Fund, Okta Ventures, Ridge Ventures, Salesforce Ventures, and Tau Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Spoof an Apple Device and Trick Users Into Sharing Sensitive Data<a href="https://securityaffairs.com/149711/hacking/spoofing-apple-device.html?&web_view=true"> Full Text</a>
@@ -50,7 +377,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2023
+August 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New WinRAR Vulnerability Could Allow Hackers to Take Control of Your PC<a href="https://thehackernews.com/2023/08/new-winrar-vulnerability-could-allow.html"> Full Text</a>
@@ -66,7 +393,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2023
+August 21, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat ransomware group claims the hack of Seiko network<a href="https://securityaffairs.com/149734/cyber-crime/blackcat-alphv-ransomware-group-seiko.html"> Full Text</a>
@@ -84,7 +411,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2023
+August 21, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HiatusRAT Returns after a Hiatus in a Fresh Wave of Attacks<a href="https://cyware.com/news/hiatusrat-returns-after-a-hiatus-in-a-fresh-wave-of-attacks-dd524dce"> Full Text</a>
@@ -100,7 +427,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2023
+August 21, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Investigate an OAuth Grant for Suspicious Activity or Overly Permissive Scopes<a href="https://thehackernews.com/2023/08/how-to-investigate-oauth-grant-for.html"> Full Text</a>
@@ -116,7 +443,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2023
+August 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New HiatusRAT campaign targets Taiwan and U.S. military procurement system<a href="https://securityaffairs.com/149723/intelligence/hiatusrat-campaign-taiwan-us.html"> Full Text</a>
@@ -133,7 +460,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2023
+August 21, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Real Identity of CypherRAT and CraxsRAT Malware Developer<a href="https://www.securityweek.com/researchers-uncover-real-identity-of-cypherrat-and-craxsrat-malware-developer/?&web_view=true"> Full Text</a>
@@ -149,7 +476,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2023
+August 21, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 This Malware Turned Thousands of Hacked Windows and macOS PCs into Proxy Servers<a href="https://thehackernews.com/2023/08/this-malware-turned-thousands-of-hacked.html"> Full Text</a>
@@ -165,7 +492,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2023
+August 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spoofing an Apple device and tricking users into sharing sensitive data<a href="https://securityaffairs.com/149711/hacking/spoofing-apple-device.html"> Full Text</a>
@@ -182,7 +509,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2023
+August 21, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tesla Discloses Data Breach Impacting 75,000 People's Personal Information<a href="https://www.securityweek.com/tesla-discloses-data-breach-related-to-whistleblower-leak/?&web_view=true"> Full Text</a>
@@ -198,7 +525,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2023
+August 21, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HiatusRAT Malware Resurfaces: Taiwan Firms and U.S. Military Under Attack<a href="https://thehackernews.com/2023/08/hiatusrat-malware-resurfaces-taiwan.html"> Full Text</a>
@@ -214,7 +541,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2023
+August 21, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israel and US to Invest $3.85 Million in projects for critical infrastructure protection through the BIRD Cyber Program<a href="https://securityaffairs.com/149703/security/bird-cyber-program.html"> Full Text</a>
@@ -231,7 +558,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2023
+August 21, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federally Insured Credit Unions Required to Report Cyber Incidents Within 72 Hours<a href="https://www.securityweek.com/federally-insured-credit-unions-required-to-report-cyber-incidents-within-3-days/?&web_view=true"> Full Text</a>
@@ -247,7 +574,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 21, 2023
+August 21, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia’s .AU Domain Administrator Denies Data Breach After Ransomware Posting<a href="https://therecord.media/australia-domain-name-admin-denies-data-breach?&web_view=true"> Full Text</a>
