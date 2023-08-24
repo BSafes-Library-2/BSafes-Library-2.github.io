@@ -34,7 +34,331 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thoma Bravo Merges ForgeRock with Ping Identity<a href="https://www.securityweek.com/thoma-bravo-merges-forgerock-with-ping-identity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Private equity powerhouse Thoma Bravo on Wednesday announced plans to merge the just-acquired ForgeRock with Ping Identity, combining two of the biggest names in the enterprise identity and access management market.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Affiliates Suspected in $40M Cryptocurrency Heist, FBI Warns<a href="https://thehackernews.com/2023/08/north-korean-affiliates-suspected-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) on Tuesday warned that threat actors affiliated with North Korea may attempt to cash out stolen cryptocurrency worth more than $40 million. The law enforcement agency  attributed  the blockchain activity to an adversary the U.S. government tracks as TraderTraitor, which is also known by the name Jade Sleet. An investigation undertaken by the FBI found that the group moved approximately 1,580 bitcoin from several cryptocurrency heists over the past 24 hours and are currently said to be holding those funds in six different wallets. North Korea is known to blur the lines among cyber warfare, espionage, and financial crime.  TraderTraitor , in particular, has been linked to a series of attacks targeting blockchain and cryptocurrency exchanges with the goal of plundering digital assets to generate illicit revenue for the sanctions-hit nation. This includes the $60 million theft of virtual currency from Alphapo on June 22, 2023; the $37 m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ charged Tornado Cash founders with laundering more than $1 billion<a href="https://securityaffairs.com/149804/cyber-crime/tornado-cash-founders-charges.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. DoJ charged two men with operating the Tornado Cash service and laundering more than $1 Billion in criminal proceeds.
+The U.S. Justice Department charged two Tornado Cash founders ROMAN STORM and ROMAN SEMENOV have been charged with one count...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Says North Korea’s Lazarus Hackers Behind Recent Crypto Heists<a href="https://therecord.media/north-korea-lazarus-behind-crypto-heists?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+June saw three headline-grabbing incidents involving cryptocurrency companies: a $100 million hack of Atomic Wallet on June 2, as well as two June 22 attacks in which cybercriminals stole $60 million from Alphapo and $37 million from CoinsPaid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Set to Enable Default End-to-End Encryption on Messenger by Year End<a href="https://thehackernews.com/2023/08/meta-set-to-enable-default-end-to-end.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta has once again reaffirmed its plans to roll out support for end-to-end encryption ( E2EE ) by default for one-to-one friends and family chats on Messenger by the end of the year. As part of that effort, the social media giant said it's upgrading "millions more people's chats" effective August 22, 2023, exactly seven months after it  started gradually expanding the feature  to more users in January 2023. The changes are part of CEO Mark Zuckerberg's "privacy-focused vision for social networking" that was announced in 2019, although it has since encountered significant technical challenges, causing it to  delay its plans  by a year. "Like many messaging services, Messenger and Instagram DMs were originally designed to function via servers," Timothy Buck, product manager for Messenger,  said . "Meta's servers act as the gateway between the message sender and receiver, what we call the clients." However, the addition of an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI identifies wallets holding cryptocurrency funds stolen by North Korea<a href="https://securityaffairs.com/149798/hacking/north-korea-cash-out-stolen-crypto-assets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. FBI warned that North Korea-linked threat actors may attempt to cash out stolen cryptocurrency worth more than $40 million.
+The Federal Bureau of Investigation shared details about the activity of six cryptocurrency wallets operated by North...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3,000 Openfire Servers Exposed to Attacks Targeting Recent Vulnerability<a href="https://www.securityweek.com/3000-openfire-servers-exposed-to-attacks-targeting-recent-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2023-32315, the high-severity flaw was discovered in Openfire’s administration console and is described as a path traversal bug via the setup environment that allows unauthenticated attackers to access restricted pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agile Approach to Mass Cloud Credential Harvesting and Crypto Mining Sprints Ahead<a href="https://thehackernews.com/2023/08/agile-approach-to-mass-cloud-credential.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers are not the only people who have adopted the agile methodology for their development processes. From 2023-06-15 to 2023-07-11, Permiso Security's p0 Labs team identified and tracked an attacker developing and deploying eight (8) incremental iterations of their credential harvesting malware while continuing to develop infrastructure for an upcoming (spoiler: now launched) campaign targeting various cloud services. While last week Aqua Security published a blog detailing this under-development campaign's stages related to infected Docker images, today  Permiso p0 Labs  and  SentinelLabs  are releasing joint research highlighting the incremental updates to the cloud credential harvesting malware samples systematically collected by monitoring the attacker's infrastructure. So get out of your seats and enjoy this scrum meeting stand-up dedicated to sharing knowledge about this actors campaign and the tooling they will use to steal more cloud credentials. If you like IDA scree
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Carderbee APT targets Hong Kong orgs via supply chain attacks<a href="https://securityaffairs.com/149790/apt/carderbee-apt-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown APT group, tracked as Carderbee, was behind a supply chain attack against Hong Kong organizations.
+Symantec Threat Hunter Team reported that a previously unknown APT group, tracked as Carderbee, used a malware-laced version of the legitimate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+University of Minnesota Investigates Alleged Data Breach Involving Seven Million Alumni<a href="https://www.fox9.com/news/university-of-minnesota-investigating-potential-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Minnesota has contacted law enforcement and launched an investigation into a data breach that could impact millions of alumni. A hacker claimed to have collected 7 million Social Security numbers in July.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Syrian Threat Actor EVLF Unmasked as Creator of CypherRAT and CraxsRAT Android Malware<a href="https://thehackernews.com/2023/08/syrian-threat-actor-evlf-unmasked-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Syrian threat actor named  EVLF  has been outed as the creator of malware families CypherRAT and CraxsRAT. "These RATs are designed to allow an attacker to remotely perform real-time actions and control the victim device's camera, location, and microphone," Cybersecurity firm Cyfirma  said  in a report published last week. CypherRAT and CraxsRAT are said to be offered to other cybercriminals as part of a malware-as-a-service (MaaS) scheme. As many as 100 unique threat actors are estimated to have purchased the twin tools on a lifetime license over the past three years. EVLF is said to be operating a web shop to advertise their warez since at least September 2022. CraxsRAT is billed as an Android trojan that enables a threat actor to remote control an infected device from a Windows computer, with the developer consistently releasing new updates based on feedback from the customers. The malicious package is generated using a builder, which comes with options to cus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TP-Link Tapo L530E smart bulb flaws allow hackers to steal user passwords<a href="https://securityaffairs.com/149783/hacking/tp-link-tapo-l530e-smart-bulb-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four vulnerabilities in the TP-Link Tapo L530E smart bulb and impacting the mobile app used to control them expose users to hack.
+Researchers from the University of Catania (Italy) and the University of London (UK) have discovered four vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Prioritizing On-Site K-12 Cybersecurity Reviews This School Year<a href="https://www.nextgov.com/cybersecurity/2023/08/cisa-prioritizing-site-k-12-cybersecurity-reviews-school-year/389592/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The assessments can encompass a wide range of individualized reviews and actions, from preventing cyber-enabled fraud schemes to combating ransomware attacks and other digital intrusions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spacecolon Toolset Fuels Global Surge in Scarab Ransomware Attacks<a href="https://thehackernews.com/2023/08/spacecolon-toolset-fuels-global-surge.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious toolset dubbed  Spacecolon  is being deployed as part of an ongoing campaign to spread variants of the Scarab ransomware across victim organizations globally. "It probably finds its way into victim organizations by its operators compromising vulnerable web servers or via brute forcing RDP credentials," ESET security researcher Jakub Souček  said  in a detailed technical write-up published Tuesday. The Slovak cybersecurity firm, which dubbed the threat actor CosmicBeetle, said the origins of the Spacecolon date back to May 2020. The highest concentration of victims has been detected in France, Mexico, Poland, Slovakia, Spain, and Turkey. While the exact provenance of the adversary is unclear, several Spacecolon variants are said to contain Turkish strings, likely pointing to the involvement of a Turkish-speaking developer. There is no evidence currently linking it to any other known threat actor group. Some of the targets include a hospital and a tourist reso
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+First Weekly Chrome Security Update Patches High-Severity Vulnerabilities<a href="https://www.securityweek.com/first-weekly-chrome-security-update-patches-high-severity-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced a Chrome 116 security update that patches five memory safety vulnerabilities reported by external researchers, including four issues rated ‘high severity’.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over a Dozen Malicious npm Packages Target Roblox Game Developers<a href="https://thehackernews.com/2023/08/over-dozen-malicious-npm-packages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than a dozen malicious packages have been discovered on the npm package repository since the start of August 2023 with capabilities to deploy an open-source information stealer called  Luna Token Grabber  on systems belonging to Roblox developers. The ongoing campaign, first detected on August 1 by ReversingLabs, employs modules that masquerade as the legitimate package  noblox.js , an API wrapper that's used to create scripts that interact with the Roblox gaming platform. The software supply chain security company described the activity as a "replay of an attack  uncovered  two years ago" in October 2021. "The malicious packages [...] reproduce code from the legitimate noblox.js package but add malicious, information-stealing functions," software threat researcher Lucija Valentić  said  in a Tuesday analysis. The packages were cumulatively downloaded 963 times before they were taken down. The names of the rogue packages are as follows - noblox.js-v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Ransomware Attackers' Dwell Time Shrinks<a href="https://www.bankinfosecurity.com/speed-demons-ransomware-attackers-dwell-time-shrinks-a-22906?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware-wielding hackers are moving faster than ever to pull the trigger on malicious encryption - but they could be bumping up against the limits of how fast they can go, said security researchers from Sophos.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Intrusion Impacts All Servers of Danish Cloud Provider<a href="https://www.theregister.com/2023/08/23/ransomware_wipes_cloudnordic/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack occurred on August 18, and since then, efforts have been made to restore the data, but it has proved difficult. CloudNordic has stated that it will not pay the ransom demanded by the hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attack: Carderbee APT Strikes Hong Kong Organizations<a href="https://cyware.com/news/supply-chain-attack-carderbee-apt-strikes-hong-kong-organizations-31112a89"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Undocumented threat cluster Carderbee was observed targeting organizations in Hong Kong and other Asian regions via a trojanized version of the legitimate software EsafeNet Cobra DocGuard Client to deliver the PlugX backdoor and gain access to victim networks. Strengthening supply chain security th ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defense Contractor Belcan Leaks Admin Password With a List of Flaws<a href="https://securityaffairs.com/149779/data-breach/belcan-leaks-admin-password.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On May 15th, the Cybernews research team discovered an open Kibana instance containing sensitive information regarding Belcan, their employees, and internal infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MOVEit Attack Spree Makes Clop This Summer’s Most-Prolific Ransomware Group<a href="https://www.cybersecuritydive.com/news/clop-one-third-ransomware-attacks/691433/?&web_view=true"> Full Text</a>
@@ -50,7 +374,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISOs Tout SaaS Cybersecurity Confidence, But 79% Admit to SaaS Incidents, New Report Finds<a href="https://thehackernews.com/2023/08/cisos-tout-saas-cybersecurity.html"> Full Text</a>
@@ -66,7 +390,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Defense contractor Belcan leaks admin password with a list of flaws<a href="https://securityaffairs.com/149779/data-breach/belcan-leaks-admin-password.html"> Full Text</a>
@@ -83,7 +407,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Android Malware Apps Use Stealthy APKs to Bypass Security<a href="https://cyware.com/news/thousands-of-android-malware-apps-use-stealthy-apks-to-bypass-security-e5ffd6ae"> Full Text</a>
@@ -99,7 +423,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Carderbee Attacks: Hong Kong Organizations Targeted via Malicious Software Updates<a href="https://thehackernews.com/2023/08/carderbee-attacks-hong-kong.html"> Full Text</a>
@@ -115,7 +439,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Akira ransomware gang spotted targeting Cisco VPN products to hack organizations<a href="https://securityaffairs.com/149770/malware/akira-ransomware-cisco-vpn.html"> Full Text</a>
@@ -132,7 +456,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EVLF DEV - Knowing the Creator of CypherRAT and CraxsRAT<a href="https://cyware.com/news/evlf-dev-knowing-the-creator-of-cypherrat-and-craxsrat-82edf546"> Full Text</a>
@@ -148,7 +472,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Variant of XLoader macOS Malware Disguised as 'OfficeNote' Productivity App<a href="https://thehackernews.com/2023/08/new-variant-of-xloader-macos-malware.html"> Full Text</a>
@@ -164,7 +488,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Snatch gang claims the hack of the Department of Defence South Africa<a href="https://securityaffairs.com/149760/cyber-crime/snatch-ransomware-department-of-defence-south-africa.html"> Full Text</a>
@@ -182,7 +506,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Data Breaches in Gadsden: Court System, EMS Report That Data May Have Been Stolen<a href="https://news.yahoo.com/data-breach-under-investigation-involving-151107667.html?&web_view=true"> Full Text</a>
@@ -198,7 +522,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ivanti Warns of Critical Zero-Day Flaw Being Actively Exploited in Sentry Software<a href="https://thehackernews.com/2023/08/ivanti-warns-of-critical-zero-day-flaw.html"> Full Text</a>
@@ -214,7 +538,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds critical Adobe ColdFusion flaw to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/149754/security/cisa-adds-critical-adobe-coldfusion-flaw-to-its-known-exploited-vulnerabilities-catalog.html"> Full Text</a>
@@ -231,7 +555,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Snatch Gang Claims the Hack of South Africa's Department of Defense<a href="https://securityaffairs.com/149760/cyber-crime/snatch-ransomware-department-of-defence-south-africa.html?&web_view=true"> Full Text</a>
@@ -247,7 +571,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Adobe ColdFusion Flaw Added to CISA's Exploited Vulnerability Catalog<a href="https://thehackernews.com/2023/08/critical-adobe-coldfusion-flaw-added-to.html"> Full Text</a>
@@ -263,7 +587,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A cyber attack hit the Australian software provider Energy One<a href="https://securityaffairs.com/149746/hacking/cyber-attack-hit-energy-one.html"> Full Text</a>
@@ -280,7 +604,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Carderbee APT Uses Legitimate Software in Supply Chain Attack Targeting Hong Kong Firms<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/carderbee-software-supply-chain-certificate-abuse?&web_view=true"> Full Text</a>
@@ -296,7 +620,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ivanti fixed a new critical Sentry API authentication bypass flaw<a href="https://securityaffairs.com/149739/hacking/ivanti-sentry-api-flaw.html"> Full Text</a>
@@ -313,7 +637,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Grip Security Raises $41 Million to Accelerate Growth and Extend its Market<a href="https://www.helpnetsecurity.com/2023/08/22/grip-security-funding/?&web_view=true"> Full Text</a>
@@ -329,7 +653,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Hackers Claim to Leak Emails of Russian Parliament Deputy Chief<a href="https://therecord.media/ukrainian-hackers-claim-to-leak-emails-of-russia-duma-deputy?&web_view=true"> Full Text</a>
@@ -345,7 +669,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 22, 2023
+August 22, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cerby Raises $17 Million for Access Management Platform for Nonstandard Applications<a href="https://www.securityweek.com/cerby-raises-17-million-for-access-management-platform-for-nonstandard-applications/?&web_view=true"> Full Text</a>
