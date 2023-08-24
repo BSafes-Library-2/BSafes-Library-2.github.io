@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thoma Bravo Merges ForgeRock with Ping Identity<a href="https://www.securityweek.com/thoma-bravo-merges-forgerock-with-ping-identity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Private equity powerhouse Thoma Bravo on Wednesday announced plans to merge the just-acquired ForgeRock with Ping Identity, combining two of the biggest names in the enterprise identity and access management market.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

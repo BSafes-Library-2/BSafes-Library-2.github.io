@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+August 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Affiliates Suspected in $40M Cryptocurrency Heist, FBI Warns<a href="https://thehackernews.com/2023/08/north-korean-affiliates-suspected-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) on Tuesday warned that threat actors affiliated with North Korea may attempt to cash out stolen cryptocurrency worth more than $40 million. The law enforcement agency&nbsp; attributed &nbsp;the blockchain activity to an adversary the U.S. government tracks as TraderTraitor, which is also known by the name Jade Sleet. An investigation undertaken by the FBI found that the group moved approximately 1,580 bitcoin from several cryptocurrency heists over the past 24 hours and are currently said to be holding those funds in six different wallets. North Korea is known to blur the lines among cyber warfare, espionage, and financial crime.&nbsp; TraderTraitor , in particular, has been linked to a series of attacks targeting blockchain and cryptocurrency exchanges with the goal of plundering digital assets to generate illicit revenue for the sanctions-hit nation. This includes the $60 million theft of virtual currency from Alphapo on June 22, 2023; the $37 m
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Says North Korea’s Lazarus Hackers Behind Recent Crypto Heists<a href="https://therecord.media/north-korea-lazarus-behind-crypto-heists?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+June saw three headline-grabbing incidents involving cryptocurrency companies: a $100 million hack of Atomic Wallet on June 2, as well as two June 22 attacks in which cybercriminals stole $60 million from Alphapo and $37 million from CoinsPaid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Prioritizing On-Site K-12 Cybersecurity Reviews This School Year<a href="https://www.nextgov.com/cybersecurity/2023/08/cisa-prioritizing-site-k-12-cybersecurity-reviews-school-year/389592/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The assessments can encompass a wide range of individualized reviews and actions, from preventing cyber-enabled fraud schemes to combating ransomware attacks and other digital intrusions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

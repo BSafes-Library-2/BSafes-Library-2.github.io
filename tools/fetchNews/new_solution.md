@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Set to Enable Default End-to-End Encryption on Messenger by Year End<a href="https://thehackernews.com/2023/08/meta-set-to-enable-default-end-to-end.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta has once again reaffirmed its plans to roll out support for end-to-end encryption ( E2EE ) by default for one-to-one friends and family chats on Messenger by the end of the year. As part of that effort, the social media giant said it's upgrading "millions more people's chats" effective August 22, 2023, exactly seven months after it&nbsp; started gradually expanding the feature &nbsp;to more users in January 2023. The changes are part of CEO Mark Zuckerberg's "privacy-focused vision for social networking" that was announced in 2019, although it has since encountered significant technical challenges, causing it to&nbsp; delay its plans &nbsp;by a year. "Like many messaging services, Messenger and Instagram DMs were originally designed to function via servers," Timothy Buck, product manager for Messenger,&nbsp; said . "Meta's servers act as the gateway between the message sender and receiver, what we call the clients." However, the addition of an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

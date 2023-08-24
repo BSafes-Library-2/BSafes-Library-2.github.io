@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spacecolon Toolset Fuels Global Surge in Scarab Ransomware Attacks<a href="https://thehackernews.com/2023/08/spacecolon-toolset-fuels-global-surge.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious toolset dubbed&nbsp; Spacecolon &nbsp;is being deployed as part of an ongoing campaign to spread variants of the Scarab ransomware across victim organizations globally. "It probably finds its way into victim organizations by its operators compromising vulnerable web servers or via brute forcing RDP credentials," ESET security researcher Jakub Souček&nbsp; said &nbsp;in a detailed technical write-up published Tuesday. The Slovak cybersecurity firm, which dubbed the threat actor CosmicBeetle, said the origins of the Spacecolon date back to May 2020. The highest concentration of victims has been detected in France, Mexico, Poland, Slovakia, Spain, and Turkey. While the exact provenance of the adversary is unclear, several Spacecolon variants are said to contain Turkish strings, likely pointing to the involvement of a Turkish-speaking developer. There is no evidence currently linking it to any other known threat actor group. Some of the targets include a hospital and a tourist reso
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Ransomware Attackers' Dwell Time Shrinks<a href="https://www.bankinfosecurity.com/speed-demons-ransomware-attackers-dwell-time-shrinks-a-22906?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware-wielding hackers are moving faster than ever to pull the trigger on malicious encryption - but they could be bumping up against the limits of how fast they can go, said security researchers from Sophos.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thoma Bravo Merges ForgeRock with Ping Identity<a href="https://www.securityweek.com/thoma-bravo-merges-forgerock-with-ping-identity/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Affiliates Suspected in $40M Cryptocurrency Heist, FBI Warns<a href="https://thehackernews.com/2023/08/north-korean-affiliates-suspected-in.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoJ charged Tornado Cash founders with laundering more than $1 billion<a href="https://securityaffairs.com/149804/cyber-crime/tornado-cash-founders-charges.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Says North Korea’s Lazarus Hackers Behind Recent Crypto Heists<a href="https://therecord.media/north-korea-lazarus-behind-crypto-heists?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Set to Enable Default End-to-End Encryption on Messenger by Year End<a href="https://thehackernews.com/2023/08/meta-set-to-enable-default-end-to-end.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI identifies wallets holding cryptocurrency funds stolen by North Korea<a href="https://securityaffairs.com/149798/hacking/north-korea-cash-out-stolen-crypto-assets.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3,000 Openfire Servers Exposed to Attacks Targeting Recent Vulnerability<a href="https://www.securityweek.com/3000-openfire-servers-exposed-to-attacks-targeting-recent-vulnerability/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Agile Approach to Mass Cloud Credential Harvesting and Crypto Mining Sprints Ahead<a href="https://thehackernews.com/2023/08/agile-approach-to-mass-cloud-credential.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Carderbee APT targets Hong Kong orgs via supply chain attacks<a href="https://securityaffairs.com/149790/apt/carderbee-apt-supply-chain-attack.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 University of Minnesota Investigates Alleged Data Breach Involving Seven Million Alumni<a href="https://www.fox9.com/news/university-of-minnesota-investigating-potential-data-breach?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Syrian Threat Actor EVLF Unmasked as Creator of CypherRAT and CraxsRAT Android Malware<a href="https://thehackernews.com/2023/08/syrian-threat-actor-evlf-unmasked-as.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TP-Link Tapo L530E smart bulb flaws allow hackers to steal user passwords<a href="https://securityaffairs.com/149783/hacking/tp-link-tapo-l530e-smart-bulb-flaws.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Prioritizing On-Site K-12 Cybersecurity Reviews This School Year<a href="https://www.nextgov.com/cybersecurity/2023/08/cisa-prioritizing-site-k-12-cybersecurity-reviews-school-year/389592/?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spacecolon Toolset Fuels Global Surge in Scarab Ransomware Attacks<a href="https://thehackernews.com/2023/08/spacecolon-toolset-fuels-global-surge.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 First Weekly Chrome Security Update Patches High-Severity Vulnerabilities<a href="https://www.securityweek.com/first-weekly-chrome-security-update-patches-high-severity-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over a Dozen Malicious npm Packages Target Roblox Game Developers<a href="https://thehackernews.com/2023/08/over-dozen-malicious-npm-packages.html"> Full Text</a>
@@ -294,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Ransomware Attackers' Dwell Time Shrinks<a href="https://www.bankinfosecurity.com/speed-demons-ransomware-attackers-dwell-time-shrinks-a-22906?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Intrusion Impacts All Servers of Danish Cloud Provider<a href="https://www.theregister.com/2023/08/23/ransomware_wipes_cloudnordic/?&web_view=true"> Full Text</a>
@@ -326,7 +326,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supply Chain Attack: Carderbee APT Strikes Hong Kong Organizations<a href="https://cyware.com/news/supply-chain-attack-carderbee-apt-strikes-hong-kong-organizations-31112a89"> Full Text</a>
@@ -342,7 +342,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 23, 2023
+August 23, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Defense Contractor Belcan Leaks Admin Password With a List of Flaws<a href="https://securityaffairs.com/149779/data-breach/belcan-leaks-admin-password.html?&web_view=true"> Full Text</a>

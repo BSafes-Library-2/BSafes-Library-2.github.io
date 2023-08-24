@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grip Security Raises $41 Million to Accelerate Growth and Extend its Market<a href="https://www.helpnetsecurity.com/2023/08/22/grip-security-funding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The investment brings Grip Security’s total funding to $66 million and marks a major milestone for the company, further accelerating its go-to-market strategy and advancing product development.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cerby Raises $17 Million for Access Management Platform for Nonstandard Applications<a href="https://www.securityweek.com/cerby-raises-17-million-for-access-management-platform-for-nonstandard-applications/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The investment round was led by Two Sigma Ventures, with additional funding from Outpost Ventures, AV8, Bowery Capital, Founders Fund, Incubate Fund, Okta Ventures, Ridge Ventures, Salesforce Ventures, and Tau Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

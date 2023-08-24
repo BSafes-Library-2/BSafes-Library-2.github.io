@@ -8,6 +8,35 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Carderbee APT targets Hong Kong orgs via supply chain attacks<a href="https://securityaffairs.com/149790/apt/carderbee-apt-supply-chain-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown APT group, tracked as Carderbee, was behind a supply chain attack against Hong Kong organizations.
+Symantec Threat Hunter Team reported that a previously unknown APT group, tracked as Carderbee, used a malware-laced version of the legitimate...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attack: Carderbee APT Strikes Hong Kong Organizations<a href="https://cyware.com/news/supply-chain-attack-carderbee-apt-strikes-hong-kong-organizations-31112a89"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Undocumented threat cluster Carderbee was observed targeting organizations in Hong Kong and other Asian regions via a trojanized version of the legitimate software EsafeNet Cobra DocGuard Client to deliver the PlugX backdoor and gain access to victim networks. Strengthening supply chain security th ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

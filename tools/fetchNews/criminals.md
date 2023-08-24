@@ -8,6 +8,51 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit Attack Spree Makes Clop This Summer’s Most-Prolific Ransomware Group<a href="https://www.cybersecuritydive.com/news/clop-one-third-ransomware-attacks/691433/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clop was responsible for one-third of all ransomware attacks in July, positioning the financially-motivated threat actor to become the most prolific ransomware threat actor this summer, according to multiple threat intelligence reports.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akira ransomware gang spotted targeting Cisco VPN products to hack organizations<a href="https://securityaffairs.com/149770/malware/akira-ransomware-cisco-vpn.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Akira ransomware gang targets Cisco VPN products to gain initial access to corporate networks and steal their data.
+The Akira ransomware has been active since March 2023, the threat actors behind the malware claim to have already hacked multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snatch gang claims the hack of the Department of Defence South Africa<a href="https://securityaffairs.com/149760/cyber-crime/snatch-ransomware-department-of-defence-south-africa.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Snatch gang claims the hack of the Department of Defence South Africa and added the military organization to its leak site.
+The Snatch ransomware group added the Department of Defence South Africa to its data leak site.
+The mission of the Department...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2023 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Identifies Cryptocurrency Funds Stolen by DPRK <a href="https://www.fbi.gov/news/press-releases/fbi-identifies-cryptocurrency-funds-stolen-by-dprk"> Full Text</a>
+</p>
+<details>
+The FBI is warning cryptocurrency companies of recent blockchain activity connected to the theft of hundreds of millions of dollars in cryptocurrency. Over the last 24 hours, the FBI tracked cryptocurrency stolen by the Democratic People's Republic of Korea (DPRK) TraderTraitor-affiliated actors (also known as Lazarus Group and APT38). The FBI believes the DPRK may attempt to cash out the bitcoin worth more than $40 million dollars. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 21, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -92,6 +103,20 @@ The NIST Cybersecurity Framework 2.0 <a href="https://csrc.nist.gov/pubs/cswp/29
 This is the public draft of the NIST Cybersecurity Framework (CSF or Framework) 2.0.
 
 The Framework has been used widely to reduce cybersecurity risks since its initial publication in 2014. Many organizations have told NIST that CSF 1.1 remains an effective framework for addressing cybersecurity risks. There is also widespread agreement that changes are warranted to address current and future cybersecurity challenges and to make it easier for organizations to use the Framework. NIST is working with the community to ensure that CSF 2.0 is effective for the future while fulfilling the CSF’s original goals and objectives.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2023 - The White House 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden-⁠Harris Administration Launches New Efforts to Strengthen America’s K-12 Schools’ Cybersecurity <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2023/08/07/biden-harris-administration-launches-new-efforts-to-strengthen-americas-k-12-schools-cybersecurity/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Biden-Harris Administration is announcing new actions and private commitments to bolster the nation’s cyber defense at schools and protect hard-working American families.
+
+Administration leaders, school administrators, educators, and education technology providers will convene at the White House to discuss how to strengthen the nation’s schools’ cybersecurity amidst growing ransomware attacks.
 </details>
 </div>
 
