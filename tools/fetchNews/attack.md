@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Intrusion Impacts All Servers of Danish Cloud Provider<a href="https://www.theregister.com/2023/08/23/ransomware_wipes_cloudnordic/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack occurred on August 18, and since then, efforts have been made to restore the data, but it has proved difficult. CloudNordic has stated that it will not pay the ransom demanded by the hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

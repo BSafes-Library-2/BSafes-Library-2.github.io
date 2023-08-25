@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions stolen from crypto platforms Exactly Protocol and Harbor Protocol<a href="https://therecord.media/millions-stolen-exactly-harbor-protocol-defi-cryptocurrency?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Exploits Critical Zoho ManageEngine Flaw to Deploy Stealthy QuiteRAT Malware<a href="https://thehackernews.com/2023/08/lazarus-group-exploits-critical-zoho.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers released PoC exploit for Ivanti Sentry flaw CVE-2023-38035<a href="https://securityaffairs.com/149837/breaking-news/poc-exploit-ivanti-sentry-cve-2023-38035.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Smoke Loader Drops Whiffy Recon Wi-Fi Scanning and Geolocation Malware<a href="https://www.secureworks.com/blog/smoke-loader-drops-whiffy-recon-wi-fi-scanning-and-geolocation-malware?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Telegram Bot "Telekopye" Powering Large-scale Phishing Scams from Russia<a href="https://thehackernews.com/2023/08/new-telegram-bot-telekopye-powering.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus APT exploits Zoho ManageEngine flaw to target an Internet backbone infrastructure provider<a href="https://securityaffairs.com/149829/apt/lazarus-apt-exploits-zoho-manageengine-flaw.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telekopye: Hunting Mammoths using Telegram bot<a href="https://www.welivesecurity.com/en/eset-research/telekopye-hunting-mammoths-using-telegram-bot/?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Hidden Dangers of Public Wi-Fi<a href="https://thehackernews.com/2023/08/the-hidden-dangers-of-public-wi-fi.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lapsus$ member has been convicted of having hacked multiple high-profile companies<a href="https://securityaffairs.com/149821/cyber-crime/lapsus-member-convicted.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Exploits ManageEngine Vulnerability to Deploy QuiteRAT<a href="https://blog.talosintelligence.com/lazarus-quiterat/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New "Whiffy Recon" Malware Triangulates Infected Device Location via Wi-Fi Every Minute<a href="https://thehackernews.com/2023/08/new-whiffy-recon-malware-triangulates.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More than 3,000 Openfire servers exposed to attacks using a new exploit<a href="https://securityaffairs.com/149811/breaking-news/openfire-servers-exposed-new-exploit.html"> Full Text</a>
@@ -230,7 +230,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 nao-sec.org<a href="https://nao-sec.org/2023/08/groundpeony-crawling-with-malice.html?&web_view=true"> Full Text</a>
@@ -246,7 +246,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WinRAR Security Flaw Exploited in Zero-Day Attacks to Target Traders<a href="https://thehackernews.com/2023/08/winrar-security-flaw-exploited-in-zero.html"> Full Text</a>
@@ -262,7 +262,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bugs in NVIDIA Graphics Driver Leads to Memory Corruption<a href="https://blog.talosintelligence.com/nvidia-graphics-driver-vulnerability-roundup/?&web_view=true"> Full Text</a>
@@ -278,7 +278,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Unpatched Openfire XMPP Servers Still Exposed to High-Severity Flaw<a href="https://thehackernews.com/2023/08/thousands-of-unpatched-openfire-xmpp.html"> Full Text</a>
@@ -294,7 +294,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More than 3,000 Openfire servers exposed to attacks using a new exploit<a href="https://securityaffairs.com/149811/breaking-news/openfire-servers-exposed-new-exploit.html?&web_view=true"> Full Text</a>
@@ -310,7 +310,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2023
+August 24, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tornado Cash Founders Charged in Billion-Dollar Crypto Laundering Scandal<a href="https://thehackernews.com/2023/08/tornado-cash-founders-charged-in.html"> Full Text</a>

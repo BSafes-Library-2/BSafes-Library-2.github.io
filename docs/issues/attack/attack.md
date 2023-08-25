@@ -8,6 +8,49 @@ nav_order: 900015
 
 ## Attack
 ---
+August 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT exploits Zoho ManageEngine flaw to target an Internet backbone infrastructure provider<a href="https://securityaffairs.com/149829/apt/lazarus-apt-exploits-zoho-manageengine-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked Lazarus group exploits a critical flaw in Zoho ManageEngine ServiceDesk Plus to deliver the QuiteRAT malware.
+The North Korea-linked APT group Lazarus has been exploiting a critical vulnerability, tracked as CVE-2022-47966,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WinRAR Security Flaw Exploited in Zero-Day Attacks to Target Traders<a href="https://thehackernews.com/2023/08/winrar-security-flaw-exploited-in-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently patched security flaw in the popular WinRAR archiving software has been exploited as a zero-day since April 2023, new findings from Group-IB reveal. The vulnerability, cataloged as&nbsp; CVE-2023-38831 , allows threat actors to spoof file extensions, thereby making it possible to launch malicious scripts contained within an archive that masquerades as seemingly innocuous image or text files. It was addressed in&nbsp; version 6.23 &nbsp;released on August 2, 2023, alongside CVE-2023-40477. In attacks discovered by the Singapore-based firm in July 2023, specially crafted ZIP or RAR archive files distributed via trading-related forums such as Forex Station have been used to deliver a variety of malware families such as DarkMe,&nbsp; GuLoader , and&nbsp; Remcos RAT . "After infecting devices, the cybercriminals withdraw money from broker accounts," Group-IB malware analyst Andrey Polovinkin&nbsp; said , adding as many as 130 traders' devices have been compromised as part of the campaign. T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than 3,000 Openfire servers exposed to attacks using a new exploit<a href="https://securityaffairs.com/149811/breaking-news/openfire-servers-exposed-new-exploit.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The experts pointed out that the bug has been exploited for more than two months, but yet to be added to the CISA KEV catalog. The researchers discovered approximately 6,300 servers on Shodan and a bit more using the Censys search engine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

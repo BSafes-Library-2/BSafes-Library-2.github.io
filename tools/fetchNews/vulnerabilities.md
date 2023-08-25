@@ -8,6 +8,49 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3,000 Openfire Servers Exposed to Attacks Targeting Recent Vulnerability<a href="https://www.securityweek.com/3000-openfire-servers-exposed-to-attacks-targeting-recent-vulnerability/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2023-32315, the high-severity flaw was discovered in Openfire’s administration console and is described as a path traversal bug via the setup environment that allows unauthenticated attackers to access restricted pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TP-Link Tapo L530E smart bulb flaws allow hackers to steal user passwords<a href="https://securityaffairs.com/149783/hacking/tp-link-tapo-l530e-smart-bulb-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four vulnerabilities in the TP-Link Tapo L530E smart bulb and impacting the mobile app used to control them expose users to hack.
+Researchers from the University of Catania (Italy) and the University of London (UK) have discovered four vulnerabilities...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+First Weekly Chrome Security Update Patches High-Severity Vulnerabilities<a href="https://www.securityweek.com/first-weekly-chrome-security-update-patches-high-severity-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google this week announced a Chrome 116 security update that patches five memory safety vulnerabilities reported by external researchers, including four issues rated ‘high severity’.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Exploits Critical Zoho ManageEngine Flaw to Deploy Stealthy QuiteRAT Malware<a href="https://thehackernews.com/2023/08/lazarus-group-exploits-critical-zoho.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked threat actor known as Lazarus Group has been observed exploiting a now-patched critical security flaw impacting Zoho ManageEngine ServiceDesk Plus to distribute a remote access trojan called such as&nbsp; QuiteRAT . Targets include internet backbone infrastructure and healthcare entities in Europe and the U.S., cybersecurity company Cisco Talos said in a&nbsp; two-part &nbsp; analysis &nbsp;published today. What's more, a closer examination of the adversary's recycled attack infrastructure in its cyber assaults on enterprises has led to the discovery of a new threat dubbed&nbsp; CollectionRAT . The fact that the Lazarus Group continues to rely on the same tradecraft despite those components being well-documented over the years underscores the threat actor's confidence in their operations, Talos pointed out. QuiteRAT is said to be a successor to&nbsp; MagicRAT , itself a follow-up to TigerRAT, while CollectionRAT appears to share overlaps with&nbsp; EarlyRAT &nbsp;(aka&nbsp; Jupiter ), an im
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telekopye: Hunting Mammoths using Telegram bot<a href="https://www.welivesecurity.com/en/eset-research/telekopye-hunting-mammoths-using-telegram-bot/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exact origins of the threat actors, dubbed Neanderthals, are unclear, but evidence points to Russia as the country of origin of the toolkit's authors and users, owing to the use of Russian SMS templates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

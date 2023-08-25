@@ -8,6 +8,35 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ member has been convicted of having hacked&nbsp;multiple high-profile companies<a href="https://securityaffairs.com/149821/cyber-crime/lapsus-member-convicted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An 18-year-old member of the Lapsus$ gang has been convicted of having helped hack&nbsp;multiple high-profile companies.
+A teenage member of the Lapsus$ data extortion group, Arion Kurtaj (18), was convicted by a London jury of having hacked multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tornado Cash Founders Charged in Billion-Dollar Crypto Laundering Scandal<a href="https://thehackernews.com/2023/08/tornado-cash-founders-charged-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department (DoJ) on Wednesday&nbsp; unsealed an indictment &nbsp;against two founders of the now-sanctioned Tornado Cash cryptocurrency mixer service, charging them with laundering more than $1 billion in criminal proceeds. Both the individuals, Roman Storm and Roman Semenov, have been charged with conspiracy to commit money laundering, conspiracy to commit sanctions violations, and conspiracy to operate an unlicensed money-transmitting business. Storm, 34, is said to have been arrested in the U.S. state of Washington. Semenov, 35, remains at large in Dubai. They are alleged to have "made millions of dollars in profits" from promoting and operating the service. Tornado Cash is estimated to have processed upwards of $7 billion worth of crypto assets over a period of three years. In a related move, the U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned &nbsp;Semenov and&nbsp; eight cryptocurrency addresses &nbsp;connected to him, days after a U.S. cou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

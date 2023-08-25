@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agile Approach to Mass Cloud Credential Harvesting and Crypto Mining Sprints Ahead<a href="https://thehackernews.com/2023/08/agile-approach-to-mass-cloud-credential.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developers are not the only people who have adopted the agile methodology for their development processes. From 2023-06-15 to 2023-07-11, Permiso Security's p0 Labs team identified and tracked an attacker developing and deploying eight (8) incremental iterations of their credential harvesting malware while continuing to develop infrastructure for an upcoming (spoiler: now launched) campaign targeting various cloud services. While last week Aqua Security published a blog&nbsp;detailing this under-development campaign's stages related to infected Docker images, today&nbsp; Permiso p0 Labs &nbsp;and&nbsp; SentinelLabs &nbsp;are releasing joint research highlighting the incremental updates to the cloud credential harvesting malware samples systematically collected by monitoring the attacker's infrastructure. So get out of your seats and enjoy this scrum meeting stand-up dedicated to sharing knowledge about this actors campaign and the tooling they will use to steal more cloud credentials. If you like IDA scree
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Syrian Threat Actor EVLF Unmasked as Creator of CypherRAT and CraxsRAT Android Malware<a href="https://thehackernews.com/2023/08/syrian-threat-actor-evlf-unmasked-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Syrian threat actor named&nbsp; EVLF &nbsp;has been outed as the creator of malware families CypherRAT and CraxsRAT. "These RATs are designed to allow an attacker to remotely perform real-time actions and control the victim device's camera, location, and microphone," Cybersecurity firm Cyfirma&nbsp; said &nbsp;in a report published last week. CypherRAT and CraxsRAT are said to be offered to other cybercriminals as part of a malware-as-a-service (MaaS) scheme. As many as 100 unique threat actors are estimated to have purchased the twin tools on a lifetime license over the past three years. EVLF is said to be operating a web shop to advertise their warez since at least September 2022. CraxsRAT is billed as an Android trojan that enables a threat actor to remote control an infected device from a Windows computer, with the developer consistently releasing new updates based on feedback from the customers. The malicious package is generated using a builder, which comes with options to cus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
