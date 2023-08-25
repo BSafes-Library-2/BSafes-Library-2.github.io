@@ -34,6 +34,298 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions stolen from crypto platforms Exactly Protocol and Harbor Protocol<a href="https://therecord.media/millions-stolen-exactly-harbor-protocol-defi-cryptocurrency?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two DeFi platforms, Exactly and Harbor, fell victim to cyberattacks resulting in the theft of millions of dollars' worth of cryptocurrency. Exactly Protocol confirmed suffering a loss of around $7.3 million worth of ETH.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Exploits Critical Zoho ManageEngine Flaw to Deploy Stealthy QuiteRAT Malware<a href="https://thehackernews.com/2023/08/lazarus-group-exploits-critical-zoho.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked threat actor known as Lazarus Group has been observed exploiting a now-patched critical security flaw impacting Zoho ManageEngine ServiceDesk Plus to distribute a remote access trojan called such as  QuiteRAT . Targets include internet backbone infrastructure and healthcare entities in Europe and the U.S., cybersecurity company Cisco Talos said in a  two-part   analysis  published today. What's more, a closer examination of the adversary's recycled attack infrastructure in its cyber assaults on enterprises has led to the discovery of a new threat dubbed  CollectionRAT . The fact that the Lazarus Group continues to rely on the same tradecraft despite those components being well-documented over the years underscores the threat actor's confidence in their operations, Talos pointed out. QuiteRAT is said to be a successor to  MagicRAT , itself a follow-up to TigerRAT, while CollectionRAT appears to share overlaps with  EarlyRAT  (aka  Jupiter ), an im
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers released PoC exploit for Ivanti Sentry flaw CVE-2023-38035<a href="https://securityaffairs.com/149837/breaking-news/poc-exploit-ivanti-sentry-cve-2023-38035.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code for critical Ivanti Sentry authentication bypass flaw CVE-2023-38035 has been released.
+Researchers released a proof-of-concept (PoC) exploit code for critical Ivanti Sentry authentication bypass vulnerability CVE-2023-38035...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smoke Loader Drops Whiffy Recon Wi-Fi Scanning and Geolocation Malware<a href="https://www.secureworks.com/blog/smoke-loader-drops-whiffy-recon-wi-fi-scanning-and-geolocation-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Whiffy Recon works by checking for the WLAN AutoConfig service (WLANSVC) on the infected system and terminating itself if the service name doesn't exist. Persistence is achieved by means of a shortcut that's added to the Windows Startup folder.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Telegram Bot "Telekopye" Powering Large-scale Phishing Scams from Russia<a href="https://thehackernews.com/2023/08/new-telegram-bot-telekopye-powering.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new financially motivated operation is leveraging a malicious Telegram bot to help threat actors scam their victims. Dubbed  Telekopye , a portmanteau of Telegram and kopye (meaning "spear" in Russian), the toolkit functions as an  automated means  to create a phishing web page from a premade template and send the URL to potential victims, codenamed Mammoths by the criminals. "This toolkit is implemented as a Telegram bot that, when activated, provides several easy-to-navigate menus in the form of clickable buttons that can accommodate many scammers at once," ESET researcher Radek Jizba  said  in a report shared with The Hacker News. The exact origins of the threat actors, dubbed Neanderthals, are unclear, but evidence points to Russia as the country of origin of the toolkit's authors and users, owing to the use of Russian SMS templates and the fact that a majority of the targeted online marketplaces are popular in the country. Multiple versions of Teleko
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT exploits Zoho ManageEngine flaw to target an Internet backbone infrastructure provider<a href="https://securityaffairs.com/149829/apt/lazarus-apt-exploits-zoho-manageengine-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked Lazarus group exploits a critical flaw in Zoho ManageEngine ServiceDesk Plus to deliver the QuiteRAT malware.
+The North Korea-linked APT group Lazarus has been exploiting a critical vulnerability, tracked as CVE-2022-47966,...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telekopye: Hunting Mammoths using Telegram bot<a href="https://www.welivesecurity.com/en/eset-research/telekopye-hunting-mammoths-using-telegram-bot/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exact origins of the threat actors, dubbed Neanderthals, are unclear, but evidence points to Russia as the country of origin of the toolkit's authors and users, owing to the use of Russian SMS templates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Hidden Dangers of Public Wi-Fi<a href="https://thehackernews.com/2023/08/the-hidden-dangers-of-public-wi-fi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Public Wi-Fi, which has long since become the norm, poses threats to not only individual users but also businesses. With the rise of remote work, people can now work from virtually anywhere: a cafe close to home, a hotel in a different city, or even while waiting for a plane at the airport. Next, let's explore the risks of connecting to public Wi-Fi, both for you personally and for businesses. According to the  Forbes Advisor  the majority of people (56%) connect to public Wi-Fi networks that don't require a password. This convenience comes at a price, and many are unaware that attackers can steal card details, passwords, and other sensitive information. Man-in-the-Middle (MITM) Attacks:  This is one of the most common threats on public Wi-Fi. In an MITM attack, the hacker secretly intercepts and possibly alters the communication between two parties. The user believes they are directly communicating with a website, email server, or another user, but the hacker is relaying t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lapsus$ member has been convicted of having hacked multiple high-profile companies<a href="https://securityaffairs.com/149821/cyber-crime/lapsus-member-convicted.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An 18-year-old member of the Lapsus$ gang has been convicted of having helped hack multiple high-profile companies.
+A teenage member of the Lapsus$ data extortion group, Arion Kurtaj (18), was convicted by a London jury of having hacked multiple...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Exploits ManageEngine Vulnerability to Deploy QuiteRAT<a href="https://blog.talosintelligence.com/lazarus-quiterat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QuiteRAT is clearly an evolution of MagicRAT. While MagicRAT is a bigger, bulkier malware family averaging around 18MB in size, QuiteRAT is a much much smaller implementation, averaging around 4 to 5MB in size.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New "Whiffy Recon" Malware Triangulates Infected Device Location via Wi-Fi Every Minute<a href="https://thehackernews.com/2023/08/new-whiffy-recon-malware-triangulates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SmokeLoader malware is being used to deliver a new Wi-Fi scanning malware strain called  Whiffy Recon  on compromised Windows machines. "The new malware strain has only one operation. Every 60 seconds it triangulates the infected systems' positions by scanning nearby Wi-Fi access points as a data point for Google's geolocation API," Secureworks Counter Threat Unit (CTU)  said  in a statement shared with The Hacker News. "The location returned by Google's  Geolocation API  is then sent back to the adversary." SmokeLoader , as the name implies, is a loader malware whose sole purpose is to drop additional payloads onto a host. Since 2014, the malware has been  offered for sale  to Russian-based threat actors. It's traditionally distributed via phishing emails. Whiffy Recon works by checking for the WLAN AutoConfig service (WLANSVC) on the infected system and terminating itself if the service name doesn't exist. It's worth noting that th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than 3,000 Openfire servers exposed to attacks using a new exploit<a href="https://securityaffairs.com/149811/breaking-news/openfire-servers-exposed-new-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that more than 3,000 unpatched Openfire servers are exposed to attacks using an exploit for a recent flaw.
+Vulncheck researchers discovered more than 3,000 Openfire servers vulnerable to the CVE-2023-32315 flaw that are exposed to attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+nao-sec.org<a href="https://nao-sec.org/2023/08/groundpeony-crawling-with-malice.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The APT group starts by sending a spear-phishing email, which consists of a DOC file embedded with a URL for a ZIP file download. Once the ZIP file gets downloaded, it contains an EXE file and a DLL file which are executed to infect malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WinRAR Security Flaw Exploited in Zero-Day Attacks to Target Traders<a href="https://thehackernews.com/2023/08/winrar-security-flaw-exploited-in-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently patched security flaw in the popular WinRAR archiving software has been exploited as a zero-day since April 2023, new findings from Group-IB reveal. The vulnerability, cataloged as  CVE-2023-38831 , allows threat actors to spoof file extensions, thereby making it possible to launch malicious scripts contained within an archive that masquerades as seemingly innocuous image or text files. It was addressed in  version 6.23  released on August 2, 2023, alongside CVE-2023-40477. In attacks discovered by the Singapore-based firm in July 2023, specially crafted ZIP or RAR archive files distributed via trading-related forums such as Forex Station have been used to deliver a variety of malware families such as DarkMe,  GuLoader , and  Remcos RAT . "After infecting devices, the cybercriminals withdraw money from broker accounts," Group-IB malware analyst Andrey Polovinkin  said , adding as many as 130 traders' devices have been compromised as part of the campaign. T
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in NVIDIA Graphics Driver Leads to Memory Corruption<a href="https://blog.talosintelligence.com/nvidia-graphics-driver-vulnerability-roundup/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker could exploit these vulnerabilities from guest machines running virtualization environments to perform a guest-to-host escape, as we’ve illustrated with previous vulnerabilities in NVIDIA graphics drivers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Unpatched Openfire XMPP Servers Still Exposed to High-Severity Flaw<a href="https://thehackernews.com/2023/08/thousands-of-unpatched-openfire-xmpp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of  Openfire XMPP servers  are unpatched against a recently disclosed high-severity flaw and are susceptible to a new exploit, according to a  new report  from VulnCheck. Tracked as  CVE-2023-32315  (CVSS score: 7.5), the vulnerability relates to a path traversal vulnerability in Openfire's administrative console that could permit an unauthenticated attacker to access otherwise restricted pages reserved for privileged users. It affects all versions of the software released since April 2015, starting with version 3.10.0. It was remediated by its developer, Ignite Realtime, earlier this May with the release of versions 4.6.8, 4.7.5, and 4.8.0. "Path traversal protections were already in place to protect against exactly this kind of attack, but didn't defend against certain non-standard URL encoding for UTF-16 characters that were not supported by the embedded web server that was in use at the time," the maintainers  said  in a detailed advisory. "A
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than 3,000 Openfire servers exposed to attacks using a new exploit<a href="https://securityaffairs.com/149811/breaking-news/openfire-servers-exposed-new-exploit.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The experts pointed out that the bug has been exploited for more than two months, but yet to be added to the CISA KEV catalog. The researchers discovered approximately 6,300 servers on Shodan and a bit more using the Censys search engine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tornado Cash Founders Charged in Billion-Dollar Crypto Laundering Scandal<a href="https://thehackernews.com/2023/08/tornado-cash-founders-charged-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department (DoJ) on Wednesday  unsealed an indictment  against two founders of the now-sanctioned Tornado Cash cryptocurrency mixer service, charging them with laundering more than $1 billion in criminal proceeds. Both the individuals, Roman Storm and Roman Semenov, have been charged with conspiracy to commit money laundering, conspiracy to commit sanctions violations, and conspiracy to operate an unlicensed money-transmitting business. Storm, 34, is said to have been arrested in the U.S. state of Washington. Semenov, 35, remains at large in Dubai. They are alleged to have "made millions of dollars in profits" from promoting and operating the service. Tornado Cash is estimated to have processed upwards of $7 billion worth of crypto assets over a period of three years. In a related move, the U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned  Semenov and  eight cryptocurrency addresses  connected to him, days after a U.S. cou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 23, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
