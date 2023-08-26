@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two LAPSUS$ Hackers Convicted in London Court for High-Profile Tech Firm Hacks<a href="https://thehackernews.com/2023/08/two-lapsus-hackers-convicted-in-london.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two U.K. teenagers have been convicted by a jury in London for being part of the notorious LAPSUS$ transnational gang and for orchestrating a series of brazen, high-profile hacks against major tech firms and demanding a ransom in exchange for not leaking the stolen information. This includes Arion Kurtaj (aka White, Breachbase, WhiteDoxbin, and TeaPotUberHacker), an 18-year-old from Oxford, and an unnamed minor, who began collaborating in July 2021 after having met online, BBC&nbsp; reported &nbsp;this week. Both the defendants were initially arrested and released under investigation in January 2022, only to be&nbsp; re-arrested and charged &nbsp;by the City of London Police in April 2022. Kurtaj was subsequently granted bail and moved to a hotel in Bicester after he was doxxed in an online cybercrime forum. He, however, continued his hacking spree, targeting companies like&nbsp; Uber ,&nbsp; Revolut , and&nbsp; Rockstar Games , as a result of which he was&nbsp; arrested again &nbsp;in September. Another alleged member of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

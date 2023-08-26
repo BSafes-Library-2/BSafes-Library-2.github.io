@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-based 'Flax Typhoon' hackers targeting Taiwan govt: Microsoft<a href="https://news.yahoo.com/china-based-flax-typhoon-hackers-032403449.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The activities observed suggest the threat actor intends to perform espionage and maintain access to organizations across a broad range of industries for as long as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

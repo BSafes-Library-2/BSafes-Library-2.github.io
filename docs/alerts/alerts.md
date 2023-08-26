@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 23, 2023 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected PRC Cyber ActorsContinue to Globally Exploit Barracuda ESG Zero-Day Vulnerability (CVE-2023-2868) <a href="https://dd80b675424c132b90b3-e48385e382d2e5d17821a5e1d8e4c86b.ssl.cf1.rackcdn.com/external/230823-1.pdf"> Full Text</a>
+</p>
+<details>
+As a part of the FBI investigation into the exploitation of CVE-2023-2868, a zero-day vulnerability in Barracuda Network’s Email Security Gateway (ESG) appliances, the FBI has independently verified that all exploited ESG appliances, even those with patches pushed out by Barracuda, remain at risk for continued computer network compromise from suspected PRC cyber actors exploiting this vulnerability. For more details regarding malware found to date related to this exploit and learn more about Barracuda backdoors, please visit CISA Releases Malware Analysis Reports on Barracuda Backdoors. The cyber actors utilized this vulnerability to insert malicious payloads onto the ESG appliance with a variety of capabilities that enabled persistent access, email scanning, credential harvesting, and data exfiltration. The FBI strongly advises all affected ESG appliances be isolated and replaced immediately, and all networks scanned for connections to the provided list of indicators of compromise immediately. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 22, 2023 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Hidden Dangers of Public Wi-Fi<a href="https://thehackernews.com/2023/08/the-hidden-dangers-of-public-wi-fi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Public Wi-Fi, which has long since become the norm, poses threats to not only individual users but also businesses. With the rise of remote work, people can now work from virtually anywhere: a cafe close to home, a hotel in a different city, or even while waiting for a plane at the airport. Next, let's explore the risks of connecting to public Wi-Fi, both for you personally and for businesses. According to the&nbsp; Forbes Advisor &nbsp;the majority of people (56%) connect to public Wi-Fi networks that don't require a password. This convenience comes at a price, and many are unaware that attackers can steal card details, passwords, and other sensitive information. Man-in-the-Middle (MITM) Attacks: &nbsp;This is one of the most common threats on public Wi-Fi. In an MITM attack, the hacker secretly intercepts and possibly alters the communication between two parties. The user believes they are directly communicating with a website, email server, or another user, but the hacker is relaying t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

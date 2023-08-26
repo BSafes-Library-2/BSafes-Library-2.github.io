@@ -8,6 +8,64 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers released PoC exploit for Ivanti Sentry flaw CVE-2023-38035<a href="https://securityaffairs.com/149837/breaking-news/poc-exploit-ivanti-sentry-cve-2023-38035.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code for critical Ivanti Sentry authentication bypass flaw CVE-2023-38035 has been released.
+Researchers released a proof-of-concept (PoC) exploit code for critical Ivanti Sentry authentication bypass vulnerability CVE-2023-38035...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More than 3,000 Openfire servers exposed to attacks using a new exploit<a href="https://securityaffairs.com/149811/breaking-news/openfire-servers-exposed-new-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers warn that more than 3,000 unpatched Openfire servers are exposed to attacks using an exploit for a recent flaw.
+Vulncheck researchers discovered more than 3,000 Openfire servers vulnerable to the CVE-2023-32315 flaw that are exposed to attacks...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugs in NVIDIA Graphics Driver Leads to Memory Corruption<a href="https://blog.talosintelligence.com/nvidia-graphics-driver-vulnerability-roundup/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker could exploit these vulnerabilities from guest machines running virtualization environments to perform a guest-to-host escape, as we’ve illustrated with previous vulnerabilities in NVIDIA graphics drivers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Unpatched Openfire XMPP Servers Still Exposed to High-Severity Flaw<a href="https://thehackernews.com/2023/08/thousands-of-unpatched-openfire-xmpp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of&nbsp; Openfire XMPP servers &nbsp;are unpatched against a recently disclosed high-severity flaw and are susceptible to a new exploit, according to a&nbsp; new report &nbsp;from VulnCheck. Tracked as&nbsp; CVE-2023-32315 &nbsp;(CVSS score: 7.5), the vulnerability relates to a path traversal vulnerability in Openfire's administrative console that could permit an unauthenticated attacker to access otherwise restricted pages reserved for privileged users. It affects all versions of the software released since April 2015, starting with version 3.10.0. It was remediated by its developer, Ignite Realtime, earlier this May with the release of versions 4.6.8, 4.7.5, and 4.8.0. "Path traversal protections were already in place to protect against exactly this kind of attack, but didn't defend against certain non-standard URL encoding for UTF-16 characters that were not supported by the embedded web server that was in use at the time," the maintainers&nbsp; said &nbsp;in a detailed advisory. "A
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

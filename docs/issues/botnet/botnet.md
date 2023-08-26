@@ -8,6 +8,21 @@ nav_order: 900025
 
 ## Botnet
 ---
+August 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Whiffy Recon malware triangulates the position of infected systems via Wi-Fi<a href="https://securityaffairs.com/149854/malware/whiffy-recon-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts observed the SmokeLoader malware delivering a new Wi-Fi scanning malware strain dubbed&nbsp;Whiffy Recon.
+Secureworks Counter Threat Unit (CTU) researchers observed the Smoke Loader botnet dropping a new Wi-Fi scanning malware named Whiffy Recon....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

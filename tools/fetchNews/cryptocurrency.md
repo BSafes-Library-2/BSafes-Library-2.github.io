@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions stolen from crypto platforms Exactly Protocol and Harbor Protocol<a href="https://therecord.media/millions-stolen-exactly-harbor-protocol-defi-cryptocurrency?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two DeFi platforms, Exactly and Harbor, fell victim to cyberattacks resulting in the theft of millions of dollars' worth of cryptocurrency. Exactly Protocol confirmed suffering a loss of around $7.3 million worth of ETH.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

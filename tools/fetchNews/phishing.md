@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Telegram Bot "Telekopye" Powering Large-scale Phishing Scams from Russia<a href="https://thehackernews.com/2023/08/new-telegram-bot-telekopye-powering.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new financially motivated operation is leveraging a malicious Telegram bot to help threat actors scam their victims. Dubbed&nbsp; Telekopye , a portmanteau of Telegram and kopye (meaning "spear" in Russian), the toolkit functions as an&nbsp; automated means &nbsp;to create a phishing web page from a premade template and send the URL to potential victims, codenamed Mammoths by the criminals. "This toolkit is implemented as a Telegram bot that, when activated, provides several easy-to-navigate menus in the form of clickable buttons that can accommodate many scammers at once," ESET researcher Radek Jizba&nbsp; said &nbsp;in a report shared with The Hacker News. The exact origins of the threat actors, dubbed Neanderthals, are unclear, but evidence points to Russia as the country of origin of the toolkit's authors and users, owing to the use of Russian SMS templates and the fact that a majority of the targeted online marketplaces are popular in the country. Multiple versions of Teleko
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

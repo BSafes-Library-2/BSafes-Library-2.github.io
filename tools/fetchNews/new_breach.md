@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+August 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bankrupt Crypto Platforms FTX and BlockFi Warn Customers of Data Breach<a href="https://therecord.media/ftx-blockfi-warn-of-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FTX learned that Kroll, the claims agent in the bankruptcy, experienced a cybersecurity incident that compromised non-sensitive customer data of certain claimants in the pending bankruptcy case.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 1,000 Organizations, 60 Million Individuals Impacted by MOVEit Hack<a href="https://www.securityweek.com/nearly-1000-organizations-60-million-individuals-impacted-by-moveit-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 14 and 15, the cybercriminals leaked nearly 1 Tb of information allegedly stolen from 16 of the victims, Resecurity said. These victims include UCLA, Siemens Energy, Cognizant, and cybersecurity firms Norton LifeLock and Netscout.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Title Lender TMX Now Says Payment Card Data Stolen in Breach<a href="https://www.bankinfosecurity.com/title-lender-tmx-now-says-payment-card-data-stolen-in-breach-a-22921?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A revised data breach notification is being sent to victims stating that attackers may have also stolen their credit/debit card number, beyond the raft of personal information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

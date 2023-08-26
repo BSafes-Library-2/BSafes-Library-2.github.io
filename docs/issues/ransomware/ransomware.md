@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware With an Identity Crisis Targets Small Businesses, Individuals<a href="https://www.darkreading.com/threat-intelligence/ransomware-with-an-identity-crisis-targets-small-businesses-individuals?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A key reason it was so tricky for researchers to identify TZW as a spinoff of Adhubllka is because of the small ransom demands the group typically makes. At such a level, victims often pay attackers and the attackers continue to fly under the radar.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

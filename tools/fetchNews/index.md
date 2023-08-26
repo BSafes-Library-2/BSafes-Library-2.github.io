@@ -34,6 +34,281 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bankrupt Crypto Platforms FTX and BlockFi Warn Customers of Data Breach<a href="https://therecord.media/ftx-blockfi-warn-of-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FTX learned that Kroll, the claims agent in the bankruptcy, experienced a cybersecurity incident that compromised non-sensitive customer data of certain claimants in the pending bankruptcy case.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two LAPSUS$ Hackers Convicted in London Court for High-Profile Tech Firm Hacks<a href="https://thehackernews.com/2023/08/two-lapsus-hackers-convicted-in-london.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two U.K. teenagers have been convicted by a jury in London for being part of the notorious LAPSUS$ transnational gang and for orchestrating a series of brazen, high-profile hacks against major tech firms and demanding a ransom in exchange for not leaking the stolen information. This includes Arion Kurtaj (aka White, Breachbase, WhiteDoxbin, and TeaPotUberHacker), an 18-year-old from Oxford, and an unnamed minor, who began collaborating in July 2021 after having met online, BBC  reported  this week. Both the defendants were initially arrested and released under investigation in January 2022, only to be  re-arrested and charged  by the City of London Police in April 2022. Kurtaj was subsequently granted bail and moved to a hotel in Bicester after he was doxxed in an online cybercrime forum. He, however, continued his hacking spree, targeting companies like  Uber ,  Revolut , and  Rockstar Games , as a result of which he was  arrested again  in September. Another alleged member of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Flax Typhoon APT targets Taiwan<a href="https://securityaffairs.com/149862/apt/chinese-apt-flax-typhoon-targets-taiwan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group Flax Typhoon targeted dozens of organizations in Taiwan as part of a suspected espionage campaign.
+Microsoft linked the Chinese APT Flax Typhoon (aka Ethereal Panda) to a cyber espionage campaign that targeted dozens of organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco NX-OS Software TACACS+ or RADIUS Remote Authentication Directed Request Denial of Service Vulnerability<a href="https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-remoteauth-dos-XB6pv74m?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability can only be exploited over Telnet, which is disabled by default, or over the console management connection. This vulnerability cannot be exploited over SSH connections to the device.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Learn How Your Business Data Can Amplify Your AI/ML Threat Detection Capabilities<a href="https://thehackernews.com/2023/08/learn-how-your-business-data-can.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital landscape, your business data is more than just numbers—it's a powerhouse. Imagine leveraging this data not only for profit but also for enhanced AI and Machine Learning (ML) threat detection. For companies like Comcast, this isn't a dream. It's reality. Your business comprehends its risks, vulnerabilities, and the unique environment in which it operates. No generic, one-size-fits-all tool can capture this nuance. By utilizing your own data, you position yourself ahead of potential threats, enabling informed decisions and safeguarding your assets. Join our groundbreaking webinar, " Clean Data, Better Detections: Using Your Business Data for AI/ML Detections ," to unearth how your distinct business data can be the linchpin to amplifying your AI/ML threat detection prowess. This webinar will endow you with the insights and tools necessary to harness your business data, leading to sharper, more efficient, and potent threat detections. UPC
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Whiffy Recon malware triangulates the position of infected systems via Wi-Fi<a href="https://securityaffairs.com/149854/malware/whiffy-recon-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts observed the SmokeLoader malware delivering a new Wi-Fi scanning malware strain dubbed Whiffy Recon.
+Secureworks Counter Threat Unit (CTU) researchers observed the Smoke Loader botnet dropping a new Wi-Fi scanning malware named Whiffy Recon....
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware With an Identity Crisis Targets Small Businesses, Individuals<a href="https://www.darkreading.com/threat-intelligence/ransomware-with-an-identity-crisis-targets-small-businesses-individuals?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A key reason it was so tricky for researchers to identify TZW as a spinoff of Adhubllka is because of the small ransom demands the group typically makes. At such a level, victims often pay attackers and the attackers continue to fly under the radar.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Navigating Legacy Infrastructure: A CISO's Actionable Strategy for Success<a href="https://thehackernews.com/2023/08/navigating-legacy-infrastructure-cisos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every company has some level of tech debt. Unless you're a brand new start-up, you most likely have a patchwork of solutions that have been implemented throughout the years, often under various leadership teams with different priorities and goals. As those technologies age, they can leave your organization vulnerable to cyber threats. While replacing legacy technologies can be costly, those costs may pale in comparison to a breach – both in terms of immediate financial impact and reputational damage.  Here are three ways you can communicate risk to your leadership team as you work to replace legacy infrastructure. 1: Make the Risk Real Leadership teams are driven by quantifiable business implications. The best way to get support for updating or replacing legacy technology is to make the risk to the business real - and measurable - in a language they understand. One way to do this is to look at the list of critical vulnerabilities that you've identified, then evaluate the impact t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023a -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Patches for Barracuda ESG Zero-Day CVE-2023-2868 are ineffective<a href="https://securityaffairs.com/149845/hacking/barracuda-esg-cve-2023-2868-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warned that patches for a critical Barracuda ESG flaw CVE-2023-2868 are "ineffective" and patched appliances are still being hacked.
+The Federal Bureau of Investigation warned that security patches for critical vulnerability CVE-2023-2868...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 1,000 Organizations, 60 Million Individuals Impacted by MOVEit Hack<a href="https://www.securityweek.com/nearly-1000-organizations-60-million-individuals-impacted-by-moveit-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On August 14 and 15, the cybercriminals leaked nearly 1 Tb of information allegedly stolen from 16 of the victims, Resecurity said. These victims include UCLA, Siemens Energy, Cognizant, and cybersecurity firms Norton LifeLock and Netscout.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Flax Typhoon Cyber Espionage Targets Taiwan's Key Sectors<a href="https://thehackernews.com/2023/08/china-linked-flax-typhoon-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nation-state activity group originating from China has been linked to cyber attacks on dozens of organizations in Taiwan as part of a suspected espionage campaign. The Microsoft Threat Intelligence team is tracking the activity under the name  Flax Typhoon , which is also known as Ethereal Panda. "Flax Typhoon gains and maintains long-term access to Taiwanese organizations' networks with minimal use of malware, relying on tools built into the operating system, along with some normally benign software to quietly remain in these networks," the company  said . It further said it hasn't observed the group weaponize the access to conduct data-collection and exfiltration. A majority of the targets include government agencies, educational institutions, critical manufacturing, and information technology organizations in Taiwan. A smaller number of victims have also been detected in Southeast Asia, North America, and Africa. The group is suspected to have been active si
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Title Lender TMX Now Says Payment Card Data Stolen in Breach<a href="https://www.bankinfosecurity.com/title-lender-tmx-now-says-payment-card-data-stolen-in-breach-a-22921?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A revised data breach notification is being sent to victims stating that attackers may have also stolen their credit/debit card number, beyond the raft of personal information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Urgent FBI Warning: Barracuda Email Gateways Vulnerable Despite Recent Patches<a href="https://thehackernews.com/2023/08/urgent-fbi-warning-barracuda-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) is warning that Barracuda Networks Email Security Gateway (ESG) appliances patched against a recently disclosed critical flaw continue to be at risk of potential compromise from suspected Chinese hacking groups. It also  deemed  the fixes as "ineffective" and that it "continues to observe active intrusions and considers all affected Barracuda ESG appliances to be compromised and vulnerable to this exploit." Tracked as  CVE-2023-2868  (CVSS score: 9.8), the zero-day bug is said to have been weaponized as early as October 2022, more than seven months before the security hole was plugged. Google-owned Mandiant is tracking the China-nexus activity cluster under the name  UNC4841 . The remote command injection vulnerability, impacting versions 5.1.3.001 through 9.2.0.006, allows for unauthorized execution of system commands with administrator privileges on the ESG product. In the attacks observed so far, a successful b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-based 'Flax Typhoon' hackers targeting Taiwan govt: Microsoft<a href="https://news.yahoo.com/china-based-flax-typhoon-hackers-032403449.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The activities observed suggest the threat actor intends to perform espionage and maintain access to organizations across a broad range of industries for as long as possible.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Time keeps on slippin’ slippin’ slippin’: The 2023 Active Adversary Report for Tech Leaders<a href="https://news.sophos.com/en-us/2023/08/23/active-adversary-for-tech-leaders/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In H1 2023, compromised credentials accounted for 50% of root causes, whereas exploiting a bug came in at 23%. We can’t conclusively say that attackers are favoring compromised credentials over vulnerabilities, but it can’t be denied either.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Luna Grabber Poses as Roblox Packages, Strikes NPM<a href="https://cyware.com/news/new-luna-grabber-poses-as-roblox-packages-strikes-npm-94ca3c32"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are targeting Roblox developers with a new malware called Luna Grabber, distributed through npm packages that impersonate legitimate software. These fake packages, including noblox.js-vps, noblox.js-ssh, and noblox.js-secure, house malicious multi-stage payloads. This campaign ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers released PoC exploit for Ivanti Sentry flaw CVE-2023-38035<a href="https://securityaffairs.com/149837/breaking-news/poc-exploit-ivanti-sentry-cve-2023-38035.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability could be exploited to access sensitive API data and configurations, run system commands, or write files onto the system. The vulnerability CVE-2023-38035 impacts Sentry versions 9.18 and prior.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 24, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
