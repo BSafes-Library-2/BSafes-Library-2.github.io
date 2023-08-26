@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bankrupt Crypto Platforms FTX and BlockFi Warn Customers of Data Breach<a href="https://therecord.media/ftx-blockfi-warn-of-data-breach?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two LAPSUS$ Hackers Convicted in London Court for High-Profile Tech Firm Hacks<a href="https://thehackernews.com/2023/08/two-lapsus-hackers-convicted-in-london.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked Flax Typhoon APT targets Taiwan<a href="https://securityaffairs.com/149862/apt/chinese-apt-flax-typhoon-targets-taiwan.html"> Full Text</a>
@@ -83,7 +83,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco NX-OS Software TACACS+ or RADIUS Remote Authentication Directed Request Denial of Service Vulnerability<a href="https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-remoteauth-dos-XB6pv74m?&web_view=true"> Full Text</a>
@@ -99,7 +99,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Learn How Your Business Data Can Amplify Your AI/ML Threat Detection Capabilities<a href="https://thehackernews.com/2023/08/learn-how-your-business-data-can.html"> Full Text</a>
@@ -115,7 +115,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Whiffy Recon malware triangulates the position of infected systems via Wi-Fi<a href="https://securityaffairs.com/149854/malware/whiffy-recon-malware.html"> Full Text</a>
@@ -132,7 +132,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware With an Identity Crisis Targets Small Businesses, Individuals<a href="https://www.darkreading.com/threat-intelligence/ransomware-with-an-identity-crisis-targets-small-businesses-individuals?&web_view=true"> Full Text</a>
@@ -148,7 +148,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Navigating Legacy Infrastructure: A CISO's Actionable Strategy for Success<a href="https://thehackernews.com/2023/08/navigating-legacy-infrastructure-cisos.html"> Full Text</a>
@@ -164,7 +164,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023a -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Patches for Barracuda ESG Zero-Day CVE-2023-2868 are ineffective<a href="https://securityaffairs.com/149845/hacking/barracuda-esg-cve-2023-2868-flaw.html"> Full Text</a>
@@ -181,7 +181,7 @@ Security Affairs
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly 1,000 Organizations, 60 Million Individuals Impacted by MOVEit Hack<a href="https://www.securityweek.com/nearly-1000-organizations-60-million-individuals-impacted-by-moveit-hack/?&web_view=true"> Full Text</a>
@@ -197,7 +197,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked Flax Typhoon Cyber Espionage Targets Taiwan's Key Sectors<a href="https://thehackernews.com/2023/08/china-linked-flax-typhoon-cyber.html"> Full Text</a>
@@ -213,7 +213,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Title Lender TMX Now Says Payment Card Data Stolen in Breach<a href="https://www.bankinfosecurity.com/title-lender-tmx-now-says-payment-card-data-stolen-in-breach-a-22921?&web_view=true"> Full Text</a>
@@ -229,7 +229,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Urgent FBI Warning: Barracuda Email Gateways Vulnerable Despite Recent Patches<a href="https://thehackernews.com/2023/08/urgent-fbi-warning-barracuda-email.html"> Full Text</a>
@@ -245,7 +245,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-based 'Flax Typhoon' hackers targeting Taiwan govt: Microsoft<a href="https://news.yahoo.com/china-based-flax-typhoon-hackers-032403449.html?&web_view=true"> Full Text</a>
@@ -261,7 +261,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Time keeps on slippin’ slippin’ slippin’: The 2023 Active Adversary Report for Tech Leaders<a href="https://news.sophos.com/en-us/2023/08/23/active-adversary-for-tech-leaders/?&web_view=true"> Full Text</a>
@@ -277,7 +277,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Luna Grabber Poses as Roblox Packages, Strikes NPM<a href="https://cyware.com/news/new-luna-grabber-poses-as-roblox-packages-strikes-npm-94ca3c32"> Full Text</a>
@@ -293,7 +293,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 25, 2023
+August 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers released PoC exploit for Ivanti Sentry flaw CVE-2023-38035<a href="https://securityaffairs.com/149837/breaking-news/poc-exploit-ivanti-sentry-cve-2023-38035.html?&web_view=true"> Full Text</a>
