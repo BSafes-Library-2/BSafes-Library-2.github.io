@@ -34,6 +34,182 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Exploits ManageEngine to Deploy QuiteRAT<a href="https://cyware.com/news/lazarus-exploits-manageengine-to-deploy-quiterat-fd174c2c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lazarus group was associated with a new campaign against healthcare entities in Europe and the U.S. In this campaign, the attackers exploited a ManageEngine ServiceDesk vulnerability (CVE-2022-47966) to distribute the QuiteRAT malware. The malware has many capabilities similar to MagicRAT, anot ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 Ransomware Builder Leak Gives Rise to Hundreds of New Variants<a href="https://thehackernews.com/2023/08/lockbit-30-ransomware-builder-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leak of the  LockBit 3.0 ransomware  builder last year has led to threat actors abusing the tool to spawn new variants. Russian cybersecurity company Kaspersky said it detected a ransomware intrusion that deployed a version of LockBit but with a markedly different ransom demand procedure. "The attacker behind this incident decided to use a different ransom note with a headline related to a previously unknown group, called NATIONAL HAZARD AGENCY," security researchers Eduardo Ovalle and Francesco Figurelli  said . The revamped ransom note directly specified the amount to be paid to obtain the decryption keys, and directed communications to a Tox service and email, unlike the LockBit group, which doesn't mention the amount and uses its own communication and negotiation platform. NATIONAL HAZARD AGENCY is far from the only cybercrime gang to use the leaked LockBit 3.0 builder. Some of the other threat actors known to leverage it include  Bl00dy and Buhti . Kaspersk
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UnitedHealthcare Fined $80K for Six-Month Records Access Delay<a href="https://www.bankinfosecurity.com/unitedhealthcare-fined-80k-for-6-month-records-access-delay-a-22941?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HHS' Office for Civil Rights said UnitedHealthcare had agreed to settle a case involving potential HIPAA violations related to allegations that the company took six months to fulfill a health plan member's request to access his PHI.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kroll Suffers Data Breach: Employee Falls Victim to SIM Swapping Attack<a href="https://thehackernews.com/2023/08/kroll-suffers-data-breach-employee.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Risk and financial advisory solutions provider Kroll on Friday disclosed that one of its employees fell victim to a "highly sophisticated" SIM swapping attack. The incident, which took place on August 19, 2023, targeted the employee's T-Mobile account, the company said. "Specifically, T-Mobile, without any authority from or contact with Kroll or its employee, transferred that employee's phone number to the threat actor's phone at their request," it  said  in an advisory. This enabled the unidentified actor to gain access to certain files containing personal information of bankruptcy claimants in the matters of BlockFi , FTX , and Genesis. SIM swapping (aka SIM splitting or simjacking), while generally a benign process, could be exploited by threat actors to fraudulently activate a SIM card under their control with a victim's phone number. This makes it possible to intercept SMS messages and voice calls and receive MFA-related messages that cont
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Three Malware Loaders Behind 80% of Incidents<a href="https://www.reliaquest.com/blog/the-3-malware-loaders-behind-80-of-incidents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QakBot, SocGholish, and Raspberry Robin are the most prevalent malware loaders causing havoc for security teams, with QakBot being the most versatile and persistent threat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ Charged Tornado Cash Founders With Laundering More Than $1 Billion<a href="https://securityaffairs.com/149804/cyber-crime/tornado-cash-founders-charges.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The duo operated the Tornado Cash cryptocurrency mixer that facilitated more than $1 billion in money laundering transactions and laundered hundreds of millions of dollars for the Lazarus APT group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adversary On The Defense: ANTIBOT.PW<a href="https://inquest.net/blog/adversary-on-the-defense-antibot-pw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Antibot web traffic filtering service, originally a GitHub project, has evolved into a commercial platform for malicious actors, offering features like cloaking to evade analysis and prolong phishing and malware campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malwarebytes Announces Acquisition of Online Privacy Company Cyrus<a href="https://www.darkreading.com/endpoint/malwarebytes-announces-acquisition-of-online-privacy-company-cyrus?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This strategic acquisition reinforces Malwarebytes' commitment to privacy by giving users more control over their information, no matter where or how they choose to browse and interact online.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Prospect Medical Stolen Data Listed for Sale by Emerging Ransomware Group<a href="https://www.cybersecuritydive.com/news/prospect-medical-data-stolen/691945/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Rhysida ransomware group claimed responsibility for a ransomware attack against Prospect Medical Holdings that forced multiple hospital closures earlier this month and continues to impact operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of SSNs Leaked After Ransomware Attack on Ohio State Archive Organization<a href="https://therecord.media/ohio-archive-org-data-leak-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the oldest historical societies in the state of Ohio was hit with a ransomware attack that leaked the sensitive information of thousands, according to a statement the organization released this week.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cypago Raises $13 Million for GRC Automation Platform<a href="https://www.securityweek.com/cypago-raises-13-million-for-grc-automation-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new investment will allow Cypago to expand its research and development, product, and go-to-market teams, and grow its presence in the North American and European markets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
