@@ -8,6 +8,21 @@ nav_order: 900075
 
 ## Government
 ---
+August 25, 2023a <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Patches for Barracuda ESG Zero-Day CVE-2023-2868 are ineffective<a href="https://securityaffairs.com/149845/hacking/barracuda-esg-cve-2023-2868-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warned that patches for a critical Barracuda ESG flaw CVE-2023-2868 are "ineffective" and patched appliances are still being hacked.
+The Federal Bureau of Investigation warned that security patches for critical vulnerability CVE-2023-2868...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

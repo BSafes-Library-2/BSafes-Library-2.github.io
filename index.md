@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2023
+August 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Exploits ManageEngine to Deploy QuiteRAT<a href="https://cyware.com/news/lazarus-exploits-manageengine-to-deploy-quiterat-fd174c2c"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2023
+August 26, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit 3.0 Ransomware Builder Leak Gives Rise to Hundreds of New Variants<a href="https://thehackernews.com/2023/08/lockbit-30-ransomware-builder-leak.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2023
+August 26, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UnitedHealthcare Fined $80K for Six-Month Records Access Delay<a href="https://www.bankinfosecurity.com/unitedhealthcare-fined-80k-for-6-month-records-access-delay-a-22941?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2023
+August 26, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kroll Suffers Data Breach: Employee Falls Victim to SIM Swapping Attack<a href="https://thehackernews.com/2023/08/kroll-suffers-data-breach-employee.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2023
+August 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Three Malware Loaders Behind 80% of Incidents<a href="https://www.reliaquest.com/blog/the-3-malware-loaders-behind-80-of-incidents/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2023
+August 26, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOJ Charged Tornado Cash Founders With Laundering More Than $1 Billion<a href="https://securityaffairs.com/149804/cyber-crime/tornado-cash-founders-charges.html?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2023
+August 26, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adversary On The Defense: ANTIBOT.PW<a href="https://inquest.net/blog/adversary-on-the-defense-antibot-pw/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2023
+August 26, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malwarebytes Announces Acquisition of Online Privacy Company Cyrus<a href="https://www.darkreading.com/endpoint/malwarebytes-announces-acquisition-of-online-privacy-company-cyrus?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2023
+August 26, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Prospect Medical Stolen Data Listed for Sale by Emerging Ransomware Group<a href="https://www.cybersecuritydive.com/news/prospect-medical-data-stolen/691945/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2023
+August 26, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of SSNs Leaked After Ransomware Attack on Ohio State Archive Organization<a href="https://therecord.media/ohio-archive-org-data-leak-ransomware?&web_view=true"> Full Text</a>
@@ -194,7 +194,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 26, 2023
+August 26, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cypago Raises $13 Million for GRC Automation Platform<a href="https://www.securityweek.com/cypago-raises-13-million-for-grc-automation-platform/?&web_view=true"> Full Text</a>

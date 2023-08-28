@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Time keeps on slippin’ slippin’ slippin’: The 2023 Active Adversary Report for Tech Leaders<a href="https://news.sophos.com/en-us/2023/08/23/active-adversary-for-tech-leaders/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In H1 2023, compromised credentials accounted for 50% of root causes, whereas exploiting a bug came in at 23%. We can’t conclusively say that attackers are favoring compromised credentials over vulnerabilities, but it can’t be denied either.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

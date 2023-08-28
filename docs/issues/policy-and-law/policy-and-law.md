@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UnitedHealthcare Fined $80K for Six-Month Records Access Delay<a href="https://www.bankinfosecurity.com/unitedhealthcare-fined-80k-for-6-month-records-access-delay-a-22941?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HHS' Office for Civil Rights said UnitedHealthcare had agreed to settle a case involving potential HIPAA violations related to allegations that the company took six months to fulfill a health plan member's request to access his PHI.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

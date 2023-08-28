@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+August 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kroll Suffers Data Breach: Employee Falls Victim to SIM Swapping Attack<a href="https://thehackernews.com/2023/08/kroll-suffers-data-breach-employee.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Risk and financial advisory solutions provider Kroll on Friday disclosed that one of its employees fell victim to a "highly sophisticated" SIM swapping attack. The incident, which took place on August 19, 2023, targeted the employee's T-Mobile account, the company said. "Specifically, T-Mobile, without any authority from or contact with Kroll or its employee, transferred that employee's phone number to the threat actor's phone at their request," it&nbsp; said &nbsp;in an advisory. This enabled the unidentified actor to gain access to certain files containing personal information of bankruptcy claimants in the matters of BlockFi , FTX , and Genesis. SIM swapping (aka SIM splitting or simjacking), while generally a benign process, could be exploited by threat actors to fraudulently activate a SIM card under their control with a victim's phone number. This makes it possible to intercept SMS messages and voice calls and receive MFA-related messages that cont
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malwarebytes Announces Acquisition of Online Privacy Company Cyrus<a href="https://www.darkreading.com/endpoint/malwarebytes-announces-acquisition-of-online-privacy-company-cyrus?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This strategic acquisition reinforces Malwarebytes' commitment to privacy by giving users more control over their information, no matter where or how they choose to browse and interact online.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of SSNs Leaked After Ransomware Attack on Ohio State Archive Organization<a href="https://therecord.media/ohio-archive-org-data-leak-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the oldest historical societies in the state of Ohio was hit with a ransomware attack that leaked the sensitive information of thousands, according to a statement the organization released this week.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

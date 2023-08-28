@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Exploits ManageEngine to Deploy QuiteRAT<a href="https://cyware.com/news/lazarus-exploits-manageengine-to-deploy-quiterat-fd174c2c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lazarus group was associated with a new campaign against healthcare entities in Europe and the U.S. In this campaign, the attackers exploited a ManageEngine ServiceDesk vulnerability (CVE-2022-47966) to distribute the QuiteRAT malware. The malware has many capabilities similar to MagicRAT, anot ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

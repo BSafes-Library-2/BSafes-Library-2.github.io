@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Flax Typhoon Cyber Espionage Targets Taiwan's Key Sectors<a href="https://thehackernews.com/2023/08/china-linked-flax-typhoon-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A nation-state activity group originating from China has been linked to cyber attacks on dozens of organizations in Taiwan as part of a suspected espionage campaign. The Microsoft Threat Intelligence team is tracking the activity under the name&nbsp; Flax Typhoon , which is also known as Ethereal Panda. "Flax Typhoon gains and maintains long-term access to Taiwanese organizations' networks with minimal use of malware, relying on tools built into the operating system, along with some normally benign software to quietly remain in these networks," the company&nbsp; said . It further said it hasn't observed the group weaponize the access to conduct data-collection and exfiltration. A majority of the targets include government agencies, educational institutions, critical manufacturing, and information technology organizations in Taiwan. A smaller number of victims have also been detected in Southeast Asia, North America, and Africa. The group is suspected to have been active si
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Luna Grabber Poses as Roblox Packages, Strikes NPM<a href="https://cyware.com/news/new-luna-grabber-poses-as-roblox-packages-strikes-npm-94ca3c32"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors are targeting Roblox developers with a new malware called Luna Grabber, distributed through npm packages that impersonate legitimate software. These fake packages, including noblox.js-vps, noblox.js-ssh, and noblox.js-secure, house malicious multi-stage payloads.&nbsp;This campaign ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

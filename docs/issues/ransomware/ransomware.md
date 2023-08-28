@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit 3.0 Ransomware Builder Leak Gives Rise to Hundreds of New Variants<a href="https://thehackernews.com/2023/08/lockbit-30-ransomware-builder-leak.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leak of the&nbsp; LockBit 3.0 ransomware &nbsp;builder last year has led to threat actors abusing the tool to spawn new variants. Russian cybersecurity company Kaspersky said it detected a ransomware intrusion that deployed a version of LockBit but with a markedly different ransom demand procedure. "The attacker behind this incident decided to use a different ransom note with a headline related to a previously unknown group, called NATIONAL HAZARD AGENCY," security researchers Eduardo Ovalle and Francesco Figurelli&nbsp; said . The revamped ransom note directly specified the amount to be paid to obtain the decryption keys, and directed communications to a Tox service and email, unlike the LockBit group, which doesn't mention the amount and uses its own communication and negotiation platform. NATIONAL HAZARD AGENCY is far from the only cybercrime gang to use the leaked LockBit 3.0 builder. Some of the other threat actors known to leverage it include&nbsp; Bl00dy and Buhti . Kaspersk
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

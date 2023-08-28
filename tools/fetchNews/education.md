@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+August 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Learn How Your Business Data Can Amplify Your AI/ML Threat Detection Capabilities<a href="https://thehackernews.com/2023/08/learn-how-your-business-data-can.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital landscape, your business data is more than just numbers—it's a powerhouse. Imagine leveraging this data not only for profit but also for enhanced AI and Machine Learning (ML) threat detection. For companies like Comcast, this isn't a dream. It's reality. Your business comprehends its risks, vulnerabilities, and the unique environment in which it operates. No generic, one-size-fits-all tool can capture this nuance. By utilizing your own data, you position yourself ahead of potential threats, enabling informed decisions and safeguarding your assets. Join our groundbreaking webinar, " Clean Data, Better Detections: Using Your Business Data for AI/ML Detections ," to unearth how your distinct business data can be the linchpin to amplifying your AI/ML threat detection prowess. This webinar will endow you with the insights and tools necessary to harness your business data, leading to sharper, more efficient, and potent threat detections. UPC
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Navigating Legacy Infrastructure: A CISO's Actionable Strategy for Success<a href="https://thehackernews.com/2023/08/navigating-legacy-infrastructure-cisos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Every company has some level of tech debt. Unless you're a brand new start-up, you most likely have a patchwork of solutions that have been implemented throughout the years, often under various leadership teams with different priorities and goals. As those technologies age, they can leave your organization vulnerable to cyber threats. While replacing legacy technologies can be costly, those costs may pale in comparison to a breach – both in terms of immediate financial impact and reputational damage.&nbsp; Here are three ways you can communicate risk to your leadership team as you work to replace legacy infrastructure. 1: Make the Risk Real Leadership teams are driven by quantifiable business implications. The best way to get support for updating or replacing legacy technology is to make the risk to the business real - and measurable - in a language they understand. One way to do this is to look at the list of critical vulnerabilities that you've identified, then evaluate the impact t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

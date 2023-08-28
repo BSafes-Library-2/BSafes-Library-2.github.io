@@ -8,6 +8,21 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked Flax Typhoon APT targets Taiwan<a href="https://securityaffairs.com/149862/apt/chinese-apt-flax-typhoon-targets-taiwan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China-linked APT group Flax Typhoon targeted dozens of organizations in Taiwan as part of a suspected espionage campaign.
+Microsoft linked the Chinese APT Flax Typhoon (aka Ethereal Panda) to a cyber espionage campaign that targeted dozens of organizations...
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

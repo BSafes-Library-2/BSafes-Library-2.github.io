@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco NX-OS Software TACACS+ or RADIUS Remote Authentication Directed Request Denial of Service Vulnerability<a href="https://sec.cloudapps.cisco.com/security/center/content/CiscoSecurityAdvisory/cisco-sa-nxos-remoteauth-dos-XB6pv74m?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability can only be exploited over Telnet, which is disabled by default, or over the console management connection. This vulnerability cannot be exploited over SSH connections to the device.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Urgent FBI Warning: Barracuda Email Gateways Vulnerable Despite Recent Patches<a href="https://thehackernews.com/2023/08/urgent-fbi-warning-barracuda-email.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) is warning that Barracuda Networks Email Security Gateway (ESG) appliances patched against a recently disclosed critical flaw continue to be at risk of potential compromise from suspected Chinese hacking groups. It also&nbsp; deemed &nbsp;the fixes as "ineffective" and that it "continues to observe active intrusions and considers all affected Barracuda ESG appliances to be compromised and vulnerable to this exploit." Tracked as&nbsp; CVE-2023-2868 &nbsp;(CVSS score: 9.8), the zero-day bug is said to have been weaponized as early as October 2022, more than seven months before the security hole was plugged. Google-owned Mandiant is tracking the China-nexus activity cluster under the name&nbsp; UNC4841 . The remote command injection vulnerability, impacting versions 5.1.3.001 through 9.2.0.006, allows for unauthorized execution of system commands with administrator privileges on the ESG product. In the attacks observed so far, a successful b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
