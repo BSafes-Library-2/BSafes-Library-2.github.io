@@ -34,6 +34,326 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacks on Citrix NetScaler systems linked to ransomware actor<a href="https://www.bleepingcomputer.com/news/security/attacks-on-citrix-netscaler-systems-linked-to-ransomware-actor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor believed to be tied to the FIN8 hacking group exploits the CVE-2023-3519 remote code execution flaw to compromise unpatched Citrix NetScaler systems in domain-wide attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signs of Malware Attack Targeting Rust Developers Found on Crates.io<a href="https://www.securityweek.com/signs-of-malware-attack-on-rust-developers-found-on-crates-io/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Rust Foundation was notified and it quickly removed the packages and locked the uploader’s account. GitHub was also notified and took action against the associated account.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover How Cybercriminals Could Exploit Microsoft Entra ID for Elevated Privilege<a href="https://thehackernews.com/2023/08/experts-uncover-how-cybercriminals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a case of privilege escalation associated with a Microsoft Entra ID (formerly Azure Active Directory) application by taking advantage of an abandoned reply URL. "An attacker could leverage this abandoned URL to redirect authorization codes to themselves, exchanging the ill-gotten authorization codes for access tokens," Secureworks Counter Threat Unit (CTU)  said  in a technical report published last week. "The threat actor could then call Power Platform API via a middle-tier service and obtain elevated privileges." Following responsible disclosure on April 5, 2023, the issue was addressed by Microsoft via an update released a day later. Secureworks has also made available an  open-source tool  that other organizations can use to scan for abandoned reply URLs. Reply URL , also called redirect URI, refers to the location where the authorization server sends the user once the app has been successfully authorized and grant
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MalDoc in PDFs: Hiding malicious Word docs in PDF files<a href="https://www.bleepingcomputer.com/news/security/maldoc-in-pdfs-hiding-malicious-word-docs-in-pdf-files/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japan's computer emergency response team (JPCERT) is sharing a new 'MalDoc in PDF' attack detected in July 2023 that bypasses detection by embedding malicious Word files into PDFs.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uncovering a Privacy-Preserving Approach to Machine Learning<a href="https://www.helpnetsecurity.com/2023/08/28/machine-learning-ml-models/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the era of data-driven decision making, businesses are harnessing the power of machine learning (ML) to unlock valuable insights, gain operational efficiencies, and solidify competitive advantage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Developers Beware: Malicious Rust Libraries Caught Transmitting OS Info to Telegram Channel<a href="https://thehackernews.com/2023/08/developers-beware-malicious-rust.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In yet another sign that developers continue to be targets of software supply chain attacks, a number of malicious packages have been discovered on the Rust programming language's crate registry. The libraries, uploaded between August 14 and 16, 2023, were published by a user named "amaperf," Phylum  said  in a report published last week. The names of the packages, now taken down, are as follows: postgress, if-cfg, xrvrv, serd, oncecell, lazystatic, and envlogger. It's not clear what the end goal of the campaign was, but the suspicious modules were found to harbor functionalities to capture the operating system information (i.e., Windows, Linux, macOS, or Unknown) and transmit the data to a hard-coded Telegram channel via the messaging platform's API. This suggests that the campaign may have been in its early stages and that the threat actor may have been casting a wide net to compromise as many developer machines as possible to deliver rogue updates with imp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft will enable Exchange Extended Protection by default this fall<a href="https://www.bleepingcomputer.com/news/security/microsoft-will-enable-exchange-extended-protection-by-default-this-fall/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today that Windows Extended Protection will be enabled by default on servers running Exchange Server 2019 starting this fall after installing the 2023 H2 Cumulative Update (CU14).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vendors Training AI With Customer Data Is an Enterprise Risk<a href="https://www.darkreading.com/edge/vendors-training-ai-customer-data-enterprise-risk?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom received some flak recently for planning to use customer data to train its machine learning models. The reality, however, is that the video conferencing company is not the first, nor will it be the last, to have similar plans.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks Targeting E-commerce Applications<a href="https://thehackernews.com/2023/08/cyberattacks-targeting-e-commerce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber attacks on e-commerce applications are a common trend in 2023 as e-commerce businesses become more omnichannel, they build and deploy increasingly more API interfaces, with threat actors constantly exploring more ways to exploit vulnerabilities. This is why regular testing and ongoing monitoring are necessary to fully protect web applications, identifying weaknesses so they can be mitigated quickly. In this article, we will discuss the recent Honda e-commerce platform attack, how it happened, and its impact on the business and its clients. In addition, to the importance of application security testing, we will also discuss the different areas of vulnerability testing and its various phases. Finally, we will provide details on how a long-term preventative solution such as  PTaaS  can protect e-commerce businesses and the differences between continuous testing (PTaaS) and standard pen testing. The 2023 Honda E-commerce Platform Attack Honda's power equipment, lawn, garden, and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spain warns of LockBit Locker ransomware phishing attacks<a href="https://www.bleepingcomputer.com/news/security/spain-warns-of-lockbit-locker-ransomware-phishing-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Police of Spain is warning of an ongoing 'LockBit Locker' ransomware campaign targeting architecture companies in the country through phishing emails.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC for Unauthenticated RCE on Juniper Networks Firewalls Released<a href="https://www.helpnetsecurity.com/2023/08/28/poc-rce-juniper-firewalls/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have released additional details about the recently patched four vulnerabilities affecting Juniper Networks’ SRX firewalls and EX switches that could allow remote code execution (RCE), as well as a proof-of-concept (PoC) exploit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KmsdBot Malware Gets an Upgrade: Now Targets IoT Devices with Enhanced Capabilities<a href="https://thehackernews.com/2023/08/kmsdbot-malware-gets-upgrade-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An updated version of a botnet malware called  KmsdBot  is now targeting Internet of Things (IoT) devices, simultaneously branching out its capabilities and the attack surface. "The binary now includes support for  Telnet scanning  and support for more CPU architectures," Akamai security researcher Larry W. Cashdollar  said  in an analysis published this month. The latest iteration, observed since July 16, 2023, comes months after it emerged that the botnet is being offered as a  DDoS-for-hire service  to other threat actors. The fact that it's being actively maintained indicates its effectiveness in real-world attacks. KmsdBot was  first documented  by the web infrastructure and security company in November 2022. It's mainly designed to target private gaming servers and cloud hosting providers, although it has since set its eyes on some Romanian government and Spanish educational sites. The malware is designed to scan random IP addresses for open SSH ports and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for Juniper firewall bugs allowing RCE attacks<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-juniper-firewall-bugs-allowing-rce-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code has been publicly released for vulnerabilities in Juniper SRX firewalls that, when chained, can allow unauthenticated attackers to gain remote code execution in Juniper's JunOS on unpatched devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaseweb Reports Cloud Disruptions Due to Cyberattack<a href="https://www.securityweek.com/leaseweb-reports-cloud-disruptions-due-to-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“The issue had an impact on a specific portion of our cloud-based infrastructure leading to downtime for a small number of cloud customers,” Leaseweb told customers in an email notification.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mom’s Meals discloses data breach impacting 1.2 million people<a href="https://www.bleepingcomputer.com/news/security/moms-meals-discloses-data-breach-impacting-12-million-people/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PurFoods, which conducts business in the U.S. as 'Mom's Meals,' is warning of a data breach after the personal information of 1.2 million customers and employees was stolen in a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Tweaks Onion Routing Software to Fend Off DDoS Attacks<a href="https://www.theregister.com/2023/08/26/tor_tweaks_onion_routing_software/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The updated software now supports a proof-of-work challenge called EquiX. Designed by Tevador, who developed Monero's proof-of-work algorithm, it is "a CPU-friendly client puzzle with fast verification and small solution size (16 bytes).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four common password mistakes hackers love to exploit<a href="https://www.bleepingcomputer.com/news/security/four-common-password-mistakes-hackers-love-to-exploit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors take advantage of common password mistakes to breach corporate networks. Learn more from Specops Software on the four most common mistakes and how to strengthen your Active Directory against these risks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking Group Kittensec Claims to ‘Pwn Anything We See’ to Expose Corruption<a href="https://cyberscoop.com/kittensec-hacktivism-corruption/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On July 28, KittenSec claimed in a Telegram post to have hacked multiple Romanian government systems and posted a file containing roughly 36 gigabytes of data, including emails, documents, contracts, and healthcare-related data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Touts ‘Tremendous Growth’ in Vulnerability Disclosure Platform<a href="https://therecord.media/cisa-vulnerability-disclosure-program-annual-report?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vulnerability Disclosure Policy (VDP) Platform has seen “tremendous growth” in onboarding 40 agency programs since its launch in July 2021, the Cybersecurity and Infrastructure Security Agency said Friday in a news release.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhysida claims ransomware attack on Prospect Medical, threatens to sell data<a href="https://www.bleepingcomputer.com/news/security/rhysida-claims-ransomware-attack-on-prospect-medical-threatens-to-sell-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Rhysida ransomware gang has claimed responsibility for the massive cyberattack on Prospect Medical Holdings, claiming to have stolen 500,000 social security numbers, corporate documents, and patient records.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
