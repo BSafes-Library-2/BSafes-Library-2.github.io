@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover How Cybercriminals Could Exploit Microsoft Entra ID for Elevated Privilege<a href="https://thehackernews.com/2023/08/experts-uncover-how-cybercriminals.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a case of privilege escalation associated with a Microsoft Entra ID (formerly Azure Active Directory) application by taking advantage of an abandoned reply URL. "An attacker could leverage this abandoned URL to redirect authorization codes to themselves, exchanging the ill-gotten authorization codes for access tokens," Secureworks Counter Threat Unit (CTU)&nbsp; said &nbsp;in a technical report published last week. "The threat actor could then call Power Platform API via a middle-tier service and obtain elevated privileges." Following responsible disclosure on April 5, 2023, the issue was addressed by Microsoft via an update released a day later. Secureworks has also made available an&nbsp; open-source tool &nbsp;that other organizations can use to scan for abandoned reply URLs. Reply URL , also called redirect URI, refers to the location where the authorization server sends the user once the app has been successfully authorized and grant
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC for Unauthenticated RCE on Juniper Networks Firewalls Released<a href="https://www.helpnetsecurity.com/2023/08/28/poc-rce-juniper-firewalls/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have released additional details about the recently patched four vulnerabilities affecting Juniper Networks’ SRX firewalls and EX switches that could allow remote code execution (RCE), as well as a proof-of-concept (PoC) exploit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploit released for Juniper firewall bugs allowing RCE attacks<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-juniper-firewall-bugs-allowing-rce-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept exploit code has been publicly released for vulnerabilities in Juniper SRX firewalls that, when chained, can allow unauthenticated attackers to gain remote code execution in Juniper's JunOS on unpatched devices.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

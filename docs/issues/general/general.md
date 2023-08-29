@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+August 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vendors Training AI With Customer Data Is an Enterprise Risk<a href="https://www.darkreading.com/edge/vendors-training-ai-customer-data-enterprise-risk?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zoom received some flak recently for planning to use customer data to train its machine learning models. The reality, however, is that the video conferencing company is not the first, nor will it be the last, to have similar plans.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks Targeting E-commerce Applications<a href="https://thehackernews.com/2023/08/cyberattacks-targeting-e-commerce.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber attacks on e-commerce applications are a common trend in 2023 as e-commerce businesses become more omnichannel, they build and deploy increasingly more API interfaces, with threat actors constantly exploring more ways to exploit vulnerabilities. This is why regular testing and ongoing monitoring are necessary to fully protect web applications, identifying weaknesses so they can be mitigated quickly. In this article, we will discuss the recent Honda e-commerce platform attack, how it happened, and its impact on the business and its clients. In addition, to the importance of application security testing, we will also discuss the different areas of vulnerability testing and its various phases. Finally, we will provide details on how a long-term preventative solution such as&nbsp; PTaaS &nbsp;can protect e-commerce businesses and the differences between continuous testing (PTaaS) and standard pen testing. The 2023 Honda E-commerce Platform Attack Honda's power equipment, lawn, garden, and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four common password mistakes hackers love to exploit<a href="https://www.bleepingcomputer.com/news/security/four-common-password-mistakes-hackers-love-to-exploit/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors take advantage of common password mistakes to breach corporate networks. Learn more from Specops Software on the four most common mistakes and how to strengthen your Active Directory against these risks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

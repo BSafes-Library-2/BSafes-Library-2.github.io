@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+August 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor Tweaks Onion Routing Software to Fend Off DDoS Attacks<a href="https://www.theregister.com/2023/08/26/tor_tweaks_onion_routing_software/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The updated software now supports a proof-of-work challenge called EquiX. Designed by Tevador, who developed Monero's proof-of-work algorithm, it is "a CPU-friendly client puzzle with fast verification and small solution size (16 bytes).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

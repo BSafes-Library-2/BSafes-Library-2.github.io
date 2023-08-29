@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+August 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaseweb Reports Cloud Disruptions Due to Cyberattack<a href="https://www.securityweek.com/leaseweb-reports-cloud-disruptions-due-to-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“The issue had an impact on a specific portion of our cloud-based infrastructure leading to downtime for a small number of cloud customers,” Leaseweb told customers in an email notification.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

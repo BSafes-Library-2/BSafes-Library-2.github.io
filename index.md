@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attacks on Citrix NetScaler systems linked to ransomware actor<a href="https://www.bleepingcomputer.com/news/security/attacks-on-citrix-netscaler-systems-linked-to-ransomware-actor/"> Full Text</a>
@@ -50,7 +50,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Signs of Malware Attack Targeting Rust Developers Found on Crates.io<a href="https://www.securityweek.com/signs-of-malware-attack-on-rust-developers-found-on-crates-io/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover How Cybercriminals Could Exploit Microsoft Entra ID for Elevated Privilege<a href="https://thehackernews.com/2023/08/experts-uncover-how-cybercriminals.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MalDoc in PDFs: Hiding malicious Word docs in PDF files<a href="https://www.bleepingcomputer.com/news/security/maldoc-in-pdfs-hiding-malicious-word-docs-in-pdf-files/"> Full Text</a>
@@ -98,7 +98,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uncovering a Privacy-Preserving Approach to Machine Learning<a href="https://www.helpnetsecurity.com/2023/08/28/machine-learning-ml-models/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Developers Beware: Malicious Rust Libraries Caught Transmitting OS Info to Telegram Channel<a href="https://thehackernews.com/2023/08/developers-beware-malicious-rust.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft will enable Exchange Extended Protection by default this fall<a href="https://www.bleepingcomputer.com/news/security/microsoft-will-enable-exchange-extended-protection-by-default-this-fall/"> Full Text</a>
@@ -146,7 +146,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vendors Training AI With Customer Data Is an Enterprise Risk<a href="https://www.darkreading.com/edge/vendors-training-ai-customer-data-enterprise-risk?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks Targeting E-commerce Applications<a href="https://thehackernews.com/2023/08/cyberattacks-targeting-e-commerce.html"> Full Text</a>
@@ -178,7 +178,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spain warns of LockBit Locker ransomware phishing attacks<a href="https://www.bleepingcomputer.com/news/security/spain-warns-of-lockbit-locker-ransomware-phishing-attacks/"> Full Text</a>
@@ -194,7 +194,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC for Unauthenticated RCE on Juniper Networks Firewalls Released<a href="https://www.helpnetsecurity.com/2023/08/28/poc-rce-juniper-firewalls/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KmsdBot Malware Gets an Upgrade: Now Targets IoT Devices with Enhanced Capabilities<a href="https://thehackernews.com/2023/08/kmsdbot-malware-gets-upgrade-now.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit released for Juniper firewall bugs allowing RCE attacks<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-juniper-firewall-bugs-allowing-rce-attacks/"> Full Text</a>
@@ -242,7 +242,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leaseweb Reports Cloud Disruptions Due to Cyberattack<a href="https://www.securityweek.com/leaseweb-reports-cloud-disruptions-due-to-cyberattack/?&web_view=true"> Full Text</a>
@@ -258,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mom’s Meals discloses data breach impacting 1.2 million people<a href="https://www.bleepingcomputer.com/news/security/moms-meals-discloses-data-breach-impacting-12-million-people/"> Full Text</a>
@@ -274,7 +274,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor Tweaks Onion Routing Software to Fend Off DDoS Attacks<a href="https://www.theregister.com/2023/08/26/tor_tweaks_onion_routing_software/?&web_view=true"> Full Text</a>
@@ -290,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four common password mistakes hackers love to exploit<a href="https://www.bleepingcomputer.com/news/security/four-common-password-mistakes-hackers-love-to-exploit/"> Full Text</a>
@@ -306,7 +306,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking Group Kittensec Claims to ‘Pwn Anything We See’ to Expose Corruption<a href="https://cyberscoop.com/kittensec-hacktivism-corruption/?&web_view=true"> Full Text</a>
@@ -322,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Touts ‘Tremendous Growth’ in Vulnerability Disclosure Platform<a href="https://therecord.media/cisa-vulnerability-disclosure-program-annual-report?&web_view=true"> Full Text</a>
@@ -338,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2023
+August 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rhysida claims ransomware attack on Prospect Medical, threatens to sell data<a href="https://www.bleepingcomputer.com/news/security/rhysida-claims-ransomware-attack-on-prospect-medical-threatens-to-sell-data/"> Full Text</a>

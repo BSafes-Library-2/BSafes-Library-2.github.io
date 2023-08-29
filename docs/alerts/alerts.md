@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 25, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VDP Platform 2022 Annual Report Showcases Platform’s Success <a href="https://www.cisa.gov/news-events/news/vdp-platform-2022-annual-report-showcases-platforms-success"> Full Text</a>
+</p>
+<details>
+Every day, security researchers find and enable mitigation of vulnerabilities in products and web sites around the world – allowing vendors and defenders to fix problems before adversaries can cause harm. In 2019, CISA took action to ensure that the American people benefit from this essential work by releasing Binding Operational Directive (BOD) 20-01, which requires all federal civilian agencies to develop and publish a Vulnerability Disclosure Policy (VDP).
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 23, 2023 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

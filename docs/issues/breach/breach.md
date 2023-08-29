@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+August 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mom’s Meals discloses data breach impacting 1.2 million people<a href="https://www.bleepingcomputer.com/news/security/moms-meals-discloses-data-breach-impacting-12-million-people/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PurFoods, which conducts business in the U.S. as 'Mom's Meals,' is warning of a data breach after the personal information of 1.2 million customers and employees was stolen in a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking Group Kittensec Claims to ‘Pwn Anything We See’ to Expose Corruption<a href="https://cyberscoop.com/kittensec-hacktivism-corruption/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On July 28, KittenSec claimed in a Telegram post to have hacked multiple Romanian government systems and posted a file containing roughly 36 gigabytes of data, including emails, documents, contracts, and healthcare-related data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhysida claims ransomware attack on Prospect Medical, threatens to sell data<a href="https://www.bleepingcomputer.com/news/security/rhysida-claims-ransomware-attack-on-prospect-medical-threatens-to-sell-data/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Rhysida ransomware gang has claimed responsibility for the massive cyberattack on Prospect Medical Holdings, claiming to have stolen 500,000 social security numbers, corporate documents, and patient records.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

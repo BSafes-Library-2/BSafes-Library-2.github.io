@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adversary On The Defense: ANTIBOT.PW<a href="https://inquest.net/blog/adversary-on-the-defense-antibot-pw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Antibot web traffic filtering service, originally a GitHub project, has evolved into a commercial platform for malicious actors, offering features like cloaking to evade analysis and prolong phishing and malware campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Prospect Medical Stolen Data Listed for Sale by Emerging Ransomware Group<a href="https://www.cybersecuritydive.com/news/prospect-medical-data-stolen/691945/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Rhysida ransomware group claimed responsibility for a ransomware attack against Prospect Medical Holdings that forced multiple hospital closures earlier this month and continues to impact operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

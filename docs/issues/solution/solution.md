@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft will enable Exchange Extended Protection by default this fall<a href="https://www.bleepingcomputer.com/news/security/microsoft-will-enable-exchange-extended-protection-by-default-this-fall/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft announced today that Windows Extended Protection will be enabled by default on servers running Exchange Server 2019 starting this fall after installing the 2023 H2 Cumulative Update (CU14).
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

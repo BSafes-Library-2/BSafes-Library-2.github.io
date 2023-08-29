@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+August 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KmsdBot Malware Gets an Upgrade: Now Targets IoT Devices with Enhanced Capabilities<a href="https://thehackernews.com/2023/08/kmsdbot-malware-gets-upgrade-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An updated version of a botnet malware called&nbsp; KmsdBot &nbsp;is now targeting Internet of Things (IoT) devices, simultaneously branching out its capabilities and the attack surface. "The binary now includes support for&nbsp; Telnet scanning &nbsp;and support for more CPU architectures," Akamai security researcher Larry W. Cashdollar&nbsp; said &nbsp;in an analysis published this month. The latest iteration, observed since July 16, 2023, comes months after it emerged that the botnet is being offered as a&nbsp; DDoS-for-hire service &nbsp;to other threat actors. The fact that it's being actively maintained indicates its effectiveness in real-world attacks. KmsdBot was&nbsp; first documented &nbsp;by the web infrastructure and security company in November 2022. It's mainly designed to target private gaming servers and cloud hosting providers, although it has since set its eyes on some Romanian government and Spanish educational sites. The malware is designed to scan random IP addresses for open SSH ports and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

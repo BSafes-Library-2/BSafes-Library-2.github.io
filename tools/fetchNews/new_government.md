@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Touts ‘Tremendous Growth’ in Vulnerability Disclosure Platform<a href="https://therecord.media/cisa-vulnerability-disclosure-program-annual-report?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vulnerability Disclosure Policy (VDP) Platform has seen “tremendous growth” in onboarding 40 agency programs since its launch in July 2021, the Cybersecurity and Infrastructure Security Agency said Friday in a news release.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2023a <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
