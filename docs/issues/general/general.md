@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+August 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Fights Sprawling Chinese ‘Spamouflage’ Operation<a href="https://www.securityweek.com/meta-fights-sprawling-chinese-spamouflage-operation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The network typically posted praise for China and its Xinjiang province and criticisms of the United States, Western foreign policies, and critics of the Chinese government including journalists and researchers, the Meta report says.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Survey Provides Takeaways for Security Pros to Operationalize their Remediation Life Cycle<a href="https://thehackernews.com/2023/08/survey-provides-takeaways-for-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ask any security professional and they'll tell you that remediating risks from various siloed security scanning tools requires a tedious and labor-intensive series of steps focused on deduplication, prioritization, and routing of issues to an appropriate "fixer" somewhere in the organization. This burden on already resource-strapped security teams is an efficiency killer.&nbsp; A new study , commissioned by Seemplicity and conducted by Dark Reading, provides fresh insight into how security pros handle the challenging remediation life cycle from discovery to resolution. The research reveals the obstacles security professionals face when coordinating remediation activities. The data exposes the outcomes — in increased workload and diminished risk posture — that arise from lengthy remediation times, inefficient and uncontrolled manual processes, the lack of managerial visibility and oversight across the risk life cycle.&nbsp; Remediation Process Broken Down to Steps and Time Spent on Each Step
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is the Cybersecurity Community’s Obsession With Compliance Counter-Productive?<a href="https://www.helpnetsecurity.com/2023/08/29/compliance-standards/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity professionals should focus on effectively defending their organizations against common breach types, rather than prioritizing compliance and checking boxes on audit forms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

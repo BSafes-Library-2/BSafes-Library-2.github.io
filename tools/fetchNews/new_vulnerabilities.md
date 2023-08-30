@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix NetScaler Alert: Ransomware Hackers Exploiting Critical Vulnerability<a href="https://thehackernews.com/2023/08/citrix-netscaler-alert-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unpatched Citrix NetScaler systems exposed to the internet are being targeted by unknown threat actors in what's suspected to be a ransomware attack. Cybersecurity company Sophos is&nbsp; tracking &nbsp;the activity cluster under the moniker&nbsp; STAC4663 . Attack chains involve the exploitation of&nbsp; CVE-2023-3519 , a critical code injection vulnerability impacting NetScaler ADC and Gateway servers that could facilitate unauthenticated remote code execution. In one intrusion detected in mid-August 2023, the security flaw is said to have been used to conduct a domain-wide attack, including injecting payloads into legitimate executables such as the Windows Update Agent (wuauclt.exe) and the Windows Management Instrumentation Provider Service (wmiprvse.exe). An analysis of the payload is underway. Other notable aspects include the distribution of obfuscated PowerShell scripts, PHP web shells, and the use of an Estonian service called BlueVPS for malware staging. Sophos said the modus operandi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

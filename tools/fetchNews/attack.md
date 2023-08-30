@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacks on Citrix NetScaler systems linked to ransomware actor<a href="https://www.bleepingcomputer.com/news/security/attacks-on-citrix-netscaler-systems-linked-to-ransomware-actor/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor believed to be tied to the FIN8 hacking group exploits the CVE-2023-3519 remote code execution flaw to compromise unpatched Citrix NetScaler systems in domain-wide attacks.
+</details>
+<div style="text-align: right" markdown="1">
+BleepingComputer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signs of Malware Attack Targeting Rust Developers Found on Crates.io<a href="https://www.securityweek.com/signs-of-malware-attack-on-rust-developers-found-on-crates-io/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Rust Foundation was notified and it quickly removed the packages and locked the uploader’s account. GitHub was also notified and took action against the associated account.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

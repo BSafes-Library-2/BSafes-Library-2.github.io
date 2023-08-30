@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web Control, Crime Patrol or Real Pawns in Cybercrime<a href="https://www.thehindu.com/news/national/telangana/web-control-crime-patrol-or-real-pawns-in-cybercrime/article67231081.ece?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of young employees in Hyderabad ran a sophisticated scam using VOIP to target unsuspecting people in the U.S. and trick them into buying gift cards, which were then converted into cryptocurrency and Indian Rupees.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

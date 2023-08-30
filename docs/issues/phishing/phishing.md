@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing-as-a-Service Gets Smarter: Microsoft Sounds Alarm on AiTM Attacks<a href="https://thehackernews.com/2023/08/phishing-as-service-gets-smarter.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of an increase in adversary-in-the-middle ( AiTM ) phishing techniques, which are being propagated as part of the phishing-as-a-service (PhaaS) cybercrime model. In addition to an uptick in AiTM-capable PhaaS platforms, the tech giant noted that existing phishing services like PerSwaysion are incorporating AiTM capabilities. "This development in the PhaaS ecosystem enables attackers to conduct high-volume phishing campaigns that attempt to circumvent MFA protections at scale," the Microsoft Threat Intelligence team&nbsp; said &nbsp;in a series of posts on X (formerly Twitter). Phishing kits with AiTM capabilities work in two ways, one of which concerns the use of reverse proxy servers (i.e., the phishing page) to relay traffic to and from the client and legitimate website and stealthily capture user credentials, two-factor authentication codes, and session cookies. A second method involves synchronous relay servers. "In AiTM through synchronous relay s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
