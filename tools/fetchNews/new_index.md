@@ -34,7 +34,183 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan’s Cybersecurity Agency Breached by Suspected Chinese Hackers: Report<a href="https://therecord.media/japan-cybersecurity-agency-breached-report?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Suspected Chinese hackers breached Japan’s cybersecurity agency and potentially accessed sensitive data stored on its networks for nine months before being discovered, it was reported on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hacking Group Exploits Barracuda Zero-Day to Target Government, Military, and Telecom<a href="https://thehackernews.com/2023/08/chinese-hacking-group-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected Chinese-nexus hacking group exploited a  recently disclosed zero-day flaw  in Barracuda Networks Email Security Gateway (ESG) appliances to breach government, military, defense and aerospace, high-tech industry, and telecom sectors as part of a global espionage campaign. Mandiant, which is tracking the activity under the name  UNC4841 , described the threat actor as "highly responsive to defensive efforts" and capable of actively tweaking their modus operandi to maintain persistent access to targets. "UNC4841 deployed new and novel malware designed to maintain presence at a small subset of high priority targets that it compromised either before the patch was released, or shortly following Barracuda's remediation guidance," the Google-owned threat intelligence firm  said  in a new technical report published today. Almost a third of the identified affected organizations are government agencies. Interestingly enough, some of the earliest compromises
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Fights Sprawling Chinese ‘Spamouflage’ Operation<a href="https://www.securityweek.com/meta-fights-sprawling-chinese-spamouflage-operation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The network typically posted praise for China and its Xinjiang province and criticisms of the United States, Western foreign policies, and critics of the Chinese government including journalists and researchers, the Meta report says.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkGate Malware Activity Spikes as Developer Rents Out Malware to Affiliates<a href="https://thehackernews.com/2023/08/darkgate-malware-activity-spikes-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malspam campaign has been observed deploying an off-the-shelf malware called DarkGate . "The current spike in DarkGate malware activity is plausible given the fact that the developer of the malware has recently started to rent out the malware to a limited number of affiliates," Telekom Security  said  in a report published last week. The latest report build onn  recent findings  from security researcher Igal Lytzki, who detailed a "high volume campaign" that leverages hijacked email threads to trick recipients into downloading the malware. The attack commences with a phishing URL that, when clicked, passes through a traffic direction system ( TDS ) to take the victim to an MSI payload subject to certain conditions. This includes the presence of a refresh header in the HTTP response. Opening the MSI file triggers a multi-stage process that incorporates an AutoIt script to execute shellcode that acts as a conduit to decrypt and launch DarkGate via a crypte
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compromised OpenCart Payment Module Steals Credit Card Information<a href="https://blog.sucuri.net/2023/08/opencart-payment-module-steals-credit-card-information.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are increasingly using backend PHP infections, making it more challenging to detect Magecart infections without access to the compromised website's backend code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Survey Provides Takeaways for Security Pros to Operationalize their Remediation Life Cycle<a href="https://thehackernews.com/2023/08/survey-provides-takeaways-for-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ask any security professional and they'll tell you that remediating risks from various siloed security scanning tools requires a tedious and labor-intensive series of steps focused on deduplication, prioritization, and routing of issues to an appropriate "fixer" somewhere in the organization. This burden on already resource-strapped security teams is an efficiency killer.  A new study , commissioned by Seemplicity and conducted by Dark Reading, provides fresh insight into how security pros handle the challenging remediation life cycle from discovery to resolution. The research reveals the obstacles security professionals face when coordinating remediation activities. The data exposes the outcomes — in increased workload and diminished risk posture — that arise from lengthy remediation times, inefficient and uncontrolled manual processes, the lack of managerial visibility and oversight across the risk life cycle.  Remediation Process Broken Down to Steps and Time Spent on Each Step
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is the Cybersecurity Community’s Obsession With Compliance Counter-Productive?<a href="https://www.helpnetsecurity.com/2023/08/29/compliance-standards/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity professionals should focus on effectively defending their organizations against common breach types, rather than prioritizing compliance and checking boxes on audit forms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix NetScaler Alert: Ransomware Hackers Exploiting Critical Vulnerability<a href="https://thehackernews.com/2023/08/citrix-netscaler-alert-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unpatched Citrix NetScaler systems exposed to the internet are being targeted by unknown threat actors in what's suspected to be a ransomware attack. Cybersecurity company Sophos is  tracking  the activity cluster under the moniker  STAC4663 . Attack chains involve the exploitation of  CVE-2023-3519 , a critical code injection vulnerability impacting NetScaler ADC and Gateway servers that could facilitate unauthenticated remote code execution. In one intrusion detected in mid-August 2023, the security flaw is said to have been used to conduct a domain-wide attack, including injecting payloads into legitimate executables such as the Windows Update Agent (wuauclt.exe) and the Windows Management Instrumentation Provider Service (wmiprvse.exe). An analysis of the payload is underway. Other notable aspects include the distribution of obfuscated PowerShell scripts, PHP web shells, and the use of an Estonian service called BlueVPS for malware staging. Sophos said the modus operandi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Banking Trojan MMRat Carries Out Bank Fraud via Fake App Stores<a href="https://www.trendmicro.com/en_us/research/23/h/mmrat-carries-out-bank-fraud-via-fake-app-stores.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MMRat uses customized command-and-control protocols and remains undetected on VirusTotal, highlighting its ability to evade detection and exploit large volumes of data transfer.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing-as-a-Service Gets Smarter: Microsoft Sounds Alarm on AiTM Attacks<a href="https://thehackernews.com/2023/08/phishing-as-service-gets-smarter.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of an increase in adversary-in-the-middle ( AiTM ) phishing techniques, which are being propagated as part of the phishing-as-a-service (PhaaS) cybercrime model. In addition to an uptick in AiTM-capable PhaaS platforms, the tech giant noted that existing phishing services like PerSwaysion are incorporating AiTM capabilities. "This development in the PhaaS ecosystem enables attackers to conduct high-volume phishing campaigns that attempt to circumvent MFA protections at scale," the Microsoft Threat Intelligence team  said  in a series of posts on X (formerly Twitter). Phishing kits with AiTM capabilities work in two ways, one of which concerns the use of reverse proxy servers (i.e., the phishing page) to relay traffic to and from the client and legitimate website and stealthily capture user credentials, two-factor authentication codes, and session cookies. A second method involves synchronous relay servers. "In AiTM through synchronous relay s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web Control, Crime Patrol or Real Pawns in Cybercrime<a href="https://www.thehindu.com/news/national/telangana/web-control-crime-patrol-or-real-pawns-in-cybercrime/article67231081.ece?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of young employees in Hyderabad ran a sophisticated scam using VOIP to target unsuspecting people in the U.S. and trick them into buying gift cards, which were then converted into cryptocurrency and Indian Rupees.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attacks on Citrix NetScaler systems linked to ransomware actor<a href="https://www.bleepingcomputer.com/news/security/attacks-on-citrix-netscaler-systems-linked-to-ransomware-actor/"> Full Text</a>
@@ -50,7 +226,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Signs of Malware Attack Targeting Rust Developers Found on Crates.io<a href="https://www.securityweek.com/signs-of-malware-attack-on-rust-developers-found-on-crates-io/?&web_view=true"> Full Text</a>
@@ -66,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover How Cybercriminals Could Exploit Microsoft Entra ID for Elevated Privilege<a href="https://thehackernews.com/2023/08/experts-uncover-how-cybercriminals.html"> Full Text</a>
@@ -82,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MalDoc in PDFs: Hiding malicious Word docs in PDF files<a href="https://www.bleepingcomputer.com/news/security/maldoc-in-pdfs-hiding-malicious-word-docs-in-pdf-files/"> Full Text</a>
@@ -98,7 +274,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uncovering a Privacy-Preserving Approach to Machine Learning<a href="https://www.helpnetsecurity.com/2023/08/28/machine-learning-ml-models/?&web_view=true"> Full Text</a>
@@ -114,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Developers Beware: Malicious Rust Libraries Caught Transmitting OS Info to Telegram Channel<a href="https://thehackernews.com/2023/08/developers-beware-malicious-rust.html"> Full Text</a>
@@ -130,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft will enable Exchange Extended Protection by default this fall<a href="https://www.bleepingcomputer.com/news/security/microsoft-will-enable-exchange-extended-protection-by-default-this-fall/"> Full Text</a>
@@ -146,7 +322,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vendors Training AI With Customer Data Is an Enterprise Risk<a href="https://www.darkreading.com/edge/vendors-training-ai-customer-data-enterprise-risk?&web_view=true"> Full Text</a>
@@ -162,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks Targeting E-commerce Applications<a href="https://thehackernews.com/2023/08/cyberattacks-targeting-e-commerce.html"> Full Text</a>
@@ -178,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Spain warns of LockBit Locker ransomware phishing attacks<a href="https://www.bleepingcomputer.com/news/security/spain-warns-of-lockbit-locker-ransomware-phishing-attacks/"> Full Text</a>
@@ -194,7 +370,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoC for Unauthenticated RCE on Juniper Networks Firewalls Released<a href="https://www.helpnetsecurity.com/2023/08/28/poc-rce-juniper-firewalls/?&web_view=true"> Full Text</a>
@@ -210,7 +386,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KmsdBot Malware Gets an Upgrade: Now Targets IoT Devices with Enhanced Capabilities<a href="https://thehackernews.com/2023/08/kmsdbot-malware-gets-upgrade-now.html"> Full Text</a>
@@ -226,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit released for Juniper firewall bugs allowing RCE attacks<a href="https://www.bleepingcomputer.com/news/security/exploit-released-for-juniper-firewall-bugs-allowing-rce-attacks/"> Full Text</a>
@@ -242,7 +418,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leaseweb Reports Cloud Disruptions Due to Cyberattack<a href="https://www.securityweek.com/leaseweb-reports-cloud-disruptions-due-to-cyberattack/?&web_view=true"> Full Text</a>
@@ -258,7 +434,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mom’s Meals discloses data breach impacting 1.2 million people<a href="https://www.bleepingcomputer.com/news/security/moms-meals-discloses-data-breach-impacting-12-million-people/"> Full Text</a>
@@ -274,7 +450,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tor Tweaks Onion Routing Software to Fend Off DDoS Attacks<a href="https://www.theregister.com/2023/08/26/tor_tweaks_onion_routing_software/?&web_view=true"> Full Text</a>
@@ -290,7 +466,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four common password mistakes hackers love to exploit<a href="https://www.bleepingcomputer.com/news/security/four-common-password-mistakes-hackers-love-to-exploit/"> Full Text</a>
@@ -306,7 +482,7 @@ BleepingComputer
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking Group Kittensec Claims to ‘Pwn Anything We See’ to Expose Corruption<a href="https://cyberscoop.com/kittensec-hacktivism-corruption/?&web_view=true"> Full Text</a>
@@ -322,7 +498,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2023
+August 28, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Touts ‘Tremendous Growth’ in Vulnerability Disclosure Platform<a href="https://therecord.media/cisa-vulnerability-disclosure-program-annual-report?&web_view=true"> Full Text</a>
@@ -338,7 +514,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 27, 2023
+August 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rhysida claims ransomware attack on Prospect Medical, threatens to sell data<a href="https://www.bleepingcomputer.com/news/security/rhysida-claims-ransomware-attack-on-prospect-medical-threatens-to-sell-data/"> Full Text</a>
