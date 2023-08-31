@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan’s Cybersecurity Agency Breached by Suspected Chinese Hackers: Report<a href="https://therecord.media/japan-cybersecurity-agency-breached-report?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Suspected Chinese hackers breached Japan’s cybersecurity agency and potentially accessed sensitive data stored on its networks for nine months before being discovered, it was reported on Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compromised OpenCart Payment Module Steals Credit Card Information<a href="https://blog.sucuri.net/2023/08/opencart-payment-module-steals-credit-card-information.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are increasingly using backend PHP infections, making it more challenging to detect Magecart infections without access to the compromised website's backend code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

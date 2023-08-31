@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2023
+August 30, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Enterprise Server Gets New Security Capabilities<a href="https://www.securityweek.com/github-enterprise-server-gets-new-security-capabilities/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2023
+August 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Can Exploit Windows Container Isolation Framework to Bypass Endpoint Security<a href="https://thehackernews.com/2023/08/hackers-can-exploit-windows-container.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2023
+August 30, 2023 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russians Impersonate Washington Post and Fox News With Anti-Ukraine Stories<a href="https://therecord.media/russians-fake-news-anti-ukraine?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2023
+August 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MMRat Android Trojan Executes Remote Financial Fraud Through Accessibility Feature<a href="https://thehackernews.com/2023/08/mmrat-android-trojan-executes-remote.html"> Full Text</a>
@@ -98,8 +98,8 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2023
-{: .fs-4 .fw-700 .lh-0  }
+August 30, 2023 
+{: .fs-4 .fw-700-- [Criminals](/docs/issues/criminals/criminals/)<br> .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pay Our Ransom Instead of GDPR Fine, Cybercrime Gang Tells Its Targets<a href="https://therecord.media/ransomed-cybercrime-group-extortion-gdpr?&web_view=true"> Full Text</a>
 </p>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2023
+August 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked BadBazaar Android Spyware Targeting Signal and Telegram Users<a href="https://thehackernews.com/2023/08/china-linked-badbazaar-android-spyware.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2023
+August 30, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AiTM Attacks Evolve: Warns Microsoft<a href="https://cyware.com/news/aitm-attacks-evolve-warns-microsoft-4c453399"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2023
+August 30, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Prevent ChatGPT From Stealing Your Content & Traffic<a href="https://thehackernews.com/2023/08/how-to-prevent-chatgpt-from-stealing.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2023
+August 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious npm Packages Aim to Target Developers for Source Code Theft<a href="https://thehackernews.com/2023/08/malicious-npm-packages-aim-to-target.html"> Full Text</a>
@@ -178,7 +178,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2023
+August 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: Juniper Firewalls, Openfire, and Apache RocketMQ Under Attack from New Exploits<a href="https://thehackernews.com/2023/08/alert-juniper-firewalls-openfire-and.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2023
+August 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability Alert: VMware Aria Operations Networks at Risk from Remote Attacks<a href="https://thehackernews.com/2023/08/critical-vulnerability-alert-vmware.html"> Full Text</a>
@@ -210,7 +210,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2023
+August 30, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Dismantles QakBot Malware, Frees 700,000 Computers, Seizes $8.6 Million<a href="https://thehackernews.com/2023/08/fbi-dismantles-qakbot-malware-frees.html"> Full Text</a>

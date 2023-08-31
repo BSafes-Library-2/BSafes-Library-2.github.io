@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+August 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russians Impersonate Washington Post and Fox News With Anti-Ukraine Stories<a href="https://therecord.media/russians-fake-news-anti-ukraine?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This operation, named Doppelganger, has persevered in its attempts to influence Western opinion despite numerous disruptions by Meta and “continuous scrutiny by platforms and researchers.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

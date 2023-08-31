@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2023 - Microsoft
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adversary-in-the-middle (AiTM) phishing techniques continue to proliferate through the phishing-as-a-service <a href="https://twitter.com/MsftSecIntel/status/1696273952870367320"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adversary-in-the-middle (AiTM) phishing techniques continue to proliferate through the phishing-as-a-service (PhaaS) cybercrime model, as seen in the increasing number of-AiTM capable PhaaS platforms throughout 2023.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 25, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

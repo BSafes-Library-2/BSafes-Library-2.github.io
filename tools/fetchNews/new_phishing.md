@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 30, 2023 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AiTM Attacks Evolve: Warns Microsoft<a href="https://cyware.com/news/aitm-attacks-evolve-warns-microsoft-4c453399"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is alerting about a rise in AiTM phishing methods within the PhaaS cybercrime model, enabling widespread large-scale phishing campaigns. The primary aim of these attacks is to steal session cookies, allowing malicious actors to gain entry to privileged systems without needing to authentic ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

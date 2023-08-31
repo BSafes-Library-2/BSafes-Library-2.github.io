@@ -34,6 +34,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Enterprise Server Gets New Security Capabilities<a href="https://www.securityweek.com/github-enterprise-server-gets-new-security-capabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now, teams using GitHub Actions can also create their own custom deployment protection rules, to ensure that only “the deployments that pass all quality, security, and manual approval requirements make it to production,” GitHub explained.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Can Exploit Windows Container Isolation Framework to Bypass Endpoint Security<a href="https://thehackernews.com/2023/08/hackers-can-exploit-windows-container.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings show that malicious actors could leverage a sneaky malware detection evasion technique and bypass endpoint security solutions by manipulating the Windows Container Isolation Framework. The findings were presented by Deep Instinct security researcher Daniel Avinoam at the  DEF CON security conference  held earlier this month. Microsoft's  container architecture  (and by extension,  Windows Sandbox ) uses what's called a  dynamically generated image  to separate the file system from each container to the host and at the same time avoid duplication of system files. It's nothing but an "operating system image that has clean copies of files that can change, but links to files that cannot change that are in the Windows image that already exists on the host," thereby bringing down the overall size for a full OS. "The result is images that contain 'ghost files,' which store no actual data but point to a different volume on the system,"
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2023 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russians Impersonate Washington Post and Fox News With Anti-Ukraine Stories<a href="https://therecord.media/russians-fake-news-anti-ukraine?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This operation, named Doppelganger, has persevered in its attempts to influence Western opinion despite numerous disruptions by Meta and “continuous scrutiny by platforms and researchers.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MMRat Android Trojan Executes Remote Financial Fraud Through Accessibility Feature<a href="https://thehackernews.com/2023/08/mmrat-android-trojan-executes-remote.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented Android banking trojan dubbed  MMRat  has been observed targeting mobile users in Southeast Asia since late June 2023 to remotely commandeer the devices and perform financial fraud. "The malware, named after its distinctive package name com.mm.user, can capture user input and screen content, and can also remotely control victim devices through various techniques, enabling its operators to carry out bank fraud on the victim's device," Trend Micro  said . What makes MMRat stand apart from others of its kind is the use of a customized command-and-control (C2) protocol based on protocol buffers (aka  protobuf ) to efficiently transfer large volumes of data from compromised handsets, demonstrating the growing sophistication of Android malware. Possible targets based on the language used in the phishing pages include Indonesia, Vietnam, Singapore, and the Philippines. The entry point of the attacks is a network of phishing sites that mimic offici
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2023 
+{: .fs-4 .fw-700-- [Criminals](/docs/issues/criminals/criminals/)<br> .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pay Our Ransom Instead of GDPR Fine, Cybercrime Gang Tells Its Targets<a href="https://therecord.media/ransomed-cybercrime-group-extortion-gdpr?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers behind Ransomed are probably linked to other data leak websites like BreachForums and Exposed, Flashpot said. Some of these sites have shut down due to money problems or poor management, the researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked BadBazaar Android Spyware Targeting Signal and Telegram Users<a href="https://thehackernews.com/2023/08/china-linked-badbazaar-android-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered malicious Android apps for Signal and Telegram distributed via the Google Play Store and Samsung Galaxy Store that are engineered to deliver the BadBazaar spyware on infected devices. Slovakian company ESET attributed the campaign to a China-linked actor called  GREF . "Most likely active since July 2020 and since July 2022, respectively, the campaigns have distributed the Android BadBazaar espionage code through the Google Play store, Samsung Galaxy Store, and dedicated websites representing the malicious apps Signal Plus Messenger and FlyGram," security researcher Lukáš Štefanko  said  in a new report shared with The Hacker News. Victims have been primarily detected in Germany, Poland, and the U.S., followed by Ukraine, Australia, Brazil, Denmark, Congo-Kinshasa, Hong Kong, Hungary, Lithuania, the Netherlands, Portugal, Singapore, Spain, and Yemen. BadBazaar was  first documented  by Lookout in November 2022 as targeting the  U
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AiTM Attacks Evolve: Warns Microsoft<a href="https://cyware.com/news/aitm-attacks-evolve-warns-microsoft-4c453399"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is alerting about a rise in AiTM phishing methods within the PhaaS cybercrime model, enabling widespread large-scale phishing campaigns. The primary aim of these attacks is to steal session cookies, allowing malicious actors to gain entry to privileged systems without needing to authentic ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Prevent ChatGPT From Stealing Your Content & Traffic<a href="https://thehackernews.com/2023/08/how-to-prevent-chatgpt-from-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChatGPT and similar large language models (LLMs) have added further complexity to the ever-growing online threat landscape. Cybercriminals no longer need advanced coding skills to execute fraud and other damaging attacks against online businesses and customers, thanks to bots-as-a-service, residential proxies, CAPTCHA farms, and other easily accessible tools.  Now, the latest technology damaging businesses' bottom line is  ChatGPT . Not only have ChatGPT, OpenAI, and other LLMs raised ethical issues by  training their models  on scraped data from across the internet. LLMs are negatively impacting enterprises' web traffic, which can be extremely damaging to business.  3 Risks Presented by LLMs, ChatGPT, & ChatGPT Plugins Among the threats ChatGPT and ChatGPT plugins can pose against online businesses, there are three key risks we will focus on: Content theft  (or republishing data without permission from the original source)can hurt the authority, SEO rankings, and perceived
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious npm Packages Aim to Target Developers for Source Code Theft<a href="https://thehackernews.com/2023/08/malicious-npm-packages-aim-to-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor is leveraging malicious npm packages to target developers with an aim to steal source code and configuration files from victim machines, a sign of how threats lurk consistently in open-source repositories. "The threat actor behind this campaign has been linked to malicious activity dating back to 2021," software supply chain security firm Checkmarx  said  in a report shared with The Hacker News. "Since then, they have continuously published malicious packages." The latest report is a continuation of the  same campaign  that Phylum disclosed at the start of the month in which a number of npm modules were engineered to exfiltrate valuable information to a remote server. The packages, by design, are configured to execute immediately post-installation by means of a postinstall hook defined in the package.json file. It triggers the launch of preinstall.js, which spawns index.js to capture the system metadata as well as harvest source code and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Juniper Firewalls, Openfire, and Apache RocketMQ Under Attack from New Exploits<a href="https://thehackernews.com/2023/08/alert-juniper-firewalls-openfire-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently disclosed security flaws impacting Juniper firewalls, Openfire, and Apache RocketMQ servers have come under active exploitation in the wild, according to multiple reports. The Shadowserver Foundation  said  that it's "seeing exploitation attempts from multiple IPs for Juniper J-Web CVE-2023-36844 (& friends) targeting /webauth_operation.php endpoint," the same day a proof-of-concept (PoC) became available. The  issues , tracked as CVE-2023-36844, CVE-2023-36845, CVE-2023-36846, and CVE-2023-36847, reside in the J-Web component of Junos OS on Juniper SRX and EX Series. They could be chained by an unauthenticated, network-based attacker to execute arbitrary code on susceptible installations. Patches for the flaw were released on August 17, 2023, a week after which watchTowr Labs published a proof-of-concept (PoC) by combining CVE-2023-36846 and CVE-2023-36845 to execute a PHP file containing malicious shellcode. Currently, there are  more than 8,200 Junip
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability Alert: VMware Aria Operations Networks at Risk from Remote Attacks<a href="https://thehackernews.com/2023/08/critical-vulnerability-alert-vmware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released software updates to correct two security vulnerabilities in Aria Operations for Networks that could be potentially exploited to bypass authentication and gain remote code execution. The most severe of the flaws is CVE-2023-34039 (CVSS score: 9.8), which relates to a case of authentication bypass arising as a result of a lack of unique cryptographic key generation. "A malicious actor with network access to Aria Operations for Networks could bypass SSH authentication to gain access to the Aria Operations for Networks CLI," the company  said  in an advisory. ProjectDiscovery researchers Harsh Jaiswal and Rahul Maini have been credited with discovering and reporting the issue. The second weakness, CVE-2023-20890 (CVSS score: 7.2), is an arbitrary file write vulnerability impacting Aria Operations for Networks that could be abused by an adversary with administrative access to write files to arbitrary locations and achieve remote code execution. Credited
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Dismantles QakBot Malware, Frees 700,000 Computers, Seizes $8.6 Million<a href="https://thehackernews.com/2023/08/fbi-dismantles-qakbot-malware-frees.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated law enforcement effort codenamed  Operation Duck Hunt  has felled  QakBot , a notorious Windows malware family that's estimated to have compromised over 700,000 computers globally and facilitated financial fraud as well as ransomware. To that end, the U.S. Justice Department (DoJ)  said  the malware is "being deleted from victim computers, preventing it from doing any more harm," adding it seized more than $8.6 million in cryptocurrency in illicit profits. The cross-border exercise involved the participation of France, Germany, Latvia, Romania, the Netherlands, the U.K., and the U.S., alongside technical assistance from cybersecurity company Zscaler. The dismantling has been hailed as "the largest U.S.-led financial and technical disruption of a botnet infrastructure leveraged by cybercriminals." No arrests were announced. QakBot, also known as QBot and Pinkslipbot, started its life as a banking trojan in 2007 before morphing into a general-pu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

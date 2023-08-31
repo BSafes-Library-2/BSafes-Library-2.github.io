@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hacking Group Exploits Barracuda Zero-Day to Target Government, Military, and Telecom<a href="https://thehackernews.com/2023/08/chinese-hacking-group-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected Chinese-nexus hacking group exploited a&nbsp; recently disclosed zero-day flaw &nbsp;in Barracuda Networks Email Security Gateway (ESG) appliances to breach government, military, defense and aerospace, high-tech industry, and telecom sectors as part of a global espionage campaign. Mandiant, which is tracking the activity under the name&nbsp; UNC4841 , described the threat actor as "highly responsive to defensive efforts" and capable of actively tweaking their modus operandi to maintain persistent access to targets. "UNC4841 deployed new and novel malware designed to maintain presence at a small subset of high priority targets that it compromised either before the patch was released, or shortly following Barracuda's remediation guidance," the Google-owned threat intelligence firm&nbsp; said &nbsp;in a new technical report published today. Almost a third of the identified affected organizations are government agencies. Interestingly enough, some of the earliest compromises
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

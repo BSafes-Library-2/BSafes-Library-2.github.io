@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+August 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Enterprise Server Gets New Security Capabilities<a href="https://www.securityweek.com/github-enterprise-server-gets-new-security-capabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Now, teams using GitHub Actions can also create their own custom deployment protection rules, to ensure that only “the deployments that pass all quality, security, and manual approval requirements make it to production,” GitHub explained.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

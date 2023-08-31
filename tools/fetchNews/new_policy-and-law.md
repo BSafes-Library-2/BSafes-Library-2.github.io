@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 30, 2023 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Dismantles QakBot Malware, Frees 700,000 Computers, Seizes $8.6 Million<a href="https://thehackernews.com/2023/08/fbi-dismantles-qakbot-malware-frees.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated law enforcement effort codenamed&nbsp; Operation Duck Hunt &nbsp;has felled&nbsp; QakBot , a notorious Windows malware family that's estimated to have compromised over 700,000 computers globally and facilitated financial fraud as well as ransomware. To that end, the U.S. Justice Department (DoJ)&nbsp; said &nbsp;the malware is "being deleted from victim computers, preventing it from doing any more harm," adding it seized more than $8.6 million in cryptocurrency in illicit profits. The cross-border exercise involved the participation of France, Germany, Latvia, Romania, the Netherlands, the U.K., and the U.S., alongside technical assistance from cybersecurity company Zscaler. The dismantling has been hailed as "the largest U.S.-led financial and technical disruption of a botnet infrastructure leveraged by cybercriminals." No arrests were announced. QakBot, also known as QBot and Pinkslipbot, started its life as a banking trojan in 2007 before morphing into a general-pu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

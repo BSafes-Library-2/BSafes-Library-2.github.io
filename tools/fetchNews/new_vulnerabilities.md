@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Can Exploit Windows Container Isolation Framework to Bypass Endpoint Security<a href="https://thehackernews.com/2023/08/hackers-can-exploit-windows-container.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings show that malicious actors could leverage a sneaky malware detection evasion technique and bypass endpoint security solutions by manipulating the Windows Container Isolation Framework. The findings were presented by Deep Instinct security researcher Daniel Avinoam at the&nbsp; DEF CON security conference &nbsp;held earlier this month. Microsoft's&nbsp; container architecture &nbsp;(and by extension,&nbsp; Windows Sandbox ) uses what's called a&nbsp; dynamically generated image &nbsp;to separate the file system from each container to the host and at the same time avoid duplication of system files. It's nothing but an "operating system image that has clean copies of files that can change, but links to files that cannot change that are in the Windows image that already exists on the host," thereby bringing down the overall size for a full OS. "The result is images that contain 'ghost files,' which store no actual data but point to a different volume on the system,"
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Juniper Firewalls, Openfire, and Apache RocketMQ Under Attack from New Exploits<a href="https://thehackernews.com/2023/08/alert-juniper-firewalls-openfire-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently disclosed security flaws impacting Juniper firewalls, Openfire, and Apache RocketMQ servers have come under active exploitation in the wild, according to multiple reports. The Shadowserver Foundation&nbsp; said &nbsp;that it's "seeing exploitation attempts from multiple IPs for Juniper J-Web CVE-2023-36844 (&amp; friends) targeting /webauth_operation.php endpoint," the same day a proof-of-concept (PoC) became available. The&nbsp; issues , tracked as CVE-2023-36844, CVE-2023-36845, CVE-2023-36846, and CVE-2023-36847, reside in the J-Web component of Junos OS on Juniper SRX and EX Series. They could be chained by an unauthenticated, network-based attacker to execute arbitrary code on susceptible installations. Patches for the flaw were released on August 17, 2023, a week after which watchTowr Labs published a proof-of-concept (PoC) by combining CVE-2023-36846 and CVE-2023-36845 to execute a PHP file containing malicious shellcode. Currently, there are&nbsp; more than 8,200 Junip
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability Alert: VMware Aria Operations Networks at Risk from Remote Attacks<a href="https://thehackernews.com/2023/08/critical-vulnerability-alert-vmware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware has released software updates to correct two security vulnerabilities in Aria Operations for Networks that could be potentially exploited to bypass authentication and gain remote code execution. The most severe of the flaws is CVE-2023-34039 (CVSS score: 9.8), which relates to a case of authentication bypass arising as a result of a lack of unique cryptographic key generation. "A malicious actor with network access to Aria Operations for Networks could bypass SSH authentication to gain access to the Aria Operations for Networks CLI," the company&nbsp; said &nbsp;in an advisory. ProjectDiscovery researchers Harsh Jaiswal and Rahul Maini have been credited with discovering and reporting the issue. The second weakness, CVE-2023-20890 (CVSS score: 7.2), is an arbitrary file write vulnerability impacting Aria Operations for Networks that could be abused by an adversary with administrative access to write files to arbitrary locations and achieve remote code execution. Credited
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
