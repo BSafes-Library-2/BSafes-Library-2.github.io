@@ -34,6 +34,230 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Estries Group Targets Government and IT Organizations<a href="https://cyware.com/news/earth-estries-group-targets-government-and-it-organizations-efcc442e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyberespionage campaign called Earth Estries has been discovered, targeting governments and organizations in the technology sector. Active since at least 2020, the campaign shows similarities with another APT group called FamousSparrow. It is essential for organizations to track and analyze t ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SapphireStealer Malware: A Gateway to Espionage and Ransomware Operations<a href="https://thehackernews.com/2023/08/sapphirestealer-malware-gateway-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An open-source .NET-based information stealer malware dubbed  SapphireStealer  is being used by multiple entities to enhance its capabilities and spawn their own bespoke variants. "Information-stealing malware like SapphireStealer can be used to obtain sensitive information, including corporate credentials, which are often resold to other threat actors who leverage the access for additional attacks, including operations related to espionage or ransomware/extortion," Cisco Talos researcher Edmund Brumaghin  said  in a report shared with The Hacker News. An entire ecosystem has developed over time that allows both financially motivated and nation-state actors to use services from purveyors of stealer malware to carry out various kinds of attacks. Viewed in that light, such malware not only represents an evolution of the cybercrime-as-a-service (CaaS) model, they also offer other threat actors to monetize the stolen data to distribute ransomware, conduct data theft, and other maliciou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unmasking Trickbot, One of the World’s Top Cybercrime Gangs<a href="https://www.wired.com/story/trickbot-trickleaks-bentley/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maksim Sergeevich Galochkin, a member of the Russian cybercrime syndicate Trickbot, has been identified by cybercrime researchers. The identification of Galochkin comes after a comprehensive investigation into leaked data from the Trickbot group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Deploy New Malicious Python Packages in PyPI Repository<a href="https://thehackernews.com/2023/08/north-korean-hackers-deploy-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three additional rogue Python packages have been discovered in the Package Index (PyPI) repository as part of an ongoing malicious software supply chain campaign called  VMConnect , with signs pointing to the involvement of North Korean state-sponsored threat actors. The  findings  come from ReversingLabs, which detected the packages tablediter, request-plus, and requestspro. First disclosed at the start of the month by the company and Sonatype,  VMConnect  refers to a collection of Python packages that mimic popular open-source Python tools to download an unknown second-stage malware. The latest tranche is no different, with ReversingLabs noting that the bad actors are disguising their packages and making them appear trustworthy by using typosquatting techniques to impersonate prettytable and requests and confuse developers. The nefarious code within tablediter is designed to run in an endless execution loop in which a remote server is polled periodically to retrieve and execute
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BadBazaar Espionage Tool Targets Android Users<a href="https://cyware.com/news/badbazaar-espionage-tool-targets-android-users-137b3e2f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET discovered two active campaigns distributing trojanized Signal and Telegram apps that aim to exfiltrate user data and spy on victims’ communications. They have been spreading the BadBazaar Android spyware. Mitigation includes cautious app selection, avoiding suspicious sources, and maintaining ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Numbers Don't Lie: Exposing the Harsh Truths of Cyberattacks in New Report<a href="https://thehackernews.com/2023/08/numbers-dont-lie-exposing-harsh-truths.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How often do cyberattacks happen? How frequently do threat actors target businesses and governments around the world? The BlackBerry® Threat Research and Intelligence Team recently analyzed 90 days of real-world data to answer these questions. Full results are in the latest BlackBerry  Global Threat Intelligence Report , but read on for a teaser of several interesting cyber attack statistics. Analyzing Real-World Cyberattacks In their most recent quarterly report, BlackBerry threat researchers analyzed the onslaught of malware-based attacks from December 2022 to February 2023. During that time, BlackBerry's AI-powered endpoint protection solution, detected and blocked a total of  1,578,733  malware-based cyberattacks targeting customers. 90 Days of Cyberattacks Based on analysis of cyberattacks detected and blocked during the 90-day window, the BlackBerry Threat Research and Intelligence Team recorded the following statistics: Total number of malware-based attacks:  1,578,73
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMConnect Supply Chain Attack Continues, Evidence Points to North Korea<a href="https://www.reversinglabs.com/blog/vmconnect-supply-chain-campaign-continues?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently discovered malicious Python packages, such as tablediter, request-plus, and requestspro, are believed to be a continuation of the VMConnect campaign attributed to North Korean threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Estries' Espionage Campaign Targets Governments and Tech Titans Across Continents<a href="https://thehackernews.com/2023/08/earth-estries-espionage-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking outfit nicknamed  Earth Estries  has been attributed to a new, ongoing cyber espionage campaign targeting government and technology industries based in the Philippines, Taiwan, Malaysia, South Africa, Germany, and the U.S. "The threat actors behind Earth Estries are working with high-level resources and functioning with sophisticated skills and experience in cyber espionage and illicit activities," Trend Micro researchers Ted Lee, Lenart Bermejo, Hara Hiroaki, Leon M Chang, and Gilbert Sison  said . Active since at least 2020, Earth Estries is said to share tactical overlaps with another nation-state group tracked as  FamousSparrow , which was first exposed by ESET in 2021 as exploiting ProxyLogon flaws in Microsoft Exchange Server to penetrate hospitality, government, engineering, and legal sectors. It's worth pointing out that commonalities have also been unearthed between FamousSparrow and  UNC4841 , an uncategorized activity cluster held responsible for
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear Releases Patches for Two High-Severity Vulnerabilities<a href="https://therecord.media/netgear-releases-patches-for-two-bugs?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The network hardware giant Netgear has discovered two vulnerabilities affecting one of its router models and its network management software. One of the flaws, tracked as CVE-2023-41183, allows hackers to exploit Netgear’s Orbi 760 routers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forever 21 Data Breach Leaks Personal Information of Over 539,000 Individuals<a href="https://www.jdsupra.com/legalnews/forever-21-data-breach-leaks-personal-8548981/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forever 21 experienced a data breach that compromised the personal information, including names and Social Security numbers, of over 539,000 individuals. The breach occurred between January 5, 2023, and March 21, 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compliance and Risk Management Startup Hyperproof Raises $40M<a href="https://techcrunch.com/2023/08/30/hyperproof-compliance-startup-raises-40m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hyperproof, a software-as-a-service risk and compliance management company, today announced that it raised $40 million in a funding round led by Riverwood Capital, with participation from Toba Capital, an early-stage VC firm.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Safety Council Data Leak Impacts Credentials of NASA, Tesla, DoJ, Verizon, and 2000 Other Firms<a href="https://securityaffairs.com/150138/security/nasa-tesla-doj-verizon-2k-leaks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Safety Council has leaked nearly 10,000 emails and passwords of their members, exposing 2000 companies, including governmental organizations and big corporations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Power of Passive OS Fingerprinting for Accurate IoT Device Identification<a href="https://www.helpnetsecurity.com/2023/08/31/passive-os-fingerprinting/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To effectively safeguard against the risks of IoT sprawl, continuous monitoring, and absolute control are crucial. However, that requires accurate identification of all IoT devices and operating systems (OSes) within the enterprise network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Attacks From 'Earth Estries' Hit Governments, Tech Firms Across the Globe<a href="https://www.darkreading.com/attacks-breaches/-apt-attacks-from-earth-estries-hit-govt-tech-with-custom-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earth Estries uses advanced techniques such as DLL sideloading and has developed three custom malware tools: Zingdoor, TrillClient, and HemiGate. It has been active since at least 2020 and has similarities with another group called FamousSparrow.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 30, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
