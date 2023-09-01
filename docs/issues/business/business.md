@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Compliance and Risk Management Startup Hyperproof Raises $40M<a href="https://techcrunch.com/2023/08/30/hyperproof-compliance-startup-raises-40m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hyperproof, a software-as-a-service risk and compliance management company, today announced that it raised $40 million in a funding round led by Riverwood Capital, with participation from Toba Capital, an early-stage VC firm.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Prevent ChatGPT From Stealing Your Content &amp; Traffic<a href="https://thehackernews.com/2023/08/how-to-prevent-chatgpt-from-stealing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChatGPT and similar large language models (LLMs) have added further complexity to the ever-growing online threat landscape. Cybercriminals no longer need advanced coding skills to execute fraud and other damaging attacks against online businesses and customers, thanks to bots-as-a-service, residential proxies, CAPTCHA farms, and other easily accessible tools.&nbsp; Now, the latest technology damaging businesses' bottom line is&nbsp; ChatGPT . Not only have ChatGPT, OpenAI, and other LLMs raised ethical issues by&nbsp; training their models &nbsp;on scraped data from across the internet. LLMs are negatively impacting enterprises' web traffic, which can be extremely damaging to business.&nbsp; 3 Risks Presented by LLMs, ChatGPT, &amp; ChatGPT Plugins Among the threats ChatGPT and ChatGPT plugins can pose against online businesses, there are three key risks we will focus on: Content theft &nbsp;(or republishing data without permission from the original source)can hurt the authority, SEO rankings, and perceived
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

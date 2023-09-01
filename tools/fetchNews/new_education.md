@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Power of Passive OS Fingerprinting for Accurate IoT Device Identification<a href="https://www.helpnetsecurity.com/2023/08/31/passive-os-fingerprinting/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To effectively safeguard against the risks of IoT sprawl, continuous monitoring, and absolute control are crucial. However, that requires accurate identification of all IoT devices and operating systems (OSes) within the enterprise network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

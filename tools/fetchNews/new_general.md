@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Numbers Don't Lie: Exposing the Harsh Truths of Cyberattacks in New Report<a href="https://thehackernews.com/2023/08/numbers-dont-lie-exposing-harsh-truths.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How often do cyberattacks happen? How frequently do threat actors target businesses and governments around the world? The BlackBerry® Threat Research and Intelligence Team recently analyzed 90 days of real-world data to answer these questions. Full results are in the latest BlackBerry&nbsp; Global Threat Intelligence Report , but read on for a teaser of several interesting cyber attack statistics. Analyzing Real-World Cyberattacks In their most recent quarterly report, BlackBerry threat researchers analyzed the onslaught of malware-based attacks from December 2022 to February 2023. During that time, BlackBerry's AI-powered endpoint protection solution, detected and blocked a total of&nbsp; 1,578,733 &nbsp;malware-based cyberattacks targeting customers. 90 Days of Cyberattacks Based on analysis of cyberattacks detected and blocked during the 90-day window, the BlackBerry Threat Research and Intelligence Team recorded the following statistics: Total number of malware-based attacks:&nbsp; 1,578,73
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

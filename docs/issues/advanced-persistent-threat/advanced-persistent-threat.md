@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT Attacks From 'Earth Estries' Hit Governments, Tech Firms Across the Globe<a href="https://www.darkreading.com/attacks-breaches/-apt-attacks-from-earth-estries-hit-govt-tech-with-custom-malware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earth Estries uses advanced techniques such as DLL sideloading and has developed three custom malware tools: Zingdoor, TrillClient, and HemiGate. It has been active since at least 2020 and has similarities with another group called FamousSparrow.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

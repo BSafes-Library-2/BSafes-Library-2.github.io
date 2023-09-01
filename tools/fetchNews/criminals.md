@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 30, 2023 
+{: .fs-4 .fw-700<br> .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pay Our Ransom Instead of GDPR Fine, Cybercrime Gang Tells Its Targets<a href="https://therecord.media/ransomed-cybercrime-group-extortion-gdpr?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers behind Ransomed are probably linked to other data leak websites like BreachForums and Exposed, Flashpot said. Some of these sites have shut down due to money problems or poor management, the researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

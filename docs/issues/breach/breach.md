@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forever 21 Data Breach Leaks Personal Information of Over 539,000 Individuals<a href="https://www.jdsupra.com/legalnews/forever-21-data-breach-leaks-personal-8548981/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forever 21 experienced a data breach that compromised the personal information, including names and Social Security numbers, of over 539,000 individuals. The breach occurred between January 5, 2023, and March 21, 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Safety Council Data Leak Impacts Credentials of NASA, Tesla, DoJ, Verizon, and 2000 Other Firms<a href="https://securityaffairs.com/150138/security/nasa-tesla-doj-verizon-2k-leaks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Safety Council has leaked nearly 10,000 emails and passwords of their members, exposing 2000 companies, including governmental organizations and big corporations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

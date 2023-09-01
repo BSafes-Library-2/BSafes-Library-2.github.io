@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2023
+August 31, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Estries Group Targets Government and IT Organizations<a href="https://cyware.com/news/earth-estries-group-targets-government-and-it-organizations-efcc442e"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2023
+August 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SapphireStealer Malware: A Gateway to Espionage and Ransomware Operations<a href="https://thehackernews.com/2023/08/sapphirestealer-malware-gateway-to.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2023
+August 31, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unmasking Trickbot, One of the World’s Top Cybercrime Gangs<a href="https://www.wired.com/story/trickbot-trickleaks-bentley/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2023
+August 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Deploy New Malicious Python Packages in PyPI Repository<a href="https://thehackernews.com/2023/08/north-korean-hackers-deploy-new.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2023
+August 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BadBazaar Espionage Tool Targets Android Users<a href="https://cyware.com/news/badbazaar-espionage-tool-targets-android-users-137b3e2f"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2023
+August 31, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Numbers Don't Lie: Exposing the Harsh Truths of Cyberattacks in New Report<a href="https://thehackernews.com/2023/08/numbers-dont-lie-exposing-harsh-truths.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2023
+August 31, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMConnect Supply Chain Attack Continues, Evidence Points to North Korea<a href="https://www.reversinglabs.com/blog/vmconnect-supply-chain-campaign-continues?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2023
+August 31, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Estries' Espionage Campaign Targets Governments and Tech Titans Across Continents<a href="https://thehackernews.com/2023/08/earth-estries-espionage-campaign.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2023
+August 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netgear Releases Patches for Two High-Severity Vulnerabilities<a href="https://therecord.media/netgear-releases-patches-for-two-bugs?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2023
+August 31, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Forever 21 Data Breach Leaks Personal Information of Over 539,000 Individuals<a href="https://www.jdsupra.com/legalnews/forever-21-data-breach-leaks-personal-8548981/?&web_view=true"> Full Text</a>
@@ -194,7 +194,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2023
+August 31, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Compliance and Risk Management Startup Hyperproof Raises $40M<a href="https://techcrunch.com/2023/08/30/hyperproof-compliance-startup-raises-40m/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2023
+August 31, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 National Safety Council Data Leak Impacts Credentials of NASA, Tesla, DoJ, Verizon, and 2000 Other Firms<a href="https://securityaffairs.com/150138/security/nasa-tesla-doj-verizon-2k-leaks.html?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2023
+August 31, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Power of Passive OS Fingerprinting for Accurate IoT Device Identification<a href="https://www.helpnetsecurity.com/2023/08/31/passive-os-fingerprinting/?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2023
+August 31, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT Attacks From 'Earth Estries' Hit Governments, Tech Firms Across the Globe<a href="https://www.darkreading.com/attacks-breaches/-apt-attacks-from-earth-estries-hit-govt-tech-with-custom-malware?&web_view=true"> Full Text</a>
