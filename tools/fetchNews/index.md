@@ -34,6 +34,196 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMConnect Supply Chain Attack Persists<a href="https://cyware.com/news/vmconnect-supply-chain-attack-persists-616ac565"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ReversingLabs identified three new malicious Python packages on PyPI, which are linked to a previously discovered VMConnect campaign. Analysis of the packages reveals similarities to previous supply chain attacks attributed to the Lazarus Group. To protect against such threats, organizations must i ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 02, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta Warns of Social Engineering Attacks Targeting Super Administrator Privileges<a href="https://thehackernews.com/2023/09/okta-warns-of-social-engineering.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity services provider Okta on Friday warned of social engineering attacks orchestrated by threat actors to obtain elevated administrator permissions. "In recent weeks, multiple US-based Okta customers have reported a consistent pattern of social engineering attacks against IT service desk personnel, in which the caller's strategy was to convince service desk personnel to reset all multi-factor authentication (MFA) factors enrolled by highly privileged users," the company  said . The adversary then moved to abuse the highly privileged Okta Super Administrator accounts to impersonate users within the compromised organization. The campaign, per the company, took place between July 29 and August 19, 2023. Okta did not disclose the identity of the threat actor, but the tactics exhibit all the hallmarks of an activity cluster known as  Muddled Libra , which is said to share some degree of overlap with Scattered Spider and Scatter Swine. Central to the attacks is a commercial phish
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pennsylvania School District to Stay Open Despite Ransomware Attack<a href="https://therecord.media/pennsylvania-school-district-stays-open-after-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Thursday, the Chambersburg Area School District published a message on its website and social media channels announcing that it had become yet another K-12 school district attacked by a ransomware gang.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Targeting Microsoft SQL Servers to Deploy FreeWorld Ransomware<a href="https://thehackernews.com/2023/09/threat-actors-targeting-microsoft-sql.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are exploiting poorly secured Microsoft SQL (MS SQL) servers to deliver Cobalt Strike and a ransomware strain called FreeWorld. Cybersecurity firm Securonix, which has dubbed the campaign DB#JAMMER , said it stands out for the way the toolset and infrastructure is employed. "Some of these tools include enumeration software, RAT payloads, exploitation and credential stealing software, and finally ransomware payloads," security researchers Den Iuzvyk, Tim Peck, and Oleg Kolesnikov said in a technical breakdown of the activity. "The ransomware payload of choice appears to be a newer variant of Mimic ransomware called FreeWorld." Initial access to the victim host is achieved by brute-forcing the MS SQL server, using it to enumerate the database and leveraging the xp_cmdshell configuration option to run shell commands and conduct reconnaissance. The next stage entails taking steps to impair system firewall and establish persistence by connecting to a remote SMB share
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach Could Affect More Than 100,000 in Pima County<a href="https://tucson.com/news/local/data-breach-pima-county-covid/article_d341a000-4768-11ee-812f-6f96662dacb5.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 100,000 Pima County residents could be affected by a nationwide data breach that affected the company that handled COVID-19 case investigations and contact tracing here, officials say.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian State-Backed 'Infamous Chisel' Android Malware Targets Ukrainian Military<a href="https://thehackernews.com/2023/09/russian-state-backed-infamous-chisel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity and intelligence agencies from Australia, Canada, New Zealand, the U.K., and the U.S. on Thursday disclosed details of a mobile malware strain targeting Android devices used by the Ukrainian military. The malicious software, dubbed  Infamous Chisel  and attributed to a Russian state-sponsored actor called Sandworm, has  capabilities  to "enable unauthorized access to compromised devices, scan files, monitor traffic, and periodically steal sensitive information." Some aspects of the malware were  uncovered  by the Security Service of Ukraine (SBU) earlier in August, highlighting unsuccessful attempts on part of the adversary to penetrate Ukrainian military networks and gather valuable intelligence. It's said that Russian forces captured tablets used by Ukraine on the battlefield, using them as a foothold to remotely disseminate the malware to other devices by using the Android Debug Bridge ( ADB ) command-line tool. Sandworm, also known by the names FROZENBARENTS, Ir
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LogicMonitor Customers Hit by Hackers Due to Weak Default Passwords<a href="https://techcrunch.com/2023/08/31/logicmonitor-customers-hit-by-hackers-because-of-default-passwords/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some customers of the network security company LogicMonitor have been hacked due to the use of default passwords, TechCrunch has learned. A LogicMonitor spokesperson confirmed “a security incident” affecting some of the company’s customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SuperBear Trojan Emerges in Targeted Phishing Attack on South Korean Activists<a href="https://thehackernews.com/2023/09/new-superbear-trojan-emerges-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing attack likely targeting civil society groups in South Korea has led to the discovery of a novel remote access trojan called  SuperBear . The intrusion singled out an unnamed activist, who was contacted in late August 2023 and received a malicious LNK file from an address impersonating a member of the organization, non-profit entity Interlabs  said  in a new report. The LNK file, upon execution, launches a PowerShell command to execute a Visual Basic script that, in turn, fetches the next-stage payloads from a legitimate but compromised WordPress website. This includes the Autoit3.exe binary ("solmir.pdb") and an AutoIt script ("solmir_1.pdb") that's launched using the former. The AutoIt script, for its part, performs process injection using a  process hollowing technique , in which malicious code is inserted into a process that's in a suspended state. In this case, an instance of Explorer.exe is spawned to inject a never-before-seen RAT referred to as SuperBear th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free Decryptor Available for ‘Key Group’ Ransomware<a href="https://www.securityweek.com/free-decryptor-available-for-key-group-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Also known as keygroup777, Key Group is a Russian-speaking cybercrime actor known for selling personally identifiable information (PII) and access to compromised devices, as well as extorting victims for money.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+It's a Zero-day? It's Malware? No! It's Username and Password<a href="https://thehackernews.com/2023/09/its-zero-day-its-malware-no-its.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As cyber threats continue to evolve, adversaries are deploying a range of tools to breach security defenses and compromise sensitive data. Surprisingly, one of the most potent weapons in their arsenal is not malicious code but simply stolen or weak usernames and passwords. This article explores the seriousness of compromised credentials, the challenges they present to security solutions, and the importance of implementing robust measures to protect Active Directory (AD) environments. Additionally, we introduce Silverfort Unified Identity Protection , a comprehensive solution that offers enhanced security for AD environments against the misuse of compromised credentials. The Power of Stolen Credentials: Full Access to Any Resource  In the world of cyberattacks, stolen usernames and passwords are a highly effective means of gaining unauthorized access to networks and systems. They grant adversaries an entry point, allowing them subsequent access to sensitive on-prem and cloud resource
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sourcegraph Discloses Data Breach Following Access Token Leak<a href="https://www.securityweek.com/sourcegraph-discloses-data-breach-following-access-token-leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the platform, the admin access token used in the attack was leaked in a July 14 commit that passed internal code analysis tools. The token “had broad privileges to view and modify account information on Sourcegraph.com”.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 01, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Classiscam Scam-as-a-Service Raked $64.5 Million During the COVID-19 Pandemic<a href="https://thehackernews.com/2023/09/classiscam-scam-as-service-raked-645.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Classiscam scam-as-a-service program has reaped the criminal actors $64.5 million in illicit earnings since its emergence in 2019. "Classiscam campaigns initially started out on classified sites, on which scammers placed fake advertisements and used social engineering techniques to convince users to pay for goods by transferring money to bank cards," Group-IB  said  in a new report. "Since then, Classiscam campaigns have become highly automated, and can be run on a host of other services, such as online marketplaces and carpooling sites." A majority of victims are based in Europe (62.2%), followed by the Middle East and Africa (18.2%), and the Asia-Pacific (13%). Germany, Poland, Spain, Italy, and Romania accounted for the highest number of fraudulent transactions registered in Classiscam chats.  First discovered in 2019, Classiscam is an  umbrella term  for an operation that encompasses 1,366 distinct groups on Telegram. The activities first targeted Russi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 31, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

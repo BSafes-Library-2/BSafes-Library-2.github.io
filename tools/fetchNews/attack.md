@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+August 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Estries Group Targets Government and IT Organizations<a href="https://cyware.com/news/earth-estries-group-targets-government-and-it-organizations-efcc442e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyberespionage campaign called Earth Estries has been discovered, targeting governments and organizations in the technology sector. Active since at least 2020, the campaign shows similarities with another APT group called FamousSparrow. It is essential for organizations to track and analyze t ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMConnect Supply Chain Attack Continues, Evidence Points to North Korea<a href="https://www.reversinglabs.com/blog/vmconnect-supply-chain-campaign-continues?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently discovered malicious Python packages, such as tablediter, request-plus, and requestspro, are believed to be a continuation of the VMConnect campaign attributed to North Korean threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Estries' Espionage Campaign Targets Governments and Tech Titans Across Continents<a href="https://thehackernews.com/2023/08/earth-estries-espionage-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking outfit nicknamed&nbsp; Earth Estries &nbsp;has been attributed to a new, ongoing cyber espionage campaign targeting government and technology industries based in the Philippines, Taiwan, Malaysia, South Africa, Germany, and the U.S. "The threat actors behind Earth Estries are working with high-level resources and functioning with sophisticated skills and experience in cyber espionage and illicit activities," Trend Micro researchers Ted Lee, Lenart Bermejo, Hara Hiroaki, Leon M Chang, and Gilbert Sison&nbsp; said . Active since at least 2020, Earth Estries is said to share tactical overlaps with another nation-state group tracked as&nbsp; FamousSparrow , which was first exposed by ESET in 2021 as exploiting ProxyLogon flaws in Microsoft Exchange Server to penetrate hospitality, government, engineering, and legal sectors. It's worth pointing out that commonalities have also been unearthed between FamousSparrow and&nbsp; UNC4841 , an uncategorized activity cluster held responsible for
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

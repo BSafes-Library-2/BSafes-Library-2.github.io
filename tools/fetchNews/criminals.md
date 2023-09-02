@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unmasking Trickbot, One of the World’s Top Cybercrime Gangs<a href="https://www.wired.com/story/trickbot-trickleaks-bentley/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maksim Sergeevich Galochkin, a member of the Russian cybercrime syndicate Trickbot, has been identified by cybercrime researchers. The identification of Galochkin comes after a comprehensive investigation into leaked data from the Trickbot group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2023 
 {: .fs-4 .fw-700<br> .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

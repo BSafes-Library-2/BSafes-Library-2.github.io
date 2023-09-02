@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+August 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netgear Releases Patches for Two High-Severity Vulnerabilities<a href="https://therecord.media/netgear-releases-patches-for-two-bugs?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The network hardware giant Netgear has discovered two vulnerabilities affecting one of its router models and its network management software. One of the flaws, tracked as CVE-2023-41183, allows hackers to exploit Netgear’s Orbi 760 routers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
