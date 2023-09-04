@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Critical VMware Aria's SSH Auth Bypass Vulnerability<a href="https://thehackernews.com/2023/09/poc-exploit-released-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept (PoC) exploit code has been made available for a recently disclosed and patched critical flaw impacting VMware Aria Operations for Networks (formerly vRealize Network Insight). The flaw, tracked as&nbsp; CVE-2023-34039 , is rated 9.8 out of a maximum of 10 for severity and has been described as a case of authentication bypass due to a lack of unique cryptographic key generation. "A malicious actor with network access to Aria Operations for Networks could bypass SSH authentication to gain access to the Aria Operations for Networks CLI," VMware said earlier this week. Summoning Team's Sina Kheirkhah, who published the PoC following an analyzing the patch by VMware, said the root cause can be traced back to a bash script containing a method named refresh_ssh_keys(), which is responsible for overwriting the current SSH keys for the support and ubuntu users in the authorized_keys file. "There is SSH authentication in place; however, VMware forgot to regenerate the keys," Kh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
