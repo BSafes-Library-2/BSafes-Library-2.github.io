@@ -34,7 +34,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2023
+September 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Critical VMware Aria's SSH Auth Bypass Vulnerability<a href="https://thehackernews.com/2023/09/poc-exploit-released-for-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proof-of-concept (PoC) exploit code has been made available for a recently disclosed and patched critical flaw impacting VMware Aria Operations for Networks (formerly vRealize Network Insight). The flaw, tracked as  CVE-2023-34039 , is rated 9.8 out of a maximum of 10 for severity and has been described as a case of authentication bypass due to a lack of unique cryptographic key generation. "A malicious actor with network access to Aria Operations for Networks could bypass SSH authentication to gain access to the Aria Operations for Networks CLI," VMware said earlier this week. Summoning Team's Sina Kheirkhah, who published the PoC following an analyzing the patch by VMware, said the root cause can be traced back to a bash script containing a method named refresh_ssh_keys(), which is responsible for overwriting the current SSH keys for the support and ubuntu users in the authorized_keys file. "There is SSH authentication in place; however, VMware forgot to regenerate the keys," Kh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMConnect Supply Chain Attack Persists<a href="https://cyware.com/news/vmconnect-supply-chain-attack-persists-616ac565"> Full Text</a>
@@ -50,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 02, 2023
+September 02, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Okta Warns of Social Engineering Attacks Targeting Super Administrator Privileges<a href="https://thehackernews.com/2023/09/okta-warns-of-social-engineering.html"> Full Text</a>
@@ -66,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 2, 2023
+September 2, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pennsylvania School District to Stay Open Despite Ransomware Attack<a href="https://therecord.media/pennsylvania-school-district-stays-open-after-ransomware-attack?&web_view=true"> Full Text</a>
@@ -82,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2023
+September 01, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Targeting Microsoft SQL Servers to Deploy FreeWorld Ransomware<a href="https://thehackernews.com/2023/09/threat-actors-targeting-microsoft-sql.html"> Full Text</a>
@@ -98,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2023
+September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Breach Could Affect More Than 100,000 in Pima County<a href="https://tucson.com/news/local/data-breach-pima-county-covid/article_d341a000-4768-11ee-812f-6f96662dacb5.html?&web_view=true"> Full Text</a>
@@ -109,12 +125,10 @@ More than 100,000 Pima County residents could be affected by a nationwide data b
 </details>
 <div style="text-align: right" markdown="1">
 Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2023
+September 01, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian State-Backed 'Infamous Chisel' Android Malware Targets Ukrainian Military<a href="https://thehackernews.com/2023/09/russian-state-backed-infamous-chisel.html"> Full Text</a>
@@ -130,7 +144,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2023
+September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LogicMonitor Customers Hit by Hackers Due to Weak Default Passwords<a href="https://techcrunch.com/2023/08/31/logicmonitor-customers-hit-by-hackers-because-of-default-passwords/?&web_view=true"> Full Text</a>
@@ -146,7 +160,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2023
+September 01, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SuperBear Trojan Emerges in Targeted Phishing Attack on South Korean Activists<a href="https://thehackernews.com/2023/09/new-superbear-trojan-emerges-in.html"> Full Text</a>
@@ -162,7 +176,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2023
+September 1, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Free Decryptor Available for ‘Key Group’ Ransomware<a href="https://www.securityweek.com/free-decryptor-available-for-key-group-ransomware/?&web_view=true"> Full Text</a>
@@ -178,7 +192,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2023
+September 01, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 It's a Zero-day? It's Malware? No! It's Username and Password<a href="https://thehackernews.com/2023/09/its-zero-day-its-malware-no-its.html"> Full Text</a>
@@ -194,7 +208,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 1, 2023
+September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sourcegraph Discloses Data Breach Following Access Token Leak<a href="https://www.securityweek.com/sourcegraph-discloses-data-breach-following-access-token-leak/?&web_view=true"> Full Text</a>
@@ -210,7 +224,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 01, 2023
+September 01, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Classiscam Scam-as-a-Service Raked $64.5 Million During the COVID-19 Pandemic<a href="https://thehackernews.com/2023/09/classiscam-scam-as-service-raked-645.html"> Full Text</a>
