@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+September 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+X (Twitter) to Collect Biometric Data from Premium Users to Combat Impersonation<a href="https://thehackernews.com/2023/09/x-twitter-to-collect-biometric-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+X, the social media site formerly known as Twitter, has updated its privacy policy to collect users' biometric data to tackle fraud and impersonation on the platform. "Based on your consent, we may collect and use your biometric information for safety, security, and identification purposes," the company&nbsp; said . The revised policy is expected to go into effect on September 29, 2023. The social media behemoth told Bloomberg, which&nbsp; first reported &nbsp;the development, that the change is limited to premium users and that a biometric matching process "will also help X fight impersonation attempts and make the platform more secure." To that end, users will be given the option to provide government ID and a picture for identity matching or verification using biometric data, the company told the publication. However, there is currently no clarity on how it plans to collect it and for how long such information will be retained in its systems. The policy update is also expected to include a c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

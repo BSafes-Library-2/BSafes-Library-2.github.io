@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnamese Cybercriminals Targeting Facebook Business Accounts with Malvertising<a href="https://thehackernews.com/2023/09/vietnamese-cybercriminals-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors associated with the Vietnamese cybercrime ecosystem are leveraging advertising-as-a-vector on social media platforms such as Meta-owned Facebook to distribute malware. "Threat actors have long used fraudulent ads as a vector to target victims with scams, malvertising, and more," WithSecure researcher Mohammad Kazem Hassan Nejad&nbsp; said . "And with businesses now leveraging the reach of social media for advertising, attackers have a new, highly-lucrative type of attack to add to their arsenal – hijacking business accounts." Cyber attacks targeting Meta Business and Facebook accounts have gained popularity over the past year, courtesy of activity clusters such as&nbsp; Ducktail &nbsp;and&nbsp; NodeStealer &nbsp;that are known to raid businesses and individuals operating on Facebook. Among the methods employed by cybercriminals to gain unauthorized access to user accounts, social engineering plays a significant role. Victims are approached through various platforms ranging from Facebook a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese-Speaking Cybercriminals Launch Large-Scale iMessage Smishing Campaign in U.S.<a href="https://thehackernews.com/2023/09/chinese-speaking-cybercriminals-launch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new large-scale smishing campaign is targeting the U.S. by sending iMessages from compromised Apple iCloud accounts with an aim to conduct identity theft and financial fraud. "The Chinese-speaking threat actors behind this campaign are operating a package-tracking text scam sent via iMessage to collect personally identifying information (PII) and payment credentials from victims, in the furtherance of identity theft and credit card fraud," Resecurity&nbsp; said &nbsp;in an analysis published last week. The cybercrime group, dubbed&nbsp; Smishing Triad , is also said to be in the business of "fraud-as-a-service," offering other actors ready-to-use smishing kits via Telegram that cost $200 a month. These kits impersonate popular postal and delivery services in the U.S, the U.K, Poland, Sweden, Italy, Indonesia, Malaysia, Japan, and other countries. A stand-out aspect of the activity is the use of breached Apple iCloud accounts as a delivery vector to send package delivery failure messages, urgi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

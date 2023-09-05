@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Ayush Jharkhand Portal Breached, 320,000 Patients’ Records Exposed<a href="https://in.investing.com/news/ayush-jharkhand-portal-breached-32l-patients-records-exposed-security-researchers-3795389?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised data also contains sensitive information about doctors, including their PII, login credentials, usernames, passwords, and phone numbers. The data breach was initiated by a threat actor named "Tanaka".
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 04, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit MinIO Storage System Vulnerabilities to Compromise Servers<a href="https://thehackernews.com/2023/09/hackers-exploit-minio-storage-system.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor has been observed weaponizing high-severity security flaws in the MinIO high-performance object storage system to achieve unauthorized code execution on affected servers. Cybersecurity and incident response firm Security Joes said the intrusion leveraged a publicly available exploit chain to backdoor the MinIO instance. The comprises  CVE-2023-28432  (CVSS score: 7.5) and  CVE-2023-28434  (CVSS score: 8.8), the former of which was  added  to the U.S. Cybersecurity and Infrastructure Security Agency's (CISA) Known Exploited Vulnerabilities (KEV) catalog on April 21, 2023. The two vulnerabilities "possess the potential to expose sensitive information present within the compromised installation and facilitate remote code execution (RCE) on the host where the MinIO application is operational," Security Joes  said  in a report shared with The Hacker News. In the attack chain investigated by the company, the flaws are said to have been weaponized b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SuperBear Trojan Targets South Korean Activists<a href="https://cyware.com/news/new-superbear-trojan-targets-south-korean-activists-448ec8ed"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Civil society organizations in South Korea came under the brunt of a phishing attack that used a new RAT called SuperBear. The intrusion targeted an undisclosed activist, who received a malicious LNK file in late August, posing as a member of their organization. The researchers have provided the IO ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 04, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+X (Twitter) to Collect Biometric Data from Premium Users to Combat Impersonation<a href="https://thehackernews.com/2023/09/x-twitter-to-collect-biometric-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+X, the social media site formerly known as Twitter, has updated its privacy policy to collect users' biometric data to tackle fraud and impersonation on the platform. "Based on your consent, we may collect and use your biometric information for safety, security, and identification purposes," the company  said . The revised policy is expected to go into effect on September 29, 2023. The social media behemoth told Bloomberg, which  first reported  the development, that the change is limited to premium users and that a biometric matching process "will also help X fight impersonation attempts and make the platform more secure." To that end, users will be given the option to provide government ID and a picture for identity matching or verification using biometric data, the company told the publication. However, there is currently no clarity on how it plans to collect it and for how long such information will be retained in its systems. The policy update is also expected to include a c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than 200,000 Indiana Medicaid Members Possibly Exposed in CareSource Data Breach<a href="https://www.wrtv.com/news/public-safety/more-than-200-000-indiana-medicaid-members-possibly-exposed-in-caresource-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CareSource, the entity that manages software for the Indiana Family and Social Services Administration (FSSA), suffered a data breach in May that may have exposed the personal information of 212,193 Indiana Medicaid members.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 04, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Everything You Wanted to Know About AI Security but Were Afraid to Ask<a href="https://thehackernews.com/2023/09/everything-you-wanted-to-know-about-ai.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There's been a great deal of AI hype recently, but that doesn't mean the robots are here to replace us. This article sets the record straight and explains how businesses should approach AI. From musing about self-driving cars to fearing AI bots that could destroy the world, there has been a great deal of AI hype in the past few years. AI has captured our imaginations, dreams, and occasionally, our nightmares. However, the reality is that AI is currently much less advanced than we anticipated it would be by now. Autonomous cars, for example, often considered the poster child of AI's limitless future, represent a narrow use case and are not yet a common application across all transportation sectors. In this article, we de-hype AI, provide tools for businesses approaching AI and share information to help stakeholders educate themselves.  AI Terminology De-Hyped AI vs. ML AI (Artificial Intelligence) and ML (Machine Learning) are terms that are often used interchangeably, but the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Exploit MS SQL Servers to Deploy FreeWorld Ransomware<a href="https://cyware.com/news/threat-actors-exploit-ms-sql-servers-to-deploy-freeworld-ransomware-91fc7399"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A campaign named DB#JAMMER is utilizing poorly secured MS SQL servers to distribute Cobalt Strike and a ransomware strain called FreeWorld. Cybersecurity firm Securonix revealed that the attackers gain initial access by brute-forcing the MS SQL server, followed by reconnaissance, system firewall im ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 04, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnamese Cybercriminals Targeting Facebook Business Accounts with Malvertising<a href="https://thehackernews.com/2023/09/vietnamese-cybercriminals-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious actors associated with the Vietnamese cybercrime ecosystem are leveraging advertising-as-a-vector on social media platforms such as Meta-owned Facebook to distribute malware. "Threat actors have long used fraudulent ads as a vector to target victims with scams, malvertising, and more," WithSecure researcher Mohammad Kazem Hassan Nejad  said . "And with businesses now leveraging the reach of social media for advertising, attackers have a new, highly-lucrative type of attack to add to their arsenal – hijacking business accounts." Cyber attacks targeting Meta Business and Facebook accounts have gained popularity over the past year, courtesy of activity clusters such as  Ducktail  and  NodeStealer  that are known to raid businesses and individuals operating on Facebook. Among the methods employed by cybercriminals to gain unauthorized access to user accounts, social engineering plays a significant role. Victims are approached through various platforms ranging from Facebook a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maker of Chastity Device Left Users’ Emails, Passwords, and Locations Exposed<a href="https://techcrunch.com/2023/09/02/smart-chastity-cage-emails-passwords-location/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A company, that makes a chastity device that can be controlled over the internet, exposed users’ email addresses, plaintext passwords, home addresses and IP addresses, and — in some cases — GPS coordinates, due to several flaws in its servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 04, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of MalDoc in PDF: A New Polyglot Attack Allowing Attackers to Evade Antivirus<a href="https://thehackernews.com/2023/09/beware-of-maldoc-in-pdf-new-polyglot.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have called attention to a new antivirus evasion technique that involves embedding a malicious Microsoft Word file into a PDF file. The sneaky method, dubbed  MalDoc in PDF  by JPCERT/CC, is said to have been employed in an in-the-wild attack in July 2023. "A file created with MalDoc in PDF can be opened in Word even though it has magic numbers and file structure of PDF," researchers Yuma Masubuchi and Kota Kino  said . "If the file has a configured macro, by opening it in Word, VBS runs and performs malicious behaviors." Such specially crafted files are called  polyglots  as they are a legitimate form of multiple different file types, in this case, both PDF and Word (DOC). This entails adding an MHT file created in Word and with a macro attached after the PDF file object. The end result is a valid PDF file that can also be opened in the Word application. Put differently; the PDF document embeds within itself a Word document with a VB
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Freecycle Users Told to Change Passwords After Data Breach<a href="https://grahamcluley.com/freecycle-users-told-to-change-passwords-after-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Freecycle, an online community that encourages sharing unwanted items with eachother than chucking them in the bin or taking them to landfill, has told users to change their passwords after it suffered a data breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 04, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese-Speaking Cybercriminals Launch Large-Scale iMessage Smishing Campaign in U.S.<a href="https://thehackernews.com/2023/09/chinese-speaking-cybercriminals-launch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new large-scale smishing campaign is targeting the U.S. by sending iMessages from compromised Apple iCloud accounts with an aim to conduct identity theft and financial fraud. "The Chinese-speaking threat actors behind this campaign are operating a package-tracking text scam sent via iMessage to collect personally identifying information (PII) and payment credentials from victims, in the furtherance of identity theft and credit card fraud," Resecurity  said  in an analysis published last week. The cybercrime group, dubbed  Smishing Triad , is also said to be in the business of "fraud-as-a-service," offering other actors ready-to-use smishing kits via Telegram that cost $200 a month. These kits impersonate popular postal and delivery services in the U.S, the U.K, Poland, Sweden, Italy, Indonesia, Malaysia, Japan, and other countries. A stand-out aspect of the activity is the use of breached Apple iCloud accounts as a delivery vector to send package delivery failure messages, urgi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 4, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Cyber Agency Warns of Prompt Injection Attacks in AI<a href="https://www.bankinfosecurity.com/uk-cyber-agency-warns-prompt-injection-attacks-in-ai-a-22997?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are manipulating the technology behind large language model chatbots to access confidential information, generate offensive content, and "trigger unintended consequences," warned the U.K. cybersecurity agency.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 03, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+September 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India: Ayush Jharkhand Portal Breached, 320,000 Patients’ Records Exposed<a href="https://in.investing.com/news/ayush-jharkhand-portal-breached-32l-patients-records-exposed-security-researchers-3795389?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised data also contains sensitive information about doctors, including their PII, login credentials, usernames, passwords, and phone numbers. The data breach was initiated by a threat actor named "Tanaka".
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than 200,000 Indiana Medicaid Members Possibly Exposed in CareSource Data Breach<a href="https://www.wrtv.com/news/public-safety/more-than-200-000-indiana-medicaid-members-possibly-exposed-in-caresource-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CareSource, the entity that manages software for the Indiana Family and Social Services Administration (FSSA), suffered a data breach in May that may have exposed the personal information of 212,193 Indiana Medicaid members.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Maker of Chastity Device Left Users’ Emails, Passwords, and Locations Exposed<a href="https://techcrunch.com/2023/09/02/smart-chastity-cage-emails-passwords-location/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A company, that makes a chastity device that can be controlled over the internet, exposed users’ email addresses, plaintext passwords, home addresses and IP addresses, and — in some cases — GPS coordinates, due to several flaws in its servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Freecycle Users Told to Change Passwords After Data Breach<a href="https://grahamcluley.com/freecycle-users-told-to-change-passwords-after-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Freecycle, an online community that encourages sharing unwanted items with eachother than chucking them in the bin or taking them to landfill, has told users to change their passwords after it suffered a data breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

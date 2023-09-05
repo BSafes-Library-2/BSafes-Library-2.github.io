@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Everything You Wanted to Know About AI Security but Were Afraid to Ask<a href="https://thehackernews.com/2023/09/everything-you-wanted-to-know-about-ai.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There's been a great deal of AI hype recently, but that doesn't mean the robots are here to replace us. This article sets the record straight and explains how businesses should approach AI. From musing about self-driving cars to fearing AI bots that could destroy the world, there has been a great deal of AI hype in the past few years. AI has captured our imaginations, dreams, and occasionally, our nightmares. However, the reality is that AI is currently much less advanced than we anticipated it would be by now. Autonomous cars, for example, often considered the poster child of AI's limitless future, represent a narrow use case and are not yet a common application across all transportation sectors. In this article, we de-hype AI, provide tools for businesses approaching AI and share information to help stakeholders educate themselves.&nbsp; AI Terminology De-Hyped AI vs. ML AI (Artificial Intelligence) and ML (Machine Learning) are terms that are often used interchangeably, but the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

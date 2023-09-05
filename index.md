@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2023
+September 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India: Ayush Jharkhand Portal Breached, 320,000 Patients’ Records Exposed<a href="https://in.investing.com/news/ayush-jharkhand-portal-breached-32l-patients-records-exposed-security-researchers-3795389?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 04, 2023
+September 04, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit MinIO Storage System Vulnerabilities to Compromise Servers<a href="https://thehackernews.com/2023/09/hackers-exploit-minio-storage-system.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2023
+September 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SuperBear Trojan Targets South Korean Activists<a href="https://cyware.com/news/new-superbear-trojan-targets-south-korean-activists-448ec8ed"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 04, 2023
+September 04, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 X (Twitter) to Collect Biometric Data from Premium Users to Combat Impersonation<a href="https://thehackernews.com/2023/09/x-twitter-to-collect-biometric-data.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2023
+September 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Than 200,000 Indiana Medicaid Members Possibly Exposed in CareSource Data Breach<a href="https://www.wrtv.com/news/public-safety/more-than-200-000-indiana-medicaid-members-possibly-exposed-in-caresource-data-breach?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 04, 2023
+September 04, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Everything You Wanted to Know About AI Security but Were Afraid to Ask<a href="https://thehackernews.com/2023/09/everything-you-wanted-to-know-about-ai.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2023
+September 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Exploit MS SQL Servers to Deploy FreeWorld Ransomware<a href="https://cyware.com/news/threat-actors-exploit-ms-sql-servers-to-deploy-freeworld-ransomware-91fc7399"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 04, 2023
+September 04, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vietnamese Cybercriminals Targeting Facebook Business Accounts with Malvertising<a href="https://thehackernews.com/2023/09/vietnamese-cybercriminals-targeting.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2023
+September 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Maker of Chastity Device Left Users’ Emails, Passwords, and Locations Exposed<a href="https://techcrunch.com/2023/09/02/smart-chastity-cage-emails-passwords-location/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 04, 2023
+September 04, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of MalDoc in PDF: A New Polyglot Attack Allowing Attackers to Evade Antivirus<a href="https://thehackernews.com/2023/09/beware-of-maldoc-in-pdf-new-polyglot.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2023
+September 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Freecycle Users Told to Change Passwords After Data Breach<a href="https://grahamcluley.com/freecycle-users-told-to-change-passwords-after-data-breach/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 04, 2023
+September 04, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese-Speaking Cybercriminals Launch Large-Scale iMessage Smishing Campaign in U.S.<a href="https://thehackernews.com/2023/09/chinese-speaking-cybercriminals-launch.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2023
+September 4, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Cyber Agency Warns of Prompt Injection Attacks in AI<a href="https://www.bankinfosecurity.com/uk-cyber-agency-warns-prompt-injection-attacks-in-ai-a-22997?&web_view=true"> Full Text</a>

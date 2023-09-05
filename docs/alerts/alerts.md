@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2023 - National Cyber Security Centre, UK 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thinking about the security of AI systems <a href="https://www.ncsc.gov.uk/blog-post/thinking-about-security-ai-systems"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you’re reading this blog, there’s a good chance you’ve heard of large language models (LLMs) like ChatGPT, Google Bard and Meta’s LLaMA. These models use algorithms trained on huge amounts of text data which can generate incredibly human-like responses to user prompts.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 29, 2023 - Microsoft
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
