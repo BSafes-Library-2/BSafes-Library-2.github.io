@@ -34,7 +34,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2023
+September 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Soar by 87% in U.K, Reveals JUMPSEC<a href="https://cyware.com/news/ransomware-attacks-soar-by-87-in-uk-reveals-jumpsec-ff4243bd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report from JUMPSEC noted an 87% increase in attacker-reported ransomware in the U.K and a 37% globally in H1 2023. The mass exploitation of vulnerabilities is the primary contributor to this growth.  One key reason for the surge in attack figures is due to the growing number of ransomware v ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspected ALPHV Ransomware Attack on Melbourne Pathology Clinic Possibly Exposed Patient Data<a href="https://www.theguardian.com/technology/2023/sep/05/tissupath-hack-patient-data-breach-cyber-attack-melbourne-pathology-clinic?&web_view=true"> Full Text</a>
@@ -50,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2023
+September 05, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BLISTER Malware Update Fuelling Stealthy Network Infiltration<a href="https://thehackernews.com/2023/09/new-blister-malware-update-fuelling.html"> Full Text</a>
@@ -66,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2023
+September 5, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Chaes Malware Variant Targeting Financial and Logistics Customers<a href="https://blog.morphisec.com/chaes4-new-chaes-malware-variant-targeting-financial-and-logistics-customers?&web_view=true"> Full Text</a>
@@ -82,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2023
+September 05, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Python Variant of Chaes Malware Targets Banking and Logistics Industries<a href="https://thehackernews.com/2023/09/new-python-variant-of-chaes-malware.html"> Full Text</a>
@@ -98,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2023
+September 5, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Use Research Contests to Create New Attack Methods<a href="https://www.helpnetsecurity.com/2023/09/01/cybercriminal-forums-contests/?&web_view=true"> Full Text</a>
@@ -114,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2023
+September 05, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Way Too Vulnerable: Join this Webinar to Understand and Strengthen Identity Attack Surface<a href="https://thehackernews.com/2023/09/way-too-vulnerable-join-this-webinar-to.html"> Full Text</a>
@@ -130,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2023
+September 5, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploring the Traits of Effective Chief Audit Executives<a href="https://www.helpnetsecurity.com/2023/09/01/chief-audit-executives-cae-personal-effectiveness/?&web_view=true"> Full Text</a>
@@ -146,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2023
+September 05, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Key Cybersecurity Tools That Can Mitigate the Cost of a Breach<a href="https://thehackernews.com/2023/09/key-cybersecurity-tools-that-can.html"> Full Text</a>
@@ -162,7 +178,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2023
+September 5, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unraveling EternalBlue: Inside the WannaCry’s Enabler<a href="https://securityaffairs.com/150220/hacking/unraveling-eternalblue-exploit.html?&web_view=true"> Full Text</a>
@@ -178,7 +194,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2023
+September 05, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Cyber Weapons Used by Lazarus Group's Andariel Cluster<a href="https://thehackernews.com/2023/09/researchers-warn-of-cyber-weapons-used.html"> Full Text</a>
@@ -194,7 +210,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2023
+September 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Push Anti-Iranian Government Messages to Millions via Breached App<a href="https://cyberscoop.com/iranian-hacking-group-hacked-app/?&web_view=true"> Full Text</a>
@@ -210,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 05, 2023
+September 05, 2023 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Takes Down Thousands of Accounts Involved in Disinformation Ops from China and Russia<a href="https://thehackernews.com/2023/09/meta-takes-down-thousands-of-accounts.html"> Full Text</a>
