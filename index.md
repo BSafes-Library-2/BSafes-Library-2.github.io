@@ -34,6 +34,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected ALPHV Ransomware Attack on Melbourne Pathology Clinic Possibly Exposed Patient Data<a href="https://www.theguardian.com/technology/2023/sep/05/tissupath-hack-patient-data-breach-cyber-attack-melbourne-pathology-clinic?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian government is aware of the data breach as well as potential incidents affecting real estate firm Barry Plant and owners corporation management company Strata Plan, national cybersecurity coordinator Darren Goldie said in a statement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BLISTER Malware Update Fuelling Stealthy Network Infiltration<a href="https://thehackernews.com/2023/09/new-blister-malware-update-fuelling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An updated version of a malware loader known as BLISTER is being used as part of SocGholish infection chains to distribute an open-source command-and-control (C2) framework called  Mythic . "New BLISTER update includes keying feature that allows for precise targeting of victim networks and lowers exposure within VM/sandbox environments," Elastic Security Labs researchers Salim Bitam and Daniel Stepanic  said  in a technical report published late last month. BLISTER was  first uncovered  by the company in December 2021 acting as a conduit to distribute Cobalt Strike and BitRAT payloads on compromised systems. The use of the malware alongside  SocGholish  (aka FakeUpdates), a JavaScript-based downloader malware, to deliver Mythic was  previously disclosed  by Palo Alto Networks Unit 42 in July 2023. In these attacks, BLISTER is embedded within a legitimate VLC Media Player library in an attempt to get around security software and infiltrate victim environments. Both SocGholish and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chaes Malware Variant Targeting Financial and Logistics Customers<a href="https://blog.morphisec.com/chaes4-new-chaes-malware-variant-targeting-financial-and-logistics-customers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This new variant, primarily targeting logistics and financial sectors, has undergone significant changes, including being rewritten in Python, enhanced communication protocols, and new modules.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Python Variant of Chaes Malware Targets Banking and Logistics Industries<a href="https://thehackernews.com/2023/09/new-python-variant-of-chaes-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Banking and logistics industries are under the onslaught of a reworked variant of a malware called  Chaes . "It has undergone major overhauls: from being rewritten entirely in Python, which resulted in lower detection rates by traditional defense systems, to a comprehensive redesign and an enhanced communication protocol," Morphisec said in a new detailed technical write-up shared with The Hacker News. Chaes, which first emerged in 2020, is known to target e-commerce customers in Latin America, particularly Brazil, to steal sensitive financial information. A subsequent analysis from Avast in early 2022  found  that the threat actors behind the operation, who call themselves Lucifer, had breached more than 800 WordPress websites to deliver Chaes to users of Banco do Brasil, Loja Integrada, Mercado Bitcoin, Mercado Livre, and Mercado Pago. Further updates were detected in December 2022, when Brazilian cybersecurity company Tempest Security Intelligence  uncovered  the mal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Use Research Contests to Create New Attack Methods<a href="https://www.helpnetsecurity.com/2023/09/01/cybercriminal-forums-contests/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The contests mirror legitimate security conference ‘Call For Papers’ and provide the winners considerable financial rewards, recognition from peers, and also, potential jobs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Way Too Vulnerable: Join this Webinar to Understand and Strengthen Identity Attack Surface<a href="https://thehackernews.com/2023/09/way-too-vulnerable-join-this-webinar-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital age, it's not just about being online but how securely your organization operates online. Regardless of size or industry, every organization heavily depends on digital assets. The digital realm is where business takes place, from financial transactions to confidential data storage. While organizations have quickly adopted tools like Multi-Factor Authentication (MFA), Privileged Access Management (PAM), and service account protection, a pressing question remains: Are these measures truly sufficient? With the rise of identity threats, the real battleground has shifted. It's no longer just about firewalls or encryptions but the very identities that access these digital assets. Every day, attackers devise new strategies to compromise user identities to find that weak link to gain malicious access. The tools we've come to rely on might not be as foolproof as we once believed. Many organizations remain unaware of vast security gaps, exposing them to pot
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploring the Traits of Effective Chief Audit Executives<a href="https://www.helpnetsecurity.com/2023/09/01/chief-audit-executives-cae-personal-effectiveness/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chief audit executives (CAEs) have identified risk orientation, stakeholder management, and team leadership as the top three characteristics of the most effective individuals, according to Gartner.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key Cybersecurity Tools That Can Mitigate the Cost of a Breach<a href="https://thehackernews.com/2023/09/key-cybersecurity-tools-that-can.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM's 2023 installment of their annual " Cost of a Breach " report has thrown up some interesting trends. Of course, breaches being costly is no longer news at this stage! What's interesting is the difference in how organizations respond to threats and which technologies are helping reduce the costs associated with every IT team's nightmare scenario.  The average cost of a breach rose once again to $4.45 million, increasing 15% over the last three years. Costs associated with escalation and detection have rocketed up 42% during the same period. With that in mind, I was surprised to learn that only 51% of the breached entities surveyed by IBM decided to bolster their security investments, despite the rising financial consequences of dealing with a breach. Headline stats around breach costs are interesting – but can digging into these trends actually help you save money? Organizations want to know where to invest their security budget and which technologies offer the bes
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unraveling EternalBlue: Inside the WannaCry’s Enabler<a href="https://securityaffairs.com/150220/hacking/unraveling-eternalblue-exploit.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EternalBlue exploits a vulnerability in the Microsoft implementation of the Server Message Block (SMB) Protocol. This dupes an unpatched Windows machine into allowing illegitimate data packets into the legitimate network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Cyber Weapons Used by Lazarus Group's Andariel Cluster<a href="https://thehackernews.com/2023/09/researchers-warn-of-cyber-weapons-used.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean threat actor known as  Andariel  has been observed employing an arsenal of malicious tools in its cyber assaults against corporations and organizations in the southern counterpart. "One characteristic of the attacks identified in 2023 is that there are numerous malware strains developed in the Go language," the AhnLab Security Emergency Response Center (ASEC)  said  in a deep dive released last week. Andariel, also known by the names Nicket Hyatt or Silent Chollima, is a sub-cluster of the  Lazarus Group  that's known to be active since at least 2008. Financial institutions, defense contractors, government agencies, universities, cybersecurity vendors, and energy companies are among the top targets for the state-sponsored group to fund espionage activities and illegally generate revenue for the country. Attack chains mounted by the adversary have leveraged a variety of initial infection vectors, such as spear-phishing, watering holes, and supply chain attacks, as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Push Anti-Iranian Government Messages to Millions via Breached App<a href="https://cyberscoop.com/iranian-hacking-group-hacked-app/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian-focused hacking group known as Black Reward, with a history of going after the Iranian government, announced a new attack late Thursday, this time targeting a financial services app used by millions of Iranians for digital transactions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Takes Down Thousands of Accounts Involved in Disinformation Ops from China and Russia<a href="https://thehackernews.com/2023/09/meta-takes-down-thousands-of-accounts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta has disclosed that it disrupted two of the largest known covert influence operations in the world from China and Russia, blocking thousands of accounts and pages across its platform. "It targeted more than 50 apps, including Facebook, Instagram, X (formerly Twitter), YouTube, TikTok, Reddit, Pinterest, Medium, Blogspot, LiveJournal, VKontakte, Vimeo, and dozens of smaller platforms and forums," Guy Rosen, chief information security officer at Meta, said last week, describing the Chinese disinformation group. The network, which included 7,704 Facebook accounts, 954 Pages, 15 Groups and 15 Instagram accounts, is said to have been run by "geographically dispersed operators" across China, posting content about China and its province Xinjiang, criticism of the U.S, Western foreign policies, and critics of the Chinese government. Central to the activity is the sharing of spammy links, the origins of which trace back to a cluster named Spamouflage (aka DRAGONBRIDGE ) that has been
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
