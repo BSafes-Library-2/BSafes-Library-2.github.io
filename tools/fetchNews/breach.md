@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected ALPHV Ransomware Attack on Melbourne Pathology Clinic Possibly Exposed Patient Data<a href="https://www.theguardian.com/technology/2023/sep/05/tissupath-hack-patient-data-breach-cyber-attack-melbourne-pathology-clinic?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian government is aware of the data breach as well as potential incidents affecting real estate firm Barry Plant and owners corporation management company Strata Plan, national cybersecurity coordinator Darren Goldie said in a statement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Push Anti-Iranian Government Messages to Millions via Breached App<a href="https://cyberscoop.com/iranian-hacking-group-hacked-app/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian-focused hacking group known as Black Reward, with a history of going after the Iranian government, announced a new attack late Thursday, this time targeting a financial services app used by millions of Iranians for digital transactions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

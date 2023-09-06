@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Soar by 87% in U.K, Reveals JUMPSEC<a href="https://cyware.com/news/ransomware-attacks-soar-by-87-in-uk-reveals-jumpsec-ff4243bd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report from JUMPSEC noted an 87% increase in attacker-reported ransomware in the U.K and a 37% globally in H1 2023. The mass exploitation of vulnerabilities is the primary contributor to this growth.  One key reason for the surge in attack figures is due to the growing number of ransomware v ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

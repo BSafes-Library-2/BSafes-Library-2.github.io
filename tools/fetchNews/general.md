@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploring the Traits of Effective Chief Audit Executives<a href="https://www.helpnetsecurity.com/2023/09/01/chief-audit-executives-cae-personal-effectiveness/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chief audit executives (CAEs) have identified risk orientation, stakeholder management, and team leadership as the top three characteristics of the most effective individuals, according to Gartner.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key Cybersecurity Tools That Can Mitigate the Cost of a Breach<a href="https://thehackernews.com/2023/09/key-cybersecurity-tools-that-can.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM's 2023 installment of their annual " Cost of a Breach " report has thrown up some interesting trends. Of course, breaches being costly is no longer news at this stage! What's interesting is the difference in how organizations respond to threats and which technologies are helping reduce the costs associated with every IT team's nightmare scenario.&nbsp; The average cost of a breach rose once again to $4.45 million, increasing 15% over the last three years. Costs associated with escalation and detection have rocketed up 42% during the same period. With that in mind, I was surprised to learn that only 51% of the breached entities surveyed by IBM decided to bolster their security investments, despite the rising financial consequences of dealing with a breach. Headline stats around breach costs are interesting – but can digging into these trends actually help you save money? Organizations want to know where to invest their security budget and which technologies offer the bes
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
