@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Way Too Vulnerable: Join this Webinar to Understand and Strengthen Identity Attack Surface<a href="https://thehackernews.com/2023/09/way-too-vulnerable-join-this-webinar-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital age, it's not just about being online but how securely your organization operates online. Regardless of size or industry, every organization heavily depends on digital assets. The digital realm is where business takes place, from financial transactions to confidential data storage. While organizations have quickly adopted tools like Multi-Factor Authentication (MFA), Privileged Access Management (PAM), and service account protection, a pressing question remains: Are these measures truly sufficient? With the rise of identity threats, the real battleground has shifted. It's no longer just about firewalls or encryptions but the very identities that access these digital assets. Every day, attackers devise new strategies to compromise user identities to find that weak link to gain malicious access. The tools we've come to rely on might not be as foolproof as we once believed. Many organizations remain unaware of vast security gaps, exposing them to pot
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

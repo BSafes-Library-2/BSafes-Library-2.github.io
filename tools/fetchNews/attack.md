@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+September 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit MinIO Storage System Vulnerabilities to Compromise Servers<a href="https://thehackernews.com/2023/09/hackers-exploit-minio-storage-system.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor has been observed weaponizing high-severity security flaws in the MinIO high-performance object storage system to achieve unauthorized code execution on affected servers. Cybersecurity and incident response firm Security Joes said the intrusion leveraged a publicly available exploit chain to backdoor the MinIO instance. The comprises&nbsp; CVE-2023-28432 &nbsp;(CVSS score: 7.5) and&nbsp; CVE-2023-28434 &nbsp;(CVSS score: 8.8), the former of which was&nbsp; added &nbsp;to the U.S. Cybersecurity and Infrastructure Security Agency's (CISA) Known Exploited Vulnerabilities (KEV) catalog on April 21, 2023. The two vulnerabilities "possess the potential to expose sensitive information present within the compromised installation and facilitate remote code execution (RCE) on the host where the MinIO application is operational," Security Joes&nbsp; said &nbsp;in a report shared with The Hacker News. In the attack chain investigated by the company, the flaws are said to have been weaponized b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SuperBear Trojan Targets South Korean Activists<a href="https://cyware.com/news/new-superbear-trojan-targets-south-korean-activists-448ec8ed"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Civil society organizations in South Korea came under the brunt of a phishing attack that used a new RAT called SuperBear. The intrusion targeted an undisclosed activist, who received a malicious LNK file in late August, posing as a member of their organization. The researchers have provided the IO ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Exploit MS SQL Servers to Deploy FreeWorld Ransomware<a href="https://cyware.com/news/threat-actors-exploit-ms-sql-servers-to-deploy-freeworld-ransomware-91fc7399"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A campaign named DB#JAMMER is utilizing poorly secured MS SQL servers to distribute Cobalt Strike and a ransomware strain called FreeWorld. Cybersecurity firm Securonix revealed that the attackers gain initial access by brute-forcing the MS SQL server, followed by reconnaissance, system firewall im ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

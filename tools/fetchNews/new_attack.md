@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Cyber Weapons Used by Lazarus Group's Andariel Cluster<a href="https://thehackernews.com/2023/09/researchers-warn-of-cyber-weapons-used.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean threat actor known as&nbsp; Andariel &nbsp;has been observed employing an arsenal of malicious tools in its cyber assaults against corporations and organizations in the southern counterpart. "One characteristic of the attacks identified in 2023 is that there are numerous malware strains developed in the Go language," the AhnLab Security Emergency Response Center (ASEC)&nbsp; said &nbsp;in a deep dive released last week. Andariel, also known by the names Nicket Hyatt or Silent Chollima, is a sub-cluster of the&nbsp; Lazarus Group &nbsp;that's known to be active since at least 2008. Financial institutions, defense contractors, government agencies, universities, cybersecurity vendors, and energy companies are among the top targets for the state-sponsored group to fund espionage activities and illegally generate revenue for the country. Attack chains mounted by the adversary have leveraged a variety of initial infection vectors, such as spear-phishing, watering holes, and supply chain attacks, as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

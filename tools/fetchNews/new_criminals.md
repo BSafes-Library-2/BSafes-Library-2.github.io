@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Use Research Contests to Create New Attack Methods<a href="https://www.helpnetsecurity.com/2023/09/01/cybercriminal-forums-contests/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The contests mirror legitimate security conference ‘Call For Papers’ and provide the winners considerable financial rewards, recognition from peers, and also, potential jobs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

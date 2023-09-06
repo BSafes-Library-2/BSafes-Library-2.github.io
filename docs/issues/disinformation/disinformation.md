@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+September 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Takes Down Thousands of Accounts Involved in Disinformation Ops from China and Russia<a href="https://thehackernews.com/2023/09/meta-takes-down-thousands-of-accounts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta has disclosed that it disrupted two of the largest known covert influence operations in the world from China and Russia, blocking thousands of accounts and pages across its platform. "It targeted more than 50 apps, including Facebook, Instagram, X (formerly Twitter), YouTube, TikTok, Reddit, Pinterest, Medium, Blogspot, LiveJournal, VKontakte, Vimeo, and dozens of smaller platforms and forums," Guy Rosen, chief information security officer at Meta, said last week, describing the Chinese disinformation group. The network, which included 7,704 Facebook accounts, 954 Pages, 15 Groups and 15 Instagram accounts, is said to have been run by "geographically dispersed operators" across China, posting content about China and its province Xinjiang, criticism of the U.S, Western foreign policies, and critics of the Chinese government. Central to the activity is the sharing of spammy links, the origins of which trace back to a cluster named Spamouflage (aka DRAGONBRIDGE ) that has been
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
