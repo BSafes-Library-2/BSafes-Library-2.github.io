@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Alert: Latest Android Patch Update Includes Fix for Newly Actively Exploited Flaw<a href="https://thehackernews.com/2023/09/zero-day-alert-latest-android-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has rolled out monthly security patches for Android to address a number of flaws, including a zero-day bug that it said may have been exploited in the wild. Tracked as&nbsp; CVE-2023-35674 , the high-severity vulnerability is described as a case of privilege escalation impacting the&nbsp; Android Framework . "There are indications that CVE-2023-35674 may be under limited, targeted exploitation," the company&nbsp; said &nbsp;in its Android Security Bulletin for September 2023 without delving into additional specifics. The update also addresses three other privilege escalation flaws in Framework, with the search giant noting that the most severe of these issues "could lead to local escalation of privilege with no additional execution privileges needed" sans any user interaction. Google said it has further plugged a critical security vulnerability in the System component that could lead to remote code execution without requiring interaction on the part of the victim. "The severity assessment is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Critical Vulnerability in PHPFusion CMS<a href="https://www.darkreading.com/application-security/researchers-discover-critical-vulnerability-in-phpfusion-cms?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The authenticated local file inclusion flaw, identified as CVE-2023-2453, allows for remote code execution if an attacker can upload a maliciously crafted ".php" file to a known path on a target system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+9 Alarming Vulnerabilities Uncovered in SEL's Power Management Products<a href="https://thehackernews.com/2023/09/9-alarming-vulnerabilities-uncovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nine security flaws have been disclosed in electric power management products made by Schweitzer Engineering Laboratories (SEL). "The most severe of those nine vulnerabilities would allow a threat actor to facilitate remote code execution (RCE) on an engineering workstation," Nozomi Networks&nbsp; said &nbsp;in a report published last week. The issues, tracked as CVE-2023-34392 and from CVE-2023-31168 through CVE-2023-31175, have CVSS severity scores ranging from 4.8 to 8.8 and impact SEL-5030 acSELeratorQuickSet and SEL-5037 GridConfigurator, which are used to commission, configure, and monitor the devices. Exploitation of CVE-2023-31171 could be achieved by sending a phishing email that tricks a victim engineer into importing a specially crafted configuration file to achieve arbitrary code execution on the engineering workstation running the SEL software. What's more, the shortcoming can be chained with CVE-2023-31175 to obtain administrative privileges on the target workstation. CVE-202
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ASUS Routers are Affected by Three Critical Remote Code Execution Flaws<a href="https://securityaffairs.com/150399/iot/asus-routers-critical-rces.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ASUS routers RT-AX55, RT-AX56U_V2, and RT-AC86U are affected by three critical remote code execution vulnerabilities (CVE-2023-39238, CVE-2023-39239, and CVE-2023-39240) that can potentially allow threat actors to take over the devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

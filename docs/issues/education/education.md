@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three CISOs Share How to Run an Effective SOC<a href="https://thehackernews.com/2023/09/three-cisos-share-how-to-run-effective.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The role of the CISO keeps taking center stage as a business enabler: CISOs need to navigate the complex landscape of digital threats while fostering innovation and ensuring business continuity. Three CISOs; Troy Wilkinson, CISO at IPG; Rob Geurtsen, former Deputy CISO at Nike; and Tammy Moskites, Founder of CyAlliance and former CISO at companies like Time Warner and Home Depot – shared their perspectives on how to run an effective SOC in 2023. 1) Prioritize Cost Efficiency While Remaining 'Secure' As a world-renowned speaker, a co-author of an Amazon Best Seller, and a trusted commentator on prominent news networks such as NBC, CBS, and Fox, Troy Wilkinson, knows a thing or two about cybersecurity. When adopting new technologies, Troy reinforces that CISOs don't have the luxury of waiting months or years to see the value of new investments; "Time to Value is critical. New solutions need to deliver value quickly." Rob Geurtsen, former Deputy CISO at Nike,&nbsp; jo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

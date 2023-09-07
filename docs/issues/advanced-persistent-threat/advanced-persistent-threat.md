@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine's CERT Thwarts APT28's Cyberattack on Critical Energy Infrastructure<a href="https://thehackernews.com/2023/09/ukraines-cert-thwarts-apt28s.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) on Tuesday said it thwarted a cyber attack against an unnamed critical energy infrastructure facility in the country. The intrusion, per the agency, started with a phishing email containing a link to a malicious ZIP archive that activates the infection chain. "Visiting the link will download a ZIP archive containing three JPG images (decoys) and a BAT file 'weblinks.cmd' to the victim's computer," CERT-UA&nbsp; said , attributing it to the Russian threat actor known as&nbsp; APT28 &nbsp;(aka BlueDelta, Fancy Bear, Forest Blizzard, or FROZENLAKE). "When a CMD file is run, several decoy web pages will be opened, .bat and .vbs files will be created, and a VBS file will be launched, which in turn will execute the BAT file." The next phase of the attack involves running the "whoami" command on the compromised host and exfiltrating the information, alongside downloading the TOR hidden service to route malicious traffic. Persistence is achieve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
