@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Target NPM, PyPI, and RubyGems Developers<a href="https://cyware.com/news/threat-actors-target-npm-pypi-and-rubygems-developers-d4730501"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyber campaign has emerged, with threat actors uploading malicious packages to PyPI, NPM, and RubyGems repositories, posing a significant threat to macOS user data. The malicious packages would collect system information and exfiltrate it to attacker-controlled servers. Security firm Phylum i ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Alert: Latest Android Patch Update Includes Fix for Newly Actively Exploited Flaw<a href="https://thehackernews.com/2023/09/zero-day-alert-latest-android-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has rolled out monthly security patches for Android to address a number of flaws, including a zero-day bug that it said may have been exploited in the wild. Tracked as  CVE-2023-35674 , the high-severity vulnerability is described as a case of privilege escalation impacting the  Android Framework . "There are indications that CVE-2023-35674 may be under limited, targeted exploitation," the company  said  in its Android Security Bulletin for September 2023 without delving into additional specifics. The update also addresses three other privilege escalation flaws in Framework, with the search giant noting that the most severe of these issues "could lead to local escalation of privilege with no additional execution privileges needed" sans any user interaction. Google said it has further plugged a critical security vulnerability in the System component that could lead to remote code execution without requiring interaction on the part of the victim. "The severity assessment is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bogus URL Shorteners Go Mobile-Only in AdSense Fraud Campaign<a href="https://blog.sucuri.net/2023/09/bogus-url-shorteners-go-mobile-only-in-adsense-fraud-campaign.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers have implemented multiple layers of defense to protect their Google AdSense accounts, including JavaScript execution, mobile user agent checks, user interaction requirements, and server-side user agent checks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Phishing Campaigns Deliver New SideTwist Backdoor and Agent Tesla Variant<a href="https://thehackernews.com/2023/09/alert-phishing-campaigns-deliver-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian threat actor tracked as APT34 has been linked to a new phishing attack that leads to the deployment of a variant of a backdoor called  SideTwist . "APT34 has a high level of attack technology, can design different intrusion methods for different types of targets, and has supply chain attack capability," NSFOCUS Security Labs  said  in a report published last week. APT34, also known by the names Cobalt Gypsy, Hazel Sandstorm (formerly Europium), Helix Kitten, and OilRig, has a  track record  of targeting telecommunications, government, defense, oil and financial services verticals in the Middle East since at least 2014 via spear-phishing lures that culminate in the deployment of various backdoors. One of the key traits of the hacking outfit is its ability to create new and updated tools to minimize the odds of detection and gain a foothold on compromised hosts for extended periods of time. SideTwist was  first documented  as used by APT34 in April 2021, with Check Poin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover Critical Vulnerability in PHPFusion CMS<a href="https://www.darkreading.com/application-security/researchers-discover-critical-vulnerability-in-phpfusion-cms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The authenticated local file inclusion flaw, identified as CVE-2023-2453, allows for remote code execution if an attacker can upload a maliciously crafted ".php" file to a known path on a target system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three CISOs Share How to Run an Effective SOC<a href="https://thehackernews.com/2023/09/three-cisos-share-how-to-run-effective.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The role of the CISO keeps taking center stage as a business enabler: CISOs need to navigate the complex landscape of digital threats while fostering innovation and ensuring business continuity. Three CISOs; Troy Wilkinson, CISO at IPG; Rob Geurtsen, former Deputy CISO at Nike; and Tammy Moskites, Founder of CyAlliance and former CISO at companies like Time Warner and Home Depot – shared their perspectives on how to run an effective SOC in 2023. 1) Prioritize Cost Efficiency While Remaining 'Secure' As a world-renowned speaker, a co-author of an Amazon Best Seller, and a trusted commentator on prominent news networks such as NBC, CBS, and Fox, Troy Wilkinson, knows a thing or two about cybersecurity. When adopting new technologies, Troy reinforces that CISOs don't have the luxury of waiting months or years to see the value of new investments; "Time to Value is critical. New solutions need to deliver value quickly." Rob Geurtsen, former Deputy CISO at Nike,  jo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Agent Tesla Variant Being Spread by Specially Crafted Excel Document<a href="https://www.fortinet.com/blog/threat-research/agent-tesla-variant-spread-by-crafted-excel-document?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Agent Tesla malware is spreading through a phishing campaign, exploiting the CVE-2017-11882/CVE-2018-0802 vulnerability to gain access to victims' devices and steal sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+9 Alarming Vulnerabilities Uncovered in SEL's Power Management Products<a href="https://thehackernews.com/2023/09/9-alarming-vulnerabilities-uncovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nine security flaws have been disclosed in electric power management products made by Schweitzer Engineering Laboratories (SEL). "The most severe of those nine vulnerabilities would allow a threat actor to facilitate remote code execution (RCE) on an engineering workstation," Nozomi Networks  said  in a report published last week. The issues, tracked as CVE-2023-34392 and from CVE-2023-31168 through CVE-2023-31175, have CVSS severity scores ranging from 4.8 to 8.8 and impact SEL-5030 acSELeratorQuickSet and SEL-5037 GridConfigurator, which are used to commission, configure, and monitor the devices. Exploitation of CVE-2023-31171 could be achieved by sending a phishing email that tricks a victim engineer into importing a specially crafted configuration file to achieve arbitrary code execution on the engineering workstation running the SEL software. What's more, the shortcoming can be chained with CVE-2023-31175 to obtain administrative privileges on the target workstation. CVE-202
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ASUS Routers are Affected by Three Critical Remote Code Execution Flaws<a href="https://securityaffairs.com/150399/iot/asus-routers-critical-rces.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ASUS routers RT-AX55, RT-AX56U_V2, and RT-AC86U are affected by three critical remote code execution vulnerabilities (CVE-2023-39238, CVE-2023-39239, and CVE-2023-39240) that can potentially allow threat actors to take over the devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+W3LL Store: How a Secret Phishing Syndicate Targets 8,000+ Microsoft 365 Accounts<a href="https://thehackernews.com/2023/09/w3ll-store-how-secret-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented "phishing empire" has been linked to cyber attacks aimed at compromising Microsoft 365 business email accounts over the past six years. "The threat actor created a hidden underground market, named W3LL Store, that served a closed community of at least 500 threat actors who could purchase a custom phishing kit called W3LL Panel, designed to bypass MFA, as well as 16 other fully customized tools for business email compromise (BEC) attacks," Group-IB  said  in a report shared with The Hacker News. The phishing infrastructure is estimated to have targeted more than 56,000 corporate Microsoft 365 accounts and compromised at least 8,000 of them, primarily in the U.S., the U.K., Australia, Germany, Canada, France, the Netherlands, Switzerland, and Italy between October 2022 and July 2023, netting its operators $500,000 in illicit profits. Some of the prominent sectors infiltrated using the phishing solution include manufacturing, IT, consultin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostSec Leaks Source Code of Alleged Iranian Surveillance Tool<a href="https://www.darkreading.com/dr-global/ghostsec-source-code-alleged-iranian-surveillance-tool?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first messages were posted on August 27, with GhostSec saying it had discovered facial recognition "and various other privacy invading features and tools" within the FANAP group's software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine's CERT Thwarts APT28's Cyberattack on Critical Energy Infrastructure<a href="https://thehackernews.com/2023/09/ukraines-cert-thwarts-apt28s.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) on Tuesday said it thwarted a cyber attack against an unnamed critical energy infrastructure facility in the country. The intrusion, per the agency, started with a phishing email containing a link to a malicious ZIP archive that activates the infection chain. "Visiting the link will download a ZIP archive containing three JPG images (decoys) and a BAT file 'weblinks.cmd' to the victim's computer," CERT-UA  said , attributing it to the Russian threat actor known as  APT28  (aka BlueDelta, Fancy Bear, Forest Blizzard, or FROZENLAKE). "When a CMD file is run, several decoy web pages will be opened, .bat and .vbs files will be created, and a VBS file will be launched, which in turn will execute the BAT file." The next phase of the attack involves running the "whoami" command on the compromised host and exfiltrating the information, alongside downloading the TOR hidden service to route malicious traffic. Persistence is achieve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Chae$ 4 Strain Targets Financial and Logistics Customers<a href="https://cyware.com/news/new-chae-4-strain-targets-financial-and-logistics-customers-882a9d16"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A reworked variant of the Chaes malware, Chae$ 4, is causing havoc in the banking and logistics sectors with significant overhauls. It has been completely rewritten in Python to bypass traditional security defenses and improve communication protocols.  It's essential to regularly update and pa ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
