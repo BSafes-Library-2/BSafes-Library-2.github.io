@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Botnet Variant 'Pandora' Hijacks Android TVs for Cyberattacks<a href="https://thehackernews.com/2023/09/mirai-botnet-variant-pandora-hijacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A&nbsp; Mirai botnet &nbsp;variant called&nbsp; Pandora &nbsp;has been observed infiltrating inexpensive Android-based TV sets and TV boxes and using them as part of a botnet to perform distributed denial-of-service (DDoS) attacks. Doctor Web said the compromises are likely to occur either during malicious firmware updates or when applications for viewing pirated video content are installed. "It is likely that this update has been made available for download from a number of websites, as it is signed with publicly available Android Open Source Project test keys," the Russian company&nbsp; said &nbsp;in an analysis published Wednesday. "The service that runs the backdoor is included in boot.img," enabling it to persist between system restarts. In the alternative distribution methods, it's suspected that users are tricked into installing applications for streaming pirated movies and TV shows through websites that mainly single out Spanish-speaking users. The list of apps is as follows -
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

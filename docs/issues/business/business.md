@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+September 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tenable to Acquire Cloud Security Firm Ermetic for $240 Million<a href="https://www.securityweek.com/tenable-to-acquire-cloud-security-firm-ermetic-for-240-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exposure management solutions provider Tenable announced on Thursday that it has entered into a definitive agreement to acquire Israeli cloud security startup Ermetic for roughly $240 million in cash and $25 million in restricted stock and RSUs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Battery Ventures Buys GrammaTech's Application Security Unit<a href="https://www.bankinfosecurity.com/battery-ventures-buys-grammatechs-application-security-unit-a-22996?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GrammaTech has separated its security software products and cyber research services divisions, and venture capital firm Battery Ventures has acquired the former and renamed it CodeSecure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

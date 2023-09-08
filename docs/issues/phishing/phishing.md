@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mac Users Beware: Malvertising Campaign Spreads Atomic Stealer macOS Malware<a href="https://thehackernews.com/2023/09/mac-users-beware-malvertising-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malvertising campaign has been observed distributing an updated version of a macOS stealer malware called&nbsp; Atomic Stealer &nbsp;(or AMOS), indicating that it's being actively maintained by its author. An off-the-shelf Golang malware available for $1,000 per month, Atomic Stealer&nbsp; first came &nbsp;to light in April 2023. Shortly after that, new variants with an expanded set of information-gathering features were detected in the wild, targeting gamers and cryptocurrency users. Malvertising via Google Ads has been observed as the primary distribution vector in which users searching for popular software, legitimate or cracked, on search engines are shown bogus ads that direct to websites hosting rogue installers. The latest campaign involves the use of a fraudulent website for TradingView, prominently featuring three buttons to download the software for Windows, macOS, and Linux operating systems. "Both the Windows and Linux buttons point to an MSIX installer hosted on Discord that drops
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

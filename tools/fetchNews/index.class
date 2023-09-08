@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dunghill Leak Ransomware Gang Claims Credit for Sabre Data Breach<a href="https://techcrunch.com/2023/09/06/ransomware-gang-claims-credit-for-sabre-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Travel booking giant Sabre said it was investigating claims of a cyberattack after a tranche of files purportedly stolen from the company appeared on an extortion group’s leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mac Users Beware: Malvertising Campaign Spreads Atomic Stealer macOS Malware<a href="https://thehackernews.com/2023/09/mac-users-beware-malvertising-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malvertising campaign has been observed distributing an updated version of a macOS stealer malware called  Atomic Stealer  (or AMOS), indicating that it's being actively maintained by its author. An off-the-shelf Golang malware available for $1,000 per month, Atomic Stealer  first came  to light in April 2023. Shortly after that, new variants with an expanded set of information-gathering features were detected in the wild, targeting gamers and cryptocurrency users. Malvertising via Google Ads has been observed as the primary distribution vector in which users searching for popular software, legitimate or cracked, on search engines are shown bogus ads that direct to websites hosting rogue installers. The latest campaign involves the use of a fraudulent website for TradingView, prominently featuring three buttons to download the software for Windows, macOS, and Linux operating systems. "Both the Windows and Linux buttons point to an MSIX installer hosted on Discord that drops
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mac Users Targeted in New Malvertising Campaign Delivering Atomic Stealer<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/09/atomic-macos-stealer-delivered-via-malvertising?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are using phishing sites and search engine ads to trick victims into downloading the malware, highlighting the importance of verifying the authenticity of downloaded programs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The State of the Virtual CISO Report: MSP/MSSP Security Strategies for 2024<a href="https://thehackernews.com/2023/09/the-state-of-virtual-ciso-report.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By the end of 2024, the number of MSPs and MSSPs offering vCISO services is expected to grow by almost 5 fold, as can be seen in figure 1. This incredible surge reflects the growing business demand for specialized cybersecurity expertise and the lucrative opportunities for MSPs and MSSPs in vCISO services. Figure 1: Timeline for offering vCISO services The State of the Virtual CISO Survey Report  by Global Surveyz, an independent survey company, which was commissioned by Cynomi, provides a deep understanding of the challenges facing MSPs and MSSPs today. The report shares insights from 200 security and IT leaders in MSPs and MSSPs of all sizes, all of which are security-focused. It shines a light on the growing trend of the vCISO offering, including the reasons behind this trend, potential blockers for MSPs/MSSPs and how to overcome them. 480% Expected Increase in vCISO Service Offerings Currently, only 19% of MSPs and MSSPs are offering vCISO services. This relatively low percent
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Just Kids Dental Says Nearly 130,000 People Affected by Cyberattack<a href="https://www.healthcareinfosecurity.com/just-kids-dental-says-nearly-130k-people-affected-by-attack-a-23019?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acadia Health LLC, which does business as Just Kids Dental, in a breach report submitted on September 1 to Maine's attorney general office said the practice's computer systems and network were attacked by a malicious actor on August 2.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Apache Superset Vulnerabilities Expose Servers to Remote Code Execution Attacks<a href="https://thehackernews.com/2023/09/alert-apache-superset-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patches have been released to address two new security vulnerabilities in Apache Superset  that could be exploited by an attacker to gain remote code execution on affected systems. The update (version 2.1.1) plugs  CVE-2023-39265  and  CVE-2023-37941 , which make it possible to conduct nefarious actions once a bad actor is able to gain control of Superset's metadata database. Outside of these weaknesses, the latest version of Superset also remediates a separate improper REST API permission issue ( CVE-2023-36388 ) that allows for low-privilege users to carry out server-side request forgery ( SSRF ) attacks. "Superset by design allows privileged users to connect to arbitrary databases and execute arbitrary SQL queries against those databases using the powerful SQLLab interface," Horizon3.ai's Naveen Sunkavally  said  in a technical write-up. "If Superset can be tricked into connecting to its own metadata database, an attacker can directly read or write application configuration thr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Popular Websites Found Leaking Secrets, Source Code<a href="https://www.securityweek.com/researchers-find-thousands-of-popular-websites-leaking-secrets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of the exposed credentials by Truffle Security has revealed that AWS and GitHub keys were the most prevalent type of leaked secrets, accounting for 45% of all credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Botnet Variant 'Pandora' Hijacks Android TVs for Cyberattacks<a href="https://thehackernews.com/2023/09/mirai-botnet-variant-pandora-hijacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A  Mirai botnet  variant called  Pandora  has been observed infiltrating inexpensive Android-based TV sets and TV boxes and using them as part of a botnet to perform distributed denial-of-service (DDoS) attacks. Doctor Web said the compromises are likely to occur either during malicious firmware updates or when applications for viewing pirated video content are installed. "It is likely that this update has been made available for download from a number of websites, as it is signed with publicly available Android Open Source Project test keys," the Russian company  said  in an analysis published Wednesday. "The service that runs the backdoor is included in boot.img," enabling it to persist between system restarts. In the alternative distribution methods, it's suspected that users are tricked into installing applications for streaming pirated movies and TV shows through websites that mainly single out Spanish-speaking users. The list of apps is as follows -
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tenable to Acquire Cloud Security Firm Ermetic for $240 Million<a href="https://www.securityweek.com/tenable-to-acquire-cloud-security-firm-ermetic-for-240-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exposure management solutions provider Tenable announced on Thursday that it has entered into a definitive agreement to acquire Israeli cloud security startup Ermetic for roughly $240 million in cash and $25 million in restricted stock and RSUs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 07, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Outlook Hack: Microsoft Reveals How a Crash Dump Led to a Major Security Breach<a href="https://thehackernews.com/2023/09/outlook-breach-microsoft-reveals-how.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday revealed that a China-based threat actor known as  Storm-0558  acquired the inactive consumer signing key to forge tokens and access Outlook by compromising an engineer's corporate account. This enabled the adversary to access a debugging environment that contained information pertaining to a crash of the consumer signing system and steal the key. The system crash took place in April 2021. "A consumer signing system crash in April of 2021 resulted in a snapshot of the crashed process ('crash dump')," the Microsoft Security Response Center (MSRC)  said  in a post-mortem report. "The crash dumps, which redact sensitive information, should not include the signing key. In this case, a race condition allowed the key to be present in the crash dump. The key material's presence in the crash dump was not detected by our systems." The Windows maker said the crash dump was moved to a debugging environment on the internet-connected corporate network, from where Storm-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Official Slams Firms for Data Breach Reporting Delays<a href="https://www.bankinfosecurity.com/official-slams-aussie-firms-for-data-breach-reporting-delays-a-23011?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the first half of 2023, OAIC received reports of breaches within 30 days after they occurred from 74% of organizations, and just 5% of organizations took longer than four months to report breaches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Battery Ventures Buys GrammaTech's Application Security Unit<a href="https://www.bankinfosecurity.com/battery-ventures-buys-grammatechs-application-security-unit-a-22996?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GrammaTech has separated its security software products and cyber research services divisions, and venture capital firm Battery Ventures has acquired the former and renamed it CodeSecure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avoidable Digital Certificate Issues Fuel Data Breaches<a href="https://www.helpnetsecurity.com/2023/09/06/digital-certificates-issues/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among organizations that have suffered data breaches 58% were caused by issues related to digital certificates, according to a report by AppViewX and Forrester Consulting.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 6, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Apache Superset Vulnerabilities Expose Servers to Remote Code Execution Attacks<a href="https://thehackernews.com/2023/09/alert-apache-superset-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patches have been released to address two new security&nbsp;vulnerabilities in Apache Superset &nbsp;that could be exploited by an attacker to gain remote code execution on affected systems. The update (version 2.1.1) plugs&nbsp; CVE-2023-39265 &nbsp;and&nbsp; CVE-2023-37941 , which make it possible to conduct nefarious actions once a bad actor is able to gain control of Superset's metadata database. Outside of these weaknesses, the latest version of Superset also remediates a separate improper REST API permission issue ( CVE-2023-36388 ) that allows for low-privilege users to carry out server-side request forgery ( SSRF ) attacks. "Superset by design allows privileged users to connect to arbitrary databases and execute arbitrary SQL queries against those databases using the powerful SQLLab interface," Horizon3.ai's Naveen Sunkavally&nbsp; said &nbsp;in a technical write-up. "If Superset can be tricked into connecting to its own metadata database, an attacker can directly read or write application configuration thr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

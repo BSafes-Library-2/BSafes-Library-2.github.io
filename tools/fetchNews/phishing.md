@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Phishing Campaigns Deliver New SideTwist Backdoor and Agent Tesla Variant<a href="https://thehackernews.com/2023/09/alert-phishing-campaigns-deliver-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian threat actor tracked as APT34 has been linked to a new phishing attack that leads to the deployment of a variant of a backdoor called&nbsp; SideTwist . "APT34 has a high level of attack technology, can design different intrusion methods for different types of targets, and has supply chain attack capability," NSFOCUS Security Labs&nbsp; said &nbsp;in a report published last week. APT34, also known by the names Cobalt Gypsy, Hazel Sandstorm (formerly Europium), Helix Kitten, and OilRig, has a&nbsp; track record &nbsp;of targeting telecommunications, government, defense, oil and financial services verticals in the Middle East since at least 2014 via spear-phishing lures that culminate in the deployment of various backdoors. One of the key traits of the hacking outfit is its ability to create new and updated tools to minimize the odds of detection and gain a foothold on compromised hosts for extended periods of time. SideTwist was&nbsp; first documented &nbsp;as used by APT34 in April 2021, with Check Poin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+W3LL Store: How a Secret Phishing Syndicate Targets 8,000+ Microsoft 365 Accounts<a href="https://thehackernews.com/2023/09/w3ll-store-how-secret-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented "phishing empire" has been linked to cyber attacks aimed at compromising Microsoft 365 business email accounts over the past six years. "The threat actor created a hidden underground market, named W3LL Store, that served a closed community of at least 500 threat actors who could purchase a custom phishing kit called W3LL Panel, designed to bypass MFA, as well as 16 other fully customized tools for business email compromise (BEC) attacks," Group-IB&nbsp; said &nbsp;in a report shared with The Hacker News. The phishing infrastructure is estimated to have targeted more than 56,000 corporate Microsoft 365 accounts and compromised at least 8,000 of them, primarily in the U.S., the U.K., Australia, Germany, Canada, France, the Netherlands, Switzerland, and Italy between October 2022 and July 2023, netting its operators $500,000 in illicit profits. Some of the prominent sectors infiltrated using the phishing solution include manufacturing, IT, consultin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

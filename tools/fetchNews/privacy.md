@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+September 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostSec Leaks Source Code of Alleged Iranian Surveillance Tool<a href="https://www.darkreading.com/dr-global/ghostsec-source-code-alleged-iranian-surveillance-tool?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first messages were posted on August 27, with GhostSec saying it had discovered facial recognition "and various other privacy invading features and tools" within the FANAP group's software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

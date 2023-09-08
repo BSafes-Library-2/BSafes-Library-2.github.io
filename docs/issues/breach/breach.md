@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+September 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dunghill Leak Ransomware Gang Claims Credit for Sabre Data Breach<a href="https://techcrunch.com/2023/09/06/ransomware-gang-claims-credit-for-sabre-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Travel booking giant Sabre said it was investigating claims of a cyberattack after a tranche of files purportedly stolen from the company appeared on an extortion group’s leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Just Kids Dental Says Nearly 130,000 People Affected by Cyberattack<a href="https://www.healthcareinfosecurity.com/just-kids-dental-says-nearly-130k-people-affected-by-attack-a-23019?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acadia Health LLC, which does business as Just Kids Dental, in a breach report submitted on September 1 to Maine's attorney general office said the practice's computer systems and network were attacked by a malicious actor on August 2.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Popular Websites Found Leaking Secrets, Source Code<a href="https://www.securityweek.com/researchers-find-thousands-of-popular-websites-leaking-secrets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of the exposed credentials by Truffle Security has revealed that AWS and GitHub keys were the most prevalent type of leaked secrets, accounting for 45% of all credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Outlook Hack: Microsoft Reveals How a Crash Dump Led to a Major Security Breach<a href="https://thehackernews.com/2023/09/outlook-breach-microsoft-reveals-how.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday revealed that a China-based threat actor known as&nbsp; Storm-0558 &nbsp;acquired the inactive consumer signing key to forge tokens and access Outlook by compromising an engineer's corporate account. This enabled the adversary to access a debugging environment that contained information pertaining to a crash of the consumer signing system and steal the key. The system crash took place in April 2021. "A consumer signing system crash in April of 2021 resulted in a snapshot of the crashed process ('crash dump')," the Microsoft Security Response Center (MSRC)&nbsp; said &nbsp;in a post-mortem report. "The crash dumps, which redact sensitive information, should not include the signing key. In this case, a race condition allowed the key to be present in the crash dump. The key material's presence in the crash dump was not detected by our systems." The Windows maker said the crash dump was moved to a debugging environment on the internet-connected corporate network, from where Storm-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
