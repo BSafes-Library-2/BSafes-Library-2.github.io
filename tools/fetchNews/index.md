@@ -33,6 +33,21 @@ BSafes library includes mobile-friendly cybersecurity publications.
 
 ## News
 {: .fs-6 .label .label-yellow }
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild <a href="https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last week, while checking the device of an individual employed by a Washington DC-based civil society organization with international offices, Citizen Lab found an actively exploited zero-click vulnerability being used to deliver NSO Group’s Pegasus mercenary spyware. 
+</details>
+<div style="text-align: right" markdown="1">
+Citizen Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>

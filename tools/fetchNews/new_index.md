@@ -33,6 +33,117 @@ BSafes library includes mobile-friendly cybersecurity publications.
 
 ## News
 {: .fs-6 .label .label-yellow }
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Addressed an Actively Exploited Zero-Day in Android<a href="https://securityaffairs.com/150440/hacking/september-2023-android-security-updates-0day.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In total, Google has fixed 6 flaws in the Framework module, 14 in the Kernel componet, 3 issues in the Qualcomm components, and 9 issues in the Qualcomm closed-source components.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warning: Nation-State Hackers Exploit Fortinet and Zoho Vulnerabilities<a href="https://thehackernews.com/2023/09/cisa-warning-nation-state-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday warned that multiple nation-state actors are exploiting security flaws in Fortinet FortiOS SSL-VPN and Zoho ManageEngine ServiceDesk Plus to gain unauthorized access and establish persistence on compromised systems. "Nation-state advanced persistent threat (APT) actors exploited CVE-2022-47966 to gain unauthorized access to a public-facing application (Zoho ManageEngine ServiceDesk Plus), establish persistence, and move laterally through the network," according to a  joint alert  published by the agency, alongside Federal Bureau of Investigation (FBI), and Cyber National Mission Force (CNMF). The identities of the threat groups behind the attacks have not been disclosed, although the U.S. Cyber Command (USCYBERCOM)  hinted  at the involvement of Iranian nation-state crews. The findings are based on an incident response engagement conducted by CISA at nn unnamed aeronautical sector organization from Februar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Unpatched Flaws Expose Security Cameras Made by Defunct Company Zavio<a href="https://www.securityweek.com/dozens-of-unpatched-flaws-expose-security-cameras-made-by-defunct-company-zavio/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zavio is a defunct Chinese company, but its security cameras are reportedly still deployed in the United States and Europe, which is why it’s important to raise awareness about the vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Rushes to Patch Zero-Day Flaws Exploited for Pegasus Spyware on iPhones<a href="https://thehackernews.com/2023/09/apple-rushes-to-patch-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Thursday released emergency security updates for iOS, iPadOS, macOS, and watchOS to address two zero-day flaws that have been exploited in the wild to deliver NSO Group's Pegasus mercenary spyware. The issues are described as below - CVE-2023-41061  - A validation issue in Wallet that could result in arbitrary code execution when handling a maliciously crafted attachment. CVE-2023-41064  - A buffer overflow issue in the  Image I/O component  that could result in arbitrary code execution when processing a maliciously crafted image. While CVE-2023-41064 was found by the Citizen Lab at the University of Torontoʼs Munk School, CVE-2023-41061 was discovered internally by Apple, with "assistance" from the Citizen Lab. The updates are available for the following devices and operating systems - iOS 16.6.1 and iPadOS 16.6.1  - iPhone 8 and later, iPad Pro (all models), iPad Air 3rd generation and later, iPad 5th generation and later, and iPad mini 5th generati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BlueShell Malware Attacks Windows, Linux, and Mac<a href="https://cyware.com/news/new-blueshell-malware-attacks-windows-linux-and-mac-d3c9445e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlueShell malware was found being used by various threat actors to target systems running Windows, Linux, and other operating systems in Korea and Thailand. The Dalbit Group, a China-based threat group, has been identified as using a customized version of BlueShell. To mitigate such threats, or ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Atomic Stealer Variant Used in a Malvertising Campaign<a href="https://cyware.com/news/new-atomic-stealer-variant-used-in-a-malvertising-campaign-5f3deca8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Malwarebytes have identified a new version of the Atomic Stealer macOS malware that employs a technique to bypass the operating system's Gatekeeper security feature. The malware masquerades as the popular TradingView platform. It is important to deploy an antivirus with real-time pro ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild <a href="https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last week, while checking the device of an individual employed by a Washington DC-based civil society organization with international offices, Citizen Lab found an actively exploited zero-click vulnerability being used to deliver NSO Group’s Pegasus mercenary spyware. 
+</details>
+<div style="text-align: right" markdown="1">
+Citizen Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
