@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2023
+September 8, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Check Point Buys Startup Atmosec to Secure SaaS Applications<a href="https://www.bankinfosecurity.com/check-point-buys-startup-atmosec-to-secure-saas-applications-a-23023?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Software plans to purchase Atmosec, an early-stage SaaS security startup founded by former Armis leaders to anticipate and block threats from malicious applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. and U.S. Sanction 11 Russia-based Trickbot Cybercrime Gang Members<a href="https://thehackernews.com/2023/09/uk-and-us-sanction-11-russia-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. and U.S. governments on Thursday sanctioned 11 individuals who are alleged to be part of the notorious Russia-based TrickBot cybercrime gang. "Russia has long been a safe haven for cybercriminals, including the TrickBot group," the U.S. Treasury Department  said , adding it has "ties to Russian intelligence services and has targeted the U.S. Government and U.S. companies, including hospitals." The targets of the sanctions are administrators, managers, developers, and coders who are believed to have provided material assistance in its operations. Their names and roles are as follows - Andrey Zhuykov (aka Adam, Defender, and Dif), senior administrator Maksim Sergeevich Galochkin (aka Bentley, Crypt, Manuel, Max17, and Volhvb), software development and testing Maksim Rudenskiy (aka Binman, Buza, and Silver), team lead for coders Mikhail Tsarev (aka Alexander Grachev, Fr*ances, Ivanov Mixail, Mango, Misha Krutysha, Nikita Andreevich Tsarev, and Super Misha), human resource
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Claim to Publish Prominent Israeli Hospital’s Patient Data<a href="https://therecord.media/israel-hospital-data-leaked-ragnar-locker-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack on Mayanei Hayeshua Medical Center resulted in the shutdown of its administrative computer systems, leading the hospital to redirect new patients and those requiring emergency care to other medical centers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues Urgent Fix for Authentication Bypass Bug Affecting BroadWorks Platform<a href="https://thehackernews.com/2023/09/cisco-issues-urgent-fix-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released security fixes to address multiple security flaws, including a critical bug, that could be exploited by a threat actor to take control of an affected system or cause a denial-of service (DoS) condition. The most severe of the issues is CVE-2023-20238, which has the maximum CVSS severity rating of 10.0. It's described as an authentication bypass flaw in the Cisco BroadWorks Application Delivery Platform and Cisco BroadWorks Xtended Services Platform. Successful exploitation of the vulnerability -- a weakness in the single sign-on (SSO) implementation and discovered during internal testing -- could allow an unauthenticated, remote attacker to forge the credentials required to access an affected system. "This vulnerability is due to the method used to validate SSO tokens," Cisco  said . "An attacker could exploit this vulnerability by authenticating to the application with forged credentials. A successful exploit could allow the attacker to commit toll fraud or to e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Multiple Bugs in Hotel Booking Platform<a href="https://www.bankinfosecurity.com/hackers-exploit-multiple-bugs-in-hotel-booking-platform-a-23025?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financially motivated hackers developed custom malware to exploit a likely zero-day flaw in popular property management software used by resorts and hotels, said security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protecting Your Microsoft IIS Servers Against Malware Attacks<a href="https://thehackernews.com/2023/09/protecting-your-microsoft-iis-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Internet Information Services (IIS) is a web server software package designed for Windows Server. Organizations commonly use Microsoft IIS servers to host websites, files, and other content on the web. Threat actors increasingly target these Internet-facing resources as low-hanging fruit for finding and exploiting vulnerabilities that facilitate access to IT environments.  Recently, a slew of activity by the advanced persistent threat (APT) group Lazarus has focused on finding vulnerable Microsoft IIS servers and infecting them with malware or using them to distribute malicious code. This article describes the details of the malware attacks and offers actionable suggestions for protecting Microsoft IIS servers against them.  An Overview on Microsoft IIS Servers IIS was first introduced with Windows NT 3.51 as an optional package back in 1995. Since then, it has seen several iterations, improvements, and features added to align with the evolving Internet, including support
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged LockBit Ransomware Attack Shuts Down City Networks in Seville<a href="https://therecord.media/lockbit-cyberattack-shuts-down-networks-in-seville-spain?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The council said it will not pay a ransom of $1.5 million demanded by the hackers, according to local media reports. The incident has affected a broad range of city services, including police, firefighters, and tax collection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 08, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Exploit Zero-Day Bug to Target Cybersecurity Researchers<a href="https://thehackernews.com/2023/09/north-korean-hackers-exploit-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors associated with North Korea are  continuing  to  target  the cybersecurity community using a zero-day bug in an unspecified software over the past several weeks to infiltrate their machines. The findings come from Google's Threat Analysis Group (TAG), which found the adversary setting up fake accounts on social media platforms like  X  (formerly Twitter) and  Mastodon  to forge relationships with potential targets and build trust. "In one case, they carried on a months-long conversation, attempting to collaborate with a security researcher on topics of mutual interest," security researchers Clement Lecigne and Maddie Stone  said . "After initial contact via X, they moved to an encrypted messaging app such as Signal, WhatsApp, or Wire." The social engineering exercise ultimately paved the way for a malicious file containing at least one zero-day in a popular software package. The vulnerability is currently in the process of being fixed. The payload, for its part, perf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+See Tickets Alerts 300,000 Customers After Another Web Skimmer Attack<a href="https://www.securityweek.com/see-tickets-alerts-300000-customers-after-another-web-skimmer-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a data breach notification letter sent to the affected individuals, a copy of which was submitted to the Maine Attorney General’s Office, See Tickets says the new attack was identified in May 2023 and completely shut down in July.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches Critical Vulnerability in BroadWorks Platform<a href="https://www.securityweek.com/cisco-patches-critical-vulnerability-in-broadworks-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2023-20238, the vulnerability affecting the BroadWorks platform was identified in the SSO implementation and could be exploited by remote, unauthenticated attackers to forge credentials and access affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Addressed an Actively Exploited Zero-Day in Android<a href="https://securityaffairs.com/150440/hacking/september-2023-android-security-updates-0day.html?&web_view=true"> Full Text</a>
@@ -50,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2023
+September 08, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warning: Nation-State Hackers Exploit Fortinet and Zoho Vulnerabilities<a href="https://thehackernews.com/2023/09/cisa-warning-nation-state-hackers.html"> Full Text</a>
@@ -66,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2023
+September 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dozens of Unpatched Flaws Expose Security Cameras Made by Defunct Company Zavio<a href="https://www.securityweek.com/dozens-of-unpatched-flaws-expose-security-cameras-made-by-defunct-company-zavio/?&web_view=true"> Full Text</a>
@@ -82,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 08, 2023
+September 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Rushes to Patch Zero-Day Flaws Exploited for Pegasus Spyware on iPhones<a href="https://thehackernews.com/2023/09/apple-rushes-to-patch-zero-day-flaws.html"> Full Text</a>
@@ -98,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2023
+September 8, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BlueShell Malware Attacks Windows, Linux, and Mac<a href="https://cyware.com/news/new-blueshell-malware-attacks-windows-linux-and-mac-d3c9445e"> Full Text</a>
@@ -114,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 8, 2023
+September 8, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Atomic Stealer Variant Used in a Malvertising Campaign<a href="https://cyware.com/news/new-atomic-stealer-variant-used-in-a-malvertising-campaign-5f3deca8"> Full Text</a>

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The State of the Virtual CISO Report: MSP/MSSP Security Strategies for 2024<a href="https://thehackernews.com/2023/09/the-state-of-virtual-ciso-report.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By the end of 2024, the number of MSPs and MSSPs offering vCISO services is expected to grow by almost 5 fold, as can be seen in figure 1. This incredible surge reflects the growing business demand for specialized cybersecurity expertise and the lucrative opportunities for MSPs and MSSPs in vCISO services. Figure 1: Timeline for offering vCISO services The State of the Virtual CISO Survey Report &nbsp;by Global Surveyz, an independent survey company, which was commissioned by Cynomi, provides a deep understanding of the challenges facing MSPs and MSSPs today. The report shares insights from 200 security and IT leaders in MSPs and MSSPs of all sizes, all of which are security-focused. It shines a light on the growing trend of the vCISO offering, including the reasons behind this trend, potential blockers for MSPs/MSSPs and how to overcome them. 480% Expected Increase in vCISO Service Offerings Currently, only 19% of MSPs and MSSPs are offering vCISO services. This relatively low percent
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avoidable Digital Certificate Issues Fuel Data Breaches<a href="https://www.helpnetsecurity.com/2023/09/06/digital-certificates-issues/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Among organizations that have suffered data breaches 58% were caused by issues related to digital certificates, according to a report by AppViewX and Forrester Consulting.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

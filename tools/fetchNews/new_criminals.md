@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.K. and U.S. Sanction 11 Russia-based Trickbot Cybercrime Gang Members<a href="https://thehackernews.com/2023/09/uk-and-us-sanction-11-russia-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. and U.S. governments on Thursday sanctioned 11 individuals who are alleged to be part of the notorious Russia-based TrickBot cybercrime gang. "Russia has long been a safe haven for cybercriminals, including the TrickBot group," the U.S. Treasury Department&nbsp; said , adding it has "ties to Russian intelligence services and has targeted the U.S. Government and U.S. companies, including hospitals." The targets of the sanctions are administrators, managers, developers, and coders who are believed to have provided material assistance in its operations. Their names and roles are as follows - Andrey Zhuykov (aka Adam, Defender, and Dif), senior administrator Maksim Sergeevich Galochkin (aka Bentley, Crypt, Manuel, Max17, and Volhvb), software development and testing Maksim Rudenskiy (aka Binman, Buza, and Silver), team lead for coders Mikhail Tsarev (aka Alexander Grachev, Fr*ances, Ivanov Mixail, Mango, Misha Krutysha, Nikita Andreevich Tsarev, and Super Misha), human resource
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+September 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Claim to Publish Prominent Israeli Hospital’s Patient Data<a href="https://therecord.media/israel-hospital-data-leaked-ragnar-locker-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack on Mayanei Hayeshua Medical Center resulted in the shutdown of its administrative computer systems, leading the hospital to redirect new patients and those requiring emergency care to other medical centers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged LockBit Ransomware Attack Shuts Down City Networks in Seville<a href="https://therecord.media/lockbit-cyberattack-shuts-down-networks-in-seville-spain?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The council said it will not pay a ransom of $1.5 million demanded by the hackers, according to local media reports. The incident has affected a broad range of city services, including police, firefighters, and tax collection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

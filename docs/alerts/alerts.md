@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2023 - CISA, FBI, CNMF 
+{: .fs-4 .fw-700 .lh-0  }
+Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475 <p style="font-weight:500; margin:0px" markdown="1">
+Thinking about the security of AI systems <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-250a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), and Cyber National Mission Force (CNMF) identified the presence of indicators of compromise (IOCs) at an Aeronautical Sector organization as early as January 2023. Analysts confirmed that nation-state advanced persistent threat (APT) actors exploited CVE-2022-47966 to gain unauthorized access to a public-facing application (Zoho ManageEngine ServiceDesk Plus), establish persistence, and move laterally through the network. This vulnerability allows for remote code execution on the ManageEngine application. Additional APT actors were also observed exploiting CVE-2022-42475 to establish presence on the organization’s firewall device.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 30, 2023 - National Cyber Security Centre, UK 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
