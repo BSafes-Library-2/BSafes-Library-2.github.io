@@ -34,6 +34,118 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Campaign Launched via Google Looker Studio<a href="https://www.securityweek.com/new-phishing-campaign-launched-via-google-looker-studio/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of the observed attacks, threat actors are using Google Looker Studio to create fake crypto pages that are then delivered to the intended victims in emails sent from the legitimate tool itself.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions Infected by Spyware Hidden in Fake Telegram Apps on Google Play<a href="https://thehackernews.com/2023/09/millions-infected-by-spyware-hidden-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spyware masquerading as modified versions of Telegram have been spotted in the Google Play Store that's designed to harvest sensitive information from compromised Android devices. According to Kaspersky security researcher Igor Golovin, the apps come with  nefarious features  to capture and exfiltrate names, user IDs, contacts, phone numbers, and chat messages to an actor-controlled server. The activity has been codenamed  Evil Telegram  by the Russian cybersecurity company. The apps have been collectively downloaded millions of times before they were taken down by Google. Their details are as follows - 電報,紙飛機-TG繁體中文版 or 電報,小飛機-TG繁體中文版 (org.telegram.messenger.wab) - 10 million+ downloads TG繁體中文版-電報,紙飛機 (org.telegram.messenger.wab) - 50,000+ downloads 电报,纸飞机-TG简体中文版 (org.telegram.messenger.wob) - 50,000+ downloads 电报,纸飞机-TG简体中文版 (org.tgcn.messenger.wob) - 10,000+ downloads ئۇيغۇر تىلى TG - تېلېگرامما (org.telegram.messenger.wcb) - 100+ downloads The last app on the list tran
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK and US Sanction 11 Russians Connected to Notorious Trickbot Group<a href="https://therecord.media/eleven-russians-trickbot-sanctioned?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The individuals targeted by the sanctions “include key actors involved in management and procurement for the Trickbot group, which has ties to Russian intelligence services,” according to the U.S. Treasury.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Weaponizing Legitimate Advanced Installer Tool in Crypto-Mining Attacks<a href="https://thehackernews.com/2023/09/cybercriminals-weaponizing-legitimate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A legitimate Windows tool used for creating software packages called Advanced Installer is being abused by threat actors to drop cryptocurrency-mining malware on infected machines since at least November 2021. "The attacker uses  Advanced Installer  to package other legitimate software installers, such as Adobe Illustrator, Autodesk 3ds Max, and SketchUp Pro, with malicious scripts and uses Advanced Installer's Custom Actions feature to make the software installers execute the malicious scripts," Cisco Talos researcher Chetan Raghuprasad  said  in a technical report. The nature of the applications trojanized indicates that the victims likely span architecture, engineering, construction, manufacturing, and entertainment sectors. The software installers predominantly use the French language, a sign that French-speaking users are being singled out. This  campaign  is strategic in that these industries rely on computers with high Graphics Processing Unit (GPU) power for t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Active North Korean Campaign Targeting Security Researchers<a href="https://blog.google/threat-analysis-group/active-north-korean-campaign-targeting-security-researchers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new campaign has been discovered with similarities to a previous campaign, including the use of social media sites to build rapport with targets. The threat actors then engage in encrypted messaging and send a malicious file with a 0-day exploit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, and CNMF Release Advisory on Multiple Nation-State Threat Actors Exploiting CVE-2022-47966 and CVE-2022-42475<a href="https://www.cisa.gov/news-events/alerts/2023/09/07/cisa-fbi-and-cnmf-release-advisory-multiple-nation-state-threat-actors-exploit-cve-2022-47966-and?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA, FBI, and CNMF confirmed that nation-state APT actors exploited CVE-2022-47966 to gain unauthorized access to a public-facing application (Zoho ManageEngine ServiceDesk Plus), establish persistence, and move laterally through the network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Weaponized Windows Installers Target Graphic Designers in Crypto Heist<a href="https://www.darkreading.com/attacks-breaches/weaponized-windows-installers-target-graphic-designers-in-crypto-heist?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers execute malicious scripts through a feature of the installer called Custom Action, dropping several payloads — including the M3_Mini_Rat client stub backdoor, Ethereum mining malware PhoenixMiner, and multi-coin mining threat lolMiner.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 8, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
