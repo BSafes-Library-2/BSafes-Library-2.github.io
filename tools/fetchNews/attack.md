@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protecting Your Microsoft IIS Servers Against Malware Attacks<a href="https://thehackernews.com/2023/09/protecting-your-microsoft-iis-servers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Internet Information Services (IIS) is a web server software package designed for Windows Server. Organizations commonly use Microsoft IIS servers to host websites, files, and other content on the web. Threat actors increasingly target these Internet-facing resources as low-hanging fruit for finding and exploiting vulnerabilities that facilitate access to IT environments.&nbsp; Recently, a slew of activity by the advanced persistent threat (APT) group Lazarus has focused on finding vulnerable Microsoft IIS servers and infecting them with malware or using them to distribute malicious code. This article describes the details of the malware attacks and offers actionable suggestions for protecting Microsoft IIS servers against them.&nbsp; An Overview on Microsoft IIS Servers IIS was first introduced with Windows NT 3.51 as an optional package back in 1995. Since then, it has seen several iterations, improvements, and features added to align with the evolving Internet, including support
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Exploit Zero-Day Bug to Target Cybersecurity Researchers<a href="https://thehackernews.com/2023/09/north-korean-hackers-exploit-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors associated with North Korea are&nbsp; continuing &nbsp;to&nbsp; target &nbsp;the cybersecurity community using a zero-day bug in an unspecified software over the past several weeks to infiltrate their machines. The findings come from Google's Threat Analysis Group (TAG), which found the adversary setting up fake accounts on social media platforms like&nbsp; X &nbsp;(formerly Twitter) and&nbsp; Mastodon &nbsp;to forge relationships with potential targets and build trust. "In one case, they carried on a months-long conversation, attempting to collaborate with a security researcher on topics of mutual interest," security researchers Clement Lecigne and Maddie Stone&nbsp; said . "After initial contact via X, they moved to an encrypted messaging app such as Signal, WhatsApp, or Wire." The social engineering exercise ultimately paved the way for a malicious file containing at least one zero-day in a popular software package. The vulnerability is currently in the process of being fixed. The payload, for its part, perf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

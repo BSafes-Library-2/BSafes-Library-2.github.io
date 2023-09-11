@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Check Point Buys Startup Atmosec to Secure SaaS Applications<a href="https://www.bankinfosecurity.com/check-point-buys-startup-atmosec-to-secure-saas-applications-a-23023?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Software plans to purchase Atmosec, an early-stage SaaS security startup founded by former Armis leaders to anticipate and block threats from malicious applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

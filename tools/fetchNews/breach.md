@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+See Tickets Alerts 300,000 Customers After Another Web Skimmer Attack<a href="https://www.securityweek.com/see-tickets-alerts-300000-customers-after-another-web-skimmer-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a data breach notification letter sent to the affected individuals, a copy of which was submitted to the Maine Attorney General’s Office, See Tickets says the new attack was identified in May 2023 and completely shut down in July.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

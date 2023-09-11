@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Weaponizing Legitimate Advanced Installer Tool in Crypto-Mining Attacks<a href="https://thehackernews.com/2023/09/cybercriminals-weaponizing-legitimate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A legitimate Windows tool used for creating software packages called Advanced Installer is being abused by threat actors to drop cryptocurrency-mining malware on infected machines since at least November 2021. "The attacker uses&nbsp; Advanced Installer &nbsp;to package other legitimate software installers, such as Adobe Illustrator, Autodesk 3ds Max, and SketchUp Pro, with malicious scripts and uses Advanced Installer's Custom Actions feature to make the software installers execute the malicious scripts," Cisco Talos researcher Chetan Raghuprasad&nbsp; said &nbsp;in a technical report. The nature of the applications trojanized indicates that the victims likely span architecture, engineering, construction, manufacturing, and entertainment sectors. The software installers predominantly use the French language, a sign that French-speaking users are being singled out. This&nbsp; campaign &nbsp;is strategic in that these industries rely on computers with high Graphics Processing Unit (GPU) power for t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

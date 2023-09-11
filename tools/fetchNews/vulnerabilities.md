@@ -8,6 +8,104 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Issues Urgent Fix for Authentication Bypass Bug Affecting BroadWorks Platform<a href="https://thehackernews.com/2023/09/cisco-issues-urgent-fix-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released security fixes to address multiple security flaws, including a critical bug, that could be exploited by a threat actor to take control of an affected system or cause a denial-of service (DoS) condition. The most severe of the issues is CVE-2023-20238, which has the maximum CVSS severity rating of 10.0. It's described as an authentication bypass flaw in the Cisco BroadWorks Application Delivery Platform and Cisco BroadWorks Xtended Services Platform. Successful exploitation of the vulnerability -- a weakness in the single sign-on (SSO) implementation and discovered during internal testing -- could allow an unauthenticated, remote attacker to forge the credentials required to access an affected system. "This vulnerability is due to the method used to validate SSO tokens," Cisco&nbsp; said . "An attacker could exploit this vulnerability by authenticating to the application with forged credentials. A successful exploit could allow the attacker to commit toll fraud or to e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Multiple Bugs in Hotel Booking Platform<a href="https://www.bankinfosecurity.com/hackers-exploit-multiple-bugs-in-hotel-booking-platform-a-23025?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financially motivated hackers developed custom malware to exploit a likely zero-day flaw in popular property management software used by resorts and hotels, said security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Patches Critical Vulnerability in BroadWorks Platform<a href="https://www.securityweek.com/cisco-patches-critical-vulnerability-in-broadworks-platform/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tracked as CVE-2023-20238, the vulnerability affecting the BroadWorks platform was identified in the SSO implementation and could be exploited by remote, unauthenticated attackers to forge credentials and access affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Addressed an Actively Exploited Zero-Day in Android<a href="https://securityaffairs.com/150440/hacking/september-2023-android-security-updates-0day.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In total, Google has fixed 6 flaws in the Framework module, 14 in the Kernel componet, 3 issues in the Qualcomm components, and 9 issues in the Qualcomm closed-source components.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Unpatched Flaws Expose Security Cameras Made by Defunct Company Zavio<a href="https://www.securityweek.com/dozens-of-unpatched-flaws-expose-security-cameras-made-by-defunct-company-zavio/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zavio is a defunct Chinese company, but its security cameras are reportedly still deployed in the United States and Europe, which is why it’s important to raise awareness about the vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Rushes to Patch Zero-Day Flaws Exploited for Pegasus Spyware on iPhones<a href="https://thehackernews.com/2023/09/apple-rushes-to-patch-zero-day-flaws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Thursday released emergency security updates for iOS, iPadOS, macOS, and watchOS to address two zero-day flaws that have been exploited in the wild to deliver NSO Group's Pegasus mercenary spyware. The issues are described as below - CVE-2023-41061 &nbsp;- A validation issue in Wallet that could result in arbitrary code execution when handling a maliciously crafted attachment. CVE-2023-41064 &nbsp;- A buffer overflow issue in the&nbsp; Image I/O component &nbsp;that could result in arbitrary code execution when processing a maliciously crafted image. While CVE-2023-41064 was found by the Citizen Lab at the University of Torontoʼs Munk School, CVE-2023-41061 was discovered internally by Apple, with "assistance" from the Citizen Lab. The updates are available for the following devices and operating systems - iOS 16.6.1 and iPadOS 16.6.1 &nbsp;- iPhone 8 and later, iPad Pro (all models), iPad Air 3rd generation and later, iPad 5th generation and later, and iPad mini 5th generati
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSO Group iPhone Zero-Click, Zero-Day Exploit Captured in the Wild <a href="https://citizenlab.ca/2023/09/blastpass-nso-group-iphone-zero-click-zero-day-exploit-captured-in-the-wild/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last week, while checking the device of an individual employed by a Washington DC-based civil society organization with international offices, Citizen Lab found an actively exploited zero-click vulnerability being used to deliver NSO Group’s Pegasus mercenary spyware. 
+</details>
+<div style="text-align: right" markdown="1">
+Citizen Lab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

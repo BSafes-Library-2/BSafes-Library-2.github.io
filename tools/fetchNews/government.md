@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warning: Nation-State Hackers Exploit Fortinet and Zoho Vulnerabilities<a href="https://thehackernews.com/2023/09/cisa-warning-nation-state-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday warned that multiple nation-state actors are exploiting security flaws in Fortinet FortiOS SSL-VPN and Zoho ManageEngine ServiceDesk Plus to gain unauthorized access and establish persistence on compromised systems. "Nation-state advanced persistent threat (APT) actors exploited CVE-2022-47966 to gain unauthorized access to a public-facing application (Zoho ManageEngine ServiceDesk Plus), establish persistence, and move laterally through the network," according to a&nbsp; joint alert &nbsp;published by the agency, alongside Federal Bureau of Investigation (FBI), and Cyber National Mission Force (CNMF). The identities of the threat groups behind the attacks have not been disclosed, although the U.S. Cyber Command (USCYBERCOM)&nbsp; hinted &nbsp;at the involvement of Iranian nation-state crews. The findings are based on an incident response engagement conducted by CISA at nn unnamed aeronautical sector organization from Februar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
