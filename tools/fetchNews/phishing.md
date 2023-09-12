@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Campaign Launched via Google Looker Studio<a href="https://www.securityweek.com/new-phishing-campaign-launched-via-google-looker-studio/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of the observed attacks, threat actors are using Google Looker Studio to create fake crypto pages that are then delivered to the intended victims in emails sent from the legitimate tool itself.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

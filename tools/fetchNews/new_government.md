@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Director Says Critical Infrastructure Cyber Incident Reporting Rules Almost Ready<a href="https://www.cybersecuritydive.com/news/cisa-director-cyber-incident-reporting-infrastructure/693136/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Final work is underway for the Cyber Incident Reporting for Critical Infrastructure Act, which CISA Director Jen Easterly expects to be done by the end of the year or early 2024 at the latest, she said at the Billington Cybersecurity Summit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

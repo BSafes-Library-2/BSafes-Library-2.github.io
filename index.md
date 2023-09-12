@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2023
+September 11, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Some of the Top Universities Wouldn’t Pass Cybersecurity Exam: Left Websites Vulnerable<a href="https://securityaffairs.com/150596/security/top-universities-cybersecurity-failures.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2023
+September 11, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vietnamese Hackers Deploy Python-Based Stealer via Facebook Messenger<a href="https://thehackernews.com/2023/09/vietnamese-hackers-deploy-python-based.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2023
+September 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities Allow Hackers to Hijack, Disrupt Socomec UPS Devices<a href="https://www.securityweek.com/vulnerabilities-allow-hackers-to-hijack-disrupt-socomec-ups-devices/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2023
+September 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Charming Kitten's New Backdoor 'Sponsor' Targets Brazil, Israel, and U.A.E.<a href="https://thehackernews.com/2023/09/charming-kitens-new-backdoor-sponsor.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2023
+September 11, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 75% of Education Sector Attacks Linked to Compromised Accounts<a href="https://www.helpnetsecurity.com/2023/09/08/education-sector-account-compromise/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2023
+September 11, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Prevent API Breaches: A Guide to Robust Security<a href="https://thehackernews.com/2023/09/how-to-prevent-api-breaches-guide-to.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2023
+September 11, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New HijackLoader Malware Used to Distribute Various Malware Families<a href="https://cyware.com/news/new-hijackloader-malware-used-to-distribute-various-malware-families-082d32b0"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2023
+September 11, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome Rolls Out Support for 'Privacy Sandbox' to Bid Farewell to Tracking Cookies<a href="https://thehackernews.com/2023/09/google-chrome-rolls-out-support-for.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2023
+September 11, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rhysida Ransomware Gang Claims to Have Hacked Three More US Hospitals<a href="https://securityaffairs.com/150585/cyber-crime/rhysida-ransomware-us-hospitals.html?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2023
+September 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Using PowerShell to Steal NTLMv2 Hashes from Compromised Windows<a href="https://thehackernews.com/2023/09/cybercriminals-using-powershell-to.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2023
+September 11, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Generative AI, Contactless Tech Make Hotels Vulnerable to Cyberattacks<a href="https://www.cybersecuritydive.com/news/ai-contactless-tech-hotel-cyber-threats/693120/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2023
+September 11, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New HijackLoader Modular Malware Loader Making Waves in the Cybercrime World<a href="https://thehackernews.com/2023/09/new-hijackloader-modular-malware-loader.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2023
+September 11, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Director Says Critical Infrastructure Cyber Incident Reporting Rules Almost Ready<a href="https://www.cybersecuritydive.com/news/cisa-director-cyber-incident-reporting-infrastructure/693136/?&web_view=true"> Full Text</a>

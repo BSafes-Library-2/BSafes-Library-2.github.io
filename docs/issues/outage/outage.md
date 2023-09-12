@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+September 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhysida Ransomware Gang Claims to Have Hacked Three More US Hospitals<a href="https://securityaffairs.com/150585/cyber-crime/rhysida-ransomware-us-hospitals.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Singing River Health System, which operates three hospitals and 10 clinics, experienced a cyberattack that disrupted various services, including laboratory and radiology testing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

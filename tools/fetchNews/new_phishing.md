@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnamese Hackers Deploy Python-Based Stealer via Facebook Messenger<a href="https://thehackernews.com/2023/09/vietnamese-hackers-deploy-python-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing attack is leveraging Facebook Messenger to propagate messages with malicious attachments from a "swarm of fake and hijacked personal accounts" with the ultimate goal of taking over the targets' accounts. "Originating yet again from a Vietnamese-based group, this campaign uses a tiny compressed file attachment that packs a powerful Python-based stealer dropped in a multi-stage process full of simple yet effective obfuscation methods," Guardio Labs researcher Oleg Zaytsev&nbsp; said &nbsp;in an analysis published over the weekend. In these attacks, dubbed MrTonyScam, potential victims are sent messages that entice them into clicking on the RAR and ZIP archive attachments, leading to the deployment of a dropper that fetches the next-stage from a GitHub or GitLab repository. This payload is another archive file that contains a CMD file, which, in turn, harbors an obfuscated Python-based stealer to exfiltrate all cookies and login credentials from different
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

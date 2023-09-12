@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten's New Backdoor 'Sponsor' Targets Brazil, Israel, and U.A.E.<a href="https://thehackernews.com/2023/09/charming-kitens-new-backdoor-sponsor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian threat actor known as&nbsp; Charming Kitten &nbsp;has been linked to a new wave of attacks targeting different entities in Brazil, Israel, and the U.A.E. using a previously undocumented backdoor named Sponsor. Slovak cybersecurity firm is tracking the cluster under the name&nbsp; Ballistic Bobcat . Victimology patterns suggest that the group primarily singles out education, government, and healthcare organizations, as well as human rights activists and journalists. At least 34 victims of Sponsor have been detected to date, with the earliest instances of deployment dating back to September 2021. "The Sponsor backdoor uses configuration files stored on disk," ESET researcher Adam Burgher&nbsp; said &nbsp;in a new report published today. "These files are discreetly deployed by batch files and deliberately designed to appear innocuous, thereby attempting to evade detection by scanning engines." The campaign, dubbed Sponsoring Access, involves obtaining initial access by opport
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using PowerShell to Steal NTLMv2 Hashes from Compromised Windows<a href="https://thehackernews.com/2023/09/cybercriminals-using-powershell-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyber attack campaign is leveraging the PowerShell script associated with a legitimate red teaming tool to plunder&nbsp; NTLMv2 hashes &nbsp;from compromised Windows systems primarily located in Australia, Poland, and Belgium. The activity has been codenamed Steal-It by Zscaler ThreatLabz. "In this campaign, the threat actors steal and exfiltrate NTLMv2 hashes using customized versions of Nishang's&nbsp; Start-CaptureServer PowerShell script , executing various system commands, and exfiltrating the retrieved data via Mockbin APIs," security researchers Niraj Shivtarkar and Avinash Kumar said. Nishang &nbsp;is a framework and collection of PowerShell scripts and payloads for offensive security, penetration testing, and red teaming. The attacks leverage as many as five different infection chains, although they all leverage phishing emails containing ZIP archives as the starting point to infiltrate specific targets using geofencing techniques - NTLMv2 hash stealing infection chai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

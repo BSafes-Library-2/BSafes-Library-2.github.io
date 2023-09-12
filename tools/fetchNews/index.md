@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Some of the Top Universities Wouldn’t Pass Cybersecurity Exam: Left Websites Vulnerable<a href="https://securityaffairs.com/150596/security/top-universities-cybersecurity-failures.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many universities worldwide, including some of the most prestigious, leave their webpages unpatched, leaking sensitive information, and even open to full takeovers, a Cybernews Research team investigation reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnamese Hackers Deploy Python-Based Stealer via Facebook Messenger<a href="https://thehackernews.com/2023/09/vietnamese-hackers-deploy-python-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing attack is leveraging Facebook Messenger to propagate messages with malicious attachments from a "swarm of fake and hijacked personal accounts" with the ultimate goal of taking over the targets' accounts. "Originating yet again from a Vietnamese-based group, this campaign uses a tiny compressed file attachment that packs a powerful Python-based stealer dropped in a multi-stage process full of simple yet effective obfuscation methods," Guardio Labs researcher Oleg Zaytsev  said  in an analysis published over the weekend. In these attacks, dubbed MrTonyScam, potential victims are sent messages that entice them into clicking on the RAR and ZIP archive attachments, leading to the deployment of a dropper that fetches the next-stage from a GitHub or GitLab repository. This payload is another archive file that contains a CMD file, which, in turn, harbors an obfuscated Python-based stealer to exfiltrate all cookies and login credentials from different
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities Allow Hackers to Hijack, Disrupt Socomec UPS Devices<a href="https://www.securityweek.com/vulnerabilities-allow-hackers-to-hijack-disrupt-socomec-ups-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aaron Flecha Menendez, an ICS security consultant at Spain-based cybersecurity firm S21sec, discovered that some Socomec UPS devices, specifically MODULYS GP (MOD3GP-SY-120K), are affected by seven vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Charming Kitten's New Backdoor 'Sponsor' Targets Brazil, Israel, and U.A.E.<a href="https://thehackernews.com/2023/09/charming-kitens-new-backdoor-sponsor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian threat actor known as  Charming Kitten  has been linked to a new wave of attacks targeting different entities in Brazil, Israel, and the U.A.E. using a previously undocumented backdoor named Sponsor. Slovak cybersecurity firm is tracking the cluster under the name  Ballistic Bobcat . Victimology patterns suggest that the group primarily singles out education, government, and healthcare organizations, as well as human rights activists and journalists. At least 34 victims of Sponsor have been detected to date, with the earliest instances of deployment dating back to September 2021. "The Sponsor backdoor uses configuration files stored on disk," ESET researcher Adam Burgher  said  in a new report published today. "These files are discreetly deployed by batch files and deliberately designed to appear innocuous, thereby attempting to evade detection by scanning engines." The campaign, dubbed Sponsoring Access, involves obtaining initial access by opport
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 75% of Education Sector Attacks Linked to Compromised Accounts<a href="https://www.helpnetsecurity.com/2023/09/08/education-sector-account-compromise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Netwrix, 69% of organizations in the education sector have experienced a cyberattack in the past year. Phishing and user account compromise were the most common attack methods in this sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Prevent API Breaches: A Guide to Robust Security<a href="https://thehackernews.com/2023/09/how-to-prevent-api-breaches-guide-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the growing reliance on web applications and digital platforms, the use of application programming interfaces (APIs) has become increasingly popular. If you aren't familiar with the term, APIs allow applications to communicate with each other and they play a vital role in modern software development. However, the rise of API use has also led to an increase in the number of API breaches. These breaches occur when unauthorized individuals or systems gain access to an API and the data it contains. And as victims can attest, breaches can have devastating consequences for both businesses and individuals. One of the primary concerns with API breaches is the exposure of sensitive data. APIs often contain or provide access to personal or financial information, and if this data falls into the wrong hands, it can be used for fraudulent activities or identity theft. API breaches can also lead to severe reputational damage for businesses. Customers and stakeholders expect their informatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New HijackLoader Malware Used to Distribute Various Malware Families<a href="https://cyware.com/news/new-hijackloader-malware-used-to-distribute-various-malware-families-082d32b0"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware loader known as HijackLoader has gained popularity among cybercriminals for distributing various payloads, including DanaBot, SystemBC, and RedLine Stealer. HijackLoader uses a modular architecture that facilitates threat actors to perform code injection and execution. Organizations m ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome Rolls Out Support for 'Privacy Sandbox' to Bid Farewell to Tracking Cookies<a href="https://thehackernews.com/2023/09/google-chrome-rolls-out-support-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has officially begun its rollout of Privacy Sandbox in the Chrome web browser to a majority of its users, nearly four months after it  announced the plans . "We believe it is vital to both improve privacy and preserve access to information, whether it's news, a how-to-guide, or a fun video," Anthony Chavez, vice president of Privacy Sandbox initiatives at Google,  said . "Without viable privacy-preserving alternatives to third-party cookies, such as the Privacy Sandbox, we risk reducing access to information for all users, and incentivizing invasive tactics such as fingerprinting." To that end, the search giant is initially leaving nearly three percent of users unaffected by the change in order to conduct sufficient tests. General availability is expected to encompass all users in the coming months. Privacy Sandbox is Google's  umbrella term  for a set of technologies that aim to eliminate third-party tracking cookies on the web and replace them
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhysida Ransomware Gang Claims to Have Hacked Three More US Hospitals<a href="https://securityaffairs.com/150585/cyber-crime/rhysida-ransomware-us-hospitals.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Singing River Health System, which operates three hospitals and 10 clinics, experienced a cyberattack that disrupted various services, including laboratory and radiology testing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using PowerShell to Steal NTLMv2 Hashes from Compromised Windows<a href="https://thehackernews.com/2023/09/cybercriminals-using-powershell-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyber attack campaign is leveraging the PowerShell script associated with a legitimate red teaming tool to plunder  NTLMv2 hashes  from compromised Windows systems primarily located in Australia, Poland, and Belgium. The activity has been codenamed Steal-It by Zscaler ThreatLabz. "In this campaign, the threat actors steal and exfiltrate NTLMv2 hashes using customized versions of Nishang's  Start-CaptureServer PowerShell script , executing various system commands, and exfiltrating the retrieved data via Mockbin APIs," security researchers Niraj Shivtarkar and Avinash Kumar said. Nishang  is a framework and collection of PowerShell scripts and payloads for offensive security, penetration testing, and red teaming. The attacks leverage as many as five different infection chains, although they all leverage phishing emails containing ZIP archives as the starting point to infiltrate specific targets using geofencing techniques - NTLMv2 hash stealing infection chai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Generative AI, Contactless Tech Make Hotels Vulnerable to Cyberattacks<a href="https://www.cybersecuritydive.com/news/ai-contactless-tech-hotel-cyber-threats/693120/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The transition to mobile and contactless services in the hospitality industry is making hotels more vulnerable to cyber threats, according to a report from Trustwave SpiderLabs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New HijackLoader Modular Malware Loader Making Waves in the Cybercrime World<a href="https://thehackernews.com/2023/09/new-hijackloader-modular-malware-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware loader called HijackLoader is gaining traction among the cybercriminal community to deliver various payloads such as  DanaBot ,  SystemBC , and  RedLine Stealer . "Even though HijackLoader does not contain advanced features, it is capable of using a variety of modules for code injection and execution since it uses a modular architecture, a feature that most loaders do not have," Zscaler ThreatLabz researcher Nikolaos Pantazopoulos  said . First observed by the company in July 2023, the malware employs a number of techniques to fly under the radar. This involves using syscalls to evade monitoring from security solutions, monitoring processes associated with security software based on an embedded blocklist, and putting off code execution by as much as 40 seconds at different stages. The exact initial access vector used to infiltrate targets is currently not known. The anti-analysis aspects notwithstanding, the loader packs in a main instrumentation module that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Director Says Critical Infrastructure Cyber Incident Reporting Rules Almost Ready<a href="https://www.cybersecuritydive.com/news/cisa-director-cyber-incident-reporting-infrastructure/693136/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Final work is underway for the Cyber Incident Reporting for Critical Infrastructure Act, which CISA Director Jen Easterly expects to be done by the end of the year or early 2024 at the latest, she said at the Billington Cybersecurity Summit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 9, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

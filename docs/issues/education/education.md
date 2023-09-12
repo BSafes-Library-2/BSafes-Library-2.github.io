@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Prevent API Breaches: A Guide to Robust Security<a href="https://thehackernews.com/2023/09/how-to-prevent-api-breaches-guide-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the growing reliance on web applications and digital platforms, the use of application programming interfaces (APIs) has become increasingly popular. If you aren't familiar with the term, APIs allow applications to communicate with each other and they play a vital role in modern software development. However, the rise of API use has also led to an increase in the number of API breaches. These breaches occur when unauthorized individuals or systems gain access to an API and the data it contains. And as victims can attest, breaches can have devastating consequences for both businesses and individuals. One of the primary concerns with API breaches is the exposure of sensitive data. APIs often contain or provide access to personal or financial information, and if this data falls into the wrong hands, it can be used for fraudulent activities or identity theft. API breaches can also lead to severe reputational damage for businesses. Customers and stakeholders expect their informatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
