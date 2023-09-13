@@ -34,7 +34,55 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2023
+September 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Patch for Two New Actively Exploited Zero-Days Flaws<a href="https://thehackernews.com/2023/09/microsoft-releases-patch-for-two-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released software fixes to  remediate 59 bugs  spanning its product portfolio, including two zero-day flaws that have been actively exploited by malicious cyber actors. Of the 59 vulnerabilities, five are rated Critical, 55 are rated Important, and one is rated Moderate in severity. The update is in addition to  35 flaws  patched in the Chromium-based Edge browser since last month's Patch Tuesday edition, which also encompasses a fix for  CVE-2023-4863 , a critical heap buffer overflow flaw in the WebP image format. The two Microsoft vulnerabilities that have come under active exploitation in real-world attacks are listed below - CVE-2023-36761  (CVSS score: 6.2) - Microsoft Word Information Disclosure Vulnerability CVE-2023-36802  (CVSS score: 7.8) - Microsoft Streaming Service Proxy Elevation of Privilege Vulnerability "Exploiting this vulnerability could allow the disclosure of  NTLM hashes ," the Windows maker said in an advisory about CVE-2023-3
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Adobe Acrobat and Reader to Patch Actively Exploited Vulnerability<a href="https://thehackernews.com/2023/09/update-adobe-acrobat-and-reader-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe's  Patch Tuesday update  for September 2023 comes with a patch for a critical actively exploited security flaw in Acrobat and Reader that could permit an attacker to execute malicious code on susceptible systems. The vulnerability, tracked as CVE-2023-26369, is rated 7.8 for severity on the CVSS scoring system and impacts both Windows and macOS versions of Acrobat DC, Acrobat Reader DC, Acrobat 2020, and Acrobat Reader 2020. Described as an out-of-bounds write, successful exploitation of the bug could lead to code execution by opening a specially crafted PDF document. Adobe did not disclose any additional details about the issue or the targeting involved. "Adobe is aware that CVE-2023-26369 has been exploited in the wild in limited attacks targeting Adobe Acrobat and Reader," the company  acknowledged  in an advisory. CVE-2023-26369 affects the below versions - Acrobat DC (23.003.20284 and earlier versions) - Fixed in 23.006.20320 Acrobat Reader DC (23.003.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Rushes to Patch WebP Critical Zero-Day Exploit in Firefox and Thunderbird<a href="https://thehackernews.com/2023/09/mozilla-rushes-to-patch-webp-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla on Tuesday released security updates to resolve a critical zero-day vulnerability in Firefox and Thunderbird that has been actively exploited in the wild, a day after Google released a fix for the issue in its Chrome browser. The shortcoming, assigned the identifier  CVE-2023-4863 , is a heap buffer overflow flaw in the WebP image format that could result in arbitrary code execution when processing a specially crafted image. "Opening a malicious WebP image could lead to a heap buffer overflow in the content process," Mozilla  said  in an advisory. "We are aware of this issue being exploited in other products in the wild." According to the description on the National Vulnerability Database (NVD), the flaw could allow a remote attacker to perform an out-of-bounds memory write via a crafted HTML page. Apple Security Engineering and Architecture (SEAR) and the Citizen Lab at the University of Toronto's Munk School have been credited with reporting the s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attacks Hit Record Level in UK, According To Neglected Official Data<a href="https://therecord.media/ransomware-attacks-record-in-UK?&web_view=true"> Full Text</a>
@@ -50,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2023
+September 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical GitHub Vulnerability Exposes 4,000+ Repositories to Repojacking Attack<a href="https://thehackernews.com/2023/09/critical-github-vulnerability-exposes.html"> Full Text</a>
@@ -66,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2023
+September 12, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DFIR Company Binalyze Raises $19 Million in Series A Funding<a href="https://www.securityweek.com/dfir-company-binalyze-raises-19-million-in-series-a-funding/?&web_view=true"> Full Text</a>
@@ -82,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2023
+September 12, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 7 Steps to Kickstart Your SaaS Security Program<a href="https://thehackernews.com/2023/09/7-steps-to-kickstart-your-saas-security.html"> Full Text</a>
@@ -98,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2023
+September 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BianLian Ransomware Gang Claims to Have Hit Save The Children<a href="https://www.theregister.com/2023/09/11/bianlian_save_the_children/?&web_view=true"> Full Text</a>
@@ -114,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2023
+September 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Redfly Group Compromised a Nation's Critical Grid in 6-Month ShadowPad Campaign<a href="https://thehackernews.com/2023/09/chinese-redfly-group-compromised.html"> Full Text</a>
@@ -130,7 +178,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2023
+September 12, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cleafy Raises $10.7 Million for Online Banking Fraud Prevention Platform<a href="https://www.securityweek.com/cleafy-raises-e10-million-for-online-banking-fraud-prevention-platform/?&web_view=true"> Full Text</a>
@@ -146,7 +194,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2023
+September 12, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophisticated Phishing Campaign Deploying Agent Tesla, OriginBotnet, and RedLine Clipper<a href="https://thehackernews.com/2023/09/sophisticated-phishing-campaign.html"> Full Text</a>
@@ -162,7 +210,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2023
+September 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OriginBotnet, RedLine Clipper, and  AgentTesla Distributed Via Phishing Emails<a href="https://cyware.com/news/originbotnet-redline-clipper-and-agenttesla-distributed-via-phishing-emails-abba25c7"> Full Text</a>
@@ -178,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2023
+September 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware: MetaStealer Malware Targets Apple macOS in Recent Attacks<a href="https://thehackernews.com/2023/09/beware-metastealer-malware-targets.html"> Full Text</a>
@@ -194,7 +242,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2023
+September 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Family of Obfuscated Go Info-stealers 'MetaStealer' Spread in Targeted Attacks<a href="https://www.sentinelone.com/blog/macos-metastealer-new-family-of-obfuscated-go-infostealers-spread-in-targeted-attacks/?&web_view=true"> Full Text</a>
@@ -210,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2023
+September 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Rushes to Patch Critical Chrome Vulnerability Exploited in the Wild - Update Now<a href="https://thehackernews.com/2023/09/google-rushes-to-patch-critical-chrome.html"> Full Text</a>
@@ -226,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2023
+September 12, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Recently Discovered Apple Zero-Days to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/150642/security/known-exploited-vulnerabilities-catalog-apple-flaws.html?&web_view=true"> Full Text</a>
@@ -242,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2023
+September 12, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 After Microsoft and X, Hackers Launch DDoS Attack on Telegram<a href="https://www.securityweek.com/after-microsoft-and-x-hackers-launch-ddos-attack-on-telegram/?&web_view=true"> Full Text</a>
@@ -253,6 +301,22 @@ The hacker group Anonymous Sudan has launched a distributed denial-of-service (D
 </details>
 <div style="text-align: right" markdown="1">
 Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MGM Resorts shuts down IT systems after cyberattack <a href="https://www.bleepingcomputer.com/news/security/mgm-resorts-shuts-down-it-systems-after-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MGM Resorts International disclosed today that it is dealing with a cybersecurity issue that impacted some of its systems, including its main website, online reservations, and in-casino services, like ATMs, slot machines, and credit card machines.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
