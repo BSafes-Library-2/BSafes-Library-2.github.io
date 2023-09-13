@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+September 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DFIR Company Binalyze Raises $19 Million in Series A Funding<a href="https://www.securityweek.com/dfir-company-binalyze-raises-19-million-in-series-a-funding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new funding round, which brings the total raised by Binalyze to $30.5 million, was led by Molten Ventures, with participation from Earlybird Digital East, OpenOcean, Cisco Investments, Citi Ventures, and Deutsche Bank Corporate Venture Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cleafy Raises $10.7 Million for Online Banking Fraud Prevention Platform<a href="https://www.securityweek.com/cleafy-raises-e10-million-for-online-banking-fraud-prevention-platform/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online banking fraud detection and prevention firm Cleafy today announced that it has raised €10 million ($10.7 million) in its first funding round, which was led by United Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

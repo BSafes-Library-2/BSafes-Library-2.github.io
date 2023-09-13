@@ -34,6 +34,230 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Hit Record Level in UK, According To Neglected Official Data<a href="https://therecord.media/ransomware-attacks-record-in-UK?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reported ransomware attacks on organizations in the UK reached record levels last year, when criminals compromised data on potentially over 5.3 million people from over 700 organizations, according to a dataset published by the ICO.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical GitHub Vulnerability Exposes 4,000+ Repositories to Repojacking Attack<a href="https://thehackernews.com/2023/09/critical-github-vulnerability-exposes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new vulnerability disclosed in GitHub could have exposed thousands of repositories at risk of repojacking attacks, new findings show. The flaw "could allow an attacker to exploit a race condition within GitHub's repository creation and username renaming operations," Checkmarx security researcher Elad Rapoport  said  in a technical report shared with The Hacker News. "Successful exploitation of this vulnerability impacts the open-source community by enabling the hijacking of over 4,000 code packages in languages such as Go, PHP, and Swift, as well as GitHub actions." Following responsible disclosure on March 1, 2023, the Microsoft-owned code hosting platform has addressed the issue as of September 1, 2023. Repojacking , short for  repository hijacking , is a technique where a threat actor is able to bypass a security mechanism called popular repository namespace retirement and ultimately control of a repository. What the protection measure does is preven
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DFIR Company Binalyze Raises $19 Million in Series A Funding<a href="https://www.securityweek.com/dfir-company-binalyze-raises-19-million-in-series-a-funding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new funding round, which brings the total raised by Binalyze to $30.5 million, was led by Molten Ventures, with participation from Earlybird Digital East, OpenOcean, Cisco Investments, Citi Ventures, and Deutsche Bank Corporate Venture Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 Steps to Kickstart Your SaaS Security Program<a href="https://thehackernews.com/2023/09/7-steps-to-kickstart-your-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SaaS applications are the backbone of modern businesses, constituting a staggering 70% of total software usage. Applications like Box, Google Workplace, and Microsoft 365 are integral to daily operations. This widespread adoption has transformed them into potential breeding grounds for cyber threats. Each SaaS application presents unique security challenges, and the landscape constantly evolves as vendors enhance their security features. Moreover, the dynamic nature of user governance, including onboarding, deprovisioning, and role adjustments, further complicates the security equation. With great convenience comes great responsibility, as securing these SaaS applications has become a top priority for Chief Information Security Officers (CISOs) and IT teams worldwide. Effectively securing SaaS applications requires a delicate balance between robust security measures and enabling users to perform their tasks efficiently. To navigate this complex terrain, this article excerpts a  step
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BianLian Ransomware Gang Claims to Have Hit Save The Children<a href="https://www.theregister.com/2023/09/11/bianlian_save_the_children/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercrime crew BianLian claims to have broken into the IT systems of a top non-profit and stolen a ton of files, including what the miscreants claim is financial, health, and medical data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Redfly Group Compromised a Nation's Critical Grid in 6-Month ShadowPad Campaign<a href="https://thehackernews.com/2023/09/chinese-redfly-group-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor called  Redfly  has been linked to a compromise of a national grid located in an unnamed Asian country for as long as six months earlier this year using a known malware referred to as  ShadowPad . "The attackers managed to steal credentials and compromise multiple computers on the organization's network," the Symantec Threat Hunter Team, part of Broadcom,  said  in a report shared with The Hacker News. "The attack is the latest in a series of espionage intrusions against [critical national infrastructure] targets." ShadowPad, also known as PoisonPlug, is a follow-up to the PlugX remote access trojan and is a modular implant capable of loading additional plugins dynamically from a remote server as required to harvest sensitive data from breached networks. It has been  widely used  by a growing list of  China-nexus   nation-state groups  since at least 2019 in attacks aimed at organizations in various industry verticals. "ShadowPad is dec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cleafy Raises $10.7 Million for Online Banking Fraud Prevention Platform<a href="https://www.securityweek.com/cleafy-raises-e10-million-for-online-banking-fraud-prevention-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online banking fraud detection and prevention firm Cleafy today announced that it has raised €10 million ($10.7 million) in its first funding round, which was led by United Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated Phishing Campaign Deploying Agent Tesla, OriginBotnet, and RedLine Clipper<a href="https://thehackernews.com/2023/09/sophisticated-phishing-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign is using a Microsoft Word document lure to distribute a trifecta of threats, namely Agent Tesla, OriginBotnet, and OriginBotnet, to gather a wide range of information from compromised Windows machines. "A phishing email delivers the Word document as an attachment, presenting a deliberately blurred image and a counterfeit reCAPTCHA to lure the recipient into clicking on it," Fortinet FortiGuard Labs researcher Cara Lin  said . Clicking on the image leads to the delivery of a loader from a remote server that, in turn, is designed to distribute OriginBotnet for keylogging and password recovery, RedLine Clipper for cryptocurrency theft, and Agent Tesla for harvesting sensitive information. The loader, written in .NET, employs a technique called binary padding by adding null bytes to increase the file's size to 400 MB in an attempt to evade detection by security software. The activation of the loader triggers a multi-stage process to est
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OriginBotnet, RedLine Clipper, and  AgentTesla Distributed Via Phishing Emails<a href="https://cyware.com/news/originbotnet-redline-clipper-and-agenttesla-distributed-via-phishing-emails-abba25c7"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A dark cloud of threats hovers over Windows users as security researchers uncovered a phishing campaign delivering Agent Tesla, OriginBotnet, and RedLine Clipper via maldocs. Attackers can extract a wide range of data from compromised systems, such as credentials, crypto wallet data, and other sens ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: MetaStealer Malware Targets Apple macOS in Recent Attacks<a href="https://thehackernews.com/2023/09/beware-metastealer-malware-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new information stealer malware called MetaStealer has set its sights on Apple macOS, making the latest in a growing list of stealer families focused on the operating system after  Stealer ,  Pureland ,  Atomic Stealer , and  Realst . "Threat actors are proactively targeting macOS businesses by posing as fake clients in order to socially engineer victims into launching malicious payloads," SentinelOne security researcher Phil Stokes  said  in a Monday analysis. In these attacks, MetaStealer is distributed in the form of rogue application bundles in the disk image format (DMG), with targets approached through threat actors posing as prospective design clients in order to share a password-protected ZIP archive containing the DMG file. Other instances have involved the malware masquerading as Adobe files or installers for Adobe Photoshop. Evidence gathered so far shows that MetaStealer artifacts began appearing in the wild in March 2023. The most recent sample was uploade
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Family of Obfuscated Go Info-stealers 'MetaStealer' Spread in Targeted Attacks<a href="https://www.sentinelone.com/blog/macos-metastealer-new-family-of-obfuscated-go-infostealers-spread-in-targeted-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unlike other recent macOS malware, MetaStealer relies on social engineering tactics to persuade victims to launch malicious payloads, often disguised as legitimate files or software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Rushes to Patch Critical Chrome Vulnerability Exploited in the Wild - Update Now<a href="https://thehackernews.com/2023/09/google-rushes-to-patch-critical-chrome.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday rolled out out-of-band security patches to address a critical security flaw in its Chrome web browser that it said has been exploited in the wild. Tracked as  CVE-2023-4863 , the issue has been described as a case of  heap buffer overflow  that resides in the  WebP image format  that could result in arbitrary code execution or a crash. Apple Security Engineering and Architecture (SEAR) and the Citizen Lab at The University of Toronto's Munk School have been credited with discovering and reporting the flaw on September 6, 2023. The tech giant has yet to disclose additional details about the nature of the attacks, but noted that it's "aware that an exploit for CVE-2023-4863 exists in the wild." With the latest fix, Google has addressed a total of four zero-day vulnerabilities in Chrome since the start of the year - CVE-2023-2033  (CVSS score: 8.8) - Type Confusion in V8 CVE-2023-2136  (CVSS score: 9.6) - Integer overflow in Skia CVE-2023-3079
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Recently Discovered Apple Zero-Days to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/150642/security/known-exploited-vulnerabilities-catalog-apple-flaws.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) added the security vulnerabilities chained in the zero-click iMessage exploit BLASTPASS to its Known Exploited Vulnerabilities Catalog.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After Microsoft and X, Hackers Launch DDoS Attack on Telegram<a href="https://www.securityweek.com/after-microsoft-and-x-hackers-launch-ddos-attack-on-telegram/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker group Anonymous Sudan has launched a distributed denial-of-service (DDoS) attack against Telegram in retaliation to the messaging platform’s decision to suspend their primary account, threat intelligence firm SOCRadar reports.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 11, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

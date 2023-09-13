@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome Rolls Out Support for 'Privacy Sandbox' to Bid Farewell to Tracking Cookies<a href="https://thehackernews.com/2023/09/google-chrome-rolls-out-support-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has officially begun its rollout of Privacy Sandbox in the Chrome web browser to a majority of its users, nearly four months after it&nbsp; announced the plans . "We believe it is vital to both improve privacy and preserve access to information, whether it's news, a how-to-guide, or a fun video," Anthony Chavez, vice president of Privacy Sandbox initiatives at Google,&nbsp; said . "Without viable privacy-preserving alternatives to third-party cookies, such as the Privacy Sandbox, we risk reducing access to information for all users, and incentivizing invasive tactics such as fingerprinting." To that end, the search giant is initially leaving nearly three percent of users unaffected by the change in order to conduct sufficient tests. General availability is expected to encompass all users in the coming months. Privacy Sandbox is Google's&nbsp; umbrella term &nbsp;for a set of technologies that aim to eliminate third-party tracking cookies on the web and replace them
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

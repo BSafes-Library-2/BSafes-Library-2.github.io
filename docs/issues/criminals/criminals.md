@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BianLian Ransomware Gang Claims to Have Hit Save The Children<a href="https://www.theregister.com/2023/09/11/bianlian_save_the_children/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercrime crew BianLian claims to have broken into the IT systems of a top non-profit and stolen a ton of files, including what the miscreants claim is financial, health, and medical data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

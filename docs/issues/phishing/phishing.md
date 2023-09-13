@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated Phishing Campaign Deploying Agent Tesla, OriginBotnet, and RedLine Clipper<a href="https://thehackernews.com/2023/09/sophisticated-phishing-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing campaign is using a Microsoft Word document lure to distribute a trifecta of threats, namely Agent Tesla, OriginBotnet, and OriginBotnet, to gather a wide range of information from compromised Windows machines. "A phishing email delivers the Word document as an attachment, presenting a deliberately blurred image and a counterfeit reCAPTCHA to lure the recipient into clicking on it," Fortinet FortiGuard Labs researcher Cara Lin&nbsp; said . Clicking on the image leads to the delivery of a loader from a remote server that, in turn, is designed to distribute OriginBotnet for keylogging and password recovery, RedLine Clipper for cryptocurrency theft, and Agent Tesla for harvesting sensitive information. The loader, written in .NET, employs a technique called binary padding by adding null bytes to increase the file's size to 400 MB in an attempt to evade detection by security software. The activation of the loader triggers a multi-stage process to est
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

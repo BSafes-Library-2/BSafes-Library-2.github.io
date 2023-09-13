@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+September 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Some of the Top Universities Wouldn’t Pass Cybersecurity Exam: Left Websites Vulnerable<a href="https://securityaffairs.com/150596/security/top-universities-cybersecurity-failures.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Many universities worldwide, including some of the most prestigious, leave their webpages unpatched, leaking sensitive information, and even open to full takeovers, a Cybernews Research team investigation reveals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 75% of Education Sector Attacks Linked to Compromised Accounts<a href="https://www.helpnetsecurity.com/2023/09/08/education-sector-account-compromise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Netwrix, 69% of organizations in the education sector have experienced a cyberattack in the past year. Phishing and user account compromise were the most common attack methods in this sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Generative AI, Contactless Tech Make Hotels Vulnerable to Cyberattacks<a href="https://www.cybersecuritydive.com/news/ai-contactless-tech-hotel-cyber-threats/693120/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The transition to mobile and contactless services in the hospitality industry is making hotels more vulnerable to cyber threats, according to a report from Trustwave SpiderLabs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

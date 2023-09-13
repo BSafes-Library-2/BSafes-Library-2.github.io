@@ -7,10 +7,23 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Security Updates for iOS and macOS <a href="https://www.cisa.gov/news-events/alerts/2023/09/12/apple-releases-security-updates-ios-and-macos"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released security updates to address a vulnerability in multiple products. A cyber threat actor could exploit this vulnerability to take control of an affected device.
+CISA encourages users and administrators to review the following advisories and apply the necessary updates.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 7, 2023 - CISA, FBI, CNMF 
 {: .fs-4 .fw-700 .lh-0  }
-Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475 <p style="font-weight:500; margin:0px" markdown="1">
-Thinking about the security of AI systems <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-250a"> Full Text</a>
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Nation-State Threat Actors Exploit CVE-2022-47966 and CVE-2022-42475 <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-250a"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>

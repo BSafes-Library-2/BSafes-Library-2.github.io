@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical GitHub Vulnerability Exposes 4,000+ Repositories to Repojacking Attack<a href="https://thehackernews.com/2023/09/critical-github-vulnerability-exposes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new vulnerability disclosed in GitHub could have exposed thousands of repositories at risk of repojacking attacks, new findings show. The flaw "could allow an attacker to exploit a race condition within GitHub's repository creation and username renaming operations," Checkmarx security researcher Elad Rapoport&nbsp; said &nbsp;in a technical report shared with The Hacker News. "Successful exploitation of this vulnerability impacts the open-source community by enabling the hijacking of over 4,000 code packages in languages such as Go, PHP, and Swift, as well as GitHub actions." Following responsible disclosure on March 1, 2023, the Microsoft-owned code hosting platform has addressed the issue as of September 1, 2023. Repojacking , short for&nbsp; repository hijacking , is a technique where a threat actor is able to bypass a security mechanism called popular repository namespace retirement and ultimately control of a repository. What the protection measure does is preven
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Rushes to Patch Critical Chrome Vulnerability Exploited in the Wild - Update Now<a href="https://thehackernews.com/2023/09/google-rushes-to-patch-critical-chrome.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday rolled out out-of-band security patches to address a critical security flaw in its Chrome web browser that it said has been exploited in the wild. Tracked as&nbsp; CVE-2023-4863 , the issue has been described as a case of&nbsp; heap buffer overflow &nbsp;that resides in the&nbsp; WebP image format &nbsp;that could result in arbitrary code execution or a crash. Apple Security Engineering and Architecture (SEAR) and the Citizen Lab at The University of Toronto's Munk School have been credited with discovering and reporting the flaw on September 6, 2023. The tech giant has yet to disclose additional details about the nature of the attacks, but noted that it's "aware that an exploit for CVE-2023-4863 exists in the wild." With the latest fix, Google has addressed a total of four zero-day vulnerabilities in Chrome since the start of the year - CVE-2023-2033 &nbsp;(CVSS score: 8.8) - Type Confusion in V8 CVE-2023-2136 &nbsp;(CVSS score: 9.6) - Integer overflow in Skia CVE-2023-3079
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

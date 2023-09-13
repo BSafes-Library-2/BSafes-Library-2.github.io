@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Redfly Group Compromised a Nation's Critical Grid in 6-Month ShadowPad Campaign<a href="https://thehackernews.com/2023/09/chinese-redfly-group-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor called&nbsp; Redfly &nbsp;has been linked to a compromise of a national grid located in an unnamed Asian country for as long as six months earlier this year using a known malware referred to as&nbsp; ShadowPad . "The attackers managed to steal credentials and compromise multiple computers on the organization's network," the Symantec Threat Hunter Team, part of Broadcom,&nbsp; said &nbsp;in a report shared with The Hacker News. "The attack is the latest in a series of espionage intrusions against [critical national infrastructure] targets." ShadowPad, also known as PoisonPlug, is a follow-up to the PlugX remote access trojan and is a modular implant capable of loading additional plugins dynamically from a remote server as required to harvest sensitive data from breached networks. It has been&nbsp; widely used &nbsp;by a growing list of&nbsp; China-nexus &nbsp; nation-state groups &nbsp;since at least 2019 in attacks aimed at organizations in various industry verticals. "ShadowPad is dec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

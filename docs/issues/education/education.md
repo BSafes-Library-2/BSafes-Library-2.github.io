@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 Steps to Kickstart Your SaaS Security Program<a href="https://thehackernews.com/2023/09/7-steps-to-kickstart-your-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SaaS applications are the backbone of modern businesses, constituting a staggering 70% of total software usage. Applications like Box, Google Workplace, and Microsoft 365 are integral to daily operations. This widespread adoption has transformed them into potential breeding grounds for cyber threats. Each SaaS application presents unique security challenges, and the landscape constantly evolves as vendors enhance their security features. Moreover, the dynamic nature of user governance, including onboarding, deprovisioning, and role adjustments, further complicates the security equation. With great convenience comes great responsibility, as securing these SaaS applications has become a top priority for Chief Information Security Officers (CISOs) and IT teams worldwide. Effectively securing SaaS applications requires a delicate balance between robust security measures and enabling users to perform their tasks efficiently. To navigate this complex terrain, this article excerpts a&nbsp; step
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
