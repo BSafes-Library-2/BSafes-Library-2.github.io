@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caesars Reportedly Paid Cyber Ransom, MGM Credit Rating Vulnerable Following Hack <a href="https://www.casino.org/news/caesars-reportedly-paid-hackers-ransomware-demand/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+News of cyber breaches afflicting Las Vegas Strip casino operators is getting worse. Just two days after MGM Resorts International (NYSE: MGM) confirmed it was the victim of a wide-ranging cyber attack, rival Caesars Entertainment (NASDAQ: CZR) will reportedly soon tell investors it was the target of a ransomware crime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 13, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

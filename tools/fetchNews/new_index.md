@@ -34,7 +34,23 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caesars Reportedly Paid Cyber Ransom, MGM Credit Rating Vulnerable Following Hack <a href="https://www.casino.org/news/caesars-reportedly-paid-hackers-ransomware-demand/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+News of cyber breaches afflicting Las Vegas Strip casino operators is getting worse. Just two days after MGM Resorts International (NYSE: MGM) confirmed it was the victim of a wide-ranging cyber attack, rival Caesars Entertainment (NASDAQ: CZR) will reportedly soon tell investors it was the target of a ransomware crime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Cyber Command Wrapped Second ‘Hunt Forward’ Mission to Lithuania<a href="https://therecord.media/cyber-command-lithuania-hunt-forward-second-mission?&web_view=true"> Full Text</a>
@@ -50,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: New Kubernetes Vulnerabilities Enable Remote Attacks on Windows Endpoints<a href="https://thehackernews.com/2023/09/alert-new-kubernetes-vulnerabilities.html"> Full Text</a>
@@ -66,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Profile CVEs Turn up in Vulnerability Exploit Sales<a href="https://www.cybersecuritydive.com/news/vulnerability-exploit-dark-web-sales/693429/?&web_view=true"> Full Text</a>
@@ -82,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail 8 Vulnerabilities in Azure HDInsight Analytics Service<a href="https://thehackernews.com/2023/09/researchers-detail-8-vulnerabilities-in.html"> Full Text</a>
@@ -98,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly Discovered MetaStealer Malware Targets macOS Users<a href="https://cyware.com/news/newly-discovered-metastealer-malware-targets-macos-users-1b87592f"> Full Text</a>
@@ -114,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar: Identity Threat Detection & Response (ITDR) – Rips in Your Identity Fabric<a href="https://thehackernews.com/2023/09/webinar-identity-threat-detection.html"> Full Text</a>
@@ -130,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware: It Takes A Village, Says the UK NCSC<a href="https://www.bankinfosecurity.com/takes-village-to-infect-ransomware-says-ncsc-a-23056?&web_view=true"> Full Text</a>
@@ -146,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rust-Written 3AM Ransomware: A Sneak Peek into a New Malware Family<a href="https://thehackernews.com/2023/09/rust-written-3am-ransomware-sneak-peek.html"> Full Text</a>
@@ -162,7 +178,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly 15,000 Accounts Raided at Automaker Sites to Harvest Vehicle IDs<a href="https://therecord.media/accounts-at-automaker-sites-taken-over-to-harvest-vins?&web_view=true"> Full Text</a>
@@ -178,7 +194,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Cyberattacks Are Transforming Warfare<a href="https://thehackernews.com/2023/09/how-cyberattacks-are-transforming.html"> Full Text</a>
@@ -194,7 +210,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CertifID, Which Develops Products To Prevent Wire Fraud, Raises $20M<a href="https://techcrunch.com/2023/09/12/certifid-real-estate-wire-fraud-prevention-startup-raises-20m/?&web_view=true"> Full Text</a>
@@ -210,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of New Phishing Campaign Targeting Corporations via Teams Messages<a href="https://thehackernews.com/2023/09/microsoft-warns-of-new-phishing.html"> Full Text</a>
@@ -226,7 +242,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stealthy Remcos Malware Attack Campaign Takes Aim at Colombian Firms<a href="https://research.checkpoint.com/2023/guarding-against-the-unseen-investigating-a-stealthy-remcos-malware-attack-on-colombian-firms/?&web_view=true"> Full Text</a>
@@ -242,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CoinEx Exchange Loses $27 Million Worth of Crypto in Suspected Hack<a href="https://cointelegraph.com/news/coinex-crypto-exchange-suspected-hacked-crypto-moved?&web_view=true"> Full Text</a>
@@ -258,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Patches a Pair of Actively Exploited Zero-Days<a href="https://www.darkreading.com/application-security/microsoft-patches-pair-of-actively-exploited-zero-days?&web_view=true"> Full Text</a>
@@ -274,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Redfly Group Compromised National Power Grid in Six-Months-Long Campaign<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/critical-infrastructure-attacks?&web_view=true"> Full Text</a>
@@ -290,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Releases Patch for Two New Actively Exploited Zero-Days Flaws<a href="https://thehackernews.com/2023/09/microsoft-releases-patch-for-two-new.html"> Full Text</a>
@@ -306,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update Adobe Acrobat and Reader to Patch Actively Exploited Vulnerability<a href="https://thehackernews.com/2023/09/update-adobe-acrobat-and-reader-to.html"> Full Text</a>
@@ -322,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 13, 2023
+September 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla Rushes to Patch WebP Critical Zero-Day Exploit in Firefox and Thunderbird<a href="https://thehackernews.com/2023/09/mozilla-rushes-to-patch-webp-critical.html"> Full Text</a>
