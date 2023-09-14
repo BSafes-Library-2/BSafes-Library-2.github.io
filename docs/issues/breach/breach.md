@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 15,000 Accounts Raided at Automaker Sites to Harvest Vehicle IDs<a href="https://therecord.media/accounts-at-automaker-sites-taken-over-to-harvest-vins?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers appear to have deployed bots to break into customer accounts at several large automakers, then harvested important information about thousands of individual vehicles and offered it for sale in private Telegram channels, researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Redfly Group Compromised National Power Grid in Six-Months-Long Campaign<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/critical-infrastructure-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Redfly threat actor group used the ShadowPad Trojan to compromise a national grid in an Asian country, stealing credentials and maintaining a presence for up to six months.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

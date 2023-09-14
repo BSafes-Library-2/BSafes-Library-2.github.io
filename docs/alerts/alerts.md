@@ -20,6 +20,18 @@ CISA encourages users and administrators to review the following advisories and 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 - NCSC, NCA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware, extortion and the cyber crime ecosystem <a href="https://www.ncsc.gov.uk/files/White-paper-Ransomware-extortion-and-the-cyber-crime-ecosystem.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This white paper assumes an understanding of cyber security principles. It’s particularly aimed at security professionals who need to be aware of changes in cyber criminal activity to better protect their systems and inform security policy.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 7, 2023 - CISA, FBI, CNMF 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

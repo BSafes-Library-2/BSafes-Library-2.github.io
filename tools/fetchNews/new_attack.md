@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy Remcos Malware Attack Campaign Takes Aim at Colombian Firms<a href="https://research.checkpoint.com/2023/guarding-against-the-unseen-investigating-a-stealthy-remcos-malware-attack-on-colombian-firms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers employed highly obfuscated BAT files and multi-layered obfuscation techniques to evade detection and load the Remcos malware into memory, bypassing traditional antivirus and endpoint security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

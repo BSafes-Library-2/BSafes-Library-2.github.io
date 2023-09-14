@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Cyberattacks Are Transforming Warfare<a href="https://thehackernews.com/2023/09/how-cyberattacks-are-transforming.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is a new battlefield. It is global and challenging to defend. What began with a high-profile incident back in 2007, when Estonia was hit by hackers targeting its government and commercial sector, has evolved into cyber warfare that is being waged constantly worldwide. Today, cyberattacks have become the norm, transforming how we think about war and international conflict as a whole.&nbsp; From the 2009 South Korea DDoS attacks to the 2010 attacks on Burma and the 2016 US election interference attacks on the Democratic National Committee, the list of historical cyberwarfare incidents continues to expand. The main players? Nation-state-supported cybercriminal groups and organizations linked to Russia, North Korea, China, and several countries in the Middle East. This report dives into three top cyberwarfare trends in an effort to understand their impact. Russia: The Cyber Invasion of Ukraine&nbsp; On August 31, 2023, Five Eyes Agency — an intelligence alliance network composed of agencie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

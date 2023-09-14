@@ -34,6 +34,310 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Cyber Command Wrapped Second ‘Hunt Forward’ Mission to Lithuania<a href="https://therecord.media/cyber-command-lithuania-hunt-forward-second-mission?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Members of the command’s Cyber National Mission Force (CNMF) worked for months alongside experts from Lithuania’s Information Technology and Communications Department, which is part of the country’s Ministry of the Interior.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: New Kubernetes Vulnerabilities Enable Remote Attacks on Windows Endpoints<a href="https://thehackernews.com/2023/09/alert-new-kubernetes-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three interrelated high-severity security flaws discovered in Kubernetes could be exploited to achieve remote code execution with elevated privileges on Windows endpoints within a cluster. The  issues , tracked as CVE-2023-3676, CVE-2023-3893, and CVE-2023-3955, carry CVSS scores of 8.8 and impact all Kubernetes environments with Windows nodes. Fixes for the vulnerabilities were  released  on August 23, 2023, following responsible disclosure by Akamai on July 13, 2023. "The vulnerability allows remote code execution with SYSTEM privileges on all Windows endpoints within a Kubernetes cluster," Akamai security researcher Tomer Peled said in a technical write-up shared with The Hacker News. "To exploit this vulnerability, the attacker needs to apply a malicious YAML file on the cluster." Amazon Web Services  (AWS),  Google Cloud , and  Microsoft Azure  have all released advisories for the bugs, which affect the following versions of Kubelet - kubelet < v1.28
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Profile CVEs Turn up in Vulnerability Exploit Sales<a href="https://www.cybersecuritydive.com/news/vulnerability-exploit-dark-web-sales/693429/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three reported purchases of vulnerability exploits on the dark web during the first half of the year included high-profile, actively exploited CVEs, according to research by Flashpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail 8 Vulnerabilities in Azure HDInsight Analytics Service<a href="https://thehackernews.com/2023/09/researchers-detail-8-vulnerabilities-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details have emerged about a set of now-patched cross-site scripting (XSS) flaws in the  Microsoft Azure HDInsight  open-source analytics service that could be weaponized by a threat actor to carry out malicious activities. "The identified vulnerabilities consisted of six stored XSS and two reflected XSS vulnerabilities, each of which could be exploited to perform unauthorized actions, varying from data access to session hijacking and delivering malicious payloads," Orca security researcher Lidor Ben Shitrit  said  in a report shared with The Hacker News. The issues were addressed by Microsoft as part of its  Patch Tuesday updates  for August 2023. The disclosure comes three months after similar shortcomings were reported in the  Azure Bastion and Azure Container Registry  that could have been exploited for unauthorized data access and modifications. The list of flaws is as follows - CVE-2023-35393  (CVSS score: 4.5) - Azure Apache Hive Spoofing Vulnerability CV
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Discovered MetaStealer Malware Targets macOS Users<a href="https://cyware.com/news/newly-discovered-metastealer-malware-targets-macos-users-1b87592f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new MetaStealer malware has surfaced in the wild, targeting macOS business users. Written in Golang, the malware is distributed via social engineering tactics, where attackers pose as fake design clients and lure victims into executing malicious payloads. Apple’s XProtect update v2170 contains a  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: Identity Threat Detection & Response (ITDR) – Rips in Your Identity Fabric<a href="https://thehackernews.com/2023/09/webinar-identity-threat-detection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital age, SaaS applications have become the backbone of modern businesses. They streamline operations, enhance productivity, and foster innovation. But with great power comes great responsibility. As organizations integrate more SaaS applications into their workflows, they inadvertently open the door to a new era of security threats. The stakes? Your invaluable data and the trust of your stakeholders. Historically, SaaS security was about managing misconfigurations. But the landscape has evolved. Now, it's not just about securing the software; it's about safeguarding the very essence of digital identity.  Identity is the new endpoint . If you're not focusing on securing user identity, you're leaving a gaping hole in your security strategy. Traditional threat detection and identity management methods? They're just the tip of the iceberg. To truly fortify your SaaS ecosystem, you need to delve deeper. Enter Maor Bin, the visionary CEO of Adaptive
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware: It Takes A Village, Says the UK NCSC<a href="https://www.bankinfosecurity.com/takes-village-to-infect-ransomware-says-ncsc-a-23056?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stopping the ransomware epidemic is less about tackling individual crypto-locking malware variants and more about combating the entire ecosystem of bad actors underpinning digital extortion, the British government said Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rust-Written 3AM Ransomware: A Sneak Peek into a New Malware Family<a href="https://thehackernews.com/2023/09/rust-written-3am-ransomware-sneak-peek.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware family called  3AM  has emerged in the wild after it was detected in a single incident in which an unidentified affiliate deployed the strain following an unsuccessful attempt to deliver LockBit (attributed to Bitwise Spider  or  Syrphid ) in the target network. "3AM is written in Rust and appears to be a completely new malware family," the Symantec Threat Hunter Team, part of Broadcom,  said  in a report shared with The Hacker News. "The ransomware attempts to stop multiple services on the infected computer before it begins encrypting files. Once encryption is complete, it attempts to delete Volume Shadow (VSS) copies." 3AM gets its name from the fact that it's referenced in the ransom note. It also appends encrypted files with the extension .threeamtime. That said, it's currently not known if the malware authors have any connections with known e-crime groups. In the attack spotted by Symantec, the adversary is said to have managed to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 15,000 Accounts Raided at Automaker Sites to Harvest Vehicle IDs<a href="https://therecord.media/accounts-at-automaker-sites-taken-over-to-harvest-vins?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers appear to have deployed bots to break into customer accounts at several large automakers, then harvested important information about thousands of individual vehicles and offered it for sale in private Telegram channels, researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Cyberattacks Are Transforming Warfare<a href="https://thehackernews.com/2023/09/how-cyberattacks-are-transforming.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is a new battlefield. It is global and challenging to defend. What began with a high-profile incident back in 2007, when Estonia was hit by hackers targeting its government and commercial sector, has evolved into cyber warfare that is being waged constantly worldwide. Today, cyberattacks have become the norm, transforming how we think about war and international conflict as a whole.  From the 2009 South Korea DDoS attacks to the 2010 attacks on Burma and the 2016 US election interference attacks on the Democratic National Committee, the list of historical cyberwarfare incidents continues to expand. The main players? Nation-state-supported cybercriminal groups and organizations linked to Russia, North Korea, China, and several countries in the Middle East. This report dives into three top cyberwarfare trends in an effort to understand their impact. Russia: The Cyber Invasion of Ukraine  On August 31, 2023, Five Eyes Agency — an intelligence alliance network composed of agencie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CertifID, Which Develops Products To Prevent Wire Fraud, Raises $20M<a href="https://techcrunch.com/2023/09/12/certifid-real-estate-wire-fraud-prevention-startup-raises-20m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The real estate fraud prevention startup CertifID has raised $20 million in a funding round led by Arthur Ventures, bringing its valuation to over double its previous value.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New Phishing Campaign Targeting Corporations via Teams Messages<a href="https://thehackernews.com/2023/09/microsoft-warns-of-new-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of a new phishing campaign undertaken by an initial access broker that involves using Teams messages as lures to infiltrate corporate networks. The tech giant's Threat Intelligence team is tracking the cluster under the name  Storm-0324 , which is also known by the monikers TA543 and Sagrid. "Beginning in July 2023, Storm-0324 was observed distributing payloads using an open-source tool to send phishing lures through Microsoft Teams chats," the company  said , adding the development marks a shift from using email-based initial infection vectors for initial access. Storm-0324 operates in the cybercriminal economy as a payload distributor, offering a service that allows for the propagation of  various   payloads  using evasive infection chains. This includes a mix of downloaders, banking trojans, ransomware, and modular toolkits such as Nymaim, Gozi, TrickBot, IcedID, Gootkit, Dridex, Sage, GandCrab, and JSSLoader. Attack sequences mounted by the a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy Remcos Malware Attack Campaign Takes Aim at Colombian Firms<a href="https://research.checkpoint.com/2023/guarding-against-the-unseen-investigating-a-stealthy-remcos-malware-attack-on-colombian-firms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers employed highly obfuscated BAT files and multi-layered obfuscation techniques to evade detection and load the Remcos malware into memory, bypassing traditional antivirus and endpoint security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CoinEx Exchange Loses $27 Million Worth of Crypto in Suspected Hack<a href="https://cointelegraph.com/news/coinex-crypto-exchange-suspected-hacked-crypto-moved?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A CoinEx hot wallet transferred $27 million of various tokens to a wallet with no previous history in what the exchange’s team has referred to as “anomalous withdrawals."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patches a Pair of Actively Exploited Zero-Days<a href="https://www.darkreading.com/application-security/microsoft-patches-pair-of-actively-exploited-zero-days?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In total, Microsoft released 59 new patches addressing bugs across its product gamut. They affect Microsoft Windows, Exchange Server, Office, .NET and Visual Studio, Azure, Microsoft Dynamics, and Windows Defender.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Redfly Group Compromised National Power Grid in Six-Months-Long Campaign<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/critical-infrastructure-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Redfly threat actor group used the ShadowPad Trojan to compromise a national grid in an Asian country, stealing credentials and maintaining a presence for up to six months.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Patch for Two New Actively Exploited Zero-Days Flaws<a href="https://thehackernews.com/2023/09/microsoft-releases-patch-for-two-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released software fixes to  remediate 59 bugs  spanning its product portfolio, including two zero-day flaws that have been actively exploited by malicious cyber actors. Of the 59 vulnerabilities, five are rated Critical, 55 are rated Important, and one is rated Moderate in severity. The update is in addition to  35 flaws  patched in the Chromium-based Edge browser since last month's Patch Tuesday edition, which also encompasses a fix for  CVE-2023-4863 , a critical heap buffer overflow flaw in the WebP image format. The two Microsoft vulnerabilities that have come under active exploitation in real-world attacks are listed below - CVE-2023-36761  (CVSS score: 6.2) - Microsoft Word Information Disclosure Vulnerability CVE-2023-36802  (CVSS score: 7.8) - Microsoft Streaming Service Proxy Elevation of Privilege Vulnerability "Exploiting this vulnerability could allow the disclosure of  NTLM hashes ," the Windows maker said in an advisory about CVE-2023-3
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Adobe Acrobat and Reader to Patch Actively Exploited Vulnerability<a href="https://thehackernews.com/2023/09/update-adobe-acrobat-and-reader-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe's  Patch Tuesday update  for September 2023 comes with a patch for a critical actively exploited security flaw in Acrobat and Reader that could permit an attacker to execute malicious code on susceptible systems. The vulnerability, tracked as CVE-2023-26369, is rated 7.8 for severity on the CVSS scoring system and impacts both Windows and macOS versions of Acrobat DC, Acrobat Reader DC, Acrobat 2020, and Acrobat Reader 2020. Described as an out-of-bounds write, successful exploitation of the bug could lead to code execution by opening a specially crafted PDF document. Adobe did not disclose any additional details about the issue or the targeting involved. "Adobe is aware that CVE-2023-26369 has been exploited in the wild in limited attacks targeting Adobe Acrobat and Reader," the company  acknowledged  in an advisory. CVE-2023-26369 affects the below versions - Acrobat DC (23.003.20284 and earlier versions) - Fixed in 23.006.20320 Acrobat Reader DC (23.003.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Rushes to Patch WebP Critical Zero-Day Exploit in Firefox and Thunderbird<a href="https://thehackernews.com/2023/09/mozilla-rushes-to-patch-webp-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla on Tuesday released security updates to resolve a critical zero-day vulnerability in Firefox and Thunderbird that has been actively exploited in the wild, a day after Google released a fix for the issue in its Chrome browser. The shortcoming, assigned the identifier  CVE-2023-4863 , is a heap buffer overflow flaw in the WebP image format that could result in arbitrary code execution when processing a specially crafted image. "Opening a malicious WebP image could lead to a heap buffer overflow in the content process," Mozilla  said  in an advisory. "We are aware of this issue being exploited in other products in the wild." According to the description on the National Vulnerability Database (NVD), the flaw could allow a remote attacker to perform an out-of-bounds memory write via a crafted HTML page. Apple Security Engineering and Architecture (SEAR) and the Citizen Lab at the University of Toronto's Munk School have been credited with reporting the s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 12, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -253,6 +557,22 @@ The hacker group Anonymous Sudan has launched a distributed denial-of-service (D
 </details>
 <div style="text-align: right" markdown="1">
 Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MGM Resorts shuts down IT systems after cyberattack <a href="https://www.bleepingcomputer.com/news/security/mgm-resorts-shuts-down-it-systems-after-cyberattack/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MGM Resorts International disclosed today that it is dealing with a cybersecurity issue that impacted some of its systems, including its main website, online reservations, and in-casino services, like ATMs, slot machines, and credit card machines.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

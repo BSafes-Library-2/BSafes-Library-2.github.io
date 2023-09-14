@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Cyber Command Wrapped Second ‘Hunt Forward’ Mission to Lithuania<a href="https://therecord.media/cyber-command-lithuania-hunt-forward-second-mission?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Members of the command’s Cyber National Mission Force (CNMF) worked for months alongside experts from Lithuania’s Information Technology and Communications Department, which is part of the country’s Ministry of the Interior.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware: It Takes A Village, Says the UK NCSC<a href="https://www.bankinfosecurity.com/takes-village-to-infect-ransomware-says-ncsc-a-23056?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stopping the ransomware epidemic is less about tackling individual crypto-locking malware variants and more about combating the entire ecosystem of bad actors underpinning digital extortion, the British government said Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

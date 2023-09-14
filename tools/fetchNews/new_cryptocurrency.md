@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CoinEx Exchange Loses $27 Million Worth of Crypto in Suspected Hack<a href="https://cointelegraph.com/news/coinex-crypto-exchange-suspected-hacked-crypto-moved?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A CoinEx hot wallet transferred $27 million of various tokens to a wallet with no previous history in what the exchange’s team has referred to as “anomalous withdrawals."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

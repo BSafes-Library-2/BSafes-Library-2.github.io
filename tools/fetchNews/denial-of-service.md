@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+September 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After Microsoft and X, Hackers Launch DDoS Attack on Telegram<a href="https://www.securityweek.com/after-microsoft-and-x-hackers-launch-ddos-attack-on-telegram/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker group Anonymous Sudan has launched a distributed denial-of-service (DDoS) attack against Telegram in retaliation to the messaging platform’s decision to suspend their primary account, threat intelligence firm SOCRadar reports.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

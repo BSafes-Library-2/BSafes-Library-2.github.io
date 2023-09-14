@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CertifID, Which Develops Products To Prevent Wire Fraud, Raises $20M<a href="https://techcrunch.com/2023/09/12/certifid-real-estate-wire-fraud-prevention-startup-raises-20m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The real estate fraud prevention startup CertifID has raised $20 million in a funding round led by Arthur Ventures, bringing its valuation to over double its previous value.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

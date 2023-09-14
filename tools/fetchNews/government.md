@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Recently Discovered Apple Zero-Days to Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/150642/security/known-exploited-vulnerabilities-catalog-apple-flaws.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) added the security vulnerabilities chained in the zero-click iMessage exploit BLASTPASS to its Known Exploited Vulnerabilities Catalog.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
