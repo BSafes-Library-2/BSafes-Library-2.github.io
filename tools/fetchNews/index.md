@@ -34,6 +34,54 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Patch for Two New Actively Exploited Zero-Days Flaws<a href="https://thehackernews.com/2023/09/microsoft-releases-patch-for-two-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released software fixes to  remediate 59 bugs  spanning its product portfolio, including two zero-day flaws that have been actively exploited by malicious cyber actors. Of the 59 vulnerabilities, five are rated Critical, 55 are rated Important, and one is rated Moderate in severity. The update is in addition to  35 flaws  patched in the Chromium-based Edge browser since last month's Patch Tuesday edition, which also encompasses a fix for  CVE-2023-4863 , a critical heap buffer overflow flaw in the WebP image format. The two Microsoft vulnerabilities that have come under active exploitation in real-world attacks are listed below - CVE-2023-36761  (CVSS score: 6.2) - Microsoft Word Information Disclosure Vulnerability CVE-2023-36802  (CVSS score: 7.8) - Microsoft Streaming Service Proxy Elevation of Privilege Vulnerability "Exploiting this vulnerability could allow the disclosure of  NTLM hashes ," the Windows maker said in an advisory about CVE-2023-3
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Adobe Acrobat and Reader to Patch Actively Exploited Vulnerability<a href="https://thehackernews.com/2023/09/update-adobe-acrobat-and-reader-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe's  Patch Tuesday update  for September 2023 comes with a patch for a critical actively exploited security flaw in Acrobat and Reader that could permit an attacker to execute malicious code on susceptible systems. The vulnerability, tracked as CVE-2023-26369, is rated 7.8 for severity on the CVSS scoring system and impacts both Windows and macOS versions of Acrobat DC, Acrobat Reader DC, Acrobat 2020, and Acrobat Reader 2020. Described as an out-of-bounds write, successful exploitation of the bug could lead to code execution by opening a specially crafted PDF document. Adobe did not disclose any additional details about the issue or the targeting involved. "Adobe is aware that CVE-2023-26369 has been exploited in the wild in limited attacks targeting Adobe Acrobat and Reader," the company  acknowledged  in an advisory. CVE-2023-26369 affects the below versions - Acrobat DC (23.003.20284 and earlier versions) - Fixed in 23.006.20320 Acrobat Reader DC (23.003.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Rushes to Patch WebP Critical Zero-Day Exploit in Firefox and Thunderbird<a href="https://thehackernews.com/2023/09/mozilla-rushes-to-patch-webp-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla on Tuesday released security updates to resolve a critical zero-day vulnerability in Firefox and Thunderbird that has been actively exploited in the wild, a day after Google released a fix for the issue in its Chrome browser. The shortcoming, assigned the identifier  CVE-2023-4863 , is a heap buffer overflow flaw in the WebP image format that could result in arbitrary code execution when processing a specially crafted image. "Opening a malicious WebP image could lead to a heap buffer overflow in the content process," Mozilla  said  in an advisory. "We are aware of this issue being exploited in other products in the wild." According to the description on the National Vulnerability Database (NVD), the flaw could allow a remote attacker to perform an out-of-bounds memory write via a crafted HTML page. Apple Security Engineering and Architecture (SEAR) and the Citizen Lab at the University of Toronto's Munk School have been credited with reporting the s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 12, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
