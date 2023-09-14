@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Record Number of Cyberattacks Targeting Critical IT Infrastructure Reported to UK Government This Year<a href="https://therecord.media/uk-critical-it-infrastructure-attacks-reports-to-nis?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the total count of attacks might seem low — just 13 that affected organizations operating critical technology services — the number marks a significant increase from the four disruptions the sector recorded in 2022 and 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Journalist's iPhone Compromised by NSO Group's Zero-Click Spyware<a href="https://thehackernews.com/2023/09/russian-journalists-iphone-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The iPhone belonging to Galina Timchenko, a prominent Russian journalist and critic of the government, was compromised with NSO Group's Pegasus spyware, a new collaborative investigation from  Access Now  and the  Citizen Lab  has revealed. The infiltration is said to have happened on or around February 10, 2023. Timchenko is the executive editor and owner of  Meduza , an independent news publication based in Latvia. It's currently not clear who deployed the malware on the device. The Washington Post  reported  that the Russian government is not a client of NSO Group, citing an unnamed person familiar with the company's operations. "During the infection her device was localized to the GMT+1 timezone, and she reports being in Berlin, Germany," the Citizen Lab said. "The day following the infection she was scheduled to attend a private meeting with other heads of Russian independent media exiled in Europe to discuss how to manage threats and censorship by P
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
