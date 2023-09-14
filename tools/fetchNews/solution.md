@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: Identity Threat Detection &amp; Response (ITDR) – Rips in Your Identity Fabric<a href="https://thehackernews.com/2023/09/webinar-identity-threat-detection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital age, SaaS applications have become the backbone of modern businesses. They streamline operations, enhance productivity, and foster innovation. But with great power comes great responsibility. As organizations integrate more SaaS applications into their workflows, they inadvertently open the door to a new era of security threats. The stakes? Your invaluable data and the trust of your stakeholders. Historically, SaaS security was about managing misconfigurations. But the landscape has evolved. Now, it's not just about securing the software; it's about safeguarding the very essence of digital identity.&nbsp; Identity is the new endpoint . If you're not focusing on securing user identity, you're leaving a gaping hole in your security strategy. Traditional threat detection and identity management methods? They're just the tip of the iceberg. To truly fortify your SaaS ecosystem, you need to delve deeper. Enter Maor Bin, the visionary CEO of Adaptive
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

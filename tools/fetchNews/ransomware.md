@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rust-Written 3AM Ransomware: A Sneak Peek into a New Malware Family<a href="https://thehackernews.com/2023/09/rust-written-3am-ransomware-sneak-peek.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware family called&nbsp; 3AM &nbsp;has emerged in the wild after it was detected in a single incident in which an unidentified affiliate deployed the strain following an unsuccessful attempt to deliver LockBit (attributed to Bitwise Spider &nbsp;or&nbsp; Syrphid ) in the target network. "3AM is written in Rust and appears to be a completely new malware family," the Symantec Threat Hunter Team, part of Broadcom,&nbsp; said &nbsp;in a report shared with The Hacker News. "The ransomware attempts to stop multiple services on the infected computer before it begins encrypting files. Once encryption is complete, it attempts to delete Volume Shadow (VSS) copies." 3AM gets its name from the fact that it's referenced in the ransom note. It also appends encrypted files with the extension .threeamtime. That said, it's currently not known if the malware authors have any connections with known e-crime groups. In the attack spotted by Symantec, the adversary is said to have managed to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

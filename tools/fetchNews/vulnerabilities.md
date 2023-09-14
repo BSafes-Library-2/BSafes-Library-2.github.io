@@ -8,6 +8,104 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: New Kubernetes Vulnerabilities Enable Remote Attacks on Windows Endpoints<a href="https://thehackernews.com/2023/09/alert-new-kubernetes-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three interrelated high-severity security flaws discovered in Kubernetes could be exploited to achieve remote code execution with elevated privileges on Windows endpoints within a cluster. The&nbsp; issues , tracked as CVE-2023-3676, CVE-2023-3893, and CVE-2023-3955, carry CVSS scores of 8.8 and impact all Kubernetes environments with Windows nodes. Fixes for the vulnerabilities were&nbsp; released &nbsp;on August 23, 2023, following responsible disclosure by Akamai on July 13, 2023. "The vulnerability allows remote code execution with SYSTEM privileges on all Windows endpoints within a Kubernetes cluster," Akamai security researcher Tomer Peled said in a technical write-up shared with The Hacker News. "To exploit this vulnerability, the attacker needs to apply a malicious YAML file on the cluster." Amazon Web Services &nbsp;(AWS),&nbsp; Google Cloud , and&nbsp; Microsoft Azure &nbsp;have all released advisories for the bugs, which affect the following versions of Kubelet - kubelet &lt; v1.28
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Profile CVEs Turn up in Vulnerability Exploit Sales<a href="https://www.cybersecuritydive.com/news/vulnerability-exploit-dark-web-sales/693429/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three reported purchases of vulnerability exploits on the dark web during the first half of the year included high-profile, actively exploited CVEs, according to research by Flashpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail 8 Vulnerabilities in Azure HDInsight Analytics Service<a href="https://thehackernews.com/2023/09/researchers-detail-8-vulnerabilities-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details have emerged about a set of now-patched cross-site scripting (XSS) flaws in the&nbsp; Microsoft Azure HDInsight &nbsp;open-source analytics service that could be weaponized by a threat actor to carry out malicious activities. "The identified vulnerabilities consisted of six stored XSS and two reflected XSS vulnerabilities, each of which could be exploited to perform unauthorized actions, varying from data access to session hijacking and delivering malicious payloads," Orca security researcher Lidor Ben Shitrit&nbsp; said &nbsp;in a report shared with The Hacker News. The issues were addressed by Microsoft as part of its&nbsp; Patch Tuesday updates &nbsp;for August 2023. The disclosure comes three months after similar shortcomings were reported in the&nbsp; Azure Bastion and Azure Container Registry &nbsp;that could have been exploited for unauthorized data access and modifications. The list of flaws is as follows - CVE-2023-35393 &nbsp;(CVSS score: 4.5) - Azure Apache Hive Spoofing Vulnerability CV
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Patches a Pair of Actively Exploited Zero-Days<a href="https://www.darkreading.com/application-security/microsoft-patches-pair-of-actively-exploited-zero-days?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In total, Microsoft released 59 new patches addressing bugs across its product gamut. They affect Microsoft Windows, Exchange Server, Office, .NET and Visual Studio, Azure, Microsoft Dynamics, and Windows Defender.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases Patch for Two New Actively Exploited Zero-Days Flaws<a href="https://thehackernews.com/2023/09/microsoft-releases-patch-for-two-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released software fixes to&nbsp; remediate 59 bugs &nbsp;spanning its product portfolio, including two zero-day flaws that have been actively exploited by malicious cyber actors. Of the 59 vulnerabilities, five are rated Critical, 55 are rated Important, and one is rated Moderate in severity. The update is in addition to&nbsp; 35 flaws &nbsp;patched in the Chromium-based Edge browser since last month's Patch Tuesday edition, which also encompasses a fix for&nbsp; CVE-2023-4863 , a critical heap buffer overflow flaw in the WebP image format. The two Microsoft vulnerabilities that have come under active exploitation in real-world attacks are listed below - CVE-2023-36761 &nbsp;(CVSS score: 6.2) - Microsoft Word Information Disclosure Vulnerability CVE-2023-36802 &nbsp;(CVSS score: 7.8) - Microsoft Streaming Service Proxy Elevation of Privilege Vulnerability "Exploiting this vulnerability could allow the disclosure of&nbsp; NTLM hashes ," the Windows maker said in an advisory about CVE-2023-3
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Adobe Acrobat and Reader to Patch Actively Exploited Vulnerability<a href="https://thehackernews.com/2023/09/update-adobe-acrobat-and-reader-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe's&nbsp; Patch Tuesday update &nbsp;for September 2023 comes with a patch for a critical actively exploited security flaw in Acrobat and Reader that could permit an attacker to execute malicious code on susceptible systems. The vulnerability, tracked as CVE-2023-26369, is rated 7.8 for severity on the CVSS scoring system and impacts both Windows and macOS versions of Acrobat DC, Acrobat Reader DC, Acrobat 2020, and Acrobat Reader 2020. Described as an out-of-bounds write, successful exploitation of the bug could lead to code execution by opening a specially crafted PDF document. Adobe did not disclose any additional details about the issue or the targeting involved. "Adobe is aware that CVE-2023-26369 has been exploited in the wild in limited attacks targeting Adobe Acrobat and Reader," the company&nbsp; acknowledged &nbsp;in an advisory. CVE-2023-26369 affects the below versions - Acrobat DC (23.003.20284 and earlier versions) - Fixed in 23.006.20320 Acrobat Reader DC (23.003.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Rushes to Patch WebP Critical Zero-Day Exploit in Firefox and Thunderbird<a href="https://thehackernews.com/2023/09/mozilla-rushes-to-patch-webp-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mozilla on Tuesday released security updates to resolve a critical zero-day vulnerability in Firefox and Thunderbird that has been actively exploited in the wild, a day after Google released a fix for the issue in its Chrome browser. The shortcoming, assigned the identifier&nbsp; CVE-2023-4863 , is a heap buffer overflow flaw in the WebP image format that could result in arbitrary code execution when processing a specially crafted image. "Opening a malicious WebP image could lead to a heap buffer overflow in the content process," Mozilla&nbsp; said &nbsp;in an advisory. "We are aware of this issue being exploited in other products in the wild." According to the description on the National Vulnerability Database (NVD), the flaw could allow a remote attacker to perform an out-of-bounds memory write via a crafted HTML page. Apple Security Engineering and Architecture (SEAR) and the Citizen Lab at the University of Toronto's Munk School have been credited with reporting the s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

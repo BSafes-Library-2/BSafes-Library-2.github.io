@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New Phishing Campaign Targeting Corporations via Teams Messages<a href="https://thehackernews.com/2023/09/microsoft-warns-of-new-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of a new phishing campaign undertaken by an initial access broker that involves using Teams messages as lures to infiltrate corporate networks. The tech giant's Threat Intelligence team is tracking the cluster under the name&nbsp; Storm-0324 , which is also known by the monikers TA543 and Sagrid. "Beginning in July 2023, Storm-0324 was observed distributing payloads using an open-source tool to send phishing lures through Microsoft Teams chats," the company&nbsp; said , adding the development marks a shift from using email-based initial infection vectors for initial access. Storm-0324 operates in the cybercriminal economy as a payload distributor, offering a service that allows for the propagation of&nbsp; various &nbsp; payloads &nbsp;using evasive infection chains. This includes a mix of downloaders, banking trojans, ransomware, and modular toolkits such as Nymaim, Gozi, TrickBot, IcedID, Gootkit, Dridex, Sage, GandCrab, and JSSLoader. Attack sequences mounted by the a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
