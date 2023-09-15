@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+September 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy Concerns Cast a Shadow on AI's Potential for Software Development<a href="https://www.helpnetsecurity.com/2023/09/13/ai-adoption-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations prioritize privacy and protection of intellectual property when adopting AI tools, with concerns about AI-generated code introducing security vulnerabilities and lacking copyright protection, according to GitLab.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

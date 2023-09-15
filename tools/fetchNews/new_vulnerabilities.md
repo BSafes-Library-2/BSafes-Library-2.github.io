@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Uncovers Flaws in ncurses Library Affecting Linux and macOS Systems<a href="https://thehackernews.com/2023/09/microsoft-uncovers-flaws-in-ncurses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of memory corruption flaws have been discovered in the&nbsp; ncurses &nbsp;(short for&nbsp; new curses ) programming library that could be exploited by threat actors to run malicious code on vulnerable Linux and macOS systems. "Using environment variable poisoning, attackers could chain these vulnerabilities to elevate privileges and run code in the targeted program's context or perform other malicious actions," Microsoft Threat Intelligence researchers Jonathan Bar Or, Emanuele Cozzi, and Michael Pearse&nbsp; said &nbsp;in a technical report published today. The vulnerabilities, collectively tracked as&nbsp; CVE-2023-29491 &nbsp;(CVSS score of 7.8), have been&nbsp; addressed &nbsp;as of April 2023. Microsoft said it also worked with Apple on addressing the macOS-specific issues related to these flaws. Environment variables are user-defined values that can be used by multiple programs on a system and can affect the manner in which they behave on the system. Manipulating the variables can cause application
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N-Able's Take Control Agent Vulnerability Exposes Windows Systems to Privilege Escalation<a href="https://thehackernews.com/2023/09/n-ables-take-control-agent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity security flaw has been disclosed in N-Able's Take Control Agent that could be exploited by a local unprivileged attacker to gain SYSTEM privileges. Tracked as&nbsp; CVE-2023-27470 &nbsp;(CVSS score: 8.8), the&nbsp; issue &nbsp;relates to a Time-of-Check to Time-of-Use ( TOCTOU ) race condition vulnerability, which, when successfully exploited, could be leveraged to delete arbitrary files on a Windows system. The security shortcoming, which impacts versions 7.0.41.1141 and prior, has been addressed in version 7.0.43 released on March 15, 2023, following responsible disclosure by Mandiant on February 27, 2023. Time-of-Check to Time-of-Use falls under a category of software flaws wherein a program checks the state of a resource for a specific value, but that value changes before it's actually used, effectively invalidating the results of the check. An exploitation of such a flaw can result in a loss of integrity and trick the program into performing actions that it shouldn't
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

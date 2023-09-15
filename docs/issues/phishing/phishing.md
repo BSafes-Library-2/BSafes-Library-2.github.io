@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BatLoader Unleashed in Ongoing Webex Malvertising Campaign<a href="https://cyware.com/news/batloader-unleashed-in-ongoing-webex-malvertising-campaign-774b17f8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malvertising campaign has surfaced, targeting corporate users downloading popular web conferencing software Cisco Webex with BatLoader. Webex itself has not been compromised; rather, threat actors are exploiting brand impersonation to distribute the malware. The malicious ad impersonating it  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

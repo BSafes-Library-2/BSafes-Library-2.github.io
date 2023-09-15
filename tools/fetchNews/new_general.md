@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Fraud Schemes Targeting the Payments Ecosystem<a href="https://www.helpnetsecurity.com/2023/09/13/payment-data-compromise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are utilizing advanced techniques such as malvertising and SEO to conduct sophisticated fraud schemes, targeting authentication processes and exploiting technical misconfigurations, according to a report by Visa.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Record Number of Cyberattacks Targeting Critical IT Infrastructure Reported to UK Government This Year<a href="https://therecord.media/uk-critical-it-infrastructure-attacks-reports-to-nis?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the total count of attacks might seem low — just 13 that affected organizations operating critical technology services — the number marks a significant increase from the four disruptions the sector recorded in 2022 and 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

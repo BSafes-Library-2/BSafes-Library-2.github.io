@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+September 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Urging Dozens of Countries to Publicly Commit to Not Pay Ransoms<a href="https://therecord.media/counter-ransomware-initiative-members-ransom-payments-statement?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Security Council (NSC) is urging the governments of all countries participating in the International Counter Ransomware Initiative (CRI) to issue a joint statement announcing they will not pay ransoms to cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal Agency Warns Healthcare Sector of Akira Ransomware Threats<a href="https://www.healthcareinfosecurity.com/feds-warn-healthcare-sector-akira-ransomware-threats-a-23073?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal authorities are warning the health sector about threats posed by Akira, a RaaS group that surfaced about six months ago and has been linked to several dozen attacks on predominately small and midsized entities across many industries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

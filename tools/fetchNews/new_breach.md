@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+September 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free Download Manager Site Compromised to Distribute Linux Malware to Users for 3+ Years<a href="https://thehackernews.com/2023/09/free-download-manager-site-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A download manager site served Linux users malware that stealthily stole passwords and other sensitive information for more than three years as part of a supply chain attack. The modus operandi entailed establishing a reverse shell to an actor-controlled server and installing a Bash stealer on the compromised system. The campaign, which took place between 2020 and 2022, is no longer active. "This stealer collects data such as system information, browsing history, saved passwords, cryptocurrency wallet files, as well as credentials for cloud services (AWS, Google Cloud, Oracle Cloud Infrastructure, Azure)," Kaspersky researchers Georgy Kucherin and Leonid Bezvershenko&nbsp; said . The website in question is freedownloadmanager[.]org, which, according to the Russian cybersecurity firm, offers a legitimate Linux software called "Free Download Manager," but starting in January 2020, began redirecting some users who attempted to download it to another domain deb.fdmpkg[.]
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pennsylvania County Experiences Security Breach With Jail Employee Email<a href="https://butlerradio.com/county-experiences-security-breach-with-jail-employee-email/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber event last month may have affected the security of some information maintained by Butler County. County officials say they found out on August 8th that an email account related to the County jail was sending unauthorized spam emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Journalist's iPhone Compromised by NSO Group's Zero-Click Spyware<a href="https://thehackernews.com/2023/09/russian-journalists-iphone-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The iPhone belonging to Galina Timchenko, a prominent Russian journalist and critic of the government, was compromised with NSO Group's Pegasus spyware, a new collaborative investigation from&nbsp; Access Now &nbsp;and the&nbsp; Citizen Lab &nbsp;has revealed. The infiltration is said to have happened on or around February 10, 2023. Timchenko is the executive editor and owner of&nbsp; Meduza , an independent news publication based in Latvia. It's currently not clear who deployed the malware on the device. The Washington Post&nbsp; reported &nbsp;that the Russian government is not a client of NSO Group, citing an unnamed person familiar with the company's operations. "During the infection her device was localized to the GMT+1 timezone, and she reports being in Berlin, Germany," the Citizen Lab said. "The day following the infection she was scheduled to attend a private meeting with other heads of Russian independent media exiled in Europe to discuss how to manage threats and censorship by P
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 13, 2023 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caesars Reportedly Paid Cyber Ransom, MGM Credit Rating Vulnerable Following Hack <a href="https://www.casino.org/news/caesars-reportedly-paid-hackers-ransomware-demand/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+News of cyber breaches afflicting Las Vegas Strip casino operators is getting worse. Just two days after MGM Resorts International (NYSE: MGM) confirmed it was the victim of a wide-ranging cyber attack, rival Caesars Entertainment (NASDAQ: CZR) will reportedly soon tell investors it was the target of a ransomware crime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

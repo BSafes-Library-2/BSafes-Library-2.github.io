@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2023 - Health Sector Cybersecurity Coordination Center
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akira Ransomware <a href="https://www.hhs.gov/sites/default/files/akira-ransomware-sector-alert-tlpclear.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Akira is a Ransomware-as-a-Service (RaaS) group that started operations in March 2023. Since its discovery, the group has claimed over 60 victims, which have typically ranged in the small- to medium-size business scale. Akira has garnered attention for a couple of reasons, such as their retro 1980s-themed website (see figure below) and the considerable demands for ransom payments ranging from $200,000 to $4 million. Akira has been observed obtaining initial malware delivery through several methods, such as leveraging compromised credentials and exploiting weaknesses in virtual private networks (VPN), typically where multi-factor authentication (MFA) is not being used. Like many ransomware groups, they employed the double-extortion technique against their victims by exfiltrating data prior to encryption. It is also believed that the group may contain some affiliation with Conti due to observed overlap in their code and cryptocurrency wallets. The group has targeted multiple sectors, including finance, real estate, manufacturing, and healthcare.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 12, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
