@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Nation-State Actors Employ Password Spray Attacks Targeting Multiple Sectors<a href="https://thehackernews.com/2023/09/iranian-nation-state-actors-employ.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian nation-state actors have been conducting password spray attacks against thousands of organizations globally between February and July 2023, new findings from Microsoft reveal. The tech giant, which is tracking the activity under the name  Peach Sandstorm  (formerly Holmium), said the adversary pursued organizations in the satellite, defense, and pharmaceutical sectors to likely facilitate intelligence collection in support of Iranian state interests. Should the authentication to an account be successful, the threat actor has been observed using a combination of publicly available and custom tools for discovery, persistence, and lateral movement, followed by data exfiltration in limited cases. Peach Sandstorm , also known by the names APT33, Elfin, and Refined Kitten, has been linked to spear-phishing attacks against aerospace and energy sectors in the past, some of which have entailed the use of the  SHAPESHIFT  wiper malware. It's said to be active since at least 2013.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 14, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
