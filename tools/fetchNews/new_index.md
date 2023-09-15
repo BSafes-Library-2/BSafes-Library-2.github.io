@@ -37,6 +37,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 September 14, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+US-Canada International Joint Commission for Managing Lake and River Systems Suffers Cyberattack<a href="https://therecord.media/us-canada-water-commission-investigating-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, an ICJ spokesperson confirmed that it was dealing with a cybersecurity issue but declined to elaborate on whether law enforcement has been contacted or if the organization was facing operational issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Uncovers Flaws in ncurses Library Affecting Linux and macOS Systems<a href="https://thehackernews.com/2023/09/microsoft-uncovers-flaws-in-ncurses.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of memory corruption flaws have been discovered in the  ncurses  (short for  new curses ) programming library that could be exploited by threat actors to run malicious code on vulnerable Linux and macOS systems. "Using environment variable poisoning, attackers could chain these vulnerabilities to elevate privileges and run code in the targeted program's context or perform other malicious actions," Microsoft Threat Intelligence researchers Jonathan Bar Or, Emanuele Cozzi, and Michael Pearse  said  in a technical report published today. The vulnerabilities, collectively tracked as  CVE-2023-29491  (CVSS score of 7.8), have been  addressed  as of April 2023. Microsoft said it also worked with Apple on addressing the macOS-specific issues related to these flaws. Environment variables are user-defined values that can be used by multiple programs on a system and can affect the manner in which they behave on the system. Manipulating the variables can cause application
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Fraud Schemes Targeting the Payments Ecosystem<a href="https://www.helpnetsecurity.com/2023/09/13/payment-data-compromise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are utilizing advanced techniques such as malvertising and SEO to conduct sophisticated fraud schemes, targeting authentication processes and exploiting technical misconfigurations, according to a report by Visa.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free Download Manager Site Compromised to Distribute Linux Malware to Users for 3+ Years<a href="https://thehackernews.com/2023/09/free-download-manager-site-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A download manager site served Linux users malware that stealthily stole passwords and other sensitive information for more than three years as part of a supply chain attack. The modus operandi entailed establishing a reverse shell to an actor-controlled server and installing a Bash stealer on the compromised system. The campaign, which took place between 2020 and 2022, is no longer active. "This stealer collects data such as system information, browsing history, saved passwords, cryptocurrency wallet files, as well as credentials for cloud services (AWS, Google Cloud, Oracle Cloud Infrastructure, Azure)," Kaspersky researchers Georgy Kucherin and Leonid Bezvershenko  said . The website in question is freedownloadmanager[.]org, which, according to the Russian cybersecurity firm, offers a legitimate Linux software called "Free Download Manager," but starting in January 2020, began redirecting some users who attempted to download it to another domain deb.fdmpkg[.]
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy Concerns Cast a Shadow on AI's Potential for Software Development<a href="https://www.helpnetsecurity.com/2023/09/13/ai-adoption-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations prioritize privacy and protection of intellectual property when adopting AI tools, with concerns about AI-generated code introducing security vulnerabilities and lacking copyright protection, according to GitLab.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avoid These 5 IT Offboarding Pitfalls<a href="https://thehackernews.com/2023/09/avoid-these-5-it-offboarding-pitfalls.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Employee offboarding is no one's favorite task, yet it is a critical IT process that needs to be executed diligently and efficiently. That's easier said than done, especially considering that IT organizations have less visibility and control over employees' IT use than ever. Today, employees can easily adopt new cloud and SaaS applications whenever and wherever they want, and the old IT offboarding playbook of "disable AD account, forward email, recover and wipe device, and call it a day" is no longer enough.  Here, we'll cover five of the most common pitfalls of  IT offboarding  in a SaaS-first world, along with advice on how to navigate around them. ‍ Pitfall #1: Suspending or deleting the email account before completing other critical steps It may seem logical to suspend or delete the employees' Google Workspace or Microsoft 365 account as the first step in the offboarding process. However, this will make the account inaccessible to everyone, even admins, which could interfere w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pennsylvania County Experiences Security Breach With Jail Employee Email<a href="https://butlerradio.com/county-experiences-security-breach-with-jail-employee-email/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber event last month may have affected the security of some information maintained by Butler County. County officials say they found out on August 8th that an email account related to the County jail was sending unauthorized spam emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N-Able's Take Control Agent Vulnerability Exposes Windows Systems to Privilege Escalation<a href="https://thehackernews.com/2023/09/n-ables-take-control-agent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity security flaw has been disclosed in N-Able's Take Control Agent that could be exploited by a local unprivileged attacker to gain SYSTEM privileges. Tracked as  CVE-2023-27470  (CVSS score: 8.8), the  issue  relates to a Time-of-Check to Time-of-Use ( TOCTOU ) race condition vulnerability, which, when successfully exploited, could be leveraged to delete arbitrary files on a Windows system. The security shortcoming, which impacts versions 7.0.41.1141 and prior, has been addressed in version 7.0.43 released on March 15, 2023, following responsible disclosure by Mandiant on February 27, 2023. Time-of-Check to Time-of-Use falls under a category of software flaws wherein a program checks the state of a resource for a specific value, but that value changes before it's actually used, effectively invalidating the results of the check. An exploitation of such a flaw can result in a loss of integrity and trick the program into performing actions that it shouldn't
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Urging Dozens of Countries to Publicly Commit to Not Pay Ransoms<a href="https://therecord.media/counter-ransomware-initiative-members-ransom-payments-statement?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Security Council (NSC) is urging the governments of all countries participating in the International Counter Ransomware Initiative (CRI) to issue a joint statement announcing they will not pay ransoms to cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal Agency Warns Healthcare Sector of Akira Ransomware Threats<a href="https://www.healthcareinfosecurity.com/feds-warn-healthcare-sector-akira-ransomware-threats-a-23073?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal authorities are warning the health sector about threats posed by Akira, a RaaS group that surfaced about six months ago and has been linked to several dozen attacks on predominately small and midsized entities across many industries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exiled Russian Journalist's Phone Hacked With Pegasus Spyware<a href="https://therecord.media/meduza-ceo-hacked-pegasus-spyware-russian-journalist?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious spyware was reportedly installed on the iPhone of Galina Timchenko, owner of the Russian independent media outlet Meduza, while she was in Berlin for a private conference with other Russian independent journalists living in exile.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedLine and Vidar Stealers Abuse EV Certificates, Shift to Ransomware Payloads<a href="https://www.trendmicro.com/en_us/research/23/i/redline-vidar-first-abuses-ev-certificates.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using EV code signing certificates to distribute both information-stealing malware and ransomware, indicating a streamlining of operations and the need for stronger security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BatLoader Unleashed in Ongoing Webex Malvertising Campaign<a href="https://cyware.com/news/batloader-unleashed-in-ongoing-webex-malvertising-campaign-774b17f8"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malvertising campaign has surfaced, targeting corporate users downloading popular web conferencing software Cisco Webex with BatLoader. Webex itself has not been compromised; rather, threat actors are exploiting brand impersonation to distribute the malware. The malicious ad impersonating it  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Record Number of Cyberattacks Targeting Critical IT Infrastructure Reported to UK Government This Year<a href="https://therecord.media/uk-critical-it-infrastructure-attacks-reports-to-nis?&web_view=true"> Full Text</a>
 </p>
 <details>
