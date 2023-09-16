@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Nation-State Actors Employ Password Spray Attacks Targeting Multiple Sectors<a href="https://thehackernews.com/2023/09/iranian-nation-state-actors-employ.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian nation-state actors have been conducting password spray attacks against thousands of organizations globally between February and July 2023, new findings from Microsoft reveal. The tech giant, which is tracking the activity under the name&nbsp; Peach Sandstorm &nbsp;(formerly Holmium), said the adversary pursued organizations in the satellite, defense, and pharmaceutical sectors to likely facilitate intelligence collection in support of Iranian state interests. Should the authentication to an account be successful, the threat actor has been observed using a combination of publicly available and custom tools for discovery, persistence, and lateral movement, followed by data exfiltration in limited cases. Peach Sandstorm , also known by the names APT33, Elfin, and Refined Kitten, has been linked to spear-phishing attacks against aerospace and energy sectors in the past, some of which have entailed the use of the&nbsp; SHAPESHIFT &nbsp;wiper malware. It's said to be active since at least 2013.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US-Canada International Joint Commission for Managing Lake and River Systems Suffers Cyberattack<a href="https://therecord.media/us-canada-water-commission-investigating-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Wednesday, an ICJ spokesperson confirmed that it was dealing with a cybersecurity issue but declined to elaborate on whether law enforcement has been contacted or if the organization was facing operational issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

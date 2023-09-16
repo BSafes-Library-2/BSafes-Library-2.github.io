@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avoid These 5 IT Offboarding Pitfalls<a href="https://thehackernews.com/2023/09/avoid-these-5-it-offboarding-pitfalls.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Employee offboarding is no one's favorite task, yet it is a critical IT process that needs to be executed diligently and efficiently. That's easier said than done, especially considering that IT organizations have less visibility and control over employees' IT use than ever. Today, employees can easily adopt new cloud and SaaS applications whenever and wherever they want, and the old IT offboarding playbook of "disable AD account, forward email, recover and wipe device, and call it a day" is no longer enough.&nbsp; Here, we'll cover five of the most common pitfalls of&nbsp; IT offboarding &nbsp;in a SaaS-first world, along with advice on how to navigate around them. ‍ Pitfall #1: Suspending or deleting the email account before completing other critical steps It may seem logical to suspend or delete the employees' Google Workspace or Microsoft 365 account as the first step in the offboarding process. However, this will make the account inaccessible to everyone, even admins, which could interfere w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

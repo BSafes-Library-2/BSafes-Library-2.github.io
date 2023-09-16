@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Interdependence between Automated Threat Intelligence Collection and Humans<a href="https://thehackernews.com/2023/09/the-interdependence-between-automated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The volume of cybersecurity vulnerabilities is rising, with close to&nbsp; 30% more vulnerabilities found in 2022 vs. 2018 . Costs are also rising, with a data breach in 2023 costing&nbsp; $4.45M on average vs. $3.62M in 2017 . In Q2 2023,&nbsp; a total of 1386 victims were claimed&nbsp; by ransomware attacks compared with just 831 in Q1 2023. The&nbsp; MOVEit attack has claimed over 600 victims &nbsp;so far and that number is still rising. To people working in cybersecurity today, the value of automated threat intelligence is probably pretty obvious. The rising numbers specified above, combined with the&nbsp; lack of cybersecurity professionals availabl e, mean automation is a clear solution. When threat intelligence operations can be automated, threats can be identified and responded to, and with less effort on the part of engineers. However, a mistake that organizations sometimes make is assuming that once they've automated threat intelligence workflows, humans are out of the picture. They conflate automation
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

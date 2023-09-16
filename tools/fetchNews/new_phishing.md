@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Combine Phishing and EV Certificates to Deliver Ransomware Payloads<a href="https://thehackernews.com/2023/09/cybercriminals-combine-phishing-and-ev.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind RedLine and Vidar information stealers have been observed pivoting to ransomware through phishing campaigns that spread initial payloads signed with Extended Validation ( EV ) code signing certificates. "This suggests that the threat actors are streamlining operations by making their techniques multipurpose," Trend Micro researchers&nbsp; said &nbsp;in a new analysis published this week. In the incident investigated by the cybersecurity company, an unnamed victim is said to have first received a piece of info stealer malware with EV code signing certificates, followed by ransomware using the same delivery technique. In the past,&nbsp; QakBot infections &nbsp;have leveraged&nbsp; samples signed with valid code signing certificates &nbsp;to bypass security protections. The attacks start with phishing emails that employ well-worn lures to trick victims into running malicious attachments that masquerade as PDF or JPG images but are actually executables that jump-start the comprom
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

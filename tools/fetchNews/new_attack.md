@@ -11,6 +11,34 @@ nav_order: 900015
 September 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Regional Transportation Authority in New Zealand Hit by Suspected Ransomware Attack<a href="https://www.stuff.co.nz/auckland/auckland-top-stories/300971037/cyber-incident-hits-auckland-transports-hop-system-believed-to-be-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company has announced today that it's experiencing issues with its HOP services (integrated ticketing and fares system) as a cyber incident has impacted parts of its network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit Ransomware Gang Hit the Carthage Area Hospital and the Clayton-Hepburn Medical Center in New York<a href="https://securityaffairs.com/150835/cyber-crime/lockbit-ransomware-carthage-area-hospital.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lockbit ransomware group claims to have hacked two major hospitals, the Carthage Area Hospital and Claxton-Hepburn Medical Center. The two hospitals serve hundreds of thousands of people in upstate New York.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Iranian Nation-State Actors Employ Password Spray Attacks Targeting Multiple Sectors<a href="https://thehackernews.com/2023/09/iranian-nation-state-actors-employ.html"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deduce Raises $9 Million to Tackle AI-Generated Identity Fraud<a href="https://www.helpnetsecurity.com/2023/09/14/deduce-9-million-funding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding will launch its GenAI Identity fraud solution out of stealth and help the company scale to prevent large-scale SuperSynthetic identity fraud across multiple verticals, including the financial service industry, fintech, and e-commerce.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
