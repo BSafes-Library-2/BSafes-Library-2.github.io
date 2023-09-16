@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware Gang Continues to Evolve With Dangerous Backdoor<a href="https://www.darkreading.com/endpoint/cuba-ransomware-gang-evolve-backdoor?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered fresh malware samples attributed to ransomware group Cuba, representing new versions of BurntCigar malware, which offers next-level stealth to the group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Interdependence between Automated Threat Intelligence Collection and Humans<a href="https://thehackernews.com/2023/09/the-interdependence-between-automated.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The volume of cybersecurity vulnerabilities is rising, with close to  30% more vulnerabilities found in 2022 vs. 2018 . Costs are also rising, with a data breach in 2023 costing  $4.45M on average vs. $3.62M in 2017 . In Q2 2023,  a total of 1386 victims were claimed  by ransomware attacks compared with just 831 in Q1 2023. The  MOVEit attack has claimed over 600 victims  so far and that number is still rising. To people working in cybersecurity today, the value of automated threat intelligence is probably pretty obvious. The rising numbers specified above, combined with the  lack of cybersecurity professionals availabl e, mean automation is a clear solution. When threat intelligence operations can be automated, threats can be identified and responded to, and with less effort on the part of engineers. However, a mistake that organizations sometimes make is assuming that once they've automated threat intelligence workflows, humans are out of the picture. They conflate automation
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deduce Raises $9 Million to Tackle AI-Generated Identity Fraud<a href="https://www.helpnetsecurity.com/2023/09/14/deduce-9-million-funding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding will launch its GenAI Identity fraud solution out of stealth and help the company scale to prevent large-scale SuperSynthetic identity fraud across multiple verticals, including the financial service industry, fintech, and e-commerce.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Agrees to $93 Million Settlement in California's Location-Privacy Lawsuit<a href="https://thehackernews.com/2023/09/google-agrees-to-93-million-settlement.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has agreed to pay $93 million to settle a lawsuit filed by the U.S. state of California over allegations that the company's location-privacy practices misled consumers and violated consumer protection laws. "Our investigation revealed that Google was telling its users one thing – that it would no longer track their location once they opted out – but doing the opposite and continuing to track its users' movements for its own commercial gain," California Attorney General Rob Bonta  said .  The lawsuit is in response to disclosures that the company continued to track users' locations despite stating to the contrary that such information would not be stored if the "Location History" setting was disabled. The complaint filed by California alleged that Google collected location data through other sources and that it deceived users about their ability to opt out of personalized advertisements targeted to their location. With Google making over $220
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Python NodeStealer Goes Beyond Facebook Credentials, Now Stealing All Browser Cookies and Login Credentials<a href="https://www.netskope.com/blog/new-python-nodestealer-goes-beyond-facebook-credentials-now-stealing-all-browser-cookies-and-login-credentials?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign uses batch files distributed via Facebook messages, utilizing images of defective products as bait, and stealing credentials and cookies from multiple browsers, not just Facebook, increasing the risk of targeted attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS 2.0: IoT Sparks New DDoS Alert<a href="https://thehackernews.com/2023/09/ddos-20-iot-sparks-new-ddos-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The  Internet of Things (IoT)  is transforming efficiency in various sectors like healthcare and logistics but has also introduced new security risks, particularly IoT-driven DDoS attacks. This article explores how these attacks work, why they're uniquely problematic, and how to mitigate them. What Is IoT? IoT (Internet of Things) refers to online, interconnected devices that collect and exchange data. This broad category of devices includes sensors, cameras, network routers, and advanced machinery, and their integration into everyday life and work processes results in an ecosystem that can automate operations, improve decision-making, and enhance user experience. IoT: A Breeding Ground for Botnets IoT's rapid adoption amplifies its vulnerability, as poorly secured devices become easy prey for attackers and may become part of a botnet. Controlled by attackers, botnets can scale and rapidly execute various attacks, including DDoS, data theft, ad fraud, cryptocurrency mining, spam a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Publishes New Guidance for Access Control in Cloud-Native Applications in Multi-Location Environments<a href="https://www.helpnetsecurity.com/2023/09/14/nist-sp-800-207a-zero-trust-architecture/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This scenario calls for establishing trust in all enterprise access entities, data sources, and computing services through secure communication and the validation of access policies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NodeStealer Malware Now Targets Facebook Business Accounts on Multiple Browsers<a href="https://thehackernews.com/2023/09/nodestealer-malware-now-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing campaign is targeting Facebook Business accounts with bogus messages to harvest victims' credentials using a variant of the Python-based  NodeStealer  and potentially take over their accounts for follow-on malicious activities.  "The attacks are reaching victims mainly in Southern Europe and North America across different segments, led by the manufacturing services and technology sectors," Netskope Threat Labs researcher Jan Michael  said  in an analysis published Thursday. First documented by Meta in May 2023, NodeStealer  originated  as a JavaScript malware capable of pilfering cookies and passwords from web browsers to compromise Facebook, Gmail, and Outlook accounts. Palo Alto Networks Unit 42, last month,  revealed  a separate attack wave that took place in December 2022 using a Python version of the malware, with select iterations also designed to conduct cryptocurrency theft. The latest findings from Netskope suggest the Vietnamese threat actors be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Regional Transportation Authority in New Zealand Hit by Suspected Ransomware Attack<a href="https://www.stuff.co.nz/auckland/auckland-top-stories/300971037/cyber-incident-hits-auckland-transports-hop-system-believed-to-be-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company has announced today that it's experiencing issues with its HOP services (integrated ticketing and fares system) as a cyber incident has impacted parts of its network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Combine Phishing and EV Certificates to Deliver Ransomware Payloads<a href="https://thehackernews.com/2023/09/cybercriminals-combine-phishing-and-ev.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind RedLine and Vidar information stealers have been observed pivoting to ransomware through phishing campaigns that spread initial payloads signed with Extended Validation ( EV ) code signing certificates. "This suggests that the threat actors are streamlining operations by making their techniques multipurpose," Trend Micro researchers  said  in a new analysis published this week. In the incident investigated by the cybersecurity company, an unnamed victim is said to have first received a piece of info stealer malware with EV code signing certificates, followed by ransomware using the same delivery technique. In the past,  QakBot infections  have leveraged  samples signed with valid code signing certificates  to bypass security protections. The attacks start with phishing emails that employ well-worn lures to trick victims into running malicious attachments that masquerade as PDF or JPG images but are actually executables that jump-start the comprom
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lockbit Ransomware Gang Hit the Carthage Area Hospital and the Clayton-Hepburn Medical Center in New York<a href="https://securityaffairs.com/150835/cyber-crime/lockbit-ransomware-carthage-area-hospital.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lockbit ransomware group claims to have hacked two major hospitals, the Carthage Area Hospital and Claxton-Hepburn Medical Center. The two hospitals serve hundreds of thousands of people in upstate New York.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LokiBot Information Stealer Packs Fresh Infection Strategies<a href="https://www.bankinfosecurity.com/lokibot-information-stealer-packs-fresh-infection-strategies-a-23079?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware targets Microsoft users and steals various types of data, including email credentials, payment card information, and cryptocurrency passwords. It is particularly appealing to less technically skilled individuals due to its ease of use.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Developer Platform Retool Breached in Vishing Attack<a href="https://www.techtarget.com/searchsecurity/news/366552136/Developer-platform-Retool-breached-in-vishing-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor impersonating an IT staff member conducted SMS-based phishing and a successful vishing attack to obtain authentication logins that led to the total account takeover of one Retool employee.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
