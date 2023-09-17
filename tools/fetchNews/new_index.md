@@ -34,7 +34,39 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2023
+September 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Lazarus Group Suspected in $31 Million CoinEx Heist<a href="https://thehackernews.com/2023/09/north-koreas-lazarus-group-suspected-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-affiliated Lazarus Group has stolen nearly $240 million in cryptocurrency since June 2023, marking a significant escalation of its hacks. According to multiple reports from  Certik ,  Elliptic , and  ZachXBT , the infamous hacking group is said to be suspected behind the theft of $31 million in digital assets from the  CoinEx exchange  on September 12, 2023. The crypto heist aimed at CoinEx  adds  to a  string of recent attacks  targeting Atomic Wallet ($100 million), CoinsPaid ($37.3 million), Alphapo ($60 million), and Stake.com ($41 million). "Some of the funds stolen from CoinEx were sent to an address which was used by the Lazarus group to launder funds stolen from Stake.com, albeit on a different blockchain," Elliptic said. "Following this, the funds were bridged to Ethereum, using a bridge previously used by Lazarus, and then sent back to an address known to be controlled by the CoinEx hacker." The blockchain analytics firm said the late
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Faces Massive €345 Million Fine Over Child Data Violations in E.U.<a href="https://thehackernews.com/2023/09/tiktok-faces-massive-345-million-fine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission (DPC) slapped TikTok with a €345 million (about $368 million) fine for violating the European Union's General Data Protection Regulation (GDPR) in relation to its handling of children's data. The investigation, initiated in September 2021,  examined  how the popular short-form video platform processed personal data relating to child users (those between the ages of 13 and 17) between July 31 and December 31, 2020. Some of the major findings include - The content posted by child users was set to public by default, thereby allowing any individual (with or without TikTok) to view the material and exposing them to additional risks A failure to provide transparency information to child users The implementation of dark patterns to steer users towards opting for privacy-intrusive options during the registration process, and when posting videos A weakness in the Family Sharing setting that allowed any non-child user (someone who could not be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cuba Ransomware Gang Continues to Evolve With Dangerous Backdoor<a href="https://www.darkreading.com/endpoint/cuba-ransomware-gang-evolve-backdoor?&web_view=true"> Full Text</a>
@@ -50,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2023
+September 15, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Interdependence between Automated Threat Intelligence Collection and Humans<a href="https://thehackernews.com/2023/09/the-interdependence-between-automated.html"> Full Text</a>
@@ -66,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2023
+September 15, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deduce Raises $9 Million to Tackle AI-Generated Identity Fraud<a href="https://www.helpnetsecurity.com/2023/09/14/deduce-9-million-funding/?&web_view=true"> Full Text</a>
@@ -82,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2023
+September 15, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Agrees to $93 Million Settlement in California's Location-Privacy Lawsuit<a href="https://thehackernews.com/2023/09/google-agrees-to-93-million-settlement.html"> Full Text</a>
@@ -98,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2023
+September 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Python NodeStealer Goes Beyond Facebook Credentials, Now Stealing All Browser Cookies and Login Credentials<a href="https://www.netskope.com/blog/new-python-nodestealer-goes-beyond-facebook-credentials-now-stealing-all-browser-cookies-and-login-credentials?&web_view=true"> Full Text</a>
@@ -114,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2023
+September 15, 2023 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS 2.0: IoT Sparks New DDoS Alert<a href="https://thehackernews.com/2023/09/ddos-20-iot-sparks-new-ddos-alert.html"> Full Text</a>
@@ -130,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2023
+September 15, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Publishes New Guidance for Access Control in Cloud-Native Applications in Multi-Location Environments<a href="https://www.helpnetsecurity.com/2023/09/14/nist-sp-800-207a-zero-trust-architecture/?&web_view=true"> Full Text</a>
@@ -146,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2023
+September 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NodeStealer Malware Now Targets Facebook Business Accounts on Multiple Browsers<a href="https://thehackernews.com/2023/09/nodestealer-malware-now-targets.html"> Full Text</a>
@@ -162,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2023
+September 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Regional Transportation Authority in New Zealand Hit by Suspected Ransomware Attack<a href="https://www.stuff.co.nz/auckland/auckland-top-stories/300971037/cyber-incident-hits-auckland-transports-hop-system-believed-to-be-ransomware?&web_view=true"> Full Text</a>
@@ -178,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2023
+September 15, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Combine Phishing and EV Certificates to Deliver Ransomware Payloads<a href="https://thehackernews.com/2023/09/cybercriminals-combine-phishing-and-ev.html"> Full Text</a>
@@ -194,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2023
+September 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lockbit Ransomware Gang Hit the Carthage Area Hospital and the Clayton-Hepburn Medical Center in New York<a href="https://securityaffairs.com/150835/cyber-crime/lockbit-ransomware-carthage-area-hospital.html?&web_view=true"> Full Text</a>
@@ -210,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2023
+September 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LokiBot Information Stealer Packs Fresh Infection Strategies<a href="https://www.bankinfosecurity.com/lokibot-information-stealer-packs-fresh-infection-strategies-a-23079?&web_view=true"> Full Text</a>
@@ -226,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 15, 2023
+September 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Developer Platform Retool Breached in Vishing Attack<a href="https://www.techtarget.com/searchsecurity/news/366552136/Developer-platform-Retool-breached-in-vishing-attack?&web_view=true"> Full Text</a>
