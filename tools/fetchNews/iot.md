@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+September 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS 2.0: IoT Sparks New DDoS Alert<a href="https://thehackernews.com/2023/09/ddos-20-iot-sparks-new-ddos-alert.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp; Internet of Things (IoT) &nbsp;is transforming efficiency in various sectors like healthcare and logistics but has also introduced new security risks, particularly IoT-driven DDoS attacks. This article explores how these attacks work, why they're uniquely problematic, and how to mitigate them. What Is IoT? IoT (Internet of Things) refers to online, interconnected devices that collect and exchange data. This broad category of devices includes sensors, cameras, network routers, and advanced machinery, and their integration into everyday life and work processes results in an ecosystem that can automate operations, improve decision-making, and enhance user experience. IoT: A Breeding Ground for Botnets IoT's rapid adoption amplifies its vulnerability, as poorly secured devices become easy prey for attackers and may become part of a botnet. Controlled by attackers, botnets can scale and rapidly execute various attacks, including DDoS, data theft, ad fraud, cryptocurrency mining, spam a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

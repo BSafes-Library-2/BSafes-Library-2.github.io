@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cuba Ransomware Gang Continues to Evolve With Dangerous Backdoor<a href="https://www.darkreading.com/endpoint/cuba-ransomware-gang-evolve-backdoor?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered fresh malware samples attributed to ransomware group Cuba, representing new versions of BurntCigar malware, which offers next-level stealth to the group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Agrees to $93 Million Settlement in California's Location-Privacy Lawsuit<a href="https://thehackernews.com/2023/09/google-agrees-to-93-million-settlement.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has agreed to pay $93 million to settle a lawsuit filed by the U.S. state of California over allegations that the company's location-privacy practices misled consumers and violated consumer protection laws. "Our investigation revealed that Google was telling its users one thing – that it would no longer track their location once they opted out – but doing the opposite and continuing to track its users' movements for its own commercial gain," California Attorney General Rob Bonta&nbsp; said .&nbsp; The lawsuit is in response to disclosures that the company continued to track users' locations despite stating to the contrary that such information would not be stored if the "Location History" setting was disabled. The complaint filed by California alleged that Google collected location data through other sources and that it deceived users about their ability to opt out of personalized advertisements targeted to their location. With Google making over $220
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Developer Platform Retool Breached in Vishing Attack<a href="https://www.techtarget.com/searchsecurity/news/366552136/Developer-platform-Retool-breached-in-vishing-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor impersonating an IT staff member conducted SMS-based phishing and a successful vishing attack to obtain authentication logins that led to the total account takeover of one Retool employee.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

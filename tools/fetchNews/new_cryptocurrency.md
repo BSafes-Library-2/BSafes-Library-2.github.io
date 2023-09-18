@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Lazarus Group Suspected in $31 Million CoinEx Heist<a href="https://thehackernews.com/2023/09/north-koreas-lazarus-group-suspected-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-affiliated Lazarus Group has stolen nearly $240 million in cryptocurrency since June 2023, marking a significant escalation of its hacks. According to multiple reports from&nbsp; Certik ,&nbsp; Elliptic , and&nbsp; ZachXBT , the infamous hacking group is said to be suspected behind the theft of $31 million in digital assets from the&nbsp; CoinEx exchange &nbsp;on September 12, 2023. The crypto heist aimed at CoinEx&nbsp; adds &nbsp;to a&nbsp; string of recent attacks &nbsp;targeting Atomic Wallet ($100 million), CoinsPaid ($37.3 million), Alphapo ($60 million), and Stake.com ($41 million). "Some of the funds stolen from CoinEx were sent to an address which was used by the Lazarus group to launder funds stolen from Stake.com, albeit on a different blockchain," Elliptic said. "Following this, the funds were bridged to Ethereum, using a bridge previously used by Lazarus, and then sent back to an address known to be controlled by the CoinEx hacker." The blockchain analytics firm said the late
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
