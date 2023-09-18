@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Lazarus Group Suspected in $31 Million CoinEx Heist<a href="https://thehackernews.com/2023/09/north-koreas-lazarus-group-suspected-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-affiliated Lazarus Group has stolen nearly $240 million in cryptocurrency since June 2023, marking a significant escalation of its hacks. According to multiple reports from  Certik ,  Elliptic , and  ZachXBT , the infamous hacking group is said to be suspected behind the theft of $31 million in digital assets from the  CoinEx exchange  on September 12, 2023. The crypto heist aimed at CoinEx  adds  to a  string of recent attacks  targeting Atomic Wallet ($100 million), CoinsPaid ($37.3 million), Alphapo ($60 million), and Stake.com ($41 million). "Some of the funds stolen from CoinEx were sent to an address which was used by the Lazarus group to launder funds stolen from Stake.com, albeit on a different blockchain," Elliptic said. "Following this, the funds were bridged to Ethereum, using a bridge previously used by Lazarus, and then sent back to an address known to be controlled by the CoinEx hacker." The blockchain analytics firm said the late
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Faces Massive €345 Million Fine Over Child Data Violations in E.U.<a href="https://thehackernews.com/2023/09/tiktok-faces-massive-345-million-fine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission (DPC) slapped TikTok with a €345 million (about $368 million) fine for violating the European Union's General Data Protection Regulation (GDPR) in relation to its handling of children's data. The investigation, initiated in September 2021,  examined  how the popular short-form video platform processed personal data relating to child users (those between the ages of 13 and 17) between July 31 and December 31, 2020. Some of the major findings include - The content posted by child users was set to public by default, thereby allowing any individual (with or without TikTok) to view the material and exposing them to additional risks A failure to provide transparency information to child users The implementation of dark patterns to steer users towards opting for privacy-intrusive options during the registration process, and when posting videos A weakness in the Family Sharing setting that allowed any non-child user (someone who could not be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
