@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Think Your MFA and PAM Solutions Protect You? Think Again<a href="https://thehackernews.com/2023/09/think-your-mfa-and-pam-solutions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When you roll out a security product, you assume it will fulfill its purpose. Unfortunately, however, this often turns out not to be the case. A new report, produced by Osterman Research and commissioned by Silverfort, reveals that MFA (Multi-Factor Authentication) and PAM (Privileged Access Management) solutions are almost never deployed comprehensively enough to provide resilience to identity threats. As well, service accounts – which are typically beyond the scope of protection of these controls – are alarmingly exposed to malicious compromise. These findings and many more can be found in&nbsp; "The State of the Identity Attack Surface: Insights Into Critical Protection Gaps ," &nbsp;the first report that analyzes organizational resilience to identity threats.&nbsp; What is the "Identity Attack Surface"?&nbsp; The identity attack surface is any organizational resource that can be accessed via username and password. The main way that attackers target this attack surface is through the use of compromi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

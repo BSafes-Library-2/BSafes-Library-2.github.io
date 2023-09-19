@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2023
+September 18, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus APT Stole Almost $240 Million in Crypto Assets Since June<a href="https://securityaffairs.com/150957/apt/lazarus-stole-240m-crypto-assets.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2023
+September 18, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New AMBERSQUID Cryptojacking Operation Targets Uncommon AWS Services<a href="https://thehackernews.com/2023/09/new-ambersquid-cryptojacking-operation.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2023
+September 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ETH Founder Vitalik Buterin’s X (Twitter) Hacked, $700k Stolen<a href="https://www.hackread.com/eth-vitalik-buterin-x-twitter-hacked-nfts-funds/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2023
+September 18, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Think Your MFA and PAM Solutions Protect You? Think Again<a href="https://thehackernews.com/2023/09/think-your-mfa-and-pam-solutions.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2023
+September 18, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Lusca Employs New Linux Backdoor, Uses Cobalt Strike for Lateral Movement<a href="https://www.trendmicro.com/en_us/research/23/i/earth-lusca-employs-new-linux-backdoor.html?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2023
+September 18, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hook: New Android Banking Trojan That Expands on ERMAC's Legacy<a href="https://thehackernews.com/2023/09/hook-new-android-banking-trojan-that.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2023
+September 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CardX Issues Data Leak Notification Impacting Their Customers in Thailand<a href="https://securityaffairs.com/150939/data-breach/cardx-data-leak-thailand.html?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2023
+September 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Retool Falls Victim to SMS-Based Phishing Attack Affecting 27 Cloud Clients<a href="https://thehackernews.com/2023/09/retool-falls-victim-to-sms-based.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2023
+September 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortinet Patches High-Severity Vulnerabilities in FortiOS, FortiProxy, FortiWeb Products<a href="https://www.securityweek.com/fortinet-patches-high-severity-vulnerabilities-in-fortios-fortiproxy-fortiweb-products/?&web_view=true"> Full Text</a>
@@ -179,7 +179,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2023
+September 18, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Financially Motivated UNC3944 Threat Actor Shifts Focus to Ransomware Attacks<a href="https://thehackernews.com/2023/09/financially-motivated-unc3944-threat.html"> Full Text</a>
@@ -195,7 +195,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2023
+September 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Hacker USDoD Leaks highly Sensitive TransUnion Data<a href="https://securityaffairs.com/150968/data-breach/transunion-data-leak.html?&web_view=true"> Full Text</a>
@@ -211,7 +211,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 18, 2023
+September 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Clop Gang Stole Data From Major North Carolina Hospitals<a href="https://securityaffairs.com/150949/cyber-crime/north-carolina-hospitals-data-breach.html?&web_view=true"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Faces Massive €345 Million Fine Over Child Data Violations in E.U.<a href="https://thehackernews.com/2023/09/tiktok-faces-massive-345-million-fine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Irish Data Protection Commission (DPC) slapped TikTok with a €345 million (about $368 million) fine for violating the European Union's General Data Protection Regulation (GDPR) in relation to its handling of children's data. The investigation, initiated in September 2021,&nbsp; examined &nbsp;how the popular short-form video platform processed personal data relating to child users (those between the ages of 13 and 17) between July 31 and December 31, 2020. Some of the major findings include - The content posted by child users was set to public by default, thereby allowing any individual (with or without TikTok) to view the material and exposing them to additional risks A failure to provide transparency information to child users The implementation of dark patterns to steer users towards opting for privacy-intrusive options during the registration process, and when posting videos A weakness in the Family Sharing setting that allowed any non-child user (someone who could not be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,76 @@ nav_order: 900029
 
 ## Breach
 ---
+September 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ETH Founder Vitalik Buterin’s X (Twitter) Hacked, $700k Stolen<a href="https://www.hackread.com/eth-vitalik-buterin-x-twitter-hacked-nfts-funds/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Regarding how the hacking was successful, it is reported that the hacker compromised Buterin’s account and shared a post on his behalf, celebrating the arrival of Proto-Danksharding to the Ethereum platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CardX Issues Data Leak Notification Impacting Their Customers in Thailand<a href="https://securityaffairs.com/150939/data-breach/cardx-data-leak-thailand.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thailand-based digital financial platform, CardX, experienced a data leak exposing personal information of customers, including names, addresses, phone numbers, and emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Retool Falls Victim to SMS-Based Phishing Attack Affecting 27 Cloud Clients<a href="https://thehackernews.com/2023/09/retool-falls-victim-to-sms-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software development company Retool has disclosed that the accounts of 27 of its cloud customers were compromised following a targeted and SMS-based social engineering attack. The San Francisco-based firm blamed a&nbsp; Google Account cloud synchronization feature &nbsp;recently introduced in April 2023 for making the breach worse, calling it a "dark pattern." "The fact that Google Authenticator syncs to the cloud is a novel attack vector," Snir Kodesh, Retool's head of engineering,&nbsp; said . "What we had originally implemented was multi-factor authentication. But through this Google update, what was previously multi-factor-authentication had silently (to administrators) become single-factor-authentication." Retool said that the incident, which took place on August 27, 2023, did not allow unauthorized access to on-prem or managed accounts. It also coincided with the company migrating their logins to Okta. It all started with an SMS phishing attack aimed at i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Hacker USDoD Leaks highly Sensitive TransUnion Data<a href="https://securityaffairs.com/150968/data-breach/transunion-data-leak.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as “USDoD” leaked highly sensitive data allegedly stolen from the credit reporting agency. The leaked database, over 3GB in size, contains sensitive PII of 58,505 people, all across the globe, including the Americas and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Gang Stole Data From Major North Carolina Hospitals<a href="https://securityaffairs.com/150949/cyber-crime/north-carolina-hospitals-data-breach.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft-owned healthcare technology firm Nuance revealed that the Clop extortion gang has stolen personal data on major North Carolina hospitals as part of the Progress MOVEit Transfer campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

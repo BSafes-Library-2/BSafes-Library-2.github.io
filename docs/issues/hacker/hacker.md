@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financially Motivated UNC3944 Threat Actor Shifts Focus to Ransomware Attacks<a href="https://thehackernews.com/2023/09/financially-motivated-unc3944-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financially motivated threat actor known as&nbsp; UNC3944 &nbsp;is pivoting to ransomware deployment as part of an expansion to its monetization strategies, Mandiant has revealed. "UNC3944 has demonstrated a stronger focus on stealing large amounts of sensitive data for extortion purposes and they appear to understand Western business practices, possibly due to the geographical composition of the group," the threat intelligence firm&nbsp; said . "UNC3944 has also consistently relied on publicly available tools and legitimate software in combination with malware available for purchase on underground forums." The group, also known by the names 0ktapus, Scatter Swine, and Scattered Spider, has been active since early 2022, adopting phone-based social engineering and SMS-based phishing to obtain employees' valid credentials using bogus sign-in pages and infiltrate victim organizations, mirroring tactics adopted by another group called&nbsp; LAPSUS$ . While the group originall
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
