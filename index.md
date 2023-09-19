@@ -34,6 +34,199 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT Stole Almost $240 Million in Crypto Assets Since June<a href="https://securityaffairs.com/150957/apt/lazarus-stole-240m-crypto-assets.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Elliptic, the North Korea-linked APT group Lazarus has stolen most of $240 million in crypto assets from multiple businesses, including Atomic Wallet ($100m), CoinsPaid ($37.3M), Alphapo ($60M), and Stake.com ($41M).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New AMBERSQUID Cryptojacking Operation Targets Uncommon AWS Services<a href="https://thehackernews.com/2023/09/new-ambersquid-cryptojacking-operation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel cloud-native cryptojacking operation has set its eyes on uncommon Amazon Web Services (AWS) offerings such as AWS Amplify, AWS Fargate, and Amazon SageMaker to illicitly mine cryptocurrency. The malicious cyber activity has been codenamed  AMBERSQUID  by cloud and container security firm Sysdig. "The AMBERSQUID operation was able to exploit cloud services without triggering the AWS requirement for approval of more resources, as would be the case if they only spammed EC2 instances," Sysdig security researcher Alessandro Brucato said in a report shared with The Hacker News. "Targeting multiple services also poses additional challenges, like incident response, since it requires finding and killing all miners in each exploited service." Sysdig said it discovered the campaign following an  analysis of 1.7 million images  on Docker Hub, attributing it with moderate confidence to Indonesian attackers based on the use of Indonesian language in scripts and use
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ETH Founder Vitalik Buterin’s X (Twitter) Hacked, $700k Stolen<a href="https://www.hackread.com/eth-vitalik-buterin-x-twitter-hacked-nfts-funds/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Regarding how the hacking was successful, it is reported that the hacker compromised Buterin’s account and shared a post on his behalf, celebrating the arrival of Proto-Danksharding to the Ethereum platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Think Your MFA and PAM Solutions Protect You? Think Again<a href="https://thehackernews.com/2023/09/think-your-mfa-and-pam-solutions.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When you roll out a security product, you assume it will fulfill its purpose. Unfortunately, however, this often turns out not to be the case. A new report, produced by Osterman Research and commissioned by Silverfort, reveals that MFA (Multi-Factor Authentication) and PAM (Privileged Access Management) solutions are almost never deployed comprehensively enough to provide resilience to identity threats. As well, service accounts – which are typically beyond the scope of protection of these controls – are alarmingly exposed to malicious compromise. These findings and many more can be found in  "The State of the Identity Attack Surface: Insights Into Critical Protection Gaps ,"  the first report that analyzes organizational resilience to identity threats.  What is the "Identity Attack Surface"?  The identity attack surface is any organizational resource that can be accessed via username and password. The main way that attackers target this attack surface is through the use of compromi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Lusca Employs New Linux Backdoor, Uses Cobalt Strike for Lateral Movement<a href="https://www.trendmicro.com/en_us/research/23/i/earth-lusca-employs-new-linux-backdoor.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earth Lusca, a China-linked threat actor, has developed a Linux variant of the backdoor malware SprySOCKS, which originated from the open-source Windows backdoor Trochilus, indicating their continued active operations and expansion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hook: New Android Banking Trojan That Expands on ERMAC's Legacy<a href="https://thehackernews.com/2023/09/hook-new-android-banking-trojan-that.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new analysis of the Android banking trojan known as Hook has revealed that it's based on its predecessor called ERMAC. "The ERMAC source code was used as a base for Hook," NCC Group security researchers Joshua Kamp and Alberto Segura  said  in a technical analysis published last week. "All commands (30 in total) that the malware operator can send to a device infected with ERMAC malware, also exist in Hook. The code implementation for these commands is nearly identical." Hook was  first documented  by ThreatFabric in January 2023, describing it as a " ERMAC  fork" that's offered for sale for $7,000 per month. Both the strains are the work of a malware author called DukeEugene. That said, Hook expands on ERMAC's functionalities with more capabilities, supporting as many as 38 additional commands when compared to the latter. ERMAC's core features are designed to send SMS messages, display a phishing window on top of a legitimate app, e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CardX Issues Data Leak Notification Impacting Their Customers in Thailand<a href="https://securityaffairs.com/150939/data-breach/cardx-data-leak-thailand.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thailand-based digital financial platform, CardX, experienced a data leak exposing personal information of customers, including names, addresses, phone numbers, and emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Retool Falls Victim to SMS-Based Phishing Attack Affecting 27 Cloud Clients<a href="https://thehackernews.com/2023/09/retool-falls-victim-to-sms-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software development company Retool has disclosed that the accounts of 27 of its cloud customers were compromised following a targeted and SMS-based social engineering attack. The San Francisco-based firm blamed a  Google Account cloud synchronization feature  recently introduced in April 2023 for making the breach worse, calling it a "dark pattern." "The fact that Google Authenticator syncs to the cloud is a novel attack vector," Snir Kodesh, Retool's head of engineering,  said . "What we had originally implemented was multi-factor authentication. But through this Google update, what was previously multi-factor-authentication had silently (to administrators) become single-factor-authentication." Retool said that the incident, which took place on August 27, 2023, did not allow unauthorized access to on-prem or managed accounts. It also coincided with the company migrating their logins to Okta. It all started with an SMS phishing attack aimed at i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Patches High-Severity Vulnerabilities in FortiOS, FortiProxy, FortiWeb Products<a href="https://www.securityweek.com/fortinet-patches-high-severity-vulnerabilities-in-fortios-fortiproxy-fortiweb-products/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has released patches for a high-severity cross-site scripting (XSS) vulnerability impacting multiple FortiOS and FortiProxy versions.
+It is tracked as CVE-2023-29183 and has a CVSS score of 7.3.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financially Motivated UNC3944 Threat Actor Shifts Focus to Ransomware Attacks<a href="https://thehackernews.com/2023/09/financially-motivated-unc3944-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financially motivated threat actor known as  UNC3944  is pivoting to ransomware deployment as part of an expansion to its monetization strategies, Mandiant has revealed. "UNC3944 has demonstrated a stronger focus on stealing large amounts of sensitive data for extortion purposes and they appear to understand Western business practices, possibly due to the geographical composition of the group," the threat intelligence firm  said . "UNC3944 has also consistently relied on publicly available tools and legitimate software in combination with malware available for purchase on underground forums." The group, also known by the names 0ktapus, Scatter Swine, and Scattered Spider, has been active since early 2022, adopting phone-based social engineering and SMS-based phishing to obtain employees' valid credentials using bogus sign-in pages and infiltrate victim organizations, mirroring tactics adopted by another group called  LAPSUS$ . While the group originall
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Hacker USDoD Leaks highly Sensitive TransUnion Data<a href="https://securityaffairs.com/150968/data-breach/transunion-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as “USDoD” leaked highly sensitive data allegedly stolen from the credit reporting agency. The leaked database, over 3GB in size, contains sensitive PII of 58,505 people, all across the globe, including the Americas and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clop Gang Stole Data From Major North Carolina Hospitals<a href="https://securityaffairs.com/150949/cyber-crime/north-carolina-hospitals-data-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Microsoft-owned healthcare technology firm Nuance revealed that the Clop extortion gang has stolen personal data on major North Carolina hospitals as part of the Progress MOVEit Transfer campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 17, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
