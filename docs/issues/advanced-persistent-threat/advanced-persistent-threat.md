@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transparent Tribe Uses Fake YouTube Android Apps to Spread CapraRAT Malware<a href="https://thehackernews.com/2023/09/transparent-tribe-uses-fake-youtube.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The suspected Pakistan-linked threat actor known as&nbsp; Transparent Tribe &nbsp;is using malicious Android apps mimicking YouTube to distribute the CapraRAT mobile remote access trojan (RAT), demonstrating the continued evolution of the activity. "CapraRAT is a highly invasive tool that gives the attacker control over much of the data on the Android devices that it infects," SentinelOne security researcher Alex Delamotte&nbsp; said &nbsp;in a Monday analysis. Transparent Tribe , also known as APT36, is known to&nbsp; target Indian entities &nbsp;for intelligence-gathering purposes, relying on an arsenal of tools capable of infiltrating Windows, Linux, and Android systems. A crucial component of its toolset is&nbsp; CapraRAT , which has been propagated in the form of trojanized secure messaging and calling apps branded as MeetsApp and MeetUp. These weaponized apps are distributed using social engineering lures. The latest set of Android package (APK) files discovered by SentinelOne are engineered to mas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

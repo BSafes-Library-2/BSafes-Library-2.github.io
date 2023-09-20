@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2023
+September 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'ShroudedSnooper' Backdoors Use Ultra-Stealth in Mideast Telecom Attacks<a href="https://www.darkreading.com/dr-global/shroudedsnooper-backdoors-ultra-stealth-mideast-telecom-attacks?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2023
+September 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ShroudedSnooper's HTTPSnoop Backdoor Targets Middle East Telecom Companies<a href="https://thehackernews.com/2023/09/shroudedsnoopers-httpsnoop-backdoor.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2023
+September 19, 2023 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Payment Card-Skimming Campaign Now Targeting Websites in North America<a href="https://www.darkreading.com/attacks-breaches/payment-card-skimming-campaign-now-targeting-websites-in-north-america?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2023
+September 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation Rusty Flag: Azerbaijan Targeted in New Rust-Based Malware Campaign<a href="https://thehackernews.com/2023/09/operation-rusty-flag-azerbaijan.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2023
+September 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 German Spy Chief Warns of Cyberattacks Targeting Liquefied Natural Gas Terminals<a href="https://therecord.media/german-intelligence-warning-lng-terminals-cyberattacks?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2023
+September 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside the Code of a New XWorm Variant<a href="https://thehackernews.com/2023/09/inside-code-of-new-xworm-variant.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2023
+September 19, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Australian Law Firm Hack Affected 65 Government Agencies<a href="https://www.healthcareinfosecurity.com/australian-law-firm-hack-affected-65-government-agencies-a-23110?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2023
+September 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Lusca's New SprySOCKS Linux Backdoor Targets Government Entities<a href="https://thehackernews.com/2023/09/earth-luscas-new-sprysocks-linux.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2023
+September 19, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Live Webinar: Overcoming Generative AI Data Leakage Risks<a href="https://thehackernews.com/2023/09/live-webinar-overcoming-generative-ai.html"> Full Text</a>
@@ -178,7 +178,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2023
+September 19, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft AI Researchers Accidentally Expose 38 Terabytes of Confidential Data<a href="https://thehackernews.com/2023/09/microsoft-ai-researchers-accidentally.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2023
+September 19, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nearly 12,000 Juniper Firewalls Found Vulnerable to Recently Disclosed RCE Vulnerability<a href="https://thehackernews.com/2023/09/over-12000-juniper-firewalls-found.html"> Full Text</a>
@@ -210,7 +210,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 19, 2023
+September 19, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Transparent Tribe Uses Fake YouTube Android Apps to Spread CapraRAT Malware<a href="https://thehackernews.com/2023/09/transparent-tribe-uses-fake-youtube.html"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Australian Law Firm Hack Affected 65 Government Agencies<a href="https://www.healthcareinfosecurity.com/australian-law-firm-hack-affected-65-government-agencies-a-23110?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An April ransomware attack against one of Australia's largest law firms swept up the data of 65 Australian government agencies, the country's newly appointed national cybersecurity coordinator said Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

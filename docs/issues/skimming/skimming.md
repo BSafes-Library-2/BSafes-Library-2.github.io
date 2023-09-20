@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+September 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Payment Card-Skimming Campaign Now Targeting Websites in North America<a href="https://www.darkreading.com/attacks-breaches/payment-card-skimming-campaign-now-targeting-websites-in-north-america?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking threat actor known for skimming credit card numbers off e-commerce sites and point-of-sale service providers in the Asia/Pacific region for more than a year has begun aiming at similar targets in North and Latin America as well.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

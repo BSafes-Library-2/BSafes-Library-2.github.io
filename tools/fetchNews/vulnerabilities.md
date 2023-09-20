@@ -8,6 +8,21 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet Patches High-Severity Vulnerabilities in FortiOS, FortiProxy, FortiWeb Products<a href="https://www.securityweek.com/fortinet-patches-high-severity-vulnerabilities-in-fortios-fortiproxy-fortiweb-products/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet has released patches for a high-severity cross-site scripting (XSS) vulnerability impacting multiple FortiOS and FortiProxy versions.
+It is tracked as CVE-2023-29183 and has a CVSS score of 7.3.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

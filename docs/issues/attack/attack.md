@@ -8,6 +8,76 @@ nav_order: 900015
 
 ## Attack
 ---
+September 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'ShroudedSnooper' Backdoors Use Ultra-Stealth in Mideast Telecom Attacks<a href="https://www.darkreading.com/dr-global/shroudedsnooper-backdoors-ultra-stealth-mideast-telecom-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShroudedSnooper has targeted Middle East-based telecom firms using two stealthy backdoors, HTTPSnoop and PipeSnoop, which employ advanced anti-detection techniques and can give cyberattackers persistent access to networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShroudedSnooper's HTTPSnoop Backdoor Targets Middle East Telecom Companies<a href="https://thehackernews.com/2023/09/shroudedsnoopers-httpsnoop-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunication service providers in the Middle East are the target of a new intrusion set dubbed&nbsp; ShroudedSnooper &nbsp;that employs a stealthy backdoor called HTTPSnoop. "HTTPSnoop is a simple, yet effective, backdoor that consists of novel techniques to interface with Windows HTTP kernel drivers and devices to listen to incoming requests for specific HTTP(S) URLs and execute that content on the infected endpoint," Cisco Talos&nbsp; said &nbsp;in a report shared with The Hacker News. Also part of the threat actor's arsenal is a sister implant codenamed PipeSnoop that can accept arbitrary shellcode from a&nbsp; named pipe &nbsp;and execute it on the infected endpoint. It's suspected that ShroudedSnooper exploits internet-facing servers and deploys HTTPSnoop to gain initial access to target environments, with both the malware strains impersonating components of Palo Alto Networks' Cortex XDR application (" CyveraConsole.exe ") to fly under the radar. Three different HTTP
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Rusty Flag: Azerbaijan Targeted in New Rust-Based Malware Campaign<a href="https://thehackernews.com/2023/09/operation-rusty-flag-azerbaijan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Targets located in Azerbaijan have been singled out as part of a new campaign that's designed to deploy Rust-based malware on compromised systems. Cybersecurity firm Deep Instinct is tracking the operation under the name Operation Rusty Flag. It has not been associated with any known threat actor or group. "The operation has at least two different initial access vectors," security researchers Simon Kenin, Ron Ben Yizhak, and Mark Vaitzman&nbsp; said &nbsp;in an analysis published last week. "One of the lures used in the operation is a modified document that was used by the Storm-0978 group. This could be a deliberate 'false flag.'" The attack chain leverages an LNK file named 1.KARABAKH.jpg.lnk as a launchpad to retrieve a second-stage payload, an MSI installer, hosted on Dropbox. The installer file, for its part, drops an implant written in Rust, an XML file for a scheduled task to execute the implant, and a decoy image file that features watermarks of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Spy Chief Warns of Cyberattacks Targeting Liquefied Natural Gas Terminals<a href="https://therecord.media/german-intelligence-warning-lng-terminals-cyberattacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bruno Kahl, the head of Germany’s foreign intelligence service, warned that liquefied natural gas (LNG) terminals in the country could be targeted by state-sponsored hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Lusca's New SprySOCKS Linux Backdoor Targets Government Entities<a href="https://thehackernews.com/2023/09/earth-luscas-new-sprysocks-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-linked threat actor known as&nbsp; Earth Lusca &nbsp;has been observed targeting government entities using a never-before-seen Linux backdoor called SprySOCKS. Earth Lusca was&nbsp; first documented &nbsp;by Trend Micro in January 2022, detailing the adversary's attacks against public and private sector entities across Asia, Australia, Europe, North America. Active since 2021, the group has relied on spear-phishing and watering hole attacks to pull off its cyber espionage schemes. Some activities of the group overlap with another threat cluster tracked by Recorded Future under the name&nbsp; RedHotel . The latest findings from the cybersecurity firm show that Earth Lusca continues to be an active group, even expanding its operations to target organizations across the world during the first half of 2023. Primary targets include government departments that are involved in foreign affairs, technology, and telecommunications. The attacks are concentrated in Southeast Asia, Central Asia, and the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

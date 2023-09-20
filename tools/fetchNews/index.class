@@ -34,6 +34,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'ShroudedSnooper' Backdoors Use Ultra-Stealth in Mideast Telecom Attacks<a href="https://www.darkreading.com/dr-global/shroudedsnooper-backdoors-ultra-stealth-mideast-telecom-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShroudedSnooper has targeted Middle East-based telecom firms using two stealthy backdoors, HTTPSnoop and PipeSnoop, which employ advanced anti-detection techniques and can give cyberattackers persistent access to networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShroudedSnooper's HTTPSnoop Backdoor Targets Middle East Telecom Companies<a href="https://thehackernews.com/2023/09/shroudedsnoopers-httpsnoop-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunication service providers in the Middle East are the target of a new intrusion set dubbed  ShroudedSnooper  that employs a stealthy backdoor called HTTPSnoop. "HTTPSnoop is a simple, yet effective, backdoor that consists of novel techniques to interface with Windows HTTP kernel drivers and devices to listen to incoming requests for specific HTTP(S) URLs and execute that content on the infected endpoint," Cisco Talos  said  in a report shared with The Hacker News. Also part of the threat actor's arsenal is a sister implant codenamed PipeSnoop that can accept arbitrary shellcode from a  named pipe  and execute it on the infected endpoint. It's suspected that ShroudedSnooper exploits internet-facing servers and deploys HTTPSnoop to gain initial access to target environments, with both the malware strains impersonating components of Palo Alto Networks' Cortex XDR application (" CyveraConsole.exe ") to fly under the radar. Three different HTTP
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2023 -- [Skimming](/docs/issues/skimming/skimming/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Payment Card-Skimming Campaign Now Targeting Websites in North America<a href="https://www.darkreading.com/attacks-breaches/payment-card-skimming-campaign-now-targeting-websites-in-north-america?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Chinese-speaking threat actor known for skimming credit card numbers off e-commerce sites and point-of-sale service providers in the Asia/Pacific region for more than a year has begun aiming at similar targets in North and Latin America as well.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Rusty Flag: Azerbaijan Targeted in New Rust-Based Malware Campaign<a href="https://thehackernews.com/2023/09/operation-rusty-flag-azerbaijan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Targets located in Azerbaijan have been singled out as part of a new campaign that's designed to deploy Rust-based malware on compromised systems. Cybersecurity firm Deep Instinct is tracking the operation under the name Operation Rusty Flag. It has not been associated with any known threat actor or group. "The operation has at least two different initial access vectors," security researchers Simon Kenin, Ron Ben Yizhak, and Mark Vaitzman  said  in an analysis published last week. "One of the lures used in the operation is a modified document that was used by the Storm-0978 group. This could be a deliberate 'false flag.'" The attack chain leverages an LNK file named 1.KARABAKH.jpg.lnk as a launchpad to retrieve a second-stage payload, an MSI installer, hosted on Dropbox. The installer file, for its part, drops an implant written in Rust, an XML file for a scheduled task to execute the implant, and a decoy image file that features watermarks of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Spy Chief Warns of Cyberattacks Targeting Liquefied Natural Gas Terminals<a href="https://therecord.media/german-intelligence-warning-lng-terminals-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bruno Kahl, the head of Germany’s foreign intelligence service, warned that liquefied natural gas (LNG) terminals in the country could be targeted by state-sponsored hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside the Code of a New XWorm Variant<a href="https://thehackernews.com/2023/09/inside-code-of-new-xworm-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+XWorm is a relatively new representative of the remote access trojan cohort that has already earned its spot among the most persistent threats across the globe.  Since 2022, when it was first observed by researchers, it has undergone a number of major updates that have significantly enhanced its functionality and solidified its staying power.  The analyst team at  ANY.RUN  came across the newest version of the malware and could not refuse the opportunity of taking it apart to examine XWorm mechanics configurations. Here is how they did it and what they found.  The XWorm sample's source  The sample in question was discovered in ANY. RUN's database of malware, a repository containing detailed analysis reports on all files and links that have been uploaded by users of the sandbox in public mode.  A quick look at the results of the analysis revealed that the sample was initially distributed via MediaFire, a file-hosting service. The malware was packaged in a RAR archive and p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Australian Law Firm Hack Affected 65 Government Agencies<a href="https://www.healthcareinfosecurity.com/australian-law-firm-hack-affected-65-government-agencies-a-23110?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An April ransomware attack against one of Australia's largest law firms swept up the data of 65 Australian government agencies, the country's newly appointed national cybersecurity coordinator said Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Lusca's New SprySOCKS Linux Backdoor Targets Government Entities<a href="https://thehackernews.com/2023/09/earth-luscas-new-sprysocks-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-linked threat actor known as  Earth Lusca  has been observed targeting government entities using a never-before-seen Linux backdoor called SprySOCKS. Earth Lusca was  first documented  by Trend Micro in January 2022, detailing the adversary's attacks against public and private sector entities across Asia, Australia, Europe, North America. Active since 2021, the group has relied on spear-phishing and watering hole attacks to pull off its cyber espionage schemes. Some activities of the group overlap with another threat cluster tracked by Recorded Future under the name  RedHotel . The latest findings from the cybersecurity firm show that Earth Lusca continues to be an active group, even expanding its operations to target organizations across the world during the first half of 2023. Primary targets include government departments that are involved in foreign affairs, technology, and telecommunications. The attacks are concentrated in Southeast Asia, Central Asia, and the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Live Webinar: Overcoming Generative AI Data Leakage Risks<a href="https://thehackernews.com/2023/09/live-webinar-overcoming-generative-ai.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the adoption of generative AI tools, like ChatGPT, continues to surge, so does the risk of data exposure. According to Gartner's "Emerging Tech: Top 4 Security Risks of GenAI" report, privacy and data security is one of the four major emerging risks within generative AI.  A new webinar  featuring a multi-time Fortune 100 CISO and the CEO of LayerX, a browser extension solution, delves into this critical risk. Throughout the webinar, the speakers will explain why data security is a risk and explore the ability of DLP solutions to protect against them, or lack thereof. Then, they will delineate the capabilities required by DLP solutions to ensure businesses benefit from the productivity GenAI applications have to offer without compromising security.  The Business and Security Risks of Generative AI Applications GenAI security risks occur when employees insert sensitive texts into these applications. These actions warrant careful consideration, because the inserted data b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft AI Researchers Accidentally Expose 38 Terabytes of Confidential Data<a href="https://thehackernews.com/2023/09/microsoft-ai-researchers-accidentally.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday said it took steps to correct a glaring security gaffe that led to the exposure of 38 terabytes of private data. The leak was discovered on the company's AI GitHub repository and is said to have been inadvertently made public when publishing a bucket of open-source training data, Wiz said. It also included a disk backup of two former employees' workstations containing secrets, keys, passwords, and over 30,000 internal Teams messages. The repository, named " robust-models-transfer ," is no longer accessible. Prior to its takedown, it featured source code and machine learning models pertaining to a  2020 research paper   titled  "Do Adversarially Robust ImageNet Models Transfer Better?" "The exposure came as the result of an overly permissive  SAS token  – an Azure feature that allows users to share data in a manner that is both hard to track and hard to revoke," Wiz  said  in a report. The issue was reported to Microsoft on J
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 12,000 Juniper Firewalls Found Vulnerable to Recently Disclosed RCE Vulnerability<a href="https://thehackernews.com/2023/09/over-12000-juniper-firewalls-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has found that close to 12,000 internet-exposed Juniper firewall devices are vulnerable to a recently disclosed remote code execution flaw. VulnCheck, which  discovered  a new exploit for CVE-2023-36845, said it could be  exploited  by an "unauthenticated and remote attacker to execute arbitrary code on Juniper firewalls without creating a file on the system." CVE-2023-36845 refers to a  medium-severity flaw  in the J-Web component of Junos OS that could be weaponized by a threat actor to control certain, important environment variables. It was patched by Juniper Networks last month alongside CVE-2023-36844, CVE-2023-36846, and CVE-2023-36847 in an out-of-cycle update. A subsequent proof-of-concept (PoC) exploit devised by watchTowr combined CVE-2023-36846 and CVE-2023-36845 to upload a PHP file containing malicious shellcode and achieve code execution. The latest exploit, on the other hand, impacts older systems and can be written using a single cURL comma
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transparent Tribe Uses Fake YouTube Android Apps to Spread CapraRAT Malware<a href="https://thehackernews.com/2023/09/transparent-tribe-uses-fake-youtube.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The suspected Pakistan-linked threat actor known as  Transparent Tribe  is using malicious Android apps mimicking YouTube to distribute the CapraRAT mobile remote access trojan (RAT), demonstrating the continued evolution of the activity. "CapraRAT is a highly invasive tool that gives the attacker control over much of the data on the Android devices that it infects," SentinelOne security researcher Alex Delamotte  said  in a Monday analysis. Transparent Tribe , also known as APT36, is known to  target Indian entities  for intelligence-gathering purposes, relying on an arsenal of tools capable of infiltrating Windows, Linux, and Android systems. A crucial component of its toolset is  CapraRAT , which has been propagated in the form of trojanized secure messaging and calling apps branded as MeetsApp and MeetUp. These weaponized apps are distributed using social engineering lures. The latest set of Android package (APK) files discovered by SentinelOne are engineered to mas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 18, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

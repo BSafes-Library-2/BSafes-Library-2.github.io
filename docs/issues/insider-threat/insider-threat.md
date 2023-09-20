@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+September 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft AI Researchers Accidentally Expose 38 Terabytes of Confidential Data<a href="https://thehackernews.com/2023/09/microsoft-ai-researchers-accidentally.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday said it took steps to correct a glaring security gaffe that led to the exposure of 38 terabytes of private data. The leak was discovered on the company's AI GitHub repository and is said to have been inadvertently made public when publishing a bucket of open-source training data, Wiz said. It also included a disk backup of two former employees' workstations containing secrets, keys, passwords, and over 30,000 internal Teams messages. The repository, named " robust-models-transfer ," is no longer accessible. Prior to its takedown, it featured source code and machine learning models pertaining to a&nbsp; 2020 research paper &nbsp; titled &nbsp;"Do Adversarially Robust ImageNet Models Transfer Better?" "The exposure came as the result of an overly permissive&nbsp; SAS token &nbsp;– an Azure feature that allows users to share data in a manner that is both hard to track and hard to revoke," Wiz&nbsp; said &nbsp;in a report. The issue was reported to Microsoft on J
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

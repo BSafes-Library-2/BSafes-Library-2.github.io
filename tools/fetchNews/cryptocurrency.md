@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT Stole Almost $240 Million in Crypto Assets Since June<a href="https://securityaffairs.com/150957/apt/lazarus-stole-240m-crypto-assets.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Elliptic, the North Korea-linked APT group Lazarus has stolen most of $240 million in crypto assets from multiple businesses, including Atomic Wallet ($100m), CoinsPaid ($37.3M), Alphapo ($60M), and Stake.com ($41M).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New AMBERSQUID Cryptojacking Operation Targets Uncommon AWS Services<a href="https://thehackernews.com/2023/09/new-ambersquid-cryptojacking-operation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel cloud-native cryptojacking operation has set its eyes on uncommon Amazon Web Services (AWS) offerings such as AWS Amplify, AWS Fargate, and Amazon SageMaker to illicitly mine cryptocurrency. The malicious cyber activity has been codenamed&nbsp; AMBERSQUID &nbsp;by cloud and container security firm Sysdig. "The AMBERSQUID operation was able to exploit cloud services without triggering the AWS requirement for approval of more resources, as would be the case if they only spammed EC2 instances," Sysdig security researcher Alessandro Brucato said in a report shared with The Hacker News. "Targeting multiple services also poses additional challenges, like incident response, since it requires finding and killing all miners in each exploited service." Sysdig said it discovered the campaign following an&nbsp; analysis of 1.7 million images &nbsp;on Docker Hub, attributing it with moderate confidence to Indonesian attackers based on the use of Indonesian language in scripts and use
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
