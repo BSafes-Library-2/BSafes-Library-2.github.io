@@ -34,6 +34,262 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atos Unify Vulnerabilities Could Allow Hackers to Backdoor Systems<a href="https://www.securityweek.com/atos-unify-vulnerabilities-could-allow-hackers-to-backdoor-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws were found in the unified communications and collaboration solution by researchers at SEC Consult, an Austria-based cybersecurity consulting firm that is part of the Atos Group’s Eviden business.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finnish Authorities Dismantle Notorious PIILOPUOTI Dark Web Drug Marketplace<a href="https://thehackernews.com/2023/09/finnish-authorities-dismantle-notorious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finnish law enforcement authorities have announced the takedown of PIILOPUOTI, a dark web marketplace that specialized in illegal narcotics trade since May 2022. "The site operated as a hidden service in the encrypted TOR network," the Finnish Customs (aka Tulli)  said  in a brief announcement on Tuesday. "The site has been used in anonymous criminal activities such as narcotics trade." The agency said that the drugs sold on the site were smuggled to Finland from abroad, adding a criminal investigation is underway in coordination with international partners from Germany and Lithuania, along with Europol and Eurojust. It's not immediately clear if any arrests were made. Romanian cybersecurity firm Bitdefender said it provided additional support that helped with the seizure of PIILOPUOTI. "We are extremely pleased that PIILOPUOTI has been seized and would like to congratulate law enforcement, Finnish Customs, and everyone involved," Alexandru Catal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at Pizza Hut Australia Exposes Customer Information and Order Details<a href="https://www.theguardian.com/australia-news/2023/sep/20/pizza-hut-hack-australia-data-breach-passwords-information-leak?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an email to customers on Wednesday, Pizza Hut Australia’s chief executive, Phil Reed, said the company became aware in early September that there had been “unauthorised third party” access to some of the company’s data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Flaws Exposed in Nagios XI Network Monitoring Software<a href="https://thehackernews.com/2023/09/critical-security-flaws-exposed-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security flaws have been disclosed in the Nagios XI network monitoring software that could result in privilege escalation and information disclosure. The four security vulnerabilities, tracked from CVE-2023-40931 through CVE-2023-40934, impact Nagios XI versions 5.11.1 and lower. Following responsible disclosure on August 4, 2023, They have been  patched  as of September 11, 2023, with the release of version 5.11.2. "Three of these vulnerabilities (CVE-2023-40931, CVE-2023-40933 and CVE-2023-40934) allow users, with various levels of privileges, to access database fields via SQL Injections," Outpost24 researcher Astrid Tedenbrant  said . "The data obtained from these vulnerabilities may be used to further escalate privileges in the product and obtain sensitive user data such as password hashes and API tokens." CVE-2023-40932, on the other hand, relates to a cross-site scripting (XSS) flaw in the Custom Logo component that could be used to read sensiti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS: Ransomware attackers headed for second most profitable year<a href="https://therecord.media/dhs-ransomware-headed-for-second-profits?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attackers remain a major threat to the United States and are on pace to have their second most profitable year ever, the Department of Homeland Security said in an annual report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Do You Really Trust Your Web Application Supply Chain?<a href="https://thehackernews.com/2023/09/do-you-really-trust-your-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Well, you shouldn't. It may already be hiding vulnerabilities. It's the modular nature of modern web applications that has made them so effective. They can call on dozens of third-party web components, JS frameworks, and open-source tools to deliver all the different functionalities that keep their customers happy, but this chain of dependencies is also what makes them so vulnerable. Many of those components in the web application supply chain are controlled by a third party—the company that created them. This means that no matter how rigorous you were with your own static code analysis, code reviews, penetration testing, and other SSDLC processes, most of your supply chain's security is in the hands of whoever built its third-party components. With their huge potential for weak spots, and their widespread use in the lucrative ecommerce, financial and medical industries, web application supply chains present a juicy target for cyber attackers. They can target any one of the doz
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike to Buy AppSec Startup Bionic for Reported $350M<a href="https://www.bankinfosecurity.com/crowdstrike-to-buy-appsec-startup-bionic-for-reported-350m-a-23113?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike plans to purchase a Silicon Valley application security startup founded by two Israel Defense Forces veterans in a bid to expand risk visibility and protection across entire cloud computing environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fresh Wave of Malicious npm Packages Threaten Kubernetes Configs and SSH Keys<a href="https://thehackernews.com/2023/09/fresh-wave-of-malicious-npm-packages.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a fresh batch of malicious packages in the npm package registry that are designed to exfiltrate Kubernetes configurations and SSH keys from compromised machines to a remote server. Sonatype said it has discovered 14 different npm packages so far: @am-fe/hooks, @am-fe/provider, @am-fe/request, @am-fe/utils, @am-fe/watermark, @am-fe/watermark-core, @dynamic-form-components/mui, @dynamic-form-components/shineout, @expue/app, @fixedwidthtable/fixedwidthtable, @soc-fe/use, @spgy/eslint-plugin-spgy-fe, @virtualsearchtable/virtualsearchtable, and shineouts. "These packages [...] attempt to impersonate JavaScript libraries and components, such as ESLint plugins and TypeScript SDK tools," the software supply chain security firm  said . "But, upon installation, multiple versions of the packages were seen running obfuscated code to collect and siphon sensitive files from the target machine." Along with Kubernetes config and SSH ke
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese-Language Speakers Targeted with Sainbox RAT, ValleyRAT, and Gh0stRAT<a href="https://www.proofpoint.com/us/blog/threat-insight/chinese-malware-appears-earnest-across-cybercrime-threat-landscape?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increase in activity suggests increased availability or ease of access to payloads and target lists, as well as potentially increased activity by Chinese-speaking cybercrime operators.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated Phishing Campaign Targeting Chinese Users with ValleyRAT and Gh0st RAT<a href="https://thehackernews.com/2023/09/sophisticated-phishing-campaign_20.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese-language speakers have been increasingly targeted as part of multiple email phishing campaigns that aim to distribute various malware families such as Sainbox RAT, Purple Fox, and a new trojan called ValleyRAT. "Campaigns include Chinese-language lures and malware typically associated with Chinese cybercrime activity," enterprise security firm Proofpoint  said  in a report shared with The Hacker News. The activity, observed since early 2023, entails sending email messages containing URLs pointing to compressed executables that are responsible for installing the malware. Other infection chains have been found to leverage Microsoft Excel and PDF attachments that embed these URLs to trigger malicious activity. These campaigns demonstrate variation in the use of infrastructure, sender domains, email content, targeting, and payloads, indicating that different threat clusters are mounting the attacks. Over 30 such campaigns have been detected in 2023 that employ malwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious NPM Packages Caught Exfiltrating Kubernetes Config, SSH Keys<a href="https://blog.sonatype.com/npm-packages-caught-exfiltrating-kubernetes-config-ssh-keys?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious software packages impersonate legitimate JavaScript libraries and components, but upon installation, they run obfuscated code to collect and siphon sensitive files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal Messenger Introduces PQXDH Quantum-Resistant Encryption<a href="https://thehackernews.com/2023/09/signal-messenger-introduces-pqxdh.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Encrypted messaging app Signal has announced an update to the Signal Protocol to add support for quantum resistance by upgrading the Extended Triple Diffie-Hellman ( X3DH ) specification to Post-Quantum Extended Diffie-Hellman ( PQXDH ). "With this upgrade, we are adding a layer of protection against the threat of a quantum computer being built in the future that is powerful enough to break current encryption standards," Signal's Ehren Kret  said . The development comes weeks after Google added support for  quantum-resistant encryption algorithms  in its Chrome web browser and announced a  quantum-resilient FIDO2 security key implementation  as part of its OpenSK security keys initiative last month. The  Signal Protocol  is a set of cryptographic specifications that provides end-to-end encryption (E2EE) for private text and voice communications. It's used in various messaging apps like WhatsApp and Google's encrypted RCS messages for Android. While quantum c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on Kansas Town Affects Email, Phone, Payment Systems<a href="https://therecord.media/pittsburg-kansas-government-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city’s incident response team “took proactive measures to protect city data and network systems” while also hiring forensic experts to “ fully understand the extent and implications” of the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab Releases Urgent Security Patches for Critical Vulnerability<a href="https://thehackernews.com/2023/09/gitlab-releases-urgent-security-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has shipped security patches to resolve a critical flaw that allows an attacker to run pipelines as another user. The issue, tracked as  CVE-2023-5009  (CVSS score: 9.6), impacts all versions of GitLab Enterprise Edition (EE) starting from 13.12 and prior to 16.2.7 as well as from 16.3 and before 16.3.4. "It was possible for an attacker to  run pipelines  as an arbitrary user via scheduled security scan policies," GitLab  said  in an advisory. "This was a bypass of  CVE-2023-3932  showing additional impact." Successful exploitation of CVE-2023-5009 could allow a threat actor to access sensitive information or leverage the elevated permissions of the impersonated user to modify source code or run arbitrary code on the system, leading to severe consequences. Security researcher Johan Carlsson (aka joaxcar) has been credited with discovering and reporting the flaw. CVE-2023-3932 was addressed by GitLab in early August 2023. The vulnerability has been addre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HiddenLayer Raises Hefty $50M Round for AI Security Tech<a href="https://www.securityweek.com/hiddenlayer-raises-hefty-50m-round-for-ai-security-tech/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HiddenLayer, which emerged from stealth in July 2022 with $6 million in funding, said the latest financing was led by M12, Microsoft’s Venture Fund, and Moore Strategic Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro Releases Urgent Fix for Actively Exploited Critical Security Vulnerability<a href="https://thehackernews.com/2023/09/trend-micro-releases-urgent-fix-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity company Trend Micro has  released  patches and hotfixes to address a critical security flaw in Apex One and Worry-Free Business Security solutions for Windows that has been actively exploited in real-world attacks. Tracked as  CVE-2023-41179  (CVSS score: 9.1), it relates to a third-party antivirus uninstaller module that's bundled along with the software. The complete list of impacted products is as follows - Apex One - version 2019 (on-premise), fixed in SP1 Patch 1 (B12380) Apex One as a Service - fixed in SP1 Patch 1 (B12380) and Agent version 14.0.12637 Worry-Free Business Security - version 10.0 SP1, fixed in 10.0 SP1 Patch 2495 Worry-Free Business Security Services - fixed in July 31, 2023, Monthly Maintenance Release Trend Micro said that a successful exploitation of the flaw could allow an attacker to manipulate the component to execute arbitrary commands on an affected installation. However, it requires that the adversary already has administrative
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
