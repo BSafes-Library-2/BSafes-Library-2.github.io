@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese-Language Speakers Targeted with Sainbox RAT, ValleyRAT, and Gh0stRAT<a href="https://www.proofpoint.com/us/blog/threat-insight/chinese-malware-appears-earnest-across-cybercrime-threat-landscape?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increase in activity suggests increased availability or ease of access to payloads and target lists, as well as potentially increased activity by Chinese-speaking cybercrime operators.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

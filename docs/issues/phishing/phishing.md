@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated Phishing Campaign Targeting Chinese Users with ValleyRAT and Gh0st RAT<a href="https://thehackernews.com/2023/09/sophisticated-phishing-campaign_20.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese-language speakers have been increasingly targeted as part of multiple email phishing campaigns that aim to distribute various malware families such as Sainbox RAT, Purple Fox, and a new trojan called ValleyRAT. "Campaigns include Chinese-language lures and malware typically associated with Chinese cybercrime activity," enterprise security firm Proofpoint&nbsp; said &nbsp;in a report shared with The Hacker News. The activity, observed since early 2023, entails sending email messages containing URLs pointing to compressed executables that are responsible for installing the malware. Other infection chains have been found to leverage Microsoft Excel and PDF attachments that embed these URLs to trigger malicious activity. These campaigns demonstrate variation in the use of infrastructure, sender domains, email content, targeting, and payloads, indicating that different threat clusters are mounting the attacks. Over 30 such campaigns have been detected in 2023 that employ malwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

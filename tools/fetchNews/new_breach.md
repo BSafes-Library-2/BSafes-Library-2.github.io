@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Breach at Pizza Hut Australia Exposes Customer Information and Order Details<a href="https://www.theguardian.com/australia-news/2023/sep/20/pizza-hut-hack-australia-data-breach-passwords-information-leak?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an email to customers on Wednesday, Pizza Hut Australia’s chief executive, Phil Reed, said the company became aware in early September that there had been “unauthorised third party” access to some of the company’s data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on Kansas Town Affects Email, Phone, Payment Systems<a href="https://therecord.media/pittsburg-kansas-government-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city’s incident response team “took proactive measures to protect city data and network systems” while also hiring forensic experts to “ fully understand the extent and implications” of the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

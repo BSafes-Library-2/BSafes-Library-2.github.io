@@ -8,6 +8,62 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atos Unify Vulnerabilities Could Allow Hackers to Backdoor Systems<a href="https://www.securityweek.com/atos-unify-vulnerabilities-could-allow-hackers-to-backdoor-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaws were found in the unified communications and collaboration solution by researchers at SEC Consult, an Austria-based cybersecurity consulting firm that is part of the Atos Group’s Eviden business.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Flaws Exposed in Nagios XI Network Monitoring Software<a href="https://thehackernews.com/2023/09/critical-security-flaws-exposed-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security flaws have been disclosed in the Nagios XI network monitoring software that could result in privilege escalation and information disclosure. The four security vulnerabilities, tracked from CVE-2023-40931 through CVE-2023-40934, impact Nagios XI versions 5.11.1 and lower. Following responsible disclosure on August 4, 2023, They have been&nbsp; patched &nbsp;as of September 11, 2023, with the release of version 5.11.2. "Three of these vulnerabilities (CVE-2023-40931, CVE-2023-40933 and CVE-2023-40934) allow users, with various levels of privileges, to access database fields via SQL Injections," Outpost24 researcher Astrid Tedenbrant&nbsp; said . "The data obtained from these vulnerabilities may be used to further escalate privileges in the product and obtain sensitive user data such as password hashes and API tokens." CVE-2023-40932, on the other hand, relates to a cross-site scripting (XSS) flaw in the Custom Logo component that could be used to read sensiti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab Releases Urgent Security Patches for Critical Vulnerability<a href="https://thehackernews.com/2023/09/gitlab-releases-urgent-security-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab has shipped security patches to resolve a critical flaw that allows an attacker to run pipelines as another user. The issue, tracked as&nbsp; CVE-2023-5009 &nbsp;(CVSS score: 9.6), impacts all versions of GitLab Enterprise Edition (EE) starting from 13.12 and prior to 16.2.7 as well as from 16.3 and before 16.3.4. "It was possible for an attacker to&nbsp; run pipelines &nbsp;as an arbitrary user via scheduled security scan policies," GitLab&nbsp; said &nbsp;in an advisory. "This was a bypass of&nbsp; CVE-2023-3932 &nbsp;showing additional impact." Successful exploitation of CVE-2023-5009 could allow a threat actor to access sensitive information or leverage the elevated permissions of the impersonated user to modify source code or run arbitrary code on the system, leading to severe consequences. Security researcher Johan Carlsson (aka joaxcar) has been credited with discovering and reporting the flaw. CVE-2023-3932 was addressed by GitLab in early August 2023. The vulnerability has been addre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trend Micro Releases Urgent Fix for Actively Exploited Critical Security Vulnerability<a href="https://thehackernews.com/2023/09/trend-micro-releases-urgent-fix-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity company Trend Micro has&nbsp; released &nbsp;patches and hotfixes to address a critical security flaw in Apex One and Worry-Free Business Security solutions for Windows that has been actively exploited in real-world attacks. Tracked as&nbsp; CVE-2023-41179 &nbsp;(CVSS score: 9.1), it relates to a third-party antivirus uninstaller module that's bundled along with the software. The complete list of impacted products is as follows - Apex One - version 2019 (on-premise), fixed in SP1 Patch 1 (B12380) Apex One as a Service - fixed in SP1 Patch 1 (B12380) and Agent version 14.0.12637 Worry-Free Business Security - version 10.0 SP1, fixed in 10.0 SP1 Patch 2495 Worry-Free Business Security Services - fixed in July 31, 2023, Monthly Maintenance Release Trend Micro said that a successful exploitation of the flaw could allow an attacker to manipulate the component to execute arbitrary commands on an affected installation. However, it requires that the adversary already has administrative
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

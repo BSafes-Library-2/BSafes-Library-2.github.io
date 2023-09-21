@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 12,000 Juniper Firewalls Found Vulnerable to Recently Disclosed RCE Vulnerability<a href="https://thehackernews.com/2023/09/over-12000-juniper-firewalls-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has found that close to 12,000 internet-exposed Juniper firewall devices are vulnerable to a recently disclosed remote code execution flaw. VulnCheck, which&nbsp; discovered &nbsp;a new exploit for CVE-2023-36845, said it could be&nbsp; exploited &nbsp;by an "unauthenticated and remote attacker to execute arbitrary code on Juniper firewalls without creating a file on the system." CVE-2023-36845 refers to a&nbsp; medium-severity flaw &nbsp;in the J-Web component of Junos OS that could be weaponized by a threat actor to control certain, important environment variables. It was patched by Juniper Networks last month alongside CVE-2023-36844, CVE-2023-36846, and CVE-2023-36847 in an out-of-cycle update. A subsequent proof-of-concept (PoC) exploit devised by watchTowr combined CVE-2023-36846 and CVE-2023-36845 to upload a PHP file containing malicious shellcode and achieve code execution. The latest exploit, on the other hand, impacts older systems and can be written using a single cURL comma
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

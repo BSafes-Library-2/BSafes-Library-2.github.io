@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+September 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal Messenger Introduces PQXDH Quantum-Resistant Encryption<a href="https://thehackernews.com/2023/09/signal-messenger-introduces-pqxdh.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Encrypted messaging app Signal has announced an update to the Signal Protocol to add support for quantum resistance by upgrading the Extended Triple Diffie-Hellman ( X3DH ) specification to Post-Quantum Extended Diffie-Hellman ( PQXDH ). "With this upgrade, we are adding a layer of protection against the threat of a quantum computer being built in the future that is powerful enough to break current encryption standards," Signal's Ehren Kret&nbsp; said . The development comes weeks after Google added support for&nbsp; quantum-resistant encryption algorithms &nbsp;in its Chrome web browser and announced a&nbsp; quantum-resilient FIDO2 security key implementation &nbsp;as part of its OpenSK security keys initiative last month. The&nbsp; Signal Protocol &nbsp;is a set of cryptographic specifications that provides end-to-end encryption (E2EE) for private text and voice communications. It's used in various messaging apps like WhatsApp and Google's encrypted RCS messages for Android. While quantum c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 1, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

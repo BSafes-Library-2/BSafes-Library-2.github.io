@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Live Webinar: Overcoming Generative AI Data Leakage Risks<a href="https://thehackernews.com/2023/09/live-webinar-overcoming-generative-ai.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the adoption of generative AI tools, like ChatGPT, continues to surge, so does the risk of data exposure. According to Gartner's "Emerging Tech: Top 4 Security Risks of GenAI" report, privacy and data security is one of the four major emerging risks within generative AI.&nbsp; A new webinar &nbsp;featuring a multi-time Fortune 100 CISO and the CEO of LayerX, a browser extension solution, delves into this critical risk. Throughout the webinar, the speakers will explain why data security is a risk and explore the ability of DLP solutions to protect against them, or lack thereof. Then, they will delineate the capabilities required by DLP solutions to ensure businesses benefit from the productivity GenAI applications have to offer without compromising security.&nbsp; The Business and Security Risks of Generative AI Applications GenAI security risks occur when employees insert sensitive texts into these applications. These actions warrant careful consideration, because the inserted data b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Do You Really Trust Your Web Application Supply Chain?<a href="https://thehackernews.com/2023/09/do-you-really-trust-your-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Well, you shouldn't. It may already be hiding vulnerabilities. It's the modular nature of modern web applications that has made them so effective. They can call on dozens of third-party web components, JS frameworks, and open-source tools to deliver all the different functionalities that keep their customers happy, but this chain of dependencies is also what makes them so vulnerable. Many of those components in the web application supply chain are controlled by a third party—the company that created them. This means that no matter how rigorous you were with your own static code analysis, code reviews, penetration testing, and other SSDLC processes, most of your supply chain's security is in the hands of whoever built its third-party components. With their huge potential for weak spots, and their widespread use in the lucrative ecommerce, financial and medical industries, web application supply chains present a juicy target for cyber attackers. They can target any one of the doz
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
