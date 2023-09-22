@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finnish Authorities Dismantle Notorious PIILOPUOTI Dark Web Drug Marketplace<a href="https://thehackernews.com/2023/09/finnish-authorities-dismantle-notorious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finnish law enforcement authorities have announced the takedown of PIILOPUOTI, a dark web marketplace that specialized in illegal narcotics trade since May 2022. "The site operated as a hidden service in the encrypted TOR network," the Finnish Customs (aka Tulli)&nbsp; said &nbsp;in a brief announcement on Tuesday. "The site has been used in anonymous criminal activities such as narcotics trade." The agency said that the drugs sold on the site were smuggled to Finland from abroad, adding a criminal investigation is underway in coordination with international partners from Germany and Lithuania, along with Europol and Eurojust. It's not immediately clear if any arrests were made. Romanian cybersecurity firm Bitdefender said it provided additional support that helped with the seizure of PIILOPUOTI. "We are extremely pleased that PIILOPUOTI has been seized and would like to congratulate law enforcement, Finnish Customs, and everyone involved," Alexandru Catal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,246 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore Police Warn of New Scam Campaign Spreading Android Malware<a href="https://www.channelnewsasia.com/singapore/android-malware-scam-factory-reset-phone-police-3785801?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Singapore police, on Wednesday, issued an advisory about a new variant of Android malware scams, where scammers would initiate a factory reset on infected devices after the malware executes unauthorized transactions on the phone’s i-banking app.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious 'Sandman' Threat Actor Targets Telecom Providers Across Three Continents<a href="https://thehackernews.com/2023/09/mysterious-sandman-threat-actor-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented threat actor dubbed  Sandman  has been attributed to a set of cyber attacks targeting telecommunic koation providers in the Middle East, Western Europe, and the South Asian subcontinent. Notably, the intrusions leverage a just-in-time (JIT) compiler for the Lua programming language known as LuaJIT as a vehicle to deploy a novel implant called LuaDream . "The activities we observed are characterized by strategic lateral movement to specific targeted workstations and minimal engagement, suggesting a deliberate approach aimed at achieving the set objectives while minimizing the risk of detection," SentinelOne security researcher Aleksandar Milenkoski  said  in an analysis published in collaboration with QGroup. "The implementation of LuaDream indicates a well-executed, maintained, and actively developed project of a considerable scale." Neither the campaign nor its tactics have been correlated with any known threat actor or group, althoug
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Acquiring Cybersecurity Company Splunk in Cash Deal Worth $28 Billion<a href="https://www.cnbc.com/2023/09/21/cisco-acquiring-splunk-for-157-a-share-in-cash.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition is one of Cisco’s largest, and continues an acquisition streak that has built out the company’s cybersecurity offerings. The company will finance the deal with a combination of cash and debt, Cisco CEO Chuck Robbins said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Raise Red Flag on P2PInfect Malware with 600x Activity Surge<a href="https://thehackernews.com/2023/09/researchers-raise-red-flag-on-p2pinfect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The peer-to-peer (P2) worm known as  P2PInfect  has witnessed a surge in activity since late August 2023, witnessing a 600x jump between September 12 and 19, 2023. "This increase in P2PInfect traffic has coincided with a growing number of variants seen in the wild, suggesting that the malware's developers are operating at an extremely high development cadence," Cado Security researcher Matt Muir said in a report published Wednesday. A majority of the compromises have been reported in China, the U.S., Germany, the U.K., Singapore, Hong Kong, and Japan. P2PInfect first came to light in July 2023 for its ability to breach poorly secured Redis instances. The threat actors behind the campaign have since resorted to different approaches for initial access, including the abuse of the database's replication feature to deliver the malware. Cado Security said it has observed an increase in initial access events attributable to P2PInfect in which the Redis SLAVEOF command
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada Blames Border Airport Check-in and Electronic Gate Outages on DDoS Attack<a href="https://therecord.media/canada-border-checkpoint-outages-ddos-attack-russia?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canada Border Services Agency (CBSA) confirmed to Recorded Future News that the connectivity issues that affected check-in kiosks and electronic gates at airports last week are the result of a distributed denial of service (DDoS) attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rise of the Malicious App<a href="https://thehackernews.com/2023/09/the-rise-of-malicious-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams are familiar with threats emanating from third-party applications that employees add to improve their productivity. These apps are inherently designed to deliver functionality to users by connecting to a "hub" app, such as Salesforce, Google Workspace, or Microsoft 365. Security concerns center on the permission scopes that are granted to the third party apps, and the potential for a threat actor to take over the core apps and abuse those permissions. There's no real concern that the app, on its own, will start deleting files or sharing data. As such, SaaS Security Posture Management (SSPM) solutions are able to identify integrated third party applications and present their permission scopes. The security team then makes a risk assessment, balancing the benefits the app offers with its permission scopes before deciding whether to keep or decouple the applications. However, threat actors have changed the playing field with the introduction of malicious apps. These appl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Balancing Budget and System Security: Approaches to Risk Tolerance<a href="https://www.helpnetsecurity.com/2023/09/19/cyber-risk-management-approach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations should prioritize revisiting their security readiness and up-leveling their cyber vulnerability and risk management programs by learning from data breaches and understanding the potential impact of compromised data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China Accuses U.S. of Decade-Long Cyber Espionage Campaign Against Huawei Servers<a href="https://thehackernews.com/2023/09/china-accuses-us-of-decade-long-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China's Ministry of State Security (MSS) has accused the U.S. of breaking into Huawei's servers, stealing critical data, and implanting backdoors since 2009, amid mounting geopolitical tensions between the two countries. In a  message  posted on WeChat, the government authority said U.S. intelligence agencies have "done everything possible" to conduct surveillance, secret theft, and intrusions on many countries around the world, including China, using a "powerful cyber attack arsenal." Specifics about the alleged hacks were not shared. It explicitly singled out the U.S. National Security Agency's (NSA) Computer Network Operations (formerly the Office of Tailored Access Operations or TAO) as having "repeatedly carried out systematic and platform-based attacks" against the country to plunder its "important data resources." The post went on to claim that the cyber-warfare intelligence-gathering unit hacked Huawei's servers in 200
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Never Use Your Master Password as a Password on Other Accounts<a href="https://www.helpnetsecurity.com/2023/09/19/use-password-managers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One in three Americans now use password managers, up from one in five in 2022, according to an online poll by Security.org that quizzed 1,051 American adults on how they use passwords and password managers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Group 'Gold Melody' Selling Compromised Access to Ransomware Attackers<a href="https://thehackernews.com/2023/09/cyber-group-gold-melody-selling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor has been outed as an initial access broker (IAB) that sells access to compromised organizations for other adversaries to conduct follow-on attacks such as ransomware. SecureWorks Counter Threat Unit (CTU) has dubbed the e-crime group  Gold Melody , which is also known by the names Prophet Spider (CrowdStrike) and UNC961 (Mandiant). "This financially motivated group has been active since at least 2017, compromising organizations by exploiting vulnerabilities in unpatched internet-facing servers," the cybersecurity company  said . "The victimology suggests opportunistic attacks for financial gain rather than a targeted campaign conducted by a state-sponsored threat group for espionage, destruction, or disruption." Gold Melody has been  previously   linked  to  attacks  exploiting security flaws in JBoss Messaging (CVE-2017-7504), Citrix ADC (CVE-2019-19781), Oracle WebLogic (CVE-2020-14750 and CVE-2020-14882), GitLab (CVE-20
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Experts Urge House Committee to Avoid Federal Shutdown<a href="https://www.bankinfosecurity.com/cyber-experts-urge-house-committee-to-avoid-federal-shutdown-a-23114?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity experts urged Congress to avoid a government shutdown on October 1 - the start of the new federal fiscal year - telling a House panel that a lapse would damage efforts to keep the nation secure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Hacker Suspected to be Behind "Free Download Manager" Malware Attack<a href="https://thehackernews.com/2023/09/ukrainian-hacker-suspected-to-be-behind.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of Free Download Manager (FDM) have acknowledged a security incident dating back to 2020 that led to its website being used to distribute malicious Linux software. "It appears that a specific web page on our site was compromised by a Ukrainian hacker group, exploiting it to distribute malicious software," it  said  in an alert last week. "Only a small subset of users, specifically those who attempted to download FDM for Linux between 2020 and 2022, were potentially exposed." Less than 0.1% of its visitors are estimated to have encountered the issue, adding it may have been why the problem went undetected until now. The disclosure comes as Kaspersky  revealed  that the project's website was infiltrated at some point in 2020 to redirect select Linux users who attempted to download the software to a malicious site hosting a Debian package. The package was further configured to deploy a DNS-based backdoor and ultimately serve a Bash stealer mal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Omron Patches PLC, Engineering Software Flaws Discovered During ICS Malware Analysis<a href="https://www.securityweek.com/omron-patches-plc-engineering-software-flaws-discovered-during-ics-malware-analysis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese electronics giant Omron recently patched programmable logic controller (PLC) and engineering software vulnerabilities that were discovered by industrial cybersecurity firm Dragos during the analysis of a sophisticated piece of malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Fake Exploit for WinRAR Vulnerability on GitHub Infects Users with Venom RAT<a href="https://thehackernews.com/2023/09/beware-fake-exploit-for-winrar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious actor released a fake proof-of-concept (PoC) exploit for a recently disclosed WinRAR vulnerability on GitHub with an aim to infect users who downloaded the code with Venom RAT malware. "The fake PoC meant to exploit this WinRAR vulnerability was based on a publicly available PoC script that exploited a SQL injection vulnerability in an application called GeoServer, which is tracked as  CVE-2023-25157 ," Palo Alto Networks Unit 42 researcher Robert Falcone  said . While  bogus PoCs  have become a  well-documented gambit  for targeting the  research community , the cybersecurity firm suspected that the threat actors are opportunistically targeting other crooks who may be adopting the latest vulnerabilities into their arsenal. whalersplonk, the  GitHub account  that hosted the repository, is no longer accessible. The PoC is said to have been committed on August 21, 2023, four days after the vulnerability was publicly announced. CVE-2023-40477 relates to an  imp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Companies Still Don’t Know How to Handle Generative AI Risks<a href="https://www.helpnetsecurity.com/2023/09/19/generative-ai-challenges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Energized by the hype around generative AI, enterprises are aggressively pursuing practical applications of this new technology while remaining cautious about the risks, according to ISG.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 20, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

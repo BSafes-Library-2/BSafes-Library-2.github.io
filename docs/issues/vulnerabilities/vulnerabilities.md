@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Omron Patches PLC, Engineering Software Flaws Discovered During ICS Malware Analysis<a href="https://www.securityweek.com/omron-patches-plc-engineering-software-flaws-discovered-during-ics-malware-analysis/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese electronics giant Omron recently patched programmable logic controller (PLC) and engineering software vulnerabilities that were discovered by industrial cybersecurity firm Dragos during the analysis of a sophisticated piece of malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Fake Exploit for WinRAR Vulnerability on GitHub Infects Users with Venom RAT<a href="https://thehackernews.com/2023/09/beware-fake-exploit-for-winrar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious actor released a fake proof-of-concept (PoC) exploit for a recently disclosed WinRAR vulnerability on GitHub with an aim to infect users who downloaded the code with Venom RAT malware. "The fake PoC meant to exploit this WinRAR vulnerability was based on a publicly available PoC script that exploited a SQL injection vulnerability in an application called GeoServer, which is tracked as&nbsp; CVE-2023-25157 ," Palo Alto Networks Unit 42 researcher Robert Falcone&nbsp; said . While&nbsp; bogus PoCs &nbsp;have become a&nbsp; well-documented gambit &nbsp;for targeting the&nbsp; research community , the cybersecurity firm suspected that the threat actors are opportunistically targeting other crooks who may be adopting the latest vulnerabilities into their arsenal. whalersplonk, the&nbsp; GitHub account &nbsp;that hosted the repository, is no longer accessible. The PoC is said to have been committed on August 21, 2023, four days after the vulnerability was publicly announced. CVE-2023-40477 relates to an&nbsp; imp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

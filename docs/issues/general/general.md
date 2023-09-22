@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Companies Still Don’t Know How to Handle Generative AI Risks<a href="https://www.helpnetsecurity.com/2023/09/19/generative-ai-challenges/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Energized by the hype around generative AI, enterprises are aggressively pursuing practical applications of this new technology while remaining cautious about the risks, according to ISG.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

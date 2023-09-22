@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+September 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike to Buy AppSec Startup Bionic for Reported $350M<a href="https://www.bankinfosecurity.com/crowdstrike-to-buy-appsec-startup-bionic-for-reported-350m-a-23113?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike plans to purchase a Silicon Valley application security startup founded by two Israel Defense Forces veterans in a bid to expand risk visibility and protection across entire cloud computing environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HiddenLayer Raises Hefty $50M Round for AI Security Tech<a href="https://www.securityweek.com/hiddenlayer-raises-hefty-50m-round-for-ai-security-tech/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HiddenLayer, which emerged from stealth in July 2022 with $6 million in funding, said the latest financing was led by M12, Microsoft’s Venture Fund, and Moore Strategic Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

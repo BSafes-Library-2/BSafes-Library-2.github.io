@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+September 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China Accuses U.S. of Decade-Long Cyber Espionage Campaign Against Huawei Servers<a href="https://thehackernews.com/2023/09/china-accuses-us-of-decade-long-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China's Ministry of State Security (MSS) has accused the U.S. of breaking into Huawei's servers, stealing critical data, and implanting backdoors since 2009, amid mounting geopolitical tensions between the two countries. In a&nbsp; message &nbsp;posted on WeChat, the government authority said U.S. intelligence agencies have "done everything possible" to conduct surveillance, secret theft, and intrusions on many countries around the world, including China, using a "powerful cyber attack arsenal." Specifics about the alleged hacks were not shared. It explicitly singled out the U.S. National Security Agency's (NSA) Computer Network Operations (formerly the Office of Tailored Access Operations or TAO) as having "repeatedly carried out systematic and platform-based attacks" against the country to plunder its "important data resources." The post went on to claim that the cyber-warfare intelligence-gathering unit hacked Huawei's servers in 200
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Experts Urge House Committee to Avoid Federal Shutdown<a href="https://www.bankinfosecurity.com/cyber-experts-urge-house-committee-to-avoid-federal-shutdown-a-23114?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity experts urged Congress to avoid a government shutdown on October 1 - the start of the new federal fiscal year - telling a House panel that a lapse would damage efforts to keep the nation secure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

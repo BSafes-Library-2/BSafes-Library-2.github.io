@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+September 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Balancing Budget and System Security: Approaches to Risk Tolerance<a href="https://www.helpnetsecurity.com/2023/09/19/cyber-risk-management-approach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations should prioritize revisiting their security readiness and up-leveling their cyber vulnerability and risk management programs by learning from data breaches and understanding the potential impact of compromised data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Never Use Your Master Password as a Password on Other Accounts<a href="https://www.helpnetsecurity.com/2023/09/19/use-password-managers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One in three Americans now use password managers, up from one in five in 2022, according to an online poll by Security.org that quizzed 1,051 American adults on how they use passwords and password managers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Group 'Gold Melody' Selling Compromised Access to Ransomware Attackers<a href="https://thehackernews.com/2023/09/cyber-group-gold-melody-selling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor has been outed as an initial access broker (IAB) that sells access to compromised organizations for other adversaries to conduct follow-on attacks such as ransomware. SecureWorks Counter Threat Unit (CTU) has dubbed the e-crime group&nbsp; Gold Melody , which is also known by the names Prophet Spider (CrowdStrike) and UNC961 (Mandiant). "This financially motivated group has been active since at least 2017, compromising organizations by exploiting vulnerabilities in unpatched internet-facing servers," the cybersecurity company&nbsp; said . "The victimology suggests opportunistic attacks for financial gain rather than a targeted campaign conducted by a state-sponsored threat group for espionage, destruction, or disruption." Gold Melody has been&nbsp; previously &nbsp; linked &nbsp;to&nbsp; attacks &nbsp;exploiting security flaws in JBoss Messaging (CVE-2017-7504), Citrix ADC (CVE-2019-19781), Oracle WebLogic (CVE-2020-14750 and CVE-2020-14882), GitLab (CVE-20
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
