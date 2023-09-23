@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese-speaking Users Targeted with ValleyRAT and Sainbox RAT<a href="https://cyware.com/news/chinese-speaking-users-targeted-with-valleyrat-and-sainbox-rat-0ab7668a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint has identified a notable rise in cybercrime activity aimed at Chinese-speaking individuals. It noted that ValleyRAT and a Gh0stRAt variant named Sainbox RAT targeted global organizations with Chinese operations. These are being distributed via Excel and PDF attachments containing infecte ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

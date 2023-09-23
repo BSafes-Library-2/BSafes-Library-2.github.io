@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious 'Sandman' Threat Actor Targets Telecom Providers Across Three Continents<a href="https://thehackernews.com/2023/09/mysterious-sandman-threat-actor-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented threat actor dubbed&nbsp; Sandman &nbsp;has been attributed to a set of cyber attacks targeting telecommunic koation providers in the Middle East, Western Europe, and the South Asian subcontinent. Notably, the intrusions leverage a just-in-time (JIT) compiler for the Lua programming language known as LuaJIT as a vehicle to deploy a novel implant called LuaDream . "The activities we observed are characterized by strategic lateral movement to specific targeted workstations and minimal engagement, suggesting a deliberate approach aimed at achieving the set objectives while minimizing the risk of detection," SentinelOne security researcher Aleksandar Milenkoski&nbsp; said &nbsp;in an analysis published in collaboration with QGroup. "The implementation of LuaDream indicates a well-executed, maintained, and actively developed project of a considerable scale." Neither the campaign nor its tactics have been correlated with any known threat actor or group, althoug
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Hacker Suspected to be Behind "Free Download Manager" Malware Attack<a href="https://thehackernews.com/2023/09/ukrainian-hacker-suspected-to-be-behind.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of Free Download Manager (FDM) have acknowledged a security incident dating back to 2020 that led to its website being used to distribute malicious Linux software. "It appears that a specific web page on our site was compromised by a Ukrainian hacker group, exploiting it to distribute malicious software," it&nbsp; said &nbsp;in an alert last week. "Only a small subset of users, specifically those who attempted to download FDM for Linux between 2020 and 2022, were potentially exposed." Less than 0.1% of its visitors are estimated to have encountered the issue, adding it may have been why the problem went undetected until now. The disclosure comes as Kaspersky&nbsp; revealed &nbsp;that the project's website was infiltrated at some point in 2020 to redirect select Linux users who attempted to download the software to a malicious site hosting a Debian package. The package was further configured to deploy a DNS-based backdoor and ultimately serve a Bash stealer mal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

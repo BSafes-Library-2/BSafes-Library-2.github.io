@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Interpret the 2023 MITRE ATT&amp;CK Evaluation Results<a href="https://thehackernews.com/2023/09/how-to-interpret-2023-mitre-att.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thorough, independent tests are a vital resource for analyzing provider's capabilities to guard against increasingly sophisticated threats to their organization. And perhaps no assessment is more widely trusted than the annual&nbsp; MITRE Engenuity ATT&amp;CK Evaluation .&nbsp; This testing is critical for evaluating vendors because it's virtually impossible to evaluate cybersecurity vendors based on their own performance claims. Along with vendor reference checks and proof of value evaluations (POV) — a live trial — the MITRE results add additional objective input to holistically assess cybersecurity vendors. Let's dive into the 2023 MITRE ATT&amp;CK Evaluation results. In this blog, we'll unpack MITRE's methodology to test security vendors against real-world threats, offer our interpretation of the results and identify top takeaways emerging from Cynet's evaluation. How does MITRE Engenuity test vendors during the evaluation? The MITRE ATT&amp;CK Evaluation is performed by MITRE Engenuity
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

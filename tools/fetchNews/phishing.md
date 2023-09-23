@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore Police Warn of New Scam Campaign Spreading Android Malware<a href="https://www.channelnewsasia.com/singapore/android-malware-scam-factory-reset-phone-police-3785801?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Singapore police, on Wednesday, issued an advisory about a new variant of Android malware scams, where scammers would initiate a factory reset on infected devices after the malware executes unauthorized transactions on the phone’s i-banking app.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

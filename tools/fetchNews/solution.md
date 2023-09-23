@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rise of the Malicious App<a href="https://thehackernews.com/2023/09/the-rise-of-malicious-app.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security teams are familiar with threats emanating from third-party applications that employees add to improve their productivity. These apps are inherently designed to deliver functionality to users by connecting to a "hub" app, such as Salesforce, Google Workspace, or Microsoft 365. Security concerns center on the permission scopes that are granted to the third party apps, and the potential for a threat actor to take over the core apps and abuse those permissions. There's no real concern that the app, on its own, will start deleting files or sharing data. As such, SaaS Security Posture Management (SSPM) solutions are able to identify integrated third party applications and present their permission scopes. The security team then makes a risk assessment, balancing the benefits the app offers with its permission scopes before deciding whether to keep or decouple the applications. However, threat actors have changed the playing field with the introduction of malicious apps. These appl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

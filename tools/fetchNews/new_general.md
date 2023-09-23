@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rising OT/ICS Cybersecurity Incidents Reveal Alarming Trend<a href="https://www.helpnetsecurity.com/2023/09/20/ot-ics-cybersecurity-incidents/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Approximately 60% of cyberattacks on the industrial sector are carried out by state-affiliated actors, often with the unintentional assistance of internal personnel (about 33% of the time), according to Rockwell Automation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

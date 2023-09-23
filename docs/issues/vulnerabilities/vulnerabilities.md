@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Flaws Uncovered in Atlassian Products and ISC BIND Server<a href="https://thehackernews.com/2023/09/high-severity-flaws-uncovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian and the Internet Systems Consortium (ISC) have disclosed several security flaws impacting their products that could be exploited to achieve denial-of-service (DoS) and remote code execution. The Australian software services provider&nbsp; said &nbsp;that the four high-severity flaws were fixed in new versions shipped last month. This includes - CVE-2022-25647 &nbsp;(CVSS score: 7.5) - A deserialization flaw in the Google Gson package impacting Patch Management in Jira Service Management Data Center and Server CVE-2023-22512 &nbsp;(CVSS score: 7.5) - A DoS flaw in Confluence Data Center and Server CVE-2023-22513 &nbsp;(CVSS score: 8.5) - A RCE flaw in Bitbucket Data Center and Server CVE-2023-28709 &nbsp;(CVSS score: 7.5) - A DoS flaw in Apache Tomcat server impacting Bamboo Data Center and Server The flaws have been addressed in the following versions - Jira Service Management Server and Data Center (versions 4.20.25, 5.4.9, 5.9.2, 5.10.1, 5.11.0, or later) Confluence Server and Data Center (v
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Rushes to Patch 3 New Zero-Day Flaws: iOS, macOS, Safari, and More Vulnerable<a href="https://thehackernews.com/2023/09/apple-rushes-to-patch-3-new-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has released yet another round of security patches to address three actively exploited zero-day flaws impacting iOS, iPadOS, macOS, watchOS, and Safari, taking the total tally of zero-day bugs discovered in its software this year to 16. The list of security vulnerabilities is as follows - CVE-2023-41991 &nbsp;- A certificate validation issue in the Security framework that could allow a malicious app to bypass signature validation. CVE-2023-41992 &nbsp;- A security flaw in Kernel that could allow a local attacker to elevate their privileges. CVE-2023-41993 &nbsp;- A WebKit flaw that could result in arbitrary code execution when processing specially crafted web content. Apple did not provide additional specifics barring an acknowledgement that the "issue may have been actively exploited against versions of iOS before iOS 16.7." The updates are available for the following devices and operating systems - iOS 16.7 and iPadOS 16.7 &nbsp;- iPhone 8 and later, iPad Pro (all models), iP
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+September 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada Blames Border Airport Check-in and Electronic Gate Outages on DDoS Attack<a href="https://therecord.media/canada-border-checkpoint-outages-ddos-attack-russia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Canada Border Services Agency (CBSA) confirmed to Recorded Future News that the connectivity issues that affected check-in kiosks and electronic gates at airports last week are the result of a distributed denial of service (DDoS) attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

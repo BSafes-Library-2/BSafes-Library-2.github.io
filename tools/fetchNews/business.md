@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Acquiring Cybersecurity Company Splunk in Cash Deal Worth $28 Billion<a href="https://www.cnbc.com/2023/09/21/cisco-acquiring-splunk-for-157-a-share-in-cash.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition is one of Cisco’s largest, and continues an acquisition streak that has built out the company’s cybersecurity offerings. The company will finance the deal with a combination of cash and debt, Cisco CEO Chuck Robbins said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
