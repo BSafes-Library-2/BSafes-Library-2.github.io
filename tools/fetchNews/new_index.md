@@ -34,7 +34,55 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2023
+September 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese, North Korean Nation-State Groups Target Health Data<a href="https://www.bankinfosecurity.com/chinese-north-korean-nation-state-groups-target-health-data-a-23141?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financially motivated groups originating in North Korea and China "have all the sophistication of many other cybercriminal gangs but also have the resources - technological, financial and diplomatic - of a state behind them," HHS HC3 warned.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deadglyph: New Advanced Backdoor with Distinctive Malware Tactics<a href="https://thehackernews.com/2023/09/deadglyph-new-advanced-backdoor-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a previously undocumented advanced backdoor dubbed  Deadglyph  employed by a threat actor known as Stealth Falcon as part of a cyber espionage campaign. "Deadglyph's architecture is unusual as it consists of cooperating components – one a native x64 binary, the other a .NET assembly," ESET  said  in a  new report  shared with The Hacker News. "This combination is unusual because malware typically uses only one programming language for its components. This difference might indicate separate development of those two components while also taking advantage of unique features of the distinct programming languages they utilize." It's also suspected that the use of different programming languages is a deliberate tactic to hinder analysis, making it a lot more challenging to navigate and debug. Unlike other traditional backdoors of its kind, the commands are received from an actor-controlled server in the form of additi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Apple Zero-Days Exploited to Target Egyptian ex-MP with Predator Spyware<a href="https://thehackernews.com/2023/09/latest-apple-zero-days-used-to-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The  three zero-day flaws  addressed by Apple on September 21, 2023, were leveraged as part of an iPhone exploit chain in an attempt to deliver a spyware strain called  Predator  targeting former Egyptian member of parliament Ahmed Eltantawy between May and September 2023. "The targeting took place after Eltantawy publicly  stated his plans  to run for President in the 2024 Egyptian elections," the Citizen Lab  said , attributing the attack with high confidence to the Egyptian government owing to it being a known customer of the commercial spying tool. According to a joint investigation conducted by the Canadian interdisciplinary laboratory and Google's Threat Analysis Group (TAG), the mercenary surveillance tool is said to have been delivered via links sent on SMS and WhatsApp. "In August and September 2023, Eltantawy's Vodafone Egypt mobile connection was persistently selected for targeting via network injection; when Eltantawy visited certain websites not
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BBTok Banking Trojan Impersonates Over 40 Banks to Hijack Victim Accounts<a href="https://www.darkreading.com/endpoint/bbtok-banking-trojan-impersonates-40-banks-to-hijack-victim-accounts?&web_view=true"> Full Text</a>
@@ -50,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2023
+September 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Variant of Banking Trojan BBTok Targets Over 40 Latin American Banks<a href="https://thehackernews.com/2023/09/new-variant-of-banking-trojan-bbtok.html"> Full Text</a>
@@ -66,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2023
+September 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ohio Community College Data Theft Breach Affects Nearly 300K<a href="https://www.bankinfosecurity.com/ohio-community-college-data-theft-breach-affects-nearly-300k-a-23132?&web_view=true"> Full Text</a>
@@ -82,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2023
+September 22, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Interpret the 2023 MITRE ATT&CK Evaluation Results<a href="https://thehackernews.com/2023/09/how-to-interpret-2023-mitre-att.html"> Full Text</a>
@@ -98,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2023
+September 22, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attacker Unleashes Stealthy Crypto Mining via Malicious Python Package<a href="https://checkmarx.com/blog/attacker-unleashes-stealthy-crypto-mining-via-malicious-python-package/?&web_view=true"> Full Text</a>
@@ -114,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2023
+September 22, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Nation-State Actor OilRig Targets Israeli Organizations<a href="https://thehackernews.com/2023/09/iranian-nation-state-actor-oilrig.html"> Full Text</a>
@@ -130,7 +178,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2023
+September 22, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sandman APT Infiltrates Telecommunications Companies Using LuaDream Backdoor<a href="https://www.sentinelone.com/labs/sandman-apt-a-mystery-group-targeting-telcos-with-a-luajit-toolkit/?&web_view=true"> Full Text</a>
@@ -146,7 +194,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2023
+September 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity Flaws Uncovered in Atlassian Products and ISC BIND Server<a href="https://thehackernews.com/2023/09/high-severity-flaws-uncovered-in.html"> Full Text</a>
@@ -162,7 +210,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2023
+September 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rising OT/ICS Cybersecurity Incidents Reveal Alarming Trend<a href="https://www.helpnetsecurity.com/2023/09/20/ot-ics-cybersecurity-incidents/?&web_view=true"> Full Text</a>
@@ -178,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2023
+September 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Rushes to Patch 3 New Zero-Day Flaws: iOS, macOS, Safari, and More Vulnerable<a href="https://thehackernews.com/2023/09/apple-rushes-to-patch-3-new-zero-day.html"> Full Text</a>
@@ -194,7 +242,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2023
+September 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Air Canada Says Hackers Accessed Limited Employee Records During Cyberattack<a href="https://therecord.media/air-canada-limited-employee-info-accessed?&web_view=true"> Full Text</a>
@@ -210,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 22, 2023
+September 22, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese-speaking Users Targeted with ValleyRAT and Sainbox RAT<a href="https://cyware.com/news/chinese-speaking-users-targeted-with-valleyrat-and-sainbox-rat-0ab7668a"> Full Text</a>
