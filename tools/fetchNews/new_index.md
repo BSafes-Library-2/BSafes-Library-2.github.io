@@ -34,6 +34,102 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand University Operating Despite Cyberattack<a href="https://therecord.media/auckland-university-operating-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite a cyberattack on Auckland University of Technology, the university has been able to continue normal operations with minimal disruption. The Monti ransomware gang claimed responsibility for the attack and demanded an undisclosed ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report Uncovers Three Distinct Clusters of China-Nexus Attacks on Southeast Asian Government<a href="https://thehackernews.com/2023/09/new-report-uncovers-three-distinct.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unnamed Southeast Asian government has been targeted by multiple China-nexus threat actors as part of espionage campaigns targeting the region over extended periods of time. "While this activity occurred around the same time and in some instances even simultaneously on the same victims' machines, each cluster is characterized by distinct tools, modus operandi and infrastructure," Palo Alto Networks Unit 42 researchers Lior Rochberger, Tom Fakterman, and Robert Falcone  said  in an exhaustive three-part report. The attacks, which targeted different governmental entities such as critical infrastructure, public healthcare institutions, public financial administrators and ministries, have been attributed with moderate confidence to three disparate clusters tracked as  Stately Taurus  (aka Mustang Panda),  Alloy Taurus  (aka Granite Typhoon), and  Gelsemium . Mustang Panda uses TONESHELL variant and ShadowPad "The attackers conducted a cyberespionage operation tha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hidden Dangers Loom for Subsea Cables, the Invisible Infrastructure of the Internet<a href="https://www.helpnetsecurity.com/2023/09/21/subsea-cable-resilience/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Subsea cables are a critical component of the global internet infrastructure, and protecting them from accidental damage, natural phenomena, physical attacks, and cyberattacks is crucial.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit, BlackCat, and Clop Prevail as Top RAAS Groups: Ransomware in First Half of 2023<a href="https://www.trendmicro.com/vinfo/us/security/news/ransomware-by-the-numbers/lockbit-blackcat-and-clop-prevail-as-top-raas-groups-for-1h-2023?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the first half of 2023, small businesses were the most targeted victims of LockBit and BlackCat, while large enterprises were the primary targets of Clop ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: T-Mobile Denies Rumors of a Breach Affecting Employee Data<a href="https://therecord.media/tmobile-denies-breach-rumors-employee-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stolen data, believed to be from an authorized retailer called Connectivity Source, includes employee IDs, login information, Social Security numbers, and service account details.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Outer Space and Juicy Mix: OilRig Campaigns Targeting Israeli Organizations<a href="https://cyware.com/news/outer-space-and-juicy-mix-oilrig-campaigns-targeting-israeli-organizations-b4b44d19"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET revealed details on two cyberespionage campaigns conducted by the OilRig APT group against Israeli organizations, using spear-phishing emails. The Outer Space campaign utilized the Solar backdoor and the SC5k downloader, while the Juicy Mix campaign featured the Mango backdoor and additional b ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 23, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
