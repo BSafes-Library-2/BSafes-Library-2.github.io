@@ -82,6 +82,22 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The FTC, 1Health.io, and Genetic Data Privacy and Security <a href="https://www.lawfaremedia.org/article/the-ftc-1health.io-and-genetic-data-privacy-and-security"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission (FTC) has finalized an order with 1Health.io (formerly Vitagene), a genetic testing company that was the subject of a June 2023 FTC complaint. 1Health.io, to quote the FTC’s recent press release, “left sensitive genetic and health data unsecured, deceived consumers about their ability to get their data deleted, and changed its privacy policy retroactively without adequately notifying consumers and obtaining their consent.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 22, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

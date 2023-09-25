@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2023
+September 23, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese, North Korean Nation-State Groups Target Health Data<a href="https://www.bankinfosecurity.com/chinese-north-korean-nation-state-groups-target-health-data-a-23141?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2023
+September 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deadglyph: New Advanced Backdoor with Distinctive Malware Tactics<a href="https://thehackernews.com/2023/09/deadglyph-new-advanced-backdoor-with.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2023
+September 23, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Apple Zero-Days Exploited to Target Egyptian ex-MP with Predator Spyware<a href="https://thehackernews.com/2023/09/latest-apple-zero-days-used-to-hack.html"> Full Text</a>
@@ -77,6 +77,22 @@ The  three zero-day flaws  addressed by Apple on September 21, 2023, were leve
 </details>
 <div style="text-align: right" markdown="1">
 The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 22, 2023 -- [Breach](/docs/issues/breach/breach/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The FTC, 1Health.io, and Genetic Data Privacy and Security <a href="https://www.lawfaremedia.org/article/the-ftc-1health.io-and-genetic-data-privacy-and-security"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission (FTC) has finalized an order with 1Health.io (formerly Vitagene), a genetic testing company that was the subject of a June 2023 FTC complaint. 1Health.io, to quote the FTC’s recent press release, “left sensitive genetic and health data unsecured, deceived consumers about their ability to get their data deleted, and changed its privacy policy retroactively without adequately notifying consumers and obtaining their consent.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
