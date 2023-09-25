@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Apple Zero-Days Exploited to Target Egyptian ex-MP with Predator Spyware<a href="https://thehackernews.com/2023/09/latest-apple-zero-days-used-to-hack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp; three zero-day flaws &nbsp;addressed by Apple on September 21, 2023, were leveraged as part of an iPhone exploit chain in an attempt to deliver a spyware strain called&nbsp; Predator &nbsp;targeting former Egyptian member of parliament Ahmed Eltantawy between May and September 2023. "The targeting took place after Eltantawy publicly&nbsp; stated his plans &nbsp;to run for President in the 2024 Egyptian elections," the Citizen Lab&nbsp; said , attributing the attack with high confidence to the Egyptian government owing to it being a known customer of the commercial spying tool. According to a joint investigation conducted by the Canadian interdisciplinary laboratory and Google's Threat Analysis Group (TAG), the mercenary surveillance tool is said to have been delivered via links sent on SMS and WhatsApp. "In August and September 2023, Eltantawy's Vodafone Egypt mobile connection was persistently selected for targeting via network injection; when Eltantawy visited certain websites not
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

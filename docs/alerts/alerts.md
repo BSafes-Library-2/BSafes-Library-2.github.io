@@ -7,6 +7,26 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2023 - Health Sector Cyber Security Coordination Center 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean and Chinese Cyber Crime Threats to the HPH <a href="https://www.dhs.gov/sites/default/files/2023-09/23_0913_ia_23-333-ia_u_homeland-threat-assessment-2024_508C_V6_13Sep23.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercrime Overview and Theory  
+- China
+- APT41
+- North Korea
+- APT43
+- Lazarus Group
+- Defense and Mitigations
+- Conclusions
+- References
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 20, 2023 - Homeland Security 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

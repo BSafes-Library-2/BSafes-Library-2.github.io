@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Nation-State Actor OilRig Targets Israeli Organizations<a href="https://thehackernews.com/2023/09/iranian-nation-state-actor-oilrig.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli organizations were targeted as part of two different campaigns orchestrated by the Iranian nation-state actor known as&nbsp; OilRig &nbsp;in 2021 and 2022. The campaigns, dubbed Outer Space and Juicy Mix, entailed the use of two previously documented first-stage backdoors called Solar and Mango, which were deployed to collect sensitive information from major browsers and the Windows Credential Manager. "Both backdoors were deployed by VBS droppers, presumably spread via spear-phishing emails," ESET security researcher Zuzana Hromcová&nbsp; said &nbsp;in a Thursday analysis. OilRig (aka APT34, Cobalt Gypsy, Hazel Sandstorm, and Helix Kitten) is the name assigned to an&nbsp; intrusion set &nbsp;affiliated with Iran's Ministry of Intelligence and Security (MOIS). Active since 2014, the threat actor has used a wide range of tools at its disposal to carry out information theft. Earlier this February, Trend Micro&nbsp; discovered &nbsp;OilRig's use of a simple backdoor to steal users' credential
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

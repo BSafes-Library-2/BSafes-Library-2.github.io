@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ohio Community College Data Theft Breach Affects Nearly 300K<a href="https://www.bankinfosecurity.com/ohio-community-college-data-theft-breach-affects-nearly-300k-a-23132?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a breach notification on Wednesday, Lakeland Community College didn't provide any details on the attack, which occurred between March 7 and March 31, but the Vice Society ransomware group had earlier listed the college on its data leak site.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air Canada Says Hackers Accessed Limited Employee Records During Cyberattack<a href="https://therecord.media/air-canada-limited-employee-info-accessed?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canada’s largest airline, Air Canada, announced a data breach this week that involved the information of employees, but said its operations and customer data were not impacted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

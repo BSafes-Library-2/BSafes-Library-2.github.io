@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacker Unleashes Stealthy Crypto Mining via Malicious Python Package<a href="https://checkmarx.com/blog/attacker-unleashes-stealthy-crypto-mining-via-malicious-python-package/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python package "Culturestreak" is a malicious software that hijacks system resources for unauthorized cryptocurrency mining. The package utilizes obfuscated code and random filenames to evade detection, making it a persistent threat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
