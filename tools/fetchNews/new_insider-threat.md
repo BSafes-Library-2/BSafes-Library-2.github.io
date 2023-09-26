@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Average Insider Cyberthreat Cost Spikes 40% in Four Years: Report<a href="https://www.cybersecuritydive.com/news/insider-threat-cyber-risk/694483/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Containment and remediation after an insider incident are the most expensive areas, with an average cost of $179,209 and $125,221 per incident respectively, and the average time to contain an incident has increased to 86 days.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hong Kong-Based Cryptocurrency Firm Mixin Says Hackers Stole $200 Million in Assets<a href="https://therecord.media/mixin-cryptocurrency-business-hack-hong-kong?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident follows a recent trend of cryptocurrency hacks, with North Korean hackers being suspected in multiple attacks, highlighting the growing threat posed by cybercriminals targeting the industry.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

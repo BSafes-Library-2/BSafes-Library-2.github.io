@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WatchGuard Announces its Acquisition of CyGlass<a href="https://itwire.com/it-industry-news/deals/watchguard-acquires-cyglass.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition will offer WatchGuard's partners and customers access to cutting-edge security solutions, improved XDR insights, and simplified compliance with regulatory and cyber-insurance requirements.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

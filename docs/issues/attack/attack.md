@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Watering Hole to Spyware: EvilBamboo Targets Tibetans, Uyghurs, and Taiwanese<a href="https://thehackernews.com/2023/09/from-watering-hole-to-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tibetan, Uyghur, and Taiwanese individuals and organizations are the targets of a persistent campaign orchestrated by a threat actor codenamed&nbsp; EvilBamboo &nbsp;to gather sensitive information. "The attacker has created fake Tibetan websites, along with social media profiles, likely used to deploy browser-based exploits against targeted users," Volexity security researchers Callum Roxan, Paul Rascagneres, and Thomas Lancaster said in a report published last week. "Partly through impersonating existing popular communities, the attacker has built communities on online platforms, such as Telegram, to aid in distribution of their malware." EvilBamboo, formerly tracked by the cybersecurity firm under the name Evil Eye, has been linked to multiple attack waves&nbsp; since at least 2019 , with the threat actor leveraging watering hole attacks to deliver spyware targeting Android and iOS devices. It's also known as Earth Empusa and POISON CARP. The intrusions directed agai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand University Operating Despite Cyberattack<a href="https://therecord.media/auckland-university-operating-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite a cyberattack on Auckland University of Technology, the university has been able to continue normal operations with minimal disruption. The Monti ransomware gang claimed responsibility for the attack and demanded an undisclosed ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report Uncovers Three Distinct Clusters of China-Nexus Attacks on Southeast Asian Government<a href="https://thehackernews.com/2023/09/new-report-uncovers-three-distinct.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unnamed Southeast Asian government has been targeted by multiple China-nexus threat actors as part of espionage campaigns targeting the region over extended periods of time. "While this activity occurred around the same time and in some instances even simultaneously on the same victims' machines, each cluster is characterized by distinct tools, modus operandi and infrastructure," Palo Alto Networks Unit 42 researchers Lior Rochberger, Tom Fakterman, and Robert Falcone&nbsp; said &nbsp;in an exhaustive three-part report. The attacks, which targeted different governmental entities such as critical infrastructure, public healthcare institutions, public financial administrators and ministries, have been attributed with moderate confidence to three disparate clusters tracked as&nbsp; Stately Taurus &nbsp;(aka Mustang Panda),&nbsp; Alloy Taurus &nbsp;(aka Granite Typhoon), and&nbsp; Gelsemium . Mustang Panda uses TONESHELL variant and ShadowPad "The attackers conducted a cyberespionage operation tha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Outer Space and Juicy Mix: OilRig Campaigns Targeting Israeli Organizations<a href="https://cyware.com/news/outer-space-and-juicy-mix-oilrig-campaigns-targeting-israeli-organizations-b4b44d19"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET revealed details on two cyberespionage campaigns conducted by the OilRig APT group against Israeli organizations, using spear-phishing emails. The Outer Space campaign utilized the Solar backdoor and the SC5k downloader, while the Juicy Mix campaign featured the Mango backdoor and additional b ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

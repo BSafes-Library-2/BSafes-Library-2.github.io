@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar — AI vs. AI: Harnessing AI Defenses Against AI-Powered Risks<a href="https://thehackernews.com/2023/09/watch-webinar-ai-vs-ai-harnessing-ai.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Generative AI is a double-edged sword, if there ever was one. There is broad agreement that tools like ChatGPT are unleashing waves of productivity across the business, from IT, to customer experience, to engineering. That's on the one hand.&nbsp; On the other end of this fencing match: risk. From IP leakage and data privacy risks to the empowering of cybercriminals with AI tools, generative AI presents enterprises with concrete concerns. For example, the mass availability of AI tools was the second most-reported Q2 risk among senior enterprise risk executives — appearing in the top 10 for the first time — according to a&nbsp; Gartner survey .&nbsp; In this escalating AI arms race, how can enterprises separate fact from hype and comprehensively manage generative AI risk while accelerating productivity?&nbsp; Register here and join Zscaler's Will Seaton, Product Marketing Manager, ThreatLabz, to: Uncover the&nbsp; tangible risks of generative AI &nbsp;— both for employee AI usage and by threat actors b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+For Security to Benefit From AI, Companies Need to Shore up Their Data<a href="https://www.cybersecuritydive.com/news/data-ai-defense/691709/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs and cybersecurity practitioners should focus on addressing the challenges of data structure, management, and curation to fully leverage the benefits of AI for cyber defense.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
