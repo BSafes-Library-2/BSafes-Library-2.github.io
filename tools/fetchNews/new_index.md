@@ -34,7 +34,247 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV Ransomware Group Targets Clarion, Phil-Data Business Systems, and MNGI Digestive Health<a href="https://thecyberexpress.com/alphv-ransomware-group-cyberattack-update/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ALPHV ransomware group, also known as the BlackCat hacker collective, has recently targeted three new victims in their cyberattacks. The group has demonstrated adaptability and employed advanced technical methods in their attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft is Rolling out Support for Passkeys in Windows 11<a href="https://thehackernews.com/2023/09/microsoft-is-rolling-out-support-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is officially rolling out support for passkeys in Windows 11 today as part of a  major update  to the desktop operating system. The feature allows users to login to websites and applications without having to provide a username and password, instead relying on their device PIN or biometric information to complete the step. Based on  FIDO standards , Passkeys were  first announced  in May 2022 as a replacement for passwords in a manner that's both strong and phishing-resistant. It has since been adopted by  Apple ,  Google , and a number of other services in recent months. While the tech giant added passkey management in the Windows Insider program back in June 2023, the development marks the feature's general availability. "Passkeys are the cross-platform future of secure sign-in management," David Weston, vice president of enterprise and OS Security,  said . "A passkey creates a unique, unguessable cryptographic credential that is securely stored
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smishing Triad Stretches its Tentacles into the United Arab Emirates<a href="https://securityaffairs.com/151465/cyber-crime/smishing-triad-united-arab-emirates.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Smishing Triad" is leveraging compromised Apple iCloud accounts and illegally obtained databases containing personally identifiable information (PII) to carry out their attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShadowSyndicate: A New Cybercrime Group Linked to 7 Ransomware Families<a href="https://thehackernews.com/2023/09/shadowsyndicate-new-cybercrime-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity experts have shed light on a new cybercrime group known as  ShadowSyndicate  (formerly Infra Storm) that may have leveraged as many as seven different ransomware families over the past year. "ShadowSyndicate is a threat actor that works with various ransomware groups and affiliates of ransomware programs," Group-IB and Bridewell  said  in a new joint report. The actor, active since July 16, 2022, has linked to ransomware activity related to Quantum, Nokoyawa, BlackCat, Royal, Cl0p, Cactus, and Play strains, while also deploying off-the-shelf post-exploitation tools like  Cobalt Strike  and  Sliver  as well as loaders such as  IcedID  and  Matanbuchus . The findings are based on a distinct SSH fingerprint (1ca4cbac895fc3bd12417b77fc6ed31d) discovered on 85 servers, 52 of which have been used as command-and-control (C2) for Cobalt Strike. Among those servers are eight different Cobalt Strike license keys (or watermarks). A majority of the servers (23) are loc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decade Worth of Newborn Child Registry Data Stolen in MOVEit Hack at BORN Ontario<a href="https://techcrunch.com/2023/09/25/decade-of-newborn-child-registry-data-stolen-in-moveit-mass-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stolen data includes names, addresses, health card numbers, and clinical information related to fertility, pregnancy, newborn, and child healthcare, with potential impacts on individuals from January 2010 to May 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Essential Guide to Cybersecurity Compliance<a href="https://thehackernews.com/2023/09/essential-guide-to-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SOC 2, ISO, HIPAA, Cyber Essentials – all the security frameworks and certifications today are an acronym soup that can make even a compliance expert's head spin. If you're embarking on your compliance journey, read on to discover the differences between standards, which is best for your business, and how vulnerability management can aid compliance. What is cybersecurity compliance? Cybersecurity compliance means you have met a set of agreed rules regarding the way you protect sensitive information and customer data. These rules can be set by law, regulatory authorities, trade associations or industry groups.  For example, the GDPR is set by the EU with a wide range of cybersecurity requirements that every organization within its scope must comply with, while ISO 27001 is a voluntary (but internationally recognized) set of best practices for information security management. Customers increasingly expect the assurance that compliance brings, because breaches and data disclosure will
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kuwait Isolates Some Government Systems Following Attack on its Finance Ministry<a href="https://therecord.media/kuwait-isolates-systems-after-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack started on September 18, and officials immediately took steps to isolate and shut down affected systems. The Ministry of Finance assured that payment and payroll systems were on a separate network and that workers would be paid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Xenomorph Banking Trojan: A New Variant Targeting 35+ U.S. Financial Institutions<a href="https://thehackernews.com/2023/09/xenomorph-banking-trojan-new-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An updated version of an  Android banking trojan  called  Xenomorph  has set its sights on more than 35 financial institutions in the U.S. The campaign, according to Dutch security firm ThreatFabric, leverages phishing web pages that are designed to entice victims into installing malicious Android apps that target a broader list of apps than its predecessors. Some of the other targeted prominent countries targeted comprise Spain, Canada, Italy, and Belgium. "This new list adds dozens of new overlays for institutions from the United States, Portugal, and multiple crypto wallets, following a trend that has been consistent amongst all banking malware families in the last year," the company  said  in an analysis published Monday. Xenomorph is a variant of another banker malware called Alien which  first emerged  in 2022. Later that year, the financial malware was propagated via a new dropper dubbed  BugDrop , which bypassed security features in Android 13. A subsequent iter
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stratascale Acquires VECTOR0 To Strengthen Its Cybersecurity Services<a href="https://www.helpnetsecurity.com/2023/09/26/stratascale-vector0-acquisition/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Through the acquisition, Stratascale professionals and their customers gain visibility of attack vectors and points of vulnerability, enhancing Stratascale’s ability to deliver proactive cybersecurity services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Report: The High Tech Industry Targeted the Most with 46% of NLX-Tagged Attack Traffic<a href="https://thehackernews.com/2023/09/threat-report-high-tech-industry.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How To Use This Report Enhance situational awareness of techniques used by threat actors Identify potential attacks targeting your industry Gain insights to help improve and accelerate your organization's threat response Summary of Findings The Network Effect Threat Report offers insights based on unique data from  Fastly's Next-Gen WAF  from Q2 2023 (April 1, 2023 to June 30, 2023). This report looks at traffic originating from IP addresses tagged by Fastly's Network Learning Exchange (NLX), our collective threat intelligence feed that anonymously shares attack source IP addresses across all Next-Gen WAF customer networks. Before diving deeper into the attack observations, here are five key takeaways that we found most significant in our research, covering global traffic across multiple industries, including High Tech, Financial Services, Commerce, Education, and Media and entertainment. Multi-customer attacks: 69% of IPs tagged by NLX targeted multiple customers, and 6
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Royal Lurked in Dallas’ Systems Weeks Before Ransomware Attack<a href="https://www.cybersecuritydive.com/news/dallas-post-attack-report/694630/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Royal ransomware group infiltrated Dallas' systems, surveilled and exfiltrated data for a month before launching a ransomware attack, causing widespread disruption to critical city services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers TAG-74 Targets South Korean Organizations in a Multi-Year Campaign<a href="https://thehackernews.com/2023/09/chinese-hackers-tag-74-targets-south.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "multi-year" Chinese state-sponsored cyber espionage campaign has been observed targeting South Korean academic, political, and government organizations. Recorded Future's Insikt Group, which is  tracking  the activity under the moniker TAG-74, said the adversary has been linked to "Chinese military intelligence and poses a significant threat to academic, aerospace and defense, government, military, and political entities in South Korea, Japan, and Russia." The cybersecurity firm characterized the targeting of South Korean academic institutions as in alignment with China's broader efforts to conduct intellectual property theft and expand its influence, not to mention motivated by the country's strategic relations with the U.S. Social engineering attacks mounted by the adversary make use of Microsoft Compiled HTML Help (CHM) file lures to drop a custom variant of an open-source Visual Basic Script backdoor called  ReVBShell , which subsequently ser
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandman APT Brings LuaDream, Targets Telcos in Middle East<a href="https://cyware.com/news/sandman-apt-brings-luadream-targets-telcos-in-middle-east-0a2b8f87"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SentinelOne found the Sandman APT group targeting telecommunications companies in the Middle East, Western Europe, and South Asia using a novel backdoor called LuaDream. The researchers noted that the campaign began in August and demonstrates advanced tactics. With this, the Middle East is onc ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical JetBrains TeamCity Flaw Could Expose Source Code and Build Pipelines to Attackers<a href="https://thehackernews.com/2023/09/critical-jetbrains-teamcity-flaw-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability in the JetBrains TeamCity continuous integration and continuous deployment (CI/CD) software could be exploited by unauthenticated attackers to achieve remote code execution on affected systems. The flaw, tracked as  CVE-2023-42793 , carries a CVSS score of 9.8 and has been addressed in  TeamCity version 2023.05.4  following responsible disclosure on September 6, 2023. "Attackers could leverage this access to steal source code, service secrets, and private keys, take control over attached build agents, and poison build artifacts," Sonar security researcher Stefan Schiller  said  in a report last week. Successful exploitation of the bug could also permit threat actors to access the build pipelines and inject arbitrary code, leading to an integrity breach and supply chain compromise. Additional details of the bug have been withheld due to the fact that it's trivial to exploit, with Sonar noting that it's likely to be weaponized in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Despite Rising Insider Risk Costs, Budgets are Being Wasted in the Wrong Places<a href="https://www.helpnetsecurity.com/2023/09/25/insider-risk-cost/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cost of insider risks for organizations is at an all-time high, with the average annual cost reaching $16.2 million, a 40% increase in four years, according to DTEX Systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 25, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WatchGuard Announces its Acquisition of CyGlass<a href="https://itwire.com/it-industry-news/deals/watchguard-acquires-cyglass.html?&web_view=true"> Full Text</a>
@@ -50,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Military Targeted in Phishing Campaign Leveraging Drone Manuals<a href="https://thehackernews.com/2023/09/ukrainian-military-targeted-in-phishing.html"> Full Text</a>
@@ -66,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal Data of 25,000 Hongkongers at Risk After Cyberattack Against Consumer Council<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3235695/personal-data-over-25000-hongkongers-risk-after-cyberattack-against-consumer-watchdog-earlier?&web_view=true"> Full Text</a>
@@ -82,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar — AI vs. AI: Harnessing AI Defenses Against AI-Powered Risks<a href="https://thehackernews.com/2023/09/watch-webinar-ai-vs-ai-harnessing-ai.html"> Full Text</a>
@@ -98,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 For Security to Benefit From AI, Companies Need to Shore up Their Data<a href="https://www.cybersecuritydive.com/news/data-ai-defense/691709/?&web_view=true"> Full Text</a>
@@ -114,7 +354,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are You Willing to Pay the High Cost of Compromised Credentials?<a href="https://thehackernews.com/2023/09/are-you-willing-to-pay-high-cost-of.html"> Full Text</a>
@@ -130,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Average Insider Cyberthreat Cost Spikes 40% in Four Years: Report<a href="https://www.cybersecuritydive.com/news/insider-threat-cyber-risk/694483/?&web_view=true"> Full Text</a>
@@ -146,7 +386,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 From Watering Hole to Spyware: EvilBamboo Targets Tibetans, Uyghurs, and Taiwanese<a href="https://thehackernews.com/2023/09/from-watering-hole-to-spyware.html"> Full Text</a>
@@ -162,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Incomplete Disclosures by Apple and Google Create “Huge Blindspot” for Zero-Day Hunters<a href="https://arstechnica.com/security/2023/09/incomplete-disclosures-by-apple-and-google-create-huge-blindspot-for-0-day-hunters/?&web_view=true"> Full Text</a>
@@ -178,7 +418,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hong Kong-Based Cryptocurrency Firm Mixin Says Hackers Stole $200 Million in Assets<a href="https://therecord.media/mixin-cryptocurrency-business-hack-hong-kong?&web_view=true"> Full Text</a>
@@ -194,7 +434,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Xenomorph Malware Returns to Strike Customers of Over 30 American Banks<a href="https://www.threatfabric.com/blogs/xenomorph?&web_view=true"> Full Text</a>
@@ -210,7 +450,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SANS Survey Shows Drop in 2023 ICS/OT Security Budgets<a href="https://www.securityweek.com/sans-survey-shows-drop-in-2023-ics-ot-security-budgets/?&web_view=true"> Full Text</a>
@@ -226,7 +466,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Zealand University Operating Despite Cyberattack<a href="https://therecord.media/auckland-university-operating-cyberattack?&web_view=true"> Full Text</a>
@@ -242,7 +482,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Report Uncovers Three Distinct Clusters of China-Nexus Attacks on Southeast Asian Government<a href="https://thehackernews.com/2023/09/new-report-uncovers-three-distinct.html"> Full Text</a>
@@ -258,7 +498,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hidden Dangers Loom for Subsea Cables, the Invisible Infrastructure of the Internet<a href="https://www.helpnetsecurity.com/2023/09/21/subsea-cable-resilience/?&web_view=true"> Full Text</a>
@@ -274,7 +514,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit, BlackCat, and Clop Prevail as Top RAAS Groups: Ransomware in First Half of 2023<a href="https://www.trendmicro.com/vinfo/us/security/news/ransomware-by-the-numbers/lockbit-blackcat-and-clop-prevail-as-top-raas-groups-for-1h-2023?&web_view=true"> Full Text</a>
@@ -290,7 +530,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: T-Mobile Denies Rumors of a Breach Affecting Employee Data<a href="https://therecord.media/tmobile-denies-breach-rumors-employee-data?&web_view=true"> Full Text</a>
@@ -306,7 +546,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 25, 2023
+September 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Outer Space and Juicy Mix: OilRig Campaigns Targeting Israeli Organizations<a href="https://cyware.com/news/outer-space-and-juicy-mix-oilrig-campaigns-targeting-israeli-organizations-b4b44d19"> Full Text</a>
