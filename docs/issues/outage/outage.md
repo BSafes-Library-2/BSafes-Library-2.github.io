@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+September 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Royal Lurked in Dallas’ Systems Weeks Before Ransomware Attack<a href="https://www.cybersecuritydive.com/news/dallas-post-attack-report/694630/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Royal ransomware group infiltrated Dallas' systems, surveilled and exfiltrated data for a month before launching a ransomware attack, causing widespread disruption to critical city services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

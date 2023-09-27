@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are You Willing to Pay the High Cost of Compromised Credentials?<a href="https://thehackernews.com/2023/09/are-you-willing-to-pay-high-cost-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Weak password policies leave organizations vulnerable to attacks. But are the standard password complexity requirements enough to secure them?&nbsp; 83% of compromised passwords &nbsp;would satisfy the password complexity and length requirements of compliance standards. That's because bad actors already have access to billions of stolen credentials that can be used to compromise additional accounts by reusing those same credentials. To strengthen password security, organizations need to look beyond complexity requirements and block the use of compromised credentials. Need stolen credentials? There's a market for that Every time an organization gets breached or a subset of customers' credentials is stolen, there's a high possibility all those passwords end up for sale on the dark web. Remember the&nbsp; Dropbox and LinkedIn hack &nbsp;that resulted in 71 million and 117 million stolen passwords? There is an underground market that sells those credentials to hackers which they can then use in cre
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SANS Survey Shows Drop in 2023 ICS/OT Security Budgets<a href="https://www.securityweek.com/sans-survey-shows-drop-in-2023-ics-ot-security-budgets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The budgets allocated for the security of industrial control systems (ICS) and operational technology (OT) have decreased in 2023 compared to the previous year, with over 21% of organizations reporting not having a cybersecurity budget at all.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hidden Dangers Loom for Subsea Cables, the Invisible Infrastructure of the Internet<a href="https://www.helpnetsecurity.com/2023/09/21/subsea-cable-resilience/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Subsea cables are a critical component of the global internet infrastructure, and protecting them from accidental damage, natural phenomena, physical attacks, and cyberattacks is crucial.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit, BlackCat, and Clop Prevail as Top RAAS Groups: Ransomware in First Half of 2023<a href="https://www.trendmicro.com/vinfo/us/security/news/ransomware-by-the-numbers/lockbit-blackcat-and-clop-prevail-as-top-raas-groups-for-1h-2023?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the first half of 2023, small businesses were the most targeted victims of LockBit and BlackCat, while large enterprises were the primary targets of Clop ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

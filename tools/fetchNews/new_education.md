@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Essential Guide to Cybersecurity Compliance<a href="https://thehackernews.com/2023/09/essential-guide-to-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SOC 2, ISO, HIPAA, Cyber Essentials – all the security frameworks and certifications today are an acronym soup that can make even a compliance expert's head spin. If you're embarking on your compliance journey, read on to discover the differences between standards, which is best for your business, and how vulnerability management can aid compliance. What is cybersecurity compliance? Cybersecurity compliance means you have met a set of agreed rules regarding the way you protect sensitive information and customer data. These rules can be set by law, regulatory authorities, trade associations or industry groups.&nbsp; For example, the GDPR is set by the EU with a wide range of cybersecurity requirements that every organization within its scope must comply with, while ISO 27001 is a voluntary (but internationally recognized) set of best practices for information security management. Customers increasingly expect the assurance that compliance brings, because breaches and data disclosure will
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

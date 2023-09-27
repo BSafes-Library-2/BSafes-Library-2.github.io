@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Data of 25,000 Hongkongers at Risk After Cyberattack Against Consumer Council<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3235695/personal-data-over-25000-hongkongers-risk-after-cyberattack-against-consumer-watchdog-earlier?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The council has restored its computer systems but anticipates delays in addressing complaints, and is taking extra precautions by notifying individuals who may have been affected by the data leak.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: T-Mobile Denies Rumors of a Breach Affecting Employee Data<a href="https://therecord.media/tmobile-denies-breach-rumors-employee-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stolen data, believed to be from an authorized retailer called Connectivity Source, includes employee IDs, login information, Social Security numbers, and service account details.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 22, 2023 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The FTC, 1Health.io, and Genetic Data Privacy and Security <a href="https://www.lawfaremedia.org/article/the-ftc-1health.io-and-genetic-data-privacy-and-security"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Trade Commission (FTC) has finalized an order with 1Health.io (formerly Vitagene), a genetic testing company that was the subject of a June 2023 FTC complaint. 1Health.io, to quote the FTC’s recent press release, “left sensitive genetic and health data unsecured, deceived consumers about their ability to get their data deleted, and changed its privacy policy retroactively without adequately notifying consumers and obtaining their consent.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

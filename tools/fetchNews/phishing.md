@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Military Targeted in Phishing Campaign Leveraging Drone Manuals<a href="https://thehackernews.com/2023/09/ukrainian-military-targeted-in-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian military entities are the target of a phishing campaign that leverages drone manuals as lures to deliver a Go-based open-source post-exploitation toolkit called Merlin. "Since drones or Unmanned Aerial Vehicles (UAVs) have been an integral tool used by the Ukrainian military, malware-laced lure files themed as UAVs service manuals have begun to surface," Securonix researchers Den Iuzvyk, Tim Peck, and Oleg Kolesnikov said in a report shared with The Hacker News. The cybersecurity company is tracking the campaign under the name&nbsp; STARK#VORTEX . The starting point of the attack is a Microsoft Compiled HTML Help (CHM) file that, when opened, runs malicious JavaScript embedded inside one of the HTML pages to execute PowerShell code designed to contact a remote server to fetch an obfuscated binary. The Windows-based payload is decoded to extract the&nbsp; Merlin Agent , which, in turn, is configured to communicate with a command-and-control (C2) server for post-exploita
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

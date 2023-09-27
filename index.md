@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2023
+September 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ALPHV Ransomware Group Targets Clarion, Phil-Data Business Systems, and MNGI Digestive Health<a href="https://thecyberexpress.com/alphv-ransomware-group-cyberattack-update/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2023
+September 26, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft is Rolling out Support for Passkeys in Windows 11<a href="https://thehackernews.com/2023/09/microsoft-is-rolling-out-support-for.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2023
+September 26, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Smishing Triad Stretches its Tentacles into the United Arab Emirates<a href="https://securityaffairs.com/151465/cyber-crime/smishing-triad-united-arab-emirates.html?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2023
+September 26, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ShadowSyndicate: A New Cybercrime Group Linked to 7 Ransomware Families<a href="https://thehackernews.com/2023/09/shadowsyndicate-new-cybercrime-group.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2023
+September 26, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Decade Worth of Newborn Child Registry Data Stolen in MOVEit Hack at BORN Ontario<a href="https://techcrunch.com/2023/09/25/decade-of-newborn-child-registry-data-stolen-in-moveit-mass-hack/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2023
+September 26, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Essential Guide to Cybersecurity Compliance<a href="https://thehackernews.com/2023/09/essential-guide-to-cybersecurity.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2023
+September 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kuwait Isolates Some Government Systems Following Attack on its Finance Ministry<a href="https://therecord.media/kuwait-isolates-systems-after-ransomware-attack?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2023
+September 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Xenomorph Banking Trojan: A New Variant Targeting 35+ U.S. Financial Institutions<a href="https://thehackernews.com/2023/09/xenomorph-banking-trojan-new-variant.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2023
+September 26, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stratascale Acquires VECTOR0 To Strengthen Its Cybersecurity Services<a href="https://www.helpnetsecurity.com/2023/09/26/stratascale-vector0-acquisition/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2023
+September 26, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Report: The High Tech Industry Targeted the Most with 46% of NLX-Tagged Attack Traffic<a href="https://thehackernews.com/2023/09/threat-report-high-tech-industry.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2023
+September 26, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Royal Lurked in Dallas’ Systems Weeks Before Ransomware Attack<a href="https://www.cybersecuritydive.com/news/dallas-post-attack-report/694630/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2023
+September 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers TAG-74 Targets South Korean Organizations in a Multi-Year Campaign<a href="https://thehackernews.com/2023/09/chinese-hackers-tag-74-targets-south.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2023
+September 26, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sandman APT Brings LuaDream, Targets Telcos in Middle East<a href="https://cyware.com/news/sandman-apt-brings-luadream-targets-telcos-in-middle-east-0a2b8f87"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2023
+September 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical JetBrains TeamCity Flaw Could Expose Source Code and Build Pipelines to Attackers<a href="https://thehackernews.com/2023/09/critical-jetbrains-teamcity-flaw-could.html"> Full Text</a>
@@ -258,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 26, 2023
+September 26, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Despite Rising Insider Risk Costs, Budgets are Being Wasted in the Wrong Places<a href="https://www.helpnetsecurity.com/2023/09/25/insider-risk-cost/?&web_view=true"> Full Text</a>

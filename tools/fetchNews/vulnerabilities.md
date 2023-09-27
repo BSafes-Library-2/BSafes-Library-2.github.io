@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Incomplete Disclosures by Apple and Google Create “Huge Blindspot” for Zero-Day Hunters<a href="https://arstechnica.com/security/2023/09/incomplete-disclosures-by-apple-and-google-create-huge-blindspot-for-0-day-hunters/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's limited disclosure and the separate CVE designations for the vulnerability by Apple, Google, and Citizen Lab have hindered the detection and patching of the critical vulnerability in other software relying on libwebp.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

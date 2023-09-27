@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft is Rolling out Support for Passkeys in Windows 11<a href="https://thehackernews.com/2023/09/microsoft-is-rolling-out-support-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is officially rolling out support for passkeys in Windows 11 today as part of a&nbsp; major update &nbsp;to the desktop operating system. The feature allows users to login to websites and applications without having to provide a username and password, instead relying on their device PIN or biometric information to complete the step. Based on&nbsp; FIDO standards , Passkeys were&nbsp; first announced &nbsp;in May 2022 as a replacement for passwords in a manner that's both strong and phishing-resistant. It has since been adopted by&nbsp; Apple ,&nbsp; Google , and a number of other services in recent months. While the tech giant added passkey management in the Windows Insider program back in June 2023, the development marks the feature's general availability. "Passkeys are the cross-platform future of secure sign-in management," David Weston, vice president of enterprise and OS Security,&nbsp; said . "A passkey creates a unique, unguessable cryptographic credential that is securely stored
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

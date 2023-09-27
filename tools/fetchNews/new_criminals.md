@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smishing Triad Stretches its Tentacles into the United Arab Emirates<a href="https://securityaffairs.com/151465/cyber-crime/smishing-triad-united-arab-emirates.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"Smishing Triad" is leveraging compromised Apple iCloud accounts and illegally obtained databases containing personally identifiable information (PII) to carry out their attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShadowSyndicate: A New Cybercrime Group Linked to 7 Ransomware Families<a href="https://thehackernews.com/2023/09/shadowsyndicate-new-cybercrime-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity experts have shed light on a new cybercrime group known as&nbsp; ShadowSyndicate &nbsp;(formerly Infra Storm) that may have leveraged as many as seven different ransomware families over the past year. "ShadowSyndicate is a threat actor that works with various ransomware groups and affiliates of ransomware programs," Group-IB and Bridewell&nbsp; said &nbsp;in a new joint report. The actor, active since July 16, 2022, has linked to ransomware activity related to Quantum, Nokoyawa, BlackCat, Royal, Cl0p, Cactus, and Play strains, while also deploying off-the-shelf post-exploitation tools like&nbsp; Cobalt Strike &nbsp;and&nbsp; Sliver &nbsp;as well as loaders such as&nbsp; IcedID &nbsp;and&nbsp; Matanbuchus . The findings are based on a distinct SSH fingerprint (1ca4cbac895fc3bd12417b77fc6ed31d) discovered on 85 servers, 52 of which have been used as command-and-control (C2) for Cobalt Strike. Among those servers are eight different Cobalt Strike license keys (or watermarks). A majority of the servers (23) are loc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
