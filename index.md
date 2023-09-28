@@ -34,6 +34,182 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShadowSyndicate: New RaaS Connected to Multiple Ransomware Families<a href="https://cyware.com/news/shadowsyndicate-new-raas-connected-to-multiple-ransomware-families-be5cdeab"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered the infrastructure linked to a threat group called ShadowSyndicate, believed to have launched attacks using seven distinct ransomware families in the last year.  ShadowSyndicate has been identified as using a consistent   SSH   fingerprint across 85 servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red Cross-Themed Phishing Attacks Distributing DangerAds and AtlasAgent Backdoors<a href="https://thehackernews.com/2023/09/red-cross-themed-phishing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new threat actor known as  AtlasCross  has been observed leveraging Red Cross-themed phishing lures to deliver two previously undocumented backdoors named DangerAds and AtlasAgent. NSFOCUS Security Labs  described  the adversary as having a "high technical level and cautious attack attitude," adding that "the phishing attack activity captured this time is part of the attacker's targeted strike on specific targets and is its main means to achieve in-domain penetration." The attack chains start with a macro-laced Microsoft document that purports to be about a blood donation drive from the American Red Cross that, when launched, runs the malicious macro to set up persistence, exfiltrate system metadata to a remote server (data.vectorse[.]com) that's a sub-domain of a legitimate website belonging to a structural and engineering firm based in the U.S. It also extracts a file named KB4495667.pkg (codenamed DangerAds), which, subsequently acts as a loader to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Newly Discovered ZenRAT Malware Targets Windows Users<a href="https://cyware.com/news/newly-discovered-zenrat-malware-targets-windows-users-20b5a510"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware strain called ZenRAT has emerged in the wild to steal information from Windows systems. It was initially discovered on a website pretending to be associated with the open-source password manager Bitwarden. People should be wary of ads in search engine results as they remain a major dr ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New GPU Side-Channel Vulnerability Leaking Sensitive Data<a href="https://thehackernews.com/2023/09/researchers-uncover-new-gpu-side.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel side-channel attack called  GPU.zip  renders virtually all modern graphics processing units (GPU) vulnerable to information leakage. "This channel exploits an optimization that is data dependent, software transparent, and present in nearly all modern GPUs: graphical data compression," a group of academics from the University of Texas at Austin, Carnegie Mellon University, University of Washington, and the University of Illinois Urbana-Champaign  said . Graphical data compression  is a feature in integrated GPUs (iGPUs) that allows for saving memory bandwidth and improving performance when rendering frames, compressing visual data losslessly even when it's not requested by software. The study found that the compression, which happens in various vendor-specific and undocumented ways, induces data-dependent  DRAM  traffic and cache occupancy that can be measured using a side-channel. "An attacker can exploit the iGPU-based compression channel to perform cro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The CISO Carousel and its Effect on Enterprise Cybersecurity<a href="https://www.securityweek.com/the-ciso-carousel-and-its-effect-on-enterprise-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs often face being used as scapegoats for security incidents, leading to high turnover rates in the role. Lack of board support and prioritization of cybersecurity contributes to CISO churn.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Survey Uncovers How Companies Are Confronting Data Security Challenges Head-On<a href="https://thehackernews.com/2023/09/new-survey-uncovers-how-companies-are.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data security is in the headlines often, and it's almost never for a positive reason. Major breaches, new ways to hack into an organization's supposedly secure data, and other threats make the news because well, it's scary — and expensive.  Data breaches, ransomware and malware attacks, and other cybercrime might be pricey to prevent, but they are even more costly when they occur, with the  average cost  of a data breach reaching $4.35 million and counting.  Accordingly, companies are investing in solutions that combat these problems and focusing on their Data security and protection more than ever, based on the results of the  WinZip Enterprise survey  of leading industry professionals responsible for implementing and maintaining security at their organizations.  Confidence is Up Among Data Security Pros While the media is reporting on a wide range of security threats, many of those surveyed reported a certain level of confidence in their organization's data security. For instan
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Flair Airlines Leaked MySQL Database Credentials, SMTP Configs, and Other Sensitive Data<a href="https://securityaffairs.com/151512/data-breach/canadian-flair-airlines-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leak consisted of publicly accessible environment files hosted on the airline's website. It included MySQL database credentials, SMTP configuration, and other sensitive information, potentially allowing unauthorized access and phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ZenRAT Malware Targeting Windows Users via Fake Password Manager Software<a href="https://thehackernews.com/2023/09/new-zenrat-malware-targeting-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware strain called ZenRAT has emerged in the wild that's distributed via bogus installation packages of the Bitwarden password manager. "The malware is specifically targeting Windows users and will redirect people using other hosts to a benign web page," enterprise security firm Proofpoint  said  in a technical report. "The malware is a modular remote access trojan (RAT) with information stealing capabilities." ZenRAT is hosted on fake websites pretending to be associated with Bitwarden, although it's uncertain as to how traffic is being directed to the domains. Such malware has been propagated via phishing, malvertising, or SEO poisoning attacks in the past. The payload (Bitwarden-Installer-version-2023-7-1.exe), downloaded from crazygameis[.]com, is a trojanized version of the standard Bitwarden installation package that contains a malicious .NET executable (ApplicationRuntimeMonitor.exe). A noteworthy aspect of the campaign is that users wh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GPU Side-Channel Attack Allows Malicious Websites to Steal Data<a href="https://www.securityweek.com/new-gpu-side-channel-attack-allows-malicious-websites-to-steal-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new attack method, named GPU.zip, was discovered and detailed by representatives of the University of Texas at Austin, Carnegie Mellon University, University of Washington, and University of Illinois Urbana-Champaign.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical libwebp Vulnerability Under Active Exploitation - Gets Maximum CVSS Score<a href="https://thehackernews.com/2023/09/new-libwebp-vulnerability-under-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has assigned a new CVE identifier for a critical security flaw in the libwebp image library for rendering images in the  WebP format  that has come under active exploitation in the wild. Tracked as  CVE-2023-5129 , the issue has been given the maximum severity score of 10.0 on the CVSS rating system. It has been described as an issue rooted in the  Huffman coding algorithm  - With a specially crafted WebP lossless file, libwebp may write data out of bounds to the heap. The ReadHuffmanCodes() function allocates the HuffmanCode buffer with a size that comes from an array of precomputed sizes: kTableSize. The color_cache_bits value defines which size to use. The kTableSize array only takes into account sizes for 8-bit first-level table lookups but not second-level table lookups. libwebp allows codes that are up to 15-bit (MAX_ALLOWED_CODE_LENGTH). When BuildHuffmanTable() attempts to fill the second-level tables it may write data out-of-bounds. The OOB write to the undersized ar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkBeam Leaks Billions of Credentials via Unsecured Elasticsearch and Kibana Interface<a href="https://securityaffairs.com/151566/security/darkbeam-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data, including email and password pairs, provides cybercriminals with almost limitless attack capabilities, making affected users vulnerable to targeted phishing campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
