@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShadowSyndicate: New RaaS Connected to Multiple Ransomware Families<a href="https://cyware.com/news/shadowsyndicate-new-raas-connected-to-multiple-ransomware-families-be5cdeab"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered the infrastructure linked to a threat group called ShadowSyndicate, believed to have launched attacks using seven distinct ransomware families in the last year.  ShadowSyndicate has been identified as using a consistent   SSH   fingerprint across 85 servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

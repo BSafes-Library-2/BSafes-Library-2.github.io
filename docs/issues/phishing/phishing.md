@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red Cross-Themed Phishing Attacks Distributing DangerAds and AtlasAgent Backdoors<a href="https://thehackernews.com/2023/09/red-cross-themed-phishing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new threat actor known as&nbsp; AtlasCross &nbsp;has been observed leveraging Red Cross-themed phishing lures to deliver two previously undocumented backdoors named DangerAds and AtlasAgent. NSFOCUS Security Labs&nbsp; described &nbsp;the adversary as having a "high technical level and cautious attack attitude," adding that "the phishing attack activity captured this time is part of the attacker's targeted strike on specific targets and is its main means to achieve in-domain penetration." The attack chains start with a macro-laced Microsoft document that purports to be about a blood donation drive from the American Red Cross that, when launched, runs the malicious macro to set up persistence, exfiltrate system metadata to a remote server (data.vectorse[.]com) that's a sub-domain of a legitimate website belonging to a structural and engineering firm based in the U.S. It also extracts a file named KB4495667.pkg (codenamed DangerAds), which, subsequently acts as a loader to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

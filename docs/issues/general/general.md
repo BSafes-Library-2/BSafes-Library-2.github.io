@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The CISO Carousel and its Effect on Enterprise Cybersecurity<a href="https://www.securityweek.com/the-ciso-carousel-and-its-effect-on-enterprise-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs often face being used as scapegoats for security incidents, leading to high turnover rates in the role. Lack of board support and prioritization of cybersecurity contributes to CISO churn.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Survey Uncovers How Companies Are Confronting Data Security Challenges Head-On<a href="https://thehackernews.com/2023/09/new-survey-uncovers-how-companies-are.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data security is in the headlines often, and it's almost never for a positive reason. Major breaches, new ways to hack into an organization's supposedly secure data, and other threats make the news because well, it's scary — and expensive.&nbsp; Data breaches, ransomware and malware attacks, and other cybercrime might be pricey to prevent, but they are even more costly when they occur, with the&nbsp; average cost &nbsp;of a data breach reaching $4.35 million and counting.&nbsp; Accordingly, companies are investing in solutions that combat these problems and focusing on their Data security and protection more than ever, based on the results of the&nbsp; WinZip Enterprise survey &nbsp;of leading industry professionals responsible for implementing and maintaining security at their organizations.&nbsp; Confidence is Up Among Data Security Pros While the media is reporting on a wide range of security threats, many of those surveyed reported a certain level of confidence in their organization's data security. For instan
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

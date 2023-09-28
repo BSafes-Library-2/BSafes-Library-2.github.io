@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+September 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Despite Rising Insider Risk Costs, Budgets are Being Wasted in the Wrong Places<a href="https://www.helpnetsecurity.com/2023/09/25/insider-risk-cost/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cost of insider risks for organizations is at an all-time high, with the average annual cost reaching $16.2 million, a 40% increase in four years, according to DTEX Systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

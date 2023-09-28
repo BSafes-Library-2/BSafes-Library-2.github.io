@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New GPU Side-Channel Vulnerability Leaking Sensitive Data<a href="https://thehackernews.com/2023/09/researchers-uncover-new-gpu-side.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel side-channel attack called&nbsp; GPU.zip &nbsp;renders virtually all modern graphics processing units (GPU) vulnerable to information leakage. "This channel exploits an optimization that is data dependent, software transparent, and present in nearly all modern GPUs: graphical data compression," a group of academics from the University of Texas at Austin, Carnegie Mellon University, University of Washington, and the University of Illinois Urbana-Champaign&nbsp; said . Graphical data compression &nbsp;is a feature in integrated GPUs (iGPUs) that allows for saving memory bandwidth and improving performance when rendering frames, compressing visual data losslessly even when it's not requested by software. The study found that the compression, which happens in various vendor-specific and undocumented ways, induces data-dependent&nbsp; DRAM &nbsp;traffic and cache occupancy that can be measured using a side-channel. "An attacker can exploit the iGPU-based compression channel to perform cro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical libwebp Vulnerability Under Active Exploitation - Gets Maximum CVSS Score<a href="https://thehackernews.com/2023/09/new-libwebp-vulnerability-under-active.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has assigned a new CVE identifier for a critical security flaw in the libwebp image library for rendering images in the&nbsp; WebP format &nbsp;that has come under active exploitation in the wild. Tracked as&nbsp; CVE-2023-5129 , the issue has been given the maximum severity score of 10.0 on the CVSS rating system. It has been described as an issue rooted in the&nbsp; Huffman coding algorithm &nbsp;- With a specially crafted WebP lossless file, libwebp may write data out of bounds to the heap. The ReadHuffmanCodes() function allocates the HuffmanCode buffer with a size that comes from an array of precomputed sizes: kTableSize. The color_cache_bits value defines which size to use. The kTableSize array only takes into account sizes for 8-bit first-level table lookups but not second-level table lookups. libwebp allows codes that are up to 15-bit (MAX_ALLOWED_CODE_LENGTH). When BuildHuffmanTable() attempts to fill the second-level tables it may write data out-of-bounds. The OOB write to the undersized ar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

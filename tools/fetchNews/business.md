@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stratascale Acquires VECTOR0 To Strengthen Its Cybersecurity Services<a href="https://www.helpnetsecurity.com/2023/09/26/stratascale-vector0-acquisition/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Through the acquisition, Stratascale professionals and their customers gain visibility of attack vectors and points of vulnerability, enhancing Stratascale’s ability to deliver proactive cybersecurity services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

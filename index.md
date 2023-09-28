@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2023
+September 27, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ShadowSyndicate: New RaaS Connected to Multiple Ransomware Families<a href="https://cyware.com/news/shadowsyndicate-new-raas-connected-to-multiple-ransomware-families-be5cdeab"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2023
+September 27, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Red Cross-Themed Phishing Attacks Distributing DangerAds and AtlasAgent Backdoors<a href="https://thehackernews.com/2023/09/red-cross-themed-phishing-attacks.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2023
+September 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Newly Discovered ZenRAT Malware Targets Windows Users<a href="https://cyware.com/news/newly-discovered-zenrat-malware-targets-windows-users-20b5a510"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2023
+September 27, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover New GPU Side-Channel Vulnerability Leaking Sensitive Data<a href="https://thehackernews.com/2023/09/researchers-uncover-new-gpu-side.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2023
+September 27, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The CISO Carousel and its Effect on Enterprise Cybersecurity<a href="https://www.securityweek.com/the-ciso-carousel-and-its-effect-on-enterprise-cybersecurity/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2023
+September 27, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Survey Uncovers How Companies Are Confronting Data Security Challenges Head-On<a href="https://thehackernews.com/2023/09/new-survey-uncovers-how-companies-are.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2023
+September 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian Flair Airlines Leaked MySQL Database Credentials, SMTP Configs, and Other Sensitive Data<a href="https://securityaffairs.com/151512/data-breach/canadian-flair-airlines-data-leak.html?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2023
+September 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ZenRAT Malware Targeting Windows Users via Fake Password Manager Software<a href="https://thehackernews.com/2023/09/new-zenrat-malware-targeting-windows.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2023
+September 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New GPU Side-Channel Attack Allows Malicious Websites to Steal Data<a href="https://www.securityweek.com/new-gpu-side-channel-attack-allows-malicious-websites-to-steal-data/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2023
+September 27, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical libwebp Vulnerability Under Active Exploitation - Gets Maximum CVSS Score<a href="https://thehackernews.com/2023/09/new-libwebp-vulnerability-under-active.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2023
+September 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkBeam Leaks Billions of Credentials via Unsecured Elasticsearch and Kibana Interface<a href="https://securityaffairs.com/151566/security/darkbeam-data-leak.html?&web_view=true"> Full Text</a>

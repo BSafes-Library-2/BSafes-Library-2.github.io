@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decade Worth of Newborn Child Registry Data Stolen in MOVEit Hack at BORN Ontario<a href="https://techcrunch.com/2023/09/25/decade-of-newborn-child-registry-data-stolen-in-moveit-mass-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stolen data includes names, addresses, health card numbers, and clinical information related to fertility, pregnancy, newborn, and child healthcare, with potential impacts on individuals from January 2010 to May 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

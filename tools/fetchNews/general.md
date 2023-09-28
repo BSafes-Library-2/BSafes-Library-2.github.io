@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Report: The High Tech Industry Targeted the Most with 46% of NLX-Tagged Attack Traffic<a href="https://thehackernews.com/2023/09/threat-report-high-tech-industry.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How To Use This Report Enhance situational awareness of techniques used by threat actors Identify potential attacks targeting your industry Gain insights to help improve and accelerate your organization's threat response Summary of Findings The Network Effect Threat Report offers insights based on unique data from&nbsp; Fastly's Next-Gen WAF &nbsp;from Q2 2023 (April 1, 2023 to June 30, 2023). This report looks at traffic originating from IP addresses tagged by Fastly's Network Learning Exchange (NLX), our collective threat intelligence feed that anonymously shares attack source IP addresses across all Next-Gen WAF customer networks. Before diving deeper into the attack observations, here are five key takeaways that we found most significant in our research, covering global traffic across multiple industries, including High Tech, Financial Services, Commerce, Education, and Media and entertainment. Multi-customer attacks: 69% of IPs tagged by NLX targeted multiple customers, and 6
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

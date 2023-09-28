@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+September 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV Ransomware Group Targets Clarion, Phil-Data Business Systems, and MNGI Digestive Health<a href="https://thecyberexpress.com/alphv-ransomware-group-cyberattack-update/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ALPHV ransomware group, also known as the BlackCat hacker collective, has recently targeted three new victims in their cyberattacks. The group has demonstrated adaptability and employed advanced technical methods in their attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kuwait Isolates Some Government Systems Following Attack on its Finance Ministry<a href="https://therecord.media/kuwait-isolates-systems-after-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack started on September 18, and officials immediately took steps to isolate and shut down affected systems. The Ministry of Finance assured that payment and payroll systems were on a separate network and that workers would be paid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers TAG-74 Targets South Korean Organizations in a Multi-Year Campaign<a href="https://thehackernews.com/2023/09/chinese-hackers-tag-74-targets-south.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A "multi-year" Chinese state-sponsored cyber espionage campaign has been observed targeting South Korean academic, political, and government organizations. Recorded Future's Insikt Group, which is&nbsp; tracking &nbsp;the activity under the moniker TAG-74, said the adversary has been linked to "Chinese military intelligence and poses a significant threat to academic, aerospace and defense, government, military, and political entities in South Korea, Japan, and Russia." The cybersecurity firm characterized the targeting of South Korean academic institutions as in alignment with China's broader efforts to conduct intellectual property theft and expand its influence, not to mention motivated by the country's strategic relations with the U.S. Social engineering attacks mounted by the adversary make use of Microsoft Compiled HTML Help (CHM) file lures to drop a custom variant of an open-source Visual Basic Script backdoor called&nbsp; ReVBShell , which subsequently ser
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

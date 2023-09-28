@@ -8,6 +8,20 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical JetBrains TeamCity Flaw Could Expose Source Code and Build Pipelines to Attackers<a href="https://thehackernews.com/2023/09/critical-jetbrains-teamcity-flaw-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability in the JetBrains TeamCity continuous integration and continuous deployment (CI/CD) software could be exploited by unauthenticated attackers to achieve remote code execution on affected systems. The flaw, tracked as&nbsp; CVE-2023-42793 , carries a CVSS score of 9.8 and has been addressed in&nbsp; TeamCity version 2023.05.4 &nbsp;following responsible disclosure on September 6, 2023. "Attackers could leverage this access to steal source code, service secrets, and private keys, take control over attached build agents, and poison build artifacts," Sonar security researcher Stefan Schiller&nbsp; said &nbsp;in a report last week. Successful exploitation of the bug could also permit threat actors to access the build pipelines and inject arbitrary code, leading to an integrity breach and supply chain compromise. Additional details of the bug have been withheld due to the fact that it's trivial to exploit, with Sonar noting&nbsp;that it's likely to be weaponized in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

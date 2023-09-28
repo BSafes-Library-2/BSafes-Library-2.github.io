@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+September 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Flair Airlines Leaked MySQL Database Credentials, SMTP Configs, and Other Sensitive Data<a href="https://securityaffairs.com/151512/data-breach/canadian-flair-airlines-data-leak.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leak consisted of publicly accessible environment files hosted on the airline's website. It included MySQL database credentials, SMTP configuration, and other sensitive information, potentially allowing unauthorized access and phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkBeam Leaks Billions of Credentials via Unsecured Elasticsearch and Kibana Interface<a href="https://securityaffairs.com/151566/security/darkbeam-data-leak.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data, including email and password pairs, provides cybercriminals with almost limitless attack capabilities, making affected users vulnerable to targeted phishing campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
