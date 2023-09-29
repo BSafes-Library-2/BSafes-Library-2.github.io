@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Rolls Dice on Public Service Campaign to Raise Cyber Awareness<a href="https://www.cybersecuritydive.com/news/cisa-campaign-cyber-awareness/694920/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has launched a national public service campaign called "Secure our World" to raise awareness of cybersecurity in local communities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

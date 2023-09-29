@@ -8,6 +8,90 @@ nav_order: 900015
 
 ## Attack
 ---
+September 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Repositories Hit by Password-Stealing Commits Disguised as Dependabot Contributions<a href="https://thehackernews.com/2023/09/github-repositories-hit-by-password.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new deceptive campaign has been observed hijacking GitHub accounts and committing malicious code disguised as Dependabot contributions with an aim to steal passwords from developers. "The malicious code exfiltrates the GitHub project's defined secrets to a malicious C2 server and modify any existing javascript files in the attacked project with a web-form password-stealer malware code effecting any end-user submitting its password in a web form," Checkmarx&nbsp; said &nbsp;in a technical report. The malware is also designed to capture GitHub secrets and variables to a remote server by means of a GitHub Action. The software supply chain security firm said it observed the atypical commits to hundreds of public and private GitHub repositories between July 8 and 11, 2023. It has emerged that the victims had their GitHub personal access tokens stolen and used by the threat actors to make falsified code commits to users' repositories by posing as Dependabot. Dependabot &nbsp;is d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's BlackTech Hacking Group Exploited Routers to Target U.S. and Japanese Companies<a href="https://thehackernews.com/2023/09/chinas-blacktech-hacking-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies from Japan and the U.S. have warned of attacks mounted by a state-backed hacking group from China to stealthily tamper with branch routers and use them as jumping-off points to access the networks of various companies in the two countries. The attacks have been tied to a malicious cyber actor dubbed&nbsp; BlackTech &nbsp;by the U.S. National Security Agency (NSA), Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Security Agency (CISA), Japan National Police Agency (NPA), and the Japan National Center of Incident Readiness and Strategy for Cybersecurity (NISC). "BlackTech has demonstrated capabilities in modifying router firmware without detection and exploiting routers' domain-trust relationships to pivot from international subsidiaries to headquarters in Japan and the United States, which are the primary targets," the agencies&nbsp; said &nbsp;in a joint alert. Targeted sectors encompass government, industrial, technology, media, electronics
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Budworm Targeting Middle Eastern Telco and Asian Government Agencies<a href="https://thehackernews.com/2023/09/china-linked-budworm-targeting-middle.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government and telecom entities have been subjected to a new wave of attacks by a China-linked threat actor tracked as&nbsp; Budworm &nbsp;using an updated malware toolset. The intrusions, targeting a Middle Eastern telecommunications organization and an Asian government, took place in August 2023, with the adversary deploying an improved version of its SysUpdate toolkit, the Symantec Threat Hunter Team, part of Broadcom,&nbsp; said &nbsp;in a report shared with The Hacker News. Budworm , also referred to by the names APT27, Bronze Union, Emissary Panda, Iron Tiger, Lucky Mouse, and Red Phoenix, is known to be active since at least 2013, targeting a wide range of industry verticals in pursuit of its intelligence gathering goals.&nbsp; The nation-state group leverages various tools such as China Chopper web shell, Gh0st RAT, HyperBro, PlugX, SysUpdate, and ZXShell to exfiltrate high-value information and maintain access to sensitive systems over a long period of time. A previous report from SecureWorks in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2023
+<br>{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Target Ukrainian Government Systems Involved in War Crimes Investigations<a href="https://therecord.media/russian-hackers-target-ukraine-gov-systems-war-crime-espionage?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian cybersecurity officials have reported that the recent espionage campaigns targeted entities involved in investigating war crimes, such as the prosecutor general's office and courts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swan Retail Cyberattack Woes Continue for Independent UK Retailers<a href="https://www.drapersonline.com/news/swan-retail-cyber-attack-woes-continue?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks have caused significant problems for retailers, with issues such as inventory management and order fulfillment still not resolved. Retailers have reported glitches and loss of sales due to the cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Campbell Soup Says Summer Cyberattack Caused Limited Business Impact<a href="https://www.cybersecuritydive.com/news/campbell-soup-cyberattack-limited-impact/694758/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident did not affect systems that connect with customers or suppliers, and the company is working with its insurer to make claims under its cyber insurance coverage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

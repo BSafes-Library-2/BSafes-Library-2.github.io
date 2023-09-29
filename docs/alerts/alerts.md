@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 26, 2023 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Launches National Public Service Announcement Campaign Encouraging Americans to Take Steps to Keep Themselves and Their Families Safe Online <a href="https://www.cisa.gov/news-events/news/cisa-launches-national-public-service-announcement-campaign-encouraging-americans-take-steps-keep"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WASHINGTON - The Cybersecurity and Infrastructure Security Agency (CISA) today announced the launch of “Secure Our World,” a nationwide cybersecurity public awareness campaign to educate all Americans on how to stay safe online. The campaign includes a public service announcement (PSA) that will air on stations around the country, as well as digital content, a toolkit, and other resources. Recognizing that technology is an integral part of our modern lives, Congress tasked CISA with creating this program to provide small businesses, communities, and individuals with the guidance and tools they need to protect themselves online.   
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 21, 2023 - Health Sector Cyber Security Coordination Center 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GPU Side-Channel Attack Allows Malicious Websites to Steal Data<a href="https://www.securityweek.com/new-gpu-side-channel-attack-allows-malicious-websites-to-steal-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new attack method, named GPU.zip, was discovered and detailed by representatives of the University of Texas at Austin, Carnegie Mellon University, University of Washington, and University of Illinois Urbana-Champaign.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

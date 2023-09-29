@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Developers Giving Enough Thought to Prompt Injection Threats When Building Code?<a href="https://www.helpnetsecurity.com/2023/09/26/prompt-injection-threats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prompt injection attacks manipulate LLMs by introducing malicious commands into free text inputs, posing a significant threat to cybersecurity and potentially leading to unauthorized activities or data leaks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

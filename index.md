@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 29, 2023
+September 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Warns of Vulnerability in IOS and IOS XE Software After Exploitation Attempts<a href="https://thehackernews.com/2023/09/cisco-warns-of-vulnerability-in-ios-and.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unraveling the CACTUS Ransomware Group’s Recent Exploits<a href="https://thecyberexpress.com/cactus-cyber-attack-latest-victim-update/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Misconfigured TeslaMate Instances Put Tesla Car Owners at Risk<a href="https://www.securityweek.com/misconfigured-teslamate-instances-put-tesla-car-owners-at-risk/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Repositories Hit by Password-Stealing Commits Disguised as Dependabot Contributions<a href="https://thehackernews.com/2023/09/github-repositories-hit-by-password.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are Developers Giving Enough Thought to Prompt Injection Threats When Building Code?<a href="https://www.helpnetsecurity.com/2023/09/26/prompt-injection-threats/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China's BlackTech Hacking Group Exploited Routers to Target U.S. and Japanese Companies<a href="https://thehackernews.com/2023/09/chinas-blacktech-hacking-group.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of Files With Potentially Sensitive Information Exposed Online, Researchers Say<a href="https://cyberscoop.com/open-directories-exposed-files/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Dark Side of Browser Isolation – and the Next Generation Browser Security Technologies<a href="https://thehackernews.com/2023/09/the-dark-side-of-browser-isolation-and.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Rolls Dice on Public Service Campaign to Raise Cyber Awareness<a href="https://www.cybersecuritydive.com/news/cisa-campaign-cyber-awareness/694920/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked Budworm Targeting Middle Eastern Telco and Asian Government Agencies<a href="https://thehackernews.com/2023/09/china-linked-budworm-targeting-middle.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Caesars Entertainment Faces Class Action Lawsuits Following Rewards Database Hack<a href="https://www.cybersecuritydive.com/news/caesars-lawsuits-database-hack/694915/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update Chrome Now: Google Releases Patch for Actively Exploited Zero-Day Vulnerability<a href="https://thehackernews.com/2023/09/update-chrome-now-google-releases-patch.html"> Full Text</a>
@@ -227,7 +227,7 @@ The Hacker News
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 28, 2023
-{: .fs-4 .fw-700 .lh-0  }
+-- [Attack](/docs/issues/attack/attack/)<br>{: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Target Ukrainian Government Systems Involved in War Crimes Investigations<a href="https://therecord.media/russian-hackers-target-ukraine-gov-systems-war-crime-espionage?&web_view=true"> Full Text</a>
 </p>
@@ -242,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swan Retail Cyberattack Woes Continue for Independent UK Retailers<a href="https://www.drapersonline.com/news/swan-retail-cyber-attack-woes-continue?&web_view=true"> Full Text</a>
@@ -258,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Campbell Soup Says Summer Cyberattack Caused Limited Business Impact<a href="https://www.cybersecuritydive.com/news/campbell-soup-cyberattack-limited-impact/694758/?&web_view=true"> Full Text</a>
