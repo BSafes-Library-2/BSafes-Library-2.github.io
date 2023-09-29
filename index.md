@@ -34,6 +34,246 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Warns of Vulnerability in IOS and IOS XE Software After Exploitation Attempts<a href="https://thehackernews.com/2023/09/cisco-warns-of-vulnerability-in-ios-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco is warning of attempted exploitation of a security flaw in its IOS Software and IOS XE Software that could permit an authenticated remote attacker to achieve remote code execution on affected systems. The medium-severity vulnerability is tracked as  CVE-2023-20109 , and has a CVSS score of 6.6. It impacts all versions of the software that have the GDOI or G-IKEv2 protocol enabled. The company  said  the shortcoming "could allow an authenticated, remote attacker who has administrative control of either a group member or a key server to execute arbitrary code on an affected device or cause the device to crash." It further noted that the issue is the result of insufficient validation of attributes in the Group Domain of Interpretation (GDOI) and G-IKEv2 protocols of the GET VPN feature and it could be weaponized by either compromising an installed key server or modifying the configuration of a group member to point to a key server that is controlled by the attacker.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unraveling the CACTUS Ransomware Group’s Recent Exploits<a href="https://thecyberexpress.com/cactus-cyber-attack-latest-victim-update/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CACTUS ransomware group employs unique encryption techniques, including hiding the decryption key within a file named ntuser.dat, to evade detection by anti-virus software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured TeslaMate Instances Put Tesla Car Owners at Risk<a href="https://www.securityweek.com/misconfigured-teslamate-instances-put-tesla-car-owners-at-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Improper configuration of third-party software like TeslaMate can result in privacy breaches, compromising the owner's daily routine and posing risks such as planned robberies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Repositories Hit by Password-Stealing Commits Disguised as Dependabot Contributions<a href="https://thehackernews.com/2023/09/github-repositories-hit-by-password.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new deceptive campaign has been observed hijacking GitHub accounts and committing malicious code disguised as Dependabot contributions with an aim to steal passwords from developers. "The malicious code exfiltrates the GitHub project's defined secrets to a malicious C2 server and modify any existing javascript files in the attacked project with a web-form password-stealer malware code effecting any end-user submitting its password in a web form," Checkmarx  said  in a technical report. The malware is also designed to capture GitHub secrets and variables to a remote server by means of a GitHub Action. The software supply chain security firm said it observed the atypical commits to hundreds of public and private GitHub repositories between July 8 and 11, 2023. It has emerged that the victims had their GitHub personal access tokens stolen and used by the threat actors to make falsified code commits to users' repositories by posing as Dependabot. Dependabot  is d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Developers Giving Enough Thought to Prompt Injection Threats When Building Code?<a href="https://www.helpnetsecurity.com/2023/09/26/prompt-injection-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Prompt injection attacks manipulate LLMs by introducing malicious commands into free text inputs, posing a significant threat to cybersecurity and potentially leading to unauthorized activities or data leaks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's BlackTech Hacking Group Exploited Routers to Target U.S. and Japanese Companies<a href="https://thehackernews.com/2023/09/chinas-blacktech-hacking-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies from Japan and the U.S. have warned of attacks mounted by a state-backed hacking group from China to stealthily tamper with branch routers and use them as jumping-off points to access the networks of various companies in the two countries. The attacks have been tied to a malicious cyber actor dubbed  BlackTech  by the U.S. National Security Agency (NSA), Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Security Agency (CISA), Japan National Police Agency (NPA), and the Japan National Center of Incident Readiness and Strategy for Cybersecurity (NISC). "BlackTech has demonstrated capabilities in modifying router firmware without detection and exploiting routers' domain-trust relationships to pivot from international subsidiaries to headquarters in Japan and the United States, which are the primary targets," the agencies  said  in a joint alert. Targeted sectors encompass government, industrial, technology, media, electronics
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Files With Potentially Sensitive Information Exposed Online, Researchers Say<a href="https://cyberscoop.com/open-directories-exposed-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent analysis by Censys has uncovered about 314,000 internet-connected devices and web servers that are exposing millions of files, potentially containing sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Dark Side of Browser Isolation – and the Next Generation Browser Security Technologies<a href="https://thehackernews.com/2023/09/the-dark-side-of-browser-isolation-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The landscape of browser security has undergone significant changes over the past decade. While Browser Isolation was once considered the gold standard for protecting against browser exploits and malware downloads, it has become increasingly inadequate and insecure in today's SaaS-centric world. The limitations of Browser Isolation, such as degraded browser performance and inability to tackle modern web-borne threats like phishing and malicious extensions, necessitate a shift towards more advanced solutions. These are the findings of a new report, titled " The Dark Side of Browser Isolation and the Next Generation of Browser Security " ( Download here ). The Roots of Browser Isolation In the past, traditional signature-based antiviruses were commonly used to protect against on-device malware infections. However, they failed to block two main types of threats. The first, browser exploit, especially in Microsoft's Internet Explorer. The second, drive-by malware down
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Rolls Dice on Public Service Campaign to Raise Cyber Awareness<a href="https://www.cybersecuritydive.com/news/cisa-campaign-cyber-awareness/694920/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has launched a national public service campaign called "Secure our World" to raise awareness of cybersecurity in local communities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Budworm Targeting Middle Eastern Telco and Asian Government Agencies<a href="https://thehackernews.com/2023/09/china-linked-budworm-targeting-middle.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government and telecom entities have been subjected to a new wave of attacks by a China-linked threat actor tracked as  Budworm  using an updated malware toolset. The intrusions, targeting a Middle Eastern telecommunications organization and an Asian government, took place in August 2023, with the adversary deploying an improved version of its SysUpdate toolkit, the Symantec Threat Hunter Team, part of Broadcom,  said  in a report shared with The Hacker News. Budworm , also referred to by the names APT27, Bronze Union, Emissary Panda, Iron Tiger, Lucky Mouse, and Red Phoenix, is known to be active since at least 2013, targeting a wide range of industry verticals in pursuit of its intelligence gathering goals.  The nation-state group leverages various tools such as China Chopper web shell, Gh0st RAT, HyperBro, PlugX, SysUpdate, and ZXShell to exfiltrate high-value information and maintain access to sensitive systems over a long period of time. A previous report from SecureWorks in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Caesars Entertainment Faces Class Action Lawsuits Following Rewards Database Hack<a href="https://www.cybersecuritydive.com/news/caesars-lawsuits-database-hack/694915/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At least four separate plaintiffs allege the company was negligent for allowing their sensitive personal data to be stolen in a social engineering attack by criminal threat groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Chrome Now: Google Releases Patch for Actively Exploited Zero-Day Vulnerability<a href="https://thehackernews.com/2023/09/update-chrome-now-google-releases-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Wednesday rolled out fixes to address a new actively exploited zero-day in the Chrome browser. Tracked as  CVE-2023-5217 , the high-severity vulnerability has been described as a  heap-based buffer overflow  in the VP8 compression format in  libvpx , a free software  video codec  library from Google and the Alliance for Open Media (AOMedia). Exploitation of such buffer overflow flaws can result in program crashes or execution of arbitrary code, impacting its availability and integrity. Clément Lecigne of Google's Threat Analysis Group (TAG) has been credited with discovering and reporting the flaw on September 25, 2023, with fellow researcher Maddie Stone  noting  on X (formerly Twitter) that it has been abused by a commercial spyware vendor to target high-risk individuals. No additional details have been disclosed by the tech giant other than to acknowledge that it's "aware that an exploit for CVE-2023-5217 exists in the wild." The latest discovery b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Target Ukrainian Government Systems Involved in War Crimes Investigations<a href="https://therecord.media/russian-hackers-target-ukraine-gov-systems-war-crime-espionage?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian cybersecurity officials have reported that the recent espionage campaigns targeted entities involved in investigating war crimes, such as the prosecutor general's office and courts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swan Retail Cyberattack Woes Continue for Independent UK Retailers<a href="https://www.drapersonline.com/news/swan-retail-cyber-attack-woes-continue?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks have caused significant problems for retailers, with issues such as inventory management and order fulfillment still not resolved. Retailers have reported glitches and loss of sales due to the cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Campbell Soup Says Summer Cyberattack Caused Limited Business Impact<a href="https://www.cybersecuritydive.com/news/campbell-soup-cyberattack-limited-impact/694758/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident did not affect systems that connect with customers or suppliers, and the company is working with its insurer to make claims under its cyber insurance coverage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 27, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
