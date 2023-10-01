@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large Michigan Healthcare Provider Confirms Ransomware Attack<a href="https://therecord.media/mclaren-healthcare-ransomware-attack-michigan?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McLaren HealthCare, one of the largest healthcare systems in Michigan, has confirmed a ransomware attack, potentially impacting patient data and causing disruptions in their computer network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Impersonates Recruiter from Meta to Target Spanish Aerospace Firm<a href="https://thehackernews.com/2023/09/lazarus-group-impersonates-recruiter.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked&nbsp; Lazarus Group &nbsp;has been linked to a cyber espionage attack targeting an unnamed aerospace company in Spain in which employees of the firm were approached by the threat actor posing as a recruiter for Meta. "Employees of the targeted company were contacted by a fake recruiter via LinkedIn and tricked into opening a malicious executable file presenting itself as a coding challenge or quiz," ESET security researcher Peter Kálnai&nbsp; said &nbsp;in a technical report shared with The Hacker News. The attack is part of a long-standing spear-phishing campaign called&nbsp; Operation Dream Job &nbsp;that's orchestrated by the hacking crew in an attempt to lure employees working at prospective targets that are of strategic interest, enticed them with lucrative job opportunities to activate the infection chain. Earlier this March, the Slovak cybersecurity company detailed an attack wave aimed at Linux users that involved the use of bogus HSBC job offers to launch a backdoo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

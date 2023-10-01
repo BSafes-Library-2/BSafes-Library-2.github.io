@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+September 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Post-Quantum Cryptography: Finally Real in Consumer Apps?<a href="https://thehackernews.com/2023/09/post-quantum-cryptography-finally-real.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most people are barely thinking about basic cybersecurity, let alone post-quantum cryptography. But the impact of a post-quantum world is coming for them regardless of whether or not it's keeping them up tonight.&nbsp; Today, many rely on encryption in their daily lives to protect their fundamental digital privacy and security, whether for messaging friends and family, storing files and photos, or simply browsing the web. The question experts have been asking for a long time, with their eye on the advances in quantum computing, is, "How long before these defenses fail?"&nbsp; The ticking clock of quantum computing One set of researchers is already sounding the alarms,&nbsp; claiming &nbsp;that they've found a way to break 2048-bit RSA encryption with a quantum computer. While the claims may be premature, they hint toward a scary future that is perhaps closer than we once thought. Breaking RSA encryption would represent a massive privacy and security vulnerability for virtually every
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

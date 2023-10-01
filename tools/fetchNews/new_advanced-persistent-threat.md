@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian APT Group OilRig Using New Menorah Malware for Covert Operations<a href="https://thehackernews.com/2023/09/iranian-apt-group-oilrig-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophisticated cyber actors backed by Iran known as&nbsp; OilRig &nbsp;have been linked to a spear-phishing campaign that infects victims with a new strain of malware called Menorah. "The malware was designed for cyberespionage, capable of identifying the machine, reading and uploading files from the machine, and downloading another file or malware," Trend Micro researchers Mohamed Fahmy and Mahmoud Zohdy&nbsp; said &nbsp;in a Friday report. The victimology of the attacks is not immediately known, although the use of decoys indicates at least one of the targets is an organization located in Saudi Arabia. Also tracked under the names APT34, Cobalt Gypsy, Hazel Sandstorm, and Helix Kitten,&nbsp; OilRig &nbsp;is an Iranian advanced persistent threat (APT) group that specializes in covert intelligence gathering operations to infiltrate and maintain access within targeted networks. The revelation builds on&nbsp; recent findings &nbsp;from NSFOCUS, which uncovered an OilRig phishing attack resulting in the deploymen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

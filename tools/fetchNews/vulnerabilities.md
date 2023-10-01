@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Warns of Vulnerability in IOS and IOS XE Software After Exploitation Attempts<a href="https://thehackernews.com/2023/09/cisco-warns-of-vulnerability-in-ios-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco is warning of attempted exploitation of a security flaw in its IOS Software and IOS XE Software that could permit an authenticated remote attacker to achieve remote code execution on affected systems. The medium-severity vulnerability is tracked as&nbsp; CVE-2023-20109 , and has a CVSS score of 6.6. It impacts all versions of the software that have the GDOI or G-IKEv2 protocol enabled. The company&nbsp; said &nbsp;the shortcoming "could allow an authenticated, remote attacker who has administrative control of either a group member or a key server to execute arbitrary code on an affected device or cause the device to crash." It further noted that the issue is the result of insufficient validation of attributes in the Group Domain of Interpretation (GDOI) and G-IKEv2 protocols of the GET VPN feature and it could be weaponized by either compromising an installed key server or modifying the configuration of a group member to point to a key server that is controlled by the attacker.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigured TeslaMate Instances Put Tesla Car Owners at Risk<a href="https://www.securityweek.com/misconfigured-teslamate-instances-put-tesla-car-owners-at-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Improper configuration of third-party software like TeslaMate can result in privacy breaches, compromising the owner's daily routine and posing risks such as planned robberies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update Chrome Now: Google Releases Patch for Actively Exploited Zero-Day Vulnerability<a href="https://thehackernews.com/2023/09/update-chrome-now-google-releases-patch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Wednesday rolled out fixes to address a new actively exploited zero-day in the Chrome browser. Tracked as&nbsp; CVE-2023-5217 , the high-severity vulnerability has been described as a&nbsp; heap-based buffer overflow &nbsp;in the VP8 compression format in&nbsp; libvpx , a free software&nbsp; video codec &nbsp;library from Google and the Alliance for Open Media (AOMedia). Exploitation of such buffer overflow flaws can result in program crashes or execution of arbitrary code, impacting its availability and integrity. Clément Lecigne of Google's Threat Analysis Group (TAG) has been credited with discovering and reporting the flaw on September 25, 2023, with fellow researcher Maddie Stone&nbsp; noting &nbsp;on X (formerly Twitter) that it has been abused by a commercial spyware vendor to target high-risk individuals. No additional details have been disclosed by the tech giant other than to acknowledge that it's "aware that an exploit for CVE-2023-5217 exists in the wild." The latest discovery b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

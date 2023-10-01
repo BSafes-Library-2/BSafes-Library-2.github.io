@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using New ASMCrypt Malware Loader to Fly Under the Radar<a href="https://thehackernews.com/2023/09/cybercriminals-using-new-asmcrypt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are selling a new crypter and loader called&nbsp; ASMCrypt , which has been described as an "evolved version" of another loader malware known as DoubleFinger. "The idea behind this type of malware is to load the final payload without the loading process or the payload itself being detected by AV/EDR, etc.," Kaspersky&nbsp; said &nbsp;in an analysis published this week. DoubleFinger was&nbsp; first documented &nbsp;by the Russian cybersecurity company, detailing infection chains leveraging the malware to propagate a cryptocurrency stealer dubbed GreetingGhoul to victims in Europe, the U.S., and Latin America. ASMCrypt, once purchased and launched by the customers, is designed to establish contact with a backend service over the TOR network using hard-coded credentials, thereby enabling the buyers to build payloads of their choice for use in their campaigns. "The application creates an encrypted blob hidden inside a .PNG file," Kaspersky said. "This image mus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

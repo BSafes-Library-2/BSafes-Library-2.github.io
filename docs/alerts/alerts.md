@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2023 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two or More Ransomware Variants Impacting the Same Victims and Data Destruction Trends <a href="https://www.ic3.gov/Media/News/2023/230928.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) is releasing this Private Industry Notification to highlight emerging ransomware trends and encourage organizations to implement the recommendations in the “Mitigations” section to reduce the likelihood and impact of ransomware incidents.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 26, 2023 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

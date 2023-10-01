@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+September 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Rising Trend of Dual Ransomware Attacks Targeting U.S. Companies<a href="https://thehackernews.com/2023/09/fbi-warns-of-rising-trend-of-dual.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) is warning of a new trend of dual ransomware attacks targeting the same victims, at least since July 2023. "During these attacks, cyber threat actors deployed two different ransomware variants against victim companies from the following variants: AvosLocker, Diamond, Hive, Karakurt, LockBit, Quantum, and Royal," the FBI&nbsp; said &nbsp;in an alert. "Variants were deployed in various combinations." Not much is known about the scale of such attacks, although it's believed that they happen in close proximity to one another, ranging from anywhere between 48 hours to within 10 days. Another notable change observed in ransomware attacks is the increased use of custom data theft, wiper tools, and malware to exert pressure on victims to pay up. "This use of dual ransomware variants resulted in a combination of data encryption, exfiltration, and financial losses from ransom payments," the agency said. "Second ran
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns Energy Sector of Likely Increase in Targeting by Chinese, Russian Hackers<a href="https://therecord.media/fbi-warning-energy-sector-increased-hacking-china-russia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns that changes in the global energy supply, including US exports of liquefied natural gas and shifts in the crude oil supply chain, are likely to boost the targeting of critical energy infrastructure by Chinese and Russian hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Old JBoss RichFaces Vulnerability Being Exploited in Attacks<a href="https://www.securityweek.com/cisa-warns-of-old-jboss-richfaces-vulnerability-being-exploited-in-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, tracked as CVE-2018-14667, was added by CISA on Thursday to its Known Exploited Vulnerabilities (KEV) Catalog, with federal agencies being instructed to apply mitigations or discontinue the use of the product by October 19.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns Organizations of Dual Ransomware, Wiper Attacks<a href="https://www.securityweek.com/fbi-warns-organizations-of-dual-ransomware-wiper-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of this trend, which was observed in July 2023, the FBI notes in a new private industry notification, threat actors deploy two ransomware variants in close date proximity to one another.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

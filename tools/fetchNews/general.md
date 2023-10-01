@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Dark Side of Browser Isolation – and the Next Generation Browser Security Technologies<a href="https://thehackernews.com/2023/09/the-dark-side-of-browser-isolation-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The landscape of browser security has undergone significant changes over the past decade. While Browser Isolation was once considered the gold standard for protecting against browser exploits and malware downloads, it has become increasingly inadequate and insecure in today's SaaS-centric world. The limitations of Browser Isolation, such as degraded browser performance and inability to tackle modern web-borne threats like phishing and malicious extensions, necessitate a shift towards more advanced solutions. These are the findings of a new report, titled " The Dark Side of Browser Isolation and the Next Generation of Browser Security " ( Download here ). The Roots of Browser Isolation In the past, traditional signature-based antiviruses were commonly used to protect against on-device malware infections. However, they failed to block two main types of threats. The first, browser exploit, especially in Microsoft's Internet Explorer. The second, drive-by malware down
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

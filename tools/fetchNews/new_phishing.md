@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT34 Deploys Phishing Attack With New Menorah Malware<a href="https://www.trendmicro.com/en_us/research/23/i/apt34-deploys-phishing-attack-with-new-malware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Menorah malware is designed for cyberespionage and possesses capabilities such as machine identification, file reading and uploading, shell command execution, and file downloading.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Fort Lauderdale, Florida, Taken for $1.2m in Email Scam<a href="https://statescoop.com/fort-lauderdale-florida-phishing-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The payment, intended for a new police headquarters building, was made to a scammer who posed as the legitimate contractor, Moss Construction. The incident underscores the need for increased cybersecurity measures against business email compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT Lures Employees of Spanish Aerospace Company with Trojanized Coding Challenges<a href="https://www.welivesecurity.com/en/eset-research/lazarus-luring-employees-trojanized-coding-challenges-case-spanish-aerospace-company/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack involved the deployment of a sophisticated backdoor called LightlessCan, which mimics native Windows commands and implements techniques to avoid detection by security monitoring software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
