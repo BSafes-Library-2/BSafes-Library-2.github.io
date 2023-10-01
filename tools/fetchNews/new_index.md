@@ -34,7 +34,279 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Extract Sounds From Still Images on Smartphone Cameras<a href="https://www.securityweek.com/researchers-extract-sounds-from-still-images-on-smartphone-cameras/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academic researchers has devised a technique to extract sounds from still images captured using smartphone cameras with rolling shutters and movable lens structures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Rising Trend of Dual Ransomware Attacks Targeting U.S. Companies<a href="https://thehackernews.com/2023/09/fbi-warns-of-rising-trend-of-dual.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Bureau of Investigation (FBI) is warning of a new trend of dual ransomware attacks targeting the same victims, at least since July 2023. "During these attacks, cyber threat actors deployed two different ransomware variants against victim companies from the following variants: AvosLocker, Diamond, Hive, Karakurt, LockBit, Quantum, and Royal," the FBI  said  in an alert. "Variants were deployed in various combinations." Not much is known about the scale of such attacks, although it's believed that they happen in close proximity to one another, ranging from anywhere between 48 hours to within 10 days. Another notable change observed in ransomware attacks is the increased use of custom data theft, wiper tools, and malware to exert pressure on victims to pay up. "This use of dual ransomware variants resulted in a combination of data encryption, exfiltration, and financial losses from ransom payments," the agency said. "Second ran
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large Michigan Healthcare Provider Confirms Ransomware Attack<a href="https://therecord.media/mclaren-healthcare-ransomware-attack-michigan?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McLaren HealthCare, one of the largest healthcare systems in Michigan, has confirmed a ransomware attack, potentially impacting patient data and causing disruptions in their computer network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian APT Group OilRig Using New Menorah Malware for Covert Operations<a href="https://thehackernews.com/2023/09/iranian-apt-group-oilrig-using-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophisticated cyber actors backed by Iran known as  OilRig  have been linked to a spear-phishing campaign that infects victims with a new strain of malware called Menorah. "The malware was designed for cyberespionage, capable of identifying the machine, reading and uploading files from the machine, and downloading another file or malware," Trend Micro researchers Mohamed Fahmy and Mahmoud Zohdy  said  in a Friday report. The victimology of the attacks is not immediately known, although the use of decoys indicates at least one of the targets is an organization located in Saudi Arabia. Also tracked under the names APT34, Cobalt Gypsy, Hazel Sandstorm, and Helix Kitten,  OilRig  is an Iranian advanced persistent threat (APT) group that specializes in covert intelligence gathering operations to infiltrate and maintain access within targeted networks. The revelation builds on  recent findings  from NSFOCUS, which uncovered an OilRig phishing attack resulting in the deploymen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns Energy Sector of Likely Increase in Targeting by Chinese, Russian Hackers<a href="https://therecord.media/fbi-warning-energy-sector-increased-hacking-china-russia?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warns that changes in the global energy supply, including US exports of liquefied natural gas and shifts in the crude oil supply chain, are likely to boost the targeting of critical energy infrastructure by Chinese and Russian hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Critical Security Flaws Expose Exim Mail Servers to Remote Attacks<a href="https://thehackernews.com/2023/09/new-critical-security-flaws-expose-exim.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in the  Exim mail transfer agent  that, if successfully exploited, could result in information disclosure and remote code execution. The list of flaws, which were reported anonymously way back in June 2022, is as follows - CVE-2023-42114  (CVSS score: 3.7) - Exim NTLM Challenge Out-Of-Bounds Read Information Disclosure Vulnerability CVE-2023-42115  (CVSS score: 9.8) - Exim AUTH Out-Of-Bounds Write Remote Code Execution Vulnerability CVE-2023-42116  (CVSS score: 8.1) - Exim SMTP Challenge Stack-based Buffer Overflow Remote Code Execution Vulnerability CVE-2023-42117  (CVSS score: 8.1) - Exim Improper Neutralization of Special Elements Remote Code Execution Vulnerability CVE-2023-42118  (CVSS score: 7.5) - Exim libspf2 Integer Underflow Remote Code Execution Vulnerability CVE-2023-42119  (CVSS score: 3.1) - Exim dnsdb Out-Of-Bounds Read Information Disclosure Vulnerability The most severe of the vulnerabilities is CVE-2023-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT34 Deploys Phishing Attack With New Menorah Malware<a href="https://www.trendmicro.com/en_us/research/23/i/apt34-deploys-phishing-attack-with-new-malware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Menorah malware is designed for cyberespionage and possesses capabilities such as machine identification, file reading and uploading, shell command execution, and file downloading.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Old JBoss RichFaces Vulnerability Being Exploited in Attacks<a href="https://www.securityweek.com/cisa-warns-of-old-jboss-richfaces-vulnerability-being-exploited-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, tracked as CVE-2018-14667, was added by CISA on Thursday to its Known Exploited Vulnerabilities (KEV) Catalog, with federal agencies being instructed to apply mitigations or discontinue the use of the product by October 19.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using New ASMCrypt Malware Loader to Fly Under the Radar<a href="https://thehackernews.com/2023/09/cybercriminals-using-new-asmcrypt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are selling a new crypter and loader called  ASMCrypt , which has been described as an "evolved version" of another loader malware known as DoubleFinger. "The idea behind this type of malware is to load the final payload without the loading process or the payload itself being detected by AV/EDR, etc.," Kaspersky  said  in an analysis published this week. DoubleFinger was  first documented  by the Russian cybersecurity company, detailing infection chains leveraging the malware to propagate a cryptocurrency stealer dubbed GreetingGhoul to victims in Europe, the U.S., and Latin America. ASMCrypt, once purchased and launched by the customers, is designed to establish contact with a backend service over the TOR network using hard-coded credentials, thereby enabling the buyers to build payloads of their choice for use in their campaigns. "The application creates an encrypted blob hidden inside a .PNG file," Kaspersky said. "This image mus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Impersonates Recruiter from Meta to Target Spanish Aerospace Firm<a href="https://thehackernews.com/2023/09/lazarus-group-impersonates-recruiter.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked  Lazarus Group  has been linked to a cyber espionage attack targeting an unnamed aerospace company in Spain in which employees of the firm were approached by the threat actor posing as a recruiter for Meta. "Employees of the targeted company were contacted by a fake recruiter via LinkedIn and tricked into opening a malicious executable file presenting itself as a coding challenge or quiz," ESET security researcher Peter Kálnai  said  in a technical report shared with The Hacker News. The attack is part of a long-standing spear-phishing campaign called  Operation Dream Job  that's orchestrated by the hacking crew in an attempt to lure employees working at prospective targets that are of strategic interest, enticed them with lucrative job opportunities to activate the infection chain. Earlier this March, the Slovak cybersecurity company detailed an attack wave aimed at Linux users that involved the use of bogus HSBC job offers to launch a backdoo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+City of Fort Lauderdale, Florida, Taken for $1.2m in Email Scam<a href="https://statescoop.com/fort-lauderdale-florida-phishing-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The payment, intended for a new police headquarters building, was made to a scammer who posed as the legitimate contractor, Moss Construction. The incident underscores the need for increased cybersecurity measures against business email compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Post-Quantum Cryptography: Finally Real in Consumer Apps?<a href="https://thehackernews.com/2023/09/post-quantum-cryptography-finally-real.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most people are barely thinking about basic cybersecurity, let alone post-quantum cryptography. But the impact of a post-quantum world is coming for them regardless of whether or not it's keeping them up tonight.  Today, many rely on encryption in their daily lives to protect their fundamental digital privacy and security, whether for messaging friends and family, storing files and photos, or simply browsing the web. The question experts have been asking for a long time, with their eye on the advances in quantum computing, is, "How long before these defenses fail?"  The ticking clock of quantum computing One set of researchers is already sounding the alarms,  claiming  that they've found a way to break 2048-bit RSA encryption with a quantum computer. While the claims may be premature, they hint toward a scary future that is perhaps closer than we once thought. Breaking RSA encryption would represent a massive privacy and security vulnerability for virtually every
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Happens to Government Devices During a Shutdown?<a href="https://www.nextgov.com/cybersecurity/2023/09/what-happens-government-devices-during-shutdown/390751/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government-issued devices face heightened security risks during a federal shutdown, as furloughed employees are typically restricted from using them, leaving networks and devices vulnerable.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's AI-Powered Bing Chat Ads May Lead Users to Malware-Distributing Sites<a href="https://thehackernews.com/2023/09/microsofts-ai-powered-bing-chat-ads-may.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious ads served inside Microsoft Bing's artificial intelligence (AI) chatbot are being used to distribute malware when searching for popular tools. The findings come from Malwarebytes, which revealed that unsuspecting users can be tricked into visiting booby-trapped sites and installing malware directly from Bing Chat conversations. Introduced by Microsoft in February 2023, Bing Chat is an  interactive search experience  that's powered by OpenAI's large language model called  GPT-4 . A month later, the tech giant  began   exploring  placing ads in the conversations. But the move has also opened the doors for threat actors who resort to malvertising tactics and propagate malware. "Ads can be inserted into a Bing Chat conversation in various ways," Jérôme Segura, director of threat intelligence at Malwarebytes,  said . "One of those is when a user hovers over a link and an ad is displayed first before the organic result." In an example highligh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus APT Lures Employees of Spanish Aerospace Company with Trojanized Coding Challenges<a href="https://www.welivesecurity.com/en/eset-research/lazarus-luring-employees-trojanized-coding-challenges-case-spanish-aerospace-company/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack involved the deployment of a sophisticated backdoor called LightlessCan, which mimics native Windows commands and implements techniques to avoid detection by security monitoring software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Progress Software Releases Urgent Hotfixes for Multiple Security Flaws in WS_FTP Server<a href="https://thehackernews.com/2023/09/progress-software-releases-urgent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software has released hotfixes for a critical security vulnerability, alongside seven other flaws, in the WS_FTP Server Ad hoc Transfer Module and in the WS_FTP Server manager interface. Tracked as  CVE-2023-40044 , the flaw has a CVSS score of 10.0, indicating maximum severity. All versions of the software are impacted by the flaw. "In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker could leverage a .NET deserialization vulnerability in the Ad Hoc Transfer module to execute remote commands on the underlying WS_FTP Server operating system," the company  said  in an advisory. Assetnote security researchers Shubham Shah and Sean Yeoh have been credited with discovering and reporting the vulnerability. The list of remaining flaws, impacting WS_FTP Server versions prior to 8.8.2, is as follows - CVE-2023-42657  (CVSS score: 9.9) - A directory traversal vulnerability that could be exploited to perform file operations. CVE-2023-40045
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns Organizations of Dual Ransomware, Wiper Attacks<a href="https://www.securityweek.com/fbi-warns-organizations-of-dual-ransomware-wiper-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of this trend, which was observed in July 2023, the FBI notes in a new private industry notification, threat actors deploy two ransomware variants in close date proximity to one another.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Warns of Vulnerability in IOS and IOS XE Software After Exploitation Attempts<a href="https://thehackernews.com/2023/09/cisco-warns-of-vulnerability-in-ios-and.html"> Full Text</a>
@@ -50,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unraveling the CACTUS Ransomware Group’s Recent Exploits<a href="https://thecyberexpress.com/cactus-cyber-attack-latest-victim-update/?&web_view=true"> Full Text</a>
@@ -66,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Misconfigured TeslaMate Instances Put Tesla Car Owners at Risk<a href="https://www.securityweek.com/misconfigured-teslamate-instances-put-tesla-car-owners-at-risk/?&web_view=true"> Full Text</a>
@@ -82,7 +354,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Repositories Hit by Password-Stealing Commits Disguised as Dependabot Contributions<a href="https://thehackernews.com/2023/09/github-repositories-hit-by-password.html"> Full Text</a>
@@ -98,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Are Developers Giving Enough Thought to Prompt Injection Threats When Building Code?<a href="https://www.helpnetsecurity.com/2023/09/26/prompt-injection-threats/?&web_view=true"> Full Text</a>
@@ -114,7 +386,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China's BlackTech Hacking Group Exploited Routers to Target U.S. and Japanese Companies<a href="https://thehackernews.com/2023/09/chinas-blacktech-hacking-group.html"> Full Text</a>
@@ -130,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of Files With Potentially Sensitive Information Exposed Online, Researchers Say<a href="https://cyberscoop.com/open-directories-exposed-files/?&web_view=true"> Full Text</a>
@@ -146,7 +418,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Dark Side of Browser Isolation – and the Next Generation Browser Security Technologies<a href="https://thehackernews.com/2023/09/the-dark-side-of-browser-isolation-and.html"> Full Text</a>
@@ -162,7 +434,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Rolls Dice on Public Service Campaign to Raise Cyber Awareness<a href="https://www.cybersecuritydive.com/news/cisa-campaign-cyber-awareness/694920/?&web_view=true"> Full Text</a>
@@ -178,7 +450,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked Budworm Targeting Middle Eastern Telco and Asian Government Agencies<a href="https://thehackernews.com/2023/09/china-linked-budworm-targeting-middle.html"> Full Text</a>
@@ -194,7 +466,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Caesars Entertainment Faces Class Action Lawsuits Following Rewards Database Hack<a href="https://www.cybersecuritydive.com/news/caesars-lawsuits-database-hack/694915/?&web_view=true"> Full Text</a>
@@ -210,7 +482,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update Chrome Now: Google Releases Patch for Actively Exploited Zero-Day Vulnerability<a href="https://thehackernews.com/2023/09/update-chrome-now-google-releases-patch.html"> Full Text</a>
@@ -227,7 +499,7 @@ The Hacker News
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 28, 2023
-{: .fs-4 .fw-700 .lh-0  }
+-- [Attack](/docs/issues/attack/attack/)<br>{: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Target Ukrainian Government Systems Involved in War Crimes Investigations<a href="https://therecord.media/russian-hackers-target-ukraine-gov-systems-war-crime-espionage?&web_view=true"> Full Text</a>
 </p>
@@ -242,7 +514,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swan Retail Cyberattack Woes Continue for Independent UK Retailers<a href="https://www.drapersonline.com/news/swan-retail-cyber-attack-woes-continue?&web_view=true"> Full Text</a>
@@ -258,7 +530,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2023
+September 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Campbell Soup Says Summer Cyberattack Caused Limited Business Impact<a href="https://www.cybersecuritydive.com/news/campbell-soup-cyberattack-limited-impact/694758/?&web_view=true"> Full Text</a>
