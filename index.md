@@ -34,6 +34,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Logic Flaws Let Attackers Bypass Cloudflare's Firewall and DDoS Protection<a href="https://heimdalsecurity.com/blog/logic-flaws-let-attackers-bypass-cloudflares-firewall-and-ddos-protection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has been found to have vulnerabilities in its Firewall and DDoS prevention system. Hackers can exploit these flaws by creating a free Cloudflare account and knowing the IP address of a targeted web server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APIs: Unveiling the Silent Killer of Cyber Security Risk Across Industries<a href="https://thehackernews.com/2023/10/apis-unveiling-silent-killer-of-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Introduction In today's interconnected digital ecosystem, Application Programming Interfaces (APIs) play a pivotal role in enabling seamless communication and data exchange between various software applications and systems. APIs act as bridges, facilitating the sharing of information and functionalities. However, as the use of APIs continues to rise, they have become an increasingly attractive target for cybercriminals and a significant cybersecurity risk across various industries. This article dives into the world of APIs, exploring why they pose substantial cybersecurity challenges and providing real-world examples of API breaches across different sectors. Download  API Security Guide . The API Revolution The proliferation of cloud computing, mobile apps, and the Internet of Things (IoT) has accelerated the adoption of APIs. They serve as the building blocks of modern software applications, enabling developers to integrate third-party services, enhance functionalities, and c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal User Database From European Telecommunications Standards Body<a href="https://therecord.media/etsi-telecommunications-standards-body-hack-database-stolen?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ETSI has taken immediate action, involving France's cybersecurity agency, ANSSI, to investigate and fix the vulnerability that led to the attack and has strengthened its IT security procedures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LUCR-3: Scattered Spider Getting SaaS-y in the Cloud<a href="https://thehackernews.com/2023/10/lucr-3-scattered-spider-getting-saas-y.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LUCR-3 overlaps with groups such as Scattered Spider, Oktapus, UNC3944, and STORM-0875 and is a financially motivated attacker that leverages the Identity Provider (IDP) as initial access into an environment with the goal of stealing Intellectual Property (IP) for extortion. LUCR-3 targets Fortune 2000 companies across various sectors, including but not limited to Software, Retail, Hospitality, Manufacturing, and Telecoms. LUCR-3 does not rely heavily on malware or even scripts; instead, LUCR-3 expertly uses victims' own tools, applications, and resources to achieve their goals. At a high level, Initial Access is gained through compromising existing identities in the IDP (Okta: Identity Cloud, Azure AD / Entra, Ping Identity: PingOne). LUCR-3 uses SaaS applications such as document portals, ticketing systems, and chat applications to learn how the victim organization operates and how to access sensitive information. Using the data they gained from reconnaissance within the SaaS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+"Phantom Hacker" Scams Target Senior Citizens and Result in Victims Losing their Life Savings<a href="https://www.ic3.gov/Media/Y2023/PSA230929?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warned about a new scam called the "Phantom Hacker" scam, which is specifically targeting senior citizens. It involves imposters posing as tech support, financial institutions, and government representatives to gain the trust of victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silent Skimmer: A Year-Long Web Skimming Campaign Targeting Online Payment Businesses<a href="https://thehackernews.com/2023/10/silent-skimmer-year-long-web-skimming.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated campaign has been targeting online payment businesses in the Asia Pacific, North America, and Latin America with web skimmers for more than a year. The BlackBerry Research and Intelligence Team is tracking the activity under the name  Silent Skimmer , attributing it to an actor who is knowledgeable in the Chinese language. Prominent victims include online businesses and point-of-sale (PoS) service providers. "The campaign operators exploit vulnerabilities in web applications, particularly those hosted on Internet Information Services (IIS)," the Canadian cybersecurity firm  said . "Their primary objective is to compromise the payment checkout page, and swipe visitors' sensitive payment data." A successful initial foothold is followed by the threat actors leveraging multiple open-source tools and living-off-the-land (LotL) techniques for privilege escalation, post-exploitation, and code execution. The attack chain leads to the deploy
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Logistics Portal Leaks Sensitive Data Related to Operations at Indian Ports<a href="https://securityaffairs.com/151819/data-breach/national-logistics-portal-nlp-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The publicly accessible AWS S3 buckets contained personal data, invoices, and internal documents, potentially disrupting trade and operations of India's ports and leading to significant ransom demands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenRefine's Zip Slip Vulnerability Could Let Attackers Execute Malicious Code<a href="https://thehackernews.com/2023/10/openrefines-zip-slip-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity security flaw has been disclosed in the open-source OpenRefine data cleanup and transformation tool that could result in arbitrary code execution on affected systems. Tracked as  CVE-2023-37476  (CVSS score: 7.8), the vulnerability is a Zip Slip vulnerability that could have adverse impacts when importing a specially crafted project in versions 3.7.3 and below. "Although OpenRefine is designed to only run locally on a user's machine, an attacker can trick a user into importing a malicious project file," Sonar security researcher Stefan Schiller  said  in a report published last week. "Once this file is imported, the attacker can execute arbitrary code on the user's machine." Software prone to  Zip Slip vulnerabilities  can pave the way for code execution by taking advantage of a directory traversal bug that an attacker can exploit to gain access to parts of the file system that should be out of reach otherwise. The attack is built on tw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Mass Exploitation Attempts Against WS_FTP Have Begun<a href="https://www.theregister.com/2023/10/02/ws_ftp_update/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software released fixes for eight vulnerabilities in WS_FTP, including one with a maximum severity score, but evidence of exploitation was discovered shortly after.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BunnyLoader: New Malware-as-a-Service Threat Emerges in the Cybercrime Underground<a href="https://thehackernews.com/2023/10/bunnyloader-new-malware-as-service.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity experts have discovered yet another malware-as-a-service ( MaaS ) threat called  BunnyLoader  that's being advertised for sale on the cybercrime underground. "BunnyLoader provides various functionalities such as downloading and executing a second-stage payload, stealing browser credentials and system information, and much more," Zscaler ThreatLabz researchers Niraj Shivtarkar and Satyam Singh  said  in an analysis published last week. Among its other capabilities include running remote commands on the infected machine, a keylogger to capture keystrokes, and a clipper functionality to monitor the victim's clipboard and replace content matching cryptocurrency wallet addresses with actor-controlled addresses. A C/C++-based loader offered for $250 for a lifetime license, the malware is said to have been under continuous development since its debut on September 4, 2023, with new features and enhancements that incorporate anti-sandbox and antivirus evasion
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Should Organizations Navigate the Risks and Opportunities of AI?<a href="https://www.helpnetsecurity.com/2023/09/29/ai-risks-and-opportunities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As AI technology evolves rapidly, organizations need to stay vigilant, monitor the AI landscape, and adapt their cybersecurity programs to effectively defend against new threats posed by cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zanubis Android Banking Trojan Poses as Peruvian Government App to Target Users<a href="https://thehackernews.com/2023/10/zanubis-android-banking-trojan-poses-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An emerging Android banking trojan called Zanubis is now masquerading as a Peruvian government app to trick unsuspecting users into installing the malware. "Zanubis's main infection path is through impersonating legitimate Peruvian Android applications and then tricking the user into enabling the Accessibility permissions in order to take full control of the device," Kaspersky  said  in an analysis published last week. Zanubis,  originally documented  in August 2022, is the latest addition to a  long list of Android banker malware  targeting the Latin American (LATAM) region. Targets include more than 40 banks and financial entities in Peru. It's mainly known for abusing accessibility permissions on the infected device to display fake overlay screens atop the targeted apps in an attempt to steal credentials. it's also capable of harvesting contact data, list of installed apps, and system metadata. Kaspersky said it observed recent samples of Zanubis in the w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
