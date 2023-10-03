@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Logic Flaws Let Attackers Bypass Cloudflare's Firewall and DDoS Protection<a href="https://heimdalsecurity.com/blog/logic-flaws-let-attackers-bypass-cloudflares-firewall-and-ddos-protection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has been found to have vulnerabilities in its Firewall and DDoS prevention system. Hackers can exploit these flaws by creating a free Cloudflare account and knowing the IP address of a targeted web server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenRefine's Zip Slip Vulnerability Could Let Attackers Execute Malicious Code<a href="https://thehackernews.com/2023/10/openrefines-zip-slip-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity security flaw has been disclosed in the open-source OpenRefine data cleanup and transformation tool that could result in arbitrary code execution on affected systems. Tracked as&nbsp; CVE-2023-37476 &nbsp;(CVSS score: 7.8), the vulnerability is a Zip Slip vulnerability that could have adverse impacts when importing a specially crafted project in versions 3.7.3 and below. "Although OpenRefine is designed to only run locally on a user's machine, an attacker can trick a user into importing a malicious project file," Sonar security researcher Stefan Schiller&nbsp; said &nbsp;in a report published last week. "Once this file is imported, the attacker can execute arbitrary code on the user's machine." Software prone to&nbsp; Zip Slip vulnerabilities &nbsp;can pave the way for code execution by taking advantage of a directory traversal bug that an attacker can exploit to gain access to parts of the file system that should be out of reach otherwise. The attack is built on tw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Mass Exploitation Attempts Against WS_FTP Have Begun<a href="https://www.theregister.com/2023/10/02/ws_ftp_update/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software released fixes for eight vulnerabilities in WS_FTP, including one with a maximum severity score, but evidence of exploitation was discovered shortly after.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+October 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silent Skimmer: A Year-Long Web Skimming Campaign Targeting Online Payment Businesses<a href="https://thehackernews.com/2023/10/silent-skimmer-year-long-web-skimming.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated campaign has been targeting online payment businesses in the Asia Pacific, North America, and Latin America with web skimmers for more than a year. The BlackBerry Research and Intelligence Team is tracking the activity under the name&nbsp; Silent Skimmer , attributing it to an actor who is knowledgeable in the Chinese language. Prominent victims include online businesses and point-of-sale (PoS) service providers. "The campaign operators exploit vulnerabilities in web applications, particularly those hosted on Internet Information Services (IIS)," the Canadian cybersecurity firm&nbsp; said . "Their primary objective is to compromise the payment checkout page, and swipe visitors' sensitive payment data." A successful initial foothold is followed by the threat actors leveraging multiple open-source tools and living-off-the-land (LotL) techniques for privilege escalation, post-exploitation, and code execution. The attack chain leads to the deploy
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

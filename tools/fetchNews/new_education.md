@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+October 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APIs: Unveiling the Silent Killer of Cyber Security Risk Across Industries<a href="https://thehackernews.com/2023/10/apis-unveiling-silent-killer-of-cyber.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Introduction In today's interconnected digital ecosystem, Application Programming Interfaces (APIs) play a pivotal role in enabling seamless communication and data exchange between various software applications and systems. APIs act as bridges, facilitating the sharing of information and functionalities. However, as the use of APIs continues to rise, they have become an increasingly attractive target for cybercriminals and a significant cybersecurity risk across various industries. This article dives into the world of APIs, exploring why they pose substantial cybersecurity challenges and providing real-world examples of API breaches across different sectors. Download&nbsp; API Security Guide . The API Revolution The proliferation of cloud computing, mobile apps, and the Internet of Things (IoT) has accelerated the adoption of APIs. They serve as the building blocks of modern software applications, enabling developers to integrate third-party services, enhance functionalities, and c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Should Organizations Navigate the Risks and Opportunities of AI?<a href="https://www.helpnetsecurity.com/2023/09/29/ai-risks-and-opportunities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As AI technology evolves rapidly, organizations need to stay vigilant, monitor the AI landscape, and adapt their cybersecurity programs to effectively defend against new threats posed by cybercriminals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

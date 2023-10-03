@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LUCR-3: Scattered Spider Getting SaaS-y in the Cloud<a href="https://thehackernews.com/2023/10/lucr-3-scattered-spider-getting-saas-y.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LUCR-3 overlaps with groups such as Scattered Spider, Oktapus, UNC3944, and STORM-0875 and is a financially motivated attacker that leverages the Identity Provider (IDP) as initial access into an environment with the goal of stealing Intellectual Property (IP) for extortion. LUCR-3 targets Fortune 2000 companies across various sectors, including but not limited to Software, Retail, Hospitality, Manufacturing, and Telecoms. LUCR-3 does not rely heavily on malware or even scripts; instead, LUCR-3 expertly uses victims' own tools, applications, and resources to achieve their goals. At a high level, Initial Access is gained through compromising existing identities in the IDP (Okta: Identity Cloud, Azure AD / Entra, Ping Identity: PingOne). LUCR-3 uses SaaS applications such as document portals, ticketing systems, and chat applications to learn how the victim organization operates and how to access sensitive information. Using the data they gained from reconnaissance within the SaaS
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

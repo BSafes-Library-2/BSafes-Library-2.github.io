@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+September 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Happens to Government Devices During a Shutdown?<a href="https://www.nextgov.com/cybersecurity/2023/09/what-happens-government-devices-during-shutdown/390751/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government-issued devices face heightened security risks during a federal shutdown, as furloughed employees are typically restricted from using them, leaving networks and devices vulnerable.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

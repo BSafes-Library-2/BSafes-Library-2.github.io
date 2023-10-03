@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+"Phantom Hacker" Scams Target Senior Citizens and Result in Victims Losing their Life Savings<a href="https://www.ic3.gov/Media/Y2023/PSA230929?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI warned about a new scam called the "Phantom Hacker" scam, which is specifically targeting senior citizens. It involves imposters posing as tech support, financial institutions, and government representatives to gain the trust of victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+September 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Extract Sounds From Still Images on Smartphone Cameras<a href="https://www.securityweek.com/researchers-extract-sounds-from-still-images-on-smartphone-cameras/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academic researchers has devised a technique to extract sounds from still images captured using smartphone cameras with rolling shutters and movable lens structures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Critical Security Flaws Expose Exim Mail Servers to Remote Attacks<a href="https://thehackernews.com/2023/09/new-critical-security-flaws-expose-exim.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in the&nbsp; Exim mail transfer agent &nbsp;that, if successfully exploited, could result in information disclosure and remote code execution. The list of flaws, which were reported anonymously way back in June 2022, is as follows - CVE-2023-42114 &nbsp;(CVSS score: 3.7) - Exim NTLM Challenge Out-Of-Bounds Read Information Disclosure Vulnerability CVE-2023-42115 &nbsp;(CVSS score: 9.8) - Exim AUTH Out-Of-Bounds Write Remote Code Execution Vulnerability CVE-2023-42116 &nbsp;(CVSS score: 8.1) - Exim SMTP Challenge Stack-based Buffer Overflow Remote Code Execution Vulnerability CVE-2023-42117 &nbsp;(CVSS score: 8.1) - Exim Improper Neutralization of Special Elements Remote Code Execution Vulnerability CVE-2023-42118 &nbsp;(CVSS score: 7.5) - Exim libspf2 Integer Underflow Remote Code Execution Vulnerability CVE-2023-42119 &nbsp;(CVSS score: 3.1) - Exim dnsdb Out-Of-Bounds Read Information Disclosure Vulnerability The most severe of the vulnerabilities is CVE-2023-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Progress Software Releases Urgent Hotfixes for Multiple Security Flaws in WS_FTP Server<a href="https://thehackernews.com/2023/09/progress-software-releases-urgent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Progress Software has released hotfixes for a critical security vulnerability, alongside seven other flaws, in the WS_FTP Server Ad hoc Transfer Module and in the WS_FTP Server manager interface. Tracked as&nbsp; CVE-2023-40044 , the flaw has a CVSS score of 10.0, indicating maximum severity. All versions of the software are impacted by the flaw. "In WS_FTP Server versions prior to 8.7.4 and 8.8.2, a pre-authenticated attacker could leverage a .NET deserialization vulnerability in the Ad Hoc Transfer module to execute remote commands on the underlying WS_FTP Server operating system," the company&nbsp; said &nbsp;in an advisory. Assetnote security researchers Shubham Shah and Sean Yeoh have been credited with discovering and reporting the vulnerability. The list of remaining flaws, impacting WS_FTP Server versions prior to 8.8.2, is as follows - CVE-2023-42657 &nbsp;(CVSS score: 9.9) - A directory traversal vulnerability that could be exploited to perform file operations. CVE-2023-40045
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

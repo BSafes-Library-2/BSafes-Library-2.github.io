@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2023
+October 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Logic Flaws Let Attackers Bypass Cloudflare's Firewall and DDoS Protection<a href="https://heimdalsecurity.com/blog/logic-flaws-let-attackers-bypass-cloudflares-firewall-and-ddos-protection/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 02, 2023
+October 02, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APIs: Unveiling the Silent Killer of Cyber Security Risk Across Industries<a href="https://thehackernews.com/2023/10/apis-unveiling-silent-killer-of-cyber.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2023
+October 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Steal User Database From European Telecommunications Standards Body<a href="https://therecord.media/etsi-telecommunications-standards-body-hack-database-stolen?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 02, 2023
+October 02, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LUCR-3: Scattered Spider Getting SaaS-y in the Cloud<a href="https://thehackernews.com/2023/10/lucr-3-scattered-spider-getting-saas-y.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2023
+October 2, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 "Phantom Hacker" Scams Target Senior Citizens and Result in Victims Losing their Life Savings<a href="https://www.ic3.gov/Media/Y2023/PSA230929?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 02, 2023
+October 02, 2023 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Silent Skimmer: A Year-Long Web Skimming Campaign Targeting Online Payment Businesses<a href="https://thehackernews.com/2023/10/silent-skimmer-year-long-web-skimming.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2023
+October 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 National Logistics Portal Leaks Sensitive Data Related to Operations at Indian Ports<a href="https://securityaffairs.com/151819/data-breach/national-logistics-portal-nlp-data-leak.html?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 02, 2023
+October 02, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenRefine's Zip Slip Vulnerability Could Let Attackers Execute Malicious Code<a href="https://thehackernews.com/2023/10/openrefines-zip-slip-vulnerability.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2023
+October 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Mass Exploitation Attempts Against WS_FTP Have Begun<a href="https://www.theregister.com/2023/10/02/ws_ftp_update/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 02, 2023
+October 02, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BunnyLoader: New Malware-as-a-Service Threat Emerges in the Cybercrime Underground<a href="https://thehackernews.com/2023/10/bunnyloader-new-malware-as-service.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 2, 2023
+October 2, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Should Organizations Navigate the Risks and Opportunities of AI?<a href="https://www.helpnetsecurity.com/2023/09/29/ai-risks-and-opportunities/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 02, 2023
+October 02, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zanubis Android Banking Trojan Poses as Peruvian Government App to Target Users<a href="https://thehackernews.com/2023/10/zanubis-android-banking-trojan-poses-as.html"> Full Text</a>
