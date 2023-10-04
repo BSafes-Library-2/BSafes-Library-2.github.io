@@ -8,6 +8,90 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualcomm Releases Patch for 3 new Zero-Days Under Active Exploitation<a href="https://thehackernews.com/2023/10/qualcomm-releases-patch-for-3-new-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chipmaker Qualcomm has released security updates to address 17 vulnerabilities in various components, while warning that three other zero-days have come under active exploitation. Of the 17 flaws, three are rated Critical, 13 are rated High, and one is rated Medium in severity. "There are indications from Google Threat Analysis Group and Google Project Zero that CVE-2023-33106, CVE-2023-33107, CVE-2022-22071, and CVE-2023-33063 may be under limited, targeted exploitation," the semiconductor company&nbsp; said &nbsp;in an advisory. "Patches for the issues affecting Adreno GPU and Compute DSP drivers have been made available, and OEMs have been notified with a strong recommendation to deploy security updates as soon as possible." CVE-2022-22071 &nbsp;(CVSS score: 8.4), described as a use-after-free in Automotive OS Platform, was originally patched by the company as part of its May 2022 updates. While additional specifics about the remaining other flaws are expected to be made
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: PyTorch Models Vulnerable to Remote Code Execution via ShellTorch<a href="https://thehackernews.com/2023/10/warning-pytorch-models-vulnerable-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed multiple critical security flaws in the&nbsp; TorchServe tool &nbsp;for serving and scaling PyTorch models that could be chained to achieve remote code execution on affected systems. Israel-based runtime application security company Oligo, which made the discovery, has coined the vulnerabilities&nbsp; ShellTorch . "These vulnerabilities [...] can lead to a full chain Remote Code Execution (RCE), leaving countless thousands of services and end-users — including some of the world's largest companies — open to unauthorized access and insertion of malicious AI models, and potentially a full server takeover," security researchers Idan Levcovich, Guy Kaplan, and Gal Elbaz&nbsp; said . The list of flaws, which have been addressed in&nbsp; version 0.8.2 , is as follows - No CVE - Unauthenticated Management Interface API Misconfiguration (0.0.0.0) CVE-2023-43654 &nbsp;(CVSS score: 7.2) - A remote server-side request forgery ( SSRF ) that leads to remote code exe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Seen Exploiting Bugs in Browsers and Popular File Transfer Tool<a href="https://therecord.media/libvpx-ws-ftp-vulnerabilities-browsers-file-transfer-tool?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) warned on Monday that hackers are exploiting CVE-2023-5217 — a vulnerability affecting Google Chrome, Mozilla Firefox, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android’s October 2023 Security Updates Patch Two Exploited Vulnerabilities<a href="https://www.securityweek.com/androids-october-2023-update-patches-two-exploited-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday announced the release of patches for 51 vulnerabilities as part of the October 2023 security updates for Android, including fixes for two zero-day flaws exploited in malicious attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Reveals New Techniques to Bypass Cloudflare's Firewall and DDoS Protection<a href="https://thehackernews.com/2023/10/researcher-reveal-new-technique-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Firewall and distributed denial-of-service (DDoS) attack prevention mechanisms in Cloudflare can be circumvented by exploiting gaps in cross-tenant security controls, defeating the very purpose of these safeguards, it has emerged. "Attackers can utilize their own Cloudflare accounts to abuse the per-design trust-relationship between Cloudflare and the customers' websites, rendering the protection mechanism ineffective," Certitude researcher Stefan Proksch&nbsp; said &nbsp;in a report published last week. The problem, per the Austrian consulting firm, is the result of shared infrastructure available to all tenants within Cloudflare, regardless of whether they are legitimate or otherwise, thereby making it easy for malicious actors to abuse the implicit trust associated with service and defeat the guardrails. The first issue stems from opting for a shared Cloudflare certificate to authenticate HTTP(S) requests between the service's reverse proxies and the customer's origi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arm Issues Patch for Mali GPU Kernel Driver Vulnerability Amidst Ongoing Exploitation<a href="https://thehackernews.com/2023/10/arm-issues-patch-for-mali-gpu-kernel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arm has released security patches to contain a security flaw in the Mali GPU Kernel Driver that has come under active exploitation in the wild. Tracked as&nbsp; CVE-2023-4211 , the shortcoming impacts the following driver versions - Midgard GPU Kernel Driver: All versions from r12p0 - r32p0 Bifrost GPU Kernel Driver: All versions from r0p0 - r42p0 Valhall GPU Kernel Driver: All versions from r19p0 - r42p0 Arm 5th Gen GPU Architecture Kernel Driver: All versions from r41p0 - r42p0 "A local non-privileged user can make improper GPU memory processing operations to gain access to already freed memory," Arm&nbsp; said &nbsp;in a Monday advisory. "There is evidence that this vulnerability may be under limited, targeted exploitation." The issue, credited to Maddie Stone of Google's Threat Analysis Group (TAG) and Jann Horn of Google Project Zero, has been addressed in Bifrost, Valhall and Arm 5th Gen GPU Architecture Kernel Driver r43p0. Google, in its own monthly&nbsp; Androi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

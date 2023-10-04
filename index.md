@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Executives Targeted in Phishing Attacks Exploiting Flaw in Indeed Job Platform<a href="https://www.securityweek.com/us-executives-targeted-in-phishing-attacks-exploiting-flaw-in-indeed-job-platform/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2023
+October 03, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qualcomm Releases Patch for 3 new Zero-Days Under Active Exploitation<a href="https://thehackernews.com/2023/10/qualcomm-releases-patch-for-3-new-zero.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lorenz Ransomware Group Attacks Allcare Pharmacy in Major Cyber Assault<a href="https://thecyberexpress.com/allcare-pharmacy-cyber-attack-lorenz-group/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2023
+October 03, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning: PyTorch Models Vulnerable to Remote Code Execution via ShellTorch<a href="https://thehackernews.com/2023/10/warning-pytorch-models-vulnerable-to.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Seen Exploiting Bugs in Browsers and Popular File Transfer Tool<a href="https://therecord.media/libvpx-ws-ftp-vulnerabilities-browsers-file-transfer-tool?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2023
+October 03, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 3 Dozen Data-Stealing Malicious npm Packages Found Targeting Developers<a href="https://thehackernews.com/2023/10/over-3-dozen-data-stealing-malicious.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Wave of Mirai Botnet Variants Like hailBot, kiraiBot, and catDDoS Mount a Fierce Onslaught<a href="https://nsfocusglobal.com/mirai-botnets-new-wave-hailbot-kiraibot-catddos-and-their-fierce-onslaught/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2023
+October 03, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 API Security Trends 2023 – Have Organizations Improved their Security Posture?<a href="https://thehackernews.com/2023/10/api-security-trends-2023-have.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android’s October 2023 Security Updates Patch Two Exploited Vulnerabilities<a href="https://www.securityweek.com/androids-october-2023-update-patches-two-exploited-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2023
+October 03, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Protecting your IT infrastructure with Security Configuration Assessment (SCA)<a href="https://thehackernews.com/2023/10/protecting-your-it-infrastructure-with.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medusa Ransomware Group Claims Intrusions at Two New Victims, Sets Ransom Deadline<a href="https://thecyberexpress.com/medusa-cyber-attacks-karamchand-thapar-windak/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2023
+October 03, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher Reveals New Techniques to Bypass Cloudflare's Firewall and DDoS Protection<a href="https://thehackernews.com/2023/10/researcher-reveal-new-technique-to.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Some Prospect Medical Hospitals in Dire State, Post-Attack<a href="https://www.healthcareinfosecurity.com/some-prospect-medical-hospitals-in-dire-state-post-attack-a-23203?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2023
+October 03, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Arm Issues Patch for Mali GPU Kernel Driver Vulnerability Amidst Ongoing Exploitation<a href="https://thehackernews.com/2023/10/arm-issues-patch-for-mali-gpu-kernel.html"> Full Text</a>
@@ -258,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat Ransomware Gang Allegedly Stole Over 24 Million Files From Motel One<a href="https://securityaffairs.com/151732/cyber-crime/alphv-ransomware-motel-one.html?&web_view=true"> Full Text</a>
@@ -274,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Events Fuel DDoS Attack Campaigns<a href="https://www.helpnetsecurity.com/2023/10/02/ddos-attacks-1h-2023/?&web_view=true"> Full Text</a>

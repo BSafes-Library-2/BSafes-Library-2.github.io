@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware Gang Allegedly Stole Over 24 Million Files From Motel One<a href="https://securityaffairs.com/151732/cyber-crime/alphv-ransomware-motel-one.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Motel One has been given a five-day deadline to pay the ransom or risk the public release of the stolen data, which would result in significant reputational and legal consequences for the company.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

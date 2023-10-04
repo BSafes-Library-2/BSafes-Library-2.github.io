@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+October 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Events Fuel DDoS Attack Campaigns<a href="https://www.helpnetsecurity.com/2023/10/02/ddos-attacks-1h-2023/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals launched around 7.9 million DDoS attacks in the first half of 2023, a 31% increase compared to the previous year, according to NETSCOUT. These attacks have been driven by global events such as the Russia-Ukraine war and NATO bids.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

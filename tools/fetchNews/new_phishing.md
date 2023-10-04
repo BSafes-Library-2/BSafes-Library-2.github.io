@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Executives Targeted in Phishing Attacks Exploiting Flaw in Indeed Job Platform<a href="https://www.securityweek.com/us-executives-targeted-in-phishing-attacks-exploiting-flaw-in-indeed-job-platform/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent phishing campaign has exploited an open redirection vulnerability in the popular job search platform Indeed, targeting executives in senior roles to steal their Microsoft credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

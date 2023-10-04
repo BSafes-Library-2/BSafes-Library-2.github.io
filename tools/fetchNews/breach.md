@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Steal User Database From European Telecommunications Standards Body<a href="https://therecord.media/etsi-telecommunications-standards-body-hack-database-stolen?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ETSI has taken immediate action, involving France's cybersecurity agency, ANSSI, to investigate and fix the vulnerability that led to the attack and has strengthened its IT security procedures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Logistics Portal Leaks Sensitive Data Related to Operations at Indian Ports<a href="https://securityaffairs.com/151819/data-breach/national-logistics-portal-nlp-data-leak.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The publicly accessible AWS S3 buckets contained personal data, invoices, and internal documents, potentially disrupting trade and operations of India's ports and leading to significant ransom demands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
