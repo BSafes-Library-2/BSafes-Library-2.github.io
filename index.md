@@ -34,6 +34,262 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Executives Targeted in Phishing Attacks Exploiting Flaw in Indeed Job Platform<a href="https://www.securityweek.com/us-executives-targeted-in-phishing-attacks-exploiting-flaw-in-indeed-job-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent phishing campaign has exploited an open redirection vulnerability in the popular job search platform Indeed, targeting executives in senior roles to steal their Microsoft credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qualcomm Releases Patch for 3 new Zero-Days Under Active Exploitation<a href="https://thehackernews.com/2023/10/qualcomm-releases-patch-for-3-new-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chipmaker Qualcomm has released security updates to address 17 vulnerabilities in various components, while warning that three other zero-days have come under active exploitation. Of the 17 flaws, three are rated Critical, 13 are rated High, and one is rated Medium in severity. "There are indications from Google Threat Analysis Group and Google Project Zero that CVE-2023-33106, CVE-2023-33107, CVE-2022-22071, and CVE-2023-33063 may be under limited, targeted exploitation," the semiconductor company  said  in an advisory. "Patches for the issues affecting Adreno GPU and Compute DSP drivers have been made available, and OEMs have been notified with a strong recommendation to deploy security updates as soon as possible." CVE-2022-22071  (CVSS score: 8.4), described as a use-after-free in Automotive OS Platform, was originally patched by the company as part of its May 2022 updates. While additional specifics about the remaining other flaws are expected to be made
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz Ransomware Group Attacks Allcare Pharmacy in Major Cyber Assault<a href="https://thecyberexpress.com/allcare-pharmacy-cyber-attack-lorenz-group/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Allcare Pharmacy data breach, claimed by the Lorenz ransomware group, has exposed sensitive customer information, including Social Security Numbers, raising concerns about data security and patient privacy in the healthcare sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: PyTorch Models Vulnerable to Remote Code Execution via ShellTorch<a href="https://thehackernews.com/2023/10/warning-pytorch-models-vulnerable-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed multiple critical security flaws in the  TorchServe tool  for serving and scaling PyTorch models that could be chained to achieve remote code execution on affected systems. Israel-based runtime application security company Oligo, which made the discovery, has coined the vulnerabilities  ShellTorch . "These vulnerabilities [...] can lead to a full chain Remote Code Execution (RCE), leaving countless thousands of services and end-users — including some of the world's largest companies — open to unauthorized access and insertion of malicious AI models, and potentially a full server takeover," security researchers Idan Levcovich, Guy Kaplan, and Gal Elbaz  said . The list of flaws, which have been addressed in  version 0.8.2 , is as follows - No CVE - Unauthenticated Management Interface API Misconfiguration (0.0.0.0) CVE-2023-43654  (CVSS score: 7.2) - A remote server-side request forgery ( SSRF ) that leads to remote code exe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Seen Exploiting Bugs in Browsers and Popular File Transfer Tool<a href="https://therecord.media/libvpx-ws-ftp-vulnerabilities-browsers-file-transfer-tool?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) warned on Monday that hackers are exploiting CVE-2023-5217 — a vulnerability affecting Google Chrome, Mozilla Firefox, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 3 Dozen Data-Stealing Malicious npm Packages Found Targeting Developers<a href="https://thehackernews.com/2023/10/over-3-dozen-data-stealing-malicious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly three dozen counterfeit packages have been discovered in the npm package repository that are designed to exfiltrate sensitive data from developer systems, according to findings from Fortinet FortiGuard Labs. One set of packages – named @expue/webpack, @expue/core, @expue/vue3-renderer, @fixedwidthtable/fixedwidthtable, and @virtualsearchtable/virtualsearchtable – harbored an obfuscated JavaScript file that's capable of gathering valuable secrets. This includes Kubernetes configurations, SSH keys, and system metadata such as username, IP address, and hostname. The cybersecurity firm said it also discovered another collection of four modules, i.e., binarium-crm, career-service-client-0.1.6, hh-dep-monitoring, and orbitplate, which results in the unauthorized extraction of source code and configuration files. "The targeted files and directories may contain highly valuable intellectual property and sensitive information, such as various application and service credent
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wave of Mirai Botnet Variants Like hailBot, kiraiBot, and catDDoS Mount a Fierce Onslaught<a href="https://nsfocusglobal.com/mirai-botnets-new-wave-hailbot-kiraibot-catddos-and-their-fierce-onslaught/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These variants utilize different tactics such as modifying go-live processes, introducing new encryption algorithms, and incorporating OpenNIC domains to evade detection and enhance their malicious activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+API Security Trends 2023 – Have Organizations Improved their Security Posture?<a href="https://thehackernews.com/2023/10/api-security-trends-2023-have.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APIs, also known as application programming interfaces, serve as the backbone of modern software applications, enabling seamless communication and data exchange between different systems and platforms. They provide developers with an interface to interact with external services, allowing them to integrate various functionalities into their own applications. However, this increased reliance on APIs has also made them attractive targets for cybercriminals. In recent years, the rise of API breaches has become a growing concern in the world of cybersecurity. One of the main reasons behind the rise of API breaches is inadequate security measures implemented by developers and organizations. Many APIs are not properly secured, leaving them vulnerable to attacks. Moreover, hackers have developed sophisticated techniques that specifically target weaknesses within APIs. For example, they may leverage malicious code injections into requests or manipulate responses from an API endpoint to gain
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android’s October 2023 Security Updates Patch Two Exploited Vulnerabilities<a href="https://www.securityweek.com/androids-october-2023-update-patches-two-exploited-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Monday announced the release of patches for 51 vulnerabilities as part of the October 2023 security updates for Android, including fixes for two zero-day flaws exploited in malicious attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protecting your IT infrastructure with Security Configuration Assessment (SCA)<a href="https://thehackernews.com/2023/10/protecting-your-it-infrastructure-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security Configuration Assessment (SCA)  is critical to an organization's cybersecurity strategy. SCA aims to discover vulnerabilities and misconfigurations that malicious actors exploit to gain unauthorized access to systems and data. Regular  security configuration assessments  are essential in maintaining a secure and compliant environment, as this minimizes the risk of cyber attacks. The assessment provides insight into your current security posture by performing configuration baseline checks on services and applications running on critical systems. How SCA works  SCA is performed by checking the configurations of your IT assets against known benchmarks such as the Center for Internet Security (CIS) benchmark and compliance standards such as NIST, GDPR, and HIPPA. Regulatory standards provide a global benchmark for best practices to help organizations enhance their IT hygiene and improve customer trust. The CIS benchmark provides a guideline for best practices for security c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa Ransomware Group Claims Intrusions at Two New Victims, Sets Ransom Deadline<a href="https://thecyberexpress.com/medusa-cyber-attacks-karamchand-thapar-windak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Medusa ransomware group has recently targeted two companies, Karam Chand Thapar & Bros. (Coal Sales) Ltd in India and the Sweden-based Windak Group, demanding significant ransoms for the release of encrypted data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Reveals New Techniques to Bypass Cloudflare's Firewall and DDoS Protection<a href="https://thehackernews.com/2023/10/researcher-reveal-new-technique-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Firewall and distributed denial-of-service (DDoS) attack prevention mechanisms in Cloudflare can be circumvented by exploiting gaps in cross-tenant security controls, defeating the very purpose of these safeguards, it has emerged. "Attackers can utilize their own Cloudflare accounts to abuse the per-design trust-relationship between Cloudflare and the customers' websites, rendering the protection mechanism ineffective," Certitude researcher Stefan Proksch  said  in a report published last week. The problem, per the Austrian consulting firm, is the result of shared infrastructure available to all tenants within Cloudflare, regardless of whether they are legitimate or otherwise, thereby making it easy for malicious actors to abuse the implicit trust associated with service and defeat the guardrails. The first issue stems from opting for a shared Cloudflare certificate to authenticate HTTP(S) requests between the service's reverse proxies and the customer's origi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Some Prospect Medical Hospitals in Dire State, Post-Attack<a href="https://www.healthcareinfosecurity.com/some-prospect-medical-hospitals-in-dire-state-post-attack-a-23203?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hospitals are facing financial difficulties and are struggling to pay vendors. This incident highlights the vulnerability of financially unstable hospitals to cyberattacks and the potential risks to patient care.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arm Issues Patch for Mali GPU Kernel Driver Vulnerability Amidst Ongoing Exploitation<a href="https://thehackernews.com/2023/10/arm-issues-patch-for-mali-gpu-kernel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Arm has released security patches to contain a security flaw in the Mali GPU Kernel Driver that has come under active exploitation in the wild. Tracked as  CVE-2023-4211 , the shortcoming impacts the following driver versions - Midgard GPU Kernel Driver: All versions from r12p0 - r32p0 Bifrost GPU Kernel Driver: All versions from r0p0 - r42p0 Valhall GPU Kernel Driver: All versions from r19p0 - r42p0 Arm 5th Gen GPU Architecture Kernel Driver: All versions from r41p0 - r42p0 "A local non-privileged user can make improper GPU memory processing operations to gain access to already freed memory," Arm  said  in a Monday advisory. "There is evidence that this vulnerability may be under limited, targeted exploitation." The issue, credited to Maddie Stone of Google's Threat Analysis Group (TAG) and Jann Horn of Google Project Zero, has been addressed in Bifrost, Valhall and Arm 5th Gen GPU Architecture Kernel Driver r43p0. Google, in its own monthly  Androi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware Gang Allegedly Stole Over 24 Million Files From Motel One<a href="https://securityaffairs.com/151732/cyber-crime/alphv-ransomware-motel-one.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Motel One has been given a five-day deadline to pay the ransom or risk the public release of the stolen data, which would result in significant reputational and legal consequences for the company.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Events Fuel DDoS Attack Campaigns<a href="https://www.helpnetsecurity.com/2023/10/02/ddos-attacks-1h-2023/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals launched around 7.9 million DDoS attacks in the first half of 2023, a 31% increase compared to the previous year, according to NETSCOUT. These attacks have been driven by global events such as the Russia-Ukraine war and NATO bids.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
