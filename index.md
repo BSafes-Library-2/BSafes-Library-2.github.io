@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2023
+October 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mozilla Warns of Fake Thunderbird Downloads Delivering Ransomware<a href="https://www.securityweek.com/mozilla-warns-of-fake-thunderbird-downloads-delivering-ransomware/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2023
+October 04, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Link DragonEgg Android Spyware to LightSpy iOS Surveillanceware<a href="https://thehackernews.com/2023/10/researchers-link-dragonegg-android.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2023
+October 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Arietis Health Announces MOVEit Data Breach Impacting Patients of NorthStar Anesthesia Facilities<a href="https://www.jdsupra.com/legalnews/arietis-health-llc-announces-moveit-2472384/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2023
+October 04, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wing Disrupts the Market by Introducing Affordable SaaS Security<a href="https://thehackernews.com/2023/10/wing-disrupts-market-by-introducing.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2023
+October 4, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lyca Mobile Suffers Disruptive Cyberattack; Investigates Ransomware Possibility<a href="https://www.hackread.com/lyca-mobile-cyber-attack-investigate-ransomware/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2023
+October 04, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rogue npm Package Deploys Open-Source Rootkit in New Supply Chain Attack<a href="https://thehackernews.com/2023/10/rogue-npm-package-deploys-open-source.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2023
+October 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Typosquatting Campaign Delivers R77 Rootkit Through Malicious JavaScript Package<a href="https://www.reversinglabs.com/blog/r77-rootkit-typosquatting-npm-threat-research?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2023
+October 04, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Cyber Attacks Attempting to Breach Cloud via SQL Server Instance<a href="https://thehackernews.com/2023/10/microsoft-warns-of-cyber-attacks.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2023
+October 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dead Grandma Locket Request Tricks Bing Chat’s AI Into Solving Security Puzzle<a href="https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 04, 2023
+October 04, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Looney Tunables: New Linux Flaw Enables Privilege Escalation on Major Distributions<a href="https://thehackernews.com/2023/10/looney-tunables-new-linux-flaw-enables.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2023
+October 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark Web Sale of FBI LEEP Classified Data Sparks Concerns Over National Security<a href="https://thecyberexpress.com/alleged-fbi-leep-data-sale-classified-at-risk/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2023
+October 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NATO Investigates Alleged Cyberattack Affecting Some Unclassified Websites<a href="https://therecord.media/nato-siegedsec-unclassified-websites-alleged-cyberattack?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 4, 2023
+October 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 San Francisco Metropolitan Transportation Commission Leaves 26,000 Files Publicly Accessible<a href="https://securityaffairs.com/151889/data-breach/san-franciscos-transport-agency-metropolitan-transportation-commission-mtc-exposes-drivers-plate-numbers-and-addresses.html?&web_view=true"> Full Text</a>

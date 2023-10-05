@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa Ransomware Group Claims Intrusions at Two New Victims, Sets Ransom Deadline<a href="https://thecyberexpress.com/medusa-cyber-attacks-karamchand-thapar-windak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Medusa ransomware group has recently targeted two companies, Karam Chand Thapar &amp; Bros. (Coal Sales) Ltd in India and the Sweden-based Windak Group, demanding significant ransoms for the release of encrypted data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Some Prospect Medical Hospitals in Dire State, Post-Attack<a href="https://www.healthcareinfosecurity.com/some-prospect-medical-hospitals-in-dire-state-post-attack-a-23203?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hospitals are facing financial difficulties and are struggling to pay vendors. This incident highlights the vulnerability of financially unstable hospitals to cyberattacks and the potential risks to patient care.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

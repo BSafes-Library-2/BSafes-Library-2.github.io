@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+API Security Trends 2023 – Have Organizations Improved their Security Posture?<a href="https://thehackernews.com/2023/10/api-security-trends-2023-have.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APIs, also known as application programming interfaces, serve as the backbone of modern software applications, enabling seamless communication and data exchange between different systems and platforms. They provide developers with an interface to interact with external services, allowing them to integrate various functionalities into their own applications. However, this increased reliance on APIs has also made them attractive targets for cybercriminals. In recent years, the rise of API breaches has become a growing concern in the world of cybersecurity. One of the main reasons behind the rise of API breaches is inadequate security measures implemented by developers and organizations. Many APIs are not properly secured, leaving them vulnerable to attacks. Moreover, hackers have developed sophisticated techniques that specifically target weaknesses within APIs. For example, they may leverage malicious code injections into requests or manipulate responses from an API endpoint to gain
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

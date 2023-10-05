@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Typosquatting Campaign Delivers R77 Rootkit Through Malicious JavaScript Package<a href="https://www.reversinglabs.com/blog/r77-rootkit-typosquatting-npm-threat-research?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The typosquatting attack involved a malicious package called node-hide-console-windows that downloaded a Discord bot, which then planted an open-source rootkit called r77.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Cyber Attacks Attempting to Breach Cloud via SQL Server Instance<a href="https://thehackernews.com/2023/10/microsoft-warns-of-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has detailed a new campaign in which attackers unsuccessfully attempted to move laterally to a cloud environment&nbsp;through an SQL Server instance. "The attackers initially exploited a SQL injection vulnerability in an application within the target's environment," security researchers Sunders Bruskin, Hagai Ran Kestenberg, and Fady Nasereldeen&nbsp; said &nbsp;in a Tuesday report. "This allowed the attacker to gain access and elevated permissions on a Microsoft SQL Server instance deployed in Azure Virtual Machine (VM)." In the next stage, the threat actors leveraged the new permissions to attempt to move laterally to additional cloud resources by abusing the server's cloud identity, which may possess elevated permissions to likely carry out various malicious actions in the cloud that the identity has access to. Microsoft said it did not find any evidence to suggest that the attackers successfully moved laterally to the cloud resources using the technique
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

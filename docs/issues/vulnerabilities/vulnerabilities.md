@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dead Grandma Locket Request Tricks Bing Chat’s AI Into Solving Security Puzzle<a href="https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This incident highlights a new type of vulnerability, similar to prompt injection, where users can bypass the constraints of the AI model. Microsoft is likely to address this issue in future versions of Bing Chat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Looney Tunables: New Linux Flaw Enables Privilege Escalation on Major Distributions<a href="https://thehackernews.com/2023/10/looney-tunables-new-linux-flaw-enables.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Linux security vulnerability dubbed Looney Tunables has been discovered in the GNU C library's ld.so dynamic loader that, if successfully exploited, could lead to a local privilege escalation and allow a threat actor to gain root privileges. Tracked as&nbsp; CVE-2023-4911 &nbsp;(CVSS score: 7.8), the issue is a buffer overflow that resides in the dynamic loader's processing of the&nbsp; GLIBC_TUNABLES environment variable . Cybersecurity firm Qualys, which&nbsp; disclosed &nbsp;details of the bug, said it was introduced as part of a code commit made in April 2021. The GNU C library, also called&nbsp; glibc , is a core library in Linux-based systems that offers foundational features such as open, read, write, malloc, printf, getaddrinfo, dlopen, pthread_create, crypt, login, and exit. glibc's&nbsp; dynamic loader &nbsp;is a crucial component that's responsible for preparing and running programs, including finding the necessarily shared object dependencies required as well as loading them into memory
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

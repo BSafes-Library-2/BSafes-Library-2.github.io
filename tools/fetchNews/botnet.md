@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 3, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wave of Mirai Botnet Variants Like hailBot, kiraiBot, and catDDoS Mount a Fierce Onslaught<a href="https://nsfocusglobal.com/mirai-botnets-new-wave-hailbot-kiraibot-catddos-and-their-fierce-onslaught/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These variants utilize different tactics such as modifying go-live processes, introducing new encryption algorithms, and incorporating OpenNIC domains to evade detection and enhance their malicious activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

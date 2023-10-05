@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+October 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arietis Health Announces MOVEit Data Breach Impacting Patients of NorthStar Anesthesia Facilities<a href="https://www.jdsupra.com/legalnews/arietis-health-llc-announces-moveit-2472384/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach was discovered on May 31, 2023, and unauthorized actors were able to access Arietis Health's MOVEit server, potentially acquiring confidential files belonging to patients at NorthStar Anesthesia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Web Sale of FBI LEEP Classified Data Sparks Concerns Over National Security<a href="https://thecyberexpress.com/alleged-fbi-leep-data-sale-classified-at-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The sale of these credentials puts sensitive information at risk of being misused by cybercriminals. It is unclear how many credentials are being sold or if they are genuine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NATO Investigates Alleged Cyberattack Affecting Some Unclassified Websites<a href="https://therecord.media/nato-siegedsec-unclassified-websites-alleged-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NATO is currently investigating claims that data was stolen from its unclassified websites by the hacking group SiegedSec. The group allegedly stole 9 GB of data, including documents from various NATO portals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Francisco Metropolitan Transportation Commission Leaves 26,000 Files Publicly Accessible<a href="https://securityaffairs.com/151889/data-breach/san-franciscos-transport-agency-metropolitan-transportation-commission-mtc-exposes-drivers-plate-numbers-and-addresses.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A misconfiguration in the Metropolitan Transportation Commission (MTC) systems resulted in the exposure of over 26,000 files, including clients' home addresses and vehicle plate numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

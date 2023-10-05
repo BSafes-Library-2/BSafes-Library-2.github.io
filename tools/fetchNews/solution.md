@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protecting your IT infrastructure with Security Configuration Assessment (SCA)<a href="https://thehackernews.com/2023/10/protecting-your-it-infrastructure-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security Configuration Assessment (SCA) &nbsp;is critical to an organization's cybersecurity strategy. SCA aims to discover vulnerabilities and misconfigurations that malicious actors exploit to gain unauthorized access to systems and data. Regular&nbsp; security configuration assessments &nbsp;are essential in maintaining a secure and compliant environment, as this minimizes the risk of cyber attacks. The assessment provides insight into your current security posture by performing configuration baseline checks on services and applications running on critical systems. How SCA works&nbsp; SCA is performed by checking the configurations of your IT assets against known benchmarks such as the Center for Internet Security (CIS) benchmark and compliance standards such as NIST, GDPR, and HIPPA. Regulatory standards provide a global benchmark for best practices to help organizations enhance their IT hygiene and improve customer trust. The CIS benchmark provides a guideline for best practices for security c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
