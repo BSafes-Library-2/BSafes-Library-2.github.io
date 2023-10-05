@@ -34,7 +34,215 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mozilla Warns of Fake Thunderbird Downloads Delivering Ransomware<a href="https://www.securityweek.com/mozilla-warns-of-fake-thunderbird-downloads-delivering-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Snatch cybercrime group has been using paid Google ads to distribute their malware, posing as trusted software like Adobe Reader, Discord, Microsoft Teams, and Mozilla Thunderbird.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Link DragonEgg Android Spyware to LightSpy iOS Surveillanceware<a href="https://thehackernews.com/2023/10/researchers-link-dragonegg-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings have identified connections between an Android spyware called DragonEgg and another sophisticated modular iOS surveillanceware tool named LightSpy . DragonEgg , alongside WyrmSpy (aka AndroidControl), was  first disclosed  by Lookout in July 2023 as a strain of malware capable of gathering sensitive data from Android devices. It was attributed to the Chinese nation-state group APT41. On the other hand, details about LightSpy came to light in March 2020 as part of a campaign dubbed  Operation Poisoned News  in which Apple iPhone users in Hong Kong were targeted with watering hole attacks to install the spyware. Now, according to Dutch mobile security firm ThreatFabric, the attack chains involve the use of a trojanized Telegram app that's designed to download a second-stage payload (smallmload.jar), which, in turn, is configured to download a third component codenamed Core. Further analysis of the artifacts has revealed that the implant has been actively maintaine
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arietis Health Announces MOVEit Data Breach Impacting Patients of NorthStar Anesthesia Facilities<a href="https://www.jdsupra.com/legalnews/arietis-health-llc-announces-moveit-2472384/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach was discovered on May 31, 2023, and unauthorized actors were able to access Arietis Health's MOVEit server, potentially acquiring confidential files belonging to patients at NorthStar Anesthesia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wing Disrupts the Market by Introducing Affordable SaaS Security<a href="https://thehackernews.com/2023/10/wing-disrupts-market-by-introducing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, mid-sized companies and their CISOs are struggling to handle the growing threat of SaaS security with limited manpower and tight budgets. Now, this may be changing. By focusing on the critical SaaS security needs of these companies, a new approach has emerged that can be  launched for $1,500 a year . If the name Wing Security (Wing) rings a bell, it is probably because earlier this year, they made waves by offering SaaS shadow IT discovery  completely for free . Today, Wing is once again aiming to disrupt the SaaS security market by offering a new tier that the company claims to be 'The essential SaaS security level that every company should achieve.'  The  new product tier  focuses on SaaS shadow IT discovery, automated vendor risk assessments, and the ability to easily perform user access reviews on dozens of critical business applications. Wing also provides the ability to generate compliance-ready access reports that customers can then send to their auditor. The c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lyca Mobile Suffers Disruptive Cyberattack; Investigates Ransomware Possibility<a href="https://www.hackread.com/lyca-mobile-cyber-attack-investigate-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack caused disruptions to national and international calling, as well as customers' and retailers' access to top-ups, indicating a potential ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rogue npm Package Deploys Open-Source Rootkit in New Supply Chain Attack<a href="https://thehackernews.com/2023/10/rogue-npm-package-deploys-open-source.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new deceptive package hidden within the npm package registry has been uncovered deploying an open-source rootkit called r77 , marking the first time a rogue package has delivered rootkit functionality. The package in question is  node-hide-console-windows , which mimics the legitimate npm package  node-hide-console-window  in what's an instance of a typosquatting campaign. It was  downloaded 704 times  over the past two months before it was taken down. ReversingLabs, which  first detected  the activity in August 2023, said the package "downloaded a Discord bot that facilitated the planting of an open-source rootkit, r77," adding it "suggests that open-source projects may increasingly be seen as an avenue by which to distribute malware." The malicious code, per the software supply chain security firm, is contained within the package's index.js file that, upon execution, fetches an executable that's automatically run. The executable in question is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Typosquatting Campaign Delivers R77 Rootkit Through Malicious JavaScript Package<a href="https://www.reversinglabs.com/blog/r77-rootkit-typosquatting-npm-threat-research?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The typosquatting attack involved a malicious package called node-hide-console-windows that downloaded a Discord bot, which then planted an open-source rootkit called r77.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Cyber Attacks Attempting to Breach Cloud via SQL Server Instance<a href="https://thehackernews.com/2023/10/microsoft-warns-of-cyber-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has detailed a new campaign in which attackers unsuccessfully attempted to move laterally to a cloud environment through an SQL Server instance. "The attackers initially exploited a SQL injection vulnerability in an application within the target's environment," security researchers Sunders Bruskin, Hagai Ran Kestenberg, and Fady Nasereldeen  said  in a Tuesday report. "This allowed the attacker to gain access and elevated permissions on a Microsoft SQL Server instance deployed in Azure Virtual Machine (VM)." In the next stage, the threat actors leveraged the new permissions to attempt to move laterally to additional cloud resources by abusing the server's cloud identity, which may possess elevated permissions to likely carry out various malicious actions in the cloud that the identity has access to. Microsoft said it did not find any evidence to suggest that the attackers successfully moved laterally to the cloud resources using the technique
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dead Grandma Locket Request Tricks Bing Chat’s AI Into Solving Security Puzzle<a href="https://arstechnica.com/information-technology/2023/10/sob-story-about-dead-grandma-tricks-microsoft-ai-into-solving-captcha/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This incident highlights a new type of vulnerability, similar to prompt injection, where users can bypass the constraints of the AI model. Microsoft is likely to address this issue in future versions of Bing Chat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Looney Tunables: New Linux Flaw Enables Privilege Escalation on Major Distributions<a href="https://thehackernews.com/2023/10/looney-tunables-new-linux-flaw-enables.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Linux security vulnerability dubbed Looney Tunables has been discovered in the GNU C library's ld.so dynamic loader that, if successfully exploited, could lead to a local privilege escalation and allow a threat actor to gain root privileges. Tracked as  CVE-2023-4911  (CVSS score: 7.8), the issue is a buffer overflow that resides in the dynamic loader's processing of the  GLIBC_TUNABLES environment variable . Cybersecurity firm Qualys, which  disclosed  details of the bug, said it was introduced as part of a code commit made in April 2021. The GNU C library, also called  glibc , is a core library in Linux-based systems that offers foundational features such as open, read, write, malloc, printf, getaddrinfo, dlopen, pthread_create, crypt, login, and exit. glibc's  dynamic loader  is a crucial component that's responsible for preparing and running programs, including finding the necessarily shared object dependencies required as well as loading them into memory
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Web Sale of FBI LEEP Classified Data Sparks Concerns Over National Security<a href="https://thecyberexpress.com/alleged-fbi-leep-data-sale-classified-at-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The sale of these credentials puts sensitive information at risk of being misused by cybercriminals. It is unclear how many credentials are being sold or if they are genuine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NATO Investigates Alleged Cyberattack Affecting Some Unclassified Websites<a href="https://therecord.media/nato-siegedsec-unclassified-websites-alleged-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NATO is currently investigating claims that data was stolen from its unclassified websites by the hacking group SiegedSec. The group allegedly stole 9 GB of data, including documents from various NATO portals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+San Francisco Metropolitan Transportation Commission Leaves 26,000 Files Publicly Accessible<a href="https://securityaffairs.com/151889/data-breach/san-franciscos-transport-agency-metropolitan-transportation-commission-mtc-exposes-drivers-plate-numbers-and-addresses.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A misconfiguration in the Metropolitan Transportation Commission (MTC) systems resulted in the exposure of over 26,000 files, including clients' home addresses and vehicle plate numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Executives Targeted in Phishing Attacks Exploiting Flaw in Indeed Job Platform<a href="https://www.securityweek.com/us-executives-targeted-in-phishing-attacks-exploiting-flaw-in-indeed-job-platform/?&web_view=true"> Full Text</a>
@@ -50,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2023
+October 03, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qualcomm Releases Patch for 3 new Zero-Days Under Active Exploitation<a href="https://thehackernews.com/2023/10/qualcomm-releases-patch-for-3-new-zero.html"> Full Text</a>
@@ -66,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lorenz Ransomware Group Attacks Allcare Pharmacy in Major Cyber Assault<a href="https://thecyberexpress.com/allcare-pharmacy-cyber-attack-lorenz-group/?&web_view=true"> Full Text</a>
@@ -82,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2023
+October 03, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning: PyTorch Models Vulnerable to Remote Code Execution via ShellTorch<a href="https://thehackernews.com/2023/10/warning-pytorch-models-vulnerable-to.html"> Full Text</a>
@@ -98,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Seen Exploiting Bugs in Browsers and Popular File Transfer Tool<a href="https://therecord.media/libvpx-ws-ftp-vulnerabilities-browsers-file-transfer-tool?&web_view=true"> Full Text</a>
@@ -114,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2023
+October 03, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 3 Dozen Data-Stealing Malicious npm Packages Found Targeting Developers<a href="https://thehackernews.com/2023/10/over-3-dozen-data-stealing-malicious.html"> Full Text</a>
@@ -130,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Wave of Mirai Botnet Variants Like hailBot, kiraiBot, and catDDoS Mount a Fierce Onslaught<a href="https://nsfocusglobal.com/mirai-botnets-new-wave-hailbot-kiraibot-catddos-and-their-fierce-onslaught/?&web_view=true"> Full Text</a>
@@ -146,7 +354,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2023
+October 03, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 API Security Trends 2023 – Have Organizations Improved their Security Posture?<a href="https://thehackernews.com/2023/10/api-security-trends-2023-have.html"> Full Text</a>
@@ -162,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android’s October 2023 Security Updates Patch Two Exploited Vulnerabilities<a href="https://www.securityweek.com/androids-october-2023-update-patches-two-exploited-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -178,7 +386,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2023
+October 03, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Protecting your IT infrastructure with Security Configuration Assessment (SCA)<a href="https://thehackernews.com/2023/10/protecting-your-it-infrastructure-with.html"> Full Text</a>
@@ -194,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medusa Ransomware Group Claims Intrusions at Two New Victims, Sets Ransom Deadline<a href="https://thecyberexpress.com/medusa-cyber-attacks-karamchand-thapar-windak/?&web_view=true"> Full Text</a>
@@ -210,7 +418,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2023
+October 03, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researcher Reveals New Techniques to Bypass Cloudflare's Firewall and DDoS Protection<a href="https://thehackernews.com/2023/10/researcher-reveal-new-technique-to.html"> Full Text</a>
@@ -226,7 +434,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Some Prospect Medical Hospitals in Dire State, Post-Attack<a href="https://www.healthcareinfosecurity.com/some-prospect-medical-hospitals-in-dire-state-post-attack-a-23203?&web_view=true"> Full Text</a>
@@ -242,7 +450,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 03, 2023
+October 03, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Arm Issues Patch for Mali GPU Kernel Driver Vulnerability Amidst Ongoing Exploitation<a href="https://thehackernews.com/2023/10/arm-issues-patch-for-mali-gpu-kernel.html"> Full Text</a>
@@ -258,7 +466,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat Ransomware Gang Allegedly Stole Over 24 Million Files From Motel One<a href="https://securityaffairs.com/151732/cyber-crime/alphv-ransomware-motel-one.html?&web_view=true"> Full Text</a>
@@ -274,7 +482,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 3, 2023
+October 3, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Events Fuel DDoS Attack Campaigns<a href="https://www.helpnetsecurity.com/2023/10/02/ddos-attacks-1h-2023/?&web_view=true"> Full Text</a>
