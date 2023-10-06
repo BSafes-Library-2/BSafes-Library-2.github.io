@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stream-Jacking Attacks on YouTube Steal From Victims via Cryptocurrency Scams<a href="https://www.bitdefender.com/blog/labs/a-deep-dive-into-stream-jacking-attacks-on-youtube-and-why-theyre-so-popular/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers redirect victims to scams that involve QR codes and phishing websites promising to double their cryptocurrency investments, often using deep fake videos of Elon Musk to add credibility.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

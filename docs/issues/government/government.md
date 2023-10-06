@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Active Exploitation of JetBrains and Windows Vulnerabilities<a href="https://thehackernews.com/2023/10/cisa-warns-of-active-exploitation-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday&nbsp; added &nbsp;two security flaws to its Known Exploited Vulnerabilities ( KEV ) catalog due to active exploitation, while removing five bugs from the list due to lack of adequate evidence. The vulnerabilities newly added are below - CVE-2023-42793 &nbsp;(CVSS score: 9.8) - JetBrains TeamCity Authentication Bypass Vulnerability CVE-2023-28229 &nbsp;(CVSS score: 7.0) - Microsoft Windows CNG Key Isolation Service Privilege Escalation Vulnerability CVE-2023-42793 relates to a&nbsp; critical authentication bypass vulnerability &nbsp;that allows for remote code execution on TeamCity Server. Data gathered by GreyNoise has revealed exploitation attempts targeting the flaw from&nbsp; 74 unique IP addresses &nbsp;to date. On the other hand, CVE-2023-28229 is a&nbsp; high-severity flaw &nbsp;in the Microsoft Windows Cryptographic Next Generation (CNG) Key Isolation Service that allows an attacker to gain specific limited SYSTEM privileges. There are curren
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

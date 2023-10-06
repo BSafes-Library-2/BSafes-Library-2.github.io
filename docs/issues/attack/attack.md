@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+October 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PLAY Ransomware Group Added Six New Organizations to its Victim List<a href="https://thecyberexpress.com/play-cyber-attack-hits-6-new-victims/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organizations targeted by PLAY include Roof Management, Security Instrument Corp, Filtration Control Ltd, Cinépolis Cinemas, CHARMANT Group, and Stavanger Municipality.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Jacana Targets Governmental Entity in Guyana with DinodasRAT<a href="https://www.welivesecurity.com/en/eset-research/operation-jacana-spying-guyana-entity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the specific APT group behind the campaign could not be identified, there is medium confidence that it is a China-aligned threat group based on the use of a variant of Korplug, which is commonly associated with such groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guyana Governmental Entity Hit by DinodasRAT in Cyber Espionage Attack<a href="https://thehackernews.com/2023/10/guyana-governmental-entity-hit-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A governmental entity in Guyana has been targeted as part of a cyber espionage campaign dubbed&nbsp; Operation Jacana . The&nbsp; activity , which was detected by ESET in February 2023, entailed a spear-phishing attack that led to the deployment of a hitherto undocumented implant written in C++ called DinodasRAT. The Slovak cybersecurity firm said it could link the intrusion to a known threat actor or group, but attributed with medium confidence to a China-nexus adversary owing to the use of&nbsp; PlugX &nbsp;(aka Korplug), a remote access trojan common to Chinese hacking crews. "This campaign was targeted, as the threat actors crafted their emails specifically to entice their chosen victim organization," ESET&nbsp; said &nbsp;in a report shared with The Hacker News. "After successfully compromising an initial but limited set of machines with DinodasRAT, the operators proceeded to move inside and breach the target's internal network, where they again deployed this backdoor." The infec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

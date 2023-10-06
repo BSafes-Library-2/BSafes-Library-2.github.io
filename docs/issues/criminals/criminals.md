@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QakBot Threat Actors Still in Action, Using Ransom Knight and Remcos RAT in Latest Attacks<a href="https://thehackernews.com/2023/10/qakbot-threat-actors-still-in-action.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite the disruption to its infrastructure, the threat actors behind the QakBot malware have been linked to an ongoing phishing campaign since early August 2023 that led to the delivery of Ransom Knight (aka Cyclops) ransomware and Remcos RAT. This indicates that "the law enforcement operation may not have impacted Qakbot operators' spam delivery infrastructure but rather only their command-and-control (C2) servers," Cisco Talos researcher Guilherme Venere&nbsp; said &nbsp;in a new report published today. The activity has been attributed with moderate confidence by the cybersecurity firm to QakBot affiliates. There is no evidence to date that the threat actors have resumed distributing the malware loader itself post-infrastructure takedown. QakBot, also called QBot and Pinkslipbot, originated as a Windows-based banking trojan in 2007 and subsequently developed capabilities to deliver additional payloads, including ransomware. In late August 2023, the notorious malware operation was dealt
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

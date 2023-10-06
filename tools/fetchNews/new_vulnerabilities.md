@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Releases Urgent Patch to Fix Critical Flaw in Emergency Responder Systems<a href="https://thehackernews.com/2023/10/cisco-releases-urgent-patch-to-fix.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released updates to address a critical security flaw impacting Emergency Responder that allows unauthenticated, remote attackers to sign into susceptible systems using hard-coded credentials. The vulnerability, tracked as&nbsp; CVE-2023-20101 &nbsp;(CVSS score: 9.8), is due to the presence of static user credentials for the root account that the company said is usually reserved for use during development. "An attacker could exploit this vulnerability by using the account to log in to an affected system," Cisco&nbsp; said &nbsp;in an advisory. "A successful exploit could allow the attacker to log in to the affected system and execute arbitrary commands as the root user." The issue impacts Cisco Emergency Responder Release 12.5(1)SU4 and has been addressed in version 12.5(1)SU5. Other releases of the product are not impacted. The networking equipment major said it discovered the problem during internal security testing and that it's not aware of any malicious use of the vulnerability in the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Rolls Out Security Patches for Actively Exploited iOS Zero-Day Flaw<a href="https://thehackernews.com/2023/10/apple-rolls-out-security-patches-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Wednesday rolled out security patches to address a new zero-day flaw in iOS and iPadOS that it said has come under active exploitation in the wild. Tracked as&nbsp; CVE-2023-42824 , the kernel vulnerability could be abused by a local attacker to elevate their privileges. The iPhone maker said it addressed the problem with improved checks. "Apple is aware of a report that this issue may have been actively exploited against versions of iOS before iOS 16.6," the company&nbsp; noted &nbsp;in a terse advisory. While additional details about the nature of the attacks and the identity of the threat actors perpetrating them are currently unknown, successful exploitation likely hinges on an attacker already obtaining an initial foothold by some other means. Apple's latest update also resolves&nbsp; CVE-2023-5217 &nbsp;impacting the WebRTC component, which Google last week described as a heap-based buffer overflow in the VP8 compression format in libvpx. The patches, iOS 17.0.3 and iPadOS 1
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Confluence Hit by New Actively Exploited Zero-Day – Patch Now<a href="https://thehackernews.com/2023/10/atlassian-confluence-hit-by-newly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has released fixes to contain an actively exploited critical zero-day flaw impacting publicly accessible Confluence Data Center and Server instances. The vulnerability, tracked as&nbsp; CVE-2023-22515 , is remotely exploitable and allows external attackers to create unauthorized Confluence administrator accounts and access Confluence servers. It does not impact Confluence versions prior to 8.0.0. Confluence sites accessed via an atlassian.net domain are also not vulnerable to this issue. The enterprise software services provider&nbsp; said &nbsp;it was made aware of the issue by "a handful of customers." It has been addressed in the following versions of Confluence Data Center and Server - 8.3.3 or later 8.4.3 or later, and 8.5.2 (Long Term Support release) or later The company, however, did not disclose any further specifics about the nature and scale of the exploitation, or the root cause of the vulnerability. Customers who are unable to apply the updates are advised
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

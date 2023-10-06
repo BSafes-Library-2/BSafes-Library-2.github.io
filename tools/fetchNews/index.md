@@ -34,6 +34,262 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PLAY Ransomware Group Added Six New Organizations to its Victim List<a href="https://thecyberexpress.com/play-cyber-attack-hits-6-new-victims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organizations targeted by PLAY include Roof Management, Security Instrument Corp, Filtration Control Ltd, Cinépolis Cinemas, CHARMANT Group, and Stavanger Municipality.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QakBot Threat Actors Still in Action, Using Ransom Knight and Remcos RAT in Latest Attacks<a href="https://thehackernews.com/2023/10/qakbot-threat-actors-still-in-action.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite the disruption to its infrastructure, the threat actors behind the QakBot malware have been linked to an ongoing phishing campaign since early August 2023 that led to the delivery of Ransom Knight (aka Cyclops) ransomware and Remcos RAT. This indicates that "the law enforcement operation may not have impacted Qakbot operators' spam delivery infrastructure but rather only their command-and-control (C2) servers," Cisco Talos researcher Guilherme Venere  said  in a new report published today. The activity has been attributed with moderate confidence by the cybersecurity firm to QakBot affiliates. There is no evidence to date that the threat actors have resumed distributing the malware loader itself post-infrastructure takedown. QakBot, also called QBot and Pinkslipbot, originated as a Windows-based banking trojan in 2007 and subsequently developed capabilities to deliver additional payloads, including ransomware. In late August 2023, the notorious malware operation was dealt
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stream-Jacking Attacks on YouTube Steal From Victims via Cryptocurrency Scams<a href="https://www.bitdefender.com/blog/labs/a-deep-dive-into-stream-jacking-attacks-on-youtube-and-why-theyre-so-popular/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers redirect victims to scams that involve QR codes and phishing websites promising to double their cryptocurrency investments, often using deep fake videos of Elon Musk to add credibility.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Releases Urgent Patch to Fix Critical Flaw in Emergency Responder Systems<a href="https://thehackernews.com/2023/10/cisco-releases-urgent-patch-to-fix.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released updates to address a critical security flaw impacting Emergency Responder that allows unauthenticated, remote attackers to sign into susceptible systems using hard-coded credentials. The vulnerability, tracked as  CVE-2023-20101  (CVSS score: 9.8), is due to the presence of static user credentials for the root account that the company said is usually reserved for use during development. "An attacker could exploit this vulnerability by using the account to log in to an affected system," Cisco  said  in an advisory. "A successful exploit could allow the attacker to log in to the affected system and execute arbitrary commands as the root user." The issue impacts Cisco Emergency Responder Release 12.5(1)SU4 and has been addressed in version 12.5(1)SU5. Other releases of the product are not impacted. The networking equipment major said it discovered the problem during internal security testing and that it's not aware of any malicious use of the vulnerability in the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Jacana Targets Governmental Entity in Guyana with DinodasRAT<a href="https://www.welivesecurity.com/en/eset-research/operation-jacana-spying-guyana-entity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the specific APT group behind the campaign could not be identified, there is medium confidence that it is a China-aligned threat group based on the use of a variant of Korplug, which is commonly associated with such groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analysis and Config Extraction of Lu0Bot, a Node.js Malware with Considerable Capabilities<a href="https://thehackernews.com/2023/10/analysis-and-config-extraction-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nowadays, more malware developers are using unconventional programming languages to bypass advanced detection systems. The Node.js malware Lu0Bot is a testament to this trend. By targeting a platform-agnostic runtime environment common in modern web apps and employing multi-layer obfuscation, Lu0Bot is a serious threat to organizations and individuals. Although currently, the malware has low activity, the attackers are likely waiting for the right moment to strike.  To be prepared for any future scenario, a team of analysts conducted an in-depth technical analysis of one of the recent samples of Lu0Bot and  published an article  documenting their process. Here's an overview of their research. Static analysis of the Lu0Bot sample  The  sample  under investigation used an SFX packer, a self-extracting archive that can be opened with any archive utility. Its contents were explored individually. Archive contents 1. BAT-file The content of the BAT file The first line in the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threats in Cloud Top List of Executive Cyber Concerns, Pwc Finds<a href="https://www.cybersecuritydive.com/news/cloud-cybersecurity-threats-skills-gap-PwC/695517/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite the focus on cloud security, many organizations still have risk management lapses, such as not addressing disaster recovery and backup with their cloud service provider.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guyana Governmental Entity Hit by DinodasRAT in Cyber Espionage Attack<a href="https://thehackernews.com/2023/10/guyana-governmental-entity-hit-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A governmental entity in Guyana has been targeted as part of a cyber espionage campaign dubbed  Operation Jacana . The  activity , which was detected by ESET in February 2023, entailed a spear-phishing attack that led to the deployment of a hitherto undocumented implant written in C++ called DinodasRAT. The Slovak cybersecurity firm said it could link the intrusion to a known threat actor or group, but attributed with medium confidence to a China-nexus adversary owing to the use of  PlugX  (aka Korplug), a remote access trojan common to Chinese hacking crews. "This campaign was targeted, as the threat actors crafted their emails specifically to entice their chosen victim organization," ESET  said  in a report shared with The Hacker News. "After successfully compromising an initial but limited set of machines with DinodasRAT, the operators proceeded to move inside and breach the target's internal network, where they again deployed this backdoor." The infec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global CRM Provider Exposed Millions of Clients’ Files Online<a href="https://securityaffairs.com/151999/data-breach/crm-provider-really-simple-systems-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Really Simple Systems exposed a non-password-protected database with over 3 million records, including highly sensitive customer information such as medical records and tax documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoldDigger Android Trojan Targets Banking Apps in Asia Pacific Countries<a href="https://thehackernews.com/2023/10/golddigger-android-trojan-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android banking trojan named GoldDigger has been found targeting several financial applications with an aim to siphon victims' funds and backdoor infected devices. "The malware targets more than 50 Vietnamese banking, e-wallet and crypto wallet applications," Group-IB  said . "There are indications that this threat might be poised to extend its reach across the wider APAC region and to Spanish-speaking countries." The malware was  first detected  by the Singapore-headquartered company in August 2023, although there is evidence to suggest that it has been active since June 2023. While the exact scale of the infections is currently not known, the malicious apps have been found to impersonate a Vietnamese government portal and an energy company to request intrusive permissions to meet its data-gathering goals. This primarily includes  abusing   Android's accessibility services , which is intended to assist users with disabilities to use the apps, in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Stream-Jacking is Taking Over YouTube: A Comprehensive Analysis<a href="https://cyware.com/news/why-stream-jacking-is-taking-over-youtube-a-comprehensive-analysis-fad06948"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stream-jacking attacks on YouTube are increasing, targeting popular channels to spread deceptive content. Cybercriminals hijack these channels, often impersonating famous figures or brands like Elon Musk and Tesla, promoting scams like crypto doubling. Viewers should be cautious of videos with ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Active Exploitation of JetBrains and Windows Vulnerabilities<a href="https://thehackernews.com/2023/10/cisa-warns-of-active-exploitation-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday  added  two security flaws to its Known Exploited Vulnerabilities ( KEV ) catalog due to active exploitation, while removing five bugs from the list due to lack of adequate evidence. The vulnerabilities newly added are below - CVE-2023-42793  (CVSS score: 9.8) - JetBrains TeamCity Authentication Bypass Vulnerability CVE-2023-28229  (CVSS score: 7.0) - Microsoft Windows CNG Key Isolation Service Privilege Escalation Vulnerability CVE-2023-42793 relates to a  critical authentication bypass vulnerability  that allows for remote code execution on TeamCity Server. Data gathered by GreyNoise has revealed exploitation attempts targeting the flaw from  74 unique IP addresses  to date. On the other hand, CVE-2023-28229 is a  high-severity flaw  in the Microsoft Windows Cryptographic Next Generation (CNG) Key Isolation Service that allows an attacker to gain specific limited SYSTEM privileges. There are curren
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coalition to give NGOs free access to cybersecurity services to protect against attacks<a href="https://therecord.media/coalition-to-give-ngos-free-access-to-cyber-services-netherlands?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CyberPeace Institute, in collaboration with other organizations, will establish a portal to provide free training and support to help NGOs in the Netherlands enhance their cybersecurity resilience.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Rolls Out Security Patches for Actively Exploited iOS Zero-Day Flaw<a href="https://thehackernews.com/2023/10/apple-rolls-out-security-patches-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Wednesday rolled out security patches to address a new zero-day flaw in iOS and iPadOS that it said has come under active exploitation in the wild. Tracked as  CVE-2023-42824 , the kernel vulnerability could be abused by a local attacker to elevate their privileges. The iPhone maker said it addressed the problem with improved checks. "Apple is aware of a report that this issue may have been actively exploited against versions of iOS before iOS 16.6," the company  noted  in a terse advisory. While additional details about the nature of the attacks and the identity of the threat actors perpetrating them are currently unknown, successful exploitation likely hinges on an attacker already obtaining an initial foothold by some other means. Apple's latest update also resolves  CVE-2023-5217  impacting the WebRTC component, which Google last week described as a heap-based buffer overflow in the VP8 compression format in libvpx. The patches, iOS 17.0.3 and iPadOS 1
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacker Deployed Hundreds of Rogue Python Packages with 75,000 Downloads to Steal Sensitive Data<a href="https://checkmarx.com/blog/the-evolutionary-tale-of-a-persistent-python-threat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious packages aim to steal sensitive data from systems, applications, browsers, and users. They also target cryptocurrency users by redirecting transactions to the attacker's account.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 05, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Confluence Hit by New Actively Exploited Zero-Day – Patch Now<a href="https://thehackernews.com/2023/10/atlassian-confluence-hit-by-newly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has released fixes to contain an actively exploited critical zero-day flaw impacting publicly accessible Confluence Data Center and Server instances. The vulnerability, tracked as  CVE-2023-22515 , is remotely exploitable and allows external attackers to create unauthorized Confluence administrator accounts and access Confluence servers. It does not impact Confluence versions prior to 8.0.0. Confluence sites accessed via an atlassian.net domain are also not vulnerable to this issue. The enterprise software services provider  said  it was made aware of the issue by "a handful of customers." It has been addressed in the following versions of Confluence Data Center and Server - 8.3.3 or later 8.4.3 or later, and 8.5.2 (Long Term Support release) or later The company, however, did not disclose any further specifics about the nature and scale of the exploitation, or the root cause of the vulnerability. Customers who are unable to apply the updates are advised
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

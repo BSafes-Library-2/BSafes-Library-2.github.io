@@ -7,6 +7,21 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Two Known Exploited Vulnerabilities to Catalog, Removes Five KEVs <a href="https://www.cisa.gov/news-events/alerts/2023/10/04/cisa-adds-two-known-exploited-vulnerabilities-catalog-removes-five-kevs"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation:
+
+CVE-2023-42793 JetBrains TeamCity Authentication Bypass Vulnerability  
+CVE-2023-28229 Microsoft Windows CNG Key Isolation Service Privilege Escalation Vulnerability  
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 27, 2023 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

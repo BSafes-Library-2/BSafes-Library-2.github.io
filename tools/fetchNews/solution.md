@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wing Disrupts the Market by Introducing Affordable SaaS Security<a href="https://thehackernews.com/2023/10/wing-disrupts-market-by-introducing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, mid-sized companies and their CISOs are struggling to handle the growing threat of SaaS security with limited manpower and tight budgets. Now, this may be changing. By focusing on the critical SaaS security needs of these companies, a new approach has emerged that can be&nbsp; launched for $1,500 a year . If the name Wing Security (Wing) rings a bell, it is probably because earlier this year, they made waves by offering SaaS shadow IT discovery&nbsp; completely for free . Today, Wing is once again aiming to disrupt the SaaS security market by offering a new tier that the company claims to be 'The essential SaaS security level that every company should achieve.'&nbsp; The&nbsp; new product tier &nbsp;focuses on SaaS shadow IT discovery, automated vendor risk assessments, and the ability to easily perform user access reviews on dozens of critical business applications. Wing also provides the ability to generate compliance-ready access reports that customers can then send to their auditor. The c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

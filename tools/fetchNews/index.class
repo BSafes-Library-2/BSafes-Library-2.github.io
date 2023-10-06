@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PLAY Ransomware Group Added Six New Organizations to its Victim List<a href="https://thecyberexpress.com/play-cyber-attack-hits-6-new-victims/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QakBot Threat Actors Still in Action, Using Ransom Knight and Remcos RAT in Latest Attacks<a href="https://thehackernews.com/2023/10/qakbot-threat-actors-still-in-action.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 5, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stream-Jacking Attacks on YouTube Steal From Victims via Cryptocurrency Scams<a href="https://www.bitdefender.com/blog/labs/a-deep-dive-into-stream-jacking-attacks-on-youtube-and-why-theyre-so-popular/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Releases Urgent Patch to Fix Critical Flaw in Emergency Responder Systems<a href="https://thehackernews.com/2023/10/cisco-releases-urgent-patch-to-fix.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation Jacana Targets Governmental Entity in Guyana with DinodasRAT<a href="https://www.welivesecurity.com/en/eset-research/operation-jacana-spying-guyana-entity/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analysis and Config Extraction of Lu0Bot, a Node.js Malware with Considerable Capabilities<a href="https://thehackernews.com/2023/10/analysis-and-config-extraction-of.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 5, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threats in Cloud Top List of Executive Cyber Concerns, Pwc Finds<a href="https://www.cybersecuritydive.com/news/cloud-cybersecurity-threats-skills-gap-PwC/695517/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Guyana Governmental Entity Hit by DinodasRAT in Cyber Espionage Attack<a href="https://thehackernews.com/2023/10/guyana-governmental-entity-hit-by.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global CRM Provider Exposed Millions of Clients’ Files Online<a href="https://securityaffairs.com/151999/data-breach/crm-provider-really-simple-systems-data-leak.html?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoldDigger Android Trojan Targets Banking Apps in Asia Pacific Countries<a href="https://thehackernews.com/2023/10/golddigger-android-trojan-targets.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 5, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Stream-Jacking is Taking Over YouTube: A Comprehensive Analysis<a href="https://cyware.com/news/why-stream-jacking-is-taking-over-youtube-a-comprehensive-analysis-fad06948"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Active Exploitation of JetBrains and Windows Vulnerabilities<a href="https://thehackernews.com/2023/10/cisa-warns-of-active-exploitation-of.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 5, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coalition to give NGOs free access to cybersecurity services to protect against attacks<a href="https://therecord.media/coalition-to-give-ngos-free-access-to-cyber-services-netherlands?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Rolls Out Security Patches for Actively Exploited iOS Zero-Day Flaw<a href="https://thehackernews.com/2023/10/apple-rolls-out-security-patches-for.html"> Full Text</a>
@@ -258,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 5, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attacker Deployed Hundreds of Rogue Python Packages with 75,000 Downloads to Steal Sensitive Data<a href="https://checkmarx.com/blog/the-evolutionary-tale-of-a-persistent-python-threat/?&web_view=true"> Full Text</a>
@@ -274,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Confluence Hit by New Actively Exploited Zero-Day – Patch Now<a href="https://thehackernews.com/2023/10/atlassian-confluence-hit-by-newly.html"> Full Text</a>

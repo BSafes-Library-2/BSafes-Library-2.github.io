@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threats in Cloud Top List of Executive Cyber Concerns, Pwc Finds<a href="https://www.cybersecuritydive.com/news/cloud-cybersecurity-threats-skills-gap-PwC/695517/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite the focus on cloud security, many organizations still have risk management lapses, such as not addressing disaster recovery and backup with their cloud service provider.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coalition to give NGOs free access to cybersecurity services to protect against attacks<a href="https://therecord.media/coalition-to-give-ngos-free-access-to-cyber-services-netherlands?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CyberPeace Institute, in collaboration with other organizations, will establish a portal to provide free training and support to help NGOs in the Netherlands enhance their cybersecurity resilience.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
