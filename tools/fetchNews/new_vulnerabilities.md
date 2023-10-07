@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Balada Injector Targets Unpatched tagDiv Plugin, Themes on WordPress Sites<a href="https://blog.sucuri.net/2023/10/balada-injector-targets-unpatched-tagdiv-plugin-newspaper-theme-wordpress-admins.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Balada Injector gang is actively exploiting vulnerabilities in tagDiv premium themes, such as the recently disclosed Unauthenticated Stored XSS vulnerability, to inject malware into websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supermicro's BMC Firmware Found Vulnerable to Multiple Critical Vulnerabilities<a href="https://thehackernews.com/2023/10/supermicros-bmc-firmware-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in the Intelligent Platform Management Interface ( IPMI ) firmware for Supermicro baseboard management controllers (BMCs) that could result in privilege escalation and execution of malicious code on affected systems. The seven flaws, tracked from CVE-2023-40284 through CVE-2023-40290, vary in severity from High to Critical, according to Binarly, enabling unauthenticated actors to gain root access to the BMC system. Supermicro has&nbsp; shipped &nbsp;a BMC firmware update to patch the bugs. BMCs are special processors on server motherboards that support remote management, enabling administrators to monitor hardware indicators such as temperature, set fan speed, and update the UEFI system firmware. What's more, BMC chips remain operational even if the host operating system is offline, making them lucrative attack vectors to deploy&nbsp; persistent malware . A brief explainer of each of the vulnerabilities is below - CVE-2023-40284, CVE-20
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

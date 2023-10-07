@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 900 Hongkongers Exposed in Hacking Attack Against WhatsApp Accounts<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3236906/hong-kong-whatsapp-hack-attack-compromises-accounts-900-people-after-fraudsters-target-instant?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach involved impersonation tactics and phishing traps on instant messaging platforms, highlighting the importance of verifying URLs and avoiding unknown sources.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DNA Testing Service 23andMe Investigating Theft of User Data<a href="https://cyberscoop.com/23andme-user-data-theft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data obtained by the attacker may include personal information, genetic ancestry results, and potential relatives' details of 23andMe customers who opted-in to the "DNA Relatives" service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

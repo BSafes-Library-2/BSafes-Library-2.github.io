@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Reverses Course on Malicious Exploitation of Video Conferencing Device Flaws<a href="https://www.securityweek.com/cisa-reverses-course-on-malicious-exploitation-of-video-conferencing-device-flaws/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Meeting Owl vulnerabilities, discovered by researchers at Modzero, include encryption flaws, hardcoded credentials, and authentication issues, which could potentially allow attackers to take control of the device.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

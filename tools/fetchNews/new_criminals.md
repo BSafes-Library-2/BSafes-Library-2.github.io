@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Gangs Now Deploying Ransomware Within 24 Hours of Hacking Victims<a href="https://therecord.media/ransomware-deployment-dwell-time-decreasing?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The median dwell time, or the time between initial access and deployment of ransomware, has significantly decreased from 4.5 days to as little as five hours, indicating cybercriminals' desire for lower detection risk, as per a Secureworks report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

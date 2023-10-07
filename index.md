@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2023
+October 7, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rhysida Ransomware Gang Claims Attacks on Governments in Portugal, Dominican Republic<a href="https://therecord.media/rhysida-ransomware-gang-attacks-on-portugal-dominican-republic-governments?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2023
+October 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Balada Injector Targets Unpatched tagDiv Plugin, Themes on WordPress Sites<a href="https://blog.sucuri.net/2023/10/balada-injector-targets-unpatched-tagdiv-plugin-newspaper-theme-wordpress-admins.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2023
+October 7, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Reverses Course on Malicious Exploitation of Video Conferencing Device Flaws<a href="https://www.securityweek.com/cisa-reverses-course-on-malicious-exploitation-of-video-conferencing-device-flaws/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 7, 2023
+October 7, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime Gangs Now Deploying Ransomware Within 24 Hours of Hacking Victims<a href="https://therecord.media/ransomware-deployment-dwell-time-decreasing?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2023
+October 06, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea's Lazarus Group Launders $900 Million in Cryptocurrency<a href="https://thehackernews.com/2023/10/north-koreas-lazarus-group-launders-900.html"> Full Text</a>
@@ -114,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2023
+October 06, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Target Semiconductor Firms in East Asia with Cobalt Strike<a href="https://thehackernews.com/2023/10/chinese-hackers-target-semiconductor.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2023
+October 06, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New OS Tool Tells You Who Has Access to What Data<a href="https://thehackernews.com/2023/10/new-os-tool-tells-you-who-has-access-to.html"> Full Text</a>
@@ -146,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2023
+October 06, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub's Secret Scanning Feature Now Covers AWS, Microsoft, Google, and Slack<a href="https://thehackernews.com/2023/10/githubs-secret-scanning-feature-now.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2023
+October 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of 900 Hongkongers Exposed in Hacking Attack Against WhatsApp Accounts<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3236906/hong-kong-whatsapp-hack-attack-compromises-accounts-900-people-after-fraudsters-target-instant?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 06, 2023
+October 06, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supermicro's BMC Firmware Found Vulnerable to Multiple Critical Vulnerabilities<a href="https://thehackernews.com/2023/10/supermicros-bmc-firmware-found.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2023
+October 6, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Florida Court Pauses Many Proceedings Following Cyberattack<a href="https://therecord.media/florida-court-cyberattack-disrupts-operations?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 6, 2023
+October 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DNA Testing Service 23andMe Investigating Theft of User Data<a href="https://cyberscoop.com/23andme-user-data-theft/?&web_view=true"> Full Text</a>

@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+October 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New OS Tool Tells You Who Has Access to What Data<a href="https://thehackernews.com/2023/10/new-os-tool-tells-you-who-has-access-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ensuring sensitive data remains confidential, protected from unauthorized access, and compliant with data privacy regulations is paramount. Data breaches result in financial and reputational damage but also lead to legal consequences. Therefore, robust data access security measures are essential to safeguard an organization's assets, maintain customer trust, and meet regulatory requirements.&nbsp; A comprehensive&nbsp; Data Security Platform &nbsp;is essential for full visibility and control of sensitive data. One example is Satori's Universal Data Permissions Scanner (UDPS), an open-source authorization analysis tool. &nbsp; UDPS , available on GitHub, enables universal visibility into data access permissions across various data stores. With this tool, it's easier to identify who has the potential to access sensitive data, which can help organizations take a proactive approach to enhancing their security posture, streamline compliance, and ensure well-governed data access. Understanding the Need for U
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub's Secret Scanning Feature Now Covers AWS, Microsoft, Google, and Slack<a href="https://thehackernews.com/2023/10/githubs-secret-scanning-feature-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has&nbsp; announced &nbsp;an improvement to its secret scanning feature that extends validity checks to popular services such as Amazon Web Services (AWS), Microsoft, Google, and Slack. Validity checks,&nbsp; introduced &nbsp;by the Microsoft subsidiary earlier this year, alert users whether exposed tokens found by&nbsp; secret scanning &nbsp;are active, thereby allowing for effective remediation measures. It was first enabled for GitHub tokens. The cloud-based code hosting and version control service said it intends to support more tokens in the future. To toggle the setting, enterprise or organization owners and repository administrators can head to Settings &gt; Code security and analysis &gt; Secret scanning and check the option "Automatically verify if a secret is valid by sending it to the relevant partner." Earlier this year, GitHub also&nbsp; expanded &nbsp;secret scanning alerts for all public repositories and announced the&nbsp; availability of push protection &nbsp;to help developers and maintainers pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

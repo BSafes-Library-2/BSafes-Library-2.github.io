@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+October 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhysida Ransomware Gang Claims Attacks on Governments in Portugal, Dominican Republic<a href="https://therecord.media/rhysida-ransomware-gang-attacks-on-portugal-dominican-republic-governments?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city of Gondomar in Portugal and the Dominican Republic's Migration Agency have been targeted by the Rhysida ransomware gang, causing disruptions in services and potential data theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida Court Pauses Many Proceedings Following Cyberattack<a href="https://therecord.media/florida-court-cyberattack-disrupts-operations?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack highlights the ongoing vulnerability of courts in the US to various types of cyber threats, including ransomware campaigns, data leaks, and distributed denial-of-service attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Stream-Jacking is Taking Over YouTube: A Comprehensive Analysis<a href="https://cyware.com/news/why-stream-jacking-is-taking-over-youtube-a-comprehensive-analysis-fad06948"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stream-jacking attacks on YouTube are increasing, targeting popular channels to spread deceptive content. Cybercriminals hijack these channels, often impersonating famous figures or brands like Elon Musk and Tesla, promoting scams like crypto doubling.&nbsp;Viewers should be cautious of videos with ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
