@@ -34,7 +34,199 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhysida Ransomware Gang Claims Attacks on Governments in Portugal, Dominican Republic<a href="https://therecord.media/rhysida-ransomware-gang-attacks-on-portugal-dominican-republic-governments?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city of Gondomar in Portugal and the Dominican Republic's Migration Agency have been targeted by the Rhysida ransomware gang, causing disruptions in services and potential data theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Balada Injector Targets Unpatched tagDiv Plugin, Themes on WordPress Sites<a href="https://blog.sucuri.net/2023/10/balada-injector-targets-unpatched-tagdiv-plugin-newspaper-theme-wordpress-admins.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Balada Injector gang is actively exploiting vulnerabilities in tagDiv premium themes, such as the recently disclosed Unauthenticated Stored XSS vulnerability, to inject malware into websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Reverses Course on Malicious Exploitation of Video Conferencing Device Flaws<a href="https://www.securityweek.com/cisa-reverses-course-on-malicious-exploitation-of-video-conferencing-device-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Meeting Owl vulnerabilities, discovered by researchers at Modzero, include encryption flaws, hardcoded credentials, and authentication issues, which could potentially allow attackers to take control of the device.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Gangs Now Deploying Ransomware Within 24 Hours of Hacking Victims<a href="https://therecord.media/ransomware-deployment-dwell-time-decreasing?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The median dwell time, or the time between initial access and deployment of ransomware, has significantly decreased from 4.5 days to as little as five hours, indicating cybercriminals' desire for lower detection risk, as per a Secureworks report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Lazarus Group Launders $900 Million in Cryptocurrency<a href="https://thehackernews.com/2023/10/north-koreas-lazarus-group-launders-900.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As much as $7 billion in cryptocurrency has been illicitly laundered through cross-chain crime, with the North Korea-linked Lazarus Group linked to the theft of roughly $900 million of those proceeds between July 2022 and July of this year. "As traditional entities such as  mixers  continue to be subject to seizures and sanctions scrutiny, the crypto crime displacement to chain- or asset-hopping typologies is also on the rise," blockchain analytics firm Elliptic  said  in a new report published this week. Cross-chain crime refers to the conversion of crypto assets from one token or blockchain to another, often in rapid succession, in an attempt to obfuscate their origin, making it a lucrative method for money laundering for crypto thefts and an alternative to Acc approaches like mixers. According to data gathered by Elliptic, the Lazarus Group's use of cross-chain bridges contributed to a majority of the 111% increase in the proportion of funds sent via such services.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Target Semiconductor Firms in East Asia with Cobalt Strike<a href="https://thehackernews.com/2023/10/chinese-hackers-target-semiconductor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been observed targeting semiconductor companies in East Asia with lures masquerading as Taiwan Semiconductor Manufacturing Company (TSMC) that are designed to deliver Cobalt Strike beacons. The intrusion set, per  EclecticIQ , leverages a backdoor called HyperBro, which is then used as a conduit to deploy the commercial attack simulation software and post-exploitation toolkit. An alternate attack sequence is said to have utilized a previously undocumented malware downloader to deploy Cobalt Strike, indicating that the threat actors devised multiple approaches to infiltrate targets of interest. The Dutch cybersecurity firm attributed the campaign to a China-linked threat actor owing to the use of HyperBro, which has been almost exclusively put to use by a threat actor known as  Lucky Mouse  (aka APT27, Budworm, and Emissary Panda). Tactical overlaps have also been unearthed between the adversary behind the attacks and another cluster tracked by RecordedFuture un
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New OS Tool Tells You Who Has Access to What Data<a href="https://thehackernews.com/2023/10/new-os-tool-tells-you-who-has-access-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ensuring sensitive data remains confidential, protected from unauthorized access, and compliant with data privacy regulations is paramount. Data breaches result in financial and reputational damage but also lead to legal consequences. Therefore, robust data access security measures are essential to safeguard an organization's assets, maintain customer trust, and meet regulatory requirements.  A comprehensive  Data Security Platform  is essential for full visibility and control of sensitive data. One example is Satori's Universal Data Permissions Scanner (UDPS), an open-source authorization analysis tool.   UDPS , available on GitHub, enables universal visibility into data access permissions across various data stores. With this tool, it's easier to identify who has the potential to access sensitive data, which can help organizations take a proactive approach to enhancing their security posture, streamline compliance, and ensure well-governed data access. Understanding the Need for U
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub's Secret Scanning Feature Now Covers AWS, Microsoft, Google, and Slack<a href="https://thehackernews.com/2023/10/githubs-secret-scanning-feature-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has  announced  an improvement to its secret scanning feature that extends validity checks to popular services such as Amazon Web Services (AWS), Microsoft, Google, and Slack. Validity checks,  introduced  by the Microsoft subsidiary earlier this year, alert users whether exposed tokens found by  secret scanning  are active, thereby allowing for effective remediation measures. It was first enabled for GitHub tokens. The cloud-based code hosting and version control service said it intends to support more tokens in the future. To toggle the setting, enterprise or organization owners and repository administrators can head to Settings > Code security and analysis > Secret scanning and check the option "Automatically verify if a secret is valid by sending it to the relevant partner." Earlier this year, GitHub also  expanded  secret scanning alerts for all public repositories and announced the  availability of push protection  to help developers and maintainers pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of 900 Hongkongers Exposed in Hacking Attack Against WhatsApp Accounts<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3236906/hong-kong-whatsapp-hack-attack-compromises-accounts-900-people-after-fraudsters-target-instant?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach involved impersonation tactics and phishing traps on instant messaging platforms, highlighting the importance of verifying URLs and avoiding unknown sources.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 06, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supermicro's BMC Firmware Found Vulnerable to Multiple Critical Vulnerabilities<a href="https://thehackernews.com/2023/10/supermicros-bmc-firmware-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in the Intelligent Platform Management Interface ( IPMI ) firmware for Supermicro baseboard management controllers (BMCs) that could result in privilege escalation and execution of malicious code on affected systems. The seven flaws, tracked from CVE-2023-40284 through CVE-2023-40290, vary in severity from High to Critical, according to Binarly, enabling unauthenticated actors to gain root access to the BMC system. Supermicro has  shipped  a BMC firmware update to patch the bugs. BMCs are special processors on server motherboards that support remote management, enabling administrators to monitor hardware indicators such as temperature, set fan speed, and update the UEFI system firmware. What's more, BMC chips remain operational even if the host operating system is offline, making them lucrative attack vectors to deploy  persistent malware . A brief explainer of each of the vulnerabilities is below - CVE-2023-40284, CVE-20
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida Court Pauses Many Proceedings Following Cyberattack<a href="https://therecord.media/florida-court-cyberattack-disrupts-operations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack highlights the ongoing vulnerability of courts in the US to various types of cyber threats, including ransomware campaigns, data leaks, and distributed denial-of-service attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 6, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DNA Testing Service 23andMe Investigating Theft of User Data<a href="https://cyberscoop.com/23andme-user-data-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data obtained by the attacker may include personal information, genetic ancestry results, and potential relatives' details of 23andMe customers who opted-in to the "DNA Relatives" service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PLAY Ransomware Group Added Six New Organizations to its Victim List<a href="https://thecyberexpress.com/play-cyber-attack-hits-6-new-victims/?&web_view=true"> Full Text</a>
@@ -50,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QakBot Threat Actors Still in Action, Using Ransom Knight and Remcos RAT in Latest Attacks<a href="https://thehackernews.com/2023/10/qakbot-threat-actors-still-in-action.html"> Full Text</a>
@@ -66,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 5, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stream-Jacking Attacks on YouTube Steal From Victims via Cryptocurrency Scams<a href="https://www.bitdefender.com/blog/labs/a-deep-dive-into-stream-jacking-attacks-on-youtube-and-why-theyre-so-popular/?&web_view=true"> Full Text</a>
@@ -82,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Releases Urgent Patch to Fix Critical Flaw in Emergency Responder Systems<a href="https://thehackernews.com/2023/10/cisco-releases-urgent-patch-to-fix.html"> Full Text</a>
@@ -98,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation Jacana Targets Governmental Entity in Guyana with DinodasRAT<a href="https://www.welivesecurity.com/en/eset-research/operation-jacana-spying-guyana-entity/?&web_view=true"> Full Text</a>
@@ -114,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analysis and Config Extraction of Lu0Bot, a Node.js Malware with Considerable Capabilities<a href="https://thehackernews.com/2023/10/analysis-and-config-extraction-of.html"> Full Text</a>
@@ -130,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 5, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threats in Cloud Top List of Executive Cyber Concerns, Pwc Finds<a href="https://www.cybersecuritydive.com/news/cloud-cybersecurity-threats-skills-gap-PwC/695517/?&web_view=true"> Full Text</a>
@@ -146,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Guyana Governmental Entity Hit by DinodasRAT in Cyber Espionage Attack<a href="https://thehackernews.com/2023/10/guyana-governmental-entity-hit-by.html"> Full Text</a>
@@ -162,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global CRM Provider Exposed Millions of Clients’ Files Online<a href="https://securityaffairs.com/151999/data-breach/crm-provider-really-simple-systems-data-leak.html?&web_view=true"> Full Text</a>
@@ -178,7 +370,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoldDigger Android Trojan Targets Banking Apps in Asia Pacific Countries<a href="https://thehackernews.com/2023/10/golddigger-android-trojan-targets.html"> Full Text</a>
@@ -194,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 5, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Stream-Jacking is Taking Over YouTube: A Comprehensive Analysis<a href="https://cyware.com/news/why-stream-jacking-is-taking-over-youtube-a-comprehensive-analysis-fad06948"> Full Text</a>
@@ -210,7 +402,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Active Exploitation of JetBrains and Windows Vulnerabilities<a href="https://thehackernews.com/2023/10/cisa-warns-of-active-exploitation-of.html"> Full Text</a>
@@ -226,7 +418,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 5, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coalition to give NGOs free access to cybersecurity services to protect against attacks<a href="https://therecord.media/coalition-to-give-ngos-free-access-to-cyber-services-netherlands?&web_view=true"> Full Text</a>
@@ -242,7 +434,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Rolls Out Security Patches for Actively Exploited iOS Zero-Day Flaw<a href="https://thehackernews.com/2023/10/apple-rolls-out-security-patches-for.html"> Full Text</a>
@@ -258,7 +450,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 5, 2023
+October 5, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attacker Deployed Hundreds of Rogue Python Packages with 75,000 Downloads to Steal Sensitive Data<a href="https://checkmarx.com/blog/the-evolutionary-tale-of-a-persistent-python-threat/?&web_view=true"> Full Text</a>
@@ -274,7 +466,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 05, 2023
+October 05, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Confluence Hit by New Actively Exploited Zero-Day – Patch Now<a href="https://thehackernews.com/2023/10/atlassian-confluence-hit-by-newly.html"> Full Text</a>
