@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+October 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air Europa Customers Urged to Cancel Cards Following Hack on Payment System<a href="https://therecord.media/air-europa-cyberattack-payment-cards?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Air Europa suffered a cyberattack on its online payment system. While there is no evidence of fraudulent use, customers are warned to replace their bank cards as a precautionary measure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Payment Gateway Provider Safexpay Technology Allegedly Hacked in a Nearly $2 Billion Scam<a href="https://ciso.economictimes.indiatimes.com/news/cybercrime-fraud/safexpay-technologys-payment-gateway-hacked-thane-police-probe-rs-16180-cr-scam/104291770?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per the investigations, the ongoing fraud came to light after a complaint that some individuals had allegedly hacked into the six-year-old firm's payment gateway, and the funds were then transferred to at least 260 different bank accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Caesars Entertainment Says Social-Engineering Attack Behind August Breach<a href="https://www.cybersecuritydive.com/news/caesars-social-engineering-breach/695995/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Caesars Entertainment has confirmed that a social engineering attack on an outsourced IT support vendor led to a data breach, impacting tens of thousands of its customer rewards program members.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

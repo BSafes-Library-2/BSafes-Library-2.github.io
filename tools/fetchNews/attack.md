@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Target Semiconductor Firms in East Asia with Cobalt Strike<a href="https://thehackernews.com/2023/10/chinese-hackers-target-semiconductor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been observed targeting semiconductor companies in East Asia with lures masquerading as Taiwan Semiconductor Manufacturing Company (TSMC) that are designed to deliver Cobalt Strike beacons. The intrusion set, per&nbsp; EclecticIQ , leverages a backdoor called HyperBro, which is then used as a conduit to deploy the commercial attack simulation software and post-exploitation toolkit. An alternate attack sequence is said to have utilized a previously undocumented malware downloader to deploy Cobalt Strike, indicating that the threat actors devised multiple approaches to infiltrate targets of interest. The Dutch cybersecurity firm attributed the campaign to a China-linked threat actor owing to the use of HyperBro, which has been almost exclusively put to use by a threat actor known as&nbsp; Lucky Mouse &nbsp;(aka APT27, Budworm, and Emissary Panda). Tactical overlaps have also been unearthed between the adversary behind the attacks and another cluster tracked by RecordedFuture un
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

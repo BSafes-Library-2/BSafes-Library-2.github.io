@@ -8,6 +8,34 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+libcue Library Flaw Opens GNOME Linux Systems Vulnerable to RCE Attacks<a href="https://thehackernews.com/2023/10/libcue-library-flaw-opens-gnome-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new security flaw has been disclosed in the libcue library impacting GNOME Linux systems that could be exploited to achieve remote code execution (RCE) on affected hosts. Tracked as&nbsp; CVE-2023-43641 &nbsp;(CVSS score: 8.8), the&nbsp; issue &nbsp;is described as a case of memory corruption in libcue, a library designed for parsing&nbsp; cue sheet files . It impacts versions 2.2.1 and prior. libcue is incorporated into Tracker Miners , a search engine tool that's included by default in GNOME and indexes files in the system for easy access. The problem is rooted in an out-of-bounds array access in the track_set_index function that allows for achieving code execution on the machine simply by tricking a victim into clicking a malicious link and downloading a .cue file. "A user of the GNOME desktop environment can be exploited by downloading a cue sheet from a malicious webpage," according to a&nbsp; description &nbsp;of the vulnerability in the National Vulnerability Database (NVD). "Because t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix Devices Under Attack: NetScaler Flaw Exploited to Capture User Credentials<a href="https://thehackernews.com/2023/10/citrix-devices-under-attack-netscaler.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently disclosed critical flaw in Citrix NetScaler ADC and Gateway devices is being exploited by threat actors to conduct a credential harvesting campaign. IBM X-Force, which uncovered the activity last month,&nbsp; said &nbsp;adversaries exploited "CVE-2023-3519 to attack unpatched NetScaler Gateways to insert a malicious script into the HTML content of the authentication web page to capture user credentials." CVE-2023-3519 &nbsp;(CVSS score: 9.8), addressed by Citrix in July 2023, is a critical code injection vulnerability that could lead to unauthenticated remote code execution. Over the past few months, it has been&nbsp; heavily &nbsp; exploited &nbsp;to&nbsp; infiltrate vulnerable devices &nbsp;and gain persistent access for follow-on attacks. In the latest attack chain discovered by IBM X-Force, the operators sent a specially crafted web request to trigger the exploitation of CVE-2023-3519 and deploy a PHP-based web shell. The access afforded by the web shell is subsequently leveraged to append cust
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

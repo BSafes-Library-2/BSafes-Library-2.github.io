@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+October 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gutsy Launches With Huge $51M Seed to Bring Process Mining to Security<a href="https://techcrunch.com/2023/10/10/team-that-started-twistlock-launches-gutsy-with-enormous-51m-seed-round/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gutsy, a cybersecurity startup founded by the team behind Twistlock, has emerged from stealth with a $51 million seed round led by YL Ventures and Mayfield. The company applies process mining, a data science technique, to cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

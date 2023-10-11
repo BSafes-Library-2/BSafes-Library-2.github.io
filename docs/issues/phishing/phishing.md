@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using EvilProxy Phishing Kit to Target Senior Executives in U.S. Firms<a href="https://thehackernews.com/2023/10/cybercriminals-using-evilproxy-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior executives working in U.S.-based organizations are being targeted by a new phishing campaign that leverages a popular adversary-in-the-middle (AiTM) phishing toolkit named&nbsp; EvilProxy &nbsp;to conduct credential harvesting and account takeover attacks. Menlo Security said the activity started in July 2023, primarily singling out banking and financial services, insurance, property management and real estate, and manufacturing sectors. "The threat actors leveraged an open redirection vulnerability on the job search platform 'indeed.com,'redirecting victims to malicious phishing pages impersonating Microsoft," security researcher Ravisankar Ramprasad&nbsp; said &nbsp;in a report published last week. EvilProxy , first documented by Resecurity in September 2022, functions as a reverse proxy that's set up between the target and a legitimate login page to intercept credentials, two-factor authentication (2FA) codes, and session cookies to hijack accounts of interest. The th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

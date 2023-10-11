@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IZ1H9 Campaign Enhances Its Arsenal with Scores of Exploits<a href="https://www.fortinet.com/blog/threat-research/Iz1h9-campaign-enhances-arsenal-with-scores-of-exploits?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign leverages multiple vulnerabilities, including command injection, remote code execution, and arbitrary command execution, to gain control of targeted devices and incorporate them into the botnet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Magecart Campaign Alters 404 Error Pages to Steal Shoppers' Credit Cards<a href="https://thehackernews.com/2023/10/new-magecart-campaign-alters-404-error.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated&nbsp; Magecart &nbsp;campaign has been observed manipulating websites' default 404 error page to conceal malicious code in what's been described as the latest evolution of the attacks. The activity, per Akamai, targets Magento and WooCommerce websites, with some of the victims belonging to large organizations in the food and retail industries. "In this campaign, all the victim websites we detected were directly exploited, as the malicious code snippet was injected into one of their first-party resources," Akamai security researcher Roman Lvovsky&nbsp; said &nbsp;in a Monday analysis. This involves inserting the code directly into the HTML pages or within one of the first-party scripts that were loaded as part of the website. The attacks are realized through a multi-stage chain, in which the loader code retrieves the main payload during runtime in order to capture the sensitive information entered by visitors on checkout pages and exfiltrate it to a remote server. &amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

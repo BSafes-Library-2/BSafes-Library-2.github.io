@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: How vCISOs Can Navigating the Complex World of AI and LLM Security<a href="https://thehackernews.com/2023/10/webinar-how-vcisos-can-navigating.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's rapidly evolving technological landscape, the integration of Artificial Intelligence (AI) and Large Language Models (LLMs) has become ubiquitous across various industries. This wave of innovation promises improved efficiency and performance, but lurking beneath the surface are complex vulnerabilities and unforeseen risks that demand immediate attention from cybersecurity professionals. As the average small and medium-sized business leader or end-user is often unaware of these growing threats, it falls upon cybersecurity service providers – MSPs, MSSPs, consultants and especially vCISOs - to take a proactive stance in protecting their clients. At Cynomi, we experience the risks associated with generative AI daily, as we use these technologies internally and work with MSP and MSSP partners to enhance the services they provide to small and medium businesses. Being committed to staying ahead of the curve and empowering virtual vCISOs to swiftly implement cutting-edge secur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

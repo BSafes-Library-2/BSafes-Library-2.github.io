@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Previously Unseen Grayling APT Targets Multiple Organizations in Taiwan<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/grayling-taiwan-cyber-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Grayling employs a combination of custom malware and publicly available tools like Havoc, Cobalt Strike, and NetSpy to carry out its attacks, using DLL sideloading techniques and exploiting vulnerabilities like CVE-2019-0803.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Grayling APT's Ongoing Attack Campaign Across Industries<a href="https://thehackernews.com/2023/10/researchers-uncover-grayling-apts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented threat actor of unknown provenance has been linked to a number of attacks targeting organizations in the manufacturing, IT, and biomedical sectors in Taiwan. The Symantec Threat Hunter Team, part of Broadcom, attributed the attacks to an advanced persistent threat (APT) it tracks under the name&nbsp; Grayling . Evidence shows that the campaign began in February 2023 and continued until at least May 2023. Also likely targeted as part of the activity is a government agency located in the Pacific Islands, as well as entities in Vietnam and the U.S. "This activity stood out due to the use by Grayling of a distinctive DLL side-loading technique that uses a custom decryptor to deploy payloads," the company&nbsp; said &nbsp;in a report shared with The Hacker News. "The motivation driving this activity appears to be intelligence gathering." The initial foothold to victim environments is said to have been achieved by exploiting public-facing infrastructure,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

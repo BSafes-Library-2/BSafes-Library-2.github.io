@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Lazarus Group Launders $900 Million in Cryptocurrency<a href="https://thehackernews.com/2023/10/north-koreas-lazarus-group-launders-900.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As much as $7 billion in cryptocurrency has been illicitly laundered through cross-chain crime, with the North Korea-linked Lazarus Group linked to the theft of roughly $900 million of those proceeds between July 2022 and July of this year. "As traditional entities such as&nbsp; mixers &nbsp;continue to be subject to seizures and sanctions scrutiny, the crypto crime displacement to chain- or asset-hopping typologies is also on the rise," blockchain analytics firm Elliptic&nbsp; said &nbsp;in a new report published this week. Cross-chain crime refers to the conversion of crypto assets from one token or blockchain to another, often in rapid succession, in an attempt to obfuscate their origin, making it a lucrative method for money laundering for crypto thefts and an alternative to Acc approaches like mixers. According to data gathered by Elliptic, the Lazarus Group's use of cross-chain bridges contributed to a majority of the 111% increase in the proportion of funds sent via such services.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

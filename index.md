@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2023
+October 10, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IZ1H9 Campaign Enhances Its Arsenal with Scores of Exploits<a href="https://www.fortinet.com/blog/threat-research/Iz1h9-campaign-enhances-arsenal-with-scores-of-exploits?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2023
+October 10, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HTTP/2 Rapid Reset Zero-Day Vulnerability Exploited to Launch Record DDoS Attacks<a href="https://thehackernews.com/2023/10/http2-rapid-reset-zero-day.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2023
+October 10, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Previously Unseen Grayling APT Targets Multiple Organizations in Taiwan<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/grayling-taiwan-cyber-attacks?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2023
+October 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Air Europa Customers Urged to Cancel Cards Following Hack on Payment System<a href="https://therecord.media/air-europa-cyberattack-payment-cards?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2023
+October 10, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Report: Child Sexual Abuse Content and Online Risks to Children on the Rise<a href="https://thehackernews.com/2023/10/new-report-child-sexual-abuse-content.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2023
+October 10, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gutsy Launches With Huge $51M Seed to Bring Process Mining to Security<a href="https://techcrunch.com/2023/10/10/team-that-started-twistlock-launches-gutsy-with-enormous-51m-seed-round/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2023
+October 10, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Grayling APT's Ongoing Attack Campaign Across Industries<a href="https://thehackernews.com/2023/10/researchers-uncover-grayling-apts.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2023
+October 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Payment Gateway Provider Safexpay Technology Allegedly Hacked in a Nearly $2 Billion Scam<a href="https://ciso.economictimes.indiatimes.com/news/cybercrime-fraud/safexpay-technologys-payment-gateway-hacked-thane-police-probe-rs-16180-cr-scam/104291770?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2023
+October 10, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Magecart Campaign Alters 404 Error Pages to Steal Shoppers' Credit Cards<a href="https://thehackernews.com/2023/10/new-magecart-campaign-alters-404-error.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2023
+October 10, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Source Code of the 2020 Variant of HelloKitty Ransomware Leaked on Cybercrime Forum<a href="https://securityaffairs.com/152182/malware/hellokitty-ransomware-source-code-leaked.html?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2023
+October 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 libcue Library Flaw Opens GNOME Linux Systems Vulnerable to RCE Attacks<a href="https://thehackernews.com/2023/10/libcue-library-flaw-opens-gnome-linux.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2023
+October 10, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Caesars Entertainment Says Social-Engineering Attack Behind August Breach<a href="https://www.cybersecuritydive.com/news/caesars-social-engineering-breach/695995/?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2023
+October 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Citrix Devices Under Attack: NetScaler Flaw Exploited to Capture User Credentials<a href="https://thehackernews.com/2023/10/citrix-devices-under-attack-netscaler.html"> Full Text</a>
@@ -258,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 10, 2023
+October 10, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poor Cybersecurity Habits are Common Among Younger Employees<a href="https://www.helpnetsecurity.com/2023/10/06/unsafe-cybersecurity-habits/?&web_view=true"> Full Text</a>
@@ -274,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 09, 2023
+October 09, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PEACHPIT: Massive Ad Fraud Botnet Powered by Millions of Hacked Android and iOS<a href="https://thehackernews.com/2023/10/peachpit-massive-ad-fraud-botnet.html"> Full Text</a>
@@ -290,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 09, 2023
+October 09, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Using EvilProxy Phishing Kit to Target Senior Executives in U.S. Firms<a href="https://thehackernews.com/2023/10/cybercriminals-using-evilproxy-phishing.html"> Full Text</a>
@@ -306,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 09, 2023
+October 09, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar: How vCISOs Can Navigating the Complex World of AI and LLM Security<a href="https://thehackernews.com/2023/10/webinar-how-vcisos-can-navigating.html"> Full Text</a>
