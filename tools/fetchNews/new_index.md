@@ -34,6 +34,294 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IZ1H9 Campaign Enhances Its Arsenal with Scores of Exploits<a href="https://www.fortinet.com/blog/threat-research/Iz1h9-campaign-enhances-arsenal-with-scores-of-exploits?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign leverages multiple vulnerabilities, including command injection, remote code execution, and arbitrary command execution, to gain control of targeted devices and incorporate them into the botnet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HTTP/2 Rapid Reset Zero-Day Vulnerability Exploited to Launch Record DDoS Attacks<a href="https://thehackernews.com/2023/10/http2-rapid-reset-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services (AWS), Cloudflare, and Google on Tuesday said they took steps to mitigate record-breaking distributed denial-of-service (DDoS) attacks that relied on a novel technique called HTTP/2 Rapid Reset. The  layer 7 attacks  were detected in late August 2023, the companies said in a coordinated disclosure. The cumulative susceptibility to this attack is being tracked as  CVE-2023-44487 , and carries a CVSS score of 7.5 out of a maximum of 10. While the attacks aimed at Google's cloud infrastructure peaked at  398 million requests per second  (RPS), the ones aimed at AWS and Cloudflare exceeded a volume of 155 million and 201 million requests per second (RPS), respectively. HTTP/2 Rapid Reset refers to a zero-day flaw in the HTTP/2 protocol that can be exploited to carry out DDoS attacks. A significant feature of HTTP/2 is multiplexing requests over a single TCP connection, which manifests in the form of concurrent streams. What's more, a client that wants to a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Previously Unseen Grayling APT Targets Multiple Organizations in Taiwan<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/grayling-taiwan-cyber-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Grayling employs a combination of custom malware and publicly available tools like Havoc, Cobalt Strike, and NetSpy to carry out its attacks, using DLL sideloading techniques and exploiting vulnerabilities like CVE-2019-0803.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Adopts Passkeys as Default Sign-in Method for All Users<a href="https://thehackernews.com/2023/10/google-adopts-passkeys-as-default-sign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Tuesday announced the ability for all users to set up passkeys by default, five months after it  rolled out support  for the FIDO Alliance-backed passwordless standard for Google Accounts on all platforms. "This means the next time you sign in to your account, you'll start seeing prompts to create and use passkeys, simplifying your future sign-ins," Google's Sriram Karra and Christiaan Brand  said . "It also means you'll see the ' skip password when possible ' option toggled on in your Google Account settings." Passkeys are a new form of authentication that entirely eliminate the need for usernames and passwords, or even provide any additional authentication factor. In other words, it's a passwordless login mechanism that leverages public-key cryptography to authenticate users' access to websites and apps, with the private key saved securely in the device and the public key stored in the server. Each passkey is unique and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air Europa Customers Urged to Cancel Cards Following Hack on Payment System<a href="https://therecord.media/air-europa-cyberattack-payment-cards?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Air Europa suffered a cyberattack on its online payment system. While there is no evidence of fraudulent use, customers are warned to replace their bank cards as a precautionary measure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report: Child Sexual Abuse Content and Online Risks to Children on the Rise<a href="https://thehackernews.com/2023/10/new-report-child-sexual-abuse-content.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Certain online risks to children are on the rise, according to a recent report from Thorn , a technology nonprofit whose mission is to build technology to defend children from sexual abuse. Research shared in the  Emerging Online Trends in Child Sexual Abuse 2023 report , indicates that minors are increasingly taking and sharing sexual images of themselves. This activity may occur consensually or coercively, as youth also report an increase in risky online interactions with adults. "In our digitally connected world, child sexual abuse material is easily and increasingly shared on the platforms we use in our daily lives," said John Starr, VP of Strategic Impact at Thorn. "Harmful interactions between youth and adults are not isolated to the dark corners of the web. As fast as the digital community builds innovative platforms, predators are co-opting these spaces to exploit children and share this egregious content." These trends and others shared in the Emerging O
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gutsy Launches With Huge $51M Seed to Bring Process Mining to Security<a href="https://techcrunch.com/2023/10/10/team-that-started-twistlock-launches-gutsy-with-enormous-51m-seed-round/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gutsy, a cybersecurity startup founded by the team behind Twistlock, has emerged from stealth with a $51 million seed round led by YL Ventures and Mayfield. The company applies process mining, a data science technique, to cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Grayling APT's Ongoing Attack Campaign Across Industries<a href="https://thehackernews.com/2023/10/researchers-uncover-grayling-apts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented threat actor of unknown provenance has been linked to a number of attacks targeting organizations in the manufacturing, IT, and biomedical sectors in Taiwan. The Symantec Threat Hunter Team, part of Broadcom, attributed the attacks to an advanced persistent threat (APT) it tracks under the name  Grayling . Evidence shows that the campaign began in February 2023 and continued until at least May 2023. Also likely targeted as part of the activity is a government agency located in the Pacific Islands, as well as entities in Vietnam and the U.S. "This activity stood out due to the use by Grayling of a distinctive DLL side-loading technique that uses a custom decryptor to deploy payloads," the company  said  in a report shared with The Hacker News. "The motivation driving this activity appears to be intelligence gathering." The initial foothold to victim environments is said to have been achieved by exploiting public-facing infrastructure,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Payment Gateway Provider Safexpay Technology Allegedly Hacked in a Nearly $2 Billion Scam<a href="https://ciso.economictimes.indiatimes.com/news/cybercrime-fraud/safexpay-technologys-payment-gateway-hacked-thane-police-probe-rs-16180-cr-scam/104291770?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per the investigations, the ongoing fraud came to light after a complaint that some individuals had allegedly hacked into the six-year-old firm's payment gateway, and the funds were then transferred to at least 260 different bank accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Magecart Campaign Alters 404 Error Pages to Steal Shoppers' Credit Cards<a href="https://thehackernews.com/2023/10/new-magecart-campaign-alters-404-error.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated  Magecart  campaign has been observed manipulating websites' default 404 error page to conceal malicious code in what's been described as the latest evolution of the attacks. The activity, per Akamai, targets Magento and WooCommerce websites, with some of the victims belonging to large organizations in the food and retail industries. "In this campaign, all the victim websites we detected were directly exploited, as the malicious code snippet was injected into one of their first-party resources," Akamai security researcher Roman Lvovsky  said  in a Monday analysis. This involves inserting the code directly into the HTML pages or within one of the first-party scripts that were loaded as part of the website. The attacks are realized through a multi-stage chain, in which the loader code retrieves the main payload during runtime in order to capture the sensitive information entered by visitors on checkout pages and exfiltrate it to a remote server. &
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Source Code of the 2020 Variant of HelloKitty Ransomware Leaked on Cybercrime Forum<a href="https://securityaffairs.com/152182/malware/hellokitty-ransomware-source-code-leaked.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The source code for the first version of the HelloKitty ransomware has been leaked on a Russian-speaking cybercrime forum. The threat actor, known as 'kapuchin0', claims to be developing a more powerful encryptor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+libcue Library Flaw Opens GNOME Linux Systems Vulnerable to RCE Attacks<a href="https://thehackernews.com/2023/10/libcue-library-flaw-opens-gnome-linux.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new security flaw has been disclosed in the libcue library impacting GNOME Linux systems that could be exploited to achieve remote code execution (RCE) on affected hosts. Tracked as  CVE-2023-43641  (CVSS score: 8.8), the  issue  is described as a case of memory corruption in libcue, a library designed for parsing  cue sheet files . It impacts versions 2.2.1 and prior. libcue is incorporated into Tracker Miners , a search engine tool that's included by default in GNOME and indexes files in the system for easy access. The problem is rooted in an out-of-bounds array access in the track_set_index function that allows for achieving code execution on the machine simply by tricking a victim into clicking a malicious link and downloading a .cue file. "A user of the GNOME desktop environment can be exploited by downloading a cue sheet from a malicious webpage," according to a  description  of the vulnerability in the National Vulnerability Database (NVD). "Because t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Caesars Entertainment Says Social-Engineering Attack Behind August Breach<a href="https://www.cybersecuritydive.com/news/caesars-social-engineering-breach/695995/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Caesars Entertainment has confirmed that a social engineering attack on an outsourced IT support vendor led to a data breach, impacting tens of thousands of its customer rewards program members.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix Devices Under Attack: NetScaler Flaw Exploited to Capture User Credentials<a href="https://thehackernews.com/2023/10/citrix-devices-under-attack-netscaler.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently disclosed critical flaw in Citrix NetScaler ADC and Gateway devices is being exploited by threat actors to conduct a credential harvesting campaign. IBM X-Force, which uncovered the activity last month,  said  adversaries exploited "CVE-2023-3519 to attack unpatched NetScaler Gateways to insert a malicious script into the HTML content of the authentication web page to capture user credentials." CVE-2023-3519  (CVSS score: 9.8), addressed by Citrix in July 2023, is a critical code injection vulnerability that could lead to unauthenticated remote code execution. Over the past few months, it has been  heavily   exploited  to  infiltrate vulnerable devices  and gain persistent access for follow-on attacks. In the latest attack chain discovered by IBM X-Force, the operators sent a specially crafted web request to trigger the exploitation of CVE-2023-3519 and deploy a PHP-based web shell. The access afforded by the web shell is subsequently leveraged to append cust
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 10, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poor Cybersecurity Habits are Common Among Younger Employees<a href="https://www.helpnetsecurity.com/2023/10/06/unsafe-cybersecurity-habits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millennial and Gen Z workers exhibit more unsafe cybersecurity habits compared to older age groups, such as using the same passwords on multiple devices and sharing work devices with family and friends.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PEACHPIT: Massive Ad Fraud Botnet Powered by Millions of Hacked Android and iOS<a href="https://thehackernews.com/2023/10/peachpit-massive-ad-fraud-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ad fraud botnet dubbed  PEACHPIT  leveraged an army of hundreds of thousands of Android and iOS devices to generate illicit profits for the threat actors behind the scheme. The botnet is part of a larger China-based operation codenamed  BADBOX , which also entails selling off-brand mobile and connected TV (CTV) devices on popular online retailers and resale sites that are backdoored with an  Android malware strain  called  Triada . "The PEACHPIT botnet's conglomerate of associated apps were found in 227 countries and territories, with an estimated peak of 121,000 devices a day on Android and 159,000 devices a day on iOS," HUMAN  said . The infections are said to have been realized through a collection of 39 apps that were installed more than 15 million times. Devices fitted with the BADBOX malware allowed the operators to steal sensitive data, create residential proxy exit peers, and commit ad fraud through the bogus apps. It's currently not clear how the And
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using EvilProxy Phishing Kit to Target Senior Executives in U.S. Firms<a href="https://thehackernews.com/2023/10/cybercriminals-using-evilproxy-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senior executives working in U.S.-based organizations are being targeted by a new phishing campaign that leverages a popular adversary-in-the-middle (AiTM) phishing toolkit named  EvilProxy  to conduct credential harvesting and account takeover attacks. Menlo Security said the activity started in July 2023, primarily singling out banking and financial services, insurance, property management and real estate, and manufacturing sectors. "The threat actors leveraged an open redirection vulnerability on the job search platform 'indeed.com,'redirecting victims to malicious phishing pages impersonating Microsoft," security researcher Ravisankar Ramprasad  said  in a report published last week. EvilProxy , first documented by Resecurity in September 2022, functions as a reverse proxy that's set up between the target and a legitimate login page to intercept credentials, two-factor authentication (2FA) codes, and session cookies to hijack accounts of interest. The th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: How vCISOs Can Navigating the Complex World of AI and LLM Security<a href="https://thehackernews.com/2023/10/webinar-how-vcisos-can-navigating.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's rapidly evolving technological landscape, the integration of Artificial Intelligence (AI) and Large Language Models (LLMs) has become ubiquitous across various industries. This wave of innovation promises improved efficiency and performance, but lurking beneath the surface are complex vulnerabilities and unforeseen risks that demand immediate attention from cybersecurity professionals. As the average small and medium-sized business leader or end-user is often unaware of these growing threats, it falls upon cybersecurity service providers – MSPs, MSSPs, consultants and especially vCISOs - to take a proactive stance in protecting their clients. At Cynomi, we experience the risks associated with generative AI daily, as we use these technologies internally and work with MSP and MSSP partners to enhance the services they provide to small and medium businesses. Being committed to staying ahead of the curve and empowering virtual vCISOs to swiftly implement cutting-edge secur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 7, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
