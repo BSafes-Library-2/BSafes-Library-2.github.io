@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PEACHPIT: Massive Ad Fraud Botnet Powered by Millions of Hacked Android and iOS<a href="https://thehackernews.com/2023/10/peachpit-massive-ad-fraud-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ad fraud botnet dubbed&nbsp; PEACHPIT &nbsp;leveraged an army of hundreds of thousands of Android and iOS devices to generate illicit profits for the threat actors behind the scheme. The botnet is part of a larger China-based operation codenamed&nbsp; BADBOX , which also entails selling off-brand mobile and connected TV (CTV) devices on popular online retailers and resale sites that are backdoored with an&nbsp; Android malware strain &nbsp;called&nbsp; Triada . "The PEACHPIT botnet's conglomerate of associated apps were found in 227 countries and territories, with an estimated peak of 121,000 devices a day on Android and 159,000 devices a day on iOS," HUMAN&nbsp; said . The infections are said to have been realized through a collection of 39 apps that were installed more than 15 million times. Devices fitted with the BADBOX malware allowed the operators to steal sensitive data, create residential proxy exit peers, and commit ad fraud through the bogus apps. It's currently not clear how the And
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

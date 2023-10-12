@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2023
+October 11, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IZ1H9 Mirai-Based Botnet Enhances its Arsenal with 13 New Exploits<a href="https://cyware.com/news/iz1h9-mirai-based-botnet-enhances-its-arsenal-with-13-new-exploits-3a90ec87"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2023
+October 11, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 17,000 WordPress Sites Compromised by Balada Injector in September 2023<a href="https://thehackernews.com/2023/10/over-17000-wordpress-sites-compromised.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2023
+October 11, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Both Pro-Israeli and Pro-Palestinian Hacktivists Have Joined the Fight and are Targeting ICS and SCADA Systems<a href="https://securityaffairs.com/152224/hacktivism/hacktivists-palestine-israel-after-scada-ics.html?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2023
+October 11, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Cybersecurity Agency Warns of Actively Exploited Adobe Acrobat Reader Vulnerability<a href="https://thehackernews.com/2023/10/us-cybersecurity-agency-warns-of.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2023
+October 11, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TikTok Chief Summoned by EU Lawmakers for Privacy Probe<a href="https://www.bankinfosecurity.com/tiktok-chief-summoned-by-eu-lawmakers-for-privacy-probe-a-23280?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2023
+October 11, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Take an Offensive Approach to Password Security by Continuously Monitoring for Breached Passwords<a href="https://thehackernews.com/2023/10/take-offensive-approach-to-password.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2023
+October 11, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Pros Predict Rise of Malicious AI<a href="https://www.helpnetsecurity.com/2023/10/10/malicious-ai/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2023
+October 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Releases October 2023 Patches for 103 Flaws, Including 2 Active Exploits<a href="https://thehackernews.com/2023/10/microsoft-releases-october-2023-patches.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2023
+October 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 118 Patches 20 Vulnerabilities<a href="https://www.securityweek.com/chrome-118-patches-20-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2023
+October 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Nation-State Hackers Exploiting Critical Atlassian Confluence Vulnerability<a href="https://thehackernews.com/2023/10/microsoft-warns-of-nation-state-hackers.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2023
+October 11, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A New Threat on the Horizon: The Grayling APT Group<a href="https://cyware.com/news/a-new-threat-on-the-horizon-the-grayling-apt-group-202a589d"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2023
+October 11, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crunchyroll Resolves Class Action Lawsuit, Offers Compensation for Subscribers<a href="https://thecyberexpress.com/crunchyroll-class-action-lawsuit-concludes/?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2023
+October 11, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Old-School Attacks are Still a Danger, Despite Newer Techniques<a href="https://www.darkreading.com/vulnerabilities-threats/old-school-attacks-are-still-a-danger-despite-newer-techniques?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 11, 2023
+October 11, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Seven New Organizations Listed as Victims by PLAY Ransomware<a href="https://thecyberexpress.com/play-ransomware-attack-7-firms-listed/?&web_view=true"> Full Text</a>

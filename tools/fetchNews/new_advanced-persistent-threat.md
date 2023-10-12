@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Threat on the Horizon: The Grayling APT Group<a href="https://cyware.com/news/a-new-threat-on-the-horizon-the-grayling-apt-group-202a589d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Symantec found a previously unidentified threat actor named Grayling conducting advanced persistent attacks targeting organizations in Taiwan, the Pacific Islands, Vietnam, and the U.S., with a focus on intelligence gathering. Grayling's modus operandi seems to revolve around exploiting public infr ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Source Code of the 2020 Variant of HelloKitty Ransomware Leaked on Cybercrime Forum<a href="https://securityaffairs.com/152182/malware/hellokitty-ransomware-source-code-leaked.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The source code for the first version of the HelloKitty ransomware has been leaked on a Russian-speaking cybercrime forum. The threat actor, known as 'kapuchin0', claims to be developing a more powerful encryptor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

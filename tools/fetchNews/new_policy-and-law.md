@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crunchyroll Resolves Class Action Lawsuit, Offers Compensation for Subscribers<a href="https://thecyberexpress.com/crunchyroll-class-action-lawsuit-concludes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lawsuit alleged that Crunchyroll had disclosed subscribers' personal information to third parties without proper consent. Initially denying the allegations, Crunchyroll ultimately chose to settle to avoid expenses and uncertainties.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

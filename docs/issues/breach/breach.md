@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 17,000 WordPress Sites Compromised by Balada Injector in September 2023<a href="https://thehackernews.com/2023/10/over-17000-wordpress-sites-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 17,000 WordPress websites have been compromised in the month of September 2023 with malware known as&nbsp; Balada Injector , nearly twice the number of detections in August. Of these, 9,000 of the websites are said to have been infiltrated using a recently disclosed security flaw in the tagDiv Composer plugin ( CVE-2023-3169 , CVSS score: 6.1) that could be&nbsp; exploited &nbsp;by unauthenticated users to perform stored cross-site scripting ( XSS ) attacks. "This is not the first time that the Balada Injector gang has targeted vulnerabilities in tagDiv's premium themes," Sucuri security researcher Denis Sinegubko&nbsp; said . "One of the earliest massive malware injections that we could attribute to this campaign took place during the summer of 2017, where disclosed security bugs in Newspaper and Newsmag WordPress themes were actively abused." Balada Injector is a large-scale operation&nbsp; first discovered &nbsp;by Doctor Web in December 2022, wherein the threat actors exp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Seven New Organizations Listed as Victims by PLAY Ransomware<a href="https://thecyberexpress.com/play-ransomware-attack-7-firms-listed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The victims include Hughes Gill Cochrane Tinetti, Saltire Energy, Centek Industries, NachtExpress Austria, WCM Europe, Starr Finley, and an unknown firm. These attacks are part of a wider scheme by the threat actor, targeting major firms globally.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

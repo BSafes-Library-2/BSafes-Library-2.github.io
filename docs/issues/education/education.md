@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Take an Offensive Approach to Password Security by Continuously Monitoring for Breached Passwords<a href="https://thehackernews.com/2023/10/take-offensive-approach-to-password.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Passwords are at the core of securing access to an organization's data. However, they also come with security vulnerabilities that stem from their inconvenience. With a growing list of credentials to keep track of, the average end-user can default to shortcuts. Instead of creating a strong and unique password for each account, they resort to easy-to-remember passwords, or use the same password for every account and application.&nbsp; Password reuse is both common and risky.&nbsp; 65% of users &nbsp;admit to reusing their credentials across multiple sites. Another analysis of identity exposures among employees of Fortune 1000 companies found a&nbsp; 64% password reuse rate &nbsp;for exposed credentials. Pair these findings with the fact that a vast majority&nbsp; (80%) of all data breaches &nbsp;are sourced from lost or stolen passwords, and we have a serious problem. In short, a breached password from one system can be used to compromise another. So, what does this all mean for your organization?&nbsp; The real risk o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IZ1H9 Mirai-Based Botnet Enhances its Arsenal with 13 New Exploits<a href="https://cyware.com/news/iz1h9-mirai-based-botnet-enhances-its-arsenal-with-13-new-exploits-3a90ec87"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs found that the IZ1H9 Mirai-based DDoS botnet campaign has strengthened its arsenal with 13 exploits for D-Link devices, Netis wireless routers, TOTOLINK routers, Zyxel devices, and others. As the botnet expands its arsenal with new exploit triggers, it underscores the importance of  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

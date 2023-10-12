@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report: Child Sexual Abuse Content and Online Risks to Children on the Rise<a href="https://thehackernews.com/2023/10/new-report-child-sexual-abuse-content.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Certain online risks to children are on the rise, according to a recent report from Thorn , a technology nonprofit whose mission is to build technology to defend children from sexual abuse. Research shared in the&nbsp; Emerging Online Trends in Child Sexual Abuse 2023 report , indicates that minors are increasingly taking and sharing sexual images of themselves. This activity may occur consensually or coercively, as youth also report an increase in risky online interactions with adults. "In our digitally connected world, child sexual abuse material is easily and increasingly shared on the platforms we use in our daily lives," said John Starr, VP of Strategic Impact at Thorn. "Harmful interactions between youth and adults are not isolated to the dark corners of the web. As fast as the digital community builds innovative platforms, predators are co-opting these spaces to exploit children and share this egregious content." These trends and others shared in the Emerging O
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poor Cybersecurity Habits are Common Among Younger Employees<a href="https://www.helpnetsecurity.com/2023/10/06/unsafe-cybersecurity-habits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Millennial and Gen Z workers exhibit more unsafe cybersecurity habits compared to older age groups, such as using the same passwords on multiple devices and sharing work devices with family and friends.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+October 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HTTP/2 Rapid Reset Zero-Day Vulnerability Exploited to Launch Record DDoS Attacks<a href="https://thehackernews.com/2023/10/http2-rapid-reset-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services (AWS), Cloudflare, and Google on Tuesday said they took steps to mitigate record-breaking distributed denial-of-service (DDoS) attacks that relied on a novel technique called HTTP/2 Rapid Reset. The&nbsp; layer 7 attacks &nbsp;were detected in late August 2023, the companies said in a coordinated disclosure. The cumulative susceptibility to this attack is being tracked as&nbsp; CVE-2023-44487 , and carries a CVSS score of 7.5 out of a maximum of 10. While the attacks aimed at Google's cloud infrastructure peaked at&nbsp; 398 million requests per second &nbsp;(RPS), the ones aimed at AWS and Cloudflare exceeded a volume of 155 million and 201 million requests per second (RPS), respectively. HTTP/2 Rapid Reset refers to a zero-day flaw in the HTTP/2 protocol that can be exploited to carry out DDoS attacks. A significant feature of HTTP/2 is multiplexing requests over a single TCP connection, which manifests in the form of concurrent streams. What's more, a client that wants to a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

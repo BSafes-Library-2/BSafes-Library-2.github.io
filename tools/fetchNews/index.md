@@ -34,6 +34,230 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IZ1H9 Mirai-Based Botnet Enhances its Arsenal with 13 New Exploits<a href="https://cyware.com/news/iz1h9-mirai-based-botnet-enhances-its-arsenal-with-13-new-exploits-3a90ec87"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs found that the IZ1H9 Mirai-based DDoS botnet campaign has strengthened its arsenal with 13 exploits for D-Link devices, Netis wireless routers, TOTOLINK routers, Zyxel devices, and others. As the botnet expands its arsenal with new exploit triggers, it underscores the importance of  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 17,000 WordPress Sites Compromised by Balada Injector in September 2023<a href="https://thehackernews.com/2023/10/over-17000-wordpress-sites-compromised.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 17,000 WordPress websites have been compromised in the month of September 2023 with malware known as  Balada Injector , nearly twice the number of detections in August. Of these, 9,000 of the websites are said to have been infiltrated using a recently disclosed security flaw in the tagDiv Composer plugin ( CVE-2023-3169 , CVSS score: 6.1) that could be  exploited  by unauthenticated users to perform stored cross-site scripting ( XSS ) attacks. "This is not the first time that the Balada Injector gang has targeted vulnerabilities in tagDiv's premium themes," Sucuri security researcher Denis Sinegubko  said . "One of the earliest massive malware injections that we could attribute to this campaign took place during the summer of 2017, where disclosed security bugs in Newspaper and Newsmag WordPress themes were actively abused." Balada Injector is a large-scale operation  first discovered  by Doctor Web in December 2022, wherein the threat actors exp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Both Pro-Israeli and Pro-Palestinian Hacktivists Have Joined the Fight and are Targeting ICS and SCADA Systems<a href="https://securityaffairs.com/152224/hacktivism/hacktivists-palestine-israel-after-scada-ics.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The "Five Families" of hacktivist gangs, including ThreatSec, GhostSec, Stormous, Blackforums, and SiegedSec, are collaborating to launch large-scale cyberattacks, causing disruptions and chaos.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cybersecurity Agency Warns of Actively Exploited Adobe Acrobat Reader Vulnerability<a href="https://thehackernews.com/2023/10/us-cybersecurity-agency-warns-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday  added  a high-severity flaw in Adobe Acrobat Reader to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active exploitation. Tracked as  CVE-2023-21608  (CVSS score: 7.8), the vulnerability has been described as a use-after-free bug that can be exploited to achieve remote code execution (RCE) with the privileges of the current user. A patch for the flaw was released by Adobe in January 2023. HackSys security researchers Ashfaq Ansari and Krishnakant Patil were  credited  with discovering and reporting the flaw. The  following versions  of the software are impacted - Acrobat DC - 22.003.20282 (Win), 22.003.20281 (Mac) and earlier versions (fixed in 22.003.20310) Acrobat Reader DC - 22.003.20282 (Win), 22.003.20281 (Mac) and earlier versions (fixed in 22.003.20310) Acrobat 2020 - 20.005.30418 and earlier versions (fixed in 20.005.30436) Acrobat Reader 2020 - 20.005.30418 and earl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Chief Summoned by EU Lawmakers for Privacy Probe<a href="https://www.bankinfosecurity.com/tiktok-chief-summoned-by-eu-lawmakers-for-privacy-probe-a-23280?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The letter from the lawmakers follows a recent fine of 345 million euros (~$366 million) imposed on TikTok by the Irish Data Protection Commissioner for failing to adequately protect children's privacy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Take an Offensive Approach to Password Security by Continuously Monitoring for Breached Passwords<a href="https://thehackernews.com/2023/10/take-offensive-approach-to-password.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Passwords are at the core of securing access to an organization's data. However, they also come with security vulnerabilities that stem from their inconvenience. With a growing list of credentials to keep track of, the average end-user can default to shortcuts. Instead of creating a strong and unique password for each account, they resort to easy-to-remember passwords, or use the same password for every account and application.  Password reuse is both common and risky.  65% of users  admit to reusing their credentials across multiple sites. Another analysis of identity exposures among employees of Fortune 1000 companies found a  64% password reuse rate  for exposed credentials. Pair these findings with the fact that a vast majority  (80%) of all data breaches  are sourced from lost or stolen passwords, and we have a serious problem. In short, a breached password from one system can be used to compromise another. So, what does this all mean for your organization?  The real risk o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Pros Predict Rise of Malicious AI<a href="https://www.helpnetsecurity.com/2023/10/10/malicious-ai/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent survey conducted by Enea reveals that 76% of cybersecurity professionals believe that malicious AI, capable of bypassing most cybersecurity measures, is a looming threat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases October 2023 Patches for 103 Flaws, Including 2 Active Exploits<a href="https://thehackernews.com/2023/10/microsoft-releases-october-2023-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released its Patch Tuesday updates for October 2023, addressing a total of  103 flaws  in its software, two of which have come under active exploitation in the wild. Of the 103 flaws, 13 are rated Critical and 90 are rated Important in severity. This is apart from  18 security vulnerabilities  addressed in its Chromium-based Edge browser since the second Tuesday of September. The two vulnerabilities that been weaponized as zero-days are as follows - CVE-2023-36563  (CVSS score: 6.5) - An information disclosure vulnerability in Microsoft WordPad that could result in the leak of NTLM hashes CVE-2023-41763  (CVSS score: 5.3) - A privilege escalation vulnerability in Skype for Business that could lead to exposure of sensitive information such as IP addresses or port numbers (or both), enabling threat actors to gain access to internal networks "To exploit this vulnerability, an attacker would first have to log on to the system. An attacker could then run a special
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 118 Patches 20 Vulnerabilities<a href="https://www.securityweek.com/chrome-118-patches-20-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 118 with fixes for 20 vulnerabilities, including a critical bug in Site Isolation that could allow for sandbox escape and arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Nation-State Hackers Exploiting Critical Atlassian Confluence Vulnerability<a href="https://thehackernews.com/2023/10/microsoft-warns-of-nation-state-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has linked the exploitation of a recently disclosed critical flaw in Atlassian Confluence Data Center and Server to a nation-state actor it tracks as  Storm-0062  (aka DarkShadow or Oro0lxy). The tech giant's threat intelligence team said it observed in-the-wild abuse of the vulnerability since September 14, 2023. "CVE-2023-22515 is a critical privilege escalation vulnerability in Atlassian Confluence Data Center and Server," the company  noted  in a series of posts on X (formerly Twitter). "Any device with a network connection to a vulnerable application can exploit CVE-2023-22515 to create a Confluence administrator account within the application." CVE-2023-22515 , rated 10.0 on the CVSS severity rating system, allows  remote attackers  to create unauthorized Confluence administrator accounts and access Confluence servers. The flaw has been addressed in the following versions - 8.3.3 or later 8.4.3 or later, and 8.5.2 (Long Term Support rel
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Threat on the Horizon: The Grayling APT Group<a href="https://cyware.com/news/a-new-threat-on-the-horizon-the-grayling-apt-group-202a589d"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Symantec found a previously unidentified threat actor named Grayling conducting advanced persistent attacks targeting organizations in Taiwan, the Pacific Islands, Vietnam, and the U.S., with a focus on intelligence gathering. Grayling's modus operandi seems to revolve around exploiting public infr ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crunchyroll Resolves Class Action Lawsuit, Offers Compensation for Subscribers<a href="https://thecyberexpress.com/crunchyroll-class-action-lawsuit-concludes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lawsuit alleged that Crunchyroll had disclosed subscribers' personal information to third parties without proper consent. Initially denying the allegations, Crunchyroll ultimately chose to settle to avoid expenses and uncertainties.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Old-School Attacks are Still a Danger, Despite Newer Techniques<a href="https://www.darkreading.com/vulnerabilities-threats/old-school-attacks-are-still-a-danger-despite-newer-techniques?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automation and AI are being used by cybercriminals to enhance the speed and effectiveness of attacks, particularly in areas like money laundering and credential stuffing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 11, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Seven New Organizations Listed as Victims by PLAY Ransomware<a href="https://thecyberexpress.com/play-ransomware-attack-7-firms-listed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The victims include Hughes Gill Cochrane Tinetti, Saltire Energy, Centek Industries, NachtExpress Austria, WCM Europe, Starr Finley, and an unknown firm. These attacks are part of a wider scheme by the threat actor, targeting major firms globally.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 10, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

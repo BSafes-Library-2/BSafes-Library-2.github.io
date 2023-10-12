@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Pros Predict Rise of Malicious AI<a href="https://www.helpnetsecurity.com/2023/10/10/malicious-ai/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent survey conducted by Enea reveals that 76% of cybersecurity professionals believe that malicious AI, capable of bypassing most cybersecurity measures, is a looming threat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Old-School Attacks are Still a Danger, Despite Newer Techniques<a href="https://www.darkreading.com/vulnerabilities-threats/old-school-attacks-are-still-a-danger-despite-newer-techniques?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Automation and AI are being used by cybercriminals to enhance the speed and effectiveness of attacks, particularly in areas like money laundering and credential stuffing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

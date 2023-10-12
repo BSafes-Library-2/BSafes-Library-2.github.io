@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+October 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TikTok Chief Summoned by EU Lawmakers for Privacy Probe<a href="https://www.bankinfosecurity.com/tiktok-chief-summoned-by-eu-lawmakers-for-privacy-probe-a-23280?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The letter from the lawmakers follows a recent fine of 345 million euros (~$366 million) imposed on TikTok by the Irish Data Protection Commissioner for failing to adequately protect children's privacy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
