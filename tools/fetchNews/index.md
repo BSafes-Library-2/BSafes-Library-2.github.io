@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaigns Affecting Italy Witness a Surge<a href="https://securityaffairs.com/152372/cyber-crime/phishing-campaigns-targt-italy.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Italian Postal Police and CERT-AgID have recently reported numerous phishing campaigns impersonating popular brands such as Poste Italiane, Intesa Sanpaolo, and Zimbra.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious NuGet Package Targeting .NET Developers with SeroXen RAT<a href="https://thehackernews.com/2023/10/malicious-nuget-package-targeting-net.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious package hosted on the NuGet package manager for the .NET Framework has been found to deliver a remote access trojan called SeroXen RAT. The package, named Pathoschild.Stardew.Mod.Build.Config and published by a user named  Disti , is a typosquat of a legitimate package called  Pathoschild.Stardew.ModBuildConfig , software supply chain security firm Phylum  said  in a report today. While the real package has received nearly 79,000 downloads to date, the malicious variant is said to have artificially inflated its download count after being published on October 6, 2023, to surpass 100,000 downloads. The profile behind the package has published six other packages that have attracted no less than 2.1 million downloads cumulatively, four of which masquerade as libraries for various crypto services like Kraken, KuCoin, Solana, and Monero, but are also designed to deploy SeroXen RAT. The attack chain is initiated during installation of the package by means of a tools/init.ps1
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SYN Ventures Announces $75 Million Seed Fund for US Cybersecurity Firms<a href="https://www.securityweek.com/syn-ventures-announces-75-million-seed-fund-for-us-cybersecurity-firms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The venture capital firm, led by former Fortune 500 CISOs and security executives, plans to focus on the seed stage to help early-stage companies develop next-generation cyber solutions and find product-market fit faster.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShellBot Uses Hex IPs to Evade Detection in Attacks on Linux SSH Servers<a href="https://thehackernews.com/2023/10/shellbot-uses-hex-ips-to-evade.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind ShellBot are leveraging IP addresses transformed into its hexadecimal notation to infiltrate poorly managed Linux SSH servers and deploy the DDoS malware. "The overall flow remains the same, but the download URL used by the threat actor to install ShellBot has changed from a regular IP address to a hexadecimal value," the AhnLab Security Emergency response Center (ASEC) said in a new report published today. ShellBot, also known by the name PerlBot, is known to breach servers that have weak SSH credentials by means of a dictionary attack , with the malware used as a conduit to stage DDoS attacks and deliver cryptocurrency miners . Developed in Perl, the malware uses the IRC protocol to communicate with a command-and-control (C2) server. The latest set of observed attacks involving ShellBot has been found to install the malware using hexadecimal IP addresses – hxxp://0x2763da4e/ which corresponds to 39.99.218[.]78 – in what's seen as an att
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover SeroXen RAT in Typosquatted NuGet Package<a href="https://blog.phylum.io/phylum-discovers-seroxen-rat-in-typosquatted-nuget-package/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The package contains a malicious install script that executes covertly during installation, downloading an obfuscated batch script that ultimately constructs and executes a PowerShell script.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Guard Your Data from Exposure in ChatGPT<a href="https://thehackernews.com/2023/10/how-to-guard-your-data-from-exposure-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChatGPT has transformed the way businesses generate textual content, which can potentially result in a quantum leap in productivity. However, Generative AI innovation also introduces a new dimension of data exposure risk, when employees inadvertently type or paste sensitive business data into ChatGPT, or similar applications. DLP solutions, the go-to solution for similar challenges, are ill-equipped to handle these challenges, since they focus on file-based data protection. A new report by LayerX, "Browser Security Platform: Guard your Data from Exposure in ChatGPT" ( Download here ), sheds light on the challenges and risks of ungoverned ChatGPT usage. It paints a comprehensive picture of the potential hazards for businesses and then offers a potential solution: browser security platforms. Such platforms provide real-time monitoring and governance over web sessions, effectively safeguarding sensitive data. ChatGPT Data Exposure: By the Numbers Employee usage of GenAI apps has surge
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+R2R Stomping – Are You Ready to Run?<a href="https://research.checkpoint.com/2023/r2r-stomping-are-you-ready-to-run/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ReadyToRun (R2R) stomping is a new method that allows for hidden implanted code in .NET binaries, altering the original intermediate language (IL) code and prioritizing pre-compiled native code for execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender Thwarts Large-Scale Akira Ransomware Attack<a href="https://thehackernews.com/2023/10/microsoft-defender-thwarts-akira.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday said that a user containment feature in Microsoft Defender for Endpoint helped thwart a "large-scale remote encryption attempt" made by  Akira ransomware actors  targeting an unknown industrial organization in early June 2023. The tech giant's threat intelligence team is tracking the operator as Storm-1567. The attack leveraged devices that were not onboarded to Microsoft Defender for Endpoint as a defense evasion tactic, while also conducting a series of reconnaissance and lateral movement activities prior to encrypting the devices using a compromised user account. But the new  automatic attack disruption capability  meant that the breached accounts are prevented from "accessing endpoints and other resources in the network, limiting attackers' ability to move laterally regardless of the account's Active Directory state or privilege level." In other words, the idea is to cut off all inbound and outbound communication and proh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most CISOs Confront Ransomware — and Pay Ransoms<a href="https://www.cybersecuritydive.com/news/most-cisos-pay-ransoms/696277/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a survey by Splunk, 9 out of 10 CISOs reported experiencing a major cyberattack in the past year, with almost half stating that their organizations were hit by multiple disruptive cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Malware Posing as WordPress Caching Plugin<a href="https://thehackernews.com/2023/10/researchers-uncover-malware-posing-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shed light on a new sophisticated strain of malware that masquerades a WordPress plugin to stealthily create administrator accounts and remotely control a compromised site. "Complete with a professional looking opening comment implying it is a caching plugin, this rogue code contains numerous functions, adds filters to prevent itself from being included in the list of activated plugins, and has pinging functionality that allows a malicious actor to check if the script is still operational, as well as file modification capabilities," Wordfence  said . The plugin also offers the ability to activate and deactivate arbitrary plugins on the site remotely as well as create rogue admin accounts with the username superadmin and a hard-coded password. In what's seen as an attempt to erase traces of compromise, it features a function named "_pln_cmd_hide" that's designed to remove the superadmin account when it's no longer requir
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical SOCKS5 Vulnerability in cURL Puts Enterprise Systems at Risk<a href="https://www.securityweek.com/critical-socks5-vulnerability-in-curl-puts-enterprise-systems-at-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations using cURL and libcurl are urged to apply the patches in cURL 8.4.0 to mitigate the vulnerability that potentially impacts all software projects relying on libcurl.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Ongoing Attacks Targeting Asian Governments and Telecom Giants<a href="https://thehackernews.com/2023/10/researchers-uncover-ongoing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-profile government and telecom entities in Asia have been targeted as part of an ongoing campaign since 2021 that's designed to deploy basic backdoors and loaders for delivering next-stage malware. Cybersecurity company Check Point is tracking the activity under the name  Stayin' Alive . Targets include organizations located in Vietnam, Uzbekistan, Pakistan, and Kazakhstan. "The simplistic nature of the tools [...] and their wide variation suggests they are disposable, mostly utilized to download and run additional payloads," it  said  in a report published Wednesday. "These tools share no clear code overlaps with products created by any known actors and do not have much in common with each other." What's notable about the campaign is that the infrastructure  shares overlaps  with that used by  ToddyCat , a China-linked threat actor known for orchestrating cyber assaults against government and military agencies in Europe and Asia since at least
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two High-Risk Security Flaws Discovered in Curl Library - New Patches Released<a href="https://thehackernews.com/2023/10/two-high-risk-security-flaws-discovered.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Patches have been released for  two security flaws  impacting the Curl data transfer library, the most severe of which could potentially result in code execution. The list of vulnerabilities is as follows - CVE-2023-38545  (CVSS score: 7.5) - SOCKS5 heap-based buffer overflow vulnerability CVE-2023-38546  (CVSS score: 5.0) - Cookie injection with none file CVE-2023-38545 is the more severe of the two, and has been  described  by the project's lead developer, Daniel Stenberg, as "probably the worst Curl security flaw in a long time." It affects libcurl versions 7.69.0 to and including 8.3.0. "This flaw makes Curl overflow a heap-based buffer in the  SOCKS5  proxy handshake," the maintainers said in an advisory. "When Curl is asked to pass along the hostname to the SOCKS5 proxy to allow that to resolve the address instead of it getting done by Curl itself, the maximum length that hostname can be is 255 bytes." "If the hostname is detected
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 11, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
