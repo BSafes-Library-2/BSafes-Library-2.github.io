@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+October 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SYN Ventures Announces $75 Million Seed Fund for US Cybersecurity Firms<a href="https://www.securityweek.com/syn-ventures-announces-75-million-seed-fund-for-us-cybersecurity-firms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The venture capital firm, led by former Fortune 500 CISOs and security executives, plans to focus on the seed stage to help early-stage companies develop next-generation cyber solutions and find product-market fit faster.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

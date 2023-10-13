@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cybersecurity Agency Warns of Actively Exploited Adobe Acrobat Reader Vulnerability<a href="https://thehackernews.com/2023/10/us-cybersecurity-agency-warns-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday&nbsp; added &nbsp;a high-severity flaw in Adobe Acrobat Reader to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active exploitation. Tracked as&nbsp; CVE-2023-21608 &nbsp;(CVSS score: 7.8), the vulnerability has been described as a use-after-free bug that can be exploited to achieve remote code execution (RCE) with the privileges of the current user. A patch for the flaw was released by Adobe in January 2023. HackSys security researchers Ashfaq Ansari and Krishnakant Patil were&nbsp; credited &nbsp;with discovering and reporting the flaw. The&nbsp; following versions &nbsp;of the software are impacted - Acrobat DC - 22.003.20282 (Win), 22.003.20281 (Mac) and earlier versions (fixed in 22.003.20310) Acrobat Reader DC - 22.003.20282 (Win), 22.003.20281 (Mac) and earlier versions (fixed in 22.003.20310) Acrobat 2020 - 20.005.30418 and earlier versions (fixed in 20.005.30436) Acrobat Reader 2020 - 20.005.30418 and earl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

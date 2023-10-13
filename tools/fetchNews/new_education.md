@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Guard Your Data from Exposure in ChatGPT<a href="https://thehackernews.com/2023/10/how-to-guard-your-data-from-exposure-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChatGPT has transformed the way businesses generate textual content, which can potentially result in a quantum leap in productivity. However, Generative AI innovation also introduces a new dimension of data exposure risk, when employees inadvertently type or paste sensitive business data into ChatGPT, or similar applications. DLP solutions, the go-to solution for similar challenges, are ill-equipped to handle these challenges, since they focus on file-based data protection. A new report by LayerX, "Browser Security Platform: Guard your Data from Exposure in ChatGPT" ( Download here ), sheds light on the challenges and risks of ungoverned ChatGPT usage. It paints a comprehensive picture of the potential hazards for businesses and then offers a potential solution: browser security platforms. Such platforms provide real-time monitoring and governance over web sessions, effectively safeguarding sensitive data. ChatGPT Data Exposure: By the Numbers Employee usage of GenAI apps has surge
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

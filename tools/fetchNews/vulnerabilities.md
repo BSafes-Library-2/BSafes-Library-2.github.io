@@ -8,6 +8,48 @@ nav_order: 900220
 
 ## Vulnerabilities
 ---
+October 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases October 2023 Patches for 103 Flaws, Including 2 Active Exploits<a href="https://thehackernews.com/2023/10/microsoft-releases-october-2023-patches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released its Patch Tuesday updates for October 2023, addressing a total of&nbsp; 103 flaws &nbsp;in its software, two of which have come under active exploitation in the wild. Of the 103 flaws, 13 are rated Critical and 90 are rated Important in severity. This is apart from&nbsp; 18 security vulnerabilities &nbsp;addressed in its Chromium-based Edge browser since the second Tuesday of September. The two vulnerabilities that been weaponized as zero-days are as follows - CVE-2023-36563 &nbsp;(CVSS score: 6.5) - An information disclosure vulnerability in Microsoft WordPad that could result in the leak of NTLM hashes CVE-2023-41763 &nbsp;(CVSS score: 5.3) - A privilege escalation vulnerability in Skype for Business that could lead to exposure of sensitive information such as IP addresses or port numbers (or both), enabling threat actors to gain access to internal networks "To exploit this vulnerability, an attacker would first have to log on to the system. An attacker could then run a special
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 118 Patches 20 Vulnerabilities<a href="https://www.securityweek.com/chrome-118-patches-20-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released Chrome 118 with fixes for 20 vulnerabilities, including a critical bug in Site Isolation that could allow for sandbox escape and arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Nation-State Hackers Exploiting Critical Atlassian Confluence Vulnerability<a href="https://thehackernews.com/2023/10/microsoft-warns-of-nation-state-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has linked the exploitation of a recently disclosed critical flaw in Atlassian Confluence Data Center and Server to a nation-state actor it tracks as&nbsp; Storm-0062 &nbsp;(aka DarkShadow or Oro0lxy). The tech giant's threat intelligence team said it observed in-the-wild abuse of the vulnerability since September 14, 2023. "CVE-2023-22515 is a critical privilege escalation vulnerability in Atlassian Confluence Data Center and Server," the company&nbsp; noted &nbsp;in a series of posts on X (formerly Twitter). "Any device with a network connection to a vulnerable application can exploit CVE-2023-22515 to create a Confluence administrator account within the application." CVE-2023-22515 , rated 10.0 on the CVSS severity rating system, allows&nbsp; remote attackers &nbsp;to create unauthorized Confluence administrator accounts and access Confluence servers. The flaw has been addressed in the following versions - 8.3.3 or later 8.4.3 or later, and 8.5.2 (Long Term Support rel
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

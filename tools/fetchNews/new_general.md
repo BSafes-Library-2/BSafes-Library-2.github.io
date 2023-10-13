@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+R2R Stomping&nbsp;– Are You Ready to Run?<a href="https://research.checkpoint.com/2023/r2r-stomping-are-you-ready-to-run/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ReadyToRun (R2R) stomping is a new method that allows for hidden implanted code in .NET binaries, altering the original intermediate language (IL) code and prioritizing pre-compiled native code for execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most CISOs Confront Ransomware — and Pay Ransoms<a href="https://www.cybersecuritydive.com/news/most-cisos-pay-ransoms/696277/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a survey by Splunk, 9 out of 10 CISOs reported experiencing a major cyberattack in the past year, with almost half stating that their organizations were hit by multiple disruptive cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
