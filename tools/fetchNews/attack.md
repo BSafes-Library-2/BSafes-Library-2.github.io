@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+October 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Defender Thwarts Large-Scale Akira Ransomware Attack<a href="https://thehackernews.com/2023/10/microsoft-defender-thwarts-akira.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Wednesday said that a user containment feature in Microsoft Defender for Endpoint helped thwart a "large-scale remote encryption attempt" made by&nbsp; Akira ransomware actors &nbsp;targeting an unknown industrial organization in early June 2023. The tech giant's threat intelligence team is tracking the operator as Storm-1567. The attack leveraged devices that were not onboarded to Microsoft Defender for Endpoint as a defense evasion tactic, while also conducting a series of reconnaissance and lateral movement activities prior to encrypting the devices using a compromised user account. But the new&nbsp; automatic attack disruption capability &nbsp;meant that the breached accounts are prevented from "accessing endpoints and other resources in the network, limiting attackers' ability to move laterally regardless of the account's Active Directory state or privilege level." In other words, the idea is to cut off all inbound and outbound communication and proh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

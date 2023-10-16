@@ -7,6 +7,42 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigurations and Weaknesses Known to be Used in Ransomware Campaigns <a href="https://www.cisa.gov/stopransomware/misconfigurations-and-weaknesses-known-be-used-ransomware-campaigns"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This list provides information on weaknesses and misconfigurations that are commonly exploited by threat actors in ransomware campaigns. This list is different from the KEV catalog as it contains information not CVE based.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Vulnerability Warning Pilot updates: Now a One-stop Resource for Known Exploited Vulnerabilities and Misconfigurations Linked to Ransomware <a href="https://www.cisa.gov/news-events/news/ransomware-vulnerability-warning-pilot-updates-now-one-stop-resource-known-exploited-vulnerabilities"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware has disrupted critical services, businesses, and communities worldwide and many of these incidents are perpetrated by ransomware actors using known common vulnerabilities and exposures (CVE) (i.e., vulnerabilities). However, many organizations may be unaware that a vulnerability used by ransomware threat actors is present on their network. To help organizations overcome this potential blind spot, the Cybersecurity and Infrastructure Security Agency (CISA) established the Ransomware Vulnerability Warning Pilot (RVWP) in January 2023, as required by the Cyber Incident Reporting for Critical Infrastructure Act (CIRCIA) of 2022. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 12, 2023 - FBI, CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI and CISA Release Update on AvosLocker Advisory <a href="https://www.cisa.gov/news-events/alerts/2023/10/11/fbi-and-cisa-release-update-avoslocker-advisory"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) released a joint Cybersecurity Advisory (CSA), #StopRansomware: AvosLocker Ransomware (Update) to disseminate known indicators of compromise (IOCs), tactics, techniques, and procedures (TTPs), and detection methods associated with the AvosLocker variant identified through FBI investigations as recently as May 2023.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 4, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

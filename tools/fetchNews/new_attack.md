@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PEAPOD Cyberattack Campaign Targeting Women Political Leaders<a href="https://thehackernews.com/2023/10/new-peapod-cyberattack-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European Union military personnel and political leaders working on gender equality initiatives have emerged as the target of a new campaign that delivers an updated version of RomCom RAT called&nbsp; PEAPOD . Cybersecurity firm Trend Micro attributed the attacks to a threat actor it tracks under the name&nbsp; Void Rabisu , which is also known as Storm-0978, Tropical Scorpius, and UNC2596, and is also believed to be associated with Cuba ransomware. The adversarial collective is something of an unusual group in that it conducts both financial motivated and espionage attacks, blurring the line between their modes of operation. It's also exclusively linked to the use of RomCom RAT. Attacks&nbsp; involving the use of the backdoor &nbsp;have singled out Ukraine and countries that support Ukraine in its war against Russia over the past year. Earlier this July, Microsoft implicated Void Rabisu to the exploitation of&nbsp; CVE-2023-36884 , a remote code execution flaw in Office and Windows HTML, by using spe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Void Rabisu Targets Female Political Leaders with New Slimmed-Down ROMCOM Variant<a href="https://www.trendmicro.com/en_us/research/23/j/void-rabisu-targets-female-leaders-with-new-romcom-variant.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Void Rabisu employs various tactics, such as signing malware with bought certificates, using malicious advertisements, and exploiting vulnerabilities, including zero-day vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

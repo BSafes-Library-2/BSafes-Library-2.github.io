@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Double: Are Companies Prepared for 2024's Cyber Threats?<a href="https://thehackernews.com/2023/10/ransomware-attacks-doubled-year-on-year.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks have only increased in sophistication and capabilities over the past year. From new evasion and anti-analysis techniques to stealthier variants coded in new languages, ransomware groups have adapted their tactics to effectively bypass common defense strategies.&nbsp; Cyble, a renowned cyber threat intelligence company recognized for its research and findings, recently released its&nbsp; Q3 Ransomware Report . This article delves into the significant developments from the third quarter of 2023, as detailed in the Q3 Ransomware Report, and offers predictions for upcoming quarters. The primary objective is to provide a comprehensive recap of the major targets, both sector-wise and by nation and region. Additionally, the article will highlight new techniques used, emphasizing major incidents and developments that potential targets should be aware of. We will also discuss anticipated trends in the future evolution of ransomware. The increased weaponization of Vulnerabilities to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

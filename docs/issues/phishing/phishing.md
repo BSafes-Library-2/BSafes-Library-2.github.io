@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Voice Phishing Campaigns Using Access Keys<a href="https://cofense.com/blog/access-key-used-in-voice-messaged-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing attack starts with an HTML file disguised as a voice message, which leads to the download of a file hosted on a disguised AWS URL. The attackers initially impersonate Zoom but later switch to spoofing Outlook and Teams login pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

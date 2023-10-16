@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+October 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShellBot Uses Hex IPs to Evade Detection in Attacks on Linux SSH Servers<a href="https://thehackernews.com/2023/10/shellbot-uses-hex-ips-to-evade.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind ShellBot are leveraging IP addresses transformed into its hexadecimal notation to infiltrate poorly managed Linux SSH servers and deploy the DDoS malware. "The overall flow remains the same, but the download URL used by the threat actor to install ShellBot has changed from a regular IP address to a hexadecimal value," the AhnLab Security Emergency response Center (ASEC) said in a new report published today. ShellBot, also known by the name PerlBot, is known to breach servers that have weak SSH credentials by means of a dictionary attack , with the malware used as a conduit to stage DDoS attacks and deliver cryptocurrency miners . Developed in Perl, the malware uses the IRC protocol to communicate with a command-and-control (C2) server. The latest set of observed attacks involving ShellBot has been found to install the malware using hexadecimal IP addresses – hxxp://0x2763da4e/ which corresponds to 39.99.218[.]78 – in what's seen as an att
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

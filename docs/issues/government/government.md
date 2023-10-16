@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+October 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Now Flagging Vulnerabilities, Misconfigurations Exploited by Ransomware<a href="https://www.securityweek.com/cisa-now-flagging-vulnerabilities-misconfigurations-exploited-by-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Through its Ransomware Vulnerability Warning Pilot (RVWP) program, the CISA has released two new resources to help identify and fix vulnerabilities exploited by ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA Warn of Rising AvosLocker Ransomware Attacks Against Critical Infrastructure<a href="https://thehackernews.com/2023/10/fbi-cisa-warn-of-rising-avoslocker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AvosLocker ransomware gang has been linked to attacks against critical infrastructure sectors in the U.S., with some of them detected as recently as May 2023. That's according to a new joint cybersecurity advisory released by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) detailing the ransomware-as-a-service (RaaS) operation's tactics, techniques, and procedures (TTPs). "AvosLocker affiliates compromise organizations' networks by using legitimate software and open-source remote system administration tools," the agencies&nbsp; said . "AvosLocker affiliates then use exfiltration-based data extortion tactics with threats of leaking and/or publishing stolen data." The ransomware strain&nbsp; first emerged &nbsp;on the scene in mid-2021, and has since leveraged sophisticated techniques to disable antivirus protection as a detection evasion measure. It affects Windows, Linux, and VMware ESXi environment
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State’s Cyber Overhaul Bets Big on Zero Trust to Tackle Emerging Threats<a href="https://www.nextgov.com/cybersecurity/2023/10/states-cyber-overhaul-bets-big-zero-trust-tackle-emerging-threats/391173/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The State Department has undergone a significant cybersecurity overhaul, prioritizing a zero-trust security architecture and implementing key performance indicators and guidance from various federal agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

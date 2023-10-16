@@ -34,6 +34,230 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Voice Phishing Campaigns Using Access Keys<a href="https://cofense.com/blog/access-key-used-in-voice-messaged-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing attack starts with an HTML file disguised as a voice message, which leads to the download of a file hosted on a disguised AWS URL. The attackers initially impersonate Zoom but later switch to spoofing Outlook and Teams login pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft to Phase Out NTLM in Favor of Kerberos for Stronger Authentication<a href="https://thehackernews.com/2023/10/microsoft-to-phase-out-ntlm-in-favor-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced that it  plans  to eliminate NT LAN Manager ( NTLM ) in Windows 11 in the future, as it pivots to alternative methods for authentication and bolster security. "The focus is on strengthening the Kerberos authentication protocol, which has been the default since 2000, and reducing reliance on NT LAN Manager (NTLM)," the tech giant said. "New features for Windows 11 include Initial and Pass Through Authentication Using Kerberos (IAKerb) and a local Key Distribution Center ( KDC ) for Kerberos." IAKerb enables clients to authenticate with Kerberos across a diverse range of network topologies. The second feature, a local Key Distribution Center (KDC) for Kerberos, extends Kerberos support to local accounts. First introduced in the 1990s, NTLM is a  suite of security protocols  intended to provide authentication, integrity, and confidentiality to users. It is a single sign-on (SSO) tool that relies on a challenge-response protocol that proves
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“EtherHiding” — Hiding Web2 Malicious Code in Web3 Smart Contracts<a href="https://labs.guard.io/etherhiding-hiding-web2-malicious-code-in-web3-smart-contracts-65ea78efad16?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign called "EtherHiding" has emerged, using BSC contracts to host parts of a malicious code chain. The campaign starts by hijacking WordPress sites and tricking users into downloading fake browser updates that are actually malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PEAPOD Cyberattack Campaign Targeting Women Political Leaders<a href="https://thehackernews.com/2023/10/new-peapod-cyberattack-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European Union military personnel and political leaders working on gender equality initiatives have emerged as the target of a new campaign that delivers an updated version of RomCom RAT called  PEAPOD . Cybersecurity firm Trend Micro attributed the attacks to a threat actor it tracks under the name  Void Rabisu , which is also known as Storm-0978, Tropical Scorpius, and UNC2596, and is also believed to be associated with Cuba ransomware. The adversarial collective is something of an unusual group in that it conducts both financial motivated and espionage attacks, blurring the line between their modes of operation. It's also exclusively linked to the use of RomCom RAT. Attacks  involving the use of the backdoor  have singled out Ukraine and countries that support Ukraine in its war against Russia over the past year. Earlier this July, Microsoft implicated Void Rabisu to the exploitation of  CVE-2023-36884 , a remote code execution flaw in Office and Windows HTML, by using spe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Juniper Networks Patches Over 30 Vulnerabilities in Junos OS<a href="https://www.securityweek.com/juniper-networks-patches-over-30-vulnerabilities-in-junos-os/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Six high-severity vulnerabilities, including five that can be exploited remotely, have been addressed by the patches, which could potentially lead to denial of service (DoS) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Unveil ToddyCat's New Set of Tools for Data Exfiltration<a href="https://thehackernews.com/2023/10/researchers-unveil-toddycats-new-set-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) actor known as  ToddyCat  has been linked to a new set of malicious tools that are designed for data exfiltration, offering a deeper insight into the hacking crew's tactics and capabilities. The  findings  come from Kaspersky, which  first shed light  on the adversary last year, linking it to attacks against high-profile entities in Europe and Asia for nearly three years. While the group's arsenal prominently features Ninja Trojan and a backdoor called Samurai, further investigation has uncovered a whole new set of malicious software developed and maintained by the actor to achieve persistence, conduct file operations, and load additional payloads at runtime. This comprises a collection of loaders that comes with capabilities to launch the Ninja Trojan as a second stage, a tool called LoFiSe to find and collect files of interest, a DropBox uploader to save stolen data to Dropbox, and Pcexter to exfiltrate archive files to Microsoft OneDr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Now Flagging Vulnerabilities, Misconfigurations Exploited by Ransomware<a href="https://www.securityweek.com/cisa-now-flagging-vulnerabilities-misconfigurations-exploited-by-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Through its Ransomware Vulnerability Warning Pilot (RVWP) program, the CISA has released two new resources to help identify and fix vulnerabilities exploited by ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Double: Are Companies Prepared for 2024's Cyber Threats?<a href="https://thehackernews.com/2023/10/ransomware-attacks-doubled-year-on-year.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks have only increased in sophistication and capabilities over the past year. From new evasion and anti-analysis techniques to stealthier variants coded in new languages, ransomware groups have adapted their tactics to effectively bypass common defense strategies.  Cyble, a renowned cyber threat intelligence company recognized for its research and findings, recently released its  Q3 Ransomware Report . This article delves into the significant developments from the third quarter of 2023, as detailed in the Q3 Ransomware Report, and offers predictions for upcoming quarters. The primary objective is to provide a comprehensive recap of the major targets, both sector-wise and by nation and region. Additionally, the article will highlight new techniques used, emphasizing major incidents and developments that potential targets should be aware of. We will also discuss anticipated trends in the future evolution of ransomware. The increased weaponization of Vulnerabilities to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conveyor Raises $12.5m to Automate Security Reviews Using LLMs<a href="https://techcrunch.com/2023/10/11/conveyor-raises-12-5m-to-automate-security-reviews-using-llms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conveyor, a startup using large language models (LLMs) like OpenAI's ChatGPT, has raised $12.5 million in funding led by Cervin Ventures to automate the security review response process for companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkGate Malware Spreading via Messaging Services Posing as PDF Files<a href="https://thehackernews.com/2023/10/darkgate-malware-spreading-via.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A piece of malware known as  DarkGate  has been observed being spread via instant messaging platforms such as Skype and Microsoft Teams. In these attacks, the messaging apps are used to deliver a Visual Basic for Applications ( VBA ) loader script that masquerades as a PDF document, which, when opened, triggers the download and execution of an AutoIt script designed to launch the malware. "It's unclear how the originating accounts of the instant messaging applications were compromised, however it is hypothesized to be either through leaked credentials available through underground forums or the previous compromise of the parent organization," Trend Micro  said  in a new analysis published Thursday. DarkGate, first documented by Fortinet in November 2018, is a  commodity malware  that incorporates a wide range of features to harvest sensitive data from web browsers, conduct cryptocurrency mining, and allow its operators to remotely control the infected hosts. It also
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian State Government Fixes Website Bug That Revealed Aadhaar Numbers and Fingerprints<a href="https://techcrunch.com/2023/10/12/india-aadhaar-fingerprints-west-bengal/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The website bug allowed unauthorized access to land deed records by guessing sequential application numbers, highlighting the lack of robust security measures on the website.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA Warn of Rising AvosLocker Ransomware Attacks Against Critical Infrastructure<a href="https://thehackernews.com/2023/10/fbi-cisa-warn-of-rising-avoslocker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AvosLocker ransomware gang has been linked to attacks against critical infrastructure sectors in the U.S., with some of them detected as recently as May 2023. That's according to a new joint cybersecurity advisory released by the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI) detailing the ransomware-as-a-service (RaaS) operation's tactics, techniques, and procedures (TTPs). "AvosLocker affiliates compromise organizations' networks by using legitimate software and open-source remote system administration tools," the agencies  said . "AvosLocker affiliates then use exfiltration-based data extortion tactics with threats of leaking and/or publishing stolen data." The ransomware strain  first emerged  on the scene in mid-2021, and has since leveraged sophisticated techniques to disable antivirus protection as a detection evasion measure. It affects Windows, Linux, and VMware ESXi environment
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Void Rabisu Targets Female Political Leaders with New Slimmed-Down ROMCOM Variant<a href="https://www.trendmicro.com/en_us/research/23/j/void-rabisu-targets-female-leaders-with-new-romcom-variant.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Void Rabisu employs various tactics, such as signing malware with bought certificates, using malicious advertisements, and exploiting vulnerabilities, including zero-day vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 13, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State’s Cyber Overhaul Bets Big on Zero Trust to Tackle Emerging Threats<a href="https://www.nextgov.com/cybersecurity/2023/10/states-cyber-overhaul-bets-big-zero-trust-tackle-emerging-threats/391173/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The State Department has undergone a significant cybersecurity overhaul, prioritizing a zero-trust security architecture and implementing key performance indicators and guidance from various federal agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 12, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
