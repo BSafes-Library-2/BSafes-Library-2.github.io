@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft to Phase Out NTLM in Favor of Kerberos for Stronger Authentication<a href="https://thehackernews.com/2023/10/microsoft-to-phase-out-ntlm-in-favor-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced that it&nbsp; plans &nbsp;to eliminate NT LAN Manager ( NTLM ) in Windows 11 in the future, as it pivots to alternative methods for authentication and bolster security. "The focus is on strengthening the Kerberos authentication protocol, which has been the default since 2000, and reducing reliance on NT LAN Manager (NTLM)," the tech giant said. "New features for Windows 11 include Initial and Pass Through Authentication Using Kerberos (IAKerb) and a local Key Distribution Center ( KDC ) for Kerberos." IAKerb enables clients to authenticate with Kerberos across a diverse range of network topologies. The second feature, a local Key Distribution Center (KDC) for Kerberos, extends Kerberos support to local accounts. First introduced in the 1990s, NTLM is a&nbsp; suite of security protocols &nbsp;intended to provide authentication, integrity, and confidentiality to users. It is a single sign-on (SSO) tool that relies on a challenge-response protocol that proves
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

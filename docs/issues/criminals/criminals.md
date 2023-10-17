@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: LockBit Ransomware Gang Demanded an $80 Million Ransom From CDW<a href="https://securityaffairs.com/152470/cyber-crime/lockbit-ransomware-gang-hacked-cdw.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group demanded an $80 million ransom, but CDW only offered $1 million. CDW states that the affected servers are isolated and not customer-facing, and its systems remain fully operational.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV Gang Stole 5TB of Data From Illinois' Morrison Community Hospital<a href="https://securityaffairs.com/152486/cyber-crime/alphv-ransomware-morrison-community-hospital.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group claims to have stolen 5TB of patients’ and employee’s information, backups, PII documents, and more. The gang also published a sample as proof of the stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

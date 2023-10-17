@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Fast Evolution of SaaS Security from 2020 to 2024 (Told Through Video)<a href="https://thehackernews.com/2023/10/the-fast-evolution-of-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SaaS Security's roots are in configuration management. An astounding 35% of all security breaches begin with security settings that were misconfigured. In the past 3 years, the initial access vectors to SaaS data have widened beyond misconfiguration management. " SaaS Security on Tap " is a new video series that takes place in Eliana V's bar making sure that the only thing that leaks is beer (maximum), and not SaaS data. This series takes a look at the key concepts within SaaS security and educates organizations on what new threat vectors need to be addressed. The&nbsp;Annual SaaS Security Survey Report: 2024 Plans and Priorities With the increase in SaaS application use, it's no surprise that incidents are up. The SaaS Security on Tap series covers this year's SaaS Security report which found that 55% of organizations have experienced a SaaS security incident within the last two years, including data leaks, data breaches, ransomware attacks, and malicious applications.&nbsp; The report
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

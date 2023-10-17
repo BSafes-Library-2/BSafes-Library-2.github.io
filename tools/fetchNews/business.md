@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+October 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Conveyor Raises $12.5m to Automate Security Reviews Using LLMs<a href="https://techcrunch.com/2023/10/11/conveyor-raises-12-5m-to-automate-security-reviews-using-llms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conveyor, a startup using large language models (LLMs) like OpenAI's ChatGPT, has raised $12.5 million in funding led by Cervin Ventures to automate the security review response process for companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

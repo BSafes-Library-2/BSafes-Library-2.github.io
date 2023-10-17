@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Unveil ToddyCat's New Set of Tools for Data Exfiltration<a href="https://thehackernews.com/2023/10/researchers-unveil-toddycats-new-set-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The advanced persistent threat (APT) actor known as&nbsp; ToddyCat &nbsp;has been linked to a new set of malicious tools that are designed for data exfiltration, offering a deeper insight into the hacking crew's tactics and capabilities. The&nbsp; findings &nbsp;come from Kaspersky, which&nbsp; first shed light &nbsp;on the adversary last year, linking it to attacks against high-profile entities in Europe and Asia for nearly three years. While the group's arsenal prominently features Ninja Trojan and a backdoor called Samurai, further investigation has uncovered a whole new set of malicious software developed and maintained by the actor to achieve persistence, conduct file operations, and load additional payloads at runtime. This comprises a collection of loaders that comes with capabilities to launch the Ninja Trojan as a second stage, a tool called LoFiSe to find and collect files of interest, a DropBox uploader to save stolen data to Dropbox, and Pcexter to exfiltrate archive files to Microsoft OneDr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

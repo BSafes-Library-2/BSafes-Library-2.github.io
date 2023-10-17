@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decathlon Data Leak Exposes Personal Information of 8,000 Employees on Dark Web<a href="https://thecyberexpress.com/decathlon-data-leak-explained/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data also included information from Bluenove, a technology and consulting firm, suggesting a broader cyberattack targeting multiple organizations. Neither Decathlon nor Bluenove have issued an official statement regarding the data leak.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Allegedly Stole 5TB Data From Major ATM Solutions Provider<a href="https://thecyberexpress.com/blackcat-claims-qsi-banking-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ALPHV ransomware group has claimed to have attacked QSI Inc., a major ITM and ATM solutions provider that works with NCR Corporation. The cyberattack could potentially expose sensitive data from various sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

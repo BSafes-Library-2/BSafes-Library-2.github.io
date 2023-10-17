@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian Hackers Exploiting Recent WinRAR Vulnerability in New Campaign<a href="https://thehackernews.com/2023/10/pro-russian-hackers-exploiting-recent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russian hacking groups have exploited a recently disclosed security vulnerability in the WinRAR archiving utility as part of a phishing campaign designed to harvest credentials from compromised systems. "The attack involves the use of malicious archive files that exploit the recently discovered vulnerability affecting the WinRAR compression software versions prior to 6.23 and traced as CVE-2023-38831," Cluster25&nbsp; said &nbsp;in a report published last week. The archive contains a booby-trapped PDF file that, when clicked, causes a Windows Batch script to be executed, which launches PowerShell commands to open a reverse shell that gives the attacker remote access to the targeted host. Also deployed is a PowerShell script that steals data, including login credentials, from the Google Chrome and Microsoft Edge browsers. The captured information is exfiltrated via a legitimate web service webhook[.]site. CVE-2023-38831 refers to a&nbsp; high-severity flaw &nbsp;in WinRAR that allows at
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Binance's Smart Chain Exploited in New 'EtherHiding' Malware Campaign<a href="https://thehackernews.com/2023/10/binances-smart-chain-exploited-in-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been observed serving malicious code by utilizing Binance's Smart Chain (BSC) contracts in what has been described as the "next level of bulletproof hosting." The campaign, detected two months ago, has been codenamed&nbsp; EtherHiding &nbsp;by Guardio Labs. The novel twist marks the latest iteration in an ongoing malware campaign that leverages&nbsp;compromised WordPress sites to serve unsuspecting visitors a fake warning to update their browsers before the sites can be accessed, ultimately leading to the deployment of information stealer malware such as Amadey, Lumma, or RedLine. "While their initial method of hosting code on abused Cloudflare Worker hosts was taken down, they've quickly pivoted to take advantage of the decentralized, anonymous, and public nature of blockchain," security researchers Nati Tal and Oleg Zaytsev&nbsp; said . "This campaign is up and harder than ever to detect and take down." It's no surprise that threat act
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

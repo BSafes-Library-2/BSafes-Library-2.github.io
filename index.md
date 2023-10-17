@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2023
+October 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dozens of Squid Proxy Vulnerabilities Remain Unpatched Two Years After Disclosure<a href="https://www.securityweek.com/dozens-of-squid-proxy-vulnerabilities-remain-unpatched-2-years-after-disclosure/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2023
+October 16, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russian Hackers Exploiting Recent WinRAR Vulnerability in New Campaign<a href="https://thehackernews.com/2023/10/pro-russian-hackers-exploiting-recent.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2023
+October 16, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EPA Withdraws Water Sector Cybersecurity Rules Due to Lawsuits<a href="https://www.securityweek.com/epa-withdraws-water-sector-cybersecurity-rules-due-to-lawsuits/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2023
+October 16, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SpyNote: Beware of This Android Trojan that Records Audio and Phone Calls<a href="https://thehackernews.com/2023/10/spynote-beware-of-this-android-trojan.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2023
+October 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Milesight Industrial Router Vulnerability Possibly Exploited in Attacks<a href="https://www.securityweek.com/milesight-industrial-router-vulnerability-possibly-exploited-in-attacks/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2023
+October 16, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Fast Evolution of SaaS Security from 2020 to 2024 (Told Through Video)<a href="https://thehackernews.com/2023/10/the-fast-evolution-of-saas-security.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2023
+October 16, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: LockBit Ransomware Gang Demanded an $80 Million Ransom From CDW<a href="https://securityaffairs.com/152470/cyber-crime/lockbit-ransomware-gang-hacked-cdw.html?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2023
+October 16, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Signal Debunks Zero-Day Vulnerability Reports, Finds No Evidence<a href="https://thehackernews.com/2023/10/signal-debunks-zero-day-vulnerability.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2023
+October 16, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Decathlon Data Leak Exposes Personal Information of 8,000 Employees on Dark Web<a href="https://thecyberexpress.com/decathlon-data-leak-explained/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2023
+October 16, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Binance's Smart Chain Exploited in New 'EtherHiding' Malware Campaign<a href="https://thehackernews.com/2023/10/binances-smart-chain-exploited-in-new.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2023
+October 16, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ALPHV Gang Stole 5TB of Data From Illinois' Morrison Community Hospital<a href="https://securityaffairs.com/152486/cyber-crime/alphv-ransomware-morrison-community-hospital.html?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 16, 2023
+October 16, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat Allegedly Stole 5TB Data From Major ATM Solutions Provider<a href="https://thecyberexpress.com/blackcat-claims-qsi-banking-cyberattack/?&web_view=true"> Full Text</a>
