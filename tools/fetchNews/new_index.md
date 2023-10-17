@@ -34,7 +34,199 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2023
+October 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Squid Proxy Vulnerabilities Remain Unpatched Two Years After Disclosure<a href="https://www.securityweek.com/dozens-of-squid-proxy-vulnerabilities-remain-unpatched-2-years-after-disclosure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dozens of vulnerabilities in the Squid caching and forwarding web proxy, a widely used open-source proxy, remain unpatched two years after being discovered by researcher Joshua Rogers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russian Hackers Exploiting Recent WinRAR Vulnerability in New Campaign<a href="https://thehackernews.com/2023/10/pro-russian-hackers-exploiting-recent.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Russian hacking groups have exploited a recently disclosed security vulnerability in the WinRAR archiving utility as part of a phishing campaign designed to harvest credentials from compromised systems. "The attack involves the use of malicious archive files that exploit the recently discovered vulnerability affecting the WinRAR compression software versions prior to 6.23 and traced as CVE-2023-38831," Cluster25  said  in a report published last week. The archive contains a booby-trapped PDF file that, when clicked, causes a Windows Batch script to be executed, which launches PowerShell commands to open a reverse shell that gives the attacker remote access to the targeted host. Also deployed is a PowerShell script that steals data, including login credentials, from the Google Chrome and Microsoft Edge browsers. The captured information is exfiltrated via a legitimate web service webhook[.]site. CVE-2023-38831 refers to a  high-severity flaw  in WinRAR that allows at
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EPA Withdraws Water Sector Cybersecurity Rules Due to Lawsuits<a href="https://www.securityweek.com/epa-withdraws-water-sector-cybersecurity-rules-due-to-lawsuits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US EPA has withdrawn cybersecurity rules for public water systems due to lawsuits filed by states and non-profit water associations, citing concerns about financial burden and cybersecurity vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpyNote: Beware of This Android Trojan that Records Audio and Phone Calls<a href="https://thehackernews.com/2023/10/spynote-beware-of-this-android-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Android banking trojan known as  SpyNote  has been dissected to reveal its diverse information-gathering features. Typically spread via SMS phishing campaigns, attack chains involving the spyware trick potential victims into installing the app by clicking on the embedded link, according to F-Secure. Besides requesting invasive permissions to access call logs, camera, SMS messages, and external storage, SpyNote is known for hiding its presence from the Android home screen and the  Recents screen  in a bid to make it difficult to avoid detection. "The SpyNote malware app can be launched via an external trigger," F-Secure researcher Amit Tambe  said  in an analysis published last week. "Upon receiving the intent, the malware app launches the main activity." But most importantly, it seeks accessibility permissions, subsequently leveraging it to grant itself additional permissions to record audio and phone calls, log keystrokes, as well as capture screenshots o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Milesight Industrial Router Vulnerability Possibly Exploited in Attacks<a href="https://www.securityweek.com/milesight-industrial-router-vulnerability-possibly-exploited-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability exposes system log files containing passwords, which can be used by attackers to gain unauthorized access. Security firm VulnCheck discovered evidence of small-scale exploitation of the vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Fast Evolution of SaaS Security from 2020 to 2024 (Told Through Video)<a href="https://thehackernews.com/2023/10/the-fast-evolution-of-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SaaS Security's roots are in configuration management. An astounding 35% of all security breaches begin with security settings that were misconfigured. In the past 3 years, the initial access vectors to SaaS data have widened beyond misconfiguration management. " SaaS Security on Tap " is a new video series that takes place in Eliana V's bar making sure that the only thing that leaks is beer (maximum), and not SaaS data. This series takes a look at the key concepts within SaaS security and educates organizations on what new threat vectors need to be addressed. The Annual SaaS Security Survey Report: 2024 Plans and Priorities With the increase in SaaS application use, it's no surprise that incidents are up. The SaaS Security on Tap series covers this year's SaaS Security report which found that 55% of organizations have experienced a SaaS security incident within the last two years, including data leaks, data breaches, ransomware attacks, and malicious applications.  The report
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: LockBit Ransomware Gang Demanded an $80 Million Ransom From CDW<a href="https://securityaffairs.com/152470/cyber-crime/lockbit-ransomware-gang-hacked-cdw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group demanded an $80 million ransom, but CDW only offered $1 million. CDW states that the affected servers are isolated and not customer-facing, and its systems remain fully operational.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Signal Debunks Zero-Day Vulnerability Reports, Finds No Evidence<a href="https://thehackernews.com/2023/10/signal-debunks-zero-day-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Encrypted messaging app Signal has pushed back against "viral reports" of an alleged zero-day flaw in its software, stating it found no evidence to support the claim. "After responsible investigation *we have no evidence that suggests this vulnerability is real* nor has any additional info been shared via our official reporting channels," it  said  in a series of messages posted in X (formerly Twitter). Signal said it also checked with the U.S. government and that it found no information to suggest "this is a valid claim." It's also urging those with legitimate information to send reports to security@signal[.]org. The development comes as  reports   circulated  over the  weekend  about a zero-day vulnerability in Signal that could be exploited to gain complete access to a targeted mobile device. As a security precaution, it's been advised to turn off  link previews  in the app. The feature can be disabled by going to Signal Settings > Chats
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decathlon Data Leak Exposes Personal Information of 8,000 Employees on Dark Web<a href="https://thecyberexpress.com/decathlon-data-leak-explained/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data also included information from Bluenove, a technology and consulting firm, suggesting a broader cyberattack targeting multiple organizations. Neither Decathlon nor Bluenove have issued an official statement regarding the data leak.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Binance's Smart Chain Exploited in New 'EtherHiding' Malware Campaign<a href="https://thehackernews.com/2023/10/binances-smart-chain-exploited-in-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been observed serving malicious code by utilizing Binance's Smart Chain (BSC) contracts in what has been described as the "next level of bulletproof hosting." The campaign, detected two months ago, has been codenamed  EtherHiding  by Guardio Labs. The novel twist marks the latest iteration in an ongoing malware campaign that leverages compromised WordPress sites to serve unsuspecting visitors a fake warning to update their browsers before the sites can be accessed, ultimately leading to the deployment of information stealer malware such as Amadey, Lumma, or RedLine. "While their initial method of hosting code on abused Cloudflare Worker hosts was taken down, they've quickly pivoted to take advantage of the decentralized, anonymous, and public nature of blockchain," security researchers Nati Tal and Oleg Zaytsev  said . "This campaign is up and harder than ever to detect and take down." It's no surprise that threat act
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV Gang Stole 5TB of Data From Illinois' Morrison Community Hospital<a href="https://securityaffairs.com/152486/cyber-crime/alphv-ransomware-morrison-community-hospital.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group claims to have stolen 5TB of patients’ and employee’s information, backups, PII documents, and more. The gang also published a sample as proof of the stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Allegedly Stole 5TB Data From Major ATM Solutions Provider<a href="https://thecyberexpress.com/blackcat-claims-qsi-banking-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ALPHV ransomware group has claimed to have attacked QSI Inc., a major ITM and ATM solutions provider that works with NCR Corporation. The cyberattack could potentially expose sensitive data from various sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 14, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Voice Phishing Campaigns Using Access Keys<a href="https://cofense.com/blog/access-key-used-in-voice-messaged-phishing/?&web_view=true"> Full Text</a>
@@ -50,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2023
+October 14, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft to Phase Out NTLM in Favor of Kerberos for Stronger Authentication<a href="https://thehackernews.com/2023/10/microsoft-to-phase-out-ntlm-in-favor-of.html"> Full Text</a>
@@ -66,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 14, 2023
+October 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 “EtherHiding” — Hiding Web2 Malicious Code in Web3 Smart Contracts<a href="https://labs.guard.io/etherhiding-hiding-web2-malicious-code-in-web3-smart-contracts-65ea78efad16?&web_view=true"> Full Text</a>
@@ -82,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2023
+October 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PEAPOD Cyberattack Campaign Targeting Women Political Leaders<a href="https://thehackernews.com/2023/10/new-peapod-cyberattack-campaign.html"> Full Text</a>
@@ -98,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2023
+October 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Juniper Networks Patches Over 30 Vulnerabilities in Junos OS<a href="https://www.securityweek.com/juniper-networks-patches-over-30-vulnerabilities-in-junos-os/?&web_view=true"> Full Text</a>
@@ -114,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2023
+October 13, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Unveil ToddyCat's New Set of Tools for Data Exfiltration<a href="https://thehackernews.com/2023/10/researchers-unveil-toddycats-new-set-of.html"> Full Text</a>
@@ -130,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2023
+October 13, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Now Flagging Vulnerabilities, Misconfigurations Exploited by Ransomware<a href="https://www.securityweek.com/cisa-now-flagging-vulnerabilities-misconfigurations-exploited-by-ransomware/?&web_view=true"> Full Text</a>
@@ -146,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2023
+October 13, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attacks Double: Are Companies Prepared for 2024's Cyber Threats?<a href="https://thehackernews.com/2023/10/ransomware-attacks-doubled-year-on-year.html"> Full Text</a>
@@ -162,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2023
+October 13, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Conveyor Raises $12.5m to Automate Security Reviews Using LLMs<a href="https://techcrunch.com/2023/10/11/conveyor-raises-12-5m-to-automate-security-reviews-using-llms/?&web_view=true"> Full Text</a>
@@ -178,7 +370,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2023
+October 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkGate Malware Spreading via Messaging Services Posing as PDF Files<a href="https://thehackernews.com/2023/10/darkgate-malware-spreading-via.html"> Full Text</a>
@@ -194,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2023
+October 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indian State Government Fixes Website Bug That Revealed Aadhaar Numbers and Fingerprints<a href="https://techcrunch.com/2023/10/12/india-aadhaar-fingerprints-west-bengal/?&web_view=true"> Full Text</a>
@@ -210,7 +402,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2023
+October 13, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI, CISA Warn of Rising AvosLocker Ransomware Attacks Against Critical Infrastructure<a href="https://thehackernews.com/2023/10/fbi-cisa-warn-of-rising-avoslocker.html"> Full Text</a>
@@ -226,7 +418,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2023
+October 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Void Rabisu Targets Female Political Leaders with New Slimmed-Down ROMCOM Variant<a href="https://www.trendmicro.com/en_us/research/23/j/void-rabisu-targets-female-leaders-with-new-romcom-variant.html?&web_view=true"> Full Text</a>
@@ -242,7 +434,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 13, 2023
+October 13, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 State’s Cyber Overhaul Bets Big on Zero Trust to Tackle Emerging Threats<a href="https://www.nextgov.com/cybersecurity/2023/10/states-cyber-overhaul-bets-big-zero-trust-tackle-emerging-threats/391173/?&web_view=true"> Full Text</a>
