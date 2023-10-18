@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+October 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: Locking Down Financial and Accounting Data — Best Data Security Strategies<a href="https://thehackernews.com/2023/10/webinar-locking-down-financial-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Financial data is much more than just a collection of numbers; it is a crucial component of any business and a prime target for cybercriminals. It's important to understand that financial records can be a veritable treasure trove for digital pirates. A security breach not only puts customers' personal information in jeopardy but also enables fraudsters to drain company funds and exploit clients. Data threats can arise from a variety of sources, ranging from malicious actors with harmful intentions to simple mistakes, such as sending a confidential email to the wrong recipient. The methods used to compromise data are diverse and constantly evolving, including ransomware attacks and inadvertent leaks in cloud storage. Navigating this complex landscape can be daunting, but knowledge is empowering.&nbsp;We're excited to announce that we are hosting an exclusive webinar in collaboration with experts from Win Zip. Titled " Locking Down Financial and Accounting Data — Best Dat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quantum Risk is Real Now: How to Navigate the Evolving Data Harvesting Threat<a href="https://www.helpnetsecurity.com/2023/10/13/quantum-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data transmission faces a looming threat from Harvest Now, Decrypt Later (HNDL) attacks, where encrypted data is collected and stored with the intention of decrypting it in the future using advancements in computing or quantum technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

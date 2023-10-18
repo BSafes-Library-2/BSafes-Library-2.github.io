@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+October 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TV Advertising Sales Giant Affected by Ransomware Attack<a href="https://therecord.media/ampersand-television-advertising-sales-company-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta ransomware gang claimed responsibility for the attack, but the extent of the data stolen is unknown. The company confirmed the incident and stated that they are working with law enforcement to address the issue.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Knight Ransomware Group Claims Cyberattack on BMW Munique Motors<a href="https://thecyberexpress.com/cyberattack-on-bmw-munique-motors/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Knight group threatened to release stolen files and provided countdown links. However, the parent company, BMW, has not confirmed the attack. The website for BMW Munique Motors is still operational.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA Reports: 11 Ukrainian Telecom Providers Hit by Cyberattacks<a href="https://thehackernews.com/2023/10/cert-ua-reports-11-ukrainian-telecom.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has revealed that threat actors "interfered" with at least 11 telecommunication service providers in the country between May and September 2023. The agency is tracking the activity under the name UAC-0165, stating the intrusions led to service interruptions for customers. The starting point of the attacks is a reconnaissance phase in which a telecom company's network is scanned to identify exposed RDP or SSH interfaces and potential entry points. "It should be noted that reconnaissance and exploitation activities are carried out from previously compromised servers located, in particular, in the Ukrainian segment of the internet," CERT-UA&nbsp; said . "To route traffic through such nodes, Dante, SOCKS5, and other proxy servers are used." The attacks are notable for the use of two specialized programs called POEMGATE and POSEIDON that enable credential theft and remote control of the infected ho
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

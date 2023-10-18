@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EPA Withdraws Water Sector Cybersecurity Rules Due to Lawsuits<a href="https://www.securityweek.com/epa-withdraws-water-sector-cybersecurity-rules-due-to-lawsuits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US EPA has withdrawn cybersecurity rules for public water systems due to lawsuits filed by states and non-profit water associations, citing concerns about financial burden and cybersecurity vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

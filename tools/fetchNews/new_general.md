@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+October 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discord: A Playground for Nation-State Hackers Targeting Critical Infrastructure<a href="https://thehackernews.com/2023/10/discord-playground-for-nation-state.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In what's the latest evolution of threat actors abusing legitimate infrastructure for nefarious ends, new findings show that nation-state hacking groups have entered the fray in leveraging the social platform for targeting critical infrastructure. Discord, in recent years, has become a lucrative target, acting as a fertile ground for&nbsp; hosting malware &nbsp;using its content delivery network (CDN) as well as allowing information stealers to&nbsp; siphon sensitive data &nbsp;off the app and&nbsp; facilitating data exfiltration &nbsp;by means of webhooks. "The usage of Discord is largely limited to information stealers and grabbers that anyone can buy or download from the Internet," Trellix researchers Ernesto Fernández Provecho and David Pastor Sanz&nbsp; said &nbsp;in a Monday report. But that may be changing, for the cybersecurity firm said it found evidence of an artifact targeting Ukrainian critical infrastructures. There is currently no evidence linking it to a known threat group. ""The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploring the Realm of Malicious Generative AI: A New Digital Security Challenge<a href="https://thehackernews.com/2023/10/exploring-realm-of-malicious-generative.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, the cybersecurity landscape has been confronted with a daunting new reality – the rise of malicious Generative AI, like FraudGPT and WormGPT. These rogue creations, lurking in the dark corners of the internet, pose a distinctive threat to the world of digital security. In this article, we will look at the nature of Generative AI fraud, analyze the messaging surrounding these creations, and evaluate their potential impact on cybersecurity. While it's crucial to maintain a watchful eye, it's equally important to avoid widespread panic, as the situation, though disconcerting, is not yet a cause for alarm. Interested in how your organization can protect against generative AI attacks with an advanced email security solution?&nbsp; Get an IRONSCALES demo .&nbsp; Meet FraudGPT and WormGPT FraudGPT &nbsp;represents a subscription-based malicious Generative AI that harnesses sophisticated machine learning algorithms to generate deceptive content. In stark contrast to ethical AI models, Fr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stronger Ransomware Protection Finally Pays Off<a href="https://www.helpnetsecurity.com/2023/10/13/ransomware-protection-awareness/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent survey by Hornetsecurity reveals that 60% of companies are highly concerned about ransomware attacks, highlighting the urgency for robust protection measures and the active involvement of leadership in preventing such incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

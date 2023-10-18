@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Increased Malware Delivery via Fake Browser Updates<a href="https://www.helpnetsecurity.com/2023/10/17/clearfake-malware-fake-browser-updates/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Discord: A Playground for Nation-State Hackers Targeting Critical Infrastructure<a href="https://thehackernews.com/2023/10/discord-playground-for-nation-state.html"> Full Text</a>
@@ -66,10 +66,10 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Critical Vulnerabilities Expose ​​Weintek HMIs to Attacks<a href="https://www.securityweek.com/critical-vulnerabilities-expose-weintek-hmis-to-attacks/?&web_view=true"> Full Text</a>
+Critical Vulnerabilities Expose Weintek HMIs to Attacks<a href="https://www.securityweek.com/critical-vulnerabilities-expose-weintek-hmis-to-attacks/?&web_view=true"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities Uncovered in Open Source CasaOS Cloud Software<a href="https://thehackernews.com/2023/10/critical-vulnerabilities-uncovered-in.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TV Advertising Sales Giant Affected by Ransomware Attack<a href="https://therecord.media/ampersand-television-advertising-sales-company-ransomware?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar: Locking Down Financial and Accounting Data — Best Data Security Strategies<a href="https://thehackernews.com/2023/10/webinar-locking-down-financial-and.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operators Behind Worldwide Linux XorDDoS Campaign Evolve Their Attack Infrastructure<a href="https://unit42.paloaltonetworks.com/new-linux-xorddos-trojan-campaign-delivers-malware/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploring the Realm of Malicious Generative AI: A New Digital Security Challenge<a href="https://thehackernews.com/2023/10/exploring-realm-of-malicious-generative.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Knight Ransomware Group Claims Cyberattack on BMW Munique Motors<a href="https://thecyberexpress.com/cyberattack-on-bmw-munique-motors/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Warn of Severe Flaws Affecting Milesight Routers and Titan SFTP Servers<a href="https://thehackernews.com/2023/10/experts-warn-of-severe-flaws-affecting.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Vulnerabilities in South River Technologies' Titan MFT and Titan SFTP Servers Fixed<a href="https://www.rapid7.com/blog/post/2023/10/16/multiple-vulnerabilities-in-south-river-technologies-titan-mft-and-titan-sftp-fixed/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CERT-UA Reports: 11 Ukrainian Telecom Providers Hit by Cyberattacks<a href="https://thehackernews.com/2023/10/cert-ua-reports-11-ukrainian-telecom.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quantum Risk is Real Now: How to Navigate the Evolving Data Harvesting Threat<a href="https://www.helpnetsecurity.com/2023/10/13/quantum-risk/?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning: Unpatched Cisco Zero-Day Vulnerability Actively Targeted in the Wild<a href="https://thehackernews.com/2023/10/warning-unpatched-cisco-zero-day.html"> Full Text</a>
@@ -258,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stronger Ransomware Protection Finally Pays Off<a href="https://www.helpnetsecurity.com/2023/10/13/ransomware-protection-awareness/?&web_view=true"> Full Text</a>
