@@ -7,6 +7,19 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2023 - Office of Nuclear Regulation, UK 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chief Nuclear Inspector’s
+annual report on Great Britain’s nuclear industry <a href="https://www.onr.org.uk/documents/2023/cni-annual-report-2023.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ONR is here to protect society by securing safe nuclear operations. Each year, I give an account of the performance of the nuclear industry in Great Britain that we regulate, in this my Chief Nuclear Inspector’s Annual Report. Now in its sixth edition, we have taken the opportunity to reflect on feedback and reconsider the format of the report. For the benefit of readers, the performance section of the report is now structured by dutyholder, with accompanying regulatory attention levels, which are also summarised in full in an Annex to the report, alongside in-depth case studies and our incidents report.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 16, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

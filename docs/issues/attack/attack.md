@@ -8,6 +8,90 @@ nav_order: 900015
 
 ## Attack
 ---
+October 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated MATA Framework Strikes Eastern European Oil and Gas Companies<a href="https://thehackernews.com/2023/10/sophisticated-mata-framework-strikes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An updated version of a sophisticated backdoor framework called&nbsp; MATA &nbsp;has been used in attacks aimed at over a dozen Eastern European companies in the oil and gas sector and defense industry as part of a cyber espionage operation that took place between August 2022 and May 2023. "The actors behind the attack used spear-phishing mails to target several victims, some were infected with Windows executable malware by downloading files through an internet browser," Kaspersky&nbsp; said &nbsp;in a new exhaustive report published this week. "Each phishing document contains an external link to fetch a remote page containing a&nbsp; CVE-2021-26411 &nbsp;exploit." CVE-2021-26411 (CVSS score: 8.8) refers to a&nbsp; memory corruption vulnerability &nbsp;in Internet Explorer that could be triggered to execute arbitrary code by tricking a victim into visiting a specially crafted site. It was previously exploited by the Lazarus Group in early 2021 to target security researchers. The cross-platform MATA f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-Linked OilRig Targets Middle East Governments in 8-Month Cyber Campaign<a href="https://thehackernews.com/2023/10/iran-linked-oilrig-targets-middle-east.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iran-linked&nbsp; OilRig threat actor &nbsp;targeted an unnamed Middle East government between February and September 2023 as part of an eight-month-long campaign. The attack led to the theft of files and passwords and, in one instance, resulted in the deployment of a PowerShell backdoor called PowerExchange, the Symantec Threat Hunter Team, part of Broadcom,&nbsp; said &nbsp;in a report shared with The Hacker News. The cybersecurity firm is tracking the activity under the name&nbsp; Crambus , noting that the adversary used the implant to "monitor incoming mails sent from an Exchange Server in&nbsp; order to execute commands sent by the attackers in the form of emails, and surreptitiously forwarded results to the attackers." Malicious activity is said to have been detected on no less than 12 computers, with backdoors and keyloggers installed on a dozen other machines, indicating a broad compromise of the target. The use of PowerExchange was&nbsp; first highlighted &nbsp;by Fortinet FortiGuard Labs in May
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of North Korean Attacks Exploiting JetBrains TeamCity Flaw<a href="https://thehackernews.com/2023/10/microsoft-warns-of-north-korean-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean threat actors are actively exploiting a critical security flaw in JetBrains TeamCity to opportunistically breach vulnerable servers, according to Microsoft. The attacks, which entail the exploitation of&nbsp; CVE-2023-42793 &nbsp;(CVSS score: 9.8), have been&nbsp; attributed &nbsp;to Diamond Sleet (aka Labyrinth Chollima) and Onyx Sleet (aka Andariel or Silent Chollima). It's worth noting that both the threat activity clusters are part of the infamous North Korean nation-state actor known as&nbsp; Lazarus Group . In one of the two attack paths employed by Diamond Sleet, a successful compromise of TeamCity servers is followed by the deployment of a known implant called&nbsp; ForestTiger &nbsp;from legitimate infrastructure previously compromised by the threat actor. A second variant of the attacks leverages the initial foothold to retrieve a malicious DLL (DSROLE.dll aka RollSling or Version.dll or FeedLoad) that's loaded by means of a technique referred to as DLL search-order hijacking to eithe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eastern European Energy and Defense Firms Targeted With MATA Backdoor<a href="https://therecord.media/eastern-europe-energy-and-defense-targeted-mata?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers employed sophisticated techniques, including exploiting a vulnerability in Internet Explorer and using specialized malware modules for data exfiltration, highlighting the increasing complexity of targeted attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Targeting Defense Experts with Fake Interviews via Trojanized VNC Apps<a href="https://thehackernews.com/2023/10/lazarus-group-targeting-defense-experts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked&nbsp; Lazarus Group &nbsp;(aka Hidden Cobra or TEMP.Hermit) has been observed using trojanized versions of Virtual Network Computing (VNC) apps as lures to target the defense industry and nuclear engineers as part of a long-running campaign known as&nbsp; Operation Dream Job . "The threat actor tricks job seekers on social media into opening malicious apps for fake job interviews," Kaspersky&nbsp; said &nbsp;in its APT trends report for Q3 2023. "To avoid detection by behavior-based security solutions, this backdoored application operates discreetly, only activating when the user selects a server from the drop-down menu of the trojanized VNC client." Once launched by the victim, the counterfeit app is designed to retrieve additional payloads, including a known Lazarus Group malware dubbed&nbsp; LPEClient , which comes fitted with capabilities to profile compromised hosts. Also deployed by the adversary is an updated version of&nbsp; COPPERHEDGE , a backdoor known for runn
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qubitstrike Targets Jupyter Notebooks with Crypto Mining and Rootkit Campaign<a href="https://thehackernews.com/2023/10/qubitstrike-targets-jupyter-notebooks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor, presumably from Tunisia, has been linked to a new campaign targeting exposed Jupyter Notebooks in a two-fold attempt to illicitly mine cryptocurrency and breach cloud environments. Dubbed&nbsp; Qubitstrike &nbsp;by Cado, the intrusion set utilizes Telegram API to exfiltrate cloud service provider credentials following a successful compromise. "The payloads for the Qubitstrike campaign are all hosted on codeberg.org – an alternative Git hosting platform, providing much of the same functionality as GitHub," security researchers Matt Muir and Nate Bill&nbsp; said &nbsp;in a Wednesday write-up. In the attack chain documented by the cloud security firm, publicly accessible Jupyter instances are breached to execute commands to retrieve a shell script (mi.sh) hosted on Codeberg. The shell script, which acts as the primary payload, is responsible for executing a cryptocurrency miner, establishing persistence by means of a cron job, inserting an attacker-controlled key to the .ssh/a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

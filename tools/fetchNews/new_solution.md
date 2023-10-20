@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+October 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Play Protect Introduces Real-Time Code-Level Scanning for Android Malware<a href="https://thehackernews.com/2023/10/google-play-protect-introduces-real.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced an update to its Play Protect with support for real-time scanning at the code level to tackle novel malicious apps prior to downloading and installing them on Android devices. "Google Play Protect will now recommend a real-time app scan when installing apps that have never been scanned before to help detect emerging threats," the tech giant&nbsp; said . Google Play Protect is a&nbsp; built-in, free threat detection service &nbsp;that scans Android devices for any potentially harmful apps downloaded from the Play Store as well as other external sources. In extreme cases, an app may be blocked from being installed. The check expands on previous existing protections that alerted users when it identified an app known to be malicious from existing scanning intelligence or was identified as suspicious from heuristics gathered via on-device machine learning. With the latest safeguards, important signals from the app are extracted and sent to the Play Protect backend infr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

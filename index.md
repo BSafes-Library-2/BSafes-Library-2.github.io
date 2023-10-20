@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2023
+October 19, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat Group Adopts a New Tactic to Circumvent Security Solutions<a href="https://cyware.com/news/blackcat-group-adopts-a-new-tactic-to-circumvent-security-solutions-8257dfd9"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2023
+October 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophisticated MATA Framework Strikes Eastern European Oil and Gas Companies<a href="https://thehackernews.com/2023/10/sophisticated-mata-framework-strikes.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2023
+October 19, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Former Navy IT Manager Sentenced to Prison for Hacking, Selling PII<a href="https://www.securityweek.com/former-navy-it-manager-sentenced-to-prison-for-hacking-selling-pii/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2023
+October 19, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability Scanning: How Often Should I Scan?<a href="https://thehackernews.com/2023/10/vulnerability-scanning-how-often-should.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2023
+October 19, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Californian IT Company DNA Micro Leaks Private Mobile Phone Data of Over 820,000 Customers<a href="https://securityaffairs.com/152673/data-breach/dna-micro-data-leak.html?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2023
+October 19, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Play Protect Introduces Real-Time Code-Level Scanning for Android Malware<a href="https://thehackernews.com/2023/10/google-play-protect-introduces-real.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2023
+October 19, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Warns Nuclear Power Plant Operator of Cybersecurity Failings<a href="https://therecord.media/nuclear-energy-company-edf-cybersecurity-uk-warning?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2023
+October 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-Linked OilRig Targets Middle East Governments in 8-Month Cyber Campaign<a href="https://thehackernews.com/2023/10/iran-linked-oilrig-targets-middle-east.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2023
+October 19, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Campaign by Iranian APT Group Targets Middle Eastern Government<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/crambus-middle-east-government?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2023
+October 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of North Korean Attacks Exploiting JetBrains TeamCity Flaw<a href="https://thehackernews.com/2023/10/microsoft-warns-of-north-korean-attacks.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2023
+October 19, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lost and Stolen Devices: A Gateway to Data Breaches and Leaks<a href="https://www.securityweek.com/lost-and-stolen-devices-a-gateway-to-data-breaches-and-leaks/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2023
+October 19, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google TAG Detects State-Backed Threat Actors Exploiting WinRAR Flaw<a href="https://thehackernews.com/2023/10/google-tag-detects-state-backed-threat.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2023
+October 19, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Eastern European Energy and Defense Firms Targeted With MATA Backdoor<a href="https://therecord.media/eastern-europe-energy-and-defense-targeted-mata?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 19, 2023
+October 19, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moldovan Accused of Running Cybercrime Marketplace to Face Charges in US<a href="https://therecord.media/moldovan-accused-of-running-cybercrime-marketplace-e-root-extradited?&web_view=true"> Full Text</a>
@@ -258,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2023
+October 18, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Targeting Defense Experts with Fake Interviews via Trojanized VNC Apps<a href="https://thehackernews.com/2023/10/lazarus-group-targeting-defense-experts.html"> Full Text</a>
@@ -274,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2023
+October 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Citrix NetScaler Flaw Exploited to Target from Government, Tech Firms<a href="https://thehackernews.com/2023/10/critical-citrix-netscaler-flaw.html"> Full Text</a>
@@ -290,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2023
+October 18, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unraveling Real-Life Attack Paths – Key Lessons Learned<a href="https://thehackernews.com/2023/10/unraveling-real-life-attack-paths-key.html"> Full Text</a>
@@ -306,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 18, 2023
+October 18, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qubitstrike Targets Jupyter Notebooks with Crypto Mining and Rootkit Campaign<a href="https://thehackernews.com/2023/10/qubitstrike-targets-jupyter-notebooks.html"> Full Text</a>

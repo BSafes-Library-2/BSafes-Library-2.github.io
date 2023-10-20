@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Group Adopts a New Tactic to Circumvent Security Solutions<a href="https://cyware.com/news/blackcat-group-adopts-a-new-tactic-to-circumvent-security-solutions-8257dfd9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat ransomware group has introduced a new evasion tool called Munchkin, distributed as an ISO file, allowing them to run ransomware on remote machines. The controller malware is written in Rust and resembles the BlackCat malware family.&nbsp;&nbsp;Organizations are recommended to leverage  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moldovan Accused of Running Cybercrime Marketplace to Face Charges in US<a href="https://therecord.media/moldovan-accused-of-running-cybercrime-marketplace-e-root-extradited?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The marketplace, which used an online payment system called Perfect Money, offered illicit cryptocurrency exchange services and listed credentials belonging to 350,000 devices for sale globally.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

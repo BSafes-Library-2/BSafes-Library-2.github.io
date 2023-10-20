@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Navy IT Manager Sentenced to Prison for Hacking, Selling PII<a href="https://www.securityweek.com/former-navy-it-manager-sentenced-to-prison-for-hacking-selling-pii/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IT manager and his wife stole the personally identifiable information of over 9,000 individuals and sold it for $160,000 in Bitcoin, which was later used for criminal activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

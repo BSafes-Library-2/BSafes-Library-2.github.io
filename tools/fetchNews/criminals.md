@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operators Behind Worldwide Linux XorDDoS Campaign Evolve Their Attack Infrastructure<a href="https://unit42.paloaltonetworks.com/new-linux-xorddos-trojan-campaign-delivers-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers behind the XorDDoS campaign have migrated their offensive infrastructure to legitimate public hosting services, making it harder to block their command and control (C2) traffic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
