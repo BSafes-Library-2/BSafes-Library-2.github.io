@@ -34,7 +34,295 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Group Adopts a New Tactic to Circumvent Security Solutions<a href="https://cyware.com/news/blackcat-group-adopts-a-new-tactic-to-circumvent-security-solutions-8257dfd9"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat ransomware group has introduced a new evasion tool called Munchkin, distributed as an ISO file, allowing them to run ransomware on remote machines. The controller malware is written in Rust and resembles the BlackCat malware family.  Organizations are recommended to leverage  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated MATA Framework Strikes Eastern European Oil and Gas Companies<a href="https://thehackernews.com/2023/10/sophisticated-mata-framework-strikes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An updated version of a sophisticated backdoor framework called  MATA  has been used in attacks aimed at over a dozen Eastern European companies in the oil and gas sector and defense industry as part of a cyber espionage operation that took place between August 2022 and May 2023. "The actors behind the attack used spear-phishing mails to target several victims, some were infected with Windows executable malware by downloading files through an internet browser," Kaspersky  said  in a new exhaustive report published this week. "Each phishing document contains an external link to fetch a remote page containing a  CVE-2021-26411  exploit." CVE-2021-26411 (CVSS score: 8.8) refers to a  memory corruption vulnerability  in Internet Explorer that could be triggered to execute arbitrary code by tricking a victim into visiting a specially crafted site. It was previously exploited by the Lazarus Group in early 2021 to target security researchers. The cross-platform MATA f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Former Navy IT Manager Sentenced to Prison for Hacking, Selling PII<a href="https://www.securityweek.com/former-navy-it-manager-sentenced-to-prison-for-hacking-selling-pii/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The IT manager and his wife stole the personally identifiable information of over 9,000 individuals and sold it for $160,000 in Bitcoin, which was later used for criminal activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Scanning: How Often Should I Scan?<a href="https://thehackernews.com/2023/10/vulnerability-scanning-how-often-should.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The time between a vulnerability being discovered and hackers exploiting it is narrower than ever –  just 12 days . So it makes sense that organizations are starting to recognize the importance of not leaving long gaps between their scans, and the term "continuous vulnerability scanning" is becoming more popular. Hackers won't wait for your next scan One-off scans can be a simple 'one-and-done' scan to prove your security posture to customers, auditors or investors, but more commonly they refer to periodic scans kicked off at semi-regular intervals – the industry standard has traditionally been quarterly. These periodic scans give you a point-in-time snapshot of your vulnerability status – from SQL injections and XSS to misconfigurations and weak passwords. Great for compliance if they only ask for a quarterly vulnerability scan, but not so good for ongoing oversight of your security posture, or a robust attack surface management program. With a fresh CVE created ever
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Californian IT Company DNA Micro Leaks Private Mobile Phone Data of Over 820,000 Customers<a href="https://securityaffairs.com/152673/data-breach/dna-micro-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data poses serious risks, as threat actors could potentially disrupt services, launch phishing campaigns, and engage in "doxxing" and "swatting" activities, putting customers at risk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Play Protect Introduces Real-Time Code-Level Scanning for Android Malware<a href="https://thehackernews.com/2023/10/google-play-protect-introduces-real.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced an update to its Play Protect with support for real-time scanning at the code level to tackle novel malicious apps prior to downloading and installing them on Android devices. "Google Play Protect will now recommend a real-time app scan when installing apps that have never been scanned before to help detect emerging threats," the tech giant  said . Google Play Protect is a  built-in, free threat detection service  that scans Android devices for any potentially harmful apps downloaded from the Play Store as well as other external sources. In extreme cases, an app may be blocked from being installed. The check expands on previous existing protections that alerted users when it identified an app known to be malicious from existing scanning intelligence or was identified as suspicious from heuristics gathered via on-device machine learning. With the latest safeguards, important signals from the app are extracted and sent to the Play Protect backend infr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Warns Nuclear Power Plant Operator of Cybersecurity Failings<a href="https://therecord.media/nuclear-energy-company-edf-cybersecurity-uk-warning?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EDF, the company operating nuclear power plants in the UK, is facing increased regulatory attention after an inspection of its cybersecurity practices. The company failed to provide a comprehensive cybersecurity improvement plan.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-Linked OilRig Targets Middle East Governments in 8-Month Cyber Campaign<a href="https://thehackernews.com/2023/10/iran-linked-oilrig-targets-middle-east.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iran-linked  OilRig threat actor  targeted an unnamed Middle East government between February and September 2023 as part of an eight-month-long campaign. The attack led to the theft of files and passwords and, in one instance, resulted in the deployment of a PowerShell backdoor called PowerExchange, the Symantec Threat Hunter Team, part of Broadcom,  said  in a report shared with The Hacker News. The cybersecurity firm is tracking the activity under the name  Crambus , noting that the adversary used the implant to "monitor incoming mails sent from an Exchange Server in  order to execute commands sent by the attackers in the form of emails, and surreptitiously forwarded results to the attackers." Malicious activity is said to have been detected on no less than 12 computers, with backdoors and keyloggers installed on a dozen other machines, indicating a broad compromise of the target. The use of PowerExchange was  first highlighted  by Fortinet FortiGuard Labs in May
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Campaign by Iranian APT Group Targets Middle Eastern Government<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/crambus-middle-east-government?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers made use of legitimate tools like Plink to configure port-forwarding rules, enabling remote access via the Remote Desktop Protocol (RDP), and modified Windows firewall rules to facilitate their activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of North Korean Attacks Exploiting JetBrains TeamCity Flaw<a href="https://thehackernews.com/2023/10/microsoft-warns-of-north-korean-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean threat actors are actively exploiting a critical security flaw in JetBrains TeamCity to opportunistically breach vulnerable servers, according to Microsoft. The attacks, which entail the exploitation of  CVE-2023-42793  (CVSS score: 9.8), have been  attributed  to Diamond Sleet (aka Labyrinth Chollima) and Onyx Sleet (aka Andariel or Silent Chollima). It's worth noting that both the threat activity clusters are part of the infamous North Korean nation-state actor known as  Lazarus Group . In one of the two attack paths employed by Diamond Sleet, a successful compromise of TeamCity servers is followed by the deployment of a known implant called  ForestTiger  from legitimate infrastructure previously compromised by the threat actor. A second variant of the attacks leverages the initial foothold to retrieve a malicious DLL (DSROLE.dll aka RollSling or Version.dll or FeedLoad) that's loaded by means of a technique referred to as DLL search-order hijacking to eithe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lost and Stolen Devices: A Gateway to Data Breaches and Leaks<a href="https://www.securityweek.com/lost-and-stolen-devices-a-gateway-to-data-breaches-and-leaks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To mitigate the risk, organizations should implement strategies such as employee training, geolocation and geofencing, endpoint data encryption, and secure storage solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google TAG Detects State-Backed Threat Actors Exploiting WinRAR Flaw<a href="https://thehackernews.com/2023/10/google-tag-detects-state-backed-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A number of state-back threat actors from Russia and China have been observed exploiting a recent security flaw in the WinRAR archiver tool for Windows as part of their operations. The vulnerability in question is  CVE-2023-38831  (CVSS score: 7.8), which allows attackers to execute arbitrary code when a user attempts to view a benign file within a ZIP archive. The shortcoming has been actively exploited since at least April 2023. Google Threat Analysis Group (TAG), which  detected  the activities in recent weeks, attributed them to three different clusters it tracks under the geological monikers  FROZENBARENTS  (aka Sandworm),  FROZENLAKE  (aka APT28), and  ISLANDDREAMS  (aka APT40). The phishing attack linked to Sandworm impersonated a Ukrainian drone warfare training school in early September and distributed a malicious ZIP file exploiting CVE-2023-38831 to deliver Rhadamanthys, a commodity stealer malware which is offered for sale for $250 for a monthly subscription. APT28,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Eastern European Energy and Defense Firms Targeted With MATA Backdoor<a href="https://therecord.media/eastern-europe-energy-and-defense-targeted-mata?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers employed sophisticated techniques, including exploiting a vulnerability in Internet Explorer and using specialized malware modules for data exfiltration, highlighting the increasing complexity of targeted attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moldovan Accused of Running Cybercrime Marketplace to Face Charges in US<a href="https://therecord.media/moldovan-accused-of-running-cybercrime-marketplace-e-root-extradited?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The marketplace, which used an online payment system called Perfect Money, offered illicit cryptocurrency exchange services and listed credentials belonging to 350,000 devices for sale globally.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Targeting Defense Experts with Fake Interviews via Trojanized VNC Apps<a href="https://thehackernews.com/2023/10/lazarus-group-targeting-defense-experts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked  Lazarus Group  (aka Hidden Cobra or TEMP.Hermit) has been observed using trojanized versions of Virtual Network Computing (VNC) apps as lures to target the defense industry and nuclear engineers as part of a long-running campaign known as  Operation Dream Job . "The threat actor tricks job seekers on social media into opening malicious apps for fake job interviews," Kaspersky  said  in its APT trends report for Q3 2023. "To avoid detection by behavior-based security solutions, this backdoored application operates discreetly, only activating when the user selects a server from the drop-down menu of the trojanized VNC client." Once launched by the victim, the counterfeit app is designed to retrieve additional payloads, including a known Lazarus Group malware dubbed  LPEClient , which comes fitted with capabilities to profile compromised hosts. Also deployed by the adversary is an updated version of  COPPERHEDGE , a backdoor known for runn
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Citrix NetScaler Flaw Exploited to Target from Government, Tech Firms<a href="https://thehackernews.com/2023/10/critical-citrix-netscaler-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Citrix is warning of exploitation of a recently disclosed critical security flaw in NetScaler ADC and Gateway appliances that could result in exposure of sensitive information. Tracked as  CVE-2023-4966  (CVSS score: 9.4), the vulnerability impacts the following supported versions - NetScaler ADC and NetScaler Gateway 14.1 before 14.1-8.50 NetScaler ADC and NetScaler Gateway 13.1 before 13.1-49.15 NetScaler ADC and NetScaler Gateway 13.0 before 13.0-92.19 NetScaler ADC and NetScaler Gateway 12.1 (currently end-of-life) NetScaler ADC 13.1-FIPS before 13.1-37.164 NetScaler ADC 12.1-FIPS before 12.1-55.300, and NetScaler ADC 12.1-NDcPP before 12.1-55.300 However, for exploitation to occur, it requires the device to be configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) or authorization and accounting (AAA) virtual server. While patches for the flaw were released on October 10, 2023, Citrix has now revised the advisory to note that "exploits of CVE-20
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unraveling Real-Life Attack Paths – Key Lessons Learned<a href="https://thehackernews.com/2023/10/unraveling-real-life-attack-paths-key.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the ever-evolving landscape of cybersecurity, attackers are always searching for vulnerabilities and exploits within organizational environments. They don't just target single weaknesses; they're on the hunt for combinations of exposures and attack methods that can lead them to their desired objective. Despite the presence of numerous security tools, organizations often have to deal with two major challenges; First, these tools frequently lack the ability to effectively prioritize threats, leaving security professionals in the dark about which issues need immediate attention. Second, these tools often fail to provide context about how individual issues come together and how they can be leveraged by attackers to access critical assets. This lack of insight can lead organizations to either attempt to fix everything or, more dangerously, address nothing at all. In this article, we delve into 7 real-life attack path scenarios that our in-house experts encountered while utiliz
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qubitstrike Targets Jupyter Notebooks with Crypto Mining and Rootkit Campaign<a href="https://thehackernews.com/2023/10/qubitstrike-targets-jupyter-notebooks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor, presumably from Tunisia, has been linked to a new campaign targeting exposed Jupyter Notebooks in a two-fold attempt to illicitly mine cryptocurrency and breach cloud environments. Dubbed  Qubitstrike  by Cado, the intrusion set utilizes Telegram API to exfiltrate cloud service provider credentials following a successful compromise. "The payloads for the Qubitstrike campaign are all hosted on codeberg.org – an alternative Git hosting platform, providing much of the same functionality as GitHub," security researchers Matt Muir and Nate Bill  said  in a Wednesday write-up. In the attack chain documented by the cloud security firm, publicly accessible Jupyter instances are breached to execute commands to retrieve a shell script (mi.sh) hosted on Codeberg. The shell script, which acts as the primary payload, is responsible for executing a cryptocurrency miner, establishing persistence by means of a cron job, inserting an attacker-controlled key to the .ssh/a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Increased Malware Delivery via Fake Browser Updates<a href="https://www.helpnetsecurity.com/2023/10/17/clearfake-malware-fake-browser-updates/?&web_view=true"> Full Text</a>
@@ -50,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Discord: A Playground for Nation-State Hackers Targeting Critical Infrastructure<a href="https://thehackernews.com/2023/10/discord-playground-for-nation-state.html"> Full Text</a>
@@ -66,10 +354,10 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Critical Vulnerabilities Expose ​​Weintek HMIs to Attacks<a href="https://www.securityweek.com/critical-vulnerabilities-expose-weintek-hmis-to-attacks/?&web_view=true"> Full Text</a>
+Critical Vulnerabilities Expose Weintek HMIs to Attacks<a href="https://www.securityweek.com/critical-vulnerabilities-expose-weintek-hmis-to-attacks/?&web_view=true"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
@@ -82,7 +370,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities Uncovered in Open Source CasaOS Cloud Software<a href="https://thehackernews.com/2023/10/critical-vulnerabilities-uncovered-in.html"> Full Text</a>
@@ -98,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TV Advertising Sales Giant Affected by Ransomware Attack<a href="https://therecord.media/ampersand-television-advertising-sales-company-ransomware?&web_view=true"> Full Text</a>
@@ -114,7 +402,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar: Locking Down Financial and Accounting Data — Best Data Security Strategies<a href="https://thehackernews.com/2023/10/webinar-locking-down-financial-and.html"> Full Text</a>
@@ -130,7 +418,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operators Behind Worldwide Linux XorDDoS Campaign Evolve Their Attack Infrastructure<a href="https://unit42.paloaltonetworks.com/new-linux-xorddos-trojan-campaign-delivers-malware/?&web_view=true"> Full Text</a>
@@ -146,7 +434,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploring the Realm of Malicious Generative AI: A New Digital Security Challenge<a href="https://thehackernews.com/2023/10/exploring-realm-of-malicious-generative.html"> Full Text</a>
@@ -162,7 +450,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Knight Ransomware Group Claims Cyberattack on BMW Munique Motors<a href="https://thecyberexpress.com/cyberattack-on-bmw-munique-motors/?&web_view=true"> Full Text</a>
@@ -178,7 +466,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Warn of Severe Flaws Affecting Milesight Routers and Titan SFTP Servers<a href="https://thehackernews.com/2023/10/experts-warn-of-severe-flaws-affecting.html"> Full Text</a>
@@ -194,7 +482,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Vulnerabilities in South River Technologies' Titan MFT and Titan SFTP Servers Fixed<a href="https://www.rapid7.com/blog/post/2023/10/16/multiple-vulnerabilities-in-south-river-technologies-titan-mft-and-titan-sftp-fixed/?&web_view=true"> Full Text</a>
@@ -210,7 +498,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CERT-UA Reports: 11 Ukrainian Telecom Providers Hit by Cyberattacks<a href="https://thehackernews.com/2023/10/cert-ua-reports-11-ukrainian-telecom.html"> Full Text</a>
@@ -226,7 +514,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quantum Risk is Real Now: How to Navigate the Evolving Data Harvesting Threat<a href="https://www.helpnetsecurity.com/2023/10/13/quantum-risk/?&web_view=true"> Full Text</a>
@@ -242,7 +530,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning: Unpatched Cisco Zero-Day Vulnerability Actively Targeted in the Wild<a href="https://thehackernews.com/2023/10/warning-unpatched-cisco-zero-day.html"> Full Text</a>
@@ -258,7 +546,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 17, 2023
+October 17, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stronger Ransomware Protection Finally Pays Off<a href="https://www.helpnetsecurity.com/2023/10/13/ransomware-protection-awareness/?&web_view=true"> Full Text</a>
