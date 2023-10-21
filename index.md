@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Business-Oriented Threat Involving ‘Several Types of Malware All at Once’ Remains Active<a href="https://therecord.media/cryptominer-keylogger-backdoor-threat-fbi-alert?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign involves various types of malware, including cryptominers and keyloggers, and primarily targets enterprises that provide business-to-business (B2B) products and services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Zero-Day Exploited to Implant Malicious Lua Backdoor on Thousands of Devices<a href="https://thehackernews.com/2023/10/cisco-zero-day-exploited-to-implant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has warned of a new zero-day flaw in IOS XE that has been actively exploited by an unknown threat actor to deploy a  malicious Lua-based implant  on susceptible devices. Tracked as  CVE-2023-20273  (CVSS score: 7.2), the issue relates to a privilege escalation flaw in the web UI feature and is said to have been used alongside CVE-2023-20198 as part of an exploit chain. "The attacker first exploited CVE-2023-20198 to gain initial access and issued a privilege 15 command to create a local user and password combination," Cisco  said  in an updated advisory published Friday. "This allowed the user to log in with normal user access." "The attacker then exploited another component of the web UI feature, leveraging the new local user to elevate privilege to root and write the implant to the file system," a shortcoming that has been assigned the identifier CVE-2023-20273. A Cisco spokesperson told The Hacker News that a fix that covers both vulnerabili
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Thousands of Remote IT Workers Sent Wages to North Korea to Help Fund Weapons Program<a href="https://www.securityweek.com/fbi-thousands-of-remote-it-workers-sent-wages-to-north-korea-to-help-fund-weapons-program/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The workers used false identities to secure remote IT jobs and funneled their earnings to North Korea, while also infiltrating and stealing information from the companies they worked for.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertisers Using Google Ads to Target Users Searching for Popular Software<a href="https://thehackernews.com/2023/10/malvertisers-using-google-ads-to-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a malvertising campaign that leverages Google Ads to direct users searching for popular software to fictitious landing pages and distribute next-stage payloads. Malwarebytes, which discovered the activity,  said  it's "unique in its way to fingerprint users and distribute time sensitive payloads." The attack singles out users searching for Notepad++ and PDF converters to serve bogus ads on the Google search results page that, when clicked, filters out bots and other unintended IP addresses by showing a decoy site. Should the visitor be deemed of interest to the threat actor, the victim is redirected to a replica website advertising the software, while silently fingerprinting the system to determine if the request is originating from a virtual machine. Users who fail the check are taken to the legitimate Notepad++ website, while a potential target is assigned a unique ID for "tracking purposes but also to make each download unique and t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploited SSH Servers Offered in the Dark web as Proxy Pools<a href="https://blog.aquasec.com/threat-alert-exploited-ssh-servers-offered-in-the-dark-web-as-proxy-pools?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Aqua Nautilus have uncovered a threat to SSH in cloud environments. Attackers are using SSH tunneling to exploit SSH servers and gain access to organizations' networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnamese Hackers Target U.K., U.S., and India with DarkGate Malware<a href="https://thehackernews.com/2023/10/vietnamese-hackers-target-uk-us-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attacks leveraging the DarkGate commodity malware targeting entities in the U.K., the U.S., and India have been linked to Vietnamese actors associated with the use of the infamous  Ducktail stealer . "The overlap of tools and campaigns is very likely due to the effects of a cybercrime marketplace," WithSecure  said  in a report published today. "Threat actors are able to acquire and use multiple different tools for the same purpose, and all they have to do is come up with targets, campaigns, and lures." The development comes amid an  uptick in malware campaigns  using DarkGate in recent months, primarily driven by its author's decision to rent it out on a malware-as-a-service (MaaS) basis to other threat actors after using it privately since 2018. It's not just DarkGate and Ducktail, for the Vietnamese threat actor cluster responsible for these campaigns is leveraging same or very similar lures, themes, targeting, and delivery methods to also deliver  L
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, NSA, FBI, MS-ISAC Publish Guide on Preventing Phishing Intrusions<a href="https://www.cisa.gov/news-events/news/cisa-nsa-fbi-ms-isac-publish-guide-preventing-phishing-intrusions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guide categorizes phishing into two common tactics: obtaining login credentials and deploying malware, and provides details on techniques used by malicious actors, such as impersonation and spoofing, to carry out these attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unleashing the Power of the Internet of Things and Cyber Security<a href="https://thehackernews.com/2023/10/unleashing-power-of-internet-of-things.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Due to the rapid evolution of technology, the Internet of Things (IoT) is changing the way business is conducted around the world. This advancement and the power of the IoT have been nothing short of transformational in making data-driven decisions, accelerating efficiencies, and streamlining operations to meet the demands of a competitive global marketplace. IoT At a Crossroads IoT, in its most basic terms, is the intersection of the physical and digital world with distinct applications and purposes. It is devices, sensors, and systems of all kinds harnessing the power of interconnectivity through the internet to provide seamless experiences for business. Up until today, we, as security professionals, have been very good at writing about the numerous and varying IoT applications and uses and have agreed upon the fact that the security of the IoT is important. However, have we really understood the big picture? And that is for IoT to really reach its full potential as a fully inter
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Almost 42,000 Cisco IOS XE Devices Exploited, No Patch Available<a href="https://www.cybersecuritydive.com/news/cisco-IOS-XE-exploited-no-patch/697188/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered tens of thousands of exploited devices with a backdoor installed due to a critical zero-day vulnerability in Cisco IOS XE software's web user interface.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ExelaStealer: A New Low-Cost Cybercrime Weapon Emerges<a href="https://thehackernews.com/2023/10/exelastealer-new-low-cost-cybercrime.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new information stealer named  ExelaStealer  has become the latest entrant to an already  crowded landscape  filled with various off-the-shelf malware designed to capture sensitive data from compromised Windows systems. "ExelaStealer is a largely open-source infostealer with paid customizations available from the threat actor," Fortinet FortiGuard Labs researcher James Slaughter  said  in a technical report. Written in Python and incorporating support for JavaScript, it comes fitted with capabilities to siphon passwords, Discord tokens, credit cards, cookies and session data, keystrokes, screenshots, and clipboard content. ExelaStealer is offered for sale via cybercrime forums as well as a dedicated Telegram channel set up by its operators who go by the online alias quicaxd. The paid-for version costs $20 a month, $45 for three months, or $120 for a lifetime license. The low cost of the commodity malware makes it a perfect hacking tool for newbies, effectively lowerin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Launches New Phase of Secure by Design to Push Global Industry on Software Security<a href="https://www.cybersecuritydive.com/news/cisa-secure-by-design-global-software/696967/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA plans to issue a request for information to address Secure by Design engineering and is urging software manufacturers to demonstrate evidence of security incorporation through artifacts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. DoJ Cracks Down on North Korean IT Scammers Defrauding Global Businesses<a href="https://thehackernews.com/2023/10/us-doj-cracks-down-on-north-korean-it_20.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government has  announced  the seizure of 17 website domains used by North Korean information technology (IT) workers as part of an illicit scheme to defraud businesses across the world, evade sanctions, and fund the country's ballistic missile program. The Department of Justice (DoJ) said the U.S. confiscated approximately $1.5 million of the revenue that these IT workers collected from unwitting victims using the deceptive scheme in October 2022 and January 2023. It also called out North Korea for flooding the "global marketplace with ill-intentioned information technology workers." Court documents allege that the dispatched workers primarily live in China and Russia with an aim to deceive companies in the U.S. and elsewhere into hiring them under fake identities, and ultimately generating "millions of dollars a year" in illicit revenues. The development comes amid  continued   warnings  from the U.S. about North Korea's reliance on its army
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnamese Hackers Hit Digital Marketers With Info-stealer Malware<a href="https://www.healthcareinfosecurity.com/vietnamese-hackers-hit-digital-marketers-infostealers-a-23360?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vietnamese cybercrime groups are targeting the digital marketing sectors in the United Kingdom, United States, and India with various malware strains, including the DarkGate information stealer.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 19, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
