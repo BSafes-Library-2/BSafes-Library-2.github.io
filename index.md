@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2023
+October 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Business-Oriented Threat Involving ‘Several Types of Malware All at Once’ Remains Active<a href="https://therecord.media/cryptominer-keylogger-backdoor-threat-fbi-alert?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2023
+October 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Zero-Day Exploited to Implant Malicious Lua Backdoor on Thousands of Devices<a href="https://thehackernews.com/2023/10/cisco-zero-day-exploited-to-implant.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 21, 2023
+October 21, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Thousands of Remote IT Workers Sent Wages to North Korea to Help Fund Weapons Program<a href="https://www.securityweek.com/fbi-thousands-of-remote-it-workers-sent-wages-to-north-korea-to-help-fund-weapons-program/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2023
+October 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malvertisers Using Google Ads to Target Users Searching for Popular Software<a href="https://thehackernews.com/2023/10/malvertisers-using-google-ads-to-target.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2023
+October 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploited SSH Servers Offered in the Dark web as Proxy Pools<a href="https://blog.aquasec.com/threat-alert-exploited-ssh-servers-offered-in-the-dark-web-as-proxy-pools?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2023
+October 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vietnamese Hackers Target U.K., U.S., and India with DarkGate Malware<a href="https://thehackernews.com/2023/10/vietnamese-hackers-target-uk-us-and.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2023
+October 20, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA, NSA, FBI, MS-ISAC Publish Guide on Preventing Phishing Intrusions<a href="https://www.cisa.gov/news-events/news/cisa-nsa-fbi-ms-isac-publish-guide-preventing-phishing-intrusions?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2023
+October 20, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unleashing the Power of the Internet of Things and Cyber Security<a href="https://thehackernews.com/2023/10/unleashing-power-of-internet-of-things.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2023
+October 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Almost 42,000 Cisco IOS XE Devices Exploited, No Patch Available<a href="https://www.cybersecuritydive.com/news/cisco-IOS-XE-exploited-no-patch/697188/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2023
+October 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ExelaStealer: A New Low-Cost Cybercrime Weapon Emerges<a href="https://thehackernews.com/2023/10/exelastealer-new-low-cost-cybercrime.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2023
+October 20, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Launches New Phase of Secure by Design to Push Global Industry on Software Security<a href="https://www.cybersecuritydive.com/news/cisa-secure-by-design-global-software/696967/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2023
+October 20, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. DoJ Cracks Down on North Korean IT Scammers Defrauding Global Businesses<a href="https://thehackernews.com/2023/10/us-doj-cracks-down-on-north-korean-it_20.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 20, 2023
+October 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vietnamese Hackers Hit Digital Marketers With Info-stealer Malware<a href="https://www.healthcareinfosecurity.com/vietnamese-hackers-hit-digital-marketers-infostealers-a-23360?&web_view=true"> Full Text</a>

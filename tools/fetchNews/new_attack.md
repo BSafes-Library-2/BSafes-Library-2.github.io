@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+October 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Business-Oriented Threat Involving ‘Several Types of Malware All at Once’ Remains Active<a href="https://therecord.media/cryptominer-keylogger-backdoor-threat-fbi-alert?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign involves various types of malware, including cryptominers and keyloggers, and primarily targets enterprises that provide business-to-business (B2B) products and services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnamese Hackers Target U.K., U.S., and India with DarkGate Malware<a href="https://thehackernews.com/2023/10/vietnamese-hackers-target-uk-us-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attacks leveraging the DarkGate commodity malware targeting entities in the U.K., the U.S., and India have been linked to Vietnamese actors associated with the use of the infamous&nbsp; Ducktail stealer . "The overlap of tools and campaigns is very likely due to the effects of a cybercrime marketplace," WithSecure&nbsp; said &nbsp;in a report published today. "Threat actors are able to acquire and use multiple different tools for the same purpose, and all they have to do is come up with targets, campaigns, and lures." The development comes amid an&nbsp; uptick in malware campaigns &nbsp;using DarkGate in recent months, primarily driven by its author's decision to rent it out on a malware-as-a-service (MaaS) basis to other threat actors after using it privately since 2018. It's not just DarkGate and Ducktail, for the Vietnamese threat actor cluster responsible for these campaigns is leveraging same or very similar lures, themes, targeting, and delivery methods to also deliver&nbsp; L
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnamese Hackers Hit Digital Marketers With Info-stealer Malware<a href="https://www.healthcareinfosecurity.com/vietnamese-hackers-hit-digital-marketers-infostealers-a-23360?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vietnamese cybercrime groups are targeting the digital marketing sectors in the United Kingdom, United States, and India with various malware strains, including the DarkGate information stealer.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unleashing the Power of the Internet of Things and Cyber Security<a href="https://thehackernews.com/2023/10/unleashing-power-of-internet-of-things.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Due to the rapid evolution of technology, the Internet of Things (IoT) is changing the way business is conducted around the world. This advancement and the power of the IoT have been nothing short of transformational in making data-driven decisions, accelerating efficiencies, and streamlining operations to meet the demands of a competitive global marketplace. IoT At a Crossroads IoT, in its most basic terms, is the intersection of the physical and digital world with distinct applications and purposes. It is devices, sensors, and systems of all kinds harnessing the power of interconnectivity through the internet to provide seamless experiences for business. Up until today, we, as security professionals, have been very good at writing about the numerous and varying IoT applications and uses and have agreed upon the fact that the security of the IoT is important. However, have we really understood the big picture? And that is for IoT to really reach its full potential as a fully inter
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+October 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Campaign by Iranian APT Group Targets Middle Eastern Government<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/crambus-middle-east-government?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers made use of legitimate tools like Plink to configure port-forwarding rules, enabling remote access via the Remote Desktop Protocol (RDP), and modified Windows firewall rules to facilitate their activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

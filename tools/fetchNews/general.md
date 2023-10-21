@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+October 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Scanning: How Often Should I Scan?<a href="https://thehackernews.com/2023/10/vulnerability-scanning-how-often-should.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The time between a vulnerability being discovered and hackers exploiting it is narrower than ever –&nbsp; just 12 days . So it makes sense that organizations are starting to recognize the importance of not leaving long gaps between their scans, and the term "continuous vulnerability scanning" is becoming more popular. Hackers won't wait for your next scan One-off scans can be a simple 'one-and-done' scan to prove your security posture to customers, auditors or investors, but more commonly they refer to periodic scans kicked off at semi-regular intervals – the industry standard has traditionally been quarterly. These periodic scans give you a point-in-time snapshot of your vulnerability status – from SQL injections and XSS to misconfigurations and weak passwords. Great for compliance if they only ask for a quarterly vulnerability scan, but not so good for ongoing oversight of your security posture, or a robust attack surface management program. With a fresh CVE created ever
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lost and Stolen Devices: A Gateway to Data Breaches and Leaks<a href="https://www.securityweek.com/lost-and-stolen-devices-a-gateway-to-data-breaches-and-leaks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To mitigate the risk, organizations should implement strategies such as employee training, geolocation and geofencing, endpoint data encryption, and secure storage solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unraveling Real-Life Attack Paths – Key Lessons Learned<a href="https://thehackernews.com/2023/10/unraveling-real-life-attack-paths-key.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the ever-evolving landscape of cybersecurity, attackers are always searching for vulnerabilities and exploits within organizational environments. They don't just target single weaknesses; they're on the hunt for combinations of exposures and attack methods that can lead them to their desired objective. Despite the presence of numerous security tools, organizations often have to deal with two major challenges; First, these tools frequently lack the ability to effectively prioritize threats, leaving security professionals in the dark about which issues need immediate attention. Second, these tools often fail to provide context about how individual issues come together and how they can be leveraged by attackers to access critical assets. This lack of insight can lead organizations to either attempt to fix everything or, more dangerously, address nothing at all. In this article, we delve into 7 real-life attack path scenarios that our in-house experts encountered while utiliz
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

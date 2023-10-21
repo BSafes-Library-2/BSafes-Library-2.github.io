@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 20, 2023 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertisers Using Google Ads to Target Users Searching for Popular Software<a href="https://thehackernews.com/2023/10/malvertisers-using-google-ads-to-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Details have emerged about a malvertising campaign that leverages Google Ads to direct users searching for popular software to fictitious landing pages and distribute next-stage payloads. Malwarebytes, which discovered the activity,&nbsp; said &nbsp;it's "unique in its way to fingerprint users and distribute time sensitive payloads." The attack singles out users searching for Notepad++ and PDF converters to serve bogus ads on the Google search results page that, when clicked, filters out bots and other unintended IP addresses by showing a decoy site. Should the visitor be deemed of interest to the threat actor, the victim is redirected to a replica website advertising the software, while silently fingerprinting the system to determine if the request is originating from a virtual machine. Users who fail the check are taken to the legitimate Notepad++ website, while a potential target is assigned a unique ID for "tracking purposes but also to make each download unique and t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+October 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Californian IT Company DNA Micro Leaks Private Mobile Phone Data of Over 820,000 Customers<a href="https://securityaffairs.com/152673/data-breach/dna-micro-data-leak.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data poses serious risks, as threat actors could potentially disrupt services, launch phishing campaigns, and engage in "doxxing" and "swatting" activities, putting customers at risk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

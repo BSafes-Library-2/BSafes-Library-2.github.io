@@ -10,12 +10,35 @@ nav_order: 150
 October 20, 2023 - Office of Nuclear Regulation, UK 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Chief Nuclear Inspector’s
-annual report on Great Britain’s nuclear industry <a href="https://www.onr.org.uk/documents/2023/cni-annual-report-2023.pdf"> Full Text</a>
+Chief Nuclear Inspector’s annual report on Great Britain’s nuclear industry <a href="https://www.onr.org.uk/documents/2023/cni-annual-report-2023.pdf"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
 ONR is here to protect society by securing safe nuclear operations. Each year, I give an account of the performance of the nuclear industry in Great Britain that we regulate, in this my Chief Nuclear Inspector’s Annual Report. Now in its sixth edition, we have taken the opportunity to reflect on feedback and reconsider the format of the report. For the benefit of readers, the performance section of the report is now structured by dutyholder, with accompanying regulatory attention levels, which are also summarised in full in an Annex to the report, alongside in-depth case studies and our incidents report.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 18, 2023 - US Department of Justice 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Justice Department Announces Court-Authorized Action to Disrupt Illicit Revenue Generation Efforts of Democratic People’s Republic of Korea Information Technology Workers <a href="https://www.justice.gov/opa/pr/justice-department-announces-court-authorized-action-disrupt-illicit-revenue-generation"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seizures of Money and Infrastructure from Democratic People’s Republic of Korea (DPRK) IT Workers Follows Successful Efforts to Empower Independent Private Sector Disruptive Actions
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 17, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Next Chapter of Secure by Design <a href="https://www.cisa.gov/news-events/news/next-chapter-secure-design"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yesterday, CISA Director Jen Easterly announced the second iteration of CISA’s Secure by Design whitepaper, “Shifting the Balance of Cybersecurity Risk: Principles and Approaches for Secure by Design Software” at the Singapore Cyber Week conference. Since releasing the first version of the whitepaper in April, we received a great deal of constructive and detailed feedback from a wide spectrum of stakeholders, including software manufacturers of all sizes, customers, non-profits, academics, U.S. and international government agencies, and individuals. Ten U.S. and international partners co-sealed the first version of the whitepaper. This version includes an incredible eight additional countries and international organizations. This scale of feedback and partnership underscores that the industry is keen to have this conversation, and that the time to shift the responsibility for security is now. We have been honored by how generous people have been with their time and expertise.
 </details>
 </div>
 

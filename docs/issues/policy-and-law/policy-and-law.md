@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. DoJ Cracks Down on North Korean IT Scammers Defrauding Global Businesses<a href="https://thehackernews.com/2023/10/us-doj-cracks-down-on-north-korean-it_20.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government has&nbsp; announced &nbsp;the seizure of 17 website domains used by North Korean information technology (IT) workers as part of an illicit scheme to defraud businesses across the world, evade sanctions, and fund the country's ballistic missile program. The Department of Justice (DoJ) said the U.S. confiscated approximately $1.5 million of the revenue that these IT workers collected from unwitting victims using the deceptive scheme in October 2022 and January 2023. It also called out North Korea for flooding the "global marketplace with ill-intentioned information technology workers." Court documents allege that the dispatched workers primarily live in China and Russia with an aim to deceive companies in the U.S. and elsewhere into hiring them under fake identities, and ultimately generating "millions of dollars a year" in illicit revenues. The development comes amid&nbsp; continued &nbsp; warnings &nbsp;from the U.S. about North Korea's reliance on its army
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
