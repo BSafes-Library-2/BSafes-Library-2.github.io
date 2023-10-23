@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploited SSH Servers Offered in the Dark web as Proxy Pools<a href="https://blog.aquasec.com/threat-alert-exploited-ssh-servers-offered-in-the-dark-web-as-proxy-pools?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Aqua Nautilus have uncovered a threat to SSH in cloud environments. Attackers are using SSH tunneling to exploit SSH servers and gain access to organizations' networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Almost 42,000 Cisco IOS XE Devices Exploited, No Patch Available<a href="https://www.cybersecuritydive.com/news/cisco-IOS-XE-exploited-no-patch/697188/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have discovered tens of thousands of exploited devices with a backdoor installed due to a critical zero-day vulnerability in Cisco IOS XE software's web user interface.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

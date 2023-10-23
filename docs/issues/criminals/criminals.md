@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Europol Dismantles Ragnar Locker Ransomware Infrastructure, Nabs Key Developer<a href="https://thehackernews.com/2023/10/europol-dismantles-ragnar-locker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol on Friday announced the takedown of the infrastructure associated with Ragnar Locker ransomware, alongside the arrest of a "key target" in France. "In an action carried out between 16 and 20 October, searches were conducted in Czechia, Spain, and Latvia," the agency&nbsp; said . "The main perpetrator, suspected of being a developer of the Ragnar group, has been brought in front of the examining magistrates of the Paris Judicial Court." Five other accomplices associated with the ransomware gang are said to have been interviewed in Spain and Latvia, with the servers and the data leak portal seized in the Netherlands, Germany, and Sweden. The effort is the latest coordinated exercise involving authorities from Czechia, France, Germany, Italy, Japan, Latvia, the Netherlands, Spain, Sweden, Ukraine, and the U.S. Two suspects associated with the ransomware crew were previously arrested from Ukraine in 2021. A year later, another member was apprehended in
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

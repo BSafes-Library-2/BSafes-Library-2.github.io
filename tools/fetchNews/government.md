@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+October 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Thousands of Remote IT Workers Sent Wages to North Korea to Help Fund Weapons Program<a href="https://www.securityweek.com/fbi-thousands-of-remote-it-workers-sent-wages-to-north-korea-to-help-fund-weapons-program/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The workers used false identities to secure remote IT jobs and funneled their earnings to North Korea, while also infiltrating and stealing information from the companies they worked for.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, NSA, FBI, MS-ISAC Publish Guide on Preventing Phishing Intrusions<a href="https://www.cisa.gov/news-events/news/cisa-nsa-fbi-ms-isac-publish-guide-preventing-phishing-intrusions?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guide categorizes phishing into two common tactics: obtaining login credentials and deploying malware, and provides details on techniques used by malicious actors, such as impersonation and spoofing, to carry out these attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Launches New Phase of Secure by Design to Push Global Industry on Software Security<a href="https://www.cybersecuritydive.com/news/cisa-secure-by-design-global-software/696967/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA plans to issue a request for information to address Secure by Design engineering and is urging software manufacturers to demonstrate evidence of security incorporation through artifacts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

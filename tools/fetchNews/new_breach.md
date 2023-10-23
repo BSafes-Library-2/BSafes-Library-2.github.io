@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+October 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta's Support System Breach Exposes Customer Data to Unidentified Threat Actors<a href="https://thehackernews.com/2023/10/oktas-support-system-breach-exposes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity services provider Okta on Friday disclosed a new security incident that allowed unidentified threat actors to leverage stolen credentials to access its support case management system. "The threat actor was able to view files uploaded by certain Okta customers as part of recent support cases," David Bradbury, Okta's chief security officer, said . "It should be noted that the Okta support case management system is separate from the production Okta service, which is fully operational and has not been impacted." The company also emphasized that its Auth0/CIC case management system was not impacted by the breach, noting it has directly notified customers who have been affected. However, it said that the customer support system is also used to upload HTTP Archive (HAR) files to replicate end user or administrator errors for troubleshooting purposes. "HAR files can also contain sensitive data, including cookies and session tokens, that malici
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
