@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2023
+October 23, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actor Found Selling Access to Facebook and Instagram’s Police Portal<a href="https://securityaffairs.com/152811/cyber-crime/facebook-and-instagrams-police-portal-access.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2023
+October 23, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Who's Experimenting with AI Tools in Your Organization?<a href="https://thehackernews.com/2023/10/whos-experimenting-with-ai-tools-in.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2023
+October 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 From Copacabana to Barcelona: The Cross-Continental Threat of Brazilian Banking Malware<a href="https://www.proofpoint.com/us/blog/threat-insight/copacabana-barcelona-cross-continental-threat-brazilian-banking-malware?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2023
+October 23, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoNot Team's New Firebird Backdoor Hits Pakistan and Afghanistan<a href="https://thehackernews.com/2023/10/donot-teams-new-firebird-backdoor-hits.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2023
+October 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quasar RAT Employs DLL Sideloading to Stay Under the Radar<a href="https://cyware.com/news/quasar-rat-employs-dll-sideloading-to-stay-under-the-radar-a3f289b1"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2023
+October 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quasar RAT Leverages DLL Side-Loading to Fly Under the Radar<a href="https://thehackernews.com/2023/10/quasar-rat-leverages-dll-side-loading.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2023
+October 23, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DC Voter Data Breach May Have Exposed Personal Information<a href="https://www.nbcwashington.com/news/local/dc-voter-data-breach-may-have-exposed-personal-information/3450178/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 23, 2023
+October 23, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The DarkGate Menace: Tracing the Vietnamese Connection<a href="https://cyware.com/news/the-darkgate-menace-tracing-the-vietnamese-connection-ce1eef3e"> Full Text</a>

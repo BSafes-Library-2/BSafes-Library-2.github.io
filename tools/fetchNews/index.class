@@ -34,6 +34,134 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Found Selling Access to Facebook and Instagram’s Police Portal<a href="https://securityaffairs.com/152811/cyber-crime/facebook-and-instagrams-police-portal-access.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers suspect that Meta was either tricked into providing access to the threat actor or the threat actor obtained credentials for a legitimate law enforcement account.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Who's Experimenting with AI Tools in Your Organization?<a href="https://thehackernews.com/2023/10/whos-experimenting-with-ai-tools-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the record-setting growth of consumer-focused AI productivity tools like ChatGPT, artificial intelligence—formerly the realm of data science and engineering teams—has become a resource available to every employee.  From a productivity perspective, that's fantastic. Unfortunately for IT and security teams, it also means you may have hundreds of people in your organization using a new tool in a matter of days, with no visibility of what type of data they're sending to that tool or how secure it might be. And because many of these tools are free or offer free trials, there's no barrier to entry and no way of discovering them through procurement or expense reports.  Organizations need to understand and (quickly) evaluate the benefits and  risks of AI productivity tools  in order to create a scalable, enforceable, and reasonable policy to guide their employees' behavior.  How Nudge Security can help Nudge Security discovers all generative AI accounts ever created by any employ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Copacabana to Barcelona: The Cross-Continental Threat of Brazilian Banking Malware<a href="https://www.proofpoint.com/us/blog/threat-insight/copacabana-barcelona-cross-continental-threat-brazilian-banking-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint researchers have discovered a new version of the Grandoreiro malware that is targeting victims in both Mexico and Spain. This is unusual as the malware has historically only targeted Portuguese and Spanish speakers in Brazil and Mexico.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoNot Team's New Firebird Backdoor Hits Pakistan and Afghanistan<a href="https://thehackernews.com/2023/10/donot-teams-new-firebird-backdoor-hits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as  DoNot Team  has been linked to the use of a novel .NET-based backdoor called Firebird targeting a handful of victims in Pakistan and Afghanistan. Cybersecurity company Kaspersky, which disclosed the findings in its APT trends report Q3 2023, said the attack chains are also configured to deliver a downloader named CSVtyrei, so named for its resemblance to Vtyrei. "Some code within the examples appeared non-functional, hinting at ongoing development efforts," the Russian firm  said . Vtyrei  (aka BREEZESUGAR) refers to a first-stage payload and downloader strain previously harnessed by the adversary to deliver a malware framework known as RTY . DoNot Team, also known by the names APT-C-35, Origami Elephant, and SECTOR02, is suspected to be of Indian origin, with its attacks employing spear-phishing emails and rogue Android apps to propagate malware. The latest assessment from Kaspersky builds on an  analysis  of the threat actor's twin att
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quasar RAT Employs DLL Sideloading to Stay Under the Radar<a href="https://cyware.com/news/quasar-rat-employs-dll-sideloading-to-stay-under-the-radar-a3f289b1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Quasar RAT, an open-source remote access trojan also known as CinaRAT or Yggdrasil, has been spotted leveraging a new Microsoft file as part of its DLL sideloading process to stealthily drop malicious payloads on compromised Windows systems.  Once the Quasar RAT payload is executed in the computer' ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quasar RAT Leverages DLL Side-Loading to Fly Under the Radar<a href="https://thehackernews.com/2023/10/quasar-rat-leverages-dll-side-loading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The open-source remote access trojan known as  Quasar RAT  has been observed leveraging DLL side-loading to fly under the radar and stealthily siphon data from compromised Windows hosts. "This technique capitalizes on the inherent trust these files command within the Windows environment," Uptycs researchers Tejaswini Sandapolla and Karthickkumar Kathiresan  said  in a report published last week, detailing the malware's reliance on ctfmon.exe and calc.exe as part of the attack chain. Also known by the names CinaRAT or Yggdrasil, Quasar RAT is a C#-based remote administration tool capable of gathering system information, a list of running applications, files, keystrokes, screenshots, and executing arbitrary shell commands. DLL side-loading  is a  popular   technique  adopted by  many threat actors  to execute their own payloads by planting a spoofed DLL file with a name that a benign executable is known to be looking for. "Adversaries likely use side-loading as a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DC Voter Data Breach May Have Exposed Personal Information<a href="https://www.nbcwashington.com/news/local/dc-voter-data-breach-may-have-exposed-personal-information/3450178/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal information of D.C. voters, including partial Social Security numbers and driver's license numbers, may have been exposed in a data breach affecting the Board of Elections' voter roll.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The DarkGate Menace: Tracing the Vietnamese Connection<a href="https://cyware.com/news/the-darkgate-menace-tracing-the-vietnamese-connection-ce1eef3e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report from WithSecure has highlighted a surge in DarkGate malware infection attempts.  Multiple Vietnamese threat groups have been found to deploy info-stealer campaigns using   Malware-as-a-Service   (MaaS), honing in on specific sectors or groups. Their modus operandi displays notable s ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 21, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
