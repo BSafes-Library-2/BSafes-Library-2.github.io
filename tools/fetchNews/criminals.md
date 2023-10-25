@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Found Selling Access to Facebook and Instagram’s Police Portal<a href="https://securityaffairs.com/152811/cyber-crime/facebook-and-instagrams-police-portal-access.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers suspect that Meta was either tricked into providing access to the threat actor or the threat actor obtained credentials for a legitimate law enforcement account.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

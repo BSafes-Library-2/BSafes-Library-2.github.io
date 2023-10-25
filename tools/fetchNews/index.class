@@ -34,6 +34,231 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2023 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Lawmakers Targeted by China-Linked ‘Spamouflage’ Disinformation Campaign<a href="https://www.securityweek.com/canada-lawmakers-targeted-by-china-linked-spamouflage-disinformation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canada has warned of a disinformation campaign linked to China, dubbed "Spamouflage," involving deepfake videos and online posts aimed at discrediting Canadian lawmakers and silencing criticism of the Chinese Communist Party.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-NSA Employee Pleads Guilty to Leaking Classified Data to Russia<a href="https://thehackernews.com/2023/10/ex-nsa-employee-pleads-guilty-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former employee of the U.S. National Security Agency (NSA) has pleaded guilty to charges accusing him of attempting to transmit classified defense information to Russia. Jareh Sebastian Dalke, 31, served as an Information Systems Security Designer for the NSA from June 6, 2022, to July 1, 2022, where he had Top Secret clearance to access sensitive documents. The latest development  comes more than a year  after his arrest. "Dalke admitted that between August and September 2022, in order to demonstrate both his 'legitimate access and willingness to share,' he used an encrypted email account to transmit excerpts of three classified documents to an individual he believed to be a Russian agent," the U.S. Department of Justice (DoJ)  said  in a Monday press release. In reality, the purported agent was an online covert employee working for the U.S. Federal Bureau of Investigation (FBI). Dalke is also alleged to have requested $85,000 in exchange for sharing the infor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blockaid Emerges From Stealth With $33 Million Investment<a href="https://www.securityweek.com/blockaid-emerges-from-stealth-with-33-million-investment/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The investment round was led by Ribbit Capital and Variant, with participation from Cyberstarts, Greylock Partners, and Sequoia Capital.
+The new funds will be used to scale the company's products and team and expand its customer base.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+34 Cybercriminals Arrested in Spain for Multi-Million Dollar Online Scams<a href="https://thehackernews.com/2023/10/34-cybercriminals-arrested-in-spain-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish law enforcement officials have  announced  the arrest of 34 members of a criminal group that carried out various online scams, netting the gang about €3 million ($3.2 million) in illegal profits. Authorities conducted searches across 16 locations Madrid, Malaga, Huelva, Alicante, and Murcia, seizing two simulated firearms, a katana sword, a baseball bat, €80,000 in cash, four high-end vehicles, and computer and electronic material worth thousands of euros. The operation also uncovered a database with cross-referenced information on four million people that was collated after infiltrating databases belonging to financial and credit institutions. The scams, which were conducted via email, SMS, and phone calls, entailed the threat actors masquerading as banks and electricity supply companies to defraud victims, in some cases even perpetrating  "son in distress" calls  and manipulating delivery notes from technology firms. In one instance, the miscreants reportedly
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norway Issues Warning After ‘Important Businesses’ Affected by Cisco Zero-Days<a href="https://therecord.media/norway-advisory-cisco-zero-days-important-businesses?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks were described as more potent than a previous incident that affected Norway's government support agency, resulting in hackers accessing the data of several government ministries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Make API Management Less Scary for Your Organization<a href="https://thehackernews.com/2023/10/make-api-management-less-scary-for-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While application development has evolved rapidly, the API management suites used to access these services remain a spooky reminder of a different era. Introducing new API management infrastructure with these legacy models still poses challenges for organizations as they modernize. Transitioning from monolithic architectures to agile microservices empowers developers to make quick changes. Using serverless technologies and containers enables rapid scalability. Adopting cloud-native API management further enhances developer productivity and leaves the ghosts of outdated operations behind. This blog uncovers the risks of neglecting API modernization and highlights how Gloo Gateway enhances upstream projects like Envoy with essential enterprise features like security, observability, and API controls. What's more, as a Kubernetes-native solution, Gloo Gateway seamlessly integrates with the Kubernetes API for easy deployment. Gloo Gateway adds enterprise capabilities to upstream open sou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Double-Edged Sword of Heightened Regulation for Financial Services<a href="https://www.helpnetsecurity.com/2023/10/20/financial-services-cybersecurity-risks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financial services industry faces unique cybersecurity challenges, including the need to protect sensitive data, navigate complex regulations, and manage partnerships and interconnectedness.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iOS Zero-Day Attacks: Experts Uncover Deeper Insights into Operation Triangulation<a href="https://thehackernews.com/2023/10/operation-triangulation-experts-uncover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TriangleDB implant used to target Apple iOS devices packs in at least four different modules to record microphone, extract iCloud Keychain, steal data from SQLite databases used by various apps, and estimate the victim's location. The findings come from Kaspersky, which detailed the great lengths the adversary behind the campaign, dubbed  Operation Triangulation , went to conceal and cover up its tracks while clandestinely hoovering sensitive information from the compromised devices. The sophisticated attack first came to light in June 2023, when it emerged that iOS have been targeted by a  zero-click exploit  weaponizing then  zero-day security flaws  (CVE-2023-32434 and CVE-2023-32435) that leverages the iMessage platform to deliver a malicious attachment that can gain complete control over the device and user data. The scale and the identity of the threat actor is presently unknown, although Kaspersky itself became one of the targets at the start of the year, prompting i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OAuth Implementation Issues Allows Full Online Account Takeover for Millions of Users<a href="https://www.darkreading.com/remote-workforce/oauth-log-in-full-account-takeover-millions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flaws in the implementation of OAuth across various online services, including Grammarly, Vidio, and Bukalapak, could have exposed hundreds of millions of user accounts to credential theft and other cybercriminal activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Backdoor Implant on Hacked Cisco Devices Modified to Evade Detection<a href="https://thehackernews.com/2023/10/backdoor-implant-on-hacked-cisco.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The backdoor implanted on Cisco devices by exploiting a pair of zero-day flaws in IOS XE software has been modified by the threat actor so as to escape visibility via previous fingerprinting methods. "Investigated network traffic to a compromised device has shown that the threat actor has upgraded the implant to do an extra header check," NCC Group's Fox-IT team  said . "Thus, for a lot of devices, the implant is still active, but now only responds if the correct Authorization HTTP header is set." The attacks entail fashioning  CVE-2023-20198  (CVSS score: 10.0) and  CVE-2023-20273  (CVSS score: 7.2) into an exploit chain that grants the threat actor the ability to gain access to the devices, create a privileged account, and ultimately deploy a Lua-based implant on the devices. The development comes as Cisco began rolling out security updates to  address the issues , with more updates to come at an as-yet-undisclosed date. The exact identity of the threat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Hit Secure File Transfer Software Again and Again<a href="https://www.healthcareinfosecurity.com/blogs/hackers-hit-secure-file-transfer-software-again-again-p-3529?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+File transfer software have been a target for hackers, with the Clop ransomware operation being one of the most prominent attackers. They have exploited vulnerabilities in secure file transfer software, resulting in data leaks and ransom demands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1Password Detects Suspicious Activity Following Okta Support Breach<a href="https://thehackernews.com/2023/10/1password-detects-suspicious-activity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular password management solution 1Password said it detected suspicious activity on its Okta instance on September 29 following the support system breach, but reiterated that no user data was accessed. "We immediately terminated the activity, investigated, and found no compromise of user data or other sensitive systems, either employee-facing or user-facing," Pedro Canahuati, 1Password CTO,  said  in a Monday notice. The breach is said to have occurred using a session cookie after a member of the IT team shared a HAR file with Okta Support, with the threat actor performing the below set of actions - Attempted to access the IT team member's user dashboard, but was blocked by Okta Updated an existing IDP tied to our production Google environment Activated the IDP Requested a report of administrative users The company said it was alerted to the malicious activity after the IT team member received an email about the "requested" administrative user repor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Security Services Involved in Hack of Russia’s Largest Private Bank<a href="https://therecord.media/sbu-involved-in-alfa-bank-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers responsible for breaching Alfa-Bank plan to share the obtained data with investigative journalists and have publicized an alleged conversation with the bank's owner, who claimed he couldn't do anything about the hack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 24, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Legacy Authentication Leads to Growing Consumer Frustration<a href="https://www.helpnetsecurity.com/2023/10/20/legacy-authentication-consumer-frustration/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite the popularity of biometrics as an authentication method, passwords are still widely used, with consumers manually entering them about four times a day, according to the FIDO Alliance.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 23, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

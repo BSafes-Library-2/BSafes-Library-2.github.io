@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+34 Cybercriminals Arrested in Spain for Multi-Million Dollar Online Scams<a href="https://thehackernews.com/2023/10/34-cybercriminals-arrested-in-spain-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spanish law enforcement officials have&nbsp; announced &nbsp;the arrest of 34 members of a criminal group that carried out various online scams, netting the gang about €3 million ($3.2 million) in illegal profits. Authorities conducted searches across 16 locations Madrid, Malaga, Huelva, Alicante, and Murcia, seizing two simulated firearms, a katana sword, a baseball bat, €80,000 in cash, four high-end vehicles, and computer and electronic material worth thousands of euros. The operation also uncovered a database with cross-referenced information on four million people that was collated after infiltrating databases belonging to financial and credit institutions. The scams, which were conducted via email, SMS, and phone calls, entailed the threat actors masquerading as banks and electricity supply companies to defraud victims, in some cases even perpetrating&nbsp; "son in distress" calls &nbsp;and manipulating delivery notes from technology firms. In one instance, the miscreants reportedly
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

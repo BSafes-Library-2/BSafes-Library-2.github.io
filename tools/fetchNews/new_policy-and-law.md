@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+October 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-NSA Employee Pleads Guilty to Leaking Classified Data to Russia<a href="https://thehackernews.com/2023/10/ex-nsa-employee-pleads-guilty-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former employee of the U.S. National Security Agency (NSA) has pleaded guilty to charges accusing him of attempting to transmit classified defense information to Russia. Jareh Sebastian Dalke, 31, served as an Information Systems Security Designer for the NSA from June 6, 2022, to July 1, 2022, where he had Top Secret clearance to access sensitive documents. The latest development&nbsp; comes more than a year &nbsp;after his arrest. "Dalke admitted that between August and September 2022, in order to demonstrate both his 'legitimate access and willingness to share,' he used an encrypted email account to transmit excerpts of three classified documents to an individual he believed to be a Russian agent," the U.S. Department of Justice (DoJ)&nbsp; said &nbsp;in a Monday press release. In reality, the purported agent was an online covert employee working for the U.S. Federal Bureau of Investigation (FBI). Dalke is also alleged to have requested $85,000 in exchange for sharing the infor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

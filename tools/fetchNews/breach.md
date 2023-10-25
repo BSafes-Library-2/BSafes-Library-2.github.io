@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+October 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DC Voter Data Breach May Have Exposed Personal Information<a href="https://www.nbcwashington.com/news/local/dc-voter-data-breach-may-have-exposed-personal-information/3450178/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal information of D.C. voters, including partial Social Security numbers and driver's license numbers, may have been exposed in a data breach affecting the Board of Elections' voter roll.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

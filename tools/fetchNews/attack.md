@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoNot Team's New Firebird Backdoor Hits Pakistan and Afghanistan<a href="https://thehackernews.com/2023/10/donot-teams-new-firebird-backdoor-hits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as&nbsp; DoNot Team &nbsp;has been linked to the use of a novel .NET-based backdoor called Firebird targeting a handful of victims in Pakistan and Afghanistan. Cybersecurity company Kaspersky, which disclosed the findings in its APT trends report Q3 2023, said the attack chains are also configured to deliver a downloader named CSVtyrei, so named for its resemblance to Vtyrei. "Some code within the examples appeared non-functional, hinting at ongoing development efforts," the Russian firm&nbsp; said . Vtyrei &nbsp;(aka BREEZESUGAR) refers to a first-stage payload and downloader strain previously harnessed by the adversary to deliver a malware framework known as RTY . DoNot Team, also known by the names APT-C-35, Origami Elephant, and SECTOR02, is suspected to be of Indian origin, with its attacks employing spear-phishing emails and rogue Android apps to propagate malware. The latest assessment from Kaspersky builds on an&nbsp; analysis &nbsp;of the threat actor's twin att
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The DarkGate Menace: Tracing the Vietnamese Connection<a href="https://cyware.com/news/the-darkgate-menace-tracing-the-vietnamese-connection-ce1eef3e"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report from WithSecure has highlighted a surge in DarkGate malware infection attempts.  Multiple Vietnamese threat groups have been found to deploy info-stealer campaigns using   Malware-as-a-Service   (MaaS), honing in on specific sectors or groups. Their modus operandi displays notable s ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

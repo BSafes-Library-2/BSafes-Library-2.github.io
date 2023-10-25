@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Who's Experimenting with AI Tools in Your Organization?<a href="https://thehackernews.com/2023/10/whos-experimenting-with-ai-tools-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With the record-setting growth of consumer-focused AI productivity tools like ChatGPT, artificial intelligence—formerly the realm of data science and engineering teams—has become a resource available to every employee.&nbsp; From a productivity perspective, that's fantastic. Unfortunately for IT and security teams, it also means you may have hundreds of people in your organization using a new tool in a matter of days, with no visibility of what type of data they're sending to that tool or how secure it might be. And because many of these tools are free or offer free trials, there's no barrier to entry and no way of discovering them through procurement or expense reports.&nbsp; Organizations need to understand and (quickly) evaluate the benefits and&nbsp; risks of AI productivity tools &nbsp;in order to create a scalable, enforceable, and reasonable policy to guide their employees' behavior.&nbsp; How Nudge Security can help Nudge Security discovers all generative AI accounts ever created by any employ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

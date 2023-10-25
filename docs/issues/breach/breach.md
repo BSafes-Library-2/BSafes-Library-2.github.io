@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Norway Issues Warning After ‘Important Businesses’ Affected by Cisco Zero-Days<a href="https://therecord.media/norway-advisory-cisco-zero-days-important-businesses?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks were described as more potent than a previous incident that affected Norway's government support agency, resulting in hackers accessing the data of several government ministries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1Password Detects Suspicious Activity Following Okta Support Breach<a href="https://thehackernews.com/2023/10/1password-detects-suspicious-activity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Popular password management solution 1Password said it detected suspicious activity on its Okta instance on September 29 following the support system breach, but reiterated that no user data was accessed. "We immediately terminated the activity, investigated, and found no compromise of user data or other sensitive systems, either employee-facing or user-facing," Pedro Canahuati, 1Password CTO,&nbsp; said &nbsp;in a Monday notice. The breach is said to have occurred using a session cookie after a member of the IT team shared a HAR file with Okta Support, with the threat actor performing the below set of actions - Attempted to access the IT team member's user dashboard, but was blocked by Okta Updated an existing IDP tied to our production Google environment Activated the IDP Requested a report of administrative users The company said it was alerted to the malicious activity after the IT team member received an email about the "requested" administrative user repor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

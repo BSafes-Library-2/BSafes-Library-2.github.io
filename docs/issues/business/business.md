@@ -8,6 +8,21 @@ nav_order: 900027
 
 ## Business
 ---
+October 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blockaid Emerges From Stealth With $33 Million Investment<a href="https://www.securityweek.com/blockaid-emerges-from-stealth-with-33-million-investment/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The investment round was led by Ribbit Capital and Variant, with participation from Cyberstarts, Greylock Partners, and Sequoia Capital.
+The new funds will be used to scale the company's products and team and expand its customer base.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

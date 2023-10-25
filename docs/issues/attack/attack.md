@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+October 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iOS Zero-Day Attacks: Experts Uncover Deeper Insights into Operation Triangulation<a href="https://thehackernews.com/2023/10/operation-triangulation-experts-uncover.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TriangleDB implant used to target Apple iOS devices packs in at least four different modules to record microphone, extract iCloud Keychain, steal data from SQLite databases used by various apps, and estimate the victim's location. The findings come from Kaspersky, which detailed the great lengths the adversary behind the campaign, dubbed&nbsp; Operation Triangulation , went to conceal and cover up its tracks while clandestinely hoovering sensitive information from the compromised devices. The sophisticated attack first came to light in June 2023, when it emerged that iOS have been targeted by a&nbsp; zero-click exploit &nbsp;weaponizing then&nbsp; zero-day security flaws &nbsp;(CVE-2023-32434 and CVE-2023-32435) that leverages the iMessage platform to deliver a malicious attachment that can gain complete control over the device and user data. The scale and the identity of the threat actor is presently unknown, although Kaspersky itself became one of the targets at the start of the year, prompting i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Hit Secure File Transfer Software Again and Again<a href="https://www.healthcareinfosecurity.com/blogs/hackers-hit-secure-file-transfer-software-again-again-p-3529?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+File transfer software have been a target for hackers, with the Clop ransomware operation being one of the most prominent attackers. They have exploited vulnerabilities in secure file transfer software, resulting in data leaks and ransom demands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Security Services Involved in Hack of Russia’s Largest Private Bank<a href="https://therecord.media/sbu-involved-in-alfa-bank-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers responsible for breaching Alfa-Bank plan to share the obtained data with investigative journalists and have publicized an alleged conversation with the bank's owner, who claimed he couldn't do anything about the hack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

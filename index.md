@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2023
+October 24, 2023 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian Lawmakers Targeted by China-Linked ‘Spamouflage’ Disinformation Campaign<a href="https://www.securityweek.com/canada-lawmakers-targeted-by-china-linked-spamouflage-disinformation/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2023
+October 24, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ex-NSA Employee Pleads Guilty to Leaking Classified Data to Russia<a href="https://thehackernews.com/2023/10/ex-nsa-employee-pleads-guilty-to.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2023
+October 24, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blockaid Emerges From Stealth With $33 Million Investment<a href="https://www.securityweek.com/blockaid-emerges-from-stealth-with-33-million-investment/?&web_view=true"> Full Text</a>
@@ -83,7 +83,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2023
+October 24, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 34 Cybercriminals Arrested in Spain for Multi-Million Dollar Online Scams<a href="https://thehackernews.com/2023/10/34-cybercriminals-arrested-in-spain-for.html"> Full Text</a>
@@ -99,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2023
+October 24, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Norway Issues Warning After ‘Important Businesses’ Affected by Cisco Zero-Days<a href="https://therecord.media/norway-advisory-cisco-zero-days-important-businesses?&web_view=true"> Full Text</a>
@@ -115,7 +115,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2023
+October 24, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Make API Management Less Scary for Your Organization<a href="https://thehackernews.com/2023/10/make-api-management-less-scary-for-your.html"> Full Text</a>
@@ -131,7 +131,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2023
+October 24, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Double-Edged Sword of Heightened Regulation for Financial Services<a href="https://www.helpnetsecurity.com/2023/10/20/financial-services-cybersecurity-risks/?&web_view=true"> Full Text</a>
@@ -147,7 +147,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2023
+October 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 iOS Zero-Day Attacks: Experts Uncover Deeper Insights into Operation Triangulation<a href="https://thehackernews.com/2023/10/operation-triangulation-experts-uncover.html"> Full Text</a>
@@ -163,7 +163,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2023
+October 24, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OAuth Implementation Issues Allows Full Online Account Takeover for Millions of Users<a href="https://www.darkreading.com/remote-workforce/oauth-log-in-full-account-takeover-millions?&web_view=true"> Full Text</a>
@@ -179,7 +179,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2023
+October 24, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Backdoor Implant on Hacked Cisco Devices Modified to Evade Detection<a href="https://thehackernews.com/2023/10/backdoor-implant-on-hacked-cisco.html"> Full Text</a>
@@ -195,7 +195,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2023
+October 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Hit Secure File Transfer Software Again and Again<a href="https://www.healthcareinfosecurity.com/blogs/hackers-hit-secure-file-transfer-software-again-again-p-3529?&web_view=true"> Full Text</a>
@@ -211,7 +211,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2023
+October 24, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1Password Detects Suspicious Activity Following Okta Support Breach<a href="https://thehackernews.com/2023/10/1password-detects-suspicious-activity.html"> Full Text</a>
@@ -227,7 +227,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2023
+October 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Security Services Involved in Hack of Russia’s Largest Private Bank<a href="https://therecord.media/sbu-involved-in-alfa-bank-hack?&web_view=true"> Full Text</a>
@@ -243,7 +243,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 24, 2023
+October 24, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Legacy Authentication Leads to Growing Consumer Frustration<a href="https://www.helpnetsecurity.com/2023/10/20/legacy-authentication-consumer-frustration/?&web_view=true"> Full Text</a>

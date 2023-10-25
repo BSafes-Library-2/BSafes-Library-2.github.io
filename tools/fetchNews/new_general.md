@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+October 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Double-Edged Sword of Heightened Regulation for Financial Services<a href="https://www.helpnetsecurity.com/2023/10/20/financial-services-cybersecurity-risks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financial services industry faces unique cybersecurity challenges, including the need to protect sensitive data, navigate complex regulations, and manage partnerships and interconnectedness.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Legacy Authentication Leads to Growing Consumer Frustration<a href="https://www.helpnetsecurity.com/2023/10/20/legacy-authentication-consumer-frustration/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite the popularity of biometrics as an authentication method, passwords are still widely used, with consumers manually entering them about four times a day, according to the FIDO Alliance.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

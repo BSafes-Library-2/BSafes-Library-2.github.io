@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Make API Management Less Scary for Your Organization<a href="https://thehackernews.com/2023/10/make-api-management-less-scary-for-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While application development has evolved rapidly, the API management suites used to access these services remain a spooky reminder of a different era. Introducing new API management infrastructure with these legacy models still poses challenges for organizations as they modernize. Transitioning from monolithic architectures to agile microservices empowers developers to make quick changes. Using serverless technologies and containers enables rapid scalability. Adopting cloud-native API management further enhances developer productivity and leaves the ghosts of outdated operations behind. This blog uncovers the risks of neglecting API modernization and highlights how Gloo Gateway enhances upstream projects like Envoy with essential enterprise features like security, observability, and API controls. What's more, as a Kubernetes-native solution, Gloo Gateway seamlessly integrates with the Kubernetes API for easy deployment. Gloo Gateway adds enterprise capabilities to upstream open sou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
