@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+October 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Is Operational Risk and Why Should You Care? Assessing SEC Rule Readiness for OT and IoT<a href="https://www.helpnetsecurity.com/2023/10/25/operational-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newly released SEC cyber incident disclosure rules have raised concerns about whether public companies are prepared to fully define operational risk and disclose material business risk from cyber incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Danger of Forgotten Pixels on Websites: A New Case Study<a href="https://thehackernews.com/2023/10/the-danger-of-forgotten-pixels-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While cyberattacks on websites receive much attention, there are often unaddressed risks that can lead to businesses facing lawsuits and privacy violations even in the absence of hacking incidents. A new case study highlights one of these more common cases.&nbsp; Download the full case study&nbsp;here . It's a scenario that could have affected any type of company, from healthcare to finance, e-commerce to insurance, or any other industry. Recently, Reflectiz, an advanced website security solution provider, released a&nbsp; case study &nbsp;focusing on a forgotten and misconfigured pixel that had been associated with a leading global healthcare provider. This overlooked piece of code surreptitiously gathered private data without user consent, potentially exposing the company to substantial fines and damage to its reputation. Nowadays, it has become common practice for companies to embed such pixels into their websites. For instance, the TikTok Pixel is a typical example, added to websites to track
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

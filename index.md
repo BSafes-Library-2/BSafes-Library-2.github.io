@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2023
+October 26, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What Is Operational Risk and Why Should You Care? Assessing SEC Rule Readiness for OT and IoT<a href="https://www.helpnetsecurity.com/2023/10/25/operational-risk/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2023
+October 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 iLeakage: New Safari Exploit Impacts Apple iPhones and Macs with A and M-Series CPUs<a href="https://thehackernews.com/2023/10/ileakage-new-safari-exploit-impacts.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2023
+October 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firefox, Chrome Updates Patch High-Severity Vulnerabilities<a href="https://www.securityweek.com/firefox-chrome-updates-patch-high-severity-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2023
+October 26, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns as Scattered Spider Expands from SIM Swaps to Ransomware<a href="https://thehackernews.com/2023/10/microsoft-warns-as-scattered-spider.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2023
+October 26, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia Focuses on Threat of Chinese Attack on Solar Power<a href="https://www.bankinfosecurity.com/australia-focuses-on-threat-chinese-attack-on-solar-power-a-23395?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2023
+October 26, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Record-Breaking 100 Million RPS DDoS Attack Exploits HTTP/2 Rapid Reset Flaw<a href="https://thehackernews.com/2023/10/record-breaking-100-million-rps-ddos.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2023
+October 26, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Rise and Tactics of Octo Tempest: A Cyber Threat Analysis<a href="https://cyware.com/news/the-rise-and-tactics-of-octo-tempest-a-cyber-threat-analysis-71094b29"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2023
+October 26, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Danger of Forgotten Pixels on Websites: A New Case Study<a href="https://thehackernews.com/2023/10/the-danger-of-forgotten-pixels-on.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2023
+October 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nine Vulnerabilities Found in VPN Software, Including One Critical RCE Issue<a href="https://blog.talosintelligence.com/vulnerability-roundup-oct-25-2023/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2023
+October 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Group Tortoiseshell Launches New Wave of IMAPLoader Malware Attacks<a href="https://thehackernews.com/2023/10/iranian-group-tortoiseshell-launches.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2023
+October 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw in NextGen's Mirth Connect Could Expose Healthcare Data<a href="https://thehackernews.com/2023/10/critical-flaw-in-nextgens-mirth-connect.html"> Full Text</a>
@@ -210,7 +210,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 26, 2023
+October 26, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 YoroTrooper: Researchers Warn of Kazakhstan's Stealthy Cyber Espionage Group<a href="https://thehackernews.com/2023/10/yorotrooper-researchers-warn-of.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2023
+October 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Nation State Hackers Exploiting Zero-Day in Roundcube Webmail Software<a href="https://thehackernews.com/2023/10/nation-state-hackers-exploiting-zero.html"> Full Text</a>
@@ -242,7 +242,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2023
+October 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical OAuth Flaws Uncovered in Grammarly, Vidio, and Bukalapak Platforms<a href="https://thehackernews.com/2023/10/critical-oauth-flaws-uncovered-in.html"> Full Text</a>
@@ -258,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 25, 2023
+October 25, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Rise of S3 Ransomware: How to Identify and Combat It<a href="https://thehackernews.com/2023/10/the-rise-of-s3-ransomware-how-to.html"> Full Text</a>

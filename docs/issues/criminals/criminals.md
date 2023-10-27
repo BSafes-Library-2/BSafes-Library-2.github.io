@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns as Scattered Spider Expands from SIM Swaps to Ransomware<a href="https://thehackernews.com/2023/10/microsoft-warns-as-scattered-spider.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The prolific threat actor known as&nbsp; Scattered Spider &nbsp;has been observed impersonating newly hired employees in targeted firms as a ploy to blend into normal on-hire processes and takeover accounts and breach organizations across the world. Microsoft, which disclosed the activities of the financially motivated hacking crew, described the adversary as "one of the most dangerous financial criminal groups," calling out its operational fluidity and its ability to incorporate SMS phishing, SIM swapping, and help desk fraud into its attack model. "Octo Tempest is a financially motivated collective of native English-speaking threat actors known for launching wide-ranging campaigns that prominently feature adversary-in-the-middle ( AiTM ) techniques, social engineering, and SIM swapping capabilities," the company&nbsp; said . It's worth noting that the activity represented by&nbsp; Octo Tempest &nbsp;is tracked by other cybersecurity companies under various monikers, including 0kta
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,30 @@ nav_order: 150
 
 ## Alerts 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2023 - Microsoft 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Octo Tempest crosses boundaries to facilitate extortion, encryption, and destruction <a href="https://www.microsoft.com/en-us/security/blog/2023/10/25/octo-tempest-crosses-boundaries-to-facilitate-extortion-encryption-and-destruction/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has been tracking activity related to the financially motivated threat actor Octo Tempest, whose evolving campaigns represent a growing concern for organizations across multiple industries. Octo Tempest leverages broad social engineering campaigns to compromise organizations across the globe with the goal of financial extortion. With their extensive range of tactics, techniques, and procedures (TTPs), the threat actor, from our perspective, is one of the most dangerous financial criminal groups.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 23, 2023 - COMMONWEALTH OF AUSTRALIA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mr Squire: A large proportion of inverters installed in Australia are coming out of China and Austria, in terms of Fronius. I would have to take the exact percentages on notice. <a href="https://www.onr.org.uk/documents/2023/cni-annual-report-2023.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What have been the considerations and the reviews looking at where these inverters have originated, particularly when it comes to the fact that under China's own national intelligence laws, fundamentally, Beijing can tell these companies to sabotage, do surveillance of or, perhaps, disrupt power supplies? What is being done to ensure that we have sovereignty and that our sovereign risk is protected when it comes to our energy markets?
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 20, 2023 - Office of Nuclear Regulation, UK 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

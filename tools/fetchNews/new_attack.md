@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Group Tortoiseshell Launches New Wave of IMAPLoader Malware Attacks<a href="https://thehackernews.com/2023/10/iranian-group-tortoiseshell-launches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian threat actor known as&nbsp; Tortoiseshell &nbsp;has been attributed to a new wave of watering hole attacks that are designed to deploy a malware dubbed IMAPLoader. "IMAPLoader is a .NET malware that has the ability to fingerprint victim systems using native Windows utilities and acts as a downloader for further payloads," the PwC Threat Intelligence&nbsp; said &nbsp;in a Wednesday analysis. "It uses email as a [command-and-control] channel and is able to execute payloads extracted from email attachments and is executed via new service deployments." Active since at least 2018, Tortoiseshell has a history of using strategic website compromises as a ploy to facilitate the distribution of malware. Earlier this May, ClearSky&nbsp; linked the group &nbsp;to the breach of eight websites associated with shipping, logistics, and financial services companies in Israel. The threat actor is&nbsp; aligned &nbsp;with the Islamic Revolutionary Guard Corps ( IRGC ) and is also tracked by the broader cyb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation State Hackers Exploiting Zero-Day in Roundcube Webmail Software<a href="https://thehackernews.com/2023/10/nation-state-hackers-exploiting-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as&nbsp; Winter Vivern &nbsp;has been observed exploiting a zero-day flaw in Roundcube webmail software on October 11, 2023, to harvest email messages from victims' accounts. "Winter Vivern has stepped up its operations by using a zero-day vulnerability in Roundcube," ESET security researcher Matthieu Faou&nbsp; said &nbsp;in a new report published today. Previously, it was using known vulnerabilities in Roundcube and Zimbra, for which proofs-of-concept are available online." Winter Vivern, also known as TA473 and UAC-0114, is an&nbsp; adversarial collective &nbsp;whose objectives align with that of Belarus and Russia. Over the past few months, it has been attributed to attacks against Ukraine and Poland, as well as government entities across Europe and India. The group is also assessed to have exploited another flaw Roundcube as recently as August and September (CVE-2020-35730), making it the&nbsp; second nation-state group after APT28 &nbsp;to target the open-source webmail so
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

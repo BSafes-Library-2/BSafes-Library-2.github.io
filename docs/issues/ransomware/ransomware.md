@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+October 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rise of S3 Ransomware: How to Identify and Combat It<a href="https://thehackernews.com/2023/10/the-rise-of-s3-ransomware-how-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital landscape, around&nbsp; 60% &nbsp;of corporate data now resides in the cloud, with Amazon S3 standing as the backbone of data storage for many major corporations.&nbsp; Despite S3 being a secure service from a reputable provider, its pivotal role in handling vast amounts of sensitive data (customer personal information, financial data, intellectual property, etc.), provides a juicy target for threat actors. It remains susceptible to ransomware attacks which are often initiated using leaked access keys that have accidentally been exposed by human error and have access to the organization's buckets. To effectively combat these evolving threats, it is vital to ensure that your organization has visibility into your S3 environment, that you are aware of how threat actors can compromise data for ransom and most importantly, best practices for minimizing the risk of cyber criminals successfully executing such an attack. Ensuring Visibility: CloudTrail and Server Access Logs V
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

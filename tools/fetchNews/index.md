@@ -34,6 +34,246 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What Is Operational Risk and Why Should You Care? Assessing SEC Rule Readiness for OT and IoT<a href="https://www.helpnetsecurity.com/2023/10/25/operational-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newly released SEC cyber incident disclosure rules have raised concerns about whether public companies are prepared to fully define operational risk and disclose material business risk from cyber incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+iLeakage: New Safari Exploit Impacts Apple iPhones and Macs with A and M-Series CPUs<a href="https://thehackernews.com/2023/10/ileakage-new-safari-exploit-impacts.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics has devised a novel side-channel attack dubbed  iLeakage  that exploits a weakness in the A- and M-series CPUs running on Apple iOS, iPadOS, and macOS devices, enabling the extraction of sensitive information from the Safari web browser. "An attacker can induce Safari to render an arbitrary webpage, subsequently recovering sensitive information present within it using speculative execution," researchers Jason Kim, Stephan van Schaik, Daniel Genkin, and Yuval Yarom  said  in a new study. In a practical attack scenario, the weakness could be exploited using a malicious web page to recover Gmail inbox content and even recover passwords that are autofilled by credential managers. iLeakage, besides being the first case of a  Spectre-style   speculative execution   attack  against Apple Silicon CPUs, also works against all third-party web browsers available for iOS and iPadOS owing to Apple's App Store policy that mandates browser vendors to use Safari&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firefox, Chrome Updates Patch High-Severity Vulnerabilities<a href="https://www.securityweek.com/firefox-chrome-updates-patch-high-severity-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The updates patch multiple flaws, including an insufficient activation-delay bug in Firefox and a use-after-free issue in Chrome, but there is no evidence of these vulnerabilities being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns as Scattered Spider Expands from SIM Swaps to Ransomware<a href="https://thehackernews.com/2023/10/microsoft-warns-as-scattered-spider.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The prolific threat actor known as  Scattered Spider  has been observed impersonating newly hired employees in targeted firms as a ploy to blend into normal on-hire processes and takeover accounts and breach organizations across the world. Microsoft, which disclosed the activities of the financially motivated hacking crew, described the adversary as "one of the most dangerous financial criminal groups," calling out its operational fluidity and its ability to incorporate SMS phishing, SIM swapping, and help desk fraud into its attack model. "Octo Tempest is a financially motivated collective of native English-speaking threat actors known for launching wide-ranging campaigns that prominently feature adversary-in-the-middle ( AiTM ) techniques, social engineering, and SIM swapping capabilities," the company  said . It's worth noting that the activity represented by  Octo Tempest  is tracked by other cybersecurity companies under various monikers, including 0kta
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia Focuses on Threat of Chinese Attack on Solar Power<a href="https://www.bankinfosecurity.com/australia-focuses-on-threat-chinese-attack-on-solar-power-a-23395?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian government is introducing standards to address the cybersecurity vulnerabilities of internet-connected solar inverters amid concerns of potential Chinese state-sponsored hacking.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Record-Breaking 100 Million RPS DDoS Attack Exploits HTTP/2 Rapid Reset Flaw<a href="https://thehackernews.com/2023/10/record-breaking-100-million-rps-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare on Thursday said it mitigated thousands of hyper-volumetric HTTP distributed denial-of-service (DDoS) attacks that exploited a recently disclosed flaw called  HTTP/2 Rapid Reset , 89 of which exceeded 100 million requests per second (RPS). "The campaign contributed to an overall increase of 65% in HTTP DDoS attack traffic in Q3 compared to the previous quarter ," the web infrastructure and security company said in a report shared with The Hacker News. "Similarly,  L3/4 DDoS attacks  also increased by 14%." The total number of HTTP DDoS attack requests in the quarter surged to 8.9 trillion, up from 5.4 trillion in Q2 2023 and 4.7 trillion in Q1 2023. The number of attack requests in Q4 2022 stood at 6.5 trillion. HTTP/2 Rapid Reset (CVE-2023-44487) came to light earlier this month following an industry-wide coordinated disclosure that delved into DDoS attacks orchestrated by an unknown actor by leveraging the flaw to target various providers such as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rise and Tactics of Octo Tempest: A Cyber Threat Analysis<a href="https://cyware.com/news/the-rise-and-tactics-of-octo-tempest-a-cyber-threat-analysis-71094b29"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Octo Tempest, a financially motivated threat group known for extensive social engineering campaigns and SIM-swapping techniques, has become a major concern for businesses worldwide. It has been affiliated with ALPHV/BlackCat and began deploying ransomware payloads as well. Given Octo Tempest's rele ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Danger of Forgotten Pixels on Websites: A New Case Study<a href="https://thehackernews.com/2023/10/the-danger-of-forgotten-pixels-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While cyberattacks on websites receive much attention, there are often unaddressed risks that can lead to businesses facing lawsuits and privacy violations even in the absence of hacking incidents. A new case study highlights one of these more common cases.  Download the full case study here . It's a scenario that could have affected any type of company, from healthcare to finance, e-commerce to insurance, or any other industry. Recently, Reflectiz, an advanced website security solution provider, released a  case study  focusing on a forgotten and misconfigured pixel that had been associated with a leading global healthcare provider. This overlooked piece of code surreptitiously gathered private data without user consent, potentially exposing the company to substantial fines and damage to its reputation. Nowadays, it has become common practice for companies to embed such pixels into their websites. For instance, the TikTok Pixel is a typical example, added to websites to track
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nine Vulnerabilities Found in VPN Software, Including One Critical RCE Issue<a href="https://blog.talosintelligence.com/vulnerability-roundup-oct-25-2023/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos has disclosed multiple vulnerabilities in popular VPN software, including a critical heap-based buffer overflow vulnerability, posing a significant risk to users' connections and allowing for arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Group Tortoiseshell Launches New Wave of IMAPLoader Malware Attacks<a href="https://thehackernews.com/2023/10/iranian-group-tortoiseshell-launches.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian threat actor known as  Tortoiseshell  has been attributed to a new wave of watering hole attacks that are designed to deploy a malware dubbed IMAPLoader. "IMAPLoader is a .NET malware that has the ability to fingerprint victim systems using native Windows utilities and acts as a downloader for further payloads," the PwC Threat Intelligence  said  in a Wednesday analysis. "It uses email as a [command-and-control] channel and is able to execute payloads extracted from email attachments and is executed via new service deployments." Active since at least 2018, Tortoiseshell has a history of using strategic website compromises as a ploy to facilitate the distribution of malware. Earlier this May, ClearSky  linked the group  to the breach of eight websites associated with shipping, logistics, and financial services companies in Israel. The threat actor is  aligned  with the Islamic Revolutionary Guard Corps ( IRGC ) and is also tracked by the broader cyb
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in NextGen's Mirth Connect Could Expose Healthcare Data<a href="https://thehackernews.com/2023/10/critical-flaw-in-nextgens-mirth-connect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of  Mirth Connect , an open-source data integration platform from NextGen HealthCare, are being urged to update to the latest version following the discovery of an unauthenticated remote code execution vulnerability. Tracked as  CVE-2023-43208 , the vulnerability has been addressed in  version 4.4.1  released on October 6, 2023. "This is an easily exploitable, unauthenticated remote code execution vulnerability," Horizon3.ai's Naveen Sunkavally  said  in a Wednesday report. "Attackers would most likely exploit this vulnerability for initial access or to compromise sensitive healthcare data." Called the "Swiss Army knife of healthcare integration," Mirth Connect is a cross-platform interface engine used in the healthcare industry to communicate and exchange data between disparate systems in a  standardized manner . Additional technical details about the flaw have been withheld in light of the fact that Mirth Connect versions going as far bac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 26, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YoroTrooper: Researchers Warn of Kazakhstan's Stealthy Cyber Espionage Group<a href="https://thehackernews.com/2023/10/yorotrooper-researchers-warn-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A relatively new threat actor known as  YoroTrooper  is likely made up of operators originating from Kazakhstan. The assessment, which comes from Cisco Talos, is based on their fluency in Kazakh and Russian, use of Tenge to pay for operating infrastructure, and very limited targeting of Kazakhstani entities, barring the government's Anti-Corruption Agency. "YoroTrooper attempts to obfuscate the origin of their operations, employing various tactics to make its malicious activity appear to emanate from Azerbaijan, such as using VPN exit nodes local to that region," security researchers Asheer Malhotra and Vitor Ventura  said . First documented by the cybersecurity company in March 2023, the adversary is  known to be active  since at least June 2022, singling out various state-owned entities in the Commonwealth of Independent States (CIS) countries. Slovak cybersecurity firm ESET is tracking the activity under the name  SturgeonPhisher . YoroTrooper's attack cycles
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation State Hackers Exploiting Zero-Day in Roundcube Webmail Software<a href="https://thehackernews.com/2023/10/nation-state-hackers-exploiting-zero.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as  Winter Vivern  has been observed exploiting a zero-day flaw in Roundcube webmail software on October 11, 2023, to harvest email messages from victims' accounts. "Winter Vivern has stepped up its operations by using a zero-day vulnerability in Roundcube," ESET security researcher Matthieu Faou  said  in a new report published today. Previously, it was using known vulnerabilities in Roundcube and Zimbra, for which proofs-of-concept are available online." Winter Vivern, also known as TA473 and UAC-0114, is an  adversarial collective  whose objectives align with that of Belarus and Russia. Over the past few months, it has been attributed to attacks against Ukraine and Poland, as well as government entities across Europe and India. The group is also assessed to have exploited another flaw Roundcube as recently as August and September (CVE-2020-35730), making it the  second nation-state group after APT28  to target the open-source webmail so
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical OAuth Flaws Uncovered in Grammarly, Vidio, and Bukalapak Platforms<a href="https://thehackernews.com/2023/10/critical-oauth-flaws-uncovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical security flaws have been disclosed in the Open Authorization (OAuth) implementation of popular online services such as Grammarly, Vidio, and Bukalapak, building upon previous shortcomings uncovered in  Booking[.]com and Expo . The weaknesses, now addressed by the respective companies following responsible disclosure between February and April 2023, could have allowed malicious actors to obtain access tokens and potentially hijack user accounts. OAuth is a  standard  that's commonly used as a mechanism for cross-application access, granting websites or applications access to their information on other websites, such as Facebook, but without giving them the passwords. "When OAuth is used to provide service authentication, any security breach in it can lead to identity theft, financial fraud, and access to various personal information including credit card numbers, private messages, health records, and more, depending on the specific service being attacked," Sa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rise of S3 Ransomware: How to Identify and Combat It<a href="https://thehackernews.com/2023/10/the-rise-of-s3-ransomware-how-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital landscape, around  60%  of corporate data now resides in the cloud, with Amazon S3 standing as the backbone of data storage for many major corporations.  Despite S3 being a secure service from a reputable provider, its pivotal role in handling vast amounts of sensitive data (customer personal information, financial data, intellectual property, etc.), provides a juicy target for threat actors. It remains susceptible to ransomware attacks which are often initiated using leaked access keys that have accidentally been exposed by human error and have access to the organization's buckets. To effectively combat these evolving threats, it is vital to ensure that your organization has visibility into your S3 environment, that you are aware of how threat actors can compromise data for ransom and most importantly, best practices for minimizing the risk of cyber criminals successfully executing such an attack. Ensuring Visibility: CloudTrail and Server Access Logs V
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 24, 2023 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

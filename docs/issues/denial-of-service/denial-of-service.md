@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+October 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Record-Breaking 100 Million RPS DDoS Attack Exploits HTTP/2 Rapid Reset Flaw<a href="https://thehackernews.com/2023/10/record-breaking-100-million-rps-ddos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare on Thursday said it mitigated thousands of hyper-volumetric HTTP distributed denial-of-service (DDoS) attacks that exploited a recently disclosed flaw called&nbsp; HTTP/2 Rapid Reset , 89 of which exceeded 100 million requests per second (RPS). "The campaign contributed to an overall increase of 65% in HTTP DDoS attack traffic in Q3 compared to the previous quarter ," the web infrastructure and security company said in a report shared with The Hacker News. "Similarly,&nbsp; L3/4 DDoS attacks &nbsp;also increased by 14%." The total number of HTTP DDoS attack requests in the quarter surged to 8.9 trillion, up from 5.4 trillion in Q2 2023 and 4.7 trillion in Q1 2023. The number of attack requests in Q4 2022 stood at 6.5 trillion. HTTP/2 Rapid Reset (CVE-2023-44487) came to light earlier this month following an industry-wide coordinated disclosure that delved into DDoS attacks orchestrated by an unknown actor by leveraging the flaw to target various providers such as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
