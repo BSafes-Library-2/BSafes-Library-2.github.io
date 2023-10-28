@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+October 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Wiretapping of XMPP-Based Instant Messaging Service<a href="https://thehackernews.com/2023/10/researchers-uncover-wiretapping-of-xmpp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings have shed light on what's said to be a lawful attempt to covertly intercept traffic originating from jabber[.]ru (aka xmpp[.]ru), an&nbsp; XMPP -based instant messaging service, via servers hosted on Hetzner and Linode (a subsidiary of Akamai) in Germany. "The attacker has issued several new TLS certificates using Let's Encrypt service which were used to hijack encrypted&nbsp; STARTTLS connections &nbsp;on port 5222 using transparent [man-in-the-middle] proxy," a security researcher who goes by the alias ValdikSS&nbsp; said &nbsp;earlier this week. "The attack was discovered due to the expiration of one of the MiTM certificates, which haven't been reissued." Evidence gathered so far points to the traffic redirection being configured on the hosting provider network, ruling out other possibilities, such as a server breach or a spoofing attack. The wiretapping is estimated to have lasted for as long as six months, from April 18 through to October 19, although it&amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

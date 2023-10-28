@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stanford University Investigating Cyberattack After Akira Ransomware Claims<a href="https://therecord.media/stanford-investigating-cyberattack-after-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stanford University is currently investigating a cybersecurity incident within its Department of Public Safety after a ransomware gang claimed to have attacked the school. The Akira ransomware gang has claimed to have stolen 430 GB of data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean Lazarus Group Targets Software Vendor Using Known Flaws<a href="https://thehackernews.com/2023/10/n-korean-lazarus-group-targets-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-aligned&nbsp; Lazarus Group &nbsp;has been attributed as behind a new campaign in which an unnamed software vendor was compromised through the exploitation of known security flaws in another high-profile software. The attack sequences, according to Kaspersky, culminated in the deployment of malware families such as SIGNBT and&nbsp; LPEClient , a known hacking tool used by the threat actor for victim profiling and payload delivery. "The adversary demonstrated a high level of sophistication, employing advanced evasion techniques and introducing SIGNBT malware for victim control," security researcher Seongsu Park&nbsp; said . "The SIGNBT malware used in this attack employed a diverse infection chain and sophisticated techniques." The Russian cybersecurity vendor said the company that developed the exploited software had been a victim of a Lazarus attack several times, indicating an attempt to steal source code or poison the software supply chain, as in the case of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

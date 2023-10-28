@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+October 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CCleaner Says Hackers Stole Users’ Personal Data During MOVEit Mass-Hack<a href="https://techcrunch.com/2023/10/27/ccleaner-says-hackers-stole-users-personal-data-during-moveit-mass-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers exploited a vulnerability in the MOVEit file transfer tool, used by CCleaner, to access sensitive data. The stolen information includes names, contact details, and product purchase information. Less than 2% of users were affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California City Warns of Data Breach After Attack Claim by NoEscape Ransomware<a href="https://therecord.media/california-victorville-warns-of-data-breach-after-noescape-ransomware-claims?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach, which occurred from August 12 to September 26, involved the theft of personal information such as names, Social Security numbers, driver's license numbers, medical information, and health insurance policy numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

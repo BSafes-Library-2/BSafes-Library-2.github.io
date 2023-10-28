@@ -34,6 +34,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CCleaner Says Hackers Stole Users’ Personal Data During MOVEit Mass-Hack<a href="https://techcrunch.com/2023/10/27/ccleaner-says-hackers-stole-users-personal-data-during-moveit-mass-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers exploited a vulnerability in the MOVEit file transfer tool, used by CCleaner, to access sensitive data. The stolen information includes names, contact details, and product purchase information. Less than 2% of users were affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Wiretapping of XMPP-Based Instant Messaging Service<a href="https://thehackernews.com/2023/10/researchers-uncover-wiretapping-of-xmpp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New findings have shed light on what's said to be a lawful attempt to covertly intercept traffic originating from jabber[.]ru (aka xmpp[.]ru), an  XMPP -based instant messaging service, via servers hosted on Hetzner and Linode (a subsidiary of Akamai) in Germany. "The attacker has issued several new TLS certificates using Let's Encrypt service which were used to hijack encrypted  STARTTLS connections  on port 5222 using transparent [man-in-the-middle] proxy," a security researcher who goes by the alias ValdikSS  said  earlier this week. "The attack was discovered due to the expiration of one of the MiTM certificates, which haven't been reissued." Evidence gathered so far points to the traffic redirection being configured on the hosting provider network, ruling out other possibilities, such as a server breach or a spoofing attack. The wiretapping is estimated to have lasted for as long as six months, from April 18 through to October 19, although it&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Kansas Court System Down Nearly Two Weeks in ‘Security Incident’ That Has Hallmarks of Ransomware<a href="https://www.securityweek.com/kansas-court-system-down-nearly-2-weeks-in-security-incident-that-has-hallmarks-of-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The outage has hindered electronic filings, payment processing, case management, public access to records, and applications for various legal services, leading to delays and a reliance on paper-based processes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Gang Claims to Have Stolen Data From Boeing<a href="https://securityaffairs.com/153149/cyber-crime/lockbit-ransomware-gang-boeing.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit group has a history of listing companies as victims, even if it was actually a vendor to the compromised company, so further investigation is needed to confirm the extent of the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stanford University Investigating Cyberattack After Akira Ransomware Claims<a href="https://therecord.media/stanford-investigating-cyberattack-after-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stanford University is currently investigating a cybersecurity incident within its Department of Public Safety after a ransomware gang claimed to have attacked the school. The Akira ransomware gang has claimed to have stolen 430 GB of data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean Lazarus Group Targets Software Vendor Using Known Flaws<a href="https://thehackernews.com/2023/10/n-korean-lazarus-group-targets-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-aligned  Lazarus Group  has been attributed as behind a new campaign in which an unnamed software vendor was compromised through the exploitation of known security flaws in another high-profile software. The attack sequences, according to Kaspersky, culminated in the deployment of malware families such as SIGNBT and  LPEClient , a known hacking tool used by the threat actor for victim profiling and payload delivery. "The adversary demonstrated a high level of sophistication, employing advanced evasion techniques and introducing SIGNBT malware for victim control," security researcher Seongsu Park  said . "The SIGNBT malware used in this attack employed a diverse infection chain and sophisticated techniques." The Russian cybersecurity vendor said the company that developed the exploited software had been a victim of a Lazarus attack several times, indicating an attempt to steal source code or poison the software supply chain, as in the case of the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Keep Your Business Running in a Contested Environment<a href="https://thehackernews.com/2023/10/how-to-keep-your-business-running-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When organizations start incorporating cybersecurity regulations and cyber incident reporting requirements into their security protocols, it's essential for them to establish comprehensive plans for preparation, mitigation, and response to potential threats. At the heart of your business lies your operational technology and critical systems. This places them at the forefront of cybercriminal interest, as they seek to exploit vulnerabilities, compromise your data, and demand ransoms. In today's landscape, characterized by the ever-present risk of ransomware attacks and the challenges posed by fragmented security solutions, safeguarding your organization is paramount. This is where  The National Institute of Standards and Technology (NIST) advocates  for the development of resilient, reliable security systems capable of foreseeing, enduring, and rebounding from cyberattacks.  In this guide, we'll explore strategies to fortify your defenses against cyber threats and ensure
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Expands Its Bug Bounty Program to Tackle Artificial Intelligence Threats<a href="https://thehackernews.com/2023/10/google-expands-its-bug-bounty-program.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced that it's expanding its Vulnerability Rewards Program ( VRP ) to compensate researchers for finding attack scenarios tailored to generative artificial intelligence (AI) systems in an effort to  bolster AI safety and security . "Generative AI raises new and different concerns than traditional digital security, such as the potential for unfair bias, model manipulation or misinterpretations of data (hallucinations)," Google's Laurie Richardson and Royal Hansen  said . Some of the categories that are in scope  include  prompt injections, leakage of sensitive data from training datasets, model manipulation, adversarial perturbation attacks that trigger misclassification, and model theft. It's worth noting that Google earlier this July instituted an  AI Red Team  to help address threats to AI systems as part of its Secure AI Framework ( SAIF ). Also announced as part of its commitment to secure AI are efforts to strengthen the AI supply chain
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Agencies Seeing Steep Decrease in Known Exploited Vulnerabilities on Federal Networks<a href="https://therecord.media/cisa-decrease-in-known-exploited-vulnerabilities-on-government-systems?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal civilian agencies have remediated over 7 million Known Exploited Vulnerabilities findings this year, resulting in a 72% decrease in the percentage of vulnerabilities exposed for 45 or more days.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+F5 Issues Warning: BIG-IP Vulnerability Allows Remote Code Execution<a href="https://thehackernews.com/2023/10/f5-issues-warning-big-ip-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 has alerted customers of a critical security vulnerability impacting BIG-IP that could result in unauthenticated remote code execution. The issue, rooted in the configuration utility component, has been assigned the CVE identifier  CVE-2023-46747 , and carries a CVSS score of 9.8 out of a maximum of 10. "This vulnerability may allow an unauthenticated attacker with network access to the BIG-IP system through the management port and/or self IP addresses to execute arbitrary system commands," F5  said  in an advisory released Thursday. "There is no data plane exposure; this is a control plane issue only." The following versions of BIG-IP have been found to be vulnerable - 17.1.0 (Fixed in 17.1.0.3 + Hotfix-BIGIP-17.1.0.3.0.75.4-ENG) 16.1.0 - 16.1.4 (Fixed in 16.1.4.1 + Hotfix-BIGIP-16.1.4.1.0.50.5-ENG) 15.1.0 - 15.1.10 (Fixed in 15.1.10.2 + Hotfix-BIGIP-15.1.10.2.0.44.2-ENG) 14.1.0 - 14.1.5 (Fixed in 14.1.5.6 + Hotfix-BIGIP-14.1.5.6.0.10.6-ENG) 13.1.0 -
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Senator Quizzes 23andMe Over Credential-Stuffing Hack<a href="https://www.healthcareinfosecurity.com/us-senator-quizzes-23andme-over-credential-stuffing-hack-a-23407?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Genetics testing firm 23andMe is facing multiple class action lawsuits and congressional scrutiny following a credential-stuffing hacking incident that exposed sensitive customer data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California City Warns of Data Breach After Attack Claim by NoEscape Ransomware<a href="https://therecord.media/california-victorville-warns-of-data-breach-after-noescape-ransomware-claims?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach, which occurred from August 12 to September 26, involved the theft of personal information such as names, Social Security numbers, driver's license numbers, medical information, and health insurance policy numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 26, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

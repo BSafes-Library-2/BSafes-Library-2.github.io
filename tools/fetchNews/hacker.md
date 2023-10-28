@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rise and Tactics of Octo Tempest: A Cyber Threat Analysis<a href="https://cyware.com/news/the-rise-and-tactics-of-octo-tempest-a-cyber-threat-analysis-71094b29"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Octo Tempest, a financially motivated threat group known for extensive social engineering campaigns and SIM-swapping techniques, has become a major concern for businesses worldwide. It has been affiliated with ALPHV/BlackCat and began deploying ransomware payloads as well. Given Octo Tempest's rele ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+YoroTrooper: Researchers Warn of Kazakhstan's Stealthy Cyber Espionage Group<a href="https://thehackernews.com/2023/10/yorotrooper-researchers-warn-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A relatively new threat actor known as&nbsp; YoroTrooper &nbsp;is likely made up of operators originating from Kazakhstan. The assessment, which comes from Cisco Talos, is based on their fluency in Kazakh and Russian, use of Tenge to pay for operating infrastructure, and very limited targeting of Kazakhstani entities, barring the government's Anti-Corruption Agency. "YoroTrooper attempts to obfuscate the origin of their operations, employing various tactics to make its malicious activity appear to emanate from Azerbaijan, such as using VPN exit nodes local to that region," security researchers Asheer Malhotra and Vitor Ventura&nbsp; said . First documented by the cybersecurity company in March 2023, the adversary is&nbsp; known to be active &nbsp;since at least June 2022, singling out various state-owned entities in the Commonwealth of Independent States (CIS) countries. Slovak cybersecurity firm ESET is tracking the activity under the name&nbsp; SturgeonPhisher . YoroTrooper's attack cycles
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

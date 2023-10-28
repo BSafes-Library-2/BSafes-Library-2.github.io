@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+October 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA: Agencies Seeing Steep Decrease in Known Exploited Vulnerabilities on Federal Networks<a href="https://therecord.media/cisa-decrease-in-known-exploited-vulnerabilities-on-government-systems?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal civilian agencies have remediated over 7 million Known Exploited Vulnerabilities findings this year, resulting in a 72% decrease in the percentage of vulnerabilities exposed for 45 or more days.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

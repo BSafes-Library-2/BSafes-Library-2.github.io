@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Expands Its Bug Bounty Program to Tackle Artificial Intelligence Threats<a href="https://thehackernews.com/2023/10/google-expands-its-bug-bounty-program.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has announced that it's expanding its Vulnerability Rewards Program ( VRP ) to compensate researchers for finding attack scenarios tailored to generative artificial intelligence (AI) systems in an effort to&nbsp; bolster AI safety and security . "Generative AI raises new and different concerns than traditional digital security, such as the potential for unfair bias, model manipulation or misinterpretations of data (hallucinations)," Google's Laurie Richardson and Royal Hansen&nbsp; said . Some of the categories that are in scope&nbsp; include &nbsp;prompt injections, leakage of sensitive data from training datasets, model manipulation, adversarial perturbation attacks that trigger misclassification, and model theft. It's worth noting that Google earlier this July instituted an&nbsp; AI Red Team &nbsp;to help address threats to AI systems as part of its Secure AI Framework ( SAIF ). Also announced as part of its commitment to secure AI are efforts to strengthen the AI supply chain
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
