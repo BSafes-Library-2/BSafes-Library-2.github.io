@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2023
+October 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CCleaner Says Hackers Stole Users’ Personal Data During MOVEit Mass-Hack<a href="https://techcrunch.com/2023/10/27/ccleaner-says-hackers-stole-users-personal-data-during-moveit-mass-hack/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2023
+October 28, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Wiretapping of XMPP-Based Instant Messaging Service<a href="https://thehackernews.com/2023/10/researchers-uncover-wiretapping-of-xmpp.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2023
+October 28, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Kansas Court System Down Nearly Two Weeks in ‘Security Incident’ That Has Hallmarks of Ransomware<a href="https://www.securityweek.com/kansas-court-system-down-nearly-2-weeks-in-security-incident-that-has-hallmarks-of-ransomware/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2023
+October 28, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit Ransomware Gang Claims to Have Stolen Data From Boeing<a href="https://securityaffairs.com/153149/cyber-crime/lockbit-ransomware-gang-boeing.html?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 28, 2023
+October 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stanford University Investigating Cyberattack After Akira Ransomware Claims<a href="https://therecord.media/stanford-investigating-cyberattack-after-ransomware?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2023
+October 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 N. Korean Lazarus Group Targets Software Vendor Using Known Flaws<a href="https://thehackernews.com/2023/10/n-korean-lazarus-group-targets-software.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2023
+October 27, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Keep Your Business Running in a Contested Environment<a href="https://thehackernews.com/2023/10/how-to-keep-your-business-running-in.html"> Full Text</a>
@@ -146,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2023
+October 27, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Expands Its Bug Bounty Program to Tackle Artificial Intelligence Threats<a href="https://thehackernews.com/2023/10/google-expands-its-bug-bounty-program.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2023
+October 27, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA: Agencies Seeing Steep Decrease in Known Exploited Vulnerabilities on Federal Networks<a href="https://therecord.media/cisa-decrease-in-known-exploited-vulnerabilities-on-government-systems?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2023
+October 27, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 F5 Issues Warning: BIG-IP Vulnerability Allows Remote Code Execution<a href="https://thehackernews.com/2023/10/f5-issues-warning-big-ip-vulnerability.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2023
+October 27, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Senator Quizzes 23andMe Over Credential-Stuffing Hack<a href="https://www.healthcareinfosecurity.com/us-senator-quizzes-23andme-over-credential-stuffing-hack-a-23407?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 27, 2023
+October 27, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 California City Warns of Data Breach After Attack Claim by NoEscape Ransomware<a href="https://therecord.media/california-victorville-warns-of-data-breach-after-noescape-ransomware-claims?&web_view=true"> Full Text</a>
