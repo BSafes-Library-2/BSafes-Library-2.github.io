@@ -34,6 +34,230 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remcos RAT Disguises as Payslip to Infect Users<a href="https://cyware.com/news/remcos-rat-disguises-as-payslip-to-infect-users-845aa65c"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers uncovered a phishing campaign distributing the Remcos remote access trojan. Cybercriminals disguised the malware as a payslip in a deceptive email. Remcos RAT can perform a range of malicious activities, including keylogging, capturing screenshots, controlling webcams and microphones, a ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Hamas Hacktivists Targeting Israeli Entities with Wiper Malware<a href="https://thehackernews.com/2023/10/pro-hamas-hacktivists-targeting-israeli.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pro-Hamas hacktivist group has been observed using a new Linux-based wiper malware dubbed  BiBi-Linux Wiper , targeting Israeli entities amidst the ongoing Israeli-Hamas war. "This malware is an x64 ELF executable, lacking obfuscation or protective measures," Security Joes  said  in a new report published today. "It allows attackers to specify target folders and can potentially destroy an entire operating system if run with root permissions." Some of its other capabilities include  multithreading  to corrupt files concurrently to enhance its speed and reach, overwriting files, renaming them with an extension containing the hard-coded string "BiBi" (in the format "[RANDOM_NAME].BiBi[NUMBER]"), and excluding certain file types from being corrupted. "While the string "bibi" (in the filename), may appear random, it holds significant meaning when mixed with topics such as politics in the Middle East, as it is a common nickname us
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QR Code-based Phishing Attains 587% Hike, Reports Check Point<a href="https://cyware.com/news/qr-code-based-phishing-attains-587-hike-reports-check-point-3b4b2667"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QR code phishing attacks, including quishing and QRLJacking, have seen a dramatic 587% increase from August to September 2023, with threat actors extracting login information from users. This social engineering tactic takes advantage of the trust in QR codes and the routine nature of security updat ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Webinar: 5 Must-Know Trends Impacting AppSec<a href="https://thehackernews.com/2023/10/new-webinar-5-must-know-trends.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Modern web app development relies on cloud infrastructure and containerization. These technologies scale on demand, handling millions of daily file transfers – it's almost impossible to imagine a world without them. However, they also introduce multiple attack vectors that exploit file uploads when working with public clouds, vulnerabilities in containers hosting web applications, and many other persistent threats. We surveyed organizations responsible for securing critical web applications used by healthcare, financial services, technology, and other critical infrastructure verticals to learn how they tackle the most destructive threats and summarized our findings in the OPSWAT 2023 State of Web Application Security Report. The survey report revealed that: 97% of organizations use or will deploy containers in their web hosting environments. 75% use cloud storage access solutions and want to prevent malware, secure sensitive data, and mitigate security compliance risks. 94% c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Can Use Modified Wikipedia Pages to Mount Redirection Attacks on Slack<a href="https://www.securityweek.com/attackers-can-use-modified-wikipedia-pages-to-mount-redirection-attacks-on-slack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Wiki-Slack attack relies on crafting a legitimate footnote in a Wikipedia article and exploiting Slack's rendering of the shared page's preview to generate a hidden malicious link.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ServiceNow Data Exposure: A Wake-Up Call for Companies<a href="https://thehackernews.com/2023/10/servicenow-data-exposure-wake-up-call.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earlier this week, ServiceNow  announced on its support site  that misconfigurations within the platform could result in "unintended access" to sensitive data. For organizations that use ServiceNow, this security exposure is a critical concern that could have resulted in major data leakage of sensitive corporate data.  ServiceNow has since taken steps to fix this issue .  This article fully analyzes the issue, explains why this critical application misconfiguration could have had serious consequences for businesses, and remediation steps companies would take, if not for the ServiceNow fix. (Although, recommended to double check that the fix has closed the organization's exposure.) In a Nutshell ServiceNow is a cloud-based platform used for automating IT service management, IT operations management, and IT business management for customer service, as well as HR, security operations, and a wide variety of additional domains. This SaaS application is considered to be one of the top bu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toronto Public Library Facing Disruptions Due to Cyberattack<a href="https://therecord.media/toronto-public-library-cyberattack-disruptions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization has confirmed that it is a cybersecurity incident, and while there is no evidence of compromised personal information, it may take several days to fully restore normal operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EleKtra-Leak Cryptojacking Attacks Exploit AWS IAM Credentials Exposed on GitHub<a href="https://thehackernews.com/2023/10/elektra-leak-cryptojacking-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ongoing campaign dubbed  EleKtra-Leak  has set its eyes on exposed Amazon Web Service (AWS) identity and access management (IAM) credentials within public GitHub repositories to facilitate cryptojacking activities. "As a result of this, the threat actor associated with the campaign was able to create multiple AWS Elastic Compute (EC2) instances that they used for wide-ranging and long-lasting cryptojacking operations," Palo Alto Networks Unit 42 researchers William Gamazo and Nathaniel Quist  said  in a technical report shared with The Hacker News. The operation, active since at least December 2020, is designed to mine Monero from as many as 474 unique Amazon EC2 instances between August 30 and October 6, 2023. A standout aspect of the attacks is the automated targeting of AWS IAM credentials within four minutes of their initial exposure on GitHub, indicating that threat actors are  programmatically cloning and scanning the repositories  to capture the exposed keys.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 -- [IOT](/docs/issues/iot/iot/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT Security Threats Highlight the Need for Zero Trust Principles<a href="https://www.helpnetsecurity.com/2023/10/27/iot-malware-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The manufacturing sector is particularly vulnerable to IoT malware attacks, experiencing an average of 6,000 attacks per week according to Zscaler, which can disrupt critical OT processes and pose long-term challenges for security teams.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Urgent: New Security Flaws Discovered in NGINX Ingress Controller for Kubernetes<a href="https://thehackernews.com/2023/10/urgent-new-security-flaws-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three unpatched high-severity security flaws have been disclosed in the  NGINX Ingress controller  for Kubernetes that could be weaponized by a threat actor to steal secret credentials from the cluster. The vulnerabilities are as follows -  CVE-2022-4886  (CVSS score: 8.8) -  Ingress-nginx  path sanitization can be bypassed to obtain the credentials of the ingress-nginx controller CVE-2023-5043  (CVSS score: 7.6) - Ingress-nginx annotation injection causes arbitrary command execution CVE-2023-5044  (CVSS score: 7.6) - Code injection via nginx.ingress.kubernetes.io/permanent-redirect annotation "These vulnerabilities enable an attacker who can control the configuration of the Ingress object to steal secret credentials from the cluster," Ben Hirschberg, CTO and co-founder of Kubernetes security platform ARMO, said of CVE-2023-5043 and CVE-2023-5044. Successful exploitation of the flaws could allow an adversary to inject arbitrary code into the ingress controller proce
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Issues Sweeping Executive Order to Secure AI<a href="https://www.bankinfosecurity.com/white-house-issuing-sweeping-executive-order-to-secure-ai-a-23428?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The order directs the National Institute of Standards and Technology to establish new standards for red-team testing and the Department of Health and Human Services to create a safety program for AI in healthcare.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using MSIX App Packages to Infect Windows PCs with GHOSTPULSE Malware<a href="https://thehackernews.com/2023/10/hackers-using-msix-app-packages-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyber attack campaign has been observed using spurious  MSIX  Windows app package files for popular software such as Google Chrome, Microsoft Edge, Brave, Grammarly, and Cisco Webex to distribute a novel malware loader dubbed  GHOSTPULSE . "MSIX is a Windows app package format that developers can leverage to package, distribute, and install their applications to Windows users," Elastic Security Labs researcher Joe Desimone  said  in a technical report published last week. "However, MSIX requires access to purchased or stolen code signing certificates making them viable to groups of above-average resources." Based on the installers used as lures, it's suspected that potential targets are  enticed  into downloading the MSIX packages through known techniques such as compromised websites, search engine optimization (SEO) poisoning, or malvertising. Launching the MSIX file opens a Windows prompting the users to click the Install button, doing so which res
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertising via Dynamic Search Ads Delivers Malware Bonanza<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/10/malvertising-via-dynamic-search-ads-delivers-malware-bonanza?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised website injected malicious content, including overlays promoting software serial keys, which resulted in misleading ads being automatically generated by Google Ads.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Launches Logging Tool for Resource-Poor Organizations<a href="https://www.bankinfosecurity.com/cisa-launches-logging-tool-for-resource-poor-organizations-a-23426?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool provides step-by-step installation instructions, prebuilt elastic security detection rules, and coding to reduce cost barriers, making it accessible for organizations aiming to implement basic logging and monitoring capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

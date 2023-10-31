@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+October 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EleKtra-Leak Cryptojacking Attacks Exploit AWS IAM Credentials Exposed on GitHub<a href="https://thehackernews.com/2023/10/elektra-leak-cryptojacking-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ongoing campaign dubbed&nbsp; EleKtra-Leak &nbsp;has set its eyes on exposed Amazon Web Service (AWS) identity and access management (IAM) credentials within public GitHub repositories to facilitate cryptojacking activities. "As a result of this, the threat actor associated with the campaign was able to create multiple AWS Elastic Compute (EC2) instances that they used for wide-ranging and long-lasting cryptojacking operations," Palo Alto Networks Unit 42 researchers William Gamazo and Nathaniel Quist&nbsp; said &nbsp;in a technical report shared with The Hacker News. The operation, active since at least December 2020, is designed to mine Monero from as many as 474 unique Amazon EC2 instances between August 30 and October 6, 2023. A standout aspect of the attacks is the automated targeting of AWS IAM credentials within four minutes of their initial exposure on GitHub, indicating that threat actors are&nbsp; programmatically cloning and scanning the repositories &nbsp;to capture the exposed keys.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

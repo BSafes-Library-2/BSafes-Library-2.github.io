@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+October 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Issues Sweeping Executive Order to Secure AI<a href="https://www.bankinfosecurity.com/white-house-issuing-sweeping-executive-order-to-secure-ai-a-23428?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The order directs the National Institute of Standards and Technology to establish new standards for red-team testing and the Department of Health and Human Services to create a safety program for AI in healthcare.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Launches Logging Tool for Resource-Poor Organizations<a href="https://www.bankinfosecurity.com/cisa-launches-logging-tool-for-resource-poor-organizations-a-23426?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool provides step-by-step installation instructions, prebuilt elastic security detection rules, and coding to reduce cost barriers, making it accessible for organizations aiming to implement basic logging and monitoring capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

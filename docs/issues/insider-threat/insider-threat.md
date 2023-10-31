@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+October 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ServiceNow Data Exposure: A Wake-Up Call for Companies<a href="https://thehackernews.com/2023/10/servicenow-data-exposure-wake-up-call.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Earlier this week, ServiceNow&nbsp; announced on its support site &nbsp;that misconfigurations within the platform could result in "unintended access" to sensitive data. For organizations that use ServiceNow, this security exposure is a critical concern that could have resulted in major data leakage of sensitive corporate data.&nbsp; ServiceNow has since taken steps to fix this issue .&nbsp; This article fully analyzes the issue, explains why this critical application misconfiguration could have had serious consequences for businesses, and remediation steps companies would take, if not for the ServiceNow fix. (Although, recommended to double check that the fix has closed the organization's exposure.) In a Nutshell ServiceNow is a cloud-based platform used for automating IT service management, IT operations management, and IT business management for customer service, as well as HR, security operations, and a wide variety of additional domains. This SaaS application is considered to be one of the top bu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+October 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Toronto Public Library Facing Disruptions Due to Cyberattack<a href="https://therecord.media/toronto-public-library-cyberattack-disruptions?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization has confirmed that it is a cybersecurity incident, and while there is no evidence of compromised personal information, it may take several days to fully restore normal operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

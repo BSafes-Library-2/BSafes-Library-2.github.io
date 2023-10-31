@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Webinar: 5 Must-Know Trends Impacting AppSec<a href="https://thehackernews.com/2023/10/new-webinar-5-must-know-trends.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Modern web app development relies on cloud infrastructure and containerization. These technologies scale on demand, handling millions of daily file transfers – it's almost impossible to imagine a world without them. However, they also introduce multiple attack vectors that exploit file uploads when working with public clouds, vulnerabilities in containers hosting web applications, and many other persistent threats. We surveyed organizations responsible for securing critical web applications used by healthcare, financial services, technology, and other critical infrastructure verticals to learn how they tackle the most destructive threats and summarized our findings in the OPSWAT 2023 State of Web Application Security Report. The survey report revealed that: 97% of organizations use or will deploy containers in their web hosting environments. 75% use cloud storage access solutions and want to prevent malware, secure sensitive data, and mitigate security compliance risks. 94% c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

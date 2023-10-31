@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+October 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Kansas Court System Down Nearly Two Weeks in ‘Security Incident’ That Has Hallmarks of Ransomware<a href="https://www.securityweek.com/kansas-court-system-down-nearly-2-weeks-in-security-incident-that-has-hallmarks-of-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The outage has hindered electronic filings, payment processing, case management, public access to records, and applications for various legal services, leading to delays and a reliance on paper-based processes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

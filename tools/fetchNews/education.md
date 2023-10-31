@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+October 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Keep Your Business Running in a Contested Environment<a href="https://thehackernews.com/2023/10/how-to-keep-your-business-running-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When organizations start incorporating cybersecurity regulations and cyber incident reporting requirements into their security protocols, it's essential for them to establish comprehensive plans for preparation, mitigation, and response to potential threats. At the heart of your business lies your operational technology and critical systems. This places them at the forefront of cybercriminal interest, as they seek to exploit vulnerabilities, compromise your data, and demand ransoms. In today's landscape, characterized by the ever-present risk of ransomware attacks and the challenges posed by fragmented security solutions, safeguarding your organization is paramount. This is where&nbsp; The National Institute of Standards and Technology (NIST) advocates &nbsp;for the development of resilient, reliable security systems capable of foreseeing, enduring, and rebounding from cyberattacks.&nbsp; In this guide, we'll explore strategies to fortify your defenses against cyber threats and ensure
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

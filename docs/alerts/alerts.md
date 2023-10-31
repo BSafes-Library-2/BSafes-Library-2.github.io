@@ -5,7 +5,43 @@ has_children: true
 nav_order: 150 
 ---
 
-## Alerts 
+## Alerts
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 - White House 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence <a href="https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Section 1.  Purpose.  Artificial intelligence (AI) holds extraordinary potential for both promise and peril.  Responsible AI use has the potential to help solve urgent challenges while making our world more prosperous, productive, innovative, and secure.  At the same time, irresponsible use could exacerbate societal harms such as fraud, discrimination, bias, and disinformation; displace and disempower workers; stifle competition; and pose risks to national security.  Harnessing AI for good and realizing its myriad benefits requires mitigating its substantial risks.  This endeavor demands a society-wide effort that includes government, the private sector, academia, and civil society.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 27, 2023 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Announces Launch of Logging Made Easy <a href="https://www.cisa.gov/news-events/alerts/2023/10/27/cisa-announces-launch-logging-made-easy"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, CISA announces the launch of a new version of Logging Made Easy (LME), a straightforward log management solution for Windows-based devices that can be downloaded and self-installed for free. CISA’s version reimagines technology developed by the United Kingdom’s National Cyber Security Centre (NCSC), making it available to a wider audience.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 25, 2023 - Microsoft
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Octo Tempest crosses boundaries to facilitate extortion, encryption, and destruction <a href="https://www.microsoft.com/en-us/security/blog/2023/10/25/octo-tempest-crosses-boundaries-to-facilitate-extortion-encryption-and-destruction/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has been tracking activity related to the financially motivated threat actor Octo Tempest, whose evolving campaigns represent a growing concern for organizations across multiple industries. Octo Tempest leverages broad social engineering campaigns to compromise organizations across the globe with the goal of financial extortion. With their extensive range of tactics, techniques, and procedures (TTPs), the threat actor, from our perspective, is one of the most dangerous financial criminal groups.
+</details>
+</div>
+
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 25, 2023 - Microsoft 
 {: .fs-4 .fw-700 .lh-0  }

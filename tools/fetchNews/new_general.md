@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QR Code-based Phishing Attains 587% Hike, Reports Check Point<a href="https://cyware.com/news/qr-code-based-phishing-attains-587-hike-reports-check-point-3b4b2667"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QR code phishing attacks, including quishing and QRLJacking, have seen a dramatic 587% increase from August to September 2023, with threat actors extracting login information from users. This social engineering tactic takes advantage of the trust in QR codes and the routine nature of security updat ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

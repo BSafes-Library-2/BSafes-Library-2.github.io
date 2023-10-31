@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+October 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Hamas Hacktivists Targeting Israeli Entities with Wiper Malware<a href="https://thehackernews.com/2023/10/pro-hamas-hacktivists-targeting-israeli.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pro-Hamas hacktivist group has been observed using a new Linux-based wiper malware dubbed&nbsp; BiBi-Linux Wiper , targeting Israeli entities amidst the ongoing Israeli-Hamas war. "This malware is an x64 ELF executable, lacking obfuscation or protective measures," Security Joes&nbsp; said &nbsp;in a new report published today. "It allows attackers to specify target folders and can potentially destroy an entire operating system if run with root permissions." Some of its other capabilities include&nbsp; multithreading &nbsp;to corrupt files concurrently to enhance its speed and reach, overwriting files, renaming them with an extension containing the hard-coded string "BiBi" (in the format "[RANDOM_NAME].BiBi[NUMBER]"), and excluding certain file types from being corrupted. "While the string "bibi" (in the filename), may appear random, it holds significant meaning when mixed with topics such as politics in the Middle East, as it is a common nickname us
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Can Use Modified Wikipedia Pages to Mount Redirection Attacks on Slack<a href="https://www.securityweek.com/attackers-can-use-modified-wikipedia-pages-to-mount-redirection-attacks-on-slack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Wiki-Slack attack relies on crafting a legitimate footnote in a Wikipedia article and exploiting Slack's rendering of the shared page's preview to generate a hidden malicious link.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using MSIX App Packages to Infect Windows PCs with GHOSTPULSE Malware<a href="https://thehackernews.com/2023/10/hackers-using-msix-app-packages-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cyber attack campaign has been observed using spurious&nbsp; MSIX &nbsp;Windows app package files for popular software such as Google Chrome, Microsoft Edge, Brave, Grammarly, and Cisco Webex to distribute a novel malware loader dubbed&nbsp; GHOSTPULSE . "MSIX is a Windows app package format that developers can leverage to package, distribute, and install their applications to Windows users," Elastic Security Labs researcher Joe Desimone&nbsp; said &nbsp;in a technical report published last week. "However, MSIX requires access to purchased or stolen code signing certificates making them viable to groups of above-average resources." Based on the installers used as lures, it's suspected that potential targets are&nbsp; enticed &nbsp;into downloading the MSIX packages through known techniques such as compromised websites, search engine optimization (SEO) poisoning, or malvertising. Launching the MSIX file opens a Windows prompting the users to click the Install button, doing so which res
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

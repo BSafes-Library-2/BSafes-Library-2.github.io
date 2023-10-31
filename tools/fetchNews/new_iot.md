@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+October 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT Security Threats Highlight the Need for Zero Trust Principles<a href="https://www.helpnetsecurity.com/2023/10/27/iot-malware-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The manufacturing sector is particularly vulnerable to IoT malware attacks, experiencing an average of 6,000 attacks per week according to Zscaler, which can disrupt critical OT processes and pose long-term challenges for security teams.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

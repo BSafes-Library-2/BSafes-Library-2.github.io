@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Gang Claims to Have Stolen Data From Boeing<a href="https://securityaffairs.com/153149/cyber-crime/lockbit-ransomware-gang-boeing.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LockBit group has a history of listing companies as victims, even if it was actually a vendor to the compromised company, so further investigation is needed to confirm the extent of the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
