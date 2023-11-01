@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+October 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arid Viper Targeting Arabic Android Users with Spyware Disguised as Dating App<a href="https://thehackernews.com/2023/10/arid-viper-targeting-arabic-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as&nbsp; Arid Viper &nbsp;(aka APT-C-23, Desert Falcon, or TAG-63) has been attributed as behind an Android spyware campaign targeting Arabic-speaking users with a counterfeit dating app designed to harvest data from infected handsets. "Arid Viper's Android malware has a number of features that enable the operators to surreptitiously collect sensitive information from victims' devices and deploy additional executables," Cisco Talos&nbsp; said &nbsp;in a Tuesday report. Active since at least 2017, Arid Viper is a cyber espionage that's aligned with&nbsp; Hamas , an Islamist militant movement that governs the Gaza Strip. The cybersecurity firm said there is no evidence connecting the campaign to the&nbsp; ongoing &nbsp; Israel-Hamas war . The activity is believed to have commenced no earlier than April 2022. Interestingly, the mobile malware shares source code similarities with a non-malicious online dating application called Skipped, suggesting that the operators are eit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dallas County Confirms Cybersecurity Incident After Ransomware Gang Claims Attack<a href="https://therecord.media/dallas-county-play-ransomware-incident?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident affected a portion of the county's network. The county is currently investigating the incident after ransomware gang, Play, claimed responsibility and threatened to leak stolen data by November 3.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

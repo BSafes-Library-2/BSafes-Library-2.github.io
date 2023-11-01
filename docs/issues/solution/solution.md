@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+October 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PentestPad: Platform for Pentest Teams<a href="https://thehackernews.com/2023/10/pentestpad-platform-for-pentest-teams.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the ever-evolving cybersecurity landscape, the game-changers are those who adapt and innovate swiftly. Pen test solutions not only supercharge productivity but also provide a crucial layer of objectivity, ensuring efficiency and exceptional accuracy. The synergy between a skilled penetration tester and the precision of pen testing solutions are crucial for staying on top of today's high demand of security audits and daily rise of vulnerabilities and exploits.&nbsp; How PentestPad Helps Pentest Teams PentestPad is revolutionizing the way pentest teams operate, offering a comprehensive platform that enhances collaboration, and speeds up the process. From automated report generation to real-time collaboration and integrations with leading tools,&nbsp; PentestPad &nbsp;empowers teams to work efficiently, deliver high-quality results, and exceed client expectations. With customizable templates and a user-friendly interface, it's the ultimate solution for pentest teams looking to elevate their p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Launches Paid Ad-Free Subscription in Europe to Satisfy Privacy Laws<a href="https://thehackernews.com/2023/10/meta-launches-paid-ad-free-subscription.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta on Monday announced plans to offer an ad-free option to access Facebook and Instagram for users in the European Union (EU), European Economic Area (EEA), and Switzerland to comply with "evolving" data protection regulations in the region. The ad-free subscription, which costs €9.99/month on the web or €12.99/month on iOS and Android, is expected to be officially available starting next month. The company's proposal for a subscription version of its service was&nbsp; first reported &nbsp;by The Wall Street Journal earlier this month. "In November, we will be offering people who use Facebook or Instagram and reside in these regions the choice to continue using these personalized services for free with ads, or subscribe to stop seeing ads," the company&nbsp; said . "While people are subscribed, their information will not be used for ads." While the fee covers all linked accounts for a user, beginning March 1, 2024, the company plans to levy an additional fee
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

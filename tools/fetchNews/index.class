@@ -34,6 +34,230 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Largest Indian Data Leak Involving 815 Million People’s COVID Test Data on Sale; Samples Verified<a href="https://thecyberexpress.com/covid-data-leak-sourced-icmr-samples-verified/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal data of nearly 815 million citizens of India, including names, phone numbers, addresses, passport information, and Aadhaar card details, has been found for sale on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arid Viper Targeting Arabic Android Users with Spyware Disguised as Dating App<a href="https://thehackernews.com/2023/10/arid-viper-targeting-arabic-android.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as  Arid Viper  (aka APT-C-23, Desert Falcon, or TAG-63) has been attributed as behind an Android spyware campaign targeting Arabic-speaking users with a counterfeit dating app designed to harvest data from infected handsets. "Arid Viper's Android malware has a number of features that enable the operators to surreptitiously collect sensitive information from victims' devices and deploy additional executables," Cisco Talos  said  in a Tuesday report. Active since at least 2017, Arid Viper is a cyber espionage that's aligned with  Hamas , an Islamist militant movement that governs the Gaza Strip. The cybersecurity firm said there is no evidence connecting the campaign to the  ongoing   Israel-Hamas war . The activity is believed to have commenced no earlier than April 2022. Interestingly, the mobile malware shares source code similarities with a non-malicious online dating application called Skipped, suggesting that the operators are eit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious NuGet Packages Exploit Loophole in MSBuild Integrations<a href="https://www.reversinglabs.com/blog/iamreboot-malicious-nuget-packages-exploit-msbuild-loophole?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm ReversingLabs has discovered a coordinated and ongoing malicious campaign on the NuGet package manager. The campaign involves the publishing of hundreds of malicious packages since August.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious NuGet Packages Caught Distributing SeroXen RAT Malware<a href="https://thehackernews.com/2023/10/malicious-nuget-packages-caught.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered a new set of malicious packages published to the NuGet package manager using a lesser-known method for malware deployment. Software supply chain security firm ReversingLabs described the campaign as coordinated and ongoing since August 1, 2023, while linking it to a  host of rogue NuGet packages  that were observed delivering a remote access trojan called SeroXen RAT . "The threat actors behind it are tenacious in their desire to plant malware into the NuGet repository, and to continuously publish new malicious packages," Karlo Zanki, reverse engineer at ReversingLabs,  said  in a report shared with The Hacker News. The names of some of the packages are below - Pathoschild.Stardew.Mod.Build.Config KucoinExchange.Net Kraken.Exchange DiscordsRpc SolanaWallet Monero Modern.Winform.UI MinecraftPocket.Server IAmRoot ZendeskApi.Client.V2 Betalgo.Open.AI Forge.Open.AI Pathoschild.Stardew.Mod.BuildConfig CData.NetSuite.Net.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida SIM Swapper Sentenced to Prison for Cryptocurrency Theft<a href="https://www.securityweek.com/florida-sim-swapper-sentenced-to-prison-for-cryptocurrency-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The perpetrator and his co-conspirators targeted dozens of victims, gaining access to their cryptocurrency accounts by hijacking their phone numbers and initiating password resets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PentestPad: Platform for Pentest Teams<a href="https://thehackernews.com/2023/10/pentestpad-platform-for-pentest-teams.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the ever-evolving cybersecurity landscape, the game-changers are those who adapt and innovate swiftly. Pen test solutions not only supercharge productivity but also provide a crucial layer of objectivity, ensuring efficiency and exceptional accuracy. The synergy between a skilled penetration tester and the precision of pen testing solutions are crucial for staying on top of today's high demand of security audits and daily rise of vulnerabilities and exploits.  How PentestPad Helps Pentest Teams PentestPad is revolutionizing the way pentest teams operate, offering a comprehensive platform that enhances collaboration, and speeds up the process. From automated report generation to real-time collaboration and integrations with leading tools,  PentestPad  empowers teams to work efficiently, deliver high-quality results, and exceed client expectations. With customizable templates and a user-friendly interface, it's the ultimate solution for pentest teams looking to elevate their p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arid Viper Disguising Mobile Spyware as Updates for Non-Malicious Android Applications<a href="https://blog.talosintelligence.com/arid-viper-mobile-spyware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware used by Arid Viper shares similarities with a non-malicious dating app called Skipped, indicating a possible connection between the APT group and the app's developers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Warns of New Critical Confluence Vulnerability Threatening Data Loss<a href="https://thehackernews.com/2023/10/atlassian-warns-of-new-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has warned of a critical security flaw in Confluence Data Center and Server that could result in "significant data loss if exploited by an unauthenticated attacker." Tracked as  CVE-2023-22518 , the vulnerability is rated 9.1 out of a maximum of 10 on the CVSS scoring system. It has been described as an instance of "improper authorization vulnerability." All versions of Confluence Data Center and Server are susceptible to the bug, and it has been addressed in the following versions - 7.19.16 or later 8.3.4 or later 8.4.4 or later 8.5.3 or later, and 8.6.1 or later That said, the Australian company emphasized that "there is no impact to confidentiality as an attacker cannot exfiltrate any instance data." No other details about the flaw and the exact method by which an adversary can take advantage of it have been made available, likely owing to the fact that doing so could enable threat actors to devise an exploit. Atlassian is also u
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia to Launch its Own Version of Virustotal Due to US Snooping Fears<a href="https://therecord.media/russia-launching-own-malware-repository-virustotal?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian government is developing its own malware scanning platform, Multiscanner, due to concerns that the U.S. government could access data from the popular VirusTotal service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trojanized PyCharm Software Version Delivered via Google Search Ads<a href="https://thehackernews.com/2023/10/trojanized-pycharm-software-version.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new  malvertising campaign  has been observed capitalizing on a compromised website to promote spurious versions of PyCharm on Google search results by leveraging Dynamic Search Ads. "Unbeknownst to the site owner, one of their ads was automatically created to promote a popular program for Python developers, and visible to people doing a Google search for it," Jérôme Segura, director of threat intelligence at Malwarebytes,  said  in a report. "Victims who clicked on the ad were taken to a hacked web page with a link to download the application, which turned out to install over a dozen different pieces of malware instead." The infected website in question is an unnamed online portal that specializes in wedding planning, which had been injected with malware to serve bogus links to the PyCharm software. Per Malwarebytes, targets are directed to the website using Dynamic Search Ads, an ad offering from Google that programmatically uses the site's content to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dallas County Confirms Cybersecurity Incident After Ransomware Gang Claims Attack<a href="https://therecord.media/dallas-county-play-ransomware-incident?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident affected a portion of the county's network. The county is currently investigating the incident after ransomware gang, Play, claimed responsibility and threatened to leak stolen data by November 3.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada Bans WeChat and Kaspersky Apps On Government Devices<a href="https://thehackernews.com/2023/10/canada-bans-wechat-and-kaspersky-apps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canada on Monday announced a ban on the use of apps from Tencent and Kaspersky on government mobile devices, citing an "unacceptable level of risk to privacy and security." "The Government of Canada is committed to keeping government information and networks secure," the Canadian government  said . "We regularly monitor potential threats and take immediate action to address risks." To that end, Tencent's WeChat and Kaspersky's suite of applications have been removed from government-issued mobile devices effective October 30, 2023. Going forward, users of these devices will be blocked from downloading the apps. "We are taking a risk-based approach to cyber security by removing access to these applications on government mobile devices," Anita Anand, President of the Treasury Board, said in a statement, adding the apps "provide considerable access to the device's contents." WeChat is a Chinese instant messaging, social med
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Guys Discloses Hack of Two Employee Email Accounts<a href="https://www.cybersecuritydive.com/news/five-guys-hack-employees-emails/698185/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach, discovered on June 7, was the result of business email compromise. While the total number of individuals impacted was not disclosed, only three residents of Maine were affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Launches Paid Ad-Free Subscription in Europe to Satisfy Privacy Laws<a href="https://thehackernews.com/2023/10/meta-launches-paid-ad-free-subscription.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta on Monday announced plans to offer an ad-free option to access Facebook and Instagram for users in the European Union (EU), European Economic Area (EEA), and Switzerland to comply with "evolving" data protection regulations in the region. The ad-free subscription, which costs €9.99/month on the web or €12.99/month on iOS and Android, is expected to be officially available starting next month. The company's proposal for a subscription version of its service was  first reported  by The Wall Street Journal earlier this month. "In November, we will be offering people who use Facebook or Instagram and reside in these regions the choice to continue using these personalized services for free with ads, or subscribe to stop seeing ads," the company  said . "While people are subscribed, their information will not be used for ads." While the fee covers all linked accounts for a user, beginning March 1, 2024, the company plans to levy an additional fee
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 30, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

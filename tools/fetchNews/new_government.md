@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+October 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia to Launch its Own Version of Virustotal Due to US Snooping Fears<a href="https://therecord.media/russia-launching-own-malware-repository-virustotal?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian government is developing its own malware scanning platform, Multiscanner, due to concerns that the U.S. government could access data from the popular VirusTotal service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada Bans WeChat and Kaspersky Apps On Government Devices<a href="https://thehackernews.com/2023/10/canada-bans-wechat-and-kaspersky-apps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canada on Monday announced a ban on the use of apps from Tencent and Kaspersky on government mobile devices, citing an "unacceptable level of risk to privacy and security." "The Government of Canada is committed to keeping government information and networks secure," the Canadian government&nbsp; said . "We regularly monitor potential threats and take immediate action to address risks." To that end, Tencent's WeChat and Kaspersky's suite of applications have been removed from government-issued mobile devices effective October 30, 2023. Going forward, users of these devices will be blocked from downloading the apps. "We are taking a risk-based approach to cyber security by removing access to these applications on government mobile devices," Anita Anand, President of the Treasury Board, said in a statement, adding the apps "provide considerable access to the device's contents." WeChat is a Chinese instant messaging, social med
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

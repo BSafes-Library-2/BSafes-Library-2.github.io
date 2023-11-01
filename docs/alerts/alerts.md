@@ -7,6 +7,20 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 30, 2023 - Treasury Board of Canada Secretariat, Canada 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minister Anand announces a ban on the use of WeChat and Kaspersky suite of applications on government mobile devices <a href="https://www.canada.ca/en/treasury-board-secretariat/news/2023/10/minister-anand-announces-a-ban-on-the-use-of-wechat-and-kaspersky-suite-of-applications-on-government-mobile-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the President of the Treasury Board, Anita Anand, announced a ban on the use of the WeChat and Kaspersky suite of applications on government-issued mobile devices.
+
+The Government of Canada is committed to keeping government information and networks secure. We regularly monitor potential threats and take immediate action to address risks.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 30, 2023 - White House 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
