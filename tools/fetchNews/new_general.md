@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Public Exposure of Data Breaches is Becoming Inevitable<a href="https://www.helpnetsecurity.com/2023/11/01/public-data-exfiltration-exposure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of cyber breaches becoming public is increasing, with companies facing financial and reputational consequences and being more likely to pay ransoms for stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

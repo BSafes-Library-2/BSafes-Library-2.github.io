@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+October 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trojanized PyCharm Software Version Delivered via Google Search Ads<a href="https://thehackernews.com/2023/10/trojanized-pycharm-software-version.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new&nbsp; malvertising campaign &nbsp;has been observed capitalizing on a compromised website to promote spurious versions of PyCharm on Google search results by leveraging Dynamic Search Ads. "Unbeknownst to the site owner, one of their ads was automatically created to promote a popular program for Python developers, and visible to people doing a Google search for it," Jérôme Segura, director of threat intelligence at Malwarebytes,&nbsp; said &nbsp;in a report. "Victims who clicked on the ad were taken to a hacked web page with a link to download the application, which turned out to install over a dozen different pieces of malware instead." The infected website in question is an unnamed online portal that specializes in wedding planning, which had been injected with malware to serve bogus links to the PyCharm software. Per Malwarebytes, targets are directed to the website using Dynamic Search Ads, an ad offering from Google that programmatically uses the site's content to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

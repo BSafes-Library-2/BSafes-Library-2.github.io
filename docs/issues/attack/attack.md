@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+November 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Cyber Espionage Group Targets Financial and Government Sectors in Middle East<a href="https://thehackernews.com/2023/11/iranian-cyber-espionage-group-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been observed waging a sophisticated cyber espionage campaign targeting financial, government, military, and telecommunications sectors in the Middle East for at least a year. Israeli cybersecurity firm Check Point, which discovered the campaign alongside Sygnia, is tracking the actor under the name&nbsp; Scarred Manticore , which is said to closely overlap with an emerging cluster dubbed&nbsp; Storm-0861 , one of the four Iranian groups linked to destructive attacks on the Albanian government last year. Victims of the operation span various countries such as Saudi Arabia, the United Arab Emirates, Jordan, Kuwait, Oman, Iraq, and Israel. Scarred Manticore also exhibits some degree of overlap with&nbsp; OilRig , another Iranian nation-state crew that was recently attributed to an attack on an unnamed Middle East government between February and September 2023 as part of an eight-month-long campaign. Another
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Targeting Crypto Experts with KANDYKORN macOS Malware<a href="https://thehackernews.com/2023/11/north-korean-hackers-tageting-crypto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-sponsored threat actors from the Democratic People's Republic of Korea (DPRK) have been found targeting blockchain engineers of an unnamed crypto exchange platform via Discord with a novel macOS malware dubbed&nbsp; KANDYKORN . Elastic Security Labs said the activity, traced back to April 2023, exhibits overlaps with the infamous adversarial collective&nbsp; Lazarus Group , citing an analysis of the network infrastructure and techniques used. "Threat actors lured blockchain engineers with a Python application to gain initial access to the environment," security researchers Ricardo Ungureanu, Seth Goodwin, and Andrew Pease&nbsp; said &nbsp;in a report published today. "This intrusion involved multiple complex stages that each employed deliberate defense evasion techniques." This is not the first time the Lazarus Group has leveraged macOS malware in its attacks. Earlier this year, the threat actor was observed distributing a backdoored PDF application that culminated in t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

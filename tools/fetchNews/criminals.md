@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+October 31, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Five Guys Discloses Hack of Two Employee Email Accounts<a href="https://www.cybersecuritydive.com/news/five-guys-hack-employees-emails/698185/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach, discovered on June 7, was the result of business email compromise. While the total number of individuals impacted was not disclosed, only three residents of Maine were affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

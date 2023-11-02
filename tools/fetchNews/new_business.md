@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+November 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chainguard Raises $61M in Series B Funding<a href="https://www.finsmes.com/2023/11/chainguard-raises-61m-in-series-b-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kirkland, Washington-based security company raised $61 million in Series B funding. The round was led by Spark Capital, with participation from existing investors Sequoia Capital, Amplify Partners, The Chainsmoker's Mantis VC, and Banana Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log Analysis and Security Firm Graylog Raises $9M in Equity, $30M in Debt<a href="https://techcrunch.com/2023/10/31/log-analysis-and-security-firm-graylog-raises-9m-in-equity-30m-in-debt/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Graylog has raised $39 million in its Series C funding round co-led by Silver Lake Waterman, Piper Sandler Merchant Banking, and Harbert Growth Partners. It includes $9 million in equity and $30 million in a "flex debt" facility.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hands on Review: LayerX's Enterprise Browser Security Extension<a href="https://thehackernews.com/2023/11/hands-on-review-layerxs-enterprise.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The browser has become the main work interface in modern enterprises. It's where employees create and interact with data, and how they access organizational and external SaaS and web apps. As a result, the browser is extensively targeted by adversaries. They seek to steal the data it stores and use it for malicious access to organizational SaaS apps or the hosting machine. Additionally, unintentional data leakage via the browser has become a critical concern for organizations as well. However, traditional endpoint, network, and data protection solutions fail to protect this critical resource against advanced web-borne attacks that continuously rise in sophistication and volume. This gap leaves organizations exposed to phishing attacks, malicious browser extensions, data exposure, and data loss.&nbsp; This is the challenge&nbsp; LayerX&nbsp; is attempting to solve. LayerX has developed a secure enterprise browser extension that can be mounted on any browser. The LayerX extension delivers comprehen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

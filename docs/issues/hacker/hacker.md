@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Expose Prolific Puma's Underground Link Shortening Service<a href="https://thehackernews.com/2023/11/dns-abuse-exposes-prolific-pumas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as&nbsp; Prolific Puma &nbsp;has been maintaining a low profile and operating an underground link shortening service that's offered to other threat actors for at least over the past four years. Prolific Puma creates "domain names with an&nbsp; RDGA &nbsp;[registered domain generation algorithm] and use these domains to provide a link shortening service to other malicious actors, helping them evade detection while they distribute phishing, scams, and malware," Infoblox&nbsp; said &nbsp;in a new analysis pieced together from Domain Name System ( DNS) &nbsp;analytics. With malicious actors known to use link shorteners for phishing attacks, the adversary plays an important role in the cybercrime supply chain, registering between 35,000 to 75,000 unique domain names since April 2022. Prolific Puma is also a&nbsp; DNS threat actor &nbsp;for leveraging DNS infrastructure for nefarious purposes. A notable aspect of the threat actor's operations is the use of an American domain registrar and web
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
