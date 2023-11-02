@@ -34,7 +34,231 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2023
+November 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chainguard Raises $61M in Series B Funding<a href="https://www.finsmes.com/2023/11/chainguard-raises-61m-in-series-b-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kirkland, Washington-based security company raised $61 million in Series B funding. The round was led by Spark Capital, with participation from existing investors Sequoia Capital, Amplify Partners, The Chainsmoker's Mantis VC, and Banana Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Expose Prolific Puma's Underground Link Shortening Service<a href="https://thehackernews.com/2023/11/dns-abuse-exposes-prolific-pumas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor known as  Prolific Puma  has been maintaining a low profile and operating an underground link shortening service that's offered to other threat actors for at least over the past four years. Prolific Puma creates "domain names with an  RDGA  [registered domain generation algorithm] and use these domains to provide a link shortening service to other malicious actors, helping them evade detection while they distribute phishing, scams, and malware," Infoblox  said  in a new analysis pieced together from Domain Name System ( DNS)  analytics. With malicious actors known to use link shorteners for phishing attacks, the adversary plays an important role in the cybercrime supply chain, registering between 35,000 to 75,000 unique domain names since April 2022. Prolific Puma is also a  DNS threat actor  for leveraging DNS infrastructure for nefarious purposes. A notable aspect of the threat actor's operations is the use of an American domain registrar and web
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome 119 Patches 15 Vulnerabilities<a href="https://www.securityweek.com/chrome-119-patches-15-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Out of the 15 vulnerabilities patched, 13 of which were reported by external researchers. Three of the bugs are rated as high severity, while the remaining ones are medium and low severity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hands on Review: LayerX's Enterprise Browser Security Extension<a href="https://thehackernews.com/2023/11/hands-on-review-layerxs-enterprise.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The browser has become the main work interface in modern enterprises. It's where employees create and interact with data, and how they access organizational and external SaaS and web apps. As a result, the browser is extensively targeted by adversaries. They seek to steal the data it stores and use it for malicious access to organizational SaaS apps or the hosting machine. Additionally, unintentional data leakage via the browser has become a critical concern for organizations as well. However, traditional endpoint, network, and data protection solutions fail to protect this critical resource against advanced web-borne attacks that continuously rise in sophistication and volume. This gap leaves organizations exposed to phishing attacks, malicious browser extensions, data exposure, and data loss.  This is the challenge  LayerX  is attempting to solve. LayerX has developed a secure enterprise browser extension that can be mounted on any browser. The LayerX extension delivers comprehen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Log Analysis and Security Firm Graylog Raises $9M in Equity, $30M in Debt<a href="https://techcrunch.com/2023/10/31/log-analysis-and-security-firm-graylog-raises-9m-in-equity-30m-in-debt/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Graylog has raised $39 million in its Series C funding round co-led by Silver Lake Waterman, Piper Sandler Merchant Banking, and Harbert Growth Partners. It includes $9 million in equity and $30 million in a "flex debt" facility.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Cyber Espionage Group Targets Financial and Government Sectors in Middle East<a href="https://thehackernews.com/2023/11/iranian-cyber-espionage-group-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been observed waging a sophisticated cyber espionage campaign targeting financial, government, military, and telecommunications sectors in the Middle East for at least a year. Israeli cybersecurity firm Check Point, which discovered the campaign alongside Sygnia, is tracking the actor under the name  Scarred Manticore , which is said to closely overlap with an emerging cluster dubbed  Storm-0861 , one of the four Iranian groups linked to destructive attacks on the Albanian government last year. Victims of the operation span various countries such as Saudi Arabia, the United Arab Emirates, Jordan, Kuwait, Oman, Iraq, and Israel. Scarred Manticore also exhibits some degree of overlap with  OilRig , another Iranian nation-state crew that was recently attributed to an attack on an unnamed Middle East government between February and September 2023 as part of an eight-month-long campaign. Another
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest RAT Attack Surge Bypasses Microsoft’s XLL Block<a href="https://www.theregister.com/2023/11/01/xll_macro_attack_surge/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft's block on Visual Basic for Applications (VBA) macros has led attackers to experiment with different file types, with XLL files now being used as a means to distribute malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Targeting Crypto Experts with KANDYKORN macOS Malware<a href="https://thehackernews.com/2023/11/north-korean-hackers-tageting-crypto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-sponsored threat actors from the Democratic People's Republic of Korea (DPRK) have been found targeting blockchain engineers of an unnamed crypto exchange platform via Discord with a novel macOS malware dubbed  KANDYKORN . Elastic Security Labs said the activity, traced back to April 2023, exhibits overlaps with the infamous adversarial collective  Lazarus Group , citing an analysis of the network infrastructure and techniques used. "Threat actors lured blockchain engineers with a Python application to gain initial access to the environment," security researchers Ricardo Ungureanu, Seth Goodwin, and Andrew Pease  said  in a report published today. "This intrusion involved multiple complex stages that each employed deliberate defense evasion techniques." This is not the first time the Lazarus Group has leveraged macOS malware in its attacks. Earlier this year, the threat actor was observed distributing a backdoored PDF application that culminated in t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Kernel Drivers Allow Attackers to Alter Firmware, Escalate Privileges<a href="https://www.securityweek.com/dozens-of-kernel-drivers-allow-attackers-to-alter-firmware-escalate-privileges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware Carbon Black's Threat Analysis Unit (TAU) has discovered numerous previously unknown vulnerable kernel drivers that could be exploited by hackers to modify firmware or gain elevated privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Turla Updates Kazuar Backdoor with Advanced Anti-Analysis to Evade Detection<a href="https://thehackernews.com/2023/11/turla-updates-kazuar-backdoor-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked hacking crew known as Turla has been observed using an updated version of a known second-stage backdoor referred to as Kazuar. The new findings come from Palo Alto Networks Unit 42, which is tracking the adversary under its constellation-themed moniker  Pensive Ursa . "As the code of the upgraded revision of Kazuar reveals, the authors put special emphasis on Kazuar's ability to operate in stealth, evade detection and thwart analysis efforts," security researchers Daniel Frank and Tom Fakterman  said  in a technical report. "They do so using a variety of advanced anti-analysis techniques and by protecting the malware code with effective encryption and obfuscation practices." Pensive Ursa, active since at least 2004, is attributed to the Russian Federal Security Service (FSB). Earlier this July, the Computer Emergency Response Team of Ukraine (CERT-UA)  implicated  the threat group to attacks targeting the defense sector in Ukraine and East
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Public Exposure of Data Breaches is Becoming Inevitable<a href="https://www.helpnetsecurity.com/2023/11/01/public-data-exfiltration-exposure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of cyber breaches becoming public is increasing, with companies facing financial and reputational consequences and being more likely to pay ransoms for stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: F5 Warns of Active Attacks Exploiting BIG-IP Vulnerability<a href="https://thehackernews.com/2023/11/alert-f5-warns-of-active-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+F5 is warning of active abuse of a critical security flaw in BIG-IP less than a week after its public disclosure, resulting in the execution of arbitrary system commands as part of an exploit chain. Tracked as  CVE-2023-46747  (CVSS score: 9.8), the  vulnerability  allows an unauthenticated attacker with network access to the BIG-IP system through the management port to achieve code execution. A proof-of-concept (PoC)  exploit  has since been made  available  by ProjectDiscovery. It impacts the following versions of the software - 17.1.0 (Fixed in 17.1.0.3 + Hotfix-BIGIP-17.1.0.3.0.75.4-ENG) 16.1.0 - 16.1.4 (Fixed in 16.1.4.1 + Hotfix-BIGIP-16.1.4.1.0.50.5-ENG) 15.1.0 - 15.1.10 (Fixed in 15.1.10.2 + Hotfix-BIGIP-15.1.10.2.0.44.2-ENG) 14.1.0 - 14.1.5 (Fixed in 14.1.5.6 + Hotfix-BIGIP-14.1.5.6.0.10.6-ENG) 13.1.0 - 13.1.5 (Fixed in 13.1.5.1 + Hotfix-BIGIP-13.1.5.1.0.20.2-ENG) Now the company is  alerting  that it has "observed threat actors using this vulnerability to expl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UserSec Takes Credit for Gatwick Cyberattack Post DDoS Assault on Manchester Airport<a href="https://thecyberexpress.com/gatwick-airport-cyberattack-second-uk-target/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks were likely DDoS attacks, disrupting websites but not impacting airport operations or flights. The UK's NCSC is investigating the attacks, while Gatwick Airport officials are also dealing with spoofed Twitter accounts in their name.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware 'Meal Kits' Serve Up No-Fuss RAT Attacks<a href="https://www.darkreading.com/endpoint/malware-meal-kits-serve-up-no-fuss-rat-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Parallax RAT has seen a significant increase in usage, particularly through infected DLLs in seemingly legitimate invoices, making it harder for users to detect the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 31, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Largest Indian Data Leak Involving 815 Million People’s COVID Test Data on Sale; Samples Verified<a href="https://thecyberexpress.com/covid-data-leak-sourced-icmr-samples-verified/?&web_view=true"> Full Text</a>
@@ -50,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2023
+October 31, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Arid Viper Targeting Arabic Android Users with Spyware Disguised as Dating App<a href="https://thehackernews.com/2023/10/arid-viper-targeting-arabic-android.html"> Full Text</a>
@@ -66,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2023
+October 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious NuGet Packages Exploit Loophole in MSBuild Integrations<a href="https://www.reversinglabs.com/blog/iamreboot-malicious-nuget-packages-exploit-msbuild-loophole?&web_view=true"> Full Text</a>
@@ -82,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2023
+October 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious NuGet Packages Caught Distributing SeroXen RAT Malware<a href="https://thehackernews.com/2023/10/malicious-nuget-packages-caught.html"> Full Text</a>
@@ -98,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2023
+October 31, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Florida SIM Swapper Sentenced to Prison for Cryptocurrency Theft<a href="https://www.securityweek.com/florida-sim-swapper-sentenced-to-prison-for-cryptocurrency-theft/?&web_view=true"> Full Text</a>
@@ -114,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2023
+October 31, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PentestPad: Platform for Pentest Teams<a href="https://thehackernews.com/2023/10/pentestpad-platform-for-pentest-teams.html"> Full Text</a>
@@ -130,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2023
+October 31, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Arid Viper Disguising Mobile Spyware as Updates for Non-Malicious Android Applications<a href="https://blog.talosintelligence.com/arid-viper-mobile-spyware/?&web_view=true"> Full Text</a>
@@ -146,7 +370,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2023
+October 31, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Warns of New Critical Confluence Vulnerability Threatening Data Loss<a href="https://thehackernews.com/2023/10/atlassian-warns-of-new-critical.html"> Full Text</a>
@@ -162,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2023
+October 31, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia to Launch its Own Version of Virustotal Due to US Snooping Fears<a href="https://therecord.media/russia-launching-own-malware-repository-virustotal?&web_view=true"> Full Text</a>
@@ -178,7 +402,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2023
+October 31, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trojanized PyCharm Software Version Delivered via Google Search Ads<a href="https://thehackernews.com/2023/10/trojanized-pycharm-software-version.html"> Full Text</a>
@@ -194,7 +418,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2023
+October 31, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dallas County Confirms Cybersecurity Incident After Ransomware Gang Claims Attack<a href="https://therecord.media/dallas-county-play-ransomware-incident?&web_view=true"> Full Text</a>
@@ -210,7 +434,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2023
+October 31, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canada Bans WeChat and Kaspersky Apps On Government Devices<a href="https://thehackernews.com/2023/10/canada-bans-wechat-and-kaspersky-apps.html"> Full Text</a>
@@ -226,7 +450,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2023
+October 31, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Five Guys Discloses Hack of Two Employee Email Accounts<a href="https://www.cybersecuritydive.com/news/five-guys-hack-employees-emails/698185/?&web_view=true"> Full Text</a>
@@ -242,7 +466,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-October 31, 2023
+October 31, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Launches Paid Ad-Free Subscription in Europe to Satisfy Privacy Laws<a href="https://thehackernews.com/2023/10/meta-launches-paid-ad-free-subscription.html"> Full Text</a>
