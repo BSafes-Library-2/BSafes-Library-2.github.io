@@ -34,7 +34,231 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2023
+November 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover 117 Vulnerabilities in Microsoft 365 Apps via the SketchUp 3D Library<a href="https://www.zscaler.com/blogs/security-research/threatlabz-discovers-117-vulnerabilities-microsoft-365-apps-sketchup-3d?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By developing a SketchUp fuzzing harness and using a dumb file format fuzzer, 20 unique vulnerabilities, including use-after-free and stack buffer overflow, were discovered in just one month.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious Kill Switch Disrupts Mozi IoT Botnet Operations<a href="https://thehackernews.com/2023/11/mysterious-kill-switch-disrupts-mozi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unexpected drop in malicious activity connected with the Mozi botnet in August 2023 was due to a kill switch that was distributed to the bots. "First, the drop manifested in India on August 8," ESET  said  in an analysis published this week. "A week later, on August 16, the same thing happened in China. While the mysterious control payload – aka kill switch – stripped Mozi bots of most functionality, they maintained persistence." Mozi is an Internet of Things (IoT) botnet that  emerged  from the source code of several known malware families, such as Gafgyt, Mirai, and IoT Reaper. First spotted in 2019, it's known to exploit weak and default remote access passwords as well as unpatched security vulnerabilities for initial access. In September 2021, cybersecurity firm Netlab researchers  disclosed  the arrest of the botnet operators by Chinese authorities. But the  precipitous decline  in Mozi activity – from around 13,300 hosts on August 7 to 3,500 on A
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Firm Reaches $100,000 Settlement With HHS Over 2017 Ransomware Attack<a href="https://therecord.media/medical-firm-reaches-settlement-with-hhs?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company failed to adequately protect electronic protected health information, violated HIPAA laws, and lacked sufficient monitoring and policies to prevent and address cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SaaS Security is Now Accessible and Affordable to All<a href="https://thehackernews.com/2023/11/saas-security-is-now-accessible-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This new product offers SaaS discovery and risk assessment coupled with a free user access review in a unique "freemium" model Securing employees' SaaS usage is becoming increasingly crucial for most cloud-based organizations. While numerous tools are available to address this need, they often employ different approaches and technologies, leading to unnecessary confusion and complexity. Enter Wing Security's new " Essential SSPM " (SaaS Security Posture Management) tool, which aims to simplify the process of securing SaaS usage across the organization. Its business approach is simple: self-onboard, try the product, and if impressed, upgrade to unlock more vital security capabilities.  What's essential SaaS security? According to Wing, three basic yet fundamental capabilities are necessary for organizations aiming to secure their SaaS: discovery, assessment, and control. These align with regulatory security standards such as ISO 27001 and SOC, which emphasize vendo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Mexican Airport Confirms Experts are Working to Address Cyberattack<a href="https://therecord.media/queretaro-international-airport-mexico-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Querétaro Intercontinental Airport in Mexico has experienced a cyberattack, with an employee downloading a file containing malware, but the airport's operational security was not compromised and the attack has been contained and isolated.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran's MuddyWater Targets Israel in New Spear-Phishing Cyber Campaign<a href="https://thehackernews.com/2023/11/irans-muddywater-targets-israel-in-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian nation-state actor known as  MuddyWater  has been linked to a new spear-phishing campaign targeting two Israeli entities to ultimately deploy a legitimate remote administration tool from N-able called  Advanced Monitoring Agent . Cybersecurity firm Deep Instinct, which disclosed details of the attacks,  said  the campaign "exhibits updated TTPs to previously reported MuddyWater activity," which has, in the past, used similar attack chains to distribute other remote access tools like  ScreenConnect, RemoteUtilities, Syncro , and  SimpleHelp . While the latest development marks the first time MuddyWater has been observed using N-able's remote monitoring software, it also underscores the fact that the largely unchanged modus operandi continues to yield some level of success for the threat actor. The findings have also been separately confirmed by cybersecurity company Group-IB in a post shared on X (formerly Twitter). The state-sponsored group is a  cyber
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California Community College Río Hondo Dealing With Cybersecurity Incident<a href="https://therecord.media/california-college-rio-hondo-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Río Hondo College in Southern California experienced a cybersecurity incident that disrupted campus functions and financial aid disbursements, potentially indicating a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find 34 Windows Drivers Vulnerable to Full Device Takeover<a href="https://thehackernews.com/2023/11/researchers-find-34-windows-drivers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 34 unique vulnerable Windows Driver Model ( WDM ) and Windows Driver Frameworks ( WDF ) drivers could be exploited by non-privileged threat actors to gain full control of the devices and execute arbitrary code on the underlying systems. "By exploiting the drivers, an attacker without privilege may erase/alter firmware, and/or elevate [operating system] privileges," Takahiro Haruyama, a senior threat researcher at VMware Carbon Black,  said . The  research  expands on previous studies, such as  ScrewedDrivers  and  POPKORN  that utilized  symbolic execution  for automating the discovery of vulnerable drivers. It specifically focuses on drivers that contain firmware access through port I/O and memory-mapped I/O. The names of some of the vulnerable drivers include AODDriver.sys, ComputerZ.sys, dellbios.sys, GEDevDrv.sys, GtcKmdfBs.sys, IoAccess.sys, kerneld.amd64, ngiodriver.sys, nvoclock.sys, PDFWKRNL.sys ( CVE-2023-20598 ), RadHwMgr.sys, rtif.sys, rtport.sys, s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Research Executive Hit in SIM-Swapping Attack by ALPHV Gang<a href="https://www.theregister.com/2023/11/01/advarra_ransomware_alphv/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gang Alphv, also known as BlackCat, claims to have stolen data from Advarra, a firm that assists with medical trials. The criminals gained access to an executive's accounts by SIM swapping their cellphone number.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIRST Announces CVSS 4.0 - New Vulnerability Scoring System<a href="https://thehackernews.com/2023/11/first-announces-cvss-40-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Forum of Incident Response and Security Teams (FIRST) has officially announced  CVSS v4.0 , the next generation of the Common Vulnerability Scoring System standard, more than eight years after the release of CVSS v3.0 in June 2015. "This latest version of  CVSS 4.0  seeks to provide the highest fidelity of vulnerability assessment for both industry and the public," FIRST  said  in a statement. CVSS essentially provides a way to capture the principal technical characteristics of a security vulnerability and produce a numerical score denoting its severity. The score can be translated into various levels, such as low, medium, high, and critical, to help organizations prioritize their vulnerability management processes. One of the core updates to CVSS v3.1,  released  in July 2019, was to  emphasize and clarify  that "CVSS is designed to measure the severity of a vulnerability and should not be used alone to assess risk." CVSS v3.1 has also  attracted criticis
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Deploy Malvertising Campaigns to Hijack Facebook Users’ Accounts<a href="https://www.bitdefender.com/blog/labs/nodestealer-attacks-on-facebook-take-a-provocative-turn-threat-actors-deploy-malvertising-campaigns-to-hijack-users-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers use hijacked Facebook accounts and create multiple profiles featuring photos of young women to entice users to click on infected links. Clicking on the ads downloads a malicious file that steals browser cookies and passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HelloKitty Ransomware Group Exploiting Apache ActiveMQ Vulnerability<a href="https://thehackernews.com/2023/11/hellokitty-ransomware-group-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning of suspected exploitation of a recently disclosed critical security flaw in the Apache ActiveMQ open-source message broker service that could result in remote code execution. "In both instances, the adversary attempted to deploy ransomware binaries on target systems in an effort to ransom the victim organizations," cybersecurity firm Rapid7  disclosed  in a report published Wednesday. "Based on the ransom note and available evidence, we attribute the activity to the HelloKitty ransomware family, whose source code was leaked on a forum in early October." The intrusions are said to involve the exploitation of  CVE-2023-46604 , a remote code execution vulnerability in Apache ActiveMQ that allows a threat actor to run arbitrary shell commands. It's worth noting that the  vulnerability  carries a CVSS score of 10.0, indicating maximum severity. It has been  addressed  in ActiveMQ versions 5.15.16, 5.16.7, 5.17.6, or 5.18.3
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack on Texas Mental Healthcare Provider Affects 172,000 Patients<a href="https://www.bankinfosecurity.com/ransomware-attack-on-mental-health-provider-affects-172000-a-23466?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack was quickly detected and contained within one segment of the network. The compromised information may include names, addresses, birthdates, Social Security numbers, diagnosis codes, insurance information, and treatment service types.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Set to Break Records in 2023<a href="https://www.helpnetsecurity.com/2023/11/01/q3-2023-ransomware-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks are increasing at a record-breaking pace, with the frequency of attacks in Q3 2023 up 11% from the previous quarter and 95% from the previous year, according to Corvus Insurance.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 1, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chainguard Raises $61M in Series B Funding<a href="https://www.finsmes.com/2023/11/chainguard-raises-61m-in-series-b-funding.html?&web_view=true"> Full Text</a>
@@ -50,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2023
+November 01, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Expose Prolific Puma's Underground Link Shortening Service<a href="https://thehackernews.com/2023/11/dns-abuse-exposes-prolific-pumas.html"> Full Text</a>
@@ -66,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2023
+November 1, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chrome 119 Patches 15 Vulnerabilities<a href="https://www.securityweek.com/chrome-119-patches-15-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -82,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2023
+November 01, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hands on Review: LayerX's Enterprise Browser Security Extension<a href="https://thehackernews.com/2023/11/hands-on-review-layerxs-enterprise.html"> Full Text</a>
@@ -98,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2023
+November 1, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Log Analysis and Security Firm Graylog Raises $9M in Equity, $30M in Debt<a href="https://techcrunch.com/2023/10/31/log-analysis-and-security-firm-graylog-raises-9m-in-equity-30m-in-debt/?&web_view=true"> Full Text</a>
@@ -114,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2023
+November 01, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Cyber Espionage Group Targets Financial and Government Sectors in Middle East<a href="https://thehackernews.com/2023/11/iranian-cyber-espionage-group-targets.html"> Full Text</a>
@@ -130,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2023
+November 1, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest RAT Attack Surge Bypasses Microsoft’s XLL Block<a href="https://www.theregister.com/2023/11/01/xll_macro_attack_surge/?&web_view=true"> Full Text</a>
@@ -146,7 +370,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2023
+November 01, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Targeting Crypto Experts with KANDYKORN macOS Malware<a href="https://thehackernews.com/2023/11/north-korean-hackers-tageting-crypto.html"> Full Text</a>
@@ -162,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2023
+November 1, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dozens of Kernel Drivers Allow Attackers to Alter Firmware, Escalate Privileges<a href="https://www.securityweek.com/dozens-of-kernel-drivers-allow-attackers-to-alter-firmware-escalate-privileges/?&web_view=true"> Full Text</a>
@@ -178,7 +402,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2023
+November 01, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Turla Updates Kazuar Backdoor with Advanced Anti-Analysis to Evade Detection<a href="https://thehackernews.com/2023/11/turla-updates-kazuar-backdoor-with.html"> Full Text</a>
@@ -194,7 +418,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2023
+November 1, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Public Exposure of Data Breaches is Becoming Inevitable<a href="https://www.helpnetsecurity.com/2023/11/01/public-data-exfiltration-exposure/?&web_view=true"> Full Text</a>
@@ -210,7 +434,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 01, 2023
+November 01, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: F5 Warns of Active Attacks Exploiting BIG-IP Vulnerability<a href="https://thehackernews.com/2023/11/alert-f5-warns-of-active-attacks.html"> Full Text</a>
@@ -226,7 +450,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2023
+November 1, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UserSec Takes Credit for Gatwick Cyberattack Post DDoS Assault on Manchester Airport<a href="https://thecyberexpress.com/gatwick-airport-cyberattack-second-uk-target/?&web_view=true"> Full Text</a>
@@ -242,7 +466,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 1, 2023
+November 1, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware 'Meal Kits' Serve Up No-Fuss RAT Attacks<a href="https://www.darkreading.com/endpoint/malware-meal-kits-serve-up-no-fuss-rat-attacks?&web_view=true"> Full Text</a>
