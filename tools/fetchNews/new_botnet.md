@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mysterious Kill Switch Disrupts Mozi IoT Botnet Operations<a href="https://thehackernews.com/2023/11/mysterious-kill-switch-disrupts-mozi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unexpected drop in malicious activity connected with the Mozi botnet in August 2023 was due to a kill switch that was distributed to the bots. "First, the drop manifested in India on August 8," ESET&nbsp; said &nbsp;in an analysis published this week. "A week later, on August 16, the same thing happened in China. While the mysterious control payload – aka kill switch – stripped Mozi bots of most functionality, they maintained persistence." Mozi is an Internet of Things (IoT) botnet that&nbsp; emerged &nbsp;from the source code of several known malware families, such as Gafgyt, Mirai, and IoT Reaper. First spotted in 2019, it's known to exploit weak and default remote access passwords as well as unpatched security vulnerabilities for initial access. In September 2021, cybersecurity firm Netlab researchers&nbsp; disclosed &nbsp;the arrest of the botnet operators by Chinese authorities. But the&nbsp; precipitous decline &nbsp;in Mozi activity – from around 13,300 hosts on August 7 to 3,500 on A
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

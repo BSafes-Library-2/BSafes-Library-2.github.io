@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Set to Break Records in 2023<a href="https://www.helpnetsecurity.com/2023/11/01/q3-2023-ransomware-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks are increasing at a record-breaking pace, with the frequency of attacks in Q3 2023 up 11% from the previous quarter and 95% from the previous year, according to Corvus Insurance.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

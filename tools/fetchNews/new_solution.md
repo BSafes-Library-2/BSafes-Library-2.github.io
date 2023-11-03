@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SaaS Security is Now Accessible and Affordable to All<a href="https://thehackernews.com/2023/11/saas-security-is-now-accessible-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This new product offers SaaS discovery and risk assessment coupled with a free user access review in a unique "freemium" model Securing employees' SaaS usage is becoming increasingly crucial for most cloud-based organizations. While numerous tools are available to address this need, they often employ different approaches and technologies, leading to unnecessary confusion and complexity. Enter Wing Security's new " Essential SSPM " (SaaS Security Posture Management) tool, which aims to simplify the process of securing SaaS usage across the organization. Its business approach is simple: self-onboard, try the product, and if impressed, upgrade to unlock more vital security capabilities.&nbsp; What's essential SaaS security? According to Wing, three basic yet fundamental capabilities are necessary for organizations aiming to secure their SaaS: discovery, assessment, and control. These align with regulatory security standards such as ISO 27001 and SOC, which emphasize vendo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Firm Reaches $100,000 Settlement With HHS Over 2017 Ransomware Attack<a href="https://therecord.media/medical-firm-reaches-settlement-with-hhs?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company failed to adequately protect electronic protected health information, violated HIPAA laws, and lacked sufficient monitoring and policies to prevent and address cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

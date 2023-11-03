@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+November 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UserSec Takes Credit for Gatwick Cyberattack Post DDoS Assault on Manchester Airport<a href="https://thecyberexpress.com/gatwick-airport-cyberattack-second-uk-target/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks were likely DDoS attacks, disrupting websites but not impacting airport operations or flights. The UK's NCSC is investigating the attacks, while Gatwick Airport officials are also dealing with spoofed Twitter accounts in their name.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
