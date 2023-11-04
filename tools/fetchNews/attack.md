@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+November 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Mexican Airport Confirms Experts are Working to Address Cyberattack<a href="https://therecord.media/queretaro-international-airport-mexico-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Querétaro Intercontinental Airport in Mexico has experienced a cyberattack, with an employee downloading a file containing malware, but the airport's operational security was not compromised and the attack has been contained and isolated.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California Community College Río Hondo Dealing With Cybersecurity Incident<a href="https://therecord.media/california-college-rio-hondo-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Río Hondo College in Southern California experienced a cybersecurity incident that disrupted campus functions and financial aid disbursements, potentially indicating a ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Research Executive Hit in SIM-Swapping Attack by ALPHV Gang<a href="https://www.theregister.com/2023/11/01/advarra_ransomware_alphv/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gang Alphv, also known as BlackCat, claims to have stolen data from Advarra, a firm that assists with medical trials. The criminals gained access to an executive's accounts by SIM swapping their cellphone number.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack on Texas Mental Healthcare Provider Affects 172,000 Patients<a href="https://www.bankinfosecurity.com/ransomware-attack-on-mental-health-provider-affects-172000-a-23466?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack was quickly detected and contained within one segment of the network. The compromised information may include names, addresses, birthdates, Social Security numbers, diagnosis codes, insurance information, and treatment service types.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

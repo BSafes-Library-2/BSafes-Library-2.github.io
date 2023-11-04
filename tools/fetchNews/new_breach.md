@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+November 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta's Recent Customer Support Data Breach Impacted 134 Customers<a href="https://thehackernews.com/2023/11/oktas-recent-customer-support-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity and authentication management provider Okta on Friday disclosed that the&nbsp; recent support case management system breach &nbsp;affected 134 of its 18,400 customers. It further noted that the unauthorized intruder gained access to its systems from September 28 to October 17, 2023, and ultimately accessed HAR files containing session tokens that could be used for session hijacking attacks. "The threat actor was able to use these session tokens to hijack the legitimate Okta sessions of 5 customers," Okta's Chief Security Officer, David Bradbury,&nbsp; said . Three of those affected include&nbsp; 1Password, BeyondTrust, and Cloudflare . 1Password was the first company to report suspicious activity on September 29. Two other unnamed customers were identified on October 12 and October 18. Okta formally&nbsp; revealed &nbsp;the&nbsp; security event &nbsp;on October 20, stating that the threat actor leveraged access to a stolen credential to access Okta's support case management system. Now, the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Okta Customer Support System Breach Impacted 134 Customers<a href="https://securityaffairs.com/153581/data-breach/okta-customer-support-system-breach-customers.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers used stolen session tokens from HAR files to hijack the legitimate Okta sessions of five customers. The breach occurred from September 28 to October 17 and affected less than 1% of Okta's customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hilb Group Fears Cybercriminals Stole 81,000 People’s Financial Data<a href="https://www.theregister.com/2023/11/03/hilb_data_leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company discovered suspicious activity in employee email accounts in January 2023 and determined that the breach occurred between December 2022 and January 2023. The stolen data includes names, SSNs, and financial account information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

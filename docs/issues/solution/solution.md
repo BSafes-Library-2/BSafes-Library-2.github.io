@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Play Store Introduces 'Independent Security Review' Badge for Apps<a href="https://thehackernews.com/2023/11/google-play-store-introduces.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is rolling out an "Independent security review" badge in the Play Store's&nbsp; Data safety section &nbsp;for Android apps that have undergone a Mobile Application Security Assessment ( MASA ) audit. "We've launched this banner beginning with VPN apps due to the sensitive and significant amount of user data these apps handle," Nataliya Stanetsky of the Android Security and Privacy Team&nbsp; said . MASA allows developers to have their apps independently validated against a global security standard such as the Mobile Application Security Verification Standard ( MASVS ), thereby providing more transparency and enabling users to make informed choices prior to downloading them. The efforts are part of Google's broader push to make the Data safety section a&nbsp; one-stop &nbsp; shop &nbsp;that presents a "unified view of app safety," offering details about the kind of data that's being collected, for what purpose, and if it's being shared with third-parties.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

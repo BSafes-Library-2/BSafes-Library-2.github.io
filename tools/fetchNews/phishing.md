@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran's MuddyWater Targets Israel in New Spear-Phishing Cyber Campaign<a href="https://thehackernews.com/2023/11/irans-muddywater-targets-israel-in-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian nation-state actor known as&nbsp; MuddyWater &nbsp;has been linked to a new spear-phishing campaign targeting two Israeli entities to ultimately deploy a legitimate remote administration tool from N-able called&nbsp; Advanced Monitoring Agent . Cybersecurity firm Deep Instinct, which disclosed details of the attacks,&nbsp; said &nbsp;the campaign "exhibits updated TTPs to previously reported MuddyWater activity," which has, in the past, used similar attack chains to distribute other remote access tools like&nbsp; ScreenConnect, RemoteUtilities, Syncro , and&nbsp; SimpleHelp . While the latest development marks the first time MuddyWater has been observed using N-able's remote monitoring software, it also underscores the fact that the largely unchanged modus operandi continues to yield some level of success for the threat actor. The findings have also been separately confirmed by cybersecurity company Group-IB in a post shared on X (formerly Twitter). The state-sponsored group is a&nbsp; cyber
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Deploy Malvertising Campaigns to Hijack Facebook Users’ Accounts<a href="https://www.bitdefender.com/blog/labs/nodestealer-attacks-on-facebook-take-a-provocative-turn-threat-actors-deploy-malvertising-campaigns-to-hijack-users-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers use hijacked Facebook accounts and create multiple profiles featuring photos of young women to entice users to click on infected links. Clicking on the ads downloads a malicious file that steals browser cookies and passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

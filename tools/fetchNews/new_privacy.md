@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+November 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CanesSpy Spyware Discovered in Modified WhatsApp Versions<a href="https://thehackernews.com/2023/11/canesspy-spyware-discovered-in-modified.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unearthed a number of WhatsApp mods for Android that come fitted with a spyware module dubbed&nbsp; CanesSpy . These modified versions of the instant messaging app have been observed propagated via sketchy websites advertising such modded software as well as Telegram channels used primarily by Arabic and Azerbaijani speakers, one of which boasts of two million users. "The trojanized client manifest contains suspicious components (a service and a broadcast receiver) that cannot be found in the original WhatsApp client," Kaspersky security researcher Dmitry Kalinin&nbsp; said . Specifically, the new additions are designed to activate the spyware module when the phone is switched on or starts charging. It subsequently proceeds to establish contact with a command-and-control (C2) server, followed by sending information about the compromised device, such as the IMEI, phone number, mobile country code, and mobile network code. CanesSpy also transmits det
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

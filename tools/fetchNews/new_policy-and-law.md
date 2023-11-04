@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sanctions Russian Accused of Laundering Virtual Currency for Ransomware Affiliate<a href="https://therecord.media/russian-sanctioned-ofac-treasury-money-launering-ryuk?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Treasury Department has sanctioned a Russian woman named Ekaterina Zhdanova for allegedly laundering virtual currency on behalf of Russian elites and cybercriminals, including a Ryuk ransomware affiliate.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 31, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
