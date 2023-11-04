@@ -34,6 +34,246 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sanctions Russian Accused of Laundering Virtual Currency for Ransomware Affiliate<a href="https://therecord.media/russian-sanctioned-ofac-treasury-money-launering-ryuk?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Treasury Department has sanctioned a Russian woman named Ekaterina Zhdanova for allegedly laundering virtual currency on behalf of Russian elites and cybercriminals, including a Ryuk ransomware affiliate.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta's Recent Customer Support Data Breach Impacted 134 Customers<a href="https://thehackernews.com/2023/11/oktas-recent-customer-support-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity and authentication management provider Okta on Friday disclosed that the  recent support case management system breach  affected 134 of its 18,400 customers. It further noted that the unauthorized intruder gained access to its systems from September 28 to October 17, 2023, and ultimately accessed HAR files containing session tokens that could be used for session hijacking attacks. "The threat actor was able to use these session tokens to hijack the legitimate Okta sessions of 5 customers," Okta's Chief Security Officer, David Bradbury,  said . Three of those affected include  1Password, BeyondTrust, and Cloudflare . 1Password was the first company to report suspicious activity on September 29. Two other unnamed customers were identified on October 12 and October 18. Okta formally  revealed  the  security event  on October 20, stating that the threat actor leveraged access to a stolen credential to access Okta's support case management system. Now, the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Okta Customer Support System Breach Impacted 134 Customers<a href="https://securityaffairs.com/153581/data-breach/okta-customer-support-system-breach-customers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers used stolen session tokens from HAR files to hijack the legitimate Okta sessions of five customers. The breach occurred from September 28 to October 17 and affected less than 1% of Okta's customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Play Store Introduces 'Independent Security Review' Badge for Apps<a href="https://thehackernews.com/2023/11/google-play-store-introduces.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is rolling out an "Independent security review" badge in the Play Store's  Data safety section  for Android apps that have undergone a Mobile Application Security Assessment ( MASA ) audit. "We've launched this banner beginning with VPN apps due to the sensitive and significant amount of user data these apps handle," Nataliya Stanetsky of the Android Security and Privacy Team  said . MASA allows developers to have their apps independently validated against a global security standard such as the Mobile Application Security Verification Standard ( MASVS ), thereby providing more transparency and enabling users to make informed choices prior to downloading them. The efforts are part of Google's broader push to make the Data safety section a  one-stop   shop  that presents a "unified view of app safety," offering details about the kind of data that's being collected, for what purpose, and if it's being shared with third-parties.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hilb Group Fears Cybercriminals Stole 81,000 People’s Financial Data<a href="https://www.theregister.com/2023/11/03/hilb_data_leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company discovered suspicious activity in employee email accounts in January 2023 and determined that the breach occurred between December 2022 and January 2023. The stolen data includes names, SSNs, and financial account information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Airlines Pilot Union Hit With Ransomware<a href="https://therecord.media/american-airlines-pilot-union-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American Airlines pilot union is actively working to restore their systems and prioritize the security of their operations while keeping their pilots informed about the progress.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four Zero-Day Flaws Disclosed in Microsoft Exchange<a href="https://securityaffairs.com/153599/hacking/microsoft-exchange-zero-day-flaws.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have disclosed four zero-day vulnerabilities in Microsoft Exchange that can be exploited remotely, potentially allowing attackers to execute arbitrary code or access sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kinsing Actors Exploiting Recent Linux Flaw to Breach Cloud Environments<a href="https://thehackernews.com/2023/11/kinsing-actors-exploit-linux-flaw-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors linked to  Kinsing  have been observed attempting to exploit the recently disclosed Linux privilege escalation flaw called Looney Tunables as part of a "new experimental campaign" designed to breach cloud environments. "Intriguingly, the attacker is also broadening the horizons of their cloud-native attacks by extracting credentials from the Cloud Service Provider (CSP)," cloud security firm Aqua said in a report shared with The Hacker News. The development marks the first publicly documented instance of active exploitation of  Looney Tunables  ( CVE-2023-4911 ), which could allow a threat actor to  gain root privileges . Kinsing actors have a track record of opportunistically and swiftly adapting their attack chains to exploit newly disclosed security flaws to their advantage, having most recently weaponized a  high-severity bug in Openfire  ( CVE-2023-32315 ) to achieve remote code execution. The latest set of attacks entails exploiting a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NodeStealer Malware Hijacking Facebook Business Accounts for Malicious Ads<a href="https://thehackernews.com/2023/11/nodestealer-malware-hijacking-facebook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compromised Facebook business accounts are being used to run bogus ads that employ "revealing photos of young women" as lures to trick victims into downloading an updated version of a malware called  NodeStealer . "Clicking on ads immediately downloads an archive containing a malicious .exe 'Photo Album' file which also drops a second executable written in .NET – this payload is in charge of stealing browser cookies and passwords," Bitdefender  said  in a report published this week. NodeStealer was  first disclosed  by Meta in May 2023 as a JavaScript malware designed to facilitate the takeover of Facebook accounts. Since then, the threat actors behind the operation have leveraged a Python-based variant in their attacks. The malware is part of a  burgeoning cybercrime ecosystem  in Vietnam, where multiple threat actors are leveraging overlapping methods that primarily involve advertising-as-a-vector on Facebook for propagation. The latest campaign disc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Predictive AI in Cybersecurity: Outcomes Demonstrate All AI is Not Created Equally<a href="https://thehackernews.com/2023/11/predictive-ai-in-cybersecurity-outcomes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Here is what matters most when it comes to artificial intelligence (AI) in cybersecurity: Outcomes.  As the threat landscape evolves and  generative AI is added  to the toolsets available to defenders and attackers alike, evaluating the relative effectiveness of various  AI-based security  offerings is increasingly important — and difficult. Asking the right questions can help you spot solutions that deliver value and ROI, instead of just marketing hype. Questions like, "Can your predictive AI tools sufficiently block what's new?" and, "What actually signals success in a cybersecurity platform powered by artificial intelligence?" As BlackBerry's AI and ML (machine learning) patent portfolio attests, BlackBerry is a leader in this space and has developed an exceptionally well-informed point of view on what works and why. Let's explore this timely topic. Evolution of AI in Cybersecurity Some of the earliest uses of ML and AI in cybersecurity date back to the de
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unmasking New AsyncRAT Infection Chain<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/unmasking-asyncrat-new-infection-chain/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AsyncRAT is being distributed through a malicious HTML file and uses various file types like PowerShell, WSF, and VBScript to bypass detection. The infection chain begins with a spam email containing a malicious URL to download the HTML file.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CanesSpy Spyware Discovered in Modified WhatsApp Versions<a href="https://thehackernews.com/2023/11/canesspy-spyware-discovered-in-modified.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unearthed a number of WhatsApp mods for Android that come fitted with a spyware module dubbed  CanesSpy . These modified versions of the instant messaging app have been observed propagated via sketchy websites advertising such modded software as well as Telegram channels used primarily by Arabic and Azerbaijani speakers, one of which boasts of two million users. "The trojanized client manifest contains suspicious components (a service and a broadcast receiver) that cannot be found in the original WhatsApp client," Kaspersky security researcher Dmitry Kalinin  said . Specifically, the new additions are designed to activate the spyware module when the phone is switched on or starts charging. It subsequently proceeds to establish contact with a command-and-control (C2) server, followed by sending information about the compromised device, such as the IMEI, phone number, mobile country code, and mobile network code. CanesSpy also transmits det
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DarkGate Variant Uses a New Loading Approach<a href="https://www.netskope.com/blog/new-darkgate-variant-uses-a-new-loading-approach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkGate is a versatile malware that includes features such as keylogging, information stealing, and downloading and executing other payloads. The DarkGate malware has been involved in multiple campaigns and continues to evolve.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 03, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+48 Malicious npm Packages Found Deploying Reverse Shells on Developer Systems<a href="https://thehackernews.com/2023/11/48-malicious-npm-packages-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new set of 48 malicious npm packages have been discovered in the npm repository with capabilities to deploy a reverse shell on compromised systems. "These packages, deceptively named to appear legitimate, contained obfuscated JavaScript designed to initiate a reverse shell on package install," software supply chain security firm Phylum  said . All the counterfeit packages have been published by an npm user named  hktalent  ( GitHub ,  X ). As of writing, 39 of the packages uploaded by the author are still available for download. The attack chain is triggered post the installation of the package via an install hook in the package.json that calls a JavaScript code to establish a  reverse shell  to rsh.51pwn[.]com. "In this particular case, the attacker published dozens of benign-sounding packages with several layers of obfuscation and deceptive tactics in an attempt to ultimately deploy a reverse shell on any machine that simply installs one of these packages,"
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 3, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Reshipping Service ‘SWAT USA Drop’ Exposed<a href="https://krebsonsecurity.com/2023/11/russian-reshipping-service-swat-usa-drop-exposed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-based criminal reshipping service SWAT USA Drop was hacked, exposing its operations and revealing the involvement of over 1,200 people in reshipping stolen goods purchased with stolen credit cards.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 2, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
