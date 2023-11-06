@@ -37,6 +37,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 November 4, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Singapore Public Health Services Hit by DDoS Attacks<a href="https://therecord.media/singapore-public-health-services-ddos-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Public healthcare institutions in Singapore experienced disruptions in internet connectivity due to DDoS attacks. Synapxe, the agency overseeing these institutions, stated that there is no evidence of a compromise of healthcare or patient data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StripedFly Malware Operated Unnoticed for 5 Years, Infecting 1 Million Devices<a href="https://thehackernews.com/2023/11/stripedfly-malware-operated-unnoticed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced strain of malware masquerading as a cryptocurrency miner has managed to fly the radar for over five years, infecting no less than one million devices around the world in the process. That's according to findings from Kaspersky, which has codenamed the threat  StripedFly , describing it as an "intricate modular framework that supports both Linux and Windows." The Russian cybersecurity vendor, which first detected the samples in 2017, said the miner is part of a much larger entity that employs a custom  EternalBlue SMBv1 exploit  attributed to the Equation Group in order to infiltrate publicly-accessible systems. The malicious shellcode, delivered via the exploit, has the ability to download binary files from a remote Bitbucket repository as well as execute PowerShell scripts. It also supports a collection of plugin-like expandable features to harvest sensitive data and even uninstall itself. The platform's shellcode is injected in the  wininit.exe proc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 US Sanctions Russian Accused of Laundering Virtual Currency for Ransomware Affiliate<a href="https://therecord.media/russian-sanctioned-ofac-treasury-money-launering-ryuk?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -50,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2023
+November 04, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Okta's Recent Customer Support Data Breach Impacted 134 Customers<a href="https://thehackernews.com/2023/11/oktas-recent-customer-support-data.html"> Full Text</a>
@@ -66,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2023
+November 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Okta Customer Support System Breach Impacted 134 Customers<a href="https://securityaffairs.com/153581/data-breach/okta-customer-support-system-breach-customers.html?&web_view=true"> Full Text</a>
@@ -82,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 04, 2023
+November 04, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Play Store Introduces 'Independent Security Review' Badge for Apps<a href="https://thehackernews.com/2023/11/google-play-store-introduces.html"> Full Text</a>
@@ -98,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2023
+November 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hilb Group Fears Cybercriminals Stole 81,000 People’s Financial Data<a href="https://www.theregister.com/2023/11/03/hilb_data_leak/?&web_view=true"> Full Text</a>
@@ -114,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2023
+November 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 American Airlines Pilot Union Hit With Ransomware<a href="https://therecord.media/american-airlines-pilot-union-cyberattack?&web_view=true"> Full Text</a>
@@ -130,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 4, 2023
+November 4, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four Zero-Day Flaws Disclosed in Microsoft Exchange<a href="https://securityaffairs.com/153599/hacking/microsoft-exchange-zero-day-flaws.html?&web_view=true"> Full Text</a>
@@ -146,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2023
+November 03, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kinsing Actors Exploiting Recent Linux Flaw to Breach Cloud Environments<a href="https://thehackernews.com/2023/11/kinsing-actors-exploit-linux-flaw-to.html"> Full Text</a>
@@ -162,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2023
+November 03, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NodeStealer Malware Hijacking Facebook Business Accounts for Malicious Ads<a href="https://thehackernews.com/2023/11/nodestealer-malware-hijacking-facebook.html"> Full Text</a>
@@ -178,7 +210,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2023
+November 03, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Predictive AI in Cybersecurity: Outcomes Demonstrate All AI is Not Created Equally<a href="https://thehackernews.com/2023/11/predictive-ai-in-cybersecurity-outcomes.html"> Full Text</a>
@@ -194,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2023
+November 3, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unmasking New AsyncRAT Infection Chain<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/unmasking-asyncrat-new-infection-chain/?&web_view=true"> Full Text</a>
@@ -210,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2023
+November 03, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CanesSpy Spyware Discovered in Modified WhatsApp Versions<a href="https://thehackernews.com/2023/11/canesspy-spyware-discovered-in-modified.html"> Full Text</a>
@@ -226,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2023
+November 3, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DarkGate Variant Uses a New Loading Approach<a href="https://www.netskope.com/blog/new-darkgate-variant-uses-a-new-loading-approach?&web_view=true"> Full Text</a>
@@ -242,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 03, 2023
+November 03, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 48 Malicious npm Packages Found Deploying Reverse Shells on Developer Systems<a href="https://thehackernews.com/2023/11/48-malicious-npm-packages-found.html"> Full Text</a>
@@ -258,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 3, 2023
+November 3, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Reshipping Service ‘SWAT USA Drop’ Exposed<a href="https://krebsonsecurity.com/2023/11/russian-reshipping-service-swat-usa-drop-exposed/?&web_view=true"> Full Text</a>
