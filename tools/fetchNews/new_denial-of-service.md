@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+November 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore Public Health Services Hit by DDoS Attacks<a href="https://therecord.media/singapore-public-health-services-ddos-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Public healthcare institutions in Singapore experienced disruptions in internet connectivity due to DDoS attacks. Synapxe, the agency overseeing these institutions, stated that there is no evidence of a compromise of healthcare or patient data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 1, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

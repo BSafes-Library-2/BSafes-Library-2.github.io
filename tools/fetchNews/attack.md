@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+November 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Airlines Pilot Union Hit With Ransomware<a href="https://therecord.media/american-airlines-pilot-union-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The American Airlines pilot union is actively working to restore their systems and prioritize the security of their operations while keeping their pilots informed about the progress.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kinsing Actors Exploiting Recent Linux Flaw to Breach Cloud Environments<a href="https://thehackernews.com/2023/11/kinsing-actors-exploit-linux-flaw-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors linked to&nbsp; Kinsing &nbsp;have been observed attempting to exploit the recently disclosed Linux privilege escalation flaw called Looney Tunables as part of a "new experimental campaign" designed to breach cloud environments. "Intriguingly, the attacker is also broadening the horizons of their cloud-native attacks by extracting credentials from the Cloud Service Provider (CSP)," cloud security firm Aqua said in a report shared with The Hacker News. The development marks the first publicly documented instance of active exploitation of&nbsp; Looney Tunables &nbsp;( CVE-2023-4911 ), which could allow a threat actor to&nbsp; gain root privileges . Kinsing actors have a track record of opportunistically and swiftly adapting their attack chains to exploit newly disclosed security flaws to their advantage, having most recently weaponized a&nbsp; high-severity bug in Openfire &nbsp;( CVE-2023-32315 ) to achieve remote code execution. The latest set of attacks entails exploiting a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

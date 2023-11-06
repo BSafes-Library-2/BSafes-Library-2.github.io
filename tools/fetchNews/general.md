@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 03, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Predictive AI in Cybersecurity: Outcomes Demonstrate All AI is Not Created Equally<a href="https://thehackernews.com/2023/11/predictive-ai-in-cybersecurity-outcomes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Here is what matters most when it comes to artificial intelligence (AI) in cybersecurity: Outcomes.&nbsp; As the threat landscape evolves and&nbsp; generative AI is added &nbsp;to the toolsets available to defenders and attackers alike, evaluating the relative effectiveness of various&nbsp; AI-based security &nbsp;offerings is increasingly important — and difficult. Asking the right questions can help you spot solutions that deliver value and ROI, instead of just marketing hype. Questions like, "Can your predictive AI tools sufficiently block what's new?" and, "What actually signals success in a cybersecurity platform powered by artificial intelligence?" As BlackBerry's AI and ML (machine learning) patent portfolio attests, BlackBerry is a leader in this space and has developed an exceptionally well-informed point of view on what works and why. Let's explore this timely topic. Evolution of AI in Cybersecurity Some of the earliest uses of ML and AI in cybersecurity date back to the de
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
