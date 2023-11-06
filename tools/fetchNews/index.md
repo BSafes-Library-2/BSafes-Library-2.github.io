@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Singapore Public Health Services Hit by DDoS Attacks<a href="https://therecord.media/singapore-public-health-services-ddos-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Public healthcare institutions in Singapore experienced disruptions in internet connectivity due to DDoS attacks. Synapxe, the agency overseeing these institutions, stated that there is no evidence of a compromise of healthcare or patient data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StripedFly Malware Operated Unnoticed for 5 Years, Infecting 1 Million Devices<a href="https://thehackernews.com/2023/11/stripedfly-malware-operated-unnoticed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced strain of malware masquerading as a cryptocurrency miner has managed to fly the radar for over five years, infecting no less than one million devices around the world in the process. That's according to findings from Kaspersky, which has codenamed the threat  StripedFly , describing it as an "intricate modular framework that supports both Linux and Windows." The Russian cybersecurity vendor, which first detected the samples in 2017, said the miner is part of a much larger entity that employs a custom  EternalBlue SMBv1 exploit  attributed to the Equation Group in order to infiltrate publicly-accessible systems. The malicious shellcode, delivered via the exploit, has the ability to download binary files from a remote Bitbucket repository as well as execute PowerShell scripts. It also supports a collection of plugin-like expandable features to harvest sensitive data and even uninstall itself. The platform's shellcode is injected in the  wininit.exe proc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 4, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
