@@ -34,6 +34,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideCopy APT's Multi-Platform Onslaught Targets Indian Government and Defense Entities<a href="https://www.seqrite.com/blog/sidecopys-multi-platform-onslaught-leveraging-winrar-zero-day-and-linux-variant-of-ares-rat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SideCopy is employing phishing tactics and using compromised domains with reused IP addresses to distribute malicious files and deploy malware, including a Linux variant of the Ares RAT, indicating a multi-platform approach in their attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Jupyter Infostealer Version Emerges with Sophisticated Stealth Tactics<a href="https://thehackernews.com/2023/11/new-jupyter-infostealer-version-emerges.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An updated version of an information stealer malware known as  Jupyter  has resurfaced with "simple yet impactful changes" that aim to stealthily establish a persistent foothold on compromised systems. "The team has discovered new waves of Jupyter Infostealer attacks which leverage PowerShell command modifications and signatures of private keys in attempts to pass off the malware as a legitimately signed file," VMware Carbon Black researchers  said  in a report shared with The Hacker News. Jupyter Infostealer, also known as Polazert, SolarMarker, and Yellow Cockatoo, has a  track record  of leveraging manipulated search engine optimization (SEO) tactics and malvertising as an initial access vector to trick users searching for popular software into downloading it from dubious websites. It comes with capabilities to harvest credentials as well as establish encrypted command-and-control (C2) communication to exfiltrate data and execute arbitrary commands. The late
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Intrusion Delays Poll Worker Training in Mississippi’s Largest County Before the Statewide Vote<a href="https://www.securityweek.com/a-cyber-breach-delays-poll-worker-training-in-mississippis-largest-county-before-the-statewide-vote/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Election officials in Hinds County, Mississippi, had to rush to complete poll worker training after a breach in early September compromised county computers. This caused a delay in processing voter registration forms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 06, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP Releases Patch for 2 Critical Flaws Threatening Your NAS Devices<a href="https://thehackernews.com/2023/11/qnap-releases-patch-for-2-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QNAP has released security updates to address two critical security flaws impacting its operating system that could result in arbitrary code execution. Tracked as  CVE-2023-23368  (CVSS score: 9.8), the vulnerability is described as a command injection bug affecting QTS, QuTS hero, and QuTScloud. "If exploited, the vulnerability could allow remote attackers to execute commands via a network," the company said in an advisory published over the weekend. The shortcoming spans the below versions - QTS 5.0.x (Fixed in QTS 5.0.1.2376 build 20230421 and later) QTS 4.5.x (Fixed in QTS 4.5.4.2374 build 20230416 and later) QuTS hero h5.0.x (Fixed in QuTS hero h5.0.1.2376 build 20230421 and later) QuTS hero h4.5.x (Fixed in QuTS hero h4.5.4.2374 build 20230417 and later) QuTScloud c5.0.x (Fixed in QuTScloud c5.0.1.2374 and later) Also fixed by QNAP is another command injection flaw in QTS, Multimedia Console, and Media Streaming add-on ( CVE-2023-23369 , CVSS score: 9.0) th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2023 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK's NCSC Publishes Guidance to Help Firms Prepare for Post-Quantum Cryptography<a href="https://www.ncsc.gov.uk/whitepaper/next-steps-preparing-for-post-quantum-cryptography?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Post-quantum cryptography (PQC) algorithms should be implemented to replace vulnerable traditional public key cryptography (PKC) algorithms to mitigate the threat of quantum computers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SecuriDropper: New Android Dropper-as-a-Service Bypasses Google's Defenses<a href="https://thehackernews.com/2023/11/securidropper-new-android-dropper-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shed light on a new dropper-as-a-service (DaaS) for Android called  SecuriDropper  that bypasses new security restrictions imposed by Google and delivers the malware. Dropper malware on Android is designed to function as a conduit to install a payload on a compromised device, making it a lucrative business model for threat actors, who can advertise the capabilities to other criminal groups. What's more, doing so also allows adversaries to separate the development and execution of an attack from the installation of the malware. "Droppers and the actors behind them are in a constant state of evolution as they strive to outwit evolving security measures," Dutch cybersecurity firm ThreatFabric  said  in a report shared with The Hacker News. One such security measure introduced by Google with Android 13 is what's called the Restricted Settings, which prevents sideloaded applications from obtaining Accessibility and Notification Listener
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, South Korea and Japan Launch Group to Tackle North Korean Hacking<a href="https://therecord.media/south-korea-japan-us-cyberthreat-body-north-korea-hacking?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has attributed recent cryptocurrency hacks to North Korean-sponsored threat actors, highlighting the need for increased cybersecurity cooperation among liberal democracies in the Pacific.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 06, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Launches Destructive Cyberattacks on Israeli Tech and Education Sectors<a href="https://thehackernews.com/2023/11/iranian-hackers-launches-destructive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli higher education and tech sectors have been targeted as part of a series of destructive cyber attacks that commenced in January 2023 with an aim to deploy previously undocumented wiper malware. The intrusions, which took place as recently as October, have been attributed to an Iranian nation-state hacking crew it tracks under the name Agonizing Serpens, which is also known as Agrius, BlackShadow and Pink Sandstorm (previously Americium). "The attacks are characterized by attempts to steal sensitive data, such as personally identifiable information (PII) and intellectual property," Palo Alto Networks Unit 42 said in a new report shared with The Hacker News. "Once the attackers stole the information, they deployed various wipers intended to cover the attackers' tracks and to render the infected endpoints unusable." This includes three different novel wipers such as MultiLayer, PartialWasher, and BFG Agonizer, as well as a bespoke tool to extract inf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian APT Targets Israeli Education, Tech Sectors With New Data Wipers<a href="https://www.securityweek.com/iranian-apt-targets-israeli-education-tech-sectors-with-new-wipers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian APT group known as Agrius has been targeting higher education and technology organizations in Israel with destructive attacks and wipers, including MultiLayer, PartialWasher, and BFG Agonizer, since January 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Warns How Hackers Could Abuse Calendar Service as a Covert C2 Channel<a href="https://thehackernews.com/2023/11/google-warns-of-hackers-absing-calendar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is warning of multiple threat actors sharing a public proof-of-concept (PoC) exploit that leverages its Calendar service to host command-and-control (C2) infrastructure. The tool, called Google Calendar RAT (GCR) , employs Google Calendar Events for C2 using a Gmail account. It was first published to GitHub in June 2023. "The script creates a 'Covert Channel' by exploiting the event descriptions in Google Calendar," according to its developer and researcher, who goes by the online alias MrSaighnal. "The target will connect directly to Google." The tech giant, in its eighth Threat Horizons report , said it has not observed the use of the tool in the wild, but noted its Mandiant threat intelligence unit has detected several threat actors sharing the PoC on underground forums. "GCR, running on a compromised machine, periodically polls the Calendar event description for new commands, executes those commands on the target device, and then upda
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare’s Road to Redefining Cybersecurity With Modern Solutions<a href="https://www.helpnetsecurity.com/2023/11/03/healthcare-ransomware-data-encryption/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Sophos, the rate of data encryption following a ransomware attack in the healthcare sector has reached its highest level in the last three years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 06, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Treasury Sanctions Russian Money Launderer in Cybercrime Crackdown<a href="https://thehackernews.com/2023/11/us-treasury-targets-russian-money.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of the Treasury imposed sanctions against a Russian woman for taking part in the laundering of virtual currency for the country's elites and cybercriminal crews, including the Ryuk ransomware group. Ekaterina Zhdanova, per the department, is said to have facilitated large cross border transactions to assist Russian individuals to gain access to Western financial markets and circumvent international sanctions. "Zhdanova utilizes entities that lack Anti-Money Laundering/Combatting the Financing of Terrorism (AML/CFT) controls, such as OFAC-designated Russian cryptocurrency exchange Garantex Europe OU (Garantex)," the treasury department  said  last week.  "Zhdanova relies on multiple methods of value transfer to move funds internationally. This includes the use of cash and leveraging connections to other international money laundering associates and organizations." It's worth noting that Garantex was  previously sanctioned  by the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 4, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Socks5Systemz Proxy Botnet Infects Around 10,000 Systems Worldwide<a href="https://cyware.com/news/socks5systemz-proxy-botnet-infects-around-10000-systems-worldwide-46e7ea61"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts took the wraps off of Socks5Systemz, a proxy botnet distributed through PrivateLoader and Amadey, affecting approximately 10,000 systems globally.  BitSight mapped at least 53 servers of Socks5Systemz, all located in Europe and distributed across France, Bulgaria, Netherlands, and  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 07, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaws Discovered in Veeam ONE IT Monitoring Software – Patch Now<a href="https://thehackernews.com/2023/11/critical-flaws-discovered-in-veeam-one.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veeam has released  security updates  to address four flaws in its ONE IT monitoring and analytics platform, two of which are rated critical in severity. The list of vulnerabilities is as follows - CVE-2023-38547  (CVSS score: 9.9) - An unspecified flaw that can be leveraged by an unauthenticated user to gain information about the SQL server connection Veeam ONE uses to access its configuration database, resulting in remote code execution on the SQL server. CVE-2023-38548  (CVSS score: 9.8) - A flaw in Veeam ONE that allows an unprivileged user with access to the Veeam ONE Web Client to obtain the NTLM hash of the account used by the Veeam ONE Reporting Service. CVE-2023-38549  (CVSS score: 4.5) - A cross-site scripting (XSS) vulnerability that allows a user with the Veeam ONE Power User role to obtain the access token of a user with the Veeam ONE Administrator role. CVE-2023-41723  (CVSS score: 4.3) - A vulnerability in Veeam ONE that permits a user with the Veeam ONE Rea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 6, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 6, 2023 - president of republic of korea 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Korea, the U.S. and Japan agree to establish a high-level cyber consultative body <a href="https://www.president.go.kr/newsroom/press/KZfq8dqk"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Security Office decided to establish a high-level cyber consultative body between Korea, the United States, and Japan and proceed with practical work to implement the Camp David Agreement last August.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 30, 2023 - Treasury Board of Canada Secretariat, Canada 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
