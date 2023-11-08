@@ -8,6 +8,48 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korea's BlueNoroff Blamed for Hacking macOS Machines with ObjCShellz Malware<a href="https://thehackernews.com/2023/11/n-korean-bluenoroff-blamed-for-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked nation-state group called BlueNoroff has been attributed to a previously undocumented macOS malware strain dubbed&nbsp; ObjCShellz . Jamf Threat Labs, which disclosed details of the malware, said it's used as part of the RustBucket malware campaign, which came to light earlier this year. "Based on previous attacks performed by BlueNoroff, we suspect that this malware was a late stage within a multi-stage malware delivered via social engineering," security researcher Ferdous Saljooki said in a report shared with The Hacker News. BlueNoroff, also tracked under the names APT38, Nickel Gladstone, Sapphire Sleet, Stardust Chollima, and TA444, is a subordinate element of the infamous&nbsp; Lazarus Group &nbsp;that specializes in financial crime, targeting banks and the crypto sector as a way to&nbsp; evade sanctions &nbsp;and&nbsp; generate illicit profits &nbsp;for the regime. The development arrives days after Elastic Security Labs disclosed the Lazarus Group's use of a new ma
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideCopy APT's Multi-Platform Onslaught Targets Indian Government and Defense Entities<a href="https://www.seqrite.com/blog/sidecopys-multi-platform-onslaught-leveraging-winrar-zero-day-and-linux-variant-of-ares-rat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SideCopy is employing phishing tactics and using compromised domains with reused IP addresses to distribute malicious files and deploy malware, including a Linux variant of the Ares RAT, indicating a multi-platform approach in their attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian APT Targets Israeli Education, Tech Sectors With New Data Wipers<a href="https://www.securityweek.com/iranian-apt-targets-israeli-education-tech-sectors-with-new-wipers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian APT group known as Agrius has been targeting higher education and technology organizations in Israel with destructive attacks and wipers, including MultiLayer, PartialWasher, and BFG Agonizer, since January 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Treasury Sanctions Russian Money Launderer in Cybercrime Crackdown<a href="https://thehackernews.com/2023/11/us-treasury-targets-russian-money.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of the Treasury imposed sanctions against a Russian woman for taking part in the laundering of virtual currency for the country's elites and cybercriminal crews, including the Ryuk ransomware group. Ekaterina Zhdanova, per the department, is said to have facilitated large cross border transactions to assist Russian individuals to gain access to Western financial markets and circumvent international sanctions. "Zhdanova utilizes entities that lack Anti-Money Laundering/Combatting the Financing of Terrorism (AML/CFT) controls, such as OFAC-designated Russian cryptocurrency exchange Garantex Europe OU (Garantex)," the treasury department&nbsp; said &nbsp;last week.&nbsp; "Zhdanova relies on multiple methods of value transfer to move funds internationally. This includes the use of cash and leveraging connections to other international money laundering associates and organizations." It's worth noting that Garantex was&nbsp; previously sanctioned &nbsp;by the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 3, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

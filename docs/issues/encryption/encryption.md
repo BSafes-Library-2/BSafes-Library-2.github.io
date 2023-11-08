@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+November 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK's NCSC Publishes Guidance to Help Firms Prepare for Post-Quantum Cryptography<a href="https://www.ncsc.gov.uk/whitepaper/next-steps-preparing-for-post-quantum-cryptography?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Post-quantum cryptography (PQC) algorithms should be implemented to replace vulnerable traditional public key cryptography (PKC) algorithms to mitigate the threat of quantum computers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

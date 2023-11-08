@@ -34,7 +34,183 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2023
+November 7, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Palestinian Hackers Group ‘Soldiers of Solomon’ Disrupted the Production Cycle of the Largest Israeli Flour Production Plant<a href="https://securityaffairs.com/153778/security/soldiers-of-solomon-hacked-israel-flour-plant.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This attack on the flour plant is part of a series of cyber attacks by the group on Israeli organizations, including a successful attack on the Ashalim Power Station and taking control of military servers and systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 07, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korea's BlueNoroff Blamed for Hacking macOS Machines with ObjCShellz Malware<a href="https://thehackernews.com/2023/11/n-korean-bluenoroff-blamed-for-hacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked nation-state group called BlueNoroff has been attributed to a previously undocumented macOS malware strain dubbed  ObjCShellz . Jamf Threat Labs, which disclosed details of the malware, said it's used as part of the RustBucket malware campaign, which came to light earlier this year. "Based on previous attacks performed by BlueNoroff, we suspect that this malware was a late stage within a multi-stage malware delivered via social engineering," security researcher Ferdous Saljooki said in a report shared with The Hacker News. BlueNoroff, also tracked under the names APT38, Nickel Gladstone, Sapphire Sleet, Stardust Chollima, and TA444, is a subordinate element of the infamous  Lazarus Group  that specializes in financial crime, targeting banks and the crypto sector as a way to  evade sanctions  and  generate illicit profits  for the regime. The development arrives days after Elastic Security Labs disclosed the Lazarus Group's use of a new ma
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ransomware Gang Leaks Data Allegedly Stolen From Canadian Hospitals<a href="https://www.securityweek.com/ransomware-gang-leaks-data-allegedly-stolen-from-canadian-hospitals/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Five Canadian hospitals have confirmed that patient and employee data stolen in a ransomware attack has been leaked online, impacting millions of patient visits and employee information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 07, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New GootLoader Malware Variant Evades Detection and Spreads Rapidly<a href="https://thehackernews.com/2023/11/new-gootloader-malware-variant-evades.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the  GootLoader malware  called GootBot has been found to facilitate lateral movement on compromised systems and evade detection. "The GootLoader group's introduction of their own custom bot into the late stages of their attack chain is an attempt to avoid detections when using off-the-shelf tools for C2 such as CobaltStrike or RDP," IBM X-Force researchers Golo Mühr and Ole Villadsen  said . "This new variant is a lightweight but effective malware allowing attackers to rapidly spread throughout the network and deploy further payloads." GootLoader, as the name implies, is a malware capable of downloading next-stage malware after luring potential victims using search engine optimization (SEO) poisoning tactics. It's linked to a threat actor tracked as  Hive0127  (aka UNC2565). The use of GootBot points to a tactical shift, with the implant downloaded as a payload after a Gootloader infection in lieu of post-exploitation frameworks such
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+37 Vulnerabilities Patched in Android With November 2023 Security Updates<a href="https://www.securityweek.com/37-vulnerabilities-patched-in-android-with-november-2023-security-updates/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The November 2023 Android security update addresses high-severity vulnerabilities in the System component, with additional fixes for Arm, MediaTek, and Qualcomm components.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 07, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Confidence in File Upload Security is Alarmingly Low. Why?<a href="https://thehackernews.com/2023/11/confidence-in-file-upload-security-is.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Numerous industries—including technology, financial services, energy, healthcare, and government—are rushing to incorporate cloud-based and containerized web applications.  The benefits are undeniable; however, this shift presents new security challenges.  OPSWAT's 2023 Web Application Security report  reveals: 75% of organizations have modernized their infrastructure this year. 78% have increased their security budgets. Yet just 2% are confident in their security posture. Let's explore why confidence in security lags infrastructure upgrades and how OPSWAT closes that gap. Evolving Infrastructure Outpaces Security Upgrades. The pace of security upgrades struggles to keep up with technological advancements. This gap is especially visible in file upload security. Companies are updating their infrastructure by embracing distributed, scalable applications that leverage microservices and cloud solutions—creating new avenues of attack for criminals. Cloud Hosting  Businesse
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Store Zhefengle Exposed Millions of Chinese Citizen IDs<a href="https://techcrunch.com/2023/11/06/store-millions-chinese-citizen-identity-cards/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The database contained over 3.3 million orders from 2015 to 2020, many of which included uploaded copies of customers' government-issued identity cards. The vulnerability was addressed after a security researcher notified the store owners.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 07, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Offensive and Defensive AI: Let's Chat(GPT) About It<a href="https://thehackernews.com/2023/11/offensive-and-defensive-ai-lets-chatgpt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChatGPT: Productivity tool, great for writing poems, and… a security risk?! In this article, we show how threat actors can exploit ChatGPT, but also how defenders can use it for leveling up their game. ChatGPT is the most swiftly growing consumer application to date. The extremely popular generative AI chatbot has the ability to generate human-like, coherent and contextually relevant responses. This makes it very valuable for applications like content creation, coding, education, customer support, and even personal assistance. However, ChatGPT also comes with security risks. ChatGPT can be used for data exfiltration, spreading misinformation, developing cyber attacks and writing phishing emails. On the flip side, it can help defenders who can use it for identifying vulnerabilities and learning about various defenses. In this article, we show numerous ways attackers can exploit ChatGPT and the OpenAI Playground. Just as importantly, we show ways that defenders can leverage ChatGPT t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Global Password Practices are Changing<a href="https://www.helpnetsecurity.com/2023/11/06/password-health/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password health and hygiene have improved globally over the past year, reducing the risk of account takeover. However, password reuse remains prevalent, making user accounts vulnerable to password-spraying attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 07, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideCopy Exploiting WinRAR Flaw in Attacks Targeting Indian Government Entities<a href="https://thehackernews.com/2023/11/sidecopy-exploiting-winrar-flaw-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pakistan-linked threat actor known as  SideCopy  has been observed leveraging the recent WinRAR security vulnerability in its attacks targeting Indian government entities to deliver various remote access trojans such as AllaKore RAT, Ares RAT, and DRat. Enterprise security firm SEQRITE described the campaign as multi-platform, with the attacks also designed to infiltrate Linux systems with a compatible version of Ares RAT. SideCopy, active since at least 2019, is  known  for its  attacks  on Indian and Afghanistan entities. It's suspected to be a sub-group of the Transparent Tribe (aka APT36) actor. "Both SideCopy and APT36 share infrastructure and code to aggressively target India," SEQRITE researcher Sathwik Ram Prakki  said  in a Monday report. Earlier this May, the group was  linked  to a phishing campaign that took advantage of lures related to India's Defence Research and Development Organization (DRDO) to deliver information-stealing malware. Since
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 07, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of Ransomware Hackers Exploiting Atlassian and Apache Flaws<a href="https://thehackernews.com/2023/11/experts-warn-of-ransomware-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple ransomware groups have begun to actively exploit recently disclosed flaws in Atlassian Confluence and Apache ActiveMQ. Cybersecurity firm Rapid7  said  it observed the exploitation of  CVE-2023-22518  and  CVE-2023-22515  in multiple customer environments, some of which have been leveraged for the deployment of  Cerber  (aka  C3RB3R ) ransomware. Both vulnerabilities are critical, allowing threat actors to create unauthorized Confluence administrator accounts and lead to data loss. Atlassian, on November 6,  updated its advisory  to note that it observed "several active exploits and reports of threat actors using ransomware" and that it is revising the CVSS score of the flaw from 9.8 to 10.0, indicating maximum severity. The escalation, the Australian company said, is due to the change in the scope of the attack. Attack chains involve mass exploitation of vulnerable internet-facing Atlassian Confluence servers to fetch a malicious payload hosted on a remote s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Socks5Systemz Proxy Botnet Infects Around 10,000 Systems Worldwide<a href="https://cyware.com/news/socks5systemz-proxy-botnet-infects-around-10000-systems-worldwide-46e7ea61"> Full Text</a>
@@ -50,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2023
+November 07, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws Discovered in Veeam ONE IT Monitoring Software – Patch Now<a href="https://thehackernews.com/2023/11/critical-flaws-discovered-in-veeam-one.html"> Full Text</a>
@@ -66,7 +242,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2023
+November 6, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideCopy APT's Multi-Platform Onslaught Targets Indian Government and Defense Entities<a href="https://www.seqrite.com/blog/sidecopys-multi-platform-onslaught-leveraging-winrar-zero-day-and-linux-variant-of-ares-rat/?&web_view=true"> Full Text</a>
@@ -82,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 06, 2023
+November 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Jupyter Infostealer Version Emerges with Sophisticated Stealth Tactics<a href="https://thehackernews.com/2023/11/new-jupyter-infostealer-version-emerges.html"> Full Text</a>
@@ -98,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2023
+November 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Intrusion Delays Poll Worker Training in Mississippi’s Largest County Before the Statewide Vote<a href="https://www.securityweek.com/a-cyber-breach-delays-poll-worker-training-in-mississippis-largest-county-before-the-statewide-vote/?&web_view=true"> Full Text</a>
@@ -114,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 06, 2023
+November 06, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP Releases Patch for 2 Critical Flaws Threatening Your NAS Devices<a href="https://thehackernews.com/2023/11/qnap-releases-patch-for-2-critical.html"> Full Text</a>
@@ -130,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2023
+November 6, 2023 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK's NCSC Publishes Guidance to Help Firms Prepare for Post-Quantum Cryptography<a href="https://www.ncsc.gov.uk/whitepaper/next-steps-preparing-for-post-quantum-cryptography?&web_view=true"> Full Text</a>
@@ -146,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 06, 2023
+November 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SecuriDropper: New Android Dropper-as-a-Service Bypasses Google's Defenses<a href="https://thehackernews.com/2023/11/securidropper-new-android-dropper-as.html"> Full Text</a>
@@ -162,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2023
+November 6, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US, South Korea and Japan Launch Group to Tackle North Korean Hacking<a href="https://therecord.media/south-korea-japan-us-cyberthreat-body-north-korea-hacking?&web_view=true"> Full Text</a>
@@ -178,7 +354,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 06, 2023
+November 06, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Launches Destructive Cyberattacks on Israeli Tech and Education Sectors<a href="https://thehackernews.com/2023/11/iranian-hackers-launches-destructive.html"> Full Text</a>
@@ -194,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2023
+November 6, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian APT Targets Israeli Education, Tech Sectors With New Data Wipers<a href="https://www.securityweek.com/iranian-apt-targets-israeli-education-tech-sectors-with-new-wipers/?&web_view=true"> Full Text</a>
@@ -210,7 +386,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 06, 2023
+November 06, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Warns How Hackers Could Abuse Calendar Service as a Covert C2 Channel<a href="https://thehackernews.com/2023/11/google-warns-of-hackers-absing-calendar.html"> Full Text</a>
@@ -226,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2023
+November 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Healthcare’s Road to Redefining Cybersecurity With Modern Solutions<a href="https://www.helpnetsecurity.com/2023/11/03/healthcare-ransomware-data-encryption/?&web_view=true"> Full Text</a>
@@ -242,7 +418,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 06, 2023
+November 06, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Treasury Sanctions Russian Money Launderer in Cybercrime Crackdown<a href="https://thehackernews.com/2023/11/us-treasury-targets-russian-money.html"> Full Text</a>
