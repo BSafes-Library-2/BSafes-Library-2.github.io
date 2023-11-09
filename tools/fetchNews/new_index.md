@@ -34,7 +34,199 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2023
+November 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sumo Logic Urges Users to Change Credentials Due to Security Breach<a href="https://www.securityweek.com/sumo-logic-urges-users-to-change-credentials-due-to-security-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company revealed on Tuesday that a “potential security incident” discovered on November 3 involved unauthorized access to a Sumo Logic AWS account through the use of compromised credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Undetectable Crypto Mining Technique on Azure Automation<a href="https://thehackernews.com/2023/11/researchers-uncover-undetectable-crypto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have developed what's the first fully undetectable cloud-based cryptocurrency miner leveraging the Microsoft  Azure Automation  service without racking up any charges. Cybersecurity company SafeBreach said it discovered three different methods to run the miner, including one that can be executed on a victim's environment without attracting any attention. "While this research is significant because of its potential impact on cryptocurrency mining, we also believe it has serious implications for other areas, as the techniques could be used to achieve any task that requires code execution on Azure," security researcher Ariel Gamrian  said  in a report shared with The Hacker News. The study mainly set out to identify an "ultimate crypto miner" that offers unlimited access to computational resources, while simultaneously requiring little-to-no maintenance, is cost-free, and undetectable. That's where Azure Automation comes in.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Mail Jeopardizes Users With Open Redirect Flaw<a href="https://securityaffairs.com/153851/security/royal-mail-jeopardizes-users.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“The vulnerability can be exploited by attackers to trick users into visiting malicious websites or phishing pages by disguising the malicious URL as a legitimate one,” Cybernews researchers explained.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Introduces New Privacy Feature to Protect IP Address in Calls<a href="https://thehackernews.com/2023/11/whatsapp-introduces-new-privacy-feature.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta-owned WhatsApp is officially rolling out a  new privacy feature  in its messaging service called "Protect IP Address in Calls" that masks users' IP addresses to other parties by relaying the calls through its servers. "Calls are end-to-end encrypted, so even if a call is relayed through WhatsApp servers, WhatsApp cannot listen to your calls," the company said in a statement shared with The Hacker News. The core idea is to make it harder for bad actors in the call to infer a user's location by securely relaying the connection through WhatsApp servers. However, a tradeoff to enabling the privacy option is a slight dip in call quality. Viewed in that light, it's akin to Apple's  iCloud Private Relay , which adds an anonymity layer by  routing users' Safari browsing sessions  through two secure internet relays. It's worth noting that the "Protect IP Address in Calls" feature has been under development since at least late Augu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APTs Targeting Cambodian Government<a href="https://unit42.paloaltonetworks.com/chinese-apt-linked-to-cambodia-government-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By monitoring telemetry associated with two prominent Chinese APT groups, researchers observed network connections predominately originating from Cambodia, including inbound connections originating from at least 24 Cambodian government organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware, Developers: BlazeStealer Malware Discovered in Python Packages on PyPI<a href="https://thehackernews.com/2023/11/beware-developers-blazestealer-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new set of malicious Python packages has slithered their way to the Python Package Index (PyPI) repository with the ultimate aim of stealing sensitive information from compromised developer systems. The packages masquerade as seemingly innocuous obfuscation tools, but harbor a piece of malware called  BlazeStealer , Checkmarx said in a report shared with The Hacker News. "[BlazeStealer] retrieves an additional malicious script from an external source, enabling a Discord bot that gives attackers complete control over the victim's computer," security researcher Yehuda Gelb said. The campaign, which commenced in January 2023, entails a total of eight packages named Pyobftoexe, Pyobfusfile, Pyobfexecute, Pyobfpremium, Pyobflite, Pyobfadvance, Pyobfuse, and pyobfgood, the last of which was published in October.  These modules come with setup.py and init.py files that are designed to retrieve a Python script hosted on transfer[.]sh, which gets executed immediately upon
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan Aviation Electronics Says Servers Accessed During Cyberattack<a href="https://therecord.media/japan-aviation-electronics-says-servers-accessed-during-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Monday evening, the maker of electronics and aerospace products replaced its website with a static message indicating some of its servers were accessed by hackers last Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guide: How vCISOs, MSPs and MSSPs Can Keep their Customers Safe from Gen AI Risks<a href="https://thehackernews.com/2023/11/guide-how-vcisos-msps-and-mssps-can.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Download the free guide , "It's a Generative AI World: How vCISOs, MSPs and MSSPs Can Keep their Customers Safe from Gen AI Risks." ChatGPT now boasts anywhere from 1.5 to 2 billion visits per month. Countless sales, marketing, HR, IT executive, technical support, operations, finance and other functions are feeding data prompts and queries into generative AI engines. They use these tools to write articles, create content, compose emails, answer customer questions and generate plans and strategies.  However, gen AI usage is happening far in advance of efforts to implement safeguards and cybersecurity constraints. Three primary areas of security concern associated with generative AI are: sensitive data included in gen AI scripts, outcomes produced by these tools that may put an organization at risk, and potential hazards related to utilizing third-party generative AI tools. Unchecked AI usage in organizations can lead to:  Major data breaches.  Compromised identities
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Leaks 35 Million Scraped LinkedIn User Records<a href="https://www.hackread.com/hacker-leaks-scraped-linkedin-user-records/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The contents of the leaked database on BreachForums, as observed by Hackread.com, include publicly available information from LinkedIn profiles, containing full names and profile bios.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: Kickstarting Your SaaS Security Strategy & Program<a href="https://thehackernews.com/2023/11/webinar-kickstarting-your-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SaaS applications make up 70% of total company software usage, and as businesses increase their reliance on SaaS apps, they also increase their reliance on those applications being secure. These SaaS apps store an incredibly large volume of data so safeguarding the organization's SaaS app stack and data within is paramount. Yet, the path to implementing an effective SaaS security program is  not  straightforward.  There are numerous potential attack vectors. Security teams need to handle the challenge of gaining control over a diverse range of applications, each having its own unique characteristics. Additionally, the SaaS app environments are dynamic and the proactive configurations needing adjustments from updates, onboarding, deprovisioning, changing roles and permissions and much more, is endless.  If that's not enough complexity, these applications are managed by various business departments, making it impractical for the security team to exercise complete control.  Jo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Outdated Cryptographic Protocols Put Vast Amounts of Network Traffic at Risk<a href="https://www.helpnetsecurity.com/2023/11/07/outdated-cryptographic-protocols/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent study by Quantum Xchange reveals that a large percentage of network traffic has encryption flaws due to the use of older protocols like TLS 1.0 and SSL v3 and is unencrypted, posing a significant risk to businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Expose Farnetwork's Ransomware-as-a-Service Business Model<a href="https://thehackernews.com/2023/11/experts-expose-farnetworks-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unmasked a prolific threat actor known as farnetwork, who has been linked to five different ransomware-as-a-service (RaaS) programs over the past four years in various capacities. Singapore-headquartered Group-IB, which attempted to infiltrate a private RaaS program that uses the  Nokoyawa   ransomware  strain, said it underwent a "job interview" process with the threat actor, learning several valuable insights into their background and role within those RaaS programs. "Throughout the threat actor's cybercriminal career, which began in 2019, farnetwork has been involved in several connected ransomware projects, including JSWORM, Nefilim, Karma, and Nemty, as part of which they helped develop ransomware and manage the RaaS programs before launching their own RaaS program based on Nokoyawa ransomware," Nikolay Kichatov, threat intelligence analyst at Group-IB,  said . The latest disclosure comes nearly six months after the cyber
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 7, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Palestinian Hackers Group ‘Soldiers of Solomon’ Disrupted the Production Cycle of the Largest Israeli Flour Production Plant<a href="https://securityaffairs.com/153778/security/soldiers-of-solomon-hacked-israel-flour-plant.html?&web_view=true"> Full Text</a>
@@ -50,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2023
+November 07, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 N. Korea's BlueNoroff Blamed for Hacking macOS Machines with ObjCShellz Malware<a href="https://thehackernews.com/2023/11/n-korean-bluenoroff-blamed-for-hacking.html"> Full Text</a>
@@ -66,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2023
+November 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Ransomware Gang Leaks Data Allegedly Stolen From Canadian Hospitals<a href="https://www.securityweek.com/ransomware-gang-leaks-data-allegedly-stolen-from-canadian-hospitals/?&web_view=true"> Full Text</a>
@@ -82,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2023
+November 07, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New GootLoader Malware Variant Evades Detection and Spreads Rapidly<a href="https://thehackernews.com/2023/11/new-gootloader-malware-variant-evades.html"> Full Text</a>
@@ -98,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2023
+November 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 37 Vulnerabilities Patched in Android With November 2023 Security Updates<a href="https://www.securityweek.com/37-vulnerabilities-patched-in-android-with-november-2023-security-updates/?&web_view=true"> Full Text</a>
@@ -114,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2023
+November 07, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Confidence in File Upload Security is Alarmingly Low. Why?<a href="https://thehackernews.com/2023/11/confidence-in-file-upload-security-is.html"> Full Text</a>
@@ -130,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2023
+November 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online Store Zhefengle Exposed Millions of Chinese Citizen IDs<a href="https://techcrunch.com/2023/11/06/store-millions-chinese-citizen-identity-cards/?&web_view=true"> Full Text</a>
@@ -146,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2023
+November 07, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Offensive and Defensive AI: Let's Chat(GPT) About It<a href="https://thehackernews.com/2023/11/offensive-and-defensive-ai-lets-chatgpt.html"> Full Text</a>
@@ -162,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2023
+November 7, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Global Password Practices are Changing<a href="https://www.helpnetsecurity.com/2023/11/06/password-health/?&web_view=true"> Full Text</a>
@@ -178,7 +370,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2023
+November 07, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideCopy Exploiting WinRAR Flaw in Attacks Targeting Indian Government Entities<a href="https://thehackernews.com/2023/11/sidecopy-exploiting-winrar-flaw-in.html"> Full Text</a>
@@ -194,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2023
+November 07, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Warn of Ransomware Hackers Exploiting Atlassian and Apache Flaws<a href="https://thehackernews.com/2023/11/experts-warn-of-ransomware-hackers.html"> Full Text</a>
@@ -210,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 7, 2023
+November 7, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Socks5Systemz Proxy Botnet Infects Around 10,000 Systems Worldwide<a href="https://cyware.com/news/socks5systemz-proxy-botnet-infects-around-10000-systems-worldwide-46e7ea61"> Full Text</a>
@@ -226,7 +418,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 07, 2023
+November 07, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaws Discovered in Veeam ONE IT Monitoring Software – Patch Now<a href="https://thehackernews.com/2023/11/critical-flaws-discovered-in-veeam-one.html"> Full Text</a>
@@ -242,7 +434,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2023
+November 6, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideCopy APT's Multi-Platform Onslaught Targets Indian Government and Defense Entities<a href="https://www.seqrite.com/blog/sidecopys-multi-platform-onslaught-leveraging-winrar-zero-day-and-linux-variant-of-ares-rat/?&web_view=true"> Full Text</a>
@@ -258,7 +450,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 06, 2023
+November 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Jupyter Infostealer Version Emerges with Sophisticated Stealth Tactics<a href="https://thehackernews.com/2023/11/new-jupyter-infostealer-version-emerges.html"> Full Text</a>
@@ -274,7 +466,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2023
+November 6, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Intrusion Delays Poll Worker Training in Mississippi’s Largest County Before the Statewide Vote<a href="https://www.securityweek.com/a-cyber-breach-delays-poll-worker-training-in-mississippis-largest-county-before-the-statewide-vote/?&web_view=true"> Full Text</a>
@@ -290,7 +482,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 06, 2023
+November 06, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP Releases Patch for 2 Critical Flaws Threatening Your NAS Devices<a href="https://thehackernews.com/2023/11/qnap-releases-patch-for-2-critical.html"> Full Text</a>
@@ -306,7 +498,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2023
+November 6, 2023 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK's NCSC Publishes Guidance to Help Firms Prepare for Post-Quantum Cryptography<a href="https://www.ncsc.gov.uk/whitepaper/next-steps-preparing-for-post-quantum-cryptography?&web_view=true"> Full Text</a>
@@ -322,7 +514,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 06, 2023
+November 06, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SecuriDropper: New Android Dropper-as-a-Service Bypasses Google's Defenses<a href="https://thehackernews.com/2023/11/securidropper-new-android-dropper-as.html"> Full Text</a>
@@ -338,7 +530,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2023
+November 6, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US, South Korea and Japan Launch Group to Tackle North Korean Hacking<a href="https://therecord.media/south-korea-japan-us-cyberthreat-body-north-korea-hacking?&web_view=true"> Full Text</a>
@@ -354,7 +546,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 06, 2023
+November 06, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Launches Destructive Cyberattacks on Israeli Tech and Education Sectors<a href="https://thehackernews.com/2023/11/iranian-hackers-launches-destructive.html"> Full Text</a>
@@ -370,7 +562,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2023
+November 6, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian APT Targets Israeli Education, Tech Sectors With New Data Wipers<a href="https://www.securityweek.com/iranian-apt-targets-israeli-education-tech-sectors-with-new-wipers/?&web_view=true"> Full Text</a>
@@ -386,7 +578,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 06, 2023
+November 06, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Warns How Hackers Could Abuse Calendar Service as a Covert C2 Channel<a href="https://thehackernews.com/2023/11/google-warns-of-hackers-absing-calendar.html"> Full Text</a>
@@ -402,7 +594,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 6, 2023
+November 6, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Healthcare’s Road to Redefining Cybersecurity With Modern Solutions<a href="https://www.helpnetsecurity.com/2023/11/03/healthcare-ransomware-data-encryption/?&web_view=true"> Full Text</a>
@@ -418,7 +610,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 06, 2023
+November 06, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Treasury Sanctions Russian Money Launderer in Cybercrime Crackdown<a href="https://thehackernews.com/2023/11/us-treasury-targets-russian-money.html"> Full Text</a>
