@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+November 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guide: How vCISOs, MSPs and MSSPs Can Keep their Customers Safe from Gen AI Risks<a href="https://thehackernews.com/2023/11/guide-how-vcisos-msps-and-mssps-can.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Download the free guide , "It's a Generative AI World: How vCISOs, MSPs and MSSPs Can Keep their Customers Safe from Gen AI Risks." ChatGPT now boasts anywhere from 1.5 to 2 billion visits per month. Countless sales, marketing, HR, IT executive, technical support, operations, finance and other functions are feeding data prompts and queries into generative AI engines. They use these tools to write articles, create content, compose emails, answer customer questions and generate plans and strategies.&nbsp; However, gen AI usage is happening far in advance of efforts to implement safeguards and cybersecurity constraints. Three primary areas of security concern associated with generative AI are: sensitive data included in gen AI scripts, outcomes produced by these tools that may put an organization at risk, and potential hazards related to utilizing third-party generative AI tools. Unchecked AI usage in organizations can lead to:&nbsp; Major data breaches.&nbsp; Compromised identities
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: Kickstarting Your SaaS Security Strategy &amp; Program<a href="https://thehackernews.com/2023/11/webinar-kickstarting-your-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SaaS applications make up 70% of total company software usage, and as businesses increase their reliance on SaaS apps, they also increase their reliance on those applications being secure. These SaaS apps store an incredibly large volume of data so safeguarding the organization's SaaS app stack and data within is paramount. Yet, the path to implementing an effective SaaS security program is&nbsp; not &nbsp;straightforward.&nbsp; There are numerous potential attack vectors. Security teams need to handle the challenge of gaining control over a diverse range of applications, each having its own unique characteristics. Additionally, the SaaS app environments are dynamic and the proactive configurations needing adjustments from updates, onboarding, deprovisioning, changing roles and permissions and much more, is endless.&nbsp; If that's not enough complexity, these applications are managed by various business departments, making it impractical for the security team to exercise complete control.&nbsp; Jo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

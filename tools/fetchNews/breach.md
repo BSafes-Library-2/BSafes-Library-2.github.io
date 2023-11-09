@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+November 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ransomware Gang Leaks Data Allegedly Stolen From Canadian Hospitals<a href="https://www.securityweek.com/ransomware-gang-leaks-data-allegedly-stolen-from-canadian-hospitals/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Five Canadian hospitals have confirmed that patient and employee data stolen in a ransomware attack has been leaked online, impacting millions of patient visits and employee information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Store Zhefengle Exposed Millions of Chinese Citizen IDs<a href="https://techcrunch.com/2023/11/06/store-millions-chinese-citizen-identity-cards/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The database contained over 3.3 million orders from 2015 to 2020, many of which included uploaded copies of customers' government-issued identity cards. The vulnerability was addressed after a security researcher notified the store owners.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Intrusion Delays Poll Worker Training in Mississippi’s Largest County Before the Statewide Vote<a href="https://www.securityweek.com/a-cyber-breach-delays-poll-worker-training-in-mississippis-largest-county-before-the-statewide-vote/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Election officials in Hinds County, Mississippi, had to rush to complete poll worker training after a breach in early September compromised county computers. This caused a delay in processing voter registration forms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

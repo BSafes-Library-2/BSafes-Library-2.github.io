@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+November 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Outdated Cryptographic Protocols Put Vast Amounts of Network Traffic at Risk<a href="https://www.helpnetsecurity.com/2023/11/07/outdated-cryptographic-protocols/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent study by Quantum Xchange reveals that a large percentage of network traffic has encryption flaws due to the use of older protocols like TLS 1.0 and SSL v3 and is unencrypted, posing a significant risk to businesses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

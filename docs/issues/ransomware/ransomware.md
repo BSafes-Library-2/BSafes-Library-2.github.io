@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Expose Farnetwork's Ransomware-as-a-Service Business Model<a href="https://thehackernews.com/2023/11/experts-expose-farnetworks-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have unmasked a prolific threat actor known as farnetwork, who has been linked to five different ransomware-as-a-service (RaaS) programs over the past four years in various capacities. Singapore-headquartered Group-IB, which attempted to infiltrate a private RaaS program that uses the&nbsp; Nokoyawa &nbsp; ransomware &nbsp;strain, said it underwent a "job interview" process with the threat actor, learning several valuable insights into their background and role within those RaaS programs. "Throughout the threat actor's cybercriminal career, which began in 2019, farnetwork has been involved in several connected ransomware projects, including JSWORM, Nefilim, Karma, and Nemty, as part of which they helped develop ransomware and manage the RaaS programs before launching their own RaaS program based on Nokoyawa ransomware," Nikolay Kichatov, threat intelligence analyst at Group-IB,&nbsp; said . The latest disclosure comes nearly six months after the cyber
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

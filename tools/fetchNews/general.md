@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+November 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Confidence in File Upload Security is Alarmingly Low. Why?<a href="https://thehackernews.com/2023/11/confidence-in-file-upload-security-is.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Numerous industries—including technology, financial services, energy, healthcare, and government—are rushing to incorporate cloud-based and containerized web applications.&nbsp; The benefits are undeniable; however, this shift presents new security challenges.&nbsp; OPSWAT's 2023 Web Application Security report &nbsp;reveals: 75% of organizations have modernized their infrastructure this year. 78% have increased their security budgets. Yet just 2% are confident in their security posture. Let's explore why confidence in security lags infrastructure upgrades and how OPSWAT closes that gap. Evolving Infrastructure Outpaces Security Upgrades. The pace of security upgrades struggles to keep up with technological advancements. This gap is especially visible in file upload security. Companies are updating their infrastructure by embracing distributed, scalable applications that leverage microservices and cloud solutions—creating new avenues of attack for criminals. Cloud Hosting&nbsp; Businesse
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Offensive and Defensive AI: Let's Chat(GPT) About It<a href="https://thehackernews.com/2023/11/offensive-and-defensive-ai-lets-chatgpt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ChatGPT: Productivity tool, great for writing poems, and… a security risk?! In this article, we show how threat actors can exploit ChatGPT, but also how defenders can use it for leveling up their game. ChatGPT is the most swiftly growing consumer application to date. The extremely popular generative AI chatbot has the ability to generate human-like, coherent and contextually relevant responses. This makes it very valuable for applications like content creation, coding, education, customer support, and even personal assistance. However, ChatGPT also comes with security risks. ChatGPT can be used for data exfiltration, spreading misinformation, developing cyber attacks and writing phishing emails. On the flip side, it can help defenders who can use it for identifying vulnerabilities and learning about various defenses. In this article, we show numerous ways attackers can exploit ChatGPT and the OpenAI Playground. Just as importantly, we show ways that defenders can leverage ChatGPT t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Global Password Practices are Changing<a href="https://www.helpnetsecurity.com/2023/11/06/password-health/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password health and hygiene have improved globally over the past year, reducing the risk of account takeover. However, password reuse remains prevalent, making user accounts vulnerable to password-spraying attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Healthcare’s Road to Redefining Cybersecurity With Modern Solutions<a href="https://www.helpnetsecurity.com/2023/11/03/healthcare-ransomware-data-encryption/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Sophos, the rate of data encryption following a ransomware attack in the healthcare sector has reached its highest level in the last three years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

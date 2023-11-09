@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+November 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideCopy Exploiting WinRAR Flaw in Attacks Targeting Indian Government Entities<a href="https://thehackernews.com/2023/11/sidecopy-exploiting-winrar-flaw-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pakistan-linked threat actor known as&nbsp; SideCopy &nbsp;has been observed leveraging the recent WinRAR security vulnerability in its attacks targeting Indian government entities to deliver various remote access trojans such as AllaKore RAT, Ares RAT, and DRat. Enterprise security firm SEQRITE described the campaign as multi-platform, with the attacks also designed to infiltrate Linux systems with a compatible version of Ares RAT. SideCopy, active since at least 2019, is&nbsp; known &nbsp;for its&nbsp; attacks &nbsp;on Indian and Afghanistan entities. It's suspected to be a sub-group of the Transparent Tribe (aka APT36) actor. "Both SideCopy and APT36 share infrastructure and code to aggressively target India," SEQRITE researcher Sathwik Ram Prakki&nbsp; said &nbsp;in a Monday report. Earlier this May, the group was&nbsp; linked &nbsp;to a phishing campaign that took advantage of lures related to India's Defence Research and Development Organization (DRDO) to deliver information-stealing malware. Since
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of Ransomware Hackers Exploiting Atlassian and Apache Flaws<a href="https://thehackernews.com/2023/11/experts-warn-of-ransomware-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple ransomware groups have begun to actively exploit recently disclosed flaws in Atlassian Confluence and Apache ActiveMQ. Cybersecurity firm Rapid7&nbsp; said &nbsp;it observed the exploitation of&nbsp; CVE-2023-22518 &nbsp;and&nbsp; CVE-2023-22515 &nbsp;in multiple customer environments, some of which have been leveraged for the deployment of&nbsp; Cerber &nbsp;(aka&nbsp; C3RB3R ) ransomware. Both vulnerabilities are critical, allowing threat actors to create unauthorized Confluence administrator accounts and lead to data loss. Atlassian, on November 6,&nbsp; updated its advisory &nbsp;to note that it observed "several active exploits and reports of threat actors using ransomware" and that it is revising the CVSS score of the flaw from 9.8 to 10.0, indicating maximum severity. The escalation, the Australian company said, is due to the change in the scope of the attack. Attack chains involve mass exploitation of vulnerable internet-facing Atlassian Confluence servers to fetch a malicious payload hosted on a remote s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Launches Destructive Cyberattacks on Israeli Tech and Education Sectors<a href="https://thehackernews.com/2023/11/iranian-hackers-launches-destructive.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israeli higher education and tech sectors have been targeted as part of a series of destructive cyber attacks that commenced in January 2023 with an aim to deploy previously undocumented wiper malware. The intrusions, which took place as recently as October, have been attributed to an Iranian nation-state hacking crew it tracks under the name Agonizing Serpens, which is also known as Agrius, BlackShadow and Pink Sandstorm (previously Americium). "The attacks are characterized by attempts to steal sensitive data, such as personally identifiable information (PII) and intellectual property," Palo Alto Networks Unit 42 said in a new report shared with The Hacker News. "Once the attackers stole the information, they deployed various wipers intended to cover the attackers' tracks and to render the infected endpoints unusable." This includes three different novel wipers such as MultiLayer, PartialWasher, and BFG Agonizer, as well as a bespoke tool to extract inf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

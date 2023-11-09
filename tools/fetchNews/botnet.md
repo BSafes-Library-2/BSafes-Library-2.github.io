@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Socks5Systemz Proxy Botnet Infects Around 10,000 Systems Worldwide<a href="https://cyware.com/news/socks5systemz-proxy-botnet-infects-around-10000-systems-worldwide-46e7ea61"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security experts took the wraps off of Socks5Systemz, a proxy botnet distributed through PrivateLoader and Amadey, affecting approximately 10,000 systems globally.  BitSight mapped at least 53 servers of Socks5Systemz, all located in Europe and distributed across France, Bulgaria, Netherlands, and  ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

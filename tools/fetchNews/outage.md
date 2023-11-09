@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Palestinian Hackers Group ‘Soldiers of Solomon’ Disrupted the Production Cycle of the Largest Israeli Flour Production Plant<a href="https://securityaffairs.com/153778/security/soldiers-of-solomon-hacked-israel-flour-plant.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This attack on the flour plant is part of a series of cyber attacks by the group on Israeli organizations, including a successful attack on the Ashalim Power Station and taking control of military servers and systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
