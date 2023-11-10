@@ -34,6 +34,182 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Transcription Hack Affects 1.2 Million Chicagoans<a href="https://www.bankinfosecurity.com/medical-transcription-hack-affects-12-million-chicagoans-a-23555?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach exposed sensitive patient data, including names, birthdates, addresses, medical information, and potentially Social Security numbers, emphasizing the risk of identity theft and healthcare fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Alert: Lace Tempest Exploits SysAid IT Support Software Vulnerability<a href="https://thehackernews.com/2023/11/zero-day-alert-lace-tempest-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as Lace Tempest has been linked to the exploitation of a zero-day flaw in SysAid IT support software in limited attacks, according to new findings from Microsoft. Lace Tempest, which is known for distributing the Cl0p ransomware, has in the past leveraged zero-day flaws in  MOVEit Transfer  and  PaperCut servers . The issue, tracked as  CVE-2023-47246 , concerns a path traversal flaw that could result in code execution within on-premise installations. It has been patched by SysAid in version 23.3.36 of the software. "After exploiting the vulnerability, Lace Tempest issued commands via the SysAid software to deliver a malware loader for the Gracewire malware," Microsoft  said . "This is typically followed by human-operated activity, including lateral movement, data theft, and ransomware deployment." According to SysAid, the threat actor has been  observed  uploading a WAR archive containing a web shell and other payloads into the webroot
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Impersonate Windows News Portal to Distribute RedLine Stealer<a href="https://cyware.com/news/threat-actors-impersonate-windows-news-portal-to-distribute-redline-stealer-7b320bfd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malvertising campaign has been observed wherein threat actors are copying a legitimate Windows news portal to promote a malicious installer for the popular processor tool CPU-Z.  Based on the infrastructure, domain names, and cloaking templates used, researchers believe the incident is part o ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malvertising Campaign Uses Fake Windows News Portal to Distribute Malicious Installers<a href="https://thehackernews.com/2023/11/new-malvertising-campaign-uses-fake.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new  malvertising campaign  has been found to employ fake sites that masquerade as legitimate Windows news portal to propagate a malicious installer for a popular system profiling tool called CPU-Z. "This incident is a part of a larger malvertising campaign that targets other utilities like Notepad++, Citrix, and VNC Viewer as seen in its infrastructure (domain names) and cloaking templates used to avoid detection," Malwarebytes' Jérôme Segura  said . While malvertising campaigns are known to set up replica sites advertising widely-used software, the latest activity marks a deviation in that the website mimics WindowsReport[.]com. The goal is to trick unsuspecting users searching for CPU-Z on search engines like Google by serving malicious ads that, when clicked, redirect them to the fake portal (workspace-app[.]online). At the same time, users who are not the intended victims of the campaign are served an innocuous blog with different articles, a technique known a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BlazeStealer Malware in PyPI Targets Developers<a href="https://cyware.com/news/new-blazestealer-malware-in-pypi-targets-developers-666fe1bd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new set of malicious Python packages has been discovered on the Python Package Index (PyPI) repository. These packages masquerade as harmless obfuscation tools but contain a malware called   BlazeStealer . The campaign started in January 2023 and includes eight packages. Developers must stay ale ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When Email Security Meets SaaS Security: Uncovering Risky Auto-Forwarding Rules<a href="https://thehackernews.com/2023/11/when-email-security-meets-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While intended for convenience and efficient communication, email auto-forwarding rules can inadvertently lead to the unauthorized dissemination of sensitive information to external entities, putting confidential data at risk of exposure to unauthorized parties. Wing Security (Wing), a SaaS security company,  announced yesterday  that their SaaS shadow IT discovery methods now include a solution that solves for auto-email forwarding as well. While Wing's shadow IT solution is  offered as a free tool  that can be onboarded and used as a self-service, users willing to upgrade will be able to enjoy the company's new Gmail and Outlook integrations, which broaden the company's discovery capabilities and extend their data security features. The risks of email auto-forwarding rules Auto-forwarding emails is a great way to save time on repetitive tasks and are therefore very popular among employees who regularly collaborate and share information with external business partners.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Sandworm APT Group Caused Power Outage in October 2022<a href="https://www.bankinfosecurity.com/russian-sandworm-hackers-caused-power-outage-in-october-2022-a-23549?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack was not driven by military necessity but rather aimed to increase the psychological toll of the war, showcasing Russia's focus on disrupting and degrading military readiness through cyber means.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MuddyC2Go: New C2 Framework Iranian Hackers Using Against Israel<a href="https://thehackernews.com/2023/11/muddyc2go-new-c2-framework-iranian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian nation-state actors have been observed using a previously undocumented command-and-control (C2) framework called  MuddyC2Go  as part of  attacks targeting Israel . "The framework's web component is written in the Go programming language," Deep Instinct security researcher Simon Kenin  said  in a technical report published Wednesday. The tool has been attributed to  MuddyWater , an  Iranian   state-sponsored   hacking   crew  that's affiliated to the country's Ministry of Intelligence and Security (MOIS). The cybersecurity firm said the C2 framework may have been put to use by the threat actor since early 2020, with recent attacks leveraging it in place of PhonyC2, another custom C2 platform from MuddyWater that came to light in June 2023 and has had its source code leaked. Typical attack sequences observed over the years have involved sending spear-phishing emails bearing malware-laced archives or bogus links that lead to the deployment of legitimate
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SysAid Zero-Day Vulnerability Exploited by Ransomware Group<a href="https://www.securityweek.com/sysaid-zero-day-vulnerability-exploited-by-ransomware-group/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2023-47246, allows for arbitrary code execution and has been exploited by a threat actor known as Lace Tempest, who is associated with the deployment of Cl0p ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 09, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Alerts: High-Severity SLP Vulnerability Now Under Active Exploitation<a href="https://thehackernews.com/2023/11/cisa-alerts-high-severity-slp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday  added  a high-severity flaw in the Service Location Protocol (SLP) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Tracked as  CVE-2023-29552  (CVSS score: 7.5), the issue relates to a denial-of-service (DoS) vulnerability that could be weaponized to launch massive DoS amplification attacks. It was  disclosed  by Bitsight and Curesec earlier this April. "The Service Location Protocol (SLP) contains a denial-of-service (DoS) vulnerability that could allow an unauthenticated, remote attacker to register services and use spoofed UDP traffic to conduct a denial-of-service (DoS) attack with a significant amplification factor," CISA  said . SLP is a protocol that allows systems on a local area network (LAN) to discover each other and establish communications. The exact details surrounding the nature of exploitation of the flaw are currently unknown, bu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Council for Scottish Islands Faces IT Outage After ‘Incident’<a href="https://therecord.media/scotland-western-isles-comhairle-nan-eilean-siar-incident?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations must urgently apply the patch for the Citrix vulnerability, CitrixBleed, and actively hunt for any malicious activity to prevent session hijacking and data breaches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
