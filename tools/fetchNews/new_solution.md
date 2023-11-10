@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+When Email Security Meets SaaS Security: Uncovering Risky Auto-Forwarding Rules<a href="https://thehackernews.com/2023/11/when-email-security-meets-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While intended for convenience and efficient communication, email auto-forwarding rules can inadvertently lead to the unauthorized dissemination of sensitive information to external entities, putting confidential data at risk of exposure to unauthorized parties. Wing Security (Wing), a SaaS security company,&nbsp; announced yesterday&nbsp; that their SaaS shadow IT discovery methods now include a solution that solves for auto-email forwarding as well. While Wing's shadow IT solution is&nbsp; offered as a free tool &nbsp;that can be onboarded and used as a self-service, users willing to upgrade will be able to enjoy the company's new Gmail and Outlook integrations, which broaden the company's discovery capabilities and extend their data security features. The risks of email auto-forwarding rules Auto-forwarding emails is a great way to save time on repetitive tasks and are therefore very popular among employees who regularly collaborate and share information with external business partners.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

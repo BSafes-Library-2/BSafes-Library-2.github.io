@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+November 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Introduces New Privacy Feature to Protect IP Address in Calls<a href="https://thehackernews.com/2023/11/whatsapp-introduces-new-privacy-feature.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta-owned WhatsApp is officially rolling out a&nbsp; new privacy feature &nbsp;in its messaging service called "Protect IP Address in Calls" that masks users' IP addresses to other parties by relaying the calls through its servers. "Calls are end-to-end encrypted, so even if a call is relayed through WhatsApp servers, WhatsApp cannot listen to your calls," the company said in a statement shared with The Hacker News. The core idea is to make it harder for bad actors in the call to infer a user's location by securely relaying the connection through WhatsApp servers. However, a tradeoff to enabling the privacy option is a slight dip in call quality. Viewed in that light, it's akin to Apple's&nbsp; iCloud Private Relay , which adds an anonymity layer by&nbsp; routing users' Safari browsing sessions &nbsp;through two secure internet relays. It's worth noting that the "Protect IP Address in Calls" feature has been under development since at least late Augu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 03, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

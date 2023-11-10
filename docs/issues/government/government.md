@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Alerts: High-Severity SLP Vulnerability Now Under Active Exploitation<a href="https://thehackernews.com/2023/11/cisa-alerts-high-severity-slp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday&nbsp; added &nbsp;a high-severity flaw in the Service Location Protocol (SLP) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Tracked as&nbsp; CVE-2023-29552 &nbsp;(CVSS score: 7.5), the issue relates to a denial-of-service (DoS) vulnerability that could be weaponized to launch massive DoS amplification attacks. It was&nbsp; disclosed &nbsp;by Bitsight and Curesec earlier this April. "The Service Location Protocol (SLP) contains a denial-of-service (DoS) vulnerability that could allow an unauthenticated, remote attacker to register services and use spoofed UDP traffic to conduct a denial-of-service (DoS) attack with a significant amplification factor," CISA&nbsp; said . SLP is a protocol that allows systems on a local area network (LAN) to discover each other and establish communications. The exact details surrounding the nature of exploitation of the flaw are currently unknown, bu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

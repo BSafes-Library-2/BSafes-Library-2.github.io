@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Sandworm APT Group Caused Power Outage in October 2022<a href="https://www.bankinfosecurity.com/russian-sandworm-hackers-caused-power-outage-in-october-2022-a-23549?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack was not driven by military necessity but rather aimed to increase the psychological toll of the war, showcasing Russia's focus on disrupting and degrading military readiness through cyber means.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

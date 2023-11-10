@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 09, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Alert: Lace Tempest Exploits SysAid IT Support Software Vulnerability<a href="https://thehackernews.com/2023/11/zero-day-alert-lace-tempest-exploits.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as Lace Tempest has been linked to the exploitation of a zero-day flaw in SysAid IT support software in limited attacks, according to new findings from Microsoft. Lace Tempest, which is known for distributing the Cl0p ransomware, has in the past leveraged zero-day flaws in&nbsp; MOVEit Transfer &nbsp;and&nbsp; PaperCut servers . The issue, tracked as&nbsp; CVE-2023-47246 , concerns a path traversal flaw that could result in code execution within on-premise installations. It has been patched by SysAid in version 23.3.36 of the software. "After exploiting the vulnerability, Lace Tempest issued commands via the SysAid software to deliver a malware loader for the Gracewire malware," Microsoft&nbsp; said . "This is typically followed by human-operated activity, including lateral movement, data theft, and ransomware deployment." According to SysAid, the threat actor has been&nbsp; observed &nbsp;uploading a WAR archive containing a web shell and other payloads into the webroot
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

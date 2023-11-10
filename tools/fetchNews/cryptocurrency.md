@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+November 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Undetectable Crypto Mining Technique on Azure Automation<a href="https://thehackernews.com/2023/11/researchers-uncover-undetectable-crypto.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have developed what's the first fully undetectable cloud-based cryptocurrency miner leveraging the Microsoft&nbsp; Azure Automation &nbsp;service without racking up any charges. Cybersecurity company SafeBreach said it discovered three different methods to run the miner, including one that can be executed on a victim's environment without attracting any attention. "While this research is significant because of its potential impact on cryptocurrency mining, we also believe it has serious implications for other areas, as the techniques could be used to achieve any task that requires code execution on Azure," security researcher Ariel Gamrian&nbsp; said &nbsp;in a report shared with The Hacker News. The study mainly set out to identify an "ultimate crypto miner" that offers unlimited access to computational resources, while simultaneously requiring little-to-no maintenance, is cost-free, and undetectable. That's where Azure Automation comes in.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

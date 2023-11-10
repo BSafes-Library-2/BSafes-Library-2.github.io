@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+November 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sumo Logic Urges Users to Change Credentials Due to Security Breach<a href="https://www.securityweek.com/sumo-logic-urges-users-to-change-credentials-due-to-security-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company revealed on Tuesday that a “potential security incident” discovered on November 3 involved unauthorized access to a Sumo Logic AWS account through the use of compromised credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan Aviation Electronics Says Servers Accessed During Cyberattack<a href="https://therecord.media/japan-aviation-electronics-says-servers-accessed-during-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Monday evening, the maker of electronics and aerospace products replaced its website with a static message indicating some of its servers were accessed by hackers last Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Leaks 35 Million Scraped LinkedIn User Records<a href="https://www.hackread.com/hacker-leaks-scraped-linkedin-user-records/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The contents of the leaked database on BreachForums, as observed by Hackread.com, include publicly available information from LinkedIn profiles, containing full names and profile bios.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

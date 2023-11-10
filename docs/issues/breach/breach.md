@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Transcription Hack Affects 1.2 Million Chicagoans<a href="https://www.bankinfosecurity.com/medical-transcription-hack-affects-12-million-chicagoans-a-23555?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach exposed sensitive patient data, including names, birthdates, addresses, medical information, and potentially Social Security numbers, emphasizing the risk of identity theft and healthcare fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

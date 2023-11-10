@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2023
+November 9, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Medical Transcription Hack Affects 1.2 Million Chicagoans<a href="https://www.bankinfosecurity.com/medical-transcription-hack-affects-12-million-chicagoans-a-23555?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 09, 2023
+November 09, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero-Day Alert: Lace Tempest Exploits SysAid IT Support Software Vulnerability<a href="https://thehackernews.com/2023/11/zero-day-alert-lace-tempest-exploits.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2023
+November 9, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Impersonate Windows News Portal to Distribute RedLine Stealer<a href="https://cyware.com/news/threat-actors-impersonate-windows-news-portal-to-distribute-redline-stealer-7b320bfd"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 09, 2023
+November 09, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Malvertising Campaign Uses Fake Windows News Portal to Distribute Malicious Installers<a href="https://thehackernews.com/2023/11/new-malvertising-campaign-uses-fake.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2023
+November 9, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BlazeStealer Malware in PyPI Targets Developers<a href="https://cyware.com/news/new-blazestealer-malware-in-pypi-targets-developers-666fe1bd"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 09, 2023
+November 09, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 When Email Security Meets SaaS Security: Uncovering Risky Auto-Forwarding Rules<a href="https://thehackernews.com/2023/11/when-email-security-meets-saas-security.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2023
+November 9, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Sandworm APT Group Caused Power Outage in October 2022<a href="https://www.bankinfosecurity.com/russian-sandworm-hackers-caused-power-outage-in-october-2022-a-23549?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 09, 2023
+November 09, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MuddyC2Go: New C2 Framework Iranian Hackers Using Against Israel<a href="https://thehackernews.com/2023/11/muddyc2go-new-c2-framework-iranian.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2023
+November 9, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SysAid Zero-Day Vulnerability Exploited by Ransomware Group<a href="https://www.securityweek.com/sysaid-zero-day-vulnerability-exploited-by-ransomware-group/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 09, 2023
+November 09, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Alerts: High-Severity SLP Vulnerability Now Under Active Exploitation<a href="https://thehackernews.com/2023/11/cisa-alerts-high-severity-slp.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 9, 2023
+November 9, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Council for Scottish Islands Faces IT Outage After ‘Incident’<a href="https://therecord.media/scotland-western-isles-comhairle-nan-eilean-siar-incident?&web_view=true"> Full Text</a>
