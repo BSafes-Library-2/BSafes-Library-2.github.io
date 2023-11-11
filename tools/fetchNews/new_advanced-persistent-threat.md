@@ -8,6 +8,34 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New APT Group DarkCasino and the Global Surge in WinRAR 0-Day Exploits<a href="https://securityboulevard.com/2023/11/the-new-apt-group-darkcasino-and-the-global-surge-in-winrar-0-day-exploits/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkCasino exploited a WinRAR 0-day vulnerability (CVE-2023-38831) to launch phishing attacks against forum users, posing a significant threat due to the large installed base and difficulty in identifying and defending against these attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Sandworm Cause Power Outage in Ukraine Amidst Missile Strikes<a href="https://thehackernews.com/2023/11/russian-hackers-sandworm-cause-power.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious Russian hackers known as&nbsp; Sandworm &nbsp;targeted an electrical substation in Ukraine last year, causing a brief power outage in October 2022. The findings come from Google's Mandiant, which described the hack as a "multi-event cyber attack" leveraging a novel technique for impacting industrial control systems (ICS). "The actor first used OT-level living-off-the-land ( LotL ) techniques to likely trip the victim's substation circuit breakers, causing an unplanned power outage that coincided with mass missile strikes on critical infrastructure across Ukraine," the company&nbsp; said . "Sandworm later conducted a second disruptive event by deploying a new variant of&nbsp; CaddyWiper &nbsp;in the victim's IT environment." The threat intelligence firm did not reveal the location of the targeted energy facility, the duration of the blackout, and the number of people who were impacted by the incident. The development marks Sandworm's&nbsp; continuous
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

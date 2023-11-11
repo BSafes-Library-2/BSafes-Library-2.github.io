@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The New 80/20 Rule for SecOps: Customize Where it Matters, Automate the Rest<a href="https://thehackernews.com/2023/11/the-new-8020-rule-for-secops-customize.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is a seemingly never-ending quest to find the right security tools that offer the right capabilities for your organization. SOC teams tend to spend about a&nbsp; third of their day &nbsp;on events that don't pose any threat to their organization, and this has accelerated the adoption of automated solutions to take the place of (or augment) inefficient and cumbersome SIEMs. With an estimated&nbsp; 80% of these threats &nbsp;being common across most organizations, today's SOCs are able to confidently rely on automation to cover this large percentage of threat signals.&nbsp; But, while it is true that automation can greatly improve the efficiency and effectiveness of security teams, it will never be able to cover all detection and response use cases infallibly.&nbsp; In the recently released&nbsp; GigaOm Radar for Autonomous Security Operations Center (SOC) , they accurately state that "the SOC will not—and should not—be fully autonomous."&nbsp; As more vendors attempt to challenge the dominant players in the SIEM c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

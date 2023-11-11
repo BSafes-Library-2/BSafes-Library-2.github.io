@@ -34,6 +34,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spammers Abuse Google Forms Quizzes to Perform Scams<a href="https://cyware.com/news/spammers-abuse-google-forms-quizzes-to-perform-scams-2cec1586"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco's Talos Intelligence blog reveals a sophisticated spam exploit using Google Forms' quiz results feature, collecting email addresses subtly via a quiz template. The spammer leverages Google's infrastructure to send phishing emails, bypassing spam blockers until Google addresses this method, ul ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Continues to Affect Operations at Tri-City Medical Center in San Diego<a href="https://www.sandiegouniontribune.com/news/health/story/2023-11-10/cyberattack-continues-to-affect-operations-at-tri-city-medical-center-in-oceanside?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hospital has taken its information systems offline and is working with cybersecurity specialists and law enforcement to restore functionality, but it is unclear if a ransom has been demanded or if patient data has been compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After ChatGPT, Anonymous Sudan Took Down Cloudflare Website<a href="https://securityaffairs.com/154002/hacktivism/anonymous-sudan-ddos-on-cloudflare.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack caused intermittent connectivity issues for a few minutes but did not impact any services or products provided by Cloudflare. The group claims to have used the Skynet and Godzilla botnets for the recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: McLaren Health Care Revealed That a Data Breach Impacted 2.2 Million People<a href="https://securityaffairs.com/154014/data-breach/mclaren-health-care-data-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ALPHV/BlackCat ransomware group claimed responsibility for the breach and accused McLaren of attempting to cover it up, stating that they still have access to the organization's network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington State Department of Transportation Working To Recover From Cyberattack<a href="https://therecord.media/washington-state-department-of-transportation-recovering-from-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cause of the cyberattack is under investigation, and while some parts of the website are back up, certain features such as the travel map and online freight permits remain out of service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New APT Group DarkCasino and the Global Surge in WinRAR 0-Day Exploits<a href="https://securityboulevard.com/2023/11/the-new-apt-group-darkcasino-and-the-global-surge-in-winrar-0-day-exploits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DarkCasino exploited a WinRAR 0-day vulnerability (CVE-2023-38831) to launch phishing attacks against forum users, posing a significant threat due to the large installed base and difficulty in identifying and defending against these attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Sandworm Cause Power Outage in Ukraine Amidst Missile Strikes<a href="https://thehackernews.com/2023/11/russian-hackers-sandworm-cause-power.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious Russian hackers known as  Sandworm  targeted an electrical substation in Ukraine last year, causing a brief power outage in October 2022. The findings come from Google's Mandiant, which described the hack as a "multi-event cyber attack" leveraging a novel technique for impacting industrial control systems (ICS). "The actor first used OT-level living-off-the-land ( LotL ) techniques to likely trip the victim's substation circuit breakers, causing an unplanned power outage that coincided with mass missile strikes on critical infrastructure across Ukraine," the company  said . "Sandworm later conducted a second disruptive event by deploying a new variant of  CaddyWiper  in the victim's IT environment." The threat intelligence firm did not reveal the location of the targeted energy facility, the duration of the blackout, and the number of people who were impacted by the incident. The development marks Sandworm's  continuous
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The New 80/20 Rule for SecOps: Customize Where it Matters, Automate the Rest<a href="https://thehackernews.com/2023/11/the-new-8020-rule-for-secops-customize.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There is a seemingly never-ending quest to find the right security tools that offer the right capabilities for your organization. SOC teams tend to spend about a  third of their day  on events that don't pose any threat to their organization, and this has accelerated the adoption of automated solutions to take the place of (or augment) inefficient and cumbersome SIEMs. With an estimated  80% of these threats  being common across most organizations, today's SOCs are able to confidently rely on automation to cover this large percentage of threat signals.  But, while it is true that automation can greatly improve the efficiency and effectiveness of security teams, it will never be able to cover all detection and response use cases infallibly.  In the recently released  GigaOm Radar for Autonomous Security Operations Center (SOC) , they accurately state that "the SOC will not—and should not—be fully autonomous."  As more vendors attempt to challenge the dominant players in the SIEM c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: 'Effluence' Backdoor Persists Despite Patching Atlassian Confluence Servers<a href="https://thehackernews.com/2023/11/alert-effluence-backdoor-persists.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a stealthy backdoor named  Effluence  that's deployed following the successful exploitation of a recently disclosed security flaw in Atlassian Confluence Data Center and Server. "The malware acts as a persistent backdoor and is not remediated by applying patches to Confluence," Aon's Stroz Friedberg Incident Response Services  said  in an analysis published earlier this week. "The backdoor provides capability for lateral movement to other network resources in addition to exfiltration of data from Confluence. Importantly, attackers can access the backdoor remotely without authenticating to Confluence." The attack chain documented by the cybersecurity entity entailed the exploitation of  CVE-2023-22515  (CVSS score: 10.0), a critical bug in Atlassian that could be abused to create unauthorized Confluence administrator accounts and access Confluence servers. Atlassian has since disclosed a second flaw known as  CV
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-Linked Imperial Kitten Cyber Group Targeting Middle East's Tech Sectors<a href="https://thehackernews.com/2023/11/iran-linked-imperial-kitten-cyber-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group with links to Iran targeted transportation, logistics, and technology sectors in the Middle East, including Israel, in October 2023 amid a surge in Iranian cyber activity since the onset of the Israel-Hamas war. The attacks have been attributed by CrowdStrike to a threat actor it tracks under the name  Imperial Kitten , and which is also known as Crimson Sandstorm (previously Curium), TA456, Tortoiseshell, and Yellow Liderc. The latest findings from the company build on prior reports from  Mandiant ,  ClearSky , and  PwC , the latter of which also detailed instances of strategic web compromises (aka watering hole attacks) leading to the deployment of IMAPLoader on infected systems. "The adversary, active since at least 2017, likely fulfills Iranian strategic intelligence requirements associated with IRGC operations," CrowdStrike  said  in a technical report. "Its activity is characterized by its use of social engineering, particularly job recruitment-themed content, to deli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealthy Kamran Spyware Targeting Urdu-speaking Users in Gilgit-Baltistan<a href="https://thehackernews.com/2023/11/stealthy-kamran-spyware-targeting-urdu.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Urdu-speaking readers of a regional news website that caters to the Gilgit-Baltistan region have likely emerged as a target of a watering hole attack designed to deliver a previously undocumented Android spyware dubbed  Kamran . The campaign, ESET has  discovered , leverages Hunza News (urdu.hunzanews[.]net), which, when opened on a mobile device, prompts visitors of the Urdu version to install its Android app directly hosted on the website. The app, however, incorporates malicious espionage capabilities, with the attack compromising at least 20 mobile devices to date. It has been available on the website since sometime between January 7, and March 21, 2023, around when  massive protests  were held in the region over land rights, taxation, and extensive power cuts. The malware, activated upon package installation, requests for intrusive permissions, allowing it to harvest sensitive information from the devices.  This includes contacts, call logs, calendar events, location informa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 10, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial and Commercial Bank of China Dealing With LockBit Ransomware Attack<a href="https://therecord.media/icbc-dealing-with-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ICBC informed clients that a cybersecurity issue would require them to reroute trades and temporarily stop accepting orders. The attack highlights the vulnerability of critical infrastructure providers, such as the financial sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 9, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

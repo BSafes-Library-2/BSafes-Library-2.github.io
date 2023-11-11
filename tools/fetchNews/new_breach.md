@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: McLaren Health Care Revealed That a Data Breach Impacted 2.2 Million People<a href="https://securityaffairs.com/154014/data-breach/mclaren-health-care-data-breach.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ALPHV/BlackCat ransomware group claimed responsibility for the breach and accused McLaren of attempting to cover it up, stating that they still have access to the organization's network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

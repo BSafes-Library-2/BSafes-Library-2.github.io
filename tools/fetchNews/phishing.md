@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Impersonate Windows News Portal to Distribute RedLine Stealer<a href="https://cyware.com/news/threat-actors-impersonate-windows-news-portal-to-distribute-redline-stealer-7b320bfd"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malvertising campaign has been observed wherein threat actors are copying a legitimate Windows news portal to promote a malicious installer for the popular processor tool CPU-Z.  Based on the infrastructure, domain names, and cloaking templates used, researchers believe the incident is part o ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

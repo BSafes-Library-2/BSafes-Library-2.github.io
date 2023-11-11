@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spammers Abuse Google Forms Quizzes to Perform Scams<a href="https://cyware.com/news/spammers-abuse-google-forms-quizzes-to-perform-scams-2cec1586"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco's Talos Intelligence blog reveals a sophisticated spam exploit using Google Forms' quiz results feature, collecting email addresses subtly via a quiz template. The spammer leverages Google's infrastructure to send phishing emails, bypassing spam blockers until Google addresses this method, ul ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

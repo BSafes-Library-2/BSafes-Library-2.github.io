@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-Linked Imperial Kitten Cyber Group Targeting Middle East's Tech Sectors<a href="https://thehackernews.com/2023/11/iran-linked-imperial-kitten-cyber-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group with links to Iran targeted transportation, logistics, and technology sectors in the Middle East, including Israel, in October 2023 amid a surge in Iranian cyber activity since the onset of the Israel-Hamas war. The attacks have been attributed by CrowdStrike to a threat actor it tracks under the name&nbsp; Imperial Kitten , and which is also known as Crimson Sandstorm (previously Curium), TA456, Tortoiseshell, and Yellow Liderc. The latest findings from the company build on prior reports from&nbsp; Mandiant ,&nbsp; ClearSky , and&nbsp; PwC , the latter of which also detailed instances of strategic web compromises (aka watering hole attacks) leading to the deployment of IMAPLoader on infected systems. "The adversary, active since at least 2017, likely fulfills Iranian strategic intelligence requirements associated with IRGC operations," CrowdStrike&nbsp; said &nbsp;in a technical report. "Its activity is characterized by its use of social engineering, particularly job recruitment-themed content, to deli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 10, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industrial and Commercial Bank of China Dealing With LockBit Ransomware Attack<a href="https://therecord.media/icbc-dealing-with-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ICBC informed clients that a cybersecurity issue would require them to reroute trades and temporarily stop accepting orders. The attack highlights the vulnerability of critical infrastructure providers, such as the financial sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

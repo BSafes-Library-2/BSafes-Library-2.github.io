@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Council for Scottish Islands Faces IT Outage After ‘Incident’<a href="https://therecord.media/scotland-western-isles-comhairle-nan-eilean-siar-incident?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations must urgently apply the patch for the Citrix vulnerability, CitrixBleed, and actively hunt for any malicious activity to prevent session hijacking and data breaches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

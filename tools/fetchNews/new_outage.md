@@ -8,6 +8,48 @@ nav_order: 900140
 
 ## Outage
 ---
+November 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Continues to Affect Operations at Tri-City Medical Center in San Diego<a href="https://www.sandiegouniontribune.com/news/health/story/2023-11-10/cyberattack-continues-to-affect-operations-at-tri-city-medical-center-in-oceanside?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hospital has taken its information systems offline and is working with cybersecurity specialists and law enforcement to restore functionality, but it is unclear if a ransom has been demanded or if patient data has been compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After ChatGPT, Anonymous Sudan Took Down Cloudflare Website<a href="https://securityaffairs.com/154002/hacktivism/anonymous-sudan-ddos-on-cloudflare.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack caused intermittent connectivity issues for a few minutes but did not impact any services or products provided by Cloudflare. The group claims to have used the Skynet and Godzilla botnets for the recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington State Department of Transportation Working To Recover From Cyberattack<a href="https://therecord.media/washington-state-department-of-transportation-recovering-from-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cause of the cyberattack is under investigation, and while some parts of the website are back up, certain features such as the travel map and online freight permits remain out of service.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
