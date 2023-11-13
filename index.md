@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Fake Skills Assessment Portals Targeting IT Job Seekers<a href="https://thehackernews.com/2023/11/microsoft-warns-of-fake-skills.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sub-cluster within the infamous Lazarus Group has established new infrastructure that impersonates skills assessment portals as part of its social engineering campaigns. Microsoft attributed the activity to a threat actor it calls  Sapphire Sleet , describing it as a "shift in the persistent actor's tactics." Sapphire Sleet, also called APT38, BlueNoroff, CageyChameleon, and CryptoCore, has a track record of orchestrating cryptocurrency theft via social engineering. Earlier this week, Jamf Threat Labs implicated the threat actor to a new macOS malware family called  ObjCShellz  that's assessed to be a late-stage payload delivered in connection with another macOS malware known as RustBucket. "Sapphire Sleet typically finds targets on platforms like LinkedIn and uses lures related to skills assessment," the Microsoft Threat Intelligence team  said  in a series of posts on X (formerly Twitter). "The threat actor then moves successful communication
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 11, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
