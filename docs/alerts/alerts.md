@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 9, 2023 - Microsoft Threat Intelligence 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sapphire Sleet <a href="https://twitter.com/MsftSecIntel/status/1722316019920728437"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor that Microsoft tracks as Sapphire Sleet, known for cryptocurrency theft via social engineering, has in the past few weeks created new websites masquerading as skills assessment portals, marking a shift in the persistent actor’s tactics.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 8, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
