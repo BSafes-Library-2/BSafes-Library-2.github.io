@@ -34,7 +34,183 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 11, 2023
+November 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz Ransomware Gang Hit Texas-Based Cogdell Memorial Hospital<a href="https://securityaffairs.com/154101/data-breach/the-lorenz-ransomware-group-hit-texas-based-cogdell-memorial-hospital.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lorenz extortion group has targeted and leaked data from the Texas-based Cogdell Memorial Hospital, adding to the rising number of ransomware attacks on healthcare organizations in the US.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Group Emerges with Hive's Source Code and Infrastructure<a href="https://thehackernews.com/2023/11/new-ransomware-group-emerges-with-hives.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind a new ransomware group called  Hunters International  have acquired the source code and infrastructure from the now-dismantled Hive operation to kick-start its own efforts in the threat landscape. "It appears that the leadership of the Hive group made the strategic decision to cease their operations and transfer their remaining assets to another group, Hunters International," Martin Zugec, technical solutions director at Bitdefender,  said  in a report published last week. Hive, once a prolific ransomware-as-a-service (RaaS) operation, was  taken down  as part of a coordinated law enforcement operation in January 2023. While it's common for ransomware actors to regroup, rebrand, or disband their activities following such seizures, what can also happen is that the core developers can pass on the source code and other infrastructure in their possession to another threat actor. Reports about Hunters International as a possible Hive rebrand  sur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chess.com Faces Second Data Leak; 476,000 Scraped User Records Leaked<a href="https://www.hackread.com/chess-com-second-data-leak-user-scraped-records/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data includes personal details such as full names, email addresses, usernames, and profile links, posing a significant threat to Chess.com users for potential identity theft and phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 5 Marketing Tech SaaS Security Challenges<a href="https://thehackernews.com/2023/11/top-5-marketing-tech-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Effective marketing operations today are driven by the use of Software-as-a-Service (SaaS) applications. Marketing apps such as Salesforce, Hubspot, Outreach, Asana, Monday, and Box empower marketing teams, agencies, freelancers, and subject matter experts to collaborate seamlessly on campaigns and marketing initiatives.  These apps serve as the digital command centers for marketing professionals. They house essential go-to-market strategies, and are often connected to live payment systems authorized to spend substantial budgets. Ensuring their security is a complex task, given the multitude of applications, application owners, configurations within each app, users, interconnected apps and more. In this article, we explore the top Marketing SaaS application use cases, from external users and publicly shared links to connected apps and credit cards — and how to ensure the security and integrity of the data stored within them. 1 . External Users Marketing departments frequently grant
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than $100 Million Stolen From Poloniex Crypto Platform<a href="https://therecord.media/poloniex-cryptocurrency-platform-millions-stolen?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The platform confirmed the theft and plans to reimburse affected users. Poloniex offered a 5% bounty to the hacker for the return of the funds and urged a response within 7 days.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Launch Covert Espionage Attacks on 24 Cambodian Organizations<a href="https://thehackernews.com/2023/11/chinese-hackers-launch-covert-espionage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered what they say is malicious cyber activity orchestrated by two prominent Chinese nation-state hacking groups targeting 24 Cambodian government organizations. "This activity is believed to be part of a long-term espionage campaign," Palo Alto Networks Unit 42 researchers  said  in a report last week. "The observed activity aligns with geopolitical goals of the Chinese government as it seeks to leverage their strong relations with Cambodia to project their power and expand their naval operations in the region." Targeted organizations include defense, election oversight, human rights, national treasury and finance, commerce, politics, natural resources, and telecommunications. The assessment stems from the persistent nature of inbound network connections originating from these entities to a China-linked adversarial infrastructure that masquerades as cloud backup and storage services over a "period of several months.&qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-Linked APT Sapphire Sleet Targets IT Job Seekers<a href="https://securityaffairs.com/154082/apt/sapphire-sleet-apt-targets-it-job-seekers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+They have created fake skills assessment portals to trick recruiters into registering for an account. Previously, they used platforms like LinkedIn and employed lures related to skills assessment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Phishing-as-a-Service Syndicate 'BulletProofLink' Dismantled by Malaysian Authorities<a href="https://thehackernews.com/2023/11/major-phishing-as-service-syndicate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malaysian law enforcement authorities have  announced  the takedown of a phishing-as-a-service (PhaaS) operation called  BulletProofLink . The Royal Malaysia Police said the effort, which was carried out with assistance from the Australian Federal Police (AFP) and the U.S. Federal Bureau of Investigation (FBI) on November 6, 2023, was based on information that the threat actors behind the platform were based out of the country. To that end, eight individuals aged between 29 and 56, including the syndicate's mastermind, have been arrested across different locations in Sabah, Selangor, Perak, and Kuala Lumpur, New Straits Times  reported . Along with the arrests, authorities confiscated servers, computers, jewelry, vehicles, and cryptocurrency wallets containing approximately $213,000. BulletProofLink , also called BulletProftLink, is known for offering ready-to-use phishing templates on a subscription basis to other actors for conducting credential harvesting campaigns. These
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CherryBlos Malware Steals Cryptocurrency via Your Photos<a href="https://www.tripwire.com/state-of-security/cherryblos-malware-steals-cryptocurrency-your-photos-what-you-need-know?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CherryBlos is a family of Android malware that can steal cryptocurrency by extracting sensitive information from photos on a user's phone. This includes details related to cryptocurrency wallets, such as recovery phrases.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BiBi-Windows Wiper Targets Windows Systems in Pro-Hamas Attacks<a href="https://thehackernews.com/2023/11/new-bibi-windows-wiper-targets-windows.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have warned about a Windows version of a wiper malware that was previously observed targeting Linux systems in cyber attacks aimed at Israel. Dubbed  BiBi-Windows Wiper  by BlackBerry, the wiper is the Windows counterpart of  BiBi-Linux Wiper , which has been put to use by a pro-Hamas hacktivist group in the wake of the Israel-Hamas war last month. "The Windows variant [...] confirms that the threat actors who created the wiper are continuing to build out the malware, and indicates an expansion of the attack to target end user machines and application servers," the Canadian company  said  Friday. Slovak cybersecurity firm is  tracking  the actor behind the wiper under the name BiBiGun, noting that the Windows variant (bibi.exe) is designed to overwrite data in the C:\Users directory recursively with junk data and appends .BiBi to the filename. The BiBi-Windows Wiper artifact is said to have been compiled on October 21, 2023, two weeks after the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Information Impacted in Breach of Computer Network, Butler County Says<a href="https://news.yahoo.com/personal-information-impacted-breach-computer-211704164.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The county is conducting a review to determine the extent of the breach, identify those affected, and will provide written notice and credit monitoring services to impacted individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 11, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Fake Skills Assessment Portals Targeting IT Job Seekers<a href="https://thehackernews.com/2023/11/microsoft-warns-of-fake-skills.html"> Full Text</a>
