@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 5 Marketing Tech SaaS Security Challenges<a href="https://thehackernews.com/2023/11/top-5-marketing-tech-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Effective marketing operations today are driven by the use of Software-as-a-Service (SaaS) applications. Marketing apps such as Salesforce, Hubspot, Outreach, Asana, Monday, and Box empower marketing teams, agencies, freelancers, and subject matter experts to collaborate seamlessly on campaigns and marketing initiatives.&nbsp; These apps serve as the digital command centers for marketing professionals. They house essential go-to-market strategies, and are often connected to live payment systems authorized to spend substantial budgets. Ensuring their security is a complex task, given the multitude of applications, application owners, configurations within each app, users, interconnected apps and more. In this article, we explore the top Marketing SaaS application use cases, from external users and publicly shared links to connected apps and credit cards — and how to ensure the security and integrity of the data stored within them. 1 . External Users Marketing departments frequently grant
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

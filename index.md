@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lorenz Ransomware Gang Hit Texas-Based Cogdell Memorial Hospital<a href="https://securityaffairs.com/154101/data-breach/the-lorenz-ransomware-group-hit-texas-based-cogdell-memorial-hospital.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Ransomware Group Emerges with Hive's Source Code and Infrastructure<a href="https://thehackernews.com/2023/11/new-ransomware-group-emerges-with-hives.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chess.com Faces Second Data Leak; 476,000 Scraped User Records Leaked<a href="https://www.hackread.com/chess-com-second-data-leak-user-scraped-records/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 5 Marketing Tech SaaS Security Challenges<a href="https://thehackernews.com/2023/11/top-5-marketing-tech-saas-security.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Than $100 Million Stolen From Poloniex Crypto Platform<a href="https://therecord.media/poloniex-cryptocurrency-platform-millions-stolen?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Launch Covert Espionage Attacks on 24 Cambodian Organizations<a href="https://thehackernews.com/2023/11/chinese-hackers-launch-covert-espionage.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-Linked APT Sapphire Sleet Targets IT Job Seekers<a href="https://securityaffairs.com/154082/apt/sapphire-sleet-apt-targets-it-job-seekers.html?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major Phishing-as-a-Service Syndicate 'BulletProofLink' Dismantled by Malaysian Authorities<a href="https://thehackernews.com/2023/11/major-phishing-as-service-syndicate.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CherryBlos Malware Steals Cryptocurrency via Your Photos<a href="https://www.tripwire.com/state-of-security/cherryblos-malware-steals-cryptocurrency-your-photos-what-you-need-know?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BiBi-Windows Wiper Targets Windows Systems in Pro-Hamas Attacks<a href="https://thehackernews.com/2023/11/new-bibi-windows-wiper-targets-windows.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal Information Impacted in Breach of Computer Network, Butler County Says<a href="https://news.yahoo.com/personal-information-impacted-breach-computer-211704164.html?&web_view=true"> Full Text</a>

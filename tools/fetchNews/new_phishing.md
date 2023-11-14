@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Phishing-as-a-Service Syndicate 'BulletProofLink' Dismantled by Malaysian Authorities<a href="https://thehackernews.com/2023/11/major-phishing-as-service-syndicate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malaysian law enforcement authorities have&nbsp; announced &nbsp;the takedown of a phishing-as-a-service (PhaaS) operation called&nbsp; BulletProofLink . The Royal Malaysia Police said the effort, which was carried out with assistance from the Australian Federal Police (AFP) and the U.S. Federal Bureau of Investigation (FBI) on November 6, 2023, was based on information that the threat actors behind the platform were based out of the country. To that end, eight individuals aged between 29 and 56, including the syndicate's mastermind, have been arrested across different locations in Sabah, Selangor, Perak, and Kuala Lumpur, New Straits Times&nbsp; reported . Along with the arrests, authorities confiscated servers, computers, jewelry, vehicles, and cryptocurrency wallets containing approximately $213,000. BulletProofLink , also called BulletProftLink, is known for offering ready-to-use phishing templates on a subscription basis to other actors for conducting credential harvesting campaigns. These
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

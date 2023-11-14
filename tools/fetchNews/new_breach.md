@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chess.com Faces Second Data Leak; 476,000 Scraped User Records Leaked<a href="https://www.hackread.com/chess-com-second-data-leak-user-scraped-records/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data includes personal details such as full names, email addresses, usernames, and profile links, posing a significant threat to Chess.com users for potential identity theft and phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Personal Information Impacted in Breach of Computer Network, Butler County Says<a href="https://news.yahoo.com/personal-information-impacted-breach-computer-211704164.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The county is conducting a review to determine the extent of the breach, identify those affected, and will provide written notice and credit monitoring services to impacted individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

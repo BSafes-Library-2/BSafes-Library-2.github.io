@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Group Emerges with Hive's Source Code and Infrastructure<a href="https://thehackernews.com/2023/11/new-ransomware-group-emerges-with-hives.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind a new ransomware group called&nbsp; Hunters International &nbsp;have acquired the source code and infrastructure from the now-dismantled Hive operation to kick-start its own efforts in the threat landscape. "It appears that the leadership of the Hive group made the strategic decision to cease their operations and transfer their remaining assets to another group, Hunters International," Martin Zugec, technical solutions director at Bitdefender,&nbsp; said &nbsp;in a report published last week. Hive, once a prolific ransomware-as-a-service (RaaS) operation, was&nbsp; taken down &nbsp;as part of a coordinated law enforcement operation in January 2023. While it's common for ransomware actors to regroup, rebrand, or disband their activities following such seizures, what can also happen is that the core developers can pass on the source code and other infrastructure in their possession to another threat actor. Reports about Hunters International as a possible Hive rebrand&nbsp; sur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
