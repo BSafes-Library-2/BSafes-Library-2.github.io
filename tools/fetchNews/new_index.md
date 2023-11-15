@@ -34,7 +34,215 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Info-Stealing Campaign Targeting Gaming Community<a href="https://cyware.com/news/researchers-uncover-info-stealing-campaign-targeting-gaming-community-fa309e2b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A targeted campaign against the gaming community exploits Discord channels and fake download sites to distribute types of information-stealing malware. Multiple information stealer families, including BBy Stealer, Nova Sentinel, Doenerium, and Epsilon Stealer, were identified. To counter similar th ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CacheWarp Attack: New Vulnerability in AMD SEV Exposes Encrypted VMs<a href="https://thehackernews.com/2023/11/cachewarp-attack-new-vulnerability-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of academics has disclosed a new "software fault attack" on AMD's Secure Encrypted Virtualization ( SEV ) technology that could be potentially exploited by threat actors to infiltrate encrypted virtual machines (VMs) and even perform privilege escalation. The attack has been codenamed  CacheWarp  (CVE-2023-20592) by researchers from the CISPA Helmholtz Center for Information Security. It impacts AMD CPUs supporting all variants of SEV. "For this research, we specifically looked at AMD's newest TEE, AMD SEV-SNP, relying on the experience from previous attacks on Intel's TEE," security researcher Ruiyi Zhang told The Hacker News. "We found the 'INVD' instruction [flush a processor's cache contents] could be abused under the threat model of AMD SEV." SEV, an  extension  to the AMD-V architecture and introduced in 2016, is designed to isolate VMs from the hypervisor by encrypting the memory contents of the VM with a unique
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Ransomware Rebrands as BlackSuit - Warn FBI and CISA<a href="https://cyware.com/news/royal-ransomware-rebrands-as-blacksuit-warn-fbi-and-cisa-101a1496"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Royal ransomware gang, now known as BlackSuit, has undergone a strategic rebranding, unveiled in a joint advisory by CISA and the FBI. This shift, observed since November 2022, involves advanced encryption methods and sophisticated attack vectors, emphasizing the exploitation of vulnerabilities ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Importance of Continuous Security Monitoring for a Robust Cybersecurity Strategy<a href="https://thehackernews.com/2023/11/the-importance-of-continuous-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2023, the global average cost of a data breach reached  $4.45 million . Beyond the immediate financial loss, there are long-term consequences like diminished customer trust, weakened brand value, and derailed business operations. In a world where the frequency and cost of data breaches are skyrocketing, organizations are coming face-to-face with a harsh reality: traditional cybersecurity measures might not be cutting it anymore.  Against this backdrop, businesses must find ways to strengthen their measures to safeguard precious data and critical assets. At the heart of this shift lies a key strategy: continuous monitoring. Understanding Continuous Security Monitoring in Cybersecurity Continuous monitoring is a dynamic approach that encompasses several techniques to fulfil a multi-layered defense strategy. These techniques can include:  Risk-Based Vulnerability Management (RBVM): Continuous vulnerability assessments across your network with remediation prioritization based on
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA402 Uses Complex IronWind Infection Chains to Target Middle East-Based Government Entities<a href="https://www.proofpoint.com/us/blog/threat-insight/ta402-uses-complex-ironwind-infection-chains-target-middle-east-based-government?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA402 has recently employed a new initial access downloader called IronWind, using various infection chains and delivery methods such as Dropbox links, XLL and RAR file attachments, in order to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: OracleIV DDoS Botnet Targets Public Docker Engine APIs to Hijack Containers<a href="https://thehackernews.com/2023/11/alert-oracleiv-ddos-botnet-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Publicly-accessible Docker Engine API instances are being targeted by threat actors as part of a campaign designed to co-opt the machines into a distributed denial-of-service (DDoS) botnet dubbed  OracleIV . "Attackers are exploiting this misconfiguration to deliver a malicious Docker container, built from an image named 'oracleiv_latest' and containing Python malware compiled as an ELF executable," Cado researchers Nate Bill and Matt Muir  said . The malicious activity starts with attackers using an HTTP POST request to Docker's API to retrieve a malicious image from Docker Hub, which, in turn, runs a command to retrieve a shell script (oracle.sh) from a command-and-control (C&C) server. Oracleiv_latest  purports to be a MySQL image for docker and has been pulled 3,500 times to date. In a perhaps not-so-surprising twist, the image also includes additional instructions to fetch an XMRig miner and its configuration from the same server. That said, the clo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Banking Tech Giant Moneris Says It Prevented Ransomware Attack<a href="https://therecord.media/moneris-canada-ransomware-attack-prevented?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Medusa ransomware gang demanded a $6 million ransom, but Moneris stated that its security team stopped access to critical data and no ransom request was made. The company didn't disclose when the breach was attempted or whether it paid a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CI/CD Risks: Protecting Your Software Development Pipelines<a href="https://thehackernews.com/2023/11/cicd-risks-protecting-your-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Have you heard about Dependabot? If not, just ask any developer around you, and they'll likely rave about how it has revolutionized the tedious task of checking and updating outdated dependencies in software projects.  Dependabot not only takes care of the checks for you, but also provides suggestions for modifications that can be approved with just a single click. Although Dependabot is limited to GitHub-hosted projects, it has set a new standard for continuous providers to offer similar capabilities. This automation of "administrative" tasks has become a norm, enabling developers to integrate and deploy their work faster than ever before. Continuous integration and deployment workflows have become the cornerstone of software engineering, propelling the DevOps movement to the forefront of the industry. But a  recent advisory  by security firm Checkmarx sheds light on a concerning incident. Malicious actors have recently attempted to exploit the trust associated with D
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Denmark Hit With Largest Cyberattack on Record by Exploiting Firewall Vulnerabilities<a href="https://www.bankinfosecurity.com/denmark-hit-largest-cyberattack-on-record-a-23584?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers linked to the Russian GRU targeted Danish critical infrastructure, exploiting vulnerabilities in Zyxel firewalls and demonstrating meticulous planning and coordination.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Campaign Targets Middle East Governments with IronWind Malware<a href="https://thehackernews.com/2023/11/new-campaign-targets-middle-east.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government entities in the Middle East are the target of new phishing campaigns that are designed to deliver a new initial access downloader dubbed IronWind . The activity, detected between July and October 2023, has been  attributed  by Proofpoint to a threat actor it tracks under the name  TA402 , which is also known as Molerats, Gaza Cyber Gang, and shares  tactical overlaps  with a pro-Hamas hacking crew known as  APT-C-23  (aka Arid Viper). "When it comes to state-aligned threat actors, North Korea, Russia, China, and Iran generally reap the lion's share of attention," Joshua Miller, senior threat researcher at Proofpoint, said in a statement shared with The Hacker News. "But TA402, a Middle Eastern advanced persistent threat (APT) group that historically has operated in the interests of the Palestinian Territories, has consistently proven to be an intriguing threat actor capable of highly sophisticated cyber espionage with a focus on intelligence collection
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack on Ohio City Impacts Multiple Services<a href="https://therecord.media/huber-heights-ohio-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware attack on the city of Huber Heights, Ohio, affected various city divisions but not public safety services. City services are expected to be down for at least a week, and residents are advised to check the city website for updates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnamese Hackers Using New Delphi-Powered Malware to Target Indian Marketers<a href="https://thehackernews.com/2023/11/vietnamese-hackers-using-new-delphi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vietnamese threat actors behind the Ducktail stealer malware have been linked to a new campaign that ran between March and early October 2023, targeting marketing professionals in India with an aim to hijack Facebook business accounts. "An important feature that sets it apart is that, unlike previous campaigns, which relied on .NET applications, this one used Delphi as the programming language," Kaspersky  said  in a report published last week. Ducktail , alongside  Duckport  and  NodeStealer , is part of a  cybercrime ecosystem  operating out of Vietnam, with the attackers primarily using sponsored ads on Facebook to propagate malicious ads and deploy malware capable of plundering victims' login cookies and ultimately taking control of their accounts. Such attacks primarily single out users who may have access to a Facebook Business account. The fraudsters then use the unauthorized access to place advertisements for financial gain, perpetuating the infections fur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Agencies Warn Royal Ransomware Gang May Rebrand as ‘BlackSuit’<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-061a?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are indications that Royal may be preparing for a re-branding effort and/or a spinoff variant. Blacksuit ransomware shares a number of identified coding characteristics similar to Royal.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lorenz Ransomware Gang Hit Texas-Based Cogdell Memorial Hospital<a href="https://securityaffairs.com/154101/data-breach/the-lorenz-ransomware-group-hit-texas-based-cogdell-memorial-hospital.html?&web_view=true"> Full Text</a>
@@ -50,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Ransomware Group Emerges with Hive's Source Code and Infrastructure<a href="https://thehackernews.com/2023/11/new-ransomware-group-emerges-with-hives.html"> Full Text</a>
@@ -66,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chess.com Faces Second Data Leak; 476,000 Scraped User Records Leaked<a href="https://www.hackread.com/chess-com-second-data-leak-user-scraped-records/?&web_view=true"> Full Text</a>
@@ -82,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 5 Marketing Tech SaaS Security Challenges<a href="https://thehackernews.com/2023/11/top-5-marketing-tech-saas-security.html"> Full Text</a>
@@ -98,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Than $100 Million Stolen From Poloniex Crypto Platform<a href="https://therecord.media/poloniex-cryptocurrency-platform-millions-stolen?&web_view=true"> Full Text</a>
@@ -114,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Launch Covert Espionage Attacks on 24 Cambodian Organizations<a href="https://thehackernews.com/2023/11/chinese-hackers-launch-covert-espionage.html"> Full Text</a>
@@ -130,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-Linked APT Sapphire Sleet Targets IT Job Seekers<a href="https://securityaffairs.com/154082/apt/sapphire-sleet-apt-targets-it-job-seekers.html?&web_view=true"> Full Text</a>
@@ -146,7 +354,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major Phishing-as-a-Service Syndicate 'BulletProofLink' Dismantled by Malaysian Authorities<a href="https://thehackernews.com/2023/11/major-phishing-as-service-syndicate.html"> Full Text</a>
@@ -162,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CherryBlos Malware Steals Cryptocurrency via Your Photos<a href="https://www.tripwire.com/state-of-security/cherryblos-malware-steals-cryptocurrency-your-photos-what-you-need-know?&web_view=true"> Full Text</a>
@@ -178,7 +386,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BiBi-Windows Wiper Targets Windows Systems in Pro-Hamas Attacks<a href="https://thehackernews.com/2023/11/new-bibi-windows-wiper-targets-windows.html"> Full Text</a>
@@ -194,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 13, 2023
+November 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Personal Information Impacted in Breach of Computer Network, Butler County Says<a href="https://news.yahoo.com/personal-information-impacted-breach-computer-211704164.html?&web_view=true"> Full Text</a>
