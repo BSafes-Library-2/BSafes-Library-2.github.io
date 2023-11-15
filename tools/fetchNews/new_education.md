@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Importance of Continuous Security Monitoring for a Robust Cybersecurity Strategy<a href="https://thehackernews.com/2023/11/the-importance-of-continuous-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2023, the global average cost of a data breach reached&nbsp; $4.45 million . Beyond the immediate financial loss, there are long-term consequences like diminished customer trust, weakened brand value, and derailed business operations. In a world where the frequency and cost of data breaches are skyrocketing, organizations are coming face-to-face with a harsh reality: traditional cybersecurity measures might not be cutting it anymore.&nbsp; Against this backdrop, businesses must find ways to strengthen their measures to safeguard precious data and critical assets. At the heart of this shift lies a key strategy: continuous monitoring. Understanding Continuous Security Monitoring in Cybersecurity Continuous monitoring is a dynamic approach that encompasses several techniques to fulfil a multi-layered defense strategy. These techniques can include:&nbsp; Risk-Based Vulnerability Management (RBVM): Continuous vulnerability assessments across your network with remediation prioritization based on
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

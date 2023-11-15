@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+November 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lorenz Ransomware Gang Hit Texas-Based Cogdell Memorial Hospital<a href="https://securityaffairs.com/154101/data-breach/the-lorenz-ransomware-group-hit-texas-based-cogdell-memorial-hospital.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lorenz extortion group has targeted and leaked data from the Texas-based Cogdell Memorial Hospital, adding to the rising number of ransomware attacks on healthcare organizations in the US.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Launch Covert Espionage Attacks on 24 Cambodian Organizations<a href="https://thehackernews.com/2023/11/chinese-hackers-launch-covert-espionage.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered what they say is malicious cyber activity orchestrated by two prominent Chinese nation-state hacking groups targeting 24 Cambodian government organizations. "This activity is believed to be part of a long-term espionage campaign," Palo Alto Networks Unit 42 researchers&nbsp; said &nbsp;in a report last week. "The observed activity aligns with geopolitical goals of the Chinese government as it seeks to leverage their strong relations with Cambodia to project their power and expand their naval operations in the region." Targeted organizations include defense, election oversight, human rights, national treasury and finance, commerce, politics, natural resources, and telecommunications. The assessment stems from the persistent nature of inbound network connections originating from these entities to a China-linked adversarial infrastructure that masquerades as cloud backup and storage services over a "period of several months.&amp;qu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

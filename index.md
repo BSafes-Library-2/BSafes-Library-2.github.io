@@ -1,4 +1,4 @@
----
+
 layout: default
 title: Welcome 
 nav_order: 1
@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2023
+November 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Info-Stealing Campaign Targeting Gaming Community<a href="https://cyware.com/news/researchers-uncover-info-stealing-campaign-targeting-gaming-community-fa309e2b"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2023
+November 14, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CacheWarp Attack: New Vulnerability in AMD SEV Exposes Encrypted VMs<a href="https://thehackernews.com/2023/11/cachewarp-attack-new-vulnerability-in.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2023
+November 14, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Royal Ransomware Rebrands as BlackSuit - Warn FBI and CISA<a href="https://cyware.com/news/royal-ransomware-rebrands-as-blacksuit-warn-fbi-and-cisa-101a1496"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2023
+November 14, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Importance of Continuous Security Monitoring for a Robust Cybersecurity Strategy<a href="https://thehackernews.com/2023/11/the-importance-of-continuous-security.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2023
+November 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA402 Uses Complex IronWind Infection Chains to Target Middle East-Based Government Entities<a href="https://www.proofpoint.com/us/blog/threat-insight/ta402-uses-complex-ironwind-infection-chains-target-middle-east-based-government?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2023
+November 14, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: OracleIV DDoS Botnet Targets Public Docker Engine APIs to Hijack Containers<a href="https://thehackernews.com/2023/11/alert-oracleiv-ddos-botnet-targets.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2023
+November 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canadian Banking Tech Giant Moneris Says It Prevented Ransomware Attack<a href="https://therecord.media/moneris-canada-ransomware-attack-prevented?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2023
+November 14, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CI/CD Risks: Protecting Your Software Development Pipelines<a href="https://thehackernews.com/2023/11/cicd-risks-protecting-your-software.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2023
+November 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Denmark Hit With Largest Cyberattack on Record by Exploiting Firewall Vulnerabilities<a href="https://www.bankinfosecurity.com/denmark-hit-largest-cyberattack-on-record-a-23584?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2023
+November 14, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Campaign Targets Middle East Governments with IronWind Malware<a href="https://thehackernews.com/2023/11/new-campaign-targets-middle-east.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2023
+November 14, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack on Ohio City Impacts Multiple Services<a href="https://therecord.media/huber-heights-ohio-ransomware-attack?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2023
+November 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vietnamese Hackers Using New Delphi-Powered Malware to Target Indian Marketers<a href="https://thehackernews.com/2023/11/vietnamese-hackers-using-new-delphi.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 14, 2023
+November 14, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Agencies Warn Royal Ransomware Gang May Rebrand as ‘BlackSuit’<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-061a?&web_view=true"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Campaign Targets Middle East Governments with IronWind Malware<a href="https://thehackernews.com/2023/11/new-campaign-targets-middle-east.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Government entities in the Middle East are the target of new phishing campaigns that are designed to deliver a new initial access downloader dubbed IronWind . The activity, detected between July and October 2023, has been&nbsp; attributed &nbsp;by Proofpoint to a threat actor it tracks under the name&nbsp; TA402 , which is also known as Molerats, Gaza Cyber Gang, and shares&nbsp; tactical overlaps &nbsp;with a pro-Hamas hacking crew known as&nbsp; APT-C-23 &nbsp;(aka Arid Viper). "When it comes to state-aligned threat actors, North Korea, Russia, China, and Iran generally reap the lion's share of attention," Joshua Miller, senior threat researcher at Proofpoint, said in a statement shared with The Hacker News. "But TA402, a Middle Eastern advanced persistent threat (APT) group that historically has operated in the interests of the Palestinian Territories, has consistently proven to be an intriguing threat actor capable of highly sophisticated cyber espionage with a focus on intelligence collection
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

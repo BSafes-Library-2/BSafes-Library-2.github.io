@@ -8,6 +8,76 @@ nav_order: 900015
 
 ## Attack
 ---
+November 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Info-Stealing Campaign Targeting Gaming Community<a href="https://cyware.com/news/researchers-uncover-info-stealing-campaign-targeting-gaming-community-fa309e2b"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A targeted campaign against the gaming community exploits Discord channels and fake download sites to distribute types of information-stealing malware. Multiple information stealer families, including BBy Stealer, Nova Sentinel, Doenerium, and Epsilon Stealer, were identified. To counter similar th ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA402 Uses Complex IronWind Infection Chains to Target Middle East-Based Government Entities<a href="https://www.proofpoint.com/us/blog/threat-insight/ta402-uses-complex-ironwind-infection-chains-target-middle-east-based-government?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TA402 has recently employed a new initial access downloader called IronWind, using various infection chains and delivery methods such as Dropbox links, XLL and RAR file attachments, in order to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Banking Tech Giant Moneris Says It Prevented Ransomware Attack<a href="https://therecord.media/moneris-canada-ransomware-attack-prevented?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Medusa ransomware gang demanded a $6 million ransom, but Moneris stated that its security team stopped access to critical data and no ransom request was made. The company didn't disclose when the breach was attempted or whether it paid a ransom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Denmark Hit With Largest Cyberattack on Record by Exploiting Firewall Vulnerabilities<a href="https://www.bankinfosecurity.com/denmark-hit-largest-cyberattack-on-record-a-23584?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers linked to the Russian GRU targeted Danish critical infrastructure, exploiting vulnerabilities in Zyxel firewalls and demonstrating meticulous planning and coordination.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnamese Hackers Using New Delphi-Powered Malware to Target Indian Marketers<a href="https://thehackernews.com/2023/11/vietnamese-hackers-using-new-delphi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vietnamese threat actors behind the Ducktail stealer malware have been linked to a new campaign that ran between March and early October 2023, targeting marketing professionals in India with an aim to hijack Facebook business accounts. "An important feature that sets it apart is that, unlike previous campaigns, which relied on .NET applications, this one used Delphi as the programming language," Kaspersky&nbsp; said &nbsp;in a report published last week. Ducktail , alongside&nbsp; Duckport &nbsp;and&nbsp; NodeStealer , is part of a&nbsp; cybercrime ecosystem &nbsp;operating out of Vietnam, with the attackers primarily using sponsored ads on Facebook to propagate malicious ads and deploy malware capable of plundering victims' login cookies and ultimately taking control of their accounts. Such attacks primarily single out users who may have access to a Facebook Business account. The fraudsters then use the unauthorized access to place advertisements for financial gain, perpetuating the infections fur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
