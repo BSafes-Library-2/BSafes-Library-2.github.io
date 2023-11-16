@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CI/CD Risks: Protecting Your Software Development Pipelines<a href="https://thehackernews.com/2023/11/cicd-risks-protecting-your-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Have you heard about Dependabot? If not, just ask any developer around you, and they'll likely rave about how it has revolutionized the tedious task of checking and updating outdated dependencies in software projects.&nbsp; Dependabot not only takes care of the checks for you, but also provides suggestions for modifications that can be approved with just a single click. Although Dependabot is limited to GitHub-hosted projects, it has set a new standard for continuous providers to offer similar capabilities. This automation of "administrative" tasks has become a norm, enabling developers to integrate and deploy their work faster than ever before. Continuous integration and deployment workflows have become the cornerstone of software engineering, propelling the DevOps movement to the forefront of the industry. But a&nbsp; recent advisory &nbsp;by security firm Checkmarx sheds light on a concerning incident. Malicious actors have recently attempted to exploit the trust associated with D
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

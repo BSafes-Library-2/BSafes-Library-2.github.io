@@ -34,6 +34,230 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Suing Cybercriminals Who Delivered Malware via Fake Bard Downloads<a href="https://www.securityweek.com/google-suing-cybercriminals-who-delivered-malware-via-fake-bard-downloads/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is taking legal action against cybercriminals who used fake websites to deliver malware and gain control of social media accounts through a scam involving its chat-based AI tool, Bard.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Takes Down IPStorm Botnet, Russian-Moldovan Mastermind Pleads Guilty<a href="https://thehackernews.com/2023/11/us-takes-down-ipstorm-botnet-russian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Tuesday announced the takedown of the IPStorm botnet proxy network and its infrastructure, as the Russian and Moldovan national behind the operation pleaded guilty. "The botnet infrastructure had infected Windows systems then further expanded to infect Linux, Mac, and Android devices, victimizing computers and other electronic devices around the world, including in Asia, Europe, North America and South America," the Department of Justice (DoJ)  said  in a press statement. Sergei Makinin, who developed and deployed the malicious software to infiltrate thousands of internet-connected devices from June 2019 through December 2022, faces a maximum of 30 years in prison. The Golang-based botnet malware, prior to its dismantling,  turned the infected devices into proxies  as part of a for-profit scheme, which was then offered to other customers via proxx[.]io and proxx[.]net. "IPStorm is a botnet that abuses a legitimate peer-to-peer (p2p) network c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NY Governor Wants New Cybersecurity Rules for Hospitals After Multiple Attacks<a href="https://therecord.media/new-york-state-hospital-cybersecurity-regulations-proposed?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New York Governor Kathy Hochul has proposed new cybersecurity rules for hospitals in the state to establish robust cybersecurity programs, assess risks, and implement protective measures to combat the rising threat of cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PoC Exploit for Apache ActiveMQ Flaw Could Let Attackers Fly Under the Radar<a href="https://thehackernews.com/2023/11/new-poc-exploit-for-apache-activemq.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have demonstrated a new technique that exploits a critical security flaw in Apache ActiveMQ to achieve arbitrary code execution in memory. Tracked as  CVE-2023-46604  (CVSS score: 10.0), the vulnerability is a remote code execution bug that could permit a threat actor to run arbitrary shell commands. It was patched by Apache in ActiveMQ versions 5.15.16, 5.16.7, 5.17.6, or 5.18.3 released late last month. The vulnerability has since  come under   active exploitation  by ransomware outfits to deploy ransomware such as HelloKitty and a strain that shares similarities with TellYouThePass as well as a remote access trojan called SparkRAT. According to  new findings  from VulnCheck, threat actors weaponizing the flaw are  relying  on a public proof-of-concept ( PoC ) exploit originally disclosed on October 25, 2023. The attacks have been found to use  ClassPathXmlApplicationContext , a class that's part of the Spring framework and available within Active
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 -- [Skimming](/docs/issues/skimming/skimming/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credit Card Skimming on the Rise for the Holiday Shopping Season<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/11/credit-card-skimming-on-the-rise-for-the-holiday-shopping-season?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A credit card skimming campaign called Kritec has recently picked up in activity, compromising numerous online stores and stealing credit card information from unsuspecting shoppers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Ways Varonis Helps You Fight Insider Threats<a href="https://thehackernews.com/2023/11/three-ways-varonis-helps-you-fight.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What do basketball teams, government agencies, and car manufacturers have in common? Each one has been breached, having confidential, proprietary, or private information stolen and exposed by insiders. In each case, the motivations and methods varied, but the risk remained the same: insiders have access to too much data with too few controls. Insider threats  continue to prove difficult for organizations to combat because — unlike an outsider — insiders can navigate sensitive data undetected and typically without suspicion. Cybersecurity is not the first industry to tackle insider threats, however. Espionage has a long history of facing and defending against insiders by using the "CIA Triad" principles of confidentiality, integrity, and availability. Varonis' modern cybersecurity answer to insider risk is the data security triad of "sensitivity, access, and activity." Using these three dimensions of data security, you can help reduce the risk and impact of an insider attack. Sen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on North Carolina County Allowed Hackers to Access Data<a href="https://therecord.media/north-carolina-county-cyberattack-national-guard-called-in?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although the nature of the attack was not specified, the county's IT staff discovered irregularities in their system and called in external cybersecurity experts to investigate and secure their servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reptar: New Intel CPU Vulnerability Impacts Multi-Tenant Virtualized Environments<a href="https://thehackernews.com/2023/11/reptar-new-intel-cpu-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Intel has released fixes to close out a high-severity flaw codenamed  Reptar  that impacts its desktop, mobile, and server CPUs. Tracked as  CVE-2023-23583  (CVSS score: 8.8), the  issue  has the potential to "allow escalation of privilege and/or information disclosure and/or denial of service via local access." Successful exploitation of the vulnerability could also permit a bypass of the CPU's security boundaries, according to Google Cloud, which described it as an issue stemming from how redundant prefixes are interpreted by the processor. "The impact of this vulnerability is demonstrated when exploited by an attacker in a multi-tenant virtualized environment, as the exploit on a guest machine causes the host machine to crash resulting in a Denial of Service to other guest machines running on the same host," Google Cloud's Phil Venables  said . "Additionally, the vulnerability could potentially lead to information disclosure or privilege escala
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+File-Transfer Services, Rich With Sensitive Data, are Under Attack<a href="https://www.cybersecuritydive.com/news/file-transfer-services-under-attack/699722/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compliance requirements drive the use of these services, making them attractive targets for ransomware groups looking to exploit the systems used for sending sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Microsoft Releases Patch Updates for 5 New Zero-Day Vulnerabilities<a href="https://thehackernews.com/2023/11/alert-microsoft-releases-patch-updates.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released fixes to address  63 security bugs  in its software for the month of November 2023, including three vulnerabilities that have come under active exploitation in the wild. Of the 63 flaws, three are rated Critical, 56 are rated Important, and four are rated Moderate in severity. Two of them have been listed as publicly known at the time of the release. The updates are in addition to  more than 35 security shortcomings  addressed in its Chromium-based Edge browser since the release of Patch Tuesday updates for October 2023. The five zero-days that are of note are as follows - CVE-2023-36025  (CVSS score: 8.8) - Windows SmartScreen Security Feature Bypass Vulnerability CVE-2023-36033  (CVSS score: 7.8) - Windows DWM Core Library Elevation of Privilege Vulnerability CVE-2023-36036  (CVSS score: 7.8) - Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability CVE-2023-36038  (CVSS score: 8.2) - ASP.NET Core Denial of Service Vulnerability CV
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyble Raises $6.2M; Expands Series B to $30.2M<a href="https://www.finsmes.com/2023/11/cyble-expands-series-b-to-30-2m.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round, which brought the total amount to $30.2M, was led by Summit Peak Ventures (US) and King River Capital (US), with participation from Care Super (Australia) and BlackBird Ventures (Australasia), along with other investors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Urgent: VMware Warns of Unpatched Critical Cloud Director Vulnerability<a href="https://thehackernews.com/2023/11/urgent-vmware-warns-of-unpatched.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VMware is warning of a critical and unpatched security flaw in Cloud Director that could be exploited by a malicious actor to get around authentication protections. Tracked as  CVE-2023-34060  (CVSS score: 9.8), the vulnerability impacts instances that have been upgraded to version 10.5 from an older version. "On an upgraded version of VMware Cloud Director Appliance 10.5, a malicious actor with network access to the appliance can bypass login restrictions when authenticating on port 22 (ssh) or port 5480 (appliance management console)," the company  said  in an alert. "This bypass is not present on port 443 (VCD provider and tenant login). On a new installation of VMware Cloud Director Appliance 10.5, the bypass is not present." The virtualization services company further noted that the impact is due to the fact that it utilizes a version of sssd from the underlying Photon OS that is affected by  CVE-2023-34060 . Dustin Hartle from IT solutions provider Idea
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Espionage Operation on Embassies Linked to Russia’s Cozy Bear Hackers<a href="https://therecord.media/cyber-espionage-campaign-embassies-apt29-cozy-bear?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cozy Bear APT utilized a legitimate tool called Ngrok to obfuscate their activities and communicate with compromised systems, making detection and attribution more challenging.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rackspace Records $5M in Expenses Related to 2022 Ransomware Attack<a href="https://www.cybersecuritydive.com/news/rackspace-5m-expenses-ransomware/699731/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack disrupted email access for customers, leading to the discontinuation of the Hosted Exchange product. Rackspace expects to receive $5.4 million in insurance reimbursement, but the timing may differ from expense recognition.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+November 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Ransomware Rebrands as BlackSuit - Warn FBI and CISA<a href="https://cyware.com/news/royal-ransomware-rebrands-as-blacksuit-warn-fbi-and-cisa-101a1496"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Royal ransomware gang, now known as BlackSuit, has undergone a strategic rebranding, unveiled in a joint advisory by CISA and the FBI. This shift, observed since November 2022, involves advanced encryption methods and sophisticated attack vectors, emphasizing the exploitation of vulnerabilities ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Agencies Warn Royal Ransomware Gang May Rebrand as ‘BlackSuit’<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-061a?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+There are indications that Royal may be preparing for a re-branding effort and/or a spinoff variant. Blacksuit ransomware shares a number of identified coding characteristics similar to Royal.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 09, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

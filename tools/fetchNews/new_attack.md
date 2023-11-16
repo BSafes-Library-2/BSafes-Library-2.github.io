@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+November 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+File-Transfer Services, Rich With Sensitive Data, are Under Attack<a href="https://www.cybersecuritydive.com/news/file-transfer-services-under-attack/699722/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compliance requirements drive the use of these services, making them attractive targets for ransomware groups looking to exploit the systems used for sending sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Espionage Operation on Embassies Linked to Russia’s Cozy Bear Hackers<a href="https://therecord.media/cyber-espionage-campaign-embassies-apt29-cozy-bear?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cozy Bear APT utilized a legitimate tool called Ngrok to obfuscate their activities and communicate with compromised systems, making detection and attribution more challenging.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

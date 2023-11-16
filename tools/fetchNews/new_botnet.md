@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Takes Down IPStorm Botnet, Russian-Moldovan Mastermind Pleads Guilty<a href="https://thehackernews.com/2023/11/us-takes-down-ipstorm-botnet-russian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Tuesday announced the takedown of the IPStorm botnet proxy network and its infrastructure, as the Russian and Moldovan national behind the operation pleaded guilty. "The botnet infrastructure had infected Windows systems then further expanded to infect Linux, Mac, and Android devices, victimizing computers and other electronic devices around the world, including in Asia, Europe, North America and South America," the Department of Justice (DoJ)&nbsp; said &nbsp;in a press statement. Sergei Makinin, who developed and deployed the malicious software to infiltrate thousands of internet-connected devices from June 2019 through December 2022, faces a maximum of 30 years in prison. The Golang-based botnet malware, prior to its dismantling,&nbsp; turned the infected devices into proxies &nbsp;as part of a for-profit scheme, which was then offered to other customers via proxx[.]io and proxx[.]net. "IPStorm is a botnet that abuses a legitimate peer-to-peer (p2p) network c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

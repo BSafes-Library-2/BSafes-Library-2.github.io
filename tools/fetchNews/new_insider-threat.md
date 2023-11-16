@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+November 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Ways Varonis Helps You Fight Insider Threats<a href="https://thehackernews.com/2023/11/three-ways-varonis-helps-you-fight.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+What do basketball teams, government agencies, and car manufacturers have in common? Each one has been breached, having confidential, proprietary, or private information stolen and exposed by insiders. In each case, the motivations and methods varied, but the risk remained the same: insiders have access to too much data with too few controls. Insider threats &nbsp;continue to prove difficult for organizations to combat because — unlike an outsider — insiders can navigate sensitive data undetected and typically without suspicion. Cybersecurity is not the first industry to tackle insider threats, however. Espionage has a long history of facing and defending against insiders by using the "CIA Triad" principles of confidentiality, integrity, and availability. Varonis' modern cybersecurity answer to insider risk is the data security triad of "sensitivity, access, and activity." Using these three dimensions of data security, you can help reduce the risk and impact of an insider attack. Sen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

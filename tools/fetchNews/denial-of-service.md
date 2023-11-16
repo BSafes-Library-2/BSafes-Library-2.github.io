@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+November 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: OracleIV DDoS Botnet Targets Public Docker Engine APIs to Hijack Containers<a href="https://thehackernews.com/2023/11/alert-oracleiv-ddos-botnet-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Publicly-accessible Docker Engine API instances are being targeted by threat actors as part of a campaign designed to co-opt the machines into a distributed denial-of-service (DDoS) botnet dubbed&nbsp; OracleIV . "Attackers are exploiting this misconfiguration to deliver a malicious Docker container, built from an image named 'oracleiv_latest' and containing Python malware compiled as an ELF executable," Cado researchers Nate Bill and Matt Muir&nbsp; said . The malicious activity starts with attackers using an HTTP POST request to Docker's API to retrieve a malicious image from Docker Hub, which, in turn, runs a command to retrieve a shell script (oracle.sh) from a command-and-control (C&amp;C) server. Oracleiv_latest &nbsp;purports to be a MySQL image for docker and has been pulled 3,500 times to date. In a perhaps not-so-surprising twist, the image also includes additional instructions to fetch an XMRig miner and its configuration from the same server. That said, the clo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
