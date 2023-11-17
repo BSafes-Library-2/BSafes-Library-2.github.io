@@ -34,7 +34,199 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2023
+November 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Websites Cloned to Run Ads for Chinese Gambling<a href="https://www.theregister.com/2023/11/16/qurium_cloned_websites_chinese_gambling/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The motive behind these cloned sites is likely to generate traffic for gambling operators, as they can serve third-party ads that publishers may be reluctant to carry on their own sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Flaw in Zimbra Email Software Exploited by Four Hacker Groups<a href="https://thehackernews.com/2023/11/zero-day-flaw-in-zimbra-email-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A zero-day flaw in the Zimbra Collaboration email software was exploited by four different groups in real-world attacks to pilfer email data, user credentials, and authentication tokens. "Most of this activity occurred after the initial fix became public on GitHub," Google Threat Analysis Group (TAG)  said  in a report shared with The Hacker News. The flaw, tracked as  CVE-2023-37580  (CVSS score: 6.1), is a  reflected cross-site scripting  (XSS) vulnerability impacting versions before 8.8.15 Patch 41. It was  addressed  by Zimbra as part of patches released on July 25, 2023. Successful exploitation of the shortcoming could allow execution of malicious scripts on the victims' web browser simply by tricking them into clicking on a specially crafted URL, effectively initiating the XSS request to Zimbra and reflecting the attack back to the user. Google TAG, whose researcher Clément Lecigne was credited with discovering and reporting the bug, said it discovered multipl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+21 Vulnerabilities Discovered in Crucial IT-OT Connective Routers<a href="https://www.darkreading.com/vulnerabilities-threats/21-vulnerabilities-discovered-crucial-it-ot-connective-routers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities, including critical and high-severity bugs, can enable attackers to compromise networks, deploy malware, and disrupt services, highlighting the need for improved security measures in OT and IoT devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover DarkCasino: New Emerging APT Threat Exploiting WinRAR Flaw<a href="https://thehackernews.com/2023/11/experts-uncover-darkcasino-new-emerging.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group that leveraged a recently disclosed security flaw in the WinRAR software as a zero-day has now been categorized as an entirely new advanced persistent threat (APT). Cybersecurity company NSFOCUS has described  DarkCasino  as an "economically motivated" actor that first came to light in 2021. "DarkCasino is an APT threat actor with strong technical and learning ability, who is good at integrating various popular APT attack technologies into its attack process," the company  said  in an analysis. "Attacks launched by the APT group DarkCasino are very frequent, demonstrating a strong desire to steal online property." DarkCasino was most recently linked to the zero-day exploitation of  CVE-2023-38831  (CVSS score: 7.8), a security flaw that can be weaponized to launch malicious payloads. In August 2023, Group-IB disclosed real-world attacks weaponizing the vulnerability and aimed at online trading forums at least since April 2023 to deli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware Gang is Attacking Organizations Using Google Ads Laced with Malware<a href="https://www.esentire.com/blog/the-notorious-alphv-blackcat-ransomware-gang-is-attacking-corporations-and-public-entities-using-google-ads-laced-with-malware-warns-esentire?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian-speaking affiliates of the ALPHV/BlackCat ransomware gang are using malvertising for popular software to distribute the Nitrogen malware and infect organizations with ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI Issue Warning About Rhysida Ransomware Double Extortion Attacks<a href="https://thehackernews.com/2023/11/cisa-and-fbi-issue-warning-about.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the  Rhysida ransomware  engage in opportunistic attacks targeting organizations spanning various industry sectors. The advisory comes courtesy of the U.S. Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), and the Multi-State Information Sharing and Analysis Center (MS-ISAC). "Observed as a ransomware-as-a-service (RaaS) model, Rhysida actors have compromised organizations in education, manufacturing, information technology, and government sectors and any ransom paid is split between the group and affiliates," the agencies  said . "Rhysida actors leverage external-facing remote services, such as virtual private networks (VPNs), Zerologon vulnerability (CVE-2020-1472), and phishing campaigns to gain initial access and persistence within a network." First detected in May 2023,  Rhysida  makes use of the time-tested tactic of double extortion, demanding a ransom payment to decrypt victim da
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Claim Major Data Breach at Smart WiFi Provider Plume<a href="https://www.hackread.com/hackers-smart-wi-fi-provider-plume-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers claiming responsibility for the breach have announced it on the Breach Forums. They allege to have stolen over 20GB of Plume's Wi-Fi database, containing 15 million lines of information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Automate the Hardest Parts of Employee Offboarding<a href="https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to recent research on  employee offboarding , 70% of IT professionals say they've experienced the negative effects of incomplete IT offboarding, whether in the form of a security incident tied to an account that wasn't deprovisioned, a surprise bill for resources that aren't in use anymore, or a missed handoff of a critical resource or account. This is despite an average of five hours spent per departing employee on activities like finding and deprovisioning SaaS accounts. As the SaaS footprint within most organizations continues to expand, it is becoming exponentially more difficult (and time-consuming) to ensure all access is deprovisioned or transferred when an employee leaves the organization.  How Nudge Security can help Nudge Security is a  SaaS management platform  for modern IT governance and security. It discovers every cloud and SaaS account ever created by anyone in your organization, including generative AI apps, giving you a single source of truth for depa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Backed Hackers a Threat to Australia, Agency Warns<a href="https://www.securityweek.com/state-backed-hackers-a-threat-to-australia-agency-warns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical infrastructure, including water supplies and electricity grids, are likely targets for cyberattacks, along with the theft of military secrets and intellectual property.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Could Exploit Google Workspace and Cloud Platform for Ransomware Attacks<a href="https://thehackernews.com/2023/11/hackers-could-exploit-google-workspace.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A set of novel attack methods has been demonstrated against Google Workspace and the Google Cloud Platform that could be potentially leveraged by threat actors to conduct ransomware, data exfiltration, and password recovery attacks. "Starting from a single compromised machine, threat actors could progress in several ways: they could move to other cloned machines with  GCPW  installed, gain access to the cloud platform with custom permissions, or decrypt locally stored passwords to continue their attack beyond the Google ecosystem," Martin Zugec, technical solutions director at Bitdefender,  said  in a new report. A prerequisite for these attacks is that the bad actor has already gained access to a local machine through other means, prompting Google to mark the bug as  not eligible for fixing  "since it's outside of our threat model and the behavior is in line with Chrome's practices of storing local data." However, the Romanian cybersecurity firm has wa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Outlines AI-Related Cybersecurity Efforts<a href="https://www.securityweek.com/cisa-outlines-ai-related-cybersecurity-efforts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA's roadmap outlines five key areas of focus, including responsible use of AI, secure adoption of AI-based software, protection against malicious use of AI, collaboration with partners, and workforce education on AI systems and techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Linked to 'Largest Ever Cyber Attack' on Danish Critical Infrastructure<a href="https://thehackernews.com/2023/11/russian-hackers-launch-largest-ever.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian threat actors have been possibly linked to what's been described as the "largest cyber attack against Danish critical infrastructure," in which 22 companies associated with the operation of the country's energy sector were targeted in May 2023.  "22 simultaneous, successful cyberattacks against Danish critical infrastructure are not commonplace," Denmark's SektorCERT  said  [PDF]. "The attackers knew in advance who they were going to target and got it right every time. Not once did a shot miss the target." The agency said it found evidence connecting one or more attacks to Russia's GRU military intelligence agency, which is also tracked under the name  Sandworm  and has a track record of orchestrating disruptive cyber assaults on industrial control systems. This assessment is based on artifacts communicating with IP addresses that have been traced to the hacking crew. The unprecedented and coordinated cyber attacks took place on
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Suing Cybercriminals Who Delivered Malware via Fake Bard Downloads<a href="https://www.securityweek.com/google-suing-cybercriminals-who-delivered-malware-via-fake-bard-downloads/?&web_view=true"> Full Text</a>
@@ -50,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2023
+November 15, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Takes Down IPStorm Botnet, Russian-Moldovan Mastermind Pleads Guilty<a href="https://thehackernews.com/2023/11/us-takes-down-ipstorm-botnet-russian.html"> Full Text</a>
@@ -66,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2023
+November 15, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NY Governor Wants New Cybersecurity Rules for Hospitals After Multiple Attacks<a href="https://therecord.media/new-york-state-hospital-cybersecurity-regulations-proposed?&web_view=true"> Full Text</a>
@@ -82,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2023
+November 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PoC Exploit for Apache ActiveMQ Flaw Could Let Attackers Fly Under the Radar<a href="https://thehackernews.com/2023/11/new-poc-exploit-for-apache-activemq.html"> Full Text</a>
@@ -98,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2023
+November 15, 2023 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Credit Card Skimming on the Rise for the Holiday Shopping Season<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/11/credit-card-skimming-on-the-rise-for-the-holiday-shopping-season?&web_view=true"> Full Text</a>
@@ -114,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2023
+November 15, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three Ways Varonis Helps You Fight Insider Threats<a href="https://thehackernews.com/2023/11/three-ways-varonis-helps-you-fight.html"> Full Text</a>
@@ -130,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2023
+November 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack on North Carolina County Allowed Hackers to Access Data<a href="https://therecord.media/north-carolina-county-cyberattack-national-guard-called-in?&web_view=true"> Full Text</a>
@@ -146,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2023
+November 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reptar: New Intel CPU Vulnerability Impacts Multi-Tenant Virtualized Environments<a href="https://thehackernews.com/2023/11/reptar-new-intel-cpu-vulnerability.html"> Full Text</a>
@@ -162,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2023
+November 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 File-Transfer Services, Rich With Sensitive Data, are Under Attack<a href="https://www.cybersecuritydive.com/news/file-transfer-services-under-attack/699722/?&web_view=true"> Full Text</a>
@@ -178,7 +370,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2023
+November 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: Microsoft Releases Patch Updates for 5 New Zero-Day Vulnerabilities<a href="https://thehackernews.com/2023/11/alert-microsoft-releases-patch-updates.html"> Full Text</a>
@@ -194,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2023
+November 15, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyble Raises $6.2M; Expands Series B to $30.2M<a href="https://www.finsmes.com/2023/11/cyble-expands-series-b-to-30-2m.html?&web_view=true"> Full Text</a>
@@ -210,7 +402,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2023
+November 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Urgent: VMware Warns of Unpatched Critical Cloud Director Vulnerability<a href="https://thehackernews.com/2023/11/urgent-vmware-warns-of-unpatched.html"> Full Text</a>
@@ -226,7 +418,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2023
+November 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Espionage Operation on Embassies Linked to Russia’s Cozy Bear Hackers<a href="https://therecord.media/cyber-espionage-campaign-embassies-apt29-cozy-bear?&web_view=true"> Full Text</a>
@@ -242,7 +434,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 15, 2023
+November 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rackspace Records $5M in Expenses Related to 2022 Ransomware Attack<a href="https://www.cybersecuritydive.com/news/rackspace-5m-expenses-ransomware/699731/?&web_view=true"> Full Text</a>
