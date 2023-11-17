@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Websites Cloned to Run Ads for Chinese Gambling<a href="https://www.theregister.com/2023/11/16/qurium_cloned_websites_chinese_gambling/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The motive behind these cloned sites is likely to generate traffic for gambling operators, as they can serve third-party ads that publishers may be reluctant to carry on their own sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware Gang is Attacking Organizations Using Google Ads Laced with Malware<a href="https://www.esentire.com/blog/the-notorious-alphv-blackcat-ransomware-gang-is-attacking-corporations-and-public-entities-using-google-ads-laced-with-malware-warns-esentire?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian-speaking affiliates of the ALPHV/BlackCat ransomware gang are using malvertising for popular software to distribute the Nitrogen malware and infect organizations with ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

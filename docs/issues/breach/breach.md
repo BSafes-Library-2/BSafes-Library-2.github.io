@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Claim Major Data Breach at Smart WiFi Provider Plume<a href="https://www.hackread.com/hackers-smart-wi-fi-provider-plume-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers claiming responsibility for the breach have announced it on the Breach Forums. They allege to have stolen over 20GB of Plume's Wi-Fi database, containing 15 million lines of information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

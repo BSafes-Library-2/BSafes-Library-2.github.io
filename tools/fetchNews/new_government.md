@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+November 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and FBI Issue Warning About Rhysida Ransomware Double Extortion Attacks<a href="https://thehackernews.com/2023/11/cisa-and-fbi-issue-warning-about.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the&nbsp; Rhysida ransomware &nbsp;engage in opportunistic attacks targeting organizations spanning various industry sectors. The advisory comes courtesy of the U.S. Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), and the Multi-State Information Sharing and Analysis Center (MS-ISAC). "Observed as a ransomware-as-a-service (RaaS) model, Rhysida actors have compromised organizations in education, manufacturing, information technology, and government sectors and any ransom paid is split between the group and affiliates," the agencies&nbsp; said . "Rhysida actors leverage external-facing remote services, such as virtual private networks (VPNs), Zerologon vulnerability (CVE-2020-1472), and phishing campaigns to gain initial access and persistence within a network." First detected in May 2023,&nbsp; Rhysida &nbsp;makes use of the time-tested tactic of double extortion, demanding a ransom payment to decrypt victim da
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+State-Backed Hackers a Threat to Australia, Agency Warns<a href="https://www.securityweek.com/state-backed-hackers-a-threat-to-australia-agency-warns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical infrastructure, including water supplies and electricity grids, are likely targets for cyberattacks, along with the theft of military secrets and intellectual property.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Outlines AI-Related Cybersecurity Efforts<a href="https://www.securityweek.com/cisa-outlines-ai-related-cybersecurity-efforts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA's roadmap outlines five key areas of focus, including responsible use of AI, secure adoption of AI-based software, protection against malicious use of AI, collaboration with partners, and workforce education on AI systems and techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

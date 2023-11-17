@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack on North Carolina County Allowed Hackers to Access Data<a href="https://therecord.media/north-carolina-county-cyberattack-national-guard-called-in?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although the nature of the attack was not specified, the county's IT staff discovered irregularities in their system and called in external cybersecurity experts to investigate and secure their servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rackspace Records $5M in Expenses Related to 2022 Ransomware Attack<a href="https://www.cybersecuritydive.com/news/rackspace-5m-expenses-ransomware/699731/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack disrupted email access for customers, leading to the discontinuation of the Hosted Exchange product. Rackspace expects to receive $5.4 million in insurance reimbursement, but the timing may differ from expense recognition.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

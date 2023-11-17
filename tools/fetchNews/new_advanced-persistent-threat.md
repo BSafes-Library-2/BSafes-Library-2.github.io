@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+November 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover DarkCasino: New Emerging APT Threat Exploiting WinRAR Flaw<a href="https://thehackernews.com/2023/11/experts-uncover-darkcasino-new-emerging.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacking group that leveraged a recently disclosed security flaw in the WinRAR software as a zero-day has now been categorized as an entirely new advanced persistent threat (APT). Cybersecurity company NSFOCUS has described&nbsp; DarkCasino &nbsp;as an "economically motivated" actor that first came to light in 2021. "DarkCasino is an APT threat actor with strong technical and learning ability, who is good at integrating various popular APT attack technologies into its attack process," the company&nbsp; said &nbsp;in an analysis. "Attacks launched by the APT group DarkCasino are very frequent, demonstrating a strong desire to steal online property." DarkCasino was most recently linked to the zero-day exploitation of&nbsp; CVE-2023-38831 &nbsp;(CVSS score: 7.8), a security flaw that can be weaponized to launch malicious payloads. In August 2023, Group-IB disclosed real-world attacks weaponizing the vulnerability and aimed at online trading forums at least since April 2023 to deli
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

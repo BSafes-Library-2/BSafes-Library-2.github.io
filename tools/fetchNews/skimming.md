@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+November 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credit Card Skimming on the Rise for the Holiday Shopping Season<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/11/credit-card-skimming-on-the-rise-for-the-holiday-shopping-season?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A credit card skimming campaign called Kritec has recently picked up in activity, compromising numerous online stores and stealing credit card information from unsuspecting shoppers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,46 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA ROADMAP FOR ARTIFICIAL INTELLIGENCE <a href="https://www.cisa.gov/sites/default/files/2023-11/2023-2024_CISA-Roadmap-for-AI_508c.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As noted in the landmark Executive Order 14110, “Safe, Secure, And Trustworthy Development
+and Use of Artificial Intelligence (AI),” signed by the President on October 30, 2023, “AI must be
+safe and secure .” As the nation’s cyber defense agency and the national coordinator for critical
+infrastructure security and resilience, CISA will play a key role in addressing and managing risks
+at the nexus of AI, cybersecurity, and critical infrastructure.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 - CISA, FBI, MS-ISAC
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, and MS-ISAC Release Advisory on Rhysida Ransomware <a href="https://www.cisa.gov/news-events/alerts/2023/11/15/cisa-fbi-and-ms-isac-release-advisory-rhysida-ransomware"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), and the Multi-State Information Sharing and Analysis Center (MS-ISAC) released a joint Cybersecurity Advisory (CSA), #StopRansomware: Rhysida Ransomware, to disseminate known Rhysida ransomware indicators of compromise (IOCs), detection methods, and tactics, techniques, and procedures (TTPs) identified through investigations as recently as September 2023.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 13, 2023 - CISA, FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StopRansomware: Royal Ransomware <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-061a"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) are releasing this joint CSA to disseminate known Royal ransomware IOCs and TTPs identified through FBI threat response activities as recently as June 2023.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 13, 2023 - CISA, FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
