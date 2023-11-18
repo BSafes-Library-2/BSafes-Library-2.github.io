@@ -14,11 +14,31 @@ CISA ROADMAP FOR ARTIFICIAL INTELLIGENCE <a href="https://www.cisa.gov/sites/def
 </p>
 <details>
   <summary>Abstract</summary>
-As noted in the landmark Executive Order 14110, “Safe, Secure, And Trustworthy Development
-and Use of Artificial Intelligence (AI),” signed by the President on October 30, 2023, “AI must be
-safe and secure .” As the nation’s cyber defense agency and the national coordinator for critical
-infrastructure security and resilience, CISA will play a key role in addressing and managing risks
-at the nexus of AI, cybersecurity, and critical infrastructure.
+As noted in the landmark Executive Order 14110, “Safe, Secure, And Trustworthy Development and Use of Artificial Intelligence (AI),” signed by the President on October 30, 2023, “AI must be safe and secure .” As the nation’s cyber defense agency and the national coordinator for critical infrastructure security and resilience, CISA will play a key role in addressing and managing risks at the nexus of AI, cybersecurity, and critical infrastructure.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 16, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI and CISA Release Advisory on Scattered Spider Group <a href="https://www.cisa.gov/news-events/alerts/2023/11/16/fbi-and-cisa-release-advisory-scattered-spider-group"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, the Federal Bureau of Investigation (FBI) and the Cybersecurity and Infrastructure Security Agency (CISA) released a joint Cybersecurity Advisory (CSA) on Scattered Spider—a cybercriminal group targeting commercial facilities sectors and subsectors. The advisory provides tactics, techniques, and procedures (TTPs) obtained through FBI investigations as recently as November 2023.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 15, 2023 - FCC
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC ADOPTS RULES TO PROTECT CONSUMERS’ CELL PHONE ACCOUNTS <a href="https://docs.fcc.gov/public/attachments/DOC-398483A1.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WASHINGTON, November 15, 2023—The Federal Communications Commission today adopted new rules to protect consumers against scams that aim to commandeer their cell phone accounts. The rules will help protect consumers from scammers who target data and personal information by covertly swapping SIM cards to a new device or porting phone numbers to a new carrier without ever gaining physical control of a consumer’s phone. These updated rules will help protect consumers from SIM swapping scams and port-out fraud while maintaining their well-established freedom to pick their preferred device and provider. 
 </details>
 </div>
 

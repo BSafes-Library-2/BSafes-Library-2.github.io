@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Automate the Hardest Parts of Employee Offboarding<a href="https://thehackernews.com/2023/11/how-to-automate-hardest-parts-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to recent research on&nbsp; employee offboarding , 70% of IT professionals say they've experienced the negative effects of incomplete IT offboarding, whether in the form of a security incident tied to an account that wasn't deprovisioned, a surprise bill for resources that aren't in use anymore, or a missed handoff of a critical resource or account. This is despite an average of five hours spent per departing employee on activities like finding and deprovisioning SaaS accounts. As the SaaS footprint within most organizations continues to expand, it is becoming exponentially more difficult (and time-consuming) to ensure all access is deprovisioned or transferred when an employee leaves the organization.&nbsp; How Nudge Security can help Nudge Security is a&nbsp; SaaS management platform &nbsp;for modern IT governance and security. It discovers every cloud and SaaS account ever created by anyone in your organization, including generative AI apps, giving you a single source of truth for depa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

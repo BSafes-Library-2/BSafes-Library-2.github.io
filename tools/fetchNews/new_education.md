@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discover 2023's Cloud Security Strategies in Our Upcoming Webinar - Secure Your Spot<a href="https://thehackernews.com/2023/11/discover-2023s-cloud-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2023, the cloud isn't just a technology—it's a battleground. Zenbleed, Kubernetes attacks, and sophisticated APTs are just the tip of the iceberg in the cloud security warzone. In collaboration with the esteemed experts from Lacework Labs, The Hacker News proudly presents an exclusive webinar: ' Navigating the Cloud Attack Landscape: 2023 Trends, Techniques, and Tactics .' Join us for an insightful session led by Jose Hernandez of Lacework Labs, where we dissect and analyze the year's most pressing cloud security issues. This webinar is not just about theory; it's a practical guide filled with actionable strategies to shield your organization from advanced threats in the cloud.&nbsp; Highlights include: Kubernetes Security Breaches: &nbsp;Explore the surge in Kubernetes-related vulnerabilities and the concerning increase in administrative plane abuses. Zenbleed in Focus: &nbsp;Understand the far-reaching impact of the Zenbleed vulnerability and how Lacework Labs is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

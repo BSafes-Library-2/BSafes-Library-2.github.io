@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Linked to 'Largest Ever Cyber Attack' on Danish Critical Infrastructure<a href="https://thehackernews.com/2023/11/russian-hackers-launch-largest-ever.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian threat actors have been possibly linked to what's been described as the "largest cyber attack against Danish critical infrastructure," in which 22 companies associated with the operation of the country's energy sector were targeted in May 2023.&nbsp; "22 simultaneous, successful cyberattacks against Danish critical infrastructure are not commonplace," Denmark's SektorCERT&nbsp; said &nbsp;[PDF]. "The attackers knew in advance who they were going to target and got it right every time. Not once did a shot miss the target." The agency said it found evidence connecting one or more attacks to Russia's GRU military intelligence agency, which is also tracked under the name&nbsp; Sandworm &nbsp;and has a track record of orchestrating disruptive cyber assaults on industrial control systems. This assessment is based on artifacts communicating with IP addresses that have been traced to the hacking crew. The unprecedented and coordinated cyber attacks took place on
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

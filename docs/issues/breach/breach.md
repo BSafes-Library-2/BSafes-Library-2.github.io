@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+November 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than 330,000 Medicare Recipients Affected by MOVEit Breach<a href="https://therecord.media/more-than-hundreds-thousands-medicare-moveit?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach highlights the importance of implementing the "Secure By Design" initiative and ensuring that software used by organizations is secure to prevent supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Sex Life Data’ Stolen From UK Government Among Record Number of Ransomware Attacks<a href="https://therecord.media/sex-life-data-uk-government-ransomware-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Up to 10,000 people's data on their sex lives was stolen in a ransomware attack on a British government department. It is unclear why the government was holding this data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bangladesh's NTMC Exposed Database Containing Personal Information to Open Web<a href="https://thefinancialexpress.com.bd/sci-tech/ntmc-database-exposed-personal-info-to-open-web-report?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Telecommunication Monitoring Centre in Bangladesh exposed a database containing extensive personal information, including names, phone numbers, and passport details.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Targets Telecom Provider for Inmates After Massive Data Breach<a href="https://therecord.media/ftc-complaint-order-global-tel-link-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The proposed order by the FTC requires Global Tel*Link to implement a comprehensive data security program, notify customers of future breaches, and minimize the data it collects and retains, among other measures, to prevent further incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

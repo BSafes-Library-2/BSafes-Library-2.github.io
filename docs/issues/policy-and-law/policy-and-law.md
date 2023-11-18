@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC Aims to Avoid Cyber Disclosure Rule 'Compliance Burdens'<a href="https://www.bankinfosecurity.com/sec-aims-to-avoid-cyber-disclosure-rule-compliance-burdens-a-23612?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rule includes exceptions for cases where public disclosure of a cyber incident could pose significant risks to public safety or national security, allowing companies to work with law enforcement agencies to address secret cybersecurity events.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

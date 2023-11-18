@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+November 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Enforces Stronger Rules to Protect Customers Against SIM Swapping Attacks<a href="https://thehackernews.com/2023/11/fcc-enforces-stronger-rules-to-protect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Communications Commission (FCC) is adopting new rules that aim to protect consumers from cell phone account scams that make it possible for malicious actors to orchestrate SIM-swapping attacks and port-out fraud. "The rules will help protect consumers from scammers who target data and personal information by covertly swapping SIM cards to a new device or porting phone numbers to a new carrier without ever gaining physical control of a consumer's phone," FCC&nbsp; said &nbsp;this week. While SIM swapping refers to transferring a user's account to a SIM card controlled by the scammer by convincing the victim's wireless carrier,&nbsp; port-out fraud &nbsp;occurs when the bad actor, posing as the victim, transfers their phone number from one service provider to another without their knowledge. The new rules,&nbsp; first proposed in July 2023 , mandate wireless providers to adopt secure methods of authenticating a customer before redirecting a customer's phone number to a new device or provide
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cybersecurity Agencies Warn of Scattered Spider's Gen Z Cybercrime Ecosystem<a href="https://thehackernews.com/2023/11/us-cybersecurity-agencies-warn-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. cybersecurity and intelligence agencies have released a joint advisory about a cybercriminal group known as&nbsp; Scattered Spider &nbsp;that's known to employ sophisticated phishing tactics to infiltrate targets. "Scattered Spider threat actors typically engage in data theft for extortion using multiple social engineering techniques and have recently leveraged BlackCat/ALPHV ransomware alongside their usual TTPs," the agencies&nbsp; said . The threat actor, also tracked under the monikers Muddled Libra, Octo Tempest, 0ktapus, Scatter Swine, Star Fraud, and UNC3944, was the subject of an&nbsp; extensive profile &nbsp;from Microsoft last month, with the tech giant calling it "one of the most dangerous financial criminal groups." Considered as experts in social engineering, Scattered Spider is known to rely on phishing, prompt bombing, and SIM swapping attacks to obtain credentials, install remote access tools, and bypass multi-factor authentication (MFA). Scattered Spider, li
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

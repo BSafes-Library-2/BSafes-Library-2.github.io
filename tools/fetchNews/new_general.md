@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Intel: To Share or Not to Share is Not the Question<a href="https://www.securityweek.com/threat-intel-to-share-or-not-to-share-is-not-the-question/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Regulatory compliance and upcoming regulations, such as the Digital Operational Resilience Act, are driving the need for organizations to engage in threat intelligence sharing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

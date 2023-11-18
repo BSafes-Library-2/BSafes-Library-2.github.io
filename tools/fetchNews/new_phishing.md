@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Malicious Google Ads Trick WinSCP Users into Installing Malware<a href="https://thehackernews.com/2023/11/beware-malicious-google-ads-trick.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are leveraging manipulated search results and bogus Google ads that trick users who are looking to download legitimate software such as WinSCP into installing malware instead. Cybersecurity company Securonix is tracking the ongoing activity under the name&nbsp; SEO#LURKER . "The malicious advertisement directs the user to a compromised WordPress website gameeweb[.]com, which redirects the user to an attacker-controlled phishing site," security researchers Den Iuzvyk, Tim Peck, and Oleg Kolesnikov&nbsp; said &nbsp;in a report shared with The Hacker News. The threat actors are believed to leverage Google's Dynamic Search Ads ( DSAs ), which automatically generates ads based on a site's content to serve the malicious ads that take the victims to the infected site. The ultimate goal of the complex multi-stage attack chain is to entice users into clicking on the fake, lookalike WinSCP website, winccp[.]net, and download the malware. "Traffic from the gaweeweb[.]com website to the fake
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
