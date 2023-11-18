@@ -34,6 +34,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than 330,000 Medicare Recipients Affected by MOVEit Breach<a href="https://therecord.media/more-than-hundreds-thousands-medicare-moveit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach highlights the importance of implementing the "Secure By Design" initiative and ensuring that software used by organizations is secure to prevent supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Cyber Espionage Group Deploys LitterDrifter USB Worm in Targeted Attacks<a href="https://thehackernews.com/2023/11/russian-cyber-espionage-group-deploys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian cyber espionage actors affiliated with the Federal Security Service (FSB) have been observed using a USB propagating worm called  LitterDrifter  in attacks targeting Ukrainian entities. Check Point, which  detailed  Gamaredon's (aka Aqua Blizzard, Iron Tilden, Primitive Bear, Shuckworm, and Winterflounder) latest tactics, branded the group as engaging in large-scale campaigns that are followed by "data collection efforts aimed at specific targets, whose selection is likely motivated by espionage goals." The LitterDrifter worm packs in two main features: automatically spreading the malware via connected USB drives as well as communicating with the threat actor's command-and-control (C&C) servers. It's also suspected to be an evolution of a PowerShell-based USB worm that was previously  disclosed  by Symantec in June 2023. Written in VBS, the spreader module is responsible for distributing the worm as a hidden file in a USB drive together with a deco
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Sex Life Data’ Stolen From UK Government Among Record Number of Ransomware Attacks<a href="https://therecord.media/sex-life-data-uk-government-ransomware-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Up to 10,000 people's data on their sex lives was stolen in a ransomware attack on a British government department. It is unclear why the government was holding this data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Malicious Google Ads Trick WinSCP Users into Installing Malware<a href="https://thehackernews.com/2023/11/beware-malicious-google-ads-trick.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are leveraging manipulated search results and bogus Google ads that trick users who are looking to download legitimate software such as WinSCP into installing malware instead. Cybersecurity company Securonix is tracking the ongoing activity under the name  SEO#LURKER . "The malicious advertisement directs the user to a compromised WordPress website gameeweb[.]com, which redirects the user to an attacker-controlled phishing site," security researchers Den Iuzvyk, Tim Peck, and Oleg Kolesnikov  said  in a report shared with The Hacker News. The threat actors are believed to leverage Google's Dynamic Search Ads ( DSAs ), which automatically generates ads based on a site's content to serve the malicious ads that take the victims to the infected site. The ultimate goal of the complex multi-stage attack chain is to entice users into clicking on the fake, lookalike WinSCP website, winccp[.]net, and download the malware. "Traffic from the gaweeweb[.]com website to the fake
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bangladesh's NTMC Exposed Database Containing Personal Information to Open Web<a href="https://thefinancialexpress.com.bd/sci-tech/ntmc-database-exposed-personal-info-to-open-web-report?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Telecommunication Monitoring Centre in Bangladesh exposed a database containing extensive personal information, including names, phone numbers, and passport details.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Enforces Stronger Rules to Protect Customers Against SIM Swapping Attacks<a href="https://thehackernews.com/2023/11/fcc-enforces-stronger-rules-to-protect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Communications Commission (FCC) is adopting new rules that aim to protect consumers from cell phone account scams that make it possible for malicious actors to orchestrate SIM-swapping attacks and port-out fraud. "The rules will help protect consumers from scammers who target data and personal information by covertly swapping SIM cards to a new device or porting phone numbers to a new carrier without ever gaining physical control of a consumer's phone," FCC  said  this week. While SIM swapping refers to transferring a user's account to a SIM card controlled by the scammer by convincing the victim's wireless carrier,  port-out fraud  occurs when the bad actor, posing as the victim, transfers their phone number from one service provider to another without their knowledge. The new rules,  first proposed in July 2023 , mandate wireless providers to adopt secure methods of authenticating a customer before redirecting a customer's phone number to a new device or provide
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Targets Telecom Provider for Inmates After Massive Data Breach<a href="https://therecord.media/ftc-complaint-order-global-tel-link-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The proposed order by the FTC requires Global Tel*Link to implement a comprehensive data security program, notify customers of future breaches, and minimize the data it collects and retains, among other measures, to prevent further incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discover 2023's Cloud Security Strategies in Our Upcoming Webinar - Secure Your Spot<a href="https://thehackernews.com/2023/11/discover-2023s-cloud-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2023, the cloud isn't just a technology—it's a battleground. Zenbleed, Kubernetes attacks, and sophisticated APTs are just the tip of the iceberg in the cloud security warzone. In collaboration with the esteemed experts from Lacework Labs, The Hacker News proudly presents an exclusive webinar: ' Navigating the Cloud Attack Landscape: 2023 Trends, Techniques, and Tactics .' Join us for an insightful session led by Jose Hernandez of Lacework Labs, where we dissect and analyze the year's most pressing cloud security issues. This webinar is not just about theory; it's a practical guide filled with actionable strategies to shield your organization from advanced threats in the cloud.  Highlights include: Kubernetes Security Breaches:  Explore the surge in Kubernetes-related vulnerabilities and the concerning increase in administrative plane abuses. Zenbleed in Focus:  Understand the far-reaching impact of the Zenbleed vulnerability and how Lacework Labs is
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC Aims to Avoid Cyber Disclosure Rule 'Compliance Burdens'<a href="https://www.bankinfosecurity.com/sec-aims-to-avoid-cyber-disclosure-rule-compliance-burdens-a-23612?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rule includes exceptions for cases where public disclosure of a cyber incident could pose significant risks to public safety or national security, allowing companies to work with law enforcement agencies to address secret cybersecurity events.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+27 Malicious PyPI Packages with Thousands of Downloads Found Targeting IT Experts<a href="https://thehackernews.com/2023/11/27-malicious-pypi-packages-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unknown threat actor has been observed publishing typosquat packages to the Python Package Index (PyPI) repository for nearly six months with an aim to deliver malware capable of gaining persistence, stealing sensitive data, and accessing cryptocurrency wallets for financial gain. The 27 packages, which masqueraded as popular legitimate Python libraries, attracted thousands of downloads, Checkmarx said in a new report. A majority of the downloads originated from the U.S., China, France, Hong Kong, Germany, Russia, Ireland, Singapore, the U.K., and Japan. "A defining characteristic of this attack was the utilization of steganography to hide a malicious payload within an innocent-looking image file, which increased the stealthiness of the attack," the software supply chain security firm  said . Some of the packages are pyefflorer, pyminor, pyowler, pystallerer, pystob, and pywool, the last of which was planted on May 13, 2023. A common denominator to these packages is t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Intel: To Share or Not to Share is Not the Question<a href="https://www.securityweek.com/threat-intel-to-share-or-not-to-share-is-not-the-question/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Regulatory compliance and upcoming regulations, such as the Digital Operational Resilience Act, are driving the need for organizations to engage in threat intelligence sharing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Cybersecurity Agencies Warn of Scattered Spider's Gen Z Cybercrime Ecosystem<a href="https://thehackernews.com/2023/11/us-cybersecurity-agencies-warn-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. cybersecurity and intelligence agencies have released a joint advisory about a cybercriminal group known as  Scattered Spider  that's known to employ sophisticated phishing tactics to infiltrate targets. "Scattered Spider threat actors typically engage in data theft for extortion using multiple social engineering techniques and have recently leveraged BlackCat/ALPHV ransomware alongside their usual TTPs," the agencies  said . The threat actor, also tracked under the monikers Muddled Libra, Octo Tempest, 0ktapus, Scatter Swine, Star Fraud, and UNC3944, was the subject of an  extensive profile  from Microsoft last month, with the tech giant calling it "one of the most dangerous financial criminal groups." Considered as experts in social engineering, Scattered Spider is known to rely on phishing, prompt bombing, and SIM swapping attacks to obtain credentials, install remote access tools, and bypass multi-factor authentication (MFA). Scattered Spider, li
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 16, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
