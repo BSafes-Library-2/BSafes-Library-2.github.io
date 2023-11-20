@@ -37,6 +37,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 November 18, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Multiple Colleges, K-12 Schools Facing Outages After Cyberattacks<a href="https://therecord.media/colleges-schools-facing-outages-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Schools like North Carolina Central University and Glendale Community College experienced significant disruptions to their IT systems, leading to the temporary suspension of online courses and the interruption of critical processes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8Base Group Deploying New Phobos Ransomware Variant via SmokeLoader<a href="https://thehackernews.com/2023/11/8base-group-deploying-new-phobos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the  8Base ransomware  are leveraging a variant of the Phobos ransomware to conduct their financially motivated attacks. The findings come from Cisco Talos, which has recorded an increase in activity carried out by cybercriminals. "Most of the group's Phobos variants are distributed by SmokeLoader, a backdoor trojan," security researcher Guilherme Venere said in an exhaustive  two-part   analysis  published Friday. "This commodity loader typically drops or downloads additional payloads when deployed. In 8Base campaigns, however, it has the ransomware component embedded in its encrypted payloads, which is then decrypted and loaded into the SmokeLoader process' memory." 8Base came into sharp focus in mid-2023, when a similar spike in activity was observed by the cybersecurity community. It's said to be active at least since March 2022. A  previous analysis  from VMware Carbon Black in June 2023 identified parallels between 8Base and RansomHou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stanley Steemer Hack Breached Data of Almost 67K Customers<a href="https://www.cybersecuritydive.com/news/stanley-steemer-hack-67k-customers/700175/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach went undetected for almost a month, highlighting the importance of proactive monitoring and timely detection of suspicious activities to prevent data breaches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over a Dozen Exploitable Vulnerabilities Found in AI/ML Tools<a href="https://www.securityweek.com/over-a-dozen-exploitable-vulnerabilities-found-in-ai-ml-tools/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Huntr bug bounty platform has discovered multiple vulnerabilities in popular AI/ML tools, including H2O-3, MLflow, and Ray, which could lead to system takeover and data theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Yamaha and WellLife Network Confirm Cyber Incidents After Ransomware Gang Claims Attacks<a href="https://therecord.media/yamaha-welllife-network-confirm-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Japanese manufacturer Yamaha Motor and healthcare organization WellLife Network have both confirmed being victims of cyberattacks. The ransomware group responsible for the attacks, possibly the INC gang, has been targeting various industries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 18, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 More Than 330,000 Medicare Recipients Affected by MOVEit Breach<a href="https://therecord.media/more-than-hundreds-thousands-medicare-moveit?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -50,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 18, 2023
+November 18, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Cyber Espionage Group Deploys LitterDrifter USB Worm in Targeted Attacks<a href="https://thehackernews.com/2023/11/russian-cyber-espionage-group-deploys.html"> Full Text</a>
@@ -66,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 17, 2023
+November 17, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Sex Life Data’ Stolen From UK Government Among Record Number of Ransomware Attacks<a href="https://therecord.media/sex-life-data-uk-government-ransomware-attacks?&web_view=true"> Full Text</a>
@@ -82,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 17, 2023
+November 17, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware: Malicious Google Ads Trick WinSCP Users into Installing Malware<a href="https://thehackernews.com/2023/11/beware-malicious-google-ads-trick.html"> Full Text</a>
@@ -98,7 +178,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 17, 2023
+November 17, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bangladesh's NTMC Exposed Database Containing Personal Information to Open Web<a href="https://thefinancialexpress.com.bd/sci-tech/ntmc-database-exposed-personal-info-to-open-web-report?&web_view=true"> Full Text</a>
@@ -114,7 +194,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 17, 2023
+November 17, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FCC Enforces Stronger Rules to Protect Customers Against SIM Swapping Attacks<a href="https://thehackernews.com/2023/11/fcc-enforces-stronger-rules-to-protect.html"> Full Text</a>
@@ -130,7 +210,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 17, 2023
+November 17, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC Targets Telecom Provider for Inmates After Massive Data Breach<a href="https://therecord.media/ftc-complaint-order-global-tel-link-data-breach?&web_view=true"> Full Text</a>
@@ -146,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 17, 2023
+November 17, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Discover 2023's Cloud Security Strategies in Our Upcoming Webinar - Secure Your Spot<a href="https://thehackernews.com/2023/11/discover-2023s-cloud-security.html"> Full Text</a>
@@ -162,7 +242,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 17, 2023
+November 17, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEC Aims to Avoid Cyber Disclosure Rule 'Compliance Burdens'<a href="https://www.bankinfosecurity.com/sec-aims-to-avoid-cyber-disclosure-rule-compliance-burdens-a-23612?&web_view=true"> Full Text</a>
@@ -178,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 17, 2023
+November 17, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 27 Malicious PyPI Packages with Thousands of Downloads Found Targeting IT Experts<a href="https://thehackernews.com/2023/11/27-malicious-pypi-packages-with.html"> Full Text</a>
@@ -194,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 17, 2023
+November 17, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Intel: To Share or Not to Share is Not the Question<a href="https://www.securityweek.com/threat-intel-to-share-or-not-to-share-is-not-the-question/?&web_view=true"> Full Text</a>
@@ -210,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 17, 2023
+November 17, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Cybersecurity Agencies Warn of Scattered Spider's Gen Z Cybercrime Ecosystem<a href="https://thehackernews.com/2023/11/us-cybersecurity-agencies-warn-of.html"> Full Text</a>
