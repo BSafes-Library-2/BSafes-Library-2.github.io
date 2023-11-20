@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Colleges, K-12 Schools Facing Outages After Cyberattacks<a href="https://therecord.media/colleges-schools-facing-outages-cyberattacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Schools like North Carolina Central University and Glendale Community College experienced significant disruptions to their IT systems, leading to the temporary suspension of online courses and the interruption of critical processes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

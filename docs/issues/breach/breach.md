@@ -11,6 +11,20 @@ nav_order: 900029
 November 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Stanley Steemer Hack Breached Data of Almost 67K Customers<a href="https://www.cybersecuritydive.com/news/stanley-steemer-hack-67k-customers/700175/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach went undetected for almost a month, highlighting the importance of proactive monitoring and timely detection of suspicious activities to prevent data breaches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 More Than 330,000 Medicare Recipients Affected by MOVEit Breach<a href="https://therecord.media/more-than-hundreds-thousands-medicare-moveit?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Cyber Espionage Group Deploys LitterDrifter USB Worm in Targeted Attacks<a href="https://thehackernews.com/2023/11/russian-cyber-espionage-group-deploys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian cyber espionage actors affiliated with the Federal Security Service (FSB) have been observed using a USB propagating worm called&nbsp; LitterDrifter &nbsp;in attacks targeting Ukrainian entities. Check Point, which&nbsp; detailed &nbsp;Gamaredon's (aka Aqua Blizzard, Iron Tilden, Primitive Bear, Shuckworm, and Winterflounder) latest tactics, branded the group as engaging in large-scale campaigns that are followed by "data collection efforts aimed at specific targets, whose selection is likely motivated by espionage goals." The LitterDrifter worm packs in two main features: automatically spreading the malware via connected USB drives as well as communicating with the threat actor's command-and-control (C&amp;C) servers. It's also suspected to be an evolution of a PowerShell-based USB worm that was previously&nbsp; disclosed &nbsp;by Symantec in June 2023. Written in VBS, the spreader module is responsible for distributing the worm as a hidden file in a USB drive together with a deco
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

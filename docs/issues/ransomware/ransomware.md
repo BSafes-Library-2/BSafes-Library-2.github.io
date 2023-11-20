@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8Base Group Deploying New Phobos Ransomware Variant via SmokeLoader<a href="https://thehackernews.com/2023/11/8base-group-deploying-new-phobos.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the&nbsp; 8Base ransomware &nbsp;are leveraging a variant of the Phobos ransomware to conduct their financially motivated attacks. The findings come from Cisco Talos, which has recorded an increase in activity carried out by cybercriminals. "Most of the group's Phobos variants are distributed by SmokeLoader, a backdoor trojan," security researcher Guilherme Venere said in an exhaustive&nbsp; two-part &nbsp; analysis &nbsp;published Friday. "This commodity loader typically drops or downloads additional payloads when deployed. In 8Base campaigns, however, it has the ransomware component embedded in its encrypted payloads, which is then decrypted and loaded into the SmokeLoader process' memory." 8Base came into sharp focus in mid-2023, when a similar spike in activity was observed by the cybersecurity community. It's said to be active at least since March 2022. A&nbsp; previous analysis &nbsp;from VMware Carbon Black in June 2023 identified parallels between 8Base and RansomHou
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
