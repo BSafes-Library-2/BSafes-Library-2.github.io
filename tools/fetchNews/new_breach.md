@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Public Service, RCMP, CAF Members Affected in Canadian Federal Government Data Breach<a href="https://www.ctvnews.ca/canada/current-and-former-public-service-rcmp-military-members-affected-by-data-breach-federal-government-warns-1.6651343?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal and financial information of current and former public service employees and members of the RCMP and Canadian Armed Forces may have been accessed in a data breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

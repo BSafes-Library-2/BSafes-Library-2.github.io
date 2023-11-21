@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+November 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&amp;T Forms Joint Venture for Managed Cybersecurity Business<a href="https://www.bankinfosecurity.com/att-forms-joint-venture-for-managed-cybersecurity-business-a-23632?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&amp;T is forming a joint venture with investor WillJam Ventures to separate its managed cybersecurity services from its core connectivity business. WillJam Ventures will make a capital investment into the stand-alone cybersecurity services unit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

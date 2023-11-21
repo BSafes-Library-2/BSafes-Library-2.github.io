@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NetSupport RAT Infections on the Rise - Targeting Government and Business Sectors<a href="https://thehackernews.com/2023/11/netsupport-rat-infections-on-rise.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting the education, government and business services sectors with a remote access trojan called&nbsp; NetSupport RAT . "The delivery mechanisms for the NetSupport RAT encompass fraudulent updates, drive-by downloads, utilization of malware loaders (such as&nbsp; GHOSTPULSE ), and various forms of phishing campaigns," VMware Carbon Black researchers said in a report shared with The Hacker News. The cybersecurity firm said it detected no less than 15 new infections related to NetSupport RAT in the last few weeks.&nbsp; While NetSupport Manager started off as a&nbsp; legitimate remote administration tool &nbsp;for technical assistance and support, malicious actors have misappropriated the tool to their own advantage, using it as a beachhead for subsequent attacks. NetSupport RAT is typically downloaded onto a victim's computer via deceptive websites and fake browser updates. In August 2022, Sucuri&nbsp; detailed &nbsp;a campaign in which compromised WordPress sites were being us
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

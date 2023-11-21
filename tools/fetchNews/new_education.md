@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Defenders Should Embrace a Hacker Mindset<a href="https://thehackernews.com/2023/11/why-defenders-should-embrace-hacker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's security leaders must manage a constantly evolving attack surface and a dynamic threat environment due to interconnected devices, cloud services, IoT technologies, and hybrid work environments. Adversaries are constantly introducing new attack techniques, and not all companies have internal Red Teams or unlimited security resources to stay on top of the latest threats. On top of that, today's attackers are indiscriminate and every business - big or small - needs to be prepared. It is no longer enough for security teams to&nbsp; detect and respond ; we must now also&nbsp; predict and prevent . To handle today's security environment, defenders need to be agile and innovative. In short, we need to start thinking like a hacker.&nbsp; Taking the mindset of an opportunistic threat actor allows you to not only gain a better understanding of potentially exploitable pathways, but also to more effectively prioritize your remediation efforts. It also helps you move past potentially harmful biases, su
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

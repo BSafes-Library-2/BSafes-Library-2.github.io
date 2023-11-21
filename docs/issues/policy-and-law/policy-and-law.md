@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Private Investigator Gets 80-Month Sentence for Global Hack-for-Hire Scheme<a href="https://therecord.media/israeli-aviram-azari-sentenced-hacker-for-hire?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The investigator's victims included high-profile climate change activists, and their hacked communications were leaked to media outlets to undermine investigations into Exxon's knowledge about climate change risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Teen Pleads Guilty to Credential Stuffing Attack on Fantasy Sports Website<a href="https://www.securityweek.com/us-teen-pleads-guilty-to-credential-stuffing-attack-on-fantasy-sports-website/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Along with others, Joseph Garrison stole approximately $600,000 from 1,600 victim accounts by adding a new payment method, depositing $5 into each account, and then withdrawing the funds.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

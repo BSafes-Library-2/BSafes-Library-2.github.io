@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkGate and PikaBot Malware Resurrect QakBot's Tactics in New Phishing Attacks<a href="https://thehackernews.com/2023/11/darkgate-and-pikabot-malware-resurrect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing campaigns delivering malware families such as DarkGate and PikaBot are following the same tactics previously used in attacks leveraging the now-defunct QakBot trojan. "These include hijacked email threads as the initial infection, URLs with unique patterns that limit user access, and an infection chain nearly identical to what we have seen with QakBot delivery," Cofense&nbsp; said &nbsp;in a report shared with The Hacker News. "The malware families used also follow suit to what we would expect QakBot affiliates to use." QakBot, also called QBot and Pinkslipbot, was&nbsp; shut down &nbsp;as part of a coordinated law enforcement effort codenamed Operation Duck Hunt earlier this August. The use of DarkGate and PikaBot in these campaigns is not surprising as they can both act as conduits to deliver additional payloads to compromised hosts, making them both an attractive option for cybercriminals. PikaBot's parallels to QakBot were&nbsp; previously highlighted &nbsp;by Zscaler in its analysis of the malw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Konni Campaign Distributed via Malicious Document<a href="https://www.fortinet.com/blog/threat-research/konni-campaign-distributed-via-malicious-document?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs has identified a Russian-language Word document with a malicious macro in the ongoing Konni campaign. The campaign uses a remote access trojan (RAT) to gain control of infected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are DarkGate and PikaBot the New QakBot?<a href="https://cofense.com/blog/are-darkgate-and-pikabot-the-new-qakbot/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing campaigns are using tactics previously seen in attacks involving the QakBot trojan to deliver malware families such as DarkGate and PikaBot. These campaigns utilize hijacked email threads, unique URL patterns, and a similar infection chain.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
