@@ -34,6 +34,246 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Private Investigator Gets 80-Month Sentence for Global Hack-for-Hire Scheme<a href="https://therecord.media/israeli-aviram-azari-sentenced-hacker-for-hire?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The investigator's victims included high-profile climate change activists, and their hacked communications were leaked to media outlets to undermine investigations into Exxon's knowledge about climate change risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NetSupport RAT Infections on the Rise - Targeting Government and Business Sectors<a href="https://thehackernews.com/2023/11/netsupport-rat-infections-on-rise.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting the education, government and business services sectors with a remote access trojan called  NetSupport RAT . "The delivery mechanisms for the NetSupport RAT encompass fraudulent updates, drive-by downloads, utilization of malware loaders (such as  GHOSTPULSE ), and various forms of phishing campaigns," VMware Carbon Black researchers said in a report shared with The Hacker News. The cybersecurity firm said it detected no less than 15 new infections related to NetSupport RAT in the last few weeks.  While NetSupport Manager started off as a  legitimate remote administration tool  for technical assistance and support, malicious actors have misappropriated the tool to their own advantage, using it as a beachhead for subsequent attacks. NetSupport RAT is typically downloaded onto a victim's computer via deceptive websites and fake browser updates. In August 2022, Sucuri  detailed  a campaign in which compromised WordPress sites were being us
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Actions to Take to Defeat Initial Access Brokers<a href="https://www.darkreading.com/dr-tech/actions-to-take-to-defeat-initial-access-brokers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Access-as-a-service (AaaS) is a new underground business model in cybercrime where threat actors steal enterprise user credentials and sell them to other attack groups, leading to the exfiltration of confidential data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkGate and PikaBot Malware Resurrect QakBot's Tactics in New Phishing Attacks<a href="https://thehackernews.com/2023/11/darkgate-and-pikabot-malware-resurrect.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing campaigns delivering malware families such as DarkGate and PikaBot are following the same tactics previously used in attacks leveraging the now-defunct QakBot trojan. "These include hijacked email threads as the initial infection, URLs with unique patterns that limit user access, and an infection chain nearly identical to what we have seen with QakBot delivery," Cofense  said  in a report shared with The Hacker News. "The malware families used also follow suit to what we would expect QakBot affiliates to use." QakBot, also called QBot and Pinkslipbot, was  shut down  as part of a coordinated law enforcement effort codenamed Operation Duck Hunt earlier this August. The use of DarkGate and PikaBot in these campaigns is not surprising as they can both act as conduits to deliver additional payloads to compromised hosts, making them both an attractive option for cybercriminals. PikaBot's parallels to QakBot were  previously highlighted  by Zscaler in its analysis of the malw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Johnson Controls Patches Critical Vulnerability in Industrial Refrigeration Products<a href="https://www.securityweek.com/johnson-controls-patches-critical-vulnerability-in-industrial-refrigeration-products/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Johnson Controls has released patches for a critical vulnerability found in some of its industrial refrigeration products. The flaw, known as CVE-2023-4804, could allow unauthorized access to debug features.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Product Walkthrough: Silverfort's Unified Identity Protection Platform<a href="https://thehackernews.com/2023/11/product-walkthrough-silverforts-unified.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this article, we will provide a brief overview of Silverfort's platform, the first (and currently only) unified identity protection platform on the market. Silverfort's patented technology aims to protect organizations from identity-based attacks by integrating with existing identity and access management solutions, such as AD (Active Directory) and cloud-based services, and extending secure access controls like Risk-Based Authentication and MFA (Multi-Factor Authentication) to all their resources. This includes on-prem and cloud resources, legacy systems, command-line tools and service accounts. A recent report by Silverfort and Osterman Research revealed that  83% of organizations worldwide have experienced data breaches due to compromised credentials . Many organizations admit that they are underprotected against identity-based attacks, such as lateral movement and ransomware. Resources like command-line access tools and legacy systems, which are widely used, are particular
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Announces $70 Million Cybersecurity Boost for Rural, Municipal Utilities<a href="https://www.securityweek.com/us-announces-70-million-cybersecurity-boost-for-rural-municipal-utilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding opportunity includes investments in technologies, tools, training, and processes to strengthen cybersecurity, as well as increasing access to technical assistance and training for organizations with limited resources.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Defenders Should Embrace a Hacker Mindset<a href="https://thehackernews.com/2023/11/why-defenders-should-embrace-hacker.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today's security leaders must manage a constantly evolving attack surface and a dynamic threat environment due to interconnected devices, cloud services, IoT technologies, and hybrid work environments. Adversaries are constantly introducing new attack techniques, and not all companies have internal Red Teams or unlimited security resources to stay on top of the latest threats. On top of that, today's attackers are indiscriminate and every business - big or small - needs to be prepared. It is no longer enough for security teams to  detect and respond ; we must now also  predict and prevent . To handle today's security environment, defenders need to be agile and innovative. In short, we need to start thinking like a hacker.  Taking the mindset of an opportunistic threat actor allows you to not only gain a better understanding of potentially exploitable pathways, but also to more effectively prioritize your remediation efforts. It also helps you move past potentially harmful biases, su
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Konni Campaign Distributed via Malicious Document<a href="https://www.fortinet.com/blog/threat-research/konni-campaign-distributed-via-malicious-document?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs has identified a Russian-language Word document with a malicious macro in the ongoing Konni campaign. The campaign uses a remote access trojan (RAT) to gain control of infected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LummaC2 Malware Deploys New Trigonometry-Based Anti-Sandbox Technique<a href="https://thehackernews.com/2023/11/lummac2-malware-deploys-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stealer malware known as  LummaC2  (aka Lumma Stealer) now features a new anti-sandbox technique that leverages the mathematical principle of trigonometry to evade detection and exfiltrate valuable information from infected hosts. The method is designed to "delay detonation of the sample until human mouse activity is detected," Outpost24 security researcher Alberto Marín  said  in a technical report shared with The Hacker News. Written in the C programming language, LummaC2 has been sold in underground forums since December 2022. The malware has since  received   iterative updates  that make it harder to analyze via control flow flattening and even allow it to deliver additional payloads. The current version of LummaC2 (v4.0) also requires its customers to use a  crypter  as an added concealing mechanism, not to mention prevent it from being leaked in its raw form. Another noteworthy update is the reliance on trigonometry to detect human behavior on the infiltrated
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Teen Pleads Guilty to Credential Stuffing Attack on Fantasy Sports Website<a href="https://www.securityweek.com/us-teen-pleads-guilty-to-credential-stuffing-attack-on-fantasy-sports-website/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Along with others, Joseph Garrison stole approximately $600,000 from 1,600 victim accounts by adding a new payment method, depositing $5 into each account, and then withdrawing the funds.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Randstorm Exploit: Bitcoin Wallets Created b/w 2011-2015 Vulnerable to Hacking<a href="https://thehackernews.com/2023/11/randstorm-exploit-bitcoin-wallets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitcoin wallets created between 2011 and 2015 are susceptible to a new kind of exploit called  Randstorm  that makes it possible to recover passwords and gain unauthorized access to a multitude of wallets spanning several blockchain platforms. "Randstorm() is a term we coined to describe a collection of bugs, design decisions, and API changes that, when brought in contact with each other, combine to dramatically reduce the quality of random numbers produced by web browsers of a certain era (2011-2015)," Unciphered  disclosed  in a report published last week. It's estimated that approximately 1.4 million bitcoins are parked in wallets that were generated with potentially weak cryptographic keys. Customers can check whether their wallets are vulnerable at www.keybleed[.]com. The cryptocurrency recovery company said it re-discovered the problem in January 2022 while it was  working for an unnamed customer  who had been locked out of its Blockchain.com wallet. The issue
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are DarkGate and PikaBot the New QakBot?<a href="https://cofense.com/blog/are-darkgate-and-pikabot-the-new-qakbot/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing campaigns are using tactics previously seen in attacks involving the QakBot trojan to deliver malware families such as DarkGate and PikaBot. These campaigns utilize hijacked email threads, unique URL patterns, and a similar infection chain.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&T Forms Joint Venture for Managed Cybersecurity Business<a href="https://www.bankinfosecurity.com/att-forms-joint-venture-for-managed-cybersecurity-business-a-23632?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&T is forming a joint venture with investor WillJam Ventures to separate its managed cybersecurity services from its core connectivity business. WillJam Ventures will make a capital investment into the stand-alone cybersecurity services unit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 20, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Public Service, RCMP, CAF Members Affected in Canadian Federal Government Data Breach<a href="https://www.ctvnews.ca/canada/current-and-former-public-service-rcmp-military-members-affected-by-data-breach-federal-government-warns-1.6651343?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The personal and financial information of current and former public service employees and members of the RCMP and Canadian Armed Forces may have been accessed in a data breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 18, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
