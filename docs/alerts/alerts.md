@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitigation Guide: Healthcare and Public Health (HPH) Sector <a href="https://www.cisa.gov/sites/default/files/2023-11/HPH-Sector-Mitigation-Guide-TLP-CLEAR_508c.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This Cybersecurity and Infrastructure Security Agency (CISA) Mitigation Guide offers recommendations and best practices to combat pervasive cyber threats affecting the Healthcare and Public Health (HPH) Sector.  Identified vulnerabilities in organizations across the HPH Sector present opportunities to mitigate risks before intrusions occur. Unmitigated vulnerabilities increase the likelihood of threat actors successfully employing malicious tactics, techniques, and procedures (TTPs) against HPH organizations.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 17, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

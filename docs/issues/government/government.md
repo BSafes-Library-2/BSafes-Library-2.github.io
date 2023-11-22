@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Cybersecurity Guidance for Healthcare, Public Health Organizations<a href="https://www.securityweek.com/cisa-releases-cybersecurity-guidance-for-healthcare-public-health-organizations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guide incorporates vulnerability data, known exploited vulnerabilities, and the MITRE ATT&amp;CK framework. It covers topics such as asset management, identity management, device security, vulnerabilities, patching, and secure design principles.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+November 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Greater Paris Wastewater Agency Dealing with Cyberattack<a href="https://therecord.media/paris-wastewater-agency-hit-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack prompted SIAAP to file a complaint with authorities and take immediate measures to secure their systems to prevent further spread. It has prioritized maintaining the public sanitation service and is working to ensure a return to normalcy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kinsing Hackers Exploit Apache ActiveMQ Vulnerability to Deploy Linux Rootkits<a href="https://thehackernews.com/2023/11/kinsing-hackers-exploit-apache-activemq.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp; Kinsing &nbsp;threat actors are actively exploiting a critical security flaw in vulnerable Apache ActiveMQ servers to infect Linux systems with cryptocurrency miners and rootkits. "Once Kinsing infects a system, it deploys a cryptocurrency mining script that exploits the host's resources to mine cryptocurrencies like Bitcoin, resulting in significant damage to the infrastructure and a negative impact on system performance," Trend Micro security researcher Peter Girnus&nbsp; said . Kinsing &nbsp;refers to a&nbsp; Linux malware &nbsp;with a history of targeting misconfigured containerized environments for cryptocurrency mining, often utilizing compromised server resources to generate illicit profits for the threat actors. The group is also known to quickly adapt its tactics to include newly disclosed flaws in web applications to breach target networks and deliver crypto miners. Earlier this month, Aqua&nbsp; disclosed &nbsp;the threat actor's attempts to exploit a Linux privilege escalation fla
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mustang Panda Hackers Targets Philippines Government Amid South China Sea Tensions<a href="https://thehackernews.com/2023/11/mustang-panda-hackers-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-linked Mustang Panda actor has been linked to a cyber attack targeting a Philippines government entity amid&nbsp; rising tensions &nbsp;between the two countries over the disputed South China Sea. Palo Alto Networks Unit 42 attributed the adversarial collective to three campaigns in August 2023, primarily singling out organizations in the South Pacific. "The campaigns leveraged legitimate software including Solid PDF Creator and SmadavProtect (an Indonesian-based antivirus solution) to sideload malicious files," the company&nbsp; said . "Threat authors also creatively configured the malware to impersonate legitimate Microsoft traffic for command-and-control (C2) connections." Mustang Panda, also tracked under the names Bronze President, Camaro Dragon, Earth Preta, RedDelta, and Stately Taurus, is assessed to be a Chinese advanced persistent threat (APT) active since at least 2012,&nbsp; orchestrating &nbsp; cyber espionage &nbsp; campaigns &nbsp;targeting non-governmental organization
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

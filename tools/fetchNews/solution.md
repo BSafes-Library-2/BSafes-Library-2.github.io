@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Product Walkthrough: Silverfort's Unified Identity Protection Platform<a href="https://thehackernews.com/2023/11/product-walkthrough-silverforts-unified.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this article, we will provide a brief overview of Silverfort's platform, the first (and currently only) unified identity protection platform on the market. Silverfort's patented technology aims to protect organizations from identity-based attacks by integrating with existing identity and access management solutions, such as AD (Active Directory) and cloud-based services, and extending secure access controls like Risk-Based Authentication and MFA (Multi-Factor Authentication) to all their resources. This includes on-prem and cloud resources, legacy systems, command-line tools and service accounts. A recent report by Silverfort and Osterman Research revealed that&nbsp; 83% of organizations worldwide have experienced data breaches due to compromised credentials . Many organizations admit that they are underprotected against identity-based attacks, such as lateral movement and ransomware. Resources like command-line access tools and legacy systems, which are widely used, are particular
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

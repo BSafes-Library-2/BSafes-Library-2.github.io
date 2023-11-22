@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play Ransomware Goes Commercial - Now Offered as a Service to Cybercriminals<a href="https://thehackernews.com/2023/11/play-ransomware-goes-commercial-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware strain known as&nbsp; Play &nbsp;is now being offered to other threat actors "as a service," new evidence unearthed by Adlumin has revealed. "The unusual lack of even small variations between attacks suggests that they are being carried out by affiliates who have purchased the ransomware-as-a-service (RaaS) and are following step-by-step instructions from playbooks delivered with it," the cybersecurity company said in a report shared with The Hacker News. The findings are based on various Play ransomware attacks tracked by Adlumin spanning different sectors that incorporated almost identical tactics and in the same sequence. This includes the use of the public music folder (C:\...\public\music) to hide the malicious file, the same password to create high-privilege accounts, and both attacks, and the same commands. Play , also called Balloonfly and PlayCrypt, first came to light in June 2022, leveraging security flaws in Microsoft Exchange Server – i.e.,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8Base Group Found Deploying a New Phobos Ransomware Variant<a href="https://cyware.com/news/8base-group-found-deploying-a-new-phobos-ransomware-variant-1ccbd983"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 8Base ransomware attackers have incorporated a new variant of the Phobos ransomware and publicly available tools for financially motivated attacks. The variant used by the 8Base group includes features that can enable attackers to establish persistence on victims’ systems, perform speedy encryp ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

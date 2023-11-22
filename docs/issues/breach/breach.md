@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit Mass-Hack Victim Count Grows to Over 2,600 Firms, 77 Million People<a href="https://www.theregister.com/2023/11/20/moveit_victim_77m_medical/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Welltok, a patient communication services provider, has notified over 1.6 million patients that their private healthcare data may have been stolen in the MOVEit breach, affecting healthcare providers such as Stanford Health Care and Sutter Health.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Leaks Vaccination Records of Over Two Million Turkish Citizens<a href="https://www.hackread.com/hacker-leaks-turkish-citizens-vaccination-records/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data, which includes birth dates, vaccination dates and types, hospitals, and partial Turkish Identification Numbers, was likely obtained through an information disclosure vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

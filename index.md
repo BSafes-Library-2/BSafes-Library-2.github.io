@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2023
+November 21, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Releases Cybersecurity Guidance for Healthcare, Public Health Organizations<a href="https://www.securityweek.com/cisa-releases-cybersecurity-guidance-for-healthcare-public-health-organizations/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2023
+November 21, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Play Ransomware Goes Commercial - Now Offered as a Service to Cybercriminals<a href="https://thehackernews.com/2023/11/play-ransomware-goes-commercial-now.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2023
+November 21, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 8Base Group Found Deploying a New Phobos Ransomware Variant<a href="https://cyware.com/news/8base-group-found-deploying-a-new-phobos-ransomware-variant-1ccbd983"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2023
+November 21, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Agent Tesla Malware Variant Using ZPAQ Compression in Email Attacks<a href="https://thehackernews.com/2023/11/new-agent-tesla-malware-variant-using.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2023
+November 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Greater Paris Wastewater Agency Dealing with Cyberattack<a href="https://therecord.media/paris-wastewater-agency-hit-cyberattack?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2023
+November 21, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Multi-Stage Phishing Attacks Exploit QRs, CAPTCHAs, and Steganography<a href="https://thehackernews.com/2023/11/how-multi-stage-phishing-attacks.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2023
+November 21, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MOVEit Mass-Hack Victim Count Grows to Over 2,600 Firms, 77 Million People<a href="https://www.theregister.com/2023/11/20/moveit_victim_77m_medical/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2023
+November 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kinsing Hackers Exploit Apache ActiveMQ Vulnerability to Deploy Linux Rootkits<a href="https://thehackernews.com/2023/11/kinsing-hackers-exploit-apache-activemq.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2023
+November 21, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Leaks Vaccination Records of Over Two Million Turkish Citizens<a href="https://www.hackread.com/hacker-leaks-turkish-citizens-vaccination-records/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2023
+November 21, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Apps Disguised as Banks and Government Agencies Targeting Indian Android Users<a href="https://thehackernews.com/2023/11/malicious-apps-disguised-as-banks-and.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 21, 2023
+November 21, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mustang Panda Hackers Targets Philippines Government Amid South China Sea Tensions<a href="https://thehackernews.com/2023/11/mustang-panda-hackers-targets.html"> Full Text</a>

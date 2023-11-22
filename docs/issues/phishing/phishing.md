@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Multi-Stage Phishing Attacks Exploit QRs, CAPTCHAs, and Steganography<a href="https://thehackernews.com/2023/11/how-multi-stage-phishing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing attacks are steadily becoming more sophisticated, with cybercriminals investing in new ways of deceiving victims into revealing sensitive information or installing malicious software. One of the latest trends in phishing is the use of QR codes, CAPTCHAs, and steganography. See how they are carried out and learn to detect them. Quishing Quishing, a phishing technique resulting from the combination of "QR" and "phishing," has become a popular weapon for cybercriminals in 2023. By concealing malicious links within QR codes, attackers can evade traditional spam filters, which are primarily geared towards identifying text-based phishing attempts. The inability of many security tools to decipher the content of QR codes further makes this method a go-to choice for cybercriminals. An email containing a QR code with a malicious link Analyzing a QR code with an embedded malicious link in a safe environment is easy with&nbsp; ANY.RUN : Simply open&nbsp; this task &nbsp;in th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Apps Disguised as Banks and Government Agencies Targeting Indian Android Users<a href="https://thehackernews.com/2023/11/malicious-apps-disguised-as-banks-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Android smartphone users in India are the target of a new malware campaign that employs social engineering lures to install fraudulent apps that are capable of harvesting sensitive data. "Using social media platforms like WhatsApp and Telegram, attackers are sending messages designed to lure users into installing a malicious app on their mobile device by impersonating legitimate organizations, such as banks, government services, and utilities," Microsoft threat intelligence researchers Abhishek Pustakala, Harshita Tripathi, and Shivang Desai&nbsp; said &nbsp;in a Monday analysis. The ultimate goal of the operation is to capture banking details, payment card information, account credentials, and other personal data. The attack chains involve sharing malicious APK files via social media messages sent on WhatsApp and Telegram by falsely presenting them as banking apps and inducing a sense of urgency by claiming that the targets' bank accounts will be blocked unless they update their permanent a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
