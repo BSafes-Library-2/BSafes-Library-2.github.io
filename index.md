@@ -34,6 +34,182 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Cybersecurity Guidance for Healthcare, Public Health Organizations<a href="https://www.securityweek.com/cisa-releases-cybersecurity-guidance-for-healthcare-public-health-organizations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guide incorporates vulnerability data, known exploited vulnerabilities, and the MITRE ATT&CK framework. It covers topics such as asset management, identity management, device security, vulnerabilities, patching, and secure design principles.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play Ransomware Goes Commercial - Now Offered as a Service to Cybercriminals<a href="https://thehackernews.com/2023/11/play-ransomware-goes-commercial-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware strain known as  Play  is now being offered to other threat actors "as a service," new evidence unearthed by Adlumin has revealed. "The unusual lack of even small variations between attacks suggests that they are being carried out by affiliates who have purchased the ransomware-as-a-service (RaaS) and are following step-by-step instructions from playbooks delivered with it," the cybersecurity company said in a report shared with The Hacker News. The findings are based on various Play ransomware attacks tracked by Adlumin spanning different sectors that incorporated almost identical tactics and in the same sequence. This includes the use of the public music folder (C:\...\public\music) to hide the malicious file, the same password to create high-privilege accounts, and both attacks, and the same commands. Play , also called Balloonfly and PlayCrypt, first came to light in June 2022, leveraging security flaws in Microsoft Exchange Server – i.e.,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+8Base Group Found Deploying a New Phobos Ransomware Variant<a href="https://cyware.com/news/8base-group-found-deploying-a-new-phobos-ransomware-variant-1ccbd983"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 8Base ransomware attackers have incorporated a new variant of the Phobos ransomware and publicly available tools for financially motivated attacks. The variant used by the 8Base group includes features that can enable attackers to establish persistence on victims’ systems, perform speedy encryp ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Agent Tesla Malware Variant Using ZPAQ Compression in Email Attacks<a href="https://thehackernews.com/2023/11/new-agent-tesla-malware-variant-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the  Agent Tesla  malware has been observed delivered via a lure file with the  ZPAQ compression format  to harvest data from several email clients and nearly 40 web browsers. "ZPAQ is a file compression format that offers a better compression ratio and journaling function compared to widely used formats like ZIP and RAR," G Data malware analyst Anna Lvova  said  in a Monday analysis. "That means that ZPAQ archives can be smaller, saving storage space and bandwidth when transferring files. However, ZPAQ has the biggest disadvantage: limited software support." First appearing in 2014, Agent Tesla is a  keylogger  and  remote access trojan  (RAT) written in .NET that's  offered  to other threat actors as part of a malware-as-a-service (MaaS) model. It's often used as a first-stage payload, providing remote access to a compromised system and utilized to download more sophisticated second-stage tools such as ransomware. Agent Tesla is typ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Greater Paris Wastewater Agency Dealing with Cyberattack<a href="https://therecord.media/paris-wastewater-agency-hit-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack prompted SIAAP to file a complaint with authorities and take immediate measures to secure their systems to prevent further spread. It has prioritized maintaining the public sanitation service and is working to ensure a return to normalcy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Multi-Stage Phishing Attacks Exploit QRs, CAPTCHAs, and Steganography<a href="https://thehackernews.com/2023/11/how-multi-stage-phishing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing attacks are steadily becoming more sophisticated, with cybercriminals investing in new ways of deceiving victims into revealing sensitive information or installing malicious software. One of the latest trends in phishing is the use of QR codes, CAPTCHAs, and steganography. See how they are carried out and learn to detect them. Quishing Quishing, a phishing technique resulting from the combination of "QR" and "phishing," has become a popular weapon for cybercriminals in 2023. By concealing malicious links within QR codes, attackers can evade traditional spam filters, which are primarily geared towards identifying text-based phishing attempts. The inability of many security tools to decipher the content of QR codes further makes this method a go-to choice for cybercriminals. An email containing a QR code with a malicious link Analyzing a QR code with an embedded malicious link in a safe environment is easy with  ANY.RUN : Simply open  this task  in th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MOVEit Mass-Hack Victim Count Grows to Over 2,600 Firms, 77 Million People<a href="https://www.theregister.com/2023/11/20/moveit_victim_77m_medical/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Welltok, a patient communication services provider, has notified over 1.6 million patients that their private healthcare data may have been stolen in the MOVEit breach, affecting healthcare providers such as Stanford Health Care and Sutter Health.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kinsing Hackers Exploit Apache ActiveMQ Vulnerability to Deploy Linux Rootkits<a href="https://thehackernews.com/2023/11/kinsing-hackers-exploit-apache-activemq.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The  Kinsing  threat actors are actively exploiting a critical security flaw in vulnerable Apache ActiveMQ servers to infect Linux systems with cryptocurrency miners and rootkits. "Once Kinsing infects a system, it deploys a cryptocurrency mining script that exploits the host's resources to mine cryptocurrencies like Bitcoin, resulting in significant damage to the infrastructure and a negative impact on system performance," Trend Micro security researcher Peter Girnus  said . Kinsing  refers to a  Linux malware  with a history of targeting misconfigured containerized environments for cryptocurrency mining, often utilizing compromised server resources to generate illicit profits for the threat actors. The group is also known to quickly adapt its tactics to include newly disclosed flaws in web applications to breach target networks and deliver crypto miners. Earlier this month, Aqua  disclosed  the threat actor's attempts to exploit a Linux privilege escalation fla
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Leaks Vaccination Records of Over Two Million Turkish Citizens<a href="https://www.hackread.com/hacker-leaks-turkish-citizens-vaccination-records/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data, which includes birth dates, vaccination dates and types, hospitals, and partial Turkish Identification Numbers, was likely obtained through an information disclosure vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Apps Disguised as Banks and Government Agencies Targeting Indian Android Users<a href="https://thehackernews.com/2023/11/malicious-apps-disguised-as-banks-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Android smartphone users in India are the target of a new malware campaign that employs social engineering lures to install fraudulent apps that are capable of harvesting sensitive data. "Using social media platforms like WhatsApp and Telegram, attackers are sending messages designed to lure users into installing a malicious app on their mobile device by impersonating legitimate organizations, such as banks, government services, and utilities," Microsoft threat intelligence researchers Abhishek Pustakala, Harshita Tripathi, and Shivang Desai  said  in a Monday analysis. The ultimate goal of the operation is to capture banking details, payment card information, account credentials, and other personal data. The attack chains involve sharing malicious APK files via social media messages sent on WhatsApp and Telegram by falsely presenting them as banking apps and inducing a sense of urgency by claiming that the targets' bank accounts will be blocked unless they update their permanent a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mustang Panda Hackers Targets Philippines Government Amid South China Sea Tensions<a href="https://thehackernews.com/2023/11/mustang-panda-hackers-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-linked Mustang Panda actor has been linked to a cyber attack targeting a Philippines government entity amid  rising tensions  between the two countries over the disputed South China Sea. Palo Alto Networks Unit 42 attributed the adversarial collective to three campaigns in August 2023, primarily singling out organizations in the South Pacific. "The campaigns leveraged legitimate software including Solid PDF Creator and SmadavProtect (an Indonesian-based antivirus solution) to sideload malicious files," the company  said . "Threat authors also creatively configured the malware to impersonate legitimate Microsoft traffic for command-and-control (C2) connections." Mustang Panda, also tracked under the names Bronze President, Camaro Dragon, Earth Preta, RedDelta, and Stately Taurus, is assessed to be a Chinese advanced persistent threat (APT) active since at least 2012,  orchestrating   cyber espionage   campaigns  targeting non-governmental organization
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 20, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
