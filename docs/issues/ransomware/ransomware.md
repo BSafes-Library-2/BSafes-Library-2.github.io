@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Exploiting Critical Citrix Bleed Vulnerability to Break In<a href="https://thehackernews.com/2023/11/lockbit-ransomware-exploiting-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple threat actors, including LockBit ransomware affiliates, are&nbsp; actively exploiting &nbsp;a recently disclosed critical security flaw in Citrix NetScaler application delivery control (ADC) and Gateway appliances to obtain initial access to target environments. The joint advisory comes from the U.S. Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Multi-State Information Sharing and Analysis Center (MS-ISAC), and Australian Signals Directorate's Australian Cyber Security Center (ASD's ACSC). "Citrix Bleed, known to be leveraged by LockBit 3.0 affiliates, allows threat actors to bypass password requirements and multifactor authentication (MFA), leading to successful session hijacking of legitimate user sessions on Citrix NetScaler web application delivery control (ADC) and Gateway appliances," the agencies&nbsp; said . "Through the takeover of legitimate user sessions, malicious actors acquire elevated permissions to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

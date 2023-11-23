@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+November 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ex-NSO Execs Raise $35 Million for Dream Security<a href="https://en.globes.co.il/en/article-ex-nso-execs-raise-35m-for-dream-security-1001462971?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dream Security has raised $35 million in a financing round led by existing investors Aleph and Dovi France's Group 11. It offers a range of products that assess and predict cyber threats, react in real-time, and create customized protective measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

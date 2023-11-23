@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+November 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Solutions Are the New Shadow IT<a href="https://thehackernews.com/2023/11/ai-solutions-are-new-shadow-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ambitious Employees Tout New AI Tools, Ignore Serious SaaS Security Risks Like the&nbsp; SaaS shadow IT &nbsp;of the past, AI is placing CISOs and cybersecurity teams in a tough but familiar spot.&nbsp; Employees are covertly using AI &nbsp;with little regard for established IT and cybersecurity review procedures. Considering&nbsp; ChatGPT's meteoric rise to 100 million users within 60 days of launch , especially with little sales and marketing fanfare, employee-driven demand for AI tools will only escalate.&nbsp; As new studies show&nbsp; some workers boost productivity by 40% using generative AI , the pressure for CISOs and their teams to fast-track AI adoption — and turn a blind eye to unsanctioned AI tool usage — is intensifying.&nbsp; But succumbing to these pressures can introduce serious SaaS data leakage and breach risks, particularly as employees flock to AI tools developed by small businesses, solopreneurs, and indie developers. AI Security Guide Download AppOmni's CISO Guide to AI Security - Part 1 AI evoke
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Companies are Getting Smarter About Cyber Incidents<a href="https://www.cybersecuritydive.com/news/cyber-incidents-breach-ransomware-insurance-risk-mitigation-corporate-counsel/700466/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to experts, companies are increasingly prioritizing system backups and restoration capabilities to avoid paying ransoms during cyber incidents. Companies must also report cyber incidents and notify affected individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Shifting Sands of the War Against Cyber Extortion<a href="https://www.helpnetsecurity.com/2023/11/21/ransomware-cyber-extortion/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs are employing various tactics to force victims to pay, including DDoS attacks and regulatory complaints, while some ransomware operators are introducing new rules to ensure larger ransom amounts and increased payout likelihood.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
