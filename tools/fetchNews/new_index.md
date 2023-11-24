@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023
+November 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kiteworks' Maytech Acquisition Reaffirms Commitment to UK Market<a href="https://www.darkreading.com/application-security/kiteworks-maytech-acquisition-reaffirms-commitment-to-uk-market?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kiteworks has announced its merger with Maytech, combining their data privacy and compliance solutions with data file transfer capabilities. The acquisition strengthens Kiteworks' position in the UK market.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Konni Group Using Russian-Language Malicious Word Docs in Latest Attacks<a href="https://thehackernews.com/2023/11/konni-group-using-russian-language.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing attack has been observed leveraging a Russian-language Microsoft Word document to deliver malware capable of harvesting sensitive information from compromised Windows hosts. The activity has been attributed to a threat actor called Konni , which is assessed to share overlaps with a North Korean cluster tracked as Kimsuky (aka APT43). "This campaign relies on a remote access trojan (RAT) capable of extracting information and executing commands on compromised devices," Fortinet FortiGuard Labs researcher Cara Lin  said  in an analysis published this week. The  cyber espionage   group  is notable for its  targeting of Russia , with the modus operandi involving the use of spear-phishing emails and malicious documents as entry points for their attacks. Recent attacks documented by Knowsec and ThreatMon have leveraged the  WinRAR vulnerability  (CVE-2023-38831) as well as obfuscated Visual Basic scripts to drop  Konni RAT  and a Windows Batch script capable of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Leaked Data of 27,000 NYC Bar Association Members<a href="https://therecord.media/cyberattack-leaked-data-nyc-bar?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clop ransomware gang claimed responsibility for the attack, highlighting the increasing threat posed by ransomware groups to bar associations and other organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: New WailingCrab Malware Loader Spreading via Shipping-Themed Emails<a href="https://thehackernews.com/2023/11/alert-new-wailingcrab-malware-loader.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Delivery- and shipping-themed email messages are being used to deliver a sophisticated malware loader known as  WailingCrab . "The malware itself is split into multiple components, including a loader, injector, downloader and backdoor, and successful requests to C2-controlled servers are often necessary to retrieve the next stage," IBM X-Force researchers Charlotte Hammond, Ole Villadsen, and Kat Metrick  said . WailingCrab, also called WikiLoader, was  first documented  by Proofpoint in August 2023, detailing campaigns targeting Italian organizations that used the malware to ultimately deploy the Ursnif (aka Gozi) trojan. It was spotted in the wild in late December 2022. The malware is the handiwork of a threat actor known as TA544, which is also tracked as Bamboo Spider and Zeus Panda. IBM X-Force has named the cluster Hive0133. Actively maintained by its operators, the malware has been observed incorporating features that prioritize stealth and allows it to resist an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of North Korean Attack on CyberLink Impacting Devices Around the World<a href="https://therecord.media/north-korea-attack-cyberlink-microsoft?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has discovered a supply chain attack carried out by North Korean hackers. The attack involved attaching a malicious file to a legitimate software installer. The attack was attributed to the hacking group known as Diamond Sleet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+6 Steps to Accelerate Cybersecurity Incident Response<a href="https://thehackernews.com/2023/11/6-steps-to-accelerate-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Modern security tools continue to improve in their ability to defend organizations' networks and endpoints against cybercriminals. But the bad actors still occasionally find a way in. Security teams must be able to stop threats and restore normal operations as quickly as possible. That's why it's essential that these teams not only have the right tools but also understand how to effectively respond to an incident. Resources like an  incident response template  can be customized to define a plan with roles and responsibilities, processes and an action item checklist. But preparations can't stop there. Teams must continuously train to adapt as threats rapidly evolve. Every security incident must be harnessed as an educational opportunity to help the organization better prepare for — or even prevent — future incidents. SANS Institute defines a framework with six steps to a successful IR. Preparation Identification Containment Eradication Recovery Lessons learned While these p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New InfectedSlurs Mirai-based Botnet Exploits Two Zero-Days<a href="https://securityaffairs.com/154607/malware/infectedslurs-botnet.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Mirai-based botnet called InfectedSlurs has been discovered by Akamai, using two zero-day vulnerabilities to infect routers and video recorder devices. First observed in October 2023, the botnet is believed to be active since at least 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai-based Botnet Exploiting Zero-Day Bugs in Routers and NVRs for Massive DDoS Attacks<a href="https://thehackernews.com/2023/11/mirai-based-botnet-exploiting-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An active malware campaign is leveraging two zero-day vulnerabilities with remote code execution (RCE) functionality to rope routers and video recorders into a Mirai-based distributed denial-of-service (DDoS) botnet. "The payload targets routers and network video recorder (NVR) devices with default admin credentials and installs Mirai variants when successful," Akamai  said  in an advisory published this week. Details of the flaws are currently under wraps to allow the two vendors to publish patches and prevent other threat actors from abusing them. The fixes for one of the vulnerabilities are expected to be shipped next month. The attacks were first discovered by the web infrastructure and security company against its honeypots in late October 2023. The perpetrators of the attacks have not been identified as yet. The botnet, which has been codenamed InfectedSlurs due to the use of racial and offensive language in the command-and-control (C2) servers and hard-coded strings, is a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Relic Notifies Customers of a Cyber Incident<a href="https://www.theregister.com/2023/11/23/new_relic_cyber_incident_warning/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company has not provided any specific details about the nature of the incident, but customers are advised to monitor their accounts for suspicious activity. It is unclear whether all or a few selected New Relic customers are at risk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean Hackers Distribute Trojanized CyberLink Software in Supply Chain Attack<a href="https://thehackernews.com/2023/11/north-korean-hackers-distribute.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean state-sponsored threat actor tracked as  Diamond Sleet  is distributing a trojanized version of a legitimate application developed by a Taiwanese multimedia software developer called CyberLink to target downstream customers via a supply chain attack. "This malicious file is a legitimate CyberLink application installer that has been modified to include malicious code that downloads, decrypts, and loads a second-stage payload," the Microsoft Threat Intelligence team  said  in an analysis on Wednesday. The poisoned file, the tech giant said, is hosted on the update infrastructure owned by the company while also including checks to limit the time window for execution and bypass detection by security products. The campaign is estimated to have impacted over 100 devices across Japan, Taiwan, Canada, and the U.S. Suspicious activity associated with the modified CyberLink installer file was observed as early as October 20, 2023. The links to North Korea stem from
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows Hello Fingerprint Authentication Bypassed on Popular Laptops<a href="https://www.securityweek.com/windows-hello-fingerprint-authentication-bypassed-on-popular-laptops/?&web_view=true"> Full Text</a>
@@ -50,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023
+November 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Flaws in Fingerprint Sensors Let Attackers Bypass Windows Hello Login<a href="https://thehackernews.com/2023/11/new-flaws-in-fingerprint-sensors-let.html"> Full Text</a>
@@ -66,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023
+November 22, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Authorities Trace and Return Nearly $9M Stolen by Scammers<a href="https://www.theregister.com/2023/11/22/us_cybercops_take_on_pig/?&web_view=true"> Full Text</a>
@@ -82,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023
+November 22, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Pose as Job Recruiters and Seekers in Malware Campaigns<a href="https://thehackernews.com/2023/11/north-korean-hackers-pose-as-job.html"> Full Text</a>
@@ -98,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023
+November 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit for Critical Windows Defender Bypass Goes Public<a href="https://www.darkreading.com/vulnerabilities-threats/exploit-critical-windows-defender-bypass-public?&web_view=true"> Full Text</a>
@@ -114,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023
+November 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI Solutions Are the New Shadow IT<a href="https://thehackernews.com/2023/11/ai-solutions-are-new-shadow-it.html"> Full Text</a>
@@ -130,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023
+November 22, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ex-NSO Execs Raise $35 Million for Dream Security<a href="https://en.globes.co.il/en/article-ex-nso-execs-raise-35m-for-dream-security-1001462971?&web_view=true"> Full Text</a>
@@ -146,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023
+November 22, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ClearFake Campaign Expands to Target Mac Systems with Atomic Stealer<a href="https://thehackernews.com/2023/11/clearfake-campaign-expands-to-deliver.html"> Full Text</a>
@@ -162,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023
+November 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Companies are Getting Smarter About Cyber Incidents<a href="https://www.cybersecuritydive.com/news/cyber-incidents-breach-ransomware-insurance-risk-mitigation-corporate-counsel/700466/?&web_view=true"> Full Text</a>
@@ -178,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023
+November 22, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit Ransomware Exploiting Critical Citrix Bleed Vulnerability to Break In<a href="https://thehackernews.com/2023/11/lockbit-ransomware-exploiting-critical.html"> Full Text</a>
@@ -194,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023
+November 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Citrix Provides Additional Measures to Address Citrix Bleed<a href="https://securityaffairs.com/154546/hacking/citrix-bleed-attacks.html?&web_view=true"> Full Text</a>
@@ -210,7 +370,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023
+November 22, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Shifting Sands of the War Against Cyber Extortion<a href="https://www.helpnetsecurity.com/2023/11/21/ransomware-cyber-extortion/?&web_view=true"> Full Text</a>
@@ -226,7 +386,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023
+November 22, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Report Details Aftermath of ICBC LockBit Ransomware Attack<a href="https://www.bankinfosecurity.com/report-details-aftermath-icbc-lockbit-ransomware-attack-a-23655?&web_view=true"> Full Text</a>
