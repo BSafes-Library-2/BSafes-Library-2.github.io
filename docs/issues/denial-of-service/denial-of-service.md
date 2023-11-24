@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+November 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai-based Botnet Exploiting Zero-Day Bugs in Routers and NVRs for Massive DDoS Attacks<a href="https://thehackernews.com/2023/11/mirai-based-botnet-exploiting-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An active malware campaign is leveraging two zero-day vulnerabilities with remote code execution (RCE) functionality to rope routers and video recorders into a Mirai-based distributed denial-of-service (DDoS) botnet. "The payload targets routers and network video recorder (NVR) devices with default admin credentials and installs Mirai variants when successful," Akamai&nbsp; said &nbsp;in an advisory published this week. Details of the flaws are currently under wraps to allow the two vendors to publish patches and prevent other threat actors from abusing them. The fixes for one of the vulnerabilities are expected to be shipped next month. The attacks were first discovered by the web infrastructure and security company against its honeypots in late October 2023. The perpetrators of the attacks have not been identified as yet. The botnet, which has been codenamed InfectedSlurs due to the use of racial and offensive language in the command-and-control (C2) servers and hard-coded strings, is a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

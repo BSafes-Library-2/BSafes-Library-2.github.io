@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+November 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Pose as Job Recruiters and Seekers in Malware Campaigns<a href="https://thehackernews.com/2023/11/north-korean-hackers-pose-as-job.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean threat actors have been linked to two campaigns in which they masquerade as both job recruiters and seekers to distribute malware and obtain unauthorized employment with organizations based in the U.S. and other parts of the world. The activity clusters have been codenamed Contagious Interview and Wagemole, respectively, by Palo Alto Networks Unit 42. While the first set of attacks aims to "infect software developers with malware through a fictitious job interview," the latter is designed for financial gain and espionage. "The first campaign's objective is likely cryptocurrency theft and using compromised targets as a staging environment for additional attacks," the cybersecurity company&nbsp; said . The fraudulent job-seeking activity, on the other hand, involves the use of a GitHub repository to host resumes with forged identities that impersonate individuals of various nationalities. The Contagious Interview attacks pave the way for two hitherto undocumented cross-plat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ClearFake Campaign Expands to Target Mac Systems with Atomic Stealer<a href="https://thehackernews.com/2023/11/clearfake-campaign-expands-to-deliver.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The macOS information stealer known as Atomic is now being delivered to target via a bogus web browser update chain tracked as ClearFake. "This may very well be the first time we see one of the main social engineering campaigns, previously reserved for Windows, branch out not only in terms of geolocation but also operating system," Malwarebytes' Jérôme Segura&nbsp; said &nbsp;in a Tuesday analysis. Atomic Stealer (aka AMOS),&nbsp; first documented &nbsp;in April 2023, is a commercial stealer malware family that's sold on a subscription basis for $1,000 per month. It comes with capabilities to siphon data from web browsers and cryptocurrency wallets. Then in September 2023, Malwarebytes&nbsp; detailed &nbsp;an Atomic Stealer campaign that takes advantage of malicious Google ads, tricking macOS users searching for a financial charting platform known as TradingView into downloading the malware. ClearFake, on the other hand, is a nascent malware distribution operation that employs compromised Wo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Report Details Aftermath of ICBC LockBit Ransomware Attack<a href="https://www.bankinfosecurity.com/report-details-aftermath-icbc-lockbit-ransomware-attack-a-23655?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A ransomware attack on the Industrial and Commercial Bank of China caused failed trading rates in the U.S. Treasury market to soar to $60 billion, highlighting the potential impact of cyberattacks on financial systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

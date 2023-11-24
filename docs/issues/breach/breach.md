@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+November 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattackers Leaked Data of 27,000 NYC Bar Association Members<a href="https://therecord.media/cyberattack-leaked-data-nyc-bar?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Clop ransomware gang claimed responsibility for the attack, highlighting the increasing threat posed by ransomware groups to bar associations and other organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

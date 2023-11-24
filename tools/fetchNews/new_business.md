@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+November 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kiteworks' Maytech Acquisition Reaffirms Commitment to UK Market<a href="https://www.darkreading.com/application-security/kiteworks-maytech-acquisition-reaffirms-commitment-to-uk-market?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kiteworks has announced its merger with Maytech, combining their data privacy and compliance solutions with data file transfer capabilities. The acquisition strengthens Kiteworks' position in the UK market.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

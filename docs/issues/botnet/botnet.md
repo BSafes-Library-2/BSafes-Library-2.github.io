@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New InfectedSlurs Mirai-based Botnet Exploits Two Zero-Days<a href="https://securityaffairs.com/154607/malware/infectedslurs-botnet.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Mirai-based botnet called InfectedSlurs has been discovered by Akamai, using two zero-day vulnerabilities to infect routers and video recorder devices. First observed in October 2023, the botnet is believed to be active since at least 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

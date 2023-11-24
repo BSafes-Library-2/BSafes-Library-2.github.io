@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+6 Steps to Accelerate Cybersecurity Incident Response<a href="https://thehackernews.com/2023/11/6-steps-to-accelerate-cybersecurity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Modern security tools continue to improve in their ability to defend organizations' networks and endpoints against cybercriminals. But the bad actors still occasionally find a way in. Security teams must be able to stop threats and restore normal operations as quickly as possible. That's why it's essential that these teams not only have the right tools but also understand how to effectively respond to an incident. Resources like an&nbsp; incident response template &nbsp;can be customized to define a plan with roles and responsibilities, processes and an action item checklist. But preparations can't stop there. Teams must continuously train to adapt as threats rapidly evolve. Every security incident must be harnessed as an educational opportunity to help the organization better prepare for — or even prevent — future incidents. SANS Institute defines a framework with six steps to a successful IR. Preparation Identification Containment Eradication Recovery Lessons learned While these p
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

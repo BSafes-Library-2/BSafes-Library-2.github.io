@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+November 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of North Korean Attack on CyberLink Impacting Devices Around the World<a href="https://therecord.media/north-korea-attack-cyberlink-microsoft?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has discovered a supply chain attack carried out by North Korean hackers. The attack involved attaching a malicious file to a legitimate software installer. The attack was attributed to the hacking group known as Diamond Sleet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Relic Notifies Customers of a Cyber Incident<a href="https://www.theregister.com/2023/11/23/new_relic_cyber_incident_warning/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company has not provided any specific details about the nature of the incident, but customers are advised to monitor their accounts for suspicious activity. It is unclear whether all or a few selected New Relic customers are at risk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean Hackers Distribute Trojanized CyberLink Software in Supply Chain Attack<a href="https://thehackernews.com/2023/11/north-korean-hackers-distribute.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean state-sponsored threat actor tracked as&nbsp; Diamond Sleet &nbsp;is distributing a trojanized version of a legitimate application developed by a Taiwanese multimedia software developer called CyberLink to target downstream customers via a supply chain attack. "This malicious file is a legitimate CyberLink application installer that has been modified to include malicious code that downloads, decrypts, and loads a second-stage payload," the Microsoft Threat Intelligence team&nbsp; said &nbsp;in an analysis on Wednesday. The poisoned file, the tech giant said, is hosted on the update infrastructure owned by the company while also including checks to limit the time window for execution and bypass detection by security products. The campaign is estimated to have impacted over 100 devices across Japan, Taiwan, Canada, and the U.S. Suspicious activity associated with the modified CyberLink installer file was observed as early as October 20, 2023. The links to North Korea stem from
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
