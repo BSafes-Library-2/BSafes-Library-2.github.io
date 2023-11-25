@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2023
+November 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 App Used by Hundreds of Schools Leaking Children’s Data<a href="https://securityaffairs.com/154743/security/app-used-by-hundreds-of-schools-leaking-childrens-data.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2023
+November 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'HrServ.dll' Web Shell Detected in APT Attack Targeting Afghan Government<a href="https://thehackernews.com/2023/11/new-hrservdll-web-shell-detected-in-apt.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2023
+November 25, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vanderbilt University Medical Center Investigating Cybersecurity Incident<a href="https://therecord.media/vanderbilt-university-medical-center-investigating-cyber-incident-meow-ransomware?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 25, 2023
+November 25, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning: 3 Critical Vulnerabilities Expose ownCloud Users to Data Breaches<a href="https://thehackernews.com/2023/11/warning-3-critical-vulnerabilities.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2023
+November 24, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Supply Chain Attacks Prompt Joint Warning From South Korea and the UK<a href="https://therecord.media/south-korea-uk-warning-supply-chain-attacks-north-korea?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2023
+November 24, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Using Telekopye Telegram Bot to Craft Phishing Scams on a Grand Scale<a href="https://thehackernews.com/2023/11/cybercriminals-using-telekopye-telegram.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2023
+November 24, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bahrain Government Websites Briefly Inaccessible After Cyberattack Over Israel-Hamas War<a href="https://apnews.com/article/bahrain-israel-hamas-war-palestinians-hack-7a1b4e5746d4ce788b008e6c77dade7f?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2023
+November 24, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tell Me Your Secrets Without Telling Me Your Secrets<a href="https://thehackernews.com/2023/11/tell-me-your-secrets-without-telling-me.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2023
+November 24, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Demand $60M From TransUnion and Experian in South Africa, Claiming Data Theft<a href="https://www.businesslive.co.za/bd/national/2023-11-23-hackers-demand-60m-from-transunion-and-experian-claiming-data-theft/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2023
+November 24, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hamas-Linked Cyberattacks Using Rust-Powered SysJoker Backdoor Against Israel<a href="https://thehackernews.com/2023/11/hamas-linked-cyberattacks-using-rust.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2023
+November 24, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Taj Hotel Data Breach Potentially Impacts 1.5 Million Customers<a href="https://www.livemint.com/news/india/taj-hotel-data-breach-ihcl-begins-probe-on-report-suggesting-data-leak-of-1-5-million-customers-tata-dnacookies-11700754884823.html?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2023
+November 24, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kubernetes Secrets of Fortune 500 Companies Exposed in Public Repositories<a href="https://thehackernews.com/2023/11/kubernetes-secrets-of-fortune-500.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 24, 2023
+November 24, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia’s Cybersecurity Strategy Focuses on Protecting Small Businesses and Critical Infrastructure<a href="https://www.csoonline.com/article/1248999/australias-cybersecurity-strategy-focuses-on-protecting-small-businesses-and-critical-infrastructure.html?&web_view=true"> Full Text</a>

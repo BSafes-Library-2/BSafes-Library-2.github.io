@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2023 - NIS, NCSC
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ROK-UK Joint Cyber Security Advisory(DPRK actors conduct S/W supply chain attacks) <a href="https://eng.nis.go.kr/ECM/1_3_1_1.do?seq=83&currentPage=1"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Intelligence Service (NIS) of the Republic of Korea (ROK) and the National Cyber Security Centre (NCSC) of the United Kingdom (UK) have identified Democratic People’s Republic of Korea (DPRK) state-linked cyber actors targeting software supply chain products, widely used by government organisations, financial institutions and defence industry companies globally.  
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 22, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

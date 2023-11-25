@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Konni Group Using Russian-Language Malicious Word Docs in Latest Attacks<a href="https://thehackernews.com/2023/11/konni-group-using-russian-language.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing attack has been observed leveraging a Russian-language Microsoft Word document to deliver malware capable of harvesting sensitive information from compromised Windows hosts. The activity has been attributed to a threat actor called Konni , which is assessed to share overlaps with a North Korean cluster tracked as Kimsuky (aka APT43). "This campaign relies on a remote access trojan (RAT) capable of extracting information and executing commands on compromised devices," Fortinet FortiGuard Labs researcher Cara Lin&nbsp; said &nbsp;in an analysis published this week. The&nbsp; cyber espionage &nbsp; group &nbsp;is notable for its&nbsp; targeting of Russia , with the modus operandi involving the use of spear-phishing emails and malicious documents as entry points for their attacks. Recent attacks documented by Knowsec and ThreatMon have leveraged the&nbsp; WinRAR vulnerability &nbsp;(CVE-2023-38831) as well as obfuscated Visual Basic scripts to drop&nbsp; Konni RAT &nbsp;and a Windows Batch script capable of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

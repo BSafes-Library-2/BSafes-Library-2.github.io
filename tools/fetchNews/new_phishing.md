@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using Telekopye Telegram Bot to Craft Phishing Scams on a Grand Scale<a href="https://thehackernews.com/2023/11/cybercriminals-using-telekopye-telegram.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details have emerged about a malicious Telegram bot called&nbsp; Telekopye &nbsp;that's used by threat actors to pull off large-scale phishing scams. "Telekopye can craft phishing websites, emails, SMS messages, and more," ESET security researcher Radek Jizba&nbsp; said &nbsp;in a new analysis. The&nbsp; threat actors behind the operation &nbsp;– codenamed Neanderthals – are known to run the criminal enterprise as a legitimate company, spawning a hierarchical structure that encompasses different members who take on various roles. Once aspiring Neanderthals are recruited via advertisements on underground forums, they are invited to join designated Telegram channels that are used for communicating with other Neanderthals and keeping track of transaction logs. The ultimate goal of the operation is to pull off one of the three types of scams: seller, buyer, or refund. In the case of the former, Neanderthals pose as sellers and try to lure unwary Mammoths into purchasing a non-existent item. Bu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

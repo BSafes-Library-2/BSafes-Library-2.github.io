@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bahrain Government Websites Briefly Inaccessible After Cyberattack Over Israel-Hamas War<a href="https://apnews.com/article/bahrain-israel-hamas-war-palestinians-hack-7a1b4e5746d4ce788b008e6c77dade7f?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Al-Toufan hacker group targeted the Foreign Ministry and the Information Affairs Ministry's websites and also released scans of passports allegedly obtained from the hack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

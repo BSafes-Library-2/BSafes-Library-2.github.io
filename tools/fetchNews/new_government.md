@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+November 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Supply Chain Attacks Prompt Joint Warning From South Korea and the UK<a href="https://therecord.media/south-korea-uk-warning-supply-chain-attacks-north-korea?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom and South Korea have issued a joint advisory warning about software supply chain attacks carried out by North Korean state-linked hackers, highlighting the increasing volume and sophistication of such attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia’s Cybersecurity Strategy Focuses on Protecting Small Businesses and Critical Infrastructure<a href="https://www.csoonline.com/article/1248999/australias-cybersecurity-strategy-focuses-on-protecting-small-businesses-and-critical-infrastructure.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The strategy includes financial investments to support small and medium businesses, strengthen critical infrastructure, and enhance cyber capabilities, but critics argue that the allocated funds are insufficient.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+November 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'HrServ.dll' Web Shell Detected in APT Attack Targeting Afghan Government<a href="https://thehackernews.com/2023/11/new-hrservdll-web-shell-detected-in-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unspecified government entity in Afghanistan was targeted by a previously undocumented web shell called&nbsp; HrServ &nbsp;in what's suspected to be an advanced persistent threat (APT) attack. The web shell, a dynamic-link library (DLL) named "hrserv.dll," exhibits "sophisticated features such as custom encoding methods for client communication and in-memory execution," Kaspersky security researcher Mert Degirmenci&nbsp; said &nbsp;in an analysis published this week. The Russian cybersecurity firm said it identified variants of the malware dating all the way back to early 2021 based on the compilation timestamps of these artifacts. Web shells are typically&nbsp; malicious tools &nbsp;that provide remote control over a compromised server. Once uploaded, it allows threat actors to carry out a range of post-exploitation activities, including data theft, server monitoring, and lateral advancement within the network. The attack chain involves the&nbsp; PAExec &nbsp;remote administration tool, an alternative to&nbsp; PsExec &nbsp;t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vanderbilt University Medical Center Investigating Cybersecurity Incident<a href="https://therecord.media/vanderbilt-university-medical-center-investigating-cyber-incident-meow-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hospital system was added to the leak site of the Meow ransomware gang. VUMC has confirmed the incident but has not provided details on when it occurred or the effects of the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hamas-Linked Cyberattacks Using Rust-Powered SysJoker Backdoor Against Israel<a href="https://thehackernews.com/2023/11/hamas-linked-cyberattacks-using-rust.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shed light on a Rust version of a cross-platform backdoor called&nbsp; SysJoker , which is assessed to have been used by a Hamas-affiliated threat actor to target Israel amid the ongoing war in the region. "Among the most prominent changes is the shift to Rust language, which indicates the malware code was entirely rewritten, while still maintaining similar functionalities," Check Point&nbsp; said &nbsp;in a Wednesday analysis. "In addition, the threat actor moved to using OneDrive instead of Google Drive to store dynamic C2 (command-and-control server) URLs." SysJoker was&nbsp; publicly documented &nbsp;by Intezer in January 2022, describing it as a backdoor capable of gathering system information and establishing contact with an attacker-controlled server by accessing a text file hosted on Google Drive that contains a hard-coded URL. "Being cross-platform allows the malware authors to gain advantage of wide infection on all major platforms," VMware&nbsp; said &nbsp;last year. "SysJo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

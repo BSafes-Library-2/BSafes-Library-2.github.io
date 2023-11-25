@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+November 25, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+App Used by Hundreds of Schools Leaking Children’s Data<a href="https://securityaffairs.com/154743/security/app-used-by-hundreds-of-schools-leaking-childrens-data.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data poses a significant threat to children, as it can be exploited by malicious actors for extortion, impersonation, identity theft, fraud, and even potential child abuse.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taj Hotel Data Breach Potentially Impacts 1.5 Million Customers<a href="https://www.livemint.com/news/india/taj-hotel-data-breach-ihcl-begins-probe-on-report-suggesting-data-leak-of-1-5-million-customers-tata-dnacookies-11700754884823.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach occurred in November and a threat actor named "Dnacookies" is demanding $5,000 for the full dataset, which includes customers' addresses, mobile numbers, and membership IDs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kubernetes Secrets of Fortune 500 Companies Exposed in Public Repositories<a href="https://thehackernews.com/2023/11/kubernetes-secrets-of-fortune-500.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning of publicly exposed Kubernetes configuration secrets that could put organizations at risk of supply chain attacks. "These encoded Kubernetes configuration secrets were uploaded to public repositories," Aqua security researchers Yakir Kadkoda and Assaf Morag&nbsp; said &nbsp;in a new research published earlier this week. Some of those impacted include two top blockchain companies and various other fortune-500 companies, according to the cloud security firm, which leveraged the GitHub API to fetch all entries containing .dockerconfigjson and .dockercfg types that&nbsp; store credentials &nbsp;for accessing a container image registry. Of the 438 records that potentially held valid credentials for registries, 203 records – about 46% – contained valid credentials that provided access to the respective registries. Ninety-three of the passwords were manually set by individuals, as opposed to the 345 that were computer-generated. "In the majority of cases, these creden
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
