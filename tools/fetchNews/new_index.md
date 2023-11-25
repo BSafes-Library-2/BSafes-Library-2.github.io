@@ -34,7 +34,215 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2023
+November 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+App Used by Hundreds of Schools Leaking Children’s Data<a href="https://securityaffairs.com/154743/security/app-used-by-hundreds-of-schools-leaking-childrens-data.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data poses a significant threat to children, as it can be exploited by malicious actors for extortion, impersonation, identity theft, fraud, and even potential child abuse.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'HrServ.dll' Web Shell Detected in APT Attack Targeting Afghan Government<a href="https://thehackernews.com/2023/11/new-hrservdll-web-shell-detected-in-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unspecified government entity in Afghanistan was targeted by a previously undocumented web shell called  HrServ  in what's suspected to be an advanced persistent threat (APT) attack. The web shell, a dynamic-link library (DLL) named "hrserv.dll," exhibits "sophisticated features such as custom encoding methods for client communication and in-memory execution," Kaspersky security researcher Mert Degirmenci  said  in an analysis published this week. The Russian cybersecurity firm said it identified variants of the malware dating all the way back to early 2021 based on the compilation timestamps of these artifacts. Web shells are typically  malicious tools  that provide remote control over a compromised server. Once uploaded, it allows threat actors to carry out a range of post-exploitation activities, including data theft, server monitoring, and lateral advancement within the network. The attack chain involves the  PAExec  remote administration tool, an alternative to  PsExec  t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vanderbilt University Medical Center Investigating Cybersecurity Incident<a href="https://therecord.media/vanderbilt-university-medical-center-investigating-cyber-incident-meow-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hospital system was added to the leak site of the Meow ransomware gang. VUMC has confirmed the incident but has not provided details on when it occurred or the effects of the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: 3 Critical Vulnerabilities Expose ownCloud Users to Data Breaches<a href="https://thehackernews.com/2023/11/warning-3-critical-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the open-source file-sharing software ownCloud have warned of three critical security flaws that could be exploited to disclose sensitive information and modify files. A brief description of the vulnerabilities is as follows - Disclosure of sensitive credentials and configuration in containerized deployments impacting graphapi versions from 0.2.0 to 0.3.0. (CVSS score: 10.0) WebDAV Api Authentication Bypass using Pre-Signed URLs impacting core versions from 10.6.0 to 10.13.0 (CVSS score: 9.8) Subdomain Validation Bypass impacting oauth2 prior to version 0.6.1 (CVSS score: 9.0) "The 'graphapi' app relies on a third-party library that provides a URL. When this URL is accessed, it reveals the configuration details of the PHP environment (phpinfo)," the company  said  of the first flaw. "This information includes all the environment variables of the web server. In containerized deployments, these environment variables may include sensitiv
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Supply Chain Attacks Prompt Joint Warning From South Korea and the UK<a href="https://therecord.media/south-korea-uk-warning-supply-chain-attacks-north-korea?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom and South Korea have issued a joint advisory warning about software supply chain attacks carried out by North Korean state-linked hackers, highlighting the increasing volume and sophistication of such attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using Telekopye Telegram Bot to Craft Phishing Scams on a Grand Scale<a href="https://thehackernews.com/2023/11/cybercriminals-using-telekopye-telegram.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details have emerged about a malicious Telegram bot called  Telekopye  that's used by threat actors to pull off large-scale phishing scams. "Telekopye can craft phishing websites, emails, SMS messages, and more," ESET security researcher Radek Jizba  said  in a new analysis. The  threat actors behind the operation  – codenamed Neanderthals – are known to run the criminal enterprise as a legitimate company, spawning a hierarchical structure that encompasses different members who take on various roles. Once aspiring Neanderthals are recruited via advertisements on underground forums, they are invited to join designated Telegram channels that are used for communicating with other Neanderthals and keeping track of transaction logs. The ultimate goal of the operation is to pull off one of the three types of scams: seller, buyer, or refund. In the case of the former, Neanderthals pose as sellers and try to lure unwary Mammoths into purchasing a non-existent item. Bu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bahrain Government Websites Briefly Inaccessible After Cyberattack Over Israel-Hamas War<a href="https://apnews.com/article/bahrain-israel-hamas-war-palestinians-hack-7a1b4e5746d4ce788b008e6c77dade7f?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Al-Toufan hacker group targeted the Foreign Ministry and the Information Affairs Ministry's websites and also released scans of passports allegedly obtained from the hack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tell Me Your Secrets Without Telling Me Your Secrets<a href="https://thehackernews.com/2023/11/tell-me-your-secrets-without-telling-me.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The title of this article probably sounds like the caption to a meme. Instead, this is an actual problem GitGuardian's engineers had to solve in implementing the mechanisms for their new  HasMySecretLeaked service . They wanted to help developers find out if their secrets (passwords, API keys, private keys, cryptographic certificates, etc.) had found their way into public GitHub repositories. How could they comb a vast library of secrets found in publicly available GitHub repositories and their histories and compare them to your secrets without you having to expose sensitive information? This article will tell you how. First, if we were to set a bit's mass as equal to that of one electron, a ton of data would be around 121.9 quadrillion petabytes of data at standard Earth gravity or $39.2 billion billion billion US dollars in MacBook Pro storage upgrades (more than all the money in the world). So when this article claims GitGuardian scanned a "ton" of GitHub public commit data, t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Demand $60M From TransUnion and Experian in South Africa, Claiming Data Theft<a href="https://www.businesslive.co.za/bd/national/2023-11-23-hackers-demand-60m-from-transunion-and-experian-claiming-data-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker group, known as N4ughtySecTU, demanded a ransom of $30 million from both the credit reporting agencies and claims to have direct access to their data and infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hamas-Linked Cyberattacks Using Rust-Powered SysJoker Backdoor Against Israel<a href="https://thehackernews.com/2023/11/hamas-linked-cyberattacks-using-rust.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shed light on a Rust version of a cross-platform backdoor called  SysJoker , which is assessed to have been used by a Hamas-affiliated threat actor to target Israel amid the ongoing war in the region. "Among the most prominent changes is the shift to Rust language, which indicates the malware code was entirely rewritten, while still maintaining similar functionalities," Check Point  said  in a Wednesday analysis. "In addition, the threat actor moved to using OneDrive instead of Google Drive to store dynamic C2 (command-and-control server) URLs." SysJoker was  publicly documented  by Intezer in January 2022, describing it as a backdoor capable of gathering system information and establishing contact with an attacker-controlled server by accessing a text file hosted on Google Drive that contains a hard-coded URL. "Being cross-platform allows the malware authors to gain advantage of wide infection on all major platforms," VMware  said  last year. "SysJo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taj Hotel Data Breach Potentially Impacts 1.5 Million Customers<a href="https://www.livemint.com/news/india/taj-hotel-data-breach-ihcl-begins-probe-on-report-suggesting-data-leak-of-1-5-million-customers-tata-dnacookies-11700754884823.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach occurred in November and a threat actor named "Dnacookies" is demanding $5,000 for the full dataset, which includes customers' addresses, mobile numbers, and membership IDs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kubernetes Secrets of Fortune 500 Companies Exposed in Public Repositories<a href="https://thehackernews.com/2023/11/kubernetes-secrets-of-fortune-500.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning of publicly exposed Kubernetes configuration secrets that could put organizations at risk of supply chain attacks. "These encoded Kubernetes configuration secrets were uploaded to public repositories," Aqua security researchers Yakir Kadkoda and Assaf Morag  said  in a new research published earlier this week. Some of those impacted include two top blockchain companies and various other fortune-500 companies, according to the cloud security firm, which leveraged the GitHub API to fetch all entries containing .dockerconfigjson and .dockercfg types that  store credentials  for accessing a container image registry. Of the 438 records that potentially held valid credentials for registries, 203 records – about 46% – contained valid credentials that provided access to the respective registries. Ninety-three of the passwords were manually set by individuals, as opposed to the 345 that were computer-generated. "In the majority of cases, these creden
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia’s Cybersecurity Strategy Focuses on Protecting Small Businesses and Critical Infrastructure<a href="https://www.csoonline.com/article/1248999/australias-cybersecurity-strategy-focuses-on-protecting-small-businesses-and-critical-infrastructure.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The strategy includes financial investments to support small and medium businesses, strengthen critical infrastructure, and enhance cyber capabilities, but critics argue that the allocated funds are insufficient.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 23, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kiteworks' Maytech Acquisition Reaffirms Commitment to UK Market<a href="https://www.darkreading.com/application-security/kiteworks-maytech-acquisition-reaffirms-commitment-to-uk-market?&web_view=true"> Full Text</a>
@@ -50,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2023
+November 23, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Konni Group Using Russian-Language Malicious Word Docs in Latest Attacks<a href="https://thehackernews.com/2023/11/konni-group-using-russian-language.html"> Full Text</a>
@@ -66,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2023
+November 23, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattackers Leaked Data of 27,000 NYC Bar Association Members<a href="https://therecord.media/cyberattack-leaked-data-nyc-bar?&web_view=true"> Full Text</a>
@@ -82,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2023
+November 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: New WailingCrab Malware Loader Spreading via Shipping-Themed Emails<a href="https://thehackernews.com/2023/11/alert-new-wailingcrab-malware-loader.html"> Full Text</a>
@@ -98,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2023
+November 23, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of North Korean Attack on CyberLink Impacting Devices Around the World<a href="https://therecord.media/north-korea-attack-cyberlink-microsoft?&web_view=true"> Full Text</a>
@@ -114,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2023
+November 23, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 6 Steps to Accelerate Cybersecurity Incident Response<a href="https://thehackernews.com/2023/11/6-steps-to-accelerate-cybersecurity.html"> Full Text</a>
@@ -130,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2023
+November 23, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New InfectedSlurs Mirai-based Botnet Exploits Two Zero-Days<a href="https://securityaffairs.com/154607/malware/infectedslurs-botnet.html?&web_view=true"> Full Text</a>
@@ -146,7 +354,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2023
+November 23, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai-based Botnet Exploiting Zero-Day Bugs in Routers and NVRs for Massive DDoS Attacks<a href="https://thehackernews.com/2023/11/mirai-based-botnet-exploiting-zero-day.html"> Full Text</a>
@@ -162,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2023
+November 23, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Relic Notifies Customers of a Cyber Incident<a href="https://www.theregister.com/2023/11/23/new_relic_cyber_incident_warning/?&web_view=true"> Full Text</a>
@@ -178,7 +386,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 23, 2023
+November 23, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 N. Korean Hackers Distribute Trojanized CyberLink Software in Supply Chain Attack<a href="https://thehackernews.com/2023/11/north-korean-hackers-distribute.html"> Full Text</a>
@@ -194,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+November 22, 2023 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows Hello Fingerprint Authentication Bypassed on Popular Laptops<a href="https://www.securityweek.com/windows-hello-fingerprint-authentication-bypassed-on-popular-laptops/?&web_view=true"> Full Text</a>
@@ -210,14 +418,14 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+November 22, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Flaws in Fingerprint Sensors Let Attackers Bypass Windows Hello Login<a href="https://thehackernews.com/2023/11/new-flaws-in-fingerprint-sensors-let.html"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-A new research has uncovered multiple vulnerabilities that could be exploited to bypass  Windows Hello authentication  on Dell Inspiron 15, Lenovo ThinkPad T14, and Microsoft Surface Pro X laptops. The flaws were discovered by researchers at hardware and software product security and offensive research firm Blackwing Intelligence, who found the weaknesses in the fingerprint sensors from Goodix, Synaptics, and ELAN that are embedded into the devices. A prerequisite for fingerprint reader exploits is that the users of the targeted laptops have fingerprint authentication already set up. All the fingerprint sensors are a type of sensor called "match on chip" ( MoC ), which integrates the matching and other biometric management functions directly into the sensor's integrated circuit. "While MoC prevents replaying stored fingerprint data to the host for matching, it does not, in itself, prevent a malicious sensor from spoofing a legitimate sensor's communication w
+A new research has uncovered multiple vulnerabilities that could be exploited to bypass  Windows Hello authentication  on Dell Inspiron 15, Lenovo ThinkPad T14, and Microsoft Surface Pro X laptops. The flaws were discovered by researchers at hardware and software product security and offensive research firm Blackwing Intelligence, who found the weaknesses in the fingerprint sensors from Goodix, Synaptics, and ELAN that are embedded into the devices. A prerequisite for the fingerprint reader exploits is that the users of the targeted laptops have fingerprint authentication already set up. All the three fingerprint sensors are a type of sensor called "match on chip" ( MoC ), which integrates the matching and other biometric management functions directly into the sensor's integrated circuit. "While MoC prevents replaying stored fingerprint data to the host for matching, it does not, in itself, prevent a malicious sensor from spoofing a legitimate sensor's commu
 </details>
 <div style="text-align: right" markdown="1">
 The Hacker News
@@ -226,7 +434,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+November 22, 2023
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Authorities Trace and Return Nearly $9M Stolen by Scammers<a href="https://www.theregister.com/2023/11/22/us_cybercops_take_on_pig/?&web_view=true"> Full Text</a>
@@ -234,166 +442,6 @@ US Authorities Trace and Return Nearly $9M Stolen by Scammers<a href="https://ww
 <details>
   <summary>Abstract</summary>
 The US Secret Service and various reporting portals tied the criminals' laundering efforts to multiple wallet addresses. The seized proceeds were returned in the stablecoin Tether.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-North Korean Hackers Pose as Job Recruiters and Seekers in Malware Campaigns<a href="https://thehackernews.com/2023/11/north-korean-hackers-pose-as-job.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-North Korean threat actors have been linked to two campaigns in which they masquerade as both job recruiters and seekers to distribute malware and obtain unauthorized employment with organizations based in the U.S. and other parts of the world. The activity clusters have been codenamed Contagious Interview and Wagemole, respectively, by Palo Alto Networks Unit 42. While the first set of attacks aims to "infect software developers with malware through a fictitious job interview," the latter is designed for financial gain and espionage. "The first campaign's objective is likely cryptocurrency theft and using compromised targets as a staging environment for additional attacks," the cybersecurity company  said . The fraudulent job-seeking activity, on the other hand, involves the use of a GitHub repository to host resumes with forged identities that impersonate individuals of various nationalities. The Contagious Interview attacks pave the way for two hitherto undocumented cross-plat
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Exploit for Critical Windows Defender Bypass Goes Public<a href="https://www.darkreading.com/vulnerabilities-threats/exploit-critical-windows-defender-bypass-public?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-A proof-of-concept exploit has been released for a critical zero-day vulnerability in Windows SmartScreen. The vulnerability, identified as CVE-2023-36025, allows attackers to bypass Windows Defender SmartScreen checks and execute malicious code.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023 -- [General](/docs/issues/general/general/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-AI Solutions Are the New Shadow IT<a href="https://thehackernews.com/2023/11/ai-solutions-are-new-shadow-it.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Ambitious Employees Tout New AI Tools, Ignore Serious SaaS Security Risks Like the  SaaS shadow IT  of the past, AI is placing CISOs and cybersecurity teams in a tough but familiar spot.  Employees are covertly using AI  with little regard for established IT and cybersecurity review procedures. Considering  ChatGPT's meteoric rise to 100 million users within 60 days of launch , especially with little sales and marketing fanfare, employee-driven demand for AI tools will only escalate.  As new studies show  some workers boost productivity by 40% using generative AI , the pressure for CISOs and their teams to fast-track AI adoption — and turn a blind eye to unsanctioned AI tool usage — is intensifying.  But succumbing to these pressures can introduce serious SaaS data leakage and breach risks, particularly as employees flock to AI tools developed by small businesses, solopreneurs, and indie developers. AI Security Guide Download AppOmni's CISO Guide to AI Security - Part 1 AI evoke
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023 -- [Business](/docs/issues/business/business/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Ex-NSO Execs Raise $35 Million for Dream Security<a href="https://en.globes.co.il/en/article-ex-nso-execs-raise-35m-for-dream-security-1001462971?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Dream Security has raised $35 million in a financing round led by existing investors Aleph and Dovi France's Group 11. It offers a range of products that assess and predict cyber threats, react in real-time, and create customized protective measures.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-ClearFake Campaign Expands to Target Mac Systems with Atomic Stealer<a href="https://thehackernews.com/2023/11/clearfake-campaign-expands-to-deliver.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The macOS information stealer known as Atomic is now being delivered to target via a bogus web browser update chain tracked as ClearFake. "This may very well be the first time we see one of the main social engineering campaigns, previously reserved for Windows, branch out not only in terms of geolocation but also operating system," Malwarebytes' Jérôme Segura  said  in a Tuesday analysis. Atomic Stealer (aka AMOS),  first documented  in April 2023, is a commercial stealer malware family that's sold on a subscription basis for $1,000 per month. It comes with capabilities to siphon data from web browsers and cryptocurrency wallets. Then in September 2023, Malwarebytes  detailed  an Atomic Stealer campaign that takes advantage of malicious Google ads, tricking macOS users searching for a financial charting platform known as TradingView into downloading the malware. ClearFake, on the other hand, is a nascent malware distribution operation that employs compromised Wo
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023 -- [General](/docs/issues/general/general/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Companies are Getting Smarter About Cyber Incidents<a href="https://www.cybersecuritydive.com/news/cyber-incidents-breach-ransomware-insurance-risk-mitigation-corporate-counsel/700466/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-According to experts, companies are increasingly prioritizing system backups and restoration capabilities to avoid paying ransoms during cyber incidents. Companies must also report cyber incidents and notify affected individuals.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-LockBit Ransomware Exploiting Critical Citrix Bleed Vulnerability to Break In<a href="https://thehackernews.com/2023/11/lockbit-ransomware-exploiting-critical.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Multiple threat actors, including LockBit ransomware affiliates, are  actively exploiting  a recently disclosed critical security flaw in Citrix NetScaler application delivery control (ADC) and Gateway appliances to obtain initial access to target environments. The joint advisory comes from the U.S. Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Multi-State Information Sharing and Analysis Center (MS-ISAC), and Australian Signals Directorate's Australian Cyber Security Center (ASD's ACSC). "Citrix Bleed, known to be leveraged by LockBit 3.0 affiliates, allows threat actors to bypass password requirements and multifactor authentication (MFA), leading to successful session hijacking of legitimate user sessions on Citrix NetScaler web application delivery control (ADC) and Gateway appliances," the agencies  said . "Through the takeover of legitimate user sessions, malicious actors acquire elevated permissions to
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Update: Citrix Provides Additional Measures to Address Citrix Bleed<a href="https://securityaffairs.com/154546/hacking/citrix-bleed-attacks.html?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The CVE-2023-4966 vulnerability has been actively exploited by threat actors since late August, allowing them to hijack authenticated sessions and bypass strong authentication measures.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023 -- [General](/docs/issues/general/general/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-The Shifting Sands of the War Against Cyber Extortion<a href="https://www.helpnetsecurity.com/2023/11/21/ransomware-cyber-extortion/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Ransomware gangs are employing various tactics to force victims to pay, including DDoS attacks and regulatory complaints, while some ransomware operators are introducing new rules to ensure larger ransom amounts and increased payout likelihood.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 22, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Update: Report Details Aftermath of ICBC LockBit Ransomware Attack<a href="https://www.bankinfosecurity.com/report-details-aftermath-icbc-lockbit-ransomware-attack-a-23655?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-A ransomware attack on the Industrial and Commercial Bank of China caused failed trading rates in the U.S. Treasury market to soar to $60 billion, highlighting the potential impact of cyberattacks on financial systems.
 </details>
 <div style="text-align: right" markdown="1">
 Cyware

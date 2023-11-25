@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+App Used by Hundreds of Schools Leaking Children’s Data<a href="https://securityaffairs.com/154743/security/app-used-by-hundreds-of-schools-leaking-childrens-data.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data poses a significant threat to children, as it can be exploited by malicious actors for extortion, impersonation, identity theft, fraud, and even potential child abuse.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'HrServ.dll' Web Shell Detected in APT Attack Targeting Afghan Government<a href="https://thehackernews.com/2023/11/new-hrservdll-web-shell-detected-in-apt.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unspecified government entity in Afghanistan was targeted by a previously undocumented web shell called  HrServ  in what's suspected to be an advanced persistent threat (APT) attack. The web shell, a dynamic-link library (DLL) named "hrserv.dll," exhibits "sophisticated features such as custom encoding methods for client communication and in-memory execution," Kaspersky security researcher Mert Degirmenci  said  in an analysis published this week. The Russian cybersecurity firm said it identified variants of the malware dating all the way back to early 2021 based on the compilation timestamps of these artifacts. Web shells are typically  malicious tools  that provide remote control over a compromised server. Once uploaded, it allows threat actors to carry out a range of post-exploitation activities, including data theft, server monitoring, and lateral advancement within the network. The attack chain involves the  PAExec  remote administration tool, an alternative to  PsExec  t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vanderbilt University Medical Center Investigating Cybersecurity Incident<a href="https://therecord.media/vanderbilt-university-medical-center-investigating-cyber-incident-meow-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hospital system was added to the leak site of the Meow ransomware gang. VUMC has confirmed the incident but has not provided details on when it occurred or the effects of the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: 3 Critical Vulnerabilities Expose ownCloud Users to Data Breaches<a href="https://thehackernews.com/2023/11/warning-3-critical-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the open-source file-sharing software ownCloud have warned of three critical security flaws that could be exploited to disclose sensitive information and modify files. A brief description of the vulnerabilities is as follows - Disclosure of sensitive credentials and configuration in containerized deployments impacting graphapi versions from 0.2.0 to 0.3.0. (CVSS score: 10.0) WebDAV Api Authentication Bypass using Pre-Signed URLs impacting core versions from 10.6.0 to 10.13.0 (CVSS score: 9.8) Subdomain Validation Bypass impacting oauth2 prior to version 0.6.1 (CVSS score: 9.0) "The 'graphapi' app relies on a third-party library that provides a URL. When this URL is accessed, it reveals the configuration details of the PHP environment (phpinfo)," the company  said  of the first flaw. "This information includes all the environment variables of the web server. In containerized deployments, these environment variables may include sensitiv
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Supply Chain Attacks Prompt Joint Warning From South Korea and the UK<a href="https://therecord.media/south-korea-uk-warning-supply-chain-attacks-north-korea?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom and South Korea have issued a joint advisory warning about software supply chain attacks carried out by North Korean state-linked hackers, highlighting the increasing volume and sophistication of such attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Using Telekopye Telegram Bot to Craft Phishing Scams on a Grand Scale<a href="https://thehackernews.com/2023/11/cybercriminals-using-telekopye-telegram.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More details have emerged about a malicious Telegram bot called  Telekopye  that's used by threat actors to pull off large-scale phishing scams. "Telekopye can craft phishing websites, emails, SMS messages, and more," ESET security researcher Radek Jizba  said  in a new analysis. The  threat actors behind the operation  – codenamed Neanderthals – are known to run the criminal enterprise as a legitimate company, spawning a hierarchical structure that encompasses different members who take on various roles. Once aspiring Neanderthals are recruited via advertisements on underground forums, they are invited to join designated Telegram channels that are used for communicating with other Neanderthals and keeping track of transaction logs. The ultimate goal of the operation is to pull off one of the three types of scams: seller, buyer, or refund. In the case of the former, Neanderthals pose as sellers and try to lure unwary Mammoths into purchasing a non-existent item. Bu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bahrain Government Websites Briefly Inaccessible After Cyberattack Over Israel-Hamas War<a href="https://apnews.com/article/bahrain-israel-hamas-war-palestinians-hack-7a1b4e5746d4ce788b008e6c77dade7f?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Al-Toufan hacker group targeted the Foreign Ministry and the Information Affairs Ministry's websites and also released scans of passports allegedly obtained from the hack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tell Me Your Secrets Without Telling Me Your Secrets<a href="https://thehackernews.com/2023/11/tell-me-your-secrets-without-telling-me.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The title of this article probably sounds like the caption to a meme. Instead, this is an actual problem GitGuardian's engineers had to solve in implementing the mechanisms for their new  HasMySecretLeaked service . They wanted to help developers find out if their secrets (passwords, API keys, private keys, cryptographic certificates, etc.) had found their way into public GitHub repositories. How could they comb a vast library of secrets found in publicly available GitHub repositories and their histories and compare them to your secrets without you having to expose sensitive information? This article will tell you how. First, if we were to set a bit's mass as equal to that of one electron, a ton of data would be around 121.9 quadrillion petabytes of data at standard Earth gravity or $39.2 billion billion billion US dollars in MacBook Pro storage upgrades (more than all the money in the world). So when this article claims GitGuardian scanned a "ton" of GitHub public commit data, t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Demand $60M From TransUnion and Experian in South Africa, Claiming Data Theft<a href="https://www.businesslive.co.za/bd/national/2023-11-23-hackers-demand-60m-from-transunion-and-experian-claiming-data-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker group, known as N4ughtySecTU, demanded a ransom of $30 million from both the credit reporting agencies and claims to have direct access to their data and infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hamas-Linked Cyberattacks Using Rust-Powered SysJoker Backdoor Against Israel<a href="https://thehackernews.com/2023/11/hamas-linked-cyberattacks-using-rust.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shed light on a Rust version of a cross-platform backdoor called  SysJoker , which is assessed to have been used by a Hamas-affiliated threat actor to target Israel amid the ongoing war in the region. "Among the most prominent changes is the shift to Rust language, which indicates the malware code was entirely rewritten, while still maintaining similar functionalities," Check Point  said  in a Wednesday analysis. "In addition, the threat actor moved to using OneDrive instead of Google Drive to store dynamic C2 (command-and-control server) URLs." SysJoker was  publicly documented  by Intezer in January 2022, describing it as a backdoor capable of gathering system information and establishing contact with an attacker-controlled server by accessing a text file hosted on Google Drive that contains a hard-coded URL. "Being cross-platform allows the malware authors to gain advantage of wide infection on all major platforms," VMware  said  last year. "SysJo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taj Hotel Data Breach Potentially Impacts 1.5 Million Customers<a href="https://www.livemint.com/news/india/taj-hotel-data-breach-ihcl-begins-probe-on-report-suggesting-data-leak-of-1-5-million-customers-tata-dnacookies-11700754884823.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach occurred in November and a threat actor named "Dnacookies" is demanding $5,000 for the full dataset, which includes customers' addresses, mobile numbers, and membership IDs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kubernetes Secrets of Fortune 500 Companies Exposed in Public Repositories<a href="https://thehackernews.com/2023/11/kubernetes-secrets-of-fortune-500.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning of publicly exposed Kubernetes configuration secrets that could put organizations at risk of supply chain attacks. "These encoded Kubernetes configuration secrets were uploaded to public repositories," Aqua security researchers Yakir Kadkoda and Assaf Morag  said  in a new research published earlier this week. Some of those impacted include two top blockchain companies and various other fortune-500 companies, according to the cloud security firm, which leveraged the GitHub API to fetch all entries containing .dockerconfigjson and .dockercfg types that  store credentials  for accessing a container image registry. Of the 438 records that potentially held valid credentials for registries, 203 records – about 46% – contained valid credentials that provided access to the respective registries. Ninety-three of the passwords were manually set by individuals, as opposed to the 345 that were computer-generated. "In the majority of cases, these creden
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 24, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia’s Cybersecurity Strategy Focuses on Protecting Small Businesses and Critical Infrastructure<a href="https://www.csoonline.com/article/1248999/australias-cybersecurity-strategy-focuses-on-protecting-small-businesses-and-critical-infrastructure.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The strategy includes financial investments to support small and medium businesses, strengthen critical infrastructure, and enhance cyber capabilities, but critics argue that the allocated funds are insufficient.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 23, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
