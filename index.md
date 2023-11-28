@@ -34,6 +34,182 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhysida Ransomware Group Claimed China Energy Hack<a href="https://securityaffairs.com/154785/cyber-crime/rhysida-ransomware-china-energy.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group claims to have stolen a substantial trove of ‘impressive data’ and is auctioning it for 50 BTC. The gang announced to publicly release the data over the seven days following the announcement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Handle Retail SaaS Security on Cyber Monday<a href="https://thehackernews.com/2023/11/how-to-handle-retail-saas-security-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If forecasters are right, over the course of today, consumers will spend  $13.7 billion . Just about every click, sale, and engagement will be captured by a CRM platform. Inventory applications will trigger automated re-orders; communication tools will send automated email and text messages confirming sales and sharing shipping information.  SaaS applications supporting retail efforts will host nearly all of this behind-the-scenes activity. While retailers are rightfully focused on sales during this time of year, they need to ensure that the SaaS apps supporting their business operations are secure. No one wants a repeat of one of the biggest retail cyber-snafus in history, like when one U.S.-based national retailer had 40 million credit card records stolen.  The attack surface is vast and retailers must remain vigilant in protecting their entire SaaS app stack. For example, many often use multiple instances of the same application. They may use a different Salesforce tenant for eve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rivers Casino Joins the Club of Hacked Casinos<a href="https://www.pandasecurity.com/en/mediacenter/rivers-casino-hacked/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rivers Casino Des Plaines is the most profitable casino in the state of Illinois. Currently, there is no information on who is behind the attack. The number of people potentially affected by the breach is also unknown.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover Passive Method to Extract Private RSA Keys from SSH Connections<a href="https://thehackernews.com/2023/11/experts-uncover-passive-method-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new study has demonstrated that it's possible for passive network attackers to obtain private RSA host keys from a vulnerable SSH server by observing when naturally occurring computational faults that occur while the connection is being established. The Secure Shell (SSH) protocol is a method for securely transmitting commands and logging in to a computer over an unsecured network. Based on a client-server architecture, SSH uses cryptography to authenticate and encrypt connections between devices. A host key is a cryptographic key used for authenticating computers in the SSH protocol. Host keys are key pairs that are typically generated using public-key cryptosystems like RSA . "If a signing implementation using CRT-RSA has a fault during signature computation, an attacker who observes this signature may be able to compute the signer's private key," a group of academics from the University of California, San Diego, and Massachusetts Institute of Technology said
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Portneuf Medical Center Latest In a String of Cyberattacks<a href="https://www.eastidahonews.com/2023/11/portneuf-medical-center-latest-in-a-string-of-cyber-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hospital’s IT team is working to determine the impact of the outage and restore access to the network. Meanwhile, the healthcare provider is following established downtime protocols, revealed a spokesperson for Portneuf Medical Center.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S., U.K., and Global Partners Release Secure AI System Development Guidelines<a href="https://thehackernews.com/2023/11/us-uk-and-global-partners-release.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. and U.S., along with international partners from 16 other countries, have released new guidelines for the development of secure artificial intelligence (AI) systems. "The approach prioritizes ownership of security outcomes for customers, embraces radical transparency and accountability, and establishes organizational structures where secure design is a top priority," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)  said . The goal is to  increase cyber security levels of AI  and help ensure that the technology is designed, developed, and deployed in a secure manner, the National Cyber Security Centre (NCSC)  added . The guidelines also build upon the U.S. government's  ongoing   efforts  to manage the risks posed by AI by ensuring that new tools are tested adequately before public release, there are guardrails in place to address societal harms, such as bias and discrimination, and privacy concerns, and setting up robust methods for consumer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Municipal Water Authority of Aliquippa Hacked by Iranian-backed Cyber Group<a href="https://www.cbsnews.com/pittsburgh/news/municipal-water-authority-of-aliquippa-hacked-iranian-backed-cyber-group/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The machine that was hacked uses a system called Unitronics, which contains software or has components that are Israeli-owned. The system has since been disabled. Authorities stressed that there is no known risk to the drinking water or water supply.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Exploit MagicLine4NX Flaw to Launch Supply Chain Attacks<a href="https://cyware.com/news/lazarus-group-exploit-magicline4nx-flaw-to-launch-supply-chain-attacks-11b98153"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NCSC and South Korea’s NIS issued a joint warning against the Lazarus hacking group leveraging a zero-day flaw in the MagicLine4NX software. The zero-day exploit allowed Lazarus to conduct a series of supply-chain attacks, starting with a watering hole attack on a media outlet's website. Organi ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KyberSwap Says $54.7 Million in Cryptocurrency Stolen During Attack<a href="https://therecord.media/kyberswap-crypto-platform-54-million-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company is now trying to recover the funds but argued that the incident “stands out as one of the most sophisticated in the history of DeFi.” The company advised users to “promptly withdraw their funds.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+East Texas Hospital Network Affected by Potential Cybersecurity Incident<a href="https://edition.cnn.com/2023/11/24/us/east-texas-hospital-cybersecurity/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The East Texas healthcare system is just the latest hospital group that has been forced to turn ambulances away because of an apparent cybersecurity incident. The cyber incident at UT Health East Texas began on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 27, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gulf Air Exposed to Data Breach, 'Vital Operations Not Affected'<a href="https://www.reuters.com/business/aerospace-defense/gulf-air-exposed-data-breach-vital-operations-not-affected-2023-11-25/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The agency quoted the company as saying that "as a result of this illegal breach some information from the company's email system and customers' database could be compromised."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 25, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
