@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rivers Casino Joins the Club of Hacked Casinos<a href="https://www.pandasecurity.com/en/mediacenter/rivers-casino-hacked/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rivers Casino Des Plaines is the most profitable casino in the state of Illinois. Currently, there is no information on who is behind the attack. The number of people potentially affected by the breach is also unknown.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gulf Air Exposed to Data Breach, 'Vital Operations Not Affected'<a href="https://www.reuters.com/business/aerospace-defense/gulf-air-exposed-data-breach-vital-operations-not-affected-2023-11-25/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The agency quoted the company as saying that "as a result of this illegal breach some information from the company's email system and customers' database could be compromised."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

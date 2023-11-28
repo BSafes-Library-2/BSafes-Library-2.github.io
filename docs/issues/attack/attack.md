@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+November 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Municipal Water Authority of Aliquippa Hacked by Iranian-backed Cyber Group<a href="https://www.cbsnews.com/pittsburgh/news/municipal-water-authority-of-aliquippa-hacked-iranian-backed-cyber-group/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The machine that was hacked uses a system called Unitronics, which contains software or has components that are Israeli-owned. The system has since been disabled. Authorities stressed that there is no known risk to the drinking water or water supply.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Exploit MagicLine4NX Flaw to Launch Supply Chain Attacks<a href="https://cyware.com/news/lazarus-group-exploit-magicline4nx-flaw-to-launch-supply-chain-attacks-11b98153"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NCSC and South Korea’s NIS issued a joint warning against the Lazarus hacking group leveraging a zero-day flaw in the MagicLine4NX software. The zero-day exploit allowed Lazarus to conduct a series of supply-chain attacks, starting with a watering hole attack on a media outlet's website. Organi ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+East Texas Hospital Network Affected by Potential Cybersecurity Incident<a href="https://edition.cnn.com/2023/11/24/us/east-texas-hospital-cybersecurity/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The East Texas healthcare system is just the latest hospital group that has been forced to turn ambulances away because of an apparent cybersecurity incident. The cyber incident at UT Health East Texas began on Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

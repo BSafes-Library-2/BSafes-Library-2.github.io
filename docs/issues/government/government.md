@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S., U.K., and Global Partners Release Secure AI System Development Guidelines<a href="https://thehackernews.com/2023/11/us-uk-and-global-partners-release.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. and U.S., along with international partners from 16 other countries, have released new guidelines for the development of secure artificial intelligence (AI) systems. "The approach prioritizes ownership of security outcomes for customers, embraces radical transparency and accountability, and establishes organizational structures where secure design is a top priority," the U.S. Cybersecurity and Infrastructure Security Agency (CISA)&nbsp; said . The goal is to&nbsp; increase cyber security levels of AI &nbsp;and help ensure that the technology is designed, developed, and deployed in a secure manner, the National Cyber Security Centre (NCSC)&nbsp; added . The guidelines also build upon the U.S. government's&nbsp; ongoing &nbsp; efforts &nbsp;to manage the risks posed by AI by ensuring that new tools are tested adequately before public release, there are guardrails in place to address societal harms, such as bias and discrimination, and privacy concerns, and setting up robust methods for consumer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

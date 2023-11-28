@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+November 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tell Me Your Secrets Without Telling Me Your Secrets<a href="https://thehackernews.com/2023/11/tell-me-your-secrets-without-telling-me.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The title of this article probably sounds like the caption to a meme. Instead, this is an actual problem GitGuardian's engineers had to solve in implementing the mechanisms for their new&nbsp; HasMySecretLeaked service . They wanted to help developers find out if their secrets (passwords, API keys, private keys, cryptographic certificates, etc.) had found their way into public GitHub repositories. How could they comb a vast library of secrets found in publicly available GitHub repositories and their histories and compare them to your secrets without you having to expose sensitive information? This article will tell you how. First, if we were to set a bit's mass as equal to that of one electron, a ton of data would be around 121.9 quadrillion petabytes of data at standard Earth gravity or $39.2 billion billion billion US dollars in MacBook Pro storage upgrades (more than all the money in the world). So when this article claims GitGuardian scanned a "ton" of GitHub public commit data, t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

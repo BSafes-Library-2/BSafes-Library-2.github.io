@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+November 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Portneuf Medical Center Latest In a String of Cyberattacks<a href="https://www.eastidahonews.com/2023/11/portneuf-medical-center-latest-in-a-string-of-cyber-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hospital’s IT team is working to determine the impact of the outage and restore access to the network. Meanwhile, the healthcare provider is following established downtime protocols, revealed a spokesperson for Portneuf Medical Center.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

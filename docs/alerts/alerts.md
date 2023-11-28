@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 26, 2023 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and UK NCSC Unveil Joint Guidelines for Secure AI System Development <a href="https://www.cisa.gov/news-events/alerts/2023/11/26/cisa-and-uk-ncsc-unveil-joint-guidelines-secure-ai-system-development"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, in a landmark collaboration, the U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the UK National Cyber Security Centre (NCSC) are proud to announce the release of the Guidelines for Secure AI System Development. Co-sealed by 23 domestic and international cybersecurity organizations, this publication marks a significant step in addressing the intersection of artificial intelligence (AI), cybersecurity, and critical infrastructure.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 23, 2023 - NIS, NCSC
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

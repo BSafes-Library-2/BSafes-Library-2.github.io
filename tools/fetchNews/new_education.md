@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Handle Retail SaaS Security on Cyber Monday<a href="https://thehackernews.com/2023/11/how-to-handle-retail-saas-security-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If forecasters are right, over the course of today, consumers will spend&nbsp; $13.7 billion . Just about every click, sale, and engagement will be captured by a CRM platform. Inventory applications will trigger automated re-orders; communication tools will send automated email and text messages confirming sales and sharing shipping information.&nbsp; SaaS applications supporting retail efforts will host nearly all of this behind-the-scenes activity. While retailers are rightfully focused on sales during this time of year, they need to ensure that the SaaS apps supporting their business operations are secure. No one wants a repeat of one of the biggest retail cyber-snafus in history, like when one U.S.-based national retailer had 40 million credit card records stolen.&nbsp; The attack surface is vast and retailers must remain vigilant in protecting their entire SaaS app stack. For example, many often use multiple instances of the same application. They may use a different Salesforce tenant for eve
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
