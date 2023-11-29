@@ -34,6 +34,246 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability Found in Ray AI Framework<a href="https://www.securityweek.com/critical-vulnerability-found-in-ray-ai-framework/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2023-48023 is rooted in the fact that, in its default configuration, Ray does not enforce authentication, and does not appear to support any type of authorization model.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transform Your Data Security Posture – Learn from SoFi's DSPM Success<a href="https://thehackernews.com/2023/11/transform-your-data-security-posture.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As cloud technology evolves, so does the challenge of securing sensitive data. In a world where data duplication and sprawl are common, organizations face increased risks of non-compliance and unauthorized data breaches. Sentra's DSPM (Data Security Posture Management) emerges as a comprehensive solution, offering continuous discovery and accurate classification of sensitive data in the cloud. This informative webinar, " Securing Sensitive Data Starts with Discovery and Classification: SoFi's DSPM Story " unveils the success story of SoFi, a pioneering cloud-native financial services provider, and its journey with Sentra's DSPM. It explores the challenges and triumphs in securing cloud data and a roadmap to implementing effective DSPM strategies in your organization. Expert Panel: Aviv Zisso:  As Director of Customer Success at Sentra, Aviv brings deep insights into data security needs and solutions. Pritam H Mungse:  SoFi's Director of Product Security, Pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IMPERIAL KITTEN Deploys Novel Malware Families<a href="https://www.crowdstrike.com/blog/imperial-kitten-deploys-novel-malware-families/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between early 2022 and 2023, CrowdStrike Intelligence observed IMPERIAL KITTEN conduct SWC operations with a focus on targeting organizations in the transportation, logistics, and technology sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Design Flaw in Google Workspace Could Let Attackers Gain Unauthorized Access<a href="https://thehackernews.com/2023/11/design-flaw-in-google-workspace-could.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed a "severe design flaw" in Google Workspace's domain-wide delegation ( DWD ) feature that could be exploited by threat actors to facilitate privilege escalation and obtain unauthorized access to Workspace APIs without super admin privileges. "Such exploitation could result in theft of emails from Gmail, data exfiltration from Google Drive, or other unauthorized actions within Google Workspace APIs on all of the identities in the target domain," cybersecurity firm Hunters  said  in a technical report shared with The Hacker News. The design weakness – which remains active to this date – has been codenamed  DeleFriend  for its ability to manipulate existing delegations in the Google Cloud Platform (GCP) and Google Workspace without possessing super admin privileges. Domain-wide delegation, per Google, is a "powerful feature" that allows third-party and internal apps to access users' data across an organizatio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoTitan Botnet - Ongoing Exploitation on Apache ActiveMQ<a href="https://www.fortinet.com/blog/threat-research/gotitan-botnet-exploitation-on-apache-activemq?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacker initiates a connection to ActiveMQ through the OpenWire protocol, typically on port 61616. By transmitting a crafted packet, the attacker triggers the system to unmarshal a class under their control.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Hackers Phish for Your Users' Credentials and Sell Them<a href="https://thehackernews.com/2023/11/how-hackers-phish-for-your-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Account credentials, a popular initial access vector, have become a valuable commodity in cybercrime. As a result, a single set of stolen credentials can put your organization's entire network at risk. According to the  2023 Verizon Data Breach Investigation Report , external parties were responsible for  83 percent  of breaches that occurred between November 2021 and October 2022.  Forty-nine percent  of those breaches involved stolen credentials. How are threat actors compromising credentials? Social engineering is one of the  top five cybersecurity threats  in 2023. Phishing, which accounts for %of social engineering attempts, is the go-to method for stealing credentials. It's a relatively cheap tactic that yields results. As phishing and social engineering techniques become more sophisticated and the tools become more readily available, credential theft should become a top security concern for all organizations if it already isn't one. Phishing has evolved With phishing and s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critics of Serbia’s government targeted with ‘military-grade spyware’<a href="https://www.theguardian.com/technology/2023/nov/28/critics-of-serbias-government-targeted-with-military-grade-spyware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Serbians had been targeted about a minute apart from each other on or about 16 August 2023. Researchers discovered traces of the attempted attack, which sought to take advantage of a possible vulnerability in iPhone’s HomeKit application.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key Cybercriminals Behind Notorious Ransomware Families Arrested in Ukraine<a href="https://thehackernews.com/2023/11/key-cybercriminals-behind-notorious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated law enforcement operation has led to the arrest of key individuals in Ukraine who are alleged to be a part of several ransomware schemes. "On 21 November, 30 properties were searched in the regions of Kyiv, Cherkasy, Rivne, and Vinnytsia, resulting in the arrest of the 32-year-old ringleader," Europol  said  in a statement today. "Four of the ringleader's most active accomplices were also detained." The  development  comes more than two years after  12 people were apprehended  in connection with the same operation. The individuals are primarily linked to LockerGoga, MegaCortex, and Dharma ransomware families. The suspects are estimated to have targeted over 1,800 victims across 71 countries since 2019. They have also been accused of deploying the now-defunct  Hive ransomware  against high-profile organizations. Some of the co-conspirators are believed to be involved in penetrating IT networks by orchestrating brute-force attacks, SQL injectio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Spent Over Two Years Stealing Secrets of Chipmaker NXP<a href="https://arstechnica.com/security/2023/11/hackers-spent-2-years-looting-secrets-of-chipmaker-nxp-before-being-detected/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach wasn’t uncovered until Chimera intruders were detected in a separate company network that connected to compromised NXP systems on several occasions. Details of the breach remained a closely guarded secret until now.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stop Identity Attacks: Discover the Key to Early Threat Detection<a href="https://thehackernews.com/2023/11/stop-identity-attacks-discover-key-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity and Access Management (IAM) systems are a staple to ensure only authorized individuals or entities have access to specific resources in order to protect sensitive information and secure business assets. But did you know that today over 80% of attacks now involve identity, compromised credentials or bypassing the authentication mechanism? Recent breaches at MGM and Caesars have underscored that, despite best efforts, it is not "if" but "when" a successful attack will have bypassed authentication and authorization controls. Account takeover, when an unauthorized individual gains access to a legitimate user account, is now the number one attack vector of choice for malicious actors. With so much focus on controls for prevention, the necessary detection and rapid response to identity-based attacks is often overlooked. And since these attacks use stolen or compromised credentials, it can be difficult to distinguish from legitimate users without a layer of detection. Dive deep i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeleFriend: Severe Design Flaw in Domain-Wide Delegation Could Leave Google Workspace Vulnerable to Takeover<a href="https://www.hunters.security/en/blog/delefriend-a-newly-discovered-design-flaw-in-domain-wide-delegation-could-leave-google-workspace-vulnerable-for-takeover?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability is rooted in the fact that a domain delegation configuration is determined by the service account resource identifier (OAuth ID), and not the specific private keys associated with the service account identity object.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Can Exploit 'Forced Authentication' to Steal Windows NTLM Tokens<a href="https://thehackernews.com/2023/11/hackers-can-exploit-forced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a case of "forced authentication" that could be exploited to leak a Windows user's NT LAN Manager (NTLM) tokens by tricking a victim into opening a specially crafted Microsoft Access file. The attack takes advantage of a legitimate feature in the database management system solution that allows users to  link to external data sources , such as a remote SQL Server table. "This feature can be abused by attackers to automatically leak the Windows user's NTLM tokens to any attacker-controlled server, via any TCP port, such as port 80," Check Point security researcher Haifei Li  said . "The attack can be launched as long as the victim opens an .accdb or .mdb file. In fact, any more-common Office file type (such as a .rtf ) can work as well." NTLM, an authentication protocol introduced by Microsoft in 1993, is a challenge-response protocol that's used to authenticate users during sign-in. Over the years,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hospital Chain Hit With Ransomware Attack<a href="https://www.healthcareinfosecurity.com/hospital-chain-hit-ransomware-attack-a-23695?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ardent proactively took its network offline, suspending all user access. Some facilities are rescheduling non-emergent, elective procedures and diverting some emergency room patients to other area hospitals until systems are back online.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Daixin Team Claimed the Hack of North Texas Municipal Water District<a href="https://securityaffairs.com/154881/cyber-crime/daixin-team-north-texas-municipal-water-district.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Daixin Team group added NTMWD to the list of victims on its Tor leak site. The gang claims to have stolen a huge amount of sensitive data from the company and threatens to publish it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ethyrial: Echoes of Yore hacked! 17,000 game accounts "lost"<a href="https://www.bitdefender.com/blog/hotforsecurity/ethyrial-echoes-of-yore-hacked-17-000-game-accounts-lost/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All 17,000 user accounts and characters have been lost in this hack. BUT We will personally, manually restore every item, level, title, pet, etc. that was lost during this event when the servers are back up.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 27, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
