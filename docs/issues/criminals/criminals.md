@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key Cybercriminals Behind Notorious Ransomware Families Arrested in Ukraine<a href="https://thehackernews.com/2023/11/key-cybercriminals-behind-notorious.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated law enforcement operation has led to the arrest of key individuals in Ukraine who are alleged to be a part of several ransomware schemes. "On 21 November, 30 properties were searched in the regions of Kyiv, Cherkasy, Rivne, and Vinnytsia, resulting in the arrest of the 32-year-old ringleader," Europol&nbsp; said &nbsp;in a statement today. "Four of the ringleader's most active accomplices were also detained." The&nbsp; development &nbsp;comes more than two years after&nbsp; 12 people were apprehended &nbsp;in connection with the same operation. The individuals are primarily linked to LockerGoga, MegaCortex, and Dharma ransomware families. The suspects are estimated to have targeted over 1,800 victims across 71 countries since 2019. They have also been accused of deploying the now-defunct&nbsp; Hive ransomware &nbsp;against high-profile organizations. Some of the co-conspirators are believed to be involved in penetrating IT networks by orchestrating brute-force attacks, SQL injectio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Daixin Team Claimed the Hack of North Texas Municipal Water District<a href="https://securityaffairs.com/154881/cyber-crime/daixin-team-north-texas-municipal-water-district.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Daixin Team group added NTMWD to the list of victims on its Tor leak site. The gang claims to have stolen a huge amount of sensitive data from the company and threatens to publish it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

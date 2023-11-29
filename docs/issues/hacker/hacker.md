@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+November 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IMPERIAL KITTEN Deploys Novel Malware Families<a href="https://www.crowdstrike.com/blog/imperial-kitten-deploys-novel-malware-families/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Between early 2022 and 2023, CrowdStrike Intelligence observed IMPERIAL KITTEN conduct SWC operations with a focus on targeting organizations in the transportation, logistics, and technology sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 10, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

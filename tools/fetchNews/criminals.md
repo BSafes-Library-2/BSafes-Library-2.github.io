@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhysida Ransomware Group Claimed China Energy Hack<a href="https://securityaffairs.com/154785/cyber-crime/rhysida-ransomware-china-energy.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group claims to have stolen a substantial trove of ‘impressive data’ and is auctioning it for 50 BTC. The gang announced to publicly release the data over the seven days following the announcement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Hackers Phish for Your Users' Credentials and Sell Them<a href="https://thehackernews.com/2023/11/how-hackers-phish-for-your-users.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Account credentials, a popular initial access vector, have become a valuable commodity in cybercrime. As a result, a single set of stolen credentials can put your organization's entire network at risk. According to the&nbsp; 2023 Verizon Data Breach Investigation Report , external parties were responsible for&nbsp; 83 percent &nbsp;of breaches that occurred between November 2021 and October 2022.&nbsp; Forty-nine percent &nbsp;of those breaches involved stolen credentials. How are threat actors compromising credentials? Social engineering is one of the&nbsp; top five cybersecurity threats &nbsp;in 2023. Phishing, which accounts for %of social engineering attempts, is the go-to method for stealing credentials. It's a relatively cheap tactic that yields results. As phishing and social engineering techniques become more sophisticated and the tools become more readily available, credential theft should become a top security concern for all organizations if it already isn't one. Phishing has evolved With phishing and s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

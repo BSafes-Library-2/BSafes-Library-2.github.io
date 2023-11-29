@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critics of Serbia’s government targeted with ‘military-grade spyware’<a href="https://www.theguardian.com/technology/2023/nov/28/critics-of-serbias-government-targeted-with-military-grade-spyware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Serbians had been targeted about a minute apart from each other on or about 16 August 2023. Researchers discovered traces of the attempted attack, which sought to take advantage of a possible vulnerability in iPhone’s HomeKit application.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2023
+November 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability Found in Ray AI Framework<a href="https://www.securityweek.com/critical-vulnerability-found-in-ray-ai-framework/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2023
+November 28, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Transform Your Data Security Posture – Learn from SoFi's DSPM Success<a href="https://thehackernews.com/2023/11/transform-your-data-security-posture.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2023
+November 28, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IMPERIAL KITTEN Deploys Novel Malware Families<a href="https://www.crowdstrike.com/blog/imperial-kitten-deploys-novel-malware-families/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2023
+November 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Design Flaw in Google Workspace Could Let Attackers Gain Unauthorized Access<a href="https://thehackernews.com/2023/11/design-flaw-in-google-workspace-could.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2023
+November 28, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoTitan Botnet - Ongoing Exploitation on Apache ActiveMQ<a href="https://www.fortinet.com/blog/threat-research/gotitan-botnet-exploitation-on-apache-activemq?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2023
+November 28, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Hackers Phish for Your Users' Credentials and Sell Them<a href="https://thehackernews.com/2023/11/how-hackers-phish-for-your-users.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2023
+November 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critics of Serbia’s government targeted with ‘military-grade spyware’<a href="https://www.theguardian.com/technology/2023/nov/28/critics-of-serbias-government-targeted-with-military-grade-spyware?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2023
+November 28, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Key Cybercriminals Behind Notorious Ransomware Families Arrested in Ukraine<a href="https://thehackernews.com/2023/11/key-cybercriminals-behind-notorious.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2023
+November 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Spent Over Two Years Stealing Secrets of Chipmaker NXP<a href="https://arstechnica.com/security/2023/11/hackers-spent-2-years-looting-secrets-of-chipmaker-nxp-before-being-detected/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2023
+November 28, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Stop Identity Attacks: Discover the Key to Early Threat Detection<a href="https://thehackernews.com/2023/11/stop-identity-attacks-discover-key-to.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2023
+November 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeleFriend: Severe Design Flaw in Domain-Wide Delegation Could Leave Google Workspace Vulnerable to Takeover<a href="https://www.hunters.security/en/blog/delefriend-a-newly-discovered-design-flaw-in-domain-wide-delegation-could-leave-google-workspace-vulnerable-for-takeover?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2023
+November 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Can Exploit 'Forced Authentication' to Steal Windows NTLM Tokens<a href="https://thehackernews.com/2023/11/hackers-can-exploit-forced.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2023
+November 28, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hospital Chain Hit With Ransomware Attack<a href="https://www.healthcareinfosecurity.com/hospital-chain-hit-ransomware-attack-a-23695?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2023
+November 28, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Daixin Team Claimed the Hack of North Texas Municipal Water District<a href="https://securityaffairs.com/154881/cyber-crime/daixin-team-north-texas-municipal-water-district.html?&web_view=true"> Full Text</a>
@@ -258,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 28, 2023
+November 28, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ethyrial: Echoes of Yore hacked! 17,000 game accounts "lost"<a href="https://www.bitdefender.com/blog/hotforsecurity/ethyrial-echoes-of-yore-hacked-17-000-game-accounts-lost/?&web_view=true"> Full Text</a>

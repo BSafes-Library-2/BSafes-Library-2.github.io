@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+November 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stop Identity Attacks: Discover the Key to Early Threat Detection<a href="https://thehackernews.com/2023/11/stop-identity-attacks-discover-key-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity and Access Management (IAM) systems are a staple to ensure only authorized individuals or entities have access to specific resources in order to protect sensitive information and secure business assets. But did you know that today over 80% of attacks now involve identity, compromised credentials or bypassing the authentication mechanism? Recent breaches at MGM and Caesars have underscored that, despite best efforts, it is not "if" but "when" a successful attack will have bypassed authentication and authorization controls. Account takeover, when an unauthorized individual gains access to a legitimate user account, is now the number one attack vector of choice for malicious actors. With so much focus on controls for prevention, the necessary detection and rapid response to identity-based attacks is often overlooked. And since these attacks use stolen or compromised credentials, it can be difficult to distinguish from legitimate users without a layer of detection. Dive deep i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

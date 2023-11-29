@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+November 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transform Your Data Security Posture – Learn from SoFi's DSPM Success<a href="https://thehackernews.com/2023/11/transform-your-data-security-posture.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As cloud technology evolves, so does the challenge of securing sensitive data. In a world where data duplication and sprawl are common, organizations face increased risks of non-compliance and unauthorized data breaches. Sentra's DSPM (Data Security Posture Management) emerges as a comprehensive solution, offering continuous discovery and accurate classification of sensitive data in the cloud. This informative webinar, " Securing Sensitive Data Starts with Discovery and Classification: SoFi's DSPM Story " unveils the success story of SoFi, a pioneering cloud-native financial services provider, and its journey with Sentra's DSPM. It explores the challenges and triumphs in securing cloud data and a roadmap to implementing effective DSPM strategies in your organization. Expert Panel: Aviv Zisso: &nbsp;As Director of Customer Success at Sentra, Aviv brings deep insights into data security needs and solutions. Pritam H Mungse: &nbsp;SoFi's Director of Product Security, Pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
