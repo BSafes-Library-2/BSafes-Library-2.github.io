@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+November 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Exploit PLCs in Attack on Water Authority in U.S.<a href="https://thehackernews.com/2023/11/iranian-hackers-exploit-plcs-in-attack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) revealed that it's responding to a cyber attack that involved the active exploitation of Unitronics programmable logic controllers (PLCs) to target the Municipal Water Authority of Aliquippa in western Pennsylvania. The attack has been attributed to an Iranian-backed hacktivist collective known as Cyber Av3ngers. "Cyber threat actors are targeting PLCs associated with [Water and Wastewater Systems] facilities, including an identified Unitronics PLC, at a U.S. water facility," the agency said . "In response, the affected municipality's water authority immediately took the system offline and switched to manual operations—there is no known risk to the municipality's drinking water or water supply." According to news reports quoted by the Water Information Sharing &amp; Analysis Center (WaterISAC), CyberAv3ngers is alleged to have seized control of the booster station that monitors and regulates
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan’s Space Agency Suffers Cyber Attack<a href="https://www.theregister.com/2023/11/29/jaxa_cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JAXA got to know about the attack after an external organization conducted an internal audit. A detailed investigation is going on into the hacking attempt and it was not revealed who could be orchestrating this.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

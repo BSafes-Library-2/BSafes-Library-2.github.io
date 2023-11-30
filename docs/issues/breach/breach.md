@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+November 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Egyptian E-Payment Vendor Recovering From LockBit Ransomware Attack<a href="https://www.darkreading.com/cyberattacks-data-breaches/fawry-recovering-from-lockbit-ransomware-attack-?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fawry remains confident that this data will not impact financial transactions on its platform, but the company believes it may have included the personal details of some customers whose information had been on the testing platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta Discloses Broader Impact Linked to October 2023 Support System Breach<a href="https://thehackernews.com/2023/11/okta-discloses-additional-data-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity services provider Okta has disclosed that it detected "additional threat actor activity" in connection with the&nbsp; October 2023 breach &nbsp;of its support case management system. "The threat actor downloaded the names and email addresses of all Okta customer support system users," the company said in a statement shared with The Hacker News. "All Okta Workforce Identity Cloud (WIC) and Customer Identity Solution (CIS) customers are impacted except customers in our FedRamp High and DoD IL4 environments (these environments use a separate support system NOT accessed by the threat actor). The Auth0/CIC support case management system was not impacted by this incident." On top of that, the adversary is believed to have accessed reports containing contact information of all Okta certified users, some Okta Customer Identity Cloud (CIC) customers, and unspecified Okta employee information. However, it emphasized that the data does not include user credenti
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Play Ransomware Group Lists 17 Victims, 14 US-Based Companies Named<a href="https://thecyberexpress.com/play-ransomware-attack-us-uk-canada-netherland/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts in security believe the Play ransomware group has ties to Russia. PlayCrypt is another name for the group. It was created by a team known as Balloonfly, which Symantec monitors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

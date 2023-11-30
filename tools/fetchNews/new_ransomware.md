@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DJVU Ransomware's Latest Variant 'Xaro' Disguised as Cracked Software<a href="https://thehackernews.com/2023/11/djvu-ransomwares-latest-variant-xaro.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A variant of a ransomware strain known as DJVU has been observed to be distributed in the form of cracked software. "While this attack pattern is not new, incidents involving a DJVU variant that appends the .xaro extension to affected files and demanding ransom for a decryptor have been observed infecting systems alongside a host of various commodity loaders and infostealers," Cybereason security researcher Ralph Villanueva&nbsp; said . The new variant has been codenamed Xaro by the American cybersecurity firm. DJVU, in itself a&nbsp; variant of the STOP ransomware , typically arrives on the scene masquerading as legitimate services or applications. It's also delivered as a payload of&nbsp; SmokeLoader . A significant aspect of DJVU attacks is the deployment of additional malware, such as information stealers (e.g., RedLine Stealer and Vidar), making them more damaging in nature. In the latest attack chain documented by Cybereason, Xaro is propagated as an archive file from a dub
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

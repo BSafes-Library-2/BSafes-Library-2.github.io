@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+November 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Spent Over Two Years Stealing Secrets of Chipmaker NXP<a href="https://arstechnica.com/security/2023/11/hackers-spent-2-years-looting-secrets-of-chipmaker-nxp-before-being-detected/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach wasn’t uncovered until Chimera intruders were detected in a separate company network that connected to compromised NXP systems on several occasions. Details of the breach remained a closely guarded secret until now.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ethyrial: Echoes of Yore hacked! 17,000 game accounts "lost"<a href="https://www.bitdefender.com/blog/hotforsecurity/ethyrial-echoes-of-yore-hacked-17-000-game-accounts-lost/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+All 17,000 user accounts and characters have been lost in this hack. BUT We will personally, manually restore every item, level, title, pet, etc. that was lost during this event when the servers are back up.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

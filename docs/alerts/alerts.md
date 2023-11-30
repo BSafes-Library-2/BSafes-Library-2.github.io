@@ -7,6 +7,18 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 28, 2023 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploitation of Unitronics PLCs used in Water and Wastewater Systems <a href="https://www.cisa.gov/news-events/alerts/2023/11/28/exploitation-unitronics-plcs-used-water-and-wastewater-systems"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA is responding to active exploitation of Unitronics programmable logic controllers (PLCs) used in the Water and Wastewater Systems (WWS) Sector. Cyber threat actors are targeting PLCs associated with WWS facilities, including an identified Unitronics PLC, at a U.S. water facility. In response, the affected municipality’s water authority immediately took the system offline and switched to manual operations—there is no known risk to the municipality’s drinking water or water supply.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 26, 2023 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

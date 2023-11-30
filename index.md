@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2023
+November 29, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British Afrobeat singer pleads guilty to stealing $6 million in hacks on financial accounts<a href="https://therecord.media/british-afrobeat-singer-pleads-guilty-to-stealing-millions-in-hacks?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2023
+November 29, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Exploit PLCs in Attack on Water Authority in U.S.<a href="https://thehackernews.com/2023/11/iranian-hackers-exploit-plcs-in-attack.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2023
+November 29, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlueVoyant Acquires Conquest Cyber to Help Clients Mitigate Risks<a href="https://www.helpnetsecurity.com/2023/11/29/bluevoyant-conquest-cyber-acquisition/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2023
+November 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 200+ Malicious Android Apps Targeting Iranian Banks: Experts Warn<a href="https://thehackernews.com/2023/11/200-malicious-apps-on-iranian-android.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2023
+November 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PoCs for Critical Arcserve UDP Vulnerabilities Released<a href="https://www.helpnetsecurity.com/2023/11/29/arcserve-udp-vulnerabilities-pocs/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2023
+November 29, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Discover Why Proactive Web Security Outsmarts Traditional Antivirus Solutions<a href="https://thehackernews.com/2023/11/discover-why-proactive-web-security.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2023
+November 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Egyptian E-Payment Vendor Recovering From LockBit Ransomware Attack<a href="https://www.darkreading.com/cyberattacks-data-breaches/fawry-recovering-from-lockbit-ransomware-attack-?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2023
+November 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Okta Discloses Broader Impact Linked to October 2023 Support System Breach<a href="https://thehackernews.com/2023/11/okta-discloses-additional-data-breach.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2023
+November 29, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japan’s Space Agency Suffers Cyber Attack<a href="https://www.theregister.com/2023/11/29/jaxa_cyberattack/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2023
+November 29, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DJVU Ransomware's Latest Variant 'Xaro' Disguised as Cracked Software<a href="https://thehackernews.com/2023/11/djvu-ransomwares-latest-variant-xaro.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2023
+November 29, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unveiling the Persisting Threat: Iranian Mobile Banking Malware Campaign Extends Its Reach<a href="https://www.zimperium.com/blog/unveiling-the-persisting-threat-iranian-mobile-banking-malware-campaign-extends-its-reach/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2023
+November 29, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GoTitan Botnet Spotted Exploiting Recent Apache ActiveMQ Vulnerability<a href="https://thehackernews.com/2023/11/gotitan-botnet-spotted-exploiting.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-November 29, 2023
+November 29, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Play Ransomware Group Lists 17 Victims, 14 US-Based Companies Named<a href="https://thecyberexpress.com/play-ransomware-attack-us-uk-canada-netherland/?&web_view=true"> Full Text</a>
