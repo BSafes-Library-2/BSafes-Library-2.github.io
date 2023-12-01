@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Afrobeat singer pleads guilty to stealing $6 million in hacks on financial accounts<a href="https://therecord.media/british-afrobeat-singer-pleads-guilty-to-stealing-millions-in-hacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the Department of Justice, from 2011 until 2018 Mustapha and his unnamed co-conspirators siphoned funds from financial accounts whose login information they illegally accessed through phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 22, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

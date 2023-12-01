@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+November 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Unitronics PLC Exploitation Following Water Utility Hack<a href="https://www.securityweek.com/cisa-warns-of-unitronics-plc-exploitation-following-water-utility-hack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the case of the Municipal Water Authority of Aliquippa, CISA noted that the attackers likely accessed the ICS device “by exploiting cybersecurity weaknesses, including poor password security and exposure to the internet”.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

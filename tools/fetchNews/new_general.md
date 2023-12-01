@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+November 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Associated Press, ESPN, CBS among top sites serving fake virus alerts<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/11/associated-press-espn-cbs-among-top-sites-serving-fake-virus-alerts?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors dabbles in obfuscation and evasion techniques. However, as previously detailed by Confiant, they are using much more advanced tricks. Their JavaScript uses obfuscation with changing variable names, making identification harder.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+68% of US Websites Exposed to Bot Attacks<a href="https://www.hackread.com/68-of-us-websites-exposed-to-bot-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per DataDome’s report shared with Hackread.com ahead of publication on Tuesday, 72.3% of e-commerce websites and 65.2% of classified ad websites failed the bot tests, whereas 85% of DataDome’s fake Chrome bots remained undetected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 Uses for Generative AI to Enhance Security Operations<a href="https://thehackernews.com/2023/11/7-uses-for-generative-ai-to-enhance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Welcome to a world where Generative AI revolutionizes the field of cybersecurity. Generative AI refers to the use of artificial intelligence (AI) techniques to generate or create new data, such as images, text, or sounds. It has gained significant attention in recent years due to its ability to generate realistic and diverse outputs. When it comes to security operations,&nbsp; Generative AI can play a significant role . It can be used to detect and prevent various threats, including malware, phishing attempts, and data breaches. Analyzing patterns and behaviors in large amounts of data allows it to identify suspicious activities and alert security teams in real-time. Here are seven practical use cases that demonstrate the power of Generative AI. There are more possibilities out there of how you can achieve objectives and fortify security operations, but this list should get your creative juices flowing. 1) Information Management Information security deals with a breadth of data that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+November 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Weaponized Invoice To Deliver LUMMA Malware<a href="https://perception-point.io/blog/behind-the-attack-lumma-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity analysts identified that the attacker, posing as a financial services company in this campaign, tricks the target with a fake invoice email. The attacker dodges detection using a fake page and a real link.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

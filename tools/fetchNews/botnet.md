@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+November 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoTitan Botnet Spotted Exploiting Recent Apache ActiveMQ Vulnerability<a href="https://thehackernews.com/2023/11/gotitan-botnet-spotted-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recently disclosed critical security flaw impacting Apache ActiveMQ is being actively exploited by threat actors to distribute a new Go-based botnet called&nbsp; GoTitan &nbsp;as well as a .NET program known as&nbsp; PrCtrl Rat &nbsp;that's capable of remotely commandeering the infected hosts. The attacks involve the exploitation of a remote code execution bug (CVE-2023-46604, CVSS score: 10.0) that has been&nbsp; weaponized &nbsp;by various hacking crews, including the&nbsp; Lazarus Group , in recent weeks. Following a successful breach, the threat actors have been observed to drop next-stage payloads from a remote server, one of which is GoTitan, a botnet designed for orchestrating distributed denial-of-service (DDoS) attacks via protocols such as HTTP, UDP, TCP, and TLS. "The attacker only provides binaries for x64 architectures, and the malware performs some checks before running," Fortinet Fortiguard Labs researcher Cara Lin&nbsp; said &nbsp;in a Tuesday analysis. "It also creates a file named &amp;#
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

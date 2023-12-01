@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+November 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Jersey, Pennsylvania Hospitals Affected by Cyberattacks<a href="https://therecord.media/new-jersey-pennsylvania-hospitals-affected-by-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company’s IT team said it is working to restore hospital systems and data but noted that its emergency rooms are still open to those in need of care. Some elective surgeries have been moved to later dates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

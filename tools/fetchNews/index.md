@@ -34,6 +34,230 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Associated Press, ESPN, CBS among top sites serving fake virus alerts<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/11/associated-press-espn-cbs-among-top-sites-serving-fake-virus-alerts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors dabbles in obfuscation and evasion techniques. However, as previously detailed by Confiant, they are using much more advanced tricks. Their JavaScript uses obfuscation with changing variable names, making identification harder.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Unveils RETVec - Gmail's New Defense Against Spam and Malicious Emails<a href="https://thehackernews.com/2023/11/google-unveils-retvec-gmails-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has revealed a new multilingual text vectorizer called  RETVec  (short for Resilient and Efficient Text Vectorizer) to  help detect  potentially harmful content such as spam and malicious emails in Gmail. "RETVec is trained to be resilient against character-level manipulations including insertion, deletion, typos, homoglyphs, LEET substitution, and more," according to the  project's description  on GitHub. "The RETVec model is trained on top of a novel character encoder which can encode all UTF-8 characters and words efficiently." While huge platforms like Gmail and YouTube rely on text classification models to spot phishing attacks, inappropriate comments, and scams, threat actors are known to devise counter-strategies to bypass these defense measures. They have been observed resorting to adversarial text manipulations, which range from the use of homoglyphs to keyword stuffing to invisible characters. RETVec , which works on over 100 languages o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+68% of US Websites Exposed to Bot Attacks<a href="https://www.hackread.com/68-of-us-websites-exposed-to-bot-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As per DataDome’s report shared with Hackread.com ahead of publication on Tuesday, 72.3% of e-commerce websites and 65.2% of classified ad websites failed the bot tests, whereas 85% of DataDome’s fake Chrome bots remained undetected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This Free Solution Provides Essential Third-Party Risk Management for SaaS<a href="https://thehackernews.com/2023/11/this-free-solution-provides-essential.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wing Security recently announced that basic third-party risk assessment is  now available as a free product . But it raises the questions of how SaaS is connected to third-party risk management (TPRM) and what companies should do to ensure a proper SaaS-TPRM process is in place. In this article we will share 5 tips to manage the third-party risks associated with SaaS, but first...  What exactly is Third-Party Risk Management in SaaS? SaaS is rapidly growing, offering businesses convenience, swift implementations, and valuable opportunities. However, this growth introduces a security challenge where risks arise from the interconnected nature of SaaS supply chains. It is clear that before onboarding a new contractor or vendor, we need due diligence, security checks, and referrals. However, we now understand that in the SaaS domain, applications are, in fact, the go-to vendor of choice.  Let's explain: Any employee can very easily connect SaaS vendors to company data, granting them pe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Using Weaponized Invoice To Deliver LUMMA Malware<a href="https://perception-point.io/blog/behind-the-attack-lumma-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity analysts identified that the attacker, posing as a financial services company in this campaign, tricks the target with a fake invoice email. The attacker dodges detection using a fake page and a real link.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Lazarus Group Rakes in $3 Billion from Cryptocurrency Hacks<a href="https://thehackernews.com/2023/11/north-koreas-lazarus-group-rakes-in-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors from the Democratic People's Republic of Korea (DPRK) are increasingly targeting the cryptocurrency sector as a  major revenue generation mechanism  since at least 2017 to get around sanctions imposed against the country. "Even though movement in and out of and within the country is heavily restricted, and its general population is isolated from the rest of the world, the regime's ruling elite and its highly trained cadre of computer science professionals have privileged access to new technologies and information," cybersecurity firm Recorded Future  said  in a report shared with The Hacker News. "The privileged access to resources, technologies, information, and sometimes international travel for a small set of selected individuals with promise in mathematics and computer science equips them with the necessary skills for conducting cyber attacks against the cryptocurrency industry." The disclosure comes as the U.S. Treasury Department  imp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thanksgiving Hack on North Carolina City Caused Leak of Employee Data<a href="https://therecord.media/hack-on-north-carolina-city-led-to-data-leak?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack on Hendersonville is the latest incident affecting a North Carolina government institution since the state became the first in the nation to ban payments to ransomware gangs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+7 Uses for Generative AI to Enhance Security Operations<a href="https://thehackernews.com/2023/11/7-uses-for-generative-ai-to-enhance.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Welcome to a world where Generative AI revolutionizes the field of cybersecurity. Generative AI refers to the use of artificial intelligence (AI) techniques to generate or create new data, such as images, text, or sounds. It has gained significant attention in recent years due to its ability to generate realistic and diverse outputs. When it comes to security operations,  Generative AI can play a significant role . It can be used to detect and prevent various threats, including malware, phishing attempts, and data breaches. Analyzing patterns and behaviors in large amounts of data allows it to identify suspicious activities and alert security teams in real-time. Here are seven practical use cases that demonstrate the power of Generative AI. There are more possibilities out there of how you can achieve objectives and fortify security operations, but this list should get your creative juices flowing. 1) Information Management Information security deals with a breadth of data that
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Jersey, Pennsylvania Hospitals Affected by Cyberattacks<a href="https://therecord.media/new-jersey-pennsylvania-hospitals-affected-by-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company’s IT team said it is working to restore hospital systems and data but noted that its emergency rooms are still open to those in need of care. Some elective surgeries have been moved to later dates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CACTUS Ransomware Exploits Qlik Sense Vulnerabilities in Targeted Attacks<a href="https://thehackernews.com/2023/11/cactus-ransomware-exploits-qlik-sense.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A  CACTUS ransomware campaign  has been observed exploiting recently disclosed security flaws in a cloud analytics and business intelligence platform called Qlik Sense to obtain a foothold into targeted environments. "This campaign marks the first documented instance [...] where threat actors deploying CACTUS ransomware have exploited vulnerabilities in Qlik Sense for initial access," Arctic Wolf researchers Stefan Hostetler, Markus Neis, and Kyle Pagelow  said . The cybersecurity company, which said it's responding to "several instances" of exploitation of the software, noted that the attacks are likely taking advantage of three flaws that have been disclosed over the past three months - CVE-2023-41265  (CVSS score: 9.9) - An HTTP Request Tunneling vulnerability that allows a remote attacker to elevate their privilege and send requests that get executed by the backend server hosting the repository application. CVE-2023-41266  (CVSS score: 6.5) - A path tr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Unitronics PLC Exploitation Following Water Utility Hack<a href="https://www.securityweek.com/cisa-warns-of-unitronics-plc-exploitation-following-water-utility-hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the case of the Municipal Water Authority of Aliquippa, CISA noted that the attackers likely accessed the ICS device “by exploiting cybersecurity weaknesses, including poor password security and exposure to the internet”.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Treasury Sanctions Sinbad Cryptocurrency Mixer Used by North Korean Hackers<a href="https://thehackernews.com/2023/11/us-treasury-sanctions-sinbad.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department on Wednesday imposed sanctions against  Sinbad , a virtual currency mixer that has been put to use by the North Korea-linked  Lazarus Group  to launder ill-gotten proceeds. "Sinbad has processed millions of dollars' worth of virtual currency from Lazarus Group heists, including the Horizon Bridge and Axie Infinity heists," the department said . "Sinbad is also used by cybercriminals to obfuscate transactions linked to malign activities such as sanctions evasion, drug trafficking, the purchase of child sexual abuse materials, and additional illicit sales on darknet marketplaces." The development builds on prior actions undertaken by governments in Europe and the U.S. to blockade mixers such as  Blender ,  Tornado Cash , and  ChipMixer , all of which have been accused of providing "material support" to the hacking crew by laundering the stolen assets through their services. Sinbad, created by an individual who goes by t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Claiming Zoom Rooms Service Accounts to Gain Access to Tenants<a href="https://appomni.com/blog_post/claiming-zoom-rooms-service-accounts-to-gain-access-to-tenants/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The finding highlights the potential misuse of service accounts to gain unauthorized access to SaaS systems. Abusing the bug enabled attackers to predict service account email addresses, hijack the accounts, and collect sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+November 30, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Security Advisory for Authentication Bypass and Command Injection Vulnerabilities in NAS products<a href="https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-authentication-bypass-and-command-injection-vulnerabilities-in-nas-products?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three Command injection vulnerabilities have been discovered in Zyxel NAS (Network Attached Storage) products, which could allow a threat actor to execute system commands on successful exploitation of these vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 29, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

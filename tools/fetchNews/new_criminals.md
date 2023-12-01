@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+November 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Lazarus Group Rakes in $3 Billion from Cryptocurrency Hacks<a href="https://thehackernews.com/2023/11/north-koreas-lazarus-group-rakes-in-3.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors from the Democratic People's Republic of Korea (DPRK) are increasingly targeting the cryptocurrency sector as a&nbsp; major revenue generation mechanism &nbsp;since at least 2017 to get around sanctions imposed against the country. "Even though movement in and out of and within the country is heavily restricted, and its general population is isolated from the rest of the world, the regime's ruling elite and its highly trained cadre of computer science professionals have privileged access to new technologies and information," cybersecurity firm Recorded Future&nbsp; said &nbsp;in a report shared with The Hacker News. "The privileged access to resources, technologies, information, and sometimes international travel for a small set of selected individuals with promise in mathematics and computer science equips them with the necessary skills for conducting cyber attacks against the cryptocurrency industry." The disclosure comes as the U.S. Treasury Department&nbsp; imp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

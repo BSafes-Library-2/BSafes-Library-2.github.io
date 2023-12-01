@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+November 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CACTUS Ransomware Exploits Qlik Sense Vulnerabilities in Targeted Attacks<a href="https://thehackernews.com/2023/11/cactus-ransomware-exploits-qlik-sense.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A&nbsp; CACTUS ransomware campaign &nbsp;has been observed exploiting recently disclosed security flaws in a cloud analytics and business intelligence platform called Qlik Sense to obtain a foothold into targeted environments. "This campaign marks the first documented instance [...] where threat actors deploying CACTUS ransomware have exploited vulnerabilities in Qlik Sense for initial access," Arctic Wolf researchers Stefan Hostetler, Markus Neis, and Kyle Pagelow&nbsp; said . The cybersecurity company, which said it's responding to "several instances" of exploitation of the software, noted that the attacks are likely taking advantage of three flaws that have been disclosed over the past three months - CVE-2023-41265 &nbsp;(CVSS score: 9.9) - An HTTP Request Tunneling vulnerability that allows a remote attacker to elevate their privilege and send requests that get executed by the backend server hosting the repository application. CVE-2023-41266 &nbsp;(CVSS score: 6.5) - A path tr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
