@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+November 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Unveils RETVec - Gmail's New Defense Against Spam and Malicious Emails<a href="https://thehackernews.com/2023/11/google-unveils-retvec-gmails-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has revealed a new multilingual text vectorizer called&nbsp; RETVec &nbsp;(short for Resilient and Efficient Text Vectorizer) to&nbsp; help detect &nbsp;potentially harmful content such as spam and malicious emails in Gmail. "RETVec is trained to be resilient against character-level manipulations including insertion, deletion, typos, homoglyphs, LEET substitution, and more," according to the&nbsp; project's description &nbsp;on GitHub. "The RETVec model is trained on top of a novel character encoder which can encode all UTF-8 characters and words efficiently." While huge platforms like Gmail and YouTube rely on text classification models to spot phishing attacks, inappropriate comments, and scams, threat actors are known to devise counter-strategies to bypass these defense measures. They have been observed resorting to adversarial text manipulations, which range from the use of homoglyphs to keyword stuffing to invisible characters. RETVec , which works on over 100 languages o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+November 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This Free Solution Provides Essential Third-Party Risk Management for SaaS<a href="https://thehackernews.com/2023/11/this-free-solution-provides-essential.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wing Security recently announced that basic third-party risk assessment is&nbsp; now available as a free product . But it raises the questions of how SaaS is connected to third-party risk management (TPRM) and what companies should do to ensure a proper SaaS-TPRM process is in place. In this article we will share 5 tips to manage the third-party risks associated with SaaS, but first...&nbsp; What exactly is Third-Party Risk Management in SaaS? SaaS is rapidly growing, offering businesses convenience, swift implementations, and valuable opportunities. However, this growth introduces a security challenge where risks arise from the interconnected nature of SaaS supply chains. It is clear that before onboarding a new contractor or vendor, we need due diligence, security checks, and referrals. However, we now understand that in the SaaS domain, applications are, in fact, the go-to vendor of choice.&nbsp; Let's explain: Any employee can very easily connect SaaS vendors to company data, granting them pe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

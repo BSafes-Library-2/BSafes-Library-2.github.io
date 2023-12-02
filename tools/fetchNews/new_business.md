@@ -8,6 +8,18 @@ nav_order: 900027
 
 ## Business
 ---
+December 1, 2023 <br>
+BlueVoyant Raises $140M, Buys Resilience Firm Conquest Cyber<a href="https://www.bankinfosecurity.com/bluevoyant-raises-140m-buys-resilience-firm-conquest-cyber-a-23722?&amp;web_view=true"> Full Text</a>
+<p></p>
+<details>
+  <summary>Abstract</summary>
+The integration of BlueVoyant and Conquest Cyber will provide customers with more self-service capabilities and autonomous operations through the use of AI, machine learning, and virtual data lakes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+December 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agent Racoon Backdoor Targets Organizations in Middle East, Africa, and U.S.<a href="https://thehackernews.com/2023/12/agent-racoon-backdoor-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations in the Middle East, Africa, and the U.S. have been targeted by an unknown threat actor to distribute a new backdoor called&nbsp; Agent Racoon . "This malware family is written using the .NET framework and leverages the domain name service (DNS) protocol to create a covert channel and provide different backdoor functionalities," Palo Alto Networks Unit 42 researcher Chema Garcia&nbsp; said &nbsp;in a Friday analysis. Targets of the attacks span various sectors such as education, real estate, retail, non-profits, telecom, and governments. The activity has not been attributed to a known threat actor, although it's assessed to be a nation-state aligned owing to the victimology pattern and the detection and defense evasion techniques used. The cybersecurity firm is tracking the cluster under the moniker CL-STA-0002. It's currently not clear how these organizations were breached, and when the attacks took place. Some of the other tools deployed by the adversary include
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XDSpy Hackers Attack Military-Industrial Companies in Russia<a href="https://therecord.media/xdspy-hackers-target-russian-military-industrial-companies?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+XDSpy has a history of targeting Russia's government, military, financial institutions, as well as energy, research, and mining companies, demonstrating a focus on strategic organizations in Eastern Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Using SugarGh0st RAT to Target South Korea and Uzbekistan<a href="https://thehackernews.com/2023/12/chinese-hackers-using-sugargh0st-rat-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected Chinese-speaking threat actor has been attributed to a malicious campaign that targets the Uzbekistan Ministry of Foreign Affairs and South Korean users with a remote access trojan called&nbsp; SugarGh0st RAT . The activity, which commenced no later than August 2023, leverages two different infection sequences to deliver the malware, which is a customized variant of&nbsp; Gh0st RAT &nbsp;(aka Farfli). It comes with features to "facilitate the remote administration tasks as directed by the C2 and modified communication protocol based on the similarity of the command structure and the strings used in the code," Cisco Talos researchers Ashley Shen and Chetan Raghuprasad&nbsp; said . The attacks commence with a phishing email bearing decoy documents, opening which activates a multi-stage process that leads to the deployment of SugarGh0st RAT. The decoy documents are incorporated within a heavily obfuscated JavaScript dropper that's contained within a Windows Shortcut file embed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 1, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use new Tool Set in Targeted Attacks Against Middle East, Africa and the US<a href="https://unit42.paloaltonetworks.com/new-toolset-targets-middle-east-africa-usa/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new set of tools, including a backdoor, a credential-stealing module, and a customized version of Mimikatz, has been used in targeted attacks against organizations in the Middle East, Africa, and the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

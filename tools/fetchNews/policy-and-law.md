@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+November 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Treasury Sanctions Sinbad Cryptocurrency Mixer Used by North Korean Hackers<a href="https://thehackernews.com/2023/11/us-treasury-sanctions-sinbad.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department on Wednesday imposed sanctions against&nbsp; Sinbad , a virtual currency mixer that has been put to use by the North Korea-linked&nbsp; Lazarus Group &nbsp;to launder ill-gotten proceeds. "Sinbad has processed millions of dollars' worth of virtual currency from Lazarus Group heists, including the Horizon Bridge and Axie Infinity heists," the department said . "Sinbad is also used by cybercriminals to obfuscate transactions linked to malign activities such as sanctions evasion, drug trafficking, the purchase of child sexual abuse materials, and additional illicit sales on darknet marketplaces." The development builds on prior actions undertaken by governments in Europe and the U.S. to blockade mixers such as&nbsp; Blender ,&nbsp; Tornado Cash , and&nbsp; ChipMixer , all of which have been accused of providing "material support" to the hacking crew by laundering the stolen assets through their services. Sinbad, created by an individual who goes by t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

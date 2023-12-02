@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+December 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surgical Practice Notifying 437,400 Patients of Data Theft<a href="https://www.bankinfosecurity.com/surgical-practice-notifying-437400-patients-data-theft-a-23753?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proliance Surgeons, a large Seattle-based surgical group, suffered a ransomware attack and data theft, potentially compromising the personal information of nearly 437,400 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: 23andMe Says Hackers Accessed ‘Significant Number’ of Files About Users’ Ancestry<a href="https://techcrunch.com/2023/12/01/23andme-says-hackers-accessed-significant-number-of-files-about-users-ancestry/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Genetic testing company 23andMe experienced a data breach, with hackers accessing around 14,000 customer accounts and potentially compromising the personal information of other users connected to those accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

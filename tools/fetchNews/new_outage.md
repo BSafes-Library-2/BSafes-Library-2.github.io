@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+December 2, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+60 US Credit Unions Offline After Cloud Ransomware Infection<a href="https://www.theregister.com/2023/12/02/ransomware_infection_credit_unions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The affected IT provider, Ongoing Operations, was infiltrated through the Citrix Bleed vulnerability, emphasizing the importance of robust cybersecurity measures and patching vulnerabilities promptly.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 02, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hacker Vladimir Dunaev Convicted for Creating TrickBot Malware<a href="https://thehackernews.com/2023/12/russian-hacker-vladimir-dunaev.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national has been found guilty in connection with his role in developing and deploying a malware known as TrickBot, the U.S. Department of Justice (DoJ) announced. Vladimir Dunaev, 40, was&nbsp; arrested &nbsp;in South Korea in September 2021 and extradited to the U.S. a month later. "Dunaev developed browser modifications and malicious tools that aided in credential harvesting and data mining from infected computers, facilitated and enhanced the remote access used by TrickBot actors, and created a program code to prevent the TrickBot malware from being detected by legitimate security software," the DoJ&nbsp; said . "During Dunaev's participation in the scheme, 10 victims in the Northern District of Ohio, including Avon schools and a North Canton real-estate company, were defrauded of more than $3.4 million via ransomware deployed by TrickBot." Dunaev, who pleaded guilty to committing computer fraud and identity theft and conspiracy to commit wire fraud and ban
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
