@@ -34,6 +34,230 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+60 US Credit Unions Offline After Cloud Ransomware Infection<a href="https://www.theregister.com/2023/12/02/ransomware_infection_credit_unions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The affected IT provider, Ongoing Operations, was infiltrated through the Citrix Bleed vulnerability, emphasizing the importance of robust cybersecurity measures and patching vulnerabilities promptly.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agent Racoon Backdoor Targets Organizations in Middle East, Africa, and U.S.<a href="https://thehackernews.com/2023/12/agent-racoon-backdoor-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations in the Middle East, Africa, and the U.S. have been targeted by an unknown threat actor to distribute a new backdoor called  Agent Racoon . "This malware family is written using the .NET framework and leverages the domain name service (DNS) protocol to create a covert channel and provide different backdoor functionalities," Palo Alto Networks Unit 42 researcher Chema Garcia  said  in a Friday analysis. Targets of the attacks span various sectors such as education, real estate, retail, non-profits, telecom, and governments. The activity has not been attributed to a known threat actor, although it's assessed to be a nation-state aligned owing to the victimology pattern and the detection and defense evasion techniques used. The cybersecurity firm is tracking the cluster under the moniker CL-STA-0002. It's currently not clear how these organizations were breached, and when the attacks took place. Some of the other tools deployed by the adversary include
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Expert Warns of Turtle macOS Ransomware<a href="https://securityaffairs.com/155075/security/turtleransom-macos-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the Turtle ransomware may not pose a significant risk to macOS users currently, its existence highlights the ongoing efforts by ransomware authors to target Apple devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 02, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hacker Vladimir Dunaev Convicted for Creating TrickBot Malware<a href="https://thehackernews.com/2023/12/russian-hacker-vladimir-dunaev.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian national has been found guilty in connection with his role in developing and deploying a malware known as TrickBot, the U.S. Department of Justice (DoJ) announced. Vladimir Dunaev, 40, was  arrested  in South Korea in September 2021 and extradited to the U.S. a month later. "Dunaev developed browser modifications and malicious tools that aided in credential harvesting and data mining from infected computers, facilitated and enhanced the remote access used by TrickBot actors, and created a program code to prevent the TrickBot malware from being detected by legitimate security software," the DoJ  said . "During Dunaev's participation in the scheme, 10 victims in the Northern District of Ohio, including Avon schools and a North Canton real-estate company, were defrauded of more than $3.4 million via ransomware deployed by TrickBot." Dunaev, who pleaded guilty to committing computer fraud and identity theft and conspiracy to commit wire fraud and ban
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surgical Practice Notifying 437,400 Patients of Data Theft<a href="https://www.bankinfosecurity.com/surgical-practice-notifying-437400-patients-data-theft-a-23753?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proliance Surgeons, a large Seattle-based surgical group, suffered a ransomware attack and data theft, potentially compromising the personal information of nearly 437,400 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 2, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: 23andMe Says Hackers Accessed ‘Significant Number’ of Files About Users’ Ancestry<a href="https://techcrunch.com/2023/12/01/23andme-says-hackers-accessed-significant-number-of-files-about-users-ancestry/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Genetic testing company 23andMe experienced a data breach, with hackers accessing around 14,000 customer accounts and potentially compromising the personal information of other users connected to those accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New FjordPhantom Android Malware Targets Banking Apps in Southeast Asia<a href="https://thehackernews.com/2023/12/new-fjordphantom-android-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a new sophisticated Android malware called  FjordPhantom  that has been observed targeting users in Southeast Asian countries like Indonesia, Thailand, and Vietnam since early September 2023. "Spreading primarily through messaging services, it combines app-based malware with social engineering to defraud banking customers," Oslo-based mobile app security firm Promon  said  in an analysis published Thursday. Propagated mainly via email, SMS, and messaging apps, attack chains trick recipients into downloading a purported banking app that comes fitted with legitimate features but also incorporates rogue components. Victims are then subjected to a social engineering technique akin to telephone-oriented attack delivery ( TOAD ), which involves calling a bogus call center to receive step-by-step instructions for running the app. A key characteristic of the malware that sets it apart from other banking trojans of its kind is the use of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qakbot Takedown Aftermath: Mitigations and Protecting Against Future Threats<a href="https://thehackernews.com/2023/12/qakbot-takedown-aftermath-mitigations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DOJ) and the FBI recently collaborated in a multinational operation to dismantle the notorious Qakbot malware and botnet. While the operation was successful in disrupting this long-running threat, concerns have arisen as it appears that Qakbot may still pose a danger in a reduced form. This article discusses the aftermath of the takedown, provides mitigation strategies, and offers guidance on determining past infections. The Takedown and Its Limitations During the takedown operation, law enforcement secured court orders to remove Qakbot malware from infected devices remotely. It was discovered that the malware had infected a substantial number of devices, with 700,000 machines globally, including 200,000 computers in the U.S., being compromised at the time of the takedown. However, recent reports suggest that Qakbot is still active but in a diminished state. The absence of arrests during the takedown operation indicates that only the command-and-cont
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XDSpy Hackers Attack Military-Industrial Companies in Russia<a href="https://therecord.media/xdspy-hackers-target-russian-military-industrial-companies?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+XDSpy has a history of targeting Russia's government, military, financial institutions, as well as energy, research, and mining companies, demonstrating a focus on strategic organizations in Eastern Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Using SugarGh0st RAT to Target South Korea and Uzbekistan<a href="https://thehackernews.com/2023/12/chinese-hackers-using-sugargh0st-rat-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A suspected Chinese-speaking threat actor has been attributed to a malicious campaign that targets the Uzbekistan Ministry of Foreign Affairs and South Korean users with a remote access trojan called  SugarGh0st RAT . The activity, which commenced no later than August 2023, leverages two different infection sequences to deliver the malware, which is a customized variant of  Gh0st RAT  (aka Farfli). It comes with features to "facilitate the remote administration tasks as directed by the C2 and modified communication protocol based on the similarity of the command structure and the strings used in the code," Cisco Talos researchers Ashley Shen and Chetan Raghuprasad  said . The attacks commence with a phishing email bearing decoy documents, opening which activates a multi-stage process that leads to the deployment of SugarGh0st RAT. The decoy documents are incorporated within a heavily obfuscated JavaScript dropper that's contained within a Windows Shortcut file embed
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Simple Hacking Technique can Extract ChatGPT Training Data<a href="https://www.darkreading.com/cyber-risk/researchers-simple-technique-extract-chatgpt-training-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Google DeepMind, Cornell University, and other institutions have discovered that the popular AI chatbot ChatGPT is susceptible to leaking data when prompted to repeat certain words.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 01, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discover How Gcore Thwarted Powerful 1.1Tbps and 1.6Tbps DDoS Attacks<a href="https://thehackernews.com/2023/12/discover-how-gcore-thwarted-powerful.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most recent  Gcore Radar report  and  its aftermath  have highlighted a dramatic increase in DDoS attacks across multiple industries. At the beginning of 2023, the average strength of attacks  reached 800 Gbps , but now, even a peak as high as 1.5+ Tbps is unsurprising. To try and break through Gcore's defenses, perpetrators made two attempts with two different strategies. Read on to discover what happened and learn how the security provider stopped the attackers in their tracks without affecting end users' experiences. A Powerful DDoS Attacks In November 2023, one of Gcore's customers from the gaming industry was targeted by two massive DDoS attacks, peaking at 1.1 and 1.6 Tbps respectively. The attackers deployed various techniques in an unsuccessful attempt to compromise Gcore's protective mechanisms. Attack #1: 1.1 Tbps UDP-based DDoS In the first cyber assault, the attackers sent a barrage of UDP traffic to a target server, peaking at 1.1 Tbps. Two methods were employed:
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlueVoyant Raises $140M, Buys Resilience Firm Conquest Cyber<a href="https://www.bankinfosecurity.com/bluevoyant-raises-140m-buys-resilience-firm-conquest-cyber-a-23722?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The integration of BlueVoyant and Conquest Cyber will provide customers with more self-service capabilities and autonomous operations through the use of AI, machine learning, and virtual data lakes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Use new Tool Set in Targeted Attacks Against Middle East, Africa and the US<a href="https://unit42.paloaltonetworks.com/new-toolset-targets-middle-east-africa-usa/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new set of tools, including a backdoor, a credential-stealing module, and a customized version of Mimikatz, has been used in targeted attacks against organizations in the Middle East, Africa, and the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 30, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
