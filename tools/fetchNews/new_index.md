@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2023
+December 2, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 60 US Credit Unions Offline After Cloud Ransomware Infection<a href="https://www.theregister.com/2023/12/02/ransomware_infection_credit_unions/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2023
+December 02, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Agent Racoon Backdoor Targets Organizations in Middle East, Africa, and U.S.<a href="https://thehackernews.com/2023/12/agent-racoon-backdoor-targets.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2023
+December 2, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Expert Warns of Turtle macOS Ransomware<a href="https://securityaffairs.com/155075/security/turtleransom-macos-ransomware.html?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 02, 2023
+December 02, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hacker Vladimir Dunaev Convicted for Creating TrickBot Malware<a href="https://thehackernews.com/2023/12/russian-hacker-vladimir-dunaev.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2023
+December 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Surgical Practice Notifying 437,400 Patients of Data Theft<a href="https://www.bankinfosecurity.com/surgical-practice-notifying-437400-patients-data-theft-a-23753?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 2, 2023
+December 2, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: 23andMe Says Hackers Accessed ‘Significant Number’ of Files About Users’ Ancestry<a href="https://techcrunch.com/2023/12/01/23andme-says-hackers-accessed-significant-number-of-files-about-users-ancestry/?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2023
+December 01, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New FjordPhantom Android Malware Targets Banking Apps in Southeast Asia<a href="https://thehackernews.com/2023/12/new-fjordphantom-android-malware.html"> Full Text</a>
@@ -146,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2023
+December 01, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Qakbot Takedown Aftermath: Mitigations and Protecting Against Future Threats<a href="https://thehackernews.com/2023/12/qakbot-takedown-aftermath-mitigations.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2023
+December 1, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XDSpy Hackers Attack Military-Industrial Companies in Russia<a href="https://therecord.media/xdspy-hackers-target-russian-military-industrial-companies?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2023
+December 01, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Using SugarGh0st RAT to Target South Korea and Uzbekistan<a href="https://thehackernews.com/2023/12/chinese-hackers-using-sugargh0st-rat-to.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2023
+December 1, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Simple Hacking Technique can Extract ChatGPT Training Data<a href="https://www.darkreading.com/cyber-risk/researchers-simple-technique-extract-chatgpt-training-data?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 01, 2023
+December 01, 2023 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Discover How Gcore Thwarted Powerful 1.1Tbps and 1.6Tbps DDoS Attacks<a href="https://thehackernews.com/2023/12/discover-how-gcore-thwarted-powerful.html"> Full Text</a>
@@ -226,9 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2023
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
+December 1, 2023 -- [Business](/docs/issues/business/business/)<br>
 BlueVoyant Raises $140M, Buys Resilience Firm Conquest Cyber<a href="https://www.bankinfosecurity.com/bluevoyant-raises-140m-buys-resilience-firm-conquest-cyber-a-23722?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -242,7 +240,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 1, 2023
+December 1, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Use new Tool Set in Targeted Attacks Against Middle East, Africa and the US<a href="https://unit42.paloaltonetworks.com/new-toolset-targets-middle-east-africa-usa/?&web_view=true"> Full Text</a>
