@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+December 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware Strikes Ho Chi Minh City Power Corporation<a href="https://thecyberexpress.com/vietnam-electricity-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ongoing attack spree by the BlackCat ransomware group extends beyond Vietnam Electricity, with social media platforms like Roblox and Twitch potentially being targeted next.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: New Relic Admits Attack on Staging Systems, User Accounts<a href="https://www.theregister.com/2023/12/04/new_relic_security_incident/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web tracking and analytics company New Relic has disclosed a cyberattack on its staging systems, which were compromised in mid-November by an unauthorized actor using stolen credentials and social engineering.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

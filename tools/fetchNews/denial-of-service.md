@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+December 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Discover How Gcore Thwarted Powerful 1.1Tbps and 1.6Tbps DDoS Attacks<a href="https://thehackernews.com/2023/12/discover-how-gcore-thwarted-powerful.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most recent&nbsp; Gcore Radar report &nbsp;and&nbsp; its aftermath &nbsp;have highlighted a dramatic increase in DDoS attacks across multiple industries. At the beginning of 2023, the average strength of attacks&nbsp; reached 800 Gbps , but now, even a peak as high as 1.5+ Tbps is unsurprising. To try and break through Gcore's defenses, perpetrators made two attempts with two different strategies. Read on to discover what happened and learn how the security provider stopped the attackers in their tracks without affecting end users' experiences. A Powerful DDoS Attacks In November 2023, one of Gcore's customers from the gaming industry was targeted by two massive DDoS attacks, peaking at 1.1 and 1.6 Tbps respectively. The attackers deployed various techniques in an unsuccessful attempt to compromise Gcore's protective mechanisms. Attack #1: 1.1 Tbps UDP-based DDoS In the first cyber assault, the attackers sent a barrage of UDP traffic to a target server, peaking at 1.1 Tbps. Two methods were employed:
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

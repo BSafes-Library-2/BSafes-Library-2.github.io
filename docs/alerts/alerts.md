@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 1, 2023 - Microsoft
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft has detected Danabot (Storm-1044) infections leading to hands-on-keyboard activity by ransomware operator Storm-0216  <a href="https://twitter.com/MsftSecIntel/status/1730383711437283757"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has detected Danabot (Storm-1044) infections leading to hands-on-keyboard activity by ransomware operator Storm-0216 (Twisted Spider, UNC2198), culminating in the deployment of Cactus ransomware. In this campaign, Danabot is distributed via malvertising.
+</details>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 28, 2023 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

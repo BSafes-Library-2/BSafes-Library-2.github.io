@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Make a Fresh Start for 2024: Clean Out Your User Inventory to Reduce SaaS Risk<a href="https://thehackernews.com/2023/12/make-fresh-start-for-2024-clean-out.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As work ebbs with the typical end-of-year slowdown, now is a good time to review user roles and privileges and remove anyone who shouldn't have access as well as trim unnecessary permissions. In addition to saving some unnecessary license fees, a clean user inventory significantly enhances the security of your SaaS applications. From reducing risk to protecting against data leakage, here is how you can start the new year with a clean user list.&nbsp; How Offboarded Users&nbsp; Still &nbsp;Have Access to Your Apps When employees leave a company, they trigger a series of changes to backend systems in their wake. First, they are removed from the company's identity provider (IdP), which kicks off an automated workflow that deactivates their email and removes access to all internal systems. When enterprises use an SSO (single sign-on), these former employees lose access to any online properties – including SaaS applications – that require SSO for login.&nbsp; However, that doesn't mean that former employee
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

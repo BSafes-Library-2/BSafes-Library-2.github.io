@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 01, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Qakbot Takedown Aftermath: Mitigations and Protecting Against Future Threats<a href="https://thehackernews.com/2023/12/qakbot-takedown-aftermath-mitigations.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DOJ) and the FBI recently collaborated in a multinational operation to dismantle the notorious Qakbot malware and botnet. While the operation was successful in disrupting this long-running threat, concerns have arisen as it appears that Qakbot may still pose a danger in a reduced form. This article discusses the aftermath of the takedown, provides mitigation strategies, and offers guidance on determining past infections. The Takedown and Its Limitations During the takedown operation, law enforcement secured court orders to remove Qakbot malware from infected devices remotely. It was discovered that the malware had infected a substantial number of devices, with 700,000 machines globally, including 200,000 computers in the U.S., being compromised at the time of the takedown. However, recent reports suggest that Qakbot is still active but in a diminished state. The absence of arrests during the takedown operation indicates that only the command-and-cont
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

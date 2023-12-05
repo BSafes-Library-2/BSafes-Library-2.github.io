@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Establishing New Rules for Cyber Warfare<a href="https://www.darkreading.com/cyberattacks-data-breaches/establishing-new-rules-cyber-warfare?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The International Committee of the Red Cross (ICRC) has released a set of rules for civilian hackers involved in cyber conflicts. The rules aim to clarify the line between civilians and combatants in cyberspace during times of war.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 02, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

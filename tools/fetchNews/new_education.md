@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 4, 2023 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bridging the Gap Between Cloud vs On-Premise Security<a href="https://www.helpnetsecurity.com/2023/12/01/cloud-based-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is crucial to maintain unified visibility, control, and management across both cloud-based and on-premise security measures to bridge the gap and create a comprehensive and future-proof security stack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
