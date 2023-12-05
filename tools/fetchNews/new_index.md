@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Establishing New Rules for Cyber Warfare<a href="https://www.darkreading.com/cyberattacks-data-breaches/establishing-new-rules-cyber-warfare?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The International Committee of the Red Cross (ICRC) has released a set of rules for civilian hackers involved in cyber conflicts. The rules aim to clarify the line between civilians and combatants in cyberspace during times of war.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New BLUFFS Bluetooth Attack Expose Devices to Adversary-in-the-Middle Attacks<a href="https://thehackernews.com/2023/12/new-bluffs-bluetooth-attack-expose.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has unearthed multiple novel attacks that break Bluetooth Classic's forward secrecy and future secrecy guarantees, resulting in adversary-in-the-middle (AitM) scenarios between two already connected peers. The issues, collectively named  BLUFFS , impact Bluetooth Core Specification 4.2 through 5.4. They are tracked under the identifier  CVE-2023-24023  (CVSS score: 6.8) and were responsibly disclosed in October 2022. The attacks "enable device impersonation and machine-in-the-middle across sessions by only compromising one session key," EURECOM researcher Daniele Antonioli said in a study published late last month. This is made possible by leveraging two new flaws in the Bluetooth standard's session key derivation mechanism that allow the derivation of the same key across sessions. While forward secrecy in key-agreement cryptographic protocols ensures that past communications are not revealed, even if the private keys to a particular exchange are re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCat Ransomware Strikes Ho Chi Minh City Power Corporation<a href="https://thecyberexpress.com/vietnam-electricity-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ongoing attack spree by the BlackCat ransomware group extends beyond Vietnam Electricity, with social media platforms like Roblox and Twitch potentially being targeted next.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Make a Fresh Start for 2024: Clean Out Your User Inventory to Reduce SaaS Risk<a href="https://thehackernews.com/2023/12/make-fresh-start-for-2024-clean-out.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As work ebbs with the typical end-of-year slowdown, now is a good time to review user roles and privileges and remove anyone who shouldn't have access as well as trim unnecessary permissions. In addition to saving some unnecessary license fees, a clean user inventory significantly enhances the security of your SaaS applications. From reducing risk to protecting against data leakage, here is how you can start the new year with a clean user list.  How Offboarded Users  Still  Have Access to Your Apps When employees leave a company, they trigger a series of changes to backend systems in their wake. First, they are removed from the company's identity provider (IdP), which kicks off an automated workflow that deactivates their email and removes access to all internal systems. When enterprises use an SSO (single sign-on), these former employees lose access to any online properties – including SaaS applications – that require SSO for login.  However, that doesn't mean that former employee
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than 1,500 Hugging Face API Tokens Exposed, Major Projects Vulnerable<a href="https://www.theregister.com/2023/12/04/exposed_hugging_face_api_tokens/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed API tokens had write permissions, allowing attackers to modify files in account repositories and potentially manipulate existing models, posing a significant threat to organizations and their applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New P2PInfect Botnet MIPS Variant Targeting Routers and IoT Devices<a href="https://thehackernews.com/2023/12/new-p2pinfect-botnet-mips-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new variant of an emerging botnet called  P2PInfect  that's capable of targeting routers and IoT devices. The latest version, per Cado Security Labs, is compiled for Microprocessor without Interlocked Pipelined Stages ( MIPS ) architecture, broadening its capabilities and reach. "It's highly likely that by targeting MIPS, the P2PInfect developers intend to infect routers and IoT devices with the malware," security researcher Matt Muir  said  in a report shared with The Hacker News. P2PInfect, a Rust-based malware, was  first   disclosed  back in July 2023, targeting unpatched Redis instances by exploiting a critical Lua sandbox escape vulnerability ( CVE-2022-0543 , CVSS score: 10.0) for initial access. A subsequent analysis from the cloud security firm in September  revealed  a surge in P2PInfect activity, coinciding with the release of iterative variants of the malware. The new artifacts, besides attempting to condu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Depauw University Warns of Data Breach as Ransomware Attacks on Colleges Surge<a href="https://therecord.media/depauw-university-warns-of-data-breach-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack on DePauw University was conducted by the Black Suit ransomware gang, highlighting the increasing trend of ransomware attacks targeting educational institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LogoFAIL: UEFI Vulnerabilities Expose Devices to Stealth Malware Attacks<a href="https://thehackernews.com/2023/12/logofail-uefi-vulnerabilities-expose.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Unified Extensible Firmware Interface ( UEFI ) code from various independent firmware/BIOS vendors (IBVs) has been found vulnerable to potential attacks through high-impact flaws in image parsing libraries embedded into the firmware. The shortcomings, collectively labeled  LogoFAIL  by Binarly, "can be used by threat actors to deliver a malicious payload and bypass Secure Boot, Intel Boot Guard, and other security technologies by design." Furthermore, they can be weaponized to bypass security solutions and deliver persistent malware to compromised systems during the boot phase by injecting a malicious logo image file into the  EFI system partition . While the issues are not silicon-specific, meaning they impact both x86 and ARM-based devices, they are also UEFI and IBV-specific. The vulnerabilities comprise a heap-based buffer overflow flaw and an out-of-bounds read, details of which are expected to be made public later this week at the  Black Hat Europe conference .
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Variant of P2Pinfect Targets MIPS Devices Including Routers and IoT Devices<a href="https://www.cadosecurity.com/p2pinfect-new-variant-targets-mips-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new variant includes updated evasion techniques, such as Virtual Machine detection, debugger detection, and anti-forensics measures on Linux hosts, making it more difficult for researchers to analyze.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 04, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Malvertising Scheme Spreading CACTUS Ransomware<a href="https://thehackernews.com/2023/12/microsoft-warns-of-malvertising-scheme.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has warned of a new wave of CACTUS ransomware attacks that leverage malvertising lures to deploy DanaBot as an initial access vector. The DanaBot infections led to "hands-on-keyboard activity by ransomware operator Storm-0216 (Twisted Spider, UNC2198), culminating in the deployment of CACTUS ransomware," the Microsoft Threat Intelligence team  said  in a series of posts on X (formerly Twitter). DanaBot , tracked by the tech giant as Storm-1044, is a multi-functional tool along the lines of Emotet, TrickBot, QakBot, and IcedID that's capable of acting as a stealer and a point of entry for next-stage payloads. UNC2198, for its part, has been previously observed infecting endpoints with IcedID to deploy ransomware families such as Maze and Egregor, as  detailed  by Google-owned Mandiant in February 2021. Per Microsoft, the threat actor has also taken advantage of initial access provided by QakBot infections. The shift to DanaBot, therefore, is likely the resu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Astrology Website WeMystic Exposes Over 13 Million User Records<a href="https://securityaffairs.com/155102/security/wemystic-website-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The astrology and spiritual content platform WeMystic exposed the sensitive data of its users, including names, email addresses, and dates of birth, due to an open and passwordless MongoDB database.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bridging the Gap Between Cloud vs On-Premise Security<a href="https://www.helpnetsecurity.com/2023/12/01/cloud-based-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It is crucial to maintain unified visibility, control, and management across both cloud-based and on-premise security measures to bridge the gap and create a comprehensive and future-proof security stack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: New Relic Admits Attack on Staging Systems, User Accounts<a href="https://www.theregister.com/2023/12/04/new_relic_security_incident/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web tracking and analytics company New Relic has disclosed a cyberattack on its staging systems, which were compromised in mid-November by an unauthorized actor using stolen credentials and social engineering.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 2, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
