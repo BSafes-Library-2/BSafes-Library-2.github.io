@@ -34,7 +34,199 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2023
+December 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida Water Agency Latest to Confirm Cyber Incident as Feds Warn of Nation-State Attacks<a href="https://therecord.media/florida-water-agency-ransomware-cisa-warning-utilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The St. Johns River Water Management District in Florida has confirmed that it responded to a cyberattack last week, amid warnings from top cybersecurity agencies about foreign attacks on water utilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning for iPhone Users: Experts Warn of Sneaky Fake Lockdown Mode Attack<a href="https://thehackernews.com/2023/12/warning-for-iphone-users-experts-warn.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new "post-exploitation tampering technique" can be abused by malicious actors to visually deceive a target into believing that their Apple iPhone is running in Lockdown Mode when it's actually not and carry out covert attacks. The novel method, detailed by Jamf Threat Labs in a  report  shared with The Hacker News, "shows that if a hacker has already infiltrated your device, they can cause Lockdown Mode to be 'bypassed' when you trigger its activation." In other words, the goal is to implement Fake Lockdown Mode on a device that's compromised by an attacker through other means, such as  unpatched security flaws  that can trigger execution of arbitrary code. Lockdown Mode , introduced by Apple last year with iOS 16, is an  enhanced security measure  that aims to safeguard high-risk individuals from sophisticated digital threats such as mercenary spyware by  minimizing the attack surface . What it doesn't do is prevent the execution of mali
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-Linked Hackers Claim to Leak Troves of Documents From Israeli Hospital<a href="https://therecord.media/ziv-hospital-israel-hackers-claim-to-leak-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker group allegedly linked to Iran, known as Malek Team, has claimed responsibility for a cyberattack on an Israeli hospital, resulting in the leak of thousands of medical records, including those of Israeli soldiers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia's AI-Powered Disinformation Operation Targeting Ukraine, U.S., and Germany<a href="https://thehackernews.com/2023/12/russias-ai-powered-disinformation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked influence operation called Doppelganger has targeted Ukrainian, U.S., and German audiences through a combination of inauthentic news sites and social media accounts. These campaigns are designed to amplify content designed to undermine Ukraine as well as propagate anti-LGBTQ+ sentiment, U.S. military competence, and Germany's economic and social issues, according to a new report shared with The Hacker News. Doppelganger ,  described  by Meta as the "largest and the most aggressively-persistent Russian-origin operation," is a  pro-Russian network  known for spreading anti-Ukrainian propaganda. Active since at least February 2022, it has been linked to two companies named Structura National Technologies and Social Design Agency. Activities associated with the influence operation are known to leverage manufactured websites as well as those impersonating authentic media – a technique called brandjacking – to disseminate adversarial narratives. The late
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+International Dog Breeding Organization WALA Exposes 25GB of Pet Owners' Data<a href="https://www.hackread.com/dog-breeding-org-wala-exposes-pet-owners-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach exposes the global customer base of WALA to potential threats like phishing attacks and financial scams, emphasizing the need for affected parties to monitor their financial accounts and implement additional security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Generative AI Security: Preventing Microsoft Copilot Data Exposure<a href="https://thehackernews.com/2023/12/generative-ai-security-preventing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Copilot has been called one of the most powerful productivity tools on the planet. Copilot is an AI assistant that lives inside each of your Microsoft 365 apps — Word, Excel, PowerPoint, Teams, Outlook, and so on. Microsoft's dream is to take the drudgery out of daily work and let humans focus on being creative problem-solvers. What makes Copilot a different beast than ChatGPT and other AI tools is that it has access to everything you've ever worked on in 365. Copilot can instantly search and compile data from across your documents, presentations, email, calendar, notes, and contacts. And therein lies the problem for information security teams. Copilot can access all the sensitive data that a user can access, which is often far too much. On average, 10% of a company's M365 data is open to all employees. Copilot can also rapidly generate  net new  sensitive data that must be protected. Prior to the AI revolution, humans' ability to create and share data
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OPM Launches Cyber Rotational Program for Feds<a href="https://www.nextgov.com/cybersecurity/2023/12/opm-launches-cyber-rotational-program-feds/392446/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OPM has launched a new Federal Rotational Cyber Workforce Program, allowing cybersecurity employees in the federal government to apply for rotational opportunities at other agencies to enhance their skills and defend against evolving threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+15,000 Go Module Repositories on GitHub Vulnerable to Repojacking Attack<a href="https://thehackernews.com/2023/12/15000-go-module-repositories-on-github.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has found that over 15,000 Go module repositories on GitHub are vulnerable to an attack called repojacking. "More than 9,000 repositories are vulnerable to repojacking due to GitHub username changes," Jacob Baines, chief technology officer at VulnCheck,  said  in a report shared with The Hacker News. "More than 6,000 repositories were vulnerable to repojacking due to account deletion." Collectively, these repositories account for no less than 800,000 Go module-versions. Repojacking , a portmanteau of "repository" and "hijacking," is an attack technique that allows a bad actor to take advantage of account username changes and deletions to create a repository with the same name and the pre-existing username to stage open-source software supply chain attacks. Earlier this June, cloud security firm Aqua  revealed  that millions of software repositories on GitHub are likely vulnerable to the threat, urging organizations that undergo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accounting Software Giant Tipalti Investigating Ransomware Attack<a href="https://www.cybersecuritydive.com/news/tipalti-investigates-ransomware-supply-chain-attack/701516/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ALHV, a prolific ransomware group, allegedly gained persistent access to multiple Tipalti systems and stole over 265GB of data, with claims of insider involvement in the attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat Actor 'AeroBlade' Emerges in Espionage Attack on U.S. Aerospace<a href="https://thehackernews.com/2023/12/new-threat-actor-aeroblade-emerges-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented threat actor has been linked to a cyber attack targeting an aerospace organization in the U.S. as part of what's suspected to be a cyber espionage mission. The BlackBerry Threat Research and Intelligence team is tracking the activity cluster as  AeroBlade . Its origin is currently unknown and it's not clear if the attack was successful. "The actor used spear-phishing as a delivery mechanism: A weaponized document, sent as an email attachment, contains an embedded remote template injection technique and a malicious VBA macro code, to deliver the next stage to the final payload execution," the company  said  in an analysis published last week. The network infrastructure used for the attack is said to have gone live around September 2022, with the offensive phase of the intrusion occurring nearly a year later in July 2023, but not before the adversary took steps to improvise its toolset to make it more stealthy in the intervening time perio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hershey phishes! Crooks snarf chocolate lovers' creds<a href="https://www.theregister.com/2023/12/04/hershey_phishes_data_breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing emails were sent to employees in early September and allowed the criminals to steal a range of personal data, including names, health and medical information, credit card numbers, and online account credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 05, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Kremlin-Backed APT28 Exploiting Critical Outlook Vulnerability<a href="https://thehackernews.com/2023/12/microsoft-warns-of-kremlin-backed-apt28.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday said it detected Kremlin-backed nation-state activity exploiting a now-patched critical security flaw in its Outlook email service to gain unauthorized access to victims' accounts within Exchange servers. The tech giant  attributed  the intrusions to a threat actor it called  Forest Blizzard  (formerly Strontium), which is also widely tracked under the monikers APT28, BlueDelta, Fancy Bear, FROZENLAKE, Iron Twilight, Sednit, Sofacy, and TA422. The security vulnerability in question is  CVE-2023-23397  (CVSS score: 9.8), a critical privilege escalation bug that could allow an adversary to access a user's Net-NTLMv2 hash that could then be used to conduct a relay attack against another service to authenticate as the user. It was patched by Microsoft in March 2023. The goal, according to the Polish Cyber Command (DKWOC), is to obtain unauthorized access to mailboxes belonging to public and private entities in the country. "In the next stage of malici
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 4, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Establishing New Rules for Cyber Warfare<a href="https://www.darkreading.com/cyberattacks-data-breaches/establishing-new-rules-cyber-warfare?&web_view=true"> Full Text</a>
@@ -50,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 04, 2023
+December 04, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New BLUFFS Bluetooth Attack Expose Devices to Adversary-in-the-Middle Attacks<a href="https://thehackernews.com/2023/12/new-bluffs-bluetooth-attack-expose.html"> Full Text</a>
@@ -66,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2023
+December 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackCat Ransomware Strikes Ho Chi Minh City Power Corporation<a href="https://thecyberexpress.com/vietnam-electricity-data-breach/?&web_view=true"> Full Text</a>
@@ -82,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 04, 2023
+December 04, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Make a Fresh Start for 2024: Clean Out Your User Inventory to Reduce SaaS Risk<a href="https://thehackernews.com/2023/12/make-fresh-start-for-2024-clean-out.html"> Full Text</a>
@@ -98,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2023
+December 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Than 1,500 Hugging Face API Tokens Exposed, Major Projects Vulnerable<a href="https://www.theregister.com/2023/12/04/exposed_hugging_face_api_tokens/?&web_view=true"> Full Text</a>
@@ -114,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 04, 2023
+December 04, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New P2PInfect Botnet MIPS Variant Targeting Routers and IoT Devices<a href="https://thehackernews.com/2023/12/new-p2pinfect-botnet-mips-variant.html"> Full Text</a>
@@ -130,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2023
+December 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Depauw University Warns of Data Breach as Ransomware Attacks on Colleges Surge<a href="https://therecord.media/depauw-university-warns-of-data-breach-ransomware-attack?&web_view=true"> Full Text</a>
@@ -146,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 04, 2023
+December 04, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LogoFAIL: UEFI Vulnerabilities Expose Devices to Stealth Malware Attacks<a href="https://thehackernews.com/2023/12/logofail-uefi-vulnerabilities-expose.html"> Full Text</a>
@@ -162,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2023
+December 4, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Variant of P2Pinfect Targets MIPS Devices Including Routers and IoT Devices<a href="https://www.cadosecurity.com/p2pinfect-new-variant-targets-mips-devices/?&web_view=true"> Full Text</a>
@@ -178,7 +370,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 04, 2023
+December 04, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Malvertising Scheme Spreading CACTUS Ransomware<a href="https://thehackernews.com/2023/12/microsoft-warns-of-malvertising-scheme.html"> Full Text</a>
@@ -194,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2023
+December 4, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Astrology Website WeMystic Exposes Over 13 Million User Records<a href="https://securityaffairs.com/155102/security/wemystic-website-data-leak.html?&web_view=true"> Full Text</a>
@@ -210,7 +402,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2023
+December 4, 2023 -- [Education](/docs/issues/education/education/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bridging the Gap Between Cloud vs On-Premise Security<a href="https://www.helpnetsecurity.com/2023/12/01/cloud-based-security/?&web_view=true"> Full Text</a>
@@ -226,7 +418,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 4, 2023
+December 4, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: New Relic Admits Attack on Staging Systems, User Accounts<a href="https://www.theregister.com/2023/12/04/new_relic_security_incident/?&web_view=true"> Full Text</a>
