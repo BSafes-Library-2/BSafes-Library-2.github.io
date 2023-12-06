@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2023
+December 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Florida Water Agency Latest to Confirm Cyber Incident as Feds Warn of Nation-State Attacks<a href="https://therecord.media/florida-water-agency-ransomware-cisa-warning-utilities?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 05, 2023
+December 05, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning for iPhone Users: Experts Warn of Sneaky Fake Lockdown Mode Attack<a href="https://thehackernews.com/2023/12/warning-for-iphone-users-experts-warn.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2023
+December 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-Linked Hackers Claim to Leak Troves of Documents From Israeli Hospital<a href="https://therecord.media/ziv-hospital-israel-hackers-claim-to-leak-data?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 05, 2023
+December 05, 2023 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia's AI-Powered Disinformation Operation Targeting Ukraine, U.S., and Germany<a href="https://thehackernews.com/2023/12/russias-ai-powered-disinformation.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2023
+December 5, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 International Dog Breeding Organization WALA Exposes 25GB of Pet Owners' Data<a href="https://www.hackread.com/dog-breeding-org-wala-exposes-pet-owners-data/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 05, 2023
+December 05, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Generative AI Security: Preventing Microsoft Copilot Data Exposure<a href="https://thehackernews.com/2023/12/generative-ai-security-preventing.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2023
+December 5, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OPM Launches Cyber Rotational Program for Feds<a href="https://www.nextgov.com/cybersecurity/2023/12/opm-launches-cyber-rotational-program-feds/392446/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 05, 2023
+December 05, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 15,000 Go Module Repositories on GitHub Vulnerable to Repojacking Attack<a href="https://thehackernews.com/2023/12/15000-go-module-repositories-on-github.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2023
+December 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Accounting Software Giant Tipalti Investigating Ransomware Attack<a href="https://www.cybersecuritydive.com/news/tipalti-investigates-ransomware-supply-chain-attack/701516/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 05, 2023
+December 05, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Threat Actor 'AeroBlade' Emerges in Espionage Attack on U.S. Aerospace<a href="https://thehackernews.com/2023/12/new-threat-actor-aeroblade-emerges-in.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 5, 2023
+December 5, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hershey phishes! Crooks snarf chocolate lovers' creds<a href="https://www.theregister.com/2023/12/04/hershey_phishes_data_breach/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 05, 2023
+December 05, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Kremlin-Backed APT28 Exploiting Critical Outlook Vulnerability<a href="https://thehackernews.com/2023/12/microsoft-warns-of-kremlin-backed-apt28.html"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New P2PInfect Botnet MIPS Variant Targeting Routers and IoT Devices<a href="https://thehackernews.com/2023/12/new-p2pinfect-botnet-mips-variant.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new variant of an emerging botnet called&nbsp; P2PInfect &nbsp;that's capable of targeting routers and IoT devices. The latest version, per Cado Security Labs, is compiled for Microprocessor without Interlocked Pipelined Stages ( MIPS ) architecture, broadening its capabilities and reach. "It's highly likely that by targeting MIPS, the P2PInfect developers intend to infect routers and IoT devices with the malware," security researcher Matt Muir&nbsp; said &nbsp;in a report shared with The Hacker News. P2PInfect, a Rust-based malware, was&nbsp; first &nbsp; disclosed &nbsp;back in July 2023, targeting unpatched Redis instances by exploiting a critical Lua sandbox escape vulnerability ( CVE-2022-0543 , CVSS score: 10.0) for initial access. A subsequent analysis from the cloud security firm in September&nbsp; revealed &nbsp;a surge in P2PInfect activity, coinciding with the release of iterative variants of the malware. The new artifacts, besides attempting to condu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

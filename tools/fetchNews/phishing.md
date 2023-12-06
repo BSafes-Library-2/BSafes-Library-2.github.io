@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 04, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Malvertising Scheme Spreading CACTUS Ransomware<a href="https://thehackernews.com/2023/12/microsoft-warns-of-malvertising-scheme.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has warned of a new wave of CACTUS ransomware attacks that leverage malvertising lures to deploy DanaBot as an initial access vector. The DanaBot infections led to "hands-on-keyboard activity by ransomware operator Storm-0216 (Twisted Spider, UNC2198), culminating in the deployment of CACTUS ransomware," the Microsoft Threat Intelligence team&nbsp; said &nbsp;in a series of posts on X (formerly Twitter). DanaBot , tracked by the tech giant as Storm-1044, is a multi-functional tool along the lines of Emotet, TrickBot, QakBot, and IcedID that's capable of acting as a stealer and a point of entry for next-stage payloads. UNC2198, for its part, has been previously observed infecting endpoints with IcedID to deploy ransomware families such as Maze and Egregor, as&nbsp; detailed &nbsp;by Google-owned Mandiant in February 2021. Per Microsoft, the threat actor has also taken advantage of initial access provided by QakBot infections. The shift to DanaBot, therefore, is likely the resu
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

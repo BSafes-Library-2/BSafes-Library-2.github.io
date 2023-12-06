@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+December 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-Linked Hackers Claim to Leak Troves of Documents From Israeli Hospital<a href="https://therecord.media/ziv-hospital-israel-hackers-claim-to-leak-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A hacker group allegedly linked to Iran, known as Malek Team, has claimed responsibility for a cyberattack on an Israeli hospital, resulting in the leak of thousands of medical records, including those of Israeli soldiers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+International Dog Breeding Organization WALA Exposes 25GB of Pet Owners' Data<a href="https://www.hackread.com/dog-breeding-org-wala-exposes-pet-owners-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach exposes the global customer base of WALA to potential threats like phishing attacks and financial scams, emphasizing the need for affected parties to monitor their financial accounts and implement additional security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

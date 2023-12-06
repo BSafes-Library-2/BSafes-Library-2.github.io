@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hershey phishes! Crooks snarf chocolate lovers' creds<a href="https://www.theregister.com/2023/12/04/hershey_phishes_data_breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing emails were sent to employees in early September and allowed the criminals to steal a range of personal data, including names, health and medical information, credit card numbers, and online account credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

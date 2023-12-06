@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+December 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Florida Water Agency Latest to Confirm Cyber Incident as Feds Warn of Nation-State Attacks<a href="https://therecord.media/florida-water-agency-ransomware-cisa-warning-utilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The St. Johns River Water Management District in Florida has confirmed that it responded to a cyberattack last week, amid warnings from top cybersecurity agencies about foreign attacks on water utilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 5, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accounting Software Giant Tipalti Investigating Ransomware Attack<a href="https://www.cybersecuritydive.com/news/tipalti-investigates-ransomware-supply-chain-attack/701516/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ALHV, a prolific ransomware group, allegedly gained persistent access to multiple Tipalti systems and stole over 265GB of data, with claims of insider involvement in the attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat Actor 'AeroBlade' Emerges in Espionage Attack on U.S. Aerospace<a href="https://thehackernews.com/2023/12/new-threat-actor-aeroblade-emerges-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented threat actor has been linked to a cyber attack targeting an aerospace organization in the U.S. as part of what's suspected to be a cyber espionage mission. The BlackBerry Threat Research and Intelligence team is tracking the activity cluster as&nbsp; AeroBlade . Its origin is currently unknown and it's not clear if the attack was successful. "The actor used spear-phishing as a delivery mechanism: A weaponized document, sent as an email attachment, contains an embedded remote template injection technique and a malicious VBA macro code, to deliver the next stage to the final payload execution," the company&nbsp; said &nbsp;in an analysis published last week. The network infrastructure used for the attack is said to have gone live around September 2022, with the offensive phase of the intrusion occurring nearly a year later in July 2023, but not before the adversary took steps to improvise its toolset to make it more stealthy in the intervening time perio
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

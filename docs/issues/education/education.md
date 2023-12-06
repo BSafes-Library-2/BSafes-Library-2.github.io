@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Generative AI Security: Preventing Microsoft Copilot Data Exposure<a href="https://thehackernews.com/2023/12/generative-ai-security-preventing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft Copilot has been called one of the most powerful productivity tools on the planet. Copilot is an AI assistant that lives inside each of your Microsoft 365 apps — Word, Excel, PowerPoint, Teams, Outlook, and so on. Microsoft's dream is to take the drudgery out of daily work and let humans focus on being creative problem-solvers. What makes Copilot a different beast than ChatGPT and other AI tools is that it has access to everything you've ever worked on in 365. Copilot can instantly search and compile data from across your documents, presentations, email, calendar, notes, and contacts. And therein lies the problem for information security teams. Copilot can access all the sensitive data that a user can access, which is often far too much. On average, 10% of a company's M365 data is open to all employees. Copilot can also rapidly generate&nbsp; net new &nbsp;sensitive data that must be protected. Prior to the AI revolution, humans' ability to create and share data
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2023 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

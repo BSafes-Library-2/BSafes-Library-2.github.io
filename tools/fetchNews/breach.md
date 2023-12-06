@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+December 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than 1,500 Hugging Face API Tokens Exposed, Major Projects Vulnerable<a href="https://www.theregister.com/2023/12/04/exposed_hugging_face_api_tokens/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed API tokens had write permissions, allowing attackers to modify files in account repositories and potentially manipulate existing models, posing a significant threat to organizations and their applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Depauw University Warns of Data Breach as Ransomware Attacks on Colleges Surge<a href="https://therecord.media/depauw-university-warns-of-data-breach-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack on DePauw University was conducted by the Black Suit ransomware gang, highlighting the increasing trend of ransomware attacks targeting educational institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 4, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Astrology Website WeMystic Exposes Over 13 Million User Records<a href="https://securityaffairs.com/155102/security/wemystic-website-data-leak.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The astrology and spiritual content platform WeMystic exposed the sensitive data of its users, including names, email addresses, and dates of birth, due to an open and passwordless MongoDB database.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
