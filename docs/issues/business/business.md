@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mine Digs up $30M for Its No-Code Approach to Vetting Data Privacy<a href="https://techcrunch.com/2023/12/05/mine-digs-up-30m-for-its-no-code-approach-to-vetting-data-privacy/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Battery Ventures and PayPal Ventures are co-leading this round, with participation also from Nationwide Ventures and all its previous backers, including Saban Ventures, Gradient Ventures, MassMutual Ventures, and Headline Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 1, 2023 <br>
 BlueVoyant Raises $140M, Buys Resilience Firm Conquest Cyber<a href="https://www.bankinfosecurity.com/bluevoyant-raises-140m-buys-resilience-firm-conquest-cyber-a-23722?&amp;web_view=true"> Full Text</a>
 <p></p>

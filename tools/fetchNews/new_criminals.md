@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 6, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Andariel Hackers Steal South Korean Anti-Aircraft Data<a href="https://www.bankinfosecurity.com/north-korean-hackers-steal-south-korean-anti-aircraft-data-a-23779?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seoul police have seized the servers and virtual asset exchanges used by Andariel, arrested the person involved in transferring ransomware funds, and advised organizations to strengthen their cybersecurity measures to prevent future attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

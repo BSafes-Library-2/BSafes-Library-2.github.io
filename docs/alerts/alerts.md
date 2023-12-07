@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 5, 2023 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Advisory on Threat Actors Exploiting CVE-2023-26360 Vulnerability in Adobe ColdFusion  <a href="https://www.cisa.gov/news-events/alerts/2023/12/05/cisa-releases-advisory-threat-actors-exploiting-cve-2023-26360-vulnerability-adobe-coldfusion"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Today, CISA released a Cybersecurity Advisory (CSA), Threat Actors Exploit Adobe ColdFusion CVE-2023-26360 for Initial Access to Government Servers, to disseminate known indicators of compromise (IOCs) and tactics, techniques, and procedures (TTPs). The vulnerability in ColdFusion (CVE-2023-26360) presents as an improper access control issue and exploitation of this CVE can result in arbitrary code execution.
+</details>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 1, 2023 - Microsoft
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

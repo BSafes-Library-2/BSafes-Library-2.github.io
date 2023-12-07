@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Andariel Hackers Steal South Korean Anti-Aircraft Data<a href="https://www.bankinfosecurity.com/north-korean-hackers-steal-south-korean-anti-aircraft-data-a-23779?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seoul police have seized the servers and virtual asset exchanges used by Andariel, arrested the person involved in transferring ransomware funds, and advised organizations to strengthen their cybersecurity measures to prevent future attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Threat Actors Can Leverage AWS STS to Infiltrate Cloud Accounts<a href="https://thehackernews.com/2023/12/alert-threat-actors-can-leverage-aws.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors can take advantage of Amazon Web Services Security Token Service (AWS STS) as a way to infiltrate cloud accounts and conduct follow-on attacks. The service enables threat actors to impersonate user identities and roles in cloud environments, Red Canary researchers Thomas Gardner and Cody Betsworth  said  in a Tuesday analysis. AWS STS is a  web service  that enables users to request temporary, limited-privilege credentials for users to access AWS resources without needing to create an AWS identity. These STS tokens can be valid  anywhere from 15 minutes to 36 hours . Threat actors can steal long-term IAM tokens through a variety of methods like malware infections, publicly exposed credentials, and phishing emails, subsequently using them to determine roles and privileges associated with those tokens via API calls. "Depending on the token's permission level, adversaries may also be able to use it to create additional IAM users with long-term AKIA tokens to e
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mine Digs up $30M for Its No-Code Approach to Vetting Data Privacy<a href="https://techcrunch.com/2023/12/05/mine-digs-up-30m-for-its-no-code-approach-to-vetting-data-privacy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Battery Ventures and PayPal Ventures are co-leading this round, with participation also from Nationwide Ventures and all its previous backers, including Saban Ventures, Gradient Ventures, MassMutual Ventures, and Headline Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report: Unveiling the Threat of Malicious Browser Extensions<a href="https://thehackernews.com/2023/12/new-report-unveiling-threat-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compromising the browser is a high-return target for adversaries. Browser extensions, which are small software modules that are added to the browser and can enhance browsing experiences, have become a popular browser attack vector. This is because they are widely adopted among users and can easily turn malicious through developer actions or attacks on legitimate extensions. Recent incidents like  DataSpii  and the  Nigelthorn  malware attack have exposed the extent of damage that malicious extensions can inflict. In both cases, users innocently installed extensions that compromised their privacy and security. The underlying issue lies in the permissions granted to extensions. These permissions, often excessive and lacking granularity, allow attackers to exploit them. What can organizations do to protect themselves from the risks of browser extensions without barring them from use altogether (an act that would be nearly impossible to enforce)?  A new report by LayerX, "Unveiling the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Post-Exploitation Tampering Technique can be Used to Simulate Fake Lockdown Mode on iPhones<a href="https://www.jamf.com/blog/fake-lockdown-mode/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers can manipulate Lockdown Mode to provide visual cues of activation without actually implementing any protections. Lockdown Mode should not be relied upon as a comprehensive security measure and users should be aware of its limitations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sierra:21 - Flaws in Sierra Wireless Routers Expose Critical Sectors to Cyber Attacks<a href="https://thehackernews.com/2023/12/sierra21-flaws-in-sierra-wireless.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A collection of 21 security flaws have been discovered in Sierra Wireless AirLink cellular routers and open-source software components like  TinyXML  and  OpenNDS . Collectively tracked as  Sierra:21 , the issues expose over 86,000 devices across critical sectors like energy, healthcare, waste management, retail, emergency services, and vehicle tracking to cyber threats, according to Forescout Vedere Labs. A majority of these devices are located in the U.S., Canada, Australia, France, and Thailand. "These vulnerabilities may allow attackers to steal credentials, take control of a router by injecting malicious code, persist on the device and use it as an initial access point into critical networks," the industrial cybersecurity company  said  in a new analysis. Of the 21 vulnerabilities, one is rated critical, nine are rated high, and 11 are rated medium in severity. This includes remote code execution (RCE), cross-site scripting (XSS), denial-of-service (DoS), unauthori
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 6, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpyLoan Android Malware Targets Users in Southeast Asia, Africa, and Latin America<a href="https://www.welivesecurity.com/en/eset-research/beware-predatory-fintech-loan-sharks-use-android-apps-reach-new-depths/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These apps trick users into providing sensitive personal and financial information, which is then used to blackmail them. The apps focus on users in Southeast Asia, Africa, and Latin America.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scaling Security Operations with Automation<a href="https://thehackernews.com/2023/12/scaling-security-operations-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an increasingly complex and fast-paced digital landscape, organizations strive to protect themselves from various security threats. However, limited resources often hinder security teams when combatting these threats, making it difficult to keep up with the growing number of security incidents and alerts. Implementing automation throughout security operations helps security teams alleviate these challenges by streamlining repetitive tasks, reducing the risk of human error, and allowing them to focus on higher-value initiatives. While automation offers significant benefits, there is no foolproof method or process to guarantee success. Clear definitions, consistent implementation, and standardized processes are crucial for optimal results. Without guidelines, manual and time-consuming methods can undermine the effectiveness of automation.  This blog explores the challenges faced by security operations teams when implementing automation and the practical steps needed to build a stro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploited ColdFusion Vulnerability to Breach Federal Agency Servers<a href="https://thehackernews.com/2023/12/hackers-exploited-coldfusion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned of active exploitation of a  high-severity Adobe ColdFusion vulnerability  by unidentified threat actors to gain initial access to government servers. "The vulnerability in ColdFusion (CVE-2023-26360) presents as an improper access control issue and exploitation of this CVE can result in arbitrary code execution," CISA  said , adding an unnamed federal agency was targeted between June and July 2023. The shortcoming affects ColdFusion 2018 (Update 15 and earlier versions) and ColdFusion 2021 (Update 5 and earlier versions). It has been addressed in versions Update 16 and Update 6, released on March 14, 2023, respectively. It was added by CISA to the Known Exploited Vulnerabilities (KEV) catalog a day later, citing evidence of active exploitation in the wild. Adobe, in an advisory released around that time, said it's aware of the flaw being "exploited in the wild in very limited attacks."
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 06, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Releases Critical Software Fixes to Prevent Remote Code Execution<a href="https://thehackernews.com/2023/12/atlassian-releases-critical-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atlassian has released software fixes to address  four critical flaws  in its software that, if successfully exploited, could result in remote code execution. The list of vulnerabilities is below - CVE-2022-1471  (CVSS score: 9.8) - Deserialization vulnerability in  SnakeYAML library  that can lead to remote code execution in multiple products CVE-2023-22522  (CVSS score: 9.0) - Remote code execution vulnerability in Confluence Data Center and Confluence Server (affects all versions including and after 4.0.0) CVE-2023-22523  (CVSS score: 9.8) - Remote code execution vulnerability in Assets Discovery for Jira Service Management Cloud, Server, and Data Center (affects all versions up to but not including 3.2.0-cloud / 6.2.0 data center and server) CVE-2023-22524  (CVSS score: 9.6) - Remote code execution vulnerability in Atlassian Companion app for macOS (affects all versions up to but not including 2.0.0) Atlassian described CVE-2023-22522 as a template injection flaw that allo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 5, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

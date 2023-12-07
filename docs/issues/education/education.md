@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scaling Security Operations with Automation<a href="https://thehackernews.com/2023/12/scaling-security-operations-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an increasingly complex and fast-paced digital landscape, organizations strive to protect themselves from various security threats. However, limited resources often hinder security teams when combatting these threats, making it difficult to keep up with the growing number of security incidents and alerts. Implementing automation throughout security operations helps security teams alleviate these challenges by streamlining repetitive tasks, reducing the risk of human error, and allowing them to focus on higher-value initiatives. While automation offers significant benefits, there is no foolproof method or process to guarantee success. Clear definitions, consistent implementation, and standardized processes are crucial for optimal results. Without guidelines, manual and time-consuming methods can undermine the effectiveness of automation.&nbsp; This blog explores the challenges faced by security operations teams when implementing automation and the practical steps needed to build a stro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

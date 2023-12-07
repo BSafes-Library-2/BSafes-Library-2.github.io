@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+December 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia's AI-Powered Disinformation Operation Targeting Ukraine, U.S., and Germany<a href="https://thehackernews.com/2023/12/russias-ai-powered-disinformation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked influence operation called Doppelganger has targeted Ukrainian, U.S., and German audiences through a combination of inauthentic news sites and social media accounts. These campaigns are designed to amplify content designed to undermine Ukraine as well as propagate anti-LGBTQ+ sentiment, U.S. military competence, and Germany's economic and social issues, according to a new report shared with The Hacker News. Doppelganger ,&nbsp; described &nbsp;by Meta as the "largest and the most aggressively-persistent Russian-origin operation," is a&nbsp; pro-Russian network &nbsp;known for spreading anti-Ukrainian propaganda. Active since at least February 2022, it has been linked to two companies named Structura National Technologies and Social Design Agency. Activities associated with the influence operation are known to leverage manufactured websites as well as those impersonating authentic media – a technique called brandjacking – to disseminate adversarial narratives. The late
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

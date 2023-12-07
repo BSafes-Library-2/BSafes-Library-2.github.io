@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 05, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Kremlin-Backed APT28 Exploiting Critical Outlook Vulnerability<a href="https://thehackernews.com/2023/12/microsoft-warns-of-kremlin-backed-apt28.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Monday said it detected Kremlin-backed nation-state activity exploiting a now-patched critical security flaw in its Outlook email service to gain unauthorized access to victims' accounts within Exchange servers. The tech giant&nbsp; attributed &nbsp;the intrusions to a threat actor it called&nbsp; Forest Blizzard &nbsp;(formerly Strontium), which is also widely tracked under the monikers APT28, BlueDelta, Fancy Bear, FROZENLAKE, Iron Twilight, Sednit, Sofacy, and TA422. The security vulnerability in question is&nbsp; CVE-2023-23397 &nbsp;(CVSS score: 9.8), a critical privilege escalation bug that could allow an adversary to access a user's Net-NTLMv2 hash that could then be used to conduct a relay attack against another service to authenticate as the user. It was patched by Microsoft in March 2023. The goal, according to the Polish Cyber Command (DKWOC), is to obtain unauthorized access to mailboxes belonging to public and private entities in the country. "In the next stage of malici
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

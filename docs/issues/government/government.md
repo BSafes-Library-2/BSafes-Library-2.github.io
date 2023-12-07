@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploited ColdFusion Vulnerability to Breach Federal Agency Servers<a href="https://thehackernews.com/2023/12/hackers-exploited-coldfusion.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned of active exploitation of a&nbsp; high-severity Adobe ColdFusion vulnerability &nbsp;by unidentified threat actors to gain initial access to government servers. "The vulnerability in ColdFusion (CVE-2023-26360) presents as an improper access control issue and exploitation of this CVE can result in arbitrary code execution," CISA&nbsp; said , adding an unnamed federal agency was targeted between June and July 2023. The shortcoming affects ColdFusion 2018 (Update 15 and earlier versions) and ColdFusion 2021 (Update 5 and earlier versions). It has been addressed in versions Update 16 and Update 6, released on March 14, 2023, respectively. It was added by CISA to the Known Exploited Vulnerabilities (KEV) catalog a day later, citing evidence of active exploitation in the wild. Adobe, in an advisory released around that time, said it's aware of the flaw being "exploited in the wild in very limited attacks."
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

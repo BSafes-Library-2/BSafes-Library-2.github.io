@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 06, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Report: Unveiling the Threat of Malicious Browser Extensions<a href="https://thehackernews.com/2023/12/new-report-unveiling-threat-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compromising the browser is a high-return target for adversaries. Browser extensions, which are small software modules that are added to the browser and can enhance browsing experiences, have become a popular browser attack vector. This is because they are widely adopted among users and can easily turn malicious through developer actions or attacks on legitimate extensions. Recent incidents like&nbsp; DataSpii &nbsp;and the&nbsp; Nigelthorn &nbsp;malware attack have exposed the extent of damage that malicious extensions can inflict. In both cases, users innocently installed extensions that compromised their privacy and security. The underlying issue lies in the permissions granted to extensions. These permissions, often excessive and lacking granularity, allow attackers to exploit them. What can organizations do to protect themselves from the risks of browser extensions without barring them from use altogether (an act that would be nearly impossible to enforce)?&nbsp; A new report by LayerX, "Unveiling the
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
