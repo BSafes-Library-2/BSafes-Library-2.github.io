@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Pushes Yet Another Security Update to Its Chrome Browser<a href="https://www.zdnet.com/article/google-pushes-yet-another-security-update-to-its-chrome-browser/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chrome version 120 includes 10 bug fixes, with two of them being highly critical security patches. The high-ranked security vulnerabilities include "Use after free" exploits in Media Stream and Side Panel Search.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 07, 2023 
+{: .fs-4 .fw-700 .-- [Hacker](/docs/issues/hacker/hacker/)<br>lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of COLDRIVER's Evolving Evading and Credential-Stealing Tactics<a href="https://thehackernews.com/2023/12/microsoft-warns-of-coldrivers-evolving.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as COLDRIVER has continued to engage in credential theft activities against entities that are of strategic interests to Russia while simultaneously improving its detection evasion capabilities. The Microsoft Threat Intelligence team is tracking under the cluster as  Star Blizzard  (formerly SEABORGIUM). It's also called Blue Callisto, BlueCharlie (or TAG-53), Calisto (alternately spelled Callisto), and TA446. The adversary "continues to prolifically target individuals and organizations involved in international affairs, defense, and logistics support to Ukraine, as well as academia, information security companies, and other entities aligning with Russian state interests," Redmond  said . Star Blizzard , linked to Russia's Federal Security Service (FSB), has a  track record  of setting up lookalike domains that impersonate the login pages of targeted companies. It's known to be active since at least 2017. In August 2023, Recorded Future
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dangerous Vulnerability in Fleet Management Software Seemingly Ignored by Vendor<a href="https://cyberscoop.com/fleet-management-vulnerability-digitial-communications-technologies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, which impacts the Syrus4 IoT gateway made by Digital Communications Technologies (DCT), gives hackers access to the software and commands used to manage thousands of vehicles.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 07, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Bluetooth Flaw Let Hackers Take Over Android, Linux, macOS, and iOS Devices<a href="https://thehackernews.com/2023/12/new-bluetooth-flaw-let-hackers-take.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical Bluetooth security flaw could be exploited by threat actors to take control of Android, Linux, macOS and iOS devices. Tracked as  CVE-2023-45866 , the issue relates to a case of authentication bypass that enables attackers to connect to susceptible devices and inject keystrokes to achieve code execution as the victim. "Multiple Bluetooth stacks have authentication bypass vulnerabilities that permit an attacker to connect to a discoverable host without user confirmation and inject keystrokes," said security researcher  Marc Newlin , who  disclosed  the flaws to the software vendors in August 2023. Specifically, the attack deceives the target device into thinking that it's connected to a Bluetooth keyboard by taking advantage of an "unauthenticated pairing mechanism" that's defined in the Bluetooth specification. Successful exploitation of the flaw could permit an adversary in close physical proximity to connect to a vulnerable device and trans
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Groveport Madison School District Servers Hacked by Ransomware Group<a href="https://abc6onyourside.com/news/local/groveport-madison-district-servers-hacked-by-ransomware-group-december-2023-blacksuit-windowsdepartment-of-homeland-security-cisa?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackSuit ransomware group was able to hack into two servers belonging to the school district, impacting Windows devices, file services, printers, and copiers. Phones were not impacted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 07, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking the Human Mind: Exploiting Vulnerabilities in the 'First Line of Cyber Defense'<a href="https://thehackernews.com/2023/12/hacking-human-mind-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Humans are complex beings with consciousness, emotions, and the capacity to act based on thoughts. In the ever-evolving realm of cybersecurity, humans consistently remain primary targets for attackers. Over the years, these attackers have developed their expertise in exploiting various human qualities, sharpening their skills to manipulate biases and emotional triggers with the objective of influencing human behaviour to compromise security whether it be personal and organisational security.  More than just a 'human factor' Understanding what defines our humanity, recognizing how our qualities can be perceived as vulnerabilities, and comprehending how our minds can be targeted provide the foundation for identifying and responding when we inevitably become the target. The human mind is a complex landscape that evolved over years of exposure to the natural environment, interactions with others, and lessons drawn from past experiences. As humans, our minds set us apart, marke
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Patient Scans and Health Records Spilling Online Thanks to Decades-Old DICOM Bug<a href="https://techcrunch.com/2023/12/06/medical-scans-health-records-dicom-pacs-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 3,800 PACS servers across 110 countries are unintentionally exposing the private data of 16 million patients, including names, addresses, and even Social Security numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 07, 2023 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Building a Robust Threat Intelligence with Wazuh<a href="https://thehackernews.com/2023/12/building-robust-threat-intelligence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat intelligence refers to gathering, processing, and analyzing cyber threats, along with proactive defensive measures aimed at strengthening security. It enables organizations to gain a comprehensive insight into historical, present, and anticipated threats, providing context about the constantly evolving threat landscape. Importance of threat intelligence in the cybersecurity ecosystem Threat intelligence is a crucial part of any cybersecurity ecosystem. A robust cyber threat intelligence program helps organizations identify, analyze, and prevent security breaches. Threat intelligence is important to modern cyber security practice for several reasons: Proactive defense:  Organizations can enhance their overall cyber resilience by integrating threat intelligence into security practices to address the specific threats and risks that are relevant to their industry, geolocation, or technology stack. Threat intelligence allows organizations to identify potential threats in advanc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple and Some Linux Distros are Open to Bluetooth Attack<a href="https://www.theregister.com/2023/12/06/bluetooth_bug_apple_linux/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Bluetooth authentication bypass vulnerability, tracked as CVE-2023-45866, allows attackers to connect to Apple, Android, and Linux devices and inject keystrokes to run arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 07, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Governments May Spy on You by Requesting Push Notifications from Apple and Google<a href="https://thehackernews.com/2023/12/governments-may-spy-on-you-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unspecified governments have demanded mobile push notification records from Apple and Google users to pursue people of interest, according to U.S. Senator Ron Wyden. "Push notifications are alerts sent by phone apps to users' smartphones," Wyden  said . "These alerts pass through a digital post office run by the phone operating system provider -- overwhelmingly Apple or Google. Because of that structure, the two companies have visibility into how their customers use apps and could be compelled to provide this information to U.S. or foreign governments." Wyden, in a letter to U.S. Attorney General Merrick Garland, said both Apple and Google confirmed receiving such requests but noted that information about the practice was restricted from public release by the U.S. government, raising questions about the transparency of legal demands they receive from governments. When mobile apps for Android and iOS send push notifications to users' devices, they are ro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA422’s Dedicated Exploitation Loop—the Same Week After Week<a href="https://www.proofpoint.com/us/blog/threat-insight/ta422s-dedicated-exploitation-loop-same-week-after-week?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian APT group TA422 has been actively exploiting patched vulnerabilities to target government, aerospace, education, finance, manufacturing, and technology sectors in Europe and North America.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 07, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Stealthy 'Krasue' Linux Trojan Targeting Telecom Firms in Thailand<a href="https://thehackernews.com/2023/12/new-stealthy-krasue-linux-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown Linux remote access trojan called Krasue has been observed targeting telecom companies in Thailand by threat actors to main covert access to victim networks at lease since 2021. Named after a  nocturnal female spirit  of Southeast Asian folklore, the malware is "able to conceal its own presence during the initialization phase," Group-IB  said  in a report shared with The Hacker News. The exact initial access vector used to deploy Krasue is currently not known, although it's suspected that it could be via vulnerability exploitation, credential brute-force attacks, or downloaded as part of a bogus software package or binary. The scale of the campaign is  The malware's core functionalities are realized through a rootkit that allows it to maintain persistence on the host without attracting any attention. The rootkit is derived from open-source projects such as Diamorphine, Suterusu, and Rooty. This has raised the possibility that Krasue is eithe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schools in Maine, Indiana and Georgia Contend Ransomware Attacks<a href="https://therecord.media/schools-maine-indiana-georgia-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Henry County Schools district in Georgia and the Hermon School Department in Maine are among the latest victims, with the former experiencing a ransomware attack and the latter having outdated software vulnerabilities exploited.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 6, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2023
+December 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Pushes Yet Another Security Update to Its Chrome Browser<a href="https://www.zdnet.com/article/google-pushes-yet-another-security-update-to-its-chrome-browser/?&web_view=true"> Full Text</a>
@@ -50,8 +50,8 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2023
-{: .fs-4 .fw-700 .lh-0  }
+December 07, 2023 
+{: .fs-4 .fw-700 .-- [Hacker](/docs/issues/hacker/hacker/)<br>lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of COLDRIVER's Evolving Evading and Credential-Stealing Tactics<a href="https://thehackernews.com/2023/12/microsoft-warns-of-coldrivers-evolving.html"> Full Text</a>
 </p>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2023
+December 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dangerous Vulnerability in Fleet Management Software Seemingly Ignored by Vendor<a href="https://cyberscoop.com/fleet-management-vulnerability-digitial-communications-technologies/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2023
+December 07, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Bluetooth Flaw Let Hackers Take Over Android, Linux, macOS, and iOS Devices<a href="https://thehackernews.com/2023/12/new-bluetooth-flaw-let-hackers-take.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2023
+December 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Groveport Madison School District Servers Hacked by Ransomware Group<a href="https://abc6onyourside.com/news/local/groveport-madison-district-servers-hacked-by-ransomware-group-december-2023-blacksuit-windowsdepartment-of-homeland-security-cisa?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2023
+December 07, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking the Human Mind: Exploiting Vulnerabilities in the 'First Line of Cyber Defense'<a href="https://thehackernews.com/2023/12/hacking-human-mind-exploiting.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2023
+December 7, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Millions of Patient Scans and Health Records Spilling Online Thanks to Decades-Old DICOM Bug<a href="https://techcrunch.com/2023/12/06/medical-scans-health-records-dicom-pacs-security/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2023
+December 07, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Building a Robust Threat Intelligence with Wazuh<a href="https://thehackernews.com/2023/12/building-robust-threat-intelligence.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2023
+December 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple and Some Linux Distros are Open to Bluetooth Attack<a href="https://www.theregister.com/2023/12/06/bluetooth_bug_apple_linux/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2023
+December 07, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Governments May Spy on You by Requesting Push Notifications from Apple and Google<a href="https://thehackernews.com/2023/12/governments-may-spy-on-you-by.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2023
+December 7, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA422’s Dedicated Exploitation Loop—the Same Week After Week<a href="https://www.proofpoint.com/us/blog/threat-insight/ta422s-dedicated-exploitation-loop-same-week-after-week?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2023
+December 07, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Stealthy 'Krasue' Linux Trojan Targeting Telecom Firms in Thailand<a href="https://thehackernews.com/2023/12/new-stealthy-krasue-linux-trojan.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 7, 2023
+December 7, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Schools in Maine, Indiana and Georgia Contend Ransomware Attacks<a href="https://therecord.media/schools-maine-indiana-georgia-ransomware?&web_view=true"> Full Text</a>

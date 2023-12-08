@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+December 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Groveport Madison School District Servers Hacked by Ransomware Group<a href="https://abc6onyourside.com/news/local/groveport-madison-district-servers-hacked-by-ransomware-group-december-2023-blacksuit-windowsdepartment-of-homeland-security-cisa?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackSuit ransomware group was able to hack into two servers belonging to the school district, impacting Windows devices, file services, printers, and copiers. Phones were not impacted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Millions of Patient Scans and Health Records Spilling Online Thanks to Decades-Old DICOM Bug<a href="https://techcrunch.com/2023/12/06/medical-scans-health-records-dicom-pacs-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 3,800 PACS servers across 110 countries are unintentionally exposing the private data of 16 million patients, including names, addresses, and even Social Security numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

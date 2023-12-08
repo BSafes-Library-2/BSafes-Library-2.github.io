@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 7, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Schools in Maine, Indiana and Georgia Contend Ransomware Attacks<a href="https://therecord.media/schools-maine-indiana-georgia-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Henry County Schools district in Georgia and the Hermon School Department in Maine are among the latest victims, with the former experiencing a ransomware attack and the latter having outdated software vulnerabilities exploited.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

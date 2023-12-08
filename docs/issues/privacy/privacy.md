@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Governments May Spy on You by Requesting Push Notifications from Apple and Google<a href="https://thehackernews.com/2023/12/governments-may-spy-on-you-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unspecified governments have demanded mobile push notification records from Apple and Google users to pursue people of interest, according to U.S. Senator Ron Wyden. "Push notifications are alerts sent by phone apps to users' smartphones," Wyden&nbsp; said . "These alerts pass through a digital post office run by the phone operating system provider -- overwhelmingly Apple or Google. Because of that structure, the two companies have visibility into how their customers use apps and could be compelled to provide this information to U.S. or foreign governments." Wyden, in a letter to U.S. Attorney General Merrick Garland, said both Apple and Google confirmed receiving such requests but noted that information about the practice was restricted from public release by the U.S. government, raising questions about the transparency of legal demands they receive from governments. When mobile apps for Android and iOS send push notifications to users' devices, they are ro
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

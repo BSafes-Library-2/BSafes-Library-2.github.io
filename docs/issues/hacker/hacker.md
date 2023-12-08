@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 07, 2023 
+{: .fs-4 .fw-700 .<br>lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of COLDRIVER's Evolving Evading and Credential-Stealing Tactics<a href="https://thehackernews.com/2023/12/microsoft-warns-of-coldrivers-evolving.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as COLDRIVER has continued to engage in credential theft activities against entities that are of strategic interests to Russia while simultaneously improving its detection evasion capabilities. The Microsoft Threat Intelligence team is tracking under the cluster as&nbsp; Star Blizzard &nbsp;(formerly SEABORGIUM). It's also called Blue Callisto, BlueCharlie (or TAG-53), Calisto (alternately spelled Callisto), and TA446. The adversary "continues to prolifically target individuals and organizations involved in international affairs, defense, and logistics support to Ukraine, as well as academia, information security companies, and other entities aligning with Russian state interests," Redmond&nbsp; said . Star Blizzard , linked to Russia's Federal Security Service (FSB), has a&nbsp; track record &nbsp;of setting up lookalike domains that impersonate the login pages of targeted companies. It's known to be active since at least 2017. In August 2023, Recorded Future
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
