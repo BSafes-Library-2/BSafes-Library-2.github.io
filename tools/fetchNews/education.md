@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+December 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking the Human Mind: Exploiting Vulnerabilities in the 'First Line of Cyber Defense'<a href="https://thehackernews.com/2023/12/hacking-human-mind-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Humans are complex beings with consciousness, emotions, and the capacity to act based on thoughts. In the ever-evolving realm of cybersecurity, humans consistently remain primary targets for attackers. Over the years, these attackers have developed their expertise in exploiting various human qualities, sharpening their skills to manipulate biases and emotional triggers with the objective of influencing human behaviour to compromise security whether it be personal and organisational security.&nbsp; More than just a 'human factor' Understanding what defines our humanity, recognizing how our qualities can be perceived as vulnerabilities, and comprehending how our minds can be targeted provide the foundation for identifying and responding when we inevitably become the target. The human mind is a complex landscape that evolved over years of exposure to the natural environment, interactions with others, and lessons drawn from past experiences. As humans, our minds set us apart, marke
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 07, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Building a Robust Threat Intelligence with Wazuh<a href="https://thehackernews.com/2023/12/building-robust-threat-intelligence.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat intelligence refers to gathering, processing, and analyzing cyber threats, along with proactive defensive measures aimed at strengthening security. It enables organizations to gain a comprehensive insight into historical, present, and anticipated threats, providing context about the constantly evolving threat landscape. Importance of threat intelligence in the cybersecurity ecosystem Threat intelligence is a crucial part of any cybersecurity ecosystem. A robust cyber threat intelligence program helps organizations identify, analyze, and prevent security breaches. Threat intelligence is important to modern cyber security practice for several reasons: Proactive defense:&nbsp; Organizations can enhance their overall cyber resilience by integrating threat intelligence into security practices to address the specific threats and risks that are relevant to their industry, geolocation, or technology stack. Threat intelligence allows organizations to identify potential threats in advanc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

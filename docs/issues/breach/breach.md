@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+December 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Records Reveal New Information About Sweetwater Union High School District Data Breach<a href="https://www.10news.com/news/local-news/south-bay-news/records-reveal-new-information-about-sweetwater-union-high-school-district-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New records obtained through a public records request reveal that over 22,000 people were affected by a data breach at the Sweetwater Union High School District in California.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shoe Retailer Aldo Says LockBit Posting Is Related to System at Franchise Partner<a href="https://therecord.media/aldo-franchise-partner-lockbit-ransomware-posting?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The affected data was limited to information related to the franchise partner's operations in a specific overseas territory and did not include any financial or payment card information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

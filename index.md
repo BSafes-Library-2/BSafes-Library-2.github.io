@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2023
+December 8, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FCC Partners With Four States on Privacy and Data Protection Enforcement<a href="https://therecord.media/fcc-privacy-data-protection-partnerships-state-attorneys-general?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 08, 2023
+December 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 5G Modems Flaws Affect iOS Devices and Android Models from Major Brands<a href="https://thehackernews.com/2023/12/new-5g-modems-flaws-affect-ios-devices.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2023
+December 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Records Reveal New Information About Sweetwater Union High School District Data Breach<a href="https://www.10news.com/news/local-news/south-bay-news/records-reveal-new-information-about-sweetwater-union-high-school-district-data-breach?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 08, 2023
+December 08, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 N. Korean Kimsuky Targeting South Korean Research Institutes with Backdoor Attacks<a href="https://thehackernews.com/2023/12/n-korean-kimsuky-targeting-south-korean.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2023
+December 8, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shoe Retailer Aldo Says LockBit Posting Is Related to System at Franchise Partner<a href="https://therecord.media/aldo-franchise-partner-lockbit-ransomware-posting?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 08, 2023
+December 08, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware-as-a-Service: The Growing Threat You Can't Ignore<a href="https://thehackernews.com/2023/12/ransomware-as-service-growing-threat.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2023
+December 8, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware, Vendor Hacks Push Breach Number to Record High<a href="https://www.bankinfosecurity.com/ransomware-vendor-hacks-push-breach-number-to-record-high-a-23806?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 08, 2023
+December 08, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mac Users Beware: New Trojan-Proxy Malware Spreading via Pirated Software<a href="https://thehackernews.com/2023/12/mac-users-beware-new-trojan-proxy.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2023
+December 8, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Novel 'DDSpoof' Attacks Abuse Microsoft DHCP Servers to Spoof DNS Records<a href="https://www.theregister.com/2023/12/07/attacks_abuse_microsoft_dhcp/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 08, 2023
+December 08, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WordPress Releases Update 6.4.2 to Address Critical Remote Attack Vulnerability<a href="https://thehackernews.com/2023/12/wordpress-releases-update-642-to.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2023
+December 8, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ProvenRun Raises $16.2M in Series A Funding<a href="https://www.finsmes.com/2023/12/provenrun-raises-e15m-in-series-a-funding.html?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 08, 2023
+December 08, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Founder of Bitzlato Cryptocurrency Exchange Pleads Guilty in Money-Laundering Scheme<a href="https://thehackernews.com/2023/12/founder-of-bitzlato-cryptocurrency.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 8, 2023
+December 8, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Variants of HeadCrab Malware Commandeer Thousands of Servers<a href="https://www.darkreading.com/cyberattacks-data-breaches/headcrab-malware-variants-commandeer-thousands-of-servers?&web_view=true"> Full Text</a>

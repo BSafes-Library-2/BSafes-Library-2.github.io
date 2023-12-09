@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware-as-a-Service: The Growing Threat You Can't Ignore<a href="https://thehackernews.com/2023/12/ransomware-as-service-growing-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks &nbsp;have become a significant and pervasive threat in the ever-evolving realm of cybersecurity. Among the various iterations of ransomware, one trend that has gained prominence is Ransomware-as-a-Service (RaaS). This alarming development has transformed the cybercrime landscape, enabling individuals with limited technical expertise to carry out devastating attacks. Traditional and double extortion ransomware attacks Traditionally, ransomware refers to a type of malware that encrypts the victim's files, effectively blocking access to data and applications until a ransom is paid to the attacker. However, more contemporary attackers often employ an additional strategy. The bad actors create copies of the compromised data and leverage the threat of publishing sensitive information online unless their demands for ransom are met. This dual approach adds an extra layer of complexity and potential harm to the victims. A new model for ransomware RaaS is the latest busin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

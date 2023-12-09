@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean Kimsuky Targeting South Korean Research Institutes with Backdoor Attacks<a href="https://thehackernews.com/2023/12/n-korean-kimsuky-targeting-south-korean.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean threat actor known as&nbsp; Kimsuky &nbsp;has been observed targeting research institutes in South Korea as part of a spear-phishing campaign with the ultimate goal of distributing backdoors on compromised systems. "The threat actor ultimately uses a backdoor to steal information and execute commands," the AhnLab Security Emergency Response Center (ASEC)&nbsp; said &nbsp;in an analysis posted last week. The attack chains commence with an import declaration lure that's actually a malicious JSE file containing an obfuscated PowerShell script, a Base64-encoded payload, and a decoy PDF document. The next stage entails opening the PDF file as a diversionary tactic, while the PowerShell script is executed in the background to launch the backdoor. The malware, for its part, is configured to collect network information and other relevant data (i.e., host name, user name, and operating system version) and transmit the encoded details to a remote server. It's also capable of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

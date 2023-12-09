@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Partners With Four States on Privacy and Data Protection Enforcement<a href="https://therecord.media/fcc-privacy-data-protection-partnerships-state-attorneys-general?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By collaborating with state enforcers, the FCC can enhance its investigative efforts, share information, and leverage tools to address consumer harms more effectively in the realm of privacy and cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

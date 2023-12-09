@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 8, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProvenRun Raises $16.2M in Series A Funding<a href="https://www.finsmes.com/2023/12/provenrun-raises-e15m-in-series-a-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Tikehau Capital, through its new vintage of Brienne, its flagship private equity cybersecurity strategy with the French Ministry of Defence’s Definvest fund, managed by Bpifrance.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
