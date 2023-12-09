@@ -50,8 +50,8 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 07, 2023 
-{: .fs-4 .fw-700 .-- [Hacker](/docs/issues/hacker/hacker/)<br>lh-0  }
+December 07, 2023 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of COLDRIVER's Evolving Evading and Credential-Stealing Tactics<a href="https://thehackernews.com/2023/12/microsoft-warns-of-coldrivers-evolving.html"> Full Text</a>
 </p>

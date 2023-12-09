@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Partners With Four States on Privacy and Data Protection Enforcement<a href="https://therecord.media/fcc-privacy-data-protection-partnerships-state-attorneys-general?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By collaborating with state enforcers, the FCC can enhance its investigative efforts, share information, and leverage tools to address consumer harms more effectively in the realm of privacy and cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 5G Modems Flaws Affect iOS Devices and Android Models from Major Brands<a href="https://thehackernews.com/2023/12/new-5g-modems-flaws-affect-ios-devices.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A collection of security flaws in the firmware implementation of 5G mobile network modems from major chipset vendors such as MediaTek and Qualcomm impact USB and IoT modems as well as hundreds of smartphone models running Android and iOS. Of the 14 flaws – collectively called  5Ghoul  (a combination of "5G" and "Ghoul") – 10 affect 5G modems from the two companies, out of which three have been classified as high-severity vulnerabilities. "5Ghoul vulnerabilities may be exploited to continuously launch attacks to drop the connections, freeze the connection that involve manual reboot or downgrade the 5G connectivity to 4G," the researchers  said  in a study published today. As many as 714 smartphones from 24 brands are impacted, including those from Vivo, Xiaomi, OPPO, Samsung, Honor, Motorola, realme, OnePlus, Huawei, ZTE, Asus, Sony, Meizu, Nokia, Apple, and Google. The vulnerabilities were disclosed by a team of researchers from the ASSET (Automated
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Records Reveal New Information About Sweetwater Union High School District Data Breach<a href="https://www.10news.com/news/local-news/south-bay-news/records-reveal-new-information-about-sweetwater-union-high-school-district-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New records obtained through a public records request reveal that over 22,000 people were affected by a data breach at the Sweetwater Union High School District in California.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+N. Korean Kimsuky Targeting South Korean Research Institutes with Backdoor Attacks<a href="https://thehackernews.com/2023/12/n-korean-kimsuky-targeting-south-korean.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korean threat actor known as  Kimsuky  has been observed targeting research institutes in South Korea as part of a spear-phishing campaign with the ultimate goal of distributing backdoors on compromised systems. "The threat actor ultimately uses a backdoor to steal information and execute commands," the AhnLab Security Emergency Response Center (ASEC)  said  in an analysis posted last week. The attack chains commence with an import declaration lure that's actually a malicious JSE file containing an obfuscated PowerShell script, a Base64-encoded payload, and a decoy PDF document. The next stage entails opening the PDF file as a diversionary tactic, while the PowerShell script is executed in the background to launch the backdoor. The malware, for its part, is configured to collect network information and other relevant data (i.e., host name, user name, and operating system version) and transmit the encoded details to a remote server. It's also capable of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shoe Retailer Aldo Says LockBit Posting Is Related to System at Franchise Partner<a href="https://therecord.media/aldo-franchise-partner-lockbit-ransomware-posting?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The affected data was limited to information related to the franchise partner's operations in a specific overseas territory and did not include any financial or payment card information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware-as-a-Service: The Growing Threat You Can't Ignore<a href="https://thehackernews.com/2023/12/ransomware-as-service-growing-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks  have become a significant and pervasive threat in the ever-evolving realm of cybersecurity. Among the various iterations of ransomware, one trend that has gained prominence is Ransomware-as-a-Service (RaaS). This alarming development has transformed the cybercrime landscape, enabling individuals with limited technical expertise to carry out devastating attacks. Traditional and double extortion ransomware attacks Traditionally, ransomware refers to a type of malware that encrypts the victim's files, effectively blocking access to data and applications until a ransom is paid to the attacker. However, more contemporary attackers often employ an additional strategy. The bad actors create copies of the compromised data and leverage the threat of publishing sensitive information online unless their demands for ransom are met. This dual approach adds an extra layer of complexity and potential harm to the victims. A new model for ransomware RaaS is the latest busin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware, Vendor Hacks Push Breach Number to Record High<a href="https://www.bankinfosecurity.com/ransomware-vendor-hacks-push-breach-number-to-record-high-a-23806?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Data breaches in the U.S. have reached an all-time high, with 2.6 billion personal records compromised in the past two years, driven by aggressive ransomware attacks and breaches targeting third-party vendors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mac Users Beware: New Trojan-Proxy Malware Spreading via Pirated Software<a href="https://thehackernews.com/2023/12/mac-users-beware-new-trojan-proxy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unauthorized websites distributing trojanized versions of cracked software have been found to infect Apple macOS users with a new  Trojan-Proxy  malware. "Attackers can use this type of malware to gain money by building a proxy server network or to perform criminal acts on behalf of the victim: to launch attacks on websites, companies and individuals, buy guns, drugs, and other illicit goods," Kaspersky security researcher Sergey Puzan  said . The Russian cybersecurity firm said it found evidence indicating that the malware is a cross-platform threat, owing to artifacts unearthed for Windows and Android that piggybacked on pirated tools. The macOS variants propagate under the guise of legitimate multimedia, image editing, data recovery, and productivity tools. This suggests that users searching for pirated software are the targets of the campaign. Unlike their genuine, unaltered counterparts, which are offered as disk image (.DMG) files, the rogue versions are delivered
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel 'DDSpoof' Attacks Abuse Microsoft DHCP Servers to Spoof DNS Records<a href="https://www.theregister.com/2023/12/07/attacks_abuse_microsoft_dhcp/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The default configuration of Microsoft Dynamic Host Configuration Protocol (DHCP) servers leaves a significant number of organizations vulnerable to these attacks, making them accessible to a wide range of attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WordPress Releases Update 6.4.2 to Address Critical Remote Attack Vulnerability<a href="https://thehackernews.com/2023/12/wordpress-releases-update-642-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WordPress has released version 6.4.2 with a patch for a critical security flaw that could be exploited by threat actors by combining it with another bug to execute arbitrary PHP code on vulnerable sites. "A remote code execution vulnerability that is not directly exploitable in core; however, the security team feels that there is a potential for high severity when combined with some plugins, especially in multisite installations," WordPress  said . According to WordPress security company Wordfence, the  issue  is rooted in the WP_HTML_Token class that was introduced in version 6.4 to improve HTML parsing in the block editor. A threat actor with the ability to exploit a PHP object injection vulnerability present in any other plugin or theme to chain the two issues to execute arbitrary code and seize control of the targeted site. "If a  POP [property-oriented programming] chain  is present via an additional plugin or theme installed on the target system, it could all
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ProvenRun Raises $16.2M in Series A Funding<a href="https://www.finsmes.com/2023/12/provenrun-raises-e15m-in-series-a-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Tikehau Capital, through its new vintage of Brienne, its flagship private equity cybersecurity strategy with the French Ministry of Defence’s Definvest fund, managed by Bpifrance.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 08, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Founder of Bitzlato Cryptocurrency Exchange Pleads Guilty in Money-Laundering Scheme<a href="https://thehackernews.com/2023/12/founder-of-bitzlato-cryptocurrency.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian founder of the now-defunct Bitzlato cryptocurrency exchange has pleaded guilty, nearly 11 months after he was  arrested in Miami  earlier this year. Anatoly Legkodymov (aka Anatolii Legkodymov, Gandalf, and Tolik), according to the U.S. Justice Department, admitted to operating an unlicensed money-transmitting business that enabled other criminal actors to launder their illicit proceeds. He faces up to five years in prison. "Legkodymov operated a cryptocurrency exchange that was open for business to money launderers and other criminals,"  said  Acting Assistant Attorney General Nicole M. Argentieri of the Justice Department's Criminal Division. "He profited from catering to criminals, and now he must pay the price. Transacting in cryptocurrency does not put you beyond the reach of the law." Bitzlato, which served as a safe haven for fraudsters and ransomware crews such as  Conti , is estimated to have received $2.5 billion in cryptocurrency bet
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 8, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Variants of HeadCrab Malware Commandeer Thousands of Servers<a href="https://www.darkreading.com/cyberattacks-data-breaches/headcrab-malware-variants-commandeer-thousands-of-servers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HeadCrab malware has resurfaced with a new variant that allows root access to Redis servers, infecting over 1,100 servers and enabling the attacker to control and modify responses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 7, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
