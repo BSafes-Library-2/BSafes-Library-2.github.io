@@ -34,6 +34,118 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Automated Jailbreaking of LLMs With Other LLMs<a href="https://www.helpnetsecurity.com/2023/12/07/automated-jailbreak-llms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have developed an automated machine learning technique, called TAP, that can quickly exploit vulnerabilities in large language models (LLMs) and make them produce harmful and toxic responses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 09, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SLAM Attack: New Spectre-based Vulnerability Impacts Intel, AMD, and Arm CPUs<a href="https://thehackernews.com/2023/12/slam-attack-new-spectre-based.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the Vrije Universiteit Amsterdam have disclosed a new side-channel attack called  SLAM  that could be exploited to leak sensitive information from kernel memory on current and upcoming CPUs from Intel, AMD, and Arm. The attack is an end-to-end exploit for Spectre based on a new feature in Intel CPUs called  Linear Address Masking  ( LAM ) as well as its analogous counterparts from AMD (called  Upper Address Ignore  or  UAI ) and Arm (called  Top Byte Ignore  or  TBI ). "SLAM exploits unmasked gadgets to let a userland process leak arbitrary ASCII kernel data," VUSec researchers  said , adding it could be leveraged to leak the root password hash within minutes from kernel memory. While LAM is presented as a security feature, the study found that it ironically degrades security and "dramatically" increases the  Spectre attack surface , resulting in a transient execution attack, which exploits  speculative execution  to extract sensitive data via
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bypassing Major EDRs Using Pool Party Process Injection Techniques<a href="https://securityaffairs.com/155464/hacking/pool-party-bypassing-edr.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The technique utilizes Windows thread pools and includes a chain of three primitives for memory allocation, writing malicious code, and executing it, making it more flexible than existing process injection techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 09, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Unveal GuLoader Malware's Latest Anti-Analysis Techniques<a href="https://thehackernews.com/2023/12/researchers-unveal-guloader-malwares.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunters have unmasked the latest tricks adopted by a malware strain called  GuLoader  in an effort to make analysis more challenging. "While GuLoader's core functionality hasn't changed drastically over the past few years, these constant updates in their obfuscation techniques make analyzing GuLoader a time-consuming and resource-intensive process," Elastic Security Labs researcher Daniel Stepanic  said  in a report published this week. First spotted in late 2019, GuLoader (aka CloudEyE) is an advanced shellcode-based malware downloader that's used to distribute a wide range of payloads, such as information stealers, while incorporating a bevy of sophisticated anti-analysis techniques to dodge traditional security solutions. A  steady stream  of  open-source reporting  into the malware in recent months has revealed the threat actors behind it have continued to improve its ability to bypass existing or new security features alongside other implemented fe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Central Virginia Transit System Affected by Cyber Incident<a href="https://therecord.media/central-va-transit-system-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Greater Richmond Transit Company (GRTC) experienced a cyberattack over the Thanksgiving holiday, resulting in a temporary disruption to their computer network. The Play ransomware gang has claimed responsibility for the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Hit Erris Water in Stance Over Israel<a href="https://westernpeople.ie/news/hackers-hit-erris-water-in-stance-over-israel_arid-4982.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals targeted a private group water scheme in the Erris area, causing disruption to 180 homeowners and highlighting the vulnerability of critical infrastructure to politically motivated cyber-attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 9, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Barcode Scanner App Exposes User Passwords<a href="https://securityaffairs.com/155444/mobile-2/android-barcode-scanner-app-exposes-user-passwords.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Android app Barcode to Sheet, with over 100k downloads, has left sensitive user data exposed due to an open instance, including plaintext enterprise data and weakly hashed passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 8, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

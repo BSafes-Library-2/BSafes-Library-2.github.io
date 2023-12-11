@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 08, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Founder of Bitzlato Cryptocurrency Exchange Pleads Guilty in Money-Laundering Scheme<a href="https://thehackernews.com/2023/12/founder-of-bitzlato-cryptocurrency.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian founder of the now-defunct Bitzlato cryptocurrency exchange has pleaded guilty, nearly 11 months after he was&nbsp; arrested in Miami &nbsp;earlier this year. Anatoly Legkodymov (aka Anatolii Legkodymov, Gandalf, and Tolik), according to the U.S. Justice Department, admitted to operating an unlicensed money-transmitting business that enabled other criminal actors to launder their illicit proceeds. He faces up to five years in prison. "Legkodymov operated a cryptocurrency exchange that was open for business to money launderers and other criminals,"&nbsp; said &nbsp;Acting Assistant Attorney General Nicole M. Argentieri of the Justice Department's Criminal Division. "He profited from catering to criminals, and now he must pay the price. Transacting in cryptocurrency does not put you beyond the reach of the law." Bitzlato, which served as a safe haven for fraudsters and ransomware crews such as&nbsp; Conti , is estimated to have received $2.5 billion in cryptocurrency bet
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 4, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+December 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Central Virginia Transit System Affected by Cyber Incident<a href="https://therecord.media/central-va-transit-system-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Greater Richmond Transit Company (GRTC) experienced a cyberattack over the Thanksgiving holiday, resulting in a temporary disruption to their computer network. The Play ransomware gang has claimed responsibility for the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Hit Erris Water in Stance Over Israel<a href="https://westernpeople.ie/news/hackers-hit-erris-water-in-stance-over-israel_arid-4982.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals targeted a private group water scheme in the Erris area, causing disruption to 180 homeowners and highlighting the vulnerability of critical infrastructure to politically motivated cyber-attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

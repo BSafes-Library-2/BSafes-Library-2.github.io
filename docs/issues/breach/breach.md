@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 9, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Barcode Scanner App Exposes User Passwords<a href="https://securityaffairs.com/155444/mobile-2/android-barcode-scanner-app-exposes-user-passwords.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Android app Barcode to Sheet, with over 100k downloads, has left sensitive user data exposed due to an open instance, including plaintext enterprise data and weakly hashed passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
