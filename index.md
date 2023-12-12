@@ -34,6 +34,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: University of Wollongong Confirms Data Breach, Notifies Authorities<a href="https://thecyberexpress.com/university-of-wollongong-data-breach-confirmed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Wollongong has experienced a data breach, with potentially both staff and students affected. The breach has been detected and contained, and investigations are underway to determine the scope of the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Unmask Sandman APT's Hidden Link to China-Based KEYPLUG Backdoor<a href="https://thehackernews.com/2023/12/researchers-unmask-sandman-apts-hidden.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tactical and targeting overlaps have been discovered between the enigmatic advanced persistent threat (APT) called  Sandman  and a China-based threat cluster that's known to use a backdoor known as KEYPLUG. The assessment comes jointly from SentinelOne, PwC, and the Microsoft Threat Intelligence team based on the fact that the adversary's Lua-based malware LuaDream and KEYPLUG have been determined to cohabit in the same victim networks. Microsoft and PwC are tracking the activity under the names Storm-0866 and Red Dev 40, respectively. "Sandman and Storm-0866/Red Dev 40 share infrastructure control and management practices, including hosting provider selections, and domain naming conventions," the companies  said  in a report shared with The Hacker News. "The implementation of LuaDream and KEYPLUG reveals indicators of shared development practices and overlaps in functionalities and design, suggesting shared functional requirements by their operators."
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Opal Security, Which Helps Companies Manage Access and Identities, Raises $22M<a href="https://techcrunch.com/2023/12/07/opal-security-which-helps-companies-manage-access-and-identities-raises-22m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity management solution provider Opal Security has managed to raise $22 million in a Series B round to expand its team and develop new AI-powered tools for identity and access risk remediation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Using Log4j Exploits to Deploy Remote Access Trojans<a href="https://thehackernews.com/2023/12/lazarus-group-using-log4j-exploits-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious North Korea-linked threat actor known as the  Lazarus Group  has been attributed to a new global campaign that involves the opportunistic exploitation of security flaws in Log4j to deploy previously undocumented remote access trojans (RATs) on compromised hosts. Cisco Talos is tracking the activity under the name Operation Blacksmith, noting the use of three DLang-based malware families, including a RAT called NineRAT that leverages Telegram for command-and-control (C2), DLRAT, and a downloader dubbed BottomLoader. The cybersecurity firm described the latest tactics of the adversary as a definitive shift and that they overlap with the cluster widely tracked as Andariel (aka Onyx Sleet or Silent Chollima), a sub-group within the Lazarus umbrella. "Andariel is typically tasked with initial access, reconnaissance and establishing long term access for espionage in support of the North Korean government's national interests," Talos researchers Jung soo An, As
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Fixed Critical RCE Flaw CVE-2023-50164 in Struts 2<a href="https://securityaffairs.com/155643/hacking/apache-struts-2-critical-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Apache Software Foundation has released security updates to address a critical file upload vulnerability in the Struts 2 framework, which could allow for remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Playbook: Your First 100 Days as a vCISO - 5 Steps to Success<a href="https://thehackernews.com/2023/12/playbook-your-first-100-days-as-vciso-5.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an increasingly digital world, no organization is spared from cyber threats. Yet, not every organization has the luxury of hiring a full-time, in-house CISO. This gap in cybersecurity leadership is where you, as a vCISO, come in. You are the person who will establish, develop, and solidify the organization's cybersecurity infrastructure, blending strategic guidance with actionable cybersecurity services. As an organizational leader, you will be required to navigate professional duties, business needs, diverse organizational personas and leadership demands. Your success relies on your ability to build trust and establish yourself as a strategic decision-maker that can protect the organization.  As such,  your first 100 days in a new organization are key to your success . They will lay the groundwork for your long-term achievements. To aid you in this critical phase, we introduce a comprehensive guide: a five-step, 100-day action plan,  "Your First 100 Days as a vCISO - 5
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GULOADER Adds  New Anti-Analysis Tactic to Arsenal<a href="https://cyware.com/news/guloader-adds-new-anti-analysis-tactic-to-arsenal-df3afd74"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified new techniques employed by the GuLoader malware to enhance its evasion capabilities and make analysis more challenging.  The highly evasive shellcode downloader malware was found leveraging Vectored Exception Handler (VEH) capability. Organizations can leverage the late ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpyLoan Scandal: 18 Malicious Loan Apps Defraud Millions of Android Users<a href="https://thehackernews.com/2023/12/spyloan-scandal-18-malicious-loan-apps.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered 18  malicious loan apps  for Android on the Google Play Store that have been collectively downloaded over 12 million times. "Despite their attractive appearance, these services are in fact designed to defraud users by offering them high-interest-rate loans endorsed with deceitful descriptions, all while collecting their victims' personal and financial information to blackmail them, and in the end gain their funds," ESET  said . The Slovak cybersecurity company is tracking these apps under the name  SpyLoan , noting they are designed to target potential borrowers located in Southeast Asia, Africa, and Latin America. The list of apps, which have now been taken down by Google, is below - AA Kredit: इंस्टेंट लोन ऐप (com.aa.kredit.android) Amor Cash: Préstamos Sin Buró (com.amorcash.credito.prestamo) Oro Préstamo - Efectivo rápido (com.app.lo.go) Cashwow (com.cashwow.cow.eg) CrediBus Préstamos de crédito (com.dinero.profin.pr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and ENISA Signed a Working Arrangement to Enhance Cooperation<a href="https://securityaffairs.com/155606/security/cisa-enisa-signed-working-arrangement.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The collaboration aims to strengthen cybersecurity, safeguard critical infrastructure, and reinforce the resilience of digital products in the face of increasing cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar — Psychology of Social Engineering: Decoding the Mind of a Cyber Attacker<a href="https://thehackernews.com/2023/12/webinar-psychology-of-social.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the ever-evolving cybersecurity landscape, one method stands out for its chilling effectiveness – social engineering. But why does it work so well? The answer lies in the intricate dance between the attacker's mind and human psychology. Our upcoming webinar,  " Think Like a Hacker, Defend Like a Pro ,"  highlights this alarming trend. We delve deep into social engineering, exploring its roots in human psychology and why it remains a formidable weapon in the cyber attacker's arsenal. What Will You Learn? Understanding Social Engineering : An in-depth look at the evolution and continued effectiveness of social engineering in cyberattacks. Human Psychology in Cybersecurity : Insights into how social engineers twist psychological principles for nefarious purposes. Tactical Awareness : Learn to identify both used and unused tactics by social engineers, and understand the misinformation leveraged in their campaigns. Strategic Defense : Arm yourself with the knowl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Sanctions Nine Linked to Cyber Trafficking in Southeast Asia<a href="https://therecord.media/uk-sanctions-nine-linked-to-trafficking-southeast-asia?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom has imposed sanctions on individuals and entities involved in Southeast Asia's online scamming industry, targeting both human traffickers and companies connected to scam operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PoolParty Process Injection Techniques Outsmart Top EDR Solutions<a href="https://thehackernews.com/2023/12/new-poolparty-process-injection.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new collection of eight process injection techniques, collectively dubbed  PoolParty , could be exploited to achieve code execution in Windows systems while evading endpoint detection and response (EDR) systems. SafeBreach researcher Alon Leviev  said  the methods are "capable of working across all processes without any limitations, making them more flexible than existing process injection techniques." The  findings  were first presented at the  Black Hat Europe 2023  conference last week. Process injection refers to an  evasion technique  used to run arbitrary code in a target process. A wide range of process injection techniques exists, such as dynamic link library (DLL) injection, portable executable injection, thread execution hijacking, process hollowing, and process doppelgänging. PoolParty is so named because it's rooted in a component called Windows user-mode thread pool, leveraging it to insert any type of work item into a target process on the system. I
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 9, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
