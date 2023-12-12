@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: University of Wollongong Confirms Data Breach, Notifies Authorities<a href="https://thecyberexpress.com/university-of-wollongong-data-breach-confirmed/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The University of Wollongong has experienced a data breach, with potentially both staff and students affected. The breach has been detected and contained, and investigations are underway to determine the scope of the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

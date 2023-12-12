@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 7, 2023 - ENISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and ENISA enhance their Cooperation <a href="https://www.enisa.europa.eu/news/cisa-and-enisa-enhance-their-cooperation"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Union Agency for Cybersecurity (ENISA) has signed a Working Arrangement with the Cybersecurity and Infrastructure Security Agency (CISA) of the US, in the areas of capacity-building, best practices exchange and boosting situational awareness.
+</details>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 5, 2023 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

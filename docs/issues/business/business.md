@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Opal Security, Which Helps Companies Manage Access and Identities, Raises $22M<a href="https://techcrunch.com/2023/12/07/opal-security-which-helps-companies-manage-access-and-identities-raises-22m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity management solution provider Opal Security has managed to raise $22 million in a Series B round to expand its team and develop new AI-powered tools for identity and access risk remediation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
