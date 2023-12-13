@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Unmask Sandman APT's Hidden Link to China-Based KEYPLUG Backdoor<a href="https://thehackernews.com/2023/12/researchers-unmask-sandman-apts-hidden.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tactical and targeting overlaps have been discovered between the enigmatic advanced persistent threat (APT) called&nbsp; Sandman &nbsp;and a China-based threat cluster that's known to use a backdoor known as KEYPLUG. The assessment comes jointly from SentinelOne, PwC, and the Microsoft Threat Intelligence team based on the fact that the adversary's Lua-based malware LuaDream and KEYPLUG have been determined to cohabit in the same victim networks. Microsoft and PwC are tracking the activity under the names Storm-0866 and Red Dev 40, respectively. "Sandman and Storm-0866/Red Dev 40 share infrastructure control and management practices, including hosting provider selections, and domain naming conventions," the companies&nbsp; said &nbsp;in a report shared with The Hacker News. "The implementation of LuaDream and KEYPLUG reveals indicators of shared development practices and overlaps in functionalities and design, suggesting shared functional requirements by their operators."
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 7, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

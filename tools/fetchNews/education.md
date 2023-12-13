@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+December 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Playbook: Your First 100 Days as a vCISO - 5 Steps to Success<a href="https://thehackernews.com/2023/12/playbook-your-first-100-days-as-vciso-5.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an increasingly digital world, no organization is spared from cyber threats. Yet, not every organization has the luxury of hiring a full-time, in-house CISO. This gap in cybersecurity leadership is where you, as a vCISO, come in. You are the person who will establish, develop, and solidify the organization's cybersecurity infrastructure, blending strategic guidance with actionable cybersecurity services. As an organizational leader, you will be required to navigate professional duties, business needs, diverse organizational personas and leadership demands. Your success relies on your ability to build trust and establish yourself as a strategic decision-maker that can protect the organization.&nbsp; As such,&nbsp; your first 100 days in a new organization are key to your success . They will lay the groundwork for your long-term achievements. To aid you in this critical phase, we introduce a comprehensive guide: a five-step, 100-day action plan,&nbsp; "Your First 100 Days as a vCISO - 5
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar — Psychology of Social Engineering: Decoding the Mind of a Cyber Attacker<a href="https://thehackernews.com/2023/12/webinar-psychology-of-social.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the ever-evolving cybersecurity landscape, one method stands out for its chilling effectiveness – social engineering. But why does it work so well? The answer lies in the intricate dance between the attacker's mind and human psychology. Our upcoming webinar,&nbsp; " Think Like a Hacker, Defend Like a Pro ," &nbsp;highlights this alarming trend. We delve deep into social engineering, exploring its roots in human psychology and why it remains a formidable weapon in the cyber attacker's arsenal. What Will You Learn? Understanding Social Engineering : An in-depth look at the evolution and continued effectiveness of social engineering in cyberattacks. Human Psychology in Cybersecurity : Insights into how social engineers twist psychological principles for nefarious purposes. Tactical Awareness : Learn to identify both used and unused tactics by social engineers, and understand the misinformation leveraged in their campaigns. Strategic Defense : Arm yourself with the knowl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT28 Hackers Targeting 13 Nations in Ongoing Cyber Espionage Campaign<a href="https://thehackernews.com/2023/12/russian-apt28-hackers-targeting-13.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian nation-state threat actor known as&nbsp; APT28 &nbsp;has been observed making use of lures related to the ongoing Israel-Hamas war to facilitate the delivery of a custom backdoor called HeadLace. IBM X-Force is tracking the adversary under the name ITG05, which is also known as BlueDelta, Fancy Bear, Forest Blizzard (formerly Strontium), FROZENLAKE, Iron Twilight, Sednit, Sofacy, and TA422. "The newly discovered campaign is directed against targets based in at least 13 nations worldwide and leverages authentic documents created by academic, finance and diplomatic centers," security researchers Golo Mühr, Claire Zaboeva, and Joe Fasulo&nbsp; said . "ITG05's infrastructure ensures only targets from a single specific country can receive the malware, indicating the highly targeted nature of the campaign." Targets of the campaign include Hungary, Türkiye, Australia, Poland, Belgium, Ukraine, Germany, Azerbaijan, Saudi Arabia, Kazakhstan, Italy, Latvia, and Romania
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Using Log4j Exploits to Deploy Remote Access Trojans<a href="https://thehackernews.com/2023/12/lazarus-group-using-log4j-exploits-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious North Korea-linked threat actor known as the&nbsp; Lazarus Group &nbsp;has been attributed to a new global campaign that involves the opportunistic exploitation of security flaws in Log4j to deploy previously undocumented remote access trojans (RATs) on compromised hosts. Cisco Talos is tracking the activity under the name Operation Blacksmith, noting the use of three DLang-based malware families, including a RAT called NineRAT that leverages Telegram for command-and-control (C2), DLRAT, and a downloader dubbed BottomLoader. The cybersecurity firm described the latest tactics of the adversary as a definitive shift and that they overlap with the cluster widely tracked as Andariel (aka Onyx Sleet or Silent Chollima), a sub-group within the Lazarus umbrella. "Andariel is typically tasked with initial access, reconnaissance and establishing long term access for espionage in support of the North Korean government's national interests," Talos researchers Jung soo An, As
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 9, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unveiling the Cyber Threats to Healthcare: Beyond the Myths<a href="https://thehackernews.com/2023/12/unveiling-cyber-threats-to-healthcare.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Let's begin with a thought-provoking question: among a credit card number, a social security number, and an Electronic Health Record (EHR),&nbsp; which commands the highest price on a dark web forum? &nbsp; Surprisingly, it's the EHR, and the difference is stark: according to a&nbsp; study , EHRs can sell for up to $1,000 each, compared to a mere $5 for a credit card number and $1 for a social security number. The reason is simple: while a credit card can be canceled, your personal data can't. This significant value disparity underscores why the healthcare industry remains a prime target for cybercriminals. The sector's rich repository of sensitive data presents a lucrative opportunity for profit-driven attackers. For 12 years running, healthcare has faced the highest average costs per breach compared to any other sector.&nbsp; Exceeding an average of $10 million per breach , it surpasses even the financial sector, which incurs an average cost of around $6 million. The severity of this iss
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

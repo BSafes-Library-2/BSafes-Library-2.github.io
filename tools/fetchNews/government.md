@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 11, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and ENISA Signed a Working Arrangement to Enhance Cooperation<a href="https://securityaffairs.com/155606/security/cisa-enisa-signed-working-arrangement.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The collaboration aims to strengthen cybersecurity, safeguard critical infrastructure, and reinforce the resilience of digital products in the face of increasing cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
