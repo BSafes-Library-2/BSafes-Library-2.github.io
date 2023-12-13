@@ -34,7 +34,215 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2023
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's Final 2023 Patch Tuesday: 33 Flaws Fixed, Including 4 Critical<a href="https://thehackernews.com/2023/12/microsofts-final-2023-patch-tuesday-33.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft released its final set of Patch Tuesday updates for 2023, closing out  33 flaws  in its software, making it one of the lightest releases in recent years. Of the 33 shortcomings, four are rated Critical and 29 are rated Important in severity. The fixes are in addition to  18 flaws  Microsoft addressed in its Chromium-based Edge browser since the release of  Patch Tuesday updates for November 2023 . According to data from the  Zero Day Initiative , the software giant has patched more than 900 flaws this year, making it one of the busiest years for Microsoft patches. For comparison, Redmond resolved 917 CVEs in 2022. While none of the vulnerabilities are listed as publicly known or under active attack at the time of release, some of the notable ones are listed below - CVE-2023-35628  (CVSS score: 8.1) - Windows MSHTML Platform Remote Code Execution Vulnerability CVE-2023-35630  (CVSS score: 8.8) - Internet Connection Sharing (ICS) Remote Code Execution Vulnerability CVE
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gamers Warned of Potential CS2 Exploit That can Reveal IP Addresses<a href="https://www.hackread.com/gamers-warned-of-cs2-exploit-reveal-ip-address/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exploit, which is an XSS vulnerability, allows players to display GIFs using HTML code blocks in-game. This poses a potential security threat to players, as the exploit can access player IP addresses and potentially execute code on their PCs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Long-Running Clearview AI Class Action Biometric Privacy Case Settles<a href="https://therecord.media/clearview-ai-class-action-privacy-suit-settles-bipa-illinois?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Clearview AI has reached a settlement in a class-action privacy lawsuit, which alleged that the company violated Illinois' Biometric Information Privacy Act (BIPA) by using online images without consent for its facial recognition technology.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unveiling the Cyber Threats to Healthcare: Beyond the Myths<a href="https://thehackernews.com/2023/12/unveiling-cyber-threats-to-healthcare.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Let's begin with a thought-provoking question: among a credit card number, a social security number, and an Electronic Health Record (EHR),  which commands the highest price on a dark web forum?   Surprisingly, it's the EHR, and the difference is stark: according to a  study , EHRs can sell for up to $1,000 each, compared to a mere $5 for a credit card number and $1 for a social security number. The reason is simple: while a credit card can be canceled, your personal data can't. This significant value disparity underscores why the healthcare industry remains a prime target for cybercriminals. The sector's rich repository of sensitive data presents a lucrative opportunity for profit-driven attackers. For 12 years running, healthcare has faced the highest average costs per breach compared to any other sector.  Exceeding an average of $10 million per breach , it surpasses even the financial sector, which incurs an average cost of around $6 million. The severity of this iss
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake LinkedIn Profiles Target Saudi Workers for Information Leakage and Financial Fraud<a href="https://www.darkreading.com/cloud-security/convincing-linkedin-profiles-target-saudi-workers-information-leakage?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered nearly a thousand fake profiles created with the intention of reaching out to companies in the Middle East. These profiles, often difficult to distinguish from real ones, have been successful in their campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT28 Hackers Targeting 13 Nations in Ongoing Cyber Espionage Campaign<a href="https://thehackernews.com/2023/12/russian-apt28-hackers-targeting-13.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian nation-state threat actor known as  APT28  has been observed making use of lures related to the ongoing Israel-Hamas war to facilitate the delivery of a custom backdoor called HeadLace. IBM X-Force is tracking the adversary under the name ITG05, which is also known as BlueDelta, Fancy Bear, Forest Blizzard (formerly Strontium), FROZENLAKE, Iron Twilight, Sednit, Sofacy, and TA422. "The newly discovered campaign is directed against targets based in at least 13 nations worldwide and leverages authentic documents created by academic, finance and diplomatic centers," security researchers Golo Mühr, Claire Zaboeva, and Joe Fasulo  said . "ITG05's infrastructure ensures only targets from a single specific country can receive the malware, indicating the highly targeted nature of the campaign." Targets of the campaign include Hungary, Türkiye, Australia, Poland, Belgium, Ukraine, Germany, Azerbaijan, Saudi Arabia, Kazakhstan, Italy, Latvia, and Romania
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Automation Gains Traction, Prompting a “Shift Everywhere” Philosophy<a href="https://www.helpnetsecurity.com/2023/12/11/security-automation-advantage-for-organizations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Synopsys, the use of automated security technology is on the rise, as organizations increasingly embrace the "shift everywhere" philosophy to improve the effectiveness and reduce the cost of security activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Non-Human Access is the Path of Least Resistance: A 2023 Recap<a href="https://thehackernews.com/2023/12/non-human-access-is-path-of-least.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2023 has seen its fair share of cyber attacks, however there's one attack vector that proves to be more prominent than others - non-human access. With  11 high-profile attacks in 13 months  and an ever-growing ungoverned attack surface, non-human identities are the new perimeter, and 2023 is only the beginning.  Why non-human access is a cybercriminal's paradise  People always look for the easiest way to get what they want, and this goes for cybercrime as well. Threat actors look for the path of least resistance, and it seems that in 2023 this path was non-user access credentials (API keys, tokens, service accounts and secrets).  " 50% of the active access tokens connecting Salesforce and third-party apps are unused. In GitHub and GCP the numbers reach 33%." These non-user access credentials are used to connect apps and resources to other cloud services. What makes them a true hacker's dream is that they have no security measures like user credentials do (MFA, SSO or other IAM pol
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Continue Targeting Open Remote Access Products<a href="https://www.helpnetsecurity.com/2023/12/11/remote-access-malicious-actions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to WatchGuard, cybercriminals are still primarily targeting open remote access products and using legitimate remote access tools to hide their malicious activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MrAnon Stealer Malware Targeting German Users via Booking-Themed Scam<a href="https://thehackernews.com/2023/12/new-mranon-stealer-targeting-german-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign has been observed delivering an information stealer malware called  MrAnon Stealer  to unsuspecting victims via seemingly benign booking-themed PDF lures. "This malware is a Python-based information stealer compressed with cx-Freeze to evade detection," Fortinet FortiGuard Labs researcher Cara Lin  said . "MrAnon Stealer steals its victims' credentials, system information, browser sessions, and cryptocurrency extensions." There is evidence to suggest that Germany is the primary target of the attack as of November 2023, owing to the number of times the downloader URL hosting the payload has been queried. Masquerading as a company looking to book hotel rooms, the phishing email bears a PDF file that, upon opening, activates the infection by prompting the recipient to download an updated version of Adobe Flash. Doing so results in the execution of .NET executables and PowerShell scripts to ultimately run a pernicious Python script, which i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nearly 130,000 Affected by Ransomware Attack on Cold Storage Company Americold<a href="https://therecord.media/ransomware-attack-on-americold-cold-storage?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack resulted in the leak of sensitive data, including names, addresses, Social Security numbers, financial account information, and employment-related health insurance and medical information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Releases Security Updates to Patch Critical iOS and macOS Security Flaws<a href="https://thehackernews.com/2023/12/apple-releases-security-updates-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple on Monday released  security patches  for iOS, iPadOS, macOS, tvOS, watchOS, and Safari web browser to address multiple security flaws, in addition to backporting fixes for two recently disclosed zero-days to older devices. This includes updates for  12 security vulnerabilities  in iOS and iPadOS spanning AVEVideoEncoder, ExtensionKit, Find My, ImageIO, Kernel, Safari Private Browsing, and WebKit.  macOS Sonoma 14.2 , for its part, resolves 39 shortcomings, counting six bugs impacting the  ncurses library . Notable among the flaws is  CVE-2023-45866 , a critical security issue in Bluetooth that could allow an attacker in a privileged network position to inject keystrokes by spoofing a keyboard. The vulnerability was disclosed by SkySafe security researcher Marc Newlin last week. It has been remediated in iOS 17.2, iPadOS 17.2, and macOS Sonoma 14.2 with improved checks, the iPhone maker said. Also released by Apple is  Safari 17.2 , containing fixes for two WebKit flaws – C
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Critical RCE Vulnerability Discovered in Apache Struts 2 - Patch Now<a href="https://thehackernews.com/2023/12/new-critical-rce-vulnerability.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apache has released a security advisory warning of a critical security flaw in the Struts 2 open-source web application framework that could result in remote code execution. Tracked as  CVE-2023-50164 , the vulnerability is  rooted  in a flawed "file upload logic" that could enable unauthorized path traversal and could be exploited under the circumstances to upload a malicious file and achieve execution of arbitrary code. Struts is a Java framework that uses the Model-View-Controller ( MVC ) architecture for building enterprise-oriented web applications. Steven Seeley of Source Incite has been credited with discovering and reporting the flaw, which impacts the following versions of the software - Struts 2.3.37 (EOL) Struts 2.5.0 - Struts 2.5.32, and Struts 6.0.0 - Struts 6.3.0 Patches for the bug are available in versions 2.5.33 and 6.3.0.2 or greater. There are no workarounds that remediate the issue. "All developers are strongly advised to perform this upgr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia: University of Wollongong Confirms Data Breach, Notifies Authorities<a href="https://thecyberexpress.com/university-of-wollongong-data-breach-confirmed/?&web_view=true"> Full Text</a>
@@ -50,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2023
+December 11, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Unmask Sandman APT's Hidden Link to China-Based KEYPLUG Backdoor<a href="https://thehackernews.com/2023/12/researchers-unmask-sandman-apts-hidden.html"> Full Text</a>
@@ -66,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2023
+December 11, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Opal Security, Which Helps Companies Manage Access and Identities, Raises $22M<a href="https://techcrunch.com/2023/12/07/opal-security-which-helps-companies-manage-access-and-identities-raises-22m/?&web_view=true"> Full Text</a>
@@ -82,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2023
+December 11, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Using Log4j Exploits to Deploy Remote Access Trojans<a href="https://thehackernews.com/2023/12/lazarus-group-using-log4j-exploits-to.html"> Full Text</a>
@@ -98,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2023
+December 11, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache Fixed Critical RCE Flaw CVE-2023-50164 in Struts 2<a href="https://securityaffairs.com/155643/hacking/apache-struts-2-critical-flaw.html?&web_view=true"> Full Text</a>
@@ -114,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2023
+December 11, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Playbook: Your First 100 Days as a vCISO - 5 Steps to Success<a href="https://thehackernews.com/2023/12/playbook-your-first-100-days-as-vciso-5.html"> Full Text</a>
@@ -130,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2023
+December 11, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GULOADER Adds  New Anti-Analysis Tactic to Arsenal<a href="https://cyware.com/news/guloader-adds-new-anti-analysis-tactic-to-arsenal-df3afd74"> Full Text</a>
@@ -146,7 +354,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2023
+December 11, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SpyLoan Scandal: 18 Malicious Loan Apps Defraud Millions of Android Users<a href="https://thehackernews.com/2023/12/spyloan-scandal-18-malicious-loan-apps.html"> Full Text</a>
@@ -162,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2023
+December 11, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA and ENISA Signed a Working Arrangement to Enhance Cooperation<a href="https://securityaffairs.com/155606/security/cisa-enisa-signed-working-arrangement.html?&web_view=true"> Full Text</a>
@@ -178,7 +386,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2023
+December 11, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar — Psychology of Social Engineering: Decoding the Mind of a Cyber Attacker<a href="https://thehackernews.com/2023/12/webinar-psychology-of-social.html"> Full Text</a>
@@ -194,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2023
+December 11, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Sanctions Nine Linked to Cyber Trafficking in Southeast Asia<a href="https://therecord.media/uk-sanctions-nine-linked-to-trafficking-southeast-asia?&web_view=true"> Full Text</a>
@@ -210,7 +418,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 11, 2023
+December 11, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PoolParty Process Injection Techniques Outsmart Top EDR Solutions<a href="https://thehackernews.com/2023/12/new-poolparty-process-injection.html"> Full Text</a>
