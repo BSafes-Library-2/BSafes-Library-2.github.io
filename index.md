@@ -34,6 +34,246 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero Networks Raises $20 Million Series B to Prevent Attackers From Spreading in Corporate Networks<a href="https://www.calcalistech.com/ctechnews/article/rysul7pua?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding round was led by U.S. Venture Partners (USVP), and included strategic investor Dmitri Alperovitch, co-founder and former CTO of CrowdStrike, as well as existing investors Venrock, CyberArk, F2 Capital, and Pico Venture Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazaCall Phishing Scammers Now Leveraging Google Forms for Deception<a href="https://thehackernews.com/2023/12/bazacall-phishing-scammers-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the  BazaCall  call back phishing attacks have been observed leveraging Google Forms to lend the scheme a veneer of credibility. The method is an "attempt to elevate the perceived authenticity of the initial malicious emails," cybersecurity firm Abnormal Security  said  in a report published today. BazaCall  (aka BazarCall), which was  first observed  in 2020, refers to a series of phishing attacks in which email messages impersonating legitimate subscription notices are sent to targets, urging them to contact a support desk to dispute or cancel the plan, or risk getting charged anywhere between $50 to $500. By inducing a false sense of urgency, the attacker convinces the target over a phone call to grant them remote access capabilities using remote desktop software and ultimately establish persistence on the host under the guise of offering help to cancel the supposed subscription. Some of the popular services that are impersonated include Netfl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Underground Market Comes Online Just inTime for the Holidays<a href="https://www.zerofox.com/blog/new-underground-market-comes-online-just-intime-for-the-holidays/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OLVX marketplace operates on the clear web and has gained popularity in recent months. It offers various products and services, including phish kits, remote desktop connections, cPanel credentials, webshells, and stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Using Clang Sanitizers to Protect Android Against Cellular Baseband Vulnerabilities<a href="https://thehackernews.com/2023/12/google-using-clang-sanitizers-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is highlighting the role played by  Clang sanitizers  in hardening the security of the cellular baseband in the  Android operating system  and preventing specific kinds of vulnerabilities. This comprises Integer Overflow Sanitizer (IntSan) and BoundsSanitizer (BoundSan), both of which are part of UndefinedBehaviorSanitizer ( UBSan ), a tool designed to catch various kinds of undefined behavior during program execution. "They are architecture agnostic, suitable for bare-metal deployment, and should be enabled in existing C/C++ code bases to mitigate unknown vulnerabilities," Ivan Lozano and Roger Piqueras Jover  said  in a Tuesday post. The development comes months after the tech giant said it's  working with ecosystem partners  to increase the  security of firmware  that interacts with Android, thereby making it difficult for threat actors to achieve remote code execution within the Wi-Fi SoC or the cellular baseband. IntSan and BoundSan are two of the  compi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ransomware Group Publishes Stolen Medical Data<a href="https://www.govtech.com/security/ransomware-group-publishes-stolen-medical-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The effects of a November ransomware attack against Oceanside, California’s Tri-City Medical Center were contained more than two weeks ago, but now those behind the cyber incident are publishing stolen data on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Analyze Malware's Network Traffic in A Sandbox<a href="https://thehackernews.com/2023/12/how-to-analyze-malwares-network-traffic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware analysis encompasses a broad range of activities, including examining the malware's network traffic. To be effective at it, it's crucial to understand the common challenges and how to overcome them. Here are three prevalent issues you may encounter and the tools you'll need to address them. Decrypting HTTPS traffic Hypertext Transfer Protocol Secure (HTTPS), the protocol for secure online communication, has become a tool for malware to conceal their malicious activities. By cloaking data exchange between infected devices and command-and-control (C&C) servers, malware can operate undetected, exfiltrating sensitive data, installing additional payloads, and receiving instructions from the operators. Yet, with the right tool, decrypting HTTPS traffic is an easy task. For this purpose, we can use a man-in-the-middle (MITM) proxy. The MITM proxy works as an intermediary between the client and the server, intercepting their communication. The MITM proxy aids analy
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophos Backports Fix for CVE-2022-3236 for EOL Firewall Firmware<a href="https://securityaffairs.com/155746/security/sophos-backports-cve-2022-3236-patch.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sophos has backported the patch for CVE-2022-3236 to end-of-life (EOL) firewall firmware versions due to ongoing attacks exploiting the vulnerability. The code injection vulnerability is being actively exploited by threat actors to target South Asia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Hackers Exploiting OAuth for Cryptocurrency Mining and Phishing<a href="https://thehackernews.com/2023/12/microsoft-warns-of-hackers-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has warned that adversaries are using OAuth applications as an automation tool to deploy virtual machines (VMs) for cryptocurrency mining and launch phishing attacks. "Threat actors compromise user accounts to create, modify, and grant high privileges to OAuth applications that they can misuse to hide malicious activity," the Microsoft Threat Intelligence team  said  in an analysis. "The misuse of OAuth also enables threat actors to maintain access to applications even if they lose access to the initially compromised account." OAuth , short for Open Authorization, is an  authorization and delegation framework  (as opposed to authentication) that provides applications the ability to securely access information from other websites without handing over passwords. In the attacks detailed by Microsoft, threat actors have been observed launching phishing or password-spraying attacks against poorly secured accounts with permissions to create or modify OAuth
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Reminds Mobile Phone Carriers They Must do More to Prevent SIM Swaps<a href="https://therecord.media/fcc-sim-swapping-reminder-telecoms-consumer-protection?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FCC has updated its rules to require carriers to better verify customers' identities before making any changes to their accounts. The agency also emphasized the importance of quickly notifying customers of any account changes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Cyber Attack Paralyzes Kyivstar - Ukraine's Largest Telecom Operator<a href="https://thehackernews.com/2023/12/major-cyber-attack-paralyzes-kyivstar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's biggest telecom operator Kyivstar has  become  the victim of a " powerful hacker attack ," disrupting customer access to mobile and internet services. "The cyberattack on Ukraine's #Kyivstar telecoms operator has impacted all regions of the country with high impact to the capital, metrics show, with knock-on impacts reported to air raid alert network and banking sector as work continues to restore connectivity," NetBlocks  said  in a series of posts on X (formerly Twitter). Kyivstar, which is owned by Dutch-domiciled multinational telecommunication services company VEON,  serves  nearly 25 million mobile subscribers and more than 1 million home internet customers. The company said the attack was "a result of" the war with Russia and that it has notified law enforcement and special state services. While Kyivstar is working to restore the services, the internet watchdog noted that the telco is largely offline. That said, Kyivstar has yet t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cluster of Malicious Python Packages in PyPI Discovered Distributing Malware<a href="https://www.welivesecurity.com/en/eset-research/pernicious-potpourri-python-packages-pypi/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET Research has discovered a cluster of malicious Python packages in PyPI, the official Python package repository. These packages target both Windows and Linux systems and deliver a custom backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Congress Finds Pharmacies Give Patient Records to Law Enforcement Without Warrants<a href="https://therecord.media/congressional-report-pharmacies-give-patient-records-law-enforcement-no-warrants?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A congressional review found that major pharmacy chains do not require a warrant before sharing customers' records with law enforcement, raising concerns about the privacy of Americans' pharmaceutical information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DonorView Exposes One Million Records for Unknown Time Frame<a href="https://www.theregister.com/2023/12/13/donorview_database_breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed information included donor names, addresses, payment methods, and even sensitive data about children associated with the organizations, posing a potential risk for phishing attacks and fraudulent donation requests.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Ministry of Defence Fined $440K for Afghan Evacuation Data Breach<a href="https://therecord.media/uk-defence-fined-for-afghan-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's Ministry of Defence has been fined £350,000 ($440,000) by the ICO for failing to protect the personal information of Afghans who worked with the British government and sought relocation after the Taliban took control of Afghanistan.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dubai’s Largest Taxi App DTC Exposes Data on Over 220,000 People<a href="https://securityaffairs.com/155695/security/dubai-taxi-company-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data included personal information such as email addresses, phone numbers, and bank details. It also included driver information such as driving license numbers and work permit numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
