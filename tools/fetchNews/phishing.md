@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake LinkedIn Profiles Target Saudi Workers for Information Leakage and Financial Fraud<a href="https://www.darkreading.com/cloud-security/convincing-linkedin-profiles-target-saudi-workers-information-leakage?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have discovered nearly a thousand fake profiles created with the intention of reaching out to companies in the Middle East. These profiles, often difficult to distinguish from real ones, have been successful in their campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New MrAnon Stealer Malware Targeting German Users via Booking-Themed Scam<a href="https://thehackernews.com/2023/12/new-mranon-stealer-targeting-german-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign has been observed delivering an information stealer malware called&nbsp; MrAnon Stealer &nbsp;to unsuspecting victims via seemingly benign booking-themed PDF lures. "This malware is a Python-based information stealer compressed with cx-Freeze to evade detection," Fortinet FortiGuard Labs researcher Cara Lin&nbsp; said . "MrAnon Stealer steals its victims' credentials, system information, browser sessions, and cryptocurrency extensions." There is evidence to suggest that Germany is the primary target of the attack as of November 2023, owing to the number of times the downloader URL hosting the payload has been queried. Masquerading as a company looking to book hotel rooms, the phishing email bears a PDF file that, upon opening, activates the infection by prompting the recipient to download an updated version of Adobe Flash. Doing so results in the execution of .NET executables and PowerShell scripts to ultimately run a pernicious Python script, which i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 5, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

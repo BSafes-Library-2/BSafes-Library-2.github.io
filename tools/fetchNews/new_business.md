@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero Networks Raises $20 Million Series B to Prevent Attackers From Spreading in Corporate Networks<a href="https://www.calcalistech.com/ctechnews/article/rysul7pua?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding round was led by U.S. Venture Partners (USVP), and included strategic investor Dmitri Alperovitch, co-founder and former CTO of CrowdStrike, as well as existing investors Venrock, CyberArk, F2 Capital, and Pico Venture Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

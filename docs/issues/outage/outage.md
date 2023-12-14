@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+December 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Cyber Attack Paralyzes Kyivstar - Ukraine's Largest Telecom Operator<a href="https://thehackernews.com/2023/12/major-cyber-attack-paralyzes-kyivstar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's biggest telecom operator Kyivstar has&nbsp; become &nbsp;the victim of a " powerful hacker attack ," disrupting customer&nbsp;access to mobile and internet services. "The cyberattack on Ukraine's #Kyivstar telecoms operator has impacted all regions of the country with high impact to the capital, metrics show, with knock-on impacts reported to air raid alert network and banking sector as work continues to restore connectivity," NetBlocks&nbsp; said &nbsp;in a series of posts on X (formerly Twitter). Kyivstar, which is owned by Dutch-domiciled multinational telecommunication services company VEON,&nbsp; serves &nbsp;nearly 25 million mobile subscribers and more than 1 million home internet customers. The company said the attack was "a result of" the war with Russia and that it has notified law enforcement and special state services. While Kyivstar is working to restore the services, the internet watchdog noted that the telco is largely offline. That said, Kyivstar has yet t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 2, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

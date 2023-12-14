@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Continue Targeting Open Remote Access Products<a href="https://www.helpnetsecurity.com/2023/12/11/remote-access-malicious-actions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to WatchGuard, cybercriminals are still primarily targeting open remote access products and using legitimate remote access tools to hide their malicious activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 6, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+December 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Using Clang Sanitizers to Protect Android Against Cellular Baseband Vulnerabilities<a href="https://thehackernews.com/2023/12/google-using-clang-sanitizers-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is highlighting the role played by&nbsp; Clang sanitizers &nbsp;in hardening the security of the cellular baseband in the&nbsp; Android operating system &nbsp;and preventing specific kinds of vulnerabilities. This comprises Integer Overflow Sanitizer (IntSan) and BoundsSanitizer (BoundSan), both of which are part of UndefinedBehaviorSanitizer ( UBSan ), a tool designed to catch various kinds of undefined behavior during program execution. "They are architecture agnostic, suitable for bare-metal deployment, and should be enabled in existing C/C++ code bases to mitigate unknown vulnerabilities," Ivan Lozano and Roger Piqueras Jover&nbsp; said &nbsp;in a Tuesday post. The development comes months after the tech giant said it's&nbsp; working with ecosystem partners &nbsp;to increase the&nbsp; security of firmware &nbsp;that interacts with Android, thereby making it difficult for threat actors to achieve remote code execution within the Wi-Fi SoC or the cellular baseband. IntSan and BoundSan are two of the&nbsp; compi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Analyze Malware's Network Traffic in A Sandbox<a href="https://thehackernews.com/2023/12/how-to-analyze-malwares-network-traffic.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malware analysis encompasses a broad range of activities, including examining the malware's network traffic. To be effective at it, it's crucial to understand the common challenges and how to overcome them. Here are three prevalent issues you may encounter and the tools you'll need to address them. Decrypting HTTPS traffic Hypertext Transfer Protocol Secure (HTTPS), the protocol for secure online communication, has become a tool for malware to conceal their malicious activities. By cloaking data exchange between infected devices and command-and-control (C&amp;C) servers, malware can operate undetected, exfiltrating sensitive data, installing additional payloads, and receiving instructions from the operators. Yet, with the right tool, decrypting HTTPS traffic is an easy task. For this purpose, we can use a man-in-the-middle (MITM) proxy. The MITM proxy works as an intermediary between the client and the server, intercepting their communication. The MITM proxy aids analy
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

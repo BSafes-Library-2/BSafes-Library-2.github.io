@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Underground Market Comes Online Just inTime for the Holidays<a href="https://www.zerofox.com/blog/new-underground-market-comes-online-just-intime-for-the-holidays/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The OLVX marketplace operates on the clear web and has gained popularity in recent months. It offers various products and services, including phish kits, remote desktop connections, cPanel credentials, webshells, and stolen data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

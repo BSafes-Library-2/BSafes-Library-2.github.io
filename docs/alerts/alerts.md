@@ -7,6 +7,28 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 12, 2023 - Microsoft
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat actors misuse OAuth applications to automate financially driven attacks <a href="https://www.microsoft.com/en-us/security/blog/2023/12/12/threat-actors-misuse-oauth-applications-to-automate-financially-driven-attacks/"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are misusing OAuth applications as an automation tool in financially motivated attacks. OAuth is an open standard for token-based authentication and authorization that enables applications to get access to data and resources based on permissions set by a user. Threat actors compromise user accounts to create, modify, and grant high privileges to OAuth applications that they can misuse to hide malicious activity. The misuse of OAuth also enables threat actors to maintain access to applications even if they lose access to the initially compromised account.
+</details>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2023 - FCC 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Reminds Carriers to Prevent SIM Fraud Schemes <a href="https://www.fcc.gov/document/fcc-reminds-carriers-prevent-sim-fraud-schemes"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FCC Enforcement Advisory - Telecommunications Carriers Must Protect Consumers' Privacy and Sensitive Data by Taking Reasonable Steps to Prevent SIM Fraud Schemeas.
+</details>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 7, 2023 - ENISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

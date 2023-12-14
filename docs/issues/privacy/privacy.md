@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Congress Finds Pharmacies Give Patient Records to Law Enforcement Without Warrants<a href="https://therecord.media/congressional-report-pharmacies-give-patient-records-law-enforcement-no-warrants?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A congressional review found that major pharmacy chains do not require a warrant before sharing customers' records with law enforcement, raising concerns about the privacy of Americans' pharmaceutical information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 07, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

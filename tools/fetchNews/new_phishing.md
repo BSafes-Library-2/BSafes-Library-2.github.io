@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BazaCall Phishing Scammers Now Leveraging Google Forms for Deception<a href="https://thehackernews.com/2023/12/bazacall-phishing-scammers-now.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the&nbsp; BazaCall &nbsp;call back phishing attacks have been observed leveraging Google Forms to lend the scheme a veneer of credibility. The method is an "attempt to elevate the perceived authenticity of the initial malicious emails," cybersecurity firm Abnormal Security&nbsp; said &nbsp;in a report published today. BazaCall &nbsp;(aka BazarCall), which was&nbsp; first observed &nbsp;in 2020, refers to a series of phishing attacks in which email messages impersonating legitimate subscription notices are sent to targets, urging them to contact a support desk to dispute or cancel the plan, or risk getting charged anywhere between $50 to $500. By inducing a false sense of urgency, the attacker convinces the target over a phone call to grant them remote access capabilities using remote desktop software and ultimately establish persistence on the host under the guise of offering help to cancel the supposed subscription. Some of the popular services that are impersonated include Netfl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

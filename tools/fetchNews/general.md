@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+December 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Automation Gains Traction, Prompting a “Shift Everywhere” Philosophy<a href="https://www.helpnetsecurity.com/2023/12/11/security-automation-advantage-for-organizations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Synopsys, the use of automated security technology is on the rise, as organizations increasingly embrace the "shift everywhere" philosophy to improve the effectiveness and reduce the cost of security activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 12, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Non-Human Access is the Path of Least Resistance: A 2023 Recap<a href="https://thehackernews.com/2023/12/non-human-access-is-path-of-least.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2023 has seen its fair share of cyber attacks, however there's one attack vector that proves to be more prominent than others - non-human access. With&nbsp; 11 high-profile attacks in 13 months&nbsp; and an ever-growing ungoverned attack surface, non-human identities are the new perimeter, and 2023 is only the beginning.&nbsp; Why non-human access is a cybercriminal's paradise&nbsp; People always look for the easiest way to get what they want, and this goes for cybercrime as well. Threat actors look for the path of least resistance, and it seems that in 2023 this path was non-user access credentials (API keys, tokens, service accounts and secrets).&nbsp; " 50% of the active access tokens connecting Salesforce and third-party apps are unused. In GitHub and GCP the numbers reach 33%." These non-user access credentials are used to connect apps and resources to other cloud services. What makes them a true hacker's dream is that they have no security measures like user credentials do (MFA, SSO or other IAM pol
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

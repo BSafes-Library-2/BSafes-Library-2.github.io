@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+December 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ransomware Group Publishes Stolen Medical Data<a href="https://www.govtech.com/security/ransomware-group-publishes-stolen-medical-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The effects of a November ransomware attack against Oceanside, California’s Tri-City Medical Center were contained more than two weeks ago, but now those behind the cyber incident are publishing stolen data on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DonorView Exposes One Million Records for Unknown Time Frame<a href="https://www.theregister.com/2023/12/13/donorview_database_breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposed information included donor names, addresses, payment methods, and even sensitive data about children associated with the organizations, posing a potential risk for phishing attacks and fraudulent donation requests.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Ministry of Defence Fined $440K for Afghan Evacuation Data Breach<a href="https://therecord.media/uk-defence-fined-for-afghan-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's Ministry of Defence has been fined £350,000 ($440,000) by the ICO for failing to protect the personal information of Afghans who worked with the British government and sought relocation after the Taliban took control of Afghanistan.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dubai’s Largest Taxi App DTC Exposes Data on Over 220,000 People<a href="https://securityaffairs.com/155695/security/dubai-taxi-company-data-leak.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data included personal information such as email addresses, phone numbers, and bank details. It also included driver information such as driving license numbers and work permit numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 11, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
