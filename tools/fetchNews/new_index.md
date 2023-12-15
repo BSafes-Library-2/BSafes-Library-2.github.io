@@ -34,7 +34,215 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2023
+December 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saudi Cyber Students Team with Bahrain to Assess AI Security & Risk<a href="https://www.darkreading.com/cloud-security/saudi-cyber-students-team-bahrain-assess-ai-risk?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Saudi Arabian students specializing in AI and cybersecurity are participating in workshops to enhance their capabilities in identifying and assessing potential risks of large language models (LLMs) across different platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+116 Malware Packages Found on PyPI Repository Infecting Windows and Linux Systems<a href="https://thehackernews.com/2023/12/116-malware-packages-found-on-pypi.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have identified a set of 116 malicious packages on the Python Package Index (PyPI) repository that are designed to infect Windows and Linux systems with a custom backdoor. "In some cases, the final payload is a variant of the infamous  W4SP Stealer , or a simple clipboard monitor to steal cryptocurrency, or both," ESET researchers Marc-Etienne M.Léveillé and Rene Holt  said  in a report published earlier this week. The  packages  are estimated to have been downloaded over 10,000 times since May 2023. The threat actors behind the activity have been observed using three techniques to bundle malicious code into Python packages, namely via a test.py script, embedding PowerShell in setup.py file, and incorporating it in obfuscated form in the  __init__.py file . Irrespective of the method used, the end goal of the campaign is to compromise the targeted host with malware, primarily a backdoor capable of remote command execution, data exfiltration, an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sony Investigating Potential Ransomware Attack on Insomniac Games Unit<a href="https://therecord.media/sony-investigating-ransomware-insomniac-games?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sony's subsidiary, Insomniac Games, is currently investigating a reported ransomware attack by the Rhysida gang, which has targeted various government institutions and healthcare organizations in the past.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Pierogi++ Malware by Gaza Cyber Gang Targeting Palestinian Entities<a href="https://thehackernews.com/2023/12/new-pierogi-malware-by-gaza-cyber-gang.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A pro-Hamas threat actor known as  Gaza Cyber Gang  is targeting Palestinian entities using an updated version of a backdoor dubbed Pierogi. The findings come from SentinelOne, which has given the malware the name Pierogi++ owing to the fact that it's implemented in the C++ programming language unlike its Delphi- and Pascal-based predecessor. "Recent Gaza Cybergang activities show consistent targeting of Palestinian entities, with no observed significant changes in dynamics since the start of the Israel-Hamas war," security researcher Aleksandar Milenkoski  said  in a report shared with The Hacker News. Gaza Cyber Gang, believed to be  active since at least  2012, has a history of striking targets throughout the Middle East, particularly Israel and Palestine, often leveraging spear-phishing as a method of initial access. Some of the  notable   malware   families  in its  arsenal   include  BarbWire, DropBook, LastConn, Molerat Loader, Micropsia, NimbleMamba, SharpSt
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ThreatNG Open-Source Datasets Aim to Improve Cybersecurity Practices<a href="https://www.helpnetsecurity.com/2023/12/13/threatng-open-source-datasets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ThreatNG Governance and Compliance Dataset is an open-source initiative that aims to provide access to critical cybersecurity data, promoting transparency and collaboration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian State-Sponsored OilRig Group Deploys 3 New Malware Downloaders<a href="https://thehackernews.com/2023/12/iranian-state-sponsored-oilrig-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian state-sponsored threat actor known as  OilRig  deployed three different downloader malware throughout 2022 to maintain persistent access to victim organizations located in Israel. The three new downloaders have been named ODAgent, OilCheck, and OilBooster by Slovak cybersecurity company ESET. The attacks also involved the use of an updated version of a known OilRig downloader dubbed  SampleCheck5000  (or SC5k). "These lightweight downloaders [...] are notable for using one of several legitimate cloud service APIs for [command-and-control] communication and data exfiltration: the Microsoft Graph OneDrive or Outlook APIs, and the Microsoft Office Exchange Web Services (EWS) API," security researchers Zuzana Hromcová and Adam Burgher  said  in a report shared with The Hacker News. By using well-known cloud service providers for command-and-control communication, the goal is to blend with authentic network traffic and cover up the group's attack infrastructure
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+District Court in Switzerland ‘Victim of a Cyber Attack’<a href="https://therecord.media/district-court-switzerland-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This incident follows a similar ransomware attack on the municipal administration of Zollikofen in November, highlighting the growing threat of ransomware attacks targeting Swiss organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reimagining Network Pentesting With Automation<a href="https://thehackernews.com/2023/12/reimagining-network-pentesting-with-automation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network penetration testing plays a crucial role in protecting businesses in the ever-evolving world of cybersecurity. Yet, business leaders and IT pros have misconceptions about this process, which impacts their security posture and decision-making.  This blog acts as a quick guide on network penetration testing, explaining what it is, debunking common myths and reimagining its role in today's security landscape.  What is network penetration testing? Network penetration testing  is a proactive approach to cybersecurity in which security experts simulate cyberattacks to identify gaps in an organization's cyberdefense. The key objective of this process is to identify and rectify weaknesses before hackers can exploit them. This process is sometimes called "pentesting" or "ethical hacking."  Network pentesting checks for chinks in an organization's armor to help mitigate cyber-risks and protect against data, financial and reputational losses.  Differe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Check Point Software in SEC Settlement Talks in Connection With SolarWinds Probe<a href="https://www.cybersecuritydive.com/news/check-point-sec-settlement-solarwinds/702398/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Software Technologies has cooperated with the SEC inquiry into the SolarWinds Orion cyber vulnerability, voluntarily providing documents and information about its limited testing environment access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian SVR-Linked APT29 Targets JetBrains TeamCity Servers in Ongoing Attacks<a href="https://thehackernews.com/2023/12/russian-svr-linked-apt29-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors affiliated with the Russian Foreign Intelligence Service (SVR) have targeted unpatched JetBrains TeamCity servers in widespread attacks since September 2023. The activity has been tied to a nation-state group known as  APT29 , which is also tracked as BlueBravo, Cloaked Ursa, Cozy Bear, Midnight Blizzard (formerly Nobelium), and The Dukes. It's notable for the supply chain attack  targeting SolarWinds  and its customers in 2020. "The SVR has, however, been observed using the initial access gleaned by exploiting the TeamCity CVE to escalate its privileges, move laterally, deploy additional backdoors, and take other steps to ensure persistent and long-term access to the compromised network environments," cybersecurity agencies from Poland, the U.K., and the U.S.  said . The vulnerability in question is  CVE-2023-42793  (CVSS score: 9.8), a critical security flaw that could be weaponized by unauthenticated attackers to achieve remote code execution on affec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked APT Volt Typhoon Linked to KV-Botnet Attacks<a href="https://securityaffairs.com/155797/apt/volt-typhoon-linked-to-kv-botnet.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volt Typhoon utilizes living-off-the-land techniques and hands-on-keyboard activity to evade detection, routing malicious traffic through compromised SOHO network devices and relying on customized versions of open-source tools for communication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hacker Group 'GambleForce' Tageting APAC Firms Using SQL Injection Attacks<a href="https://thehackernews.com/2023/12/new-hacker-group-gambleforce-tageting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown hacker outfit called  GambleForce  has been attributed to a series of SQL injection attacks against companies primarily in the Asia-Pacific (APAC) region since at least September 2023. "GambleForce uses a set of basic yet very effective techniques, including SQL injections and the exploitation of vulnerable website content management systems (CMS) to steal sensitive information, such as user credentials," Singapore-headquartered Group-IB  said  in a report shared with The Hacker News. The group is estimated to have targeted 24 organizations in the gambling, government, retail, and travel sectors across Australia, Brazil, China, India, Indonesia, the Philippines, South Korea, and Thailand. Six of these attacks were successful. The modus operandi of GambleForce is its exclusive reliance on open-source tools like dirsearch, sqlmap, tinyproxy, and redis-rogue-getshell at different stages of the attacks with the ultimate goal of exfiltrating sensitive inf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 14, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red Roof Hotels Claims Cybersecurity Incident Did Not Involve Guest Data<a href="https://www.cybersecuritydive.com/news/red-roof-cybersecurity-incident-guest-data/702399/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hotel company Red Roof experienced a ransomware attack in September, but fortunately, no guest data was compromised. The attack was detected when suspicious activity was noticed, leading to the discovery of ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 13, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero Networks Raises $20 Million Series B to Prevent Attackers From Spreading in Corporate Networks<a href="https://www.calcalistech.com/ctechnews/article/rysul7pua?&web_view=true"> Full Text</a>
@@ -50,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2023
+December 13, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BazaCall Phishing Scammers Now Leveraging Google Forms for Deception<a href="https://thehackernews.com/2023/12/bazacall-phishing-scammers-now.html"> Full Text</a>
@@ -66,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2023
+December 13, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Underground Market Comes Online Just inTime for the Holidays<a href="https://www.zerofox.com/blog/new-underground-market-comes-online-just-intime-for-the-holidays/?&web_view=true"> Full Text</a>
@@ -82,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2023
+December 13, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Using Clang Sanitizers to Protect Android Against Cellular Baseband Vulnerabilities<a href="https://thehackernews.com/2023/12/google-using-clang-sanitizers-to.html"> Full Text</a>
@@ -98,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2023
+December 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Ransomware Group Publishes Stolen Medical Data<a href="https://www.govtech.com/security/ransomware-group-publishes-stolen-medical-data?&web_view=true"> Full Text</a>
@@ -114,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2023
+December 13, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Analyze Malware's Network Traffic in A Sandbox<a href="https://thehackernews.com/2023/12/how-to-analyze-malwares-network-traffic.html"> Full Text</a>
@@ -130,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2023
+December 13, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sophos Backports Fix for CVE-2022-3236 for EOL Firewall Firmware<a href="https://securityaffairs.com/155746/security/sophos-backports-cve-2022-3236-patch.html?&web_view=true"> Full Text</a>
@@ -146,7 +354,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2023
+December 13, 2023 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Hackers Exploiting OAuth for Cryptocurrency Mining and Phishing<a href="https://thehackernews.com/2023/12/microsoft-warns-of-hackers-exploiting.html"> Full Text</a>
@@ -162,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2023
+December 13, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FCC Reminds Mobile Phone Carriers They Must do More to Prevent SIM Swaps<a href="https://therecord.media/fcc-sim-swapping-reminder-telecoms-consumer-protection?&web_view=true"> Full Text</a>
@@ -178,7 +386,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2023
+December 13, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major Cyber Attack Paralyzes Kyivstar - Ukraine's Largest Telecom Operator<a href="https://thehackernews.com/2023/12/major-cyber-attack-paralyzes-kyivstar.html"> Full Text</a>
@@ -194,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2023
+December 13, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cluster of Malicious Python Packages in PyPI Discovered Distributing Malware<a href="https://www.welivesecurity.com/en/eset-research/pernicious-potpourri-python-packages-pypi/?&web_view=true"> Full Text</a>
@@ -210,7 +418,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2023
+December 13, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Congress Finds Pharmacies Give Patient Records to Law Enforcement Without Warrants<a href="https://therecord.media/congressional-report-pharmacies-give-patient-records-law-enforcement-no-warrants?&web_view=true"> Full Text</a>
@@ -226,7 +434,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2023
+December 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DonorView Exposes One Million Records for Unknown Time Frame<a href="https://www.theregister.com/2023/12/13/donorview_database_breach/?&web_view=true"> Full Text</a>
@@ -242,7 +450,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2023
+December 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Ministry of Defence Fined $440K for Afghan Evacuation Data Breach<a href="https://therecord.media/uk-defence-fined-for-afghan-breach?&web_view=true"> Full Text</a>
@@ -258,7 +466,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 13, 2023
+December 13, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dubai’s Largest Taxi App DTC Exposes Data on Over 220,000 People<a href="https://securityaffairs.com/155695/security/dubai-taxi-company-data-leak.html?&web_view=true"> Full Text</a>
