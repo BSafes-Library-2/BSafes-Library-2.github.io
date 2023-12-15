@@ -8,6 +8,48 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+December 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian State-Sponsored OilRig Group Deploys 3 New Malware Downloaders<a href="https://thehackernews.com/2023/12/iranian-state-sponsored-oilrig-group.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian state-sponsored threat actor known as&nbsp; OilRig &nbsp;deployed three different downloader malware throughout 2022 to maintain persistent access to victim organizations located in Israel. The three new downloaders have been named ODAgent, OilCheck, and OilBooster by Slovak cybersecurity company ESET. The attacks also involved the use of an updated version of a known OilRig downloader dubbed&nbsp; SampleCheck5000 &nbsp;(or SC5k). "These lightweight downloaders [...] are notable for using one of several legitimate cloud service APIs for [command-and-control] communication and data exfiltration: the Microsoft Graph OneDrive or Outlook APIs, and the Microsoft Office Exchange Web Services (EWS) API," security researchers Zuzana Hromcová and Adam Burgher&nbsp; said &nbsp;in a report shared with The Hacker News. By using well-known cloud service providers for command-and-control communication, the goal is to blend with authentic network traffic and cover up the group's attack infrastructure
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian SVR-Linked APT29 Targets JetBrains TeamCity Servers in Ongoing Attacks<a href="https://thehackernews.com/2023/12/russian-svr-linked-apt29-targets.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors affiliated with the Russian Foreign Intelligence Service (SVR) have targeted unpatched JetBrains TeamCity servers in widespread attacks since September 2023. The activity has been tied to a nation-state group known as&nbsp; APT29 , which is also tracked as BlueBravo, Cloaked Ursa, Cozy Bear, Midnight Blizzard (formerly Nobelium), and The Dukes. It's notable for the supply chain attack&nbsp; targeting SolarWinds &nbsp;and its customers in 2020. "The SVR has, however, been observed using the initial access gleaned by exploiting the TeamCity CVE to escalate its privileges, move laterally, deploy additional backdoors, and take other steps to ensure persistent and long-term access to the compromised network environments," cybersecurity agencies from Poland, the U.K., and the U.S.&nbsp; said . The vulnerability in question is&nbsp; CVE-2023-42793 &nbsp;(CVSS score: 9.8), a critical security flaw that could be weaponized by unauthenticated attackers to achieve remote code execution on affec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked APT Volt Typhoon Linked to KV-Botnet Attacks<a href="https://securityaffairs.com/155797/apt/volt-typhoon-linked-to-kv-botnet.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volt Typhoon utilizes living-off-the-land techniques and hands-on-keyboard activity to evade detection, routing malicious traffic through compromised SOHO network devices and relying on customized versions of open-source tools for communication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

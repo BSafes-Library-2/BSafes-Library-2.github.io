@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2023
+December 14, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Saudi Cyber Students Team with Bahrain to Assess AI Security & Risk<a href="https://www.darkreading.com/cloud-security/saudi-cyber-students-team-bahrain-assess-ai-risk?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2023
+December 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 116 Malware Packages Found on PyPI Repository Infecting Windows and Linux Systems<a href="https://thehackernews.com/2023/12/116-malware-packages-found-on-pypi.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2023
+December 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sony Investigating Potential Ransomware Attack on Insomniac Games Unit<a href="https://therecord.media/sony-investigating-ransomware-insomniac-games?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2023
+December 14, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Pierogi++ Malware by Gaza Cyber Gang Targeting Palestinian Entities<a href="https://thehackernews.com/2023/12/new-pierogi-malware-by-gaza-cyber-gang.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2023
+December 14, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ThreatNG Open-Source Datasets Aim to Improve Cybersecurity Practices<a href="https://www.helpnetsecurity.com/2023/12/13/threatng-open-source-datasets/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2023
+December 14, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian State-Sponsored OilRig Group Deploys 3 New Malware Downloaders<a href="https://thehackernews.com/2023/12/iranian-state-sponsored-oilrig-group.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2023
+December 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 District Court in Switzerland ‘Victim of a Cyber Attack’<a href="https://therecord.media/district-court-switzerland-cyberattack?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2023
+December 14, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Reimagining Network Pentesting With Automation<a href="https://thehackernews.com/2023/12/reimagining-network-pentesting-with-automation.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2023
+December 14, 2023 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Check Point Software in SEC Settlement Talks in Connection With SolarWinds Probe<a href="https://www.cybersecuritydive.com/news/check-point-sec-settlement-solarwinds/702398/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2023
+December 14, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian SVR-Linked APT29 Targets JetBrains TeamCity Servers in Ongoing Attacks<a href="https://thehackernews.com/2023/12/russian-svr-linked-apt29-targets.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2023
+December 14, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked APT Volt Typhoon Linked to KV-Botnet Attacks<a href="https://securityaffairs.com/155797/apt/volt-typhoon-linked-to-kv-botnet.html?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2023
+December 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hacker Group 'GambleForce' Tageting APAC Firms Using SQL Injection Attacks<a href="https://thehackernews.com/2023/12/new-hacker-group-gambleforce-tageting.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 14, 2023
+December 14, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Red Roof Hotels Claims Cybersecurity Incident Did Not Involve Guest Data<a href="https://www.cybersecuritydive.com/news/red-roof-cybersecurity-incident-guest-data/702399/?&web_view=true"> Full Text</a>

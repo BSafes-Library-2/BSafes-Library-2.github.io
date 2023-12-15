@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saudi Cyber Students Team with Bahrain to Assess AI Security &amp; Risk<a href="https://www.darkreading.com/cloud-security/saudi-cyber-students-team-bahrain-assess-ai-risk?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Saudi Arabian students specializing in AI and cybersecurity are participating in workshops to enhance their capabilities in identifying and assessing potential risks of large language models (LLMs) across different platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

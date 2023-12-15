@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+December 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ThreatNG Open-Source Datasets Aim to Improve Cybersecurity Practices<a href="https://www.helpnetsecurity.com/2023/12/13/threatng-open-source-datasets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ThreatNG Governance and Compliance Dataset is an open-source initiative that aims to provide access to critical cybersecurity data, promoting transparency and collaboration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

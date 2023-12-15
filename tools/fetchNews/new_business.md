@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Check Point Software in SEC Settlement Talks in Connection With SolarWinds Probe<a href="https://www.cybersecuritydive.com/news/check-point-sec-settlement-solarwinds/702398/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Check Point Software Technologies has cooperated with the SEC inquiry into the SolarWinds Orion cyber vulnerability, voluntarily providing documents and information about its limited testing environment access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

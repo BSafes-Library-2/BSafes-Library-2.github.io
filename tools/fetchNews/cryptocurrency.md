@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+December 13, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Hackers Exploiting OAuth for Cryptocurrency Mining and Phishing<a href="https://thehackernews.com/2023/12/microsoft-warns-of-hackers-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has warned that adversaries are using OAuth applications as an automation tool to deploy virtual machines (VMs) for cryptocurrency mining and launch phishing attacks. "Threat actors compromise user accounts to create, modify, and grant high privileges to OAuth applications that they can misuse to hide malicious activity," the Microsoft Threat Intelligence team&nbsp; said &nbsp;in an analysis. "The misuse of OAuth also enables threat actors to maintain access to applications even if they lose access to the initially compromised account." OAuth , short for Open Authorization, is an&nbsp; authorization and delegation framework &nbsp;(as opposed to authentication) that provides applications the ability to securely access information from other websites without handing over passwords. In the attacks detailed by Microsoft, threat actors have been observed launching phishing or password-spraying attacks against poorly secured accounts with permissions to create or modify OAuth
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 27, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
