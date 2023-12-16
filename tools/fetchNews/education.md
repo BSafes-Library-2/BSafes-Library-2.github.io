@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Reimagining Network Pentesting With Automation<a href="https://thehackernews.com/2023/12/reimagining-network-pentesting-with-automation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Network penetration testing plays a crucial role in protecting businesses in the ever-evolving world of cybersecurity. Yet, business leaders and IT pros have misconceptions about this process, which impacts their security posture and decision-making.&nbsp; This blog acts as a quick guide on network penetration testing, explaining what it is, debunking common myths and reimagining its role in today's security landscape.&nbsp; What is network penetration testing? Network penetration testing &nbsp;is a proactive approach to cybersecurity in which security experts simulate cyberattacks to identify gaps in an organization's cyberdefense. The key objective of this process is to identify and rectify weaknesses before hackers can exploit them. This process is sometimes called "pentesting" or "ethical hacking."&nbsp; Network pentesting checks for chinks in an organization's armor to help mitigate cyber-risks and protect against data, financial and reputational losses.&nbsp; Differe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

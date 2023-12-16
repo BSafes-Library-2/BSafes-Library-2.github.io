@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New KV-Botnet Targeting Cisco, DrayTek, and Fortinet Devices for Stealthy Attacks<a href="https://thehackernews.com/2023/12/new-kv-botnet-targeting-cisco-draytek.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new botnet consisting of firewalls and routers from Cisco, DrayTek, Fortinet, and NETGEAR is being used as a covert data transfer network for advanced persistent threat actors, including the China-linked threat actor called&nbsp; Volt Typhoon . Dubbed&nbsp; KV-botnet &nbsp;by the Black Lotus Labs team at Lumen Technologies, the malicious network is an amalgamation of two complementary activity clusters that have been active since at least February 2022. "The campaign infects devices at the edge of networks, a segment that has emerged as a soft spot in the defensive array of many enterprises, compounded by the shift to remote work in recent years," the company&nbsp; said . The two clusters – codenamed KY and JDY – are said to be distinct yet working in tandem to facilitate access to high-profile victims as well as establish covert infrastructure. Telemetry data suggests that the botnet is commandeered from IP addresses based in China. While the bots part of JDY engages in broader scanning
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 04, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

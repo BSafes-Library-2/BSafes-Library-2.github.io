@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google's New Tracking Protection in Chrome Blocks Third-Party Cookies<a href="https://thehackernews.com/2023/12/googles-new-tracking-protection-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday announced that it will start testing a new feature called "Tracking Protection" starting January 4, 2024, to 1% of Chrome users as part of its efforts to&nbsp; deprecate third-party cookies &nbsp;in the web browser. The setting is designed to limit "cross-site tracking by restricting website access to third-party cookies by default," Anthony Chavez, vice president of Privacy Sandbox at Google,&nbsp; said . The tech giant noted that participants for Tracking Protection will be selected at random and that chosen users will be notified upon opening Chrome on either a desktop or an Android device. The goal is to restrict third-party cookies (also called "non-essential cookies") by default, preventing them from being used to track users as they move from one website to the other for serving personalized ads. While several major browsers like Apple Safari and Mozilla Firefox have either already placed&nbsp; restrictions &nbsp;on third-party cookies via features l
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

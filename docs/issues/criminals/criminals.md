@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detect Undocumented 8220 Gang Activities<a href="https://www.imperva.com/blog/imperva-detects-undocumented-8220-gang-activities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 8220 gang, a Chinese-origin threat actor, continues to target Windows and Linux web servers with cryptojacking malware using evolving tactics and known vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV Ransomware Gang Returns, Sorta<a href="https://www.malwarebytes.com/blog/ransomware/2023/12/alphv-ransomware-gang-returns-sorta?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ALPHV ransomware gang is facing technical difficulties, with their leak site showing only one victim and negotiation links not working, potentially leaving them without payment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BianLian, White Rabbit, and Mario Ransomware Gangs Spotted in a Joint Extortion Campaign<a href="https://securityaffairs.com/155893/cyber-crime/bianlian-white-rabbit-mario-ransomware-joint-campaign.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware gangs utilized a "password spraying" attack and compromised email accounts through Business Email Compromise (BEC) to anonymously deliver ransom payment demands and complicate investigations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

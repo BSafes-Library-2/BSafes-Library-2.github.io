@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2023
+December 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detect Undocumented 8220 Gang Activities<a href="https://www.imperva.com/blog/imperva-detects-undocumented-8220-gang-activities/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2023
+December 15, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New KV-Botnet Targeting Cisco, DrayTek, and Fortinet Devices for Stealthy Attacks<a href="https://thehackernews.com/2023/12/new-kv-botnet-targeting-cisco-draytek.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2023
+December 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ALPHV Ransomware Gang Returns, Sorta<a href="https://www.malwarebytes.com/blog/ransomware/2023/12/alphv-ransomware-gang-returns-sorta?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2023
+December 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto Hardware Wallet Ledger's Supply Chain Breach Results in $600,000 Theft<a href="https://thehackernews.com/2023/12/crypto-hardware-wallet-ledgers-supply.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2023
+December 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data of Over a Million Users of the Crypto Exchange GokuMarket Exposed<a href="https://securityaffairs.com/155885/security/crypto-exchange-gokumarket-exposed.html?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2023
+December 15, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bug or Feature? Hidden Web Application Vulnerabilities Uncovered<a href="https://thehackernews.com/2023/12/bug-or-feature-hidden-web-application.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2023
+December 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BianLian, White Rabbit, and Mario Ransomware Gangs Spotted in a Joint Extortion Campaign<a href="https://securityaffairs.com/155893/cyber-crime/bianlian-white-rabbit-mario-ransomware-joint-campaign.html?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2023
+December 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Security Vulnerabilities Uncovered in pfSense Firewall Software - Patch Now<a href="https://thehackernews.com/2023/12/new-security-vulnerabilities-uncovered.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2023
+December 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kraft Heinz Reviewing Claims of Cyberattack but Internal Systems ‘Operating Normally’<a href="https://therecord.media/kraft-heinz-reviewing-claims-of-cyberattack-operating-normally?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2023
+December 15, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google's New Tracking Protection in Chrome Blocks Third-Party Cookies<a href="https://thehackernews.com/2023/12/googles-new-tracking-protection-in.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2023
+December 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New NKAbuse Malware Exploits NKN Blockchain Tech for DDoS Attacks<a href="https://thehackernews.com/2023/12/new-nkabuse-malware-exploits-nkn.html"> Full Text</a>

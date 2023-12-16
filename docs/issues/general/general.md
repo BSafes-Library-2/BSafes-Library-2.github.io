@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug or Feature? Hidden Web Application Vulnerabilities Uncovered<a href="https://thehackernews.com/2023/12/bug-or-feature-hidden-web-application.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web Application Security consists of a myriad of security controls that ensure that a web application: Functions as expected. Cannot be exploited to operate out of bounds. Cannot initiate operations that it is not supposed to do. Web Applications have become ubiquitous after the expansion of Web 2.0, which Social Media Platforms, E-Commerce websites, and email clients saturating the internet spaces in recent years.&nbsp; As the applications consume and store even more sensitive and comprehensive data, they become an ever more appealing target for attackers.&nbsp; Common Attack Methods The three most common vulnerabilities that exist in this space are Injections (SQL, Remote Code), Cryptographic Failures (previously sensitive data exposure), and Broken Access Control (BAC). Today, we will focus on Injections and Broken Access Control.&nbsp; Injections&nbsp; SQL is the most common Database software that is used, and hosts a plethora of payment data, PII data, and internal business records. A SQ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

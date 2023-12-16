@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+December 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Hardware Wallet Ledger's Supply Chain Breach Results in $600,000 Theft<a href="https://thehackernews.com/2023/12/crypto-hardware-wallet-ledgers-supply.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto hardware wallet maker Ledger published a new version of its " @ledgerhq/connect-kit " npm module after unidentified threat actors pushed malicious code that led to the theft of&nbsp; more than $600,000 &nbsp;in virtual assets. The&nbsp; compromise &nbsp;was the result of a former employee falling victim to a phishing attack, the company said in a statement. This allowed the attackers to gain access to Ledger's npm account and upload three malicious versions of the module – 1.1.5, 1.1.6, and 1.1.7 — and propagate&nbsp; crypto drainer malware &nbsp;to&nbsp; other applications &nbsp;that are dependent on the module, resulting in a software supply chain breach. "The malicious code used a rogue WalletConnect project to reroute funds to a hacker wallet," Ledger&nbsp; said . Connect Kit , as the name implies, makes it possible to connect DApps (short decentralized applications) to Ledger's hardware wallets. According to security firm Sonatype, version 1.1.7 directly embedded a wallet-draining pa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of Over a Million Users of the Crypto Exchange GokuMarket Exposed<a href="https://securityaffairs.com/155885/security/crypto-exchange-gokumarket-exposed.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The centralized crypto exchange GokuMarket, owned by ByteX, left an open instance, exposing sensitive user data, including IP addresses, email addresses, encrypted passwords, and crypto wallet addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

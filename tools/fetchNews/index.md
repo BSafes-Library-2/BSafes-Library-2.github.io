@@ -34,6 +34,182 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detect Undocumented 8220 Gang Activities<a href="https://www.imperva.com/blog/imperva-detects-undocumented-8220-gang-activities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 8220 gang, a Chinese-origin threat actor, continues to target Windows and Linux web servers with cryptojacking malware using evolving tactics and known vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New KV-Botnet Targeting Cisco, DrayTek, and Fortinet Devices for Stealthy Attacks<a href="https://thehackernews.com/2023/12/new-kv-botnet-targeting-cisco-draytek.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new botnet consisting of firewalls and routers from Cisco, DrayTek, Fortinet, and NETGEAR is being used as a covert data transfer network for advanced persistent threat actors, including the China-linked threat actor called  Volt Typhoon . Dubbed  KV-botnet  by the Black Lotus Labs team at Lumen Technologies, the malicious network is an amalgamation of two complementary activity clusters that have been active since at least February 2022. "The campaign infects devices at the edge of networks, a segment that has emerged as a soft spot in the defensive array of many enterprises, compounded by the shift to remote work in recent years," the company  said . The two clusters – codenamed KY and JDY – are said to be distinct yet working in tandem to facilitate access to high-profile victims as well as establish covert infrastructure. Telemetry data suggests that the botnet is commandeered from IP addresses based in China. While the bots part of JDY engages in broader scanning
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ALPHV Ransomware Gang Returns, Sorta<a href="https://www.malwarebytes.com/blog/ransomware/2023/12/alphv-ransomware-gang-returns-sorta?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ALPHV ransomware gang is facing technical difficulties, with their leak site showing only one victim and negotiation links not working, potentially leaving them without payment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Hardware Wallet Ledger's Supply Chain Breach Results in $600,000 Theft<a href="https://thehackernews.com/2023/12/crypto-hardware-wallet-ledgers-supply.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto hardware wallet maker Ledger published a new version of its " @ledgerhq/connect-kit " npm module after unidentified threat actors pushed malicious code that led to the theft of  more than $600,000  in virtual assets. The  compromise  was the result of a former employee falling victim to a phishing attack, the company said in a statement. This allowed the attackers to gain access to Ledger's npm account and upload three malicious versions of the module – 1.1.5, 1.1.6, and 1.1.7 — and propagate  crypto drainer malware  to  other applications  that are dependent on the module, resulting in a software supply chain breach. "The malicious code used a rogue WalletConnect project to reroute funds to a hacker wallet," Ledger  said . Connect Kit , as the name implies, makes it possible to connect DApps (short decentralized applications) to Ledger's hardware wallets. According to security firm Sonatype, version 1.1.7 directly embedded a wallet-draining pa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data of Over a Million Users of the Crypto Exchange GokuMarket Exposed<a href="https://securityaffairs.com/155885/security/crypto-exchange-gokumarket-exposed.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The centralized crypto exchange GokuMarket, owned by ByteX, left an open instance, exposing sensitive user data, including IP addresses, email addresses, encrypted passwords, and crypto wallet addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug or Feature? Hidden Web Application Vulnerabilities Uncovered<a href="https://thehackernews.com/2023/12/bug-or-feature-hidden-web-application.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Web Application Security consists of a myriad of security controls that ensure that a web application: Functions as expected. Cannot be exploited to operate out of bounds. Cannot initiate operations that it is not supposed to do. Web Applications have become ubiquitous after the expansion of Web 2.0, which Social Media Platforms, E-Commerce websites, and email clients saturating the internet spaces in recent years.  As the applications consume and store even more sensitive and comprehensive data, they become an ever more appealing target for attackers.  Common Attack Methods The three most common vulnerabilities that exist in this space are Injections (SQL, Remote Code), Cryptographic Failures (previously sensitive data exposure), and Broken Access Control (BAC). Today, we will focus on Injections and Broken Access Control.  Injections  SQL is the most common Database software that is used, and hosts a plethora of payment data, PII data, and internal business records. A SQ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BianLian, White Rabbit, and Mario Ransomware Gangs Spotted in a Joint Extortion Campaign<a href="https://securityaffairs.com/155893/cyber-crime/bianlian-white-rabbit-mario-ransomware-joint-campaign.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware gangs utilized a "password spraying" attack and compromised email accounts through Business Email Compromise (BEC) to anonymously deliver ransom payment demands and complicate investigations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Security Vulnerabilities Uncovered in pfSense Firewall Software - Patch Now<a href="https://thehackernews.com/2023/12/new-security-vulnerabilities-uncovered.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been discovered in the open-source Netgate pfSense firewall solution called pfSense that could be chained by an attacker to execute arbitrary commands on susceptible appliances. The issues relate to two reflected cross-site scripting ( XSS ) bugs and one command injection flaw, according to new findings from Sonar. "Security inside a local network is often more lax as network administrators trust their firewalls to protect them from remote attacks," security researcher Oskar Zeino-Mahmalat  said . "Potential attackers could have used the discovered vulnerabilities to spy on traffic or attack services inside the local network." Impacting pfSense CE 2.7.0 and below and pfSense Plus 23.05.1 and below, the shortcomings could be weaponized by tricking an authenticated pfSense user (i.e., an admin user) into clicking on a specially crafted URL, which contains an XSS payload that activates command injection. A brief description
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kraft Heinz Reviewing Claims of Cyberattack but Internal Systems ‘Operating Normally’<a href="https://therecord.media/kraft-heinz-reviewing-claims-of-cyberattack-operating-normally?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kraft Heinz is investigating claims of a data breach by the Snatch ransomware gang, but currently sees no evidence of a broader attack or adverse effects on its internal systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google's New Tracking Protection in Chrome Blocks Third-Party Cookies<a href="https://thehackernews.com/2023/12/googles-new-tracking-protection-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google on Thursday announced that it will start testing a new feature called "Tracking Protection" starting January 4, 2024, to 1% of Chrome users as part of its efforts to  deprecate third-party cookies  in the web browser. The setting is designed to limit "cross-site tracking by restricting website access to third-party cookies by default," Anthony Chavez, vice president of Privacy Sandbox at Google,  said . The tech giant noted that participants for Tracking Protection will be selected at random and that chosen users will be notified upon opening Chrome on either a desktop or an Android device. The goal is to restrict third-party cookies (also called "non-essential cookies") by default, preventing them from being used to track users as they move from one website to the other for serving personalized ads. While several major browsers like Apple Safari and Mozilla Firefox have either already placed  restrictions  on third-party cookies via features l
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New NKAbuse Malware Exploits NKN Blockchain Tech for DDoS Attacks<a href="https://thehackernews.com/2023/12/new-nkabuse-malware-exploits-nkn.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A novel multi-platform threat called  NKAbuse  has been discovered using a decentralized, peer-to-peer network connectivity protocol known as  NKN  (short for New Kind of Network) as a communications channel. "The malware utilizes NKN technology for data exchange between peers, functioning as a potent implant, and equipped with both flooder and backdoor capabilities," Russian cybersecurity company Kaspersky  said  in a Thursday report. NKN, which has over 62,000 nodes, is  described  as a "software overlay network built on top of today's Internet that enables users to share unused bandwidth and earn token rewards." It incorporates a blockchain layer on top of the existing TCP/IP stack. While threat actors are known to take advantage of emerging communication protocols for command-and-control (C2) purposes and evade detection, NKAbuse leverages blockchain technology to conduct distributed denial-of-service (DDoS) attacks and function as an implant inside com
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 14, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

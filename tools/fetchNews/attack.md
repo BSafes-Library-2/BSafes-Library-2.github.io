@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+December 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sony Investigating Potential Ransomware Attack on Insomniac Games Unit<a href="https://therecord.media/sony-investigating-ransomware-insomniac-games?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sony's subsidiary, Insomniac Games, is currently investigating a reported ransomware attack by the Rhysida gang, which has targeted various government institutions and healthcare organizations in the past.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+District Court in Switzerland ‘Victim of a Cyber Attack’<a href="https://therecord.media/district-court-switzerland-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This incident follows a similar ransomware attack on the municipal administration of Zollikofen in November, highlighting the growing threat of ransomware attacks targeting Swiss organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hacker Group 'GambleForce' Tageting APAC Firms Using SQL Injection Attacks<a href="https://thehackernews.com/2023/12/new-hacker-group-gambleforce-tageting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously unknown hacker outfit called&nbsp; GambleForce &nbsp;has been attributed to a series of SQL injection attacks against companies primarily in the Asia-Pacific (APAC) region since at least September 2023. "GambleForce uses a set of basic yet very effective techniques, including SQL injections and the exploitation of vulnerable website content management systems (CMS) to steal sensitive information, such as user credentials," Singapore-headquartered Group-IB&nbsp; said &nbsp;in a report shared with The Hacker News. The group is estimated to have targeted 24 organizations in the gambling, government, retail, and travel sectors across Australia, Brazil, China, India, Indonesia, the Philippines, South Korea, and Thailand. Six of these attacks were successful. The modus operandi of GambleForce is its exclusive reliance on open-source tools like dirsearch, sqlmap, tinyproxy, and redis-rogue-getshell at different stages of the attacks with the ultimate goal of exfiltrating sensitive inf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 14, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Red Roof Hotels Claims Cybersecurity Incident Did Not Involve Guest Data<a href="https://www.cybersecuritydive.com/news/red-roof-cybersecurity-incident-guest-data/702399/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hotel company Red Roof experienced a ransomware attack in September, but fortunately, no guest data was compromised. The attack was detected when suspicious activity was noticed, leading to the discovery of ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
