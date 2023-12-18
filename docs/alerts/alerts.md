@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 15, 2023 - Microsoft
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Storm-0539 <a href="https://twitter.com/MsftSecIntel/status/1735351713907773711"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has observed a significant surge in activity associated with the threat actor Storm-0539, known to target retail organizations for gift card fraud and theft using highly sophisticated email and SMS phishing during the holiday shopping season.
+</details>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 12, 2023 - Microsoft
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

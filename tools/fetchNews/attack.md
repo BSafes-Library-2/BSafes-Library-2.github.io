@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 15, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kraft Heinz Reviewing Claims of Cyberattack but Internal Systems ‘Operating Normally’<a href="https://therecord.media/kraft-heinz-reviewing-claims-of-cyberattack-operating-normally?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kraft Heinz is investigating claims of a data breach by the Snatch ransomware gang, but currently sees no evidence of a broader attack or adverse effects on its internal systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
