@@ -34,6 +34,102 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 17, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MongoDB Suffers Security Breach, Exposing Customer Data<a href="https://thehackernews.com/2023/12/mongodb-suffers-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MongoDB on Saturday disclosed it's actively investigating a security incident that has led to unauthorized access to "certain" corporate systems, resulting in the exposure of customer account metadata and contact information. The American database software company  said  it first detected anomalous activity on December 13, 2023, and that it immediately activated its incident response efforts. It further noted that "this unauthorized access has been going on for some period of time before discovery," but emphasized it's not "aware of any exposure to the data that customers store in MongoDB Atlas." It did not disclose the exact time period of the compromise. In light of the breach, MongoDB recommends that all customers be on the lookout for social engineering and phishing attacks, enforce phishing-resistant multi-factor authentication (MFA), as well as rotate their MongoDB Atlas passwords. That's not all. The company said it's also expe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Central Bank of Lesotho Facing Outages After Cyberattack<a href="https://therecord.media/central-bank-lesotho-cyberattack-causes-outages?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ongoing downtime of the National Payments System has made it impossible for local banks in Lesotho to honor inter-bank transactions, requiring alternative measures to facilitate payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ontario Public Library Shuts Down Most Services Due to Cyberattack<a href="https://therecord.media/ontario-public-library-shuts-down-services?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack on the library, along with recent ransomware incidents at other major libraries, underscores the need for improved cybersecurity measures and data protection in the library sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's MIIT Introduces Color-Coded Action Plan for Data Security Incidents<a href="https://thehackernews.com/2023/12/chinas-miit-introduces-color-coded.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China's Ministry of Industry and Information Technology (MIIT) on Friday  unveiled draft proposals  detailing its plans to tackle data security events in the country using a color-coded system. The effort is designed to "improve the comprehensive response capacity for data security incidents, to ensure timely and effective control, mitigation and elimination of hazards and losses caused by data security incidents, to protect the lawful rights and interests of individuals and organizations, and to safeguard national security and public interests, the department said. The 25-page document encompasses all incidents in which data has been illegally accessed, leaked, destroyed, or tampered with, categorized them into four hierarchical tiers based on the scope and the degree of harm caused -  Red:  Level I ("especially significant"), which applies to widespread shutdowns, substantial loss of business processing capability, interruptions arising due to serious anomalie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PikaBot Distributed via Malicious Search Ads<a href="https://www.malwarebytes.com/blog/threat-intelligence/2023/12/pikabot-distributed-via-malicious-ads?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are bypassing Google's security measures and using fingerprinting techniques to ensure successful execution of malicious downloads, pointing to a potential "malvertising as a service" model.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 16, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Storm-0539: The Rising Threat Behind Holiday Gift Card Frauds<a href="https://thehackernews.com/2023/12/microsoft-warns-of-storm-0539-rising.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of an uptick in malicious activity from an emerging threat cluster it's tracking as  Storm-0539  for orchestrating gift card fraud and theft via highly sophisticated email and SMS phishing attacks against retail entities during the holiday shopping season. The goal of the attacks is to propagate booby-trapped links that direct victims to adversary-in-the-middle (AiTM) phishing pages that are capable of harvesting their credentials and session tokens. "After gaining access to an initial session and token, Storm-0539 registers their own device for subsequent secondary authentication prompts, bypassing MFA protections and persisting in the environment using the fully compromised identity," the tech giant  said  in a series of posts on X (formerly Twitter). The foothold obtained in this manner further acts as a conduit for escalating privileges, moving laterally across the network, and accessing cloud resources in order to grab sensitive information,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 15, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
