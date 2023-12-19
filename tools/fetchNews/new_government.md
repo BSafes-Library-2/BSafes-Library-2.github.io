@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK National Grid Pulls Chinese Equipment Over Cybersecurity Concerns<a href="https://www.theregister.com/2023/12/18/national_grid_bans_china_equipment/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The contract with NR Electric UK, a subsidiary of China's Nari Technology, was terminated without reason given in April, highlighting growing concerns over Chinese involvement in critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

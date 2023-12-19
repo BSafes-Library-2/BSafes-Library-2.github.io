@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Storm-0539: The Rising Threat Behind Holiday Gift Card Frauds<a href="https://thehackernews.com/2023/12/microsoft-warns-of-storm-0539-rising.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft is warning of an uptick in malicious activity from an emerging threat cluster it's tracking as&nbsp; Storm-0539 &nbsp;for orchestrating gift card fraud and theft via highly sophisticated email and SMS phishing attacks against retail entities during the holiday shopping season. The goal of the attacks is to propagate booby-trapped links that direct victims to adversary-in-the-middle (AiTM) phishing pages that are capable of harvesting their credentials and session tokens. "After gaining access to an initial session and token, Storm-0539 registers their own device for subsequent secondary authentication prompts, bypassing MFA protections and persisting in the environment using the fully compromised identity," the tech giant&nbsp; said &nbsp;in a series of posts on X (formerly Twitter). The foothold obtained in this manner further acts as a conduit for escalating privileges, moving laterally across the network, and accessing cloud resources in order to grab sensitive information,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 07, 2023 
 {: .fs-4 .fw-700 .<br>lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

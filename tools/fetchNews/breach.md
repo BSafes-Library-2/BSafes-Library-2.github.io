@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 17, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MongoDB Suffers Security Breach, Exposing Customer Data<a href="https://thehackernews.com/2023/12/mongodb-suffers-security-breach.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MongoDB on Saturday disclosed it's actively investigating a security incident that has led to unauthorized access to "certain" corporate systems, resulting in the exposure of customer account metadata and contact information. The American database software company&nbsp; said &nbsp;it first detected anomalous activity on December 13, 2023, and that it immediately activated its incident response efforts. It further noted that "this unauthorized access has been going on for some period of time before discovery," but emphasized it's not "aware of any exposure to the data that customers store in MongoDB Atlas." It did not disclose the exact time period of the compromise. In light of the breach, MongoDB recommends that all customers be on the lookout for social engineering and phishing attacks, enforce phishing-resistant multi-factor authentication (MFA), as well as rotate their MongoDB Atlas passwords. That's not all. The company said it's also expe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

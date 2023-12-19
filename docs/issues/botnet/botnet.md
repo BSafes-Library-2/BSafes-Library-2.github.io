@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+December 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+InfectedSlurs Botnet Targets QNAP VioStor NVR Vulnerability<a href="https://securityaffairs.com/155972/hacking/infectedslurs-botnet-qnap-viostor-nvr.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Default admin credentials and outdated, unsupported networked systems are being exploited as routes for botnet infections, highlighting the importance of updating and securing legacy systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

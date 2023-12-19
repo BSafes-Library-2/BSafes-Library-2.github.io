@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-China Influence Operation Gained YouTube Following, Researchers Find<a href="https://therecord.media/pro-china-youtube-operation-traction?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware: Experts Reveal New Details on Zero-Click Outlook RCE Exploits<a href="https://thehackernews.com/2023/12/beware-experts-reveal-new-details-on.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK National Grid Pulls Chinese Equipment Over Cybersecurity Concerns<a href="https://www.theregister.com/2023/12/18/national_grid_bans_china_equipment/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 7 Trends Shaping SaaS Security in 2024<a href="https://thehackernews.com/2023/12/top-7-trends-shaping-saas-security-in.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ubiquiti Fixes Glitch That Exposed Private Video Streams to Other Customers<a href="https://techcrunch.com/2023/12/15/ubiquiti-glitch-exposed-private-video-streams-other-customers/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rhadamanthys Malware: Swiss Army Knife of Information Stealers Emerges<a href="https://thehackernews.com/2023/12/rhadamanthys-malware-swiss-army-knife.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 InfectedSlurs Botnet Targets QNAP VioStor NVR Vulnerability<a href="https://securityaffairs.com/155972/hacking/infectedslurs-botnet-qnap-viostor-nvr.html?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four U.S. Nationals Charged in $80 Million Pig Butchering Crypto Scam<a href="https://thehackernews.com/2023/12/four-us-nationals-charged-in-80-million.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NY Engineer Pleads Guilty to Stealing Millions From Two Crypto Exchanges<a href="https://therecord.media/guilty-plea-cryptocurrency-exchange-thefts-nirvana?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unmasking the Dark Side of Low-Code/No-Code Applications<a href="https://thehackernews.com/2023/12/unmasking-dark-side-of-low-codeno-code.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortifying Cyber Defenses: A Proactive Approach to Ransomware Resilience<a href="https://www.helpnetsecurity.com/2023/12/15/government-cybersecurity-tools/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QakBot Malware Resurfaces with New Tactics, Targeting the Hospitality Industry<a href="https://thehackernews.com/2023/12/qakbot-malware-resurfaces-with-new.html"> Full Text</a>

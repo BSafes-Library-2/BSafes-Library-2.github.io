@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four U.S. Nationals Charged in $80 Million Pig Butchering Crypto Scam<a href="https://thehackernews.com/2023/12/four-us-nationals-charged-in-80-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four U.S. nationals have been charged for participating in an illicit scheme that earned them more than $80 million via cryptocurrency investment scams. The defendants – Lu Zhang, 36, of Alhambra, California; Justin Walker, 31, of Cypress, California; Joseph Wong, 32, Rosemead, California; and Hailong Zhu, 40, Naperville, Illinois – have been charged with conspiracy to commit money laundering, concealment money laundering, and international money laundering. The U.S. Department of Justice (DoJ), which announced the arrests of both Zhang and Walker in connection with the fraudulent operation, said the quartet opened shell companies and bank accounts to carry out&nbsp; pig butchering scams , transferring the ill-gotten funds to domestic and international financial entities. If convicted, Zhang and Walker face a maximum penalty of 20 years in prison. Their alleged co-conspirators remain at large. "The overall fraud scheme in the related pig-butchering syndicate involved at least 284
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NY Engineer Pleads Guilty to Stealing Millions From Two Crypto Exchanges<a href="https://therecord.media/guilty-plea-cryptocurrency-exchange-thefts-nirvana?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former security engineer has pleaded guilty to hacking two decentralized cryptocurrency exchanges, resulting in the theft of over $12 million. The hacker exploited vulnerabilities in the smart contracts of the exchanges.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 12, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

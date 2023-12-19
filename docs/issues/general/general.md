@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+December 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-China Influence Operation Gained YouTube Following, Researchers Find<a href="https://therecord.media/pro-china-youtube-operation-traction?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign utilizes a network of at least 30 YouTube channels and employs tactics associated with both Russian and Chinese influence operations, including the use of artificially generated voices in videos.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 7 Trends Shaping SaaS Security in 2024<a href="https://thehackernews.com/2023/12/top-7-trends-shaping-saas-security-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the past few years, SaaS has developed into the backbone of corporate IT. Service businesses, such as medical practices, law firms, and financial services firms, are almost entirely SaaS based. Non-service businesses, including manufacturers and retailers, have about 70% of their software in the cloud.&nbsp; These applications contain a wealth of data, from minimally sensitive general corporate information to highly sensitive intellectual property, customer records, and employee data. Threat actors have noted this shift, and are actively working to breach apps to access the data. Here are the top trends influencing the state of SaaS Security for 2024 — and what you can do about it.&nbsp; Democratization of SaaS&nbsp; SaaS apps have transformed the way organizations purchase and use software. Business units purchase and onboard the SaaS tools that best fit their needs. While this is empowering for business units that have long been frustrated by delays in procuring and onboarding software, i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unmasking the Dark Side of Low-Code/No-Code Applications<a href="https://thehackernews.com/2023/12/unmasking-dark-side-of-low-codeno-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Low-code/no-code (LCNC) and robotic process automation (RPA) have gained immense popularity, but how secure are they? Is your security team paying enough attention in an era of rapid digital transformation, where business users are empowered to create applications swiftly using platforms like Microsoft PowerApps, UiPath, ServiceNow, Mendix, and OutSystems? The simple truth is often swept under the rug. While low-code/no-code (LCNC) apps and robotic process automations (RPA) drive efficiency and agility, their dark security side demands scrutiny. LCNC application security emerges as a relatively new frontier, and even seasoned security practitioners and security teams grapple with the dynamic nature and sheer volume of citizen-developed applications. The accelerated pace of LCNC development poses a unique challenge for security professionals, underscoring the need for dedicated efforts and solutions to effectively address the security nuances of low-code development environments. Dig
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

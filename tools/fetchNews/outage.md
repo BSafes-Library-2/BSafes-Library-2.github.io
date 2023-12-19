@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+December 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Central Bank of Lesotho Facing Outages After Cyberattack<a href="https://therecord.media/central-bank-lesotho-cyberattack-causes-outages?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ongoing downtime of the National Payments System has made it impossible for local banks in Lesotho to honor inter-bank transactions, requiring alternative measures to facilitate payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ontario Public Library Shuts Down Most Services Due to Cyberattack<a href="https://therecord.media/ontario-public-library-shuts-down-services?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack on the library, along with recent ransomware incidents at other major libraries, underscores the need for improved cybersecurity measures and data protection in the library sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

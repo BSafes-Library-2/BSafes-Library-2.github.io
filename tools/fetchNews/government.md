@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 16, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China's MIIT Introduces Color-Coded Action Plan for Data Security Incidents<a href="https://thehackernews.com/2023/12/chinas-miit-introduces-color-coded.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+China's Ministry of Industry and Information Technology (MIIT) on Friday&nbsp; unveiled draft proposals &nbsp;detailing its plans to tackle data security events in the country using a color-coded system. The effort is designed to "improve the comprehensive response capacity for data security incidents, to ensure timely and effective control, mitigation and elimination of hazards and losses caused by data security incidents, to protect the lawful rights and interests of individuals and organizations, and to safeguard national security and public interests, the department said. The 25-page document encompasses all incidents in which data has been illegally accessed, leaked, destroyed, or tampered with, categorized them into four hierarchical tiers based on the scope and the degree of harm caused -&nbsp; Red: &nbsp;Level I ("especially significant"), which applies to widespread shutdowns, substantial loss of business processing capability, interruptions arising due to serious anomalie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
