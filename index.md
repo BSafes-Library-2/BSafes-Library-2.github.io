@@ -34,6 +34,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-China Influence Operation Gained YouTube Following, Researchers Find<a href="https://therecord.media/pro-china-youtube-operation-traction?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign utilizes a network of at least 30 YouTube channels and employs tactics associated with both Russian and Chinese influence operations, including the use of artificially generated voices in videos.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Experts Reveal New Details on Zero-Click Outlook RCE Exploits<a href="https://thehackernews.com/2023/12/beware-experts-reveal-new-details-on.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Technical details have emerged about two now-patched security flaws in Microsoft Windows that could be chained by threat actors to achieve remote code execution on the Outlook email service sans any user interaction. "An attacker on the internet can chain the vulnerabilities together to create a full, zero-click remote code execution (RCE) exploit against Outlook clients," Akamai security researcher Ben Barnea, who discovered the vulnerabilities, said in a  two-part   report  shared with The Hacker News. The security issues, which were addressed by Microsoft in  August  and  October 2023 , respectively, are listed below - CVE-2023-35384  (CVSS score: 5.4) - Windows HTML Platforms Security Feature Bypass Vulnerability CVE-2023-36710  (CVSS score: 7.8) - Windows Media Foundation Core Remote Code Execution Vulnerability CVE-2023-35384 has been described by Akamai as a bypass for a critical security flaw that Microsoft patched in March 2023. Tracked as  CVE-2023-23397  (C
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK National Grid Pulls Chinese Equipment Over Cybersecurity Concerns<a href="https://www.theregister.com/2023/12/18/national_grid_bans_china_equipment/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The contract with NR Electric UK, a subsidiary of China's Nari Technology, was terminated without reason given in April, highlighting growing concerns over Chinese involvement in critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top 7 Trends Shaping SaaS Security in 2024<a href="https://thehackernews.com/2023/12/top-7-trends-shaping-saas-security-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the past few years, SaaS has developed into the backbone of corporate IT. Service businesses, such as medical practices, law firms, and financial services firms, are almost entirely SaaS based. Non-service businesses, including manufacturers and retailers, have about 70% of their software in the cloud.  These applications contain a wealth of data, from minimally sensitive general corporate information to highly sensitive intellectual property, customer records, and employee data. Threat actors have noted this shift, and are actively working to breach apps to access the data. Here are the top trends influencing the state of SaaS Security for 2024 — and what you can do about it.  Democratization of SaaS  SaaS apps have transformed the way organizations purchase and use software. Business units purchase and onboard the SaaS tools that best fit their needs. While this is empowering for business units that have long been frustrated by delays in procuring and onboarding software, i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubiquiti Fixes Glitch That Exposed Private Video Streams to Other Customers<a href="https://techcrunch.com/2023/12/15/ubiquiti-glitch-exposed-private-video-streams-other-customers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug was caused by a misconfiguration during an upgrade to Ubiquiti's cloud infrastructure, resulting in 1,216 accounts being improperly associated with another group of 1,177 accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhadamanthys Malware: Swiss Army Knife of Information Stealers Emerges<a href="https://thehackernews.com/2023/12/rhadamanthys-malware-swiss-army-knife.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The developers of the information stealer malware known as  Rhadamanthys  are actively iterating on its features, broadening its information-gathering capabilities and also incorporating a plugin system to make it more customizable. This approach not only transforms it into a threat capable of delivering "specific distributor needs," but also makes it more potent, Check Point  said  in a technical deepdive published last week. Rhadamanthys,  first documented  by ThreatMon in October 2022, has been sold under the malware-as-a-service (MaaS) model as early as September 2022 by an actor under the alias "kingcrete2022." Typically distributed through malicious websites mirroring those of genuine software that are advertised through Google ads, the malware is capable of harvesting a wide range of sensitive information from compromised hosts, including from web browsers, crypto wallets, email clients, VPN, and instant messaging apps. "Rhadamanthys represents a s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+InfectedSlurs Botnet Targets QNAP VioStor NVR Vulnerability<a href="https://securityaffairs.com/155972/hacking/infectedslurs-botnet-qnap-viostor-nvr.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Default admin credentials and outdated, unsupported networked systems are being exploited as routes for botnet infections, highlighting the importance of updating and securing legacy systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four U.S. Nationals Charged in $80 Million Pig Butchering Crypto Scam<a href="https://thehackernews.com/2023/12/four-us-nationals-charged-in-80-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Four U.S. nationals have been charged for participating in an illicit scheme that earned them more than $80 million via cryptocurrency investment scams. The defendants – Lu Zhang, 36, of Alhambra, California; Justin Walker, 31, of Cypress, California; Joseph Wong, 32, Rosemead, California; and Hailong Zhu, 40, Naperville, Illinois – have been charged with conspiracy to commit money laundering, concealment money laundering, and international money laundering. The U.S. Department of Justice (DoJ), which announced the arrests of both Zhang and Walker in connection with the fraudulent operation, said the quartet opened shell companies and bank accounts to carry out  pig butchering scams , transferring the ill-gotten funds to domestic and international financial entities. If convicted, Zhang and Walker face a maximum penalty of 20 years in prison. Their alleged co-conspirators remain at large. "The overall fraud scheme in the related pig-butchering syndicate involved at least 284
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NY Engineer Pleads Guilty to Stealing Millions From Two Crypto Exchanges<a href="https://therecord.media/guilty-plea-cryptocurrency-exchange-thefts-nirvana?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A former security engineer has pleaded guilty to hacking two decentralized cryptocurrency exchanges, resulting in the theft of over $12 million. The hacker exploited vulnerabilities in the smart contracts of the exchanges.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unmasking the Dark Side of Low-Code/No-Code Applications<a href="https://thehackernews.com/2023/12/unmasking-dark-side-of-low-codeno-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Low-code/no-code (LCNC) and robotic process automation (RPA) have gained immense popularity, but how secure are they? Is your security team paying enough attention in an era of rapid digital transformation, where business users are empowered to create applications swiftly using platforms like Microsoft PowerApps, UiPath, ServiceNow, Mendix, and OutSystems? The simple truth is often swept under the rug. While low-code/no-code (LCNC) apps and robotic process automations (RPA) drive efficiency and agility, their dark security side demands scrutiny. LCNC application security emerges as a relatively new frontier, and even seasoned security practitioners and security teams grapple with the dynamic nature and sheer volume of citizen-developed applications. The accelerated pace of LCNC development poses a unique challenge for security professionals, underscoring the need for dedicated efforts and solutions to effectively address the security nuances of low-code development environments. Dig
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortifying Cyber Defenses: A Proactive Approach to Ransomware Resilience<a href="https://www.helpnetsecurity.com/2023/12/15/government-cybersecurity-tools/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investing in cutting-edge cybersecurity tools not only enhances defensive capabilities but also stimulates innovation and fosters public-private partnerships to strengthen the nation's cyber defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QakBot Malware Resurfaces with New Tactics, Targeting the Hospitality Industry<a href="https://thehackernews.com/2023/12/qakbot-malware-resurfaces-with-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new wave of phishing messages distributing the  QakBot  malware has been observed, more than three months after a law enforcement effort saw its infrastructure dismantled by infiltrating its command-and-control (C2) network. Microsoft, which made the discovery, described it as a low-volume campaign that began on December 11, 2023, and targeted the hospitality industry. "Targets received a PDF from a user masquerading as an IRS employee," the tech giant  said  in a series of posts shared on X (formerly Twitter). "The PDF contained a URL that downloads a digitally signed Windows Installer (.msi). Executing the MSI led to Qakbot being invoked using export 'hvsi' execution of an embedded DLL." Microsoft said that the payload was generated the same day the campaign started and that it's configured with the previously unseen version 0x500. Zscaler ThreatLabz, in a post shared on X, described the resurfaced QakBot as a 64-bit binary that utilizes AES
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 17, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
