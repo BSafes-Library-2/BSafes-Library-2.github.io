@@ -34,7 +34,215 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Scam Involving Remote Jobs on Social Media Platforms<a href="https://www.bitdefender.com/blog/labs/the-anatomy-of-a-scam-like-youtube-videos-and-get-paid-schemes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Bitdefender Labs have uncovered a new scam involving remote jobs on social media platforms. Scammers are promising payment for simply liking YouTube videos.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Takes Down BlackCat Ransomware, Releases Free Decryption Tool<a href="https://thehackernews.com/2023/12/fbi-takes-down-blackcat-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department (DoJ) has officially  announced  the disruption of the BlackCat ransomware operation and released a decryption tool that victims can use to regain access to files locked by the malware. Court documents show that the U.S. Federal Bureau of Investigation (FBI) enlisted the help of a confidential human source (CHS) to act as an affiliate for the BlackCat and gain access to a web panel used for managing the gang's victims, in what's a case of hacking the hackers. BlackCat , also called ALPHV and Noberus,  first emerged  in December 2021 and has since gone on to be the second most prolific ransomware-as-a-service variant in the world after LockBit. It's also the first Rust-language-based ransomware strain spotted in the wild. The development  puts an end to speculations  of a rumored law enforcement action after its dark web leak portal went offline on December 7, only to resurface five days later with just a single victim. The FBI said it worke
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA, and ACSC Release Joint Advisory on Play Ransomware<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-352a?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware group has been targeting businesses and critical infrastructure in North America, South America, and Europe since June 2022. They use a double-extortion model, encrypting systems after exfiltrating data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Behind the Scenes of Matveev's Ransomware Empire: Tactics and Team<a href="https://thehackernews.com/2023/12/behind-scenes-of-matveevs-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shed light on the inner workings of the ransomware operation led by Mikhail Pavlovich Matveev, a Russian national who was  indicted by the U.S. government  earlier this year for his alleged role in launching thousands of attacks across the world. Matveev, who resides in Saint Petersburg and is known by the aliases Wazawaka, m1x, Boriselcin, Uhodiransomwar, Orange, and waza, is alleged to have played a crucial part in the development and deployment of LockBit, Babuk, and Hive ransomware variants since at least June 2020. "Wazawaka and his team members prominently exhibit an insatiable greed for ransom payments, demonstrating a significant disregard for ethical values in their cyber operations," Swiss cybersecurity firm PRODAFT  said  in a comprehensive analysis shared with The Hacker News. "Employing tactics that involve intimidation through threats to leak sensitive files, engaging in dishonest practices, and persisting in retaining fil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack on Westpole Disrupted Digital Services for Italian Public Administration<a href="https://securityaffairs.com/156090/cyber-crime/westpole-ransomware-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of Westpole's customers, PA Digitale, which serves 1300 public administrations including 540 municipalities, was targeted. The incident has led to manual operations for some services and may affect salary payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Abusing GitHub to Evade Detection and Control Compromised Hosts<a href="https://thehackernews.com/2023/12/hackers-abusing-github-to-evade.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly making use of GitHub for malicious purposes through novel methods, including abusing secret Gists and issuing malicious commands via git commit messages. "Malware authors occasionally place their samples in services like Dropbox, Google Drive, OneDrive, and Discord to host second stage malware and sidestep detection tools," ReversingLabs researcher Karlo Zanki  said  in a report shared with The Hacker News. "But lately, we have observed the increasing use of the GitHub open-source development platform for hosting malware." Legitimate public services are  known  to be  used  by  threat actors  for hosting malware and acting as  dead drop resolvers  to fetch the actual command-and-control (C2) address. While using public sources for C2 does not make them immune to takedowns, they do offer the benefit of allowing threat actors to easily create attack infrastructure that's both inexpensive and reliable. This technique is sneaky
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel SMTP Smuggling Technique Slips Past DMARC, Email Protections<a href="https://www.darkreading.com/cloud-security/novel-smtp-smuggling-technique-slips-past-dmarc-email-protections?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers can exploit SMTP smuggling to send spoofed emails with fake sender addresses, bypassing email security checks and putting organizations and individuals at risk for targeted phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are We Ready to Give Up on Security Awareness Training?<a href="https://thehackernews.com/2023/12/are-we-ready-to-give-up-on-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some of you have already started budgeting for 2024 and allocating funds to security areas within your organization. It is safe to say that employee security awareness training is one of the expenditure items, too. However, its effectiveness is an open question with people still engaging in insecure behaviors at the workplace. Besides, social engineering remains one of the most prevalent attacks, followed by a successful data breach.  Microsoft found  that a popular form of video-based training reduces phish-clicking behavior by about 3%, at best. This number has been stable over the years, says Microsoft, while phishing attacks are increasing yearly.  Regardless, organizations have faith in training and tend to increase their security investments in employee training after attacks. It comes second in the priority list for 51% of organizations, right after incident response planning and testing, according to the IBM Security  "Cost of the Data Breach Report 2023" .  So, wh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Agencies Release Security Guidance on Managing SBOMs and Open Source Software<a href="https://www.meritalk.com/articles/nsa-cisa-release-open-source-sbom-security-guidance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The report provides guidance on open source software adoption, including criteria for selection, risk assessment, licensing, export control, maintenance, vulnerability response, and secure software delivery.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Using MuddyC2Go in Telecom Espionage Attacks Across Africa<a href="https://thehackernews.com/2023/12/iranian-hackers-using-muddyc2go-in-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian nation-state actor known as  MuddyWater  has leveraged a newly discovered command-and-control (C2) framework called MuddyC2Go in its attacks on the telecommunications sector in Egypt, Sudan, and Tanzania. The Symantec Threat Hunter Team, part of Broadcom, is  tracking  the activity under the name Seedworm, which is also tracked under the monikers Boggy Serpens, Cobalt Ulster, Earth Vetala, ITG17, Mango Sandstorm (formerly Mercury), Static Kitten, TEMP.Zagros, and Yellow Nix. Active since at least 2017,  MuddyWater  is assessed to be affiliated with Iran's Ministry of Intelligence and Security (MOIS), primarily singling out entities in the Middle East. The cyber espionage group's use of  MuddyC2Go  was first highlighted by Deep Instinct last month, describing it as a Golang-based replacement for  PhonyC2 , itself a successor to MuddyC3. However, there is evidence to suggest that it may have been employed as early as 2020. While the full extent of MuddyC2Go'
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran Hit by Major Cyberattack Targeting Nation's Fuel Supply<a href="https://www.bankinfosecurity.com/iran-hit-by-major-cyberattack-targeting-nations-fuel-supply-a-23916?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gas stations in Iran experienced widespread disruptions due to a cyberattack claimed by the group Predatory Sparrow, which has previously targeted Iranian critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malvertising Campaign Distributing PikaBot Disguised as Popular Software<a href="https://thehackernews.com/2023/12/new-malvertising-campaign-distributing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware loader known as PikaBot is being distributed as part of a  malvertising   campaign  targeting users searching for legitimate software like AnyDesk. "PikaBot was previously only distributed via malspam campaigns similarly to QakBot and emerged as one of the preferred payloads for a threat actor known as TA577," Malwarebytes' Jérôme Segura  said . The malware family, which  first   appeared  in early 2023, consists of a loader and a core module that allows it to operate as a backdoor as well as a distributor for other payloads. This  enables  the threat actors to gain unauthorized remote access to compromised systems and transmit commands from a command-and-control (C2) server, ranging from arbitrary shellcode, DLLs, or executable files, to other malicious tools such as Cobalt Strike. One of the threat actors leveraging PikaBot in its attacks is  TA577 , a prolific cybercrime threat actor that has, in the past, delivered QakBot, IcedID, SystemBC, SmokeLoad
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 19, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apparel Giant VF Corporation Reports Cyberattack on First Day of SEC Disclosure Rule<a href="https://therecord.media/vf-corp-cyberattack-filing-first-day-sec-incident-reporting-rules?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VF Corporation, one of the largest apparel companies in the world, reported a cyberattack to the U.S. Securities and Exchange Commission (SEC) on the first day of a new cyber incident reporting rule.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 18, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-China Influence Operation Gained YouTube Following, Researchers Find<a href="https://therecord.media/pro-china-youtube-operation-traction?&web_view=true"> Full Text</a>
@@ -50,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware: Experts Reveal New Details on Zero-Click Outlook RCE Exploits<a href="https://thehackernews.com/2023/12/beware-experts-reveal-new-details-on.html"> Full Text</a>
@@ -66,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK National Grid Pulls Chinese Equipment Over Cybersecurity Concerns<a href="https://www.theregister.com/2023/12/18/national_grid_bans_china_equipment/?&web_view=true"> Full Text</a>
@@ -82,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top 7 Trends Shaping SaaS Security in 2024<a href="https://thehackernews.com/2023/12/top-7-trends-shaping-saas-security-in.html"> Full Text</a>
@@ -98,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ubiquiti Fixes Glitch That Exposed Private Video Streams to Other Customers<a href="https://techcrunch.com/2023/12/15/ubiquiti-glitch-exposed-private-video-streams-other-customers/?&web_view=true"> Full Text</a>
@@ -114,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rhadamanthys Malware: Swiss Army Knife of Information Stealers Emerges<a href="https://thehackernews.com/2023/12/rhadamanthys-malware-swiss-army-knife.html"> Full Text</a>
@@ -130,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 InfectedSlurs Botnet Targets QNAP VioStor NVR Vulnerability<a href="https://securityaffairs.com/155972/hacking/infectedslurs-botnet-qnap-viostor-nvr.html?&web_view=true"> Full Text</a>
@@ -146,7 +354,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four U.S. Nationals Charged in $80 Million Pig Butchering Crypto Scam<a href="https://thehackernews.com/2023/12/four-us-nationals-charged-in-80-million.html"> Full Text</a>
@@ -162,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NY Engineer Pleads Guilty to Stealing Millions From Two Crypto Exchanges<a href="https://therecord.media/guilty-plea-cryptocurrency-exchange-thefts-nirvana?&web_view=true"> Full Text</a>
@@ -178,7 +386,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unmasking the Dark Side of Low-Code/No-Code Applications<a href="https://thehackernews.com/2023/12/unmasking-dark-side-of-low-codeno-code.html"> Full Text</a>
@@ -194,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fortifying Cyber Defenses: A Proactive Approach to Ransomware Resilience<a href="https://www.helpnetsecurity.com/2023/12/15/government-cybersecurity-tools/?&web_view=true"> Full Text</a>
@@ -210,7 +418,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 18, 2023
+December 18, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QakBot Malware Resurfaces with New Tactics, Targeting the Hospitality Industry<a href="https://thehackernews.com/2023/12/qakbot-malware-resurfaces-with-new.html"> Full Text</a>
