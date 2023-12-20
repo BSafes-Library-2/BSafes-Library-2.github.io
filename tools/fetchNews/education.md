@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+December 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortifying Cyber Defenses: A Proactive Approach to Ransomware Resilience<a href="https://www.helpnetsecurity.com/2023/12/15/government-cybersecurity-tools/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investing in cutting-edge cybersecurity tools not only enhances defensive capabilities but also stimulates innovation and fosters public-private partnerships to strengthen the nation's cyber defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

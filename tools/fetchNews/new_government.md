@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+December 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA, and ACSC Release Joint Advisory on Play Ransomware<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-352a?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware group has been targeting businesses and critical infrastructure in North America, South America, and Europe since June 2022. They use a double-extortion model, encrypting systems after exfiltrating data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Agencies Release Security Guidance on Managing SBOMs and Open Source Software<a href="https://www.meritalk.com/articles/nsa-cisa-release-open-source-sbom-security-guidance/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The report provides guidance on open source software adoption, including criteria for selection, risk assessment, licensing, export control, maintenance, vulnerability response, and secure software delivery.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

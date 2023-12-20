@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+December 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack on Westpole Disrupted Digital Services for Italian Public Administration<a href="https://securityaffairs.com/156090/cyber-crime/westpole-ransomware-attack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of Westpole's customers, PA Digitale, which serves 1300 public administrations including 540 municipalities, was targeted. The incident has led to manual operations for some services and may affect salary payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Using MuddyC2Go in Telecom Espionage Attacks Across Africa<a href="https://thehackernews.com/2023/12/iranian-hackers-using-muddyc2go-in-new.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian nation-state actor known as&nbsp; MuddyWater &nbsp;has leveraged a newly discovered command-and-control (C2) framework called MuddyC2Go in its attacks on the telecommunications sector in Egypt, Sudan, and Tanzania. The Symantec Threat Hunter Team, part of Broadcom, is&nbsp; tracking &nbsp;the activity under the name Seedworm, which is also tracked under the monikers Boggy Serpens, Cobalt Ulster, Earth Vetala, ITG17, Mango Sandstorm (formerly Mercury), Static Kitten, TEMP.Zagros, and Yellow Nix. Active since at least 2017,&nbsp; MuddyWater &nbsp;is assessed to be affiliated with Iran's Ministry of Intelligence and Security (MOIS), primarily singling out entities in the Middle East. The cyber espionage group's use of&nbsp; MuddyC2Go &nbsp;was first highlighted by Deep Instinct last month, describing it as a Golang-based replacement for&nbsp; PhonyC2 , itself a successor to MuddyC3. However, there is evidence to suggest that it may have been employed as early as 2020. While the full extent of MuddyC2Go'
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran Hit by Major Cyberattack Targeting Nation's Fuel Supply<a href="https://www.bankinfosecurity.com/iran-hit-by-major-cyberattack-targeting-nations-fuel-supply-a-23916?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gas stations in Iran experienced widespread disruptions due to a cyberattack claimed by the group Predatory Sparrow, which has previously targeted Iranian critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apparel Giant VF Corporation Reports Cyberattack on First Day of SEC Disclosure Rule<a href="https://therecord.media/vf-corp-cyberattack-filing-first-day-sec-incident-reporting-rules?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+VF Corporation, one of the largest apparel companies in the world, reported a cyberattack to the U.S. Securities and Exchange Commission (SEC) on the first day of a new cyber incident reporting rule.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

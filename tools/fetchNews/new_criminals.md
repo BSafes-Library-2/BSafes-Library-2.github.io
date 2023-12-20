@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Takes Down BlackCat Ransomware, Releases Free Decryption Tool<a href="https://thehackernews.com/2023/12/fbi-takes-down-blackcat-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department (DoJ) has officially&nbsp; announced &nbsp;the disruption of the BlackCat ransomware operation and released a decryption tool that victims can use to regain access to files locked by the malware. Court documents show that the U.S. Federal Bureau of Investigation (FBI) enlisted the help of a confidential human source (CHS) to act as an affiliate for the BlackCat and gain access to a web panel used for managing the gang's victims, in what's a case of hacking the hackers. BlackCat , also called ALPHV and Noberus,&nbsp; first emerged &nbsp;in December 2021 and has since gone on to be the second most prolific ransomware-as-a-service variant in the world after LockBit. It's also the first Rust-language-based ransomware strain spotted in the wild. The development&nbsp; puts an end to speculations &nbsp;of a rumored law enforcement action after its dark web leak portal went offline on December 7, only to resurface five days later with just a single victim. The FBI said it worke
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Behind the Scenes of Matveev's Ransomware Empire: Tactics and Team<a href="https://thehackernews.com/2023/12/behind-scenes-of-matveevs-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shed light on the inner workings of the ransomware operation led by Mikhail Pavlovich Matveev, a Russian national who was&nbsp; indicted by the U.S. government &nbsp;earlier this year for his alleged role in launching thousands of attacks across the world. Matveev, who resides in Saint Petersburg and is known by the aliases Wazawaka, m1x, Boriselcin, Uhodiransomwar, Orange, and waza, is alleged to have played a crucial part in the development and deployment of LockBit, Babuk, and Hive ransomware variants since at least June 2020. "Wazawaka and his team members prominently exhibit an insatiable greed for ransom payments, demonstrating a significant disregard for ethical values in their cyber operations," Swiss cybersecurity firm PRODAFT&nbsp; said &nbsp;in a comprehensive analysis shared with The Hacker News. "Employing tactics that involve intimidation through threats to leak sensitive files, engaging in dishonest practices, and persisting in retaining fil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

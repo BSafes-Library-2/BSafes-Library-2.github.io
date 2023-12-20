@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+December 18, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubiquiti Fixes Glitch That Exposed Private Video Streams to Other Customers<a href="https://techcrunch.com/2023/12/15/ubiquiti-glitch-exposed-private-video-streams-other-customers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bug was caused by a misconfiguration during an upgrade to Ubiquiti's cloud infrastructure, resulting in 1,216 accounts being improperly associated with another group of 1,177 accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

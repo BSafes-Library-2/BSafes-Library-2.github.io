@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Scam Involving Remote Jobs on Social Media Platforms<a href="https://www.bitdefender.com/blog/labs/the-anatomy-of-a-scam-like-youtube-videos-and-get-paid-schemes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Bitdefender Labs have uncovered a new scam involving remote jobs on social media platforms. Scammers are promising payment for simply liking YouTube videos.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel SMTP Smuggling Technique Slips Past DMARC, Email Protections<a href="https://www.darkreading.com/cloud-security/novel-smtp-smuggling-technique-slips-past-dmarc-email-protections?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers can exploit SMTP smuggling to send spoofed emails with fake sender addresses, bypassing email security checks and putting organizations and individuals at risk for targeted phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malvertising Campaign Distributing PikaBot Disguised as Popular Software<a href="https://thehackernews.com/2023/12/new-malvertising-campaign-distributing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware loader known as PikaBot is being distributed as part of a&nbsp; malvertising &nbsp; campaign &nbsp;targeting users searching for legitimate software like AnyDesk. "PikaBot was previously only distributed via malspam campaigns similarly to QakBot and emerged as one of the preferred payloads for a threat actor known as TA577," Malwarebytes' Jérôme Segura&nbsp; said . The malware family, which&nbsp; first &nbsp; appeared &nbsp;in early 2023, consists of a loader and a core module that allows it to operate as a backdoor as well as a distributor for other payloads. This&nbsp; enables &nbsp;the threat actors to gain unauthorized remote access to compromised systems and transmit commands from a command-and-control (C2) server, ranging from arbitrary shellcode, DLLs, or executable files, to other malicious tools such as Cobalt Strike. One of the threat actors leveraging PikaBot in its attacks is&nbsp; TA577 , a prolific cybercrime threat actor that has, in the past, delivered QakBot, IcedID, SystemBC, SmokeLoad
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
