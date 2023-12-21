@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Chinese-Speaking Hackers Pose as UAE Authority in Latest Smishing Wave<a href="https://thehackernews.com/2023/12/alert-chinese-hackers-pose-as-uae.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese-speaking threat actors behind&nbsp; Smishing Triad &nbsp;have been observed masquerading as the United Arab Emirates Federal Authority for Identity and Citizenship to send malicious SMS messages with the ultimate goal of gathering sensitive information from residents and foreigners in the country. "These criminals send malicious links to their victims' mobile devices through SMS or iMessage and use URL-shortening services like Bit.ly to randomize the links they send," Resecurity&nbsp; said &nbsp;in a report published this week. "This helps them protect the fake website's domain and hosting location." Smishing Triad was&nbsp; first documented &nbsp;by the cybersecurity company in September 2023, highlighting the group's use of compromised Apple iCloud accounts to send smishing messages for carrying out identity theft and financial fraud.&nbsp; The threat actor is also known to offer ready-to-use smishing kits for sale to other cybercriminals for $200 a month, alongside eng
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Malspam Targets Hotels, Spreading Redline and Vidar Stealers<a href="https://www.hackread.com/global-malspam-hit-hotels-redline-vidar-stealers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hospitality industry is being targeted by a sophisticated malspam campaign that uses social engineering tactics to trick hotel representatives into opening password-protected archives containing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

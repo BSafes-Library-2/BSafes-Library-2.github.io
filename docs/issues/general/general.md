@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Leveraging Public Infrastructure Like GitGub on the Rise<a href="https://www.reversinglabs.com/blog/malware-leveraging-public-infrastructure-like-github-on-the-rise?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Public services like GitHub provide a convenient and less suspicious platform for malware authors to operate their C2 infrastructure, eliminating the need for maintaining their own servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are We Ready to Give Up on Security Awareness Training?<a href="https://thehackernews.com/2023/12/are-we-ready-to-give-up-on-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some of you have already started budgeting for 2024 and allocating funds to security areas within your organization. It is safe to say that employee security awareness training is one of the expenditure items, too. However, its effectiveness is an open question with people still engaging in insecure behaviors at the workplace. Besides, social engineering remains one of the most prevalent attacks, followed by a successful data breach.&nbsp; Microsoft found &nbsp;that a popular form of video-based training reduces phish-clicking behavior by about 3%, at best. This number has been stable over the years, says Microsoft, while phishing attacks are increasing yearly.&nbsp; Regardless, organizations have faith in training and tend to increase their security investments in employee training after attacks. It comes second in the priority list for 51% of organizations, right after incident response planning and testing, according to the IBM Security&nbsp; "Cost of the Data Breach Report 2023" .&nbsp; So, wh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

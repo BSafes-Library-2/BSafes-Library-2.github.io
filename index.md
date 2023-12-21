@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Leveraging Public Infrastructure Like GitGub on the Rise<a href="https://www.reversinglabs.com/blog/malware-leveraging-public-infrastructure-like-github-on-the-rise?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Remote Encryption Attacks Surge: How One Vulnerable Device Can Spell Disaster<a href="https://thehackernews.com/2023/12/remote-encryption-attacks-surge-how-one.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Decrypting the Sidewinder Cyber Intrusion Tactics<a href="https://www.cyfirma.com/outofband/from-macro-to-payload-decrypting-the-sidewinder-cyber-intrusion-tactics/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Product Explained: Memcyco's Real-Time Defense Against Website Spoofing<a href="https://thehackernews.com/2023/12/product-explained-memcycos-real-time.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Israel Blames Iran for Hospital Data Breach<a href="https://www.darkreading.com/cyberattacks-data-breaches/israel-blames-iran-for-hospital-data-breach?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: Chinese-Speaking Hackers Pose as UAE Authority in Latest Smishing Wave<a href="https://thehackernews.com/2023/12/alert-chinese-hackers-pose-as-uae.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Law Enforcement Seizes $300 Million, Arrests 3,500 Involved in Transnational Cybercrime Operation<a href="https://therecord.media/interpol-seizes-millions-arrests-3500-involved-in-transnational-cybercrime?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3,500 Arrested in Global Operation HAECHI-IV Targeting Financial Criminals<a href="https://thehackernews.com/2023/12/3500-arrested-in-global-operation.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Malspam Targets Hotels, Spreading Redline and Vidar Stealers<a href="https://www.hackread.com/global-malspam-hit-hotels-redline-vidar-stealers/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Go-Based JaskaGO Malware Targeting Windows and macOS Systems<a href="https://thehackernews.com/2023/12/new-go-based-jaskago-malware-targeting.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian APT Group Targets Telecom Organizations in North and East Africa<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/iran-apt-seedworm-africa-telecoms?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘No Evidence’ of Foreign Election Interference in 2022 US Midterms, Spy Agencies Say<a href="https://therecord.media/no-evidence-2022-midterm-election-interference-declassified-report?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authorities Claim Seizure of Notorious ALPHV Ransomware Gang’s Dark Web Leak Site<a href="https://techcrunch.com/2023/12/19/alphv-blackcat-ransomware-seizure/?&web_view=true"> Full Text</a>

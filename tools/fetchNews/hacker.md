@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+December 19, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Abusing GitHub to Evade Detection and Control Compromised Hosts<a href="https://thehackernews.com/2023/12/hackers-abusing-github-to-evade.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are increasingly making use of GitHub for malicious purposes through novel methods, including abusing secret Gists and issuing malicious commands via git commit messages. "Malware authors occasionally place their samples in services like Dropbox, Google Drive, OneDrive, and Discord to host second stage malware and sidestep detection tools," ReversingLabs researcher Karlo Zanki&nbsp; said &nbsp;in a report shared with The Hacker News. "But lately, we have observed the increasing use of the GitHub open-source development platform for hosting malware." Legitimate public services are&nbsp; known &nbsp;to be&nbsp; used &nbsp;by&nbsp; threat actors &nbsp;for hosting malware and acting as&nbsp; dead drop resolvers &nbsp;to fetch the actual command-and-control (C2) address. While using public sources for C2 does not make them immune to takedowns, they do offer the benefit of allowing threat actors to easily create attack infrastructure that's both inexpensive and reliable. This technique is sneaky
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 16, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

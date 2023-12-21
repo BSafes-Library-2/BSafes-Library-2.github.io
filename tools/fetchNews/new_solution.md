@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+December 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Product Explained: Memcyco's Real-Time Defense Against Website Spoofing<a href="https://thehackernews.com/2023/12/product-explained-memcycos-real-time.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hands-On Review: Memcyco's Threat Intelligence Solution Website impersonation, also known as brandjacking or website spoofing, has emerged as a significant threat to online businesses. Malicious actors clone legitimate websites to trick customers, leading to financial scams and data theft causing reputation damage and financial losses for both organizations and customers. The Growing Threat of Website Impersonation and Brandjacking Research shows a new phishing site is created every 11 seconds in 2023. Typically, even though the company is a victim of spoofing, the customer holds them responsible for the data breach.&nbsp; Current market solutions rely on threat intelligence tools that search for fake sites and attempt takedowns. However, takedown processes can be time-consuming, leaving fake sites active and the scope of attacks remains unknown during the critical window of exposure, the time between when the fake site is up and until it is down. Bad actor researches a business to t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

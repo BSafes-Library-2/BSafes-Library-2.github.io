@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+December 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote Encryption Attacks Surge: How One Vulnerable Device Can Spell Disaster<a href="https://thehackernews.com/2023/12/remote-encryption-attacks-surge-how-one.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware groups are increasingly switching to remote encryption in their attacks, marking a new escalation in tactics adopted by financially motivated actors to ensure the success of their campaigns. "Companies can have thousands of computers connected to their network, and with remote ransomware, all it takes is one underprotected device to compromise the entire network," Mark Loman, vice president of threat research at Sophos,&nbsp; said .&nbsp; "Attackers know this, so they hunt for that one' weak spot' — and most companies have at least one. Remote encryption is going to stay a perennial problem for defenders." Remote encryption &nbsp;(aka remote ransomware), as the name implies, occurs when a compromised endpoint is used to encrypt data on other devices on the same network. In October 2023, Microsoft&nbsp; revealed &nbsp;that around 60% of ransomware attacks now involve malicious remote encryption in an effort to minimize their footprint, with more than 80% of all compr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 08, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

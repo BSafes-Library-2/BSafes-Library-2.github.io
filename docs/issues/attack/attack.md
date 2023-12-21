@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decrypting the Sidewinder Cyber Intrusion Tactics<a href="https://www.cyfirma.com/outofband/from-macro-to-payload-decrypting-the-sidewinder-cyber-intrusion-tactics/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Sidewinder group, a sophisticated APT group originating from South Asia, is behind a highly targeted cyber threat campaign involving a malicious Word document with an embedded macro, potentially targeting Nepalese government officials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

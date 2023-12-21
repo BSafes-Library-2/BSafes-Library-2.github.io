@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2023 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Leveraging Public Infrastructure Like GitGub on the Rise<a href="https://www.reversinglabs.com/blog/malware-leveraging-public-infrastructure-like-github-on-the-rise?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Public services like GitHub provide a convenient and less suspicious platform for malware authors to operate their C2 infrastructure, eliminating the need for maintaining their own servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote Encryption Attacks Surge: How One Vulnerable Device Can Spell Disaster<a href="https://thehackernews.com/2023/12/remote-encryption-attacks-surge-how-one.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware groups are increasingly switching to remote encryption in their attacks, marking a new escalation in tactics adopted by financially motivated actors to ensure the success of their campaigns. "Companies can have thousands of computers connected to their network, and with remote ransomware, all it takes is one underprotected device to compromise the entire network," Mark Loman, vice president of threat research at Sophos,  said .  "Attackers know this, so they hunt for that one' weak spot' — and most companies have at least one. Remote encryption is going to stay a perennial problem for defenders." Remote encryption  (aka remote ransomware), as the name implies, occurs when a compromised endpoint is used to encrypt data on other devices on the same network. In October 2023, Microsoft  revealed  that around 60% of ransomware attacks now involve malicious remote encryption in an effort to minimize their footprint, with more than 80% of all compr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decrypting the Sidewinder Cyber Intrusion Tactics<a href="https://www.cyfirma.com/outofband/from-macro-to-payload-decrypting-the-sidewinder-cyber-intrusion-tactics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Sidewinder group, a sophisticated APT group originating from South Asia, is behind a highly targeted cyber threat campaign involving a malicious Word document with an embedded macro, potentially targeting Nepalese government officials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Product Explained: Memcyco's Real-Time Defense Against Website Spoofing<a href="https://thehackernews.com/2023/12/product-explained-memcycos-real-time.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hands-On Review: Memcyco's Threat Intelligence Solution Website impersonation, also known as brandjacking or website spoofing, has emerged as a significant threat to online businesses. Malicious actors clone legitimate websites to trick customers, leading to financial scams and data theft causing reputation damage and financial losses for both organizations and customers. The Growing Threat of Website Impersonation and Brandjacking Research shows a new phishing site is created every 11 seconds in 2023. Typically, even though the company is a victim of spoofing, the customer holds them responsible for the data breach.  Current market solutions rely on threat intelligence tools that search for fake sites and attempt takedowns. However, takedown processes can be time-consuming, leaving fake sites active and the scope of attacks remains unknown during the critical window of exposure, the time between when the fake site is up and until it is down. Bad actor researches a business to t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Israel Blames Iran for Hospital Data Breach<a href="https://www.darkreading.com/cyberattacks-data-breaches/israel-blames-iran-for-hospital-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel has identified Iran and Hezbollah as the perpetrators of a cyberattack on the Ziv Medical Center. The attack, which occurred last month, resulted in the theft of 500GB of medical data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Chinese-Speaking Hackers Pose as UAE Authority in Latest Smishing Wave<a href="https://thehackernews.com/2023/12/alert-chinese-hackers-pose-as-uae.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese-speaking threat actors behind  Smishing Triad  have been observed masquerading as the United Arab Emirates Federal Authority for Identity and Citizenship to send malicious SMS messages with the ultimate goal of gathering sensitive information from residents and foreigners in the country. "These criminals send malicious links to their victims' mobile devices through SMS or iMessage and use URL-shortening services like Bit.ly to randomize the links they send," Resecurity  said  in a report published this week. "This helps them protect the fake website's domain and hosting location." Smishing Triad was  first documented  by the cybersecurity company in September 2023, highlighting the group's use of compromised Apple iCloud accounts to send smishing messages for carrying out identity theft and financial fraud.  The threat actor is also known to offer ready-to-use smishing kits for sale to other cybercriminals for $200 a month, alongside eng
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Law Enforcement Seizes $300 Million, Arrests 3,500 Involved in Transnational Cybercrime Operation<a href="https://therecord.media/interpol-seizes-millions-arrests-3500-involved-in-transnational-cybercrime?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operation targeted various online scams, including voice phishing, romance scams, investment fraud, and e-commerce fraud, highlighting the significant financial incentives driving the growth of organized cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3,500 Arrested in Global Operation HAECHI-IV Targeting Financial Criminals<a href="https://thehackernews.com/2023/12/3500-arrested-in-global-operation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A six-month-long international police operation codenamed  HAECHI-IV  has resulted in the arrests of nearly 3,500 individuals and seizures worth $300 million across 34 countries. The exercise, which took place from July through December 2023, took aim at various types of financial crimes such as voice phishing, romance scams, online sextortion, investment fraud, money laundering associated with illegal online gambling, business email compromise fraud, and e-commerce fraud. In addition, authorities froze associated bank and virtual asset service provider (VASP) accounts in an effort to shut off access to criminal proceeds. In total, authorities blocked 82,112 suspicious bank accounts, confiscating $199 million in hard currency and $101 million in virtual assets. "Cooperation between Filipino and Korean authorities led to the arrest in Manila of a high-profile online gambling criminal after a two-year manhunt by Korea's National Police Agency," Interpol, an internationa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Malspam Targets Hotels, Spreading Redline and Vidar Stealers<a href="https://www.hackread.com/global-malspam-hit-hotels-redline-vidar-stealers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hospitality industry is being targeted by a sophisticated malspam campaign that uses social engineering tactics to trick hotel representatives into opening password-protected archives containing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Go-Based JaskaGO Malware Targeting Windows and macOS Systems<a href="https://thehackernews.com/2023/12/new-go-based-jaskago-malware-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Go-based information stealer malware called  JaskaGO  has emerged as the latest cross-platform threat to infiltrate both Windows and Apple macOS systems. AT&T Alien Labs, which made the discovery,  said  the malware is "equipped with an extensive array of commands from its command-and-control (C&C) server." Artifacts designed for macOS were first observed in July 2023, impersonating installers for legitimate software such as CapCut. Other variants of the malware have masqueraded as AnyConnect and security tools.  Upon installation, JaskaGO runs checks to determine if it is executing within a virtual machine (VM) environment, and if so, executes a harmless task like pinging Google or printing a random number in a likely effort to fly under the radar. In other scenarios, JaskaGO proceeds to harvest information from the victim system and establishes a connection to its C&C for receiving further instructions, including executing shell commands, enumerating
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian APT Group Targets Telecom Organizations in North and East Africa<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/iran-apt-seedworm-africa-telecoms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seedworm (aka Muddywater) continues to use a combination of living-off-the-land and publicly available tools, but has also developed its own custom tools, such as a custom build of Venom Proxy and a custom keylogger.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘No Evidence’ of Foreign Election Interference in 2022 US Midterms, Spy Agencies Say<a href="https://therecord.media/no-evidence-2022-midterm-election-interference-declassified-report?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. intelligence community has stated that Russia and China attempted to influence the 2022 U.S. midterms, but were unsuccessful in hacking the election infrastructure or disrupting voting.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities Claim Seizure of Notorious ALPHV Ransomware Gang’s Dark Web Leak Site<a href="https://techcrunch.com/2023/12/19/alphv-blackcat-ransomware-seizure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has released a decryption tool that has helped over 500 ALPHV ransomware victims restore their systems, saving them from paying approximately $68 million in ransom demands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 19, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Israel Blames Iran for Hospital Data Breach<a href="https://www.darkreading.com/cyberattacks-data-breaches/israel-blames-iran-for-hospital-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Israel has identified Iran and Hezbollah as the perpetrators of a cyberattack on the Ziv Medical Center. The attack, which occurred last month, resulted in the theft of 500GB of medical data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 17, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

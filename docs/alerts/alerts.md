@@ -53,6 +53,17 @@ Threat actors are misusing OAuth applications as an automation tool in financial
 </details>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 11, 2023 - National Intelligence Council 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Foreign Threats to the 2022 US Elections <a href="https://www.odni.gov/files/ODNI/documents/assessments/NIC-Declassified-ICA-Foreign-Threats-to-the-2022-US-Elections-Dec2023.pdf"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Both Russia and China attempted to influence the 2022 U.S. midterms but did not successfully hack into the country’s election infrastructure or otherwise disrupt voting, the U.S. intelligence community said on Monday.
+</details>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 11, 2023 - FCC 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
