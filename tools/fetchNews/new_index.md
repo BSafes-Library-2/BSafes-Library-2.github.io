@@ -34,7 +34,215 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Addressed a New Actively Exploited Chrome Zero-Day<a href="https://securityaffairs.com/156231/security/google-addressed-a-new-actively-exploited-chrome-zero-day.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released emergency updates to fix a zero-day vulnerability in the Chrome browser. The vulnerability, known as CVE-2023-7024, is a heap buffer overflow issue in WebRTC.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detail Multi-Million Dollar Licensing Model of Predator Spyware<a href="https://thehackernews.com/2023/12/multi-million-dollar-predator-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new analysis of the sophisticated commercial spyware called Predator has revealed that its ability to persist between reboots is offered as an "add-on feature" and that it depends on the licensing options opted by a customer. "In 2021, Predator spyware couldn't survive a reboot on the infected Android system (it had it on iOS)," Cisco Talos researchers Mike Gentile, Asheer Malhotra, and Vitor Ventura  said  in a report shared with The Hacker News. "However, by April 2022, that capability was being offered to their customers." Predator is the product of a consortium called the Intellexa Alliance, which includes Cytrox (subsequently acquired by WiSpear), Nexa Technologies, and Senpai Technologies. Both Cytrox and Intellexa were  added  to the Entity List by the U.S. in July 2023 for "trafficking in cyber exploits used to gain access to information systems." The latest findings come more than six months after the cybersecurity vendor detai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Risk Strategies in Hot Seat as SEC Rules Go Live<a href="https://www.cybersecuritydive.com/news/cyber-risk-sec-rules/703090/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies are reassessing their incident response plans and determining the materiality of cyber incidents. The SEC aims to improve companies' preparedness to mitigate breaches and attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chameleon Android Banking Trojan Variant Bypasses Biometric Authentication<a href="https://thehackernews.com/2023/12/new-chameleon-android-banking-trojan.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered an updated version of an Android banking malware called Chameleon that has expanded its targeting to include users in the U.K. and Italy. "Representing a restructured and enhanced iteration of its predecessor, this evolved Chameleon variant excels in executing Device Takeover (DTO) using the accessibility service, all while expanding its targeted region," Dutch mobile security firm ThreatFabric  said  in a report shared with The Hacker News. Chameleon was  previously documented  by Cyble in April 2023, noting that it had been used to single out users in Australia and Poland since at least January. Like other banking malware, it's known to abuse its permissions to Android's accessibility service to harvest sensitive data and conduct overlay attacks. The rogue apps containing the earlier version were hosted on phishing pages and found to impersonate genuine institutions in the countries, such as the Australian Taxation Offic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Tech Giant HCL Investigating Ransomware Attack<a href="https://therecord.media/hcl-india-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HCL Technologies has reported a ransomware attack on one of its projects in an isolated cloud environment. The company stated that the incident has had no impact on its overall network and that cybersecurity and data protection are top priorities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New JavaScript Malware Targeted 50,000+ Users at Dozens of Banks Worldwide<a href="https://thehackernews.com/2023/12/new-javascript-malware-targeted-50000.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new piece of JavaScript malware has been observed attempting to steal users' online banking account credentials as part of a campaign that has targeted more than 40 financial institutions across the world. The activity cluster, which employs JavaScript web injections, is estimated to have led to at least 50,000 infected user sessions spanning North America, South America, Europe, and Japan. IBM Security Trusteer said it detected the campaign in March 2023. "Threat actors' intention with the web injection module is likely to compromise popular banking applications and, once the malware is installed, intercept the users' credentials in order to then access and likely monetize their banking information," security researcher Tal Langus  said . Attack chains are characterized by the use of scripts loaded from the threat actor-controlled server ("jscdnpack[.]com"), specifically targeting a page structure that's common to several banks. It's susp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Water Utility Rosvodokanal Hit by Disruptive Cyberattack From Blackjack Group<a href="https://thecyberexpress.com/russian-water-utility-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This attack was seen as retaliation for an earlier cyberattack on Kyivstar, a phone company in Ukraine, which was attributed to Russian hackers. There are suspicions that the Security Service of Ukraine (SBU) may have played a role in the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cost of a Data Breach Report 2023: Insights, Mitigators and Best Practices<a href="https://thehackernews.com/2023/12/cost-of-data-breach-report-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+John Hanley of IBM Security shares 4 key findings from the highly acclaimed annual Cost of a Data Breach Report 2023 What is the IBM Cost of a Data Breach Report? The IBM Cost of a Data Breach Report is an annual report that provides organizations with quantifiable information about the financial impacts of breaches. With this data, they can make data driven decisions about how they implement security in their organization. The report is conducted by the Ponemon Institute and sponsored, analyzed, and published by IBM Security. In 2023, the 18th year the report was published, the report analyzed 553 breaches across 16 countries and 17 industries. According to Etay Maor, Senior Director of Security Strategy at  Cato Networks , "We tend to talk a lot about security issues and solutions. This report puts a number behind threats and solutions and provides a lot of information to support claims of how a threat actor, a solution or a process impacts you financially." Key Finding #1: The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Subdominator: Open-Source Tool for Detecting Subdomain Takeovers<a href="https://www.helpnetsecurity.com/2023/12/20/subdominator-open-source-tool-detecting-subdomain-takeovers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Subdominator is a highly accurate and fast open-source tool for identifying subdomain takeovers, offering significant improvements over existing tools in terms of fingerprint accuracy and count, nested DNS support, and alternate DNS record matching.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Authorities Dismantle Dark Web Hub 'Kingdom Market' in Global Operation<a href="https://thehackernews.com/2023/12/german-authorities-dismantle-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German law enforcement has announced the disruption of a dark web platform called  Kingdom Market  that specialized in the sales of narcotics and malware to "tens of thousands of users." The  exercise , which involved collaboration from authorities from the U.S., Switzerland, Moldova, and Ukraine, began on December 16, 2023, the Federal Criminal Police Office (BKA) said. Kingdom Market is said to have been accessible over the TOR and Invisible Internet Project (I2P) anonymization networks since at least March 2021, trafficking in illegal narcotics as well as advertising malware, criminal services, and forged documents. As many as 42,000 products have been sold via several hundred seller accounts on the English language platform prior to its takedown, with 3,600 of them originating from Germany.  Transactions on the Kingdom Market were facilitated through cryptocurrency payments in the form of Bitcoin, Litecoin, Monero, and Zcash, with the website operators receiving a 3
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI’s Efficacy is Constrained in Cybersecurity, but Limitless in Cybercrime<a href="https://www.helpnetsecurity.com/2023/12/20/ai-security-solutions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The use of AI in cybersecurity has created a cycle where both cyber professionals and cybercriminals employ AI to enhance their tools and techniques. However, there are limitations and trust issues with AI security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting MS Excel Vulnerability to Spread Agent Tesla Malware<a href="https://thehackernews.com/2023/12/hackers-exploiting-old-ms-excel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are weaponizing an old Microsoft Office vulnerability as part of phishing campaigns to distribute a strain of malware called  Agent Tesla . The infection chains leverage decoy Excel documents attached in invoice-themed messages to trick potential targets into opening them and activate the exploitation of CVE-2017-11882 (CVSS score: 7.8), a memory corruption vulnerability in Office's Equation Editor that could result in code execution with the privileges of the user. The findings, which come from Zscaler ThreatLabz, build on prior reports from Fortinet FortiGuard Labs, which detailed a  similar phishing campaign  that exploited the security flaw to deliver the malware. "Once a user downloads a malicious attachment and opens it, if their version of Microsoft Excel is vulnerable, the Excel file initiates communication with a malicious destination and proceeds to download additional files without requiring any further user interaction," security researcher Kaiva
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 21, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake F5 Vulnerability 'Update' Delivers Data Wiper to Israeli Victims<a href="https://www.darkreading.com/cyberattacks-data-breaches/targeted-f5-vulnerability-update-delivers-wiper-israeli-victims?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacker takes advantage of a vulnerability in F5's BIG-IP and tricks recipients into downloading a file that is supposed to be an update for the vulnerability. However, the file actually contains a wiper that deletes F5 servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 20, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Leveraging Public Infrastructure Like GitGub on the Rise<a href="https://www.reversinglabs.com/blog/malware-leveraging-public-infrastructure-like-github-on-the-rise?&web_view=true"> Full Text</a>
@@ -50,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Remote Encryption Attacks Surge: How One Vulnerable Device Can Spell Disaster<a href="https://thehackernews.com/2023/12/remote-encryption-attacks-surge-how-one.html"> Full Text</a>
@@ -66,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Decrypting the Sidewinder Cyber Intrusion Tactics<a href="https://www.cyfirma.com/outofband/from-macro-to-payload-decrypting-the-sidewinder-cyber-intrusion-tactics/?&web_view=true"> Full Text</a>
@@ -82,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Product Explained: Memcyco's Real-Time Defense Against Website Spoofing<a href="https://thehackernews.com/2023/12/product-explained-memcycos-real-time.html"> Full Text</a>
@@ -98,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Israel Blames Iran for Hospital Data Breach<a href="https://www.darkreading.com/cyberattacks-data-breaches/israel-blames-iran-for-hospital-data-breach?&web_view=true"> Full Text</a>
@@ -114,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: Chinese-Speaking Hackers Pose as UAE Authority in Latest Smishing Wave<a href="https://thehackernews.com/2023/12/alert-chinese-hackers-pose-as-uae.html"> Full Text</a>
@@ -130,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Law Enforcement Seizes $300 Million, Arrests 3,500 Involved in Transnational Cybercrime Operation<a href="https://therecord.media/interpol-seizes-millions-arrests-3500-involved-in-transnational-cybercrime?&web_view=true"> Full Text</a>
@@ -146,7 +354,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3,500 Arrested in Global Operation HAECHI-IV Targeting Financial Criminals<a href="https://thehackernews.com/2023/12/3500-arrested-in-global-operation.html"> Full Text</a>
@@ -162,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Malspam Targets Hotels, Spreading Redline and Vidar Stealers<a href="https://www.hackread.com/global-malspam-hit-hotels-redline-vidar-stealers/?&web_view=true"> Full Text</a>
@@ -178,7 +386,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Go-Based JaskaGO Malware Targeting Windows and macOS Systems<a href="https://thehackernews.com/2023/12/new-go-based-jaskago-malware-targeting.html"> Full Text</a>
@@ -194,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian APT Group Targets Telecom Organizations in North and East Africa<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/iran-apt-seedworm-africa-telecoms?&web_view=true"> Full Text</a>
@@ -210,7 +418,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘No Evidence’ of Foreign Election Interference in 2022 US Midterms, Spy Agencies Say<a href="https://therecord.media/no-evidence-2022-midterm-election-interference-declassified-report?&web_view=true"> Full Text</a>
@@ -226,7 +434,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 20, 2023
+December 20, 2023 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authorities Claim Seizure of Notorious ALPHV Ransomware Gang’s Dark Web Leak Site<a href="https://techcrunch.com/2023/12/19/alphv-blackcat-ransomware-seizure/?&web_view=true"> Full Text</a>
