@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Law Enforcement Seizes $300 Million, Arrests 3,500 Involved in Transnational Cybercrime Operation<a href="https://therecord.media/interpol-seizes-millions-arrests-3500-involved-in-transnational-cybercrime?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operation targeted various online scams, including voice phishing, romance scams, investment fraud, and e-commerce fraud, highlighting the significant financial incentives driving the growth of organized cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3,500 Arrested in Global Operation HAECHI-IV Targeting Financial Criminals<a href="https://thehackernews.com/2023/12/3500-arrested-in-global-operation.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A six-month-long international police operation codenamed&nbsp; HAECHI-IV &nbsp;has resulted in the arrests of nearly 3,500 individuals and seizures worth $300 million across 34 countries. The exercise, which took place from July through December 2023, took aim at various types of financial crimes such as voice phishing, romance scams, online sextortion, investment fraud, money laundering associated with illegal online gambling, business email compromise fraud, and e-commerce fraud. In addition, authorities froze associated bank and virtual asset service provider (VASP) accounts in an effort to shut off access to criminal proceeds. In total, authorities blocked 82,112 suspicious bank accounts, confiscating $199 million in hard currency and $101 million in virtual assets. "Cooperation between Filipino and Korean authorities led to the arrest in Manila of a high-profile online gambling criminal after a two-year manhunt by Korea's National Police Agency," Interpol, an internationa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authorities Claim Seizure of Notorious ALPHV Ransomware Gang’s Dark Web Leak Site<a href="https://techcrunch.com/2023/12/19/alphv-blackcat-ransomware-seizure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has released a decryption tool that has helped over 500 ALPHV ransomware victims restore their systems, saving them from paying approximately $68 million in ransom demands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

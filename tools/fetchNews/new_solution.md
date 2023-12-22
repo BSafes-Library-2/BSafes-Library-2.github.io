@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+December 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Subdominator: Open-Source Tool for Detecting Subdomain Takeovers<a href="https://www.helpnetsecurity.com/2023/12/20/subdominator-open-source-tool-detecting-subdomain-takeovers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Subdominator is a highly accurate and fast open-source tool for identifying subdomain takeovers, offering significant improvements over existing tools in terms of fingerprint accuracy and count, nested DNS support, and alternate DNS record matching.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

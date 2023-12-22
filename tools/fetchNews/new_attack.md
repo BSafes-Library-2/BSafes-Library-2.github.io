@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+December 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Tech Giant HCL Investigating Ransomware Attack<a href="https://therecord.media/hcl-india-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HCL Technologies has reported a ransomware attack on one of its projects in an isolated cloud environment. The company stated that the incident has had no impact on its overall network and that cybersecurity and data protection are top priorities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Water Utility Rosvodokanal Hit by Disruptive Cyberattack From Blackjack Group<a href="https://thecyberexpress.com/russian-water-utility-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This attack was seen as retaliation for an earlier cyberattack on Kyivstar, a phone company in Ukraine, which was attributed to Russian hackers. There are suspicions that the Security Service of Ukraine (SBU) may have played a role in the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

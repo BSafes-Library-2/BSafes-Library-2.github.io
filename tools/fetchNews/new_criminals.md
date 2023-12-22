@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+December 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+German Authorities Dismantle Dark Web Hub 'Kingdom Market' in Global Operation<a href="https://thehackernews.com/2023/12/german-authorities-dismantle-dark-web.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German law enforcement has announced the disruption of a dark web platform called&nbsp; Kingdom Market &nbsp;that specialized in the sales of narcotics and malware to "tens of thousands of users." The&nbsp; exercise , which involved collaboration from authorities from the U.S., Switzerland, Moldova, and Ukraine, began on December 16, 2023, the Federal Criminal Police Office (BKA) said. Kingdom Market is said to have been accessible over the TOR and Invisible Internet Project (I2P) anonymization networks since at least March 2021, trafficking in illegal narcotics as well as advertising malware, criminal services, and forged documents. As many as 42,000 products have been sold via several hundred seller accounts on the English language platform prior to its takedown, with 3,600 of them originating from Germany.&nbsp; Transactions on the Kingdom Market were facilitated through cryptocurrency payments in the form of Bitcoin, Litecoin, Monero, and Zcash, with the website operators receiving a 3
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detail Multi-Million Dollar Licensing Model of Predator Spyware<a href="https://thehackernews.com/2023/12/multi-million-dollar-predator-spyware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new analysis of the sophisticated commercial spyware called Predator has revealed that its ability to persist between reboots is offered as an "add-on feature" and that it depends on the licensing options opted by a customer. "In 2021, Predator spyware couldn't survive a reboot on the infected Android system (it had it on iOS)," Cisco Talos researchers Mike Gentile, Asheer Malhotra, and Vitor Ventura&nbsp; said &nbsp;in a report shared with The Hacker News. "However, by April 2022, that capability was being offered to their customers." Predator is the product of a consortium called the Intellexa Alliance, which includes Cytrox (subsequently acquired by WiSpear), Nexa Technologies, and Senpai Technologies. Both Cytrox and Intellexa were&nbsp; added &nbsp;to the Entity List by the U.S. in July 2023 for "trafficking in cyber exploits used to gain access to information systems." The latest findings come more than six months after the cybersecurity vendor detai
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 15, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

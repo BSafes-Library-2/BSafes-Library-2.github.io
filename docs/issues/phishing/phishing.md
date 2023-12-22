@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploiting MS Excel Vulnerability to Spread Agent Tesla Malware<a href="https://thehackernews.com/2023/12/hackers-exploiting-old-ms-excel.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are weaponizing an old Microsoft Office vulnerability as part of phishing campaigns to distribute a strain of malware called&nbsp; Agent Tesla . The infection chains leverage decoy Excel documents attached in invoice-themed messages to trick potential targets into opening them and activate the exploitation of CVE-2017-11882 (CVSS score: 7.8), a memory corruption vulnerability in Office's Equation Editor that could result in code execution with the privileges of the user. The findings, which come from Zscaler ThreatLabz, build on prior reports from Fortinet FortiGuard Labs, which detailed a&nbsp; similar phishing campaign &nbsp;that exploited the security flaw to deliver the malware. "Once a user downloads a malicious attachment and opens it, if their version of Microsoft Excel is vulnerable, the Excel file initiates communication with a malicious destination and proceeds to download additional files without requiring any further user interaction," security researcher Kaiva
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake F5 Vulnerability 'Update' Delivers Data Wiper to Israeli Victims<a href="https://www.darkreading.com/cyberattacks-data-breaches/targeted-f5-vulnerability-update-delivers-wiper-israeli-victims?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacker takes advantage of a vulnerability in F5's BIG-IP and tricks recipients into downloading a file that is supposed to be an update for the vulnerability. However, the file actually contains a wiper that deletes F5 servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

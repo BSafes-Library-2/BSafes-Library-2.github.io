@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 20, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘No Evidence’ of Foreign Election Interference in 2022 US Midterms, Spy Agencies Say<a href="https://therecord.media/no-evidence-2022-midterm-election-interference-declassified-report?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. intelligence community has stated that Russia and China attempted to influence the 2022 U.S. midterms, but were unsuccessful in hacking the election infrastructure or disrupting voting.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
