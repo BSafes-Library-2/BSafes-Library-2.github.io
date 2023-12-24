@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 24, 2023
+December 24, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British LAPSUS$ Teen Members Sentenced for High-Profile Attacks<a href="https://thehackernews.com/2023/12/british-lapsus-teen-members-sentenced.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2023
+December 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ESET Fixed a High-Severity Bug in the Secure Traffic Scanning Feature of Several Products<a href="https://securityaffairs.com/156256/security/eset-secure-traffic-scanning-feature-bugs.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2023
+December 23, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Real Estate Agency Exposes Details of 690K Customers in Dubai<a href="https://securityaffairs.com/156261/security/real-estate-agency-exposes-details-of-690k-customers.html?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2023
+December 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bandook - A Persistent Threat That Keeps Evolving<a href="https://www.fortinet.com/blog/threat-research/bandook-persistent-threat-that-keeps-evolving?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2023
+December 23, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Hackers Claim Attack on Popular Russian CRM Provider<a href="https://therecord.media/bitrix24-disruption-ukraine-it-army?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2023
+December 23, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online Platform Carousell Violated Hong Kong Privacy Laws, Watchdog Finds<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3245853/online-platform-carousell-violated-hong-kong-privacy-laws-watchdog-finds-after-data-over-320000?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 23, 2023
+December 23, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber-Espionage Group Cloud Atlas Targets Russian Companies With War-Related Phishing Attacks<a href="https://therecord.media/cloud-atlas-targets-russian-orgs-war-phishing?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2023
+December 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rogue WordPress Plugin Exposes E-Commerce Sites to Credit Card Theft<a href="https://thehackernews.com/2023/12/rogue-wordpress-plugin-exposes-e.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2023
+December 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation RusticWeb: Rust-Based Malware Targets Indian Government Entities<a href="https://thehackernews.com/2023/12/operation-rusticweb-rust-based-malware.html"> Full Text</a>
@@ -178,7 +178,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 22, 2023
+December 22, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Decoy Microsoft Word Documents Used to Deliver Nim-Based Malware<a href="https://thehackernews.com/2023/12/decoy-microsoft-word-documents-used-to.html"> Full Text</a>

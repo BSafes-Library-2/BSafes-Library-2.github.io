@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 24, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British LAPSUS$ Teen Members Sentenced for High-Profile Attacks<a href="https://thehackernews.com/2023/12/british-lapsus-teen-members-sentenced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two British teens part of the LAPSUS$ cyber crime and extortion gang have been sentenced for their roles in orchestrating a string of high-profile attacks against a number of companies. Arion Kurtaj, an 18-year-old from Oxford, has been sentenced to an indefinite hospital order due to his intent to get back to cybercrime "as soon as possible," BBC  reported . Kurtaj, who is autistic, was deemed unfit to stand trial. Another LAPSUS$ member, a 17-year-old unnamed minor, was sentenced to an 18-month-long Youth Rehabilitation Order, including a three-month intensive supervision and surveillance requirement. He was found guilty of two counts of fraud, two Computer Misuse Act offenses, and one count of blackmail. Both defendants  were initially arrested in January 2022, and then released under investigation. They were re-arrested in March 2022. While Kurtaj was later granted bail, he continued to attack various companies until he was arrested again in September. The attack sp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ESET Fixed a High-Severity Bug in the Secure Traffic Scanning Feature of Several Products<a href="https://securityaffairs.com/156256/security/eset-secure-traffic-scanning-feature-bugs.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability was due to improper validation of server certificates, allowing browsers to trust sites with certificates signed with outdated algorithms. ESET has released security patches and is not aware of any attacks exploiting this flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Real Estate Agency Exposes Details of 690K Customers in Dubai<a href="https://securityaffairs.com/156261/security/real-estate-agency-exposes-details-of-690k-customers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data included personal information such as names, emails, phone numbers, and scanned copies of receipts, checks, contracts, and IDs, increasing the likelihood of targeted scams and unauthorized access to sensitive accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bandook - A Persistent Threat That Keeps Evolving<a href="https://www.fortinet.com/blog/threat-research/bandook-persistent-threat-that-keeps-evolving?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bandook malware, a remote access trojan, has evolved with a new variant that uses a PDF file to distribute its payload and injects it into msinfo32.exe, allowing remote attackers to gain control of infected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Hackers Claim Attack on Popular Russian CRM Provider<a href="https://therecord.media/bitrix24-disruption-ukraine-it-army?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of Ukrainian hackers known as the IT Army claimed responsibility for disrupting the operations of Bitrix24, a Russian provider of customer relationship management (CRM) services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Platform Carousell Violated Hong Kong Privacy Laws, Watchdog Finds<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3245853/online-platform-carousell-violated-hong-kong-privacy-laws-watchdog-finds-after-data-over-320000?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The violation comes after the personal data of over 320,000 local users was discovered being sold on the dark web. Carousell reported the incident last year, attributing it to a loophole exploited by hackers in its system migration process.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 23, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-Espionage Group Cloud Atlas Targets Russian Companies With War-Related Phishing Attacks<a href="https://therecord.media/cloud-atlas-targets-russian-orgs-war-phishing?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker group known as Cloud Atlas has recently targeted a Russian agro-industrial enterprise and a state-owned research company in an espionage campaign. The group, believed to be state-backed, primarily attacks Russia and surrounding countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rogue WordPress Plugin Exposes E-Commerce Sites to Credit Card Theft<a href="https://thehackernews.com/2023/12/rogue-wordpress-plugin-exposes-e.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunters have discovered a rogue WordPress plugin that's capable of creating bogus administrator users and injecting malicious JavaScript code to steal credit card information. The skimming activity is part of a  Magecart campaign  targeting e-commerce websites, according to Sucuri. "As with many other malicious or fake WordPress plugins it contains some deceptive information at the top of the file to give it a veneer of legitimacy," security researcher Ben Martin  said . "In this case, comments claim the code to be 'WordPress Cache Addons.'" Malicious plugins typically find their way to WordPress sites via either a  compromised admin user  or the  exploitation of security flaws  in another plugin already installed on the site. Post installation, the plugin replicates itself to the  mu-plugins  (or must-use plugins) directory so that it's automatically enabled and conceals its presence from the admin panel. "Since the only way to re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation RusticWeb: Rust-Based Malware Targets Indian Government Entities<a href="https://thehackernews.com/2023/12/operation-rusticweb-rust-based-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indian government entities and the defense sector have been targeted by a phishing campaign that's engineered to drop Rust-based malware for intelligence gathering. The activity, first detected in October 2023, has been codenamed  Operation RusticWeb  by enterprise security firm SEQRITE. "New Rust-based payloads and encrypted PowerShell commands have been utilized to exfiltrate confidential documents to a web-based service engine, instead of a dedicated command-and-control (C2) server," security researcher Sathwik Ram Prakki  said . Tactical overlaps have been uncovered between the cluster and those widely tracked under the monikers  Transparent Tribe  and SideCopy, both of which are assessed to be linked to Pakistan. SideCopy is also a suspected subordinate element within Transparent Tribe. Last month, SEQRITE  detailed  multiple campaigns undertaken by the threat actor targeting Indian government bodies to deliver numerous trojans such as AllaKore RAT, Ares RAT, an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decoy Microsoft Word Documents Used to Deliver Nim-Based Malware<a href="https://thehackernews.com/2023/12/decoy-microsoft-word-documents-used-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign is leveraging decoy Microsoft Word documents as bait to deliver a backdoor written in the  Nim programming language . "Malware written in uncommon programming languages puts the security community at a disadvantage as researchers and reverse engineers' unfamiliarity can hamper their investigation," Netskope researchers Ghanashyam Satpathy and Jan Michael Alcantara  said . Nim-based malware has been a rarity in the threat landscape, although that has been slowly changing in recent years as attackers continue to either develop custom tools from scratch using the language or port existing versions of their nefarious programs to it. This has been demonstrated in the case of loaders such as  NimzaLoader ,  Nimbda ,  IceXLoader , as well as ransomware families tracked under the names  Dark Power  and  Kanti . The attack chain documented by Netskope begins with a phishing email containing a Word document attachment that, when opened, urges the recipi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAC-0099 Using WinRAR Exploit to Target Ukrainian Firms with LONEPAGE Malware<a href="https://thehackernews.com/2023/12/uac-0099-using-winrar-exploit-to-target.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as  UAC-0099  has been linked to continued attacks aimed at Ukraine, some of which leverage a high-severity flaw in the WinRAR software to deliver a malware strain called LONEPAGE. "The threat actor targets Ukrainian employees working for companies outside of Ukraine," cybersecurity firm Deep Instinct  said  in a Thursday analysis. UAC-0099 was  first documented  by the Computer Emergency Response Team of Ukraine (CERT-UA) in June 2023, detailing its attacks against state organizations and media entities for espionage motives. The attack chains leveraged phishing messages containing HTA, RAR, and LNK file attachments that led to the deployment of  LONEPAGE , a Visual Basic Script (VBS) malware that's capable of contacting a command-and-control (C2) server to retrieve additional payloads such as keyloggers, stealers, and screenshot malware. "During 2022-2023, the mentioned group received unauthorized remote access to several dozen computer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New 'FalseFont' Backdoor Targeting the Defense Sector<a href="https://thehackernews.com/2023/12/microsoft-warns-of-new-falsefont.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations in the Defense Industrial Base (DIB) sector are in the crosshairs of an Iranian threat actor as part of a campaign designed to deliver a never-before-seen backdoor called FalseFont. The findings come from Microsoft, which is tracking the activity under its weather-themed moniker  Peach Sandstorm  (formerly Holmium), which is also known as APT33, Elfin, and Refined Kitten. "FalseFont is a custom backdoor with a wide range of functionalities that allow operators to remotely access an infected system, launch additional files, and send information to its [command-and-control] servers," the Microsoft Threat Intelligence team  said  on X (previously Twitter). The first recorded use of the implant was in early November 2023. The tech giant further said that the latest development aligns with previous activity from Peach Sandstorm and demonstrates a continued evolution of the threat actor's tradecraft. In a report published in September 2023, Microsoft  linke
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 22, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Banking Trojan Chameleon can Now Bypass Any Biometric Authentication<a href="https://www.threatfabric.com/blogs/android-banking-trojan-chameleon-is-back-in-action?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chameleon banking trojan has evolved with new advanced features, including the ability to bypass biometric prompts and display HTML pages for enabling Accessibility Services on Android 13, making it a potent threat to mobile banking security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 21, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

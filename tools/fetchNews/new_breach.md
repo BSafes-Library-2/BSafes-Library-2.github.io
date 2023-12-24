@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+December 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Real Estate Agency Exposes Details of 690K Customers in Dubai<a href="https://securityaffairs.com/156261/security/real-estate-agency-exposes-details-of-690k-customers.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data included personal information such as names, emails, phone numbers, and scanned copies of receipts, checks, contracts, and IDs, increasing the likelihood of targeted scams and unauthorized access to sensitive accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

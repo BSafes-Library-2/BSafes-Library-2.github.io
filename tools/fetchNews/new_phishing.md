@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-Espionage Group Cloud Atlas Targets Russian Companies With War-Related Phishing Attacks<a href="https://therecord.media/cloud-atlas-targets-russian-orgs-war-phishing?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hacker group known as Cloud Atlas has recently targeted a Russian agro-industrial enterprise and a state-owned research company in an espionage campaign. The group, believed to be state-backed, primarily attacks Russia and surrounding countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 22, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decoy Microsoft Word Documents Used to Deliver Nim-Based Malware<a href="https://thehackernews.com/2023/12/decoy-microsoft-word-documents-used-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing campaign is leveraging decoy Microsoft Word documents as bait to deliver a backdoor written in the&nbsp; Nim programming language . "Malware written in uncommon programming languages puts the security community at a disadvantage as researchers and reverse engineers' unfamiliarity can hamper their investigation," Netskope researchers Ghanashyam Satpathy and Jan Michael Alcantara&nbsp; said . Nim-based malware has been a rarity in the threat landscape, although that has been slowly changing in recent years as attackers continue to either develop custom tools from scratch using the language or port existing versions of their nefarious programs to it. This has been demonstrated in the case of loaders such as&nbsp; NimzaLoader ,&nbsp; Nimbda ,&nbsp; IceXLoader , as well as ransomware families tracked under the names&nbsp; Dark Power &nbsp;and&nbsp; Kanti . The attack chain documented by Netskope begins with a phishing email containing a Word document attachment that, when opened, urges the recipi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

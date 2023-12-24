@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 24, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British LAPSUS$ Teen Members Sentenced for High-Profile Attacks<a href="https://thehackernews.com/2023/12/british-lapsus-teen-members-sentenced.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two British teens part of the LAPSUS$ cyber crime and extortion gang have been sentenced for their roles in orchestrating a string of high-profile attacks against a number of companies. Arion Kurtaj, an 18-year-old from Oxford, has been sentenced to an indefinite hospital order due to his intent to get back to cybercrime "as soon as possible," BBC&nbsp; reported . Kurtaj, who is autistic, was deemed unfit to stand trial. Another LAPSUS$ member, a 17-year-old unnamed minor, was sentenced to an 18-month-long Youth Rehabilitation Order, including a three-month intensive supervision and surveillance requirement. He was found guilty of two counts of fraud, two Computer Misuse Act offenses, and one count of blackmail. Both defendants &nbsp;were initially arrested in January 2022, and then released under investigation. They were re-arrested in March 2022. While Kurtaj was later granted bail, he continued to attack various companies until he was arrested again in September. The attack sp
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Platform Carousell Violated Hong Kong Privacy Laws, Watchdog Finds<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3245853/online-platform-carousell-violated-hong-kong-privacy-laws-watchdog-finds-after-data-over-320000?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The violation comes after the personal data of over 320,000 local users was discovered being sold on the dark web. Carousell reported the incident last year, attributing it to a loophole exploited by hackers in its system migration process.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

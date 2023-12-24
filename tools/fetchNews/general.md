@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+December 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cost of a Data Breach Report 2023: Insights, Mitigators and Best Practices<a href="https://thehackernews.com/2023/12/cost-of-data-breach-report-2023.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+John Hanley of IBM Security shares 4 key findings from the highly acclaimed annual Cost of a Data Breach Report 2023 What is the IBM Cost of a Data Breach Report? The IBM Cost of a Data Breach Report is an annual report that provides organizations with quantifiable information about the financial impacts of breaches. With this data, they can make data driven decisions about how they implement security in their organization. The report is conducted by the Ponemon Institute and sponsored, analyzed, and published by IBM Security. In 2023, the 18th year the report was published, the report analyzed 553 breaches across 16 countries and 17 industries. According to Etay Maor, Senior Director of Security Strategy at&nbsp; Cato Networks , "We tend to talk a lot about security issues and solutions. This report puts a number behind threats and solutions and provides a lot of information to support claims of how a threat actor, a solution or a process impacts you financially." Key Finding #1: The
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 21, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI’s Efficacy is Constrained in Cybersecurity, but Limitless in Cybercrime<a href="https://www.helpnetsecurity.com/2023/12/20/ai-security-solutions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The use of AI in cybersecurity has created a cycle where both cyber professionals and cybercriminals employ AI to enhance their tools and techniques. However, there are limitations and trust issues with AI security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
