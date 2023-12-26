@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 23, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Hackers Claim Attack on Popular Russian CRM Provider<a href="https://therecord.media/bitrix24-disruption-ukraine-it-army?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group of Ukrainian hackers known as the IT Army claimed responsibility for disrupting the operations of Bitrix24, a Russian provider of customer relationship management (CRM) services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

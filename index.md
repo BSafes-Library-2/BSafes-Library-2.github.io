@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 25, 2023
+December 25, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud Atlas' Spear-Phishing Attacks Target Russian Agro and Research Companies<a href="https://thehackernews.com/2023/12/cloud-atlas-spear-phishing-attacks.html"> Full Text</a>
