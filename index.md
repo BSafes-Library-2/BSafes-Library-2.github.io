@@ -34,6 +34,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 25, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Atlas' Spear-Phishing Attacks Target Russian Agro and Research Companies<a href="https://thehackernews.com/2023/12/cloud-atlas-spear-phishing-attacks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor referred to as  Cloud Atlas  has been linked to a set of spear-phishing attacks on Russian enterprises. Targets included a Russian agro-industrial enterprise and a state-owned research company, according to a  report  from F.A.C.C.T., a standalone cybersecurity company formed after Group-IB's formal exit from Russia earlier this year. Cloud Atlas, active since at least 2014, is a cyber espionage group of unknown origin. Also called Clean Ursa, Inception, Oxygen, and Red October, the threat actor is known for its persistent campaigns targeting Russia, Belarus, Azerbaijan, Turkey, and Slovenia. In December 2022, Check Point and Positive Technologies  detailed  multi-stage attack sequences that led to the deployment of a PowerShell-based backdoor referred to as PowerShower as well as DLL payloads capable of communicating with an actor-controlled server. The starting point is a phishing message bearing a lure document that exploits  CVE-2017-11882 , a six-year-ol
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 24, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
