@@ -34,6 +34,134 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubuntu Security Updates Fixed Vim Vulnerabilities<a href="https://tuxcare.com/blog/ubuntu-security-updates-fixed-vim-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities range from denial of service risks to arbitrary code execution possibilities. It emphasizes the importance of regularly updating Vim and applying security patches to mitigate these risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Carbanak Banking Malware Resurfaces with New Ransomware Tactics<a href="https://thehackernews.com/2023/12/carbanak-banking-malware-resurfaces.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The banking malware known as  Carbanak  has been observed being used in  ransomware attacks  with updated tactics. "The malware has adapted to incorporate attack vendors and techniques to diversify its effectiveness," cybersecurity firm NCC Group  said  in an analysis of ransomware attacks that took place in November 2023. "Carbanak returned last month through new distribution chains and has been distributed through compromised websites to impersonate various business-related software." Some of the impersonated tools include popular business-related software such as HubSpot, Veeam, and Xero. Carbanak , detected in the wild since at least 2014, is known for its data exfiltration and remote control features. Starting off as a banking malware, it has been put to use by the  FIN7 cybercrime syndicate . In the latest attack chain documented by NCC Group, the compromised websites are designed to host malicious installer files masquerading as legitimate utilities to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile Virtual Network Operator Mint Mobile Discloses a Data Breach<a href="https://securityaffairs.com/156295/data-breach/mint-mobile-data-breach-2.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach exposed customers' names, phone numbers, email addresses, SIM serial numbers, IMEI numbers, and service plan information. Importantly, financial data and passwords were not exposed in the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2023 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mend.io Acquires Cyber Startup Atom Security<a href="https://www.calcalistech.com/ctechnews/article/hkltx3bpt?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The integration of Atom Security's technology into Mend.io's product line is expected to enhance coverage and reduce the number of irrelevant findings in code vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2023 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Video Game Giant Ubisoft Investigates Reports of a Data Breach<a href="https://securityaffairs.com/156331/data-breach/ubisoft-investigating-alleged-data-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On December 20, an unknown threat actor had access to Ubisoft's infrastructure for 48 hours. The attackers attempted to steal user data from the game R6 Siege but were unsuccessful.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Stealth Android Backdoor Xamalicious Found Actively Infecting Devices<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/stealth-backdoor-android-xamalicious-actively-infecting-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Xamalicious backdoor, implemented with Xamarin, targets Android devices by gaining accessibility privileges and communicating with a C2 server to download a second-stage payload, potentially enabling fraudulent actions without user consent.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nim-based Malware Distributed Using Microsoft Word Docs Impersonating the Nepali Government<a href="https://www.netskope.com/blog/a-look-at-the-nim-based-campaign-using-microsoft-word-docs-to-impersonate-the-nepali-government?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Nim-based backdoor communicates with command and control servers, evades analysis tools, and establishes persistence on the compromised machine through startup folders and scheduled tasks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 26, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rising Threat of Phishing Attacks with Crypto Drainers<a href="https://research.checkpoint.com/2023/the-rising-threat-of-phishing-attacks-with-crypto-drainers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The "Angel Drainer" phishing group is notorious for draining cryptocurrency wallets through sophisticated schemes, charging a percentage of the stolen amount from hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 25, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+December 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mobile Virtual Network Operator Mint Mobile Discloses a Data Breach<a href="https://securityaffairs.com/156295/data-breach/mint-mobile-data-breach-2.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach exposed customers' names, phone numbers, email addresses, SIM serial numbers, IMEI numbers, and service plan information. Importantly, financial data and passwords were not exposed in the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Video Game Giant Ubisoft Investigates Reports of a Data Breach<a href="https://securityaffairs.com/156331/data-breach/ubisoft-investigating-alleged-data-breach.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On December 20, an unknown threat actor had access to Ubisoft's infrastructure for 48 hours. The attackers attempted to steal user data from the game R6 Siege but were unsuccessful.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
