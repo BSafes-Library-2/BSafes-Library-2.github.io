@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+December 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mend.io Acquires Cyber Startup Atom Security<a href="https://www.calcalistech.com/ctechnews/article/hkltx3bpt?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The integration of Atom Security's technology into Mend.io's product line is expected to enhance coverage and reduce the number of irrelevant findings in code vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 14, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 26, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Rising Threat of Phishing Attacks with Crypto Drainers<a href="https://research.checkpoint.com/2023/the-rising-threat-of-phishing-attacks-with-crypto-drainers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The "Angel Drainer" phishing group is notorious for draining cryptocurrency wallets through sophisticated schemes, charging a percentage of the stolen amount from hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 25, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

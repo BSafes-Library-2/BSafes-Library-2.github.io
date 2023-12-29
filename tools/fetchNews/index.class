@@ -34,6 +34,182 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trinidad and Tobago Social Security Agency Discloses Post-Christmas Ransomware Attack<a href="https://therecord.media/trinidad-and-tobago-government-agency-hit-with-post-christmas-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Insurance Board in Trinidad and Tobago has been hit by a ransomware attack, leading to the closure of its offices and limiting its operations for an extended period.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Cloud Resolves Privilege Escalation Flaw Impacting Kubernetes Service<a href="https://thehackernews.com/2023/12/google-cloud-resolves-privilege.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Cloud has addressed a medium-severity security flaw in its platform that could be abused by an attacker who already has access to a Kubernetes cluster to escalate their privileges. "An attacker who has compromised the  Fluent Bit  logging container could combine that access with high privileges required by  Anthos Service Mesh  (on clusters that have enabled it) to escalate privileges in the cluster," the company  said  as part of an advisory released on December 14, 2023. Palo Alto Networks Unit 42, which discovered and reported the shortcoming, said adversaries could weaponize it to carry out "data theft, deploy malicious pods, and disrupt the cluster's operations." There is no evidence that the issue has been exploited in the wild. It has been addressed in the following versions of Google Kubernetes Engine (GKE) and Anthos Service Mesh (ASM) - 1.25.16-gke.1020000 1.26.10-gke.1235000 1.27.7-gke.1293000 1.28.4-gke.1083000 1.17.8-asm.8 1.18.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albanian Parliament, Telecom Company Hit by Cyberattacks<a href="https://therecord.media/albanian-parliament-telecom-company-hit-by-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Albanian parliament and a telecom company were targeted by cyberattacks originating from outside Albania. The attacks, which attempted to interfere with infrastructure and delete data, have not been attributed to a specific threat actor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Sophisticated iPhone Hack Ever Exploited Apple's Hidden Hardware Feature<a href="https://thehackernews.com/2023/12/most-sophisticated-iphone-hack-ever.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The  Operation Triangulation  spyware attacks targeting Apple iOS devices leveraged never-before-seen exploits that made it possible to even bypass pivotal hardware-based security protections erected by the company. Russian cybersecurity firm Kaspersky, which  discovered  the  campaign  at the beginning of 2023 after becoming one of the targets,  described  it as the "most sophisticated attack chain" it has ever observed to date. The campaign is believed to have been active since 2019. The exploitation activity involved the use of four zero-day flaws that were fashioned into a chain to obtain an unprecedented level of access and backdoor target devices running iOS versions up to iOS 16.2 with the ultimate goal of gathering sensitive information. The starting point of the zero-click attack is an iMessage bearing a malicious attachment, which is automatically processed sans any user interaction to ultimately obtain elevated permissions and deploy a spyware module. Specific
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four-Year Campaign Backdoored Iphones Using Undocumented Hardware Function<a href="https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The secret hardware function targeted by the attackers allowed them to bypass advanced memory protections, enabling post-exploitation techniques and compromising system integrity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Rugmi Malware Loader Surges with Hundreds of Daily Detections<a href="https://thehackernews.com/2023/12/new-rugmi-malware-loader-surges-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware loader is being used by threat actors to deliver a wide range of  information stealers  such as Lumma Stealer (aka LummaC2), Vidar, RecordBreaker (aka Raccoon Stealer V2), and  Rescoms . Cybersecurity firm ESET is tracking the trojan under the name  Win/TrojanDownloader.Rugmi . "This malware is a loader with three types of components: a downloader that downloads an encrypted payload, a loader that runs the payload from internal resources, and another loader that runs the payload from an external file on the disk," the company  said  in its Threat Report H2 2023. Telemetry data gathered by the company shows that detections for the Rugmi loader spiked in October and November 2023, surging from single digit daily numbers to hundreds per day. Stealer malware is typically sold under a malware-as-a-service (MaaS) model to other threat actors on a subscription basis. Lumma Stealer, for instance, is advertised in underground forums for $250 a month. The most expen
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Main Tactics Attackers Use to Bypass MFA<a href="https://www.helpnetsecurity.com/2023/12/26/tactics-bypass-mfa/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SE Labs has warned that multi-factor authentication (MFA) is not foolproof and can be bypassed by attackers using old-school methods such as social engineering, malware, and phishing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 28, 2023 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Incorporate Human-Centric Security<a href="https://www.helpnetsecurity.com/2023/12/27/human-centric-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies need to shift their focus from solely addressing threats to proactively mitigating risks by analyzing behaviors and implementing insider risk management solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Zero-Day in Apache OfBiz ERP System Exposes Businesses to Attack<a href="https://thehackernews.com/2023/12/critical-zero-day-in-apache-ofbiz-erp.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new zero-day security flaw has been discovered in Apache OfBiz, an open-source Enterprise Resource Planning (ERP) system that could be exploited to bypass authentication protections. The vulnerability, tracked as  CVE-2023-51467 , resides in the login functionality and is the result of an incomplete patch for another critical vulnerability ( CVE-2023-49070 , CVSS score: 9.8) that was released earlier this month. "The  security measures  taken to patch CVE-2023-49070 left the root issue intact and therefore the authentication bypass was still present," the SonicWall Capture Labs threat research team, which discovered the bug,  said  in a statement shared with The Hacker News. CVE-2023-49070 refers to a pre-authenticated remote code execution flaw impacting versions prior to 18.12.10 that, when successfully exploited, could allow threat actors to gain full control over the server and siphon sensitive data. It is caused due to a deprecated XML-RPC component within Apache
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Exploited New Zero-Day in Barracuda's ESG Appliances<a href="https://thehackernews.com/2023/12/chinese-hackers-exploited-new-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Barracuda has revealed that Chinese threat actors exploited a new zero-day in its Email Security Gateway (ESG) appliances to deploy backdoors on a "limited number" of devices. Tracked as  CVE-2023-7102 , the issue relates to a case of  arbitrary code execution  that resides within a third-party and open-source library named Spreadsheet::ParseExcel that's used by the Amavis scanner within the gateway to screen Microsoft Excel email attachments for malware. The company attributed the activity to a threat actor tracked by Google-owned Mandiant as  UNC4841 , which was previously linked to the  active exploitation  of another zero-day in Barracuda devices (CVE-2023-2868, CVSS score: 9.8) earlier this year. Successful exploitation of the new flaw is accomplished by means of a specially crafted Microsoft Excel email attachment. This is followed by the deployment of new variants of known implants called  SEASPY and SALTWATER  that are equipped to offer persistence and comman
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 27, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Sneaky Xamalicious Android Malware Hits Over 327,000 Devices<a href="https://thehackernews.com/2023/12/new-sneaky-xamalicious-android-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android backdoor has been discovered with potent capabilities to carry out a range of malicious actions on infected devices. Dubbed  Xamalicious  by the McAfee Mobile Research Team, the malware is so named for the fact that it's developed using an open-source mobile app framework called Xamarin and abuses the operating system's accessibility permissions to fulfill its objectives. It's also capable of gathering metadata about the compromised device and contacting a command-and-control (C2) server to fetch a second-stage payload, but only after determining if it fits the bill. The second stage is "dynamically injected as an assembly DLL at runtime level to take full control of the device and potentially perform fraudulent actions such as clicking on ads, installing apps, among other actions financially motivated without user consent," security researcher Fernando Ruiz  said . The cybersecurity firm said it identified 25 apps that come with this active thr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 26, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

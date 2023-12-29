@@ -16,6 +16,7 @@ December 18, 2023 - CISA
   <summary>Abstract</summary>
 his joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware effort to publish advisories for network defenders that detail various ransomware variants and ransomware threat actors. These #StopRansomware advisories include recently and historically observed tactics, techniques, and procedures (TTPs) and indicators of compromise (IOCs) to help organizations protect against ransomware. Visit stopransomware.gov to see all #StopRansomware advisories and to learn more about other ransomware threats and no-cost resources.
 </details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 15, 2023 - National Intelligence, NSA, CISA, CSCC, National Defense iSAC, IT SOC
@@ -29,6 +30,7 @@ Cyberattacks target an enterprise’s use of cyberspace to disrupt, disable, des
 control a computing environment or infrastructure, destroy the integrity of the data, or steal
 controlled information.
 </details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 15, 2023 - Microsoft
@@ -40,6 +42,7 @@ Storm-0539 <a href="https://twitter.com/MsftSecIntel/status/1735351713907773711"
   <summary>Abstract</summary>
 Microsoft has observed a significant surge in activity associated with the threat actor Storm-0539, known to target retail organizations for gift card fraud and theft using highly sophisticated email and SMS phishing during the holiday shopping season.
 </details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 12, 2023 - Microsoft
@@ -51,6 +54,7 @@ Threat actors misuse OAuth applications to automate financially driven attacks <
   <summary>Abstract</summary>
 Threat actors are misusing OAuth applications as an automation tool in financially motivated attacks. OAuth is an open standard for token-based authentication and authorization that enables applications to get access to data and resources based on permissions set by a user. Threat actors compromise user accounts to create, modify, and grant high privileges to OAuth applications that they can misuse to hide malicious activity. The misuse of OAuth also enables threat actors to maintain access to applications even if they lose access to the initially compromised account.
 </details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 11, 2023 - National Intelligence Council 
@@ -62,6 +66,7 @@ Foreign Threats to the 2022 US Elections <a href="https://www.odni.gov/files/ODN
   <summary>Abstract</summary>
 Both Russia and China attempted to influence the 2022 U.S. midterms but did not successfully hack into the country’s election infrastructure or otherwise disrupt voting, the U.S. intelligence community said on Monday.
 </details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 11, 2023 - FCC 
@@ -73,6 +78,7 @@ FCC Reminds Carriers to Prevent SIM Fraud Schemes <a href="https://www.fcc.gov/d
   <summary>Abstract</summary>
 FCC Enforcement Advisory - Telecommunications Carriers Must Protect Consumers' Privacy and Sensitive Data by Taking Reasonable Steps to Prevent SIM Fraud Schemeas.
 </details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 7, 2023 - ENISA 
@@ -84,6 +90,7 @@ CISA and ENISA enhance their Cooperation <a href="https://www.enisa.europa.eu/ne
   <summary>Abstract</summary>
 The European Union Agency for Cybersecurity (ENISA) has signed a Working Arrangement with the Cybersecurity and Infrastructure Security Agency (CISA) of the US, in the areas of capacity-building, best practices exchange and boosting situational awareness.
 </details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 5, 2023 - CISA 
@@ -95,6 +102,7 @@ CISA Releases Advisory on Threat Actors Exploiting CVE-2023-26360 Vulnerability 
   <summary>Abstract</summary>
 Today, CISA released a Cybersecurity Advisory (CSA), Threat Actors Exploit Adobe ColdFusion CVE-2023-26360 for Initial Access to Government Servers, to disseminate known indicators of compromise (IOCs) and tactics, techniques, and procedures (TTPs). The vulnerability in ColdFusion (CVE-2023-26360) presents as an improper access control issue and exploitation of this CVE can result in arbitrary code execution.
 </details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 1, 2023 - Microsoft
@@ -106,6 +114,7 @@ Microsoft has detected Danabot (Storm-1044) infections leading to hands-on-keybo
   <summary>Abstract</summary>
 Microsoft has detected Danabot (Storm-1044) infections leading to hands-on-keyboard activity by ransomware operator Storm-0216 (Twisted Spider, UNC2198), culminating in the deployment of Cactus ransomware. In this campaign, Danabot is distributed via malvertising.
 </details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 November 28, 2023 - CISA
