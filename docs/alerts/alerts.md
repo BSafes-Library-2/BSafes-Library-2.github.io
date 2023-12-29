@@ -19,7 +19,7 @@ his joint Cybersecurity Advisory (CSA) is part of an ongoing #StopRansomware eff
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 15, 2023 - National Intelligence, NSA, CISA, CSCC, National Defense iSAC, IT SOC
+December 15, 2023 - National Intelligence, NSA ...
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Securing the Software Supply Chain: Recommended Practices for Managing Open-Source Software and Software Bill of Materials <a href="https://media.defense.gov/2023/Dec/11/2003355557/-1/-1/0/ESF_SECURING_THE_SOFTWARE_SUPPLY_CHAIN%20RECOMMENDED%20PRACTICES%20FOR%20MANAGING%20OPEN%20SOURCE%20SOFTWARE%20AND%20SOFTWARE%20BILL%20OF%20MATERIALS.PDF"> Full Text</a>
