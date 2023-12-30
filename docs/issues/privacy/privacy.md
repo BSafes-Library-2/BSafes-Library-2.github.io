@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+December 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With Car Privacy Concerns Rising, Automakers May Be on Road to Regulation<a href="https://therecord.media/car-privacy-concerns-road-to-regulation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Regulators, particularly the California Privacy Protection Agency and the Federal Trade Commission, are starting to investigate and potentially take action against connected vehicle manufacturers for privacy violations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

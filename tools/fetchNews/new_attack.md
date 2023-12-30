@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+December 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albanian Parliament and One Albania Telecom Hit by Cyber Attacks<a href="https://thehackernews.com/2023/12/albanian-parliament-and-one-albania.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Assembly of the Republic of Albania and telecom company One Albania have been targeted by cyber attacks, the country's National Authority for Electronic Certification and Cyber Security (AKCESK) revealed this week. "These infrastructures, under the legislation in force, are not currently classified as critical or important information infrastructure," AKCESK&nbsp; said . One Albania, which has nearly 1.5 million subscribers, said in a&nbsp; Facebook post &nbsp;on December 25 that it had handled the security incident without any issues and that its services, including mobile, landline, and IPTV, remained unaffected. AKCESK further&nbsp; noted &nbsp;that the intrusions did not originate from Albanian IP addresses, adding it managed to "identify potential cases in real-time." The agency also said that it has been focusing its efforts on identifying the source of the attacks, recovering compromised systems, and implementing security measures to prevent such incidents from happening again in the future.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

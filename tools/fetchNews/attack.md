@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+December 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albanian Parliament, Telecom Company Hit by Cyberattacks<a href="https://therecord.media/albanian-parliament-telecom-company-hit-by-cyberattacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Albanian parliament and a telecom company were targeted by cyberattacks originating from outside Albania. The attacks, which attempted to interfere with infrastructure and delete data, have not been attributed to a specific threat actor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Sophisticated iPhone Hack Ever Exploited Apple's Hidden Hardware Feature<a href="https://thehackernews.com/2023/12/most-sophisticated-iphone-hack-ever.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp; Operation Triangulation &nbsp;spyware attacks targeting Apple iOS devices leveraged never-before-seen exploits that made it possible to even bypass pivotal hardware-based security protections erected by the company. Russian cybersecurity firm Kaspersky, which&nbsp; discovered &nbsp;the&nbsp; campaign &nbsp;at the beginning of 2023 after becoming one of the targets,&nbsp; described &nbsp;it as the "most sophisticated attack chain" it has ever observed to date. The campaign is believed to have been active since 2019. The exploitation activity involved the use of four zero-day flaws that were fashioned into a chain to obtain an unprecedented level of access and backdoor target devices running iOS versions up to iOS 16.2 with the ultimate goal of gathering sensitive information. The starting point of the zero-click attack is an iMessage bearing a malicious attachment, which is automatically processed sans any user interaction to ultimately obtain elevated permissions and deploy a spyware module. Specific
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 27, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Exploited New Zero-Day in Barracuda's ESG Appliances<a href="https://thehackernews.com/2023/12/chinese-hackers-exploited-new-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Barracuda has revealed that Chinese threat actors exploited a new zero-day in its Email Security Gateway (ESG) appliances to deploy backdoors on a "limited number" of devices. Tracked as&nbsp; CVE-2023-7102 , the issue relates to a case of&nbsp; arbitrary code execution &nbsp;that resides within a third-party and open-source library named Spreadsheet::ParseExcel that's used by the Amavis scanner within the gateway to screen Microsoft Excel email attachments for malware. The company attributed the activity to a threat actor tracked by Google-owned Mandiant as&nbsp; UNC4841 , which was previously linked to the&nbsp; active exploitation &nbsp;of another zero-day in Barracuda devices (CVE-2023-2868, CVSS score: 9.8) earlier this year. Successful exploitation of the new flaw is accomplished by means of a specially crafted Microsoft Excel email attachment. This is followed by the deployment of new variants of known implants called&nbsp; SEASPY and SALTWATER &nbsp;that are equipped to offer persistence and comman
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 23, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

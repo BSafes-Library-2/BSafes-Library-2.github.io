@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+December 28, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Incorporate Human-Centric Security<a href="https://www.helpnetsecurity.com/2023/12/27/human-centric-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies need to shift their focus from solely addressing threats to proactively mitigating risks by analyzing behaviors and implementing insider risk management solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

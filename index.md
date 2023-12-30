@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2023
+December 29, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Computer Systems at Massachusetts-Based Anna Jaques Hospital Compromised After Cyberattack<a href="https://www.newburyportnews.com/news/local_news/anna-jaques-systems-compromised-after-cyber-issue/article_a5a6d88e-a58e-11ee-bc90-cf662aa3badb.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2023
+December 29, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Albanian Parliament and One Albania Telecom Hit by Cyber Attacks<a href="https://thehackernews.com/2023/12/albanian-parliament-and-one-albania.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2023
+December 29, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 With Car Privacy Concerns Rising, Automakers May Be on Road to Regulation<a href="https://therecord.media/car-privacy-concerns-road-to-regulation?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2023
+December 29, 2023 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CERT-UA Uncovers New Malware Wave Distributing OCEANMAP, MASEPIE, STEELHOOK<a href="https://thehackernews.com/2023/12/cert-ua-uncovers-new-malware-wave.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2023
+December 29, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google to Settle Class Action Lawsuit Alleging Incognito Mode Does Not Protect User Privacy<a href="https://therecord.media/google-to-settle-class-action-incognito-privacy-lawsuit?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2023
+December 29, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kimsuky Hackers Deploying AppleSeed, Meterpreter, and TinyNuke in Latest Attacks<a href="https://thehackernews.com/2023/12/kimsuky-hackers-deploying-appleseed.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2023
+December 29, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Operational Halt at First American Financial Corporation, Subsidiary After Cyberattack<a href="https://thecyberexpress.com/cyberattack-on-first-american-financial/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2023
+December 29, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Do the Casino Ransomware Attacks Make the Case to Pay?<a href="https://www.theregister.com/2023/12/28/casino_ransomware_attacks/?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2023
+December 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Disables MSIX App Installer Protocol Widely Used in Malware Attacks<a href="https://thehackernews.com/2023/12/microsoft-disables-msix-app-installer.html"> Full Text</a>

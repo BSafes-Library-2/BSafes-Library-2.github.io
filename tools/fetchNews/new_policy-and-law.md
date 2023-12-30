@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+December 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Settle Class Action Lawsuit Alleging Incognito Mode Does Not Protect User Privacy<a href="https://therecord.media/google-to-settle-class-action-incognito-privacy-lawsuit?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has reached a preliminary settlement in a class-action lawsuit accusing the company of deceiving users about their privacy while using the Incognito mode. The settlement comes after a nearly four-year legal battle.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 24, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

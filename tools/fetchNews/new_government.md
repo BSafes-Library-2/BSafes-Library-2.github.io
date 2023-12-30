@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+December 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA Uncovers New Malware Wave Distributing OCEANMAP, MASEPIE, STEELHOOK<a href="https://thehackernews.com/2023/12/cert-ua-uncovers-new-malware-wave.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new phishing campaign orchestrated by the&nbsp; Russia-linked&nbsp;APT28&nbsp;group &nbsp;to deploy previously undocumented malware such as OCEANMAP, MASEPIE, and STEELHOOK to harvest sensitive information. The activity, which was&nbsp; detected &nbsp;by the agency between December 15 and 25, 2023, targets government entities with email messages urging recipients to click on a link to view a document. However, to the contrary, the links redirect to malicious web resources that abuse JavaScript and the&nbsp; "search-ms:" URI protocol handler &nbsp;to drop a Windows shortcut file (LNK) that launches PowerShell commands to activate an infection chain for a new malware known as MASEPIE. MASEPIE is a Python-based tool to download/upload files and execute commands, with communications with the command-and-control (C2) server taking place over an encrypted channel using the TCP protocol. The attacks further pave the way for the deployment of a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

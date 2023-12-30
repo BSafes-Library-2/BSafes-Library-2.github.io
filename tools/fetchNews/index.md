@@ -34,7 +34,119 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2023
+December 29, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Computer Systems at Massachusetts-Based Anna Jaques Hospital Compromised After Cyberattack<a href="https://www.newburyportnews.com/news/local_news/anna-jaques-systems-compromised-after-cyber-issue/article_a5a6d88e-a58e-11ee-bc90-cf662aa3badb.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anna Jaques Hospital's health record system was shut down due to a cyberattack, causing delays in receiving services and diverting ambulance arrivals. The hospital is working with cybersecurity professionals to investigate the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2023 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albanian Parliament and One Albania Telecom Hit by Cyber Attacks<a href="https://thehackernews.com/2023/12/albanian-parliament-and-one-albania.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Assembly of the Republic of Albania and telecom company One Albania have been targeted by cyber attacks, the country's National Authority for Electronic Certification and Cyber Security (AKCESK) revealed this week. "These infrastructures, under the legislation in force, are not currently classified as critical or important information infrastructure," AKCESK  said . One Albania, which has nearly 1.5 million subscribers, said in a  Facebook post  on December 25 that it had handled the security incident without any issues and that its services, including mobile, landline, and IPTV, remained unaffected. AKCESK further  noted  that the intrusions did not originate from Albanian IP addresses, adding it managed to "identify potential cases in real-time." The agency also said that it has been focusing its efforts on identifying the source of the attacks, recovering compromised systems, and implementing security measures to prevent such incidents from happening again in the future.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2023 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With Car Privacy Concerns Rising, Automakers May Be on Road to Regulation<a href="https://therecord.media/car-privacy-concerns-road-to-regulation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Regulators, particularly the California Privacy Protection Agency and the Federal Trade Commission, are starting to investigate and potentially take action against connected vehicle manufacturers for privacy violations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2023 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA Uncovers New Malware Wave Distributing OCEANMAP, MASEPIE, STEELHOOK<a href="https://thehackernews.com/2023/12/cert-ua-uncovers-new-malware-wave.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new phishing campaign orchestrated by the  Russia-linked APT28 group  to deploy previously undocumented malware such as OCEANMAP, MASEPIE, and STEELHOOK to harvest sensitive information. The activity, which was  detected  by the agency between December 15 and 25, 2023, targets government entities with email messages urging recipients to click on a link to view a document. However, to the contrary, the links redirect to malicious web resources that abuse JavaScript and the  "search-ms:" URI protocol handler  to drop a Windows shortcut file (LNK) that launches PowerShell commands to activate an infection chain for a new malware known as MASEPIE. MASEPIE is a Python-based tool to download/upload files and execute commands, with communications with the command-and-control (C2) server taking place over an encrypted channel using the TCP protocol. The attacks further pave the way for the deployment of a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2023 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google to Settle Class Action Lawsuit Alleging Incognito Mode Does Not Protect User Privacy<a href="https://therecord.media/google-to-settle-class-action-incognito-privacy-lawsuit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has reached a preliminary settlement in a class-action lawsuit accusing the company of deceiving users about their privacy while using the Incognito mode. The settlement comes after a nearly four-year legal battle.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky Hackers Deploying AppleSeed, Meterpreter, and TinyNuke in Latest Attacks<a href="https://thehackernews.com/2023/12/kimsuky-hackers-deploying-appleseed.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nation-state actors affiliated to North Korea have been observed using spear-phishing attacks to deliver an assortment of backdoors and tools such as AppleSeed, Meterpreter, and TinyNuke to seize control of compromised machines. South Korea-based cybersecurity company AhnLab attributed the activity to an advanced persistent threat group known as  Kimsuky . "A notable point about attacks that use AppleSeed is that similar methods of attack have been used for many years with no significant changes to the malware that are used together," the AhnLab Security Emergency Response Center (ASEC)  said  in an analysis published Thursday. Kimsuky , active for over a decade, is known for its targeting of a wide range of entities in South Korea, before expanding its focus to include other geographies in 2017. It was  sanctioned  by the U.S. government late last month for amassing intelligence to support North Korea's strategic objectives. The threat actor's espionage campaigns are realized th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Operational Halt at First American Financial Corporation, Subsidiary After Cyberattack<a href="https://thecyberexpress.com/cyberattack-on-first-american-financial/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company is working to restore its operations and has notified regulatory authorities. Despite the disruption, the company is still able to close loans and accept payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2023 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Do the Casino Ransomware Attacks Make the Case to Pay?<a href="https://www.theregister.com/2023/12/28/casino_ransomware_attacks/?&web_view=true"> Full Text</a>
@@ -50,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 29, 2023
+December 29, 2023 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Disables MSIX App Installer Protocol Widely Used in Malware Attacks<a href="https://thehackernews.com/2023/12/microsoft-disables-msix-app-installer.html"> Full Text</a>
