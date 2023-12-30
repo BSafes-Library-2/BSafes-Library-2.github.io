@@ -34,6 +34,38 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Do the Casino Ransomware Attacks Make the Case to Pay?<a href="https://www.theregister.com/2023/12/28/casino_ransomware_attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts caution that the decision to pay or not pay depends on various factors, including the type of data compromised, the availability of backups, the financial impact on the organization, and the sector in which the company operates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 29, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Disables MSIX App Installer Protocol Widely Used in Malware Attacks<a href="https://thehackernews.com/2023/12/microsoft-disables-msix-app-installer.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday said it's once again disabling the  ms-appinstaller protocol handler  by default following its abuse by multiple threat actors to distribute malware. "The observed threat actor activity abuses the current implementation of the ms-appinstaller protocol handler as an access vector for malware that may lead to ransomware distribution," the Microsoft Threat Intelligence team  said . It further noted that several cybercriminals are offering a malware kit for sale as a service that leverages the MSIX file format and ms-appinstaller protocol handler. The  changes  have gone into effect in App Installer version 1.21.3421.0 or higher. The attacks take the form of signed malicious MSIX application packages that are distributed via Microsoft Teams or malicious advertisements for legitimate popular software on search engines like Google. At least four different financially motivated hacking groups have been observed taking advantage of the App Installer service since mi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 28, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
