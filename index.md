@@ -34,6 +34,86 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 01, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Variant of DLL Search Order Hijacking Bypasses Windows 10 and 11 Protections<a href="https://thehackernews.com/2024/01/new-variant-of-dll-search-order.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have detailed a new variant of a dynamic link library ( DLL ) search order hijacking technique that could be used by threat actors to bypass security mechanisms and achieve execution of malicious code on systems running Microsoft Windows 10 and Windows 11. The approach "leverages executables commonly found in the trusted WinSxS folder and exploits them via the classic DLL search order hijacking technique," cybersecurity firm Security Joes  said  in a new report exclusively shared with The Hacker News. In doing so, it allows adversaries to eliminate the need for elevated privileges when attempting to run nefarious code on a compromised machine as well as introduce potentially vulnerable binaries into the attack chain, as  observed   in the   past . DLL search order hijacking , as the name implies, involves  gaming the search order  used to load DLLs in order to execute malicious payloads for purposes of defense evasion, persistence, and privilege escal
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 01, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Terrapin Flaw Could Let Attackers Downgrade SSH Protocol Security<a href="https://thehackernews.com/2024/01/new-terrapin-flaw-could-let-attackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers from Ruhr University Bochum have discovered a vulnerability in the Secure Shell ( SSH ) cryptographic network protocol that could allow an attacker to downgrade the connection's security by breaking the integrity of the secure channel. Called  Terrapin  ( CVE-2023-48795 , CVSS score: 5.9), the exploit has been described as the "first ever practically exploitable prefix truncation attack." "By carefully adjusting the sequence numbers during the handshake, an attacker can remove an arbitrary amount of messages sent by the client or server at the beginning of the secure channel without the client or server noticing it," researchers Fabian Bäumer, Marcus Brinkmann, and Jörg Schwenk  said . SSH is a  method  for securely sending commands to a computer over an unsecured network. It relies on cryptography to authenticate and encrypt connections between devices. This is accomplished by means of a handshake in which a client and server agree up
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 01, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New JinxLoader Targeting Users with Formbook and XLoader Malware<a href="https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Go-based malware loader called  JinxLoader  is being used by threat actors to deliver next-stage payloads such as  Formbook and its successor XLoader . The  disclosure  comes from cybersecurity firms Palo Alto Networks Unit 42 and Symantec, both of which highlighted multi-step attack sequences that led to the deployment of JinxLoader through phishing attacks. "The malware pays homage to League of Legends character  Jinx , featuring the character on its ad poster and [command-and-control] login panel," Symantec  said . "JinxLoader's primary function is straightforward – loading malware." Unit 42  revealed  in late November 2023 that the malware service was  first advertised  on hackforums[.]net on April 30, 2023, for $60 a month, $120 a year, or for a lifetime fee of $200. The attacks begin with phishing emails impersonating Abu Dhabi National Oil Company (ADNOC), urging recipients to open password-protected RAR archive attachments that, upon opening,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Info-Stealing Malware Now Includes Google Session Hijacking<a href="https://www.healthcareinfosecurity.com/info-stealing-malware-now-includes-google-session-hijacking-a-24003?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple malware-as-a-service info stealers now have the ability to manipulate authentication tokens to gain persistent access to a victim's Google account, even after the user has reset their password.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+December 30, 2023
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Scam-as-a-Service Aiding Cybercriminals in Crypto Wallet-Draining Attacks<a href="https://thehackernews.com/2023/12/beware-scam-as-service-aiding.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning about an increase in phishing attacks that are capable of draining cryptocurrency wallets. "These threats are unique in their approach, targeting a wide range of blockchain networks, from Ethereum and Binance Smart Chain to Polygon, Avalanche, and almost 20 other networks by using a crypto wallet-draining technique," Check Point researchers Oded Vanunu, Dikla Barda, and Roman Zaikin  said . A prominent contributor to this troubling trend is a notorious phishing group called Angel Drainer, which advertises a "scam-as-a-service" offering by charging a percentage of the stolen amount,  typically 20% or 30% , from its collaborators in return for providing wallet-draining scripts and other services. In late November 2023, a similar wallet-draining service known as Inferno Drainer announced that it was  shutting down its operations  for good after helping scammers plunder over $70 million worth of crypto from 103,676 victims sinc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 December 29, 2023 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
