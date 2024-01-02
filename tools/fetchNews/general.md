@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+December 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Do the Casino Ransomware Attacks Make the Case to Pay?<a href="https://www.theregister.com/2023/12/28/casino_ransomware_attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts caution that the decision to pay or not pay depends on various factors, including the type of data compromised, the availability of backups, the financial impact on the organization, and the sector in which the company operates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

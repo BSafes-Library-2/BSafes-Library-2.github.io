@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+December 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Computer Systems at Massachusetts-Based Anna Jaques Hospital Compromised After Cyberattack<a href="https://www.newburyportnews.com/news/local_news/anna-jaques-systems-compromised-after-cyber-issue/article_a5a6d88e-a58e-11ee-bc90-cf662aa3badb.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Anna Jaques Hospital's health record system was shut down due to a cyberattack, causing delays in receiving services and diverting ambulance arrivals. The hospital is working with cybersecurity professionals to investigate the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+December 29, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Operational Halt at First American Financial Corporation, Subsidiary After Cyberattack<a href="https://thecyberexpress.com/cyberattack-on-first-american-financial/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company is working to restore its operations and has notified regulatory authorities. Despite the disruption, the company is still able to close loans and accept payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

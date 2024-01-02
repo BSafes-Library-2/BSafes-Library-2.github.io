@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 01, 2024
+January 01, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Variant of DLL Search Order Hijacking Bypasses Windows 10 and 11 Protections<a href="https://thehackernews.com/2024/01/new-variant-of-dll-search-order.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 01, 2024
+January 01, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Terrapin Flaw Could Let Attackers Downgrade SSH Protocol Security<a href="https://thehackernews.com/2024/01/new-terrapin-flaw-could-let-attackers.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 01, 2024
+January 01, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New JinxLoader Targeting Users with Formbook and XLoader Malware<a href="https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html"> Full Text</a>
@@ -82,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2023
+December 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Info-Stealing Malware Now Includes Google Session Hijacking<a href="https://www.healthcareinfosecurity.com/info-stealing-malware-now-includes-google-session-hijacking-a-24003?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2023
+December 30, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware: Scam-as-a-Service Aiding Cybercriminals in Crypto Wallet-Draining Attacks<a href="https://thehackernews.com/2023/12/beware-scam-as-service-aiding.html"> Full Text</a>
