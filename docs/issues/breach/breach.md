@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+January 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inc Ransom Ransomware Gang Claims to Have Breached Xerox Corp<a href="https://securityaffairs.com/156679/cyber-crime/inc-ransom-ransomware-xerox-corp.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Inc Ransom ransomware group has published several documents, including emails and an invoice, as proof of the hack. It is unclear how much data has been stolen from Xerox Corp.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Palestinian Operation Claims Dozens of Data Breaches Against Israeli Firms<a href="https://therecord.media/cyber-toufan-data-breaches-israel-iran-palestinians?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Palestinian hackers belonging to the group Cyber Toufan have successfully breached and leaked data from numerous Israeli entities, including foreign companies doing business with Israel.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

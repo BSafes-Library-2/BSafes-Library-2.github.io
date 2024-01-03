@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+January 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cactus Ransomware Gang Hit the Swedish Retail and Grocery Provider Coop<a href="https://securityaffairs.com/156709/cyber-crime/cactus-ransomware-coop-sweden.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cactus ransomware group has claimed to have hacked Coop, one of the largest retail and grocery providers in Sweden. They are threatening to release a large amount of personal information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Attack UK’s Nuclear Waste Services Through LinkedIn<a href="https://www.hackread.com/linkedin-hackers-attack-uk-nuclear-waste-services/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom's Radioactive Waste Management (RWM) company recently experienced a cyberattack attempt through LinkedIn. Although the attack was unsuccessful, concerns have been raised about the security of critical nuclear infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

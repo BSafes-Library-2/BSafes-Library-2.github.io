@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 02, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Settles $5 Billion Privacy Lawsuit Over Tracking Users in 'Incognito Mode'<a href="https://thehackernews.com/2024/01/google-settles-5-billion-privacy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has agreed to settle a lawsuit&nbsp; filed in June 2020 &nbsp;that alleged that the company misled users by tracking their surfing activity who thought that their internet use remained private when using the "incognito" or "private" mode on web browsers. The&nbsp; class-action lawsuit &nbsp;sought at least $5 billion in damages. The settlement terms were not disclosed. The plaintiffs had alleged that Google violated federal wiretap laws and&nbsp; tracked users' activity &nbsp;using Google Analytics to collect information when in private mode. They said this allowed the company to collect an "unaccountable trove of information" about users who assumed they had taken adequate steps to protect their privacy online. Google subsequently attempted to get the lawsuit dismissed, pointing out the message it displayed when users turned on Chrome's incognito mode, which&nbsp; informs users &nbsp;that their activity might still be visible to websites you visit, employer or school, or their internet service provider. It's w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

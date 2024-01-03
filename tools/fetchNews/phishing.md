@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+December 30, 2023 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Scam-as-a-Service Aiding Cybercriminals in Crypto Wallet-Draining Attacks<a href="https://thehackernews.com/2023/12/beware-scam-as-service-aiding.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are warning about an increase in phishing attacks that are capable of draining cryptocurrency wallets. "These threats are unique in their approach, targeting a wide range of blockchain networks, from Ethereum and Binance Smart Chain to Polygon, Avalanche, and almost 20 other networks by using a crypto wallet-draining technique," Check Point researchers Oded Vanunu, Dikla Barda, and Roman Zaikin&nbsp; said . A prominent contributor to this troubling trend is a notorious phishing group called Angel Drainer, which advertises a "scam-as-a-service" offering by charging a percentage of the stolen amount,&nbsp; typically 20% or 30% , from its collaborators in return for providing wallet-draining scripts and other services. In late November 2023, a similar wallet-draining service known as Inferno Drainer announced that it was&nbsp; shutting down its operations &nbsp;for good after helping scammers plunder over $70 million worth of crypto from 103,676 victims sinc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

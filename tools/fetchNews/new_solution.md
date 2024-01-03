@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 02, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Definitive Enterprise Browser Buyer's Guide<a href="https://thehackernews.com/2024/01/the-definitive-enterprise-browser.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security stakeholders have come to realize that the prominent role the browser has in the modern corporate environment requires a re-evaluation of how it is managed and protected. While not long-ago web-borne risks were still addressed by a patchwork of endpoint, network, and cloud solutions, it is now clear that the partial protection these solutions provided is no longer sufficient. Therefore, more and more security teams are now turning to the emerging category of purpose-built enterprise browsers as the answer to the browser's security challenges. However, as this security solution category is still relatively new, there is not yet an established set of browser security best practices, nor common evaluation criteria.&nbsp; LayerX, the User-First Enterprise Browser Extension, is addressing security teams' need with the downable&nbsp; Enterprise Browser Buyer's Guide , which guides its readers through the essentials of choosing the best solution and provides them with an actionable
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
