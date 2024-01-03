@@ -34,7 +34,119 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 01, 2024
+January 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inc Ransom Ransomware Gang Claims to Have Breached Xerox Corp<a href="https://securityaffairs.com/156679/cyber-crime/inc-ransom-ransomware-xerox-corp.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Inc Ransom ransomware group has published several documents, including emails and an invoice, as proof of the hack. It is unclear how much data has been stolen from Xerox Corp.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 02, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Definitive Enterprise Browser Buyer's Guide<a href="https://thehackernews.com/2024/01/the-definitive-enterprise-browser.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security stakeholders have come to realize that the prominent role the browser has in the modern corporate environment requires a re-evaluation of how it is managed and protected. While not long-ago web-borne risks were still addressed by a patchwork of endpoint, network, and cloud solutions, it is now clear that the partial protection these solutions provided is no longer sufficient. Therefore, more and more security teams are now turning to the emerging category of purpose-built enterprise browsers as the answer to the browser's security challenges. However, as this security solution category is still relatively new, there is not yet an established set of browser security best practices, nor common evaluation criteria.  LayerX, the User-First Enterprise Browser Extension, is addressing security teams' need with the downable  Enterprise Browser Buyer's Guide , which guides its readers through the essentials of choosing the best solution and provides them with an actionable
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zeppelin2 Ransomware Builder for Sale on Dark Web<a href="https://thecyberexpress.com/zeppelin2-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A user on an underground forum is promoting the sale of Zeppelin2 ransomware, offering its source code and a cracked version of its builder tool. Zeppelin2 has been used since 2019, targeting various sectors including healthcare and technology.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 02, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Settles $5 Billion Privacy Lawsuit Over Tracking Users in 'Incognito Mode'<a href="https://thehackernews.com/2024/01/google-settles-5-billion-privacy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has agreed to settle a lawsuit  filed in June 2020  that alleged that the company misled users by tracking their surfing activity who thought that their internet use remained private when using the "incognito" or "private" mode on web browsers. The  class-action lawsuit  sought at least $5 billion in damages. The settlement terms were not disclosed. The plaintiffs had alleged that Google violated federal wiretap laws and  tracked users' activity  using Google Analytics to collect information when in private mode. They said this allowed the company to collect an "unaccountable trove of information" about users who assumed they had taken adequate steps to protect their privacy online. Google subsequently attempted to get the lawsuit dismissed, pointing out the message it displayed when users turned on Chrome's incognito mode, which  informs users  that their activity might still be visible to websites you visit, employer or school, or their internet service provider. It's w
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cactus Ransomware Gang Hit the Swedish Retail and Grocery Provider Coop<a href="https://securityaffairs.com/156709/cyber-crime/cactus-ransomware-coop-sweden.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cactus ransomware group has claimed to have hacked Coop, one of the largest retail and grocery providers in Sweden. They are threatening to release a large amount of personal information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Attack UK’s Nuclear Waste Services Through LinkedIn<a href="https://www.hackread.com/linkedin-hackers-attack-uk-nuclear-waste-services/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Kingdom's Radioactive Waste Management (RWM) company recently experienced a cyberattack attempt through LinkedIn. Although the attack was unsuccessful, concerns have been raised about the security of critical nuclear infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Palestinian Operation Claims Dozens of Data Breaches Against Israeli Firms<a href="https://therecord.media/cyber-toufan-data-breaches-israel-iran-palestinians?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pro-Palestinian hackers belonging to the group Cyber Toufan have successfully breached and leaked data from numerous Israeli entities, including foreign companies doing business with Israel.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 01, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Variant of DLL Search Order Hijacking Bypasses Windows 10 and 11 Protections<a href="https://thehackernews.com/2024/01/new-variant-of-dll-search-order.html"> Full Text</a>
@@ -50,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 01, 2024
+January 01, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Terrapin Flaw Could Let Attackers Downgrade SSH Protocol Security<a href="https://thehackernews.com/2024/01/new-terrapin-flaw-could-let-attackers.html"> Full Text</a>
@@ -66,7 +178,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 01, 2024
+January 01, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New JinxLoader Targeting Users with Formbook and XLoader Malware<a href="https://thehackernews.com/2024/01/new-jinxloader-targeting-users-with.html"> Full Text</a>
@@ -82,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2023
+December 30, 2023 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Info-Stealing Malware Now Includes Google Session Hijacking<a href="https://www.healthcareinfosecurity.com/info-stealing-malware-now-includes-google-session-hijacking-a-24003?&web_view=true"> Full Text</a>
@@ -98,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-December 30, 2023
+December 30, 2023 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware: Scam-as-a-Service Aiding Cybercriminals in Crypto Wallet-Draining Attacks<a href="https://thehackernews.com/2023/12/beware-scam-as-service-aiding.html"> Full Text</a>
