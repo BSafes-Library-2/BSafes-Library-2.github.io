@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+January 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Leaks 3.6 Million Records Allegedly Stolen From Cross Switch<a href="https://thecyberexpress.com/cross-switch-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach, carried out by a threat actor named IntelBroker, has allegedly exposed sensitive details such as full names, emails, phone numbers, banking information, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defunct Ambulance Service Data Breach Impacts Nearly One Million People<a href="https://www.hackread.com/defunct-ambulance-service-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fallon Ambulance Services, a subsidiary of Transformative Healthcare, was targeted in a ransomware attack that exposed the personal information of nearly a million people. The attack occurred in February 2023 and was discovered in April 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

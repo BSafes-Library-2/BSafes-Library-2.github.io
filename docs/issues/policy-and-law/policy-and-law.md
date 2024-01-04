@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 03, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ Slams XCast with $10 Million Fine Over Massive Illegal Robocall Operation<a href="https://thehackernews.com/2024/01/doj-slams-xcast-with-10-million-fine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Tuesday said it reached a settlement with VoIP service provider XCast over allegations that it facilitated illegal telemarketing campaigns since at least January 2018, in contravention of the Telemarketing Sales Rule ( TSR ). In addition to prohibiting the company from violating the law, the stipulated order requires it to meet other compliance measures, including establishing a process for screening its customers and calling for potential illegal telemarketing. The order, which also imposes a $10 million civil penalty judgment, has been suspended due to XCast's inability to pay. "XCast provided VoIP services that transmitted billions of illegal robocalls to American consumers, including scam calls fraudulently claiming to be from government agencies," the DoJ&nbsp; said &nbsp;in a press release. These calls delivered prerecorded marketing messages, most of which were sent to numbers listed on the National Do Not Call Registry. To make matters worse,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 02, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
