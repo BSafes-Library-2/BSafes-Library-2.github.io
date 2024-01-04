@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2024
+January 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Large-Scale’ Cyberattack Hits French Township, All Local Services Down<a href="https://therecord.media/france-cyberattack-local-government-pays-fouesnantais?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mayor of Pays Fouesnantais, a township in France, announced that the municipality has been hit by a large-scale cyberattack, causing all community services to be taken down.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 03, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Using Google MultiLogin Exploit to Maintain Access Despite Password Reset<a href="https://thehackernews.com/2024/01/malware-using-google-multilogin-exploit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Information stealing malware are actively taking advantage of an undocumented Google OAuth endpoint named MultiLogin to hijack user sessions and allow continuous access to Google services even after a password reset. According to CloudSEK, the  critical exploit  facilitates session persistence and cookie generation, enabling threat actors to maintain access to a valid session in an unauthorized manner. The technique was first revealed by a threat actor named PRISMA on October 20, 2023, on their Telegram channel. It has since been  incorporated  into  various malware-as-a-service (MaaS) stealer families , such as Lumma, Rhadamanthys, Stealc, Meduza, RisePro, and WhiteSnake. The MultiLogin authentication endpoint is primarily designed for synchronizing Google accounts across services when users sign in to their accounts in the Chrome web browser (i.e.,  profiles ).  A reverse engineering of the Lumma Stealer code has revealed that the technique targets the "Chrome's token_
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Acquires Banyan to Boost Zero-Trust, SSE Offerings<a href="https://www.techtarget.com/searchsecurity/news/366565058/SonicWall-acquires-Banyan-to-boost-zero-trust-SSE-offerings?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With its second acquisition in two months, SonicWall aims to help enterprises with growing remote workforces through zero-trust network and security service edge offerings.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 03, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Ways to Reduce SaaS Security Risks<a href="https://thehackernews.com/2024/01/5-ways-to-reduce-saas-security-risks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As technology adoption has shifted to be employee-led, just in time, and from any location or device, IT and security teams have found themselves contending with an ever-sprawling SaaS attack surface, much of which is often unknown or unmanaged. This greatly increases the risk of identity-based threats, and according to a recent report from CrowdStrike, 80% of breaches today use compromised identities, including cloud and SaaS credentials. Given this reality, IT security leaders need practical and effective  SaaS security solutions  designed to discover and manage their expanding SaaS footprint. Here are 5 key ways Nudge Security can help. Close the visibility gap Knowing the full scope of SaaS apps in use is the foundation of a modern IT governance program. Without an understanding of your entire SaaS footprint, you cannot say with confidence where your corporate IP is stored (Did someone sync their desktop to Dropbox?), you cannot make assumptions about your customer data (Did s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Leaks 3.6 Million Records Allegedly Stolen From Cross Switch<a href="https://thecyberexpress.com/cross-switch-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach, carried out by a threat actor named IntelBroker, has allegedly exposed sensitive details such as full names, emails, phone numbers, banking information, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 03, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SMTP Smuggling: New Flaw Lets Attackers Bypass Security and Spoof Emails<a href="https://thehackernews.com/2024/01/smtp-smuggling-new-threat-enables.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new exploitation technique called Simple Mail Transfer Protocol ( SMTP ) smuggling can be weaponized by threat actors to send spoofed emails with fake sender addresses while bypassing security measures. "Threat actors could abuse vulnerable SMTP servers worldwide to send malicious emails from arbitrary email addresses, allowing targeted phishing attacks," Timo Longin, a senior security consultant at SEC Consult,  said  in an analysis published last month. SMTP is a TCP/IP protocol used to send and receive email messages over a network. To relay a message from an email client (aka mail user agent), an SMTP connection is established between the client and server in order to transmit the actual content of the email. The server then relies on what's called a mail transfer agent (MTA) to check the domain of the recipient's email address, and if it's different from that of the sender, it queries the domain name system (DNS) to look up the  MX (mail exchanger) rec
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivists Shut Down Top State-Owned Belarusian News Agency<a href="https://www.bankinfosecurity.com/hacktivists-shut-down-top-state-owned-belarusian-news-agency-a-24007?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Belarusian hacktivist group, the Cyber-Partisans, launched a cyberattack on the country's leading state-owned media outlet, wiping the main website servers and backups, as a retaliatory measure against President Lukashenko's propaganda campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 03, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ Slams XCast with $10 Million Fine Over Massive Illegal Robocall Operation<a href="https://thehackernews.com/2024/01/doj-slams-xcast-with-10-million-fine.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) on Tuesday said it reached a settlement with VoIP service provider XCast over allegations that it facilitated illegal telemarketing campaigns since at least January 2018, in contravention of the Telemarketing Sales Rule ( TSR ). In addition to prohibiting the company from violating the law, the stipulated order requires it to meet other compliance measures, including establishing a process for screening its customers and calling for potential illegal telemarketing. The order, which also imposes a $10 million civil penalty judgment, has been suspended due to XCast's inability to pay. "XCast provided VoIP services that transmitted billions of illegal robocalls to American consumers, including scam calls fraudulently claiming to be from government agencies," the DoJ  said  in a press release. These calls delivered prerecorded marketing messages, most of which were sent to numbers listed on the National Do Not Call Registry. To make matters worse,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ban on Ransomware Payments? The Alternative Isn’t Working<a href="https://www.theregister.com/2024/01/03/ban_ransomware_payments/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks in the US reached record levels in 2023, targeting hospitals, schools, government organizations, and private-sector businesses, costing victims an average of $1.5 million to rectify.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defunct Ambulance Service Data Breach Impacts Nearly One Million People<a href="https://www.hackread.com/defunct-ambulance-service-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fallon Ambulance Services, a subsidiary of Transformative Healthcare, was targeted in a ransomware attack that exposed the personal information of nearly a million people. The attack occurred in February 2023 and was discovered in April 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 2, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inc Ransom Ransomware Gang Claims to Have Breached Xerox Corp<a href="https://securityaffairs.com/156679/cyber-crime/inc-ransom-ransomware-xerox-corp.html?&web_view=true"> Full Text</a>
@@ -50,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 02, 2024
+January 02, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Definitive Enterprise Browser Buyer's Guide<a href="https://thehackernews.com/2024/01/the-definitive-enterprise-browser.html"> Full Text</a>
@@ -66,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2024
+January 2, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zeppelin2 Ransomware Builder for Sale on Dark Web<a href="https://thecyberexpress.com/zeppelin2-ransomware/?&web_view=true"> Full Text</a>
@@ -82,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 02, 2024
+January 02, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Settles $5 Billion Privacy Lawsuit Over Tracking Users in 'Incognito Mode'<a href="https://thehackernews.com/2024/01/google-settles-5-billion-privacy.html"> Full Text</a>
@@ -98,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2024
+January 2, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cactus Ransomware Gang Hit the Swedish Retail and Grocery Provider Coop<a href="https://securityaffairs.com/156709/cyber-crime/cactus-ransomware-coop-sweden.html?&web_view=true"> Full Text</a>
@@ -114,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2024
+January 2, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Attack UK’s Nuclear Waste Services Through LinkedIn<a href="https://www.hackread.com/linkedin-hackers-attack-uk-nuclear-waste-services/?&web_view=true"> Full Text</a>
@@ -130,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 2, 2024
+January 2, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Palestinian Operation Claims Dozens of Data Breaches Against Israeli Firms<a href="https://therecord.media/cyber-toufan-data-breaches-israel-iran-palestinians?&web_view=true"> Full Text</a>
