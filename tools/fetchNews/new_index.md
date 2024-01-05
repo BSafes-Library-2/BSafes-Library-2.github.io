@@ -34,7 +34,151 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2024
+January 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SentinelOne Acquires PingSafe to Expand Cloud Security Capabilities<a href="https://www.helpnetsecurity.com/2024/01/04/sentinelone-pingsafe-acqusition/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By integrating PingSafe's capabilities into SentinelOne's Singularity Platform, companies will have access to a unified, best-of-breed security platform for their entire cloud footprint.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Ways To Supercharge Your Software Supply Chain Security<a href="https://thehackernews.com/2024/01/three-ways-to-supercharge-your-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Section four of the " Executive Order on Improving the Nation's Cybersecurity " introduced a lot of people in tech to the concept of a "Software Supply Chain" and securing it. If you make software and ever hope to sell it to one or more federal agencies, you  have  to pay attention to this. Even if you never plan to sell to a government, understanding your Software Supply Chain and learning how to secure it will pay dividends in a stronger security footing and the benefits it provides. This article will look at three ways to supercharge your  Software Supply Chain Security . What is your Software Supply Chain? It's essentially everything that goes into building a piece of software: from the IDE in which the developer writes code, to the third-party dependencies, to the build systems and scripts, to the hardware and operating system on which it runs. Instabilities and vulnerabilities can be introduced, maliciously or not, from inception to deployment and even beyond.  1: Ke
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Demands $1M for Remote Command Injection Vulnerability in Cisco ASA<a href="https://thecyberexpress.com/cisco-remote-command-injection-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The sale of this vulnerability poses significant risks, including network disruption, data compromise, and financial and reputational damage for organizations reliant on Cisco ASA.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: 3 Malicious PyPI Packages Found Targeting Linux with Crypto Miners<a href="https://thehackernews.com/2024/01/beware-3-malicious-pypi-packages-found.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three new malicious packages have been discovered in the Python Package Index (PyPI) open-source repository with capabilities to deploy a cryptocurrency miner on affected Linux devices. The three harmful packages, named modularseven, driftme, and catme, attracted a total of 431 downloads over the past month before they were taken down. "These packages, upon initial use, deploy a CoinMiner executable on Linux devices," Fortinet FortiGuard Labs researcher Gabby Xiong  said , adding the campaign shares overlaps with a  prior campaign  that involved the use of a package called culturestreak to deploy a crypto miner. The malicious code resides in the __init__.py file, which decodes and retrieves the first stage from a remote server, a shell script ("unmi.sh") that fetches a configuration file for the mining activity as well as the CoinMiner file  hosted on GitLab . The  ELF binary  file is then executed in the background using the  nohup command , thus ensuring that the process contin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Estes Refuses to Pay Off Ransomware Crew, Says Data Stolen<a href="https://www.theregister.com/2024/01/03/estes_ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company chose not to pay the ransom demanded by the hackers, aligning with the FBI's recommendation, but the specific details of the attack and the stolen data remain undisclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAC-0050 Group Using New Phishing Tactics to Distribute Remcos RAT<a href="https://thehackernews.com/2024/01/uac-0050-group-using-new-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as UAC-0050 is leveraging phishing attacks to distribute Remcos RAT using new strategies to evade detection from security software. "The group's weapon of choice is Remcos RAT, a notorious malware for remote surveillance and control, which has been at the forefront of its espionage arsenal," Uptycs security researchers Karthickkumar Kathiresan and Shilpesh Trivedi  said  in a Wednesday report. "However, in their latest operational twist, the UAC-0050 group has integrated a pipe method for  interprocess communication , showcasing their advanced adaptability." UAC-0050, active since 2020, has a  history  of targeting Ukrainian and Polish entities via social engineering campaigns that impersonate legitimate organizations to trick recipients into opening malicious attachments. In February 2023, the Computer Emergency Response Team of Ukraine (CERT-UA) attributed the adversary to a phishing campaign designed to deliver Remcos RAT. Over t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud-Native Cybersecurity Startup Aqua Security Raises $60M and Remains a Unicorn<a href="https://techcrunch.com/2024/01/03/cloud-native-cybersecurity-startup-aqua-security-raises-60m-and-remains-a-unicorn/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series E funding round was led by Evolution Equity Partners, with participation from existing investors Lightspeed Venture Partners, Insight Partners, and StepStone Group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 04, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandiant's Twitter Account Restored After Six-Hour Crypto Scam Hack<a href="https://thehackernews.com/2024/01/mandiants-twitter-account-restored.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American cybersecurity firm and Google Cloud subsidiary Mandiant had its X (formerly Twitter) account compromised for more than six hours by an unknown attacker to propagate a cryptocurrency scam. As of writing, the  account has been restored  on the social media platform. It's currently not clear how the account was breached. But the hacked Mandiant account was initially renamed to "@phantomsolw" to impersonate the Phantom crypto wallet service, according to  MalwareHunterTeam  and  vx-underground . Specifically, the scam posts from the account advertised an airdrop scam that urged users to click on a bogus link and earn free tokens, with follow-up messages asking Mandiant to "change password please" and "check bookmarks when you get account back." Mandiant, a leading threat intelligence firm, was  acquired by Google  in March 2022 for $5.4 billion. It is now part of Google Cloud. "The Mandiant Twitter account takeover could have happened
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Soliciting Contest Submissions to Help Tackle Voice Cloning Technology<a href="https://therecord.media/ftc-contest-to-tackle-voice-cloning?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FTC is seeking multidisciplinary approaches to prevent unauthorized use of voice cloning, improve real-time detection, and provide consumers with tools to identify cloned voices in audio clips.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 3, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Large-Scale’ Cyberattack Hits French Township, All Local Services Down<a href="https://therecord.media/france-cyberattack-local-government-pays-fouesnantais?&web_view=true"> Full Text</a>
@@ -50,7 +194,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 03, 2024
+January 03, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Using Google MultiLogin Exploit to Maintain Access Despite Password Reset<a href="https://thehackernews.com/2024/01/malware-using-google-multilogin-exploit.html"> Full Text</a>
@@ -66,7 +210,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2024
+January 3, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SonicWall Acquires Banyan to Boost Zero-Trust, SSE Offerings<a href="https://www.techtarget.com/searchsecurity/news/366565058/SonicWall-acquires-Banyan-to-boost-zero-trust-SSE-offerings?&web_view=true"> Full Text</a>
@@ -82,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 03, 2024
+January 03, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 5 Ways to Reduce SaaS Security Risks<a href="https://thehackernews.com/2024/01/5-ways-to-reduce-saas-security-risks.html"> Full Text</a>
@@ -98,7 +242,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2024
+January 3, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actor Leaks 3.6 Million Records Allegedly Stolen From Cross Switch<a href="https://thecyberexpress.com/cross-switch-data-breach/?&web_view=true"> Full Text</a>
@@ -114,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 03, 2024
+January 03, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SMTP Smuggling: New Flaw Lets Attackers Bypass Security and Spoof Emails<a href="https://thehackernews.com/2024/01/smtp-smuggling-new-threat-enables.html"> Full Text</a>
@@ -130,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2024
+January 3, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacktivists Shut Down Top State-Owned Belarusian News Agency<a href="https://www.bankinfosecurity.com/hacktivists-shut-down-top-state-owned-belarusian-news-agency-a-24007?&web_view=true"> Full Text</a>
@@ -146,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 03, 2024
+January 03, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOJ Slams XCast with $10 Million Fine Over Massive Illegal Robocall Operation<a href="https://thehackernews.com/2024/01/doj-slams-xcast-with-10-million-fine.html"> Full Text</a>
@@ -162,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2024
+January 3, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ban on Ransomware Payments? The Alternative Isn’t Working<a href="https://www.theregister.com/2024/01/03/ban_ransomware_payments/?&web_view=true"> Full Text</a>
@@ -178,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 3, 2024
+January 3, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Defunct Ambulance Service Data Breach Impacts Nearly One Million People<a href="https://www.hackread.com/defunct-ambulance-service-data-breach/?&web_view=true"> Full Text</a>
