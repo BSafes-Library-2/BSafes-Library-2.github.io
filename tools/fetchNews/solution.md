@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 03, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+5 Ways to Reduce SaaS Security Risks<a href="https://thehackernews.com/2024/01/5-ways-to-reduce-saas-security-risks.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As technology adoption has shifted to be employee-led, just in time, and from any location or device, IT and security teams have found themselves contending with an ever-sprawling SaaS attack surface, much of which is often unknown or unmanaged. This greatly increases the risk of identity-based threats, and according to a recent report from CrowdStrike, 80% of breaches today use compromised identities, including cloud and SaaS credentials. Given this reality, IT security leaders need practical and effective&nbsp; SaaS security solutions &nbsp;designed to discover and manage their expanding SaaS footprint. Here are 5 key ways Nudge Security can help. Close the visibility gap Knowing the full scope of SaaS apps in use is the foundation of a modern IT governance program. Without an understanding of your entire SaaS footprint, you cannot say with confidence where your corporate IP is stored (Did someone sync their desktop to Dropbox?), you cannot make assumptions about your customer data (Did s
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 02, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+January 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Acquires Banyan to Boost Zero-Trust, SSE Offerings<a href="https://www.techtarget.com/searchsecurity/news/366565058/SonicWall-acquires-Banyan-to-boost-zero-trust-SSE-offerings?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With its second acquisition in two months, SonicWall aims to help enterprises with growing remote workforces through zero-trust network and security service edge offerings.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 26, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

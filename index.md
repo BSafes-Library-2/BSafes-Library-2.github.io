@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2024
+January 4, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SentinelOne Acquires PingSafe to Expand Cloud Security Capabilities<a href="https://www.helpnetsecurity.com/2024/01/04/sentinelone-pingsafe-acqusition/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04, 2024
+January 04, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three Ways To Supercharge Your Software Supply Chain Security<a href="https://thehackernews.com/2024/01/three-ways-to-supercharge-your-software.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2024
+January 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actor Demands $1M for Remote Command Injection Vulnerability in Cisco ASA<a href="https://thecyberexpress.com/cisco-remote-command-injection-vulnerability/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04, 2024
+January 04, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware: 3 Malicious PyPI Packages Found Targeting Linux with Crypto Miners<a href="https://thehackernews.com/2024/01/beware-3-malicious-pypi-packages-found.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2024
+January 4, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Estes Refuses to Pay Off Ransomware Crew, Says Data Stolen<a href="https://www.theregister.com/2024/01/03/estes_ransomware/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04, 2024
+January 04, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UAC-0050 Group Using New Phishing Tactics to Distribute Remcos RAT<a href="https://thehackernews.com/2024/01/uac-0050-group-using-new-phishing.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2024
+January 4, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud-Native Cybersecurity Startup Aqua Security Raises $60M and Remains a Unicorn<a href="https://techcrunch.com/2024/01/03/cloud-native-cybersecurity-startup-aqua-security-raises-60m-and-remains-a-unicorn/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 04, 2024
+January 04, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mandiant's Twitter Account Restored After Six-Hour Crypto Scam Hack<a href="https://thehackernews.com/2024/01/mandiants-twitter-account-restored.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 4, 2024
+January 4, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC Soliciting Contest Submissions to Help Tackle Voice Cloning Technology<a href="https://therecord.media/ftc-contest-to-tackle-voice-cloning?&web_view=true"> Full Text</a>

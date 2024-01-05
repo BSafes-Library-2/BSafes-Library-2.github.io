@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+January 04, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandiant's Twitter Account Restored After Six-Hour Crypto Scam Hack<a href="https://thehackernews.com/2024/01/mandiants-twitter-account-restored.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American cybersecurity firm and Google Cloud subsidiary Mandiant had its X (formerly Twitter) account compromised for more than six hours by an unknown attacker to propagate a cryptocurrency scam. As of writing, the&nbsp; account has been restored &nbsp;on the social media platform. It's currently not clear how the account was breached. But the hacked Mandiant account was initially renamed to "@phantomsolw" to impersonate the Phantom crypto wallet service, according to&nbsp; MalwareHunterTeam &nbsp;and&nbsp; vx-underground . Specifically, the scam posts from the account advertised an airdrop scam that urged users to click on a bogus link and earn free tokens, with follow-up messages asking Mandiant to "change password please" and "check bookmarks when you get account back." Mandiant, a leading threat intelligence firm, was&nbsp; acquired by Google &nbsp;in March 2022 for $5.4 billion. It is now part of Google Cloud. "The Mandiant Twitter account takeover could have happened
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

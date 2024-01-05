@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ban on Ransomware Payments? The Alternative Isn’t Working<a href="https://www.theregister.com/2024/01/03/ban_ransomware_payments/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks in the US reached record levels in 2023, targeting hospitals, schools, government organizations, and private-sector businesses, costing victims an average of $1.5 million to rectify.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

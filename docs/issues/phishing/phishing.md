@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 04, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UAC-0050 Group Using New Phishing Tactics to Distribute Remcos RAT<a href="https://thehackernews.com/2024/01/uac-0050-group-using-new-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as UAC-0050 is leveraging phishing attacks to distribute Remcos RAT using new strategies to evade detection from security software. "The group's weapon of choice is Remcos RAT, a notorious malware for remote surveillance and control, which has been at the forefront of its espionage arsenal," Uptycs security researchers Karthickkumar Kathiresan and Shilpesh Trivedi&nbsp; said &nbsp;in a Wednesday report. "However, in their latest operational twist, the UAC-0050 group has integrated a pipe method for&nbsp; interprocess communication , showcasing their advanced adaptability." UAC-0050, active since 2020, has a&nbsp; history &nbsp;of targeting Ukrainian and Polish entities via social engineering campaigns that impersonate legitimate organizations to trick recipients into opening malicious attachments. In February 2023, the Computer Emergency Response Team of Ukraine (CERT-UA) attributed the adversary to a phishing campaign designed to deliver Remcos RAT. Over t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

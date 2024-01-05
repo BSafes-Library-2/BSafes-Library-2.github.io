@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+January 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Large-Scale’ Cyberattack Hits French Township, All Local Services Down<a href="https://therecord.media/france-cyberattack-local-government-pays-fouesnantais?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mayor of Pays Fouesnantais, a township in France, announced that the municipality has been hit by a large-scale cyberattack, causing all community services to be taken down.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivists Shut Down Top State-Owned Belarusian News Agency<a href="https://www.bankinfosecurity.com/hacktivists-shut-down-top-state-owned-belarusian-news-agency-a-24007?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Belarusian hacktivist group, the Cyber-Partisans, launched a cyberattack on the country's leading state-owned media outlet, wiping the main website servers and backups, as a retaliatory measure against President Lukashenko's propaganda campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
