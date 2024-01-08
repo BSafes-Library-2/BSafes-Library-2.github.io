@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2024
+January 6, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Syrian Threat Group Peddles Destructive SilverRAT<a href="https://www.darkreading.com/cyberattacks-data-breaches/syrian-threat-group-peddles-destructive-silverrat?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 06, 2024
+January 06, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sea Turtle Cyber Espionage Campaign Targets Dutch IT and Telecom Companies<a href="https://thehackernews.com/2024/01/sea-turtle-cyber-espionage-campaign.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2024
+January 6, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Swatting: The New Normal in Ransomware Extortion Tactics<a href="https://www.theregister.com/2024/01/05/swatting_extorion_tactics/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 06, 2024
+January 06, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Iranian Hacker Group Targeting Albania with No-Justice Wiper Malware<a href="https://thehackernews.com/2024/01/pro-iranian-hacker-group-targeting.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2024
+January 6, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 West Virginia City Latest Municipality Hit With Cyberattack<a href="https://therecord.media/west-virginia-city-hit-cyberattack?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 6, 2024
+January 6, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian APT Used No-Justice Wiper in Recent Albanian Attacks<a href="https://www.healthcareinfosecurity.com/iranian-apt-used-no-justice-wiper-in-recent-albanian-attacks-a-24042?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 05, 2024
+January 05, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SpectralBlur: New macOS Backdoor Threat from North Korean Hackers<a href="https://thehackernews.com/2024/01/spectralblur-new-macos-backdoor-threat.html"> Full Text</a>
@@ -146,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 05, 2024
+January 05, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exposed Secrets are Everywhere. Here's How to Tackle Them<a href="https://thehackernews.com/2024/01/exposed-secrets-are-everywhere-heres.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2024
+January 5, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The FBI Is Adding More Cyber-Focused Agents to US Embassies<a href="https://cyberscoop.com/the-fbi-is-adding-more-cyber-focused-agents-to-u-s-embassies/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 05, 2024
+January 05, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Orange Spain Faces BGP Traffic Hijack After RIPE Account Hacked by Malware<a href="https://thehackernews.com/2024/01/orange-spain-faces-bgp-traffic-hijack.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 5, 2024
+January 5, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOE Announces Up to $70 Million to Strengthen Energy Sector Against Physical and Cyber Hazards<a href="https://www.energy.gov/articles/doe-announces-70-million-strengthen-energy-sector-against-physical-and-cyber-hazards?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 05, 2024
+January 05, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: Ivanti Releases Patch for Critical Vulnerability in Endpoint Manager Solution<a href="https://thehackernews.com/2024/01/alert-ivanti-releases-patch-for.html"> Full Text</a>

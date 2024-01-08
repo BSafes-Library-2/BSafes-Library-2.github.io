@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 05, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exposed Secrets are Everywhere. Here's How to Tackle Them<a href="https://thehackernews.com/2024/01/exposed-secrets-are-everywhere-heres.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Picture this: you stumble upon a concealed secret within your company's source code. Instantly, a wave of panic hits as you grasp the possible consequences. This one hidden secret has the power to pave the way for unauthorized entry, data breaches, and a damaged reputation. Understanding the secret is just the beginning; swift and resolute action becomes imperative. However, lacking the necessary context, you're left pondering the optimal steps to take. What's the right path forward in this situation? Secrets management is an essential aspect of any organization's security strategy. In a world where breaches are increasingly common, managing sensitive information such as API keys, credentials, and tokens can make all the difference. Secret scanners play a role in identifying exposed secrets within source code, but they have one significant limitation: &nbsp;they don't provide context. And without context, it's impossible to devise an appropriate response plan. Con
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 04, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

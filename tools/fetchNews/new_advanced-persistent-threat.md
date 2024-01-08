@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian APT Used No-Justice Wiper in Recent Albanian Attacks<a href="https://www.healthcareinfosecurity.com/iranian-apt-used-no-justice-wiper-in-recent-albanian-attacks-a-24042?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity firm ClearSky identified the tools used, including the No-Justice wiper and a PowerShell code. The malware had a valid digital signature, making it appear legitimate.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 20, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

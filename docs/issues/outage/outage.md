@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+January 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+West Virginia City Latest Municipality Hit With Cyberattack<a href="https://therecord.media/west-virginia-city-hit-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city of Beckley, West Virginia, is currently grappling with a cyberattack, which has disrupted their computer network and prompted investigations into the incident's source and impact.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 05, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Orange Spain Faces BGP Traffic Hijack After RIPE Account Hacked by Malware<a href="https://thehackernews.com/2024/01/orange-spain-faces-bgp-traffic-hijack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mobile network operator Orange Spain suffered an internet outage for several hours on January 3 after a threat actor used administrator credentials captured by means of stealer malware to hijack the border gateway protocol ( BGP ) traffic. "The Orange account in the IP network coordination center (RIPE) has suffered improper access that has affected the browsing of some of our customers," the company&nbsp; said &nbsp;in a message posted on X (formerly Twitter). However, the company emphasized no personal data was compromised and that the incident only affected some browsing services. The threat actor, who goes by the name Ms_Snow_OwO on X,&nbsp; claimed &nbsp;to have gained access to Orange Spain's RIPE account. RIPE is a regional Internet registry ( RIR ) that oversees the allocation and registration of IP addresses and autonomous system (AS) numbers in Europe, Central Asia, Russia, and West Asia. "Using the stolen account, the threat actor modified the AS number belonging to Ora
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 04, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

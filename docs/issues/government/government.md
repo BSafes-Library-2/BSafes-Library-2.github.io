@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+January 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The FBI Is Adding More Cyber-Focused Agents to US Embassies<a href="https://cyberscoop.com/the-fbi-is-adding-more-cyber-focused-agents-to-u-s-embassies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The expansion of the FBI's cyber program reflects a shift towards a proactive approach, focusing on disrupting cybercriminal operations rather than just investigating after the fact.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOE Announces Up to $70 Million to Strengthen Energy Sector Against Physical and Cyber Hazards<a href="https://www.energy.gov/articles/doe-announces-70-million-strengthen-energy-sector-against-physical-and-cyber-hazards?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding opportunity is open to public and private stakeholders, universities, and DOE's National Laboratories, and will focus on developing innovative solutions to strengthen the resilience of America's energy systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

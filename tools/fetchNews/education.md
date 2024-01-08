@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 04, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Ways To Supercharge Your Software Supply Chain Security<a href="https://thehackernews.com/2024/01/three-ways-to-supercharge-your-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Section four of the " Executive Order on Improving the Nation's Cybersecurity " introduced a lot of people in tech to the concept of a "Software Supply Chain" and securing it. If you make software and ever hope to sell it to one or more federal agencies, you&nbsp; have &nbsp;to pay attention to this. Even if you never plan to sell to a government, understanding your Software Supply Chain and learning how to secure it will pay dividends in a stronger security footing and the benefits it provides. This article will look at three ways to supercharge your&nbsp; Software Supply Chain Security . What is your Software Supply Chain? It's essentially everything that goes into building a piece of software: from the IDE in which the developer writes code, to the third-party dependencies, to the build systems and scripts, to the hardware and operating system on which it runs. Instabilities and vulnerabilities can be introduced, maliciously or not, from inception to deployment and even beyond.&nbsp; 1: Ke
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

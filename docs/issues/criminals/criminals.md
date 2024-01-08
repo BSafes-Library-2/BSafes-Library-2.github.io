@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swatting: The New Normal in Ransomware Extortion Tactics<a href="https://www.theregister.com/2024/01/05/swatting_extorion_tactics/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Extortionists are resorting to swatting as a new tactic to pressure hospitals into paying ransom demands. Swatting involves making false reports to the police, resulting in heavily armed officers showing up at victims' homes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 21, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

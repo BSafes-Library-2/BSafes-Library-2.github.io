@@ -34,6 +34,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Syrian Threat Group Peddles Destructive SilverRAT<a href="https://www.darkreading.com/cyberattacks-data-breaches/syrian-threat-group-peddles-destructive-silverrat?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group known as Anonymous Arabic, with links to Turkey and Syria, is behind a sophisticated remote access Trojan called SilverRAT. They plan to release an updated version that can control compromised Windows systems and Android devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 06, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sea Turtle Cyber Espionage Campaign Targets Dutch IT and Telecom Companies<a href="https://thehackernews.com/2024/01/sea-turtle-cyber-espionage-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunication, media, internet service providers (ISPs), information technology (IT)-service providers, and Kurdish websites in the Netherlands have been targeted as part of a new cyber espionage campaign undertaken by a Türkiye-nexus threat actor known as  Sea Turtle . "The infrastructure of the targets was susceptible to supply chain and island-hopping attacks, which the attack group used to collect politically motivated information such as personal information on minority groups and potential political dissents," Dutch security firm Hunt & Hackett  said  in a Friday analysis. "The stolen information is likely to be exploited for surveillance or intelligence gathering on specific groups and or individuals." Sea Turtle, also known by the names Cosmic Wolf, Marbled Dust (formerly Silicon), Teal Kurma, and UNC1326, was  first documented  by Cisco Talos in April 2019, detailing  state-sponsored attacks  targeting public and private entities in the Middle E
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Swatting: The New Normal in Ransomware Extortion Tactics<a href="https://www.theregister.com/2024/01/05/swatting_extorion_tactics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Extortionists are resorting to swatting as a new tactic to pressure hospitals into paying ransom demands. Swatting involves making false reports to the police, resulting in heavily armed officers showing up at victims' homes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 06, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Iranian Hacker Group Targeting Albania with No-Justice Wiper Malware<a href="https://thehackernews.com/2024/01/pro-iranian-hacker-group-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The  recent wave of cyber attacks  targeting Albanian organizations involved the use of a wiper called  No-Justice . The  findings  come from cybersecurity company ClearSky, which said the Windows-based malware "crashes the operating system in a way that it cannot be rebooted." The intrusions have been attributed to an Iranian "psychological operation group" known as Homeland Justice, which has been active since July 2022, specifically orchestrating destructive attacks against Albania. On December 24, 2023, the adversary resurfaced after a hiatus, stating it's "back to destroy supporters of terrorists," describing its latest campaign as #DestroyDurresMilitaryCamp. The Albanian city of Durrës  currently hosts  the dissident group People's Mojahedin Organization of Iran (MEK). Targets of the attack included ONE Albania, Eagle Mobile Albania, Air Albania, and the Albanian parliament. Two of the primary tools deployed during the campaign include an executa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+West Virginia City Latest Municipality Hit With Cyberattack<a href="https://therecord.media/west-virginia-city-hit-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city of Beckley, West Virginia, is currently grappling with a cyberattack, which has disrupted their computer network and prompted investigations into the incident's source and impact.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 6, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian APT Used No-Justice Wiper in Recent Albanian Attacks<a href="https://www.healthcareinfosecurity.com/iranian-apt-used-no-justice-wiper-in-recent-albanian-attacks-a-24042?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity firm ClearSky identified the tools used, including the No-Justice wiper and a PowerShell code. The malware had a valid digital signature, making it appear legitimate.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpectralBlur: New macOS Backdoor Threat from North Korean Hackers<a href="https://thehackernews.com/2024/01/spectralblur-new-macos-backdoor-threat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a new Apple macOS backdoor called  SpectralBlur  that overlaps with a known malware family that has been attributed to North Korean threat actors. "SpectralBlur is a moderately capable backdoor that can upload/download files, run a shell, update its configuration, delete files, hibernate, or sleep, based on commands issued from the [command-and-control server]," security researcher Greg Lesnewich  said . The malware shares similarities with  KANDYKORN  (aka SockRacket), an advanced implant that functions as a remote access trojan capable of taking control of a compromised host. It's worth noting that the KANDYKORN activity also intersects with another campaign orchestrated by the Lazarus sub-group known as BlueNoroff (aka TA444) which culminates in the deployment of a backdoor referred to as  RustBucket  and a late-stage payload dubbed  ObjCShellz . In recent months, the threat actor has been observed  combining disparate pieces of t
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05, 2024 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exposed Secrets are Everywhere. Here's How to Tackle Them<a href="https://thehackernews.com/2024/01/exposed-secrets-are-everywhere-heres.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Picture this: you stumble upon a concealed secret within your company's source code. Instantly, a wave of panic hits as you grasp the possible consequences. This one hidden secret has the power to pave the way for unauthorized entry, data breaches, and a damaged reputation. Understanding the secret is just the beginning; swift and resolute action becomes imperative. However, lacking the necessary context, you're left pondering the optimal steps to take. What's the right path forward in this situation? Secrets management is an essential aspect of any organization's security strategy. In a world where breaches are increasingly common, managing sensitive information such as API keys, credentials, and tokens can make all the difference. Secret scanners play a role in identifying exposed secrets within source code, but they have one significant limitation:  they don't provide context. And without context, it's impossible to devise an appropriate response plan. Con
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The FBI Is Adding More Cyber-Focused Agents to US Embassies<a href="https://cyberscoop.com/the-fbi-is-adding-more-cyber-focused-agents-to-u-s-embassies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The expansion of the FBI's cyber program reflects a shift towards a proactive approach, focusing on disrupting cybercriminal operations rather than just investigating after the fact.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Orange Spain Faces BGP Traffic Hijack After RIPE Account Hacked by Malware<a href="https://thehackernews.com/2024/01/orange-spain-faces-bgp-traffic-hijack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mobile network operator Orange Spain suffered an internet outage for several hours on January 3 after a threat actor used administrator credentials captured by means of stealer malware to hijack the border gateway protocol ( BGP ) traffic. "The Orange account in the IP network coordination center (RIPE) has suffered improper access that has affected the browsing of some of our customers," the company  said  in a message posted on X (formerly Twitter). However, the company emphasized no personal data was compromised and that the incident only affected some browsing services. The threat actor, who goes by the name Ms_Snow_OwO on X,  claimed  to have gained access to Orange Spain's RIPE account. RIPE is a regional Internet registry ( RIR ) that oversees the allocation and registration of IP addresses and autonomous system (AS) numbers in Europe, Central Asia, Russia, and West Asia. "Using the stolen account, the threat actor modified the AS number belonging to Ora
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 5, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOE Announces Up to $70 Million to Strengthen Energy Sector Against Physical and Cyber Hazards<a href="https://www.energy.gov/articles/doe-announces-70-million-strengthen-energy-sector-against-physical-and-cyber-hazards?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding opportunity is open to public and private stakeholders, universities, and DOE's National Laboratories, and will focus on developing innovative solutions to strengthen the resilience of America's energy systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 05, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Ivanti Releases Patch for Critical Vulnerability in Endpoint Manager Solution<a href="https://thehackernews.com/2024/01/alert-ivanti-releases-patch-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti has released security updates to address a critical flaw impacting its Endpoint Manager (EPM) solution that, if successfully exploited, could result in remote code execution (RCE) on susceptible servers. Tracked as CVE-2023-39336, the vulnerability has been rated 9.6 out of 10 on the CVSS scoring system. The shortcoming impacts EPM 2021 and EPM 2022 prior to SU5. "If exploited, an attacker with access to the internal network can leverage an unspecified SQL injection to execute arbitrary SQL queries and retrieve output without the need for authentication," Ivanti  said  in an advisory. "This can then allow the attacker control over machines running the EPM agent. When the core server is configured to use SQL express, this might lead to RCE on the core server." The disclosure arrived weeks after the company  resolved  nearly two dozen security flaws in its Avalanche enterprise mobile device management (MDM) solution. Of the 21 issues, 13 are rated critical (CVSS scores: 9.8
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 4, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

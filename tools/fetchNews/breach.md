@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+January 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Estes Refuses to Pay Off Ransomware Crew, Says Data Stolen<a href="https://www.theregister.com/2024/01/03/estes_ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company chose not to pay the ransom demanded by the hackers, aligning with the FBI's recommendation, but the specific details of the attack and the stolen data remain undisclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud-Native Cybersecurity Startup Aqua Security Raises $60M and Remains a Unicorn<a href="https://techcrunch.com/2024/01/03/cloud-native-cybersecurity-startup-aqua-security-raises-60m-and-remains-a-unicorn/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series E funding round was led by Evolution Equity Partners, with participation from existing investors Lightspeed Venture Partners, Insight Partners, and StepStone Group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
