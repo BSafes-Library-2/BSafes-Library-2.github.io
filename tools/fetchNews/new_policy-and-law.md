@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 08, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ Charges 19 Worldwide in $68 Million xDedic Dark Web Marketplace Fraud<a href="https://thehackernews.com/2024/01/doj-charges-19-worldwide-in-68-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) said it charged 19 individuals worldwide in connection with the now-defunct xDedic Marketplace , which is estimated to have facilitated more than $68 million in fraud. In&nbsp; wrapping up its investigation &nbsp;into the dark web portal, the agency said the transnational operation was the result of close cooperation with law enforcement authorities from Belgium, Germany, the Netherlands, Ukraine, and Europol. Of the 19 defendants, three have been sentenced to 6.5 years in prison, eight have been awarded jail terms ranging from one year to five years, and one individual has been ordered to serve five years' probation. One among them includes Glib Oleksandr Ivanov-Tolpintsev, a Ukrainian national who was&nbsp; sentenced to four years in prison &nbsp;in May 2022 for selling compromised credentials on xDedic and making $82,648 in illegal profits. Dariy Pankov, described by the DoJ as one of the highest sellers by volume, offered credentials of no less than 35,000 ha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 03, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

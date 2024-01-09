@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bots, Fraud Farms, and Cryptojacking Surge, Urgently Requiring Attention<a href="https://www.helpnetsecurity.com/2024/01/05/cyber-threats-statistics/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are increasingly relying on ready-made bots and human fraud farms, which account for the majority of malicious website and app traffic, highlighting the need for robust defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 18, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

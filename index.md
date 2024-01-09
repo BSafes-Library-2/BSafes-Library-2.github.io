@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2024
+January 8, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack Hits Maldives Government Websites<a href="https://thecyberexpress.com/cyberattack-on-maldives-government/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 08, 2024
+January 08, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Syrian Hackers Distributing Stealthy C#-Based Silver RAT to Cybercriminals<a href="https://thehackernews.com/2024/01/syrian-hackers-distributing-stealthy-c.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2024
+January 8, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NoName Group Claims DDoS Attacks on Ukrainian Government Sites<a href="https://thecyberexpress.com/noname-ransomware-attack-on-ukraine/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 08, 2024
+January 08, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unifying Security Tech Beyond the Stack: Integrating SecOps with Managed Risk and Strategy<a href="https://thehackernews.com/2024/01/unifying-security-tech-beyond-stack.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2024
+January 8, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bots, Fraud Farms, and Cryptojacking Surge, Urgently Requiring Attention<a href="https://www.helpnetsecurity.com/2024/01/05/cyber-threats-statistics/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 08, 2024
+January 08, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar – Leverage Zero Trust Security to Minimize Your Attack Surface<a href="https://thehackernews.com/2024/01/webinar-leverage-zero-trust-security-to.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2024
+January 8, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Canada: Personal and Pregnancy Details of Midwives of Windsor Clients was Breached<a href="https://www.cbc.ca/news/canada/windsor/midwives-windsor-email-breach-1.7075507?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 08, 2024
+January 08, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Warns of Security and Privacy Risks from Rapid AI System Deployment<a href="https://thehackernews.com/2024/01/nist-warns-of-security-and-privacy.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2024
+January 8, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beirut International Airport Hit by Cyberattack Affecting Flight Information Display System<a href="https://securityaffairs.com/157079/hacking/cyber-attack-hit-beirut-international-airport.html?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 08, 2024
+January 08, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoJ Charges 19 Worldwide in $68 Million xDedic Dark Web Marketplace Fraud<a href="https://thehackernews.com/2024/01/doj-charges-19-worldwide-in-68-million.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 8, 2024
+January 8, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Traces of LockBit Foul Play Emerge in Capital Health Cyberattack<a href="https://thecyberexpress.com/cyberattack-on-capital-health/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 08, 2024
+January 08, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea's Cyber Heist: DPRK Hackers Stole $600 Million in Cryptocurrency in 2023<a href="https://thehackernews.com/2024/01/north-koreas-cyber-heist-dprk-hackers.html"> Full Text</a>

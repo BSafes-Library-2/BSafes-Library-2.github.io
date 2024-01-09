@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+January 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NoName Group Claims DDoS Attacks on Ukrainian Government Sites<a href="https://thecyberexpress.com/noname-ransomware-attack-on-ukraine/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NoName group has reportedly targeted several Ukrainian government websites, including Accordbank, Zaporizhzhya Titanium-Magnesium Plant, and the State Tax Service. The group posted a list of their latest DDoS attack victims on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 01, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

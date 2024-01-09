@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+January 06, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sea Turtle Cyber Espionage Campaign Targets Dutch IT and Telecom Companies<a href="https://thehackernews.com/2024/01/sea-turtle-cyber-espionage-campaign.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telecommunication, media, internet service providers (ISPs), information technology (IT)-service providers, and Kurdish websites in the Netherlands have been targeted as part of a new cyber espionage campaign undertaken by a Türkiye-nexus threat actor known as&nbsp; Sea Turtle . "The infrastructure of the targets was susceptible to supply chain and island-hopping attacks, which the attack group used to collect politically motivated information such as personal information on minority groups and potential political dissents," Dutch security firm Hunt &amp; Hackett&nbsp; said &nbsp;in a Friday analysis. "The stolen information is likely to be exploited for surveillance or intelligence gathering on specific groups and or individuals." Sea Turtle, also known by the names Cosmic Wolf, Marbled Dust (formerly Silicon), Teal Kurma, and UNC1326, was&nbsp; first documented &nbsp;by Cisco Talos in April 2019, detailing&nbsp; state-sponsored attacks &nbsp;targeting public and private entities in the Middle E
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 06, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Iranian Hacker Group Targeting Albania with No-Justice Wiper Malware<a href="https://thehackernews.com/2024/01/pro-iranian-hacker-group-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The&nbsp; recent wave of cyber attacks &nbsp;targeting Albanian organizations involved the use of a wiper called&nbsp; No-Justice . The&nbsp; findings &nbsp;come from cybersecurity company ClearSky, which said the Windows-based malware "crashes the operating system in a way that it cannot be rebooted." The intrusions have been attributed to an Iranian "psychological operation group" known as Homeland Justice, which has been active since July 2022, specifically orchestrating destructive attacks against Albania. On December 24, 2023, the adversary resurfaced after a hiatus, stating it's "back to destroy supporters of terrorists," describing its latest campaign as #DestroyDurresMilitaryCamp. The Albanian city of Durrës&nbsp; currently hosts &nbsp;the dissident group People's Mojahedin Organization of Iran (MEK). Targets of the attack included ONE Albania, Eagle Mobile Albania, Air Albania, and the Albanian parliament. Two of the primary tools deployed during the campaign include an executa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

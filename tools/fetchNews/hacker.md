@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Syrian Threat Group Peddles Destructive SilverRAT<a href="https://www.darkreading.com/cyberattacks-data-breaches/syrian-threat-group-peddles-destructive-silverrat?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A group known as Anonymous Arabic, with links to Turkey and Syria, is behind a sophisticated remote access Trojan called SilverRAT. They plan to release an updated version that can control compromised Windows systems and Android devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 19, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

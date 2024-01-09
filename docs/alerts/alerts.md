@@ -18,6 +18,18 @@ Voice cloning technology is becoming increasing sophisticated due to improving t
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 4, 2024 - NIST
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Identifies Types of Cyberattacks That Manipulate Behavior of AI Systems <a href="https://www.nist.gov/news-events/news/2024/01/nist-identifies-types-cyberattacks-manipulate-behavior-ai-systems"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adversaries can deliberately confuse or even “poison” artificial intelligence (AI) systems to make them malfunction — and there’s no foolproof defense that their developers can employ. Computer scientists from the National Institute of Standards and Technology (NIST) and their collaborators identify these and other vulnerabilities of AI and machine learning (ML) in a new publication.
+</details>
+</div>
+
 
 
 

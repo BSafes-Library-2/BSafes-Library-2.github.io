@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 08, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unifying Security Tech Beyond the Stack: Integrating SecOps with Managed Risk and Strategy<a href="https://thehackernews.com/2024/01/unifying-security-tech-beyond-stack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity is an infinite journey in a digital landscape that never ceases to change. According to Ponemon Institute 1 , "only 59% of organizations say their cybersecurity strategy has changed over the past two years." This stagnation in strategy adaptation can be traced back to several key issues. Talent Retention Challenges: &nbsp;The cybersecurity field is rapidly advancing, requiring a skilled and knowledgeable workforce. However, organizations face a critical shortage of such talent, making it difficult to keep strategies agile and relevant. Leadership Focus : Often, the attention of leadership teams is divided across various priorities, and cybersecurity may not be at the forefront. This can result in strategies becoming outdated and less effective. Board Engagement: &nbsp;Adequate board support is essential for strategy evolution. A lack of comprehensive understanding of cybersecurity issues at the board level can lead to insufficient resources and support for strategic updates.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

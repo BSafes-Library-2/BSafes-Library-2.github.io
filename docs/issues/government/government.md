@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 08, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Warns of Security and Privacy Risks from Rapid AI System Deployment<a href="https://thehackernews.com/2024/01/nist-warns-of-security-and-privacy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Institute of Standards and Technology (NIST) is calling attention to the&nbsp; privacy and security challenges &nbsp;that arise as a result of increased deployment of artificial intelligence (AI) systems in recent years. "These security and privacy challenges include the potential for adversarial manipulation of training data, adversarial exploitation of model vulnerabilities to adversely affect the performance of the AI system, and even malicious manipulations, modifications or mere interaction with models to exfiltrate sensitive information about people represented in the data, about the model itself, or proprietary enterprise data," NIST&nbsp; said . As AI systems become integrated into online services at a rapid pace, in part driven by the emergence of generative AI systems like OpenAI ChatGPT and Google Bard, models powering these technologies face a number of threats at various stages of the machine learning operations. These include corrupted training data, security flaw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

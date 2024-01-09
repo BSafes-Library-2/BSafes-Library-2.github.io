@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 08, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Syrian Hackers Distributing Stealthy C#-Based Silver RAT to Cybercriminals<a href="https://thehackernews.com/2024/01/syrian-hackers-distributing-stealthy-c.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors operating under the name Anonymous Arabic have released a remote access trojan (RAT) called&nbsp; Silver RAT &nbsp;that's equipped to bypass security software and stealthily launch hidden applications. "The developers operate on multiple hacker forums and social media platforms, showcasing an active and sophisticated presence," cybersecurity firm Cyfirma&nbsp; said &nbsp;in a report published last week. The actors, assessed to be of Syrian origin and linked to the development of another RAT known as S500 RAT, also run a Telegram channel offering various services such as the distribution of cracked RATs, leaked databases, carding activities, and the sale of Facebook and X (formerly Twitter) bots. The social media bots are then utilized by other cyber criminals to promote various illicit services by automatically engaging with and commenting on user content. In-the-wild detections of Silver RAT v1.0 were first observed in November 2023, although the threat actor's plans to release the tr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
