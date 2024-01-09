@@ -34,6 +34,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Hits Maldives Government Websites<a href="https://thecyberexpress.com/cyberattack-on-maldives-government/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the weekend, the Maldives government websites experienced a cyberattack, resulting in temporary unavailability of the President's office, Foreign Ministry, and Tourism Ministry websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 08, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Syrian Hackers Distributing Stealthy C#-Based Silver RAT to Cybercriminals<a href="https://thehackernews.com/2024/01/syrian-hackers-distributing-stealthy-c.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors operating under the name Anonymous Arabic have released a remote access trojan (RAT) called  Silver RAT  that's equipped to bypass security software and stealthily launch hidden applications. "The developers operate on multiple hacker forums and social media platforms, showcasing an active and sophisticated presence," cybersecurity firm Cyfirma  said  in a report published last week. The actors, assessed to be of Syrian origin and linked to the development of another RAT known as S500 RAT, also run a Telegram channel offering various services such as the distribution of cracked RATs, leaked databases, carding activities, and the sale of Facebook and X (formerly Twitter) bots. The social media bots are then utilized by other cyber criminals to promote various illicit services by automatically engaging with and commenting on user content. In-the-wild detections of Silver RAT v1.0 were first observed in November 2023, although the threat actor's plans to release the tr
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NoName Group Claims DDoS Attacks on Ukrainian Government Sites<a href="https://thecyberexpress.com/noname-ransomware-attack-on-ukraine/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NoName group has reportedly targeted several Ukrainian government websites, including Accordbank, Zaporizhzhya Titanium-Magnesium Plant, and the State Tax Service. The group posted a list of their latest DDoS attack victims on the dark web.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 08, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unifying Security Tech Beyond the Stack: Integrating SecOps with Managed Risk and Strategy<a href="https://thehackernews.com/2024/01/unifying-security-tech-beyond-stack.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity is an infinite journey in a digital landscape that never ceases to change. According to Ponemon Institute 1 , "only 59% of organizations say their cybersecurity strategy has changed over the past two years." This stagnation in strategy adaptation can be traced back to several key issues. Talent Retention Challenges:  The cybersecurity field is rapidly advancing, requiring a skilled and knowledgeable workforce. However, organizations face a critical shortage of such talent, making it difficult to keep strategies agile and relevant. Leadership Focus : Often, the attention of leadership teams is divided across various priorities, and cybersecurity may not be at the forefront. This can result in strategies becoming outdated and less effective. Board Engagement:  Adequate board support is essential for strategy evolution. A lack of comprehensive understanding of cybersecurity issues at the board level can lead to insufficient resources and support for strategic updates.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bots, Fraud Farms, and Cryptojacking Surge, Urgently Requiring Attention<a href="https://www.helpnetsecurity.com/2024/01/05/cyber-threats-statistics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are increasingly relying on ready-made bots and human fraud farms, which account for the majority of malicious website and app traffic, highlighting the need for robust defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 08, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar – Leverage Zero Trust Security to Minimize Your Attack Surface<a href="https://thehackernews.com/2024/01/webinar-leverage-zero-trust-security-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital expansion inevitably increases the external attack surface, making you susceptible to cyberthreats. Threat actors increasingly exploit the vulnerabilities stemming from software and infrastructure exposed to the internet; this ironically includes security tools, particularly firewalls and VPNs, which give attackers direct network access to execute their attacks. In fact,  Gartner  identified attack surface expansion as a major trend to watch. So, it is not surprising that External Attack Surface Management (EASM) is a growing priority for organizations. But traditional castle-and-moat-based security architectures are ineffective at protecting enterprises against today's sophisticated attacks, which increasingly leverage AI and as-a-service models to maximize speed and damage. Zero trust security is the best way to minimize the attack surface, prevent compromise, eliminate lateral movement, and stop data loss. Register here  and join Apoorva Ravikrishnan, Senior Manager of P
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada: Personal and Pregnancy Details of Midwives of Windsor Clients was Breached<a href="https://www.cbc.ca/news/canada/windsor/midwives-windsor-email-breach-1.7075507?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised data includes names, addresses, contact information, medical details, and health insurance information. The exact number of affected clients is unclear, and it is unknown if the information has been misused.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 08, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Warns of Security and Privacy Risks from Rapid AI System Deployment<a href="https://thehackernews.com/2024/01/nist-warns-of-security-and-privacy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Institute of Standards and Technology (NIST) is calling attention to the  privacy and security challenges  that arise as a result of increased deployment of artificial intelligence (AI) systems in recent years. "These security and privacy challenges include the potential for adversarial manipulation of training data, adversarial exploitation of model vulnerabilities to adversely affect the performance of the AI system, and even malicious manipulations, modifications or mere interaction with models to exfiltrate sensitive information about people represented in the data, about the model itself, or proprietary enterprise data," NIST  said . As AI systems become integrated into online services at a rapid pace, in part driven by the emergence of generative AI systems like OpenAI ChatGPT and Google Bard, models powering these technologies face a number of threats at various stages of the machine learning operations. These include corrupted training data, security flaw
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beirut International Airport Hit by Cyberattack Affecting Flight Information Display System<a href="https://securityaffairs.com/157079/hacking/cyber-attack-hit-beirut-international-airport.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Beirut International Airport in Lebanon was targeted by a cyberattack, with hackers breaching the Flight Information Display System (FIDS) and disrupting the baggage inspection system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 08, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoJ Charges 19 Worldwide in $68 Million xDedic Dark Web Marketplace Fraud<a href="https://thehackernews.com/2024/01/doj-charges-19-worldwide-in-68-million.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice (DoJ) said it charged 19 individuals worldwide in connection with the now-defunct xDedic Marketplace , which is estimated to have facilitated more than $68 million in fraud. In  wrapping up its investigation  into the dark web portal, the agency said the transnational operation was the result of close cooperation with law enforcement authorities from Belgium, Germany, the Netherlands, Ukraine, and Europol. Of the 19 defendants, three have been sentenced to 6.5 years in prison, eight have been awarded jail terms ranging from one year to five years, and one individual has been ordered to serve five years' probation. One among them includes Glib Oleksandr Ivanov-Tolpintsev, a Ukrainian national who was  sentenced to four years in prison  in May 2022 for selling compromised credentials on xDedic and making $82,648 in illegal profits. Dariy Pankov, described by the DoJ as one of the highest sellers by volume, offered credentials of no less than 35,000 ha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Traces of LockBit Foul Play Emerge in Capital Health Cyberattack<a href="https://thecyberexpress.com/cyberattack-on-capital-health/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Capital Health is now fully operational and working with a forensic investigation firm to assess the risk to patient and employee data. While the firm has not disclosed the hacker group involved, it has been alleged that LockBit ransomware was used.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 08, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Cyber Heist: DPRK Hackers Stole $600 Million in Cryptocurrency in 2023<a href="https://thehackernews.com/2024/01/north-koreas-cyber-heist-dprk-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors affiliated with the Democratic People's Republic of Korea (also known as North Korea) have plundered at least $600 million in cryptocurrency in 2023. The DPRK "was responsible for almost a third of all funds stolen in crypto attacks last year, despite a 30% reduction from the USD 850 million haul in 2022," blockchain analytics firm TRM Labs  said  last week. "Hacks perpetrated by the DPRK were on average ten times as damaging as those not linked to North Korea." There are indications that  additional breaches  targeting the crypto sector towards the end of 2023 could push this figure higher to around $700 million. The targeting of cryptocurrency companies is not new for North Korean state-sponsored actors, who have  stolen about $3 billion  since 2017. These financially motivated attacks are seen as a crucial revenue-generation mechanism for the sanctions-hit nation, funding its weapons of mass destruction (WMD) and ballistic missile program
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 6, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
