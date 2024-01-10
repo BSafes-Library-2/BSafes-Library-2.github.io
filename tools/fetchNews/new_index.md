@@ -34,7 +34,199 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fallout Mounting From Recent Major Health Data Hacks<a href="https://www.bankinfosecurity.com/fallout-mounting-from-recent-major-health-data-hacks-a-24065?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several high-profile health data hacks, including those affecting medical transcription vendor Perry Johnson and Associates and hospital chain Prospect Medical Holdings, are resulting in growing lists of affected individuals and triggering lawsuits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NoaBot: Latest Mirai-Based Botnet Targeting SSH Servers for Crypto Mining<a href="https://thehackernews.com/2024/01/noabot-latest-mirai-based-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Mirai-based botnet called  NoaBot  is being used by threat actors as part of a crypto mining campaign since the beginning of 2023. "The capabilities of the new botnet, NoaBot, include a wormable self-spreader and an SSH key backdoor to download and execute additional binaries or spread itself to new victims," Akamai security researcher Stiv Kupchik said in a report shared with The Hacker News. Mirai , which had its source code leaked in 2016, has been the progenitor of a number of botnets, the most recent being  InfectedSlurs , which is capable of mounting distributed denial-of-service (DDoS) attacks. There are indications that NoaBot could be linked to another botnet campaign involving a Rust-based malware family known as  P2PInfect , which recently received an update to target routers and IoT devices. This is based on the fact that threat actors have also experimented with dropping P2PInfect in place of NoaBot in recent attacks targeting SSH servers, indicating likely at
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attack Traffic Surged in 2023, Cloudflare Finds<a href="https://www.cybersecuritydive.com/news/ddos-attacks-surge-cloudflare/704011/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Distributed denial of service (DDoS) attacks reached an all-time high in 2023, with a significant increase in the number and intensity of attacks, driven by the exploitation of vulnerabilities like the HTTP/2 Rapid Reset.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Getting off the Attack Surface Hamster Wheel: Identity Can Help<a href="https://thehackernews.com/2024/01/getting-off-attack-surface-hamster.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT professionals have developed a sophisticated understanding of the enterprise attack surface – what it is, how to quantify it and how to manage it.  The process is simple: begin by thoroughly assessing the attack surface, encompassing the entire IT environment. Identify all potential entry and exit points where unauthorized access could occur. Strengthen these vulnerable points using available market tools and expertise to achieve the desired cybersecurity posture.  While conceptually straightforward, this is an incredibly tedious task that consumes the working hours of CISOs and their organizations. Both the enumeration and the fortification pose challenges: large organizations use a vast array of technologies, such as server and endpoint platforms, network devices, and business apps. Reinforcing each of these components becomes a frustrating exercise in integration with access control, logging, patching, monitoring, and more, creating a seemingly endless list of tasks.  However
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meet Ika & Sal: The Bulletproof Hosting Duo from Hell<a href="https://krebsonsecurity.com/2024/01/meet-ika-sal-the-bulletproof-hosting-duo-from-hell/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Russian men, known as Icamis and Salomon, co-ran the top spam forum Spamdot and worked closely with dangerous cybercriminals, controlling botnets and harvesting passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free Decryptor Released for Black Basta and Babuk's Tortilla Ransomware Victims<a href="https://thehackernews.com/2024/01/free-decryptor-released-for-black-basta.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A decryptor for the Tortilla variant of the Babuk ransomware has been  released  by Cisco Talos, allowing victims targeted by the malware to regain access to their files. The cybersecurity firm said the threat intelligence it shared with Dutch law enforcement authorities made it possible to arrest the threat actor behind the operations. The encryption key has also been shared with Avast, which had previously  released a decryptor  for Babuk ransomware after its  source code was leaked  in September 2021. The updated decryptor can be accessed  here  [EXE file]. "A single private key is used for all victims of the Tortilla threat actor," Avast  noted . "This makes the update to the decryptor especially useful, as all victims of the campaign can use it to decrypt their files." The Tortilla campaign was  first disclosed  by Talos in November 2021, with the attacks leveraging  ProxyShell flaws in Microsoft Exchange servers  to drop the ransomware within victim environments. Tortilla
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ to up Tempo of Cybercrime Operations in 2024, Senior Official Says<a href="https://therecord.media/doj-to-increase-cybercrime-efforts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice expects an increase in government disruption operations in cybersecurity in 2024, with a focus on dismantling cybercriminal infrastructure and targeting individuals and companies supporting cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Bans Outlogic (X-Mode) From Selling Sensitive Location Data<a href="https://thehackernews.com/2024/01/ftc-bans-outlogic-x-mode-from-selling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) on Tuesday prohibited data broker Outlogic , which was previously known as X-Mode Social , from sharing or selling any sensitive location data with third-parties. The ban is part of a  settlement  over allegations that the company "sold precise location data that could be used to track people's visits to sensitive locations such as medical and reproductive health clinics, places of religious worship and domestic abuse shelters." The  proposed order  also requires it to destroy all the location data it previously gathered unless it obtains consumer consent or ensures the data has been de-identified or rendered non-sensitive as well as maintain a comprehensive list of sensitive locations and develop a comprehensive privacy program with a data retention schedule to prevent abuse. The FTC accused X-Mode Social and Outlogic of failing to establish adequate safeguards to prevent the misuse of such data by downstream customers. The dev
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Claims to Breach Indian ISP Hathway and Leaks Four Million Users' KYC Data<a href="https://www.hackread.com/indian-isp-hathway-data-breach-user-data-kyc-leak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data includes the personal information of over 41 million Hathway customers, but analysis suggests that the actual number of impacted accounts is around 4 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's January 2024 Windows Update Patches 48 New Vulnerabilities<a href="https://thehackernews.com/2024/01/microsofts-january-2024-windows-update.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has addressed a total of  48 security flaws  spanning its software as part of its Patch Tuesday updates for January 2024. Of the 48 bugs, two are rated Critical and 46 are rated Important in severity. There is no evidence that any of the issues are publicly known or under active attack at the time of release, making it the second consecutive Patch Tuesday with no zero-days. The fixes are in addition to  nine security vulnerabilities  that have been resolved in the Chromium-based Edge browser since the release of  December 2023 Patch Tuesday  updates. This also includes a fix for a zero-day ( CVE-2023-7024 , CVSS score: 8.8) that Google said has been actively exploited in the wild. The most critical among the flaws patched this month are as follows - CVE-2024-20674  (CVSS score: 9.0) - Windows Kerberos Security Feature Bypass Vulnerability CVE-2024-20700  (CVSS score: 7.5) - Windows Hyper-V Remote Code Execution Vulnerability "The authentication feature could be bypas
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+anecdotes Raises $25M in Series B Funding<a href="https://www.finsmes.com/2024/01/anecdotes-raises-25m-in-series-b-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Glilot Capital Partners, with participation from existing investors. The company plans to use the funds to introduce new data-driven innovations in the GRC landscape and expand into markets across the US, EMEA, and APAC regions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Flags 6 Vulnerabilities - Apple, Apache, Adobe , D-Link, Joomla Under Attack<a href="https://thehackernews.com/2024/01/cisa-flags-6-vulnerabilities-apple.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has  added  six security flaws to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active exploitation. This includes  CVE-2023-27524  (CVSS score: 8.9), a high-severity vulnerability impacting the Apache Superset open-source data visualization software that could enable remote code execution. It was fixed in version 2.1. Details of the issue  first came to light  in April 2023, with Horizon3.ai's Naveen Sunkavally describing it as a "dangerous default configuration in Apache Superset that allows an unauthenticated attacker to gain remote code execution, harvest credentials, and compromise data." It's currently not known how the vulnerability is being exploited in the wild. Also added by CISA are five other flaws - CVE-2023-38203  (CVSS score: 9.8) - Adobe ColdFusion Deserialization of Untrusted Data Vulnerability CVE-2023-29300  (CVSS score: 9.8) - Adobe ColdFusion Deserialization of Untrus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Decryptor for Babuk Tortilla Ransomware Variant Released<a href="https://blog.talosintelligence.com/decryptor-babuk-tortilla/?&web_view=true"> Full Text</a>
@@ -50,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09, 2024
+January 09, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: Water Curupira Hackers Actively Distributing PikaBot Loader Malware<a href="https://thehackernews.com/2024/01/alert-water-curupira-hackers-actively.html"> Full Text</a>
@@ -66,7 +258,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 9, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US DHS Solicits Synthetic Data Expertise for AI Training<a href="https://www.bankinfosecurity.com/us-dhs-solicits-synthetic-data-expertise-for-ai-training-a-24051?&web_view=true"> Full Text</a>
@@ -82,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09, 2024
+January 09, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Turkish Hackers Exploiting Poorly Secured MS SQL Servers Across the Globe<a href="https://thehackernews.com/2024/01/turkish-hackers-exploiting-poorly.html"> Full Text</a>
@@ -98,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity Vulnerabilities Patched in QNAP QTS, Video Station, QuMagie, Netatalk Products<a href="https://www.securityweek.com/qnap-patches-high-severity-flaws-in-qts-video-station-qumagie-netatalk-products/?&web_view=true"> Full Text</a>
@@ -114,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09, 2024
+January 09, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Public Links Expose Your SaaS Attack Surface<a href="https://thehackernews.com/2024/01/why-public-links-expose-your-saas.html"> Full Text</a>
@@ -130,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 9, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online Services Down for German Craft Associations Following ‘Security Incident’<a href="https://therecord.media/germany-chambers-of-crafts-cybersecurity-incident?&web_view=true"> Full Text</a>
@@ -146,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09, 2024
+January 09, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: New Vulnerabilities Discovered in QNAP and Kyocera Device Manager<a href="https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html"> Full Text</a>
@@ -162,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 9, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Saudi Ministry of Industry and Mineral Resources Exposed Sensitive Data for 15 Months<a href="https://securityaffairs.com/157133/security/saudi-ministry-data-leak.html?&web_view=true"> Full Text</a>
@@ -178,7 +370,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09, 2024
+January 09, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware! YouTube Videos Promoting Cracked Software Distribute Lumma Stealer<a href="https://thehackernews.com/2024/01/beware-youtube-videos-promoting-cracked.html"> Full Text</a>
@@ -194,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 9, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New York Clinic Must Pay $450K Fine, Spend $1.2M on Security<a href="https://www.bankinfosecurity.com/nys-clinic-must-pay-450k-fine-spend-12m-on-security-a-24058?&web_view=true"> Full Text</a>
@@ -210,7 +402,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Apache OFBiz Zero-Day Sees Thousands of Daily Exploit Attempts<a href="https://www.theregister.com/2024/01/08/apache_ofbiz_zeroday/?&web_view=true"> Full Text</a>
@@ -226,7 +418,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 9, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rhysida Ransomware Gang Takes Credit for Christmas Attack on Global Lutheran Organization<a href="https://therecord.media/world-council-churches-lutheran-world-federation-cyberattacks?&web_view=true"> Full Text</a>
