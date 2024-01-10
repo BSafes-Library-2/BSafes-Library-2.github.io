@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 09, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Public Links Expose Your SaaS Attack Surface<a href="https://thehackernews.com/2024/01/why-public-links-expose-your-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Collaboration is a powerful selling point for SaaS applications. Microsoft, Github, Miro, and others promote the collaborative nature of their software applications that allows users to do more. Links to files, repositories, and boards can be shared with anyone, anywhere. This encourages teamwork that helps create stronger campaigns and projects by encouraging collaboration among employees dispersed across regions and departments.&nbsp; At the same time, the openness of data SaaS platforms can be problematic. A&nbsp; 2023 survey &nbsp;by the Cloud Security Alliance and Adaptive Shield found that 58% of security incidents over the last two years involved data leakage. Clearly, sharing is good, but data sharing must be put in check. Most SaaS applications have mechanisms to control sharing. These tools are quite effective in ensuring that company resources aren't open for display on the public web. This article will look at three common data leakage scenarios and recommend best practices for safe sh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 08, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

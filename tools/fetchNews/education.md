@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 08, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar – Leverage Zero Trust Security to Minimize Your Attack Surface<a href="https://thehackernews.com/2024/01/webinar-leverage-zero-trust-security-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Digital expansion inevitably increases the external attack surface, making you susceptible to cyberthreats. Threat actors increasingly exploit the vulnerabilities stemming from software and infrastructure exposed to the internet; this ironically includes security tools, particularly firewalls and VPNs, which give attackers direct network access to execute their attacks. In fact,&nbsp; Gartner &nbsp;identified attack surface expansion as a major trend to watch. So, it is not surprising that External Attack Surface Management (EASM) is a growing priority for organizations. But traditional castle-and-moat-based security architectures are ineffective at protecting enterprises against today's sophisticated attacks, which increasingly leverage AI and as-a-service models to maximize speed and damage. Zero trust security is the best way to minimize the attack surface, prevent compromise, eliminate lateral movement, and stop data loss. Register here &nbsp;and join Apoorva Ravikrishnan, Senior Manager of P
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 05, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+January 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Hits Maldives Government Websites<a href="https://thecyberexpress.com/cyberattack-on-maldives-government/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over the weekend, the Maldives government websites experienced a cyberattack, resulting in temporary unavailability of the President's office, Foreign Ministry, and Tourism Ministry websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Traces of LockBit Foul Play Emerge in Capital Health Cyberattack<a href="https://thecyberexpress.com/cyberattack-on-capital-health/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Capital Health is now fully operational and working with a forensic investigation firm to assess the risk to patient and employee data. While the firm has not disclosed the hacker group involved, it has been alleged that LockBit ransomware was used.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Decryptor for Babuk Tortilla Ransomware Variant Released<a href="https://blog.talosintelligence.com/decryptor-babuk-tortilla/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco Talos, in collaboration with Dutch Police and Avast, recovered a decryptor for the Babuk Tortilla ransomware variant, allowing users to quickly recover their encrypted files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 09, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Water Curupira Hackers Actively Distributing PikaBot Loader Malware<a href="https://thehackernews.com/2024/01/alert-water-curupira-hackers-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor called Water Curupira has been observed actively distributing the  PikaBot  loader malware as part of spam campaigns in 2023. "PikaBot's operators ran phishing campaigns, targeting victims via its two components — a loader and a core module — which enabled unauthorized remote access and allowed the execution of arbitrary commands through an established connection with their command-and-control (C&C) server," Trend Micro  said  in a report published today. The activity began in the first quarter of 2023 that lasted till the end of June, before ramping up again in September. It also overlaps with  prior campaigns  that have used similar tactics to deliver QakBot, specifically those  orchestrated  by  cybercrime groups  known as TA571 and TA577. It's believed that the increase in the number of phishing campaigns related to PikaBot is the result of QakBot's takedown in August, with DarkGate emerging as another replacement. PikaBot is primarily a loader, which means
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DHS Solicits Synthetic Data Expertise for AI Training<a href="https://www.bankinfosecurity.com/us-dhs-solicits-synthetic-data-expertise-for-ai-training-a-24051?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. federal government is seeking synthetic data generators to train machine learning models and test systems in instances where real-world data is unavailable or poses privacy and security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 09, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Turkish Hackers Exploiting Poorly Secured MS SQL Servers Across the Globe<a href="https://thehackernews.com/2024/01/turkish-hackers-exploiting-poorly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poorly secured Microsoft SQL (MS SQL) servers are being targeted in the U.S., European Union, and Latin American (LATAM) regions as part of an ongoing financially motivated campaign to gain initial access. "The analyzed threat campaign appears to end in one of two ways, either the selling of 'access' to the compromised host, or the ultimate delivery of ransomware payloads," Securonix researchers Den Iuzvyk, Tim Peck, and Oleg Kolesnikov said in a technical report shared with The Hacker News. The campaign, linked to actors of Turkish origin, has been codenamed  RE#TURGENCE  by the cybersecurity firm. Initial access to the servers entails conducting brute-force attacks, followed by the use of  xp_cmdshell configuration option  to run shell commands on the compromised host. This activity mirrors that of a prior campaign dubbed  DB#JAMMER  that came to light in September 2023. This stage paves the way for the retrieval of a PowerShell script from a remote server that's responsible f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Vulnerabilities Patched in QNAP QTS, Video Station, QuMagie, Netatalk Products<a href="https://www.securityweek.com/qnap-patches-high-severity-flaws-in-qts-video-station-qumagie-netatalk-products/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While there is no evidence that the flaws have been exploited in the wild, it's recommended that users take steps to update their installations to the latest version to mitigate potential risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 09, 2024 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Public Links Expose Your SaaS Attack Surface<a href="https://thehackernews.com/2024/01/why-public-links-expose-your-saas.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Collaboration is a powerful selling point for SaaS applications. Microsoft, Github, Miro, and others promote the collaborative nature of their software applications that allows users to do more. Links to files, repositories, and boards can be shared with anyone, anywhere. This encourages teamwork that helps create stronger campaigns and projects by encouraging collaboration among employees dispersed across regions and departments.  At the same time, the openness of data SaaS platforms can be problematic. A  2023 survey  by the Cloud Security Alliance and Adaptive Shield found that 58% of security incidents over the last two years involved data leakage. Clearly, sharing is good, but data sharing must be put in check. Most SaaS applications have mechanisms to control sharing. These tools are quite effective in ensuring that company resources aren't open for display on the public web. This article will look at three common data leakage scenarios and recommend best practices for safe sh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Services Down for German Craft Associations Following ‘Security Incident’<a href="https://therecord.media/germany-chambers-of-crafts-cybersecurity-incident?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack has forced the affected Chambers to disconnect from the network and take their systems offline, causing disruption to vocational training and other online services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 09, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: New Vulnerabilities Discovered in QNAP and Kyocera Device Manager<a href="https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw has been disclosed in Kyocera's  Device Manager  product that could be exploited by bad actors to carry out malicious activities on affected systems. "This vulnerability allows attackers to coerce authentication attempts to their own resources, such as a malicious SMB share, to capture or relay Active Directory hashed credentials if the 'Restrict NTLM: Outgoing NTLM traffic to remote servers' security policy is not enabled," Trustwave  said . Tracked as  CVE-2023-50916 , Kyocera, in an  advisory  released late last month, described it as a path traversal issue that enables an attacker to intercept and alter a local path pointing to the backup location of the database to a universal naming convention (UNC) path. This, in turn, causes the web application to attempt to authenticate the rogue UNC path, resulting in unauthorized access to clients' accounts and data theft. Furthermore, depending on the configuration of the environment, it could be exploited to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saudi Ministry of Industry and Mineral Resources Exposed Sensitive Data for 15 Months<a href="https://securityaffairs.com/157133/security/saudi-ministry-data-leak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Saudi Ministry of Industry and Mineral Resources (MIM) had a sensitive environment file exposed for 15 months, potentially allowing attackers to gain unauthorized access and launch ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 09, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware! YouTube Videos Promoting Cracked Software Distribute Lumma Stealer<a href="https://thehackernews.com/2024/01/beware-youtube-videos-promoting-cracked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are resorting to YouTube videos featuring content related to cracked software in order to entice users into downloading an information stealer malware called Lumma. "These YouTube videos typically feature content related to cracked applications, presenting users with similar installation guides and incorporating malicious URLs often shortened using services like TinyURL and Cuttly," Fortinet FortiGuard Labs researcher Cara Lin  said  in a Monday analysis. This is not the first time pirated software videos on YouTube have emerged as an effective bait for stealer malware. Previously  similar attack chains  were  observed  delivering stealers, clippers, and crypto miner malware. In doing so, threat actors can leverage the compromised machines for not only information and cryptocurrency theft, but also abuse the resources for illicit mining. In the latest attack sequence documented by Fortinet, users searching for cracked versions of legitimate video editing tools like
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York Clinic Must Pay $450K Fine, Spend $1.2M on Security<a href="https://www.bankinfosecurity.com/nys-clinic-must-pay-450k-fine-spend-12m-on-security-a-24058?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Refuah Health Center in New York has been fined up to $450,000 and required to invest over $1 million in improving its data security following a ransomware attack in 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Apache OFBiz Zero-Day Sees Thousands of Daily Exploit Attempts<a href="https://www.theregister.com/2024/01/08/apache_ofbiz_zeroday/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The authentication bypass flaw in OFBiz allows attackers to remotely execute arbitrary code and access sensitive information. Upgrading to OFBiz version 18.12.11 is crucial to patch both this zero-day vulnerability and another equally serious hole.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 9, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhysida Ransomware Gang Takes Credit for Christmas Attack on Global Lutheran Organization<a href="https://therecord.media/world-council-churches-lutheran-world-federation-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack was carried out by the Rhysida ransomware gang, who also claimed responsibility for attacking the Lutheran World Federation, a member of the WCC. The WCC's systems went down on December 26, 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 8, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

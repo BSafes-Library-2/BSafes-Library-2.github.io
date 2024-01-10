@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+January 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Online Services Down for German Craft Associations Following ‘Security Incident’<a href="https://therecord.media/germany-chambers-of-crafts-cybersecurity-incident?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack has forced the affected Chambers to disconnect from the network and take their systems offline, causing disruption to vocational training and other online services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 9, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Decryptor for Babuk Tortilla Ransomware Variant Released<a href="https://blog.talosintelligence.com/decryptor-babuk-tortilla/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09, 2024
+January 09, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: Water Curupira Hackers Actively Distributing PikaBot Loader Malware<a href="https://thehackernews.com/2024/01/alert-water-curupira-hackers-actively.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 9, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US DHS Solicits Synthetic Data Expertise for AI Training<a href="https://www.bankinfosecurity.com/us-dhs-solicits-synthetic-data-expertise-for-ai-training-a-24051?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09, 2024
+January 09, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Turkish Hackers Exploiting Poorly Secured MS SQL Servers Across the Globe<a href="https://thehackernews.com/2024/01/turkish-hackers-exploiting-poorly.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity Vulnerabilities Patched in QNAP QTS, Video Station, QuMagie, Netatalk Products<a href="https://www.securityweek.com/qnap-patches-high-severity-flaws-in-qts-video-station-qumagie-netatalk-products/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09, 2024
+January 09, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Public Links Expose Your SaaS Attack Surface<a href="https://thehackernews.com/2024/01/why-public-links-expose-your-saas.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 9, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Online Services Down for German Craft Associations Following ‘Security Incident’<a href="https://therecord.media/germany-chambers-of-crafts-cybersecurity-incident?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09, 2024
+January 09, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: New Vulnerabilities Discovered in QNAP and Kyocera Device Manager<a href="https://thehackernews.com/2024/01/alert-new-vulnerabilities-discovered-in.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 9, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Saudi Ministry of Industry and Mineral Resources Exposed Sensitive Data for 15 Months<a href="https://securityaffairs.com/157133/security/saudi-ministry-data-leak.html?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 09, 2024
+January 09, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware! YouTube Videos Promoting Cracked Software Distribute Lumma Stealer<a href="https://thehackernews.com/2024/01/beware-youtube-videos-promoting-cracked.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 9, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New York Clinic Must Pay $450K Fine, Spend $1.2M on Security<a href="https://www.bankinfosecurity.com/nys-clinic-must-pay-450k-fine-spend-12m-on-security-a-24058?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Apache OFBiz Zero-Day Sees Thousands of Daily Exploit Attempts<a href="https://www.theregister.com/2024/01/08/apache_ofbiz_zeroday/?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 9, 2024
+January 9, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rhysida Ransomware Gang Takes Credit for Christmas Attack on Global Lutheran Organization<a href="https://therecord.media/world-council-churches-lutheran-world-federation-cyberattacks?&web_view=true"> Full Text</a>

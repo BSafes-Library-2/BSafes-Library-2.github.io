@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DHS Solicits Synthetic Data Expertise for AI Training<a href="https://www.bankinfosecurity.com/us-dhs-solicits-synthetic-data-expertise-for-ai-training-a-24051?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. federal government is seeking synthetic data generators to train machine learning models and test systems in instances where real-world data is unavailable or poses privacy and security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 08, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

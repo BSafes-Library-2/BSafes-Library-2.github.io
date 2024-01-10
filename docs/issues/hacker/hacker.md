@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 09, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Water Curupira Hackers Actively Distributing PikaBot Loader Malware<a href="https://thehackernews.com/2024/01/alert-water-curupira-hackers-actively.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A threat actor called Water Curupira has been observed actively distributing the&nbsp; PikaBot &nbsp;loader malware as part of spam campaigns in 2023. "PikaBot's operators ran phishing campaigns, targeting victims via its two components — a loader and a core module — which enabled unauthorized remote access and allowed the execution of arbitrary commands through an established connection with their command-and-control (C&amp;C) server," Trend Micro&nbsp; said &nbsp;in a report published today. The activity began in the first quarter of 2023 that lasted till the end of June, before ramping up again in September. It also overlaps with&nbsp; prior campaigns &nbsp;that have used similar tactics to deliver QakBot, specifically those&nbsp; orchestrated &nbsp;by&nbsp; cybercrime groups &nbsp;known as TA571 and TA577. It's believed that the increase in the number of phishing campaigns related to PikaBot is the result of QakBot's takedown in August, with DarkGate emerging as another replacement. PikaBot is primarily a loader, which means
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

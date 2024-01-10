@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada: Personal and Pregnancy Details of Midwives of Windsor Clients was Breached<a href="https://www.cbc.ca/news/canada/windsor/midwives-windsor-email-breach-1.7075507?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised data includes names, addresses, contact information, medical details, and health insurance information. The exact number of affected clients is unclear, and it is unknown if the information has been misused.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

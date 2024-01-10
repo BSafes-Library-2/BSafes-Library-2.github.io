@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saudi Ministry of Industry and Mineral Resources Exposed Sensitive Data for 15 Months<a href="https://securityaffairs.com/157133/security/saudi-ministry-data-leak.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Saudi Ministry of Industry and Mineral Resources (MIM) had a sensitive environment file exposed for 15 months, potentially allowing attackers to gain unauthorized access and launch ransomware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

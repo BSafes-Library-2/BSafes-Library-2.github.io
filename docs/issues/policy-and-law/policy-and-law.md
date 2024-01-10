@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New York Clinic Must Pay $450K Fine, Spend $1.2M on Security<a href="https://www.bankinfosecurity.com/nys-clinic-must-pay-450k-fine-spend-12m-on-security-a-24058?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Refuah Health Center in New York has been fined up to $450,000 and required to invest over $1 million in improving its data security following a ransomware attack in 2021.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 08, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

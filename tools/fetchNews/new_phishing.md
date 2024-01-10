@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 09, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware! YouTube Videos Promoting Cracked Software Distribute Lumma Stealer<a href="https://thehackernews.com/2024/01/beware-youtube-videos-promoting-cracked.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are resorting to YouTube videos featuring content related to cracked software in order to entice users into downloading an information stealer malware called Lumma. "These YouTube videos typically feature content related to cracked applications, presenting users with similar installation guides and incorporating malicious URLs often shortened using services like TinyURL and Cuttly," Fortinet FortiGuard Labs researcher Cara Lin&nbsp; said &nbsp;in a Monday analysis. This is not the first time pirated software videos on YouTube have emerged as an effective bait for stealer malware. Previously&nbsp; similar attack chains &nbsp;were&nbsp; observed &nbsp;delivering stealers, clippers, and crypto miner malware. In doing so, threat actors can leverage the compromised machines for not only information and cryptocurrency theft, but also abuse the resources for illicit mining. In the latest attack sequence documented by Fortinet, users searching for cracked versions of legitimate video editing tools like
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 04, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

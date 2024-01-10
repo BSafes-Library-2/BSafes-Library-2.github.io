@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+January 08, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Cyber Heist: DPRK Hackers Stole $600 Million in Cryptocurrency in 2023<a href="https://thehackernews.com/2024/01/north-koreas-cyber-heist-dprk-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors affiliated with the Democratic People's Republic of Korea (also known as North Korea) have plundered at least $600 million in cryptocurrency in 2023. The DPRK "was responsible for almost a third of all funds stolen in crypto attacks last year, despite a 30% reduction from the USD 850 million haul in 2022," blockchain analytics firm TRM Labs&nbsp; said &nbsp;last week. "Hacks perpetrated by the DPRK were on average ten times as damaging as those not linked to North Korea." There are indications that&nbsp; additional breaches &nbsp;targeting the crypto sector towards the end of 2023 could push this figure higher to around $700 million. The targeting of cryptocurrency companies is not new for North Korean state-sponsored actors, who have&nbsp; stolen about $3 billion &nbsp;since 2017. These financially motivated attacks are seen as a crucial revenue-generation mechanism for the sanctions-hit nation, funding its weapons of mass destruction (WMD) and ballistic missile program
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 13, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

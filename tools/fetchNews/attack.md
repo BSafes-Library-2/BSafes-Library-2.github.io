@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beirut International Airport Hit by Cyberattack Affecting Flight Information Display System<a href="https://securityaffairs.com/157079/hacking/cyber-attack-hit-beirut-international-airport.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Beirut International Airport in Lebanon was targeted by a cyberattack, with hackers breaching the Flight Information Display System (FIDS) and disrupting the baggage inspection system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 06, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
