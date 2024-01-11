@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacker Claims to Breach Indian ISP Hathway and Leaks Four Million Users' KYC Data<a href="https://www.hackread.com/indian-isp-hathway-data-breach-user-data-kyc-leak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data includes the personal information of over 41 million Hathway customers, but analysis suggests that the actual number of impacted accounts is around 4 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+January 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+anecdotes Raises $25M in Series B Funding<a href="https://www.finsmes.com/2024/01/anecdotes-raises-25m-in-series-b-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by Glilot Capital Partners, with participation from existing investors. The company plans to use the funds to introduce new data-driven innovations in the GRC landscape and expand into markets across the US, EMEA, and APAC regions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

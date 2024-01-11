@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+January 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ to up Tempo of Cybercrime Operations in 2024, Senior Official Says<a href="https://therecord.media/doj-to-increase-cybercrime-efforts?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Justice expects an increase in government disruption operations in cybersecurity in 2024, with a focus on dismantling cybercriminal infrastructure and targeting individuals and companies supporting cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Bans Outlogic (X-Mode) From Selling Sensitive Location Data<a href="https://thehackernews.com/2024/01/ftc-bans-outlogic-x-mode-from-selling.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) on Tuesday prohibited data broker Outlogic , which was previously known as X-Mode Social , from sharing or selling any sensitive location data with third-parties. The ban is part of a&nbsp; settlement &nbsp;over allegations that the company "sold precise location data that could be used to track people's visits to sensitive locations such as medical and reproductive health clinics, places of religious worship and domestic abuse shelters." The&nbsp; proposed order &nbsp;also requires it to destroy all the location data it previously gathered unless it obtains consumer consent or ensures the data has been de-identified or rendered non-sensitive as well as maintain a comprehensive list of sensitive locations and develop a comprehensive privacy program with a data retention schedule to prevent abuse. The FTC accused X-Mode Social and Outlogic of failing to establish adequate safeguards to prevent the misuse of such data by downstream customers. The dev
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Flags 6 Vulnerabilities - Apple, Apache, Adobe , D-Link, Joomla Under Attack<a href="https://thehackernews.com/2024/01/cisa-flags-6-vulnerabilities-apple.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has&nbsp; added &nbsp;six security flaws to its Known Exploited Vulnerabilities ( KEV ) catalog, citing evidence of active exploitation. This includes&nbsp; CVE-2023-27524 &nbsp;(CVSS score: 8.9), a high-severity vulnerability impacting the Apache Superset open-source data visualization software that could enable remote code execution. It was fixed in version 2.1. Details of the issue&nbsp; first came to light &nbsp;in April 2023, with Horizon3.ai's Naveen Sunkavally describing it as a "dangerous default configuration in Apache Superset that allows an unauthenticated attacker to gain remote code execution, harvest credentials, and compromise data." It's currently not known how the vulnerability is being exploited in the wild. Also added by CISA are five other flaws - CVE-2023-38203 &nbsp;(CVSS score: 9.8) - Adobe ColdFusion Deserialization of Untrusted Data Vulnerability CVE-2023-29300 &nbsp;(CVSS score: 9.8) - Adobe ColdFusion Deserialization of Untrus
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

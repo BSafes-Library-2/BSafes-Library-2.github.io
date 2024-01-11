@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+January 09, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Turkish Hackers Exploiting Poorly Secured MS SQL Servers Across the Globe<a href="https://thehackernews.com/2024/01/turkish-hackers-exploiting-poorly.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poorly secured Microsoft SQL (MS SQL) servers are being targeted in the U.S., European Union, and Latin American (LATAM) regions as part of an ongoing financially motivated campaign to gain initial access. "The analyzed threat campaign appears to end in one of two ways, either the selling of 'access' to the compromised host, or the ultimate delivery of ransomware payloads," Securonix researchers Den Iuzvyk, Tim Peck, and Oleg Kolesnikov said in a technical report shared with The Hacker News. The campaign, linked to actors of Turkish origin, has been codenamed&nbsp; RE#TURGENCE &nbsp;by the cybersecurity firm. Initial access to the servers entails conducting brute-force attacks, followed by the use of&nbsp; xp_cmdshell configuration option &nbsp;to run shell commands on the compromised host. This activity mirrors that of a prior campaign dubbed&nbsp; DB#JAMMER &nbsp;that came to light in September 2023. This stage paves the way for the retrieval of a PowerShell script from a remote server that's responsible f
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rhysida Ransomware Gang Takes Credit for Christmas Attack on Global Lutheran Organization<a href="https://therecord.media/world-council-churches-lutheran-world-federation-cyberattacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack was carried out by the Rhysida ransomware gang, who also claimed responsibility for attacking the Lutheran World Federation, a member of the WCC. The WCC's systems went down on December 26, 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

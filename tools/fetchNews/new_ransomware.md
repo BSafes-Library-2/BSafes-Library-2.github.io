@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Free Decryptor Released for Black Basta and Babuk's Tortilla Ransomware Victims<a href="https://thehackernews.com/2024/01/free-decryptor-released-for-black-basta.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A decryptor for the Tortilla variant of the Babuk ransomware has been&nbsp; released &nbsp;by Cisco Talos, allowing victims targeted by the malware to regain access to their files. The cybersecurity firm said the threat intelligence it shared with Dutch law enforcement authorities made it possible to arrest the threat actor behind the operations. The encryption key has also been shared with Avast, which had previously&nbsp; released a decryptor &nbsp;for Babuk ransomware after its&nbsp; source code was leaked &nbsp;in September 2021. The updated decryptor can be accessed&nbsp; here &nbsp;[EXE file]. "A single private key is used for all victims of the Tortilla threat actor," Avast&nbsp; noted . "This makes the update to the decryptor especially useful, as all victims of the campaign can use it to decrypt their files." The Tortilla campaign was&nbsp; first disclosed &nbsp;by Talos in November 2021, with the attacks leveraging&nbsp; ProxyShell flaws in Microsoft Exchange servers &nbsp;to drop the ransomware within victim environments. Tortilla
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

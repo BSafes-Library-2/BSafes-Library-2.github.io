@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+January 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fallout Mounting From Recent Major Health Data Hacks<a href="https://www.bankinfosecurity.com/fallout-mounting-from-recent-major-health-data-hacks-a-24065?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several high-profile health data hacks, including those affecting medical transcription vendor Perry Johnson and Associates and hospital chain Prospect Medical Holdings, are resulting in growing lists of affected individuals and triggering lawsuits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attack Traffic Surged in 2023, Cloudflare Finds<a href="https://www.cybersecuritydive.com/news/ddos-attacks-surge-cloudflare/704011/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Distributed denial of service (DDoS) attacks reached an all-time high in 2023, with a significant increase in the number and intensity of attacks, driven by the exploitation of vulnerabilities like the HTTP/2 Rapid Reset.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Getting off the Attack Surface Hamster Wheel: Identity Can Help<a href="https://thehackernews.com/2024/01/getting-off-attack-surface-hamster.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT professionals have developed a sophisticated understanding of the enterprise attack surface – what it is, how to quantify it and how to manage it.&nbsp; The process is simple: begin by thoroughly assessing the attack surface, encompassing the entire IT environment. Identify all potential entry and exit points where unauthorized access could occur. Strengthen these vulnerable points using available market tools and expertise to achieve the desired cybersecurity posture.&nbsp; While conceptually straightforward, this is an incredibly tedious task that consumes the working hours of CISOs and their organizations. Both the enumeration and the fortification pose challenges: large organizations use a vast array of technologies, such as server and endpoint platforms, network devices, and business apps. Reinforcing each of these components becomes a frustrating exercise in integration with access control, logging, patching, monitoring, and more, creating a seemingly endless list of tasks.&nbsp; However
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 08, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

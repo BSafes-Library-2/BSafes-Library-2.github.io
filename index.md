@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2024
+January 10, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fallout Mounting From Recent Major Health Data Hacks<a href="https://www.bankinfosecurity.com/fallout-mounting-from-recent-major-health-data-hacks-a-24065?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2024
+January 10, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NoaBot: Latest Mirai-Based Botnet Targeting SSH Servers for Crypto Mining<a href="https://thehackernews.com/2024/01/noabot-latest-mirai-based-botnet.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2024
+January 10, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS Attack Traffic Surged in 2023, Cloudflare Finds<a href="https://www.cybersecuritydive.com/news/ddos-attacks-surge-cloudflare/704011/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2024
+January 10, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Getting off the Attack Surface Hamster Wheel: Identity Can Help<a href="https://thehackernews.com/2024/01/getting-off-attack-surface-hamster.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2024
+January 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meet Ika & Sal: The Bulletproof Hosting Duo from Hell<a href="https://krebsonsecurity.com/2024/01/meet-ika-sal-the-bulletproof-hosting-duo-from-hell/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2024
+January 10, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Free Decryptor Released for Black Basta and Babuk's Tortilla Ransomware Victims<a href="https://thehackernews.com/2024/01/free-decryptor-released-for-black-basta.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2024
+January 10, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOJ to up Tempo of Cybercrime Operations in 2024, Senior Official Says<a href="https://therecord.media/doj-to-increase-cybercrime-efforts?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2024
+January 10, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC Bans Outlogic (X-Mode) From Selling Sensitive Location Data<a href="https://thehackernews.com/2024/01/ftc-bans-outlogic-x-mode-from-selling.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2024
+January 10, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacker Claims to Breach Indian ISP Hathway and Leaks Four Million Users' KYC Data<a href="https://www.hackread.com/indian-isp-hathway-data-breach-user-data-kyc-leak/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2024
+January 10, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's January 2024 Windows Update Patches 48 New Vulnerabilities<a href="https://thehackernews.com/2024/01/microsofts-january-2024-windows-update.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2024
+January 10, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 anecdotes Raises $25M in Series B Funding<a href="https://www.finsmes.com/2024/01/anecdotes-raises-25m-in-series-b-funding.html?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 10, 2024
+January 10, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Flags 6 Vulnerabilities - Apple, Apache, Adobe , D-Link, Joomla Under Attack<a href="https://thehackernews.com/2024/01/cisa-flags-6-vulnerabilities-apple.html"> Full Text</a>
