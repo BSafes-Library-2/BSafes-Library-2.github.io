@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+January 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chertoff Group Affiliate Completes Trustwave Acquisition<a href="https://www.darkreading.com/cloud-security/chertoff-group-affiliate-completes-trustwave-acquisition?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MC2 Security Fund has completed its acquisition of Trustwave, a managed security services provider, expanding its reach and placing Trustwave in front of Chertoff Group customers in the commercial and public sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ExtraHop Raises $100M in Growth Capital<a href="https://www.finsmes.com/2024/01/extrahop-raises-100m-in-growth-capital.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seattle-based company ExtraHop has raised $100 million in growth capital for its cloud-native network detection and response platform. The funding will be used to expand operations and business reach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

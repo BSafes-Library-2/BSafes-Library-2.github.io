@@ -34,6 +34,214 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chertoff Group Affiliate Completes Trustwave Acquisition<a href="https://www.darkreading.com/cloud-security/chertoff-group-affiliate-completes-trustwave-acquisition?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MC2 Security Fund has completed its acquisition of Trustwave, a managed security services provider, expanding its reach and placing Trustwave in front of Chertoff Group customers in the commercial and public sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Increasingly Abusing GitHub for Malicious Purposes<a href="https://thehackernews.com/2024/01/threat-actors-increasingly-abusing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ubiquity of GitHub in information technology (IT) environments has made it a lucrative choice for threat actors to host and deliver malicious payloads and act as  dead drop resolvers , command-and-control, and data exfiltration points. "Using GitHub services for malicious infrastructure allows adversaries to blend in with legitimate network traffic, often bypassing traditional security defenses and making upstream infrastructure tracking and actor attribution more difficult," Recorded Future  said  in a report shared with The Hacker News. The cybersecurity firm described the approach as "living-off-trusted-sites" (LOTS), a spin on the living-off-the-land (LotL) techniques often adopted by threat actors to conceal rogue activity and fly under the radar. Prominent among the methods by which GitHub is  abused   relates  to  payload   delivery , with some actors leveraging its features for command-and-control (C2) obfuscation. Last month, ReversingLabs  detailed  a number of rogue
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta-Affiliate Spreads Pikabot<a href="https://cyware.com/news/black-basta-affiliate-spreads-pikabot-5b7fd686"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat group Water Curupira, known for its Cobalt Strike backdoors, recently transitioned to using Pikabot malware in phishing campaigns. Pikabot witnessed a surge in activity in Q4 2023, potentially serving as a replacement for Qakbot after its takedown. Users must exercise caution with email atta ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PoC Exploit for Apache OfBiz Vulnerability Poses Risk to ERP Systems<a href="https://thehackernews.com/2024/01/new-poc-exploit-for-apache-ofbiz.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have  developed  a proof-of-concept (PoC) code that exploits a  recently disclosed critical flaw  in the Apache OfBiz open-source Enterprise Resource Planning (ERP) system to execute a memory-resident payload. The vulnerability in question is  CVE-2023-51467  (CVSS score: 9.8), a bypass for another severe shortcoming in the same software ( CVE-2023-49070 , CVSS score: 9.8) that could be weaponized to bypass authentication and remotely execute arbitrary code. While it was fixed in  Apache OFbiz version 18.12.11  released last month, threat actors have been observed attempting to exploit the flaw, targeting vulnerable instances. The latest findings from VulnCheck show that CVE-2023-51467 can be exploited to execute a payload directly from memory, leaving little to no traces of malicious activity. Security flaws disclosed in Apache OFBiz (e.g.,  CVE-2020-9496 ) have been  exploited  by threat actors in the past, including by threat actors associated with th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HMG Healthcare Discloses Data Breach Affecting 40 Affiliated Nursing Facilities<a href="https://securityaffairs.com/157244/data-breach/hmg-healthcare-data-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach occurred in August 2023 when threat actors gained unauthorized access to a company server and stole unencrypted files containing medical records, personal information, and employment records.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Python-based FBot Hacking Toolkit Aims at Cloud and SaaS Platforms<a href="https://thehackernews.com/2024/01/new-python-based-fbot-hacking-toolkit.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Python-based hacking tool called  FBot  has been uncovered targeting web servers, cloud services, content management systems (CMS), and SaaS platforms such as Amazon Web Services (AWS), Microsoft 365, PayPal, Sendgrid, and Twilio. "Key features include credential harvesting for spamming attacks, AWS account hijacking tools, and functions to enable attacks against PayPal and various SaaS accounts," SentinelOne security researcher Alex Delamotte  said  in a report shared with The Hacker News. FBot is the latest addition to the list of cloud hacking tools like  AlienFox, GreenBot  (aka Maintance),  Legion , and  Predator , the latter four of which share code-level overlaps with AndroxGh0st. SentinelOne described FBot as "related but distinct from these families," owing to the fact that it does not reference any source code from AndroxGh0st, although it exhibits similarities with Legion, which first came to light last year. The end goal of the tool is to hijack cloud, SaaS, and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2024 -- [Law Article](/docs/laws-and-regulations/laws-and-regulations/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Hacker From ‘ShinyHunters’ Group Sentenced to Three Years in US Prison<a href="https://therecord.media/french-hacker-sebastien-raoult-shinyhunters-sentenced?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 22-year-old French hacker has been sentenced to three years in U.S. federal prison for his involvement in the ShinyHunters hacking group and must pay $5 million in restitution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+There is a Ransomware Armageddon Coming for Us All<a href="https://thehackernews.com/2024/01/there-is-ransomware-armageddon-coming.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Generative AI will enable anyone to launch sophisticated phishing attacks that only Next-generation MFA devices can stop The least surprising headline from 2023 is that ransomware again set new records for a number of incidents and the damage inflicted. We saw new headlines every week, which included a who's-who of big-name organizations. If MGM, Johnson Controls, Chlorox, Hanes Brands, Caesars Palace, and so many others cannot stop the attacks, how will anyone else? Phishing-driven ransomware is the cyber threat that looms larger and more dangerous than all others. CISA and Cisco report that 90% of data breaches are the result of phishing attacks and monetary losses that exceed $10 billion in total. A report from Splunk revealed that 96 percent of companies fell victim to at least one phishing attack in the last 12 months and 83 percent suffered two or more. Protect your organization from phishing and ransomware by learning about the benefits of Next-Generation MFA. Download th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of WordPress Sites with Popup Builder Plugin Compromised by Balada Injector<a href="https://blog.sucuri.net/2024/01/thousands-of-sites-with-popup-builder-compromised-by-balada-injector.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stored XSS flaw in the Popup Builder WordPress plugin has been exploited by the Balada Injector campaign. The campaign injects malicious code into websites using older versions of the plugin, with over 6,200 sites currently affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atomic Stealer Gets an Upgrade - Targeting Mac Users with Encrypted Payload<a href="https://thehackernews.com/2024/01/atomic-stealer-gets-upgrade-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have identified an updated version of a macOS information stealer called  Atomic  (or AMOS), indicating that the threat actors behind the malware are actively enhancing its capabilities. "It looks like Atomic Stealer was updated around mid to late December 2023, where its developers introduced payload encryption in an effort to bypass detection rules," Malwarebytes' Jérôme Segura  said  in a Wednesday report. Atomic Stealer  first emerged  in April 2023 for a monthly subscription of $1,000. It's capable of harvesting sensitive information from a compromised host, including Keychain passwords, session cookies, files, crypto wallets, system metadata, and the machine's password via a fake prompt. Over the past several months, the malware has been observed propagated via  malvertising  and  compromised sites  under the guise of legitimate software and web browser updates. Malwarebytes' latest analysis shows that Atomic Stealer is no
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ExtraHop Raises $100M in Growth Capital<a href="https://www.finsmes.com/2024/01/extrahop-raises-100m-in-growth-capital.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Seattle-based company ExtraHop has raised $100 million in growth capital for its cloud-native network detection and response platform. The funding will be used to expand operations and business reach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandiant's X Account Was Hacked Using Brute-Force Attack<a href="https://thehackernews.com/2024/01/mandiants-x-account-was-hacked-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromise of Mandiant's X (formerly Twitter) account last week was likely the result of a "brute-force password attack," attributing the hack to a drainer-as-a-service (DaaS) group. "Normally, [two-factor authentication] would have mitigated this, but due to some team transitions and a change in X's 2FA policy , we were not adequately protected," the threat intelligence firm  said  in a post shared on X. The attack, which took place on January 3, 2023,  enabled  the threat actor to take control of the company's X account and distribute links to a phishing page hosting a cryptocurrency drainer tracked as CLINKSINK. Drainers refer to malicious scripts and smart contracts that facilitate the theft of digital assets from the victim's wallets after they are tricked into approving the transactions. According to the Google-owned subsidiary, multiple threat actors are believed to have leveraged CLINKSINK since December 2023 to siphon funds and tok
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New NoaBot Botnet Spreads an Illicit Cryptominer on Linux Systems<a href="https://therecord.media/mirai-based-botnet-spreading-akamai?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware's obfuscation and custom code suggest mature threat actors, but the inclusion of childish elements complicates attribution, making it difficult to determine the exact nature of the operation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 10, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

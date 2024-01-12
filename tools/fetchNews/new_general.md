@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+January 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Increasingly Abusing GitHub for Malicious Purposes<a href="https://thehackernews.com/2024/01/threat-actors-increasingly-abusing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ubiquity of GitHub in information technology (IT) environments has made it a lucrative choice for threat actors to host and deliver malicious payloads and act as&nbsp; dead drop resolvers , command-and-control, and data exfiltration points. "Using GitHub services for malicious infrastructure allows adversaries to blend in with legitimate network traffic, often bypassing traditional security defenses and making upstream infrastructure tracking and actor attribution more difficult," Recorded Future&nbsp; said &nbsp;in a report shared with The Hacker News. The cybersecurity firm described the approach as "living-off-trusted-sites" (LOTS), a spin on the living-off-the-land (LotL) techniques often adopted by threat actors to conceal rogue activity and fly under the radar. Prominent among the methods by which GitHub is&nbsp; abused &nbsp; relates &nbsp;to&nbsp; payload &nbsp; delivery , with some actors leveraging its features for command-and-control (C2) obfuscation. Last month, ReversingLabs&nbsp; detailed &nbsp;a number of rogue
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+There is a Ransomware Armageddon Coming for Us All<a href="https://thehackernews.com/2024/01/there-is-ransomware-armageddon-coming.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Generative AI will enable anyone to launch sophisticated phishing attacks that only Next-generation MFA devices can stop The least surprising headline from 2023 is that ransomware again set new records for a number of incidents and the damage inflicted. We saw new headlines every week, which included a who's-who of big-name organizations. If MGM, Johnson Controls, Chlorox, Hanes Brands, Caesars Palace, and so many others cannot stop the attacks, how will anyone else? Phishing-driven ransomware is the cyber threat that looms larger and more dangerous than all others. CISA and Cisco report that 90% of data breaches are the result of phishing attacks and monetary losses that exceed $10 billion in total. A report from Splunk revealed that 96 percent of companies fell victim to at least one phishing attack in the last 12 months and 83 percent suffered two or more. Protect your organization from phishing and ransomware by learning about the benefits of Next-Generation MFA. Download th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

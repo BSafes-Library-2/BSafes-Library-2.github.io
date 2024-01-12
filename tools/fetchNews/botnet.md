@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NoaBot: Latest Mirai-Based Botnet Targeting SSH Servers for Crypto Mining<a href="https://thehackernews.com/2024/01/noabot-latest-mirai-based-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Mirai-based botnet called&nbsp; NoaBot &nbsp;is being used by threat actors as part of a crypto mining campaign since the beginning of 2023. "The capabilities of the new botnet, NoaBot, include a wormable self-spreader and an SSH key backdoor to download and execute additional binaries or spread itself to new victims," Akamai security researcher Stiv Kupchik said in a report shared with The Hacker News. Mirai , which had its source code leaked in 2016, has been the progenitor of a number of botnets, the most recent being&nbsp; InfectedSlurs , which is capable of mounting distributed denial-of-service (DDoS) attacks. There are indications that NoaBot could be linked to another botnet campaign involving a Rust-based malware family known as&nbsp; P2PInfect , which recently received an update to target routers and IoT devices. This is based on the fact that threat actors have also experimented with dropping P2PInfect in place of NoaBot in recent attacks targeting SSH servers, indicating likely at
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chertoff Group Affiliate Completes Trustwave Acquisition<a href="https://www.darkreading.com/cloud-security/chertoff-group-affiliate-completes-trustwave-acquisition?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Increasingly Abusing GitHub for Malicious Purposes<a href="https://thehackernews.com/2024/01/threat-actors-increasingly-abusing.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta-Affiliate Spreads Pikabot<a href="https://cyware.com/news/black-basta-affiliate-spreads-pikabot-5b7fd686"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PoC Exploit for Apache OfBiz Vulnerability Poses Risk to ERP Systems<a href="https://thehackernews.com/2024/01/new-poc-exploit-for-apache-ofbiz.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HMG Healthcare Discloses Data Breach Affecting 40 Affiliated Nursing Facilities<a href="https://securityaffairs.com/157244/data-breach/hmg-healthcare-data-breach.html?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Python-based FBot Hacking Toolkit Aims at Cloud and SaaS Platforms<a href="https://thehackernews.com/2024/01/new-python-based-fbot-hacking-toolkit.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Law Article](/docs/laws-and-regulations/laws-and-regulations/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French Hacker From ‘ShinyHunters’ Group Sentenced to Three Years in US Prison<a href="https://therecord.media/french-hacker-sebastien-raoult-shinyhunters-sentenced?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 There is a Ransomware Armageddon Coming for Us All<a href="https://thehackernews.com/2024/01/there-is-ransomware-armageddon-coming.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of WordPress Sites with Popup Builder Plugin Compromised by Balada Injector<a href="https://blog.sucuri.net/2024/01/thousands-of-sites-with-popup-builder-compromised-by-balada-injector.html?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atomic Stealer Gets an Upgrade - Targeting Mac Users with Encrypted Payload<a href="https://thehackernews.com/2024/01/atomic-stealer-gets-upgrade-targeting.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ExtraHop Raises $100M in Growth Capital<a href="https://www.finsmes.com/2024/01/extrahop-raises-100m-in-growth-capital.html?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mandiant's X Account Was Hacked Using Brute-Force Attack<a href="https://thehackernews.com/2024/01/mandiants-x-account-was-hacked-using.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New NoaBot Botnet Spreads an Illicit Cryptominer on Linux Systems<a href="https://therecord.media/mirai-based-botnet-spreading-akamai?&web_view=true"> Full Text</a>

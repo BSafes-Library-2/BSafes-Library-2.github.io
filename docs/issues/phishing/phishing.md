@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta-Affiliate Spreads Pikabot<a href="https://cyware.com/news/black-basta-affiliate-spreads-pikabot-5b7fd686"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat group Water Curupira, known for its Cobalt Strike backdoors, recently transitioned to using Pikabot malware in phishing campaigns. Pikabot witnessed a surge in activity in Q4 2023, potentially serving as a replacement for Qakbot after its takedown. Users must exercise caution with email atta ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

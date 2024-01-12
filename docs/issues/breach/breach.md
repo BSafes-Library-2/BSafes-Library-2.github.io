@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+January 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HMG Healthcare Discloses Data Breach Affecting 40 Affiliated Nursing Facilities<a href="https://securityaffairs.com/157244/data-breach/hmg-healthcare-data-breach.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach occurred in August 2023 when threat actors gained unauthorized access to a company server and stole unencrypted files containing medical records, personal information, and employment records.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of WordPress Sites with Popup Builder Plugin Compromised by Balada Injector<a href="https://blog.sucuri.net/2024/01/thousands-of-sites-with-popup-builder-compromised-by-balada-injector.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A stored XSS flaw in the Popup Builder WordPress plugin has been exploited by the Balada Injector campaign. The campaign injects malicious code into websites using older versions of the plugin, with over 6,200 sites currently affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandiant's X Account Was Hacked Using Brute-Force Attack<a href="https://thehackernews.com/2024/01/mandiants-x-account-was-hacked-using.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromise of Mandiant's X (formerly Twitter) account last week was likely the result of a "brute-force password attack," attributing the hack to a drainer-as-a-service (DaaS) group. "Normally, [two-factor authentication] would have mitigated this, but due to some team transitions and a change in X's 2FA policy , we were not adequately protected," the threat intelligence firm&nbsp; said &nbsp;in a post shared on X. The attack, which took place on January 3, 2023,&nbsp; enabled &nbsp;the threat actor to take control of the company's X account and distribute links to a phishing page hosting a cryptocurrency drainer tracked as CLINKSINK. Drainers refer to malicious scripts and smart contracts that facilitate the theft of digital assets from the victim's wallets after they are tricked into approving the transactions. According to the Google-owned subsidiary, multiple threat actors are believed to have leveraged CLINKSINK since December 2023 to siphon funds and tok
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
