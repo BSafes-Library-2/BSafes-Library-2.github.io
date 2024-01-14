@@ -34,7 +34,263 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Findings Challenge Attribution in Denmark's Energy Sector Cyberattacks<a href="https://thehackernews.com/2024/01/new-findings-challenge-attribution-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber attacks targeting the energy sector in Denmark last year may not have had the involvement of the Russia-linked Sandworm hacking group,  new findings  from Forescout show. The intrusions, which  targeted around 22 Danish energy organizations  in May 2023, occurred in two distinct waves, one which exploited a security flaw in Zyxel firewall (CVE-2023-28771) and a follow-on activity cluster that saw the attackers deploy Mirai botnet variants on infected hosts via an as-yet-unknown initial access vector. The first wave took place on May 11, while the second wave lasted from May 22 to 31, 2023. In one such attack detected on May 24, it was observed that the compromised system was communicating with IP addresses (217.57.80[.]18 and 70.62.153[.]174) that were previously used as command-and-control (C2) for the now-dismantled  Cyclops Blink  botnet. Forescout's closer examination of the attack campaign, however, has revealed that not only were the two waves unrelated, but also
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fertility Test Lab Will Pay $1.25M to Settle Breach Lawsuit<a href="https://www.bankinfosecurity.com/fertility-test-lab-will-pay-125m-to-settle-breach-lawsuit-a-24092?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The settlement includes reimbursement for out-of-pocket losses, credit monitoring, identity theft insurance, and a cash settlement payment for affected individuals, with an additional payment for California residents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Cosmetics Firm Lush Confirms Cyberattack<a href="https://therecord.media/british-cosmetics-lush-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lush has taken immediate steps to secure and screen all systems in order to contain the incident and limit its impact on their operations, while also informing relevant authorities about the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Uncovered in Juniper SRX Firewalls and EX Switches<a href="https://thehackernews.com/2024/01/critical-rce-vulnerability-uncovered-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Juniper Networks has released updates to fix a critical remote code execution (RCE) vulnerability in its SRX Series firewalls and EX Series switches. The issue, tracked as  CVE-2024-21591 , is rated 9.8 on the CVSS scoring system. "An out-of-bounds write vulnerability in J-Web of Juniper Networks Junos OS SRX Series and EX Series allows an unauthenticated, network-based attacker to cause a Denial-of-Service (DoS) or Remote Code Execution (RCE) and obtain root privileges on the device," the company  said  in an advisory. The networking equipment major, which is set to be  acquired by Hewlett Packard Enterprise (HPE)  for $14 billion, said the issue is caused by use of an insecure function allowing a bad actor to overwrite arbitrary memory. The flaw impacts the following versions, and has been fixed in versions 20.4R3-S9, 21.2R3-S7, 21.3R3-S5, 21.4R3-S5, 22.1R3-S4, 22.2R3-S3, 22.3R3-S2, 22.4R2-S2, 22.4R3, 23.2R1-S1, 23.2R2, 23.4R1, and later - Junos OS versions earlier than 20.4R
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Elevated Ransomware Activity Hit Nearly 5,200 Organizations in 2023<a href="https://www.cybersecuritydive.com/news/elevated-ransomware-activity-2023-rapid7/704476/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most active ransomware groups in 2023 included AlphV, BianLian, Clop, LockBit 3.0, and Play, with AlphV being the most prolific and receiving substantial ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+29-Year-Old Ukrainian Cryptojacking Kingpin Arrested for Exploiting Cloud Services<a href="https://thehackernews.com/2024/01/29-year-old-ukrainian-cryptojacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 29-year-old Ukrainian national has been arrested in connection with running a "sophisticated cryptojacking scheme," netting them over $2 million (€1.8 million) in illicit profits. The person, described as the "mastermind" behind the operation, was apprehended in Mykolaiv, Ukraine, on January 9 by the National Police of Ukraine with support from Europol and an unnamed cloud service provider following "months of intensive collaboration." "A cloud provider approached Europol back in January 2023 with information regarding compromised cloud user accounts of theirs," Europol  said , adding it shared the intelligence with the Ukrainian authorities. As part of the probe, three properties were searched to unearth evidence against the suspect. Cryptojacking refers to a  type of cyber crime  that entails the unauthorized use of a person's or organization's computing resources to mine cryptocurrencies. On the cloud, such attacks are typically carried out by infiltrating the infrastructur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa Ransomware Gang Targets Nonprofit Providing Clean Water to World’s Poorest<a href="https://therecord.media/water-for-people-medusa-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Water for People, a nonprofit focused on improving access to clean water, has been targeted by the Medusa ransomware group, highlighting the vulnerability of even non-profit organizations to cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APIs are Increasingly Becoming Attractive Targets<a href="https://www.helpnetsecurity.com/2024/01/11/apis-attack-volume-rise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APIs are being used more than ever by businesses to build and provide better sites, apps, and services to consumers. However, if APIs are not managed or secured properly, they can be exploited by hackers to steal sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Volt Typhoon Ramps Up Malicious Activity Against Critical Infrastructure<a href="https://www.darkreading.com/cyber-risk/volt-typhoon-ramps-up-malicious-activity-critical-infrastructure?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volt Typhoon is using compromised routers as a command-and-control network and deploying a new web shell called "fy.sh" on targeted Cisco routers, indicating a highly active and sophisticated operation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Affecting Smart Thermostats Patched by Bosch<a href="https://therecord.media/vulnerability-smart-thermostats-bosch-patch?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+German technology manufacturer Bosch has fixed a vulnerability in its popular line of smart thermostats that allowed attackers to replace the device firmware with a rogue version.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Purple Teaming and the Role of Threat Categorization<a href="https://www.helpnetsecurity.com/2024/01/11/attack-technique-variants/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Purple team assessments, where red and blue teams collaborate, can provide a more comprehensive approach to security assessments, but they need to evolve to account for the multitude of attack technique variants.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ransomware Attack on US Navy Shipbuilder Leaked Information of Nearly 17,000 People<a href="https://therecord.media/fincantieri-shipbuilder-us-navy-wisconsin-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly 17,000 people had their personal information exposed in a ransomware attack on Fincantieri Marine Group. The attack, which occurred in April 2023, caused production issues and disrupted the company's computer systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saudi Foreign Affairs Ministry Allegedly Hit by Major Data Breach, Impacting Over 1.4 Million Employees<a href="https://thecyberexpress.com/saudi-foreign-affairs-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ministry of Foreign Affairs for Saudi Arabia reportedly experienced a major data breach, exposing the personal information of over 1.4 million employees, including names, contact details, and job titles.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-State Actors Weaponize Ivanti VPN Zero-Days, Deploying 5 Malware Families<a href="https://thehackernews.com/2024/01/nation-state-actors-weaponize-ivanti.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as five different malware families were deployed by suspected nation-state actors as part of post-exploitation activities leveraging  two zero-day vulnerabilities  in Ivanti Connect Secure (ICS) VPN appliances since early December 2023. "These families allow the threat actors to circumvent authentication and provide backdoor access to these devices," Mandiant  said  in an analysis published this week. The Google-owned threat intelligence firm is tracking the threat actor under the moniker  UNC5221 .  The attacks leverage an exploit chain comprising an authentication bypass flaw (CVE-2023-46805) and a code injection vulnerability (CVE-2024-21887) to take over susceptible instances. Volexity, which attributed the activity to a suspected Chinese espionage actor named UTA0178, said the twin flaws were used to gain initial access, deploy webshells, backdoor legitimate files, capture credentials and configuration data, and pivot further into the victim environment. Ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa Ransomware on the Rise: From Data Leaks to Multi-Extortion<a href="https://thehackernews.com/2024/01/medusa-ransomware-on-rise-from-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors associated with the  Medusa ransomware  have ramped up their activities following the debut of a dedicated data leak site on the dark web in February 2023 to publish sensitive data of victims who are unwilling to agree to their demands. "As part of their multi-extortion strategy, this group will provide victims with multiple options when their data is posted on their leak site, such as time extension, data deletion or download of all the data," Palo Alto Networks Unit 42 researchers Anthony Galiette and Doel Santos  said  in a report shared with The Hacker News. "All of these options have a price tag depending on the organization impacted by this group." Medusa (not to be confused with Medusa Locker) refers to a ransomware family that appeared in late 2022 before coming into prominence in 2023. It's known for opportunistically targeting a wide range of industries such as high technology, education, manufacturing, healthcare, and retail. As many as 74 organization
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Applying the Tyson Principle to Cybersecurity: Why Attack Simulation is Key to Avoiding a KO<a href="https://thehackernews.com/2024/01/applying-tyson-principle-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Picture a cybersecurity landscape where defenses are impenetrable, and threats are nothing more than mere disturbances deflected by a strong shield. Sadly, this image of fortitude remains a pipe dream despite its comforting nature. In the security world, preparedness is not just a luxury but a necessity. In this context, Mike Tyson's famous adage, "Everyone has a plan until they get punched in the face," lends itself to our arena - cyber defenses must be battle-tested to stand a chance. Tyson's words capture the paradox of readiness in cybersecurity: too often, untested cyber defenses can create a false sense of security, leading to dire consequences when real threats land a blow. This is where Breach and Attack Simulation (BAS), a proactive tool in any organization's cybersecurity arsenal, comes into play. When Cybersecurity Meets the Punch - The Assumption Problem Assumptions are the hidden icebergs in cybersecurity's vast ocean. Although we might believ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 11, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chertoff Group Affiliate Completes Trustwave Acquisition<a href="https://www.darkreading.com/cloud-security/chertoff-group-affiliate-completes-trustwave-acquisition?&web_view=true"> Full Text</a>
@@ -50,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Increasingly Abusing GitHub for Malicious Purposes<a href="https://thehackernews.com/2024/01/threat-actors-increasingly-abusing.html"> Full Text</a>
@@ -66,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta-Affiliate Spreads Pikabot<a href="https://cyware.com/news/black-basta-affiliate-spreads-pikabot-5b7fd686"> Full Text</a>
@@ -82,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PoC Exploit for Apache OfBiz Vulnerability Poses Risk to ERP Systems<a href="https://thehackernews.com/2024/01/new-poc-exploit-for-apache-ofbiz.html"> Full Text</a>
@@ -98,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HMG Healthcare Discloses Data Breach Affecting 40 Affiliated Nursing Facilities<a href="https://securityaffairs.com/157244/data-breach/hmg-healthcare-data-breach.html?&web_view=true"> Full Text</a>
@@ -114,7 +370,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Python-based FBot Hacking Toolkit Aims at Cloud and SaaS Platforms<a href="https://thehackernews.com/2024/01/new-python-based-fbot-hacking-toolkit.html"> Full Text</a>
@@ -130,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Law Article](/docs/laws-and-regulations/laws-and-regulations/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French Hacker From ‘ShinyHunters’ Group Sentenced to Three Years in US Prison<a href="https://therecord.media/french-hacker-sebastien-raoult-shinyhunters-sentenced?&web_view=true"> Full Text</a>
@@ -146,7 +402,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 There is a Ransomware Armageddon Coming for Us All<a href="https://thehackernews.com/2024/01/there-is-ransomware-armageddon-coming.html"> Full Text</a>
@@ -162,7 +418,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of WordPress Sites with Popup Builder Plugin Compromised by Balada Injector<a href="https://blog.sucuri.net/2024/01/thousands-of-sites-with-popup-builder-compromised-by-balada-injector.html?&web_view=true"> Full Text</a>
@@ -178,7 +434,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atomic Stealer Gets an Upgrade - Targeting Mac Users with Encrypted Payload<a href="https://thehackernews.com/2024/01/atomic-stealer-gets-upgrade-targeting.html"> Full Text</a>
@@ -194,7 +450,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ExtraHop Raises $100M in Growth Capital<a href="https://www.finsmes.com/2024/01/extrahop-raises-100m-in-growth-capital.html?&web_view=true"> Full Text</a>
@@ -210,7 +466,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mandiant's X Account Was Hacked Using Brute-Force Attack<a href="https://thehackernews.com/2024/01/mandiants-x-account-was-hacked-using.html"> Full Text</a>
@@ -226,7 +482,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 11, 2024
+January 11, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New NoaBot Botnet Spreads an Illicit Cryptominer on Linux Systems<a href="https://therecord.media/mirai-based-botnet-spreading-akamai?&web_view=true"> Full Text</a>
