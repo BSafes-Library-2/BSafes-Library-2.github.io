@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa Ransomware on the Rise: From Data Leaks to Multi-Extortion<a href="https://thehackernews.com/2024/01/medusa-ransomware-on-rise-from-data.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors associated with the&nbsp; Medusa ransomware &nbsp;have ramped up their activities following the debut of a dedicated data leak site on the dark web in February 2023 to publish sensitive data of victims who are unwilling to agree to their demands. "As part of their multi-extortion strategy, this group will provide victims with multiple options when their data is posted on their leak site, such as time extension, data deletion or download of all the data," Palo Alto Networks Unit 42 researchers Anthony Galiette and Doel Santos&nbsp; said &nbsp;in a report shared with The Hacker News. "All of these options have a price tag depending on the organization impacted by this group." Medusa (not to be confused with Medusa Locker) refers to a ransomware family that appeared in late 2022 before coming into prominence in 2023. It's known for opportunistically targeting a wide range of industries such as high technology, education, manufacturing, healthcare, and retail. As many as 74 organization
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

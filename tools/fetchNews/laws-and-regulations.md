@@ -7,6 +7,20 @@ nav_order: 700
 
 ## Laws and Regulations
 ---
+January 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Hacker From ‘ShinyHunters’ Group Sentenced to Three Years in US Prison<a href="https://therecord.media/french-hacker-sebastien-raoult-shinyhunters-sentenced?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 22-year-old French hacker has been sentenced to three years in U.S. federal prison for his involvement in the ShinyHunters hacking group and must pay $5 million in restitution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2022 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

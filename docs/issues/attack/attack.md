@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+January 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Findings Challenge Attribution in Denmark's Energy Sector Cyberattacks<a href="https://thehackernews.com/2024/01/new-findings-challenge-attribution-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber attacks targeting the energy sector in Denmark last year may not have had the involvement of the Russia-linked Sandworm hacking group,&nbsp; new findings &nbsp;from Forescout show. The intrusions, which&nbsp; targeted around 22 Danish energy organizations &nbsp;in May 2023, occurred in two distinct waves, one which exploited a security flaw in Zyxel firewall (CVE-2023-28771) and a follow-on activity cluster that saw the attackers deploy Mirai botnet variants on infected hosts via an as-yet-unknown initial access vector. The first wave took place on May 11, while the second wave lasted from May 22 to 31, 2023. In one such attack detected on May 24, it was observed that the compromised system was communicating with IP addresses (217.57.80[.]18 and 70.62.153[.]174) that were previously used as command-and-control (C2) for the now-dismantled&nbsp; Cyclops Blink &nbsp;botnet. Forescout's closer examination of the attack campaign, however, has revealed that not only were the two waves unrelated, but also
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Cosmetics Firm Lush Confirms Cyberattack<a href="https://therecord.media/british-cosmetics-lush-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lush has taken immediate steps to secure and screen all systems in order to contain the incident and limit its impact on their operations, while also informing relevant authorities about the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nation-State Actors Weaponize Ivanti VPN Zero-Days, Deploying 5 Malware Families<a href="https://thehackernews.com/2024/01/nation-state-actors-weaponize-ivanti.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as five different malware families were deployed by suspected nation-state actors as part of post-exploitation activities leveraging&nbsp; two zero-day vulnerabilities &nbsp;in Ivanti Connect Secure (ICS) VPN appliances since early December 2023. "These families allow the threat actors to circumvent authentication and provide backdoor access to these devices," Mandiant&nbsp; said &nbsp;in an analysis published this week. The Google-owned threat intelligence firm is tracking the threat actor under the moniker&nbsp; UNC5221 .&nbsp; The attacks leverage an exploit chain comprising an authentication bypass flaw (CVE-2023-46805) and a code injection vulnerability (CVE-2024-21887) to take over susceptible instances. Volexity, which attributed the activity to a suspected Chinese espionage actor named UTA0178, said the twin flaws were used to gain initial access, deploy webshells, backdoor legitimate files, capture credentials and configuration data, and pivot further into the victim environment. Ac
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 09, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+January 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Elevated Ransomware Activity Hit Nearly 5,200 Organizations in 2023<a href="https://www.cybersecuritydive.com/news/elevated-ransomware-activity-2023-rapid7/704476/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most active ransomware groups in 2023 included AlphV, BianLian, Clop, LockBit 3.0, and Play, with AlphV being the most prolific and receiving substantial ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APIs are Increasingly Becoming Attractive Targets<a href="https://www.helpnetsecurity.com/2024/01/11/apis-attack-volume-rise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APIs are being used more than ever by businesses to build and provide better sites, apps, and services to consumers. However, if APIs are not managed or secured properly, they can be exploited by hackers to steal sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
