@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NoName Targets Websites of Financial Services, Transportation, and Telecom Firms in Lithuania<a href="https://thecyberexpress.com/cyberattack-on-lithuania-websites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Several prominent organizations in Lithuania, including Compensa Vienna Insurance Group, If Insurance, Lithuanian Roads Association, AD REM, INIT, and Balticum, have been targeted by the NoName ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Opera MyFlaw Bug Could Let Hackers Run ANY File on Your Mac or Windows<a href="https://thehackernews.com/2024/01/opera-myflaw-bug-could-let-hackers-run.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have disclosed a security flaw in the Opera web browser for Microsoft Windows and Apple macOS that could be exploited to execute any file on the underlying operating system. The remote code execution vulnerability has been codenamed MyFlaw by the Guardio Labs research team owing to the fact that it takes advantage of a feature called  My Flow  that makes it possible to sync messages and files between mobile and desktop devices. "This is achieved through a controlled browser extension, effectively bypassing the browser's sandbox and the entire browser process," the company  said  in a statement shared with The Hacker News. The issue impacts both the Opera browser and Opera GX. Following responsible disclosure on November 17, 2023, it was addressed as part of  updates  shipped on November 22, 2023. My Flow features a chat-like interface to exchange notes and files, the latter of which can be opened via a web interface, meaning a file can be ex
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous Collective Launches Cyberattack on Bahrain Over Yemen Airstrikes<a href="https://thecyberexpress.com/cyberattack-on-bahrain/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anonymous Collective has launched a cyberattack on Bahrain in retaliation for its support of US and UK airstrikes on Yemen. Several Bahraini media outlets, including Akhbar al-Khaleej and Gulf Daily News, have been affected by the cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Ransomware Group Newcomers to Watch in 2024<a href="https://thehackernews.com/2024/01/3-ransomware-group-newcomers-to-watch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware industry surged in 2023 as it saw an alarming 55.5% increase in victims worldwide, reaching a staggering 4,368 cases.  Figure 1: Year over year victims per quarter The rollercoaster ride from explosive growth in 2021 to a momentary dip in 2022 was just a teaser—2023 roared back with the same fervor as 2021, propelling existing groups and ushering in a wave of formidable newcomers. Figure 2: 2020-2023 ransomware victim count LockBit 3.0 maintained its number one spot with 1047 victims achieved through the  Boeing  attack, the Royal Mail Attack, and more.  Alphv  and  Cl0p  achieved far less success, with 445 and 384 victims attributed to them, respectively, in 2023.  Figure 3: Top 3 active ransomware groups in 2023 These 3 groups were heavy contributors to the boom in ransomware attacks in 2023, but they were not the sole groups responsible. Many attacks came from emerging ransomware gangs such as  8Base , Rhysida, 3AM, Malaslocker,  BianLian , Play,  Akira ,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azorult Malware Comes to the Fore in New Dark Web Campaign<a href="https://thecyberexpress.com/azorult-malware-resurgence-cyble-reports/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Azorult malware, known for stealing sensitive data, has resurfaced with a sophisticated approach. It is distributed through malicious PDF files that contain a shortcut file.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity Flaws Uncovered in Bosch Thermostats and Smart Nutrunners<a href="https://thehackernews.com/2024/01/high-severity-flaws-uncovered-in-bosch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in Bosch BCC100 thermostats and Rexroth NXA015S-36V-B smart nutrunners that, if successfully exploited, could allow attackers to execute arbitrary code on affected systems. Romanian cybersecurity firm Bitdefender, which  discovered  the flaw in Bosch BCC100 thermostats last August, said the issue could be weaponized by an attacker to alter the device firmware and implant a rogue version. Tracked as  CVE-2023-49722  (CVSS score: 8.3), the high-severity vulnerability was addressed by Bosch in November 2023. "A network port 8899 is always open in BCC101/BCC102/BCC50 thermostat products, which allows an unauthenticated connection from a local WiFi network," the company  said  in an advisory. The issue, at its core, impacts the WiFi microcontroller that acts as a network gateway for the thermostat's logic microcontroller. By exploiting the flaw, an attacker could send commands to the thermostat, including writing a malicious updat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft to Keep All European Cloud Customers’ Personal Data Within EU<a href="https://therecord.media/microsoft-cloud-personal-data-storage-eu?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced that it will store all customer data in the European Union (EU) rather than transferring it abroad. This move is aimed at complying with varying privacy regulations across jurisdictions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Balada Injector Infects Over 7,100 WordPress Sites Using Plugin Vulnerability<a href="https://thehackernews.com/2024/01/balada-injector-infects-over-7100.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of WordPress sites using a vulnerable version of the Popup Builder plugin have been compromised with a malware called  Balada Injector . First  documented  by Doctor Web in January 2023, the campaign takes place in a series of periodic attack waves, weaponizing security flaws WordPress plugins to inject backdoor designed to redirect visitors of infected sites to bogus tech support pages, fraudulent lottery wins, and push notification scams. Subsequent  findings  unearthed by Sucuri have revealed the  massive scale of the operation , which is said to have been active since 2017 and infiltrated no less than 1 million sites since then. The GoDaddy-owned website security company, which  detected  the latest Balada Injector activity on December 13, 2023, said it identified the injections on  over 7,100 sites . These attacks take advantage of a high-severity flaw in Popup Builder ( CVE-2023-6000 , CVSS score: 8.8) – a plugin with  more than 200,000 active installs  – that was
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China Warns of Apple AirDrop De-Anonymization Flaw<a href="https://www.theregister.com/2024/01/15/china_airdrop_anonymity_warning/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Beijing Wangshendongjian Judicial Appraisal Institute Institute's claim that AirDrop's anonymization techniques can be easily circumvented raises concerns about the vulnerability of user identities and the potential for surveillance.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attacks on the Environmental Services Industry Surge by 61,839% in 2023<a href="https://thehackernews.com/2024/01/ddos-attacks-on-environmental-services.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The environmental services industry witnessed an "unprecedented surge" in HTTP-based distributed denial-of-service (DDoS) attacks, accounting for half of all its HTTP traffic. This marks a 61,839% increase in DDoS attack traffic year-over-year, web infrastructure and security company Cloudflare said in its DDoS threat report for 2023 Q4 published last week. "This surge in cyber attacks coincided with  COP 28 , which ran from November 30th to December 12th, 2023," security researchers Omer Yoachimik and Jorge Pacheco  said , describing it as a "disturbing trend in the cyber threat landscape." The uptick in HTTP attacks targeting environmental services websites is part of a larger trend observed annually over the past few years, specifically during COP 26 and COP 27, as well as other United Nations environment-related resolutions or announcements. "This recurring pattern underscores the growing intersection between environmental issues and cyber security, a nexus that is increasingl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 14, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
