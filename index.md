@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2024
+January 15, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NoName Targets Websites of Financial Services, Transportation, and Telecom Firms in Lithuania<a href="https://thecyberexpress.com/cyberattack-on-lithuania-websites/?&web_view=true"> Full Text</a>
@@ -49,8 +49,9 @@ Cyware
 </div>
 </div>
 
+q
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2024
+January 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Opera MyFlaw Bug Could Let Hackers Run ANY File on Your Mac or Windows<a href="https://thehackernews.com/2024/01/opera-myflaw-bug-could-let-hackers-run.html"> Full Text</a>
@@ -66,7 +67,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2024
+January 15, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous Collective Launches Cyberattack on Bahrain Over Yemen Airstrikes<a href="https://thecyberexpress.com/cyberattack-on-bahrain/?&web_view=true"> Full Text</a>
@@ -82,7 +83,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2024
+January 15, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 3 Ransomware Group Newcomers to Watch in 2024<a href="https://thehackernews.com/2024/01/3-ransomware-group-newcomers-to-watch.html"> Full Text</a>
@@ -98,7 +99,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2024
+January 15, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Azorult Malware Comes to the Fore in New Dark Web Campaign<a href="https://thecyberexpress.com/azorult-malware-resurgence-cyble-reports/?&web_view=true"> Full Text</a>
@@ -114,7 +115,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2024
+January 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity Flaws Uncovered in Bosch Thermostats and Smart Nutrunners<a href="https://thehackernews.com/2024/01/high-severity-flaws-uncovered-in-bosch.html"> Full Text</a>
@@ -130,7 +131,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2024
+January 15, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft to Keep All European Cloud Customers’ Personal Data Within EU<a href="https://therecord.media/microsoft-cloud-personal-data-storage-eu?&web_view=true"> Full Text</a>
@@ -146,7 +147,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2024
+January 15, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Balada Injector Infects Over 7,100 WordPress Sites Using Plugin Vulnerability<a href="https://thehackernews.com/2024/01/balada-injector-infects-over-7100.html"> Full Text</a>
@@ -162,7 +163,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2024
+January 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China Warns of Apple AirDrop De-Anonymization Flaw<a href="https://www.theregister.com/2024/01/15/china_airdrop_anonymity_warning/?&web_view=true"> Full Text</a>
@@ -178,7 +179,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 15, 2024
+January 15, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS Attacks on the Environmental Services Industry Surge by 61,839% in 2023<a href="https://thehackernews.com/2024/01/ddos-attacks-on-environmental-services.html"> Full Text</a>

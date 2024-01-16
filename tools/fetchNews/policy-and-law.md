@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fertility Test Lab Will Pay $1.25M to Settle Breach Lawsuit<a href="https://www.bankinfosecurity.com/fertility-test-lab-will-pay-125m-to-settle-breach-lawsuit-a-24092?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The settlement includes reimbursement for out-of-pocket losses, credit monitoring, identity theft insurance, and a cash settlement payment for affected individuals, with an additional payment for California residents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

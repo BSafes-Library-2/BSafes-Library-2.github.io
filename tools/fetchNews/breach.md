@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+January 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ransomware Attack on US Navy Shipbuilder Leaked Information of Nearly 17,000 People<a href="https://therecord.media/fincantieri-shipbuilder-us-navy-wisconsin-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly 17,000 people had their personal information exposed in a ransomware attack on Fincantieri Marine Group. The attack, which occurred in April 2023, caused production issues and disrupted the company's computer systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saudi Foreign Affairs Ministry Allegedly Hit by Major Data Breach, Impacting Over 1.4 Million Employees<a href="https://thecyberexpress.com/saudi-foreign-affairs-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ministry of Foreign Affairs for Saudi Arabia reportedly experienced a major data breach, exposing the personal information of over 1.4 million employees, including names, contact details, and job titles.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

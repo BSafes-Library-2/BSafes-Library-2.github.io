@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+3 Ransomware Group Newcomers to Watch in 2024<a href="https://thehackernews.com/2024/01/3-ransomware-group-newcomers-to-watch.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware industry surged in 2023 as it saw an alarming 55.5% increase in victims worldwide, reaching a staggering 4,368 cases.&nbsp; Figure 1: Year over year victims per quarter The rollercoaster ride from explosive growth in 2021 to a momentary dip in 2022 was just a teaser—2023 roared back with the same fervor as 2021, propelling existing groups and ushering in a wave of formidable newcomers. Figure 2: 2020-2023 ransomware victim count LockBit 3.0 maintained its number one spot with 1047 victims achieved through the&nbsp; Boeing &nbsp;attack, the Royal Mail Attack, and more.&nbsp; Alphv &nbsp;and&nbsp; Cl0p &nbsp;achieved far less success, with 445 and 384 victims attributed to them, respectively, in 2023.&nbsp; Figure 3: Top 3 active ransomware groups in 2023 These 3 groups were heavy contributors to the boom in ransomware attacks in 2023, but they were not the sole groups responsible. Many attacks came from emerging ransomware gangs such as&nbsp; 8Base , Rhysida, 3AM, Malaslocker,&nbsp; BianLian , Play,&nbsp; Akira ,
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

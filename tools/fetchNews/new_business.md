@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+January 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous Collective Launches Cyberattack on Bahrain Over Yemen Airstrikes<a href="https://thecyberexpress.com/cyberattack-on-bahrain/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Anonymous Collective has launched a cyberattack on Bahrain in retaliation for its support of US and UK airstrikes on Yemen. Several Bahraini media outlets, including Akhbar al-Khaleej and Gulf Daily News, have been affected by the cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft to Keep All European Cloud Customers’ Personal Data Within EU<a href="https://therecord.media/microsoft-cloud-personal-data-storage-eu?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has announced that it will store all customer data in the European Union (EU) rather than transferring it abroad. This move is aimed at complying with varying privacy regulations across jurisdictions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

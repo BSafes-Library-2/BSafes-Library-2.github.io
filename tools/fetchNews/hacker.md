@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Volt Typhoon Ramps Up Malicious Activity Against Critical Infrastructure<a href="https://www.darkreading.com/cyber-risk/volt-typhoon-ramps-up-malicious-activity-critical-infrastructure?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volt Typhoon is using compromised routers as a command-and-control network and deploying a new web shell called "fy.sh" on targeted Cisco routers, indicating a highly active and sophisticated operation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 09, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

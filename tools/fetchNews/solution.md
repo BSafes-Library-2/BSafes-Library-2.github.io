@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+January 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Purple Teaming and the Role of Threat Categorization<a href="https://www.helpnetsecurity.com/2024/01/11/attack-technique-variants/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Purple team assessments, where red and blue teams collaborate, can provide a more comprehensive approach to security assessments, but they need to evolve to account for the multitude of attack technique variants.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Applying the Tyson Principle to Cybersecurity: Why Attack Simulation is Key to Avoiding a KO<a href="https://thehackernews.com/2024/01/applying-tyson-principle-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Picture a cybersecurity landscape where defenses are impenetrable, and threats are nothing more than mere disturbances deflected by a strong shield. Sadly, this image of fortitude remains a pipe dream despite its comforting nature. In the security world, preparedness is not just a luxury but a necessity. In this context, Mike Tyson's famous adage, "Everyone has a plan until they get punched in the face," lends itself to our arena - cyber defenses must be battle-tested to stand a chance. Tyson's words capture the paradox of readiness in cybersecurity: too often, untested cyber defenses can create a false sense of security, leading to dire consequences when real threats land a blow. This is where Breach and Attack Simulation (BAS), a proactive tool in any organization's cybersecurity arsenal, comes into play. When Cybersecurity Meets the Punch - The Assumption Problem Assumptions are the hidden icebergs in cybersecurity's vast ocean. Although we might believ
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 03, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

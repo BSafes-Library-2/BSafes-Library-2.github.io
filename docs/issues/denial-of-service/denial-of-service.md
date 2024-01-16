@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+January 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attacks on the Environmental Services Industry Surge by 61,839% in 2023<a href="https://thehackernews.com/2024/01/ddos-attacks-on-environmental-services.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The environmental services industry witnessed an "unprecedented surge" in HTTP-based distributed denial-of-service (DDoS) attacks, accounting for half of all its HTTP traffic. This marks a 61,839% increase in DDoS attack traffic year-over-year, web infrastructure and security company Cloudflare said in its DDoS threat report for 2023 Q4 published last week. "This surge in cyber attacks coincided with&nbsp; COP 28 , which ran from November 30th to December 12th, 2023," security researchers Omer Yoachimik and Jorge Pacheco&nbsp; said , describing it as a "disturbing trend in the cyber threat landscape." The uptick in HTTP attacks targeting environmental services websites is part of a larger trend observed annually over the past few years, specifically during COP 26 and COP 27, as well as other United Nations environment-related resolutions or announcements. "This recurring pattern underscores the growing intersection between environmental issues and cyber security, a nexus that is increasingl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

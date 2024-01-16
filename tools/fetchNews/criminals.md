@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+29-Year-Old Ukrainian Cryptojacking Kingpin Arrested for Exploiting Cloud Services<a href="https://thehackernews.com/2024/01/29-year-old-ukrainian-cryptojacking.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 29-year-old Ukrainian national has been arrested in connection with running a "sophisticated cryptojacking scheme," netting them over $2 million (€1.8 million) in illicit profits. The person, described as the "mastermind" behind the operation, was apprehended in Mykolaiv, Ukraine, on January 9 by the National Police of Ukraine with support from Europol and an unnamed cloud service provider following "months of intensive collaboration." "A cloud provider approached Europol back in January 2023 with information regarding compromised cloud user accounts of theirs," Europol&nbsp; said , adding it shared the intelligence with the Ukrainian authorities. As part of the probe, three properties were searched to unearth evidence against the suspect. Cryptojacking refers to a&nbsp; type of cyber crime &nbsp;that entails the unauthorized use of a person's or organization's computing resources to mine cryptocurrencies. On the cloud, such attacks are typically carried out by infiltrating the infrastructur
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medusa Ransomware Gang Targets Nonprofit Providing Clean Water to World’s Poorest<a href="https://therecord.media/water-for-people-medusa-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Water for People, a nonprofit focused on improving access to clean water, has been targeted by the Medusa ransomware group, highlighting the vulnerability of even non-profit organizations to cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 08, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
