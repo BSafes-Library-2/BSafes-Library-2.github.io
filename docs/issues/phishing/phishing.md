@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flipping the BEC Funnel: Phishing in the Age of GenAI<a href="https://www.helpnetsecurity.com/2024/01/15/genai-tools-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The evolution of phishing techniques, including the use of advanced AI-driven tools, has led to a surge in highly personalized and convincing phishing attacks, posing a significant challenge to traditional email security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

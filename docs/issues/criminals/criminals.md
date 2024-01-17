@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Puts GEICO Database for Sale on the Dark Web<a href="https://thecyberexpress.com/geico-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor 'wangfei19860902055' advertised the sale of a database related to Government Employees Insurance Company (GEICO) on the dark web, containing 552,900 records with personal information. GEICO has not officially confirmed the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

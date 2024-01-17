@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 15, 2024 - DOD 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Defense Industrial Strategy <a href="https://dd80b675424c132b90b3-e48385e382d2e5d17821a5e1d8e4c86b.ssl.cf1.rackcdn.com/external/2023-ndis.pdf"> Full Text</a>
+</p>
+<details>
+With the publication of the 2022 National Defense Strategy (NOS), Secretary Austin charted the Defense Department's way forward through this decisive decade. Increasingly coercive actions taken by the People's Republic of China demonstrates its intent to reshape the lndo-Pacific region and broader international system to fit its authoritarian preferences, and the Russian Federation's invasion of Ukraine underscores the acute threat it poses. These threats, along with transboundary challenges like COVID-19, demonstrate the imperative for increased and improved defense capabilities for both the United States and our allies and partners. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 10, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

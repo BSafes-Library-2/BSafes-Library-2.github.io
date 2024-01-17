@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+January 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Case Study: The Cookie Privacy Monster in Big Global Retail<a href="https://thehackernews.com/2024/01/case-study-cookie-privacy-monster-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Explore how an advanced exposure management solution saved a major retail industry client from ending up on the naughty step due to a misconfiguration in its cookie management policy. This wasn't anything malicious, but with modern web environments being so complex, mistakes can happen, and non-compliance fines can be just an oversight away. Download the full case study&nbsp;here . As a child, did you ever get caught with your hand in the cookie jar and earn yourself a telling-off? Well, even if you can still remember being outed as a cookie monster, the punishments for today's thieving beasts are worse. Millions of dollars worse. Cookies are an essential part of modern web analytics. A cookie is a small piece of text data that records website visitor preferences along with their behaviors, and its job is to help personalize their browsing experience. Just as you needed parental consent to access the cookie jar all those years ago, your business now needs to obtain user consent before i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 28, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

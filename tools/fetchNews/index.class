@@ -34,6 +34,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2024 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Ways to Combat Rising OAuth SAAS Attacks<a href="https://www.helpnetsecurity.com/2024/01/16/oauth-saas/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OAuth attacks are on the rise, and organizations must implement strong access controls, fortify identity security for user accounts, and monitor third-party app activity to prevent unauthorized access to SaaS resources.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Over 178,000 SonicWall Firewalls Potentially Vulnerable to Exploits - Act Now<a href="https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 178,000 SonicWall firewalls exposed over the internet are exploitable to at least one of the two security flaws that could be potentially exploited to cause a denial-of-service (DoS) condition and remote code execution (RCE). "The two issues are fundamentally the same but exploitable at different HTTP URI paths due to reuse of a vulnerable code pattern," Jon Williams, a senior security engineer at Bishop Fox,  said  in a technical analysis shared with The Hacker News. The vulnerabilities in question are listed below - CVE-2022-22274  (CVSS score: 9.4) - A stack-based buffer overflow vulnerability in the SonicOS via HTTP request allows a remote, unauthenticated attacker to cause DoS or potentially result in code execution in the firewall. CVE-2023-0656  (CVSS score: 7.5) - A stack-based buffer overflow vulnerability in the SonicOS allows a remote, unauthenticated attacker to cause DoS, which could result in a crash. While there are no reports of exploitation of the flaws
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Cloud Vendor Returns Stolen Hospital Data<a href="https://www.bankinfosecurity.com/exclusive-cloud-vendor-returns-stolen-hospital-data-a-24101?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cloud services firm returned patient data stolen in a ransomware attack by the LockBit gang to a New York hospital alliance. The hospitals had sued LockBit as a legal maneuver to force the storage firm to return the data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Case Study: The Cookie Privacy Monster in Big Global Retail<a href="https://thehackernews.com/2024/01/case-study-cookie-privacy-monster-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Explore how an advanced exposure management solution saved a major retail industry client from ending up on the naughty step due to a misconfiguration in its cookie management policy. This wasn't anything malicious, but with modern web environments being so complex, mistakes can happen, and non-compliance fines can be just an oversight away. Download the full case study here . As a child, did you ever get caught with your hand in the cookie jar and earn yourself a telling-off? Well, even if you can still remember being outed as a cookie monster, the punishments for today's thieving beasts are worse. Millions of dollars worse. Cookies are an essential part of modern web analytics. A cookie is a small piece of text data that records website visitor preferences along with their behaviors, and its job is to help personalize their browsing experience. Just as you needed parental consent to access the cookie jar all those years ago, your business now needs to obtain user consent before i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flipping the BEC Funnel: Phishing in the Age of GenAI<a href="https://www.helpnetsecurity.com/2024/01/15/genai-tools-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The evolution of phishing techniques, including the use of advanced AI-driven tools, has led to a surge in highly personalized and convincing phishing attacks, posing a significant challenge to traditional email security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remcos RAT Spreading Through Adult Games in New Attack Wave<a href="https://thehackernews.com/2024/01/remcos-rat-spreading-through-adult.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The remote access trojan (RAT) known as Remcos RAT has been found being propagated via webhards by disguising it as adult-themed games in South Korea. WebHard, short for  web hard drive , is a popular online file storage system used to upload, download, and share files in the country. While webhards have been used in the past to deliver  njRAT ,  UDP RAT, and DDoS botnet malware , the AhnLab Security Emergency Response Center's (ASEC) latest analysis shows that the technique has been adopted to distribute Remcos RAT. In these attacks, users are tricked into opening booby-trapped files by passing them off as adult games, which, when launched, execute malicious Visual Basic scripts in order to run an intermediate binary named "ffmpeg.exe." This results in the retrieval of Remcos RAT from an actor-controlled server. A sophisticated RAT, Remcos (aka Remote Control and Surveillance) facilitates unauthorized remote control and surveillance of compromised hosts, enablin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOD Unveils First-Ever National Defense Industrial Strategy<a href="https://www.bankinfosecurity.com/dod-unveils-first-ever-national-defense-industrial-strategy-a-24102?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Defense Industrial Strategy focuses on resilient supply chains, workforce readiness, flexible acquisitions, and economic deterrence to improve defense industrial ecosystem.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inferno Malware Masqueraded as Coinbase, Drained $87 Million from 137,000 Victims<a href="https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind the now-defunct  Inferno Drainer  created more than 16,000 unique malicious domains over a span of one year between 2022 and 2023. The scheme "leveraged high-quality phishing pages to lure unsuspecting users into connecting their cryptocurrency wallets with the attackers' infrastructure that spoofed Web3 protocols to trick victims into authorizing transactions," Singapore-headquartered Group-IB  said  in a report shared with The Hacker News. Inferno Drainer, which was active from  November 2022 to November 2023 , is estimated to have reaped over  $87 million in illicit profits  by scamming more than 137,000 victims. The malware is part of a broader set of similar offerings that are available to affiliates under the scam-as-a-service (or drainer-as-a-service) model in exchange for a 20% cut of their earnings. What's more, customers of Inferno Drainer could either upload the malware to their own phishing sites, or make use of the developer's service for creatin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anonymous Sudan Claims London Internet Exchange Attack Over Yemen Strikes<a href="https://www.hackread.com/anonymous-sudan-london-internet-exchange-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-affiliated hacktivist group, Anonymous Sudan, claimed responsibility for a cyberattack on the London Internet Exchange (LINX) as a response to Britain's support for Israel and airstrikes on Yemen.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Weaponize Windows Flaw to Deploy Crypto-Siphoning Phemedrone Stealer<a href="https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been observed leveraging a now-patched security flaw in Microsoft Windows to deploy an open-source information stealer called  Phemedrone Stealer . "Phemedrone targets web browsers and data from cryptocurrency wallets and messaging apps such as Telegram, Steam, and Discord," Trend Micro researchers Peter Girnus, Aliakbar Zahravi, and Simon Zuckerbraun  said . "It also takes screenshots and gathers system information regarding hardware, location, and operating system details. The stolen data is then sent to the attackers via Telegram or their command-and-control (C&C) server." The attacks leverage  CVE-2023-36025  (CVSS score: 8.8), a security bypass vulnerability in Windows SmartScreen, that could be exploited by tricking a user into clicking on a specially crafted Internet Shortcut (.URL) or a hyperlink pointing to an Internet Shortcut file. The actively-exploited shortcoming was  addressed  by Microsoft as part of its November 2023 Patch Tuesday updates.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Puts GEICO Database for Sale on the Dark Web<a href="https://thecyberexpress.com/geico-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor 'wangfei19860902055' advertised the sale of a database related to Government Employees Insurance Company (GEICO) on the dark web, containing 552,900 records with personal information. GEICO has not officially confirmed the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tsurugi Linux Tailors User Experience for Digital Forensics and OSINT Investigations<a href="https://www.helpnetsecurity.com/2024/01/16/tsurugi-linux-open-source-dfir-analysis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tsurugi Linux offers a user-friendly interface with a logical sequence of forensic analysis tools, including support for live forensics, post-mortem analysis, digital evidence acquisition, malware analysis, OSINT, and computer vision activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 15, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

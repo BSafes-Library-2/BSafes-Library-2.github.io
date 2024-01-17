@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Cloud Vendor Returns Stolen Hospital Data<a href="https://www.bankinfosecurity.com/exclusive-cloud-vendor-returns-stolen-hospital-data-a-24101?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cloud services firm returned patient data stolen in a ransomware attack by the LockBit gang to a New York hospital alliance. The hospitals had sued LockBit as a legal maneuver to force the storage firm to return the data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
