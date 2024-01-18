@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Ways to Combat Rising OAuth SAAS Attacks<a href="https://www.helpnetsecurity.com/2024/01/16/oauth-saas/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OAuth attacks are on the rise, and organizations must implement strong access controls, fortify identity security for user accounts, and monitor third-party app activity to prevent unauthorized access to SaaS resources.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 09, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

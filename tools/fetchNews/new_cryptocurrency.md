@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+January 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Trading Firm Closes Shop After $8 Million NY State Fine Over Security Issues<a href="https://therecord.media/crypto-genesis-firm-closes-fine?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Genesis Global Trading violated its BitLicense terms, with late and inadequate cybersecurity risk assessments, and appeared deficient in filing suspicious activity reports for potential money laundering.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

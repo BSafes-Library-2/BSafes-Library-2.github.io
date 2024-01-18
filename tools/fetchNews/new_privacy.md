@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+January 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New iShutdown Method Exposes Hidden Spyware Like Pegasus on Your iPhone<a href="https://thehackernews.com/2024/01/new-ishutdown-method-exposes-hidden.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have identified a "lightweight method" called&nbsp; iShutdown &nbsp;for reliably identifying signs of spyware on Apple iOS devices, including notorious threats like NSO Group's&nbsp; Pegasus , QuaDream's&nbsp; Reign , and Intellexa's&nbsp; Predator .&nbsp; Kaspersky, which analyzed a set of iPhones that were compromised with Pegasus, said the infections left traces in a file named "Shutdown.log," a text-based system log file available on all iOS devices and which records every reboot event alongside its environment characteristics. "Compared to more time-consuming acquisition methods like forensic device imaging or a full iOS backup, retrieving the Shutdown.log file is rather straightforward," security researcher Maher Yamout&nbsp; said . "The log file is stored in a sysdiagnose (sysdiag) archive." The Russian cybersecurity firm said it identified entries in the log file that recorded instances where "sticky" processes, such as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 29, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

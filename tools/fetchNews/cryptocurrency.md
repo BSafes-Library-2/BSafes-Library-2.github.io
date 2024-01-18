@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+January 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inferno Malware Masqueraded as Coinbase, Drained $87 Million from 137,000 Victims<a href="https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators behind the now-defunct&nbsp; Inferno Drainer &nbsp;created more than 16,000 unique malicious domains over a span of one year between 2022 and 2023. The scheme "leveraged high-quality phishing pages to lure unsuspecting users into connecting their cryptocurrency wallets with the attackers' infrastructure that spoofed Web3 protocols to trick victims into authorizing transactions," Singapore-headquartered Group-IB&nbsp; said &nbsp;in a report shared with The Hacker News. Inferno Drainer, which was active from&nbsp; November 2022 to November 2023 , is estimated to have reaped over&nbsp; $87 million in illicit profits &nbsp;by scamming more than 137,000 victims. The malware is part of a broader set of similar offerings that are available to affiliates under the scam-as-a-service (or drainer-as-a-service) model in exchange for a 20% cut of their earnings. What's more, customers of Inferno Drainer could either upload the malware to their own phishing sites, or make use of the developer's service for creatin
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 08, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

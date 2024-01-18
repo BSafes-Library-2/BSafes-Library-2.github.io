@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Warn of AndroxGh0st Botnet Targeting AWS, Azure, and Office 365 Credentials<a href="https://thehackernews.com/2024/01/feds-warn-of-androxgh0st-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI)&nbsp; warned &nbsp;that threat actors deploying the&nbsp; AndroxGh0st &nbsp;malware are creating a botnet for "victim identification and exploitation in target networks." A Python-based malware,&nbsp; AndroxGh0st &nbsp;was first documented by Lacework in December 2022, with the malware inspiring several&nbsp; similar tools &nbsp;like AlienFox, GreenBot (aka Maintance), Legion, and Predator. The cloud attack tool is capable of infiltrating servers vulnerable to known security flaws to access Laravel environment files and steal credentials for high-profile applications such as Amazon Web Services (AWS), Microsoft Office 365, SendGrid, and Twilio. Some of the notable flaws weaponized by the attackers include&nbsp; CVE-2017-9841 &nbsp;(PHPUnit),&nbsp; CVE-2021-41773 &nbsp;(Apache HTTP Server), and&nbsp; CVE-2018-15133 &nbsp;(Laravel Framework). "AndroxGh0st has multiple features to enable SMTP abuse including scanning, exploitat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

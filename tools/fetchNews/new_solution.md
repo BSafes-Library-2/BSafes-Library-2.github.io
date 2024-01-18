@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+January 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Combating IP Leaks into AI Applications with Free Discovery and Risk Reduction Automation<a href="https://thehackernews.com/2024/01/combating-ip-leaks-into-ai-applications.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wing Security announced today that it now offers&nbsp; free discovery and a paid tier for automated control &nbsp;over thousands of AI and AI-powered SaaS applications. This will allow companies to better protect their intellectual property (IP) and data against the growing and evolving risks of AI usage. SaaS applications seem to be multiplying by the day, and so does their integration of AI capabilities. According to Wing Security, a SaaS security company that researched over 320 companies, a staggering 83.2% use GenAI applications. While this statistic might not come as a surprise, the research showed that 99.7% of organizations use SaaS applications that leverage AI capabilities to deliver their services. This usage of GenAI in SaaS applications that are not 'pure' AI often goes unnoticed by security teams and users alike. 70% of the most popular GenAI applications may use your data to train their models, and in many cases it's completely up to you to configure it differently
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adalanche: Open-Source Active Directory ACL Visualizer, Explorer<a href="https://www.helpnetsecurity.com/2024/01/15/adalanche-open-source-active-directory-acl-visualizer-explorer/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool offers a visual attack graph representation of Active Directory in the browser, along with the ability to collect data from Windows machines and perform in-depth analysis.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
