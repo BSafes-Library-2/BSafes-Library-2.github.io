@@ -34,7 +34,247 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2024
+January 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities Discovered in Android-based POS Terminals From PAX Technology<a href="https://blog.stmcyber.com/pax-pos-cves-2023/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PoS terminals from PAX Technology, based on Android, are found to have several vulnerabilities that can be exploited to execute arbitrary code or commands, according to a report by STM Cyber.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PAX PoS Terminal Flaw Could Allow Attackers to Tamper with Transactions<a href="https://thehackernews.com/2024/01/pax-pos-terminal-flaw-could-allow.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The point-of-sale (PoS) terminals from PAX Technology are impacted by a collection of high-severity vulnerabilities that can be weaponized by threat actors to execute arbitrary code. The STM Cyber R&D team, which reverse engineered the Android-based devices manufactured by the Chinese firm owing to their rapid deployment in Poland, said it unearthed half a dozen flaws that allow for privilege escalation and local code execution from the bootloader. Details about one of the vulnerabilities (CVE-2023-42133) have been currently withheld. The other flaws are listed below - CVE-2023-42134 & CVE-2023-42135 (CVSS score: 7.6) - Local code execution as root via kernel parameter injection in fastboot (Impacts PAX A920Pro/PAX A50) CVE-2023-42136 (CVSS score: 8.8) - Privilege escalation from any user/application to system user via shell injection binder-exposed service (Impacts All Android-based PAX PoS devices) CVE-2023-42137 (CVSS score: 8.8) - Privilege escalation from
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Detained Russian Student Allegedly Helped Ukrainian Hackers With Cyberattacks<a href="https://therecord.media/detained-russian-hacked-for-ukrainian?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian tech student faces treason charges for allegedly helping Ukrainian hackers carry out cyberattacks against Russia, revealing the ongoing cyberwar between the two countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Combating IP Leaks into AI Applications with Free Discovery and Risk Reduction Automation<a href="https://thehackernews.com/2024/01/combating-ip-leaks-into-ai-applications.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wing Security announced today that it now offers  free discovery and a paid tier for automated control  over thousands of AI and AI-powered SaaS applications. This will allow companies to better protect their intellectual property (IP) and data against the growing and evolving risks of AI usage. SaaS applications seem to be multiplying by the day, and so does their integration of AI capabilities. According to Wing Security, a SaaS security company that researched over 320 companies, a staggering 83.2% use GenAI applications. While this statistic might not come as a surprise, the research showed that 99.7% of organizations use SaaS applications that leverage AI capabilities to deliver their services. This usage of GenAI in SaaS applications that are not 'pure' AI often goes unnoticed by security teams and users alike. 70% of the most popular GenAI applications may use your data to train their models, and in many cases it's completely up to you to configure it differently
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Startup Vicarius Raises $30 Million Series B for Vulnerability Remediation Platform<a href="https://www.calcalistech.com/ctechnews/article/skhninsk6?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli startup has secured a $30 million Series B funding led by Bright Pixel Capital. The company's total funding now exceeds $56 million, with participation from other investors such as JVP, AllegisCyber Capital, AlleyCorp, and Strait Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Warn of AndroxGh0st Botnet Targeting AWS, Azure, and Office 365 Credentials<a href="https://thehackernews.com/2024/01/feds-warn-of-androxgh0st-botnet.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) and the Federal Bureau of Investigation (FBI)  warned  that threat actors deploying the  AndroxGh0st  malware are creating a botnet for "victim identification and exploitation in target networks." A Python-based malware,  AndroxGh0st  was first documented by Lacework in December 2022, with the malware inspiring several  similar tools  like AlienFox, GreenBot (aka Maintance), Legion, and Predator. The cloud attack tool is capable of infiltrating servers vulnerable to known security flaws to access Laravel environment files and steal credentials for high-profile applications such as Amazon Web Services (AWS), Microsoft Office 365, SendGrid, and Twilio. Some of the notable flaws weaponized by the attackers include  CVE-2017-9841  (PHPUnit),  CVE-2021-41773  (Apache HTTP Server), and  CVE-2018-15133  (Laravel Framework). "AndroxGh0st has multiple features to enable SMTP abuse including scanning, exploitat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cheap .cloud Domains and Shark Tank Impersonation Fuels Unhealthy Scams<a href="https://www.theregister.com/2024/01/17/netcraft_health_scams_analysis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are using fake news campaigns and cheaply acquired domain names to sell dubious health products, often claiming endorsements from popular entrepreneurial reality shows like Shark Tank and Dragons' Den.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: The Art of Privilege Escalation - How Hackers Become Admins<a href="https://thehackernews.com/2024/01/webinar-art-of-privilege-escalation-how.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the digital age, the battleground for security professionals is not only evolving, it's expanding at an alarming rate. The upcoming webinar, " The Art of Privilege Escalation - How Hackers Become Admins ," offers an unmissable opportunity for IT security experts to stay ahead in this relentless cyber war. Privilege escalation - the term might sound benign, but in the hands of a skilled hacker, it's a devastating tactic. It's a method where cyber attackers, starting as standard users, clandestinely climb the ladder of access, eventually gaining root-level control. This isn't just a breach; it's a systematic takeover of your entire network. Picture a scenario where cybercriminals roam freely through your network, turning your layers of defense into mere spectators. It's a chilling thought, but it's a reality faced by organizations across the globe. What if you could anticipate and counter these threats? Expertly delivered by Joseph Carson , Ch
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Progress Software’s MOVEit Meltdown: Uncovering the Fallout<a href="https://www.cybersecuritydive.com/news/progress-software-moveit-meltdown/703659/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data breach involving Progress Software’s MOVEit file-transfer service exposed millions of individuals and thousands of organizations, highlighting the far-reaching impact of supply chain cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New iShutdown Method Exposes Hidden Spyware Like Pegasus on Your iPhone<a href="https://thehackernews.com/2024/01/new-ishutdown-method-exposes-hidden.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have identified a "lightweight method" called  iShutdown  for reliably identifying signs of spyware on Apple iOS devices, including notorious threats like NSO Group's  Pegasus , QuaDream's  Reign , and Intellexa's  Predator .  Kaspersky, which analyzed a set of iPhones that were compromised with Pegasus, said the infections left traces in a file named "Shutdown.log," a text-based system log file available on all iOS devices and which records every reboot event alongside its environment characteristics. "Compared to more time-consuming acquisition methods like forensic device imaging or a full iOS backup, retrieving the Shutdown.log file is rather straightforward," security researcher Maher Yamout  said . "The log file is stored in a sysdiagnose (sysdiag) archive." The Russian cybersecurity firm said it identified entries in the log file that recorded instances where "sticky" processes, such as
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snyk Acquires Helios for Runtime Visibility<a href="https://www.darkreading.com/application-security/snyk-acquires-helios-for-runtime-visibility?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Snyk's acquisition of Helios marks its second move in developer-led application security posture management, following the previous acquisition of Enso Security, further strengthening its platform with prioritization and remediation capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Rotates Keys After High-Severity Vulnerability Exposes Credentials<a href="https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitHub has revealed that it has rotated some keys in response to a security vulnerability that could be potentially exploited to gain access to credentials within a production container. The Microsoft-owned subsidiary said it was made aware of the problem on December 26, 2023, and that it addressed the issue the same day, in addition to rotating all potentially exposed credentials out of an abundance of caution. The rotated keys include the GitHub commit signing key as well as GitHub Actions, GitHub Codespaces, and Dependabot customer encryption keys, necessitating users who rely on these keys to import the new ones. There is no evidence that the high-severity vulnerability, tracked as  CVE-2024-0200  (CVSS score: 7.2), has been previously found and exploited in the wild. "This vulnerability is also present on GitHub Enterprise Server (GHES)," GitHub's Jacob DePriest  said . "However, exploitation requires an authenticated user with an  organization owner role
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Trading Firm Closes Shop After $8 Million NY State Fine Over Security Issues<a href="https://therecord.media/crypto-genesis-firm-closes-fine?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Genesis Global Trading violated its BitLicense terms, with late and inadequate cybersecurity risk assessments, and appeared deficient in filing suspicious activity reports for potential money laundering.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix Warns Admins to Immediately Patch NetScaler for Actively Exploited Zero-Days<a href="https://securityaffairs.com/157611/hacking/citrix-netscaler-zero-days.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities, tracked as CVE-2023-6548 and CVE-2023-6549, can lead to remote code execution or denial-of-service attacks, and specific recommendations for mitigating the risks are provided.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Adalanche: Open-Source Active Directory ACL Visualizer, Explorer<a href="https://www.helpnetsecurity.com/2024/01/15/adalanche-open-source-active-directory-acl-visualizer-explorer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool offers a visual attack graph representation of Active Directory in the browser, along with the ability to collect data from Windows machines and perform in-depth analysis.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 16, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three Ways to Combat Rising OAuth SAAS Attacks<a href="https://www.helpnetsecurity.com/2024/01/16/oauth-saas/?&web_view=true"> Full Text</a>
@@ -50,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2024
+January 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: Over 178,000 SonicWall Firewalls Potentially Vulnerable to Exploits - Act Now<a href="https://thehackernews.com/2024/01/alert-over-178000-sonicwall-firewalls.html"> Full Text</a>
@@ -66,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2024
+January 16, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Cloud Vendor Returns Stolen Hospital Data<a href="https://www.bankinfosecurity.com/exclusive-cloud-vendor-returns-stolen-hospital-data-a-24101?&web_view=true"> Full Text</a>
@@ -82,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2024
+January 16, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Case Study: The Cookie Privacy Monster in Big Global Retail<a href="https://thehackernews.com/2024/01/case-study-cookie-privacy-monster-in.html"> Full Text</a>
@@ -98,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2024
+January 16, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Flipping the BEC Funnel: Phishing in the Age of GenAI<a href="https://www.helpnetsecurity.com/2024/01/15/genai-tools-phishing/?&web_view=true"> Full Text</a>
@@ -114,7 +354,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2024
+January 16, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Remcos RAT Spreading Through Adult Games in New Attack Wave<a href="https://thehackernews.com/2024/01/remcos-rat-spreading-through-adult.html"> Full Text</a>
@@ -130,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2024
+January 16, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOD Unveils First-Ever National Defense Industrial Strategy<a href="https://www.bankinfosecurity.com/dod-unveils-first-ever-national-defense-industrial-strategy-a-24102?&web_view=true"> Full Text</a>
@@ -146,7 +386,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2024
+January 16, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inferno Malware Masqueraded as Coinbase, Drained $87 Million from 137,000 Victims<a href="https://thehackernews.com/2024/01/inferno-malware-masqueraded-as-coinbase.html"> Full Text</a>
@@ -162,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2024
+January 16, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anonymous Sudan Claims London Internet Exchange Attack Over Yemen Strikes<a href="https://www.hackread.com/anonymous-sudan-london-internet-exchange-attack/?&web_view=true"> Full Text</a>
@@ -178,7 +418,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2024
+January 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Weaponize Windows Flaw to Deploy Crypto-Siphoning Phemedrone Stealer<a href="https://thehackernews.com/2024/01/hackers-weaponize-windows-flaw-to.html"> Full Text</a>
@@ -194,7 +434,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2024
+January 16, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actor Puts GEICO Database for Sale on the Dark Web<a href="https://thecyberexpress.com/geico-data-breach/?&web_view=true"> Full Text</a>
@@ -210,7 +450,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 16, 2024
+January 16, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tsurugi Linux Tailors User Experience for Digital Forensics and OSINT Investigations<a href="https://www.helpnetsecurity.com/2024/01/16/tsurugi-linux-open-source-dfir-analysis/?&web_view=true"> Full Text</a>
