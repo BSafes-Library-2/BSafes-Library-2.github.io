@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Hacks Worsen, SEC Turns up the Heat on CISOs<a href="https://techcrunch.com/2024/01/17/security-leadership-ciso-heat-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity industry is facing increasing legal oversight and consequences, making it riskier to work in this field. Companies are now required to disclose "material" security incidents within four working days to the SEC.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

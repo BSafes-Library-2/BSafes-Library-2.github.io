@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+January 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia Group Hit Swiss Government Sites After Zelensky Visit in Davos<a href="https://securityaffairs.com/157651/hacking/pro-russia-noname-hit-switzerland.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Switzerland's National Cyber Security Centre promptly detected and responded to the DDoS attacks, restoring access to the targeted websites, including the Davos-Klosters ski resort and Swiss Ministry of the Interior.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taiwanese Semiconductor Company Foxsemicon Suffers Ransomware Attack<a href="https://therecord.media/foxsemicon-ransomware-attack-taiwan?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foxsemicon, a major semiconductor manufacturer in Taiwan, was targeted by the LockBit ransomware gang, who threatened to leak customers' personal data if a ransom was not paid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

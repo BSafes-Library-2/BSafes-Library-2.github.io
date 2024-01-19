@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+January 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Startup Vicarius Raises $30 Million Series B for Vulnerability Remediation Platform<a href="https://www.calcalistech.com/ctechnews/article/skhninsk6?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli startup has secured a $30 million Series B funding led by Bright Pixel Capital. The company's total funding now exceeds $56 million, with participation from other investors such as JVP, AllegisCyber Capital, AlleyCorp, and Strait Capital.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snyk Acquires Helios for Runtime Visibility<a href="https://www.darkreading.com/application-security/snyk-acquires-helios-for-runtime-visibility?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Snyk's acquisition of Helios marks its second move in developer-led application security posture management, following the previous acquisition of Enso Security, further strengthening its platform with prioritization and remediation capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

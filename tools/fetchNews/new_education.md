@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MFA Spamming and Fatigue: When Security Measures Go Wrong<a href="https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital landscape, traditional password-only authentication systems have proven to be vulnerable to a wide range of cyberattacks. To safeguard critical business resources, organizations are increasingly turning to multi-factor authentication (MFA) as a more robust security measure. MFA requires users to provide multiple authentication factors to verify their identity, providing an additional layer of protection against unauthorized access. However, cybercriminals are relentless in their pursuit of finding ways to&nbsp; bypass MFA systems . One such method gaining traction is MFA spamming attacks, also known as MFA fatigue, or&nbsp; MFA bombing . This article delves into MFA spamming attacks, including the best practices to mitigate this growing threat. What is MFA spamming? MFA spamming refers to the malicious act of inundating a target user's email, phone, or other registered devices with numerous MFA prompts or confirmation codes. The objective behind this tactic is to o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

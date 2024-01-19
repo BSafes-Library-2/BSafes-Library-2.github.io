@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+January 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenAI Combats Election Misinformation Amid Growing Concerns<a href="https://www.bankinfosecurity.com/openai-combats-election-misinformation-amid-growing-concerns-a-24120?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenAI is taking steps to prevent the use of ChatGPT in spreading election misinformation, including restricting its use for political campaigning and lobbying, and creating tools to empower voters to assess the authenticity of images.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 December 05, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

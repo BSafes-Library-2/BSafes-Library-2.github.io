@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2024
+January 18, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Extortion Bot Targets Publicly Exposed PostgreSQL and MySQL Databases<a href="https://www.theregister.com/2024/01/17/extortion_bot_is_autopwning_postgresql/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2024
+January 18, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Docker Malware Steals CPU for Crypto & Drives Fake Website Traffic<a href="https://thehackernews.com/2024/01/new-docker-malware-steals-cpu-for.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2024
+January 18, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TA866 Returns with a Large Email Campaign<a href="https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta866-returns-large-email-campaign?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2024
+January 18, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian COLDRIVER Hackers Expand Beyond Phishing with Custom Malware<a href="https://thehackernews.com/2024/01/russian-coldriver-hackers-expand-beyond.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2024
+January 18, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Exploiting 9Hits, Turns Docker Servers into Crypto Miners<a href="https://www.hackread.com/docker-servers-malware-traffic-boosted-cryptominers/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2024
+January 18, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TensorFlow CI/CD Flaw Exposed Supply Chain to Poisoning Attacks<a href="https://thehackernews.com/2024/01/tensorflow-cicd-flaw-exposed-supply.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2024
+January 18, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple, AMD, Qualcomm, Imagination GPUs Open to Data Theft Using New LeftoverLocals Vulnerability<a href="https://www.theregister.com/2024/01/17/leftoverlocals_gpu_flaw/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2024
+January 18, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MFA Spamming and Fatigue: When Security Measures Go Wrong<a href="https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2024
+January 18, 2024 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenAI Combats Election Misinformation Amid Growing Concerns<a href="https://www.bankinfosecurity.com/openai-combats-election-misinformation-amid-growing-concerns-a-24120?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2024
+January 18, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PixieFail UEFI Flaws Expose Millions of Computers to RCE, DoS, and Data Theft<a href="https://thehackernews.com/2024/01/pixiefail-uefi-flaws-expose-millions-of.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2024
+January 18, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Russia Group Hit Swiss Government Sites After Zelensky Visit in Davos<a href="https://securityaffairs.com/157651/hacking/pro-russia-noname-hit-switzerland.html?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2024
+January 18, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Masquerade as Journalists to Spy on Israel-Hamas War Experts<a href="https://thehackernews.com/2024/01/iranian-hackers-masquerades-as.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2024
+January 18, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 As Hacks Worsen, SEC Turns up the Heat on CISOs<a href="https://techcrunch.com/2024/01/17/security-leadership-ciso-heat-risk/?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 18, 2024
+January 18, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Taiwanese Semiconductor Company Foxsemicon Suffers Ransomware Attack<a href="https://therecord.media/foxsemicon-ransomware-attack-taiwan?&web_view=true"> Full Text</a>

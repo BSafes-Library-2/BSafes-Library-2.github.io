@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Webinar: The Art of Privilege Escalation - How Hackers Become Admins<a href="https://thehackernews.com/2024/01/webinar-art-of-privilege-escalation-how.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the digital age, the battleground for security professionals is not only evolving, it's expanding at an alarming rate. The upcoming webinar, " The Art of Privilege Escalation - How Hackers Become Admins ," offers an unmissable opportunity for IT security experts to stay ahead in this relentless cyber war. Privilege escalation - the term might sound benign, but in the hands of a skilled hacker, it's a devastating tactic. It's a method where cyber attackers, starting as standard users, clandestinely climb the ladder of access, eventually gaining root-level control. This isn't just a breach; it's a systematic takeover of your entire network. Picture a scenario where cybercriminals roam freely through your network, turning your layers of defense into mere spectators. It's a chilling thought, but it's a reality faced by organizations across the globe. What if you could anticipate and counter these threats? Expertly delivered by Joseph Carson , Ch
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

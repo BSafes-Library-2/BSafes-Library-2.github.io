@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+January 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Extortion Bot Targets Publicly Exposed PostgreSQL and MySQL Databases<a href="https://www.theregister.com/2024/01/17/extortion_bot_is_autopwning_postgresql/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bot gains access to the databases, deletes all tables and databases, and leaves a ransom note demanding payment for data recovery. However, the bot only saves a small portion of the data, even if the ransom is paid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
