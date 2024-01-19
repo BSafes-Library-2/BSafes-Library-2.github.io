@@ -34,7 +34,231 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2024
+January 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Extortion Bot Targets Publicly Exposed PostgreSQL and MySQL Databases<a href="https://www.theregister.com/2024/01/17/extortion_bot_is_autopwning_postgresql/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The bot gains access to the databases, deletes all tables and databases, and leaves a ransom note demanding payment for data recovery. However, the bot only saves a small portion of the data, even if the ransom is paid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Docker Malware Steals CPU for Crypto & Drives Fake Website Traffic<a href="https://thehackernews.com/2024/01/new-docker-malware-steals-cpu-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vulnerable Docker services are being targeted by a novel campaign in which the threat actors are deploying XMRig cryptocurrency miner as well as the 9Hits Viewer software as part of a multi-pronged monetization strategy. "This is the first documented case of malware deploying the 9Hits application as a payload," cloud security firm Cado said , adding the development is a sign that adversaries are always on the lookout for diversifying their strategies to make money off compromised hosts. 9Hits advertises itself as a "unique web traffic solution" and an "automatic traffic exchange" that allows members of the service to drive traffic to their sites in exchange for purchasing credits. This is accomplished by means of a software called 9Hits Viewer, which runs a headless Chrome browser instance to visit websites requested by other members, for which they earn credits to pay for generating traffic to their sites. The exact method used to spread the malwa
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA866 Returns with a Large Email Campaign<a href="https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta866-returns-large-email-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new campaign by TA866 involved a large volume of emails with attached PDFs containing OneDrive URLs that initiated a multi-step infection chain leading to malware payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian COLDRIVER Hackers Expand Beyond Phishing with Custom Malware<a href="https://thehackernews.com/2024/01/russian-coldriver-hackers-expand-beyond.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked threat actor known as COLDRIVER has been observed evolving its tradecraft to go beyond credential harvesting to deliver its first-ever custom malware written in the Rust programming language. Google's Threat Analysis Group (TAG), which shared details of the latest activity, said the attack chains leverage PDFs as decoy documents to trigger the infection sequence. The lures are sent from impersonation accounts. COLDRIVER, also known by the names Blue Callisto, BlueCharlie (or TAG-53), Calisto (alternately spelled Callisto), Gossamer Bear, Star Blizzard (formerly SEABORGIUM), TA446, and UNC4057, is known to be active since 2019, targeting a wide range of sectors. This includes academia, defense, governmental organizations, NGOs, think tanks, political outfits, and, recently, defense-industrial targets and energy facilities. "Targets in the U.K. and U.S. appear to have been most affected by Star Blizzard activity, however activity has also been observe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Exploiting 9Hits, Turns Docker Servers into Crypto Miners<a href="https://www.hackread.com/docker-servers-malware-traffic-boosted-cryptominers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are using off-the-shelf images from Dockerhub to spread malware, with the 9Hits app visiting various websites and the XMRig miner disabled from visiting crypto-related sites to prevent analysis.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TensorFlow CI/CD Flaw Exposed Supply Chain to Poisoning Attacks<a href="https://thehackernews.com/2024/01/tensorflow-cicd-flaw-exposed-supply.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Continuous integration and continuous delivery (CI/CD) misconfigurations discovered in the open-source  TensorFlow  machine learning framework could have been exploited to orchestrate  supply chain attacks . The misconfigurations could be abused by an attacker to "conduct a supply chain compromise of TensorFlow releases on GitHub and PyPi by compromising TensorFlow's build agents via a malicious pull request," Praetorian researchers Adnan Khan and John Stawinski  said  in a report published this week. Successful exploitation of these issues could permit an external attacker to upload malicious releases to the GitHub repository, gain remote code execution on the self-hosted GitHub runner, and even retrieve a GitHub Personal Access Token (PAT) for the  tensorflow-jenkins user . TensorFlow uses GitHub Actions to automate the software build, test, and deployment pipeline. Runners, which refer to machines that execute jobs in a GitHub Actions workflow, can be either self-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple, AMD, Qualcomm, Imagination GPUs Open to Data Theft Using New LeftoverLocals Vulnerability<a href="https://www.theregister.com/2024/01/17/leftoverlocals_gpu_flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability affects various GPU products, with AMD and Apple planning mitigations, and Imagination and Qualcomm issuing fixes. Nvidia and Arm are reportedly unaffected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MFA Spamming and Fatigue: When Security Measures Go Wrong<a href="https://thehackernews.com/2024/01/mfa-spamming-and-fatigue-when-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital landscape, traditional password-only authentication systems have proven to be vulnerable to a wide range of cyberattacks. To safeguard critical business resources, organizations are increasingly turning to multi-factor authentication (MFA) as a more robust security measure. MFA requires users to provide multiple authentication factors to verify their identity, providing an additional layer of protection against unauthorized access. However, cybercriminals are relentless in their pursuit of finding ways to  bypass MFA systems . One such method gaining traction is MFA spamming attacks, also known as MFA fatigue, or  MFA bombing . This article delves into MFA spamming attacks, including the best practices to mitigate this growing threat. What is MFA spamming? MFA spamming refers to the malicious act of inundating a target user's email, phone, or other registered devices with numerous MFA prompts or confirmation codes. The objective behind this tactic is to o
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenAI Combats Election Misinformation Amid Growing Concerns<a href="https://www.bankinfosecurity.com/openai-combats-election-misinformation-amid-growing-concerns-a-24120?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OpenAI is taking steps to prevent the use of ChatGPT in spreading election misinformation, including restricting its use for political campaigning and lobbying, and creating tools to empower voters to assess the authenticity of images.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PixieFail UEFI Flaws Expose Millions of Computers to RCE, DoS, and Data Theft<a href="https://thehackernews.com/2024/01/pixiefail-uefi-flaws-expose-millions-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in the TCP/IP network protocol stack of an open-source reference implementation of the Unified Extensible Firmware Interface ( UEFI ) specification used widely in modern computers. Collectively dubbed  PixieFail  by Quarkslab, the  nine issues  reside in the TianoCore EFI Development Kit II ( EDK II ) and could be exploited to achieve remote code execution, denial-of-service (DoS), DNS cache poisoning, and leakage of sensitive information. UEFI firmware – which is responsible for  booting the operating system  – from AMI, Intel, Insyde, and Phoenix Technologies are impacted by the shortcomings. EDK II incorporates its own TCP/IP stack called  NetworkPkg  to enable network functionalities available during the initial Preboot eXecution Environment ( PXE , pronounced "pixie") stage, which allows for management tasks in the absence of a running operating system. In other words, it is a client-server interface to  boot a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Russia Group Hit Swiss Government Sites After Zelensky Visit in Davos<a href="https://securityaffairs.com/157651/hacking/pro-russia-noname-hit-switzerland.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Switzerland's National Cyber Security Centre promptly detected and responded to the DDoS attacks, restoring access to the targeted websites, including the Davos-Klosters ski resort and Swiss Ministry of the Interior.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Masquerade as Journalists to Spy on Israel-Hamas War Experts<a href="https://thehackernews.com/2024/01/iranian-hackers-masquerades-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-profile individuals working on Middle Eastern affairs at universities and research organizations in Belgium, France, Gaza, Israel, the U.K., and the U.S. have been targeted by an Iranian cyber espionage group called  Mint Sandstorm  since November 2023. The threat actor "used bespoke phishing lures in an attempt to socially engineer targets into downloading malicious files," the Microsoft Threat Intelligence team  said  in a Wednesday analysis, describing it as a "technically and operationally mature subgroup of Mint Sandstorm." The attacks, in select cases, involve the use of a previously undocumented backdoor dubbed MediaPl, indicating ongoing endeavors by Iranian threat actors to refine their post-intrusion tradecraft. Mint Sandstorm, also known as APT35, Charming Kitten, TA453, and Yellow Garuda, is  known  for its  adept social engineering campaigns , even resorting to legitimate but compromised accounts to send bespoke phishing emails to prospective
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Hacks Worsen, SEC Turns up the Heat on CISOs<a href="https://techcrunch.com/2024/01/17/security-leadership-ciso-heat-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybersecurity industry is facing increasing legal oversight and consequences, making it riskier to work in this field. Companies are now required to disclose "material" security incidents within four working days to the SEC.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taiwanese Semiconductor Company Foxsemicon Suffers Ransomware Attack<a href="https://therecord.media/foxsemicon-ransomware-attack-taiwan?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Foxsemicon, a major semiconductor manufacturer in Taiwan, was targeted by the LockBit ransomware gang, who threatened to leak customers' personal data if a ransom was not paid.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities Discovered in Android-based POS Terminals From PAX Technology<a href="https://blog.stmcyber.com/pax-pos-cves-2023/?&web_view=true"> Full Text</a>
@@ -50,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2024
+January 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PAX PoS Terminal Flaw Could Allow Attackers to Tamper with Transactions<a href="https://thehackernews.com/2024/01/pax-pos-terminal-flaw-could-allow.html"> Full Text</a>
@@ -66,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2024
+January 17, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Detained Russian Student Allegedly Helped Ukrainian Hackers With Cyberattacks<a href="https://therecord.media/detained-russian-hacked-for-ukrainian?&web_view=true"> Full Text</a>
@@ -82,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2024
+January 17, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Combating IP Leaks into AI Applications with Free Discovery and Risk Reduction Automation<a href="https://thehackernews.com/2024/01/combating-ip-leaks-into-ai-applications.html"> Full Text</a>
@@ -98,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2024
+January 17, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Startup Vicarius Raises $30 Million Series B for Vulnerability Remediation Platform<a href="https://www.calcalistech.com/ctechnews/article/skhninsk6?&web_view=true"> Full Text</a>
@@ -114,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2024
+January 17, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Warn of AndroxGh0st Botnet Targeting AWS, Azure, and Office 365 Credentials<a href="https://thehackernews.com/2024/01/feds-warn-of-androxgh0st-botnet.html"> Full Text</a>
@@ -130,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2024
+January 17, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cheap .cloud Domains and Shark Tank Impersonation Fuels Unhealthy Scams<a href="https://www.theregister.com/2024/01/17/netcraft_health_scams_analysis/?&web_view=true"> Full Text</a>
@@ -146,7 +370,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2024
+January 17, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Webinar: The Art of Privilege Escalation - How Hackers Become Admins<a href="https://thehackernews.com/2024/01/webinar-art-of-privilege-escalation-how.html"> Full Text</a>
@@ -162,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2024
+January 17, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Progress Software’s MOVEit Meltdown: Uncovering the Fallout<a href="https://www.cybersecuritydive.com/news/progress-software-moveit-meltdown/703659/?&web_view=true"> Full Text</a>
@@ -178,7 +402,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2024
+January 17, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New iShutdown Method Exposes Hidden Spyware Like Pegasus on Your iPhone<a href="https://thehackernews.com/2024/01/new-ishutdown-method-exposes-hidden.html"> Full Text</a>
@@ -194,7 +418,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2024
+January 17, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Snyk Acquires Helios for Runtime Visibility<a href="https://www.darkreading.com/application-security/snyk-acquires-helios-for-runtime-visibility?&web_view=true"> Full Text</a>
@@ -210,7 +434,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2024
+January 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Rotates Keys After High-Severity Vulnerability Exposes Credentials<a href="https://thehackernews.com/2024/01/github-rotates-keys-after-high-severity.html"> Full Text</a>
@@ -226,7 +450,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2024
+January 17, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto Trading Firm Closes Shop After $8 Million NY State Fine Over Security Issues<a href="https://therecord.media/crypto-genesis-firm-closes-fine?&web_view=true"> Full Text</a>
@@ -242,7 +466,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2024
+January 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Citrix Warns Admins to Immediately Patch NetScaler for Actively Exploited Zero-Days<a href="https://securityaffairs.com/157611/hacking/citrix-netscaler-zero-days.html?&web_view=true"> Full Text</a>
@@ -258,7 +482,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 17, 2024
+January 17, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Adalanche: Open-Source Active Directory ACL Visualizer, Explorer<a href="https://www.helpnetsecurity.com/2024/01/15/adalanche-open-source-active-directory-acl-visualizer-explorer/?&web_view=true"> Full Text</a>
