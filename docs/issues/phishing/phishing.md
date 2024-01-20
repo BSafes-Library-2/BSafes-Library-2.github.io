@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Invoice Phishing Alert: TA866 Deploys WasabiSeed &amp; Screenshotter Malware<a href="https://thehackernews.com/2024/01/invoice-phishing-alert-ta866-deploys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor tracked as&nbsp; TA866 &nbsp;has resurfaced after a nine-month hiatus with a new large-volume phishing campaign to deliver known malware families such as WasabiSeed and Screenshotter. The campaign, observed earlier this month and blocked by Proofpoint on January 11, 2024, involved sending thousands of invoice-themed emails targeting North America bearing decoy PDF files. "The PDFs contained OneDrive URLs that, if clicked, initiated a multi-step infection chain eventually leading to the malware payload, a variant of the WasabiSeed and Screenshotter custom toolset," the enterprise security firm&nbsp; said . TA866 was&nbsp; first documented &nbsp;by the company in February 2023, attributing it to a campaign named Screentime that distributed WasabiSeed, a Visual Basic script dropper that's used to download Screenshotter, which is capable of taking screenshots of the victim's desktop at regular intervals of time and exfiltrating that data to an actor-controlled domain. There
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

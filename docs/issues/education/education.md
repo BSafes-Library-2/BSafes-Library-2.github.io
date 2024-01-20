@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Preventing Data Loss: Backup and Recovery Strategies for Exchange Server Administrators<a href="https://thehackernews.com/2024/01/preventing-data-loss-backup-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the current digital landscape, data has emerged as a crucial asset for organizations, akin to currency. It's the lifeblood of any organization in today's interconnected and digital world. Thus, safeguarding the data is of paramount importance. Its importance is magnified in on-premises Exchange Server environments where vital business communication and emails are stored and managed.&nbsp; In this article, you will learn about the evolving threats of data loss, the shift in responsibilities of administrators, and key backup and recovery strategies for preventing data loss in the Exchange Server environment. Data Loss Scenarios in Exchange Servers Data loss in on-premises Exchange Server environment has become increasingly common. Cybersecurity threats, like ransomware attacks, have emerged as a significant cause of data loss in recent years, with many financially motivated threat actors increasingly targeting the vulnerabilities in Exchange Servers. These attackers try to exploit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

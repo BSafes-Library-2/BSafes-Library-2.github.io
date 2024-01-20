@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+January 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's Top Execs' Emails Breached in Sophisticated Russia-Linked APT Attack<a href="https://thehackernews.com/2024/01/microsofts-top-execs-emails-breached-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday revealed that it was the target of a nation-state attack on its corporate systems that resulted in the theft of emails and attachments from senior executives and other individuals in the company's cybersecurity and legal departments. The Windows maker attributed the attack to a Russian advanced persistent threat (APT) group it tracks as&nbsp; Midnight Blizzard &nbsp;(formerly Nobelium), which is also known as APT29, BlueBravo, Cloaked Ursa, Cozy Bear, and The Dukes. It further said that it immediately took steps to investigate, disrupt, and mitigate the malicious activity upon discovery on January 12, 2024. The campaign is estimated to have commenced in late November 2023. "The threat actor used a&nbsp; password spray attack &nbsp;to compromise a legacy non-production test tenant account and gain a foothold, and then used the account's permissions to access a very small percentage of Microsoft corporate email accounts, including members of our senior leadership team a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Vans, Supreme Owner VF Corp Says Hackers Stole 35 Million Customers’ Personal Data<a href="https://techcrunch.com/2024/01/18/vf-corporation-vans-supreme-owner-data-breach-millions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The clothing company has not specified the type of data stolen but assured that Social Security numbers, bank account information, and payment card details were not retained.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

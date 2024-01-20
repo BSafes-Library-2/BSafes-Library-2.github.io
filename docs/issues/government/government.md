@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Emergency Directive to Federal Agencies on Ivanti Zero-Day Exploits<a href="https://thehackernews.com/2024/01/cisa-issues-emergency-directive-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday issued an&nbsp; emergency directive &nbsp;urging Federal Civilian Executive Branch (FCEB) agencies to implement mitigations against two actively exploited zero-day flaws in Ivanti Connect Secure (ICS) and Ivanti Policy Secure (IPS) products. The development came after the&nbsp; vulnerabilities &nbsp;– an authentication bypass (CVE-2023-46805) and a code injection bug (CVE-2024-21887) – came under widespread exploitation of vulnerabilities by multiple threat actors. The flaws allow a malicious actor to craft malicious requests and execute arbitrary commands on the system. The U.S. company&nbsp; acknowledged &nbsp;in an advisory that it has witnessed a "sharp increase in threat actor activity" starting on January 11, 2024, after the shortcomings were publicly disclosed. "Successful exploitation of the vulnerabilities in these affected products allows a malicious threat actor to move laterally, perform data exfiltration, and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ED 24-01: Mitigate Ivanti Connect Secure and Ivanti Policy Secure Vulnerabilities <a href="https://www.cisa.gov/news-events/directives/ed-24-01-mitigate-ivanti-connect-secure-and-ivanti-policy-secure-vulnerabilities"> Full Text</a>
+</p>
+<details>
+CISA has observed widespread and active exploitation of vulnerabilities in Ivanti Connect Secure and Ivanti Policy Secure solutions, hereafter referred to as “affected products.” Successful exploitation of the vulnerabilities in these affected products allows a malicious threat actor to move laterally, perform data exfiltration, and establish persistent system access, resulting in full compromise of target information systems.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 16, 2024 - CISA, FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

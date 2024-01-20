@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA866 Returns with a Large Email Campaign<a href="https://www.proofpoint.com/us/blog/threat-insight/security-brief-ta866-returns-large-email-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new campaign by TA866 involved a large volume of emails with attached PDFs containing OneDrive URLs that initiated a multi-step infection chain leading to malware payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian COLDRIVER Hackers Expand Beyond Phishing with Custom Malware<a href="https://thehackernews.com/2024/01/russian-coldriver-hackers-expand-beyond.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russia-linked threat actor known as COLDRIVER has been observed evolving its tradecraft to go beyond credential harvesting to deliver its first-ever custom malware written in the Rust programming language. Google's Threat Analysis Group (TAG), which shared details of the latest activity, said the attack chains leverage PDFs as decoy documents to trigger the infection sequence. The lures are sent from impersonation accounts. COLDRIVER, also known by the names Blue Callisto, BlueCharlie (or TAG-53), Calisto (alternately spelled Callisto), Gossamer Bear, Star Blizzard (formerly SEABORGIUM), TA446, and UNC4057, is known to be active since 2019, targeting a wide range of sectors. This includes academia, defense, governmental organizations, NGOs, think tanks, political outfits, and, recently, defense-industrial targets and energy facilities. "Targets in the U.K. and U.S. appear to have been most affected by Star Blizzard activity, however activity has also been observe
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Masquerade as Journalists to Spy on Israel-Hamas War Experts<a href="https://thehackernews.com/2024/01/iranian-hackers-masquerades-as.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-profile individuals working on Middle Eastern affairs at universities and research organizations in Belgium, France, Gaza, Israel, the U.K., and the U.S. have been targeted by an Iranian cyber espionage group called&nbsp; Mint Sandstorm &nbsp;since November 2023. The threat actor "used bespoke phishing lures in an attempt to socially engineer targets into downloading malicious files," the Microsoft Threat Intelligence team&nbsp; said &nbsp;in a Wednesday analysis, describing it as a "technically and operationally mature subgroup of Mint Sandstorm." The attacks, in select cases, involve the use of a previously undocumented backdoor dubbed MediaPl, indicating ongoing endeavors by Iranian threat actors to refine their post-intrusion tradecraft. Mint Sandstorm, also known as APT35, Charming Kitten, TA453, and Yellow Garuda, is&nbsp; known &nbsp;for its&nbsp; adept social engineering campaigns , even resorting to legitimate but compromised accounts to send bespoke phishing emails to prospective
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
