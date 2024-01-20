@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT UNC3886 Exploits VMware Zero-Day Since 2021<a href="https://securityaffairs.com/157769/apt/unc3886-exploits-vcenter-server-zero-day-cve-2023-34048.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant researchers observed UNC3886 exploiting a VMware ESXi zero-day vulnerability in June 2023, using novel malware persistence techniques to achieve administrative access within VMware ESXi Hypervisors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Emergency Directive to Federal Agencies on Ivanti Zero-Day Exploits<a href="https://thehackernews.com/2024/01/cisa-issues-emergency-directive-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday issued an  emergency directive  urging Federal Civilian Executive Branch (FCEB) agencies to implement mitigations against two actively exploited zero-day flaws in Ivanti Connect Secure (ICS) and Ivanti Policy Secure (IPS) products. The development came after the  vulnerabilities  – an authentication bypass (CVE-2023-46805) and a code injection bug (CVE-2024-21887) – came under widespread exploitation of vulnerabilities by multiple threat actors. The flaws allow a malicious actor to craft malicious requests and execute arbitrary commands on the system. The U.S. company  acknowledged  in an advisory that it has witnessed a "sharp increase in threat actor activity" starting on January 11, 2024, after the shortcomings were publicly disclosed. "Successful exploitation of the vulnerabilities in these affected products allows a malicious threat actor to move laterally, perform data exfiltration, and
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's Top Execs' Emails Breached in Sophisticated Russia-Linked APT Attack<a href="https://thehackernews.com/2024/01/microsofts-top-execs-emails-breached-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Friday revealed that it was the target of a nation-state attack on its corporate systems that resulted in the theft of emails and attachments from senior executives and other individuals in the company's cybersecurity and legal departments. The Windows maker attributed the attack to a Russian advanced persistent threat (APT) group it tracks as  Midnight Blizzard  (formerly Nobelium), which is also known as APT29, BlueBravo, Cloaked Ursa, Cozy Bear, and The Dukes. It further said that it immediately took steps to investigate, disrupt, and mitigate the malicious activity upon discovery on January 12, 2024. The campaign is estimated to have commenced in late November 2023. "The threat actor used a  password spray attack  to compromise a legacy non-production test tenant account and gain a foothold, and then used the account's permissions to access a very small percentage of Microsoft corporate email accounts, including members of our senior leadership team a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Invoice Phishing Alert: TA866 Deploys WasabiSeed & Screenshotter Malware<a href="https://thehackernews.com/2024/01/invoice-phishing-alert-ta866-deploys.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor tracked as  TA866  has resurfaced after a nine-month hiatus with a new large-volume phishing campaign to deliver known malware families such as WasabiSeed and Screenshotter. The campaign, observed earlier this month and blocked by Proofpoint on January 11, 2024, involved sending thousands of invoice-themed emails targeting North America bearing decoy PDF files. "The PDFs contained OneDrive URLs that, if clicked, initiated a multi-step infection chain eventually leading to the malware payload, a variant of the WasabiSeed and Screenshotter custom toolset," the enterprise security firm  said . TA866 was  first documented  by the company in February 2023, attributing it to a campaign named Screentime that distributed WasabiSeed, a Visual Basic script dropper that's used to download Screenshotter, which is capable of taking screenshots of the victim's desktop at regular intervals of time and exfiltrating that data to an actor-controlled domain. There
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: LoanDepot Outage Drags Into Second Week After Ransomware Attack<a href="https://techcrunch.com/2024/01/19/loandepot-outage-drags-into-second-week-after-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mortgage and loan company LoanDepot experienced a suspected ransomware attack, leading to difficulties for customers in making mortgage payments and accessing their online accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PolyCrypt Runtime Crypter Being Sold on Cybercrime Forums<a href="https://www.blackfog.com/polycrypt-runtime-crypter/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The underground market for crypters, exemplified by PolyCrypt, facilitates the sale and use of these tools for malicious purposes, highlighting the ongoing challenge of cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Vans, Supreme Owner VF Corp Says Hackers Stole 35 Million Customers’ Personal Data<a href="https://techcrunch.com/2024/01/18/vf-corporation-vans-supreme-owner-data-breach-millions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The clothing company has not specified the type of data stolen but assured that Social Security numbers, bank account information, and payment card details were not retained.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of macOS Backdoor Hidden in Pirated Versions of Popular Software<a href="https://thehackernews.com/2024/01/experts-warn-of-macos-backdoor-hidden.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pirated applications targeting Apple macOS users have been observed containing a backdoor capable of granting attackers remote control to infected machines. "These applications are being hosted on Chinese pirating websites in order to gain victims," Jamf Threat Labs researchers Ferdous Saljooki and Jaron Bradley  said . "Once detonated, the malware will download and execute multiple payloads in the background in order to secretly compromise the victim's machine." The backdoored disk image (DMG) files, which have been modified to establish communications with actor-controlled infrastructure, include legitimate software like Navicat Premium, UltraEdit, FinalShell, SecureCRT, and Microsoft Remote Desktop. The unsigned applications, besides being hosted on a Chinese website named macyy[.]cn, incorporate a dropper component called "dylib" that's executed every time the application is opened. The dropper then acts as a conduit to fetch a backdoor
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Preventing Data Loss: Backup and Recovery Strategies for Exchange Server Administrators<a href="https://thehackernews.com/2024/01/preventing-data-loss-backup-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the current digital landscape, data has emerged as a crucial asset for organizations, akin to currency. It's the lifeblood of any organization in today's interconnected and digital world. Thus, safeguarding the data is of paramount importance. Its importance is magnified in on-premises Exchange Server environments where vital business communication and emails are stored and managed.  In this article, you will learn about the evolving threats of data loss, the shift in responsibilities of administrators, and key backup and recovery strategies for preventing data loss in the Exchange Server environment. Data Loss Scenarios in Exchange Servers Data loss in on-premises Exchange Server environment has become increasingly common. Cybersecurity threats, like ransomware attacks, have emerged as a significant cause of data loss in recent years, with many financially motivated threat actors increasingly targeting the vulnerabilities in Exchange Servers. These attackers try to exploit
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Npm Trojan Bypasses UAC, Installs AnyDesk with "Oscompatible" Package<a href="https://thehackernews.com/2024/01/npm-trojan-bypasses-uac-installs.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious package uploaded to the npm registry has been found deploying a sophisticated remote access trojan on compromised Windows machines. The package, named " oscompatible ," was published on January 9, 2024, attracting a total of 380 downloads before it was taken down. oscompatible included a "few strange binaries," according to software supply chain security firm Phylum, including a single executable file, a dynamic-link library (DLL) and an encrypted DAT file, alongside a JavaScript file. This JavaScript file ("index.js") executes an "autorun.bat" batch script but only after running a compatibility check to determine if the target machine runs on Microsoft Windows. If the platform is not Windows, it displays an error message to the user, stating the script is running on Linux or an unrecognized operating system, urging them to run it on "Windows Server OS." The batch script, for its part, verifies if it has admin privil
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 18, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
