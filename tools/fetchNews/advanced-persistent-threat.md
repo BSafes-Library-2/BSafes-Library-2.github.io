@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT UNC3886 Exploits VMware Zero-Day Since 2021<a href="https://securityaffairs.com/157769/apt/unc3886-exploits-vcenter-server-zero-day-cve-2023-34048.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mandiant researchers observed UNC3886 exploiting a VMware ESXi zero-day vulnerability in June 2023, using novel malware persistence techniques to achieve administrative access within VMware ESXi Hypervisors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

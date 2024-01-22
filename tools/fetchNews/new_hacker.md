@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Silently Weaponized VMware Zero-Day Flaw for 2 Years<a href="https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced China-nexus cyber espionage group previously linked to the exploitation of security flaws in VMware and Fortinet appliances has been attributed to the abuse of a critical vulnerability in VMware vCenter Server as a zero-day since late 2021. "UNC3886 has a track record of utilizing zero-day vulnerabilities to complete their mission without being detected, and this latest example further demonstrates their capabilities," Google-owned Mandiant said in a Friday report. The vulnerability in question is CVE-2023-34048 (CVSS score: 9.8), an out-of-bounds write that could be put to use by a malicious actor with network access to vCenter Server to achieve remote code execution. It was fixed by the Broadcom-owned company on October 24, 2023. The virtualization services provider, earlier this week, updated its advisory to acknowledge that "exploitation of CVE-2023-34048 has occurred in the wild." UNC3886 first came to light in September 2022 when it was
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

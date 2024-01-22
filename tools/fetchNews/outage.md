@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+January 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: LoanDepot Outage Drags Into Second Week After Ransomware Attack<a href="https://techcrunch.com/2024/01/19/loandepot-outage-drags-into-second-week-after-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The mortgage and loan company LoanDepot experienced a suspected ransomware attack, leading to difficulties for customers in making mortgage payments and accessing their online accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
