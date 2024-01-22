@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 January 20, 2024
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Silently Weaponized VMware Zero-Day Flaw for 2 Years<a href="https://thehackernews.com/2024/01/chinese-hackers-silently-weaponized.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced China-nexus cyber espionage group previously linked to the exploitation of security flaws in VMware and Fortinet appliances has been attributed to the abuse of a critical vulnerability in VMware vCenter Server as a zero-day since late 2021. "UNC3886 has a track record of utilizing zero-day vulnerabilities to complete their mission without being detected, and this latest example further demonstrates their capabilities," Google-owned Mandiant said in a Friday report. The vulnerability in question is CVE-2023-34048 (CVSS score: 9.8), an out-of-bounds write that could be put to use by a malicious actor with network access to vCenter Server to achieve remote code execution. It was fixed by the Broadcom-owned company on October 24, 2023. The virtualization services provider, earlier this week, updated its advisory to acknowledge that "exploitation of CVE-2023-34048 has occurred in the wild." UNC3886 first came to light in September 2022 when it was
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 20, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT UNC3886 Exploits VMware Zero-Day Since 2021<a href="https://securityaffairs.com/157769/apt/unc3886-exploits-vcenter-server-zero-day-cve-2023-34048.html?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -50,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2024
+January 20, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Issues Emergency Directive to Federal Agencies on Ivanti Zero-Day Exploits<a href="https://thehackernews.com/2024/01/cisa-issues-emergency-directive-to.html"> Full Text</a>
@@ -66,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2024
+January 20, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's Top Execs' Emails Breached in Sophisticated Russia-Linked APT Attack<a href="https://thehackernews.com/2024/01/microsofts-top-execs-emails-breached-in.html"> Full Text</a>
@@ -82,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 20, 2024
+January 20, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Invoice Phishing Alert: TA866 Deploys WasabiSeed & Screenshotter Malware<a href="https://thehackernews.com/2024/01/invoice-phishing-alert-ta866-deploys.html"> Full Text</a>
@@ -98,7 +114,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2024
+January 19, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: LoanDepot Outage Drags Into Second Week After Ransomware Attack<a href="https://techcrunch.com/2024/01/19/loandepot-outage-drags-into-second-week-after-ransomware-attack/?&web_view=true"> Full Text</a>
@@ -114,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2024
+January 19, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PolyCrypt Runtime Crypter Being Sold on Cybercrime Forums<a href="https://www.blackfog.com/polycrypt-runtime-crypter/?&web_view=true"> Full Text</a>
@@ -130,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2024
+January 19, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Vans, Supreme Owner VF Corp Says Hackers Stole 35 Million Customers’ Personal Data<a href="https://techcrunch.com/2024/01/18/vf-corporation-vans-supreme-owner-data-breach-millions/?&web_view=true"> Full Text</a>
@@ -146,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2024
+January 19, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Warn of macOS Backdoor Hidden in Pirated Versions of Popular Software<a href="https://thehackernews.com/2024/01/experts-warn-of-macos-backdoor-hidden.html"> Full Text</a>
@@ -162,7 +178,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2024
+January 19, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Preventing Data Loss: Backup and Recovery Strategies for Exchange Server Administrators<a href="https://thehackernews.com/2024/01/preventing-data-loss-backup-and.html"> Full Text</a>
@@ -178,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 19, 2024
+January 19, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Npm Trojan Bypasses UAC, Installs AnyDesk with "Oscompatible" Package<a href="https://thehackernews.com/2024/01/npm-trojan-bypasses-uac-installs.html"> Full Text</a>
