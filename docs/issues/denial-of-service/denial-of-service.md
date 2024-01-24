@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+January 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Megabits to Terabits: Gcore Radar Warns of a New Era of DDoS Attacks<a href="https://thehackernews.com/2024/01/from-megabits-to-terabits-gcore-radar.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As we enter 2024, Gcore has released its latest Gcore Radar report, a twice-annual publication in which the company releases internal analytics to track DDoS attacks. Gcore's broad, internationally distributed network of scrubbing centers allows them to follow attack trends over time. Read on to learn about DDoS attack trends for Q3–Q4 of 2023, and what they mean for developing a robust protection strategy in 2024. Gcore's Key Findings DDoS attack trends for the second half of 2023 reveal alarming developments in the scale and sophistication of cyberthreats. Unprecedented Attack Power The past three years have brought about a &gt;100% annual increase in DDoS peak (registered maximum) attack volume: In 2021, the peak capacity of DDoS attacks was&nbsp; 300 Gbps In 2022, it increased to&nbsp; 650 Gbps In Q1–Q2 of 2023, it increased again to&nbsp; 800 Gbps In Q3–Q4 of 2023, it surged to&nbsp; 1600 Gbps &nbsp;(1.6 Tbps) Notably, the jump in H2 of 2023 means the cybersecurity industry is measuring DDoS a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

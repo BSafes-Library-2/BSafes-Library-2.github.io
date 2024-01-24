@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Historic Data Leak Reveals 26 Billion Records From Tencent, Weibo, Twitter, Adobe, and Others<a href="https://securityaffairs.com/157933/breaking-news/largest-data-leak-ever.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked information spans across various companies, organizations, and government agencies globally. The potential impact on consumers is significant, as the leaked data could be used for credential-stuffing attacks and spear-phishing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

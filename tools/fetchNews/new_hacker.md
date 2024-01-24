@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+January 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean ScarCruft Attackers Gear Up to Target Cybersecurity Professionals<a href="https://www.darkreading.com/threat-intelligence/north-koreasc-arcruft-attackers-target-cybersecurity-pros?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group is testing innovative infection routines that use technical threat research on another North Korean APT group, Kimsuky, as a lure, indicating a new approach to their cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

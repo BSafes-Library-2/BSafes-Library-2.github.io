@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BreachForums Founder Sentenced to 20 Years of Supervised Release, No Jail Time<a href="https://thehackernews.com/2024/01/breachforums-founder-sentenced-to-20.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Conor Brian Fitzpatrick has been sentenced to time served and 20 years of supervised release for his role as the creator and administrator of BreachForums. Fitzpatrick, who went by the online alias "pompompurin," was arrested in March 2023 in New York and was subsequently charged with conspiracy to commit access device fraud and possession of child pornography. He was later released on a $300,000 bond, and in July 2023, he pleaded guilty to the charges. BreachForums was a major cyber crime marketplace that facilitated the trafficking of stolen data since March 2022. Prior to its shutdown exactly a year later, the website boasted of over 340,000 members. Among the stolen items commonly sold on the platform were bank account information, Social Security numbers, personally identifying information (PII), hacking tools, breached databases, and account login information for compromised online accounts with service providers and merchants. BreachForums also advertised servic
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+January 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Gang Claims the Hack of the UK Water Utility Southern Water<a href="https://securityaffairs.com/157951/cyber-crime/black-basta-gang-claims-the-hack-of-the-uk-water-utility-southern-water.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta ransomware gang targeted the UK water utility Southern Water, threatening to leak 750 gigabytes of stolen sensitive data, including personal and corporate documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

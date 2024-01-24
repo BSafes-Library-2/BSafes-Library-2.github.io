@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta Gang Claims the Hack of the UK Water Utility Southern Water<a href="https://securityaffairs.com/157951/cyber-crime/black-basta-gang-claims-the-hack-of-the-uk-water-utility-southern-water.html?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VexTrio: The Uber of Cybercrime - Brokering Malware for 60+ Affiliates<a href="https://thehackernews.com/2024/01/vextrio-uber-of-cybercrime-brokering.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Slug Ransomware Attacked AerCap, Claims to Have Stolen 1TB Data<a href="https://www.theregister.com/2024/01/22/ransomware_aercap_loandepot/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious NPM Packages Exfiltrate Hundreds of Developer SSH Keys via GitHub<a href="https://thehackernews.com/2024/01/malicious-npm-packages-exfiltrate-1600.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Assessment of BianLian Ransomware<a href="https://unit42.paloaltonetworks.com/bianlian-ransomware-group-threat-assessment/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 "Activator" Alert: MacOS Malware Hides in Cracked Apps, Targeting Crypto Wallets<a href="https://thehackernews.com/2024/01/activator-alert-macos-malware-hides-in.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: LoanDepot Says 16.6 Million Customers had ‘Sensitive Personal’ Information Stolen in Cyberattack<a href="https://techcrunch.com/2024/01/22/loandepot-millions-sensitive-personal-data-ransomware/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 From Megabits to Terabits: Gcore Radar Warns of a New Era of DDoS Attacks<a href="https://thehackernews.com/2024/01/from-megabits-to-terabits-gcore-radar.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean ScarCruft Attackers Gear Up to Target Cybersecurity Professionals<a href="https://www.darkreading.com/threat-intelligence/north-koreasc-arcruft-attackers-target-cybersecurity-pros?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BreachForums Founder Sentenced to 20 Years of Supervised Release, No Jail Time<a href="https://thehackernews.com/2024/01/breachforums-founder-sentenced-to-20.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Method To Safeguard Against Mobile Account Takeovers<a href="https://www.helpnetsecurity.com/2024/01/22/safeguard-against-mobile-account-takeovers/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ~40,000 Attacks in 3 Days: Critical Confluence RCE Under Active Exploitation<a href="https://thehackernews.com/2024/01/40000-attacks-in-3-days-critical.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Historic Data Leak Reveals 26 Billion Records From Tencent, Weibo, Twitter, Adobe, and Others<a href="https://securityaffairs.com/157933/breaking-news/largest-data-leak-ever.html?&web_view=true"> Full Text</a>
