@@ -8,6 +8,62 @@ nav_order: 900015
 
 ## Attack
 ---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-backed Hackers Hijack Software Updates to Implant "NSPX30" Spyware<a href="https://thehackernews.com/2024/01/china-backed-hackers-hijack-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented China-aligned threat actor has been linked to a set of adversary-in-the-middle (AitM) attacks that hijack update requests from legitimate software to deliver a sophisticated implant named NSPX30. Slovak cybersecurity firm ESET is tracking the advanced persistent threat (APT) group under the name&nbsp; Blackwood . It's said to be active since at least 2018. The NSPX30 implant has been observed deployed via the update mechanisms of known software such as Tencent QQ, WPS Office, and Sogou Pinyin, with the attacks targeting Chinese and Japanese manufacturing, trading, and engineering companies as well as individuals located in China, Japan, and the U.K. "NSPX30 is a multistage implant that includes several components such as a dropper, an installer, loaders, an orchestrator, and a backdoor," security researcher Facundo Muñoz&nbsp; said . "Both of the latter two have their own sets of plugins." "The implant was designed around the attackers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Hackers Claim Attack on Russian Scientific Research Center<a href="https://therecord.media/ukrainian-hackers-hit-russian-scientific-center?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian hacker group "BO Team" reportedly breached a Russian scientific research center, destroying its database and equipment. The target, the State Research Center on Space Hydrometeorology, is a key enterprise for processing satellite data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CherryLoader Malware Mimics CherryTree to Deploy PrivEsc Exploits<a href="https://thehackernews.com/2024/01/new-cherryloader-malware-mimics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Go-based malware loader called&nbsp; CherryLoader &nbsp;has been discovered by threat hunters in the wild to deliver additional payloads onto compromised hosts for follow-on exploitation. Arctic Wolf Labs, which discovered the new attack tool in two recent intrusions, said the loader's icon and name masquerades as the legitimate CherryTree note-taking application to dupe potential victims into installing it. "CherryLoader was used to drop one of two privilege escalation tools,&nbsp; PrintSpoofer &nbsp;or&nbsp; JuicyPotatoNG , which would then run a batch file to establish persistence on the victim device," researchers Hady Azzam, Christopher Prest, and Steven Campbell&nbsp; said . In another novel twist, CherryLoader also packs modularized features that allow the threat actor to swap exploits without recompiling code. It's currently not known how the loader is distributed, but the attack chains examined by the cybersecurity firm show that CherryLoader ("cherrytree.exe") and i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tech Giant HP Enterprise Hacked by Russian Hackers Linked to DNC Breach<a href="https://thehackernews.com/2024/01/tech-giant-hp-enterprise-hacked-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers with links to the Kremlin are suspected to have infiltrated information technology company Hewlett Packard Enterprise's (HPE) cloud email environment to exfiltrate mailbox data. "The threat actor accessed and exfiltrated data beginning in May 2023 from a small percentage of HPE mailboxes belonging to individuals in our cybersecurity, go-to-market, business segments, and other functions," the company&nbsp; said &nbsp;in a regulatory filing with the U.S. Securities and Exchange Commission (SEC). The intrusion has been attributed to the Russian state-sponsored group known as APT29, and which is also tracked under the monikers BlueBravo, Cloaked Ursa, Cozy Bear, Midnight Blizzard (formerly Nobelium), and The Dukes. The disclosure arrives days after Microsoft&nbsp; implicated the same threat actor &nbsp;to the breach of its corporate systems in late November 2023 to steal emails and attachments from senior executives and other individuals in the company's cybersecurity and legal d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

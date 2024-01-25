@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Organizations need to switch gears in their approach to email security<a href="https://www.helpnetsecurity.com/2024/01/23/outbound-email-incidents/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-backed Hackers Hijack Software Updates to Implant "NSPX30" Spyware<a href="https://thehackernews.com/2024/01/china-backed-hackers-hijack-software.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Hackers Claim Attack on Russian Scientific Research Center<a href="https://therecord.media/ukrainian-hackers-hit-russian-scientific-center?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New CherryLoader Malware Mimics CherryTree to Deploy PrivEsc Exploits<a href="https://thehackernews.com/2024/01/new-cherryloader-malware-mimics.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French Regulators Levy $34.7 Million Fine Against Amazon for Surveilling Employees<a href="https://therecord.media/french-regulators-levy-fine-against-amazon-for-monitoring-practices?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tech Giant HP Enterprise Hacked by Russian Hackers Linked to DNC Breach<a href="https://thehackernews.com/2024/01/tech-giant-hp-enterprise-hacked-by.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Effect of Omission Bias on Vulnerability Management<a href="https://www.helpnetsecurity.com/2024/01/24/vulnerability-management-omission-bias/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Tells Business Leaders to ‘Toughen Up’ Against Cyberattacks<a href="https://therecord.media/uk-businesses-cyber-resilience-code-of-practice?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Vendors are Accused of Bending CVE Assignment Rules<a href="https://www.theregister.com/2024/01/22/ivanti_and_juniper_networks_criics_unhappy/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data from Indian Online Gaming Platforms Teenpatti.com and Mpl.live on Sale<a href="https://thecyberexpress.com/indian-online-gaming-data-breach/?&web_view=true"> Full Text</a>
@@ -194,7 +194,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unmasking MacOS Malware in Pirated Apps<a href="https://cyware.com/news/unmasking-macos-malware-in-pirated-apps-9bc0a59f"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2024
+January 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Kubernetes Misconfig Lets Any Gmail Account Control Your Clusters<a href="https://thehackernews.com/2024/01/google-kubernetes-misconfig-lets-any.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2024
+January 24, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 What is Nudge Security and How Does it Work?<a href="https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html"> Full Text</a>
@@ -242,7 +242,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 24, 2024
+January 24, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kasseika Ransomware Using BYOVD Trick to Disarm Security Pre-Encryption<a href="https://thehackernews.com/2024/01/kasseika-ransomware-using-byovd-trick.html"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Tells Business Leaders to ‘Toughen Up’ Against Cyberattacks<a href="https://therecord.media/uk-businesses-cyber-resilience-code-of-practice?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increase in ransomware attacks in the UK is attributed to the success of the ransomware-as-a-service ecosystem, making it easier for criminals to engage in disruptive attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

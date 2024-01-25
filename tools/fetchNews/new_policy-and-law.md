@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Regulators Levy $34.7 Million Fine Against Amazon for Surveilling Employees<a href="https://therecord.media/french-regulators-levy-fine-against-amazon-for-monitoring-practices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+France's data protection authority, CNIL, has fined Amazon €32 million ($34.7 million) for excessive monitoring of employees in its warehouses and for not promptly deleting the data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

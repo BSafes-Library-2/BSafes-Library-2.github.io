@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Method To Safeguard Against Mobile Account Takeovers<a href="https://www.helpnetsecurity.com/2024/01/22/safeguard-against-mobile-account-takeovers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The method involves modeling how account access changes as devices, SIM cards, or apps are disconnected from the account ecosystem, providing insights into complex hacking attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is Nudge Security and How Does it Work?<a href="https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's highly distributed workplace, every employee has the ability to act as their own CIO, adopting new cloud and SaaS technologies whenever and wherever they need. While this has been a critical boon to productivity and innovation in the digital enterprise, it has upended traditional approaches to IT security and governance. Nudge Security is the world's first and only solution to address&nbsp; SaaS security and governance &nbsp;at scale by working&nbsp; with &nbsp;employees—not against them. Unlike legacy solutions that attempt to block employees' access to unsanctioned SaaS applications, Nudge Security helps IT and security leaders adapt and align to the needs of the business. The platform orchestrates SaaS administration without sacrificing visibility, centralized governance, or control over the organization's cloud and SaaS security posture. How Nudge Security works Nudge Security discovers all SaaS accounts ever created by anyone in your organization within minutes of starting a free
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

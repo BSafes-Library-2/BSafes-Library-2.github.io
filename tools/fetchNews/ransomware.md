@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Assessment of BianLian Ransomware<a href="https://unit42.paloaltonetworks.com/bianlian-ransomware-group-threat-assessment/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BianLian ransomware group has shifted from a double extortion scheme to a focus on extortion without encryption, posing a significant threat to organizations, particularly in the healthcare and manufacturing sectors in the US and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

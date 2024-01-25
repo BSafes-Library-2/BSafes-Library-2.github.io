@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+January 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Slug Ransomware Attacked AerCap, Claims to Have Stolen 1TB Data<a href="https://www.theregister.com/2024/01/22/ransomware_aercap_loandepot/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AerCap, the world's largest aircraft leasing company, reported a ransomware infection. However, it claims to have not suffered financial losses and has control over its systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: LoanDepot Says 16.6 Million Customers had ‘Sensitive Personal’ Information Stolen in Cyberattack<a href="https://techcrunch.com/2024/01/22/loandepot-millions-sensitive-personal-data-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company is working to restore normal business operations, but many online services remain inaccessible even after two weeks. It is still uncertain whether the cyber incident will have a significant impact on LoanDepot's financial condition.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

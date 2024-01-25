@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kasseika Ransomware Using BYOVD Trick to Disarm Security Pre-Encryption<a href="https://thehackernews.com/2024/01/kasseika-ransomware-using-byovd-trick.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group known as Kasseika has become the latest to leverage the Bring Your Own Vulnerable Driver ( BYOVD ) attack to disarm security-related processes on compromised Windows hosts, joining the likes of other groups like Akira , AvosLocker, BlackByte, and RobbinHood . The tactic allows "threat actors to terminate antivirus processes and services for the deployment of ransomware," Trend Micro said in a Tuesday analysis. Kasseika, first discovered by the cybersecurity firm in mid-December 2023, exhibits overlaps with the now-defunct BlackMatter , which emerged in the aftermath of DarkSide's shutdown. There is evidence to suggest that the ransomware strain could be the handiwork of an experienced threat actor that acquired or purchased access to BlackMatter, given that the latter's source code has never publicly leaked post its demise in November 2021. Attack chains involving Kasseika commence with a phishing email for initial access, subsequently
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

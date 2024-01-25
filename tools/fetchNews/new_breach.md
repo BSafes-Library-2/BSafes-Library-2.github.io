@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data from Indian Online Gaming Platforms Teenpatti.com and Mpl.live on Sale<a href="https://thecyberexpress.com/indian-online-gaming-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The alleged data breach at Teenpatti.com and Mpl.live underscores the urgent need for improved security measures in online gaming platforms, especially in handling large volumes of personal user data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
