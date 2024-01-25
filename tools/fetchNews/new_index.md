@@ -34,7 +34,231 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations need to switch gears in their approach to email security<a href="https://www.helpnetsecurity.com/2024/01/23/outbound-email-incidents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Egress, email security incidents continue to have severe impacts on organizations, with 94% experiencing security incidents in the past year, including data loss, exfiltration, and phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-backed Hackers Hijack Software Updates to Implant "NSPX30" Spyware<a href="https://thehackernews.com/2024/01/china-backed-hackers-hijack-software.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A previously undocumented China-aligned threat actor has been linked to a set of adversary-in-the-middle (AitM) attacks that hijack update requests from legitimate software to deliver a sophisticated implant named NSPX30. Slovak cybersecurity firm ESET is tracking the advanced persistent threat (APT) group under the name  Blackwood . It's said to be active since at least 2018. The NSPX30 implant has been observed deployed via the update mechanisms of known software such as Tencent QQ, WPS Office, and Sogou Pinyin, with the attacks targeting Chinese and Japanese manufacturing, trading, and engineering companies as well as individuals located in China, Japan, and the U.K. "NSPX30 is a multistage implant that includes several components such as a dropper, an installer, loaders, an orchestrator, and a backdoor," security researcher Facundo Muñoz  said . "Both of the latter two have their own sets of plugins." "The implant was designed around the attackers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Hackers Claim Attack on Russian Scientific Research Center<a href="https://therecord.media/ukrainian-hackers-hit-russian-scientific-center?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukrainian hacker group "BO Team" reportedly breached a Russian scientific research center, destroying its database and equipment. The target, the State Research Center on Space Hydrometeorology, is a key enterprise for processing satellite data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CherryLoader Malware Mimics CherryTree to Deploy PrivEsc Exploits<a href="https://thehackernews.com/2024/01/new-cherryloader-malware-mimics.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Go-based malware loader called  CherryLoader  has been discovered by threat hunters in the wild to deliver additional payloads onto compromised hosts for follow-on exploitation. Arctic Wolf Labs, which discovered the new attack tool in two recent intrusions, said the loader's icon and name masquerades as the legitimate CherryTree note-taking application to dupe potential victims into installing it. "CherryLoader was used to drop one of two privilege escalation tools,  PrintSpoofer  or  JuicyPotatoNG , which would then run a batch file to establish persistence on the victim device," researchers Hady Azzam, Christopher Prest, and Steven Campbell  said . In another novel twist, CherryLoader also packs modularized features that allow the threat actor to swap exploits without recompiling code. It's currently not known how the loader is distributed, but the attack chains examined by the cybersecurity firm show that CherryLoader ("cherrytree.exe") and i
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Regulators Levy $34.7 Million Fine Against Amazon for Surveilling Employees<a href="https://therecord.media/french-regulators-levy-fine-against-amazon-for-monitoring-practices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+France's data protection authority, CNIL, has fined Amazon €32 million ($34.7 million) for excessive monitoring of employees in its warehouses and for not promptly deleting the data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tech Giant HP Enterprise Hacked by Russian Hackers Linked to DNC Breach<a href="https://thehackernews.com/2024/01/tech-giant-hp-enterprise-hacked-by.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers with links to the Kremlin are suspected to have infiltrated information technology company Hewlett Packard Enterprise's (HPE) cloud email environment to exfiltrate mailbox data. "The threat actor accessed and exfiltrated data beginning in May 2023 from a small percentage of HPE mailboxes belonging to individuals in our cybersecurity, go-to-market, business segments, and other functions," the company  said  in a regulatory filing with the U.S. Securities and Exchange Commission (SEC). The intrusion has been attributed to the Russian state-sponsored group known as APT29, and which is also tracked under the monikers BlueBravo, Cloaked Ursa, Cozy Bear, Midnight Blizzard (formerly Nobelium), and The Dukes. The disclosure arrives days after Microsoft  implicated the same threat actor  to the breach of its corporate systems in late November 2023 to steal emails and attachments from senior executives and other individuals in the company's cybersecurity and legal d
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Effect of Omission Bias on Vulnerability Management<a href="https://www.helpnetsecurity.com/2024/01/24/vulnerability-management-omission-bias/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Omission bias in vulnerability management leads to the reluctance to patch vulnerabilities, despite evidence showing the importance of timely patching to prevent cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Tells Business Leaders to ‘Toughen Up’ Against Cyberattacks<a href="https://therecord.media/uk-businesses-cyber-resilience-code-of-practice?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increase in ransomware attacks in the UK is attributed to the success of the ransomware-as-a-service ecosystem, making it easier for criminals to engage in disruptive attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Vendors are Accused of Bending CVE Assignment Rules<a href="https://www.theregister.com/2024/01/22/ivanti_and_juniper_networks_criics_unhappy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Both Juniper Networks and Ivanti have attracted criticism from members of the infosec industry for the way they've handled the disclosure of vulnerabilities over the past week.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data from Indian Online Gaming Platforms Teenpatti.com and Mpl.live on Sale<a href="https://thecyberexpress.com/indian-online-gaming-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The alleged data breach at Teenpatti.com and Mpl.live underscores the urgent need for improved security measures in online gaming platforms, especially in handling large volumes of personal user data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unmasking MacOS Malware in Pirated Apps<a href="https://cyware.com/news/unmasking-macos-malware-in-pirated-apps-9bc0a59f"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pirate applications targeting macOS users distribute a backdoor, allowing attackers to download and execute multiple payloads. Each application includes a malicious dylib, a backdoor, and a persistent downloader, posing a significant threat to users. The researchers from Jamf Threat Labs identified ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Kubernetes Misconfig Lets Any Gmail Account Control Your Clusters<a href="https://thehackernews.com/2024/01/google-kubernetes-misconfig-lets-any.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a loophole impacting Google Kubernetes Engine (GKE) that could be potentially exploited by threat actors with a Google account to take control of a Kubernetes cluster. The critical shortcoming has been codenamed Sys:All by cloud security firm Orca. As many as 250,000 active GKE clusters in the wild are estimated to be susceptible to the attack vector. In a report shared with The Hacker News, security researcher Ofir Yakobi said it "stems from a likely widespread misconception that the system:authenticated group in Google Kubernetes Engine includes only verified and deterministic identities, whereas in fact, it includes any Google authenticated account (even outside the organization)." The system:authenticated group is a special group that includes all authenticated entities, counting human users and service accounts. As a result, this could have serious consequences when administrators inadvertently bestow it with overly permi
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+What is Nudge Security and How Does it Work?<a href="https://thehackernews.com/2024/01/what-is-nudge-security-and-how-does-it.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's highly distributed workplace, every employee has the ability to act as their own CIO, adopting new cloud and SaaS technologies whenever and wherever they need. While this has been a critical boon to productivity and innovation in the digital enterprise, it has upended traditional approaches to IT security and governance. Nudge Security is the world's first and only solution to address  SaaS security and governance  at scale by working  with  employees—not against them. Unlike legacy solutions that attempt to block employees' access to unsanctioned SaaS applications, Nudge Security helps IT and security leaders adapt and align to the needs of the business. The platform orchestrates SaaS administration without sacrificing visibility, centralized governance, or control over the organization's cloud and SaaS security posture. How Nudge Security works Nudge Security discovers all SaaS accounts ever created by anyone in your organization within minutes of starting a free
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kasseika Ransomware Using BYOVD Trick to Disarm Security Pre-Encryption<a href="https://thehackernews.com/2024/01/kasseika-ransomware-using-byovd-trick.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware group known as Kasseika has become the latest to leverage the Bring Your Own Vulnerable Driver ( BYOVD ) attack to disarm security-related processes on compromised Windows hosts, joining the likes of other groups like Akira , AvosLocker, BlackByte, and RobbinHood . The tactic allows "threat actors to terminate antivirus processes and services for the deployment of ransomware," Trend Micro said in a Tuesday analysis. Kasseika, first discovered by the cybersecurity firm in mid-December 2023, exhibits overlaps with the now-defunct BlackMatter , which emerged in the aftermath of DarkSide's shutdown. There is evidence to suggest that the ransomware strain could be the handiwork of an experienced threat actor that acquired or purchased access to BlackMatter, given that the latter's source code has never publicly leaked post its demise in November 2021. Attack chains involving Kasseika commence with a phishing email for initial access, subsequently
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 23, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta Gang Claims the Hack of the UK Water Utility Southern Water<a href="https://securityaffairs.com/157951/cyber-crime/black-basta-gang-claims-the-hack-of-the-uk-water-utility-southern-water.html?&web_view=true"> Full Text</a>
@@ -50,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VexTrio: The Uber of Cybercrime - Brokering Malware for 60+ Affiliates<a href="https://thehackernews.com/2024/01/vextrio-uber-of-cybercrime-brokering.html"> Full Text</a>
@@ -66,7 +290,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Slug Ransomware Attacked AerCap, Claims to Have Stolen 1TB Data<a href="https://www.theregister.com/2024/01/22/ransomware_aercap_loandepot/?&web_view=true"> Full Text</a>
@@ -82,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious NPM Packages Exfiltrate Hundreds of Developer SSH Keys via GitHub<a href="https://thehackernews.com/2024/01/malicious-npm-packages-exfiltrate-1600.html"> Full Text</a>
@@ -98,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Assessment of BianLian Ransomware<a href="https://unit42.paloaltonetworks.com/bianlian-ransomware-group-threat-assessment/?&web_view=true"> Full Text</a>
@@ -114,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 "Activator" Alert: MacOS Malware Hides in Cracked Apps, Targeting Crypto Wallets<a href="https://thehackernews.com/2024/01/activator-alert-macos-malware-hides-in.html"> Full Text</a>
@@ -130,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: LoanDepot Says 16.6 Million Customers had ‘Sensitive Personal’ Information Stolen in Cyberattack<a href="https://techcrunch.com/2024/01/22/loandepot-millions-sensitive-personal-data-ransomware/?&web_view=true"> Full Text</a>
@@ -146,7 +370,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 From Megabits to Terabits: Gcore Radar Warns of a New Era of DDoS Attacks<a href="https://thehackernews.com/2024/01/from-megabits-to-terabits-gcore-radar.html"> Full Text</a>
@@ -162,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean ScarCruft Attackers Gear Up to Target Cybersecurity Professionals<a href="https://www.darkreading.com/threat-intelligence/north-koreasc-arcruft-attackers-target-cybersecurity-pros?&web_view=true"> Full Text</a>
@@ -178,7 +402,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BreachForums Founder Sentenced to 20 Years of Supervised Release, No Jail Time<a href="https://thehackernews.com/2024/01/breachforums-founder-sentenced-to-20.html"> Full Text</a>
@@ -194,7 +418,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Method To Safeguard Against Mobile Account Takeovers<a href="https://www.helpnetsecurity.com/2024/01/22/safeguard-against-mobile-account-takeovers/?&web_view=true"> Full Text</a>
@@ -210,7 +434,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ~40,000 Attacks in 3 Days: Critical Confluence RCE Under Active Exploitation<a href="https://thehackernews.com/2024/01/40000-attacks-in-3-days-critical.html"> Full Text</a>
@@ -226,7 +450,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024
+January 23, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Historic Data Leak Reveals 26 Billion Records From Tencent, Weibo, Twitter, Adobe, and Others<a href="https://securityaffairs.com/157933/breaking-news/largest-data-leak-ever.html?&web_view=true"> Full Text</a>
