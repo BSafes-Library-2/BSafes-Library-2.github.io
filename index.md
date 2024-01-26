@@ -34,6 +34,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Researcher Examines the Ransomware Victim’s Mindset<a href="https://therecord.media/ransomware-victim-mindset-dutch-study-tom-meurs?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The study by a cybercrime researcher at the University of Twente analyzed ransomware attacks in the Netherlands from 2019-2022, finding that companies working with incident response firms were most likely to pay ransoms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SystemBC Malware's C2 Server Analysis Exposes Payload Delivery Tricks<a href="https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have shed light on the command-and-control (C2) server of a known malware family called  SystemBC . "SystemBC can be purchased on underground marketplaces and is supplied in an archive containing the implant, a command-and-control (C2) server, and a web administration portal written in PHP," Kroll  said  in an analysis published last week. The risk and financial advisory solutions provider said it has witnessed an increase in the use of malware throughout Q2 and Q3 2023. SystemBC,  first observed  in the wild in 2018, allows threat actors to remote control a compromised host and deliver additional payloads, including trojans, Cobalt Strike, and ransomware. It also features support for launching ancillary modules on the fly to expand on its core functionality. A standout aspect of the malware revolves around its use of SOCKS5 proxies to mask network traffic to and from C2 infrastructure, acting as a persistent access mechanism for post-exploitat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major IT Outage Denies Happy Campers Their Caravan Holidays<a href="https://www.theregister.com/2024/01/24/major_it_outage_at_caravan/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Members have expressed concern over potential data compromise and lack of communication from CAMC about the nature of the problem, leading to speculation about a ransomware-related security breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Jenkins Vulnerability Exposes Servers to RCE Attacks - Patch ASAP!<a href="https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of the open-source continuous integration/continuous delivery and deployment (CI/CD) automation software Jenkins have resolved nine security flaws, including a critical bug that, if successfully exploited, could result in remote code execution (RCE). The issue, assigned the CVE identifier  CVE-2024-23897 , has been described as an arbitrary file read vulnerability through the built-in command line interface ( CLI ) "Jenkins uses the args4j library to parse command arguments and options on the Jenkins controller when processing CLI commands," the maintainers  said  in a Wednesday advisory. "This command parser has a feature that replaces an @ character followed by a file path in an argument with the file's contents (expandAtFiles). This feature is enabled by default and Jenkins 2.441 and earlier, LTS 2.426.2 and earlier does not disable it." A threat actor could exploit this quirk to read arbitrary files on the Jenkins controller file system
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Debuts New Feature to Frustrate iPhone Thieves<a href="https://www.helpnetsecurity.com/2024/01/23/iphone-stolen-device-protection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new iOS 17 update brings Stolen Device Protection feature to prevent unauthorized access and actions on stolen iPhones. Thieves will have limited access to sensitive information and actions, requiring additional authentication for critical changes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LODEINFO Fileless Malware Evolves with Anti-Analysis and Remote Code Tricks<a href="https://thehackernews.com/2024/01/lodeinfo-fileless-malware-evolves-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have uncovered an updated version of a backdoor called  LODEINFO  that's distributed via spear-phishing attacks. The findings come from Japanese company ITOCHU Cyber & Intelligence, which  said  the malware "has been updated with new features, as well as changes to the anti-analysis (analysis avoidance) techniques." LODEINFO (versions 0.6.6 and 0.6.7) was  first documented  by Kaspersky in November 2022, detailing its capabilities to execute arbitrary shellcode, take screenshots, and exfiltrate files back to an actor-controlled server. A month later, ESET  disclosed attacks  targeting Japanese political establishments that led to the deployment of LODEINFO. The backdoor is the work of a Chinese nation-state actor known as Stone Panda (aka APT10, Bronze Riverside, Cicada, Earth Tengshe, MirrorFace, and Potassium), which has a history of orchestrating attacks targeting Japan since 2021. Attack chains commence with phishing emails bearing
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: AI, Fake CFOs Drive Soaring Corporate Payment-Fraud Attacks<a href="https://www.cybersecuritydive.com/news/payment-fraud-phishin-ai/705403/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Trustpair, 96% of U.S. companies experienced at least one payment fraud attempt in the past year, with a 71% increase from the prior year, indicating a significant rise in fraudulent activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Threat Landscape: 7 Key Findings and Upcoming Trends for 2024<a href="https://thehackernews.com/2024/01/cyber-threat-landscape-7-key-findings.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 2023/2024 Axur Threat Landscape Report provides a comprehensive analysis of the latest cyber threats. The information combines data from the platform's surveillance of the Surface, Deep, and Dark Web with insights derived from the in-depth research and investigations conducted by the Threat Intelligence team. Discover the full scope of digital threats in the Axur Report 2023/2024. Overview In 2023, the cybersecurity landscape witnessed a remarkable rise in cyberattacks.  One notable shift was the cyber risk integration with business risk, a concept gaining traction in boardrooms worldwide. As the magnitude of losses due to cyberattacks became evident, organizations started reevaluating their strategies.  Geopolitical factors played a significant role in shaping information security. The conflicts between nations like Russia and Ukraine had ripple effects, influencing the tactics of cybercriminals. It was a year where external factors intertwined with digital threats. Ran
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HHS Details New Cyber Performance Goals for Health Sector<a href="https://www.bankinfosecurity.com/hhs-details-new-cyber-performance-goals-for-health-sector-a-24178?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The performance goals consist of essential and enhanced practices based on industry cybersecurity frameworks and aim to address common vulnerabilities and mature cybersecurity capabilities in the healthcare sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Netherlands-based Medical Lab Database Exposed 1.3 Million Records, COVID Test Information<a href="https://www.bankinfosecurity.com/medical-lab-database-exposed-13m-records-covid-test-info-a-24168?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Netherlands-based medical laboratory's unsecured database exposed 1.3 million records, including COVID test results and personal identifiable information, due to a configuration issue and lack of response to responsible disclosure notices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Software Supply Chain Attacks Are Getting Easier<a href="https://www.helpnetsecurity.com/2024/01/24/software-supply-chain-abuse/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2023, ReversingLabs identified a significant increase in malicious packages across open-source software platforms like npm, PyPI, and RubyGems. The number of malicious packages detected increased by 1,300% from 2020 and 28% from 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal Judge Rejects NSO’s Effort to Dismiss Apple’s Pegasus Lawsuit<a href="https://therecord.media/judge-rejects-nso-effort-to-dismiss-apple-lawsuit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple's lawsuit alleges that NSO Group facilitated hacking into Apple's servers, leading to significant time and expense for Apple in detecting and eradicating Pegasus from users' devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 25, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
