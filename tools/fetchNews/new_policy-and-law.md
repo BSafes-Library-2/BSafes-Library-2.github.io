@@ -11,6 +11,20 @@ nav_order: 900163
 January 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Federal Judge Rejects NSO’s Effort to Dismiss Apple’s Pegasus Lawsuit<a href="https://therecord.media/judge-rejects-nso-effort-to-dismiss-apple-lawsuit?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple's lawsuit alleges that NSO Group facilitated hacking into Apple's servers, leading to significant time and expense for Apple in detecting and eradicating Pegasus from users' devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 French Regulators Levy $34.7 Million Fine Against Amazon for Surveilling Employees<a href="https://therecord.media/french-regulators-levy-fine-against-amazon-for-monitoring-practices?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

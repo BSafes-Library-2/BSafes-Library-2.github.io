@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2024 - Department of Health and Human Services, USA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HEALTHCARE AND PUBLIC HEALTH SECTOR-SPECIFIC CYBERSECURITY PERFORMANCE GOALS <a href="https://hphcyber.hhs.gov/documents/cybersecurity-performance-goals.pdf"> Full Text</a>
+</p>
+<details>
+The Department of Health and Human Services (HHS) helps the Healthcare and Public Health (HPH) critical infrastructure sector prepare for and respond to cyber threats, adapt to the evolving threat landscape, and build a more resilient sector. As outlined in the HHS Healthcare Sector Cybersecurity concept paper, HHS is publishing these voluntary healthcare specifc Cybersecurity Performance Goals (CPGs) to help healthcare organizations prioritize implementation of high-impact cybersecurity practices. The HPH CPGs are designed to better protect the healthcare sector from cyberattacks, improve response when events occur, and minimize residual risk. HPH CPGs include both essential goals to outline minimum foundational practices for cybersecurity performance and enhanced goals to encourage adoption of more advanced practices. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 23, 2024 - Department for Scienc, Innovation & Technology, U.K.
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

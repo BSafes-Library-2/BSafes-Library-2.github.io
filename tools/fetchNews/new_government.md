@@ -11,6 +11,20 @@ nav_order: 900075
 January 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+HHS Details New Cyber Performance Goals for Health Sector<a href="https://www.bankinfosecurity.com/hhs-details-new-cyber-performance-goals-for-health-sector-a-24178?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The performance goals consist of essential and enhanced practices based on industry cybersecurity frameworks and aim to address common vulnerabilities and mature cybersecurity capabilities in the healthcare sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 UK Tells Business Leaders to ‘Toughen Up’ Against Cyberattacks<a href="https://therecord.media/uk-businesses-cyber-resilience-code-of-practice?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

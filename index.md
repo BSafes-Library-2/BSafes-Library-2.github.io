@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercrime Researcher Examines the Ransomware Victim’s Mindset<a href="https://therecord.media/ransomware-victim-mindset-dutch-study-tom-meurs?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SystemBC Malware's C2 Server Analysis Exposes Payload Delivery Tricks<a href="https://thehackernews.com/2024/01/systembc-malwares-c2-server-analysis.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Major IT Outage Denies Happy Campers Their Caravan Holidays<a href="https://www.theregister.com/2024/01/24/major_it_outage_at_caravan/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Jenkins Vulnerability Exposes Servers to RCE Attacks - Patch ASAP!<a href="https://thehackernews.com/2024/01/critical-jenkins-vulnerability-exposes.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Debuts New Feature to Frustrate iPhone Thieves<a href="https://www.helpnetsecurity.com/2024/01/23/iphone-stolen-device-protection/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LODEINFO Fileless Malware Evolves with Anti-Analysis and Remote Code Tricks<a href="https://thehackernews.com/2024/01/lodeinfo-fileless-malware-evolves-with.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: AI, Fake CFOs Drive Soaring Corporate Payment-Fraud Attacks<a href="https://www.cybersecuritydive.com/news/payment-fraud-phishin-ai/705403/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Threat Landscape: 7 Key Findings and Upcoming Trends for 2024<a href="https://thehackernews.com/2024/01/cyber-threat-landscape-7-key-findings.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HHS Details New Cyber Performance Goals for Health Sector<a href="https://www.bankinfosecurity.com/hhs-details-new-cyber-performance-goals-for-health-sector-a-24178?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Netherlands-based Medical Lab Database Exposed 1.3 Million Records, COVID Test Information<a href="https://www.bankinfosecurity.com/medical-lab-database-exposed-13m-records-covid-test-info-a-24168?&web_view=true"> Full Text</a>
@@ -194,7 +194,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Software Supply Chain Attacks Are Getting Easier<a href="https://www.helpnetsecurity.com/2024/01/24/software-supply-chain-abuse/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 25, 2024
+January 25, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal Judge Rejects NSO’s Effort to Dismiss Apple’s Pegasus Lawsuit<a href="https://therecord.media/judge-rejects-nso-effort-to-dismiss-apple-lawsuit?&web_view=true"> Full Text</a>

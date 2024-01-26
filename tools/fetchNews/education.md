@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations need to switch gears in their approach to email security<a href="https://www.helpnetsecurity.com/2024/01/23/outbound-email-incidents/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Egress, email security incidents continue to have severe impacts on organizations, with 94% experiencing security incidents in the past year, including data loss, exfiltration, and phishing attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
