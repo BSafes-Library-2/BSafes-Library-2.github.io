@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian TrickBot Mastermind Gets 5-Year Prison Sentence for Cybercrime Spree<a href="https://thehackernews.com/2024/01/russian-trickbot-mastermind-gets-5-year.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+40-year-old Russian national Vladimir Dunaev has been sentenced to five years and four months in prison for his role in creating and distributing the TrickBot malware, the U.S. Department of Justice (DoJ) said. The development comes nearly two months after&nbsp; Dunaev pleaded guilty &nbsp;to committing computer fraud and identity theft and conspiracy to commit wire fraud and bank fraud. "Hospitals, schools, and businesses were among the millions of TrickBot victims who suffered tens of millions of dollars in losses," DoJ&nbsp; said . "While active, TrickBot malware, which acted as an initial intrusion vector into victim computer systems, was used to support various ransomware variants." Originating as a banking trojan in 2016, TrickBot evolved into a Swiss Army knife capable of delivering additional payloads, including ransomware. Following efforts to take down the botnet, it was absorbed into the Conti ransomware operation in 2022. The cybercrime crew's allegiance to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

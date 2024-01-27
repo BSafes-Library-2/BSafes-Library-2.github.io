@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Debuts New Feature to Frustrate iPhone Thieves<a href="https://www.helpnetsecurity.com/2024/01/23/iphone-stolen-device-protection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new iOS 17 update brings Stolen Device Protection feature to prevent unauthorized access and actions on stolen iPhones. Thieves will have limited access to sensitive information and actions, requiring additional authentication for critical changes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

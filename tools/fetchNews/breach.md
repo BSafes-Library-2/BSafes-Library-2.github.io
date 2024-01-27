@@ -11,6 +11,20 @@ nav_order: 900029
 January 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Netherlands-based Medical Lab Database Exposed 1.3 Million Records, COVID Test Information<a href="https://www.bankinfosecurity.com/medical-lab-database-exposed-13m-records-covid-test-info-a-24168?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Netherlands-based medical laboratory's unsecured database exposed 1.3 million records, including COVID test results and personal identifiable information, due to a configuration issue and lack of response to responsible disclosure notices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Data from Indian Online Gaming Platforms Teenpatti.com and Mpl.live on Sale<a href="https://thecyberexpress.com/indian-online-gaming-data-breach/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

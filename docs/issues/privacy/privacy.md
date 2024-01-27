@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+January 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pegasus Spyware Targets Togolese Journalists' Mobile Devices<a href="https://www.darkreading.com/endpoint-security/pegasus-spyware-togolese-journalists-mobile-devices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The spyware intrusions occurred on the phones of multiple journalists, including the publisher of an independent weekly paper, raising concerns about press freedom and privacy violations in the country.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

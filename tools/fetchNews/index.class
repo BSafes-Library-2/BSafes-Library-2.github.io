@@ -34,6 +34,198 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Therapy Provider Notifying 4 Million Patients of PJ&A Hack<a href="https://www.healthcareinfosecurity.com/therapy-provider-notifying-4-million-patients-pja-hack-a-24200?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach has impacted at least 14 million patients across various organizations. The hack prompted a warning from New York's attorney general about potential identity theft and fraud risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AllaKore RAT Malware Targeting Mexican Firms with Financial Fraud Tricks<a href="https://thehackernews.com/2024/01/allakore-rat-malware-targeting-mexican.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mexican financial institutions are under the radar of a new spear-phishing campaign that delivers a modified version of an open-source remote access trojan called  AllaKore RAT . The BlackBerry Research and Intelligence Team attributed the activity to an unknown Latin American-based financially motivated threat actor. The campaign has been active since at least 2021. "Lures use Mexican Social Security Institute (IMSS) naming schemas and links to legitimate, benign documents during the installation process," the Canadian company  said  in an analysis published earlier this week. "The AllaKore RAT payload is heavily modified to allow the threat actors to send stolen banking credentials and unique authentication information back to a command-and-control (C2) server for the purposes of financial fraud." The attacks appear to be designed to particularly single out large companies with gross revenues over $100 million. Targeted entities span retail, agriculture, pub
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pegasus Spyware Targets Togolese Journalists' Mobile Devices<a href="https://www.darkreading.com/endpoint-security/pegasus-spyware-togolese-journalists-mobile-devices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The spyware intrusions occurred on the phones of multiple journalists, including the publisher of an independent weekly paper, raising concerns about press freedom and privacy violations in the country.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Akira Ransomware Gang Says It Stole Passport Scans From Lush<a href="https://www.theregister.com/2024/01/26/akira_lush_ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Akira ransomware gang has claimed responsibility for a cybersecurity incident at a British bath bomb merchant. They have stolen 110 GB of data, including personal documents such as passport scans, from the global cosmetics giant.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mexican Banks and Cryptocurrency Platforms Targeted With AllaKore RAT<a href="https://blogs.blackberry.com/en/2024/01/mexican-banks-and-cryptocurrency-platforms-targeted-with-allakore-rat?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A financially motivated threat actor based in Latin America is targeting large Mexican companies with custom packaged installers delivering a modified version of AllaKore RAT for financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Perfecting the Defense-in-Depth Strategy with Automation<a href="https://thehackernews.com/2024/01/perfecting-defense-in-depth-strategy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medieval castles stood as impregnable fortresses for centuries, thanks to their meticulous design. Fast forward to the digital age, and this medieval wisdom still echoes in cybersecurity. Like castles with strategic layouts to withstand attacks, the Defense-in-Depth strategy is the modern counterpart — a multi-layered approach with strategic redundancy and a blend of passive and active security controls.  However, the evolving cyber threat landscape can challenge even the most fortified defenses. Despite the widespread adoption of the Defense-in-Depth strategy, cyber threats persist. Fortunately, the Defense-in-Depth strategy can be augmented using Breach and Attack Simulation (BAS), an automated tool that assesses and improves every security control in each layer. Defense-in-Depth: False Sense of Security with Layers Also known as multi-layered defense, the defense-in-depth strategy has been widely adopted by organizations since the early 2000s. It's based on the assumption that a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Ads on Google Target Chinese Users with Fake Messaging Apps<a href="https://thehackernews.com/2024/01/malicious-ads-on-google-target-chinese.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese-speaking users have been targeted by malicious Google ads for restricted messaging apps like Telegram as part of an ongoing malvertising campaign. "The threat actor is abusing Google advertiser accounts to create malicious ads and pointing them to pages where unsuspecting users will download Remote Administration Trojan (RATs) instead," Malwarebytes' Jérôme Segura  said  in a Thursday report. "Such programs give an attacker full control of a victim's machine and the ability to drop additional malware." It's worth noting that the activity, codenamed  FakeAPP , is a continuation of a  prior attack wave  that targeted Hong Kong users searching for messaging apps like WhatsApp and Telegram on search engines in late October 2023. The latest iteration of the campaign also adds messaging app LINE to the list of messaging apps, redirecting users to bogus websites hosted on Google Docs or Google Sites. The Google infrastructure is used to embed link
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Widening APT29 Espionage Attacks Targeting Global Orgs<a href="https://thehackernews.com/2024/01/microsoft-warns-of-widening-apt29.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday said the Russian state-sponsored threat actors responsible for a  cyber attack on its systems  in late November 2023 have been targeting other organizations and that it's currently beginning to notify them. The development comes a day after Hewlett Packard Enterprise (HPE)  revealed  that it had been the victim of an attack perpetrated by a hacking crew tracked as  APT29 , which is also known as BlueBravo, Cloaked Ursa, Cozy Bear, Midnight Blizzard (formerly Nobelium), and The Dukes. "This threat actor is known to primarily target governments, diplomatic entities, non-governmental organizations (NGOs) and IT service providers, primarily in the U.S. and Europe," the Microsoft Threat Intelligence team  said  in a new advisory. The primary goal of these espionage missions is to gather sensitive information that is of strategic interest to Russia by maintaining footholds for extended periods of time without attracting any attention. The latest disc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abu Dhabi Investment Firm Warns About Scam Efforts<a href="https://www.darkreading.com/cyberattacks-data-breaches/abu-dhabi-investment-firm-warns-scam-efforts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Investor in Abu Dhabi has issued a warning about fraudulent investment schemes misusing its name, logo, and employees' identities to solicit personal and financial information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian TrickBot Mastermind Gets 5-Year Prison Sentence for Cybercrime Spree<a href="https://thehackernews.com/2024/01/russian-trickbot-mastermind-gets-5-year.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+40-year-old Russian national Vladimir Dunaev has been sentenced to five years and four months in prison for his role in creating and distributing the TrickBot malware, the U.S. Department of Justice (DoJ) said. The development comes nearly two months after  Dunaev pleaded guilty  to committing computer fraud and identity theft and conspiracy to commit wire fraud and bank fraud. "Hospitals, schools, and businesses were among the millions of TrickBot victims who suffered tens of millions of dollars in losses," DoJ  said . "While active, TrickBot malware, which acted as an initial intrusion vector into victim computer systems, was used to support various ransomware variants." Originating as a banking trojan in 2016, TrickBot evolved into a Swiss Army knife capable of delivering additional payloads, including ransomware. Following efforts to take down the botnet, it was absorbed into the Conti ransomware operation in 2022. The cybercrime crew's allegiance to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Warn Healthcare Sector of ConnectWise ScreenConnect Threats<a href="https://www.healthcareinfosecurity.com/feds-warn-healthcare-sector-screenconnect-threats-a-24193?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal authorities warn that a self-hosted version of ConnectWise's ScreenConnect remote access tool was compromised at a large pharmacy services firm, posing a significant risk to other healthcare organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 26, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Cisco Flaw Lets Hackers Remotely Take Over Unified Comms Systems<a href="https://thehackernews.com/2024/01/critical-cisco-flaw-lets-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has released patches to address a critical security flaw impacting Unified Communications and Contact Center Solutions products that could permit an unauthenticated, remote attacker to execute arbitrary code on an affected device. Tracked as  CVE-2024-20253  (CVSS score: 9.9), the issue stems from improper processing of user-provided data that a threat actor could abuse to send a specially crafted message to a listening port of a susceptible appliance. "A successful exploit could allow the attacker to execute arbitrary commands on the underlying operating system with the privileges of the web services user," Cisco  said  in an advisory. "With access to the underlying operating system, the attacker could also establish root access on the affected device." Synacktiv security researcher Julien Egloff has been credited with discovering and reporting CVE-2024-20253. The following products are impacted by the flaw - Unified Communications Manager (versions 11
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 25, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+January 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Perfecting the Defense-in-Depth Strategy with Automation<a href="https://thehackernews.com/2024/01/perfecting-defense-in-depth-strategy.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Medieval castles stood as impregnable fortresses for centuries, thanks to their meticulous design. Fast forward to the digital age, and this medieval wisdom still echoes in cybersecurity. Like castles with strategic layouts to withstand attacks, the Defense-in-Depth strategy is the modern counterpart — a multi-layered approach with strategic redundancy and a blend of passive and active security controls.&nbsp; However, the evolving cyber threat landscape can challenge even the most fortified defenses. Despite the widespread adoption of the Defense-in-Depth strategy, cyber threats persist. Fortunately, the Defense-in-Depth strategy can be augmented using Breach and Attack Simulation (BAS), an automated tool that assesses and improves every security control in each layer. Defense-in-Depth: False Sense of Security with Layers Also known as multi-layered defense, the defense-in-depth strategy has been widely adopted by organizations since the early 2000s. It's based on the assumption that a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -11,6 +11,62 @@ nav_order: 900072
 January 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Cybercrime Researcher Examines the Ransomware Victim’s Mindset<a href="https://therecord.media/ransomware-victim-mindset-dutch-study-tom-meurs?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The study by a cybercrime researcher at the University of Twente analyzed ransomware attacks in the Netherlands from 2019-2022, finding that companies working with incident response firms were most likely to pay ransoms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: AI, Fake CFOs Drive Soaring Corporate Payment-Fraud Attacks<a href="https://www.cybersecuritydive.com/news/payment-fraud-phishin-ai/705403/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Trustpair, 96% of U.S. companies experienced at least one payment fraud attempt in the past year, with a 71% increase from the prior year, indicating a significant rise in fraudulent activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Threat Landscape: 7 Key Findings and Upcoming Trends for 2024<a href="https://thehackernews.com/2024/01/cyber-threat-landscape-7-key-findings.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 2023/2024 Axur Threat Landscape Report provides a comprehensive analysis of the latest cyber threats. The information combines data from the platform's surveillance of the Surface, Deep, and Dark Web with insights derived from the in-depth research and investigations conducted by the Threat Intelligence team. Discover the full scope of digital threats in the Axur Report 2023/2024. Overview In 2023, the cybersecurity landscape witnessed a remarkable rise in cyberattacks.&nbsp; One notable shift was the cyber risk integration with business risk, a concept gaining traction in boardrooms worldwide. As the magnitude of losses due to cyberattacks became evident, organizations started reevaluating their strategies.&nbsp; Geopolitical factors played a significant role in shaping information security. The conflicts between nations like Russia and Ukraine had ripple effects, influencing the tactics of cybercriminals. It was a year where external factors intertwined with digital threats. Ran
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Software Supply Chain Attacks Are Getting Easier<a href="https://www.helpnetsecurity.com/2024/01/24/software-supply-chain-abuse/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In 2023, ReversingLabs identified a significant increase in malicious packages across open-source software platforms like npm, PyPI, and RubyGems. The number of malicious packages detected increased by 1,300% from 2020 and 28% from 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 The Effect of Omission Bias on Vulnerability Management<a href="https://www.helpnetsecurity.com/2024/01/24/vulnerability-management-omission-bias/?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

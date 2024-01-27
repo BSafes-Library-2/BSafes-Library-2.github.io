@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Widening APT29 Espionage Attacks Targeting Global Orgs<a href="https://thehackernews.com/2024/01/microsoft-warns-of-widening-apt29.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft on Thursday said the Russian state-sponsored threat actors responsible for a&nbsp; cyber attack on its systems &nbsp;in late November 2023 have been targeting other organizations and that it's currently beginning to notify them. The development comes a day after Hewlett Packard Enterprise (HPE)&nbsp; revealed &nbsp;that it had been the victim of an attack perpetrated by a hacking crew tracked as&nbsp; APT29 , which is also known as BlueBravo, Cloaked Ursa, Cozy Bear, Midnight Blizzard (formerly Nobelium), and The Dukes. "This threat actor is known to primarily target governments, diplomatic entities, non-governmental organizations (NGOs) and IT service providers, primarily in the U.S. and Europe," the Microsoft Threat Intelligence team&nbsp; said &nbsp;in a new advisory. The primary goal of these espionage missions is to gather sensitive information that is of strategic interest to Russia by maintaining footholds for extended periods of time without attracting any attention. The latest disc
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

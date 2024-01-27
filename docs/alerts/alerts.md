@@ -18,13 +18,24 @@ The Department of Health and Human Services (HHS) helps the Healthcare and Publi
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 23, 2024 - Department for Scienc, Innovation & Technology, U.K.
+January 23, 2024 - Department for Science, Innovation & Technology, U.K.
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Open call for evidence - Cyber Governance Code of Practice: call for views <a href="https://www.gov.uk/government/calls-for-evidence/cyber-governance-code-of-practice-call-for-views/cyber-governance-code-of-practice-call-for-views"> Full Text</a>
 </p>
 <details>
 The UK has a world leading reputation in cutting edge technologies which is underpinned by a pro-innovation approach to tech regulation. As the digital economy continues to grow at an exponential rate, so does society’s dependence and global interconnectivity. This presents benefits but also challenges. We know that malicious actors pose a significant threat, seeking to capitalise on opportunities that exploit cyber security vulnerabilities in digital systems, disrupting business continuity and causing economic harm. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 22, 2024 - Health Sector Cybersecurity Coordination Center, U.S. 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Possible Threat of Unauthorized Access to HPH Organizations from Remote Access Tool <a href="https://www.hhs.gov/sites/default/files/threat-unauthorized-access-hph-orgs-sector-alert.pdf"> Full Text</a>
+</p>
+<details>
+Security researchers are warning that Healthcare and Public Health (HPH) organizations that use the remote access tool ScreenConnect could be adversely affected or targeted by threat actors. The impact of potential unauthorized access on both federal and private industry victims, many of which rely on this tool, would be a concerning development for the healthcare sector. This Sector Alert provides a technical overview of issues concerning the remote access tool, IOCs, and recommendations for mitigations to detect and protect against future cyberattacks.
 </details>
 </div>
 
