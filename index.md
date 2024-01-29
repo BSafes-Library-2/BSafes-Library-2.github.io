@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2024
+January 27, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Nearly 800 GoAnywhere Instances are Unpatched, Exposed to Critical CVE<a href="https://www.cybersecuritydive.com/news/goanywhere-unpatched-critical-CVE/705759/?&web_view=true"> Full Text</a>

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Akira Ransomware Gang Says It Stole Passport Scans From Lush<a href="https://www.theregister.com/2024/01/26/akira_lush_ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Akira ransomware gang has claimed responsibility for a cybersecurity incident at a British bath bomb merchant. They have stolen 110 GB of data, including personal documents such as passport scans, from the global cosmetics giant.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

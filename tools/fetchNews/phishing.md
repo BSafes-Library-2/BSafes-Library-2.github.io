@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Ads on Google Target Chinese Users with Fake Messaging Apps<a href="https://thehackernews.com/2024/01/malicious-ads-on-google-target-chinese.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese-speaking users have been targeted by malicious Google ads for restricted messaging apps like Telegram as part of an ongoing malvertising campaign. "The threat actor is abusing Google advertiser accounts to create malicious ads and pointing them to pages where unsuspecting users will download Remote Administration Trojan (RATs) instead," Malwarebytes' Jérôme Segura&nbsp; said &nbsp;in a Thursday report. "Such programs give an attacker full control of a victim's machine and the ability to drop additional malware." It's worth noting that the activity, codenamed&nbsp; FakeAPP , is a continuation of a&nbsp; prior attack wave &nbsp;that targeted Hong Kong users searching for messaging apps like WhatsApp and Telegram on search engines in late October 2023. The latest iteration of the campaign also adds messaging app LINE to the list of messaging apps, redirecting users to bogus websites hosted on Google Docs or Google Sites. The Google infrastructure is used to embed link
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abu Dhabi Investment Firm Warns About Scam Efforts<a href="https://www.darkreading.com/cyberattacks-data-breaches/abu-dhabi-investment-firm-warns-scam-efforts?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Investor in Abu Dhabi has issued a warning about fraudulent investment schemes misusing its name, logo, and employees' identities to solicit personal and financial information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
