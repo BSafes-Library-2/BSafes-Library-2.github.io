@@ -37,6 +37,22 @@ BSafes library includes mobile-friendly cybersecurity publications.
 January 27, 2024
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Update: Nearly 800 GoAnywhere Instances are Unpatched, Exposed to Critical CVE<a href="https://www.cybersecuritydive.com/news/goanywhere-unpatched-critical-CVE/705759/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The majority of GoAnywhere MFT admin interfaces running on default port settings are hosted in the U.S., with more than 3 in 5 publicly exposed instances hosted on cloud networks operated by Amazon, Microsoft, and Google.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 Therapy Provider Notifying 4 Million Patients of PJ&A Hack<a href="https://www.healthcareinfosecurity.com/therapy-provider-notifying-4-million-patients-pja-hack-a-24200?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -50,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2024
+January 27, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AllaKore RAT Malware Targeting Mexican Firms with Financial Fraud Tricks<a href="https://thehackernews.com/2024/01/allakore-rat-malware-targeting-mexican.html"> Full Text</a>
@@ -66,7 +82,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2024
+January 27, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pegasus Spyware Targets Togolese Journalists' Mobile Devices<a href="https://www.darkreading.com/endpoint-security/pegasus-spyware-togolese-journalists-mobile-devices?&web_view=true"> Full Text</a>
@@ -82,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2024
+January 27, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Akira Ransomware Gang Says It Stole Passport Scans From Lush<a href="https://www.theregister.com/2024/01/26/akira_lush_ransomware/?&web_view=true"> Full Text</a>
@@ -98,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2024
+January 27, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mexican Banks and Cryptocurrency Platforms Targeted With AllaKore RAT<a href="https://blogs.blackberry.com/en/2024/01/mexican-banks-and-cryptocurrency-platforms-targeted-with-allakore-rat?&web_view=true"> Full Text</a>
@@ -114,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2024
+January 26, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Perfecting the Defense-in-Depth Strategy with Automation<a href="https://thehackernews.com/2024/01/perfecting-defense-in-depth-strategy.html"> Full Text</a>
@@ -130,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2024
+January 26, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Ads on Google Target Chinese Users with Fake Messaging Apps<a href="https://thehackernews.com/2024/01/malicious-ads-on-google-target-chinese.html"> Full Text</a>
@@ -146,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2024
+January 26, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Widening APT29 Espionage Attacks Targeting Global Orgs<a href="https://thehackernews.com/2024/01/microsoft-warns-of-widening-apt29.html"> Full Text</a>
@@ -162,7 +178,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2024
+January 26, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abu Dhabi Investment Firm Warns About Scam Efforts<a href="https://www.darkreading.com/cyberattacks-data-breaches/abu-dhabi-investment-firm-warns-scam-efforts?&web_view=true"> Full Text</a>
@@ -178,7 +194,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2024
+January 26, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian TrickBot Mastermind Gets 5-Year Prison Sentence for Cybercrime Spree<a href="https://thehackernews.com/2024/01/russian-trickbot-mastermind-gets-5-year.html"> Full Text</a>
@@ -194,7 +210,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2024
+January 26, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Warn Healthcare Sector of ConnectWise ScreenConnect Threats<a href="https://www.healthcareinfosecurity.com/feds-warn-healthcare-sector-screenconnect-threats-a-24193?&web_view=true"> Full Text</a>
@@ -210,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 26, 2024
+January 26, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Cisco Flaw Lets Hackers Remotely Take Over Unified Comms Systems<a href="https://thehackernews.com/2024/01/critical-cisco-flaw-lets-hackers.html"> Full Text</a>
