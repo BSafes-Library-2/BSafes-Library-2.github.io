@@ -34,7 +34,215 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 27, 2024
+January 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bastille Raises $44M Series C Investment Led by Goldman Sachs Asset Management<a href="https://www.darkreading.com/threat-intelligence/bastille-raises-44m-series-c-investment-led-by-goldman-sachs-asset-management?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bastille Networks, Inc. has secured a $44 million Series C investment led by Growth Equity at Goldman Sachs Asset Management, with participation from existing investor Bessemer Venture Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover How Outlook Vulnerability Could Leak Your NTLM Passwords<a href="https://thehackernews.com/2024/01/researchers-uncover-outlook.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A now-patched security flaw in Microsoft Outlook could be exploited by threat actors to access NT LAN Manager (NTLM) v2 hashed passwords when opening a specially crafted file. The issue, tracked as CVE-2023-35636 (CVSS score: 6.5), was addressed by the tech giant as part of its  Patch Tuesday updates  for December 2023. "In an email attack scenario, an attacker could exploit the vulnerability by sending the specially crafted file to the user and convincing the user to open the file," Microsoft  said  in an advisory released last month. In a web-based attack scenario, an attacker could host a website (or leverage a compromised website that accepts or hosts user-provided content) containing a specially crafted file designed to exploit the vulnerability." Put differently, the adversary would have to convince users to click a link, either embedded in a phishing email or sent via an instant message, and then deceive them into opening the file in question. CVE-2023-3563
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Theft Plaguing K-12 Schools After Holiday Season Attacks<a href="https://therecord.media/data-theft-plaguing-schools-after-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks have affected schools like Ohio’s Groveport Madison Schools, causing disruptions to internet access and damage to devices, but efforts to restore systems and minimize data theft have been successful.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+493 Companies Share Their SaaS Security Battles – Get Insights in this Webinar<a href="https://thehackernews.com/2024/01/493-companies-share-their-saas-security.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital world, security risks are more prevalent than ever, especially when it comes to Software as a Service (SaaS) applications. Did you know that an alarming 97% of companies face serious risks from unsecured SaaS applications? Moreover, about 20% of these organizations are struggling with internal data threats. These statistics aren't just numbers; they're a wake-up call. We're excited to invite you to a not-to-be-missed webinar, " Critical SaaS Security Do's and Don'ts: Insights from 493 Companies ," with Ran Senderovitz , the Chief Operating Officer of Wing Security. Ran isn't just going to talk about the problems; he's going to dive deep into the realities of SaaS security, backed by extensive research and data analysis from almost 500 companies using SaaS. Here's What This Webinar Offers: Insights Across Data, SaaS Applications, Users, and AI: Explore a comprehensive analysis of the statistics about SaaS security, di
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A TrickBot malware developer sentenced to 64 months in prison<a href="https://securityaffairs.com/158194/cyber-crime/trickbot-dev-sentenced-64-months-jail.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vladimir Dunaev was extradited to the US in October 2021 and pleaded guilty to charges related to computer fraud and identity theft. He developed malicious tools that aided in data theft and fraud, resulting in millions of dollars in losses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Riding the AI Waves: The Rise of Artificial Intelligence to Combat Cyber Threats<a href="https://thehackernews.com/2024/01/riding-ai-waves-rise-of-artificial.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In nearly every segment of our lives, AI (artificial intelligence) now makes a significant impact: It can deliver better healthcare diagnoses and treatments; detect and reduce the risk of financial fraud; improve inventory management; and serve up the right recommendation for a streaming movie on Friday night. However, one can also make a strong case that some of AI's most significant impacts are in cybersecurity. AI's ability to learn, adapt, and predict rapidly evolving threats has made it an indispensable tool in protecting the world's businesses and governments. From basic applications like spam filtering to advanced predictive analytics and AI-assisted response, AI serves a critical role on the front lines, defending our digital assets from cyber criminals. The future for AI in cybersecurity is not all rainbows and roses, however. Today we can see the early signs of a significant shift, driven by the democratization of AI technology. While AI continues to empower organizations
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saudi Arabia Boosts Railway Cybersecurity<a href="https://www.darkreading.com/ics-ot-security/saudi-arabia-boosts-railway-cybersecurity-partnership?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The railway network, spanning 4,500 kilometers in Saudi Arabia, faces challenges in securing its legacy and modern technologies, especially with the introduction of IoT signaling and communication systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albabat, Kasseika, Kuiper: New Ransomware Gangs Rise with Rust and Golang<a href="https://thehackernews.com/2024/01/albabat-kasseika-kuiper-new-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detected in the wild yet another variant of the Phobos ransomware family known as  Faust . Fortinet FortiGuard Labs, which detailed the latest iteration of the ransomware, said it's being propagated by means of an infection that delivers a Microsoft Excel document (.XLAM) containing a VBA script. "The attackers utilized the Gitea service to store several files encoded in Base64, each carrying a malicious binary," security researcher Cara Lin  said  in a technical report published last week. "When these files are injected into a system's memory, they initiate a file encryption attack." Faust is the latest addition to several ransomware variants from the Phobos family, including Eking, Eight, Elbie, Devos, and 8Base. It's worth noting that Faust was  previously documented  by Cisco Talos in November 2023. The cybersecurity firm described the variant as active since 2022 and "does not target specific industries or re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: In Major Lapse, Hacked Microsoft Test Account was Assigned Admin Privileges<a href="https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers who recently broke into Microsoft’s network and monitored top executives’ email for two months did so by gaining access to an aging test account with administrative privileges, a major lapse on the company's part, a researcher said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Admits Secretly Buying Your Internet Browsing Data without Warrants<a href="https://thehackernews.com/2024/01/nsa-admits-secretly-buying-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Security Agency (NSA) has admitted to buying internet browsing records from data brokers to identify the websites and apps Americans use that would otherwise require a court order, U.S. Senator Ron Wyden said last week. "The U.S. government should not be funding and legitimizing a shady industry whose flagrant violations of Americans' privacy are not just unethical, but illegal," Wyden  said  in a letter to the Director of National Intelligence (DNI), Avril Haines, in addition to urging the government to take steps to "ensure that U.S. intelligence agencies only purchase data on Americans that has been obtained in a lawful manner." Metadata about users' browsing habits can pose a serious privacy risk, as the information could be used to glean personal details about an individual based on the websites they frequent. This could include websites that offer resources related to mental health, assistance for survivors of sexual assault or do
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Who is Alleged Medibank Hacker Aleksandr Ermakov?<a href="https://krebsonsecurity.com/2024/01/who-is-alleged-medibank-hacker-aleksandr-ermakov/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aleksandr Ermakov, a Russian cybercriminal, has been sanctioned by Australia, the UK, and the US for his alleged involvement in the Medibank data breach and his ties to the REvil ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPI Packages Slip WhiteSnake InfoStealer Malware onto Windows Machines<a href="https://thehackernews.com/2024/01/malicious-pypi-packages-slip-whitesnake.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have identified malicious packages on the open-source Python Package Index (PyPI) repository that deliver an information stealing malware called WhiteSnake Stealer on Windows systems. The malware-laced packages are named nigpal, figflix, telerer, seGMM, fbdebug, sGMM, myGens, NewGends, and TestLibs111. They have been uploaded by a threat actor named "WS." "These packages incorporate Base64-encoded source code of PE or other Python scripts within their setup.py files," Fortinet FortiGuard Labs  said  in an analysis published last week. "Depending on the victim devices' operating system, the final malicious payload is dropped and executed when these Python packages are installed." While Windows systems are infected with WhiteSnake Stealer, compromised Linux hosts are served a Python script designed to harvest information. The activity, which predominantly targets Windows users, overlaps with a  prior campaign  that JFrog
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using Google Search to Find Software can be Risky<a href="https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite Google's efforts to enforce abuse policies and remove malicious ads, cybercrooks are finding new ways to evade detection and continue to lead users to malware-infected websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 27, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Nearly 800 GoAnywhere Instances are Unpatched, Exposed to Critical CVE<a href="https://www.cybersecuritydive.com/news/goanywhere-unpatched-critical-CVE/705759/?&web_view=true"> Full Text</a>
