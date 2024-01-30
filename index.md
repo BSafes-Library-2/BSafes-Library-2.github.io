@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 29, 2024
+January 29, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bastille Raises $44M Series C Investment Led by Goldman Sachs Asset Management<a href="https://www.darkreading.com/threat-intelligence/bastille-raises-44m-series-c-investment-led-by-goldman-sachs-asset-management?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 29, 2024
+January 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover How Outlook Vulnerability Could Leak Your NTLM Passwords<a href="https://thehackernews.com/2024/01/researchers-uncover-outlook.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 29, 2024
+January 29, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Theft Plaguing K-12 Schools After Holiday Season Attacks<a href="https://therecord.media/data-theft-plaguing-schools-after-attacks?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 29, 2024
+January 29, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 493 Companies Share Their SaaS Security Battles – Get Insights in this Webinar<a href="https://thehackernews.com/2024/01/493-companies-share-their-saas-security.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 29, 2024
+January 29, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A TrickBot malware developer sentenced to 64 months in prison<a href="https://securityaffairs.com/158194/cyber-crime/trickbot-dev-sentenced-64-months-jail.html?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 29, 2024
+January 29, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Riding the AI Waves: The Rise of Artificial Intelligence to Combat Cyber Threats<a href="https://thehackernews.com/2024/01/riding-ai-waves-rise-of-artificial.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 29, 2024
+January 29, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Saudi Arabia Boosts Railway Cybersecurity<a href="https://www.darkreading.com/ics-ot-security/saudi-arabia-boosts-railway-cybersecurity-partnership?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 29, 2024
+January 29, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Albabat, Kasseika, Kuiper: New Ransomware Gangs Rise with Rust and Golang<a href="https://thehackernews.com/2024/01/albabat-kasseika-kuiper-new-ransomware.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 29, 2024
+January 29, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: In Major Lapse, Hacked Microsoft Test Account was Assigned Admin Privileges<a href="https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 29, 2024
+January 29, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA Admits Secretly Buying Your Internet Browsing Data without Warrants<a href="https://thehackernews.com/2024/01/nsa-admits-secretly-buying-your.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 29, 2024
+January 29, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Who is Alleged Medibank Hacker Aleksandr Ermakov?<a href="https://krebsonsecurity.com/2024/01/who-is-alleged-medibank-hacker-aleksandr-ermakov/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 29, 2024
+January 29, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PyPI Packages Slip WhiteSnake InfoStealer Malware onto Windows Machines<a href="https://thehackernews.com/2024/01/malicious-pypi-packages-slip-whitesnake.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 29, 2024
+January 29, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Using Google Search to Find Software can be Risky<a href="https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky/?&web_view=true"> Full Text</a>

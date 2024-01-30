@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+January 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Theft Plaguing K-12 Schools After Holiday Season Attacks<a href="https://therecord.media/data-theft-plaguing-schools-after-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks have affected schools like Ohio’s Groveport Madison Schools, causing disruptions to internet access and damage to devices, but efforts to restore systems and minimize data theft have been successful.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

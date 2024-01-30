@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+January 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Saudi Arabia Boosts Railway Cybersecurity<a href="https://www.darkreading.com/ics-ot-security/saudi-arabia-boosts-railway-cybersecurity-partnership?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The railway network, spanning 4,500 kilometers in Saudi Arabia, faces challenges in securing its legacy and modern technologies, especially with the introduction of IoT signaling and communication systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

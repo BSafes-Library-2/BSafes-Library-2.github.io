@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+January 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Albabat, Kasseika, Kuiper: New Ransomware Gangs Rise with Rust and Golang<a href="https://thehackernews.com/2024/01/albabat-kasseika-kuiper-new-ransomware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detected in the wild yet another variant of the Phobos ransomware family known as&nbsp; Faust . Fortinet FortiGuard Labs, which detailed the latest iteration of the ransomware, said it's being propagated by means of an infection that delivers a Microsoft Excel document (.XLAM) containing a VBA script. "The attackers utilized the Gitea service to store several files encoded in Base64, each carrying a malicious binary," security researcher Cara Lin&nbsp; said &nbsp;in a technical report published last week. "When these files are injected into a system's memory, they initiate a file encryption attack." Faust is the latest addition to several ransomware variants from the Phobos family, including Eking, Eight, Elbie, Devos, and 8Base. It's worth noting that Faust was&nbsp; previously documented &nbsp;by Cisco Talos in November 2023. The cybersecurity firm described the variant as active since 2022 and "does not target specific industries or re
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

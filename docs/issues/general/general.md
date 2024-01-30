@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+January 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Riding the AI Waves: The Rise of Artificial Intelligence to Combat Cyber Threats<a href="https://thehackernews.com/2024/01/riding-ai-waves-rise-of-artificial.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In nearly every segment of our lives, AI (artificial intelligence) now makes a significant impact: It can deliver better healthcare diagnoses and treatments; detect and reduce the risk of financial fraud; improve inventory management; and serve up the right recommendation for a streaming movie on Friday night. However, one can also make a strong case that some of AI's most significant impacts are in cybersecurity. AI's ability to learn, adapt, and predict rapidly evolving threats has made it an indispensable tool in protecting the world's businesses and governments. From basic applications like spam filtering to advanced predictive analytics and AI-assisted response, AI serves a critical role on the front lines, defending our digital assets from cyber criminals. The future for AI in cybersecurity is not all rainbows and roses, however. Today we can see the early signs of a significant shift, driven by the democratization of AI technology. While AI continues to empower organizations
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Using Google Search to Find Software can be Risky<a href="https://krebsonsecurity.com/2024/01/using-google-search-to-find-software-can-be-risky/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite Google's efforts to enforce abuse policies and remove malicious ads, cybercrooks are finding new ways to evade detection and continue to lead users to malware-infected websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

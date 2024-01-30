@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Who is Alleged Medibank Hacker Aleksandr Ermakov?<a href="https://krebsonsecurity.com/2024/01/who-is-alleged-medibank-hacker-aleksandr-ermakov/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aleksandr Ermakov, a Russian cybercriminal, has been sanctioned by Australia, the UK, and the US for his alleged involvement in the Medibank data breach and his ties to the REvil ransomware group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
