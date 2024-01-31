@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+January 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Admits Secretly Buying Your Internet Browsing Data without Warrants<a href="https://thehackernews.com/2024/01/nsa-admits-secretly-buying-your.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. National Security Agency (NSA) has admitted to buying internet browsing records from data brokers to identify the websites and apps Americans use that would otherwise require a court order, U.S. Senator Ron Wyden said last week. "The U.S. government should not be funding and legitimizing a shady industry whose flagrant violations of Americans' privacy are not just unethical, but illegal," Wyden&nbsp; said &nbsp;in a letter to the Director of National Intelligence (DNI), Avril Haines, in addition to urging the government to take steps to "ensure that U.S. intelligence agencies only purchase data on Americans that has been obtained in a lawful manner." Metadata about users' browsing habits can pose a serious privacy risk, as the information could be used to glean personal details about an individual based on the websites they frequent. This could include websites that offer resources related to mental health, assistance for survivors of sexual assault or do
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

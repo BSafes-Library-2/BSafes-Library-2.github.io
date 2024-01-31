@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+January 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian Data Protection Watchdog Accuses ChatGPT of Privacy Violations<a href="https://thehackernews.com/2024/01/italian-data-protection-watchdog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy's data protection authority (DPA) has notified ChatGPT-maker OpenAI of supposedly violating privacy laws in the region. "The available evidence pointed to the existence of breaches of the provisions contained in the E.U. GDPR [General Data Protection Regulation]," the Garante per la protezione dei dati personali (aka the Garante)&nbsp; said &nbsp;in a statement on Monday. It also said it will "take account of the work in progress within the ad-hoc&nbsp; task force &nbsp;set up by the European Data Protection Framework (EDPB) in its final determination on the case." The development comes nearly 10 months after the watchdog imposed a&nbsp; temporary ban &nbsp;on ChatGPT in the country, weeks after which OpenAI&nbsp; announced &nbsp;a number of privacy controls, including an&nbsp; opt-out form &nbsp;to remove one's personal data from being processed by the large language model (LLM). Access to the tool was subsequently reinstated in late April 2023. The Italian DPA said the latest findings, which h
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

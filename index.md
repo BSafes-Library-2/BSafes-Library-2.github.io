@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Selling 1.8TB Database of 750 Million Indian Mobile Users<a href="https://www.hackread.com/hacker-selling-1-8tb-database-india-mobile-users/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brazilian Feds Dismantle Grandoreiro Banking Trojan, Arresting Top Operatives<a href="https://thehackernews.com/2024/01/brazilian-feds-dismantle-grandoreiro.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of Network Operators’ Credentials Found Circulating in Dark Web<a href="https://securityaffairs.com/158329/cyber-crime/network-operators-credentials-found-in-dark-web.html?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 URGENT: Upgrade GitLab - Critical Workspace Creation Flaw Allows File Overwrite<a href="https://thehackernews.com/2024/01/urgent-upgrade-gitlab-critical.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dynatrace Acquires Runecast to Improve Cloud-Native Security<a href="https://www.helpnetsecurity.com/2024/01/29/dynatrace-runecast-acquisition/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine’s Prisoners of War Agency Hit by Cyberattack<a href="https://therecord.media/ukraine-pow-agency-cyberattack-russia?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked Hackers Target Myanmar's Top Ministries with Backdoor Blitz<a href="https://thehackernews.com/2024/01/china-linked-hackers-target-myanmars.html"> Full Text</a>
@@ -146,7 +146,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Aid Office in Colombia Reports Its Facebook Page was Hacked<a href="https://apnews.com/article/colombia-usaid-bogota-embassy-facebook-hack-breach-f8710e54b9099220f2a6b63b1741df6e?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top Security Posture Vulnerabilities Revealed<a href="https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html"> Full Text</a>
@@ -178,7 +178,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mistakenly Published Authentication Token Exposed Mercedes-Benz Source Code<a href="https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/?&web_view=true"> Full Text</a>
@@ -194,7 +194,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian Data Protection Watchdog Accuses ChatGPT of Privacy Violations<a href="https://thehackernews.com/2024/01/italian-data-protection-watchdog.html"> Full Text</a>
@@ -210,7 +210,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insurance Broker Notifying 1.5 Million of Health Information Hack<a href="https://www.bankinfosecurity.com/insurance-broker-notifying-15-million-health-info-hack-a-24210?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ZLoader Malware Variant Surfaces with 64-bit Windows Compatibility<a href="https://thehackernews.com/2024/01/new-zloader-malware-variant-surfaces.html"> Full Text</a>
@@ -242,7 +242,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cactus Ransomware Gang Claims the Schneider Electric Hack<a href="https://securityaffairs.com/158320/data-breach/schneider-electric-cactus-ransomware-attack.html?&web_view=true"> Full Text</a>
@@ -258,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploring Telegram’s Dark Markets, Breeding Ground for Modern Phishing Operations<a href="https://labs.guard.io/scammers-paradise-exploring-telegrams-dark-markets-breeding-ground-for-modern-phishing-a2225e51898e?&web_view=true"> Full Text</a>
@@ -274,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 29, 2024
+January 29, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 493 Companies Share Their SaaS Security Battles – Get Insights in this Webinar<a href="https://thehacker.news/saas-security-lessons"> Full Text</a>

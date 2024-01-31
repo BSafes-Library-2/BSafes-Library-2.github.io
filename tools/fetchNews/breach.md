@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: In Major Lapse, Hacked Microsoft Test Account was Assigned Admin Privileges<a href="https://arstechnica.com/security/2024/01/in-major-gaffe-hacked-microsoft-test-account-was-assigned-admin-privileges/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers who recently broke into Microsoft’s network and monitored top executives’ email for two months did so by gaining access to an aging test account with administrative privileges, a major lapse on the company's part, a researcher said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

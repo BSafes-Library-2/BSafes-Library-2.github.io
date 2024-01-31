@@ -34,6 +34,262 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Selling 1.8TB Database of 750 Million Indian Mobile Users<a href="https://www.hackread.com/hacker-selling-1-8tb-database-india-mobile-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised database is being sold on hacker forums, with two cybercrime groups offering the data for sale, highlighting the growing threat posed by emerging threat groups like CYBO CREW and its affiliates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian Feds Dismantle Grandoreiro Banking Trojan, Arresting Top Operatives<a href="https://thehackernews.com/2024/01/brazilian-feds-dismantle-grandoreiro.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Brazilian law enforcement operation has led to the arrest of several Brazilian operators in charge of the  Grandoreiro  malware. The Federal Police of Brazil  said  it served five temporary arrest warrants and 13 search and seizure warrants in the states of São Paulo, Santa Catarina, Pará, Goiás, and Mato Grosso. Slovak cybersecurity firm ESET, which provided additional assistance in the effort, said it uncovered a design flaw in Grandoreiro's network protocol that helped it to identify the victimology patterns. Grandoreiro  is one of the many Latin American banking trojans such as Javali, Melcoz, Casabeniero, Mekotio, and Vadokrist, primarily targeting countries like Spain, Mexico, Brazil, and Argentina. It's known to be active since 2017. In late October 2023, Proofpoint  revealed  details of a phishing campaign that distributed an updated version of the malware to targets in Mexico and Spain. The banking trojan has capabilities to both steal data through keyloggers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Network Operators’ Credentials Found Circulating in Dark Web<a href="https://securityaffairs.com/158329/cyber-crime/network-operators-credentials-found-in-dark-web.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant number of network administrators and IT personnel were found to have their credentials compromised, highlighting the vulnerability of staff involved in network engineering and IT management operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+URGENT: Upgrade GitLab - Critical Workspace Creation Flaw Allows File Overwrite<a href="https://thehackernews.com/2024/01/urgent-upgrade-gitlab-critical.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab once again released fixes to address a critical security flaw in its Community Edition (CE) and Enterprise Edition (EE) that could be exploited to write arbitrary files while creating a  workspace . Tracked as  CVE-2024-0402 , the vulnerability has a CVSS score of 9.9 out of a maximum of 10. "An issue has been discovered in GitLab CE/EE affecting all versions from 16.0 prior to 16.5.8, 16.6 prior to 16.6.6, 16.7 prior to 16.7.4, and 16.8 prior to 16.8.1 which allows an authenticated user to write files to arbitrary locations on the GitLab server while creating a workspace," GitLab  said  in an advisory released on January 25, 2024. The company also noted patches for the bug have been backported to 16.5.8, 16.6.6, 16.7.4, and 16.8.1. Also resolved by GitLab are four medium-severity flaws that could lead to a regular expression denial-of-service (ReDoS), HTML injection, and the disclosure of a user's public email address via the tags RSS feed. The latest updat
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dynatrace Acquires Runecast to Improve Cloud-Native Security<a href="https://www.helpnetsecurity.com/2024/01/29/dynatrace-runecast-acquisition/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dynatrace's acquisition of Runecast will enhance its platform with AI-powered security posture management for proactive risk mitigation and real-time vulnerability assessments in hybrid and multicloud environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine’s Prisoners of War Agency Hit by Cyberattack<a href="https://therecord.media/ukraine-pow-agency-cyberattack-russia?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Coordination Headquarters for Prisoners of War faced a DDoS attack, suspected to be linked to the recent crash of a Russian transport plane carrying Ukrainian prisoners and Russian servicemen.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Hackers Target Myanmar's Top Ministries with Backdoor Blitz<a href="https://thehackernews.com/2024/01/china-linked-hackers-target-myanmars.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-based threat actor known as  Mustang Panda  is suspected to have targeted Myanmar's Ministry of Defence and Foreign Affairs as part of twin campaigns designed to deploy backdoors and remote access trojans. The findings come from CSIRT-CTI, which said the activities took place in November 2023 and January 2024 after artifacts in connection with the attacks were uploaded to the VirusTotal platform. "The most prominent of these TTPs are the use of legitimate software including a binary developed by engineering firm Bernecker & Rainer (B&R) and a component of the Windows 10 upgrade assistant to sideload malicious dynamic-link libraries (DLLs)," CSIRT-CTI  said . Mustang Panda, active since at least 2012, is also recognized by the cybersecurity community under the names BASIN, Bronze President, Camaro Dragon, Earth Preta, HoneyMyte, RedDelta, Red Lich, Stately Taurus, and TEMP.Hex. In recent months, the adversary has been attributed to attacks targeting
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Aid Office in Colombia Reports Its Facebook Page was Hacked<a href="https://apnews.com/article/colombia-usaid-bogota-embassy-facebook-hack-breach-f8710e54b9099220f2a6b63b1741df6e?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unauthorized access to the USAID Colombia Facebook page posed a potential risk, prompting the agency to actively work on restoring account security and investigating the extent of the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Security Posture Vulnerabilities Revealed<a href="https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Each New Year introduces a new set of challenges and opportunities for strengthening our cybersecurity posture. It's the nature of the field – the speed at which malicious actors carry out advanced persistent threats brings a constant, evolving battle for cyber resilience. The excitement in cybersecurity lies in this continuous adaptation and learning, always staying one step ahead of potential threats. As practitioners in an industry that operates around-the-clock, this hypervigilance becomes second nature. We are always in a constant state of readiness, anticipating the next move, adapting strategies, and counteracting threats. However, it remains just as crucial to have our fingers on the pulse of the most common vulnerabilities impacting security postures  right now . Why? Knowing these weak points is not just about defense; it's about ensuring robust, uninterrupted business continuity in an environment where risks are always around the corner. The Importance of Regularl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mistakenly Published Authentication Token Exposed Mercedes-Benz Source Code<a href="https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposure was discovered by RedHunt Labs, which found an employee's authentication token in a public GitHub repository. It could be used to access other private repositories containing cloud access keys, design documents, and source code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Italian Data Protection Watchdog Accuses ChatGPT of Privacy Violations<a href="https://thehackernews.com/2024/01/italian-data-protection-watchdog.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Italy's data protection authority (DPA) has notified ChatGPT-maker OpenAI of supposedly violating privacy laws in the region. "The available evidence pointed to the existence of breaches of the provisions contained in the E.U. GDPR [General Data Protection Regulation]," the Garante per la protezione dei dati personali (aka the Garante)  said  in a statement on Monday. It also said it will "take account of the work in progress within the ad-hoc  task force  set up by the European Data Protection Framework (EDPB) in its final determination on the case." The development comes nearly 10 months after the watchdog imposed a  temporary ban  on ChatGPT in the country, weeks after which OpenAI  announced  a number of privacy controls, including an  opt-out form  to remove one's personal data from being processed by the large language model (LLM). Access to the tool was subsequently reinstated in late April 2023. The Italian DPA said the latest findings, which h
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurance Broker Notifying 1.5 Million of Health Information Hack<a href="https://www.bankinfosecurity.com/insurance-broker-notifying-15-million-health-info-hack-a-24210?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Keenan & Associates, a California insurance broker, is notifying over 1.5 million individuals about a hacking incident in August 2023. The attack compromised personal and health information, including passport numbers and Social Security numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ZLoader Malware Variant Surfaces with 64-bit Windows Compatibility<a href="https://thehackernews.com/2024/01/new-zloader-malware-variant-surfaces.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunters have identified a new campaign that delivers the  ZLoader  malware, resurfacing nearly two years after the botnet's infrastructure was dismantled in April 2022. A new variant of the malware is said to have been in development since September 2023, Zscaler ThreatLabz said in an analysis published this month. "The new version of Zloader made significant changes to the loader module, which added RSA encryption, updated the domain generation algorithm, and is now compiled for 64-bit Windows operating systems for the first time," researchers Santiago Vicente and Ismael Garcia Perez  said . ZLoader, also known by the names Terdot, DELoader, or Silent Night, is an offshoot of the Zeus banking trojan that first surfaced in 2015, before pivoting to functioning as a loader for next-stage payloads, including ransomware. Typically distributed via phishing emails and malicious search engine ads, ZLoader suffered a huge blow after a group of companies led by Micros
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cactus Ransomware Gang Claims the Schneider Electric Hack<a href="https://securityaffairs.com/158320/data-breach/schneider-electric-cactus-ransomware-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Schneider Electric suffered a data breach from a Cactus ransomware attack, impacting their Sustainability Business division and causing outages on the Resource Advisor cloud platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploring Telegram’s Dark Markets, Breeding Ground for Modern Phishing Operations<a href="https://labs.guard.io/scammers-paradise-exploring-telegrams-dark-markets-breeding-ground-for-modern-phishing-a2225e51898e?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing ecosystem has shifted from exclusive Dark web forums to public Telegram channels, making illicit tools and stolen data easily accessible to both seasoned cybercriminals and newcomers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 29, 2024 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+493 Companies Share Their SaaS Security Battles – Get Insights in this Webinar<a href="https://thehacker.news/saas-security-lessons"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital world, security risks are more prevalent than ever, especially when it comes to Software as a Service (SaaS) applications. Did you know that an alarming 97% of companies face serious risks from unsecured SaaS applications? Moreover, about 20% of these organizations are struggling with internal data threats. These statistics aren't just numbers; they're a wake-up call. We're excited to invite you to a not-to-be-missed webinar, " Critical SaaS Security Do's and Don'ts: Insights from 493 Companies ," with Ran Senderovitz , the Chief Operating Officer of Wing Security. Ran isn't just going to talk about the problems; he's going to dive deep into the realities of SaaS security, backed by extensive research and data analysis from almost 500 companies using SaaS. Here's What This Webinar Offers: Insights Across Data, SaaS Applications, Users, and AI: Explore a comprehensive analysis of the statistics about SaaS security, di
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 29, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

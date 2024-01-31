@@ -11,6 +11,20 @@ nav_order: 900053
 January 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+493 Companies Share Their SaaS Security Battles – Get Insights in this Webinar<a href="https://thehacker.news/saas-security-lessons"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In today's digital world, security risks are more prevalent than ever, especially when it comes to Software as a Service (SaaS) applications. Did you know that an alarming 97% of companies face serious risks from unsecured SaaS applications? Moreover, about 20% of these organizations are struggling with internal data threats. These statistics aren't just numbers; they're a wake-up call. We're excited to invite you to a not-to-be-missed webinar, " Critical SaaS Security Do's and Don'ts: Insights from 493 Companies ," with Ran Senderovitz , the Chief Operating Officer of Wing Security. Ran isn't just going to talk about the problems; he's going to dive deep into the realities of SaaS security, backed by extensive research and data analysis from almost 500 companies using SaaS. Here's What This Webinar Offers: Insights Across Data, SaaS Applications, Users, and AI: Explore a comprehensive analysis of the statistics about SaaS security, di
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 493 Companies Share Their SaaS Security Battles – Get Insights in this Webinar<a href="https://thehackernews.com/2024/01/493-companies-share-their-saas-security.html"> Full Text</a>
 </p>
 <details>

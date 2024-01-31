@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A TrickBot malware developer sentenced to 64 months in prison<a href="https://securityaffairs.com/158194/cyber-crime/trickbot-dev-sentenced-64-months-jail.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vladimir Dunaev was extradited to the US in October 2021 and pleaded guilty to charges related to computer fraud and identity theft. He developed malicious tools that aided in data theft and fraud, resulting in millions of dollars in losses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

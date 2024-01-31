@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+January 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bastille Raises $44M Series C Investment Led by Goldman Sachs Asset Management<a href="https://www.darkreading.com/threat-intelligence/bastille-raises-44m-series-c-investment-led-by-goldman-sachs-asset-management?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bastille Networks, Inc. has secured a $44 million Series C investment led by Growth Equity at Goldman Sachs Asset Management, with participation from existing investor Bessemer Venture Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
