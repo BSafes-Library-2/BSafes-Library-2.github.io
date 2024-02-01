@@ -34,7 +34,183 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+February 01, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Active Exploitation of Critical Vulnerability in iOS, iPadOS, and macOS<a href="https://thehackernews.com/2024/02/cisa-warns-of-active-exploitation-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday  added  a high-severity flaw impacting iOS, iPadOS, macOS, tvOS, and watchOS to its Known Exploited Vulnerabilities ( KEV ) catalog, based on evidence of active exploitation. The vulnerability, tracked as  CVE-2022-48618  (CVSS score: 7.8), concerns a bug in the kernel component. "An attacker with arbitrary read and write capability may be able to bypass  Pointer Authentication ," Apple said in an advisory, adding the issue "may have been exploited against versions of iOS released before iOS 15.7.1." The iPhone maker said the problem was addressed with improved checks. It's currently not known how the vulnerability is being weaponized in real-world attacks. Interestingly, patches for the flaw were released on December 13, 2022 with the release of  iOS 16.2, iPadOS 16.2 ,  macOS Ventura 13.1 ,  tvOS 16.2 , and  watchOS 9.2 , although it was only publicly disclosed more than a year
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pawn Storm Uses Brute Force and Stealth Against High-Value Targets<a href="https://www.trendmicro.com/en_us/research/24/a/pawn-storm-uses-brute-force-and-stealth.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pawn Storm, aka APT28 and Forest Blizzard, has been employing anonymization layers, such as VPN services and compromised EdgeOS routers, to hide its tracks and carry out sophisticated attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Evasive Large-Scale Scareware and PUP Delivery Campaign Spotted<a href="https://unit42.paloaltonetworks.com/apateweb-scareware-pup-delivery-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 researchers discovered a large-scale campaign dubbed ApateWeb, which uses over 130,000 domains to distribute scareware, potentially unwanted programs (PUPs), and other scam pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RunC Flaws Enable Container Escapes, Granting Attackers Host Access<a href="https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple security vulnerabilities have been disclosed in the runC command line tool that could be exploited by threat actors to escape the bounds of the container and stage follow-on attacks. The vulnerabilities, tracked as CVE-2024-21626, CVE-2024-23651, CVE-2024-23652, and CVE-2024-23653, have been collectively dubbed  Leaky Vessels  by cybersecurity vendor Snyk. "These container escapes could allow an attacker to gain unauthorized access to the underlying host operating system from within the container and potentially permit access to sensitive data (credentials, customer info, etc.), and launch further attacks, especially when the access gained includes superuser privileges," the company  said  in a report shared with The Hacker News. runC  is a tool for spawning and running containers on Linux. It was originally developed as part of Docker and later  spun out  into a separate open-source library in 2015. A brief description of each of the flaws is below - CVE-202
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Leak at Fintech Giant Direct Trading Technologies<a href="https://securityaffairs.com/158384/security/data-leak-at-fintech-direct-trading-technologies.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked information included names, email addresses, trading activity, passwords, and other personal details. Additionally, the company's outreach team's internal comments were exposed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: Ivanti Discloses 2 New Zero-Day Flaws, One Under Active Exploitation<a href="https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti is alerting of two new high-severity flaws in its Connect Secure and Policy Secure products, one of which is said to have come under targeted exploitation in the wild. The list of vulnerabilities is as follows - CVE-2024-21888  (CVSS score: 8.8) - A privilege escalation vulnerability in the web component of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x) allows a user to elevate privileges to that of an administrator CVE-2024-21893  (CVSS score: 8.2) - A server-side request forgery vulnerability in the SAML component of Ivanti Connect Secure (9.x, 22.x), Ivanti Policy Secure (9.x, 22.x) and Ivanti Neurons for ZTA allows an attacker to access certain restricted resources without authentication The Utah-based software company  said  it found no evidence of customers being impacted by CVE-2024-21888 so far, but acknowledged "the exploitation of CVE-2024-21893 appears to be targeted" and that it's "aware of a limited number of cust
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerabilities in Lamassu Bitcoin ATMs<a href="https://labs.ioactive.com/2024/01/atm-security-owning-bitcoin-atm.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack, IOActive explains, was possible due to a vulnerability in the ATM’s software update mechanism that could allow an attacker to supply their own malicious file and trigger legitimate processes for code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram Marketplaces Fuel Phishing Attacks with Easy-to-Use Kits and Malware<a href="https://thehackernews.com/2024/01/telegram-marketplaces-fuel-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are calling attention to the "democratization" of the phishing ecosystem owing to the emergence of Telegram as an epicenter for cybercrime, enabling threat actors to mount a mass attack for as little as $230. "This messaging app has transformed into a bustling hub where seasoned cybercriminals and newcomers alike exchange illicit tools and insights creating a dark and well-oiled supply chain of tools and victims' data," Guardio Labs researchers Oleg Zaytsev and Nati Tal  said  in a new report. "Free samples, tutorials, kits, even hackers-for-hire – everything needed to construct a complete end-to-end malicious campaign." The company also described Telegram as a "scammers paradise" and a "breeding ground for modern phishing operations." This is not the first time the popular messaging platform has  come under the radar  for facilitating malicious activities, which are in part driven by its lenient modera
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Great Security or Great UX? Both, Please<a href="https://www.helpnetsecurity.com/2024/01/30/ux-designers-security-measures/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security step-ups should only be used for higher-risk scenarios and should be implemented in a user-friendly manner to maintain a balance between security and user experience.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The SEC Won't Let CISOs Be: Understanding New SaaS Cybersecurity Rules<a href="https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SEC isn't giving SaaS a free pass. Applicable public companies, known as "registrants," are now subject to cyber incident disclosure and cybersecurity readiness requirements for data stored in SaaS systems, along with the 3rd and 4th party apps connected to them.  The new cybersecurity mandates  make no distinction between data exposed in a breach that was stored on-premise, in the cloud, or in SaaS environments. In the SEC's own words: "We do not believe that a reasonable investor would view a significant data breach as immaterial merely because the data are housed on a cloud service." This evolving approach comes as SaaS security shortcomings continually make headlines and tech leaders debate  how the SEC may change cybersecurity  after charging both SolarWinds and its CISO with fraud.  Why SaaS and SaaS-to-SaaS Connection Risks Matter to the SEC — And To Your Organization  The perception and reality of SaaS security are, in many cases, miles apart. SaaS security leader  App
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fulton County Cyberattack Brings Down Phones, Court Site and Tax Systems<a href="https://edition.cnn.com/2024/01/30/tech/fulton-county-cyberattack/index.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing cyberattack against Georgia’s Fulton County, which includes parts of Atlanta, has brought some of the government’s systems to a standstill, halting access to court filings, tax processing, and other services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+January 30, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Selling 1.8TB Database of 750 Million Indian Mobile Users<a href="https://www.hackread.com/hacker-selling-1-8tb-database-india-mobile-users/?&web_view=true"> Full Text</a>
@@ -50,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brazilian Feds Dismantle Grandoreiro Banking Trojan, Arresting Top Operatives<a href="https://thehackernews.com/2024/01/brazilian-feds-dismantle-grandoreiro.html"> Full Text</a>
@@ -66,7 +242,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of Network Operators’ Credentials Found Circulating in Dark Web<a href="https://securityaffairs.com/158329/cyber-crime/network-operators-credentials-found-in-dark-web.html?&web_view=true"> Full Text</a>
@@ -82,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 URGENT: Upgrade GitLab - Critical Workspace Creation Flaw Allows File Overwrite<a href="https://thehackernews.com/2024/01/urgent-upgrade-gitlab-critical.html"> Full Text</a>
@@ -98,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dynatrace Acquires Runecast to Improve Cloud-Native Security<a href="https://www.helpnetsecurity.com/2024/01/29/dynatrace-runecast-acquisition/?&web_view=true"> Full Text</a>
@@ -114,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine’s Prisoners of War Agency Hit by Cyberattack<a href="https://therecord.media/ukraine-pow-agency-cyberattack-russia?&web_view=true"> Full Text</a>
@@ -130,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked Hackers Target Myanmar's Top Ministries with Backdoor Blitz<a href="https://thehackernews.com/2024/01/china-linked-hackers-target-myanmars.html"> Full Text</a>
@@ -146,7 +322,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Aid Office in Colombia Reports Its Facebook Page was Hacked<a href="https://apnews.com/article/colombia-usaid-bogota-embassy-facebook-hack-breach-f8710e54b9099220f2a6b63b1741df6e?&web_view=true"> Full Text</a>
@@ -162,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top Security Posture Vulnerabilities Revealed<a href="https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html"> Full Text</a>
@@ -178,7 +354,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mistakenly Published Authentication Token Exposed Mercedes-Benz Source Code<a href="https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/?&web_view=true"> Full Text</a>
@@ -194,7 +370,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Italian Data Protection Watchdog Accuses ChatGPT of Privacy Violations<a href="https://thehackernews.com/2024/01/italian-data-protection-watchdog.html"> Full Text</a>
@@ -210,7 +386,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insurance Broker Notifying 1.5 Million of Health Information Hack<a href="https://www.bankinfosecurity.com/insurance-broker-notifying-15-million-health-info-hack-a-24210?&web_view=true"> Full Text</a>
@@ -226,7 +402,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ZLoader Malware Variant Surfaces with 64-bit Windows Compatibility<a href="https://thehackernews.com/2024/01/new-zloader-malware-variant-surfaces.html"> Full Text</a>
@@ -242,7 +418,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cactus Ransomware Gang Claims the Schneider Electric Hack<a href="https://securityaffairs.com/158320/data-breach/schneider-electric-cactus-ransomware-attack.html?&web_view=true"> Full Text</a>
@@ -258,7 +434,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 30, 2024
+January 30, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploring Telegram’s Dark Markets, Breeding Ground for Modern Phishing Operations<a href="https://labs.guard.io/scammers-paradise-exploring-telegrams-dark-markets-breeding-ground-for-modern-phishing-a2225e51898e?&web_view=true"> Full Text</a>
@@ -274,7 +450,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 29, 2024
+January 29, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 493 Companies Share Their SaaS Security Battles – Get Insights in this Webinar<a href="https://thehacker.news/saas-security-lessons"> Full Text</a>
