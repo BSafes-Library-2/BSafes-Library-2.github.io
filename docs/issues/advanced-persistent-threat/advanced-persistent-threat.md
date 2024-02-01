@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+January 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pawn Storm Uses Brute Force and Stealth Against High-Value Targets<a href="https://www.trendmicro.com/en_us/research/24/a/pawn-storm-uses-brute-force-and-stealth.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pawn Storm, aka APT28 and Forest Blizzard, has been employing anonymization layers, such as VPN services and compromised EdgeOS routers, to hide its tracks and carry out sophisticated attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

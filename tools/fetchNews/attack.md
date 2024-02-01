@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+January 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine’s Prisoners of War Agency Hit by Cyberattack<a href="https://therecord.media/ukraine-pow-agency-cyberattack-russia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukraine's Coordination Headquarters for Prisoners of War faced a DDoS attack, suspected to be linked to the recent crash of a Russian transport plane carrying Ukrainian prisoners and Russian servicemen.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Hackers Target Myanmar's Top Ministries with Backdoor Blitz<a href="https://thehackernews.com/2024/01/china-linked-hackers-target-myanmars.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-based threat actor known as&nbsp; Mustang Panda &nbsp;is suspected to have targeted Myanmar's Ministry of Defence and Foreign Affairs as part of twin campaigns designed to deploy backdoors and remote access trojans. The findings come from CSIRT-CTI, which said the activities took place in November 2023 and January 2024 after artifacts in connection with the attacks were uploaded to the VirusTotal platform. "The most prominent of these TTPs are the use of legitimate software including a binary developed by engineering firm Bernecker &amp; Rainer (B&amp;R) and a component of the Windows 10 upgrade assistant to sideload malicious dynamic-link libraries (DLLs)," CSIRT-CTI&nbsp; said . Mustang Panda, active since at least 2012, is also recognized by the cybersecurity community under the names BASIN, Bronze President, Camaro Dragon, Earth Preta, HoneyMyte, RedDelta, Red Lich, Stately Taurus, and TEMP.Hex. In recent months, the adversary has been attributed to attacks targeting
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

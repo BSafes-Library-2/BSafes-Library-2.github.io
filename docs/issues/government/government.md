@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+February 01, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Active Exploitation of Critical Vulnerability in iOS, iPadOS, and macOS<a href="https://thehackernews.com/2024/02/cisa-warns-of-active-exploitation-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday&nbsp; added &nbsp;a high-severity flaw impacting iOS, iPadOS, macOS, tvOS, and watchOS to its Known Exploited Vulnerabilities ( KEV ) catalog, based on evidence of active exploitation. The vulnerability, tracked as&nbsp; CVE-2022-48618 &nbsp;(CVSS score: 7.8), concerns a bug in the kernel component. "An attacker with arbitrary read and write capability may be able to bypass&nbsp; Pointer Authentication ," Apple said in an advisory, adding the issue "may have been exploited against versions of iOS released before iOS 15.7.1." The iPhone maker said the problem was addressed with improved checks. It's currently not known how the vulnerability is being weaponized in real-world attacks. Interestingly, patches for the flaw were released on December 13, 2022 with the release of&nbsp; iOS 16.2, iPadOS 16.2 ,&nbsp; macOS Ventura 13.1 ,&nbsp; tvOS 16.2 , and&nbsp; watchOS 9.2 , although it was only publicly disclosed more than a year
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

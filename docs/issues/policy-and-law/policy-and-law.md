@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+January 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The SEC Won't Let CISOs Be: Understanding New SaaS Cybersecurity Rules<a href="https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SEC isn't giving SaaS a free pass. Applicable public companies, known as "registrants," are now subject to cyber incident disclosure and cybersecurity readiness requirements for data stored in SaaS systems, along with the 3rd and 4th party apps connected to them.&nbsp; The new cybersecurity mandates &nbsp;make no distinction between data exposed in a breach that was stored on-premise, in the cloud, or in SaaS environments. In the SEC's own words: "We do not believe that a reasonable investor would view a significant data breach as immaterial merely because the data are housed on a cloud service." This evolving approach comes as SaaS security shortcomings continually make headlines and tech leaders debate&nbsp; how the SEC may change cybersecurity &nbsp;after charging both SolarWinds and its CISO with fraud.&nbsp; Why SaaS and SaaS-to-SaaS Connection Risks Matter to the SEC — And To Your Organization&nbsp; The perception and reality of SaaS security are, in many cases, miles apart. SaaS security leader&nbsp; App
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

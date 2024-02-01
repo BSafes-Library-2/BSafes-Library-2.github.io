@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Great Security or Great UX? Both, Please<a href="https://www.helpnetsecurity.com/2024/01/30/ux-designers-security-measures/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security step-ups should only be used for higher-risk scenarios and should be implemented in a user-friendly manner to maintain a balance between security and user experience.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

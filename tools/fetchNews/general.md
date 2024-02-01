@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+January 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Security Posture Vulnerabilities Revealed<a href="https://thehackernews.com/2024/01/top-security-posture-vulnerabilities.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Each New Year introduces a new set of challenges and opportunities for strengthening our cybersecurity posture. It's the nature of the field – the speed at which malicious actors carry out advanced persistent threats brings a constant, evolving battle for cyber resilience. The excitement in cybersecurity lies in this continuous adaptation and learning, always staying one step ahead of potential threats. As practitioners in an industry that operates around-the-clock, this hypervigilance becomes second nature. We are always in a constant state of readiness, anticipating the next move, adapting strategies, and counteracting threats. However, it remains just as crucial to have our fingers on the pulse of the most common vulnerabilities impacting security postures&nbsp; right now . Why? Knowing these weak points is not just about defense; it's about ensuring robust, uninterrupted business continuity in an environment where risks are always around the corner. The Importance of Regularl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

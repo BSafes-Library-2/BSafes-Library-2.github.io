@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+January 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Evasive Large-Scale Scareware and PUP Delivery Campaign Spotted<a href="https://unit42.paloaltonetworks.com/apateweb-scareware-pup-delivery-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unit 42 researchers discovered a large-scale campaign dubbed ApateWeb, which uses over 130,000 domains to distribute scareware, potentially unwanted programs (PUPs), and other scam pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram Marketplaces Fuel Phishing Attacks with Easy-to-Use Kits and Malware<a href="https://thehackernews.com/2024/01/telegram-marketplaces-fuel-phishing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers are calling attention to the "democratization" of the phishing ecosystem owing to the emergence of Telegram as an epicenter for cybercrime, enabling threat actors to mount a mass attack for as little as $230. "This messaging app has transformed into a bustling hub where seasoned cybercriminals and newcomers alike exchange illicit tools and insights creating a dark and well-oiled supply chain of tools and victims' data," Guardio Labs researchers Oleg Zaytsev and Nati Tal&nbsp; said &nbsp;in a new report. "Free samples, tutorials, kits, even hackers-for-hire – everything needed to construct a complete end-to-end malicious campaign." The company also described Telegram as a "scammers paradise" and a "breeding ground for modern phishing operations." This is not the first time the popular messaging platform has&nbsp; come under the radar &nbsp;for facilitating malicious activities, which are in part driven by its lenient modera
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

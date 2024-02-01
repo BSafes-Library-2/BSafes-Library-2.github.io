@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+January 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Leak at Fintech Giant Direct Trading Technologies<a href="https://securityaffairs.com/158384/security/data-leak-at-fintech-direct-trading-technologies.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked information included names, email addresses, trading activity, passwords, and other personal details. Additionally, the company's outreach team's internal comments were exposed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

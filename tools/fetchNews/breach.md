@@ -8,6 +8,62 @@ nav_order: 900029
 
 ## Breach
 ---
+January 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Network Operators’ Credentials Found Circulating in Dark Web<a href="https://securityaffairs.com/158329/cyber-crime/network-operators-credentials-found-in-dark-web.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant number of network administrators and IT personnel were found to have their credentials compromised, highlighting the vulnerability of staff involved in network engineering and IT management operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Aid Office in Colombia Reports Its Facebook Page was Hacked<a href="https://apnews.com/article/colombia-usaid-bogota-embassy-facebook-hack-breach-f8710e54b9099220f2a6b63b1741df6e?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The unauthorized access to the USAID Colombia Facebook page posed a potential risk, prompting the agency to actively work on restoring account security and investigating the extent of the breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mistakenly Published Authentication Token Exposed Mercedes-Benz Source Code<a href="https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exposure was discovered by RedHunt Labs, which found an employee's authentication token in a public GitHub repository. It could be used to access other private repositories containing cloud access keys, design documents, and source code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insurance Broker Notifying 1.5 Million of Health Information Hack<a href="https://www.bankinfosecurity.com/insurance-broker-notifying-15-million-health-info-hack-a-24210?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Keenan &amp; Associates, a California insurance broker, is notifying over 1.5 million individuals about a hacking incident in August 2023. The attack compromised personal and health information, including passport numbers and Social Security numbers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

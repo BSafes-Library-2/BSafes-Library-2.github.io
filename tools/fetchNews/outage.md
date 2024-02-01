@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+January 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cactus Ransomware Gang Claims the Schneider Electric Hack<a href="https://securityaffairs.com/158320/data-breach/schneider-electric-cactus-ransomware-attack.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Schneider Electric suffered a data breach from a Cactus ransomware attack, impacting their Sustainability Business division and causing outages on the Resource Advisor cloud platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

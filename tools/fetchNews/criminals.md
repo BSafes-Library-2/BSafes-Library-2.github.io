@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+January 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Selling 1.8TB Database of 750 Million Indian Mobile Users<a href="https://www.hackread.com/hacker-selling-1-8tb-database-india-mobile-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The compromised database is being sold on hacker forums, with two cybercrime groups offering the data for sale, highlighting the growing threat posed by emerging threat groups like CYBO CREW and its affiliates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+January 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Brazilian Feds Dismantle Grandoreiro Banking Trojan, Arresting Top Operatives<a href="https://thehackernews.com/2024/01/brazilian-feds-dismantle-grandoreiro.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Brazilian law enforcement operation has led to the arrest of several Brazilian operators in charge of the&nbsp; Grandoreiro &nbsp;malware. The Federal Police of Brazil&nbsp; said &nbsp;it served five temporary arrest warrants and 13 search and seizure warrants in the states of São Paulo, Santa Catarina, Pará, Goiás, and Mato Grosso. Slovak cybersecurity firm ESET, which provided additional assistance in the effort, said it uncovered a design flaw in Grandoreiro's network protocol that helped it to identify the victimology patterns. Grandoreiro &nbsp;is one of the many Latin American banking trojans such as Javali, Melcoz, Casabeniero, Mekotio, and Vadokrist, primarily targeting countries like Spain, Mexico, Brazil, and Argentina. It's known to be active since 2017. In late October 2023, Proofpoint&nbsp; revealed &nbsp;details of a phishing campaign that distributed an updated version of the malware to targets in Mexico and Spain. The banking trojan has capabilities to both steal data through keyloggers
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
