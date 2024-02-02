@@ -34,7 +34,183 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protect AI Acquires Laiyer AI to Better Secure AI Models<a href="https://securityboulevard.com/2024/01/protect-ai-acquires-laiyer-ai-to-better-secure-ai-models/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition will enable organizations to benefit from Laiyer AI's LLM Guard software, which detects, redacts, and sanitizes inputs and outputs from LLMs with lower latency, while also supporting open source contributions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 01, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FritzFrog Returns with Log4Shell and PwnKit, Spreading Malware Inside Your Network<a href="https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind a peer-to-peer (P2P) botnet known as  FritzFrog  has made a return with a new variant that leverages the  Log4Shell vulnerability  to propagate internally within an already compromised network. "The vulnerability is exploited in a brute-force manner that attempts to target as many vulnerable Java applications as possible," web infrastructure and security company Akamai said in a report shared with The Hacker News. FritzFrog,  first documented  by Guardicore (now part of Akamai) in August 2020, is a Golang-based malware that primarily targets internet-facing servers with weak SSH credentials. It's known to be active since January 2020. It has  since evolved  to strike healthcare, education, and government sectors as well as improved its capabilities to ultimately deploy cryptocurrency miners on infected hosts. What's novel about the latest version is the use of the Log4Shell vulnerability as a secondary infection vector to specifically si
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Does CVSS 4.0 Solve the Exploitability Problem?<a href="https://www.helpnetsecurity.com/2024/01/31/cvss-4-0-scoring-system/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new system introduces changes such as splitting attack complexity into two parameters and categorizing user interaction into three levels, offering a more nuanced and comprehensive assessment of vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exposed Docker APIs Under Attack in 'Commando Cat' Cryptojacking Campaign<a href="https://thehackernews.com/2024/02/exposed-docker-apis-under-attack-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exposed Docker API endpoints over the internet are under assault from a sophisticated cryptojacking campaign called  Commando Cat . "The campaign deploys a benign container generated using the  Commando project ," Cado security researchers Nate Bill and Matt Muir  said  in a new report published today. "The attacker  escapes this container  and runs multiple payloads on the Docker host." The campaign is believed to have been active since the start of 2024, making it the second such campaign to be discovered in as many months. In mid-January, the cloud security firm also shed light on  another activity cluster  that targets vulnerable Docker hosts to deploy XMRig cryptocurrency miner as well as the 9Hits Viewer software. Commando Cat employs Docker as an initial access vector to deliver a collection of interdependent payloads from an actor-controlled server that is responsible for registering persistence, backdooring the host, exfiltrating cloud service provider
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Incognia Raises $31M in Series B Funding<a href="https://www.finsmes.com/2024/01/incognia-raises-31m-in-series-b-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Incognia, a San Jose-based company specializing in location identity solutions, has raised $31M in Series B funding led by Bessemer Venture Partners, with participation from FJ Labs and existing investors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why the Right Metrics Matter When it Comes to Vulnerability Management<a href="https://thehackernews.com/2024/02/why-right-metrics-matter-when-it-comes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How's your vulnerability management program doing? Is it effective? A success? Let's be honest, without the right metrics or analytics, how can you tell how well you're doing, progressing, or if you're getting ROI? If you're not measuring, how do you know it's working? And even if you are measuring, faulty reporting or focusing on the wrong metrics can create blind spots and make it harder to communicate any risks to the rest of the business. So how do you know what to focus on? Cyber hygiene, scan coverage, average time to fix, vulnerability severity, remediation rates, vulnerability exposure… the list is endless. Every tool on the market offers different metrics, so it can be hard to know what is important. This article will help you identify and define the key metrics that you need to track the state of your vulnerability management program, the progress you've made, so you can create audit-ready reports that: Prove your security posture Meet vulnerability remediation SLAs an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Day Vulnerability can Blind Defenses Relying on Windows Event Logs<a href="https://www.helpnetsecurity.com/2024/01/31/windows-event-log-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability can be leveraged by an attacker with local network access, and until Microsoft issues a patch, users can implement micropatches provided by Acros to mitigate the risk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Feds Shut Down China-Linked "KV-Botnet" Targeting SOHO Routers<a href="https://thehackernews.com/2024/02/us-feds-shut-down-china-linked-kv.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Wednesday said it took steps to neutralize a botnet comprising hundreds of U.S.-based small office and home office (SOHO) routers hijacked by a China-linked state-sponsored threat actor called Volt Typhoon and blunt the impact posed by the hacking campaign. The existence of the botnet, dubbed  KV-botnet , was  first disclosed  by the Black Lotus Labs team at Lumen Technologies in mid-December 2023. The law enforcement effort was  reported  by Reuters earlier this week. "The vast majority of routers that comprised the KV-botnet were Cisco and NetGear routers that were vulnerable because they had reached 'end of life' status; that is, they were no longer supported through their manufacturer's security patches or other software updates," the Department of Justice (DoJ)  said  in a press statement. Volt Typhoon  (aka DEV-0391, Bronze Silhouette, Insidious Taurus, or Vanguard Panda) is the moniker assigned to a China-based adversarial collect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aim Security Raises $10M for its GenAI Security Platform<a href="https://techcrunch.com/2024/01/31/aim-security-raises-10m-for-its-genai-security-platform/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tel Aviv-based Aim Security has raised $10 million in seed funding for its new GenAI security platform, led by YL Ventures and including participation from Cyber Club London and angel investors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HeadCrab 2.0 Goes Fileless, Targeting Redis Servers for Crypto Mining<a href="https://thehackernews.com/2024/02/headcrab-20-goes-fileless-targeting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have detailed an updated version of the malware  HeadCrab  that's known to target Redis database servers across the world since early September 2021. The development, which comes exactly a year after the malware was first  publicly disclosed  by Aqua, is a sign that the financially-motivated threat actor behind the campaign is actively adapting and refining their tactics and techniques to stay ahead of the detection curve. The cloud security firm  said  that "the campaign has almost doubled the number of infected Redis servers," with an additional 1,100 compromised servers, up from 1,200 reported at the start of 2023. HeadCrab is designed to infiltrate internet-exposed Redis servers and wrangle them into a botnet for illicitly mining cryptocurrency, while also leveraging the access in a manner that allows the threat actor to execute shell commands, load fileless kernel modules, and exfiltrate data to a remote server. While the origins of th
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Affairs Canada Hit by Cyberattack, Shuts Down Computer Systems to Fix<a href="https://www.theglobeandmail.com/politics/article-global-affairs-hit-by-cyberattack-shuts-down-computer-systems-to-fix/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Foreign Ministry of Canada has been hit by a cyberattack, leading to the closure of remote access to its network. Hackers gained access to personal data, and experts suspect a foreign country, possibly Russia or China, to be behind the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 01, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Active Exploitation of Critical Vulnerability in iOS, iPadOS, and macOS<a href="https://thehackernews.com/2024/02/cisa-warns-of-active-exploitation-of.html"> Full Text</a>
@@ -50,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2024
+January 31, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pawn Storm Uses Brute Force and Stealth Against High-Value Targets<a href="https://www.trendmicro.com/en_us/research/24/a/pawn-storm-uses-brute-force-and-stealth.html?&web_view=true"> Full Text</a>
@@ -66,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2024
+January 31, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Evasive Large-Scale Scareware and PUP Delivery Campaign Spotted<a href="https://unit42.paloaltonetworks.com/apateweb-scareware-pup-delivery-campaign/?&web_view=true"> Full Text</a>
@@ -82,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2024
+January 31, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RunC Flaws Enable Container Escapes, Granting Attackers Host Access<a href="https://thehackernews.com/2024/02/runc-flaws-enable-container-escapes.html"> Full Text</a>
@@ -98,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2024
+January 31, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Leak at Fintech Giant Direct Trading Technologies<a href="https://securityaffairs.com/158384/security/data-leak-at-fintech-direct-trading-technologies.html?&web_view=true"> Full Text</a>
@@ -114,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2024
+January 31, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: Ivanti Discloses 2 New Zero-Day Flaws, One Under Active Exploitation<a href="https://thehackernews.com/2024/01/alert-ivanti-discloses-2-new-zero-day.html"> Full Text</a>
@@ -130,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2024
+January 31, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities in Lamassu Bitcoin ATMs<a href="https://labs.ioactive.com/2024/01/atm-security-owning-bitcoin-atm.html?&web_view=true"> Full Text</a>
@@ -146,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2024
+January 31, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telegram Marketplaces Fuel Phishing Attacks with Easy-to-Use Kits and Malware<a href="https://thehackernews.com/2024/01/telegram-marketplaces-fuel-phishing.html"> Full Text</a>
@@ -162,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2024
+January 31, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Great Security or Great UX? Both, Please<a href="https://www.helpnetsecurity.com/2024/01/30/ux-designers-security-measures/?&web_view=true"> Full Text</a>
@@ -178,7 +354,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2024
+January 31, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The SEC Won't Let CISOs Be: Understanding New SaaS Cybersecurity Rules<a href="https://thehackernews.com/2024/01/the-sec-wont-let-cisos-be-understanding.html"> Full Text</a>
@@ -194,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-January 31, 2024
+January 31, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fulton County Cyberattack Brings Down Phones, Court Site and Tax Systems<a href="https://edition.cnn.com/2024/01/30/tech/fulton-county-cyberattack/index.html?&web_view=true"> Full Text</a>
