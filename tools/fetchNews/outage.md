@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+January 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fulton County Cyberattack Brings Down Phones, Court Site and Tax Systems<a href="https://edition.cnn.com/2024/01/30/tech/fulton-county-cyberattack/index.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing cyberattack against Georgia’s Fulton County, which includes parts of Atlanta, has brought some of the government’s systems to a standstill, halting access to court filings, tax processing, and other services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

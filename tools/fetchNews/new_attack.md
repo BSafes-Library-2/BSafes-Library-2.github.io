@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 01, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exposed Docker APIs Under Attack in 'Commando Cat' Cryptojacking Campaign<a href="https://thehackernews.com/2024/02/exposed-docker-apis-under-attack-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Exposed Docker API endpoints over the internet are under assault from a sophisticated cryptojacking campaign called&nbsp; Commando Cat . "The campaign deploys a benign container generated using the&nbsp; Commando project ," Cado security researchers Nate Bill and Matt Muir&nbsp; said &nbsp;in a new report published today. "The attacker&nbsp; escapes this container &nbsp;and runs multiple payloads on the Docker host." The campaign is believed to have been active since the start of 2024, making it the second such campaign to be discovered in as many months. In mid-January, the cloud security firm also shed light on&nbsp; another activity cluster &nbsp;that targets vulnerable Docker hosts to deploy XMRig cryptocurrency miner as well as the 9Hits Viewer software. Commando Cat employs Docker as an initial access vector to deliver a collection of interdependent payloads from an actor-controlled server that is responsible for registering persistence, backdooring the host, exfiltrating cloud service provider
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

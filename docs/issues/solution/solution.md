@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+February 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Does CVSS 4.0 Solve the Exploitability Problem?<a href="https://www.helpnetsecurity.com/2024/01/31/cvss-4-0-scoring-system/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new system introduces changes such as splitting attack complexity into two parameters and categorizing user interaction into three levels, offering a more nuanced and comprehensive assessment of vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

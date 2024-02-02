@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+February 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Affairs Canada Hit by Cyberattack, Shuts Down Computer Systems to Fix<a href="https://www.theglobeandmail.com/politics/article-global-affairs-hit-by-cyberattack-shuts-down-computer-systems-to-fix/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Foreign Ministry of Canada has been hit by a cyberattack, leading to the closure of remote access to its network. Hackers gained access to personal data, and experts suspect a foreign country, possibly Russia or China, to be behind the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

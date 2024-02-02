@@ -8,6 +8,48 @@ nav_order: 900027
 
 ## Business
 ---
+February 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protect AI Acquires Laiyer AI to Better Secure AI Models<a href="https://securityboulevard.com/2024/01/protect-ai-acquires-laiyer-ai-to-better-secure-ai-models/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The acquisition will enable organizations to benefit from Laiyer AI's LLM Guard software, which detects, redacts, and sanitizes inputs and outputs from LLMs with lower latency, while also supporting open source contributions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Incognia Raises $31M in Series B Funding<a href="https://www.finsmes.com/2024/01/incognia-raises-31m-in-series-b-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Incognia, a San Jose-based company specializing in location identity solutions, has raised $31M in Series B funding led by Bessemer Venture Partners, with participation from FJ Labs and existing investors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aim Security Raises $10M for its GenAI Security Platform<a href="https://techcrunch.com/2024/01/31/aim-security-raises-10m-for-its-genai-security-platform/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tel Aviv-based Aim Security has raised $10 million in seed funding for its new GenAI security platform, led by YL Ventures and including participation from Cyber Club London and angel investors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

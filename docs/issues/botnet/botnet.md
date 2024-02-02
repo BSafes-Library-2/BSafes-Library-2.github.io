@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 01, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Feds Shut Down China-Linked "KV-Botnet" Targeting SOHO Routers<a href="https://thehackernews.com/2024/02/us-feds-shut-down-china-linked-kv.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Wednesday said it took steps to neutralize a botnet comprising hundreds of U.S.-based small office and home office (SOHO) routers hijacked by a China-linked state-sponsored threat actor called Volt Typhoon and blunt the impact posed by the hacking campaign. The existence of the botnet, dubbed&nbsp; KV-botnet , was&nbsp; first disclosed &nbsp;by the Black Lotus Labs team at Lumen Technologies in mid-December 2023. The law enforcement effort was&nbsp; reported &nbsp;by Reuters earlier this week. "The vast majority of routers that comprised the KV-botnet were Cisco and NetGear routers that were vulnerable because they had reached 'end of life' status; that is, they were no longer supported through their manufacturer's security patches or other software updates," the Department of Justice (DoJ)&nbsp; said &nbsp;in a press statement. Volt Typhoon &nbsp;(aka DEV-0391, Bronze Silhouette, Insidious Taurus, or Vanguard Panda) is the moniker assigned to a China-based adversarial collect
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

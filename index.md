@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2024
+February 1, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Protect AI Acquires Laiyer AI to Better Secure AI Models<a href="https://securityboulevard.com/2024/01/protect-ai-acquires-laiyer-ai-to-better-secure-ai-models/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2024
+February 01, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FritzFrog Returns with Log4Shell and PwnKit, Spreading Malware Inside Your Network<a href="https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2024
+February 1, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Does CVSS 4.0 Solve the Exploitability Problem?<a href="https://www.helpnetsecurity.com/2024/01/31/cvss-4-0-scoring-system/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2024
+February 01, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exposed Docker APIs Under Attack in 'Commando Cat' Cryptojacking Campaign<a href="https://thehackernews.com/2024/02/exposed-docker-apis-under-attack-in.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2024
+February 1, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Incognia Raises $31M in Series B Funding<a href="https://www.finsmes.com/2024/01/incognia-raises-31m-in-series-b-funding.html?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2024
+February 01, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why the Right Metrics Matter When it Comes to Vulnerability Management<a href="https://thehackernews.com/2024/02/why-right-metrics-matter-when-it-comes.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2024
+February 1, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero-Day Vulnerability can Blind Defenses Relying on Windows Event Logs<a href="https://www.helpnetsecurity.com/2024/01/31/windows-event-log-vulnerability/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2024
+February 01, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Feds Shut Down China-Linked "KV-Botnet" Targeting SOHO Routers<a href="https://thehackernews.com/2024/02/us-feds-shut-down-china-linked-kv.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2024
+February 1, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aim Security Raises $10M for its GenAI Security Platform<a href="https://techcrunch.com/2024/01/31/aim-security-raises-10m-for-its-genai-security-platform/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 01, 2024
+February 01, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HeadCrab 2.0 Goes Fileless, Targeting Redis Servers for Crypto Mining<a href="https://thehackernews.com/2024/02/headcrab-20-goes-fileless-targeting.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 1, 2024
+February 1, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Affairs Canada Hit by Cyberattack, Shuts Down Computer Systems to Fix<a href="https://www.theglobeandmail.com/politics/article-global-affairs-hit-by-cyberattack-shuts-down-computer-systems-to-fix/?&web_view=true"> Full Text</a>

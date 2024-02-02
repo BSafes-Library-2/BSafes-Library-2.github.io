@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 01, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why the Right Metrics Matter When it Comes to Vulnerability Management<a href="https://thehackernews.com/2024/02/why-right-metrics-matter-when-it-comes.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+How's your vulnerability management program doing? Is it effective? A success? Let's be honest, without the right metrics or analytics, how can you tell how well you're doing, progressing, or if you're getting ROI? If you're not measuring, how do you know it's working? And even if you are measuring, faulty reporting or focusing on the wrong metrics can create blind spots and make it harder to communicate any risks to the rest of the business. So how do you know what to focus on? Cyber hygiene, scan coverage, average time to fix, vulnerability severity, remediation rates, vulnerability exposure… the list is endless. Every tool on the market offers different metrics, so it can be hard to know what is important. This article will help you identify and define the key metrics that you need to track the state of your vulnerability management program, the progress you've made, so you can create audit-ready reports that: Prove your security posture Meet vulnerability remediation SLAs an
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
