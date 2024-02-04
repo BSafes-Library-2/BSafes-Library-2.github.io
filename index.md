@@ -34,6 +34,230 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-Linked Hackers Claim Attack on Albania’s Institute of Statistics<a href="https://therecord.media/iran-linked-hackers-claim-attack-on-albania-census-org?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers claimed to have accessed over 100 terabytes of Albania’s geographic information system and population data, although the institute denied that recent census data was compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 03, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Sanctions 6 Iranian Officials for Critical Infrastructure Cyber Attacks<a href="https://thehackernews.com/2024/02/us-sanctions-6-iranian-officials-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) announced sanctions against six officials associated with the Iranian intelligence agency for attacking critical infrastructure entities in the U.S. and other countries. The  officials  include Hamid Reza Lashgarian, Mahdi Lashgarian, Hamid Homayunfal, Milad Mansuri, Mohammad Bagher Shirinkar, and Reza Mohammad Amin Saberian, who are part of the Iranian Islamic Revolutionary Guard Corps Cyber-Electronic Command (IRGC-CEC). Reza Lashgarian is also the head of the IRGC-CEC and a commander in the IRGC-Qods Force. He is alleged to have been involved in various IRGC cyber and intelligence operations. The Treasury Department  said  it's holding these individuals responsible for carrying out "cyber operations in which they hacked and posted images on the screens of programmable logic controllers manufactured by Unitronics, an Israeli company." In late November 2023, the U.S. Cybersecurity and Infras
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South African Railways Lost Over $1M in Phishing Scam<a href="https://www.darkreading.com/endpoint-security/south-african-railways-reports-1m-phishing?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Passenger Rail Agency of South Africa (PRASA) reported a loss of 30.6 million rand due to a phishing scam, with only half of the stolen money recovered. Insider threats, such as ghost email accounts, are suspected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 03, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mastodon Vulnerability Allows Hackers to Hijack Any Decentralized Account<a href="https://thehackernews.com/2024/02/mastodon-vulnerability-allows-hackers.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decentralized social network Mastodon has disclosed a critical security flaw that enables malicious actors to impersonate and take over any account. "Due to insufficient origin validation in all Mastodon, attackers can impersonate and take over any remote account," the maintainers said in a terse advisory. The vulnerability, tracked as  CVE-2024-23832 , has a severity rating of 9.4 out of a maximum of 10. Security researcher  arcanicanis  has been credited with discovering and reporting it. It has been described as an "origin validation error" ( CWE-346 ), which can typically allow an attacker to "access any functionality that is inadvertently accessible to the source." Every Mastodon version prior to 3.5.17 is vulnerable, as are 4.0.x versions before 4.0.13, 4.1.x versions before 4.1.13, and 4.2.x versions before 4.2.5. Mastodon said it's withholding additional technical specifics about the flaw until February 15, 2024, to give  admins  ampl
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in Mastodon Sparks Patching Frenzy<a href="https://www.theregister.com/2024/02/02/critical_vulnerability_in_mastodon_is/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mastodon users and administrators need to upgrade to the latest version to patch a critical vulnerability (CVE-2024-23832) that allows attackers to take over accounts remotely.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 03, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AnyDesk Hacked: Popular Remote Desktop Software Mandates Password Reset<a href="https://thehackernews.com/2024/02/anydesk-hacked-popular-remote-desktop.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote desktop software maker AnyDesk disclosed on Friday that it suffered a cyber attack that led to a compromise of its production systems. The German company said the incident, which it discovered following a security audit, is not a ransomware attack and that it has notified relevant authorities. "We have revoked all security-related certificates and systems have been remediated or replaced where necessary," the company  said  in a statement. "We will be revoking the previous code signing certificate for our binaries shortly and have already started replacing it with a new one." Out of an abundance of caution, AnyDesk has also revoked all passwords to its web portal, my.anydesk[.]com, and it's urging users to change their passwords if the same passwords have been reused on other online services. It's also recommending that users download the latest version of the software, which comes with a new  code signing certificate . AnyDesk did not disclose
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+macOS Malware Campaign Showcases Novel Delivery Technique<a href="https://www.darkreading.com/cyberattacks-data-breaches/macos-malware-campaign-showcases-novel-delivery-technique?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The backdoor, called Activator, employs a unique delivery method that backdoors the victim during the installation process, making it challenging to remove the infection even if the cracked software is removed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Voicemail as Credential Harvesting Lure<a href="https://www.avanan.com/blog/fake-voicemail-as-credential-harvesting-lure?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers disguise the email to appear as if it's from a legitimate brand, using social engineering techniques to lure recipients into clicking on what seems to be an embedded voicemail but is actually a credential harvesting page.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 02, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT28 Hackers Targeting High-Value Orgs with NTLM Relay Attacks<a href="https://thehackernews.com/2024/02/russian-apt28-hackers-targeting-high.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian state-sponsored actors have staged NT LAN Manager (NTLM) v2 hash relay attacks through various methods from April 2022 to November 2023, targeting high-value targets worldwide. The attacks, attributed to an "aggressive" hacking crew called  APT28 , have set their eyes on organizations dealing with foreign affairs, energy, defense, and transportation, as well as those involved with labor, social welfare, finance, parenthood, and local city councils. Cybersecurity firm Trend Micro  assessed  these intrusions as a "cost-efficient method of automating attempts to brute-force its way into the networks" of its targets, noting the adversary may have compromised thousands of email accounts over time. APT28 is also tracked by the broader cybersecurity community under the names Blue Athena, BlueDelta, Fancy Bear, Fighting Ursa, Forest Blizzard (formerly Strontium), FROZENLAKE, Iron Twilight, ITG05, Pawn Storm, Sednit, Sofacy, and TA422. The group, believed to be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 02, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DirtyMoe Malware Infects 2,000+ Ukrainian Computers for DDoS and Cryptojacking<a href="https://thehackernews.com/2024/02/dirtymoe-malware-infects-2000-ukrainian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Computer Emergency Response Team of Ukraine (CERT-UA) has warned that more than 2,000 computers in the country have been infected by a strain of malware called DirtyMoe. The agency  attributed  the campaign to a threat actor it calls  UAC-0027 . DirtyMoe , active since at least 2016, is capable of carrying out cryptojacking and distributed denial-of-service (DDoS) attacks. In March 2022, cybersecurity firm Avast revealed the malware's ability to propagate in a worm-like fashion by taking advantage of known security flaws. The DDoS botnet is known to be delivered by means of another malware referred to as  Purple Fox  or via bogus MSI installer packages for popular software such as Telegram. Purple Fox is also  equipped with a rootkit  that allows the threat actors to  hide the malware  on the machine and make it difficult to detect and remove. The exact initial access vector used in the campaign targeting Ukraine is currently unknown. CERT-UA is recommending that organiza
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber Fined Nearly $11 Million by Dutch Data Regulator<a href="https://www.bankinfosecurity.com/uber-fined-10-million-euros-by-dutch-data-regulator-a-24250?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The regulatory fine resulted from complaints by French Uber drivers and a Paris-based civil society organization, highlighting the significance of user rights and privacy concerns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Payment Fraud is Hitting Organizations Harder Than Ever Before<a href="https://www.helpnetsecurity.com/2024/02/01/payment-fraud-attempts-increase/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Trustpair, 96% of US companies experienced at least one fraud attempt in the past year, with 83% seeing an increase in cyber fraud. Fraudsters used various tactics such as text messages, fake websites, and CEO/CFO impersonations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Man Sentenced to Six Years in Prison for Stealing Millions in Cryptocurrency via SIM Swapping<a href="https://securityaffairs.com/158471/cyber-crime/sim-swapping-man-sentenced.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 22-year-old man from the US, Daniel James Junk, has been sentenced to 72 months in federal prison for his involvement in a fraudulent scheme that led to the theft of millions of dollars through SIM swapping.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Senate Panel Hears Plea for Action on Bank Spoofing Scams<a href="https://www.bankinfosecurity.com/senate-panel-hears-plea-for-action-on-bank-spoofing-scams-a-24245?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A top U.S. banking lobbyist told a Senate panel Thursday there are limits to what financial institutions can do to stop scammers from draining individual banking accounts and called on regulators like the FCC to do more to combat caller ID spoofing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 1, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
