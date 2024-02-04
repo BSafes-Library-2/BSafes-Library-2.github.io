@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 01, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FritzFrog Returns with Log4Shell and PwnKit, Spreading Malware Inside Your Network<a href="https://thehackernews.com/2024/02/fritzfrog-returns-with-log4shell-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind a peer-to-peer (P2P) botnet known as&nbsp; FritzFrog &nbsp;has made a return with a new variant that leverages the&nbsp; Log4Shell vulnerability &nbsp;to propagate internally within an already compromised network. "The vulnerability is exploited in a brute-force manner that attempts to target as many vulnerable Java applications as possible," web infrastructure and security company Akamai said in a report shared with The Hacker News. FritzFrog,&nbsp; first documented &nbsp;by Guardicore (now part of Akamai) in August 2020, is a Golang-based malware that primarily targets internet-facing servers with weak SSH credentials. It's known to be active since January 2020. It has&nbsp; since evolved &nbsp;to strike healthcare, education, and government sectors as well as improved its capabilities to ultimately deploy cryptocurrency miners on infected hosts. What's novel about the latest version is the use of the Log4Shell vulnerability as a secondary infection vector to specifically si
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

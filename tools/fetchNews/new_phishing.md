@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Voicemail as Credential Harvesting Lure<a href="https://www.avanan.com/blog/fake-voicemail-as-credential-harvesting-lure?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers disguise the email to appear as if it's from a legitimate brand, using social engineering techniques to lure recipients into clicking on what seems to be an embedded voicemail but is actually a credential harvesting page.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Payment Fraud is Hitting Organizations Harder Than Ever Before<a href="https://www.helpnetsecurity.com/2024/02/01/payment-fraud-attempts-increase/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Trustpair, 96% of US companies experienced at least one fraud attempt in the past year, with 83% seeing an increase in cyber fraud. Fraudsters used various tactics such as text messages, fake websites, and CEO/CFO impersonations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 01, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

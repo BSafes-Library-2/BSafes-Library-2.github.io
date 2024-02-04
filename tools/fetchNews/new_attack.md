@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-Linked Hackers Claim Attack on Albania’s Institute of Statistics<a href="https://therecord.media/iran-linked-hackers-claim-attack-on-albania-census-org?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers claimed to have accessed over 100 terabytes of Albania’s geographic information system and population data, although the institute denied that recent census data was compromised.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 01, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
