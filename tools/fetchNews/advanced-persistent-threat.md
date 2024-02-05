@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 02, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT28 Hackers Targeting High-Value Orgs with NTLM Relay Attacks<a href="https://thehackernews.com/2024/02/russian-apt28-hackers-targeting-high.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian state-sponsored actors have staged NT LAN Manager (NTLM) v2 hash relay attacks through various methods from April 2022 to November 2023, targeting high-value targets worldwide. The attacks, attributed to an "aggressive" hacking crew called&nbsp; APT28 , have set their eyes on organizations dealing with foreign affairs, energy, defense, and transportation, as well as those involved with labor, social welfare, finance, parenthood, and local city councils. Cybersecurity firm Trend Micro&nbsp; assessed &nbsp;these intrusions as a "cost-efficient method of automating attempts to brute-force its way into the networks" of its targets, noting the adversary may have compromised thousands of email accounts over time. APT28 is also tracked by the broader cybersecurity community under the names Blue Athena, BlueDelta, Fancy Bear, Fighting Ursa, Forest Blizzard (formerly Strontium), FROZENLAKE, Iron Twilight, ITG05, Pawn Storm, Sednit, Sofacy, and TA422. The group, believed to be
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

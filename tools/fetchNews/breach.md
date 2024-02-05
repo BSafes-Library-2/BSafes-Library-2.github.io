@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+February 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South African Railways Lost Over $1M in Phishing Scam<a href="https://www.darkreading.com/endpoint-security/south-african-railways-reports-1m-phishing?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Passenger Rail Agency of South Africa (PRASA) reported a loss of 30.6 million rand due to a phishing scam, with only half of the stolen money recovered. Insider threats, such as ghost email accounts, are suspected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 03, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AnyDesk Hacked: Popular Remote Desktop Software Mandates Password Reset<a href="https://thehackernews.com/2024/02/anydesk-hacked-popular-remote-desktop.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote desktop software maker AnyDesk disclosed on Friday that it suffered a cyber attack that led to a compromise of its production systems. The German company said the incident, which it discovered following a security audit, is not a ransomware attack and that it has notified relevant authorities. "We have revoked all security-related certificates and systems have been remediated or replaced where necessary," the company&nbsp; said &nbsp;in a statement. "We will be revoking the previous code signing certificate for our binaries shortly and have already started replacing it with a new one." Out of an abundance of caution, AnyDesk has also revoked all passwords to its web portal, my.anydesk[.]com, and it's urging users to change their passwords if the same passwords have been reused on other online services. It's also recommending that users download the latest version of the software, which comes with a new&nbsp; code signing certificate . AnyDesk did not disclose
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

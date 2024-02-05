@@ -8,6 +8,48 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 03, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Sanctions 6 Iranian Officials for Critical Infrastructure Cyber Attacks<a href="https://thehackernews.com/2024/02/us-sanctions-6-iranian-officials-for.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) announced sanctions against six officials associated with the Iranian intelligence agency for attacking critical infrastructure entities in the U.S. and other countries. The&nbsp; officials &nbsp;include Hamid Reza Lashgarian, Mahdi Lashgarian, Hamid Homayunfal, Milad Mansuri, Mohammad Bagher Shirinkar, and Reza Mohammad Amin Saberian, who are part of the Iranian Islamic Revolutionary Guard Corps Cyber-Electronic Command (IRGC-CEC). Reza Lashgarian is also the head of the IRGC-CEC and a commander in the IRGC-Qods Force. He is alleged to have been involved in various IRGC cyber and intelligence operations. The Treasury Department&nbsp; said &nbsp;it's holding these individuals responsible for carrying out "cyber operations in which they hacked and posted images on the screens of programmable logic controllers manufactured by Unitronics, an Israeli company." In late November 2023, the U.S. Cybersecurity and Infras
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uber Fined Nearly $11 Million by Dutch Data Regulator<a href="https://www.bankinfosecurity.com/uber-fined-10-million-euros-by-dutch-data-regulator-a-24250?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The regulatory fine resulted from complaints by French Uber drivers and a Paris-based civil society organization, highlighting the significance of user rights and privacy concerns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Man Sentenced to Six Years in Prison for Stealing Millions in Cryptocurrency via SIM Swapping<a href="https://securityaffairs.com/158471/cyber-crime/sim-swapping-man-sentenced.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 22-year-old man from the US, Daniel James Junk, has been sentenced to 72 months in federal prison for his involvement in a fraudulent scheme that led to the theft of millions of dollars through SIM swapping.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 31, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
