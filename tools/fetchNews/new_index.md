@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2024
+February 3, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-Linked Hackers Claim Attack on Albania’s Institute of Statistics<a href="https://therecord.media/iran-linked-hackers-claim-attack-on-albania-census-org?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 03, 2024
+February 03, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. Sanctions 6 Iranian Officials for Critical Infrastructure Cyber Attacks<a href="https://thehackernews.com/2024/02/us-sanctions-6-iranian-officials-for.html"> Full Text</a>
@@ -66,7 +66,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2024
+February 3, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South African Railways Lost Over $1M in Phishing Scam<a href="https://www.darkreading.com/endpoint-security/south-african-railways-reports-1m-phishing?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 03, 2024
+February 03, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mastodon Vulnerability Allows Hackers to Hijack Any Decentralized Account<a href="https://thehackernews.com/2024/02/mastodon-vulnerability-allows-hackers.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2024
+February 3, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability in Mastodon Sparks Patching Frenzy<a href="https://www.theregister.com/2024/02/02/critical_vulnerability_in_mastodon_is/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 03, 2024
+February 03, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AnyDesk Hacked: Popular Remote Desktop Software Mandates Password Reset<a href="https://thehackernews.com/2024/02/anydesk-hacked-popular-remote-desktop.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2024
+February 3, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 macOS Malware Campaign Showcases Novel Delivery Technique<a href="https://www.darkreading.com/cyberattacks-data-breaches/macos-malware-campaign-showcases-novel-delivery-technique?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 3, 2024
+February 3, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Voicemail as Credential Harvesting Lure<a href="https://www.avanan.com/blog/fake-voicemail-as-credential-harvesting-lure?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2024
+February 02, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian APT28 Hackers Targeting High-Value Orgs with NTLM Relay Attacks<a href="https://thehackernews.com/2024/02/russian-apt28-hackers-targeting-high.html"> Full Text</a>
@@ -178,7 +178,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 02, 2024
+February 02, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DirtyMoe Malware Infects 2,000+ Ukrainian Computers for DDoS and Cryptojacking<a href="https://thehackernews.com/2024/02/dirtymoe-malware-infects-2000-ukrainian.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2024
+February 2, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Uber Fined Nearly $11 Million by Dutch Data Regulator<a href="https://www.bankinfosecurity.com/uber-fined-10-million-euros-by-dutch-data-regulator-a-24250?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2024
+February 2, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Payment Fraud is Hitting Organizations Harder Than Ever Before<a href="https://www.helpnetsecurity.com/2024/02/01/payment-fraud-attempts-increase/?&web_view=true"> Full Text</a>
@@ -226,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2024
+February 2, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Man Sentenced to Six Years in Prison for Stealing Millions in Cryptocurrency via SIM Swapping<a href="https://securityaffairs.com/158471/cyber-crime/sim-swapping-man-sentenced.html?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 2, 2024
+February 2, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Senate Panel Hears Plea for Action on Bank Spoofing Scams<a href="https://www.bankinfosecurity.com/senate-panel-hears-plea-for-action-on-bank-spoofing-scams-a-24245?&web_view=true"> Full Text</a>
