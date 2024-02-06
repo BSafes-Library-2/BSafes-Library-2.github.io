@@ -34,6 +34,246 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 25$ Million Lost in Deepfake Conference Call Scam at Hong Kong Office of Multinational Firm<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3250851/everyone-looked-real-multinational-firms-hong-kong-office-loses-hk200-million-after-scammers-stage?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scammers digitally recreated the company's chief financial officer and other employees in a convincing video conference call to trick the victim into making money transfers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 05, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belarusian National Linked to BTC-e Faces 25 Years for $4 Billion Crypto Money Laundering<a href="https://thehackernews.com/2024/02/belarusian-national-linked-to-btc-e.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 42-year-old Belarusian and Cypriot national with alleged connections to the now-defunct cryptocurrency exchange BTC-e is facing charges related to money laundering and operating an unlicensed money services business. Aliaksandr Klimenka , who was arrested in Latvia on December 21, 2023, was extradited to the U.S. If convicted, he faces a maximum penalty of 25 years in prison. BTC-e, which had been operating since 2011, was seized by law enforcement authorities in late July 2017 following the arrest of another key member  Alexander Vinnik , in Greece. The exchange is alleged to have received deposits valued at over $4 billion, with Vinnik laundering funds received from the hack of another digital exchange, Mt. Gox, through various online exchanges, including BTC-e. Court documents  allege  that the exchange was a "significant cybercrime and online money laundering entity," allowing its users to trade in bitcoin with high levels of anonymity, thereby building a customer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mispadu Banking Trojan Exploits Windows SmartScreen Flaw<a href="https://unit42.paloaltonetworks.com/mispadu-infostealer-variant/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Windows SmartScreen vulnerability CVE-2023-36025 allows threat actors to bypass warnings and execute malicious payloads using crafted .url files, posing a significant security risk to Windows users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 05, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Combined Security Practices Changing the Game for Risk Management<a href="https://thehackernews.com/2024/02/combined-security-practices-changing.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A significant challenge within cyber security at present is that there are a lot of risk management platforms available in the market, but only some deal with cyber risks in a very good way. The majority will shout alerts at the customer as and when they become apparent and cause great stress in the process. The issue being that by using a reactive, rather than proactive approach, many risks just sit there, dormant, until an emergency happens.  'Dealing with SOC Operations for more than a decade, I have seen nearly 60 percent of SOC Incidents are repeat findings that keep re-surfacing due to underlying unmitigated Risks. Here the actors may be different, however the risk is mostly the same. This is causing significant alert fatigue.' – Deodatta Wandhekar, Head of Global SOC, SecurityHQ. Combining Frameworks and Best Practices These risks can be prevented. A platform that combines the best practices of multiple frameworks is the solution to tackle this issue.  What is NIST?
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attack Power Skyrockets to 1.6 Tbps<a href="https://www.helpnetsecurity.com/2024/02/02/ddos-attacks-h2-2023/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The second half of 2023 saw a significant increase in the scale and sophistication of DDoS attacks, with the maximum attack power rising to 1.6 Tbps, according to data by Gcore.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 05, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patchwork Using Romance Scam Lures to Infect Android Devices with VajraSpy Malware<a href="https://thehackernews.com/2024/02/patchwork-using-romance-scam-lures-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as Patchwork likely used romance scam lures to trap victims in Pakistan and India, and infect their Android devices with a remote access trojan called  VajraSpy . Slovak cybersecurity firm ESET said it uncovered 12 espionage apps, six of which were available for download from the official Google Play Store and were collectively downloaded more than 1,400 times between April 2021 and March 2023. "VajraSpy has a range of espionage functionalities that can be expanded based on the permissions granted to the app bundled with its code," security researcher Lukáš Štefanko  said . "It steals contacts, files, call logs, and SMS messages, but some of its implementations can even extract WhatsApp and Signal messages, record phone calls, and take pictures with the camera." As many as 148 devices in Pakistan and India are estimated to have been compromised in the wild. The malicious apps distributed via Google Play and elsewhere primarily masqueraded
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Civil Society in Jordan Under Assault by NSO's Pegasus Spyware<a href="https://therecord.media/civil-society-in-jordan-targeted-with-pegasus-spyware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation revealed widespread use of Pegasus spyware on the phones of journalists, human rights advocates, and lawyers in Jordan, suggesting a targeted surveillance campaign by Jordanian authorities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 05, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hands-On Review: SASE-based XDR from Cato Networks<a href="https://thehackernews.com/2024/02/hands-on-review-sase-based-xdr-from.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies are engaged in a seemingly endless cat-and-mouse game when it comes to cybersecurity and cyber threats. As organizations put up one defensive block after another, malicious actors kick their game up a notch to get around those blocks. Part of the challenge is to coordinate the defensive abilities of disparate security tools, even as organizations have limited resources and a dearth of skilled cybersecurity experts. XDR, or Extended Detection and Response, addresses this challenge. XDR platforms correlate indicators from across security domains to detect threats and then provide the tools to remediate incidents.  While XDR has many benefits, legacy approaches have been hampered by the lack of good-quality data. You might end up having a very good view of a threat from events generated by your EPP/EDR system but lack events about the network perspective (or vice versa). XDR products will import data from third-party sensors, but data comes in different formats. The XDR platf
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Ransomware Victims are Declining to Pay Extortionists<a href="https://www.healthcareinfosecurity.com/blogs/more-ransomware-victims-are-declining-to-pay-extortionists-p-3559?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decline in the number of ransomware victims paying a ransom is attributed to better business resilience, assistance from the FBI, and the realization that paying for intangible promises is not effective.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 05, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pegasus Spyware Targeted iPhones of Journalists and Activists in Jordan<a href="https://thehackernews.com/2024/02/pegasus-spyware-targeted-iphones-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The iPhones belonging to nearly three dozen journalists, activists, human rights lawyers, and civil society members in Jordan have been targeted with NSO Group's Pegasus spyware, according to joint findings from Access Now and the Citizen Lab. Nine of the 35 individuals have been  publicly confirmed  as  targeted , out of whom six had their devices compromised with the mercenary surveillanceware tool. The infections are estimated to have taken place from at least 2019 until September 2023. "In some cases, perpetrators posed as journalists, seeking an interview or a quote from victims, while embedding malicious links to Pegasus spyware amid and in between their messages," Access Now  said . "A number of victims were reinfected with Pegasus spyware multiple times — demonstrating the relentless nature of this targeted surveillance campaign." The Israeli company has been under the radar for failing to implement rigorous human rights safeguards prior to selling
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Hackers Primed to Attack US Critical Infrastructure, FBI Director Says<a href="https://www.cybersecuritydive.com/news/fbi-china-hackers-us-critical-infrastructure/706307/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) has observed an evolving threat from China-linked hackers infiltrating U.S. critical infrastructure, aiming to induce societal panic and chaos.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 05, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mispadu Banking Trojan Exploiting Windows SmartScreen Flaw<a href="https://thehackernews.com/2024/02/new-mispadu-banking-trojan-exploiting.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the Mispadu banking Trojan have become the latest to exploit a now-patched Windows SmartScreen security bypass flaw to compromise users in Mexico. The attacks entail a new variant of the malware that was first observed in 2019, Palo Alto Networks Unit 42 said in a report published last week. Propagated via phishing mails, Mispadu is a Delphi-based information stealer known to specifically infect victims in the Latin American (LATAM) region. In March 2023, Metabase Q  revealed  that Mispadu spam campaigns harvested no less than 90,000 bank account credentials since August 2022. It's also part of the larger family of LATAM banking malware, including  Grandoreiro , which was dismantled by Brazilian law enforcement authorities last week. The latest infection chain identified by Unit 42 employs rogue internet shortcut files contained within bogus ZIP archive files that leverage CVE-2023-36025 (CVSS score: 8.8), a high-severity bypass flaw in Windows Smar
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accenture and Tenchi Security Unite to Fortify Supply Chain Security<a href="https://fintech.global/2024/02/01/accenture-and-tenchi-security-unite-to-fortify-supply-chain-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This strategic partnership will involve integrating Tenchi's SaaS platform into Accenture's managed security services to enhance defenses against supply chain security threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Detecting and Mitigating the “Greatness” Phishing Kit Threat<a href="https://blog.sucuri.net/2024/02/detecting-and-mitigating-a-phishing-threat-greatness.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The "Greatness" phishing tool poses a significant threat to Microsoft 365 accounts and has the capability to outmaneuver multi-factor authentication, increasing the potential for cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oasis Security Leaves Stealth With $40M to Lock down the Wild West of Non-Human Identity Management<a href="https://techcrunch.com/2024/01/31/oasis-security-leaves-stealth-with-40m-to-lock-down-the-wild-west-of-non-human-identity-management/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oasis Security, a startup from Israel, has developed a three-part system to address the challenges of non-human identity management, including discovery, resolution, and automation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 3, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
