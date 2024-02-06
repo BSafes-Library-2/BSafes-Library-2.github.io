@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+February 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attack Power Skyrockets to 1.6 Tbps<a href="https://www.helpnetsecurity.com/2024/02/02/ddos-attacks-h2-2023/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The second half of 2023 saw a significant increase in the scale and sophistication of DDoS attacks, with the maximum attack power rising to 1.6 Tbps, according to data by Gcore.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

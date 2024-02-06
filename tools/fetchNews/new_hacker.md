@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+February 05, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patchwork Using Romance Scam Lures to Infect Android Devices with VajraSpy Malware<a href="https://thehackernews.com/2024/02/patchwork-using-romance-scam-lures-to.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor known as Patchwork likely used romance scam lures to trap victims in Pakistan and India, and infect their Android devices with a remote access trojan called&nbsp; VajraSpy . Slovak cybersecurity firm ESET said it uncovered 12 espionage apps, six of which were available for download from the official Google Play Store and were collectively downloaded more than 1,400 times between April 2021 and March 2023. "VajraSpy has a range of espionage functionalities that can be expanded based on the permissions granted to the app bundled with its code," security researcher Lukáš Štefanko&nbsp; said . "It steals contacts, files, call logs, and SMS messages, but some of its implementations can even extract WhatsApp and Signal messages, record phone calls, and take pictures with the camera." As many as 148 devices in Pakistan and India are estimated to have been compromised in the wild. The malicious apps distributed via Google Play and elsewhere primarily masqueraded
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 01, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

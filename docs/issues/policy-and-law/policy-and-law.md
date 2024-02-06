@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 05, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belarusian National Linked to BTC-e Faces 25 Years for $4 Billion Crypto Money Laundering<a href="https://thehackernews.com/2024/02/belarusian-national-linked-to-btc-e.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 42-year-old Belarusian and Cypriot national with alleged connections to the now-defunct cryptocurrency exchange BTC-e is facing charges related to money laundering and operating an unlicensed money services business. Aliaksandr Klimenka , who was arrested in Latvia on December 21, 2023, was extradited to the U.S. If convicted, he faces a maximum penalty of 25 years in prison. BTC-e, which had been operating since 2011, was seized by law enforcement authorities in late July 2017 following the arrest of another key member&nbsp; Alexander Vinnik , in Greece. The exchange is alleged to have received deposits valued at over $4 billion, with Vinnik laundering funds received from the hack of another digital exchange, Mt. Gox, through various online exchanges, including BTC-e. Court documents&nbsp; allege &nbsp;that the exchange was a "significant cybercrime and online money laundering entity," allowing its users to trade in bitcoin with high levels of anonymity, thereby building a customer
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 03, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+February 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Civil Society in Jordan Under Assault by NSO's Pegasus Spyware<a href="https://therecord.media/civil-society-in-jordan-targeted-with-pegasus-spyware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An investigation revealed widespread use of Pegasus spyware on the phones of journalists, human rights advocates, and lawyers in Jordan, suggesting a targeted surveillance campaign by Jordanian authorities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

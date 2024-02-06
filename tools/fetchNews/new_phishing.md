@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 25$ Million Lost in Deepfake Conference Call Scam at Hong Kong Office of Multinational Firm<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3250851/everyone-looked-real-multinational-firms-hong-kong-office-loses-hk200-million-after-scammers-stage?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scammers digitally recreated the company's chief financial officer and other employees in a convincing video conference call to trick the victim into making money transfers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Detecting and Mitigating the “Greatness” Phishing Kit Threat<a href="https://blog.sucuri.net/2024/02/detecting-and-mitigating-a-phishing-threat-greatness.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The "Greatness" phishing tool poses a significant threat to Microsoft 365 accounts and has the capability to outmaneuver multi-factor authentication, increasing the potential for cybercrime.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
