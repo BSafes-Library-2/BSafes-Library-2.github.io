@@ -34,7 +34,215 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024
+February 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch Intelligence Finds Chinese Hackers Spying on Secret Defence Ministry Network<a href="https://therecord.media/dutch-find-chinese-hackers-networks-fortinet?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese state-sponsored hackers breached the internal computer network of the Dutch Ministry of Defence using a vulnerability in FortiGate devices. The breach was for espionage purposes and the malware was found in a compartmentalized network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Fake Facebook Job Ads Spreading 'Ov3r_Stealer' to Steal Crypto and Credentials<a href="https://thehackernews.com/2024/02/beware-fake-facebook-job-ads-spreading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are leveraging bogus Facebook job advertisements as a lure to trick prospective targets into installing a new Windows-based stealer malware codenamed  Ov3r_Stealer . "This malware is designed to steal credentials and crypto wallets and send those to a Telegram channel that the threat actor monitors," Trustwave SpiderLabs said in a report shared with The Hacker News. Ov3r_Stealer is capable of siphoning IP address-based location, hardware info, passwords, cookies, credit card information, auto-fills, browser extensions, crypto wallets, Microsoft Office documents, and a list of antivirus products installed on the compromised host. While the exact end goal of the campaign is unknown, it's likely that the stolen information is offered for sale to other threat actors. Another possibility is that Ov3r_Stealer could be updated over time to act as a  QakBot-like loader  for additional payloads, including ransomware. The starting point of the attack is a weapo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fortinet FortiSIEM Hit by Two 10/10 Severity Vulnerabilities<a href="https://www.theregister.com/2024/02/06/fortinet_fortisiem_vulns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FortiSIEM product from Fortinet has been found to have two new critical vulnerabilities, CVE-2024-23108 and CVE-2024-23109, which allow for remote code execution by unauthenticated attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Detail New Flaws in Azure HDInsight Spark, Kafka, and Hadoop Services<a href="https://thehackernews.com/2024/02/high-severity-flaws-found-in-azure.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three new security vulnerabilities have been discovered in Azure HDInsight's Apache  Hadoop ,  Kafka , and  Spark  services that could be exploited to achieve privilege escalation and a regular expression denial-of-service ( ReDoS ) condition. "The new vulnerabilities affect any authenticated user of Azure HDInsight services such as Apache Ambari and Apache Oozie," Orca security researcher Lidor Ben Shitrit  said  in a technical report shared with The Hacker News. The list of flaws is as follows - CVE-2023-36419  (CVSS score: 8.8) - Azure HDInsight Apache Oozie Workflow Scheduler XML External Entity (XXE) Injection Elevation of Privilege Vulnerability CVE-2023-38156  (CVSS score: 7.2) - Azure HDInsight Apache Ambari Java Database Connectivity (JDBC) Injection Elevation of Privilege Vulnerability Azure HDInsight Apache Oozie Regular Expression Denial-of-Service (ReDoS) Vulnerability (no CVE) The two privilege escalation flaws could be exploited by an authenticate
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Equilend Back in Action as Ransom Payment Rumors Swirl<a href="https://www.theregister.com/2024/02/06/equilend_back_in_action_as/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While it is unclear whether a ransom was paid, the company stated that client transaction data was not accessed during the attack. The attack occurred amidst a major business deal, but experts predicted minimal disruption to EquiLend's operations
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How a $10B Enterprise Customer Drastically Increased their SaaS Security Posture with 201% ROI by Using SSPM<a href="https://thehackernews.com/2024/02/how-10b-enterprise-customer-drastically.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SaaS applications are the darlings of the software world. They enable work from anywhere, facilitate collaboration, and offer a cost-effective alternative to owning the software outright. At the same time, the very features that make SaaS apps so embraced – access from anywhere and collaboration – can also be exploited by threat actors. Recently, Adaptive Shield commissioned a Total Economic Impact™ (TEI) study conducted by Forrester Consulting. The study demonstrates the impactful ROI achieved by a multimedia company with an annual revenue of $10 billion. While the quantitative ROI is significant, at 201%, the qualitative security ROI improvements were substantial.  Figure 1: Summary of the TEI Study In this article, we'll examine the study's findings of how Adaptive Shield's SaaS Security Posture Management (SSPM) platform impacted this global enterprise.  Learn how a $10B media firm dramatically improved their security posture with SSPM The Organization's Top SaaS Challenges
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python Info-stealer Distributed by Malicious Excel Document<a href="https://www.fortinet.com/blog/threat-research/python-info-stealer-malicious-excel-document?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the campaign utilized multiple stages and techniques, including obfuscation and leveraging open platforms, to carry out the attack and steal sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit Job Boards, Stealing Millions of Resumes and Personal Data<a href="https://thehackernews.com/2024/02/hackers-exploit-job-boards-in-apac.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Employment agencies and retail companies chiefly located in the Asia-Pacific (APAC) region have been targeted by a previously undocumented threat actor known as  ResumeLooters  since early 2023 with the goal of stealing sensitive data. Singapore-headquartered Group-IB said the hacking crew's activities are geared towards job search platforms and the theft of resumes, with as many as 65 websites compromised between November 2023 and December 2023. The stolen files are estimated to contain 2,188,444 user data records, of which 510,259 have been taken from job search websites. Over two million unique email addresses are present within the dataset. "By using SQL injection attacks against websites, the threat actor attempts to steal user databases that may include names, phone numbers, emails, and DoBs, as well as information about job seekers' experience, employment history, and other sensitive personal data," security researcher Nikita Rostovcev  said  in a report sh
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ov3r_Stealer Malware Spreads via Phishing and Facebook Advertising<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/trustwave-spiderlabs-uncovers-ov3r_stealer-malware-spread-via-phishing-and-facebook-advertising/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware is distributed through a multi-stage infection chain involving weaponized PDF files, internet shortcuts, and PowerShell loaders, with similarities to the previously disclosed Phemedrone Stealer.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recent SSRF Flaw in Ivanti VPN Products Undergoes Mass Exploitation<a href="https://thehackernews.com/2024/02/recently-disclosed-ssrf-flaw-in-ivanti.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recently disclosed server-side request forgery ( SSRF ) vulnerability impacting Ivanti Connect Secure and Policy Secure products has come under mass exploitation. The Shadowserver Foundation  said  it observed exploitation attempts originating from more than 170 unique IP addresses that aim to establish a reverse shell, among others. The attacks exploit  CVE-2024-21893  (CVSS score: 8.2), an SSRF flaw in the SAML component of Ivanti Connect Secure, Policy Secure, and Neurons for ZTA that allows an attacker to access otherwise restricted resources without authentication. Ivanti had previously divulged that the vulnerability had been exploited in targeted attacks aimed at a "limited number of customers," but cautioned the status quo could change post public disclosure. That's exactly what appears to have happened, especially following the  release  of a proof-of-concept (PoC) exploit by cybersecurity firm Rapid7 last week. The PoC involves fashioning an exploit cha
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Airbus NAVBLUE Flysmart+ Manager Susceptible to Data Manipulation Attacks<a href="https://securityaffairs.com/158661/hacking/airbus-flysmart-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Airbus Navblue Flysmart+ Manager had a vulnerability that allowed attackers to tamper with engine performance calculations and intercept data, posing a serious risk to flight safety.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Imposes Visa Restrictions on those Involved in Illegal Spyware Surveillance<a href="https://thehackernews.com/2024/02/us-imposes-visa-restrictions-on-those.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department said it's implementing a new policy that imposes visa restrictions on individuals who are linked to the illegal use of commercial spyware to surveil civil society members. "The  misuse of commercial spyware  threatens privacy and freedoms of expression, peaceful assembly, and association," Secretary of State Antony Blinken  said . "Such targeting has been linked to arbitrary detentions, forced disappearances, and extrajudicial killings in the most egregious of cases." The latest measures, underscoring continued efforts on part of the U.S. government to curtail the proliferation of surveillance tools, are designed to "promote accountability" for individuals involved in commercial spyware misuse. The new policy covers people who have used such tools to "unlawfully surveil, harass, suppress, or intimidate individuals," as well as those who stand to financially benefit from the misuse. It also includes the companie
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latio Application Security Tester Uses AI to Scan Your Code<a href="https://www.helpnetsecurity.com/2024/02/05/latio-application-security-tester-use-ai-to-scan-your-code/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latio Application Security Tester simplifies code scanning with OpenAI, offering easy code change submission and GitHub Actions templates. The tool's future plans include support for non-OpenAI models, improved handling of large files, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 5, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 25$ Million Lost in Deepfake Conference Call Scam at Hong Kong Office of Multinational Firm<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3250851/everyone-looked-real-multinational-firms-hong-kong-office-loses-hk200-million-after-scammers-stage?&web_view=true"> Full Text</a>
@@ -50,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 05, 2024
+February 05, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belarusian National Linked to BTC-e Faces 25 Years for $4 Billion Crypto Money Laundering<a href="https://thehackernews.com/2024/02/belarusian-national-linked-to-btc-e.html"> Full Text</a>
@@ -66,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024
+February 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mispadu Banking Trojan Exploits Windows SmartScreen Flaw<a href="https://unit42.paloaltonetworks.com/mispadu-infostealer-variant/?&web_view=true"> Full Text</a>
@@ -82,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 05, 2024
+February 05, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Combined Security Practices Changing the Game for Risk Management<a href="https://thehackernews.com/2024/02/combined-security-practices-changing.html"> Full Text</a>
@@ -98,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024
+February 5, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS Attack Power Skyrockets to 1.6 Tbps<a href="https://www.helpnetsecurity.com/2024/02/02/ddos-attacks-h2-2023/?&web_view=true"> Full Text</a>
@@ -114,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 05, 2024
+February 05, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patchwork Using Romance Scam Lures to Infect Android Devices with VajraSpy Malware<a href="https://thehackernews.com/2024/02/patchwork-using-romance-scam-lures-to.html"> Full Text</a>
@@ -130,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024
+February 5, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Civil Society in Jordan Under Assault by NSO's Pegasus Spyware<a href="https://therecord.media/civil-society-in-jordan-targeted-with-pegasus-spyware?&web_view=true"> Full Text</a>
@@ -146,7 +354,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 05, 2024
+February 05, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hands-On Review: SASE-based XDR from Cato Networks<a href="https://thehackernews.com/2024/02/hands-on-review-sase-based-xdr-from.html"> Full Text</a>
@@ -162,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024
+February 5, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Ransomware Victims are Declining to Pay Extortionists<a href="https://www.healthcareinfosecurity.com/blogs/more-ransomware-victims-are-declining-to-pay-extortionists-p-3559?&web_view=true"> Full Text</a>
@@ -178,7 +386,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 05, 2024
+February 05, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pegasus Spyware Targeted iPhones of Journalists and Activists in Jordan<a href="https://thehackernews.com/2024/02/pegasus-spyware-targeted-iphones-of.html"> Full Text</a>
@@ -194,7 +402,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024
+February 5, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked Hackers Primed to Attack US Critical Infrastructure, FBI Director Says<a href="https://www.cybersecuritydive.com/news/fbi-china-hackers-us-critical-infrastructure/706307/?&web_view=true"> Full Text</a>
@@ -210,7 +418,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 05, 2024
+February 05, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mispadu Banking Trojan Exploiting Windows SmartScreen Flaw<a href="https://thehackernews.com/2024/02/new-mispadu-banking-trojan-exploiting.html"> Full Text</a>
@@ -226,7 +434,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024
+February 5, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Accenture and Tenchi Security Unite to Fortify Supply Chain Security<a href="https://fintech.global/2024/02/01/accenture-and-tenchi-security-unite-to-fortify-supply-chain-security/?&web_view=true"> Full Text</a>
@@ -242,7 +450,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024
+February 5, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Detecting and Mitigating the “Greatness” Phishing Kit Threat<a href="https://blog.sucuri.net/2024/02/detecting-and-mitigating-a-phishing-threat-greatness.html?&web_view=true"> Full Text</a>
@@ -258,7 +466,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024
+February 5, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Oasis Security Leaves Stealth With $40M to Lock down the Wild West of Non-Human Identity Management<a href="https://techcrunch.com/2024/01/31/oasis-security-leaves-stealth-with-40m-to-lock-down-the-wild-west-of-non-human-identity-management/?&web_view=true"> Full Text</a>
