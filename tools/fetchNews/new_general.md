@@ -8,6 +8,90 @@ nav_order: 900072
 
 ## General
 ---
+February 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Record-Breaking Ransomware Profits Surpassed $1B in 2023<a href="https://www.bankinfosecurity.com/record-breaking-ransomware-profits-surpassed-1b-in-2023-a-24300?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rise in ransomware profits in 2023 marks a significant reversal from the decline observed in 2022, driven by the innovation and resilience of top-tier ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 08, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Starts Blocking Sideloading of Potentially Dangerous Android Apps in Singapore<a href="https://thehackernews.com/2024/02/google-starts-blocking-sideloading-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has unveiled a new pilot program in Singapore that aims to prevent users from sideloading certain apps that abuse Android app permissions to read one-time passwords and gather sensitive data. "This enhanced fraud protection will analyze and automatically block the installation of apps that may use sensitive runtime permissions frequently abused for financial fraud when the user attempts to install the app from an Internet-sideloading source (web browsers, messaging apps or file managers)," the company&nbsp; said . The feature is designed to examine the permissions declared by a third-party app in real-time and look for those that seek to gain access to sensitive permissions associated with reading SMS messages, deciphering or dismissing notifications from legitimate apps, and accessibility services that have been&nbsp; routinely &nbsp; abused &nbsp;by Android-based malware for&nbsp; extracting valuable information . As part of the test, users in Singapore who attempt to sideload such apps
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Cybersecurity Performance Measures Realistic?<a href="https://www.bankinfosecurity.com/are-cybersecurity-performance-measures-realistic-a-24278?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GAO urged the White House to establish performance measures for federal cybersecurity initiatives, but the ONCD pushed back, citing the difficulty of developing outcome-oriented measures and estimating implementation costs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 07, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Coalition and Tech Giants Unite Against Commercial Spyware Abuse<a href="https://thehackernews.com/2024/02/global-coalition-and-tech-giants-unite.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coalition of dozens of countries, including France, the U.K., and the U.S., along with tech companies such as Google, MDSec, Meta, and Microsoft, have signed a joint agreement to curb the abuse of commercial spyware to commit human rights abuses. The initiative, dubbed the&nbsp; Pall Mall Process , aims to tackle the proliferation and irresponsible use of commercial cyber intrusion tools by establishing guiding principles and policy options for States, industry, and civil society in relation to the development, facilitation, purchase, and use of such tools. The declaration stated that "uncontrolled dissemination" of spyware offerings contributes to "unintentional escalation in cyberspace," noting it poses risks to cyber stability, human rights, national security, and digital security. "Where these tools are used maliciously, attacks can access victims' devices, listen to calls, obtain photos and remotely operate a camera and microphone via 'zero-click&amp;
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Paying Ransoms is Becoming a Cost of Doing Business for Many<a href="https://www.helpnetsecurity.com/2024/02/06/cyber-resilience-priority-for-organizations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies are bracing for a significant increase in cyber threats in 2024, with 96% of respondents expecting the threat of cyberattacks to their industry to rise, and 71% predicting an increase of more than 50%, according to Cohesity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can Use Generative AI to Manipulate Live Conversations<a href="https://www.bankinfosecurity.com/hackers-use-gen-ai-to-manipulate-live-conversations-a-24283?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM researchers demonstrated a technique to intercept live conversations and replace keywords based on the context, allowing for the manipulation of information, financial fraud, and even real-time changes to news broadcasts and political speeches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+February 07, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Webinar: 5 Steps to vCISO Success for MSPs and MSSPs<a href="https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2024 will be the year of the vCISO. An incredible 45% of MSPs and MSSPs are&nbsp; planning to start offering &nbsp;vCISO services in 2024. As an MSP/MSSP providing vCISO services, you own the organization's cybersecurity infrastructure and strategy. But you also need to position yourself as a reliable decision-maker, navigating professional responsibilities, business needs and leadership requirements. A&nbsp; new webinar by Cynomi , vCISO platform leader, hosting CISO and vCISO veteran Jesse Miller from PowerPSA Consulting, provides MSPs and MSSPs with an effective 100-day plan to build themselves up for success. The webinar provides a tangible five-step 100-day action plan that any MSP/MSSP can follow when they engage with a new vCISO client. It also provides guidance on vCISO goals and pitfalls to avoid. By watching the webinar, you can position yourself as a strategic and long-term partner for your clients. They will see you as capable of driving security transformation and managing security con
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 06, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How a $10B Enterprise Customer Drastically Increased their SaaS Security Posture with 201% ROI by Using SSPM<a href="https://thehackernews.com/2024/02/how-10b-enterprise-customer-drastically.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SaaS applications are the darlings of the software world. They enable work from anywhere, facilitate collaboration, and offer a cost-effective alternative to owning the software outright. At the same time, the very features that make SaaS apps so embraced – access from anywhere and collaboration – can also be exploited by threat actors. Recently, Adaptive Shield commissioned a Total Economic Impact™ (TEI) study conducted by Forrester Consulting. The study demonstrates the impactful ROI achieved by a multimedia company with an annual revenue of $10 billion. While the quantitative ROI is significant, at 201%, the qualitative security ROI improvements were substantial.&nbsp; Figure 1: Summary of the TEI Study In this article, we'll examine the study's findings of how Adaptive Shield's SaaS Security Posture Management (SSPM) platform impacted this global enterprise.&nbsp; Learn how a $10B media firm dramatically improved their security posture with SSPM The Organization's Top SaaS Challenges
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

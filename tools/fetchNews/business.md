@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+February 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Accenture and Tenchi Security Unite to Fortify Supply Chain Security<a href="https://fintech.global/2024/02/01/accenture-and-tenchi-security-unite-to-fortify-supply-chain-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This strategic partnership will involve integrating Tenchi's SaaS platform into Accenture's managed security services to enhance defenses against supply chain security threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Oasis Security Leaves Stealth With $40M to Lock down the Wild West of Non-Human Identity Management<a href="https://techcrunch.com/2024/01/31/oasis-security-leaves-stealth-with-40m-to-lock-down-the-wild-west-of-non-human-identity-management/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Oasis Security, a startup from Israel, has developed a three-part system to address the challenges of non-human identity management, including discovery, resolution, and automation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+February 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Ways to Achieve Crypto Agility in a Post-Quantum World<a href="https://www.helpnetsecurity.com/2024/02/06/crypto-agility-strategies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto agility, including the ability to rapidly switch between certificate authorities and encryption standards, is essential for securing digital infrastructure in today's automated operational environment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 November 8, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

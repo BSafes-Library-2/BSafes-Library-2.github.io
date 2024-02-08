@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+February 08, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Operate Undetected in U.S. Critical Infrastructure for Half a Decade<a href="https://thehackernews.com/2024/02/chinese-hackers-operate-undetected-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Wednesday said the Chinese state-sponsored hacking group known as&nbsp; Volt Typhoon &nbsp;had been embedded into some critical infrastructure networks in the country for at least five years. Targets of the threat actor include communications, energy, transportation, and water and wastewater systems sectors in the U.S. and Guam. "Volt Typhoon's choice of targets and pattern of behavior is not consistent with traditional cyber espionage or intelligence gathering operations, and the U.S. authoring agencies assess with high confidence that Volt Typhoon actors are pre-positioning themselves on IT networks to enable lateral movement to OT assets to disrupt functions," the U.S. government&nbsp; said . The joint advisory, which was released by the Cybersecurity and Infrastructure Security Agency (CISA), National Security Agency (NSA), and the Federal Bureau of Investigation (FBI), was also backed by other nations that are part of the Five Eyes (FVEY) intelligence all
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Google Chromium V8 Type Confusion Bug to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/158820/security/cisa-adds-google-chromium-v8-type-confusion-bug-to-its-known-exploited-vulnerabilities-catalog.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2023-4762, can allow a remote attacker to execute arbitrary code via a crafted HTML page, and has been exploited by threat actors to install spyware on both Apple and Android devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

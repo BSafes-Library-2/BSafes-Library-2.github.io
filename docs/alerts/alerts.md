@@ -7,6 +7,43 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2024 - CISA, NSA, FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and Partners Release Advisory on PRC-sponsored Volt Typhoon Activity and Supplemental Living Off the Land Guidance <a href="https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-and-supplemental-living-land"> Full Text</a>
+</p>
+<details>
+Today, CISA, the National Security Agency (NSA), and the Federal Bureau of Investigation (FBI) relea
+sed a joint Cybersecurity Advisory (CSA), PRC State-Sponsored Actors Compromise and Maintain Persistent Access to U.S. Critical Infrastructure alongside supplemental Joint Guidance: Identifying and Mitigating Living off the Land Techniques.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2024 - CISA, NSA, FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and Partners Release Advisory on PRC-sponsored Volt Typhoon Activity and Supplemental Living Off the Land Guidance <a href="https://www.cisa.gov/news-events/alerts/2024/02/07/cisa-and-partners-release-advisory-prc-sponsored-volt-typhoon-activity-and-supplemental-living-land"> Full Text</a>
+</p>
+<details>
+Today, CISA, the National Security Agency (NSA), and the Federal Bureau of Investigation (FBI) released a joint Cybersecurity Advisory (CSA), PRC State-Sponsored Actors Compromise and Maintain Persistent Access to U.S. Critical Infrastructure alongside supplemental Joint Guidance: Identifying and Mitigating Living off the Land Techniques.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds One Known Exploited Vulnerability to Catalog <a href="https://www.cisa.gov/news-events/alerts/2024/02/06/cisa-adds-one-known-exploited-vulnerability-catalog"> Full Text</a>
+</p>
+<details>
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+CVE-2023-4762 Google Chromium V8 Type Confusion Vulnerability
+These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 January 31, 2024 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

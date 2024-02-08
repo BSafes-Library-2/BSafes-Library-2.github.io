@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 07, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Exploited FortiGate Flaw to Breach Dutch Military Network<a href="https://thehackernews.com/2024/02/chinese-hackers-exploited-fortigate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese state-backed hackers broke into a computer network that's used by the Dutch armed forces by targeting Fortinet FortiGate devices. "This [computer network] was used for unclassified research and development (R&amp;D)," the Dutch Military Intelligence and Security Service (MIVD)&nbsp; said &nbsp;in a statement. "Because this system was self-contained, it did not lead to any damage to the defense network." The network had less than 50 users. The intrusion, which took place in 2023, leveraged a known critical security flaw in FortiOS SSL-VPN ( CVE-2022-42475 , CVSS score: 9.3) that allows an unauthenticated attacker to execute arbitrary code via specially crafted requests. Successful exploitation of the flaw paved the way for the deployment of a backdoor dubbed&nbsp; COATHANGER &nbsp;from an actor-controlled server that's designed to grant persistent remote access to the compromised appliances. "The COATHANGER malware is stealthy and persistent," the Dutch N
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

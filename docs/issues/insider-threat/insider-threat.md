@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+February 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Center Fined $4.75M in Insider ID Theft Incident<a href="https://www.bankinfosecurity.com/medical-center-fined-475m-in-insider-id-theft-incident-a-24293?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident revealed data security failures and led to a corrective action plan, including a thorough security risk analysis and implementation of audit controls, to address vulnerabilities and improve patient information protection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

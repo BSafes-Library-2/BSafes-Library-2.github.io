@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Fatal Accident Scam Still Rages On<a href="https://www.malwarebytes.com/blog/news/2024/02/facebook-fatal-accident-scam-still-rages-on?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are using legitimate services like googleapis.com to fingerprint users and redirect them to specific types of scams based on their analysis of the user's IP address, machine type, and VPN usage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 06, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware: Fake Facebook Job Ads Spreading 'Ov3r_Stealer' to Steal Crypto and Credentials<a href="https://thehackernews.com/2024/02/beware-fake-facebook-job-ads-spreading.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are leveraging bogus Facebook job advertisements as a lure to trick prospective targets into installing a new Windows-based stealer malware codenamed&nbsp; Ov3r_Stealer . "This malware is designed to steal credentials and crypto wallets and send those to a Telegram channel that the threat actor monitors," Trustwave SpiderLabs said in a report shared with The Hacker News. Ov3r_Stealer is capable of siphoning IP address-based location, hardware info, passwords, cookies, credit card information, auto-fills, browser extensions, crypto wallets, Microsoft Office documents, and a list of antivirus products installed on the compromised host. While the exact end goal of the campaign is unknown, it's likely that the stolen information is offered for sale to other threat actors. Another possibility is that Ov3r_Stealer could be updated over time to act as a&nbsp; QakBot-like loader &nbsp;for additional payloads, including ransomware. The starting point of the attack is a weapo
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
