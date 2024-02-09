@@ -34,14 +34,30 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2024
+February 09, 2024
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-Dutch Intelligence Finds Chinese Hackers Spying on Secret Defence Ministry Network<a href="https://therecord.media/dutch-find-chinese-hackers-networks-fortinet?&web_view=true"> Full Text</a>
+Warning: New Ivanti Auth Bypass Flaw Affects Connect Secure and ZTA Gateways<a href="https://thehackernews.com/2024/02/warning-new-ivanti-auth-bypass-flaw.html"> Full Text</a>
 </p>
 <details>
   <summary>Abstract</summary>
-Chinese state-sponsored hackers breached the internal computer network of the Dutch Ministry of Defence using a vulnerability in FortiGate devices. The breach was for espionage purposes and the malware was found in a compartmentalized network.
+Ivanti has alerted customers of yet another high-severity security flaw in its Connect Secure, Policy Secure, and ZTA gateway devices that could allow attackers to bypass authentication. The issue, tracked as  CVE-2024-22024 , is rated 8.3 out of 10 on the CVSS scoring system. "An XML external entity or XXE vulnerability in the SAML component of Ivanti Connect Secure (9.x, 22.x), Ivanti Policy Secure (9.x, 22.x) and ZTA gateways which allows an attacker to access certain restricted resources without authentication," the company  said  in an advisory. The company said it discovered the flaw during an internal review as part of its ongoing investigation into multiple security weaknesses in the products that have come to light since the start of the year, including  CVE-2023-46805, CVE-2024-21887 ,  CVE-2024-21888, and CVE-2024-21893 . CVE-2024-22024 affects the following versions of the products - Ivanti Connect Secure (versions 9.1R14.4, 9.1R17.2, 9.1R18.3, 22.4R2.2, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese State-Sponsored Actors Compromised and Maintained Persistent Access to U.S. Critical Infrastructure for Five Years<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volt Typhoon's tactics involve extensive pre-compromise reconnaissance, targeting of public-facing network appliances, exploitation of vulnerabilities, and use of living off the land (LOTL) techniques to maintain long-term undiscovered persistence.
 </details>
 <div style="text-align: right" markdown="1">
 Cyware
@@ -50,7 +66,487 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2024
+February 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Device Authority Raises $7M in Series A Funding<a href="https://www.finsmes.com/2024/02/device-authority-raises-7m-in-series-a-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company specializes in identity and access management for enterprise IoT ecosystems, offering solutions to reduce human error, accelerate incident response, and establish trust in connected environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky APT Disguises as a Korean Company to Distribute Troll Stealer<a href="https://medium.com/s2wblog/kimsuky-disguised-as-a-korean-company-signed-with-a-valid-certificate-to-distribute-troll-stealer-cfa5d54314e2?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Troll Stealer's similarities to known malware families linked to Kimsuky, such as AppleSeed and AlphaSeed, raise concerns about the group's offensive cyber operations and its targeting of South Korean entities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HijackLoader Expands Techniques to Improve Defense Evasion<a href="https://www.crowdstrike.com/blog/hijackloader-expands-techniques/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HijackLoader sample exhibits complex multi-stage behavior, including process hollowing, transacted section hollowing, and user mode hook bypass using Heaven’s Gate, to inject and execute the final payload while evading detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Funerals Reportedly Canceled Due to Ransomware Attack on Austrian Town<a href="https://therecord.media/funerals-canceled-due-to-ransomware-attack-on-austrian-town?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The municipality of Korneuburg in Austria was hit by a ransomware attack, leading to data encryption and the cancellation of funerals due to the inability to issue death certificates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Fatal Accident Scam Still Rages On<a href="https://www.malwarebytes.com/blog/news/2024/02/facebook-fatal-accident-scam-still-rages-on?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are using legitimate services like googleapis.com to fingerprint users and redirect them to specific types of scams based on their analysis of the user's IP address, machine type, and VPN usage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Operate Undetected in U.S. Critical Infrastructure for Half a Decade<a href="https://thehackernews.com/2024/02/chinese-hackers-operate-undetected-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. government on Wednesday said the Chinese state-sponsored hacking group known as  Volt Typhoon  had been embedded into some critical infrastructure networks in the country for at least five years. Targets of the threat actor include communications, energy, transportation, and water and wastewater systems sectors in the U.S. and Guam. "Volt Typhoon's choice of targets and pattern of behavior is not consistent with traditional cyber espionage or intelligence gathering operations, and the U.S. authoring agencies assess with high confidence that Volt Typhoon actors are pre-positioning themselves on IT networks to enable lateral movement to OT assets to disrupt functions," the U.S. government  said . The joint advisory, which was released by the Cybersecurity and Infrastructure Security Agency (CISA), National Security Agency (NSA), and the Federal Bureau of Investigation (FBI), was also backed by other nations that are part of the Five Eyes (FVEY) intelligence all
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NinjaOne Raises $231.5M in Series C Funding<a href="https://www.finsmes.com/2024/02/ninjaone-raises-231-5m-in-series-c-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding will be used to accelerate customer success, support, product innovation, and growth, as NinjaOne aims to empower IT teams with visibility, security, and control over endpoints.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unified Identity – look for the meaning behind the hype!<a href="https://thehackernews.com/2024/02/unified-identity-look-for-meaning.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you've listened to software vendors in the identity space lately, you will have noticed that "unified" has quickly become the buzzword that everyone is adopting to describe their portfolio. And this is great! Unified identity has some amazing benefits!  However (there is always a however, right?) not every "unified" "identity" "security" "platform" is made equal. Some vendors call the combination of workforce IDaaS and customer IDaaS a unified identity solution, while others offer a glorified 2FA service – unified only in the mind of their marketers.  Your landscape matters!   So forget for a moment what the vendors claim, and think back to  your  organization and  your   identity security  landscape. Consider this new definition: "unified" is what has the ability to consolidate your identity challenges with a complete identity solution.  Here's an example: you're responsible for the identity infrastructure of a large hospital. Frontline workers, administrative employees, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Google Chromium V8 Type Confusion Bug to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/158820/security/cisa-adds-google-chromium-v8-type-confusion-bug-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2023-4762, can allow a remote attacker to execute arbitrary code via a crafted HTML page, and has been exploited by threat actors to install spyware on both Apple and Android devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HijackLoader Evolves: Researchers Decode the Latest Evasion Methods<a href="https://thehackernews.com/2024/02/hijackloader-evolves-researchers-decode.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind a loader malware called  HijackLoader  have added new techniques for defense evasion, as the malware continues to be increasingly used by other threat actors to deliver additional payloads and tooling. "The malware developer used a standard process hollowing technique coupled with an additional trigger that was activated by the parent process writing to a pipe," CrowdStrike researchers Donato Onofri and Emanuele Calvelli  said  in a Wednesday analysis. "This new approach has the potential to make defense evasion stealthier." HijackLoader was  first documented  by Zscaler ThreatLabz in September 2023 as having been used as a conduit to deliver DanaBot, SystemBC, and RedLine Stealer. It's also known to share a high degree of similarity with another loader known as IDAT Loader. Both the loaders are assessed to be operated by the same cybercrime group. In the intervening months, HijackLoader has been  propagated  via ClearFake and put to
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Record-Breaking Ransomware Profits Surpassed $1B in 2023<a href="https://www.bankinfosecurity.com/record-breaking-ransomware-profits-surpassed-1b-in-2023-a-24300?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rise in ransomware profits in 2023 marks a significant reversal from the decline observed in 2022, driven by the innovation and resilience of top-tier ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Starts Blocking Sideloading of Potentially Dangerous Android Apps in Singapore<a href="https://thehackernews.com/2024/02/google-starts-blocking-sideloading-of.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has unveiled a new pilot program in Singapore that aims to prevent users from sideloading certain apps that abuse Android app permissions to read one-time passwords and gather sensitive data. "This enhanced fraud protection will analyze and automatically block the installation of apps that may use sensitive runtime permissions frequently abused for financial fraud when the user attempts to install the app from an Internet-sideloading source (web browsers, messaging apps or file managers)," the company  said . The feature is designed to examine the permissions declared by a third-party app in real-time and look for those that seek to gain access to sensitive permissions associated with reading SMS messages, deciphering or dismissing notifications from legitimate apps, and accessibility services that have been  routinely   abused  by Android-based malware for  extracting valuable information . As part of the test, users in Singapore who attempt to sideload such apps
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Fixed an Android Critical Remote Code Execution Flaw<a href="https://securityaffairs.com/158730/mobile-2/google-android-critical-rce.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released the February 2024 security patches for Android to fix 46 vulnerabilities, including a critical remote code execution flaw (CVE-2024-0031) in the System component.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky's New Golang Stealer 'Troll' and 'GoBear' Backdoor Target South Korea<a href="https://thehackernews.com/2024/02/kimsukys-new-golang-stealer-troll-and.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The North Korea-linked nation-state actor known as Kimsuky is suspected of using a previously undocumented Golang-based information stealer called  Troll Stealer . The malware steals "SSH, FileZilla, C drive files/directories, browsers, system information, [and] screen captures" from infected systems, South Korean cybersecurity company S2W  said  in a new technical report. Troll Stealer's links to Kimsuky stem from its similarities to known malware families, such as AppleSeed and AlphaSeed malware that have been attributed to the group. Kimsuky, also tracked under the names APT43, ARCHIPELAGO, Black Banshee, Emerald Sleet (previously Thallium), Nickel Kimball, and Velvet Chollima, is well known for its propensity to steal sensitive, confidential information in offensive cyber operations. In late November 2023, the threat actors were  sanctioned  by the U.S. Treasury Department's Office of Foreign Assets Control (OFAC) for gathering intelligence to further North
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Medical Center Fined $4.75M in Insider ID Theft Incident<a href="https://www.bankinfosecurity.com/medical-center-fined-475m-in-insider-id-theft-incident-a-24293?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The incident revealed data security failures and led to a corrective action plan, including a thorough security risk analysis and implementation of audit controls, to address vulnerabilities and improve patient information protection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Shim Bug Impacts Every Linux Bootloader Signed in the Past Decade<a href="https://securityaffairs.com/158792/hacking/critical-shim-bug-linux.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of 'shim' released version 15.8 to address six vulnerabilities, with the most critical one (CVE-2023-40547) potentially leading to remote code execution and Secure Boot bypass.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After FBI Takedown, KV-Botnet Operators Shift Tactics in Attempt to Bounce Back<a href="https://thehackernews.com/2024/02/after-fbi-takedown-kv-botnet-operators.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the  KV-botnet  made "behavioral changes" to the malicious network as U.S. law enforcement began issuing commands to neutralize the activity. KV-botnet is the name given to a network of compromised small office and home office (SOHO) routers and firewall devices across the world, with one specific cluster acting as a covert data transfer system for other Chinese state-sponsored actors, including  Volt Typhoon  (aka Bronze Silhouette, Insidious Taurus, or Vanguard Panda). Active since at least February 2022, it was  first documented  by the Black Lotus Labs team at Lumen Technologies in mid-December 2023. The botnet is known to comprise two main sub-groups, viz. KV and JDY, with the latter principally used for scanning potential targets for reconnaissance. Late last month, the U.S. government  announced  a court-authorized disruption effort to take down the KV cluster, which is typically reserved for manual operations against high-profile targets c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Are Cybersecurity Performance Measures Realistic?<a href="https://www.bankinfosecurity.com/are-cybersecurity-performance-measures-realistic-a-24278?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GAO urged the White House to establish performance measures for federal cybersecurity initiatives, but the ONCD pushed back, citing the difficulty of developing outcome-oriented measures and estimating implementation costs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bootloader Vulnerability in Shim Impacts Nearly All Linux Distros<a href="https://thehackernews.com/2024/02/critical-bootloader-vulnerability-in.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The maintainers of shim have released  version 15.8  to address six security flaws, including a critical bug that could pave the way for remote code execution under specific circumstances. Tracked as  CVE-2023-40547  (CVSS score: 9.8), the vulnerability could be exploited to achieve a Secure Boot bypass. Bill Demirkapi of the Microsoft Security Response Center (MSRC) has been  credited  with discovering and reporting the bug. "The shim's http boot support (httpboot.c) trusts attacker-controlled values when parsing an HTTP response, leading to a completely controlled out-of-bounds write primitive," Oracle's Alan Coopersmith  noted  in a message shared on the Open Source Security mailing list oss-security. Demirkapi, in a  post  shared on X (formerly Twitter) late last month, said the vulnerability "exists in every Linux boot loader signed in the past decade." shim refers to a "trivial"  software package  that's  designed  to work as a firs
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Bugs in Canon Printers Allow Code Execution, DDoS<a href="https://www.darkreading.com/endpoint-security/critical-bugs-canon-small-office-printers-code-execution-ddos?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canon has patched critical buffer-overflow bugs in its printers that could allow attackers to remotely perform denial of service or execute arbitrary code, emphasizing the importance of promptly updating firmware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2024 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Webinar: 5 Steps to vCISO Success for MSPs and MSSPs<a href="https://thehackernews.com/2024/02/new-webinar-5-steps-to-vciso-success.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+2024 will be the year of the vCISO. An incredible 45% of MSPs and MSSPs are  planning to start offering  vCISO services in 2024. As an MSP/MSSP providing vCISO services, you own the organization's cybersecurity infrastructure and strategy. But you also need to position yourself as a reliable decision-maker, navigating professional responsibilities, business needs and leadership requirements. A  new webinar by Cynomi , vCISO platform leader, hosting CISO and vCISO veteran Jesse Miller from PowerPSA Consulting, provides MSPs and MSSPs with an effective 100-day plan to build themselves up for success. The webinar provides a tangible five-step 100-day action plan that any MSP/MSSP can follow when they engage with a new vCISO client. It also provides guidance on vCISO goals and pitfalls to avoid. By watching the webinar, you can position yourself as a strategic and long-term partner for your clients. They will see you as capable of driving security transformation and managing security con
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2024 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three Ways to Achieve Crypto Agility in a Post-Quantum World<a href="https://www.helpnetsecurity.com/2024/02/06/crypto-agility-strategies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Crypto agility, including the ability to rapidly switch between certificate authorities and encryption standards, is essential for securing digital infrastructure in today's automated operational environment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Coalition and Tech Giants Unite Against Commercial Spyware Abuse<a href="https://thehackernews.com/2024/02/global-coalition-and-tech-giants-unite.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coalition of dozens of countries, including France, the U.K., and the U.S., along with tech companies such as Google, MDSec, Meta, and Microsoft, have signed a joint agreement to curb the abuse of commercial spyware to commit human rights abuses. The initiative, dubbed the  Pall Mall Process , aims to tackle the proliferation and irresponsible use of commercial cyber intrusion tools by establishing guiding principles and policy options for States, industry, and civil society in relation to the development, facilitation, purchase, and use of such tools. The declaration stated that "uncontrolled dissemination" of spyware offerings contributes to "unintentional escalation in cyberspace," noting it poses risks to cyber stability, human rights, national security, and digital security. "Where these tools are used maliciously, attacks can access victims' devices, listen to calls, obtain photos and remotely operate a camera and microphone via 'zero-click&
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Open Sources AI-Boosted Fuzzing Framework<a href="https://www.darkreading.com/application-security/google-open-sources-ai-boosted-fuzzing-framework?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The framework has successfully identified vulnerabilities in C/C++ projects, including two in cJSON and libplist, which might have remained undiscovered without the use of large language models.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Exploited FortiGate Flaw to Breach Dutch Military Network<a href="https://thehackernews.com/2024/02/chinese-hackers-exploited-fortigate.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese state-backed hackers broke into a computer network that's used by the Dutch armed forces by targeting Fortinet FortiGate devices. "This [computer network] was used for unclassified research and development (R&D)," the Dutch Military Intelligence and Security Service (MIVD)  said  in a statement. "Because this system was self-contained, it did not lead to any damage to the defense network." The network had less than 50 users. The intrusion, which took place in 2023, leveraged a known critical security flaw in FortiOS SSL-VPN ( CVE-2022-42475 , CVSS score: 9.3) that allows an unauthenticated attacker to execute arbitrary code via specially crafted requests. Successful exploitation of the flaw paved the way for the deployment of a backdoor dubbed  COATHANGER  from an actor-controlled server that's designed to grant persistent remote access to the compromised appliances. "The COATHANGER malware is stealthy and persistent," the Dutch N
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Vulnerabilities in Azure HDInsight Could Have Led to Privilege Escalations and Denial of Service<a href="https://orca.security/resources/blog/azure-hd-insight-vulnerabilities-privilege-escalation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities could have allowed attackers to gain cluster administrator privileges, disrupt operations, and negatively impact the availability and reliability of the affected systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 07, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical JetBrains TeamCity On-Premises Flaw Exposes Servers to Takeover - Patch Now<a href="https://thehackernews.com/2024/02/critical-jetbrains-teamcity-on-premises.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JetBrains is alerting customers of a critical security flaw in its TeamCity On-Premises continuous integration and continuous deployment (CI/CD) software that could be exploited by threat actors to take over susceptible instances. The vulnerability, tracked as  CVE-2024-23917 , carries a CVSS rating of 9.8 out of 10, indicative of its severity. "The vulnerability may enable an unauthenticated attacker with HTTP(S) access to a TeamCity server to bypass authentication checks and gain administrative control of that TeamCity server," the company  said . The issue impacts all TeamCity On-Premises versions from 2017.1 through 2023.11.2. It has been addressed in version 2023.11.3. An unnamed external security researcher has been credited with discovering and reporting the flaw on January 19, 2024. Users who are unable to update their servers to version 2023.11.3 can alternately download a security patch plugin to apply fixes for the flaw. "If your server is publicly acce
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Paying Ransoms is Becoming a Cost of Doing Business for Many<a href="https://www.helpnetsecurity.com/2024/02/06/cyber-resilience-priority-for-organizations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies are bracing for a significant increase in cyber threats in 2024, with 96% of respondents expecting the threat of cyberattacks to their industry to rise, and 71% predicting an increase of more than 50%, according to Cohesity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can Use Generative AI to Manipulate Live Conversations<a href="https://www.bankinfosecurity.com/hackers-use-gen-ai-to-manipulate-live-conversations-a-24283?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IBM researchers demonstrated a technique to intercept live conversations and replace keywords based on the context, allowing for the manipulation of information, financial fraud, and even real-time changes to news broadcasts and political speeches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 7, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Business, Technology Groups Back SolarWinds Motion to Dismiss SEC Charges<a href="https://www.cybersecuritydive.com/news/solarwinds-dismiss-sec-charges/706542/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Chamber of Commerce and the Business Roundtable argue that the SEC has expanded its interpretation of internal accounting controls provisions beyond Congress's original intent.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 06, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware: Fake Facebook Job Ads Spreading 'Ov3r_Stealer' to Steal Crypto and Credentials<a href="https://thehackernews.com/2024/02/beware-fake-facebook-job-ads-spreading.html"> Full Text</a>
@@ -66,23 +562,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2024
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Fortinet FortiSIEM Hit by Two 10/10 Severity Vulnerabilities<a href="https://www.theregister.com/2024/02/06/fortinet_fortisiem_vulns/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The FortiSIEM product from Fortinet has been found to have two new critical vulnerabilities, CVE-2024-23108 and CVE-2024-23109, which allow for remote code execution by unauthenticated attackers.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2024
+February 06, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Detail New Flaws in Azure HDInsight Spark, Kafka, and Hadoop Services<a href="https://thehackernews.com/2024/02/high-severity-flaws-found-in-azure.html"> Full Text</a>
@@ -98,23 +578,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2024
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Update: Equilend Back in Action as Ransom Payment Rumors Swirl<a href="https://www.theregister.com/2024/02/06/equilend_back_in_action_as/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-While it is unclear whether a ransom was paid, the company stated that client transaction data was not accessed during the attack. The attack occurred amidst a major business deal, but experts predicted minimal disruption to EquiLend's operations
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2024
+February 06, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How a $10B Enterprise Customer Drastically Increased their SaaS Security Posture with 201% ROI by Using SSPM<a href="https://thehackernews.com/2024/02/how-10b-enterprise-customer-drastically.html"> Full Text</a>
@@ -125,358 +589,6 @@ SaaS applications are the darlings of the software world. They enable work from 
 </details>
 <div style="text-align: right" markdown="1">
 The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2024
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Python Info-stealer Distributed by Malicious Excel Document<a href="https://www.fortinet.com/blog/threat-research/python-info-stealer-malicious-excel-document?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The threat actors behind the campaign utilized multiple stages and techniques, including obfuscation and leveraging open platforms, to carry out the attack and steal sensitive information.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2024
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Hackers Exploit Job Boards, Stealing Millions of Resumes and Personal Data<a href="https://thehackernews.com/2024/02/hackers-exploit-job-boards-in-apac.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Employment agencies and retail companies chiefly located in the Asia-Pacific (APAC) region have been targeted by a previously undocumented threat actor known as  ResumeLooters  since early 2023 with the goal of stealing sensitive data. Singapore-headquartered Group-IB said the hacking crew's activities are geared towards job search platforms and the theft of resumes, with as many as 65 websites compromised between November 2023 and December 2023. The stolen files are estimated to contain 2,188,444 user data records, of which 510,259 have been taken from job search websites. Over two million unique email addresses are present within the dataset. "By using SQL injection attacks against websites, the threat actor attempts to steal user databases that may include names, phone numbers, emails, and DoBs, as well as information about job seekers' experience, employment history, and other sensitive personal data," security researcher Nikita Rostovcev  said  in a report sh
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2024
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Ov3r_Stealer Malware Spreads via Phishing and Facebook Advertising<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/trustwave-spiderlabs-uncovers-ov3r_stealer-malware-spread-via-phishing-and-facebook-advertising/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The malware is distributed through a multi-stage infection chain involving weaponized PDF files, internet shortcuts, and PowerShell loaders, with similarities to the previously disclosed Phemedrone Stealer.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2024
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Recent SSRF Flaw in Ivanti VPN Products Undergoes Mass Exploitation<a href="https://thehackernews.com/2024/02/recently-disclosed-ssrf-flaw-in-ivanti.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-A recently disclosed server-side request forgery ( SSRF ) vulnerability impacting Ivanti Connect Secure and Policy Secure products has come under mass exploitation. The Shadowserver Foundation  said  it observed exploitation attempts originating from more than 170 unique IP addresses that aim to establish a reverse shell, among others. The attacks exploit  CVE-2024-21893  (CVSS score: 8.2), an SSRF flaw in the SAML component of Ivanti Connect Secure, Policy Secure, and Neurons for ZTA that allows an attacker to access otherwise restricted resources without authentication. Ivanti had previously divulged that the vulnerability had been exploited in targeted attacks aimed at a "limited number of customers," but cautioned the status quo could change post public disclosure. That's exactly what appears to have happened, especially following the  release  of a proof-of-concept (PoC) exploit by cybersecurity firm Rapid7 last week. The PoC involves fashioning an exploit cha
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2024
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Airbus NAVBLUE Flysmart+ Manager Susceptible to Data Manipulation Attacks<a href="https://securityaffairs.com/158661/hacking/airbus-flysmart-flaw.html?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Airbus Navblue Flysmart+ Manager had a vulnerability that allowed attackers to tamper with engine performance calculations and intercept data, posing a serious risk to flight safety.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 06, 2024
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-U.S. Imposes Visa Restrictions on those Involved in Illegal Spyware Surveillance<a href="https://thehackernews.com/2024/02/us-imposes-visa-restrictions-on-those.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The U.S. State Department said it's implementing a new policy that imposes visa restrictions on individuals who are linked to the illegal use of commercial spyware to surveil civil society members. "The  misuse of commercial spyware  threatens privacy and freedoms of expression, peaceful assembly, and association," Secretary of State Antony Blinken  said . "Such targeting has been linked to arbitrary detentions, forced disappearances, and extrajudicial killings in the most egregious of cases." The latest measures, underscoring continued efforts on part of the U.S. government to curtail the proliferation of surveillance tools, are designed to "promote accountability" for individuals involved in commercial spyware misuse. The new policy covers people who have used such tools to "unlawfully surveil, harass, suppress, or intimidate individuals," as well as those who stand to financially benefit from the misuse. It also includes the companie
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 6, 2024
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Latio Application Security Tester Uses AI to Scan Your Code<a href="https://www.helpnetsecurity.com/2024/02/05/latio-application-security-tester-use-ai-to-scan-your-code/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Latio Application Security Tester simplifies code scanning with OpenAI, offering easy code change submission and GitHub Actions templates. The tool's future plans include support for non-OpenAI models, improved handling of large files, and more.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Over 25$ Million Lost in Deepfake Conference Call Scam at Hong Kong Office of Multinational Firm<a href="https://www.scmp.com/news/hong-kong/law-and-crime/article/3250851/everyone-looked-real-multinational-firms-hong-kong-office-loses-hk200-million-after-scammers-stage?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The scammers digitally recreated the company's chief financial officer and other employees in a convincing video conference call to trick the victim into making money transfers.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 05, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Belarusian National Linked to BTC-e Faces 25 Years for $4 Billion Crypto Money Laundering<a href="https://thehackernews.com/2024/02/belarusian-national-linked-to-btc-e.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-A 42-year-old Belarusian and Cypriot national with alleged connections to the now-defunct cryptocurrency exchange BTC-e is facing charges related to money laundering and operating an unlicensed money services business. Aliaksandr Klimenka , who was arrested in Latvia on December 21, 2023, was extradited to the U.S. If convicted, he faces a maximum penalty of 25 years in prison. BTC-e, which had been operating since 2011, was seized by law enforcement authorities in late July 2017 following the arrest of another key member  Alexander Vinnik , in Greece. The exchange is alleged to have received deposits valued at over $4 billion, with Vinnik laundering funds received from the hack of another digital exchange, Mt. Gox, through various online exchanges, including BTC-e. Court documents  allege  that the exchange was a "significant cybercrime and online money laundering entity," allowing its users to trade in bitcoin with high levels of anonymity, thereby building a customer
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-New Mispadu Banking Trojan Exploits Windows SmartScreen Flaw<a href="https://unit42.paloaltonetworks.com/mispadu-infostealer-variant/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The Windows SmartScreen vulnerability CVE-2023-36025 allows threat actors to bypass warnings and execute malicious payloads using crafted .url files, posing a significant security risk to Windows users.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 05, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Combined Security Practices Changing the Game for Risk Management<a href="https://thehackernews.com/2024/02/combined-security-practices-changing.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-A significant challenge within cyber security at present is that there are a lot of risk management platforms available in the market, but only some deal with cyber risks in a very good way. The majority will shout alerts at the customer as and when they become apparent and cause great stress in the process. The issue being that by using a reactive, rather than proactive approach, many risks just sit there, dormant, until an emergency happens.  'Dealing with SOC Operations for more than a decade, I have seen nearly 60 percent of SOC Incidents are repeat findings that keep re-surfacing due to underlying unmitigated Risks. Here the actors may be different, however the risk is mostly the same. This is causing significant alert fatigue.' – Deodatta Wandhekar, Head of Global SOC, SecurityHQ. Combining Frameworks and Best Practices These risks can be prevented. A platform that combines the best practices of multiple frameworks is the solution to tackle this issue.  What is NIST?
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-DDoS Attack Power Skyrockets to 1.6 Tbps<a href="https://www.helpnetsecurity.com/2024/02/02/ddos-attacks-h2-2023/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The second half of 2023 saw a significant increase in the scale and sophistication of DDoS attacks, with the maximum attack power rising to 1.6 Tbps, according to data by Gcore.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 05, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Patchwork Using Romance Scam Lures to Infect Android Devices with VajraSpy Malware<a href="https://thehackernews.com/2024/02/patchwork-using-romance-scam-lures-to.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The threat actor known as Patchwork likely used romance scam lures to trap victims in Pakistan and India, and infect their Android devices with a remote access trojan called  VajraSpy . Slovak cybersecurity firm ESET said it uncovered 12 espionage apps, six of which were available for download from the official Google Play Store and were collectively downloaded more than 1,400 times between April 2021 and March 2023. "VajraSpy has a range of espionage functionalities that can be expanded based on the permissions granted to the app bundled with its code," security researcher Lukáš Štefanko  said . "It steals contacts, files, call logs, and SMS messages, but some of its implementations can even extract WhatsApp and Signal messages, record phone calls, and take pictures with the camera." As many as 148 devices in Pakistan and India are estimated to have been compromised in the wild. The malicious apps distributed via Google Play and elsewhere primarily masqueraded
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Report: Civil Society in Jordan Under Assault by NSO's Pegasus Spyware<a href="https://therecord.media/civil-society-in-jordan-targeted-with-pegasus-spyware?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-An investigation revealed widespread use of Pegasus spyware on the phones of journalists, human rights advocates, and lawyers in Jordan, suggesting a targeted surveillance campaign by Jordanian authorities.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 05, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Hands-On Review: SASE-based XDR from Cato Networks<a href="https://thehackernews.com/2024/02/hands-on-review-sase-based-xdr-from.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Companies are engaged in a seemingly endless cat-and-mouse game when it comes to cybersecurity and cyber threats. As organizations put up one defensive block after another, malicious actors kick their game up a notch to get around those blocks. Part of the challenge is to coordinate the defensive abilities of disparate security tools, even as organizations have limited resources and a dearth of skilled cybersecurity experts. XDR, or Extended Detection and Response, addresses this challenge. XDR platforms correlate indicators from across security domains to detect threats and then provide the tools to remediate incidents.  While XDR has many benefits, legacy approaches have been hampered by the lack of good-quality data. You might end up having a very good view of a threat from events generated by your EPP/EDR system but lack events about the network perspective (or vice versa). XDR products will import data from third-party sensors, but data comes in different formats. The XDR platf
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024 -- [General](/docs/issues/general/general/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-More Ransomware Victims are Declining to Pay Extortionists<a href="https://www.healthcareinfosecurity.com/blogs/more-ransomware-victims-are-declining-to-pay-extortionists-p-3559?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The decline in the number of ransomware victims paying a ransom is attributed to better business resilience, assistance from the FBI, and the realization that paying for intangible promises is not effective.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 05, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Pegasus Spyware Targeted iPhones of Journalists and Activists in Jordan<a href="https://thehackernews.com/2024/02/pegasus-spyware-targeted-iphones-of.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The iPhones belonging to nearly three dozen journalists, activists, human rights lawyers, and civil society members in Jordan have been targeted with NSO Group's Pegasus spyware, according to joint findings from Access Now and the Citizen Lab. Nine of the 35 individuals have been  publicly confirmed  as  targeted , out of whom six had their devices compromised with the mercenary surveillanceware tool. The infections are estimated to have taken place from at least 2019 until September 2023. "In some cases, perpetrators posed as journalists, seeking an interview or a quote from victims, while embedding malicious links to Pegasus spyware amid and in between their messages," Access Now  said . "A number of victims were reinfected with Pegasus spyware multiple times — demonstrating the relentless nature of this targeted surveillance campaign." The Israeli company has been under the radar for failing to implement rigorous human rights safeguards prior to selling
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024 -- [Government](/docs/issues/government/government/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-China-Linked Hackers Primed to Attack US Critical Infrastructure, FBI Director Says<a href="https://www.cybersecuritydive.com/news/fbi-china-hackers-us-critical-infrastructure/706307/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The Cybersecurity and Infrastructure Security Agency (CISA) has observed an evolving threat from China-linked hackers infiltrating U.S. critical infrastructure, aiming to induce societal panic and chaos.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 05, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-New Mispadu Banking Trojan Exploiting Windows SmartScreen Flaw<a href="https://thehackernews.com/2024/02/new-mispadu-banking-trojan-exploiting.html"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The threat actors behind the Mispadu banking Trojan have become the latest to exploit a now-patched Windows SmartScreen security bypass flaw to compromise users in Mexico. The attacks entail a new variant of the malware that was first observed in 2019, Palo Alto Networks Unit 42 said in a report published last week. Propagated via phishing mails, Mispadu is a Delphi-based information stealer known to specifically infect victims in the Latin American (LATAM) region. In March 2023, Metabase Q  revealed  that Mispadu spam campaigns harvested no less than 90,000 bank account credentials since August 2022. It's also part of the larger family of LATAM banking malware, including  Grandoreiro , which was dismantled by Brazilian law enforcement authorities last week. The latest infection chain identified by Unit 42 employs rogue internet shortcut files contained within bogus ZIP archive files that leverage CVE-2023-36025 (CVSS score: 8.8), a high-severity bypass flaw in Windows Smar
-</details>
-<div style="text-align: right" markdown="1">
-The Hacker News
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024 -- [Business](/docs/issues/business/business/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Accenture and Tenchi Security Unite to Fortify Supply Chain Security<a href="https://fintech.global/2024/02/01/accenture-and-tenchi-security-unite-to-fortify-supply-chain-security/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-This strategic partnership will involve integrating Tenchi's SaaS platform into Accenture's managed security services to enhance defenses against supply chain security threats.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Detecting and Mitigating the “Greatness” Phishing Kit Threat<a href="https://blog.sucuri.net/2024/02/detecting-and-mitigating-a-phishing-threat-greatness.html?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-The "Greatness" phishing tool poses a significant threat to Microsoft 365 accounts and has the capability to outmaneuver multi-factor authentication, increasing the potential for cybercrime.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 5, 2024 -- [Business](/docs/issues/business/business/)<br>
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
-Oasis Security Leaves Stealth With $40M to Lock down the Wild West of Non-Human Identity Management<a href="https://techcrunch.com/2024/01/31/oasis-security-leaves-stealth-with-40m-to-lock-down-the-wild-west-of-non-human-identity-management/?&web_view=true"> Full Text</a>
-</p>
-<details>
-  <summary>Abstract</summary>
-Oasis Security, a startup from Israel, has developed a three-part system to address the challenges of non-human identity management, including discovery, resolution, and automation.
-</details>
-<div style="text-align: right" markdown="1">
-Cyware
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
