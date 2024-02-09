@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+February 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese State-Sponsored Actors Compromised and Maintained Persistent Access to U.S. Critical Infrastructure for Five Years<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volt Typhoon's tactics involve extensive pre-compromise reconnaissance, targeting of public-facing network appliances, exploitation of vulnerabilities, and use of living off the land (LOTL) techniques to maintain long-term undiscovered persistence.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Funerals Reportedly Canceled Due to Ransomware Attack on Austrian Town<a href="https://therecord.media/funerals-canceled-due-to-ransomware-attack-on-austrian-town?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The municipality of Korneuburg in Austria was hit by a ransomware attack, leading to data encryption and the cancellation of funerals due to the inability to issue death certificates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

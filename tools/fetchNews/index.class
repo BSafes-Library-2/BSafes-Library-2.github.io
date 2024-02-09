@@ -34,6 +34,102 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Warning: New Ivanti Auth Bypass Flaw Affects Connect Secure and ZTA Gateways<a href="https://thehackernews.com/2024/02/warning-new-ivanti-auth-bypass-flaw.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti has alerted customers of yet another high-severity security flaw in its Connect Secure, Policy Secure, and ZTA gateway devices that could allow attackers to bypass authentication. The issue, tracked as  CVE-2024-22024 , is rated 8.3 out of 10 on the CVSS scoring system. "An XML external entity or XXE vulnerability in the SAML component of Ivanti Connect Secure (9.x, 22.x), Ivanti Policy Secure (9.x, 22.x) and ZTA gateways which allows an attacker to access certain restricted resources without authentication," the company  said  in an advisory. The company said it discovered the flaw during an internal review as part of its ongoing investigation into multiple security weaknesses in the products that have come to light since the start of the year, including  CVE-2023-46805, CVE-2024-21887 ,  CVE-2024-21888, and CVE-2024-21893 . CVE-2024-22024 affects the following versions of the products - Ivanti Connect Secure (versions 9.1R14.4, 9.1R17.2, 9.1R18.3, 22.4R2.2, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese State-Sponsored Actors Compromised and Maintained Persistent Access to U.S. Critical Infrastructure for Five Years<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Volt Typhoon's tactics involve extensive pre-compromise reconnaissance, targeting of public-facing network appliances, exploitation of vulnerabilities, and use of living off the land (LOTL) techniques to maintain long-term undiscovered persistence.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Device Authority Raises $7M in Series A Funding<a href="https://www.finsmes.com/2024/02/device-authority-raises-7m-in-series-a-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company specializes in identity and access management for enterprise IoT ecosystems, offering solutions to reduce human error, accelerate incident response, and establish trust in connected environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky APT Disguises as a Korean Company to Distribute Troll Stealer<a href="https://medium.com/s2wblog/kimsuky-disguised-as-a-korean-company-signed-with-a-valid-certificate-to-distribute-troll-stealer-cfa5d54314e2?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Troll Stealer's similarities to known malware families linked to Kimsuky, such as AppleSeed and AlphaSeed, raise concerns about the group's offensive cyber operations and its targeting of South Korean entities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HijackLoader Expands Techniques to Improve Defense Evasion<a href="https://www.crowdstrike.com/blog/hijackloader-expands-techniques/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HijackLoader sample exhibits complex multi-stage behavior, including process hollowing, transacted section hollowing, and user mode hook bypass using Heaven’s Gate, to inject and execute the final payload while evading detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 8, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Funerals Reportedly Canceled Due to Ransomware Attack on Austrian Town<a href="https://therecord.media/funerals-canceled-due-to-ransomware-attack-on-austrian-town?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The municipality of Korneuburg in Austria was hit by a ransomware attack, leading to data encryption and the cancellation of funerals due to the inability to issue death certificates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 8, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

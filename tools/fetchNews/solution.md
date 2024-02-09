@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+February 08, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unified Identity – look for the meaning behind the hype!<a href="https://thehackernews.com/2024/02/unified-identity-look-for-meaning.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If you've listened to software vendors in the identity space lately, you will have noticed that "unified" has quickly become the buzzword that everyone is adopting to describe their portfolio. And this is great! Unified identity has some amazing benefits!&nbsp; However (there is always a however, right?) not every "unified" "identity" "security" "platform" is made equal. Some vendors call the combination of workforce IDaaS and customer IDaaS a unified identity solution, while others offer a glorified 2FA service – unified only in the mind of their marketers.&nbsp; Your landscape matters! &nbsp; So forget for a moment what the vendors claim, and think back to&nbsp; your &nbsp;organization and&nbsp; your &nbsp; identity security &nbsp;landscape. Consider this new definition: "unified" is what has the ability to consolidate your identity challenges with a complete identity solution.&nbsp; Here's an example: you're responsible for the identity infrastructure of a large hospital. Frontline workers, administrative employees, a
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Open Sources AI-Boosted Fuzzing Framework<a href="https://www.darkreading.com/application-security/google-open-sources-ai-boosted-fuzzing-framework?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The framework has successfully identified vulnerabilities in C/C++ projects, including two in cJSON and libplist, which might have remained undiscovered without the use of large language models.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 05, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

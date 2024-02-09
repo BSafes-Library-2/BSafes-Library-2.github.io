@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 07, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+After FBI Takedown, KV-Botnet Operators Shift Tactics in Attempt to Bounce Back<a href="https://thehackernews.com/2024/02/after-fbi-takedown-kv-botnet-operators.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors behind the&nbsp; KV-botnet &nbsp;made "behavioral changes" to the malicious network as U.S. law enforcement began issuing commands to neutralize the activity. KV-botnet is the name given to a network of compromised small office and home office (SOHO) routers and firewall devices across the world, with one specific cluster acting as a covert data transfer system for other Chinese state-sponsored actors, including&nbsp; Volt Typhoon &nbsp;(aka Bronze Silhouette, Insidious Taurus, or Vanguard Panda). Active since at least February 2022, it was&nbsp; first documented &nbsp;by the Black Lotus Labs team at Lumen Technologies in mid-December 2023. The botnet is known to comprise two main sub-groups, viz. KV and JDY, with the latter principally used for scanning potential targets for reconnaissance. Late last month, the U.S. government&nbsp; announced &nbsp;a court-authorized disruption effort to take down the KV cluster, which is typically reserved for manual operations against high-profile targets c
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 01, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
