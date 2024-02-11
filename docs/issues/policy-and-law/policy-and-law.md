@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. DoJ Dismantles Warzone RAT Infrastructure, Arrests Key Operators<a href="https://thehackernews.com/2024/02/us-doj-dismantles-warzone-rat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department (DoJ) on Friday announced the seizure of online infrastructure that was used to sell a remote access trojan (RAT) called&nbsp; Warzone RAT . The domains –&nbsp; www.warzone[.]ws &nbsp;and three others – were "used to sell computer malware used by cybercriminals to secretly access and steal data from victims' computers," the DoJ&nbsp; said . Alongside the takedown, the international law enforcement effort has arrested and indicted two individuals in Malta and Nigeria for their involvement in selling and supporting the malware and helping other cybercriminals use the RAT for malicious purposes. The defendants, Daniel Meli (27) and Prince Onyeoziri Odinakachi (31) have been charged with unauthorized damage to protected computers, with the former also accused of "illegally selling and advertising an electronic interception device and participating in a conspiracy to commit several computer intrusion offenses." Meli is alleged to have offered malware se
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Settles Google+ API Data Leak Lawsuit for $350M<a href="https://www.bankinfosecurity.com/google-settles-google-api-data-leak-lawsuit-for-350m-a-24296?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The shareholders, led by the state of Rhode Island's retirement system, accused Google of concealing the extent of the data breach and failing to notify users about the API flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

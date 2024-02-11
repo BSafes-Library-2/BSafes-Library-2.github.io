@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2024
+February 11, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. DoJ Dismantles Warzone RAT Infrastructure, Arrests Key Operators<a href="https://thehackernews.com/2024/02/us-doj-dismantles-warzone-rat.html"> Full Text</a>
@@ -50,7 +50,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2024
+February 10, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘World’s Biggest Casino’ App Exposed Customers’ Personal Data<a href="https://techcrunch.com/2024/02/09/winstar-hotel-casino-app-exposed-customer-personal-data/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2024
+February 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 800 Phony Temu Domains Lure Shoppers into Credential Theft<a href="https://www.hackread.com/phony-temu-domains-shoppers-credential-theft/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2024
+February 10, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: New Stealthy "RustDoor" Backdoor Targeting Apple macOS Devices<a href="https://thehackernews.com/2024/02/alert-new-stealthy-rustdoor-backdoor.html"> Full Text</a>
@@ -98,7 +98,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2024
+February 10, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is Your Crypto Safe? XPhase Clipper Malware Steals Coins with a Click<a href="https://thecyberexpress.com/xphase-clipper-malware-campaign/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2024
+February 09, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Raspberry Robin Malware Upgrades with Discord Spread and New Exploits<a href="https://thehackernews.com/2024/02/raspberry-robin-malware-upgrades-with.html"> Full Text</a>
@@ -130,7 +130,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2024
+February 9, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Insurance Firms Sound Alarm After 66,000 Individuals Impacted by SIM Swap Attack<a href="https://www.bitdefender.com/blog/hotforsecurity/us-insurance-firms-sound-alarm-after-66-000-individuals-impacted-by-sim-swap-attack/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2024
+February 09, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MoqHao Android Malware Evolves with Auto-Execution Capability<a href="https://thehackernews.com/2024/02/new-variant-of-moqhao-android-malware.html"> Full Text</a>
@@ -162,7 +162,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2024
+February 9, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Coyote' Malware Begins Its Hunt, Preying on 61 Banking Apps<a href="https://www.darkreading.com/threat-intelligence/coyote-malware-preying-61-banking-apps?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2024
+February 09, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hands-on Review: Myrror Security Code-Aware and Attack-Aware SCA<a href="https://thehackernews.com/2024/02/hands-on-review-myrror-security-code.html"> Full Text</a>
@@ -194,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2024
+February 9, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Leak Site Reports Rose by 49% in 2023, but There Is Good News<a href="https://www.zdnet.com/article/ransomware-leak-site-reports-rose-by-49-in-2023-but-there-is-good-news/?&web_view=true"> Full Text</a>
@@ -210,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2024
+February 09, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Coyote Trojan Targets 61 Brazilian Banks with Nim-Powered Attack<a href="https://thehackernews.com/2024/02/new-coyote-trojan-targets-61-brazilian.html"> Full Text</a>
@@ -226,7 +226,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2024
+February 9, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Zardoor Backdoor Used in Long-Term Cyber Espionage Operation Targeting an Islamic Organization<a href="https://blog.talosintelligence.com/new-zardoor-backdoor/?&web_view=true"> Full Text</a>
@@ -242,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2024
+February 9, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Settles Google+ API Data Leak Lawsuit for $350M<a href="https://www.bankinfosecurity.com/google-settles-google-api-data-leak-lawsuit-for-350m-a-24296?&web_view=true"> Full Text</a>

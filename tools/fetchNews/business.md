@@ -11,6 +11,20 @@ nav_order: 900027
 February 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
+Device Authority Raises $7M in Series A Funding<a href="https://www.finsmes.com/2024/02/device-authority-raises-7m-in-series-a-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company specializes in identity and access management for enterprise IoT ecosystems, offering solutions to reduce human error, accelerate incident response, and establish trust in connected environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
 NinjaOne Raises $231.5M in Series C Funding<a href="https://www.finsmes.com/2024/02/ninjaone-raises-231-5m-in-series-c-funding.html?&amp;web_view=true"> Full Text</a>
 </p>
 <details>

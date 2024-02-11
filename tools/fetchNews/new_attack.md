@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zardoor Backdoor Used in Long-Term Cyber Espionage Operation Targeting an Islamic Organization<a href="https://blog.talosintelligence.com/new-zardoor-backdoor/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor maintained long-term access to the victim's network, evading detection by using living-off-the-land binaries, side-loading backdoors, and leveraging open-source reverse proxy tools like Fast Reverse Proxy (FRP) and Venom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 07, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

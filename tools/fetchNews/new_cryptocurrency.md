@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Your Crypto Safe? XPhase Clipper Malware Steals Coins with a Click<a href="https://thecyberexpress.com/xphase-clipper-malware-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware is spread through deceptive websites impersonating legitimate cryptocurrency platforms, with a noticeable emphasis on targeting Indian cryptocurrency enthusiasts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

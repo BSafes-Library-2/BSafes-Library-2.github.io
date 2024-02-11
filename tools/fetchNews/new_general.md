@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Leak Site Reports Rose by 49% in 2023, but There Is Good News<a href="https://www.zdnet.com/article/ransomware-leak-site-reports-rose-by-49-in-2023-but-there-is-good-news/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While ransomware groups targeted a wide range of industries for profit, the demise of several groups in 2023 was attributed to increased pressure from law enforcement and cybersecurity organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
