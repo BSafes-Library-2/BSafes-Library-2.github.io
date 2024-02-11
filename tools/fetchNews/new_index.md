@@ -34,7 +34,231 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. DoJ Dismantles Warzone RAT Infrastructure, Arrests Key Operators<a href="https://thehackernews.com/2024/02/us-doj-dismantles-warzone-rat.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department (DoJ) on Friday announced the seizure of online infrastructure that was used to sell a remote access trojan (RAT) called  Warzone RAT . The domains –  www.warzone[.]ws  and three others – were "used to sell computer malware used by cybercriminals to secretly access and steal data from victims' computers," the DoJ  said . Alongside the takedown, the international law enforcement effort has arrested and indicted two individuals in Malta and Nigeria for their involvement in selling and supporting the malware and helping other cybercriminals use the RAT for malicious purposes. The defendants, Daniel Meli (27) and Prince Onyeoziri Odinakachi (31) have been charged with unauthorized damage to protected computers, with the former also accused of "illegally selling and advertising an electronic interception device and participating in a conspiracy to commit several computer intrusion offenses." Meli is alleged to have offered malware se
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘World’s Biggest Casino’ App Exposed Customers’ Personal Data<a href="https://techcrunch.com/2024/02/09/winstar-hotel-casino-app-exposed-customer-personal-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phone app developed by startup Dexiga for the casino resort WinStar had an exposed database containing customers' personal information, including names, phone numbers, email addresses, and home addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 800 Phony Temu Domains Lure Shoppers into Credential Theft<a href="https://www.hackread.com/phony-temu-domains-shoppers-credential-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Temu is the latest brand chosen by scammers for their phishing scams. Hackers are using Temu’s giveaway rewards to entice users to give away their credentials, with over 800 new domains registered as “Temu” in the last three months.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: New Stealthy "RustDoor" Backdoor Targeting Apple macOS Devices<a href="https://thehackernews.com/2024/02/alert-new-stealthy-rustdoor-backdoor.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple macOS users are the target of a new Rust-based backdoor that has been operating under the radar since November 2023. The backdoor,  codenamed   RustDoor  by Bitdefender, has been found to impersonate an update for Microsoft Visual Studio and target both Intel and Arm architectures. The exact initial access pathway used to propagate the implant is currently not known, although it's said to be distributed as FAT binaries that contain Mach-O files. Multiple variants of the malware with minor modifications have been detected to date, likely indicating active development. The earliest sample of RustDoor dates back to November 2, 2023. It comes with a wide range of commands that allow it to gather and upload files, and harvest information about the compromised endpoint. Some versions also include configurations with details about what data to collect, the list of targeted extensions and directories, and the directories to exclude. The captured information is then exfiltrate
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is Your Crypto Safe? XPhase Clipper Malware Steals Coins with a Click<a href="https://thecyberexpress.com/xphase-clipper-malware-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware is spread through deceptive websites impersonating legitimate cryptocurrency platforms, with a noticeable emphasis on targeting Indian cryptocurrency enthusiasts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 09, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Raspberry Robin Malware Upgrades with Discord Spread and New Exploits<a href="https://thehackernews.com/2024/02/raspberry-robin-malware-upgrades-with.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operators of  Raspberry Robin  are now using two new one-day exploits to achieve local privilege escalation, even as the malware continues to be refined and improved to make it stealthier than before. This means that "Raspberry Robin has access to an exploit seller or its authors develop the exploits themselves in a short period of time," Check Point  said  in a report this week. Raspberry Robin (aka QNAP worm), first documented in 2021, is an  evasive malware family  that's known to act as one of the  top initial access facilitators  for other malicious payloads, including ransomware. Attributed to a threat actor named Storm-0856 (previously DEV-0856), it's propagated via several entry vectors, including infected USB drives, with Microsoft  describing  it as part of a "complex and interconnected malware ecosystem" with ties to other e-crime groups like  Evil Corp, Silence, and TA505 . Raspberry Robin's use of one-day exploits such as CVE-2020-
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Insurance Firms Sound Alarm After 66,000 Individuals Impacted by SIM Swap Attack<a href="https://www.bitdefender.com/blog/hotforsecurity/us-insurance-firms-sound-alarm-after-66-000-individuals-impacted-by-sim-swap-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two US insurance companies, Washington National Insurance and Bankers Life, have reported that the personal information of around 66,000 individuals may have been stolen by hackers using SIM-swapping attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MoqHao Android Malware Evolves with Auto-Execution Capability<a href="https://thehackernews.com/2024/02/new-variant-of-moqhao-android-malware.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat hunters have identified a new variant of Android malware called  MoqHao  that automatically executes on infected devices without requiring any user interaction. "Typical MoqHao requires users to install and launch the app to get their desired purpose, but this new variant requires no execution," McAfee Labs  said  in a report published this week. "While the app is installed, their malicious activity starts automatically." The campaign's targets include Android users located in France, Germany, India, Japan, and South Korea. MoqHao, also called Wroba and XLoader (not to be confused with the  Windows and macOS malware  of the same name), is an Android-based mobile threat that's associated with a Chinese financially motivated cluster dubbed  Roaming Mantis  (aka Shaoye). Typical  attack chains  commence with package delivery-themed SMS messages bearing fraudulent links that, when clicked from Android devices, lead to the deployment of the malware b
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Coyote' Malware Begins Its Hunt, Preying on 61 Banking Apps<a href="https://www.darkreading.com/threat-intelligence/coyote-malware-preying-61-banking-apps?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Brazilian banking trojans have a history of expanding abroad, and the emergence of new variants like "Coyote" could lead to their evolution into fully fledged initial access trojans and backdoors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hands-on Review: Myrror Security Code-Aware and Attack-Aware SCA<a href="https://thehackernews.com/2024/02/hands-on-review-myrror-security-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Introduction The modern software supply chain represents an ever-evolving threat landscape, with each package added to the manifest introducing new attack vectors. To meet industry requirements, organizations must maintain a fast-paced development process while staying up-to-date with the latest security patches. However, in practice, developers often face a large amount of security work without clear prioritization - and miss a significant portion of the attack surface altogether. The primary issue arises from the detection and prioritization methods used by traditional Static Code Analysis (SCA) tools for vulnerabilities. These methods lack the organizational-specific context needed to make an informed scoring decision: the score, even if critical, might not  actually  be critical for an organization because its infrastructure works in a unique way - affecting the actual impact the vulnerability might have.  In other words, since these tools depend on a relatively naive methodol
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Leak Site Reports Rose by 49% in 2023, but There Is Good News<a href="https://www.zdnet.com/article/ransomware-leak-site-reports-rose-by-49-in-2023-but-there-is-good-news/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While ransomware groups targeted a wide range of industries for profit, the demise of several groups in 2023 was attributed to increased pressure from law enforcement and cybersecurity organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Coyote Trojan Targets 61 Brazilian Banks with Nim-Powered Attack<a href="https://thehackernews.com/2024/02/new-coyote-trojan-targets-61-brazilian.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sixty-one banking institutions, all of them originating from Brazil, are the target of a new banking trojan called  Coyote . "This malware utilizes the Squirrel installer for distribution, leveraging Node.js and a relatively new multi-platform programming language called Nim as a loader to complete its infection," Russian cybersecurity firm Kaspersky  said  in a Thursday report. What makes Coyote a different breed from  other banking trojans  of its kind is the use of the open-source  Squirrel framework  for installing and updating Windows apps. Another notable departure is the shift from Delphi – which is prevalent among banking malware families targeting Latin America – to an uncommon programming language like Nim. In the attack chain documented by Kaspersky, a Squirrel installer executable is used as a launchpad for a Node.js application compiled with Electron, which, in turn, runs a Nim-based loader to trigger the execution of the malicious Coyote payload by means of
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zardoor Backdoor Used in Long-Term Cyber Espionage Operation Targeting an Islamic Organization<a href="https://blog.talosintelligence.com/new-zardoor-backdoor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor maintained long-term access to the victim's network, evading detection by using living-off-the-land binaries, side-loading backdoors, and leveraging open-source reverse proxy tools like Fast Reverse Proxy (FRP) and Venom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Settles Google+ API Data Leak Lawsuit for $350M<a href="https://www.bankinfosecurity.com/google-settles-google-api-data-leak-lawsuit-for-350m-a-24296?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The shareholders, led by the state of Rhode Island's retirement system, accused Google of concealing the extent of the data breach and failing to notify users about the API flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 09, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Warning: New Ivanti Auth Bypass Flaw Affects Connect Secure and ZTA Gateways<a href="https://thehackernews.com/2024/02/warning-new-ivanti-auth-bypass-flaw.html"> Full Text</a>
@@ -50,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2024
+February 8, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese State-Sponsored Actors Compromised and Maintained Persistent Access to U.S. Critical Infrastructure for Five Years<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-038a?&web_view=true"> Full Text</a>
@@ -66,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2024
+February 8, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Device Authority Raises $7M in Series A Funding<a href="https://www.finsmes.com/2024/02/device-authority-raises-7m-in-series-a-funding.html?&web_view=true"> Full Text</a>
@@ -82,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2024
+February 8, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kimsuky APT Disguises as a Korean Company to Distribute Troll Stealer<a href="https://medium.com/s2wblog/kimsuky-disguised-as-a-korean-company-signed-with-a-valid-certificate-to-distribute-troll-stealer-cfa5d54314e2?&web_view=true"> Full Text</a>
@@ -98,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2024
+February 8, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HijackLoader Expands Techniques to Improve Defense Evasion<a href="https://www.crowdstrike.com/blog/hijackloader-expands-techniques/?&web_view=true"> Full Text</a>
@@ -114,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 8, 2024
+February 8, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Funerals Reportedly Canceled Due to Ransomware Attack on Austrian Town<a href="https://therecord.media/funerals-canceled-due-to-ransomware-attack-on-austrian-town?&web_view=true"> Full Text</a>
