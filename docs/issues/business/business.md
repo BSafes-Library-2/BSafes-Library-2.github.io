@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+February 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cohesity, Veritas Combine as New Data Protection Company<a href="https://www.techtarget.com/searchdatabackup/news/366569336/Cohesity-Veritas-combine-as-new-data-protection-company?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The deal will result in the formation of a separate company called DataCo to handle Veritas' remaining assets, while Cohesity will follow a "no customer left behind" approach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

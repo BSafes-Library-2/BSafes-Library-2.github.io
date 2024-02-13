@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+February 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘World’s Biggest Casino’ App Exposed Customers’ Personal Data<a href="https://techcrunch.com/2024/02/09/winstar-hotel-casino-app-exposed-customer-personal-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phone app developed by startup Dexiga for the casino resort WinStar had an exposed database containing customers' personal information, including names, phone numbers, email addresses, and home addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Insurance Firms Sound Alarm After 66,000 Individuals Impacted by SIM Swap Attack<a href="https://www.bitdefender.com/blog/hotforsecurity/us-insurance-firms-sound-alarm-after-66-000-individuals-impacted-by-sim-swap-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two US insurance companies, Washington National Insurance and Bankers Life, have reported that the personal information of around 66,000 individuals may have been stolen by hackers using SIM-swapping attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

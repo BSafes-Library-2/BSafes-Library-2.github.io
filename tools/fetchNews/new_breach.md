@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Leak Alleged Partial Facebook Marketplace Database<a href="https://www.hackread.com/hackers-leak-facebook-marketplace-database/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The partial Facebook Marketplace database was allegedly leaked by a threat actor, exposing sensitive personal information of approximately 200,000 users, including full names, Facebook IDs, phone numbers, physical IDs, and email addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

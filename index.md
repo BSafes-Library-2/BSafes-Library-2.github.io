@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2024
+February 12, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ongoing Azure Compromises Target Senior Executives, Microsoft 365 Apps<a href="https://www.darkreading.com/cloud-security/senior-executives-targeted-ongoing-azure-account-takeover?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2024
+February 12, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Decryptor for Rhysida Ransomware is Available<a href="https://www.helpnetsecurity.com/2024/02/12/rhysida-ransomware-decryptor/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2024
+February 12, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cohesity, Veritas Combine as New Data Protection Company<a href="https://www.techtarget.com/searchdatabackup/news/366569336/Cohesity-Veritas-combine-as-new-data-protection-company?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2024
+February 12, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Partners with OpenSSF to Release Principles for Package Repository Security Framework<a href="https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-partners-openssf-securing-software-repositories-working-group-release-principles-package?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2024
+February 12, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UN Experts Investigating 58 Suspected North Korean Cyberattacks Valued at About $3 Billion<a href="https://apnews.com/article/un-experts-north-korea-cyberattacks-nuclear-sanctions-8e84703049dfb4fda011829115777c9e?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2024
+February 12, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 National Cyber Director Urges Private Sector Collaboration to Counter Nation-State Cyber Threat<a href="https://www.cybersecuritydive.com/news/national-cyber-director-private-sector-collaboration/707122/?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2024
+February 12, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Leak Alleged Partial Facebook Marketplace Database<a href="https://www.hackread.com/hackers-leak-facebook-marketplace-database/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2024
+February 12, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QR Code 'Quishing' Attacks on Executives Surge, Evading Email Security<a href="https://www.darkreading.com/endpoint-security/qr-code-quishing-attacks-execs-email-security?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 12, 2024
+February 12, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Blitzes Super Bowl With Cyber Campaign as Businesses Fumble Security<a href="https://www.cybersecuritydive.com/news/cisa-secure-our-world-super-bowl/707119/?&web_view=true"> Full Text</a>

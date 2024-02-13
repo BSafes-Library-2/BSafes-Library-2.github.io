@@ -7,6 +7,28 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secure Our World <a href="https://www.cisa.gov/secure-our-world"> Full Text</a>
+</p>
+<details>
+We’re increasingly connected through digital tools and more of our sensitive information is online. This convenience comes with risks. Each of us has a part to play in keeping ourselves and others safe. It’s easy to do and takes less time than you think.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 08, 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Partners With OpenSSF Securing Software Repositories Working Group to Release Principles for Package Repository Security <a href="https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-partners-openssf-securing-software-repositories-working-group-release-principles-package?&web_view=true"> Full Text</a>
+</p>
+<details>
+Today, CISA partnered with the Open Source Security Foundation (OpenSSF) Securing Software Repositories Working Group to publish the Principles for Package Repository Security framework. Recognizing the critical role package repositories play in securing open source software ecosystems, this framework lays out voluntary security maturity levels for package repositories. This publication supports Objective 1.2 of CISA's Open Source Software Security Roadmap, which states the goal of "working collaboratively [with relevant working groups] to develop security principles for package managers."
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 07, 2024 - CISA, NSA, FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+February 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UN Experts Investigating 58 Suspected North Korean Cyberattacks Valued at About $3 Billion<a href="https://apnews.com/article/un-experts-north-korea-cyberattacks-nuclear-sanctions-8e84703049dfb4fda011829115777c9e?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Nations is investigating 58 suspected cyberattacks by North Korea, totaling around $3 billion, which are believed to be funding the country's development of weapons of mass destruction.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QR Code 'Quishing' Attacks on Executives Surge, Evading Email Security<a href="https://www.darkreading.com/endpoint-security/qr-code-quishing-attacks-execs-email-security?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email attacks using QR codes, known as "quishing," have surged, especially targeting corporate executives and managers, highlighting the need for enhanced digital protections for business leadership.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+February 09, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hands-on Review: Myrror Security Code-Aware and Attack-Aware SCA<a href="https://thehackernews.com/2024/02/hands-on-review-myrror-security-code.html"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Introduction The modern software supply chain represents an ever-evolving threat landscape, with each package added to the manifest introducing new attack vectors. To meet industry requirements, organizations must maintain a fast-paced development process while staying up-to-date with the latest security patches. However, in practice, developers often face a large amount of security work without clear prioritization - and miss a significant portion of the attack surface altogether. The primary issue arises from the detection and prioritization methods used by traditional Static Code Analysis (SCA) tools for vulnerabilities. These methods lack the organizational-specific context needed to make an informed scoring decision: the score, even if critical, might not&nbsp; actually &nbsp;be critical for an organization because its infrastructure works in a unique way - affecting the actual impact the vulnerability might have.&nbsp; In other words, since these tools depend on a relatively naive methodol
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 08, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
