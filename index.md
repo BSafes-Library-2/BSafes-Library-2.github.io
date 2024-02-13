@@ -34,6 +34,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Azure Compromises Target Senior Executives, Microsoft 365 Apps<a href="https://www.darkreading.com/cloud-security/senior-executives-targeted-ongoing-azure-account-takeover?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting Microsoft Azure corporate clouds with sophisticated and tailored phishing attacks, compromising a wide range of user accounts for activities such as data exfiltration and financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decryptor for Rhysida Ransomware is Available<a href="https://www.helpnetsecurity.com/2024/02/12/rhysida-ransomware-decryptor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Files encrypted by Rhysida ransomware can be successfully decrypted, due to a implementation vulnerability discovered by Korean researchers and leveraged to create a decryptor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cohesity, Veritas Combine as New Data Protection Company<a href="https://www.techtarget.com/searchdatabackup/news/366569336/Cohesity-Veritas-combine-as-new-data-protection-company?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The deal will result in the formation of a separate company called DataCo to handle Veritas' remaining assets, while Cohesity will follow a "no customer left behind" approach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Partners with OpenSSF to Release Principles for Package Repository Security Framework<a href="https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-partners-openssf-securing-software-repositories-working-group-release-principles-package?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This initiative aligns with CISA's Open Source Software Security Roadmap's objective of collaborating with relevant working groups to develop security principles for package managers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UN Experts Investigating 58 Suspected North Korean Cyberattacks Valued at About $3 Billion<a href="https://apnews.com/article/un-experts-north-korea-cyberattacks-nuclear-sanctions-8e84703049dfb4fda011829115777c9e?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Nations is investigating 58 suspected cyberattacks by North Korea, totaling around $3 billion, which are believed to be funding the country's development of weapons of mass destruction.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Cyber Director Urges Private Sector Collaboration to Counter Nation-State Cyber Threat<a href="https://www.cybersecuritydive.com/news/national-cyber-director-private-sector-collaboration/707122/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+National Cyber Director Harry Coker emphasized the need for a collaborative effort between the government and industry to address cyber threats, harmonize regulations, and build a diverse cybersecurity workforce.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Leak Alleged Partial Facebook Marketplace Database<a href="https://www.hackread.com/hackers-leak-facebook-marketplace-database/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The partial Facebook Marketplace database was allegedly leaked by a threat actor, exposing sensitive personal information of approximately 200,000 users, including full names, Facebook IDs, phone numbers, physical IDs, and email addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QR Code 'Quishing' Attacks on Executives Surge, Evading Email Security<a href="https://www.darkreading.com/endpoint-security/qr-code-quishing-attacks-execs-email-security?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email attacks using QR codes, known as "quishing," have surged, especially targeting corporate executives and managers, highlighting the need for enhanced digital protections for business leadership.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Blitzes Super Bowl With Cyber Campaign as Businesses Fumble Security<a href="https://www.cybersecuritydive.com/news/cisa-secure-our-world-super-bowl/707119/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) partnered with the NFL to promote cybersecurity awareness during the Super Bowl, aiming to encourage strong passwords, multifactor authentication, and phishing reporting.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 11, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

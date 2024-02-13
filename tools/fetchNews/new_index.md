@@ -34,7 +34,151 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 11, 2024
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Azure Compromises Target Senior Executives, Microsoft 365 Apps<a href="https://www.darkreading.com/cloud-security/senior-executives-targeted-ongoing-azure-account-takeover?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are targeting Microsoft Azure corporate clouds with sophisticated and tailored phishing attacks, compromising a wide range of user accounts for activities such as data exfiltration and financial fraud.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decryptor for Rhysida Ransomware is Available<a href="https://www.helpnetsecurity.com/2024/02/12/rhysida-ransomware-decryptor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Files encrypted by Rhysida ransomware can be successfully decrypted, due to a implementation vulnerability discovered by Korean researchers and leveraged to create a decryptor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cohesity, Veritas Combine as New Data Protection Company<a href="https://www.techtarget.com/searchdatabackup/news/366569336/Cohesity-Veritas-combine-as-new-data-protection-company?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The deal will result in the formation of a separate company called DataCo to handle Veritas' remaining assets, while Cohesity will follow a "no customer left behind" approach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Partners with OpenSSF to Release Principles for Package Repository Security Framework<a href="https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-partners-openssf-securing-software-repositories-working-group-release-principles-package?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This initiative aligns with CISA's Open Source Software Security Roadmap's objective of collaborating with relevant working groups to develop security principles for package managers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UN Experts Investigating 58 Suspected North Korean Cyberattacks Valued at About $3 Billion<a href="https://apnews.com/article/un-experts-north-korea-cyberattacks-nuclear-sanctions-8e84703049dfb4fda011829115777c9e?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The United Nations is investigating 58 suspected cyberattacks by North Korea, totaling around $3 billion, which are believed to be funding the country's development of weapons of mass destruction.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Cyber Director Urges Private Sector Collaboration to Counter Nation-State Cyber Threat<a href="https://www.cybersecuritydive.com/news/national-cyber-director-private-sector-collaboration/707122/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+National Cyber Director Harry Coker emphasized the need for a collaborative effort between the government and industry to address cyber threats, harmonize regulations, and build a diverse cybersecurity workforce.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Leak Alleged Partial Facebook Marketplace Database<a href="https://www.hackread.com/hackers-leak-facebook-marketplace-database/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The partial Facebook Marketplace database was allegedly leaked by a threat actor, exposing sensitive personal information of approximately 200,000 users, including full names, Facebook IDs, phone numbers, physical IDs, and email addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QR Code 'Quishing' Attacks on Executives Surge, Evading Email Security<a href="https://www.darkreading.com/endpoint-security/qr-code-quishing-attacks-execs-email-security?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Email attacks using QR codes, known as "quishing," have surged, especially targeting corporate executives and managers, highlighting the need for enhanced digital protections for business leadership.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Blitzes Super Bowl With Cyber Campaign as Businesses Fumble Security<a href="https://www.cybersecuritydive.com/news/cisa-secure-our-world-super-bowl/707119/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) partnered with the NFL to promote cybersecurity awareness during the Super Bowl, aiming to encourage strong passwords, multifactor authentication, and phishing reporting.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 11, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U.S. DoJ Dismantles Warzone RAT Infrastructure, Arrests Key Operators<a href="https://thehackernews.com/2024/02/us-doj-dismantles-warzone-rat.html"> Full Text</a>
@@ -50,7 +194,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2024
+February 10, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘World’s Biggest Casino’ App Exposed Customers’ Personal Data<a href="https://techcrunch.com/2024/02/09/winstar-hotel-casino-app-exposed-customer-personal-data/?&web_view=true"> Full Text</a>
@@ -66,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2024
+February 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 800 Phony Temu Domains Lure Shoppers into Credential Theft<a href="https://www.hackread.com/phony-temu-domains-shoppers-credential-theft/?&web_view=true"> Full Text</a>
@@ -82,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2024
+February 10, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: New Stealthy "RustDoor" Backdoor Targeting Apple macOS Devices<a href="https://thehackernews.com/2024/02/alert-new-stealthy-rustdoor-backdoor.html"> Full Text</a>
@@ -98,7 +242,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 10, 2024
+February 10, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is Your Crypto Safe? XPhase Clipper Malware Steals Coins with a Click<a href="https://thecyberexpress.com/xphase-clipper-malware-campaign/?&web_view=true"> Full Text</a>
@@ -114,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2024
+February 09, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Raspberry Robin Malware Upgrades with Discord Spread and New Exploits<a href="https://thehackernews.com/2024/02/raspberry-robin-malware-upgrades-with.html"> Full Text</a>
@@ -130,7 +274,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2024
+February 9, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Insurance Firms Sound Alarm After 66,000 Individuals Impacted by SIM Swap Attack<a href="https://www.bitdefender.com/blog/hotforsecurity/us-insurance-firms-sound-alarm-after-66-000-individuals-impacted-by-sim-swap-attack/?&web_view=true"> Full Text</a>
@@ -146,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2024
+February 09, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MoqHao Android Malware Evolves with Auto-Execution Capability<a href="https://thehackernews.com/2024/02/new-variant-of-moqhao-android-malware.html"> Full Text</a>
@@ -162,7 +306,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2024
+February 9, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Coyote' Malware Begins Its Hunt, Preying on 61 Banking Apps<a href="https://www.darkreading.com/threat-intelligence/coyote-malware-preying-61-banking-apps?&web_view=true"> Full Text</a>
@@ -178,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2024
+February 09, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hands-on Review: Myrror Security Code-Aware and Attack-Aware SCA<a href="https://thehackernews.com/2024/02/hands-on-review-myrror-security-code.html"> Full Text</a>
@@ -194,7 +338,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2024
+February 9, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Leak Site Reports Rose by 49% in 2023, but There Is Good News<a href="https://www.zdnet.com/article/ransomware-leak-site-reports-rose-by-49-in-2023-but-there-is-good-news/?&web_view=true"> Full Text</a>
@@ -210,7 +354,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 09, 2024
+February 09, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Coyote Trojan Targets 61 Brazilian Banks with Nim-Powered Attack<a href="https://thehackernews.com/2024/02/new-coyote-trojan-targets-61-brazilian.html"> Full Text</a>
@@ -226,7 +370,7 @@ The Hacker News
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2024
+February 9, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Zardoor Backdoor Used in Long-Term Cyber Espionage Operation Targeting an Islamic Organization<a href="https://blog.talosintelligence.com/new-zardoor-backdoor/?&web_view=true"> Full Text</a>
@@ -242,7 +386,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 9, 2024
+February 9, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Settles Google+ API Data Leak Lawsuit for $350M<a href="https://www.bankinfosecurity.com/google-settles-google-api-data-leak-lawsuit-for-350m-a-24296?&web_view=true"> Full Text</a>
