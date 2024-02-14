@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+February 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Jet Engine Dealer to Major Airlines Discloses ‘Unauthorized Activity’<a href="https://www.theregister.com/2024/02/12/jet_engine_dealer_to_major/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta ransomware group claims to have stolen 910 GB of sensitive company data from Willis Lease Finance Corporation, including passport scans and personal information of staff and customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Caravan Club Admits Members’ Personal Data Possibly Accessed<a href="https://www.theregister.com/2024/02/12/europes_largest_caravan_and_rv/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Members are advised to be cautious of phishing attacks and to update their passwords as a precautionary measure, while the organization has taken steps to enhance cybersecurity in response to the incident.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

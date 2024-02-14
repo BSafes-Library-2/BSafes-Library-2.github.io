@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+February 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Partners with OpenSSF to Release Principles for Package Repository Security Framework<a href="https://www.cisa.gov/news-events/alerts/2024/02/08/cisa-partners-openssf-securing-software-repositories-working-group-release-principles-package?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This initiative aligns with CISA's Open Source Software Security Roadmap's objective of collaborating with relevant working groups to develop security principles for package managers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Cyber Director Urges Private Sector Collaboration to Counter Nation-State Cyber Threat<a href="https://www.cybersecuritydive.com/news/national-cyber-director-private-sector-collaboration/707122/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+National Cyber Director Harry Coker emphasized the need for a collaborative effort between the government and industry to address cyber threats, harmonize regulations, and build a diverse cybersecurity workforce.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Blitzes Super Bowl With Cyber Campaign as Businesses Fumble Security<a href="https://www.cybersecuritydive.com/news/cisa-secure-our-world-super-bowl/707119/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) partnered with the NFL to promote cybersecurity awareness during the Super Bowl, aiming to encourage strong passwords, multifactor authentication, and phishing reporting.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 08, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

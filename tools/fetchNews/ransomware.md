@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Decryptor for Rhysida Ransomware is Available<a href="https://www.helpnetsecurity.com/2024/02/12/rhysida-ransomware-decryptor/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Files encrypted by Rhysida ransomware can be successfully decrypted, due to a implementation vulnerability discovered by Korean researchers and leveraged to create a decryptor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

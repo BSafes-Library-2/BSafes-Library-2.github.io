@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Tactics Evolve, Become Scrappier<a href="https://www.helpnetsecurity.com/2024/02/12/ransomware-attacks-rise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware attacks surged in 2023, with the United States accounting for almost half of all attacks according to Malwarebytes, and cybercriminals evolving their tactics to target a higher volume of victims simultaneously.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
