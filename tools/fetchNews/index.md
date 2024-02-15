@@ -34,6 +34,118 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Vulnerability at Fault in GAO Breach<a href="https://cyberscoop.com/atlassian-vulnerability-at-fault-in-gao-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Government Accountability Office (GAO) suffered a data breach affecting thousands of current and former employees, which was carried out through a vulnerability in the Atlassian Confluence workforce collaboration tool.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Signs of a Qakbot Resurgence<a href="https://www.healthcareinfosecurity.com/more-signs-qakbot-resurgence-a-24352?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have lately observed new builds and incremental changes to the malware, indicating that someone with access to its source code is experimenting with it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Exploit Microsoft Security-Bypass Zero-Day Bugs<a href="https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-microsoft-security-bypass-zero-day-bugs?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the zero-days, CVE-2024-21412, allows attackers to bypass security features and deploy malware. The other zero-day, CVE-2024-21351, enables attackers to bypass SmartScreen protections and potentially gain remote code execution capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+20-Year-Old DNSSEC Vulnerability Puts Big Chunk of the Internet at Risk<a href="https://www.theregister.com/2024/02/13/dnssec_vulnerability_internet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 20-plus-year-old design flaw in the DNSSEC specification, named KeyTrap, can be exploited by a single packet to disable vulnerable DNS servers, affecting web clients and other applications relying on them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boise State Pilot Program Aims to Boost Cybersecurity by Pairing Students With Local Institutions<a href="https://therecord.media/boise-state-cyberdome-program-rural-cybersecurity-training?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyberdome initiative at Boise State University is helping to address the shortage of cybersecurity talent in rural areas by providing hands-on work experience to students and cybersecurity services to organizations in need.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financial Institutions Embrace Cyber Fusion Centers for Unified Approach to Evolving Risks<a href="https://www.finextra.com/blogposting/25681/financial-institutions-embrace-cyber-fusion-centers-for-unified-approach-to-evolving-risks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Fusion Centers (CFCs) enable threat intelligence operationalization, information sharing, and automation of threat response, providing a unified and efficient approach to cybersecurity in the financial sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 14, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Malicious Activity Targeting Elections is Skyrocketing<a href="https://www.helpnetsecurity.com/2024/02/13/2024-elections-malicious-activity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Resecurity, malicious cyber-activity has increased by 100% between 2023 and early 2024, with threat actors aiming to acquire and exploit voter data for potential propaganda campaigns and electoral interference.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 13, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

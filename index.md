@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2024
+February 14, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Atlassian Vulnerability at Fault in GAO Breach<a href="https://cyberscoop.com/atlassian-vulnerability-at-fault-in-gao-breach/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2024
+February 14, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Signs of a Qakbot Resurgence<a href="https://www.healthcareinfosecurity.com/more-signs-qakbot-resurgence-a-24352?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2024
+February 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Exploit Microsoft Security-Bypass Zero-Day Bugs<a href="https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-microsoft-security-bypass-zero-day-bugs?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2024
+February 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 20-Year-Old DNSSEC Vulnerability Puts Big Chunk of the Internet at Risk<a href="https://www.theregister.com/2024/02/13/dnssec_vulnerability_internet/?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2024
+February 14, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Boise State Pilot Program Aims to Boost Cybersecurity by Pairing Students With Local Institutions<a href="https://therecord.media/boise-state-cyberdome-program-rural-cybersecurity-training?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2024
+February 14, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Financial Institutions Embrace Cyber Fusion Centers for Unified Approach to Evolving Risks<a href="https://www.finextra.com/blogposting/25681/financial-institutions-embrace-cyber-fusion-centers-for-unified-approach-to-evolving-risks?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 14, 2024
+February 14, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Malicious Activity Targeting Elections is Skyrocketing<a href="https://www.helpnetsecurity.com/2024/02/13/2024-elections-malicious-activity/?&web_view=true"> Full Text</a>

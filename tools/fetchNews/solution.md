@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+February 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SiCat: Open-Source Exploit Finder<a href="https://www.helpnetsecurity.com/2024/02/12/sicat-open-source-exploit-finder/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool has key features such as an easy-to-understand code structure, reporting/output system in HTML and JSON formats, and the ability to run via Nmap scan results in XML format.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Protecting Against AI-Enhanced Email Threats<a href="https://www.helpnetsecurity.com/2024/02/13/ai-email-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Combining traditional email security measures with AI-based solutions and empowering cybersecurity personnel with AI skills is crucial for organizations to defend against evolving cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 09, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

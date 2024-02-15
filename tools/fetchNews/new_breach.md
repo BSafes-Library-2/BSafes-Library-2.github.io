@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Atlassian Vulnerability at Fault in GAO Breach<a href="https://cyberscoop.com/atlassian-vulnerability-at-fault-in-gao-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Government Accountability Office (GAO) suffered a data breach affecting thousands of current and former employees, which was carried out through a vulnerability in the Atlassian Confluence workforce collaboration tool.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

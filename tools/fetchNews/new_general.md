@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boise State Pilot Program Aims to Boost Cybersecurity by Pairing Students With Local Institutions<a href="https://therecord.media/boise-state-cyberdome-program-rural-cybersecurity-training?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyberdome initiative at Boise State University is helping to address the shortage of cybersecurity talent in rural areas by providing hands-on work experience to students and cybersecurity services to organizations in need.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
