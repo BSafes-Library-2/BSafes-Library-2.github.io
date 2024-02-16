@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+February 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Internet Corp. Leaked Years of Internal, Customer Emails<a href="https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Internet Corp.'s subsidiary, Securence, inadvertently exposed over a decade's worth of internal and client emails, including those of government institutions, due to a misconfigured server, raising serious security concerns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,134 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Internet Corp. Leaked Years of Internal, Customer Emails<a href="https://krebsonsecurity.com/2024/02/u-s-internet-leaked-years-of-internal-customer-emails/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. Internet Corp.'s subsidiary, Securence, inadvertently exposed over a decade's worth of internal and client emails, including those of government institutions, due to a misconfigured server, raising serious security concerns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Target South Korean President's Office<a href="https://www.bankinfosecurity.com/north-korean-hackers-target-south-korean-presidents-office-a-24361?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korea has accused North Korean hackers of breaching an administrator's email account in the Office of the President to access information about the president's communications and overseas trips.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Us Military Notifies 20,000 of Data Breach After Cloud Email Leak<a href="https://au.finance.yahoo.com/news/us-military-notifies-20-000-133043993.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Defense has notified around 20,600 individuals that their personal information was exposed in an email data spill due to a misconfigured cloud email server hosted on Microsoft's platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2024 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encryption Vital For Right to Privacy, European Court Rules<a href="https://www.bankinfosecurity.com/encryption-vital-for-right-to-privacy-european-court-rules-a-24365?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Court of Human Rights ruled in favor of a Russian petitioner who challenged a Kremlin rule requiring telecom firms to provide backdoor access to servers for law enforcement data collection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea Turns to Designing Malware-Infected Gambling Websites for Cash<a href="https://www.theregister.com/2024/02/15/north_korea_turns_to_designing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The operation is carried out by an IT organization called "Gyeongheung," affiliated with North Korea's secretive Office 39. These websites are sold for $5,000 a month, with additional tech support for $3,000.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Jersey Law Enforcement Officers Sue 118 Data Brokers for Not Removing Personal Information<a href="https://therecord.media/new-jersey-law-enforcement-sues-data-brokers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lawsuits filed against data brokers in New Jersey highlight the need for stronger regulation of data brokers to protect the privacy of law enforcement personnel and all Americans.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Corporate Users Getting Tricked into Downloading AnyDesk<a href="https://www.helpnetsecurity.com/2024/02/14/anydesk-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are tricking victims into downloading an outdated but legitimate AnyDesk executable by directing them to fake websites posing as financial institutions. Once the program is run, attackers can gain control of the victim's machine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 15, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Threat Actors Intensify Focus on NATO Member States<a href="https://www.helpnetsecurity.com/2024/02/14/nato-member-states-cyberthreat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report from Flare indicates that Initial Access Brokers (IABs) are increasingly targeting entities within NATO member states through various techniques such as spear-phishing and exploiting vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 14, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

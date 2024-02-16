@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+February 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Financial Institutions Embrace Cyber Fusion Centers for Unified Approach to Evolving Risks<a href="https://www.finextra.com/blogposting/25681/financial-institutions-embrace-cyber-fusion-centers-for-unified-approach-to-evolving-risks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber Fusion Centers (CFCs) enable threat intelligence operationalization, information sharing, and automation of threat response, providing a unified and efficient approach to cybersecurity in the financial sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Malicious Activity Targeting Elections is Skyrocketing<a href="https://www.helpnetsecurity.com/2024/02/13/2024-elections-malicious-activity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Resecurity, malicious cyber-activity has increased by 100% between 2023 and early 2024, with threat actors aiming to acquire and exploit voter data for potential propaganda campaigns and electoral interference.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
