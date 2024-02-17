@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+To Avoid Bankruptcy, EMR Firm Settles Lawsuit for $4M<a href="https://www.bankinfosecurity.com/to-avoid-bankruptcy-emr-firm-settles-lawsuit-for-4m-a-24376?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The settlement includes options for affected individuals such as identity theft monitoring, reimbursement for losses, or a flat fee cash payment, with attorneys seeking about one-third of the settlement fund in fees.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zeus, IcedID Malware Gangs Leader Pleads Guilty, Faces 40 Years in Prison<a href="https://www.bleepingcomputer.com/news/security/zeus-icedid-malware-gangs-leader-pleads-guilty-faces-40-years-in-prison/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vyacheslav Igorevich Penchukov, a Ukrainian cybercriminal, pleaded guilty to leading the Zeus and IcedID malware groups, involved in stealing millions of dollars and attacking a major hospital with ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

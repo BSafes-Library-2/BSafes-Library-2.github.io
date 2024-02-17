@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+February 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Target South Korean President's Office<a href="https://www.bankinfosecurity.com/north-korean-hackers-target-south-korean-presidents-office-a-24361?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korea has accused North Korean hackers of breaching an administrator's email account in the Office of the President to access information about the president's communications and overseas trips.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Us Military Notifies 20,000 of Data Breach After Cloud Email Leak<a href="https://au.finance.yahoo.com/news/us-military-notifies-20-000-133043993.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Defense has notified around 20,600 individuals that their personal information was exposed in an email data spill due to a misconfigured cloud email server hosted on Microsoft's platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

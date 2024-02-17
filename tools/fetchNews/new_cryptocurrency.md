@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Now Launder Stolen Crypto via YoMix Tumbler<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-now-launder-stolen-crypto-via-yomix-tumbler/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+YoMix saw a significant increase in funds in 2023, with about one-third of inflows originating from wallets associated with crypto hacks, demonstrating the adaptability of sophisticated threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

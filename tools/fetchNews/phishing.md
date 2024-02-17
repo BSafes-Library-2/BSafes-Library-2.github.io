@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Corporate Users Getting Tricked into Downloading AnyDesk<a href="https://www.helpnetsecurity.com/2024/02/14/anydesk-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are tricking victims into downloading an outdated but legitimate AnyDesk executable by directing them to fake websites posing as financial institutions. Once the program is run, attackers can gain control of the victim's machine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
