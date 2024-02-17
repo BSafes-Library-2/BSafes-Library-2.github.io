@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alpha Ransomware Emerges From NetWalker Ashes<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/alpha-netwalker-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Alpha ransomware operation appears to be linked to the previously inactive NetWalker ransomware, suggesting a potential revival or acquisition of the original payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Akira Ransomware Exploiting Cisco ASA/FTD Vulnerability<a href="https://thehackernews.com/2024/02/cisa-warning-akira-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The information disclosure vulnerability, known as CVE-2020-3259, is being exploited by the Akira ransomware group to compromise susceptible Cisco Anyconnect SSL VPN appliances.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SpyNote Android Spyware Poses as Legit Crypto Wallets, Steals Funds<a href="https://www.hackread.com/spynote-android-spyware-legit-crypto-wallets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Android users are advised to be cautious of applications requesting Accessibility API access, particularly those claiming to be crypto wallets, PDF readers, and video players.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Now Launder Stolen Crypto via YoMix Tumbler<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-now-launder-stolen-crypto-via-yomix-tumbler/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+YoMix saw a significant increase in funds in 2023, with about one-third of inflows originating from wallets associated with crypto hacks, demonstrating the adaptability of sophisticated threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Volt Typhoon Hits Multiple Electric Utilities, Expands Cyber Activity<a href="https://www.darkreading.com/vulnerabilities-threats/volt-typhoon-hits-multiple-electric-cos-expands-cyber-activity?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Voltzite threat, a subset of China's Volt Typhoon APT, has been actively targeting US electric companies and African electric transmission and distribution organizations, with the intent to compromise physical industrial control systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit EU Agenda in Spear Phishing Campaigns<a href="https://www.infosecurity-magazine.com/news/hackers-exploit-eu-agenda-spear/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations based in the EU are being targeted by spear phishing campaigns leveraging EU political and diplomatic events, according to the bloc’s Computer Emergency Response Team (CERT-EU).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+To Avoid Bankruptcy, EMR Firm Settles Lawsuit for $4M<a href="https://www.bankinfosecurity.com/to-avoid-bankruptcy-emr-firm-settles-lawsuit-for-4m-a-24376?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The settlement includes options for affected individuals such as identity theft monitoring, reimbursement for losses, or a flat fee cash payment, with attorneys seeking about one-third of the settlement fund in fees.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington County Pays $350,000 Ransom After Cyberattack<a href="https://www.cbsnews.com/pittsburgh/news/washington-county-pays-ransom-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Washington County Board of Commissioners voted to pay a $350,000 ransom to Russian cybercriminals after a cyberattack shut down county services. The decision was made in an emergency meeting due to the deadline set by the hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Microsoft Windows Bugs to Its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/159171/hacking/cisa-adds-windows-bugs-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two Microsoft Windows vulnerabilities to its list of Known Exploited Vulnerabilities. These flaws, CVE-2024-21412 and CVE-2024-21351, are actively being exploited in the wild.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zeus, IcedID Malware Gangs Leader Pleads Guilty, Faces 40 Years in Prison<a href="https://www.bleepingcomputer.com/news/security/zeus-icedid-malware-gangs-leader-pleads-guilty-faces-40-years-in-prison/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vyacheslav Igorevich Penchukov, a Ukrainian cybercriminal, pleaded guilty to leading the Zeus and IcedID malware groups, involved in stealing millions of dollars and attacking a major hospital with ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 15, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
