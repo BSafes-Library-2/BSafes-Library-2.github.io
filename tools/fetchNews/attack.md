@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Volt Typhoon Hits Multiple Electric Utilities, Expands Cyber Activity<a href="https://www.darkreading.com/vulnerabilities-threats/volt-typhoon-hits-multiple-electric-cos-expands-cyber-activity?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Voltzite threat, a subset of China's Volt Typhoon APT, has been actively targeting US electric companies and African electric transmission and distribution organizations, with the intent to compromise physical industrial control systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alpha Ransomware Emerges From NetWalker Ashes<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/alpha-netwalker-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Alpha ransomware operation appears to be linked to the previously inactive NetWalker ransomware, suggesting a potential revival or acquisition of the original payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

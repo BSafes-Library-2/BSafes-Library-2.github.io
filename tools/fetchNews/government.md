@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+February 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Akira Ransomware Exploiting Cisco ASA/FTD Vulnerability<a href="https://thehackernews.com/2024/02/cisa-warning-akira-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The information disclosure vulnerability, known as CVE-2020-3259, is being exploited by the Akira ransomware group to compromise susceptible Cisco Anyconnect SSL VPN appliances.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

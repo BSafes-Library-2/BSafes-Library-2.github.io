@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit EU Agenda in Spear Phishing Campaigns<a href="https://www.infosecurity-magazine.com/news/hackers-exploit-eu-agenda-spear/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations based in the EU are being targeted by spear phishing campaigns leveraging EU political and diplomatic events, according to the bloc’s Computer Emergency Response Team (CERT-EU).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

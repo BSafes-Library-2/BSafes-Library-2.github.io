@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+February 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Washington County Pays $350,000 Ransom After Cyberattack<a href="https://www.cbsnews.com/pittsburgh/news/washington-county-pays-ransom-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Washington County Board of Commissioners voted to pay a $350,000 ransom to Russian cybercriminals after a cyberattack shut down county services. The decision was made in an emergency meeting due to the deadline set by the hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
