@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2024
+February 17, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alpha Ransomware Emerges From NetWalker Ashes<a href="https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/alpha-netwalker-ransomware?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2024
+February 17, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Akira Ransomware Exploiting Cisco ASA/FTD Vulnerability<a href="https://thehackernews.com/2024/02/cisa-warning-akira-ransomware.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2024
+February 17, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SpyNote Android Spyware Poses as Legit Crypto Wallets, Steals Funds<a href="https://www.hackread.com/spynote-android-spyware-legit-crypto-wallets/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 17, 2024
+February 17, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Now Launder Stolen Crypto via YoMix Tumbler<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-now-launder-stolen-crypto-via-yomix-tumbler/?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2024
+February 16, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Volt Typhoon Hits Multiple Electric Utilities, Expands Cyber Activity<a href="https://www.darkreading.com/vulnerabilities-threats/volt-typhoon-hits-multiple-electric-cos-expands-cyber-activity?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2024
+February 16, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit EU Agenda in Spear Phishing Campaigns<a href="https://www.infosecurity-magazine.com/news/hackers-exploit-eu-agenda-spear/?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2024
+February 16, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 To Avoid Bankruptcy, EMR Firm Settles Lawsuit for $4M<a href="https://www.bankinfosecurity.com/to-avoid-bankruptcy-emr-firm-settles-lawsuit-for-4m-a-24376?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2024
+February 16, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Washington County Pays $350,000 Ransom After Cyberattack<a href="https://www.cbsnews.com/pittsburgh/news/washington-county-pays-ransom-cyberattack/?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2024
+February 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Microsoft Windows Bugs to Its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/159171/hacking/cisa-adds-windows-bugs-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 16, 2024
+February 16, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zeus, IcedID Malware Gangs Leader Pleads Guilty, Faces 40 Years in Prison<a href="https://www.bleepingcomputer.com/news/security/zeus-icedid-malware-gangs-leader-pleads-guilty-faces-40-years-in-prison/?&web_view=true"> Full Text</a>
