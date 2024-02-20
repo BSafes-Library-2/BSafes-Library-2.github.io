@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Claim Data Breach at Staffing Giant Robert Half, Sell Sensitive Data<a href="https://www.hackread.com/hackers-claim-robert-half-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stolen data includes confidential records, employee documents, customer information, and configuration settings related to services such as OpenAI and Twilio, posing a significant threat to the company and its clients.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Google Chrome Feature Blocks Attacks Against Home Networks<a href="https://www.bleepingcomputer.com/news/google/new-google-chrome-feature-blocks-attacks-against-home-networks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is testing a new feature called "Private Network Access protections" in Chrome 123 to prevent malicious websites from attacking devices and services on a user's private network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gmail & Yahoo DMARC Rollout: When Cyber Compliance Gives a Competitive Edge<a href="https://www.helpnetsecurity.com/2024/02/16/dmarc-compliance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DMARC compliance offers businesses a competitive advantage through improved email deliverability and enhanced security posture, leading to better engagement rates and revenue growth.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anatsa Android Trojan Bypasses Google Play Security, Expands Reach to New Countries<a href="https://thehackernews.com/2024/02/anatsa-android-trojan-bypasses-google.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Android banking trojan Anatsa has expanded its reach to include Slovakia, Slovenia, and Czechia, demonstrating the capability to bypass restricted settings for accessibility service in Android 13.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PDF Malware on the Rise, Used to Spread WikiLoader, Ursnif, and DarkGate<a href="https://www.infosecurity-magazine.com/news/pdf-malware-on-the-rise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are using ad tools to track and optimize their malware campaigns, making their lures more convincing and increasing the likelihood of users falling victim to the attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Aligned Hackers Target European and Iranian Embassies in New Espionage Campaign<a href="https://therecord.media/russia-aligned-hackers-target-european-and-iranian-embassies-cyber-espionage?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russia-linked hacking group, Winter Vivern, exploited a vulnerability in the Roundcube webmail server to spy on government and military agencies in Europe and Iranian embassies in Russia, indicating a significant cybersecurity threat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan Sees Increased Cyberthreats to Critical Infrastructure, Particularly From China<a href="https://therecord.media/japan-critical-infrastructure-cyberthreats?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent cyberattacks on Japanese entities, such as the Ministry of Foreign Affairs and aerospace agency JAXA, underscore the persistent threat posed by Chinese hackers to Japan's security and economy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Claim Data Breach at Staffing Giant Robert Half, Sell Sensitive Data<a href="https://www.hackread.com/hackers-claim-robert-half-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stolen data includes confidential records, employee documents, customer information, and configuration settings related to services such as OpenAI and Twilio, posing a significant threat to the company and its clients.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Extradited to US Over Alleged Raccoon Stealer Ties<a href="https://www.healthcareinfosecurity.com/ukrainian-behind-raccoon-stealer-operations-extradited-to-us-a-24386?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mark Sokolovsky, a Ukrainian national, has been extradited to the United States to face criminal charges related to his involvement in the Raccoon info stealer malware-as-a-service operation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Target Middle East Policy Experts with New BASICSTAR Backdoor<a href="https://thehackernews.com/2024/02/iranian-hackers-target-middle-east.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Charming Kitten's phishing attacks involve social engineering tactics, compromised email accounts, and the distribution of various backdoors, demonstrating their commitment to surveillance and malware deployment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 19, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RCE Vulnerabilities Fixed in Solarwinds Enterprise Solutions<a href="https://www.helpnetsecurity.com/2024/02/19/solarwinds-arm-platform-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds has patched critical vulnerabilities in its Access Rights Manager (ARM) and (Orion) Platform that could allow attackers to execute code, emphasizing the importance of promptly updating to the fixed versions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 17, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

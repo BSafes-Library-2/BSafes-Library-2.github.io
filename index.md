@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2024
+February 19, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Google Chrome Feature Blocks Attacks Against Home Networks<a href="https://www.bleepingcomputer.com/news/google/new-google-chrome-feature-blocks-attacks-against-home-networks/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2024
+February 19, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gmail & Yahoo DMARC Rollout: When Cyber Compliance Gives a Competitive Edge<a href="https://www.helpnetsecurity.com/2024/02/16/dmarc-compliance/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2024
+February 19, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anatsa Android Trojan Bypasses Google Play Security, Expands Reach to New Countries<a href="https://thehackernews.com/2024/02/anatsa-android-trojan-bypasses-google.html?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2024
+February 19, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PDF Malware on the Rise, Used to Spread WikiLoader, Ursnif, and DarkGate<a href="https://www.infosecurity-magazine.com/news/pdf-malware-on-the-rise/?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2024
+February 19, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-Aligned Hackers Target European and Iranian Embassies in New Espionage Campaign<a href="https://therecord.media/russia-aligned-hackers-target-european-and-iranian-embassies-cyber-espionage?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2024
+February 19, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japan Sees Increased Cyberthreats to Critical Infrastructure, Particularly From China<a href="https://therecord.media/japan-critical-infrastructure-cyberthreats?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2024
+February 19, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Claim Data Breach at Staffing Giant Robert Half, Sell Sensitive Data<a href="https://www.hackread.com/hackers-claim-robert-half-data-breach/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2024
+February 19, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukrainian Extradited to US Over Alleged Raccoon Stealer Ties<a href="https://www.healthcareinfosecurity.com/ukrainian-behind-raccoon-stealer-operations-extradited-to-us-a-24386?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2024
+February 19, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iranian Hackers Target Middle East Policy Experts with New BASICSTAR Backdoor<a href="https://thehackernews.com/2024/02/iranian-hackers-target-middle-east.html?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 19, 2024
+February 19, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RCE Vulnerabilities Fixed in Solarwinds Enterprise Solutions<a href="https://www.helpnetsecurity.com/2024/02/19/solarwinds-arm-platform-vulnerabilities/?&web_view=true"> Full Text</a>

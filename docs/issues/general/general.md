@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan Sees Increased Cyberthreats to Critical Infrastructure, Particularly From China<a href="https://therecord.media/japan-critical-infrastructure-cyberthreats?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent cyberattacks on Japanese entities, such as the Ministry of Foreign Affairs and aerospace agency JAXA, underscore the persistent threat posed by Chinese hackers to Japan's security and economy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
