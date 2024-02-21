@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+February 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Open Sources Magika: AI-Powered File Identification Tool<a href="https://thehackernews.com/2024/02/google-open-sources-magika-ai-powered.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Magika outperforms conventional methods and is used to enhance user safety in Gmail, Drive, and Safe Browsing. Google emphasizes the use of AI to strengthen digital security and shift the balance in favor of defenders in cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

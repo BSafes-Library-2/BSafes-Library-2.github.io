@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wyze Camera Breach Let 13,000 Strangers Look into Other People’s Homes<a href="https://www.zdnet.com/home-and-office/smart-home/wyze-camera-breach-let-13000-strangers-view-other-peoples-homes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach resulted from a system overload caused by incorrect mapping of device IDs, which was attributed to a third-party caching client library recently integrated into Wyze's system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

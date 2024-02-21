@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+February 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Aligned Hackers Target European and Iranian Embassies in New Espionage Campaign<a href="https://therecord.media/russia-aligned-hackers-target-european-and-iranian-embassies-cyber-espionage?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russia-linked hacking group, Winter Vivern, exploited a vulnerability in the Roundcube webmail server to spy on government and military agencies in Europe and Iranian embassies in Russia, indicating a significant cybersecurity threat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian Hackers Target Middle East Policy Experts with New BASICSTAR Backdoor<a href="https://thehackernews.com/2024/02/iranian-hackers-target-middle-east.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Charming Kitten's phishing attacks involve social engineering tactics, compromised email accounts, and the distribution of various backdoors, demonstrating their commitment to surveillance and malware deployment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

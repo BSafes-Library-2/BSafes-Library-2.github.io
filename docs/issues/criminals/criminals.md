@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cactus Ransomware Gang Claims the Theft of 1.5TB of Data From Schneider Electric<a href="https://securityaffairs.com/159353/hacking/cactus-ransomware-gang-schneider-electric.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack, which hit the Sustainability Business division on January 17th, caused outages in Schneider Electric’s Resource Advisor cloud platform. The gang published 25MB of stolen data as proof of the hack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
