@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+February 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Ukrainian Media Outlets Attacked by Russian Hackers<a href="https://therecord.media/ukrainian-news-outlets-attacked-by-russian-hackers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ukrainian authorities and cybersecurity agencies attributed the attack to Russian threat actors and described it as part of Russia's "information warfare" against Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Linked to Defense Sector Supply-Chain Attack<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-linked-to-defense-sector-supply-chain-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German federal intelligence agency and South Korea's National Intelligence Service have issued a joint advisory warning about ongoing cyber-espionage operations targeting the global defense sector on behalf of North Korea.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

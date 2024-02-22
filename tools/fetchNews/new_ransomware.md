@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+February 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Knight Ransomware Source Code for Sale After Leak Site Shuts Down<a href="https://www.bleepingcomputer.com/news/security/knight-ransomware-source-code-for-sale-after-leak-site-shuts-down/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The alleged source code for the third iteration of the Knight ransomware is being offered for sale to a single buyer on a hacker forum, indicating a potential shift in the group's operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

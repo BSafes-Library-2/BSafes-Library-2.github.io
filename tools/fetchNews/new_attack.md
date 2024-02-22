@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+February 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VoltSchemer Attacks Use Wireless Chargers to Inject Voice Commands, Fry Phones<a href="https://www.bleepingcomputer.com/news/security/voltschemer-attacks-use-wireless-chargers-to-inject-voice-commands-fry-phones/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack takes advantage of security flaws in wireless charging systems, allowing attackers to manipulate the charger's voltage and interfere with the communication between the charger and the smartphone.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Astaroth, Mekotio, and Ousaban Abusing Google Cloud Run in LATAM-Focused Malware Campaigns<a href="https://blog.talosintelligence.com/google-cloud-run-abuse/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Cloud Run is being exploited by threat actors to distribute banking trojans, with a significant increase in malicious email campaigns observed since September 2023 targeting victims in Latin America, Europe, and North America.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
