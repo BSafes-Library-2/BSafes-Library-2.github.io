@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+February 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hack at Healthcare Services Firm Hits 2.4 Million Eye Doctor Patients<a href="https://www.bankinfosecurity.com/hack-at-services-firm-hits-24-million-eye-doctor-patients-a-24418?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach affected nearly 2.4 million patients and compromised sensitive information such as names, contact details, medical records, and in some cases, Social Security numbers and insurance information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breach at Aussie Telecom Tangerine Affects 232,000 Customers<a href="https://www.healthcareinfosecurity.com/breach-at-aussie-telecom-tangerine-affects-232000-customers-a-24414?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company confirmed that no credit/debit card numbers were compromised and assured that customer accounts are protected by multifactor authentication, ensuring security from unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

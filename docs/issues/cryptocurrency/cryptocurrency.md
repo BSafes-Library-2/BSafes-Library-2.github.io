@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+February 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency Exchange FixedFloat Hacked to Siphon Off $26 Million in BTC, ETH<a href="https://www.hackread.com/crypto-exchange-fixedfloat-hacked-btc-eth-stolen/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FixedFloat, a non-KYC crypto exchange, was hacked for $26 million worth of Bitcoin and Ethereum due to vulnerabilities and insufficient security measures, leading to frozen transactions and missing funds.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2024 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

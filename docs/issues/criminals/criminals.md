@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCA Exposes Nearly 200 LockBit Affiliates, Data Theft Malware<a href="https://www.theregister.com/2024/02/21/lockbit_leaks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's National Crime Agency (NCA) has gained control of LockBit's site and has exposed the identities of the affiliates, disrupted the affiliate infrastructure, and destroyed the servers used for data exfiltration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

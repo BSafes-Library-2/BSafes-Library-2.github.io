@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+February 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resilience Acquires Incident Response Provider BreachQuest<a href="https://coverager.com/resilience-acquires-breachquest/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resilience, a cyber insurance startup, has acquired BreachQuest, a cybersecurity company specializing in incident response solutions, to enhance its cyber risk management software and incident management solution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1Password Expands Its Endpoint Security Offerings With Kolide Acquisition<a href="https://techcrunch.com/2024/02/20/1password-expands-its-endpoint-security-offerings-with-kolide-acquisition/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+1Password, a password management software developer, has acquired Kolide, an endpoint security platform, for an undisclosed amount. Kolide's device security and contextual access management solution will be integrated into 1Password's offerings.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

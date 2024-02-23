@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Lucifer' Botnet Turns Up the Heat on Apache Hadoop Servers<a href="https://www.darkreading.com/cloud-security/lucifer-botnet-heat-apache-hadoop-servers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The botnet's campaign has evolved through three distinct phases, testing new infection routines and defense evasion techniques before potentially launching a broader attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 07, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
