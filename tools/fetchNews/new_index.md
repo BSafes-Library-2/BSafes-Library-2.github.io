@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2024
+February 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple FreeImage Vulnerabilities Fixed in Ubuntu<a href="https://tuxcare.com/blog/multiple-freeimage-vulnerabilities-fixed-in-ubuntu/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On 16th January 2024, the Ubuntu security team released critical security updates addressing several FreeImage vulnerabilities in different Ubuntu releases, including Ubuntu 16.04 and Ubuntu 18.04.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Consular Software Installer Backdoored to Deploy Konni RAT<a href="https://medium.com/@DCSO_CyTec/to-russia-with-love-assessing-a-konni-backdoored-suspected-russian-consular-software-installer-ce618ea4b8f3?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This activity is linked to actors from North Korea targeting Russia. The trojan is being distributed through backdoored software installers and is capable of file transfers and command execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Open-Source Self-Modifying Worm Tool SSH-Snake Threatens Networks<a href="https://sysdig.com/blog/ssh-snake/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The worm autonomously searches for SSH credentials, modifies itself to remain fileless, and uses a variety of methods to collect private keys, making it difficult to detect statically.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hack at Healthcare Services Firm Hits 2.4 Million Eye Doctor Patients<a href="https://www.bankinfosecurity.com/hack-at-services-firm-hits-24-million-eye-doctor-patients-a-24418?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach affected nearly 2.4 million patients and compromised sensitive information such as names, contact details, medical records, and in some cases, Social Security numbers and insurance information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resilience Acquires Incident Response Provider BreachQuest<a href="https://coverager.com/resilience-acquires-breachquest/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Resilience, a cyber insurance startup, has acquired BreachQuest, a cybersecurity company specializing in incident response solutions, to enhance its cyber risk management software and incident management solution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCA Exposes Nearly 200 LockBit Affiliates, Data Theft Malware<a href="https://www.theregister.com/2024/02/21/lockbit_leaks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's National Crime Agency (NCA) has gained control of LockBit's site and has exposed the identities of the affiliates, disrupted the affiliate infrastructure, and destroyed the servers used for data exfiltration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+1Password Expands Its Endpoint Security Offerings With Kolide Acquisition<a href="https://techcrunch.com/2024/02/20/1password-expands-its-endpoint-security-offerings-with-kolide-acquisition/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+1Password, a password management software developer, has acquired Kolide, an endpoint security platform, for an undisclosed amount. Kolide's device security and contextual access management solution will be integrated into 1Password's offerings.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Lucifer' Botnet Turns Up the Heat on Apache Hadoop Servers<a href="https://www.darkreading.com/cloud-security/lucifer-botnet-heat-apache-hadoop-servers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The botnet's campaign has evolved through three distinct phases, testing new infection routines and defense evasion techniques before potentially launching a broader attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptocurrency Exchange FixedFloat Hacked to Siphon Off $26 Million in BTC, ETH<a href="https://www.hackread.com/crypto-exchange-fixedfloat-hacked-btc-eth-stolen/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FixedFloat, a non-KYC crypto exchange, was hacked for $26 million worth of Bitcoin and Ethereum due to vulnerabilities and insufficient security measures, leading to frozen transactions and missing funds.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breach at Aussie Telecom Tangerine Affects 232,000 Customers<a href="https://www.healthcareinfosecurity.com/breach-at-aussie-telecom-tangerine-affects-232000-customers-a-24414?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company confirmed that no credit/debit card numbers were compromised and assured that customer accounts are protected by multifactor authentication, ensuring security from unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Malicious PyPI Packages Caught Using Covert Side-Loading Tactics<a href="https://thehackernews.com/2024/02/new-malicious-pypi-packages-caught.html?&web_view=true"> Full Text</a>
@@ -50,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2024
+February 21, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'VietCredCare' Stealer Targeting Facebook Advertisers in Vietnam<a href="https://thehackernews.com/2024/02/new-vietcredcare-stealer-targeting.html?&web_view=true"> Full Text</a>
@@ -66,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2024
+February 21, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top UK Universities Recovering Following Targeted DDoS Attack<a href="https://www.infosecurity-magazine.com/news/universities-recovering-ddos-attack/?&web_view=true"> Full Text</a>
@@ -82,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2024
+February 21, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Knight Ransomware Source Code for Sale After Leak Site Shuts Down<a href="https://www.bleepingcomputer.com/news/security/knight-ransomware-source-code-for-sale-after-leak-site-shuts-down/?&web_view=true"> Full Text</a>
@@ -98,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2024
+February 21, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Tokens Exploit BRICS Investment Hype<a href="https://www.infosecurity-magazine.com/news/fake-tokens-exploit-brics-hype/?&web_view=true"> Full Text</a>
@@ -114,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2024
+February 21, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Migo Malware Targeting Redis Servers for Cryptocurrency Mining<a href="https://thehackernews.com/2024/02/new-migo-malware-targeting-redis.html?&web_view=true"> Full Text</a>
@@ -130,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2024
+February 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Urges Admins to Remove Deprecated, Vulnerable Enhanced Authentication Plug-in<a href="https://www.bleepingcomputer.com/news/security/vmware-urges-admins-to-remove-deprecated-vulnerable-auth-plug-in/?&web_view=true"> Full Text</a>
@@ -146,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2024
+February 21, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VoltSchemer Attacks Use Wireless Chargers to Inject Voice Commands, Fry Phones<a href="https://www.bleepingcomputer.com/news/security/voltschemer-attacks-use-wireless-chargers-to-inject-voice-commands-fry-phones/?&web_view=true"> Full Text</a>
@@ -162,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2024
+February 21, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Astaroth, Mekotio, and Ousaban Abusing Google Cloud Run in LATAM-Focused Malware Campaigns<a href="https://blog.talosintelligence.com/google-cloud-run-abuse/?&web_view=true"> Full Text</a>
@@ -178,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 21, 2024
+February 21, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insider Steals 80,000 Email Addresses From UK District Councils<a href="https://www.infosecurity-magazine.com/news/insider-steals-80000-emails/?&web_view=true"> Full Text</a>
