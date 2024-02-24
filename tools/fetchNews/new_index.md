@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2024
+February 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quik Pawn Shop Falls Victim to Alleged Cyberattack by Akira Ransomware Group<a href="https://thecyberexpress.com/quik-pawn-shop-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The outage of Quik Pawn Shop's website indicates a potential cyberattack consequence, hindering communication and leaving customers unaware of the breach's extent and implications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U-Haul Says Hacker Accessed Customer Records Using Stolen Credentials<a href="https://www.bleepingcomputer.com/news/security/u-haul-says-hacker-accessed-customer-records-using-stolen-creds/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach did not compromise payment details, and U-Haul has reset passwords for affected accounts, implemented additional security measures, and offered one-year identity theft protection service to affected customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Apple's Recent Zero-Click Shortcuts Vulnerability<a href="https://thehackernews.com/2024/02/researchers-detail-apples-recent-zero.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw in Apple's Shortcuts app allowed shortcuts to access sensitive data on devices without user consent. The vulnerability, tracked as CVE-2024-23204, was patched by Apple on January 22, 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malware-as-a-Service Info-Stealer Malware Targets Oil and Gas Companies<a href="https://cofense.com/blog/new-maas-infostealer-malware-campaign-targeting-oil-gas-sector/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced phishing campaign targeting the Oil and Gas industry is distributing the Rhadamanthys Stealer, an uncommon and sophisticated Malware-as-a-Service information stealer.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Duo Found Guilty of $3m Apple Fraud Plot<a href="https://www.infosecurity-magazine.com/news/chinese-duo-guilty-3m-apple-fraud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Chinese nationals, Haotian Sun and Pengfei Xue, have been found guilty of running a fraudulent scheme targeting Apple. They sent thousands of fake iPhones to Apple for repair, hoping to receive genuine replacements.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law Enforcement Dismantled LockBit Before Latest Variant Hit Market<a href="https://www.theregister.com/2024/02/22/lockbit_dismantled_new_variant/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new variant, referred to as LockBit-NG-Dev, was being designed to succeed the most recent LockBit 3.0 iteration, using .NET and CoreRT for cross-platform compatibility.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Arrests Three Alleged SugarLocker Ransomware Members<a href="https://therecord.media/russia-arrests-sugarlocker-ransomware-members?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group has been involved in deploying ransomware and receiving profits from cyberattacks. The arrest may be a PR move by Russia, and there are speculations about the suspects' continued operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Cyberattackers Launch Multiphase PsyOps Campaign<a href="https://www.darkreading.com/remote-workforce/russian-cyberattackers-launch-multi-phase-psyops-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian-linked threat actors conducted a multiwave campaign, Operation Texonto, using a combination of pysops and spear-phishing to spread misinformation in Ukraine and target Microsoft 365 credentials across Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: UnitedHealth Says Change Healthcare Hacked by Nation State, as Pharmacy Outages Drag On<a href="https://techcrunch.com/2024/02/22/unitedhealth-change-healthcare-hacked-nation-state-outage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ongoing cyberattack on Change Healthcare has resulted in widespread disruption, affecting patient billing processes, prescription fulfillment, and causing downtime for healthcare professionals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Malware ‘Migo’ Targets Redis for Cryptojacking Attacks<a href="https://cyware.com/news/linux-malware-migo-targets-redis-for-cryptojacking-attacks-6f96d3d3"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers spotted a new Migo malware targeting Redis servers to mine cryptocurrency and utilizing system-weakening commands to disable security features. Migo is distributed as a Golang ELF binary, with compile-time obfuscation and the ability to persist on Linux hosts. Organizations are expected ... Read More
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 22, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple FreeImage Vulnerabilities Fixed in Ubuntu<a href="https://tuxcare.com/blog/multiple-freeimage-vulnerabilities-fixed-in-ubuntu/?&web_view=true"> Full Text</a>
@@ -50,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2024
+February 22, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Consular Software Installer Backdoored to Deploy Konni RAT<a href="https://medium.com/@DCSO_CyTec/to-russia-with-love-assessing-a-konni-backdoored-suspected-russian-consular-software-installer-ce618ea4b8f3?&web_view=true"> Full Text</a>
@@ -66,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2024
+February 22, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Open-Source Self-Modifying Worm Tool SSH-Snake Threatens Networks<a href="https://sysdig.com/blog/ssh-snake/?&web_view=true"> Full Text</a>
@@ -82,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2024
+February 22, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hack at Healthcare Services Firm Hits 2.4 Million Eye Doctor Patients<a href="https://www.bankinfosecurity.com/hack-at-services-firm-hits-24-million-eye-doctor-patients-a-24418?&web_view=true"> Full Text</a>
@@ -98,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2024
+February 22, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Resilience Acquires Incident Response Provider BreachQuest<a href="https://coverager.com/resilience-acquires-breachquest/?&web_view=true"> Full Text</a>
@@ -114,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2024
+February 22, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NCA Exposes Nearly 200 LockBit Affiliates, Data Theft Malware<a href="https://www.theregister.com/2024/02/21/lockbit_leaks/?&web_view=true"> Full Text</a>
@@ -130,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2024
+February 22, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 1Password Expands Its Endpoint Security Offerings With Kolide Acquisition<a href="https://techcrunch.com/2024/02/20/1password-expands-its-endpoint-security-offerings-with-kolide-acquisition/?&web_view=true"> Full Text</a>
@@ -146,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2024
+February 22, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Lucifer' Botnet Turns Up the Heat on Apache Hadoop Servers<a href="https://www.darkreading.com/cloud-security/lucifer-botnet-heat-apache-hadoop-servers?&web_view=true"> Full Text</a>
@@ -162,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2024
+February 22, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptocurrency Exchange FixedFloat Hacked to Siphon Off $26 Million in BTC, ETH<a href="https://www.hackread.com/crypto-exchange-fixedfloat-hacked-btc-eth-stolen/?&web_view=true"> Full Text</a>
@@ -178,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 22, 2024
+February 22, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Breach at Aussie Telecom Tangerine Affects 232,000 Customers<a href="https://www.healthcareinfosecurity.com/breach-at-aussie-telecom-tangerine-affects-232000-customers-a-24414?&web_view=true"> Full Text</a>
