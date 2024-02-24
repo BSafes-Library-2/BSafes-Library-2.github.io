@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Duo Found Guilty of $3m Apple Fraud Plot<a href="https://www.infosecurity-magazine.com/news/chinese-duo-guilty-3m-apple-fraud/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Chinese nationals, Haotian Sun and Pengfei Xue, have been found guilty of running a fraudulent scheme targeting Apple. They sent thousands of fake iPhones to Apple for repair, hoping to receive genuine replacements.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

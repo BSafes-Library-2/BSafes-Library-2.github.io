@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law Enforcement Dismantled LockBit Before Latest Variant Hit Market<a href="https://www.theregister.com/2024/02/22/lockbit_dismantled_new_variant/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new variant, referred to as LockBit-NG-Dev, was being designed to succeed the most recent LockBit 3.0 iteration, using .NET and CoreRT for cross-platform compatibility.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia Arrests Three Alleged SugarLocker Ransomware Members<a href="https://therecord.media/russia-arrests-sugarlocker-ransomware-members?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group has been involved in deploying ransomware and receiving profits from cyberattacks. The arrest may be a PR move by Russia, and there are speculations about the suspects' continued operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

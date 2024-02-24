@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+February 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Cyberattackers Launch Multiphase PsyOps Campaign<a href="https://www.darkreading.com/remote-workforce/russian-cyberattackers-launch-multi-phase-psyops-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian-linked threat actors conducted a multiwave campaign, Operation Texonto, using a combination of pysops and spear-phishing to spread misinformation in Ukraine and target Microsoft 365 credentials across Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 January 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

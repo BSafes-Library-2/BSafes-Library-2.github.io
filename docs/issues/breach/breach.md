@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U-Haul Says Hacker Accessed Customer Records Using Stolen Credentials<a href="https://www.bleepingcomputer.com/news/security/u-haul-says-hacker-accessed-customer-records-using-stolen-creds/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach did not compromise payment details, and U-Haul has reset passwords for affected accounts, implemented additional security measures, and offered one-year identity theft protection service to affected customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
