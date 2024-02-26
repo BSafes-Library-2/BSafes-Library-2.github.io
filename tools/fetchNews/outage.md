@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+February 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quik Pawn Shop Falls Victim to Alleged Cyberattack by Akira Ransomware Group<a href="https://thecyberexpress.com/quik-pawn-shop-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The outage of Quik Pawn Shop's website indicates a potential cyberattack consequence, hindering communication and leaving customers unaware of the breach's extent and implications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: UnitedHealth Says Change Healthcare Hacked by Nation State, as Pharmacy Outages Drag On<a href="https://techcrunch.com/2024/02/22/unitedhealth-change-healthcare-hacked-nation-state-outage/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ongoing cyberattack on Change Healthcare has resulted in widespread disruption, affecting patient billing processes, prescription fulfillment, and causing downtime for healthcare professionals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

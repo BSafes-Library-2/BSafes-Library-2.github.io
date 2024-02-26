@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recruitment Firm Das Team Ag Confirms Cyberattack by Black Basta Ransomware Group<a href="https://thecyberexpress.com/das-team-ag-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack on Das Team Ag by the Black Basta ransomware group highlights the increasing threat to recruitment agencies and the potential consequences for affected individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,17 +7,13 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 15, 2024 - CISA
+February 21, 2024 - White House
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
-CISA Adds Two Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2024/02/15/cisa-adds-two-known-exploited-vulnerabilities-catalog"> Full Text</a>
+Biden-Harris Administration announces Initiative to Bolster Cybersecurity of U.S. Ports <a href="https://www.whitehouse.gov/briefing-room/statements-releases/2024/02/21/fact-sheet-biden-harris-administration-announces-initiative-to-bolster-cybersecurity-of-u-s-ports/#:~:text=President%20Biden%20will%20sign%20an,networks%20and%20systems%20are%20secure."> Full Text</a>
 </p>
 <details>
-CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
-
-CVE-2020-3259 Cisco ASA and FTD Information Disclosure Vulnerability
-CVE-2024-21410 Microsoft Exchange Server Privilege Escalation Vulnerability
-These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. 
+Today, the Biden-Harris Administration will issue an Executive Order to bolster the security of the nation’s ports, alongside a series of additional actions that will strengthen maritime cybersecurity, fortify our supply chains and strengthen the United States industrial base. The Administration will also announce its intent to bring domestic onshore manufacturing capacity back to America to provide safe, secure cranes to U.S. ports – thanks to an over $20 billion investment in U.S. port infrastructure under President Biden’s Investing in America Agenda. Today’s actions are clear examples of the President’s work to invest in America, secure the country’s supply chains, and strengthen the cybersecurity of our nation’s critical infrastructure against 21st century threats – priorities his Administration has focused on relentlessly since taking office.
 </details>
 </div>
 

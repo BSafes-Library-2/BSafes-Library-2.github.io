@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+February 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+President Biden's Executive Order Seeks to Bolster Port Cybersecurity<a href="https://therecord.media/port-cybersecurity-china-cranes-biden-executive-order?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House issued an executive order to improve maritime port security, including bolstering cybersecurity policies and investing in infrastructure, while addressing concerns about Chinese-owned cranes' potential cybersecurity threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

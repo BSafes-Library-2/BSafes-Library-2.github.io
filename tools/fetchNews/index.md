@@ -34,6 +34,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+President Biden's Executive Order Seeks to Bolster Port Cybersecurity<a href="https://therecord.media/port-cybersecurity-china-cranes-biden-executive-order?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House issued an executive order to improve maritime port security, including bolstering cybersecurity policies and investing in infrastructure, while addressing concerns about Chinese-owned cranes' potential cybersecurity threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: Second Accidental Data Leak in Four Months ‘Regrettable’, Finance Department Says<a href="https://www.theguardian.com/technology/2024/feb/22/second-accidental-sharing-of-confidential-information-regrettable-finance-department-says?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian government has experienced a significant increase in data breaches, with human error being the leading cause, highlighting the need for improved detection and response systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recruitment Firm Das Team Ag Confirms Cyberattack by Black Basta Ransomware Group<a href="https://thecyberexpress.com/das-team-ag-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack on Das Team Ag by the Black Basta ransomware group highlights the increasing threat to recruitment agencies and the potential consequences for affected individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: New ScreenConnect RCE Flaw Exploited in Ransomware Attacks<a href="https://www.bleepingcomputer.com/news/security/new-screenconnect-rce-flaw-exploited-in-ransomware-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware attacks are still occurring despite law enforcement takedown efforts, with threat actors exploiting ScreenConnect vulnerabilities to deploy the ransomware on compromised networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 23, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

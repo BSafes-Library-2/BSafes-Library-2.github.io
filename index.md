@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2024
+February 24, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 President Biden's Executive Order Seeks to Bolster Port Cybersecurity<a href="https://therecord.media/port-cybersecurity-china-cranes-biden-executive-order?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2024
+February 24, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia: Second Accidental Data Leak in Four Months ‘Regrettable’, Finance Department Says<a href="https://www.theguardian.com/technology/2024/feb/22/second-accidental-sharing-of-confidential-information-regrettable-finance-department-says?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2024
+February 24, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Recruitment Firm Das Team Ag Confirms Cyberattack by Black Basta Ransomware Group<a href="https://thecyberexpress.com/das-team-ag-cyberattack/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 24, 2024
+February 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: New ScreenConnect RCE Flaw Exploited in Ransomware Attacks<a href="https://www.bleepingcomputer.com/news/security/new-screenconnect-rce-flaw-exploited-in-ransomware-attacks/?&web_view=true"> Full Text</a>
