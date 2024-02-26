@@ -34,7 +34,71 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2024
+February 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+President Biden's Executive Order Seeks to Bolster Port Cybersecurity<a href="https://therecord.media/port-cybersecurity-china-cranes-biden-executive-order?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House issued an executive order to improve maritime port security, including bolstering cybersecurity policies and investing in infrastructure, while addressing concerns about Chinese-owned cranes' potential cybersecurity threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: Second Accidental Data Leak in Four Months ‘Regrettable’, Finance Department Says<a href="https://www.theguardian.com/technology/2024/feb/22/second-accidental-sharing-of-confidential-information-regrettable-finance-department-says?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian government has experienced a significant increase in data breaches, with human error being the leading cause, highlighting the need for improved detection and response systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Recruitment Firm Das Team Ag Confirms Cyberattack by Black Basta Ransomware Group<a href="https://thecyberexpress.com/das-team-ag-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack on Das Team Ag by the Black Basta ransomware group highlights the increasing threat to recruitment agencies and the potential consequences for affected individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: New ScreenConnect RCE Flaw Exploited in Ransomware Attacks<a href="https://www.bleepingcomputer.com/news/security/new-screenconnect-rce-flaw-exploited-in-ransomware-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit ransomware attacks are still occurring despite law enforcement takedown efforts, with threat actors exploiting ScreenConnect vulnerabilities to deploy the ransomware on compromised networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 23, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quik Pawn Shop Falls Victim to Alleged Cyberattack by Akira Ransomware Group<a href="https://thecyberexpress.com/quik-pawn-shop-cyberattack/?&web_view=true"> Full Text</a>
@@ -50,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2024
+February 23, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 U-Haul Says Hacker Accessed Customer Records Using Stolen Credentials<a href="https://www.bleepingcomputer.com/news/security/u-haul-says-hacker-accessed-customer-records-using-stolen-creds/?&web_view=true"> Full Text</a>
@@ -66,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2024
+February 23, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Detail Apple's Recent Zero-Click Shortcuts Vulnerability<a href="https://thehackernews.com/2024/02/researchers-detail-apples-recent-zero.html?&web_view=true"> Full Text</a>
@@ -82,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2024
+February 23, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Malware-as-a-Service Info-Stealer Malware Targets Oil and Gas Companies<a href="https://cofense.com/blog/new-maas-infostealer-malware-campaign-targeting-oil-gas-sector/?&web_view=true"> Full Text</a>
@@ -98,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2024
+February 23, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Duo Found Guilty of $3m Apple Fraud Plot<a href="https://www.infosecurity-magazine.com/news/chinese-duo-guilty-3m-apple-fraud/?&web_view=true"> Full Text</a>
@@ -114,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2024
+February 23, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Law Enforcement Dismantled LockBit Before Latest Variant Hit Market<a href="https://www.theregister.com/2024/02/22/lockbit_dismantled_new_variant/?&web_view=true"> Full Text</a>
@@ -130,7 +194,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2024
+February 23, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia Arrests Three Alleged SugarLocker Ransomware Members<a href="https://therecord.media/russia-arrests-sugarlocker-ransomware-members?&web_view=true"> Full Text</a>
@@ -146,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2024
+February 23, 2024 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Cyberattackers Launch Multiphase PsyOps Campaign<a href="https://www.darkreading.com/remote-workforce/russian-cyberattackers-launch-multi-phase-psyops-campaign?&web_view=true"> Full Text</a>
@@ -162,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2024
+February 23, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: UnitedHealth Says Change Healthcare Hacked by Nation State, as Pharmacy Outages Drag On<a href="https://techcrunch.com/2024/02/22/unitedhealth-change-healthcare-hacked-nation-state-outage/?&web_view=true"> Full Text</a>
@@ -178,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 23, 2024
+February 23, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux Malware ‘Migo’ Targets Redis for Cryptojacking Attacks<a href="https://cyware.com/news/linux-malware-migo-targets-redis-for-cryptojacking-attacks-6f96d3d3"> Full Text</a>
