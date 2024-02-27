@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HHS OCR Tells Congress it Needs More Funding for HIPAA Work<a href="https://www.bankinfosecurity.com/hhs-ocr-tells-congress-needs-more-funding-for-hipaa-work-a-24440?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of reported health data breaches and HIPAA complaints has been increasing, posing a significant challenge for the Department of Health and Human Services' Office for Civil Rights to keep up with their workload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases PyRIT - A Red Teaming Tool for Generative AI<a href="https://thehackernews.com/2024/02/microsoft-releases-pyrit-red-teaming.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool can be used to assess the robustness of large language model (LLM) endpoints against various harm categories, such as fabrication, misuse, prohibited content, security harms, and privacy harms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California AG Settles with DoorDash Over Selling Consumer Data Without Notice<a href="https://therecord.media/doordash-settles-california-ag-selling-consumer-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The settlement includes a $375,000 civil penalty, a review of vendor agreements, and the requirement to provide annual reports on potential sale or sharing of consumer information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, EPA, FBI Publish Top Cyber Steps for Water System Operators<a href="https://www.meritalk.com/articles/cisa-epa-fbi-publish-top-cyber-steps-for-water-system-operators/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Water and wastewater systems need to enhance their cybersecurity measures to protect against potential cyberattacks due to vulnerabilities in their operational technology (OT) and information technology (IT) systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Targeting Developers with Malicious npm Packages<a href="https://thehackernews.com/2024/02/north-korean-hackers-targeting.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious packages contained scripts capable of stealing credentials from web browsers, downloading additional harmful scripts, and establishing connections to known North Korean threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Authorities Uncover 30,000 Bitcoin Wallet Addresses Linked to LockBit<a href="https://www.bankinfosecurity.com/binance-restricts-85-lockbit-crypto-wallets-a-24439?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement's takedown of LockBit's infrastructure revealed 2,200 unspent bitcoins worth over $110 million, highlighting the extensive scale of the group's operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada: RCMP Investigating Cyberattack as its Website Remains Down<a href="https://www.bleepingcomputer.com/news/security/rcmp-investigating-cyber-attack-as-its-website-remains-down/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RCMP website was down due to the cyber incident, with pages being redirected to an install.php page that does not exist, indicating potential issues with website configuration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Operation Relaunches Dark Web Leak Site<a href="https://www.bankinfosecurity.com/ransomware-operation-lockbit-relaunches-dark-web-leak-site-a-24442?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian-speaking ransomware group LockBit has announced its return to hacking after a law enforcement operation, Operation Cronos, targeted the group. The group's leader, LockBitSupp, has vowed to continue hacking despite the takedown.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Leak 2.5 Million Private Plane Owners’ Data Linked to LA International Airport Breach<a href="https://www.hackread.com/hackers-leak-private-plane-owners-data-la-airport-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IntelBroker successfully breached the Los Angeles International Airport's CRM system, obtaining 2.5 million sensitive records, highlighting the critical need for organizations to strengthen cybersecurity measures against skilled hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC to Ban Avast From Selling Browsing Data for Advertising Purposes<a href="https://www.bleepingcomputer.com/news/security/ftc-to-ban-avast-from-selling-browsing-data-for-advertising-purposes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) has ordered Avast to pay $16.5 million and banned the company from selling users' web browsing data or licensing it for advertising purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 24, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
