@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+February 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canada: RCMP Investigating Cyberattack as its Website Remains Down<a href="https://www.bleepingcomputer.com/news/security/rcmp-investigating-cyber-attack-as-its-website-remains-down/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RCMP website was down due to the cyber incident, with pages being redirected to an install.php page that does not exist, indicating potential issues with website configuration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

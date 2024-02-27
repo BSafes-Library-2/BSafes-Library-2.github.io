@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+February 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases PyRIT - A Red Teaming Tool for Generative AI<a href="https://thehackernews.com/2024/02/microsoft-releases-pyrit-red-teaming.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool can be used to assess the robustness of large language model (LLM) endpoints against various harm categories, such as fabrication, misuse, prohibited content, security harms, and privacy harms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

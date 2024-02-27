@@ -7,6 +7,28 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2024 - U.S. Department of Health and Human Services 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breach Portal: Notice to the Secretary of HHS Breach of Unsecured Protected Health Information <a href="https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"> Full Text</a>
+</p>
+<details>
+As required by section 13402(e)(4) of the HITECH Act, the Secretary must post a list of breaches of unsecured protected health information affecting 500 or more individuals. The following breaches have been reported to the Secretary:
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 21, 2024 - CISA, EPA, FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, EPA, and FBI Release Top Cyber Actions for Securing Water Systems <a href="https://www.cisa.gov/news-events/alerts/2024/02/21/cisa-epa-and-fbi-release-top-cyber-actions-securing-water-systems"> Full Text</a>
+</p>
+<details>
+Today, CISA, the Environmental Protection Agency (EPA), and the Federal Bureau of Investigation (FBI) released the joint fact sheet Top Cyber Actions for Securing Water Systems. This fact sheet outlines the following practical actions Water and Wastewater Systems (WWS) Sector entities can take to better protect water systems from malicious cyber activity and provides actionable guidance to implement concurrently:
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 21, 2024 - White House
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

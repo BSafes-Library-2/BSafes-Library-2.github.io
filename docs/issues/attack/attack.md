@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Targeting Developers with Malicious npm Packages<a href="https://thehackernews.com/2024/02/north-korean-hackers-targeting.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious packages contained scripts capable of stealing credentials from web browsers, downloading additional harmful scripts, and establishing connections to known North Korean threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
