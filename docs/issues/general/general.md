@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Crisis in Schools<a href="https://www.helpnetsecurity.com/2024/02/26/education-sector-cyberattacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The education sector faces significant cybersecurity risks due to factors such as BYOD culture, vast student data troves, and resource scarcity, making strong cybersecurity measures crucial.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

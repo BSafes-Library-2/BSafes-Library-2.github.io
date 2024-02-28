@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Authorities Uncover 30,000 Bitcoin Wallet Addresses Linked to LockBit<a href="https://www.bankinfosecurity.com/binance-restricts-85-lockbit-crypto-wallets-a-24439?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement's takedown of LockBit's infrastructure revealed 2,200 unspent bitcoins worth over $110 million, highlighting the extensive scale of the group's operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Operation Relaunches Dark Web Leak Site<a href="https://www.bankinfosecurity.com/ransomware-operation-lockbit-relaunches-dark-web-leak-site-a-24442?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian-speaking ransomware group LockBit has announced its return to hacking after a law enforcement operation, Operation Cronos, targeted the group. The group's leader, LockBitSupp, has vowed to continue hacking despite the takedown.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

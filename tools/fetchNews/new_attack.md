@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+February 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Steel Production Giant ThyssenKrupp Confirms Cyberattack on Automotive Division<a href="https://www.bleepingcomputer.com/news/security/steel-giant-thyssenkrupp-confirms-cyberattack-on-automotive-division/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ThyssenKrupp, a major steel producer and industrial engineering firm, experienced a cyberattack on its Automotive division, leading to a forced shutdown of IT systems as part of the response and containment measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

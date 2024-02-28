@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+February 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian SVR-Linked APT29 Threat Actors Adapt Their Tactics for Initial Cloud Access<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-057a?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian Foreign Intelligence Service (SVR) cyber actors, also known as APT29 or Cozy Bear, have shifted their tactics to target cloud environments as organizations increasingly move to cloud-based infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

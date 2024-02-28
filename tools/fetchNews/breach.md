@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Leak 2.5 Million Private Plane Owners’ Data Linked to LA International Airport Breach<a href="https://www.hackread.com/hackers-leak-private-plane-owners-data-la-airport-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IntelBroker successfully breached the Los Angeles International Airport's CRM system, obtaining 2.5 million sensitive records, highlighting the critical need for organizations to strengthen cybersecurity measures against skilled hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

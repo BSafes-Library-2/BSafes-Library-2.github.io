@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Open-Source Xeno RAT Trojan Emerges as a Potent Threat on GitHub<a href="https://thehackernews.com/2024/02/open-source-xeno-rat-trojan-emerges-as.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The multi-stage dissemination of Xeno RAT via Discord CDN demonstrates the use of deceptive tactics such as disguised shortcut files to deliver and execute the open-source malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: LoanDepot Says About 17M Customers Had Personal Data and SSNs Stolen During Cyberattack<a href="https://techcrunch.com/2024/02/26/loandepot-millions-sensitive-personal-data-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack left LoanDepot's customers unable to make payments or access their online accounts, and the company expects the incident to impact its fiscal first quarter earnings by $12 to $17 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hugging Face Vulnerability Exposes AI Models to Supply Chain Attacks<a href="https://thehackernews.com/2024/02/new-hugging-face-vulnerability-exposes.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers discovered a vulnerability in the Hugging Face Safetensors conversion service that could be exploited by attackers to compromise machine learning models submitted by users, leading to supply chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Issues Security Advisory for Multiple Vulnerabilities in Firewalls and APs<a href="https://www.zyxel.com/global/en/support/security-advisories/zyxel-security-advisory-for-multiple-vulnerabilities-in-firewalls-and-aps-02-21-2024?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zyxel has identified and patched four critical vulnerabilities in its firewall and access point products, including flaws that could lead to remote code execution and denial-of-service attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pikabot Returns With New Tricks up Its Sleeve<a href="https://www.helpnetsecurity.com/2024/02/26/pikabot-updates/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new version of Pikabot features simpler encryption algorithms, anti-debugging methods, and plaintext bot configuration, indicating a new codebase with potential future improvements.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hacker Set to Face Trial for the Hack of a Local Power Grid<a href="https://securityaffairs.com/159536/hacking/cyber-attack-power-plant-russia-hacker.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 49-year-old Russian national has been charged with carrying out a cyberattack on a local power plant, resulting in a widespread blackout in 38 villages in the Vologda region.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian SVR-Linked APT29 Threat Actors Adapt Their Tactics for Initial Cloud Access<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-057a?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian Foreign Intelligence Service (SVR) cyber actors, also known as APT29 or Cozy Bear, have shifted their tactics to target cloud environments as organizations increasingly move to cloud-based infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: Privacy Watchdog Cracks Down on Biometric Employee Tracking<a href="https://www.bankinfosecurity.com/privacy-watchdog-cracks-down-on-biometric-employee-tracking-a-24445?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The British privacy watchdog has ordered a leisure center contractor, Serco Leisure, to stop using facial recognition and fingerprint scanning to track employees at 38 leisure facilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Steel Production Giant ThyssenKrupp Confirms Cyberattack on Automotive Division<a href="https://www.bleepingcomputer.com/news/security/steel-giant-thyssenkrupp-confirms-cyberattack-on-automotive-division/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ThyssenKrupp, a major steel producer and industrial engineering firm, experienced a cyberattack on its Automotive division, leading to a forced shutdown of IT systems as part of the response and containment measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Crisis in Schools<a href="https://www.helpnetsecurity.com/2024/02/26/education-sector-cyberattacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The education sector faces significant cybersecurity risks due to factors such as BYOD culture, vast student data troves, and resource scarcity, making strong cybersecurity measures crucial.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 26, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

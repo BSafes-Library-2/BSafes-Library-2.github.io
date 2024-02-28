@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+February 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+California AG Settles with DoorDash Over Selling Consumer Data Without Notice<a href="https://therecord.media/doordash-settles-california-ag-selling-consumer-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The settlement includes a $375,000 civil penalty, a review of vendor agreements, and the requirement to provide annual reports on potential sale or sharing of consumer information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC to Ban Avast From Selling Browsing Data for Advertising Purposes<a href="https://www.bleepingcomputer.com/news/security/ftc-to-ban-avast-from-selling-browsing-data-for-advertising-purposes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Federal Trade Commission (FTC) has ordered Avast to pay $16.5 million and banned the company from selling users' web browsing data or licensing it for advertising purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
