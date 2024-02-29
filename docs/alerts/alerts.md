@@ -7,6 +7,27 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 29, 2024 - Health Sector Coordinating Council 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Strategic Plan <a href="https://healthsectorcouncil.org/cyber-strategic-plan/"> Full Text</a>
+</p>
+<details>
+The Health Industry Cybersecurity Strategic Plan (HIC-SP) is a call to action for organizations throughout the healthcare ecosystem to implement foundational cybersecurity programs that address the operational, technological, and governance challenges posed by significant healthcare industry trends over the next five years.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 27, 2024 - FBI, NSA, US Cyber Command, and international partners 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Cyber Actors Use Compromised Routers to Facilitate Cyber Operations <a href="https://www.ic3.gov/Media/News/2024/240227.pdf"> Full Text</a> </p>
+<details>
+The U.S. Department of Justice, including the FBI, and international partners recently disrupted a GRU botnet consisting of such routers. However, owners of relevant devices should take the remedial actions described below to ensure the long-term success of the disruption effort and to identify and remediate any similar compromises.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 27, 2024 - U.S. Department of Health and Human Services 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+February 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HSCC Issues Cyber 'Call to Action' Plan for Health Sector<a href="https://www.bankinfosecurity.com/hscc-issues-cyber-call-to-action-plan-for-health-sector-a-24456?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The plan includes 12 measurable objectives, such as increasing cybersecurity practices, developing cross-sector risk management strategies, and implementing automation and emerging technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Agencies Warn Ubiquiti EdgeRouter Users of APT28's MooBot Threat<a href="https://thehackernews.com/2024/02/cybersecurity-agencies-warn-ubiquiti.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Organizations are urged to perform a hardware factory reset, upgrade firmware, change default credentials, and implement firewall rules to protect against the MooBot attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Agencies Warn of ALPHV/Blackcat Ransomware Threat to Healthcare Providers<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-353a?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ALPHV/Blackcat ransomware affiliates use advanced social engineering techniques and open-source research to gain initial access to victim networks, posing as IT or helpdesk staff to obtain credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

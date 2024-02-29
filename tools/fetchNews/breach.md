@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: LoanDepot Says About 17M Customers Had Personal Data and SSNs Stolen During Cyberattack<a href="https://techcrunch.com/2024/02/26/loandepot-millions-sensitive-personal-data-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack left LoanDepot's customers unable to make payments or access their online accounts, and the company expects the incident to impact its fiscal first quarter earnings by $12 to $17 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Black Basta, Bl00dy Ransomware Gangs Join ScreenConnect Attacks<a href="https://www.bleepingcomputer.com/news/security/black-basta-bl00dy-ransomware-gangs-join-screenconnect-attacks/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Ransomware Gang Seeks $3.4 Million After Attacking Children’s Hospital<a href="https://therecord.media/lurie-childrens-hospital-chicago-ransomware-rhysida?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HSCC Issues Cyber 'Call to Action' Plan for Health Sector<a href="https://www.bankinfosecurity.com/hscc-issues-cyber-call-to-action-plan-for-health-sector-a-24456?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LabHost Cybercrime Service Lets Anyone Phish Canadian Bank Users<a href="https://www.bleepingcomputer.com/news/security/labhost-cybercrime-service-lets-anyone-phish-canadian-bank-users/?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Code in Tornado Cash Governance Proposal Puts User Funds at Risk<a href="https://www.bleepingcomputer.com/news/security/malicious-code-in-tornado-cash-governance-proposal-puts-user-funds-at-risk/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Agencies Warn Ubiquiti EdgeRouter Users of APT28's MooBot Threat<a href="https://thehackernews.com/2024/02/cybersecurity-agencies-warn-ubiquiti.html?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TimbreStealer Campaign Targets Mexican Users with Financial Lures<a href="https://blog.talosintelligence.com/timbrestealer-campaign-targets-mexican-users/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Agencies Warn of ALPHV/Blackcat Ransomware Threat to Healthcare Providers<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-353a?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia and Belarus Targeted by at Least 14 Nation-State Hacker Groups, Researchers Say<a href="https://therecord.media/russia-belarus-cyberthreat-research-facct?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Germany's Hessen Consumer Center Says Systems Encrypted by Ransomware<a href="https://www.bleepingcomputer.com/news/security/hessen-consumer-center-says-systems-encrypted-by-ransomware/?&web_view=true"> Full Text</a>

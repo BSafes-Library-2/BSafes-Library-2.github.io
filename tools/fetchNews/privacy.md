@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+February 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: Privacy Watchdog Cracks Down on Biometric Employee Tracking<a href="https://www.bankinfosecurity.com/privacy-watchdog-cracks-down-on-biometric-employee-tracking-a-24445?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The British privacy watchdog has ordered a leisure center contractor, Serco Leisure, to stop using facial recognition and fingerprint scanning to track employees at 38 leisure facilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

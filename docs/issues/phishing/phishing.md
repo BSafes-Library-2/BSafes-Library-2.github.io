@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+February 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LabHost Cybercrime Service Lets Anyone Phish Canadian Bank Users<a href="https://www.bleepingcomputer.com/news/security/labhost-cybercrime-service-lets-anyone-phish-canadian-bank-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LabHost offers three membership tiers targeting banks and online services, along with a real-time phishing management tool called LabRat that enables cybercriminals to steal 2FA protection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TimbreStealer Campaign Targets Mexican Users with Financial Lures<a href="https://blog.talosintelligence.com/timbrestealer-campaign-targets-mexican-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware comes with embedded modules for orchestration, decryption, and protection, while also conducting checks to avoid sandbox environments and targeting specific industries like manufacturing and transportation sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

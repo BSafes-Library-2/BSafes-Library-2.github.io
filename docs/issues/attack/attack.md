@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+February 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Black Basta, Bl00dy Ransomware Gangs Join ScreenConnect Attacks<a href="https://www.bleepingcomputer.com/news/security/black-basta-bl00dy-ransomware-gangs-join-screenconnect-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta and Bl00dy ransomware gangs are exploiting a critical authentication bypass vulnerability (CVE-2024-1709) in unpatched ScreenConnect servers to gain admin access and deploy ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ransomware Gang Seeks $3.4 Million After Attacking Children’s Hospital<a href="https://therecord.media/lurie-childrens-hospital-chicago-ransomware-rhysida?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hospital, which serves a large number of pediatric patients, is still providing care despite disruptions caused by the cyberattack. The ransomware group is attempting to sell stolen data from the hospital for 60 bitcoins.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia and Belarus Targeted by at Least 14 Nation-State Hacker Groups, Researchers Say<a href="https://therecord.media/russia-belarus-cyberthreat-research-facct?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+State-sponsored hacker groups targeted Russia and former Soviet Union members with destructive or espionage campaigns, indicating an increase in politically motivated cyber attacks in the region.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

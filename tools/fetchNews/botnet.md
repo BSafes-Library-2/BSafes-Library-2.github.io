@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+February 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pikabot Returns With New Tricks up Its Sleeve<a href="https://www.helpnetsecurity.com/2024/02/26/pikabot-updates/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new version of Pikabot features simpler encryption algorithms, anti-debugging methods, and plaintext bot configuration, indicating a new codebase with potential future improvements.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

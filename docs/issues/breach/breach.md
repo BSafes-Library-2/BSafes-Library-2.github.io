@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+February 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany's Hessen Consumer Center Says Systems Encrypted by Ransomware<a href="https://www.bleepingcomputer.com/news/security/hessen-consumer-center-says-systems-encrypted-by-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The organization is working with external IT security experts to restore its communication channels and is committed to informing affected individuals if a data compromise is confirmed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
