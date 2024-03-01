@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+February 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptojacking is No Longer the Sole Focus of Cloud Attackers<a href="https://www.helpnetsecurity.com/2024/02/29/cloud-focused-malware-campaigns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-focused malware campaigns are increasingly targeting services like Docker, Redis, Kubernetes, and Jupyter, requiring security teams to reassess their approaches to identifying and responding to emerging cloud threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

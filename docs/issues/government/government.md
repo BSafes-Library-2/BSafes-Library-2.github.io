@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+February 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senator Asks FTC to Investigate Automakers’ Data Privacy Practices<a href="https://therecord.media/senator-asks-ftc-to-investigate-automaker-privacy-practices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senator Edward Markey has called for an investigation into the data privacy practices of the automotive industry, urging Federal Trade Commission (FTC) Chair Lina Khan to take action.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+February 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoE Invests $45 Million to Prevent Cyberattacks on US Energy Systems<a href="https://www.meritalk.com/articles/doe-invests-45m-to-prevent-cyberattacks-on-us-energy-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Energy's Office of Cybersecurity, Energy Security, and Emergency Response (CESER) has allocated $45 million for 16 projects aimed at developing new technologies to prevent cyberattacks and reduce energy disruptions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

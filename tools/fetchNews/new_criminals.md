@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+February 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: BlackCat Ransomware Gang Claims They Stole 6TB of Change Healthcare Data<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-claims-they-stole-6tb-of-change-healthcare-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat/ALPHV ransomware gang claimed responsibility for a cyberattack on Optum, affecting the Change Healthcare platform and potentially compromising sensitive data of millions of individuals and organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
