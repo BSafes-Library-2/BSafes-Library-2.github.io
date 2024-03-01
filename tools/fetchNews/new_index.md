@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: BlackCat Ransomware Gang Claims They Stole 6TB of Change Healthcare Data<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-claims-they-stole-6tb-of-change-healthcare-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlackCat/ALPHV ransomware gang claimed responsibility for a cyberattack on Optum, affecting the Change Healthcare platform and potentially compromising sensitive data of millions of individuals and organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Diplomats Targeted by SPIKEDWINE Actors with WINELOADER Backdoor<a href="https://www.zscaler.com/blogs/security-research/european-diplomats-targeted-spikedwine-wineloader?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The adversary used a PDF file posing as an invitation from the Ambassador of India to a wine-tasting event, which contained a malicious link leading to the WINELOADER malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit Ransomware Returns to Attacks With New Encryptors, Servers<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-returns-to-attacks-with-new-encryptors-servers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit has set up new data leak and negotiation sites, and is actively recruiting experienced pentesters to join their operation, indicating a potential increase in future attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Scientists Targeted by Malicious Hugging Face ML Models with Silent Backdoor<a href="https://jfrog.com/blog/data-scientists-targeted-by-malicious-hugging-face-ml-models-with-silent-backdoor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The model’s payload grants the attacker a shell on the compromised machine, enabling them to gain full control over victims’ machines through what is commonly referred to as a “backdoor”.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GTPDOOR Linux Malware Targets Telecoms, Exploiting GPRS Roaming Networks<a href="https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GTPDOOR is a new Linux malware designed for telecom networks that leverages the GPRS Tunnelling Protocol (GTP) for command-and-control communications, posing a threat to subscriber information and call metadata.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senator Asks FTC to Investigate Automakers’ Data Privacy Practices<a href="https://therecord.media/senator-asks-ftc-to-investigate-automaker-privacy-practices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Senator Edward Markey has called for an investigation into the data privacy practices of the automotive industry, urging Federal Trade Commission (FTC) Chair Lina Khan to take action.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitHub Besieged by Millions of Malicious Repositories in Ongoing Attack<a href="https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack involves the automated forking of legitimate repositories, resulting in millions of malicious forks with names identical to the original ones, making detection and removal challenging for GitHub.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DoE Invests $45 Million to Prevent Cyberattacks on US Energy Systems<a href="https://www.meritalk.com/articles/doe-invests-45m-to-prevent-cyberattacks-on-us-energy-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Energy's Office of Cybersecurity, Energy Security, and Emergency Response (CESER) has allocated $45 million for 16 projects aimed at developing new technologies to prevent cyberattacks and reduce energy disruptions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Anycubic 3D Printers Hacked Worldwide to Expose Security Flaw<a href="https://www.bleepingcomputer.com/news/security/anycubic-3d-printers-hacked-worldwide-to-expose-security-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers have urged Anycubic to open-source their 3D printers due to software deficiencies and have warned affected customers to disconnect their printers from the Internet until the security issue is patched.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cryptojacking is No Longer the Sole Focus of Cloud Attackers<a href="https://www.helpnetsecurity.com/2024/02/29/cloud-focused-malware-campaigns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud-focused malware campaigns are increasingly targeting services like Docker, Redis, Kubernetes, and Jupyter, requiring security teams to reassess their approaches to identifying and responding to emerging cloud threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Black Basta, Bl00dy Ransomware Gangs Join ScreenConnect Attacks<a href="https://www.bleepingcomputer.com/news/security/black-basta-bl00dy-ransomware-gangs-join-screenconnect-attacks/?&web_view=true"> Full Text</a>
@@ -50,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Ransomware Gang Seeks $3.4 Million After Attacking Children’s Hospital<a href="https://therecord.media/lurie-childrens-hospital-chicago-ransomware-rhysida?&web_view=true"> Full Text</a>
@@ -66,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HSCC Issues Cyber 'Call to Action' Plan for Health Sector<a href="https://www.bankinfosecurity.com/hscc-issues-cyber-call-to-action-plan-for-health-sector-a-24456?&web_view=true"> Full Text</a>
@@ -82,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LabHost Cybercrime Service Lets Anyone Phish Canadian Bank Users<a href="https://www.bleepingcomputer.com/news/security/labhost-cybercrime-service-lets-anyone-phish-canadian-bank-users/?&web_view=true"> Full Text</a>
@@ -98,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Code in Tornado Cash Governance Proposal Puts User Funds at Risk<a href="https://www.bleepingcomputer.com/news/security/malicious-code-in-tornado-cash-governance-proposal-puts-user-funds-at-risk/?&web_view=true"> Full Text</a>
@@ -114,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Agencies Warn Ubiquiti EdgeRouter Users of APT28's MooBot Threat<a href="https://thehackernews.com/2024/02/cybersecurity-agencies-warn-ubiquiti.html?&web_view=true"> Full Text</a>
@@ -130,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TimbreStealer Campaign Targets Mexican Users with Financial Lures<a href="https://blog.talosintelligence.com/timbrestealer-campaign-targets-mexican-users/?&web_view=true"> Full Text</a>
@@ -146,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Agencies Warn of ALPHV/Blackcat Ransomware Threat to Healthcare Providers<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-353a?&web_view=true"> Full Text</a>
@@ -162,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia and Belarus Targeted by at Least 14 Nation-State Hacker Groups, Researchers Say<a href="https://therecord.media/russia-belarus-cyberthreat-research-facct?&web_view=true"> Full Text</a>
@@ -178,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 28, 2024
+February 28, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Germany's Hessen Consumer Center Says Systems Encrypted by Ransomware<a href="https://www.bleepingcomputer.com/news/security/hessen-consumer-center-says-systems-encrypted-by-ransomware/?&web_view=true"> Full Text</a>
