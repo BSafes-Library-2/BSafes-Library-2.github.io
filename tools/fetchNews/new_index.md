@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 29, 2024
+March 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Golden Corral Restaurant Chain Suffers Data Breach Impacting 183,000 People<a href="https://www.bleepingcomputer.com/news/security/golden-corral-restaurant-chain-data-breach-impacts-183-000-people/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stolen data may include a wide range of personal information such as Social Security numbers, financial account details, medical information, and usernames and passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA Release IoCs for Phobos Ransomware<a href="https://www.darkreading.com/cyberattacks-data-breaches/fbi-cisa-release-iocs-for-phobos-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Phobos ransomware strain, distributed through ransomware-as-a-service, has targeted a wide range of organizations, including governments, healthcare, education, and critical infrastructure sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Bifrost Variant Uses Domain Deception Tactic to Deceive Users<a href="https://unit42.paloaltonetworks.com/new-linux-variant-bifrost-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest variant of BIFROSE masquerades as VMware by reaching out to a deceptive domain. There has been a spike in BIFROSE activity since October 2023, and a new Arm version of the malware has been discovered.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Found a Zero-Click Facebook Account Takeover<a href="https://securityaffairs.com/159782/hacking/zero-click-facebook-account-takeover.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The critical vulnerability in Facebook's password reset process involved a rate-limiting issue in a specific endpoint, which could be exploited to brute-force a nonce and gain access to a user's account.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaky Database Spilled 2FA Codes for Global Tech Giants<a href="https://techcrunch.com/2024/02/29/leaky-database-two-factor-codes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An exposed database belonging to YX International leaked sensitive data including one-time security codes for major tech and online companies like Facebook, Google, and TikTok.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law Firm Reports Data Breach Affecting More Than 325,000 People<a href="https://therecord.media/houser-law-firm-reports-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breached data included names, Social Security numbers, financial account information, and medical information. An unauthorized third party accessed the firm's network, leading to a data breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Irish Foreign Affairs Ministry Says ‘No Evidence’ of Cyber Breach Following Extortion Claim<a href="https://therecord.media/ireland-dfa-no-evidence-of-cybersecurity-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Foreign Affairs in Ireland has found no evidence to support the claim of a cyber extortion group called Mogilevich that it stole data from their IT systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abyss Locker Ransomware Attacks Both Windows And Linux Users<a href="https://www.fortinet.com/blog/threat-research/ransomware-roundup-abyss-locker?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This ransomware steals and encrypts files, demanding ransom for decryption and not releasing stolen data. It is based on the HelloKitty ransomware source code and has been observed in various regions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese PC-Maker Acemagic Shipped Machines Infected with Malware<a href="https://www.theregister.com/2024/02/29/acemagic_chinese_pc_malware_infection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company attributed the infection to software adjustments made by developers to reduce boot times, which inadvertently affected network settings and omitted digital signatures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Silver SAML Attack Bypasses Golden SAML MItigations<a href="https://www.semperis.com/blog/meet-silver-saml/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The technique works with identity providers like Microsoft Entra ID and can enable attackers to access applications by forging SAML responses with compromised private keys.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 29, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: BlackCat Ransomware Gang Claims They Stole 6TB of Change Healthcare Data<a href="https://www.bleepingcomputer.com/news/security/ransomware-gang-claims-they-stole-6tb-of-change-healthcare-data/?&web_view=true"> Full Text</a>
@@ -50,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 29, 2024
+February 29, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Diplomats Targeted by SPIKEDWINE Actors with WINELOADER Backdoor<a href="https://www.zscaler.com/blogs/security-research/european-diplomats-targeted-spikedwine-wineloader?&web_view=true"> Full Text</a>
@@ -66,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 29, 2024
+February 29, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit Ransomware Returns to Attacks With New Encryptors, Servers<a href="https://www.bleepingcomputer.com/news/security/lockbit-ransomware-returns-to-attacks-with-new-encryptors-servers/?&web_view=true"> Full Text</a>
@@ -82,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 29, 2024
+February 29, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Scientists Targeted by Malicious Hugging Face ML Models with Silent Backdoor<a href="https://jfrog.com/blog/data-scientists-targeted-by-malicious-hugging-face-ml-models-with-silent-backdoor/?&web_view=true"> Full Text</a>
@@ -98,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 29, 2024
+February 29, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GTPDOOR Linux Malware Targets Telecoms, Exploiting GPRS Roaming Networks<a href="https://thehackernews.com/2024/02/gtpdoor-linux-malware-targets-telecoms.html?&web_view=true"> Full Text</a>
@@ -114,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 29, 2024
+February 29, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senator Asks FTC to Investigate Automakers’ Data Privacy Practices<a href="https://therecord.media/senator-asks-ftc-to-investigate-automaker-privacy-practices?&web_view=true"> Full Text</a>
@@ -130,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 29, 2024
+February 29, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitHub Besieged by Millions of Malicious Repositories in Ongoing Attack<a href="https://arstechnica.com/security/2024/02/github-besieged-by-millions-of-malicious-repositories-in-ongoing-attack/?&web_view=true"> Full Text</a>
@@ -146,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 29, 2024
+February 29, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoE Invests $45 Million to Prevent Cyberattacks on US Energy Systems<a href="https://www.meritalk.com/articles/doe-invests-45m-to-prevent-cyberattacks-on-us-energy-systems/?&web_view=true"> Full Text</a>
@@ -162,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 29, 2024
+February 29, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Anycubic 3D Printers Hacked Worldwide to Expose Security Flaw<a href="https://www.bleepingcomputer.com/news/security/anycubic-3d-printers-hacked-worldwide-to-expose-security-flaw/?&web_view=true"> Full Text</a>
@@ -178,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-February 29, 2024
+February 29, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cryptojacking is No Longer the Sole Focus of Cloud Attackers<a href="https://www.helpnetsecurity.com/2024/02/29/cloud-focused-malware-campaigns/?&web_view=true"> Full Text</a>
