@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+February 29, 2024 - FBI, CISA, MS-ISAC 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phobos Ransomware <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-060a"> Full Text</a>
+</p>
+<details>
+The Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), and the Multi-State Information Sharing and Analysis Center (MS-ISAC) are releasing this joint CSA, to disseminate known TTPs and IOCs associated with the Phobos ransomware variants observed as recently as February 2024, according to open source reporting. Phobos is structured as a ransomware-as-a-service (RaaS) model. Since May 2019, Phobos ransomware incidents impacting state, local, tribal, and territorial (SLTT) governments have been regularly reported to the MS-ISAC. These incidents targeted municipal and county governments, emergency services, education, public healthcare, and other critical infrastructure entities to successfully ransom several million U.S. dollars.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 29, 2024 - Health Sector Coordinating Council 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

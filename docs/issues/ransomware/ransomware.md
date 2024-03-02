@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abyss Locker Ransomware Attacks Both Windows And Linux Users<a href="https://www.fortinet.com/blog/threat-research/ransomware-roundup-abyss-locker?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This ransomware steals and encrypts files, demanding ransom for decryption and not releasing stolen data. It is based on the HelloKitty ransomware source code and has been observed in various regions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
