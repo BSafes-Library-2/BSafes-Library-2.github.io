@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2024
+March 2, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Taiwan's Biggest Telco Breached by Suspected Chinese Hackers<a href="https://www.darkreading.com/cyberattacks-data-breaches/taiwan-telco-breached-data-sold-on-dark-web?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2024
+March 2, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police Seized Crimemarket, the Largest German-Speaking Cybercrime Marketplace<a href="https://securityaffairs.com/159813/cyber-crime/germany-police-seized-crimemarket.html?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2024
+March 2, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds Microsoft Streaming Service bug to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/159796/security/cisa-adds-microsoft-streaming-service-bug-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2024
+March 2, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Unveils Draft Cybersecurity Governance Code<a href="https://www.infosecurity-magazine.com/news/uk-unveils-draft-cybersecurity/?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 2, 2024
+March 2, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CryptoChameleon: New Phishing Tactics Exhibited in FCC-Targeted Attack<a href="https://www.lookout.com/threat-intelligence/article/cryptochameleon-fcc-phishing-kit?&web_view=true"> Full Text</a>

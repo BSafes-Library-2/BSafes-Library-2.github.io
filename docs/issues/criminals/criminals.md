@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Seized Crimemarket, the Largest German-Speaking Cybercrime Marketplace<a href="https://securityaffairs.com/159813/cyber-crime/germany-police-seized-crimemarket.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The platform had over 180,000 registered users and was accessible through both the "Darknet" and the "Clearnet." The investigation is ongoing, with plans to identify and target the platform's users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

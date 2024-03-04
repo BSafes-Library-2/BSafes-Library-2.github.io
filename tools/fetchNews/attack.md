@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Irish Foreign Affairs Ministry Says ‘No Evidence’ of Cyber Breach Following Extortion Claim<a href="https://therecord.media/ireland-dfa-no-evidence-of-cybersecurity-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Foreign Affairs in Ireland has found no evidence to support the claim of a cyber extortion group called Mogilevich that it stole data from their IT systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Silver SAML Attack Bypasses Golden SAML MItigations<a href="https://www.semperis.com/blog/meet-silver-saml/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The technique works with identity providers like Microsoft Entra ID and can enable attackers to access applications by forging SAML responses with compromised private keys.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

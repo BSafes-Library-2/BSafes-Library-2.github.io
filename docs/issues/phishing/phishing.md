@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CryptoChameleon: New Phishing Tactics Exhibited in FCC-Targeted Attack<a href="https://www.lookout.com/threat-intelligence/article/cryptochameleon-fcc-phishing-kit?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing kit with novel tactics targets cryptocurrency platforms and the FCC through a combination of email, SMS, and voice phishing, successfully stealing high-quality data from mobile device users in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

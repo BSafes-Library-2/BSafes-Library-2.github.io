@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taiwan's Biggest Telco Breached by Suspected Chinese Hackers<a href="https://www.darkreading.com/cyberattacks-data-breaches/taiwan-telco-breached-data-sold-on-dark-web?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers stole sensitive information, including military and government documents, from Chunghwa Telecom and sold it on the dark web. The leaked data included documents from the armed forces, foreign affairs ministry, coast guard, and other units.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

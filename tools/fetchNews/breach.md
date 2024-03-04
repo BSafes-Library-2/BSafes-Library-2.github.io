@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+March 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Golden Corral Restaurant Chain Suffers Data Breach Impacting 183,000 People<a href="https://www.bleepingcomputer.com/news/security/golden-corral-restaurant-chain-data-breach-impacts-183-000-people/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stolen data may include a wide range of personal information such as Social Security numbers, financial account details, medical information, and usernames and passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leaky Database Spilled 2FA Codes for Global Tech Giants<a href="https://techcrunch.com/2024/02/29/leaky-database-two-factor-codes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An exposed database belonging to YX International leaked sensitive data including one-time security codes for major tech and online companies like Facebook, Google, and TikTok.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law Firm Reports Data Breach Affecting More Than 325,000 People<a href="https://therecord.media/houser-law-firm-reports-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breached data included names, Social Security numbers, financial account information, and medical information. An unauthorized third party accessed the firm's network, leading to a data breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
