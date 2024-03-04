@@ -34,7 +34,87 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 1, 2024
+March 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Taiwan's Biggest Telco Breached by Suspected Chinese Hackers<a href="https://www.darkreading.com/cyberattacks-data-breaches/taiwan-telco-breached-data-sold-on-dark-web?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers stole sensitive information, including military and government documents, from Chunghwa Telecom and sold it on the dark web. The leaked data included documents from the armed forces, foreign affairs ministry, coast guard, and other units.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Seized Crimemarket, the Largest German-Speaking Cybercrime Marketplace<a href="https://securityaffairs.com/159813/cyber-crime/germany-police-seized-crimemarket.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The platform had over 180,000 registered users and was accessible through both the "Darknet" and the "Clearnet." The investigation is ongoing, with plans to identify and target the platform's users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds Microsoft Streaming Service bug to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/159796/security/cisa-adds-microsoft-streaming-service-bug-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the CVE-2023-29360 Microsoft Streaming Service vulnerability to its Known Exploited Vulnerabilities catalog, which allows attackers to gain SYSTEM privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Unveils Draft Cybersecurity Governance Code<a href="https://www.infosecurity-magazine.com/news/uk-unveils-draft-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK Department for Science, Innovation and Technology (DSIT) has revealed what its future Cybersecurity Governance Code of Practice will look like and the five principals it will include.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CryptoChameleon: New Phishing Tactics Exhibited in FCC-Targeted Attack<a href="https://www.lookout.com/threat-intelligence/article/cryptochameleon-fcc-phishing-kit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated phishing kit with novel tactics targets cryptocurrency platforms and the FCC through a combination of email, SMS, and voice phishing, successfully stealing high-quality data from mobile device users in the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 1, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Golden Corral Restaurant Chain Suffers Data Breach Impacting 183,000 People<a href="https://www.bleepingcomputer.com/news/security/golden-corral-restaurant-chain-data-breach-impacts-183-000-people/?&web_view=true"> Full Text</a>
@@ -50,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 1, 2024
+March 1, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI, CISA Release IoCs for Phobos Ransomware<a href="https://www.darkreading.com/cyberattacks-data-breaches/fbi-cisa-release-iocs-for-phobos-ransomware?&web_view=true"> Full Text</a>
@@ -66,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 1, 2024
+March 1, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Bifrost Variant Uses Domain Deception Tactic to Deceive Users<a href="https://unit42.paloaltonetworks.com/new-linux-variant-bifrost-malware/?&web_view=true"> Full Text</a>
@@ -82,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 1, 2024
+March 1, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Found a Zero-Click Facebook Account Takeover<a href="https://securityaffairs.com/159782/hacking/zero-click-facebook-account-takeover.html?&web_view=true"> Full Text</a>
@@ -98,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 1, 2024
+March 1, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leaky Database Spilled 2FA Codes for Global Tech Giants<a href="https://techcrunch.com/2024/02/29/leaky-database-two-factor-codes/?&web_view=true"> Full Text</a>
@@ -114,7 +194,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 1, 2024
+March 1, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Law Firm Reports Data Breach Affecting More Than 325,000 People<a href="https://therecord.media/houser-law-firm-reports-data-breach?&web_view=true"> Full Text</a>
@@ -130,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 1, 2024
+March 1, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Irish Foreign Affairs Ministry Says ‘No Evidence’ of Cyber Breach Following Extortion Claim<a href="https://therecord.media/ireland-dfa-no-evidence-of-cybersecurity-breach?&web_view=true"> Full Text</a>
@@ -146,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 1, 2024
+March 1, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abyss Locker Ransomware Attacks Both Windows And Linux Users<a href="https://www.fortinet.com/blog/threat-research/ransomware-roundup-abyss-locker?&web_view=true"> Full Text</a>
@@ -162,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 1, 2024
+March 1, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese PC-Maker Acemagic Shipped Machines Infected with Malware<a href="https://www.theregister.com/2024/02/29/acemagic_chinese_pc_malware_infection/?&web_view=true"> Full Text</a>
@@ -178,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 1, 2024
+March 1, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Silver SAML Attack Bypasses Golden SAML MItigations<a href="https://www.semperis.com/blog/meet-silver-saml/?&web_view=true"> Full Text</a>
