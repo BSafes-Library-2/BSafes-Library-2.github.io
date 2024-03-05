@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silence Laboratories, a Cryptographic Security Startup, Secures Funding<a href="https://techcrunch.com/2024/02/29/silence-laboratories-a-cryptographic-security-startup-secures-funding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding, co-led by Pi Ventures and Kira Studio, brings the total raised to $6 million. The company plans to use the funding to expand its teams and research and development efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Express Credit Cards Exposed in Vendor Data Breach<a href="https://www.bleepingcomputer.com/news/security/american-express-credit-cards-exposed-in-vendor-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American Express has issued a data breach notification after one of its service providers experienced unauthorized access to its systems. This has led to the exposure of American Express Card account numbers, names, and card expiration dates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Ivanti Disputes CISA Findings of Post-Factory Reset Hacking<a href="https://www.bankinfosecurity.com/ivanti-disputes-cisa-findings-post-factory-reset-hacking-a-24492?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti disputes the U.S. cybersecurity agency's claim that hackers can establish persistence on rooted appliances through a factory reset, stating that it won't succeed in a live customer environment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: ALPHV Website Goes Down Amid Growing Fallout From Change Healthcare Attack<a href="https://cyberscoop.com/alphv-website-ransomware-attack-change-healthcare/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The website used by the ransomware group responsible for breaching a major US healthcare payment processor went down, causing financial pressure on medical providers and difficulty for consumers to access medicine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NTT Boss Takes Early Retirement to Atone for Data Leak<a href="https://www.theregister.com/2024/03/01/ntt_boss_resigns_dataleak/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NTT West president resigned to take responsibility for the leak of 9.28 million customers' data, reflecting the significance of social responsibility in Japanese corporate culture.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multistage RA World Ransomware Uses Anti-AV Tactics, Exploits GPO<a href="https://www.trendmicro.com/en_us/research/24/c/multistage-ra-world-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RA World ransomware employs multi-stage components to target healthcare organizations in the Latin American region, signifying a strategic and targeted approach to compromising systems within the target network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Harness AI for New Era of Malware Development<a href="https://www.helpnetsecurity.com/2024/03/01/hi-tech-crime-trends-2023-2024/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Group-IB Hi-Tech Crime Trends 2023/2024 report highlights the increasing alliance between ransomware groups and initial access brokers, leading to a 74% rise in companies having their data uploaded on leak sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Judge Ordered NSO Group to Hand Over the Pegasus Spyware Code to WhatsApp<a href="https://securityaffairs.com/159847/security/nso-group-vs-meta-pegasus-hand-over.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This decision came after Meta won a legal battle against NSO Group. The lawsuit originated from allegations that NSO Group had conducted malicious attacks against WhatsApp users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Authorities Charged an Iranian National for Long-Running Hacking Campaign<a href="https://securityaffairs.com/159837/hacking/us-charged-iranian-national.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian national Alireza Shafie Nasab has been charged by the U.S. DoJ for orchestrating a multi-year hacking campaign targeting U.S. government and defense entities, using techniques like spear phishing and social engineering.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Meeting Invite Fix Targets Mac Users<a href="https://www.malwarebytes.com/blog/news/2024/03/malicious-meeting-invite-fix-targets-mac-users?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers impersonating cryptocurrency investors on Telegram are luring targets into fake partnership meetings, using AppleScripts to compromise Mac users and gain administrator permissions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 2, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
