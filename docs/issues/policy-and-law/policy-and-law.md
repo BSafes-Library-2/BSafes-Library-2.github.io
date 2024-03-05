@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Judge Ordered NSO Group to Hand Over the Pegasus Spyware Code to WhatsApp<a href="https://securityaffairs.com/159847/security/nso-group-vs-meta-pegasus-hand-over.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This decision came after Meta won a legal battle against NSO Group. The lawsuit originated from allegations that NSO Group had conducted malicious attacks against WhatsApp users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. Authorities Charged an Iranian National for Long-Running Hacking Campaign<a href="https://securityaffairs.com/159837/hacking/us-charged-iranian-national.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iranian national Alireza Shafie Nasab has been charged by the U.S. DoJ for orchestrating a multi-year hacking campaign targeting U.S. government and defense entities, using techniques like spear phishing and social engineering.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

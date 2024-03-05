@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Harness AI for New Era of Malware Development<a href="https://www.helpnetsecurity.com/2024/03/01/hi-tech-crime-trends-2023-2024/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Group-IB Hi-Tech Crime Trends 2023/2024 report highlights the increasing alliance between ransomware groups and initial access brokers, leading to a 74% rise in companies having their data uploaded on leak sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

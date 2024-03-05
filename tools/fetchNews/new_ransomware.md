@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multistage RA World Ransomware Uses Anti-AV Tactics, Exploits GPO<a href="https://www.trendmicro.com/en_us/research/24/c/multistage-ra-world-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RA World ransomware employs multi-stage components to target healthcare organizations in the Latin American region, signifying a strategic and targeted approach to compromising systems within the target network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

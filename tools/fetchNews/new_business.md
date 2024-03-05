@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Silence Laboratories, a Cryptographic Security Startup, Secures Funding<a href="https://techcrunch.com/2024/02/29/silence-laboratories-a-cryptographic-security-startup-secures-funding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding, co-led by Pi Ventures and Kira Studio, brings the total raised to $6 million. The company plans to use the funding to expand its teams and research and development efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

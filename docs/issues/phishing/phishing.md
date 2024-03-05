@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Meeting Invite Fix Targets Mac Users<a href="https://www.malwarebytes.com/blog/news/2024/03/malicious-meeting-invite-fix-targets-mac-users?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers impersonating cryptocurrency investors on Telegram are luring targets into fake partnership meetings, using AppleScripts to compromise Mac users and gain administrator permissions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

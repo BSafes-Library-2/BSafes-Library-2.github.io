@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+March 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+American Express Credit Cards Exposed in Vendor Data Breach<a href="https://www.bleepingcomputer.com/news/security/american-express-credit-cards-exposed-in-vendor-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+American Express has issued a data breach notification after one of its service providers experienced unauthorized access to its systems. This has led to the exposure of American Express Card account numbers, names, and card expiration dates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: ALPHV Website Goes Down Amid Growing Fallout From Change Healthcare Attack<a href="https://cyberscoop.com/alphv-website-ransomware-attack-change-healthcare/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The website used by the ransomware group responsible for breaching a major US healthcare payment processor went down, causing financial pressure on medical providers and difficulty for consumers to access medicine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NTT Boss Takes Early Retirement to Atone for Data Leak<a href="https://www.theregister.com/2024/03/01/ntt_boss_resigns_dataleak/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NTT West president resigned to take responsibility for the leak of 9.28 million customers' data, reflecting the significance of social responsibility in Japanese corporate culture.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
