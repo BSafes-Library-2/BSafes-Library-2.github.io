@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2024
+March 5, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mr. Green Gaming Suffers Data Breach, Exposing Personal Information of 27,000 Users<a href="https://thecyberexpress.com/mr-green-gaming-data-breach/#Products?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2024
+March 5, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack Forces Canada’s Financial Intelligence Agency to Take Systems Offline<a href="https://therecord.media/canada-fintrac-cyberattack-systems-offline?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2024
+March 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New CHAVECLOAK Banking Trojan Targets Brazilians via Malicious PDFs<a href="https://www.hackread.com/chavecloak-banking-trojan-brazil-malicious-pdfs/?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2024
+March 5, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GhostLocker 2.0 Haunts Businesses Across Middle East, Africa, and Asia<a href="https://www.darkreading.com/cyberattacks-data-breaches/ghostlocker-two-threatens-businesses-across-middle-east-africa-asia?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2024
+March 5, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: BlackCat Ransomware Turns off Servers Amid Claim They Stole $22 Million Ransom<a href="https://www.bleepingcomputer.com/news/security/blackcat-ransomware-turns-off-servers-amid-claim-they-stole-22-million-ransom/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2024
+March 5, 2024 -- [Attack](/docs/issues/attack/attack/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacktivist Collective NoName057(16) Strikes European Targets<a href="https://www.infosecurity-magazine.com/news/hacktivist-collective-noname057/?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2024
+March 5, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Claims it Hacked Russian Ministry of Defense Servers<a href="https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-russian-ministry-of-defense-servers/?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2024
+March 5, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 South Korea Says Semiconductor Industry Targeted by Cyber-Spies From North Korea<a href="https://therecord.media/south-korea-semiconductor-industry-espionage-north-korea?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2024
+March 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Self-Propagating Worm Created to Target Generative AI Systems<a href="https://www.infosecurity-magazine.com/news/worm-created-generative-ai-systems/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 5, 2024
+March 5, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Optum Offering Financial Aid to Some Providers Hit by Outage<a href="https://www.bankinfosecurity.com/optum-offering-financial-aid-to-some-providers-hit-by-outage-a-24511?&web_view=true"> Full Text</a>

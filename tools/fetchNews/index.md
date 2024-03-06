@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mr. Green Gaming Suffers Data Breach, Exposing Personal Information of 27,000 Users<a href="https://thecyberexpress.com/mr-green-gaming-data-breach/#Products?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mr. Green Gaming data breach compromised the sensitive information of approximately 27,000 users, highlighting the urgent need for enhanced cybersecurity measures in the gaming industry.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Forces Canada’s Financial Intelligence Agency to Take Systems Offline<a href="https://therecord.media/canada-fintrac-cyberattack-systems-offline?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canada’s financial intelligence agency FINTRAC has experienced a cybersecurity incident, prompting the agency to take its corporate systems offline as a precautionary measure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New CHAVECLOAK Banking Trojan Targets Brazilians via Malicious PDFs<a href="https://www.hackread.com/chavecloak-banking-trojan-brazil-malicious-pdfs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware uses DLL sideloading techniques to discreetly execute malicious code, actively monitors victims' interactions with financial portals, and communicates with a C2 server to facilitate data theft and deceptive pop-up windows.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostLocker 2.0 Haunts Businesses Across Middle East, Africa, and Asia<a href="https://www.darkreading.com/cyberattacks-data-breaches/ghostlocker-two-threatens-businesses-across-middle-east-africa-asia?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminal groups GhostSec and Stormous have collaborated to unleash GhostLocker 2.0 ransomware in targeted attacks across the Middle East, Africa, and Asia, affecting organizations in various sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: BlackCat Ransomware Turns off Servers Amid Claim They Stole $22 Million Ransom<a href="https://www.bleepingcomputer.com/news/security/blackcat-ransomware-turns-off-servers-amid-claim-they-stole-22-million-ransom/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The shutdown may indicate an exit scam, with the affiliate claiming they still have critical data from Optum and other providers, while ALPHV/BlackCat has shut down its negotiation sites and messaging platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2024 -- [Attack](/docs/issues/attack/attack/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivist Collective NoName057(16) Strikes European Targets<a href="https://www.infosecurity-magazine.com/news/hacktivist-collective-noname057/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber threat actor NoName057(16) is adapting its DDoS tactics with enhanced encryption and tailored software versions to target European entities, particularly those supporting Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Claims it Hacked Russian Ministry of Defense Servers<a href="https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-russian-ministry-of-defense-servers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Main Intelligence Directorate (GUR) of Ukraine's Ministry of Defense has announced that it successfully breached the servers of the Russian Ministry of Defense (Minoborony) and obtained sensitive documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea Says Semiconductor Industry Targeted by Cyber-Spies From North Korea<a href="https://therecord.media/south-korea-semiconductor-industry-espionage-north-korea?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Intelligence Service (NIS) of South Korea reported that North Korean hackers targeted two South Korean microchip equipment companies, using "living-off-the-land" techniques to steal product designs and facility photos.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Self-Propagating Worm Created to Target Generative AI Systems<a href="https://www.infosecurity-magazine.com/news/worm-created-generative-ai-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Israel Institute of Technology, Intuit and Cornell Tech have developed a computer worm called "Morris II" that targets generative AI (GenAI) applications to spread malware and steal personal data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 5, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Optum Offering Financial Aid to Some Providers Hit by Outage<a href="https://www.bankinfosecurity.com/optum-offering-financial-aid-to-some-providers-hit-by-outage-a-24511?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UnitedHealth Group is offering short-term financial assistance to healthcare providers affected by the Change Healthcare IT outage, providing interest-free, fee-free funding.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 4, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

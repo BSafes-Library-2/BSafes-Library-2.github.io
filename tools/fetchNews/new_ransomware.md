@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostLocker 2.0 Haunts Businesses Across Middle East, Africa, and Asia<a href="https://www.darkreading.com/cyberattacks-data-breaches/ghostlocker-two-threatens-businesses-across-middle-east-africa-asia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminal groups GhostSec and Stormous have collaborated to unleash GhostLocker 2.0 ransomware in targeted attacks across the Middle East, Africa, and Asia, affecting organizations in various sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: BlackCat Ransomware Turns off Servers Amid Claim They Stole $22 Million Ransom<a href="https://www.bleepingcomputer.com/news/security/blackcat-ransomware-turns-off-servers-amid-claim-they-stole-22-million-ransom/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The shutdown may indicate an exit scam, with the affiliate claiming they still have critical data from Optum and other providers, while ALPHV/BlackCat has shut down its negotiation sites and messaging platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

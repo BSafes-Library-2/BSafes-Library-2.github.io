@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 5, 2024 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivist Collective NoName057(16) Strikes European Targets<a href="https://www.infosecurity-magazine.com/news/hacktivist-collective-noname057/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyber threat actor NoName057(16) is adapting its DDoS tactics with enhanced encryption and tailored software versions to target European entities, particularly those supporting Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea Says Semiconductor Industry Targeted by Cyber-Spies From North Korea<a href="https://therecord.media/south-korea-semiconductor-industry-espionage-north-korea?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Intelligence Service (NIS) of South Korea reported that North Korean hackers targeted two South Korean microchip equipment companies, using "living-off-the-land" techniques to steal product designs and facility photos.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

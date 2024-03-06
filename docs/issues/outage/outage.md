@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+March 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Forces Canada’s Financial Intelligence Agency to Take Systems Offline<a href="https://therecord.media/canada-fintrac-cyberattack-systems-offline?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canada’s financial intelligence agency FINTRAC has experienced a cybersecurity incident, prompting the agency to take its corporate systems offline as a precautionary measure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Optum Offering Financial Aid to Some Providers Hit by Outage<a href="https://www.bankinfosecurity.com/optum-offering-financial-aid-to-some-providers-hit-by-outage-a-24511?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UnitedHealth Group is offering short-term financial assistance to healthcare providers affected by the Change Healthcare IT outage, providing interest-free, fee-free funding.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
