@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Organizations are Knowingly Releasing Vulnerable Applications<a href="https://www.helpnetsecurity.com/2024/03/05/in-house-applications-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CrowdStrike to Buy Israeli Data Defense Vendor Flow Security<a href="https://www.bankinfosecurity.com/crowdstrike-to-buy-israeli-data-defense-vendor-flow-security-a-24527?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hornetsecurity Buys Vade to Fuel Strength in France, Germany<a href="https://www.bankinfosecurity.com/hornetsecurity-buys-vade-to-fuel-strength-in-france-germany-a-24523?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Stuxnet-Style Web-Based PLC Malware<a href="https://industrialcyber.co/industrial-cyber-attacks/georgia-tech-researchers-warn-of-stuxnet-style-web-based-plc-malware-redefining-industrial-cybersecurity-threats/?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Business](/docs/issues/business/business/)<br>-- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DTEX Systems Raises $50M in Series E Funding<a href="https://www.finsmes.com/2024/03/dtex-systems-raises-50m-in-funding.html?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fidelity Customers' Financial Information Feared Stolen in Cyberattack<a href="https://www.theregister.com/2024/03/05/fidelity_financial_info_stolen/?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Emergency Security Updates Fix Two New iOS Zero-Days<a href="https://securityaffairs.com/160048/hacking/apple-new-ios-zero-day-vulnerabilities.html?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Axonius, a Specialist in Cyber Asset Management, secures $200M at a $2.6B Valuation<a href="https://techcrunch.com/2024/03/05/axonius-a-specialist-in-cyber-asset-managment-secures-200m-at-a-flat-2-6b-valuation/?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New WogRAT Malware Abuses Online Notepad Service to Store Malicious Code<a href="https://www.bleepingcomputer.com/news/security/new-wograt-malware-abuses-online-notepad-service-to-store-malware/?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android and Windows RATs Distributed Via Online Meeting Lures<a href="https://www.zscaler.com/blogs/security-research/android-and-windows-rats-distributed-online-meeting-lures?&web_view=true"> Full Text</a>

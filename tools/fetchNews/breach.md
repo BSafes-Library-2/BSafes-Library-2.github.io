@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+March 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mr. Green Gaming Suffers Data Breach, Exposing Personal Information of 27,000 Users<a href="https://thecyberexpress.com/mr-green-gaming-data-breach/#Products?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mr. Green Gaming data breach compromised the sensitive information of approximately 27,000 users, highlighting the urgent need for enhanced cybersecurity measures in the gaming industry.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Claims it Hacked Russian Ministry of Defense Servers<a href="https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-russian-ministry-of-defense-servers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Main Intelligence Directorate (GUR) of Ukraine's Ministry of Defense has announced that it successfully breached the servers of the Russian Ministry of Defense (Minoborony) and obtained sensitive documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

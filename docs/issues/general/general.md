@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations are Knowingly Releasing Vulnerable Applications<a href="https://www.helpnetsecurity.com/2024/03/05/in-house-applications-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Application security responsibilities have shifted to involve both AppSec managers and developers, with a high percentage of companies knowingly releasing vulnerable applications due to time and business pressures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

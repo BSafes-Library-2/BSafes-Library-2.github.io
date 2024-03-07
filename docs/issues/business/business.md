@@ -8,6 +8,62 @@ nav_order: 900027
 
 ## Business
 ---
+March 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike to Buy Israeli Data Defense Vendor Flow Security<a href="https://www.bankinfosecurity.com/crowdstrike-to-buy-israeli-data-defense-vendor-flow-security-a-24527?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike has announced plans to acquire Tel Aviv-based Flow Security, a data security posture management startup, for an undisclosed amount with the deal expected to close by the end of April.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hornetsecurity Buys Vade to Fuel Strength in France, Germany<a href="https://www.bankinfosecurity.com/hornetsecurity-buys-vade-to-fuel-strength-in-france-germany-a-24523?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The joint company plans to integrate their products and teams by the end of 2024, enabling MSPs to manage security, compliance, and data loss prevention for Microsoft 365 from a single control portal.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2024 <br><br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DTEX Systems Raises $50M in Series E Funding<a href="https://www.finsmes.com/2024/03/dtex-systems-raises-50m-in-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding round was led by CapitalG, with James Luo joining the DTEX board of directors. The company plans to utilize the funding to expand its U.S. engineering team and grow its global go-to-market operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Axonius, a Specialist in Cyber Asset Management, secures $200M at a $2.6B Valuation<a href="https://techcrunch.com/2024/03/05/axonius-a-specialist-in-cyber-asset-managment-secures-200m-at-a-flat-2-6b-valuation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Axonius, a leader in enterprise asset management, has secured an additional $200 million in funding to support its business expansion. The investment is an extension of its existing Series E round, maintaining a valuation of $2.6 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
