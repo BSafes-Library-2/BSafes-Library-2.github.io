@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations are Knowingly Releasing Vulnerable Applications<a href="https://www.helpnetsecurity.com/2024/03/05/in-house-applications-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Application security responsibilities have shifted to involve both AppSec managers and developers, with a high percentage of companies knowingly releasing vulnerable applications due to time and business pressures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike to Buy Israeli Data Defense Vendor Flow Security<a href="https://www.bankinfosecurity.com/crowdstrike-to-buy-israeli-data-defense-vendor-flow-security-a-24527?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike has announced plans to acquire Tel Aviv-based Flow Security, a data security posture management startup, for an undisclosed amount with the deal expected to close by the end of April.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hornetsecurity Buys Vade to Fuel Strength in France, Germany<a href="https://www.bankinfosecurity.com/hornetsecurity-buys-vade-to-fuel-strength-in-france-germany-a-24523?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The joint company plans to integrate their products and teams by the end of 2024, enabling MSPs to manage security, compliance, and data loss prevention for Microsoft 365 from a single control portal.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of Stuxnet-Style Web-Based PLC Malware<a href="https://industrialcyber.co/industrial-cyber-attacks/georgia-tech-researchers-warn-of-stuxnet-style-web-based-plc-malware-redefining-industrial-cybersecurity-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from the Georgia Institute of Technology have developed web-based malware called IronSpider, targeting modern programmable logic controllers (PLCs) used in industrial control systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DTEX Systems Raises $50M in Series E Funding<a href="https://www.finsmes.com/2024/03/dtex-systems-raises-50m-in-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding round was led by CapitalG, with James Luo joining the DTEX board of directors. The company plans to utilize the funding to expand its U.S. engineering team and grow its global go-to-market operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fidelity Customers' Financial Information Feared Stolen in Cyberattack<a href="https://www.theregister.com/2024/03/05/fidelity_financial_info_stolen/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly 30,000 Fidelity Investments Life Insurance customers' personal and financial information, including bank account and routing numbers, may have been stolen after criminals breached Infosys' IT systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Emergency Security Updates Fix Two New iOS Zero-Days<a href="https://securityaffairs.com/160048/hacking/apple-new-ios-zero-day-vulnerabilities.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities, tracked as CVE-2024-23225 and CVE-2024-23296, are related to kernel and RTKit memory corruptions. The affected devices include iPhone XS and later, iPad Pro, iPad Air, and iPad mini models.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Axonius, a Specialist in Cyber Asset Management, secures $200M at a $2.6B Valuation<a href="https://techcrunch.com/2024/03/05/axonius-a-specialist-in-cyber-asset-managment-secures-200m-at-a-flat-2-6b-valuation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Axonius, a leader in enterprise asset management, has secured an additional $200 million in funding to support its business expansion. The investment is an extension of its existing Series E round, maintaining a valuation of $2.6 billion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New WogRAT Malware Abuses Online Notepad Service to Store Malicious Code<a href="https://www.bleepingcomputer.com/news/security/new-wograt-malware-abuses-online-notepad-service-to-store-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 'WogRAT' malware targets both Windows and Linux systems and uses the online notepad platform 'aNotepad' to store and retrieve malicious code, making its infection chain stealthy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android and Windows RATs Distributed Via Online Meeting Lures<a href="https://www.zscaler.com/blogs/security-research/android-and-windows-rats-distributed-online-meeting-lures?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers used fake Russian-language online meeting sites hosted on a single IP address to distribute malicious APK and BAT files targeting Windows and Android users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 5, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
