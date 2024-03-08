@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+March 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Tools Put Companies at Risk of Data Exfiltration<a href="https://www.helpnetsecurity.com/2024/03/06/genai-data-loss-threat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rise of GenAI, along with cloud applications, has made it challenging to monitor and protect critical data. As a result, organizations are concerned about the impact of AI on sensitive data and struggle to comply with data protection laws.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ITRC Finds Online Job Scams on the Rise<a href="https://securityboulevard.com/2024/03/itrc-finds-online-job-scams-on-the-rise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The surge in online job scams, targeting job seekers for personal information, has seen a significant increase in reported incidents, with a 545% spike in January 2024 compared to December 2023, according to the Identity Theft Resource Center (ITRC).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

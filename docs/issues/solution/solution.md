@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RiskInDroid Performs Open-Source Risk Analysis of Android Apps<a href="https://www.helpnetsecurity.com/2024/03/06/riskindroid-open-source-risk-analysis-android-apps/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RiskInDroid is an open-source tool for analyzing the risk level of Android applications using machine learning. Unlike other tools, RiskInDroid conducts reverse engineering on apps to extract permissions and assess their usage in the bytecode.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

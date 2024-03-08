@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+March 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian City Says Timeline for Recovery From Ransomware Attack ‘Unknown’<a href="https://therecord.media/canadian-city-hamilton-ransomware-recovery?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city of Hamilton, Canada, is recovering from a ransomware attack that has disrupted online government services, forcing residents to use cash transactions and manual methods for payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Duvel Says It Has “More Than Enough” Beer After Ransomware Attack<a href="https://www.bleepingcomputer.com/news/security/duvel-says-it-has-more-than-enough-beer-after-ransomware-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Duvel Moortgat Brewery in Belgium was hit by a ransomware attack, causing the halt of beer production in their bottling facilities. The company's IT systems detected the attack, leading to an immediate stop in production.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

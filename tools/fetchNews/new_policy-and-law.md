@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Get Second Guilty Plea in Prosecution of Nigerian-Led BEC Case<a href="https://therecord.media/feds-get-guilty-plea-in-bec-case?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nigerian national Henry Onyedikachi Echefu pleaded guilty to wire fraud and money laundering in connection with a $6 million business email compromise scheme dating back to 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Agrees 'Cyber Solidarity Act' to Bolster Incident Response and Recovery<a href="https://www.infosecurity-magazine.com/news/eu-cyber-solidarity-incident/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The regulations will establish an EU-wide cybersecurity alert system and a cybersecurity emergency mechanism to support preparedness, financial assistance, and a cybersecurity reserve for large-scale incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
