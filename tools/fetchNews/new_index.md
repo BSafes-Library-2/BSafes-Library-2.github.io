@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minnesota's South St. Paul Public Schools Investigating Potential Cybersecurity Threat<a href="https://www.twincities.com/2024/03/06/south-st-paul-public-schools-investigating-potential-cybersecurity-threat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This incident is impacting online platforms, emails, and other digital services. The school district is working to restore its systems and maintain a secure online environment for students and staff.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian City Says Timeline for Recovery From Ransomware Attack ‘Unknown’<a href="https://therecord.media/canadian-city-hamilton-ransomware-recovery?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The city of Hamilton, Canada, is recovering from a ransomware attack that has disrupted online government services, forcing residents to use cash transactions and manual methods for payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attackers Leak Sensitive Swiss Government Documents, Login<a href="https://www.infosecurity-magazine.com/news/ransomware-leak-swiss-government/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data included 65,000 documents, with 5% related to the federal government. Most of the leaked federal government files contained personal data, technical information, classified data, and passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Critical TeamCity Flaw Now Widely Exploited to Create Admin Accounts<a href="https://www.bleepingcomputer.com/news/security/critical-teamcity-flaw-now-widely-exploited-to-create-admin-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are exploiting a critical authentication bypass vulnerability (CVE-2024-27198) in TeamCity On-Premises, leading to the creation of hundreds of unauthorized users on unpatched instances.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Duvel Says It Has “More Than Enough” Beer After Ransomware Attack<a href="https://www.bleepingcomputer.com/news/security/duvel-says-it-has-more-than-enough-beer-after-ransomware-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Duvel Moortgat Brewery in Belgium was hit by a ransomware attack, causing the halt of beer production in their bottling facilities. The company's IT systems detected the attack, leading to an immediate stop in production.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Tools Put Companies at Risk of Data Exfiltration<a href="https://www.helpnetsecurity.com/2024/03/06/genai-data-loss-threat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The rise of GenAI, along with cloud applications, has made it challenging to monitor and protect critical data. As a result, organizations are concerned about the impact of AI on sensitive data and struggle to comply with data protection laws.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Get Second Guilty Plea in Prosecution of Nigerian-Led BEC Case<a href="https://therecord.media/feds-get-guilty-plea-in-bec-case?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nigerian national Henry Onyedikachi Echefu pleaded guilty to wire fraud and money laundering in connection with a $6 million business email compromise scheme dating back to 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ITRC Finds Online Job Scams on the Rise<a href="https://securityboulevard.com/2024/03/itrc-finds-online-job-scams-on-the-rise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The surge in online job scams, targeting job seekers for personal information, has seen a significant increase in reported incidents, with a 545% spike in January 2024 compared to December 2023, according to the Identity Theft Resource Center (ITRC).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RiskInDroid Performs Open-Source Risk Analysis of Android Apps<a href="https://www.helpnetsecurity.com/2024/03/06/riskindroid-open-source-risk-analysis-android-apps/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RiskInDroid is an open-source tool for analyzing the risk level of Android applications using machine learning. Unlike other tools, RiskInDroid conducts reverse engineering on apps to extract permissions and assess their usage in the bytecode.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Agrees 'Cyber Solidarity Act' to Bolster Incident Response and Recovery<a href="https://www.infosecurity-magazine.com/news/eu-cyber-solidarity-incident/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The regulations will establish an EU-wide cybersecurity alert system and a cybersecurity emergency mechanism to support preparedness, financial assistance, and a cybersecurity reserve for large-scale incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 6, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Organizations are Knowingly Releasing Vulnerable Applications<a href="https://www.helpnetsecurity.com/2024/03/05/in-house-applications-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -50,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CrowdStrike to Buy Israeli Data Defense Vendor Flow Security<a href="https://www.bankinfosecurity.com/crowdstrike-to-buy-israeli-data-defense-vendor-flow-security-a-24527?&web_view=true"> Full Text</a>
@@ -66,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hornetsecurity Buys Vade to Fuel Strength in France, Germany<a href="https://www.bankinfosecurity.com/hornetsecurity-buys-vade-to-fuel-strength-in-france-germany-a-24523?&web_view=true"> Full Text</a>
@@ -82,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of Stuxnet-Style Web-Based PLC Malware<a href="https://industrialcyber.co/industrial-cyber-attacks/georgia-tech-researchers-warn-of-stuxnet-style-web-based-plc-malware-redefining-industrial-cybersecurity-threats/?&web_view=true"> Full Text</a>
@@ -98,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Business](/docs/issues/business/business/)<br>-- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DTEX Systems Raises $50M in Series E Funding<a href="https://www.finsmes.com/2024/03/dtex-systems-raises-50m-in-funding.html?&web_view=true"> Full Text</a>
@@ -114,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fidelity Customers' Financial Information Feared Stolen in Cyberattack<a href="https://www.theregister.com/2024/03/05/fidelity_financial_info_stolen/?&web_view=true"> Full Text</a>
@@ -130,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Emergency Security Updates Fix Two New iOS Zero-Days<a href="https://securityaffairs.com/160048/hacking/apple-new-ios-zero-day-vulnerabilities.html?&web_view=true"> Full Text</a>
@@ -146,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Axonius, a Specialist in Cyber Asset Management, secures $200M at a $2.6B Valuation<a href="https://techcrunch.com/2024/03/05/axonius-a-specialist-in-cyber-asset-managment-secures-200m-at-a-flat-2-6b-valuation/?&web_view=true"> Full Text</a>
@@ -162,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New WogRAT Malware Abuses Online Notepad Service to Store Malicious Code<a href="https://www.bleepingcomputer.com/news/security/new-wograt-malware-abuses-online-notepad-service-to-store-malware/?&web_view=true"> Full Text</a>
@@ -178,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 6, 2024
+March 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android and Windows RATs Distributed Via Online Meeting Lures<a href="https://www.zscaler.com/blogs/security-research/android-and-windows-rats-distributed-online-meeting-lures?&web_view=true"> Full Text</a>
