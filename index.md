@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law Enforcement Personnel Say LexisNexis Retaliated When Asked to Remove Data<a href="https://therecord.media/new-jersey-law-enforcement-lawsuit-lexisnexis-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 18,000 New Jersey law enforcement personnel are alleging that LexisNexis retaliated against them by freezing their credit and falsely reporting them as identity theft victims after they requested their information to remain private.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Today’s Biggest AI Security Challenges<a href="https://www.helpnetsecurity.com/2024/03/07/ai-security-challenges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adversaries can exploit AI-powered applications to manipulate information, create harmful content, and develop deep fake media, posing significant risks to organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 78% of MSPs Identify Cybersecurity as Prime IT Challenge<a href="https://www.helpnetsecurity.com/2024/03/07/msps-cybersecurity-priority/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investment in the right technology and IT partners has led to fewer SMBs experiencing cyberattacks, with 64% of MSPs reporting less than 10% of their SMB customers being hit, according to Kaseya.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Influence Operations Against Baltic States and Poland Having ‘Significant Impact’ on Society<a href="https://therecord.media/russian-influence-operations-baltic-poland-impact?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These campaigns aim to downplay the impact of Western sanctions on Russia's economy, fuel confrontation among Western countries, and spread fear and panic among the targeted populations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Releases Android March 2024 Patches, Including Fixes for Two Critical Issues<a href="https://beyondmachines.net/event_details/google-releases-android-march-2024-patches-including-fixes-for-two-critical-issues-y-o-h-m-m?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released the Android March 2024 security patches, addressing a total of 38 vulnerabilities, including two critical issues. These vulnerabilities could lead to remote code execution and elevation of privilege for attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tazama: Open-Source Real-Time Fraud Management<a href="https://www.helpnetsecurity.com/2024/03/07/tazama-open-source-real-time-fraud-management/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tazama is an open-source platform that offers scalable and cost-effective solutions for fraud management in digital payment systems, aiming to democratize access to advanced financial monitoring tools.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Python-Based Snake Info-Stealer Spreads Through Facebook Messages<a href="https://securityaffairs.com/160131/malware/snake-info-stealer.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Snake malware campaign has been active since at least August 2023 and is attributed to Vietnamese-speaking individuals based on indicators such as targeted browsers and comments in the scripts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Intelligence Agency of Moldova Warns of Russia Attacks Ahead of the Presidential Election<a href="https://securityaffairs.com/160112/cyber-warfare-2/moldova-warns-of-hybrid-attacks-from-russia.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian cyber operations are expected to manipulate public sentiment, interfere with the referendum to join the EU, and discredit pro-European candidates during the presidential elections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, NSA Share Best Practices for Securing Cloud Services<a href="https://www.bleepingcomputer.com/news/security/cisa-nsa-share-best-practices-for-securing-cloud-services/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA and CISA have issued five joint bulletins outlining best practices for securing cloud environments, covering identity and access management, key management, encryption, data security, and mitigating risks from managed service providers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Evasive Panda APT Leverages Monlam Festival to Target Tibetans<a href="https://www.welivesecurity.com/en/eset-research/evasive-panda-leverages-monlam-festival-target-tibetans/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks involved compromising websites, such as the Kagyu International Monlam Trust's website, to specifically target users in India, Taiwan, Hong Kong, Australia, and the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 7, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
