@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attackers Leak Sensitive Swiss Government Documents, Login<a href="https://www.infosecurity-magazine.com/news/ransomware-leak-swiss-government/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The leaked data included 65,000 documents, with 5% related to the federal government. Most of the leaked federal government files contained personal data, technical information, classified data, and passwords.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

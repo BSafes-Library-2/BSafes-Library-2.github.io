@@ -6,6 +6,16 @@ nav_order: 150
 ---
 
 ## Alerts
+March 9, 2024 - NSA, CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secure Data in the Cloud <a href="https://media.defense.gov/2024/Mar/07/2003407862/-1/-1/0/CSI-CloudTop10-Secure-Data.PDF"> Full Text</a>
+</p>
+<details>
+As organizations move more of their data into cloud environments, the prevention of unauthorized access to that data is extremely important. Data stored in the cloud can take many forms depending on the needs of the organization. For these reasons, organizations must understand the sensitivity of the data they store in the cloud, select the appropriate storage services, and apply pragmatic security methods to properly protect their data. The purpose of this cybersecurity information sheet is to provide an overview of what cloud storage is and common practices for properly securing and auditing cloud storage systems.
+</details>
+</div>
+
 February 29, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

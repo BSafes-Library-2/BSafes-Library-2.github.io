@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Minnesota's South St. Paul Public Schools Investigating Potential Cybersecurity Threat<a href="https://www.twincities.com/2024/03/06/south-st-paul-public-schools-investigating-potential-cybersecurity-threat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This incident is impacting online platforms, emails, and other digital services. The school district is working to restore its systems and maintain a secure online environment for students and staff.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2024 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

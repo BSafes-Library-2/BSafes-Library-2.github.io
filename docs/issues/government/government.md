@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, NSA Share Best Practices for Securing Cloud Services<a href="https://www.bleepingcomputer.com/news/security/cisa-nsa-share-best-practices-for-securing-cloud-services/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA and CISA have issued five joint bulletins outlining best practices for securing cloud environments, covering identity and access management, key management, encryption, data security, and mitigating risks from managed service providers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
