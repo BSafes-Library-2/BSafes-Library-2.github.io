@@ -34,7 +34,87 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2024
+March 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canva Warns of Three Security Vulnerabilities in Fonts<a href="https://www.theregister.com/2024/03/08/canva_font_security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first, CVE-2023-45139, involved a high-severity bug in the FontTools library. The second and third vulnerabilities, CVE-2024-25081 and CVE-2024-25082, were related to naming conventions and compression.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tycoon and Storm-1575 Linked to Phishing Attacks on US Schools<a href="https://www.hackread.com/tycoon-storm-1575-phishing-attacks-us-schools/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Tycoon and Storm-1575 threat groups use stealthy tactics, social engineering, and phishing techniques to bypass MFA protections and target Microsoft 365 credentials at large US school districts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Flaws in Public Records Management Tool Could Let Hackers Nab Sensitive Data Linked to Requests<a href="https://www.nextgov.com/cybersecurity/2024/03/flaws-public-records-management-tool-could-let-hackers-nab-sensitive-data-linked-requests/394755/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GovQA platform, used by state and local governments for public records requests, had vulnerabilities that could have allowed hackers to access sensitive personal information, edit requests, and download unsecured files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Malware Campaign Found Exploiting Stored XSS in Popup Builder<a href="https://blog.sucuri.net/2024/03/new-malware-campaign-found-exploiting-stored-xss-in-popup-builder-4-2-3.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign was found targeting the Popup Builder WordPress plugin, exploiting a vulnerability disclosed in November 2023. The campaign injects malicious code into websites, leading to over 3,300 infections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Apple iOS and iPadOS Memory Corruption Bugs to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/160124/security/cisa-apple-ios-and-ipados-bugs-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These memory corruption vulnerabilities, tracked as CVE-2024-23225 and CVE-2024-23296, were exploited in attacks against iPhone devices. Apple released emergency security updates to address these zero-day vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 8, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Law Enforcement Personnel Say LexisNexis Retaliated When Asked to Remove Data<a href="https://therecord.media/new-jersey-law-enforcement-lawsuit-lexisnexis-data?&web_view=true"> Full Text</a>
@@ -50,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2024
+March 8, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Today’s Biggest AI Security Challenges<a href="https://www.helpnetsecurity.com/2024/03/07/ai-security-challenges/?&web_view=true"> Full Text</a>
@@ -66,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2024
+March 8, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 78% of MSPs Identify Cybersecurity as Prime IT Challenge<a href="https://www.helpnetsecurity.com/2024/03/07/msps-cybersecurity-priority/?&web_view=true"> Full Text</a>
@@ -82,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2024
+March 8, 2024 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Influence Operations Against Baltic States and Poland Having ‘Significant Impact’ on Society<a href="https://therecord.media/russian-influence-operations-baltic-poland-impact?&web_view=true"> Full Text</a>
@@ -98,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2024
+March 8, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Releases Android March 2024 Patches, Including Fixes for Two Critical Issues<a href="https://beyondmachines.net/event_details/google-releases-android-march-2024-patches-including-fixes-for-two-critical-issues-y-o-h-m-m?&web_view=true"> Full Text</a>
@@ -114,7 +194,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2024
+March 8, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tazama: Open-Source Real-Time Fraud Management<a href="https://www.helpnetsecurity.com/2024/03/07/tazama-open-source-real-time-fraud-management/?&web_view=true"> Full Text</a>
@@ -130,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2024
+March 8, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Python-Based Snake Info-Stealer Spreads Through Facebook Messages<a href="https://securityaffairs.com/160131/malware/snake-info-stealer.html?&web_view=true"> Full Text</a>
@@ -146,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2024
+March 8, 2024 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 National Intelligence Agency of Moldova Warns of Russia Attacks Ahead of the Presidential Election<a href="https://securityaffairs.com/160112/cyber-warfare-2/moldova-warns-of-hybrid-attacks-from-russia.html?&web_view=true"> Full Text</a>
@@ -162,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2024
+March 8, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA, NSA Share Best Practices for Securing Cloud Services<a href="https://www.bleepingcomputer.com/news/security/cisa-nsa-share-best-practices-for-securing-cloud-services/?&web_view=true"> Full Text</a>
@@ -178,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 8, 2024
+March 8, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked Evasive Panda APT Leverages Monlam Festival to Target Tibetans<a href="https://www.welivesecurity.com/en/eset-research/evasive-panda-leverages-monlam-festival-target-tibetans/?&web_view=true"> Full Text</a>
