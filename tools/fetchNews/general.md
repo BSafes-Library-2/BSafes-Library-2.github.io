@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+March 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law Enforcement Personnel Say LexisNexis Retaliated When Asked to Remove Data<a href="https://therecord.media/new-jersey-law-enforcement-lawsuit-lexisnexis-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+More than 18,000 New Jersey law enforcement personnel are alleging that LexisNexis retaliated against them by freezing their credit and falsely reporting them as identity theft victims after they requested their information to remain private.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Today’s Biggest AI Security Challenges<a href="https://www.helpnetsecurity.com/2024/03/07/ai-security-challenges/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adversaries can exploit AI-powered applications to manipulate information, create harmful content, and develop deep fake media, posing significant risks to organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 78% of MSPs Identify Cybersecurity as Prime IT Challenge<a href="https://www.helpnetsecurity.com/2024/03/07/msps-cybersecurity-priority/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Investment in the right technology and IT partners has led to fewer SMBs experiencing cyberattacks, with 64% of MSPs reporting less than 10% of their SMB customers being hit, according to Kaseya.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

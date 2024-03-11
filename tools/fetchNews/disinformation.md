@@ -8,6 +8,34 @@ nav_order: 900042
 
 ## Disinformation
 ---
+March 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Influence Operations Against Baltic States and Poland Having ‘Significant Impact’ on Society<a href="https://therecord.media/russian-influence-operations-baltic-poland-impact?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These campaigns aim to downplay the impact of Western sanctions on Russia's economy, fuel confrontation among Western countries, and spread fear and panic among the targeted populations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Intelligence Agency of Moldova Warns of Russia Attacks Ahead of the Presidential Election<a href="https://securityaffairs.com/160112/cyber-warfare-2/moldova-warns-of-hybrid-attacks-from-russia.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Russian cyber operations are expected to manipulate public sentiment, interfere with the referendum to join the EU, and discredit pro-European candidates during the presidential elections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
