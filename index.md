@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgian Village Whose Brewery was Hit by Cyberattack Faces Another on its Coffee Roastery<a href="https://therecord.media/koffie-beyers-cyberattack-coffee-roaster-duvel-belgium?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Belgian village of Breendonk has experienced cyberattacks targeting both Duvel Moortgat Brewery and local coffee roasters Koffie Beyers, with the incidents occurring at the same time and in close geographic proximity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BianLian Group Exploits JetBrains TeamCity Bugs in Ransomware Attacks<a href="https://securityaffairs.com/160357/hacking/bianlian-group-ttack-jetbrains-teamcity.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BianLian ransomware group exploited vulnerabilities in JetBrains TeamCity software to gain initial access to target environments. The group attempted to execute a custom GO backdoor but switched to LotL and utilized a PowerShell backdoor instead.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Leather Wallet App on Apple App Store is a Crypto Drainer<a href="https://www.bleepingcomputer.com/news/security/fake-leather-wallet-app-on-apple-app-store-is-a-crypto-drainer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The developers of the Leather cryptocurrency wallet have issued a warning about a counterfeit app on the Apple App Store. This fake app has led to users reporting that it drains their wallets and steals their digital assets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Funding Round Secures $20M for Reach Security<a href="https://www.scmagazine.com/brief/funding-round-secures-20m-for-reach-security?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A funding was led by new investors Ballistic Ventures and Artisanal Ventures, as well as existing backers Webb Investment Network, Ridge Ventures, and TechOperators.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: Cyberattack Cripples Leicester City Council Systems Until ‘At Least Midweek'<a href="https://www.leicestermercury.co.uk/news/leicester-news/cyber-attack-expected-cripple-leicester-9155437?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the nature of the cyberattack has not been disclosed, it is noted that this incident is part of a series of attacks on local authorities this year, with the latest affecting the council's ability to provide essential services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Data Brokers Disclose Selling Reproductive Healthcare Info, Precise Geolocation and Data Belonging to Minors<a href="https://therecord.media/dozens-of-data-brokers-disclose-selling-info-on-kids-geolocation-data-reproductive-health?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New information from the state of California reveals that many data brokers collect and sell sensitive information, including data related to reproductive health, geolocation, and minors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-Linked ‘Lord Nemesis’ Group Appears Intent on Intimidating Israeli Organizations, Report Says<a href="https://therecord.media/iran-linked-lord-nemesis-hacktivists-target-israel?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian state-backed hacking group, known as Lord Nemesis, targeted an Israeli academic administration software company called Rashim Software. The attackers used their access to infiltrate several of the company's clients.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How New and Old Security Threats Keep Persisting<a href="https://www.helpnetsecurity.com/2024/03/08/security-leaders-proactive-approach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research by Cymulate highlights the correlation between threat exposures, vulnerabilities, misconfigurations, and security controls. It emphasizes the importance of proactive security measures to prevent cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Forced to Take Two Systems Offline Last Month After Ivanti Compromise<a href="https://therecord.media/cisa-takes-two-systems-offline-following-ivanti-compromise?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach was limited to two systems, the Infrastructure Protection (IP) Gateway and the Chemical Security Assessment Tool (CSAT), which house critical information about U.S. infrastructure interdependency and private sector chemical security plans.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bills Targeting Data Brokers and TikTok Approved in House Committee<a href="https://therecord.media/bills-tiktok-data-brokers-advance-congress?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House Energy and Commerce Committee approved two significant data privacy bills, including one targeting TikTok's Chinese ownership and another blocking data brokers from selling Americans' data to foreign adversaries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
