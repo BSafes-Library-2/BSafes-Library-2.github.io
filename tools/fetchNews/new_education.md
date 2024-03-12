@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+March 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How New and Old Security Threats Keep Persisting<a href="https://www.helpnetsecurity.com/2024/03/08/security-leaders-proactive-approach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research by Cymulate highlights the correlation between threat exposures, vulnerabilities, misconfigurations, and security controls. It emphasizes the importance of proactive security measures to prevent cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 07, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

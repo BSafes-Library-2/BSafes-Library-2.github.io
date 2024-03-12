@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Data Brokers Disclose Selling Reproductive Healthcare Info, Precise Geolocation and Data Belonging to Minors<a href="https://therecord.media/dozens-of-data-brokers-disclose-selling-info-on-kids-geolocation-data-reproductive-health?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New information from the state of California reveals that many data brokers collect and sell sensitive information, including data related to reproductive health, geolocation, and minors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

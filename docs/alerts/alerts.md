@@ -16,6 +16,16 @@ As organizations move more of their data into cloud environments, the prevention
 </details>
 </div>
 
+March 7, 2024 - House Energy and Commerce Committee, US 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+E&C Unanimously Advances Bipartisan Legislation to Protect Americans’ Data and National Security against Foreign Adversaries <a href="https://energycommerce.house.gov/posts/markup-recap-e-and-c-unanimously-advances-bipartisan-legislation-to-protect-americans-data-and-national-security-against-foreign-adversaries"> Full Text</a>
+</p>
+<details>
+Washington, D.C. — The House Energy and Commerce Committee advanced two bipartisan pieces of legislation today to protect Americans’ data and national security against foreign adversaries. Both bills were advanced to the House Floor with unanimous support. 
+</details>
+</div>
+
 March 6, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

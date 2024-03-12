@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Funding Round Secures $20M for Reach Security<a href="https://www.scmagazine.com/brief/funding-round-secures-20m-for-reach-security?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series A funding was led by new investors Ballistic Ventures and Artisanal Ventures, as well as existing backers Webb Investment Network, Ridge Ventures, and TechOperators.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
