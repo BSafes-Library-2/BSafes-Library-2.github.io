@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Steadybit's Chaos Engineering Platform Attracts $6M in Series A Funding<a href="https://tech.eu/2024/03/11/steadybits-chaos-engineering-platform-attracts-6m-in-series-a-funding/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By simulating disturbances and potential failures, Steadybit helps organizations preempt and mitigate system vulnerabilities, ultimately improving performance and user experience.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

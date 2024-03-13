@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DoNex Ransomware Observed in the Wild Targeting Enterprises<a href="https://www.ttbinternetsecurity.com/news/new-donex-ransomware-observed-in-the-world-targeting-enterprises?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DoNex ransomware strain is actively targeting companies in the United States and Europe, employing a double-extortion method to hold files and sensitive data hostage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ODNI Appoints New Election Security Leader Ahead of Presidential Race<a href="https://therecord.media/jessica-brandt-election-security-odni-foreign-malign-influence-center?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Office of the Director of National Intelligence (ODNI) has appointed Jessica Brandt as the director of the Foreign Malign Influence Center, which aims to combat foreign interference in U.S. elections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Steadybit's Chaos Engineering Platform Attracts $6M in Series A Funding<a href="https://tech.eu/2024/03/11/steadybits-chaos-engineering-platform-attracts-6m-in-series-a-funding/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By simulating disturbances and potential failures, Steadybit helps organizations preempt and mitigate system vulnerabilities, ultimately improving performance and user experience.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Released PoC Exploit for Critical Progress Software OpenEdge Bug<a href="https://securityaffairs.com/160347/hacking/progress-software-openedge-critical-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Horizon3.ai have disclosed technical details and a proof-of-concept exploit for a critical security flaw (CVE-2024-1403) in Progress Software OpenEdge Authentication Gateway and AdminServer.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Victims Lose $47 Million to Crypto Phishing Scams in February<a href="https://www.infosecurity-magazine.com/news/victims-47m-crypto-phishing-scams-1/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Impersonated accounts on X, formerly known as Twitter, have been responsible for a majority of crypto phishing attacks in the previous month. Per Scam Sniffer, victims lost almost $47 million to cybercriminals who stole from over 57,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Muddled Libra Threat Group Abuses Pentesting Tools to Infiltrate Networks<a href="https://gbhackers.com/muddled-libra-pentesting-admin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Muddled Libra threat actors leverage pentesting tools to identify vulnerabilities in target systems and networks, enabling them to exploit security gaps and gain unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tax-Related Scams Escalate as Filing Deadline Approaches<a href="https://www.helpnetsecurity.com/2024/03/12/tax-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers are taking advantage of the rush to file personal federal income tax returns, using tactics such as impersonation, phone calls, tax identity theft, phishing scams, and unethical tax return preparers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Incognito Darknet Market Mass-Extorts Buyers, Sellers<a href="https://krebsonsecurity.com/2024/03/incognito-darknet-market-mass-extorts-buyers-sellers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The darknet narcotics market Incognito Market is extorting its vendors and buyers by threatening to publish their cryptocurrency transaction and chat records if they refuse to pay a fee.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Three-Quarters of Cyber Incident Victims are Small Businesses<a href="https://www.infosecurity-magazine.com/news/cyber-incident-victims-small/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 90% of cyber-attacks on small and medium businesses involve data or credential theft, with a notable increase in information-stealing malware targeting macOS, according to Sophos.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPI Packages Target Crypto Wallet Recovery Passwords in BIPClip Campaign<a href="https://www.reversinglabs.com/blog/bipclip-malicious-pypi-packages-target-crypto-wallet-recovery-passwords?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious packages used name squatting, disguised dependencies, and legitimate-looking code to steal mnemonic phrases, evading detection and targeting crypto assets without broader system compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 11, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

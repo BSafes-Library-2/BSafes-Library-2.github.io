@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New DoNex Ransomware Observed in the Wild Targeting Enterprises<a href="https://www.ttbinternetsecurity.com/news/new-donex-ransomware-observed-in-the-world-targeting-enterprises?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DoNex ransomware strain is actively targeting companies in the United States and Europe, employing a double-extortion method to hold files and sensitive data hostage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

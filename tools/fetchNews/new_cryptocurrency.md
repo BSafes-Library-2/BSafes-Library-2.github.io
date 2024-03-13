@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Victims Lose $47 Million to Crypto Phishing Scams in February<a href="https://www.infosecurity-magazine.com/news/victims-47m-crypto-phishing-scams-1/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Impersonated accounts on X, formerly known as Twitter, have been responsible for a majority of crypto phishing attacks in the previous month. Per Scam Sniffer, victims lost almost $47 million to cybercriminals who stole from over 57,000 individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

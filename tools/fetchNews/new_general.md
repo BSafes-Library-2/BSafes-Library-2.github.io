@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Three-Quarters of Cyber Incident Victims are Small Businesses<a href="https://www.infosecurity-magazine.com/news/cyber-incident-victims-small/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 90% of cyber-attacks on small and medium businesses involve data or credential theft, with a notable increase in information-stealing malware targeting macOS, according to Sophos.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

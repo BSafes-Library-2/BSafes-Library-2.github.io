@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+March 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: Cyberattack Cripples Leicester City Council Systems Until ‘At Least Midweek'<a href="https://www.leicestermercury.co.uk/news/leicester-news/cyber-attack-expected-cripple-leicester-9155437?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the nature of the cyberattack has not been disclosed, it is noted that this incident is part of a series of attacks on local authorities this year, with the latest affecting the council's ability to provide essential services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Forced to Take Two Systems Offline Last Month After Ivanti Compromise<a href="https://therecord.media/cisa-takes-two-systems-offline-following-ivanti-compromise?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach was limited to two systems, the Infrastructure Protection (IP) Gateway and the Chemical Security Assessment Tool (CSAT), which house critical information about U.S. infrastructure interdependency and private sector chemical security plans.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

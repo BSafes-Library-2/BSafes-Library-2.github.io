@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bills Targeting Data Brokers and TikTok Approved in House Committee<a href="https://therecord.media/bills-tiktok-data-brokers-advance-congress?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The House Energy and Commerce Committee approved two significant data privacy bills, including one targeting TikTok's Chinese ownership and another blocking data brokers from selling Americans' data to foreign adversaries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

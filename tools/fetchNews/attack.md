@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+March 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgian Village Whose Brewery was Hit by Cyberattack Faces Another on its Coffee Roastery<a href="https://therecord.media/koffie-beyers-cyberattack-coffee-roaster-duvel-belgium?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Belgian village of Breendonk has experienced cyberattacks targeting both Duvel Moortgat Brewery and local coffee roasters Koffie Beyers, with the incidents occurring at the same time and in close geographic proximity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BianLian Group Exploits JetBrains TeamCity Bugs in Ransomware Attacks<a href="https://securityaffairs.com/160357/hacking/bianlian-group-ttack-jetbrains-teamcity.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BianLian ransomware group exploited vulnerabilities in JetBrains TeamCity software to gain initial access to target environments. The group attempted to execute a custom GO backdoor but switched to LotL and utilized a PowerShell backdoor instead.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-Linked ‘Lord Nemesis’ Group Appears Intent on Intimidating Israeli Organizations, Report Says<a href="https://therecord.media/iran-linked-lord-nemesis-hacktivists-target-israel?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian state-backed hacking group, known as Lord Nemesis, targeted an Israeli academic administration software company called Rashim Software. The attackers used their access to infiltrate several of the company's clients.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
