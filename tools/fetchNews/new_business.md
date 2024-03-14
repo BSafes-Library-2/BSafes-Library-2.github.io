@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nozomi Networks Raises $100 Million to Help Secure Critical Infrastructure<a href="https://www.helpnetsecurity.com/2024/03/13/nozomi-networks-funding-100-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The investment, which includes contributions from Mitsubishi Electric and Schneider Electric, underscores the growing need for OEM-agnostic security solutions in the face of escalating attacks on critical infrastructure worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ODNI Appoints New Election Security Leader Ahead of Presidential Race<a href="https://therecord.media/jessica-brandt-election-security-odni-foreign-malign-influence-center?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Office of the Director of National Intelligence (ODNI) has appointed Jessica Brandt as the director of the Foreign Malign Influence Center, which aims to combat foreign interference in U.S. elections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

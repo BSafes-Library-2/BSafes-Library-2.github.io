@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor’s New WebTunnel Bridges Mimic HTTPS Traffic to Evade Censorship<a href="https://www.bleepingcomputer.com/news/security/tors-new-webtunnel-bridges-mimic-https-traffic-to-evade-censorship/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While some countries have found ways to detect and block traditional Tor connections, the Tor Project has developed WebTunnel to make it harder for censors to block connections by blending the traffic with HTTPS-encrypted web traffic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

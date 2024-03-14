@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Incognito Darknet Market Mass-Extorts Buyers, Sellers<a href="https://krebsonsecurity.com/2024/03/incognito-darknet-market-mass-extorts-buyers-sellers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The darknet narcotics market Incognito Market is extorting its vendors and buyers by threatening to publish their cryptocurrency transaction and chat records if they refuse to pay a fee.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

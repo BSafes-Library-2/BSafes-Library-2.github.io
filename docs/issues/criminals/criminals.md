@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Deploying VCURMS and STRRAT Trojans via AWS and GitHub<a href="https://www.fortinet.com/blog/threat-research/vcurms-a-simple-and-functional-weapon?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The VCURMS RAT uses a Proton Mail email address for communicating with a command-and-control server and can extract and execute commands from specific subject lines in emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

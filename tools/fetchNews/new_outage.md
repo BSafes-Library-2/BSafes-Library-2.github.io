@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Billion-Dollar Boat Seller MarineMax Reports Cyberattack to SEC<a href="https://therecord.media/boat-seller-marinemax-reports-cyberattack-sec?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although the boat-selling company initiated its incident response and business continuity protocols to contain the incident, there was some disruption to its business operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

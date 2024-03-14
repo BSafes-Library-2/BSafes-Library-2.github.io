@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Muddled Libra Threat Group Abuses Pentesting Tools to Infiltrate Networks<a href="https://gbhackers.com/muddled-libra-pentesting-admin/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Muddled Libra threat actors leverage pentesting tools to identify vulnerabilities in target systems and networks, enabling them to exploit security gaps and gain unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 05, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
