@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2024
+March 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Research Exposes Security Risks in ChatGPT Plugins<a href="https://www.infosecurity-magazine.com/news/security-risks-chatgpt-plugins/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities could allow attackers to take control of organization accounts on third-party platforms and access sensitive user data, including Personal Identifiable Information (PII).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Deploying VCURMS and STRRAT Trojans via AWS and GitHub<a href="https://www.fortinet.com/blog/threat-research/vcurms-a-simple-and-functional-weapon?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The VCURMS RAT uses a Proton Mail email address for communicating with a command-and-control server and can extract and execute commands from specific subject lines in emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Billion-Dollar Boat Seller MarineMax Reports Cyberattack to SEC<a href="https://therecord.media/boat-seller-marinemax-reports-cyberattack-sec?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although the boat-selling company initiated its incident response and business continuity protocols to contain the incident, there was some disruption to its business operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Cloud Account Attacks Surged 16-Fold in 2023<a href="https://www.infosecurity-magazine.com/news/cloud-account-attacks-surged-2023/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report by Red Canary highlighted that cloud account compromises using the MITRE ATT&CK technique T1078.004 surged to the fourth most prevalent technique used by threat actors, impacting three times as many organizations compared to 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tweaks Stealer Targets Roblox Users Through YouTube and Discord<a href="https://www.zscaler.com/blogs/security-research/tweaks-stealer-targets-roblox-users-through-youtube-and-discord?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers leverage YouTube by enticing users to watch videos on "How to increase FPS" that contain links to their Discord groups. Once they join, the attackers provide them with links to malicious files disguised as game tweaks and modifications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish High Court Upholds Temporary Worldcoin Ban<a href="https://www.bankinfosecurity.com/spanish-high-court-upholds-temporary-worldcoin-ban-a-24586?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish High Court upheld a three-month ban on Worldcoin, a digital identity and cryptocurrency platform, due to privacy concerns raised by the country's data regulator.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FakeBat Delivered via Several Active Malvertising Campaigns<a href="https://www.malwarebytes.com/blog/threat-intelligence/2024/03/fakebat-delivered-via-several-active-malvertising-campaigns?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malvertising campaigns employed a new redirection chain, abusing legitimate websites to evade detection, with several campaigns impersonating brands such as OneNote, Epic Games, and the Braavos smart wallet application.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nozomi Networks Raises $100 Million to Help Secure Critical Infrastructure<a href="https://www.helpnetsecurity.com/2024/03/13/nozomi-networks-funding-100-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The investment, which includes contributions from Mitsubishi Electric and Schneider Electric, underscores the growing need for OEM-agnostic security solutions in the face of escalating attacks on critical infrastructure worldwide.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tor’s New WebTunnel Bridges Mimic HTTPS Traffic to Evade Censorship<a href="https://www.bleepingcomputer.com/news/security/tors-new-webtunnel-bridges-mimic-https-traffic-to-evade-censorship/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While some countries have found ways to detect and block traditional Tor connections, the Tor Project has developed WebTunnel to make it harder for censors to block connections by blending the traffic with HTTPS-encrypted web traffic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 2.3 Million Records of Family Entertainment Business Exposed in Data Leak<a href="https://www.vpnmentor.com/news/report-kidsempire-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity Researcher, Jeremiah Fowler, discovered a non-password protected database containing over 2.3 million documents belonging to Kids Empire, a US operator of recreational centers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 12, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New DoNex Ransomware Observed in the Wild Targeting Enterprises<a href="https://www.ttbinternetsecurity.com/news/new-donex-ransomware-observed-in-the-world-targeting-enterprises?&web_view=true"> Full Text</a>
@@ -50,7 +210,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2024
+March 12, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ODNI Appoints New Election Security Leader Ahead of Presidential Race<a href="https://therecord.media/jessica-brandt-election-security-odni-foreign-malign-influence-center?&web_view=true"> Full Text</a>
@@ -66,7 +226,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2024
+March 12, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Steadybit's Chaos Engineering Platform Attracts $6M in Series A Funding<a href="https://tech.eu/2024/03/11/steadybits-chaos-engineering-platform-attracts-6m-in-series-a-funding/?&web_view=true"> Full Text</a>
@@ -82,7 +242,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2024
+March 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Released PoC Exploit for Critical Progress Software OpenEdge Bug<a href="https://securityaffairs.com/160347/hacking/progress-software-openedge-critical-flaw.html?&web_view=true"> Full Text</a>
@@ -98,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2024
+March 12, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Victims Lose $47 Million to Crypto Phishing Scams in February<a href="https://www.infosecurity-magazine.com/news/victims-47m-crypto-phishing-scams-1/?&web_view=true"> Full Text</a>
@@ -114,7 +274,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2024
+March 12, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Muddled Libra Threat Group Abuses Pentesting Tools to Infiltrate Networks<a href="https://gbhackers.com/muddled-libra-pentesting-admin/?&web_view=true"> Full Text</a>
@@ -130,7 +290,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2024
+March 12, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tax-Related Scams Escalate as Filing Deadline Approaches<a href="https://www.helpnetsecurity.com/2024/03/12/tax-scams/?&web_view=true"> Full Text</a>
@@ -146,7 +306,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2024
+March 12, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Incognito Darknet Market Mass-Extorts Buyers, Sellers<a href="https://krebsonsecurity.com/2024/03/incognito-darknet-market-mass-extorts-buyers-sellers/?&web_view=true"> Full Text</a>
@@ -162,7 +322,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2024
+March 12, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Three-Quarters of Cyber Incident Victims are Small Businesses<a href="https://www.infosecurity-magazine.com/news/cyber-incident-victims-small/?&web_view=true"> Full Text</a>
@@ -178,7 +338,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 12, 2024
+March 12, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious PyPI Packages Target Crypto Wallet Recovery Passwords in BIPClip Campaign<a href="https://www.reversinglabs.com/blog/bipclip-malicious-pypi-packages-target-crypto-wallet-recovery-passwords?&web_view=true"> Full Text</a>
