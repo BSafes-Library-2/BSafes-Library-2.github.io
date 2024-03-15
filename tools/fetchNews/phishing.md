@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tweaks Stealer Targets Roblox Users Through YouTube and Discord<a href="https://www.zscaler.com/blogs/security-research/tweaks-stealer-targets-roblox-users-through-youtube-and-discord?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers leverage YouTube by enticing users to watch videos on "How to increase FPS" that contain links to their Discord groups. Once they join, the attackers provide them with links to malicious files disguised as game tweaks and modifications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FakeBat Delivered via Several Active Malvertising Campaigns<a href="https://www.malwarebytes.com/blog/threat-intelligence/2024/03/fakebat-delivered-via-several-active-malvertising-campaigns?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malvertising campaigns employed a new redirection chain, abusing legitimate websites to evade detection, with several campaigns impersonating brands such as OneNote, Epic Games, and the Braavos smart wallet application.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

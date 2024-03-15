@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Meets With UnitedHealth, Industry Groups on Change Healthcare Cyberattack Fallout<a href="https://www.cybersecuritydive.com/news/change-healthcare-cyberattack-white-house-meeting/710167/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cyberattack on Change Healthcare, a UnitedHealth Group subsidiary, has underscored the growing cybersecurity challenge facing the healthcare sector. The outage has disrupted critical operations, impacting claims processing and patient records.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

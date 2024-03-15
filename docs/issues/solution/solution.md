@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BSAM: Open-Source Methodology for Bluetooth Security Assessment<a href="https://www.helpnetsecurity.com/2024/03/13/bluetooth-security-assessment-methodology/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To aid manufacturers, researchers, developers, and cybersecurity professionals, the methodology includes resources for assessing the security of Bluetooth communications and will publish proofs of concept and scripts on GitHub.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

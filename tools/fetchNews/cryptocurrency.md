@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spanish High Court Upholds Temporary Worldcoin Ban<a href="https://www.bankinfosecurity.com/spanish-high-court-upholds-temporary-worldcoin-ban-a-24586?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Spanish High Court upheld a three-month ban on Worldcoin, a digital identity and cryptocurrency platform, due to privacy concerns raised by the country's data regulator.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900029
 
 ## Breach
 ---
+March 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+French Unemployment Agency Data Breach Impacts 43 Million People<a href="https://www.bleepingcomputer.com/news/security/french-unemployment-agency-data-breach-impacts-43-million-people/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The stolen data includes sensitive personal details such as full name, date of birth, social security number, and contact information, posing a significant risk of identity theft and phishing.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Nissan Oceania to Alert 100,000 People Affected by December 2023 Cyberattack<a href="https://www.theregister.com/2024/03/14/nissan_oceania_100k_affected/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach resulted in the theft of various sensitive information, including government identification like Medicare cards, driving licenses, passports, and tax file numbers.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug in Irish Government Website Exposed COVID-19 Vaccination Records; Disclosure Comes After Two Years<a href="https://techcrunch.com/2024/03/13/security-flaw-irish-government-hse-covid-19/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability in the portal, built on Salesforce's health cloud, allowed any member of the public registering with the portal to access the vaccination records of other registered users, including personal details and internal HSE documents.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

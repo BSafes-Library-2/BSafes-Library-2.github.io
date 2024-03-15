@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 2.3 Million Records of Family Entertainment Business Exposed in Data Leak<a href="https://www.vpnmentor.com/news/report-kidsempire-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity Researcher, Jeremiah Fowler, discovered a non-password protected database containing over 2.3 million documents belonging to Kids Empire, a US operator of recreational centers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

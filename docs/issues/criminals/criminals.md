@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cybercrime: Discretion is the Better Part of Valor<a href="https://www.bankinfosecurity.com/chinese-cybercrime-discretion-better-part-valor-a-24592?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese cybercrime ecosystem lacks the typical features seen in Russian and English-speaking underground forums, with a focus on discreet communication and coded language to avoid drawing attention.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
