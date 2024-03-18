@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+March 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: IMF Says February Cyberattack Involved Compromise of 11 Email Accounts<a href="https://therecord.media/imf-february-cyberattack-email-accounts-compromised?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach was discovered on February 16, 2024, and after an investigation conducted with the help of cybersecurity experts, the nature of the breach was determined, and remediation actions were taken.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encina Wastewater Authority Allegedly Becomes Latest Victim of BlackByte Ransomware<a href="https://thecyberexpress.com/encina-wastewater-authority-cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of now, the situation regarding the alleged cyberattack on Encina Wastewater Authority remains unconfirmed, and the organization has not issued an official statement or response regarding the claims made by the threat actor.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

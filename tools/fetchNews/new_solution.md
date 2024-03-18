@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MobSF: Open-Source Security Research Platform for Mobile Apps<a href="https://www.helpnetsecurity.com/2024/03/14/mobsf-open-source-mobile-security-framework/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mobile Security Framework (MobSF) offers both static analysis for mobile app binaries and dynamic analysis for Android and iOS applications, streamlining security assessments.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

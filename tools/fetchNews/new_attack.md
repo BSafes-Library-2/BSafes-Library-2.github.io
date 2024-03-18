@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+March 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pennsylvania’s Scranton School District Dealing with Ransomware Attack<a href="https://therecord.media/pennsylvania-scranton-school-district-ransomware-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a result of the attack, some computer systems and services are temporarily disrupted, causing files to be inaccessible and certain functions to operate slower than usual.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Change Healthcare Locates Ransomware Attack Vector<a href="https://www.cybersecuritydive.com/news/change-ransomware-attack-vector/710319/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UnitedHealth Group reportedly identified the source of the cyberattack on its subsidiary, Change Healthcare. The company has conducted a forensic analysis and established a safe restore point to move forward with the restoration of data and systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scottish Health Service Says ‘Focused and Ongoing Cyber Attack’ May Disrupt Services<a href="https://therecord.media/scottish-nhs-cyberattack-healthcare-dumfries-galloway?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In response to the cyberattack, Neil Gray, the Scottish health secretary, confirmed that established procedures are being followed to address the situation, and support is being provided to NHS Dumfries and Galloway.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

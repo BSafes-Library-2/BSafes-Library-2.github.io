@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+March 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Hackers Appear to Return to Tornado Cash for Money Laundering<a href="https://therecord.media/lazarus-group-north-korea-tornado-cash-money-laundering?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea’s Lazarus hacking group has reportedly used the Tornado Cash mixing service to launder $23 million stolen during a November 2023 cyberattack on the HTX cryptocurrency exchange.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
