@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Hackers Appear to Return to Tornado Cash for Money Laundering<a href="https://therecord.media/lazarus-group-north-korea-tornado-cash-money-laundering?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea’s Lazarus hacking group has reportedly used the Tornado Cash mixing service to launder $23 million stolen during a November 2023 cyberattack on the HTX cryptocurrency exchange.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: IMF Says February Cyberattack Involved Compromise of 11 Email Accounts<a href="https://therecord.media/imf-february-cyberattack-email-accounts-compromised?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach was discovered on February 16, 2024, and after an investigation conducted with the help of cybersecurity experts, the nature of the breach was determined, and remediation actions were taken.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pennsylvania’s Scranton School District Dealing with Ransomware Attack<a href="https://therecord.media/pennsylvania-scranton-school-district-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a result of the attack, some computer systems and services are temporarily disrupted, causing files to be inaccessible and certain functions to operate slower than usual.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside the Rabbit Hole: BunnyLoader 3.0 Unveiled<a href="https://unit42.paloaltonetworks.com/analysis-of-bunnyloader-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new BunnyLoader variant comes with a Command and Control (C2) update, modularization of the binary, and various modules such as keylogger, stealer, clipper, and DoS functions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encina Wastewater Authority Allegedly Becomes Latest Victim of BlackByte Ransomware<a href="https://thecyberexpress.com/encina-wastewater-authority-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of now, the situation regarding the alleged cyberattack on Encina Wastewater Authority remains unconfirmed, and the organization has not issued an official statement or response regarding the claims made by the threat actor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability Remains Unpatched in Two Permanently Closed MiniOrange WordPress Plugins<a href="https://www.wordfence.com/blog/2024/03/critical-vulnerability-remains-unpatched-in-two-permanently-closed-miniorange-wordpress-plugins-1250-bounty-awarded/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of WordPress websites are at risk due to critical vulnerabilities in two discontinued MiniOrange plugins, allowing attackers to escalate privileges and compromise sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors are Turning to Novel Malware as Malicious Attacks Rise<a href="https://www.cybersecuritydive.com/news/threat-actors-novel-malware-attacks/710308/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by BlackBerry revealed that 62% of industry-related cyberattacks from September to December 2023 were directed at critical infrastructure providers. The use of novel malware saw a 27% increase.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MobSF: Open-Source Security Research Platform for Mobile Apps<a href="https://www.helpnetsecurity.com/2024/03/14/mobsf-open-source-mobile-security-framework/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mobile Security Framework (MobSF) offers both static analysis for mobile app binaries and dynamic analysis for Android and iOS applications, streamlining security assessments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Change Healthcare Locates Ransomware Attack Vector<a href="https://www.cybersecuritydive.com/news/change-ransomware-attack-vector/710319/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UnitedHealth Group reportedly identified the source of the cyberattack on its subsidiary, Change Healthcare. The company has conducted a forensic analysis and established a safe restore point to move forward with the restoration of data and systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scottish Health Service Says ‘Focused and Ongoing Cyber Attack’ May Disrupt Services<a href="https://therecord.media/scottish-nhs-cyberattack-healthcare-dumfries-galloway?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In response to the cyberattack, Neil Gray, the Scottish health secretary, confirmed that established procedures are being followed to address the situation, and support is being provided to NHS Dumfries and Galloway.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 14, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

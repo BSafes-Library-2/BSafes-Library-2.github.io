@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2024
+March 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lazarus Group Hackers Appear to Return to Tornado Cash for Money Laundering<a href="https://therecord.media/lazarus-group-north-korea-tornado-cash-money-laundering?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea’s Lazarus hacking group has reportedly used the Tornado Cash mixing service to launder $23 million stolen during a November 2023 cyberattack on the HTX cryptocurrency exchange.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: IMF Says February Cyberattack Involved Compromise of 11 Email Accounts<a href="https://therecord.media/imf-february-cyberattack-email-accounts-compromised?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach was discovered on February 16, 2024, and after an investigation conducted with the help of cybersecurity experts, the nature of the breach was determined, and remediation actions were taken.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pennsylvania’s Scranton School District Dealing with Ransomware Attack<a href="https://therecord.media/pennsylvania-scranton-school-district-ransomware-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As a result of the attack, some computer systems and services are temporarily disrupted, causing files to be inaccessible and certain functions to operate slower than usual.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inside the Rabbit Hole: BunnyLoader 3.0 Unveiled<a href="https://unit42.paloaltonetworks.com/analysis-of-bunnyloader-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new BunnyLoader variant comes with a Command and Control (C2) update, modularization of the binary, and various modules such as keylogger, stealer, clipper, and DoS functions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Encina Wastewater Authority Allegedly Becomes Latest Victim of BlackByte Ransomware<a href="https://thecyberexpress.com/encina-wastewater-authority-cyberattack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As of now, the situation regarding the alleged cyberattack on Encina Wastewater Authority remains unconfirmed, and the organization has not issued an official statement or response regarding the claims made by the threat actor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability Remains Unpatched in Two Permanently Closed MiniOrange WordPress Plugins<a href="https://www.wordfence.com/blog/2024/03/critical-vulnerability-remains-unpatched-in-two-permanently-closed-miniorange-wordpress-plugins-1250-bounty-awarded/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of WordPress websites are at risk due to critical vulnerabilities in two discontinued MiniOrange plugins, allowing attackers to escalate privileges and compromise sites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors are Turning to Novel Malware as Malicious Attacks Rise<a href="https://www.cybersecuritydive.com/news/threat-actors-novel-malware-attacks/710308/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new report by BlackBerry revealed that 62% of industry-related cyberattacks from September to December 2023 were directed at critical infrastructure providers. The use of novel malware saw a 27% increase.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MobSF: Open-Source Security Research Platform for Mobile Apps<a href="https://www.helpnetsecurity.com/2024/03/14/mobsf-open-source-mobile-security-framework/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mobile Security Framework (MobSF) offers both static analysis for mobile app binaries and dynamic analysis for Android and iOS applications, streamlining security assessments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Change Healthcare Locates Ransomware Attack Vector<a href="https://www.cybersecuritydive.com/news/change-ransomware-attack-vector/710319/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UnitedHealth Group reportedly identified the source of the cyberattack on its subsidiary, Change Healthcare. The company has conducted a forensic analysis and established a safe restore point to move forward with the restoration of data and systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scottish Health Service Says ‘Focused and Ongoing Cyber Attack’ May Disrupt Services<a href="https://therecord.media/scottish-nhs-cyberattack-healthcare-dumfries-galloway?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In response to the cyberattack, Neil Gray, the Scottish health secretary, confirmed that established procedures are being followed to address the situation, and support is being provided to NHS Dumfries and Galloway.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 14, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Leverage Document Publishing Sites for Ongoing Credential and Session Token Theft<a href="https://blog.talosintelligence.com/threat-actors-leveraging-document-publishing-sites/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Threat Actors Leverage Document Publishing Sites for Ongoing Credential and Sess
 Threat actors are exploiting legitimate digital document publishing (DDP) sites to host phishing lures, making it harder for traditional security controls to detect and block these attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talo Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2024
+March 14, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 French Unemployment Agency Data Breach Impacts 43 Million People<a href="https://www.bleepingcomputer.com/news/security/french-unemployment-agency-data-breach-impacts-43-million-people/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ French Unemployment Agency Data Breach Impacts 43 Million People<a href="https:/
 The stolen data includes sensitive personal details such as full name, date of birth, social security number, and contact information, posing a significant risk of identity theft and phishing.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2024
+March 14, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House Meets With UnitedHealth, Industry Groups on Change Healthcare Cyberattack Fallout<a href="https://www.cybersecuritydive.com/news/change-healthcare-cyberattack-white-house-meeting/710167/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ White House Meets With UnitedHealth, Industry Groups on Change Healthcare Cybera
 The cyberattack on Change Healthcare, a UnitedHealth Group subsidiary, has underscored the growing cybersecurity challenge facing the healthcare sector. The outage has disrupted critical operations, impacting claims processing and patient records.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2024
+March 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 JetBrains Vulnerability Exploitation Highlights Debate Over ‘Silent Patching'<a href="https://therecord.media/jetbrains-rapid7-silent-patching-dispute?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ JetBrains Vulnerability Exploitation Highlights Debate Over ‘Silent Patching'<
 Rapid7's decision to release details on the vulnerabilities led to immediate exploitation by attackers, according to JetBrains. The dispute arose from Rapid7's objection to JetBrains' preference for private patch releases and silent patching.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2024
+March 14, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Effects of Law Enforcement Takedowns on the Ransomware Landscape<a href="https://www.helpnetsecurity.com/2024/03/13/law-enforcement-action-ransomware/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ The Effects of Law Enforcement Takedowns on the Ransomware Landscape<a href="htt
 Following the disruption of the Qakbot botnet in August 2023, ransomware affiliates have transitioned to exploiting vulnerabilities as the primary method of delivering malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2024
+March 14, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Nissan Oceania to Alert 100,000 People Affected by December 2023 Cyberattack<a href="https://www.theregister.com/2024/03/14/nissan_oceania_100k_affected/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Update: Nissan Oceania to Alert 100,000 People Affected by December 2023 Cyberat
 The breach resulted in the theft of various sensitive information, including government identification like Medicare cards, driving licenses, passports, and tax file numbers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2024
+March 14, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Cybercrime: Discretion is the Better Part of Valor<a href="https://www.bankinfosecurity.com/chinese-cybercrime-discretion-better-part-valor-a-24592?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Chinese Cybercrime: Discretion is the Better Part of Valor<a href="https://www.b
 The Chinese cybercrime ecosystem lacks the typical features seen in Russian and English-speaking underground forums, with a focus on discreet communication and coded language to avoid drawing attention.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2024
+March 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kubernetes RCE Flaw Allows Full Takeover of Windows Nodes<a href="https://www.darkreading.com/cloud-security/patch-now-kubernetes-flaw-allows-for-full-takeover-of-windows-nodes?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Kubernetes RCE Flaw Allows Full Takeover of Windows Nodes<a href="https://www.da
 The vulnerability affects default installations of Kubernetes earlier than version 1.28.4 running on-prem deployments and Azure Kubernetes Service, highlighting the importance of patching.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2024
+March 14, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BSAM: Open-Source Methodology for Bluetooth Security Assessment<a href="https://www.helpnetsecurity.com/2024/03/13/bluetooth-security-assessment-methodology/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ BSAM: Open-Source Methodology for Bluetooth Security Assessment<a href="https://
 To aid manufacturers, researchers, developers, and cybersecurity professionals, the methodology includes resources for assessing the security of Bluetooth communications and will publish proofs of concept and scripts on GitHub.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 14, 2024
+March 14, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bug in Irish Government Website Exposed COVID-19 Vaccination Records; Disclosure Comes After Two Years<a href="https://techcrunch.com/2024/03/13/security-flaw-irish-government-hse-covid-19/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Bug in Irish Government Website Exposed COVID-19 Vaccination Records; Disclosure
 The vulnerability in the portal, built on Salesforce's health cloud, allowed any member of the public registering with the portal to access the vaccination records of other registered users, including personal details and internal HSE documents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -204,7 +364,7 @@ New Research Exposes Security Risks in ChatGPT Plugins<a href="https://www.infos
 These vulnerabilities could allow attackers to take control of organization accounts on third-party platforms and access sensitive user data, including Personal Identifiable Information (PII).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -220,7 +380,7 @@ Cybercriminals Deploying VCURMS and STRRAT Trojans via AWS and GitHub<a href="ht
 The VCURMS RAT uses a Proton Mail email address for communicating with a command-and-control server and can extract and execute commands from specific subject lines in emails.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -236,7 +396,7 @@ Billion-Dollar Boat Seller MarineMax Reports Cyberattack to SEC<a href="https://
 Although the boat-selling company initiated its incident response and business continuity protocols to contain the incident, there was some disruption to its business operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -252,7 +412,7 @@ Report: Cloud Account Attacks Surged 16-Fold in 2023<a href="https://www.infosec
 A report by Red Canary highlighted that cloud account compromises using the MITRE ATT&CK technique T1078.004 surged to the fourth most prevalent technique used by threat actors, impacting three times as many organizations compared to 2022.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
