@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research Shows IT and Construction Sectors Hardest Hit By Ransomware<a href="https://www.infosecurity-magazine.com/news/it-construction-sectors-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has shed light on the profound impact of ransomware attacks on the IT and construction sectors, revealing that these industries bore the brunt of nearly half of all incidents in 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Companies Describe Cyber Incidents in SEC Filings<a href="https://www.cybersecuritydive.com/news/sec-filing-cyber-incident-descriptions/710678/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the language businesses use in Item 1.05 filings are ultimately crafted to notify regulators and investors of potential risks, these words also signal how a company detects, mitigates, contains, and recovers from cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lynis: Open-Source Security Auditing Tool<a href="https://www.helpnetsecurity.com/2024/03/19/lynis-open-source-security-auditing-tool/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lynis is a comprehensive open-source security auditing tool for UNIX-based systems, including Linux, macOS, and BSD. Its main objective is to evaluate security measures and recommend enhancing system hardening.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Announces Deprecation of 1024-Bit RSA Keys in Windows<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-deprecation-of-1024-bit-rsa-keys-in-windows/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+1024-bit RSA keys have approximately 80 bits of strength, while the 2048-bit key has approximately 112 bits, making the latter four billion times longer to factor. Experts in the field consider 2048-bit keys safe until at least 2030.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-Linked Group Levels Multistage Cyberattack on South Korea<a href="https://www.darkreading.com/vulnerabilities-threats/north-korea-linked-group-level-multistage-cyberattack-on-south-korea?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked threat group Kimsuky has adopted a longer, eight-stage attack chain that abuses legitimate cloud services and employs evasive malware to conduct cyber espionage and financial crimes against South Korean entities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cash-Strapped Women's Clinic Sues UnitedHealth Over Attack<a href="https://www.bankinfosecurity.com/cash-strapped-womens-clinic-sues-unitedhealth-over-attack-a-24628?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lawsuit alleges that disruption in claims processing caused by the cyberattack on the company's Change Healthcare unit and ongoing IT outage is threatening to push the clinic and other providers into bankruptcy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Linked APT28 Targets Victims Worldwide for Intelligence Gathering<a href="https://www.darkreading.com/threat-intelligence/russian-intelligence-targets-victims-worldwide-in-rapid-fire-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fancy Bear has utilized at least 11 unique lures in campaigns targeting organizations in Argentina, Ukraine, Georgia, Belarus, Kazakhstan, Poland, Armenia, Azerbaijan, and the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infosec Teams Must be Allowed to Fail, Argues Gartner<a href="https://www.theregister.com/2024/03/18/gartner_infosec_failure_advice/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero tolerance of failure by infosec professionals is unrealistic, and makes it harder for cybersecurity folk to do the essential part of their job: recovering fast from inevitable attacks, according to Gartner analysts Chris Mixter and Dennis Xu.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pokémon Resets Some Users’ Passwords After Hacking Attempts<a href="https://techcrunch.com/2024/03/19/pokemon-resets-some-users-passwords-after-hacking-attempts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“The account system was not compromised. What we did experience and catch was an attempt to log in to some accounts. To protect our customers we have reset some passwords which prompted the message,” said Daniel Benkwitt, a company spokesperson said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50,000 Vulnerabilities Discovered in DoD Systems Through Bug Bounty<a href="https://www.infosecurity-magazine.com/news/50000-vulnerabilities-discovered/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DoD Cyber Crime Center (DC3) reported on March 15, 2024, that it processed its 50,000th vulnerability since introducing its crowd-sourced ethical hacking scheme in November 2016.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 16, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2024
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research Shows IT and Construction Sectors Hardest Hit By Ransomware<a href="https://www.infosecurity-magazine.com/news/it-construction-sectors-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has shed light on the profound impact of ransomware attacks on the IT and construction sectors, revealing that these industries bore the brunt of nearly half of all incidents in 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Companies Describe Cyber Incidents in SEC Filings<a href="https://www.cybersecuritydive.com/news/sec-filing-cyber-incident-descriptions/710678/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the language businesses use in Item 1.05 filings are ultimately crafted to notify regulators and investors of potential risks, these words also signal how a company detects, mitigates, contains, and recovers from cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lynis: Open-Source Security Auditing Tool<a href="https://www.helpnetsecurity.com/2024/03/19/lynis-open-source-security-auditing-tool/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lynis is a comprehensive open-source security auditing tool for UNIX-based systems, including Linux, macOS, and BSD. Its main objective is to evaluate security measures and recommend enhancing system hardening.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Announces Deprecation of 1024-Bit RSA Keys in Windows<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-deprecation-of-1024-bit-rsa-keys-in-windows/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+1024-bit RSA keys have approximately 80 bits of strength, while the 2048-bit key has approximately 112 bits, making the latter four billion times longer to factor. Experts in the field consider 2048-bit keys safe until at least 2030.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-Linked Group Levels Multistage Cyberattack on South Korea<a href="https://www.darkreading.com/vulnerabilities-threats/north-korea-linked-group-level-multistage-cyberattack-on-south-korea?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked threat group Kimsuky has adopted a longer, eight-stage attack chain that abuses legitimate cloud services and employs evasive malware to conduct cyber espionage and financial crimes against South Korean entities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cash-Strapped Women's Clinic Sues UnitedHealth Over Attack<a href="https://www.bankinfosecurity.com/cash-strapped-womens-clinic-sues-unitedhealth-over-attack-a-24628?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lawsuit alleges that disruption in claims processing caused by the cyberattack on the company's Change Healthcare unit and ongoing IT outage is threatening to push the clinic and other providers into bankruptcy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia-Linked APT28 Targets Victims Worldwide for Intelligence Gathering<a href="https://www.darkreading.com/threat-intelligence/russian-intelligence-targets-victims-worldwide-in-rapid-fire-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fancy Bear has utilized at least 11 unique lures in campaigns targeting organizations in Argentina, Ukraine, Georgia, Belarus, Kazakhstan, Poland, Armenia, Azerbaijan, and the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infosec Teams Must be Allowed to Fail, Argues Gartner<a href="https://www.theregister.com/2024/03/18/gartner_infosec_failure_advice/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero tolerance of failure by infosec professionals is unrealistic, and makes it harder for cybersecurity folk to do the essential part of their job: recovering fast from inevitable attacks, according to Gartner analysts Chris Mixter and Dennis Xu.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pokémon Resets Some Users’ Passwords After Hacking Attempts<a href="https://techcrunch.com/2024/03/19/pokemon-resets-some-users-passwords-after-hacking-attempts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“The account system was not compromised. What we did experience and catch was an attempt to log in to some accounts. To protect our customers we have reset some passwords which prompted the message,” said Daniel Benkwitt, a company spokesperson said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+50,000 Vulnerabilities Discovered in DoD Systems Through Bug Bounty<a href="https://www.infosecurity-magazine.com/news/50000-vulnerabilities-discovered/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DoD Cyber Crime Center (DC3) reported on March 15, 2024, that it processed its 50,000th vulnerability since introducing its crowd-sourced ethical hacking scheme in November 2016.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 16, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lazarus Group Hackers Appear to Return to Tornado Cash for Money Laundering<a href="https://therecord.media/lazarus-group-north-korea-tornado-cash-money-laundering?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Lazarus Group Hackers Appear to Return to Tornado Cash for Money Laundering<a hr
 North Korea’s Lazarus hacking group has reportedly used the Tornado Cash mixing service to launder $23 million stolen during a November 2023 cyberattack on the HTX cryptocurrency exchange.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2024
+March 16, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: IMF Says February Cyberattack Involved Compromise of 11 Email Accounts<a href="https://therecord.media/imf-february-cyberattack-email-accounts-compromised?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Update: IMF Says February Cyberattack Involved Compromise of 11 Email Accounts<a
 The breach was discovered on February 16, 2024, and after an investigation conducted with the help of cybersecurity experts, the nature of the breach was determined, and remediation actions were taken.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2024
+March 16, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pennsylvania’s Scranton School District Dealing with Ransomware Attack<a href="https://therecord.media/pennsylvania-scranton-school-district-ransomware-attack?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Pennsylvania’s Scranton School District Dealing with Ransomware Attack<a href=
 As a result of the attack, some computer systems and services are temporarily disrupted, causing files to be inaccessible and certain functions to operate slower than usual.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2024
+March 16, 2024 -- [Malware](/docs/issues/malware/malware/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inside the Rabbit Hole: BunnyLoader 3.0 Unveiled<a href="https://unit42.paloaltonetworks.com/analysis-of-bunnyloader-malware/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Inside the Rabbit Hole: BunnyLoader 3.0 Unveiled<a href="https://unit42.paloalto
 The new BunnyLoader variant comes with a Command and Control (C2) update, modularization of the binary, and various modules such as keylogger, stealer, clipper, and DoS functions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2024
+March 16, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Encina Wastewater Authority Allegedly Becomes Latest Victim of BlackByte Ransomware<a href="https://thecyberexpress.com/encina-wastewater-authority-cyberattack/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Encina Wastewater Authority Allegedly Becomes Latest Victim of BlackByte Ransomw
 As of now, the situation regarding the alleged cyberattack on Encina Wastewater Authority remains unconfirmed, and the organization has not issued an official statement or response regarding the claims made by the threat actor.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 16, 2024
+March 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability Remains Unpatched in Two Permanently Closed MiniOrange WordPress Plugins<a href="https://www.wordfence.com/blog/2024/03/critical-vulnerability-remains-unpatched-in-two-permanently-closed-miniorange-wordpress-plugins-1250-bounty-awarded/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Critical Vulnerability Remains Unpatched in Two Permanently Closed MiniOrange Wo
 Thousands of WordPress websites are at risk due to critical vulnerabilities in two discontinued MiniOrange plugins, allowing attackers to escalate privileges and compromise sites.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Word Fence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2024
+March 15, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors are Turning to Novel Malware as Malicious Attacks Rise<a href="https://www.cybersecuritydive.com/news/threat-actors-novel-malware-attacks/710308/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Threat Actors are Turning to Novel Malware as Malicious Attacks Rise<a href="htt
 A new report by BlackBerry revealed that 62% of industry-related cyberattacks from September to December 2023 were directed at critical infrastructure providers. The use of novel malware saw a 27% increase.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2024
+March 15, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MobSF: Open-Source Security Research Platform for Mobile Apps<a href="https://www.helpnetsecurity.com/2024/03/14/mobsf-open-source-mobile-security-framework/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ MobSF: Open-Source Security Research Platform for Mobile Apps<a href="https://ww
 The Mobile Security Framework (MobSF) offers both static analysis for mobile app binaries and dynamic analysis for Android and iOS applications, streamlining security assessments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2024
+March 15, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Change Healthcare Locates Ransomware Attack Vector<a href="https://www.cybersecuritydive.com/news/change-ransomware-attack-vector/710319/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Change Healthcare Locates Ransomware Attack Vector<a href="https://www.cybersecu
 UnitedHealth Group reportedly identified the source of the cyberattack on its subsidiary, Change Healthcare. The company has conducted a forensic analysis and established a safe restore point to move forward with the restoration of data and systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 15, 2024
+March 15, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scottish Health Service Says ‘Focused and Ongoing Cyber Attack’ May Disrupt Services<a href="https://therecord.media/scottish-nhs-cyberattack-healthcare-dumfries-galloway?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Scottish Health Service Says ‘Focused and Ongoing Cyber Attack’ May Disrupt 
 In response to the cyberattack, Neil Gray, the Scottish health secretary, confirmed that established procedures are being followed to address the situation, and support is being provided to NHS Dumfries and Galloway.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -428,7 +588,7 @@ Tweaks Stealer Targets Roblox Users Through YouTube and Discord<a href="https://
 The attackers leverage YouTube by enticing users to watch videos on "How to increase FPS" that contain links to their Discord groups. Once they join, the attackers provide them with links to malicious files disguised as game tweaks and modifications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -444,7 +604,7 @@ Spanish High Court Upholds Temporary Worldcoin Ban<a href="https://www.bankinfos
 The Spanish High Court upheld a three-month ban on Worldcoin, a digital identity and cryptocurrency platform, due to privacy concerns raised by the country's data regulator.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -460,7 +620,7 @@ FakeBat Delivered via Several Active Malvertising Campaigns<a href="https://www.
 The malvertising campaigns employed a new redirection chain, abusing legitimate websites to evade detection, with several campaigns impersonating brands such as OneNote, Epic Games, and the Braavos smart wallet application.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -476,7 +636,7 @@ Nozomi Networks Raises $100 Million to Help Secure Critical Infrastructure<a hre
 The investment, which includes contributions from Mitsubishi Electric and Schneider Electric, underscores the growing need for OEM-agnostic security solutions in the face of escalating attacks on critical infrastructure worldwide.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
