@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-Linked Group Levels Multistage Cyberattack on South Korea<a href="https://www.darkreading.com/vulnerabilities-threats/north-korea-linked-group-level-multistage-cyberattack-on-south-korea?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korea-linked threat group Kimsuky has adopted a longer, eight-stage attack chain that abuses legitimate cloud services and employs evasive malware to conduct cyber espionage and financial crimes against South Korean entities.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pokémon Resets Some Users’ Passwords After Hacking Attempts<a href="https://techcrunch.com/2024/03/19/pokemon-resets-some-users-passwords-after-hacking-attempts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“The account system was not compromised. What we did experience and catch was an attempt to log in to some accounts. To protect our customers we have reset some passwords which prompted the message,” said Daniel Benkwitt, a company spokesperson said.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

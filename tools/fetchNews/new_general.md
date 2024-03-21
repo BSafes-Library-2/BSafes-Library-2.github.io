@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+March 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research Shows IT and Construction Sectors Hardest Hit By Ransomware<a href="https://www.infosecurity-magazine.com/news/it-construction-sectors-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has shed light on the profound impact of ransomware attacks on the IT and construction sectors, revealing that these industries bore the brunt of nearly half of all incidents in 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Companies Describe Cyber Incidents in SEC Filings<a href="https://www.cybersecuritydive.com/news/sec-filing-cyber-incident-descriptions/710678/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the language businesses use in Item 1.05 filings are ultimately crafted to notify regulators and investors of potential risks, these words also signal how a company detects, mitigates, contains, and recovers from cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infosec Teams Must be Allowed to Fail, Argues Gartner<a href="https://www.theregister.com/2024/03/18/gartner_infosec_failure_advice/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zero tolerance of failure by infosec professionals is unrealistic, and makes it harder for cybersecurity folk to do the essential part of their job: recovering fast from inevitable attacks, according to Gartner analysts Chris Mixter and Dennis Xu.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cash-Strapped Women's Clinic Sues UnitedHealth Over Attack<a href="https://www.bankinfosecurity.com/cash-strapped-womens-clinic-sues-unitedhealth-over-attack-a-24628?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lawsuit alleges that disruption in claims processing caused by the cyberattack on the company's Change Healthcare unit and ongoing IT outage is threatening to push the clinic and other providers into bankruptcy.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

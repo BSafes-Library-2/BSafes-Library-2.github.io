@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+March 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lynis: Open-Source Security Auditing Tool<a href="https://www.helpnetsecurity.com/2024/03/19/lynis-open-source-security-auditing-tool/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lynis is a comprehensive open-source security auditing tool for UNIX-based systems, including Linux, macOS, and BSD. Its main objective is to evaluate security measures and recommend enhancing system hardening.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
