@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+International Freight Tech Firm Isolates Canada Operations After Cyberattack<a href="https://therecord.media/radiant-logistics-cyberattack-canada-operations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In documents filed with U.S. regulators, the company explained that on March 14 it detected “the initial stages of a cybersecurity incident related to its Canadian operations.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India's Android Users Hit by Malware-as-a-Service Campaign<a href="https://www.darkreading.com/cyberattacks-data-breaches/hackers-target-android-users-in-india-through-maas-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Broadcom, the campaign distributes malicious APK packages and seeks out banking information, SMS messages, and other sensitive information from a victim's device.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Obituary Sites Send Grievers to Adult Sites and Scareware Pages<a href="https://www.infosecurity-magazine.com/news/fake-obituary-sites-grievers-porn/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have warned of a slew of fake obituaries designed to make money for their creators by redirecting visitors to adult entertainment sites and initiating antivirus (AV) popups.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sign1 Malware: Analysis, Campaign History & Indicators of Compromise<a href="https://blog.sucuri.net/2024/03/sign1-malware-analysis-campaign-history-indicators-of-compromise.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware injects JavaScript to perform unwanted redirects by using sophisticated obfuscation techniques, including time-based randomization and XOR encoding, to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+Securi
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tax Hackers Blitz Small Business With Phishing Emails<a href="https://www.darkreading.com/threat-intelligence/tax-cons-targeting-small-business-with-phishing-emails?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Worryingly, the social engineering scammers are likely operating with little more than a cheap email list of self-employed US residents, according to the latest advisory from Malwarebytes Labs.
+</details>
+<div style="text-align: right" markdown="1">
+Threat Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Curious Serpens’ FalseFont Backdoor: Technical Analysis, Detection and Prevention<a href="https://unit42.paloaltonetworks.com/curious-serpens-falsefont-backdoor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Curious Serpens has been active since at least 2013. This threat actor is associated with espionage and has targeted organizations in the Middle East, the United States, and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New Tax Returns Phishing Scams Targeting You<a href="https://www.hackread.com/microsoft-tax-returns-phishing-malware-alert/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These attachments, as per Microsoft Threat Intelligence’s blog post, contain malware that steals your login credentials, or they might redirect you to a fake website that looks like a legitimate tax platform designed to capture your information.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in Atlassian Bamboo Data Center and Server Must Be Fixed Immediately<a href="https://securityaffairs.com/160838/security/atlassian-fixed-critical-flaw-cve-2024-1597.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability allows unauthenticated attackers to expose assets in the environment, with a high impact on confidentiality, integrity, and availability, without requiring user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Loop DoS’ Attack May Impact up to 300,000 Online Systems<a href="https://www.bleepingcomputer.com/news/security/new-loop-dos-attack-may-impact-up-to-300-000-online-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Devised by researchers at the CISPA Helmholtz-Center for Information Security, the attack uses the User Datagram Protocol (UDP) and impacts an estimated 300,000 host and their networks.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Most Prevalent Malware Behaviors and Techniques<a href="https://www.helpnetsecurity.com/2024/03/20/malware-behaviors-techniques/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of 100,000+ Windows malware samples has revealed the most prevalent techniques used by malware developers to successfully evade defenses, escalate privileges, execute the malware, and assure its persistence.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 20, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -732,7 +892,7 @@ Experts Released PoC Exploit for Critical Progress Software OpenEdge Bug<a href=
 Researchers from Horizon3.ai have disclosed technical details and a proof-of-concept exploit for a critical security flaw (CVE-2024-1403) in Progress Software OpenEdge Authentication Gateway and AdminServer.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affair
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -748,7 +908,7 @@ Report: Victims Lose $47 Million to Crypto Phishing Scams in February<a href="ht
 Impersonated accounts on X, formerly known as Twitter, have been responsible for a majority of crypto phishing attacks in the previous month. Per Scam Sniffer, victims lost almost $47 million to cybercriminals who stole from over 57,000 individuals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -764,7 +924,7 @@ Muddled Libra Threat Group Abuses Pentesting Tools to Infiltrate Networks<a href
 Muddled Libra threat actors leverage pentesting tools to identify vulnerabilities in target systems and networks, enabling them to exploit security gaps and gain unauthorized access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GBHackers
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -780,7 +940,7 @@ Tax-Related Scams Escalate as Filing Deadline Approaches<a href="https://www.hel
 Scammers are taking advantage of the rush to file personal federal income tax returns, using tactics such as impersonation, phone calls, tax identity theft, phishing scams, and unethical tax return preparers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -796,7 +956,7 @@ Incognito Darknet Market Mass-Extorts Buyers, Sellers<a href="https://krebsonsec
 The darknet narcotics market Incognito Market is extorting its vendors and buyers by threatening to publish their cryptocurrency transaction and chat records if they refuse to pay a fee.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Krebson Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -812,7 +972,7 @@ Report: Three-Quarters of Cyber Incident Victims are Small Businesses<a href="ht
 Over 90% of cyber-attacks on small and medium businesses involve data or credential theft, with a notable increase in information-stealing malware targeting macOS, according to Sophos.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magzaine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

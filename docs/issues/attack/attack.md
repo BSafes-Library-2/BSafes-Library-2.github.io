@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+March 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+International Freight Tech Firm Isolates Canada Operations After Cyberattack<a href="https://therecord.media/radiant-logistics-cyberattack-canada-operations?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In documents filed with U.S. regulators, the company explained that on March 14 it detected “the initial stages of a cybersecurity incident related to its Canadian operations.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India's Android Users Hit by Malware-as-a-Service Campaign<a href="https://www.darkreading.com/cyberattacks-data-breaches/hackers-target-android-users-in-india-through-maas-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Broadcom, the campaign distributes malicious APK packages and seeks out banking information, SMS messages, and other sensitive information from a victim's device.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Loop DoS’ Attack May Impact up to 300,000 Online Systems<a href="https://www.bleepingcomputer.com/news/security/new-loop-dos-attack-may-impact-up-to-300-000-online-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Devised by researchers at the CISPA Helmholtz-Center for Information Security, the attack uses the User Datagram Protocol (UDP) and impacts an estimated 300,000 host and their networks.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

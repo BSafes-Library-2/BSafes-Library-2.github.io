@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+March 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Announces Deprecation of 1024-Bit RSA Keys in Windows<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-deprecation-of-1024-bit-rsa-keys-in-windows/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+1024-bit RSA keys have approximately 80 bits of strength, while the 2048-bit key has approximately 112 bits, making the latter four billion times longer to factor. Experts in the field consider 2048-bit keys safe until at least 2030.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
