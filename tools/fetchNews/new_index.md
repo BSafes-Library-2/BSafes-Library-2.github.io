@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2024
+March 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+International Freight Tech Firm Isolates Canada Operations After Cyberattack<a href="https://therecord.media/radiant-logistics-cyberattack-canada-operations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In documents filed with U.S. regulators, the company explained that on March 14 it detected “the initial stages of a cybersecurity incident related to its Canadian operations.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India's Android Users Hit by Malware-as-a-Service Campaign<a href="https://www.darkreading.com/cyberattacks-data-breaches/hackers-target-android-users-in-india-through-maas-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Broadcom, the campaign distributes malicious APK packages and seeks out banking information, SMS messages, and other sensitive information from a victim's device.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Obituary Sites Send Grievers to Adult Sites and Scareware Pages<a href="https://www.infosecurity-magazine.com/news/fake-obituary-sites-grievers-porn/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have warned of a slew of fake obituaries designed to make money for their creators by redirecting visitors to adult entertainment sites and initiating antivirus (AV) popups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sign1 Malware: Analysis, Campaign History & Indicators of Compromise<a href="https://blog.sucuri.net/2024/03/sign1-malware-analysis-campaign-history-indicators-of-compromise.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware injects JavaScript to perform unwanted redirects by using sophisticated obfuscation techniques, including time-based randomization and XOR encoding, to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tax Hackers Blitz Small Business With Phishing Emails<a href="https://www.darkreading.com/threat-intelligence/tax-cons-targeting-small-business-with-phishing-emails?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Worryingly, the social engineering scammers are likely operating with little more than a cheap email list of self-employed US residents, according to the latest advisory from Malwarebytes Labs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Curious Serpens’ FalseFont Backdoor: Technical Analysis, Detection and Prevention<a href="https://unit42.paloaltonetworks.com/curious-serpens-falsefont-backdoor/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Curious Serpens has been active since at least 2013. This threat actor is associated with espionage and has targeted organizations in the Middle East, the United States, and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New Tax Returns Phishing Scams Targeting You<a href="https://www.hackread.com/microsoft-tax-returns-phishing-malware-alert/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These attachments, as per Microsoft Threat Intelligence’s blog post, contain malware that steals your login credentials, or they might redirect you to a fake website that looks like a legitimate tax platform designed to capture your information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in Atlassian Bamboo Data Center and Server Must Be Fixed Immediately<a href="https://securityaffairs.com/160838/security/atlassian-fixed-critical-flaw-cve-2024-1597.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability allows unauthenticated attackers to expose assets in the environment, with a high impact on confidentiality, integrity, and availability, without requiring user interaction.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Loop DoS’ Attack May Impact up to 300,000 Online Systems<a href="https://www.bleepingcomputer.com/news/security/new-loop-dos-attack-may-impact-up-to-300-000-online-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Devised by researchers at the CISPA Helmholtz-Center for Information Security, the attack uses the User Datagram Protocol (UDP) and impacts an estimated 300,000 host and their networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Most Prevalent Malware Behaviors and Techniques<a href="https://www.helpnetsecurity.com/2024/03/20/malware-behaviors-techniques/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis of 100,000+ Windows malware samples has revealed the most prevalent techniques used by malware developers to successfully evade defenses, escalate privileges, execute the malware, and assure its persistence.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 20, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Research Shows IT and Construction Sectors Hardest Hit By Ransomware<a href="https://www.infosecurity-magazine.com/news/it-construction-sectors-ransomware/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Research Shows IT and Construction Sectors Hardest Hit By Ransomware<a href="htt
 New research has shed light on the profound impact of ransomware attacks on the IT and construction sectors, revealing that these industries bore the brunt of nearly half of all incidents in 2023.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2024
+March 20, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Companies Describe Cyber Incidents in SEC Filings<a href="https://www.cybersecuritydive.com/news/sec-filing-cyber-incident-descriptions/710678/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ How Companies Describe Cyber Incidents in SEC Filings<a href="https://www.cybers
 While the language businesses use in Item 1.05 filings are ultimately crafted to notify regulators and investors of potential risks, these words also signal how a company detects, mitigates, contains, and recovers from cyberattacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2024
+March 20, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lynis: Open-Source Security Auditing Tool<a href="https://www.helpnetsecurity.com/2024/03/19/lynis-open-source-security-auditing-tool/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Lynis: Open-Source Security Auditing Tool<a href="https://www.helpnetsecurity.co
 Lynis is a comprehensive open-source security auditing tool for UNIX-based systems, including Linux, macOS, and BSD. Its main objective is to evaluate security measures and recommend enhancing system hardening.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2024
+March 20, 2024 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Announces Deprecation of 1024-Bit RSA Keys in Windows<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-deprecation-of-1024-bit-rsa-keys-in-windows/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Microsoft Announces Deprecation of 1024-Bit RSA Keys in Windows<a href="https://
 1024-bit RSA keys have approximately 80 bits of strength, while the 2048-bit key has approximately 112 bits, making the latter four billion times longer to factor. Experts in the field consider 2048-bit keys safe until at least 2030.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2024
+March 20, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-Linked Group Levels Multistage Cyberattack on South Korea<a href="https://www.darkreading.com/vulnerabilities-threats/north-korea-linked-group-level-multistage-cyberattack-on-south-korea?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ North Korea-Linked Group Levels Multistage Cyberattack on South Korea<a href="ht
 North Korea-linked threat group Kimsuky has adopted a longer, eight-stage attack chain that abuses legitimate cloud services and employs evasive malware to conduct cyber espionage and financial crimes against South Korean entities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2024
+March 20, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cash-Strapped Women's Clinic Sues UnitedHealth Over Attack<a href="https://www.bankinfosecurity.com/cash-strapped-womens-clinic-sues-unitedhealth-over-attack-a-24628?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Cash-Strapped Women's Clinic Sues UnitedHealth Over Attack<a href="https://www.b
 The lawsuit alleges that disruption in claims processing caused by the cyberattack on the company's Change Healthcare unit and ongoing IT outage is threatening to push the clinic and other providers into bankruptcy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2024
+March 20, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia-Linked APT28 Targets Victims Worldwide for Intelligence Gathering<a href="https://www.darkreading.com/threat-intelligence/russian-intelligence-targets-victims-worldwide-in-rapid-fire-cyberattacks?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Russia-Linked APT28 Targets Victims Worldwide for Intelligence Gathering<a href=
 Fancy Bear has utilized at least 11 unique lures in campaigns targeting organizations in Argentina, Ukraine, Georgia, Belarus, Kazakhstan, Poland, Armenia, Azerbaijan, and the United States.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2024
+March 20, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Infosec Teams Must be Allowed to Fail, Argues Gartner<a href="https://www.theregister.com/2024/03/18/gartner_infosec_failure_advice/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Infosec Teams Must be Allowed to Fail, Argues Gartner<a href="https://www.thereg
 Zero tolerance of failure by infosec professionals is unrealistic, and makes it harder for cybersecurity folk to do the essential part of their job: recovering fast from inevitable attacks, according to Gartner analysts Chris Mixter and Dennis Xu.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2024
+March 20, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pokémon Resets Some Users’ Passwords After Hacking Attempts<a href="https://techcrunch.com/2024/03/19/pokemon-resets-some-users-passwords-after-hacking-attempts/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Pokémon Resets Some Users’ Passwords After Hacking Attempts<a href="https://t
 “The account system was not compromised. What we did experience and catch was an attempt to log in to some accounts. To protect our customers we have reset some passwords which prompted the message,” said Daniel Benkwitt, a company spokesperson said.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 20, 2024
+March 20, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 50,000 Vulnerabilities Discovered in DoD Systems Through Bug Bounty<a href="https://www.infosecurity-magazine.com/news/50000-vulnerabilities-discovered/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ March 20, 2024
 The DoD Cyber Crime Center (DC3) reported on March 15, 2024, that it processed its 50,000th vulnerability since introducing its crowd-sourced ethical hacking scheme in November 2016.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -652,7 +812,7 @@ Tor’s New WebTunnel Bridges Mimic HTTPS Traffic to Evade Censorship<a href="ht
 While some countries have found ways to detect and block traditional Tor connections, the Tor Project has developed WebTunnel to make it harder for censors to block connections by blending the traffic with HTTPS-encrypted web traffic.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -668,7 +828,7 @@ Over 2.3 Million Records of Family Entertainment Business Exposed in Data Leak<a
 Cybersecurity Researcher, Jeremiah Fowler, discovered a non-password protected database containing over 2.3 million documents belonging to Kids Empire, a US operator of recreational centers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+VPN Mentor
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -684,7 +844,7 @@ New DoNex Ransomware Observed in the Wild Targeting Enterprises<a href="https://
 The DoNex ransomware strain is actively targeting companies in the United States and Europe, employing a double-extortion method to hold files and sensitive data hostage.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+TTB Antivirus
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -700,7 +860,7 @@ ODNI Appoints New Election Security Leader Ahead of Presidential Race<a href="ht
 The Office of the Director of National Intelligence (ODNI) has appointed Jessica Brandt as the director of the Foreign Malign Influence Center, which aims to combat foreign interference in U.S. elections.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -716,11 +876,11 @@ Steadybit's Chaos Engineering Platform Attracts $6M in Series A Funding<a href="
 By simulating disturbances and potential failures, Steadybit helps organizations preempt and mitigate system vulnerabilities, ultimately improving performance and user experience.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
-
+Tech EU
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
