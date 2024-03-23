@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+March 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Curious Serpens’ FalseFont Backdoor: Technical Analysis, Detection and Prevention<a href="https://unit42.paloaltonetworks.com/curious-serpens-falsefont-backdoor/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Curious Serpens has been active since at least 2013. This threat actor is associated with espionage and has targeted organizations in the Middle East, the United States, and Europe.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

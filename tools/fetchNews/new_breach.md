@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Details on TinyTurla’s Post-Compromise Activity Reveal Full Kill Chain<a href="https://blog.talosintelligence.com/tinyturla-full-kill-chain/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Talos’ analysis, in coordination with CERT.NGO, reveals that Turla infected multiple systems in the compromised network of a European non-governmental organization (NGO).
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

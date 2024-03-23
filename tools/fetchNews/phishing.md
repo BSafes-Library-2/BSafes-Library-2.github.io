@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Obituary Sites Send Grievers to Adult Sites and Scareware Pages<a href="https://www.infosecurity-magazine.com/news/fake-obituary-sites-grievers-porn/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have warned of a slew of fake obituaries designed to make money for their creators by redirecting visitors to adult entertainment sites and initiating antivirus (AV) popups.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tax Hackers Blitz Small Business With Phishing Emails<a href="https://www.darkreading.com/threat-intelligence/tax-cons-targeting-small-business-with-phishing-emails?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Worryingly, the social engineering scammers are likely operating with little more than a cheap email list of self-employed US residents, according to the latest advisory from Malwarebytes Labs.
+</details>
+<div style="text-align: right" markdown="1">
+Threat Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New Tax Returns Phishing Scams Targeting You<a href="https://www.hackread.com/microsoft-tax-returns-phishing-malware-alert/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These attachments, as per Microsoft Threat Intelligence’s blog post, contain malware that steals your login credentials, or they might redirect you to a fake website that looks like a legitimate tax platform designed to capture your information.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
