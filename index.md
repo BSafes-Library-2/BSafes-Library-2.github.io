@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google’s New AI Search Results Promotes Sites Pushing Malware, Scams<a href="https://www.bleepingcomputer.com/news/google/googles-new-ai-search-results-promotes-sites-pushing-malware-scams/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's new AI-powered 'Search Generative Experience' algorithms recommend scam sites that redirect visitors to unwanted Chrome extensions, fake iPhone giveaways, browser spam subscriptions, and tech support scams.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Steal Millions From FTX, BlockFi Claimants<a href="https://www.helpnetsecurity.com/2024/03/25/blockfi-ftx-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Customers of bankrupt crypto platform BlockFi have been targeted with a very convincing phishing email impersonating the platform, asking them to connect their wallet to complete the withdrawal of remaining funds.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandworm-Linked Group Likely Knocked Down Ukrainian Internet Providers<a href="https://therecord.media/ukraine-isps-attacks-solntsepek-sandworm-gru?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian state-backed hackers are likely behind recent attacks on four Ukrainian internet providers, disrupting their operations for over a week. A group known as Solntsepek claimed responsibility for the incidents on its Telegram channel last week.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UN Probing 58 Alleged Crypto Heists by North Korea Worth $3 Billion<a href="https://therecord.media/north-korea-cryptocurrency-hacks-un-experts?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a report released March 7, the U.N. experts said they tracked the activity of “cyberthreat actors subordinate to the Reconnaissance General Bureau (RGB), including Kimsuky, the Lazarus Group, Andariel and BlueNoroff,” between 2017 and 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Bust Multimillion-Dollar Holiday Fraud Gang<a href="https://www.infosecurity-magazine.com/news/police-bust-holiday-fraud-gang/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Police in Romania and Spain have struck a blow against a sophisticated cyber-fraud gang that tricked victims out of millions of dollars through fake ads and business email compromise (BEC) scams.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attack Discovered Using Fake Python Infrastructure<a href="https://checkmarx.com/blog/over-170k-users-affected-by-attack-using-fake-python-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The multi-stage and evasive malicious payload harvests passwords, credentials, and more dumps of valuable data from infected systems and exfiltrates them to the attacker’s infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Target German Political Parties With WineLoader Malware<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-target-german-political-parties-with-wineloader-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign has been active since late February and mainly uses phishing emails that appear to come from the German Christian Democratic Union, according to a report by Mandiant.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air Europa Customers Warned Their Data May Have Been Leaked<a href="https://sg.news.yahoo.com/air-europa-customers-warned-data-112102858.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The parent company IAG has reportedly sent out a breach notification email to affected individuals, telling them that their names, dates of birth, nationalities, ID cards, passport information, and phone numbers, have all been taken by the hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Groups Hit Enterprise Software, Network Infrastructure Hard in 2023<a href="https://www.cybersecuritydive.com/news/enterprise-software-network-infrastructure-exploits/711123/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+High-risk vulnerabilities in operating systems across major vendors such as Microsoft, Google, Apple, and Cisco, network infrastructure, including VPNs, and enterprise software, accounted for two-thirds of all active exploits in 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawsuit Filed Following Greensboro College Data Breach<a href="https://thecyberexpress.com/greensboro-college-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data exposed in the Greensboro College data leak encompassed a broad spectrum of personal details, including names, Social Security numbers, student identification numbers, dates of birth, passport numbers, and health information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 23, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
