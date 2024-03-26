@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attack Discovered Using Fake Python Infrastructure<a href="https://checkmarx.com/blog/over-170k-users-affected-by-attack-using-fake-python-infrastructure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The multi-stage and evasive malicious payload harvests passwords, credentials, and more dumps of valuable data from infected systems and exfiltrates them to the attacker’s infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Checkmarx
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Target German Political Parties With WineLoader Malware<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-target-german-political-parties-with-wineloader-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign has been active since late February and mainly uses phishing emails that appear to come from the German Christian Democratic Union, according to a report by Mandiant.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

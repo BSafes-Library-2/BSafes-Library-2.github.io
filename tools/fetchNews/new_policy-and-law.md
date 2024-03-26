@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+March 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lawsuit Filed Following Greensboro College Data Breach<a href="https://thecyberexpress.com/greensboro-college-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The data exposed in the Greensboro College data leak encompassed a broad spectrum of personal details, including names, Social Security numbers, student identification numbers, dates of birth, passport numbers, and health information.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Expresss
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

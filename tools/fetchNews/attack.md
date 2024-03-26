@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+March 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Illinois County Government, Local College Affected by Ransomware Attacks<a href="https://therecord.media/illinois-county-gov-college-hit-with-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Henry County has been dealing with a wide-ranging cyberattack since March 18, Mat Schnepple, director of the Emergency Management (OEM) office in Henry County, confirmed to Recorded Future News.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Email Bomb Attacks: Filling Up Inboxes and Servers Near You<a href="https://www.healthcareinfosecurity.com/email-bomb-attacks-filling-up-inboxes-servers-near-you-a-24661?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The HHS' Health Sector Cybersecurity Coordination Center in an alert warned that email bomb attacks - also known as letter bomb attacks - pose a considerable potential threat.
+</details>
+<div style="text-align: right" markdown="1">
+Healthcare Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Luxury Yacht Dealer Attack Claimed by Rhysida Gang<a href="https://www.theregister.com/2024/03/21/luxury_yacht_dealer_rhysida/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MarineMax, which posted multibillion-dollar revenues last year, disclosed a cyberattack to the Securities and Exchange Commission (SEC) on March 10, saying portions of its business were disrupted as a result of the containment measures it enacted.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

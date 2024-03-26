@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iranian TA450 Group Tries Out New Tactics on Israelis<a href="https://www.bankinfosecurity.com/iranian-ta450-group-tries-out-new-tactics-on-israelis-a-24697?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-aligned threat actor TA450 is using fake salary, compensation and financial incentive emails to trick Israeli employees at multi-national organizations into clicking malicious links, according to researchers at security firm Proofpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large-Scale StrelaStealer Campaign in Early 2024<a href="https://unit42.paloaltonetworks.com/strelastealer-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, Unit 42 researchers have identified a wave of large-scale StrelaStealer campaigns impacting over 100 organizations across the EU and U.S. These campaigns deliver spam emails with attachments that eventually launch the DLL payload.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

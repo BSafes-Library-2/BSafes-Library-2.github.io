@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+March 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UN Probing 58 Alleged Crypto Heists by North Korea Worth $3 Billion<a href="https://therecord.media/north-korea-cryptocurrency-hacks-un-experts?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a report released March 7, the U.N. experts said they tracked the activity of “cyberthreat actors subordinate to the Reconnaissance General Bureau (RGB), including Kimsuky, the Lazarus Group, Andariel and BlueNoroff,” between 2017 and 2023.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

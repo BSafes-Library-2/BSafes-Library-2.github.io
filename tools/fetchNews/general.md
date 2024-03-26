@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+March 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Malware Stands Out as the Fastest-Growing Threat of 2024<a href="https://www.helpnetsecurity.com/2024/03/21/security-threats-severity-and-volume-rise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+93% of IT professionals believe security threats are increasing in volume or severity, a significant rise from 47% last year, according to Thales. The number of enterprises experiencing ransomware attacks surged by over 27% in the past year.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
