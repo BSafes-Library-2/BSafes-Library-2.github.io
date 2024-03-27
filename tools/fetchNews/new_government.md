@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senator Demands Answers From HHS About $7.5 Million Cyber Theft in 2023<a href="https://therecord.media/hhs-reported-grant-payment-scam-sen-bill-cassidy-letter?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HHS has not issued a public statement about the incident, and its Office of the Inspector General declined to confirm or deny an investigation was underway when pressed about it in January.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

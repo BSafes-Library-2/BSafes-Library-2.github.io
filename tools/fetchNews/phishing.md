@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google’s New AI Search Results Promotes Sites Pushing Malware, Scams<a href="https://www.bleepingcomputer.com/news/google/googles-new-ai-search-results-promotes-sites-pushing-malware-scams/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's new AI-powered 'Search Generative Experience' algorithms recommend scam sites that redirect visitors to unwanted Chrome extensions, fake iPhone giveaways, browser spam subscriptions, and tech support scams.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Steal Millions From FTX, BlockFi Claimants<a href="https://www.helpnetsecurity.com/2024/03/25/blockfi-ftx-phishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Customers of bankrupt crypto platform BlockFi have been targeted with a very convincing phishing email impersonating the platform, asking them to connect their wallet to complete the withdrawal of remaining funds.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

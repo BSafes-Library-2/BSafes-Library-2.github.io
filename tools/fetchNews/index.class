@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agent Tesla's New Ride: The Rise of a Novel Loader<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/agent-teslas-new-ride-the-rise-of-a-novel-loader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, SpiderLabs identified a phishing email with an attached archive that included a Windows executable disguised as a fraudulent bank payment. This action initiated an infection chain culminating in the deployment of Agent Tesla.
+</details>
+<div style="text-align: right" markdown="1">
+Trustwave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agenda Ransomware Propagates to vCenters and ESXi via Custom PowerShell Script<a href="https://www.trendmicro.com/en_us/research/24/c/agenda-ransomware-propagates-to-vcenters-and-esxi-via-custom-pow.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Agenda ransomware group uses RMM tools, as well as Cobalt Strike for deployment of the ransomware binary. It can also propagate via PsExec and SecureShell, while also making use of different vulnerable SYS drivers for defense evasion.
+</details>
+<div style="text-align: right" markdown="1">
+
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Discount Retailer Giant Tiger Says Customer Data Was Compromised in Third-Party Breach<a href="https://www.cbc.ca/news/business/giant-tiger-customer-data-breach-1.7154572?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The retailer first learned of the security incident on March 4, and concluded that customer information was involved by March 15, the company wrote in an email to customers.
+</details>
+<div style="text-align: right" markdown="1">
+CBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Indicts Accused APT31 Chinese Hackers for Hire<a href="https://www.bankinfosecurity.com/us-indicts-accused-apt31-chinese-hackers-for-hire-a-24700?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. federal prosecutors indicted seven Chinese nationals they accuse of hacking for a Beijing economic and intelligence espionage group whose operations reacted to geopolitical trends.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand Government Discloses Cyberattacks by China-Linked APT40 on Two Parliamentary Agencies<a href="https://www.theregister.com/2024/03/26/new_zealand_china_attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Zealand's admission it's been on the receiving end came a day after the UK and United States detailed Chinese-supported attacks on government institutions – including the UK's Electoral Register.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Tycoon 2FA Phishing Kit Raises Cybersecurity Concerns<a href="https://www.infosecurity-magazine.com/news/new-tycoon-2fa-phishing-kit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis by Sekoia revealed that the kit has emerged as one of the most prevalent AiTM phishing kits, with over 1,100 domain names detected between October 2023 and February 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ZenHammer Memory Attack Impacts AMD CPUs Based on Zen Architecture<a href="https://www.bleepingcomputer.com/news/security/new-zenhammer-memory-attack-impacts-amd-zen-cpus/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academic researchers developed ZenHammer, the first variant of the Rowhammer DRAM attack that works on CPUs based on a recent AMD Zen microarchitecture that maps physical addresses on DDR4 and DDR5 memory chips.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hospitals Lobby Feds to Clarify Breach Duties in UHG Attack<a href="https://www.bankinfosecurity.com/hospitals-lobby-feds-to-clarify-breach-duties-in-uhg-attack-a-24704?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AHA is asking the Department of Health and Human Services' Office for Civil Rights for a "unified notification process" if a breach occurred in the February 21 cyberattack on UnitedHealth Group's Change Healthcare unit.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Privacy Watchdog Updates Guidance on Data Protection Fines<a href="https://www.bankinfosecurity.com/data-protection-fines-uk-privacy-watchdog-updates-guidance-a-24701?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After suffering a data breach, organizations in the United Kingdom that work closely and transparently with regulators and cybersecurity officials will be treated with greater leniency if their case results in penalties and a fine.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senator Demands Answers From HHS About $7.5 Million Cyber Theft in 2023<a href="https://therecord.media/hhs-reported-grant-payment-scam-sen-bill-cassidy-letter?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HHS has not issued a public statement about the incident, and its Office of the Inspector General declined to confirm or deny an investigation was underway when pressed about it in January.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 25, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -1436,7 +1596,7 @@ How New and Old Security Threats Keep Persisting<a href="https://www.helpnetsecu
 New research by Cymulate highlights the correlation between threat exposures, vulnerabilities, misconfigurations, and security controls. It emphasizes the importance of proactive security measures to prevent cyberattacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1452,7 +1612,7 @@ CISA Forced to Take Two Systems Offline Last Month After Ivanti Compromise<a hre
 The breach was limited to two systems, the Infrastructure Protection (IP) Gateway and the Chemical Security Assessment Tool (CSAT), which house critical information about U.S. infrastructure interdependency and private sector chemical security plans.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1468,7 +1628,7 @@ Bills Targeting Data Brokers and TikTok Approved in House Committee<a href="http
 The House Energy and Commerce Committee approved two significant data privacy bills, including one targeting TikTok's Chinese ownership and another blocking data brokers from selling Americans' data to foreign adversaries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1484,7 +1644,7 @@ Canva Warns of Three Security Vulnerabilities in Fonts<a href="https://www.there
 The first, CVE-2023-45139, involved a high-severity bug in the FontTools library. The second and third vulnerabilities, CVE-2024-25081 and CVE-2024-25082, were related to naming conventions and compression.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1500,7 +1660,7 @@ Tycoon and Storm-1575 Linked to Phishing Attacks on US Schools<a href="https://w
 The Tycoon and Storm-1575 threat groups use stealthy tactics, social engineering, and phishing techniques to bypass MFA protections and target Microsoft 365 credentials at large US school districts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1516,7 +1676,7 @@ Flaws in Public Records Management Tool Could Let Hackers Nab Sensitive Data Lin
 The GovQA platform, used by state and local governments for public records requests, had vulnerabilities that could have allowed hackers to access sensitive personal information, edit requests, and download unsecured files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Nextgov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1532,7 +1692,7 @@ New Malware Campaign Found Exploiting Stored XSS in Popup Builder<a href="https:
 A new malware campaign was found targeting the Popup Builder WordPress plugin, exploiting a vulnerability disclosed in November 2023. The campaign injects malicious code into websites, leading to over 3,300 infections.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1548,7 +1708,7 @@ CISA Adds Apple iOS and iPadOS Memory Corruption Bugs to its Known Exploited Vul
 These memory corruption vulnerabilities, tracked as CVE-2024-23225 and CVE-2024-23296, were exploited in attacks against iPhone devices. Apple released emergency security updates to address these zero-day vulnerabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1564,7 +1724,7 @@ Law Enforcement Personnel Say LexisNexis Retaliated When Asked to Remove Data<a 
 More than 18,000 New Jersey law enforcement personnel are alleging that LexisNexis retaliated against them by freezing their credit and falsely reporting them as identity theft victims after they requested their information to remain private.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1580,7 +1740,7 @@ Today’s Biggest AI Security Challenges<a href="https://www.helpnetsecurity.com
 Adversaries can exploit AI-powered applications to manipulate information, create harmful content, and develop deep fake media, posing significant risks to organizations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1596,7 +1756,7 @@ Report: 78% of MSPs Identify Cybersecurity as Prime IT Challenge<a href="https:/
 Investment in the right technology and IT partners has led to fewer SMBs experiencing cyberattacks, with 64% of MSPs reporting less than 10% of their SMB customers being hit, according to Kaseya.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1612,7 +1772,7 @@ Russian Influence Operations Against Baltic States and Poland Having ‘Signific
 These campaigns aim to downplay the impact of Western sanctions on Russia's economy, fuel confrontation among Western countries, and spread fear and panic among the targeted populations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1628,7 +1788,7 @@ Google Releases Android March 2024 Patches, Including Fixes for Two Critical Iss
 Google has released the Android March 2024 security patches, addressing a total of 38 vulnerabilities, including two critical issues. These vulnerabilities could lead to remote code execution and elevation of privilege for attackers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Beyond Machines
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1644,7 +1804,7 @@ Tazama: Open-Source Real-Time Fraud Management<a href="https://www.helpnetsecuri
 Tazama is an open-source platform that offers scalable and cost-effective solutions for fraud management in digital payment systems, aiming to democratize access to advanced financial monitoring tools.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1660,7 +1820,7 @@ New Python-Based Snake Info-Stealer Spreads Through Facebook Messages<a href="ht
 The Snake malware campaign has been active since at least August 2023 and is attributed to Vietnamese-speaking individuals based on indicators such as targeted browsers and comments in the scripts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1676,7 +1836,7 @@ National Intelligence Agency of Moldova Warns of Russia Attacks Ahead of the Pre
 The Russian cyber operations are expected to manipulate public sentiment, interfere with the referendum to join the EU, and discredit pro-European candidates during the presidential elections.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agent Tesla's New Ride: The Rise of a Novel Loader<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/agent-teslas-new-ride-the-rise-of-a-novel-loader/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, SpiderLabs identified a phishing email with an attached archive that included a Windows executable disguised as a fraudulent bank payment. This action initiated an infection chain culminating in the deployment of Agent Tesla.
+</details>
+<div style="text-align: right" markdown="1">
+Trustwave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Tycoon 2FA Phishing Kit Raises Cybersecurity Concerns<a href="https://www.infosecurity-magazine.com/news/new-tycoon-2fa-phishing-kit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis by Sekoia revealed that the kit has emerged as one of the most prevalent AiTM phishing kits, with over 1,100 domain names detected between October 2023 and February 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

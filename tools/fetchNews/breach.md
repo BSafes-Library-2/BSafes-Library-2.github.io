@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Air Europa Customers Warned Their Data May Have Been Leaked<a href="https://sg.news.yahoo.com/air-europa-customers-warned-data-112102858.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The parent company IAG has reportedly sent out a breach notification email to affected individuals, telling them that their names, dates of birth, nationalities, ID cards, passport information, and phone numbers, have all been taken by the hackers.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

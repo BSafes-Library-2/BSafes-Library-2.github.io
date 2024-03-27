@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand Government Discloses Cyberattacks by China-Linked APT40 on Two Parliamentary Agencies<a href="https://www.theregister.com/2024/03/26/new_zealand_china_attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Zealand's admission it's been on the receiving end came a day after the UK and United States detailed Chinese-supported attacks on government institutions – including the UK's Electoral Register.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

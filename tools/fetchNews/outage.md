@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+March 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sandworm-Linked Group Likely Knocked Down Ukrainian Internet Providers<a href="https://therecord.media/ukraine-isps-attacks-solntsepek-sandworm-gru?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian state-backed hackers are likely behind recent attacks on four Ukrainian internet providers, disrupting their operations for over a week. A group known as Solntsepek claimed responsibility for the incidents on its Telegram channel last week.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

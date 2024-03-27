@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+March 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Privacy Watchdog Updates Guidance on Data Protection Fines<a href="https://www.bankinfosecurity.com/data-protection-fines-uk-privacy-watchdog-updates-guidance-a-24701?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After suffering a data breach, organizations in the United Kingdom that work closely and transparently with regulators and cybersecurity officials will be treated with greater leniency if their case results in penalties and a fine.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+March 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Discount Retailer Giant Tiger Says Customer Data Was Compromised in Third-Party Breach<a href="https://www.cbc.ca/news/business/giant-tiger-customer-data-breach-1.7154572?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The retailer first learned of the security incident on March 4, and concluded that customer information was involved by March 15, the company wrote in an email to customers.
+</details>
+<div style="text-align: right" markdown="1">
+CBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hospitals Lobby Feds to Clarify Breach Duties in UHG Attack<a href="https://www.bankinfosecurity.com/hospitals-lobby-feds-to-clarify-breach-duties-in-uhg-attack-a-24704?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AHA is asking the Department of Health and Human Services' Office for Civil Rights for a "unified notification process" if a breach occurred in the February 21 cyberattack on UnitedHealth Group's Change Healthcare unit.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
