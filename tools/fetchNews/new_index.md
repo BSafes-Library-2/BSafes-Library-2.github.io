@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2024
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agent Tesla's New Ride: The Rise of a Novel Loader<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/agent-teslas-new-ride-the-rise-of-a-novel-loader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, SpiderLabs identified a phishing email with an attached archive that included a Windows executable disguised as a fraudulent bank payment. This action initiated an infection chain culminating in the deployment of Agent Tesla.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agenda Ransomware Propagates to vCenters and ESXi via Custom PowerShell Script<a href="https://www.trendmicro.com/en_us/research/24/c/agenda-ransomware-propagates-to-vcenters-and-esxi-via-custom-pow.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Agenda ransomware group uses RMM tools, as well as Cobalt Strike for deployment of the ransomware binary. It can also propagate via PsExec and SecureShell, while also making use of different vulnerable SYS drivers for defense evasion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Discount Retailer Giant Tiger Says Customer Data Was Compromised in Third-Party Breach<a href="https://www.cbc.ca/news/business/giant-tiger-customer-data-breach-1.7154572?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The retailer first learned of the security incident on March 4, and concluded that customer information was involved by March 15, the company wrote in an email to customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Indicts Accused APT31 Chinese Hackers for Hire<a href="https://www.bankinfosecurity.com/us-indicts-accused-apt31-chinese-hackers-for-hire-a-24700?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. federal prosecutors indicted seven Chinese nationals they accuse of hacking for a Beijing economic and intelligence espionage group whose operations reacted to geopolitical trends.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand Government Discloses Cyberattacks by China-Linked APT40 on Two Parliamentary Agencies<a href="https://www.theregister.com/2024/03/26/new_zealand_china_attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Zealand's admission it's been on the receiving end came a day after the UK and United States detailed Chinese-supported attacks on government institutions – including the UK's Electoral Register.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Tycoon 2FA Phishing Kit Raises Cybersecurity Concerns<a href="https://www.infosecurity-magazine.com/news/new-tycoon-2fa-phishing-kit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis by Sekoia revealed that the kit has emerged as one of the most prevalent AiTM phishing kits, with over 1,100 domain names detected between October 2023 and February 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ZenHammer Memory Attack Impacts AMD CPUs Based on Zen Architecture<a href="https://www.bleepingcomputer.com/news/security/new-zenhammer-memory-attack-impacts-amd-zen-cpus/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academic researchers developed ZenHammer, the first variant of the Rowhammer DRAM attack that works on CPUs based on a recent AMD Zen microarchitecture that maps physical addresses on DDR4 and DDR5 memory chips.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hospitals Lobby Feds to Clarify Breach Duties in UHG Attack<a href="https://www.bankinfosecurity.com/hospitals-lobby-feds-to-clarify-breach-duties-in-uhg-attack-a-24704?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AHA is asking the Department of Health and Human Services' Office for Civil Rights for a "unified notification process" if a breach occurred in the February 21 cyberattack on UnitedHealth Group's Change Healthcare unit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Privacy Watchdog Updates Guidance on Data Protection Fines<a href="https://www.bankinfosecurity.com/data-protection-fines-uk-privacy-watchdog-updates-guidance-a-24701?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After suffering a data breach, organizations in the United Kingdom that work closely and transparently with regulators and cybersecurity officials will be treated with greater leniency if their case results in penalties and a fine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senator Demands Answers From HHS About $7.5 Million Cyber Theft in 2023<a href="https://therecord.media/hhs-reported-grant-payment-scam-sen-bill-cassidy-letter?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HHS has not issued a public statement about the incident, and its Office of the Inspector General declined to confirm or deny an investigation was underway when pressed about it in January.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 25, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google’s New AI Search Results Promotes Sites Pushing Malware, Scams<a href="https://www.bleepingcomputer.com/news/google/googles-new-ai-search-results-promotes-sites-pushing-malware-scams/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Google’s New AI Search Results Promotes Sites Pushing Malware, Scams<a href="h
 Google's new AI-powered 'Search Generative Experience' algorithms recommend scam sites that redirect visitors to unwanted Chrome extensions, fake iPhone giveaways, browser spam subscriptions, and tech support scams.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2024
+March 25, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Steal Millions From FTX, BlockFi Claimants<a href="https://www.helpnetsecurity.com/2024/03/25/blockfi-ftx-phishing/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Scammers Steal Millions From FTX, BlockFi Claimants<a href="https://www.helpnets
 Customers of bankrupt crypto platform BlockFi have been targeted with a very convincing phishing email impersonating the platform, asking them to connect their wallet to complete the withdrawal of remaining funds.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2024
+March 25, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sandworm-Linked Group Likely Knocked Down Ukrainian Internet Providers<a href="https://therecord.media/ukraine-isps-attacks-solntsepek-sandworm-gru?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Sandworm-Linked Group Likely Knocked Down Ukrainian Internet Providers<a href="h
 Russian state-backed hackers are likely behind recent attacks on four Ukrainian internet providers, disrupting their operations for over a week. A group known as Solntsepek claimed responsibility for the incidents on its Telegram channel last week.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2024
+March 25, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UN Probing 58 Alleged Crypto Heists by North Korea Worth $3 Billion<a href="https://therecord.media/north-korea-cryptocurrency-hacks-un-experts?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ UN Probing 58 Alleged Crypto Heists by North Korea Worth $3 Billion<a href="http
 In a report released March 7, the U.N. experts said they tracked the activity of “cyberthreat actors subordinate to the Reconnaissance General Bureau (RGB), including Kimsuky, the Lazarus Group, Andariel and BlueNoroff,” between 2017 and 2023.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2024
+March 25, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police Bust Multimillion-Dollar Holiday Fraud Gang<a href="https://www.infosecurity-magazine.com/news/police-bust-holiday-fraud-gang/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Police Bust Multimillion-Dollar Holiday Fraud Gang<a href="https://www.infosecur
 Police in Romania and Spain have struck a blow against a sophisticated cyber-fraud gang that tricked victims out of millions of dollars through fake ads and business email compromise (BEC) scams.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2024
+March 25, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supply Chain Attack Discovered Using Fake Python Infrastructure<a href="https://checkmarx.com/blog/over-170k-users-affected-by-attack-using-fake-python-infrastructure/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Supply Chain Attack Discovered Using Fake Python Infrastructure<a href="https://
 The multi-stage and evasive malicious payload harvests passwords, credentials, and more dumps of valuable data from infected systems and exfiltrates them to the attacker’s infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Checkmarx
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2024
+March 25, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Target German Political Parties With WineLoader Malware<a href="https://www.bleepingcomputer.com/news/security/russian-hackers-target-german-political-parties-with-wineloader-malware/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Russian Hackers Target German Political Parties With WineLoader Malware<a href="
 The campaign has been active since late February and mainly uses phishing emails that appear to come from the German Christian Democratic Union, according to a report by Mandiant.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2024
+March 25, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Air Europa Customers Warned Their Data May Have Been Leaked<a href="https://sg.news.yahoo.com/air-europa-customers-warned-data-112102858.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Air Europa Customers Warned Their Data May Have Been Leaked<a href="https://sg.n
 The parent company IAG has reportedly sent out a breach notification email to affected individuals, telling them that their names, dates of birth, nationalities, ID cards, passport information, and phone numbers, have all been taken by the hackers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Yahoo
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2024
+March 25, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Groups Hit Enterprise Software, Network Infrastructure Hard in 2023<a href="https://www.cybersecuritydive.com/news/enterprise-software-network-infrastructure-exploits/711123/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Threat Groups Hit Enterprise Software, Network Infrastructure Hard in 2023<a hre
 High-risk vulnerabilities in operating systems across major vendors such as Microsoft, Google, Apple, and Cisco, network infrastructure, including VPNs, and enterprise software, accounted for two-thirds of all active exploits in 2023.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 25, 2024
+March 25, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lawsuit Filed Following Greensboro College Data Breach<a href="https://thecyberexpress.com/greensboro-college-data-breach/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Lawsuit Filed Following Greensboro College Data Breach<a href="https://thecybere
 The data exposed in the Greensboro College data leak encompassed a broad spectrum of personal details, including names, Social Security numbers, student identification numbers, dates of birth, passport numbers, and health information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Expresss
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1340,7 +1500,7 @@ BianLian Group Exploits JetBrains TeamCity Bugs in Ransomware Attacks<a href="ht
 The BianLian ransomware group exploited vulnerabilities in JetBrains TeamCity software to gain initial access to target environments. The group attempted to execute a custom GO backdoor but switched to LotL and utilized a PowerShell backdoor instead.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1356,7 +1516,7 @@ Fake Leather Wallet App on Apple App Store is a Crypto Drainer<a href="https://w
 The developers of the Leather cryptocurrency wallet have issued a warning about a counterfeit app on the Apple App Store. This fake app has led to users reporting that it drains their wallets and steals their digital assets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1372,7 +1532,7 @@ Funding Round Secures $20M for Reach Security<a href="https://www.scmagazine.com
 The Series A funding was led by new investors Ballistic Ventures and Artisanal Ventures, as well as existing backers Webb Investment Network, Ridge Ventures, and TechOperators.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SC Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1388,7 +1548,7 @@ UK: Cyberattack Cripples Leicester City Council Systems Until ‘At Least Midwee
 While the nature of the cyberattack has not been disclosed, it is noted that this incident is part of a series of attacks on local authorities this year, with the latest affecting the council's ability to provide essential services.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Leicestershire
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1404,7 +1564,7 @@ Dozens of Data Brokers Disclose Selling Reproductive Healthcare Info, Precise Ge
 New information from the state of California reveals that many data brokers collect and sell sensitive information, including data related to reproductive health, geolocation, and minors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -1420,7 +1580,7 @@ Iran-Linked ‘Lord Nemesis’ Group Appears Intent on Intimidating Israeli Orga
 An Iranian state-backed hacking group, known as Lord Nemesis, targeted an Israeli academic administration software company called Rashim Software. The attackers used their access to infiltrate several of the company's clients.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agent Tesla's New Ride: The Rise of a Novel Loader<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/agent-teslas-new-ride-the-rise-of-a-novel-loader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, SpiderLabs identified a phishing email with an attached archive that included a Windows executable disguised as a fraudulent bank payment. This action initiated an infection chain culminating in the deployment of Agent Tesla.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agenda Ransomware Propagates to vCenters and ESXi via Custom PowerShell Script<a href="https://www.trendmicro.com/en_us/research/24/c/agenda-ransomware-propagates-to-vcenters-and-esxi-via-custom-pow.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Agenda ransomware group uses RMM tools, as well as Cobalt Strike for deployment of the ransomware binary. It can also propagate via PsExec and SecureShell, while also making use of different vulnerable SYS drivers for defense evasion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canadian Discount Retailer Giant Tiger Says Customer Data Was Compromised in Third-Party Breach<a href="https://www.cbc.ca/news/business/giant-tiger-customer-data-breach-1.7154572?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The retailer first learned of the security incident on March 4, and concluded that customer information was involved by March 15, the company wrote in an email to customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Indicts Accused APT31 Chinese Hackers for Hire<a href="https://www.bankinfosecurity.com/us-indicts-accused-apt31-chinese-hackers-for-hire-a-24700?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. federal prosecutors indicted seven Chinese nationals they accuse of hacking for a Beijing economic and intelligence espionage group whose operations reacted to geopolitical trends.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Zealand Government Discloses Cyberattacks by China-Linked APT40 on Two Parliamentary Agencies<a href="https://www.theregister.com/2024/03/26/new_zealand_china_attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New Zealand's admission it's been on the receiving end came a day after the UK and United States detailed Chinese-supported attacks on government institutions – including the UK's Electoral Register.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Tycoon 2FA Phishing Kit Raises Cybersecurity Concerns<a href="https://www.infosecurity-magazine.com/news/new-tycoon-2fa-phishing-kit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An analysis by Sekoia revealed that the kit has emerged as one of the most prevalent AiTM phishing kits, with over 1,100 domain names detected between October 2023 and February 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ZenHammer Memory Attack Impacts AMD CPUs Based on Zen Architecture<a href="https://www.bleepingcomputer.com/news/security/new-zenhammer-memory-attack-impacts-amd-zen-cpus/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Academic researchers developed ZenHammer, the first variant of the Rowhammer DRAM attack that works on CPUs based on a recent AMD Zen microarchitecture that maps physical addresses on DDR4 and DDR5 memory chips.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hospitals Lobby Feds to Clarify Breach Duties in UHG Attack<a href="https://www.bankinfosecurity.com/hospitals-lobby-feds-to-clarify-breach-duties-in-uhg-attack-a-24704?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The AHA is asking the Department of Health and Human Services' Office for Civil Rights for a "unified notification process" if a breach occurred in the February 21 cyberattack on UnitedHealth Group's Change Healthcare unit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Privacy Watchdog Updates Guidance on Data Protection Fines<a href="https://www.bankinfosecurity.com/data-protection-fines-uk-privacy-watchdog-updates-guidance-a-24701?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After suffering a data breach, organizations in the United Kingdom that work closely and transparently with regulators and cybersecurity officials will be treated with greater leniency if their case results in penalties and a fine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senator Demands Answers From HHS About $7.5 Million Cyber Theft in 2023<a href="https://therecord.media/hhs-reported-grant-payment-scam-sen-bill-cassidy-letter?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HHS has not issued a public statement about the incident, and its Office of the Inspector General declined to confirm or deny an investigation was underway when pressed about it in January.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 25, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
