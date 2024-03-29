@@ -8,6 +8,34 @@ nav_order: 900140
 
 ## Outage
 ---
+March 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnam Securities Broker Suffers Cyberattack That Resulted in Trading Suspension<a href="https://www.darkreading.com/cyberattacks-data-breaches/vietnam-securities-broker-suffered-cyberattack-that-suspended-trading?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a social media post, VNDirect described a four-stage process of restoration, starting with customer accounts, which is now complete, and followed by restoring floor trading and then its other financial services.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Municipalities in Texas, Georgia See Services Disrupted Following Ransomware Attacks<a href="https://therecord.media/texas-georgia-municipalities-face-disruptions-from-ransomware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+On Tuesday evening, the government of Gilmer County in Georgia posted a notice on its website warning that a ransomware attack was affecting its ability to provide services to its more than 30,000 residents.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

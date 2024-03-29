@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+March 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds One Known Exploited Vulnerability in Microsoft Sharepoint Server to Catalog<a href="https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-adds-one-known-exploited-vulnerability-catalog?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2023-24955 (CVSS score: 7.2), is a critical remote code execution flaw that allows an authenticated attacker with Site Owner privileges to execute arbitrary code.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: NCSC Warns of Hackers Hitting High-Risk Individuals' Personal Accounts<a href="https://www.bankinfosecurity.com/alert-hackers-hit-high-risk-individuals-personal-accounts-a-24708?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Britain's National Cyber Security Center is warning that criminals and nation-state hacking groups, confronted with well-managed corporate cybersecurity defenses, have turned their sights to individual personal devices and accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

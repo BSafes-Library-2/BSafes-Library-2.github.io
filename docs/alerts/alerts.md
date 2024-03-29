@@ -6,6 +6,18 @@ nav_order: 150
 ---
 
 ## Alerts
+March 26, 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds One Known Exploited Vulnerability to Catalog <a href="https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-adds-one-known-exploited-vulnerability-catalog?&web_view=true"> Full Text</a>
+</p>
+<details>
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+CVE-2023-24955 Microsoft SharePoint Server Code Injection Vulnerability
+</details>
+</div>
+
 March 9, 2024 - NSA, CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

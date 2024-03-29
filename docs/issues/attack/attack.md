@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+March 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: INC Ransom Claims Responsibility for Attack on NHS Scotland<a href="https://www.theregister.com/2024/03/28/nhs_scotland_cyberattack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The INC Ransom group this week claimed responsibility for the assault on 'NHS Scotland', saying it stole 3TB worth of data while leaking a small number of sensitive files.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

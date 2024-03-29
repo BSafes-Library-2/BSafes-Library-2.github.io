@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trezor’s Twitter Account Hijacked by Cryptocurrency Scammers via Bogus Calendly Invite<a href="https://www.bitdefender.com/blog/hotforsecurity/trezors-twitter-account-hijacked-by-cryptocurrency-scammers-via-bogus-calendly-invite/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Trezor, someone posing as "a credible entity from the crypto space", using a Twitter account with thousands of followers, approached its PR team on February 29, 2024. The imposter asked to interview Trezor CEO Matej Zak.
+</details>
+<div style="text-align: right" markdown="1">
+Bit Defender
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

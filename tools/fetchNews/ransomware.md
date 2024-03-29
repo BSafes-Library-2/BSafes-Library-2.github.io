@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+March 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Agenda Ransomware Propagates to vCenters and ESXi via Custom PowerShell Script<a href="https://www.trendmicro.com/en_us/research/24/c/agenda-ransomware-propagates-to-vcenters-and-esxi-via-custom-pow.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Agenda ransomware group uses RMM tools, as well as Cobalt Strike for deployment of the ransomware binary. It can also propagate via PsExec and SecureShell, while also making use of different vulnerable SYS drivers for defense evasion.
+</details>
+<div style="text-align: right" markdown="1">
+
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
