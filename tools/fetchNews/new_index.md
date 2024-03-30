@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2024
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coro, Building Cybersecurity for SMBs, Locks Down $100M at a $750M Valuation<a href="https://techcrunch.com/2024/03/28/coro-smb-security-series-d/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lead investor in this round is One Peak, the U.K. later-stage firm focusing on enterprise tech. Previous backers Energy Impact Partners and Balderton Capital are also participating.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Target Family Members to Surveil Hard Targets<a href="https://cyberscoop.com/china-hacking-family-members/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the indictment, between 2015 and 2024, the APT31 group, linked to China’s Ministry of State Security, targeted thousands of U.S. and Western politicians, foreign policy experts, academics, journalists, and democracy activists.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Warns of Password-Spraying Attacks Targeting Secure Firewall Devices<a href="https://securityaffairs.com/161205/hacking/cisco-warns-password-spraying-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company published a document containing recommendations against password spray attacks aimed at Remote Access VPN (RAVPN) services. The IT giant pointed out that the attacks are also targeting third-party VPN concentrators.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Suspends New User Registration to Block Malware Campaign<a href="https://www.bleepingcomputer.com/news/security/pypi-suspends-new-user-registration-to-block-malware-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With thousands of packages available, the repository is an attractive target for threat actors, who often upload typosquatted or fake packages to compromise software developers and potential supply-chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Harvard Pilgrim Health Network Updates Data Breach Total to Nearly 2.9 Million<a href="https://therecord.media/harvard-pilgrim-data-breach-notification-update?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Harvard Pilgrim said the files involved may contain personal data and protected health information on current and former subscribers and dependents, as well as current contracted providers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several ImageMagick Vulnerabilities Addressed in Ubuntu<a href="https://tuxcare.com/blog/several-imagemagick-vulnerabilities-addressed-in-ubuntu/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities addressed by the updates impact several Ubuntu releases, including Ubuntu  22.04 LTS, Ubuntu 20.04 LTS, Ubuntu 23.10, Ubuntu 23.04, Ubuntu 18.04, and Ubuntu 16.04.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large Trove of UK Student Records Leaked Due to School Software Server Misconfiguration<a href="https://www.hackread.com/uk-student-records-leak-school-software-server/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researcher Jeremiah Fowler, the server was affiliated with OTrack, also known as Optimum Pupil/Sonar Tracker, developed by Juniper Education. OTrack is utilized by over 7,000 primary and secondary schools across the United Kingdom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Increasingly Exploit Enterprise Tech Zero-Days<a href="https://www.theregister.com/2024/03/27/surge_in_enterprise_zero_days/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The discovery and exploitation of zero-day vulnerabilities in enterprise-specific software and appliances appears to be outpacing the leveraging of zero-day bugs overall, judging by Google's latest research.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Notice for Long-Awaited Critical Infrastructure Reporting Requirements<a href="https://www.cybersecuritydive.com/news/cisa-notice-critical-infrastructure/711506/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) posted the 447-page set of regulations under the Cyber Incident Reporting for Critical Infrastructure Act to the Federal Register, allowing the public to comment on it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Retail Chain Hot Topic Hit by New Credential Stuffing Attacks<a href="https://www.bleepingcomputer.com/news/security/retail-chain-hot-topic-hit-by-new-credential-stuffing-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Breach notification letters sent to potentially impacted customers this week reveal that attackers targeted Hot Topic Rewards accounts in automated attacks using login information obtained from an unknown source.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Developing Malicious LLMs After WormGPT Falls Flat<a href="https://www.healthcareinfosecurity.com/hackers-developing-malicious-llms-after-wormgpt-falls-flat-a-24724?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Hackers Developing Malicious LLMs After WormGPT Falls Flat<a href="https://www.h
 Cybercrooks are exploring ways to develop custom, malicious large language models after existing tools such as WormGPT failed to cater to their demands for advanced intrusion capabilities, security researchers said.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Healthcare Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2024
+March 28, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Darcula' Phishing-as-a-Service Operation Bleeds Victims Across 100 More Than Countries<a href="https://www.darkreading.com/endpoint-security/-darcula-phishing-as-a-service-operation-bleeds-victims-worldwide?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ March 28, 2024
 The Chinese-language, phishing-as-a-service platform "Darcula" has created 19,000 phishing domains in cyberattacks against more than 100 countries, Netcraft researchers say.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2024
+March 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: INC Ransom Claims Responsibility for Attack on NHS Scotland<a href="https://www.theregister.com/2024/03/28/nhs_scotland_cyberattack/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Update: INC Ransom Claims Responsibility for Attack on NHS Scotland<a href="http
 The INC Ransom group this week claimed responsibility for the assault on 'NHS Scotland', saying it stole 3TB worth of data while leaking a small number of sensitive files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2024
+March 28, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vietnam Securities Broker Suffers Cyberattack That Resulted in Trading Suspension<a href="https://www.darkreading.com/cyberattacks-data-breaches/vietnam-securities-broker-suffered-cyberattack-that-suspended-trading?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Vietnam Securities Broker Suffers Cyberattack That Resulted in Trading Suspensio
 In a social media post, VNDirect described a four-stage process of restoration, starting with customer accounts, which is now complete, and followed by restoring floor trading and then its other financial services.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2024
+March 28, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Municipalities in Texas, Georgia See Services Disrupted Following Ransomware Attacks<a href="https://therecord.media/texas-georgia-municipalities-face-disruptions-from-ransomware?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Municipalities in Texas, Georgia See Services Disrupted Following Ransomware Att
 On Tuesday evening, the government of Gilmer County in Georgia posted a notice on its website warning that a ransomware attack was affecting its ability to provide services to its more than 30,000 residents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2024
+March 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Fixes Chrome Zero-Days Exploited at Pwn2Own 2024<a href="https://www.bleepingcomputer.com/news/security/google-fixes-chrome-zero-days-exploited-at-pwn2own-2024/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Google Fixes Chrome Zero-Days Exploited at Pwn2Own 2024<a href="https://www.blee
 Google fixed seven security vulnerabilities in the Chrome web browser on Tuesday, including two zero-days exploited during the Pwn2Own Vancouver 2024 hacking competition.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2024
+March 28, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apps Secretly Turning Devices Into Proxy Network Nodes Removed From Google Play<a href="https://www.helpnetsecurity.com/2024/03/26/smartphone-apps-proxy-network/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Apps Secretly Turning Devices Into Proxy Network Nodes Removed From Google Play<
 Though the LumiApps’s privacy policy talks about devices being part of the LumiApps networks, app developers might not read it before starting to use the malicious SDK in their apps.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2024
+March 28, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds One Known Exploited Vulnerability in Microsoft Sharepoint Server to Catalog<a href="https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-adds-one-known-exploited-vulnerability-catalog?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ CISA Adds One Known Exploited Vulnerability in Microsoft Sharepoint Server to Ca
 The vulnerability, tracked as CVE-2023-24955 (CVSS score: 7.2), is a critical remote code execution flaw that allows an authenticated attacker with Site Owner privileges to execute arbitrary code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2024
+March 28, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trezor’s Twitter Account Hijacked by Cryptocurrency Scammers via Bogus Calendly Invite<a href="https://www.bitdefender.com/blog/hotforsecurity/trezors-twitter-account-hijacked-by-cryptocurrency-scammers-via-bogus-calendly-invite/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Trezor’s Twitter Account Hijacked by Cryptocurrency Scammers via Bogus Calendl
 According to Trezor, someone posing as "a credible entity from the crypto space", using a Twitter account with thousands of followers, approached its PR team on February 29, 2024. The imposter asked to interview Trezor CEO Matej Zak.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bit Defender
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 28, 2024
+March 28, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK: NCSC Warns of Hackers Hitting High-Risk Individuals' Personal Accounts<a href="https://www.bankinfosecurity.com/alert-hackers-hit-high-risk-individuals-personal-accounts-a-24708?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ UK: NCSC Warns of Hackers Hitting High-Risk Individuals' Personal Accounts<a hre
 Britain's National Cyber Security Center is warning that criminals and nation-state hacking groups, confronted with well-managed corporate cybersecurity defenses, have turned their sights to individual personal devices and accounts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2012,7 +2172,7 @@ CISA, NSA Share Best Practices for Securing Cloud Services<a href="https://www.b
 The NSA and CISA have issued five joint bulletins outlining best practices for securing cloud environments, covering identity and access management, key management, encryption, data security, and mitigating risks from managed service providers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2028,7 +2188,7 @@ China-Linked Evasive Panda APT Leverages Monlam Festival to Target Tibetans<a hr
 The attacks involved compromising websites, such as the Kagyu International Monlam Trust's website, to specifically target users in India, Taiwan, Hong Kong, Australia, and the U.S.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Welive Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2044,7 +2204,7 @@ Minnesota's South St. Paul Public Schools Investigating Potential Cybersecurity 
 This incident is impacting online platforms, emails, and other digital services. The school district is working to restore its systems and maintain a secure online environment for students and staff.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Twin Cities
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2060,7 +2220,7 @@ Canadian City Says Timeline for Recovery From Ransomware Attack ‘Unknown’<a 
 The city of Hamilton, Canada, is recovering from a ransomware attack that has disrupted online government services, forcing residents to use cash transactions and manual methods for payments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2076,7 +2236,7 @@ Ransomware Attackers Leak Sensitive Swiss Government Documents, Login<a href="ht
 The leaked data included 65,000 documents, with 5% related to the federal government. Most of the leaked federal government files contained personal data, technical information, classified data, and passwords.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2092,7 +2252,7 @@ Update: Critical TeamCity Flaw Now Widely Exploited to Create Admin Accounts<a h
 Hackers are exploiting a critical authentication bypass vulnerability (CVE-2024-27198) in TeamCity On-Premises, leading to the creation of hundreds of unauthorized users on unpatched instances.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2108,7 +2268,7 @@ Duvel Says It Has “More Than Enough” Beer After Ransomware Attack<a href="ht
 The Duvel Moortgat Brewery in Belgium was hit by a ransomware attack, causing the halt of beer production in their bottling facilities. The company's IT systems detected the attack, leading to an immediate stop in production.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
