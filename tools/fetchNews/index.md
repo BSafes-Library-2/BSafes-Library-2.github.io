@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coro, Building Cybersecurity for SMBs, Locks Down $100M at a $750M Valuation<a href="https://techcrunch.com/2024/03/28/coro-smb-security-series-d/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lead investor in this round is One Peak, the U.K. later-stage firm focusing on enterprise tech. Previous backers Energy Impact Partners and Balderton Capital are also participating.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Hackers Target Family Members to Surveil Hard Targets<a href="https://cyberscoop.com/china-hacking-family-members/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the indictment, between 2015 and 2024, the APT31 group, linked to China’s Ministry of State Security, targeted thousands of U.S. and Western politicians, foreign policy experts, academics, journalists, and democracy activists.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Warns of Password-Spraying Attacks Targeting Secure Firewall Devices<a href="https://securityaffairs.com/161205/hacking/cisco-warns-password-spraying-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company published a document containing recommendations against password spray attacks aimed at Remote Access VPN (RAVPN) services. The IT giant pointed out that the attacks are also targeting third-party VPN concentrators.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Suspends New User Registration to Block Malware Campaign<a href="https://www.bleepingcomputer.com/news/security/pypi-suspends-new-user-registration-to-block-malware-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With thousands of packages available, the repository is an attractive target for threat actors, who often upload typosquatted or fake packages to compromise software developers and potential supply-chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Harvard Pilgrim Health Network Updates Data Breach Total to Nearly 2.9 Million<a href="https://therecord.media/harvard-pilgrim-data-breach-notification-update?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Harvard Pilgrim said the files involved may contain personal data and protected health information on current and former subscribers and dependents, as well as current contracted providers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several ImageMagick Vulnerabilities Addressed in Ubuntu<a href="https://tuxcare.com/blog/several-imagemagick-vulnerabilities-addressed-in-ubuntu/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities addressed by the updates impact several Ubuntu releases, including Ubuntu  22.04 LTS, Ubuntu 20.04 LTS, Ubuntu 23.10, Ubuntu 23.04, Ubuntu 18.04, and Ubuntu 16.04.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large Trove of UK Student Records Leaked Due to School Software Server Misconfiguration<a href="https://www.hackread.com/uk-student-records-leak-school-software-server/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researcher Jeremiah Fowler, the server was affiliated with OTrack, also known as Optimum Pupil/Sonar Tracker, developed by Juniper Education. OTrack is utilized by over 7,000 primary and secondary schools across the United Kingdom.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Increasingly Exploit Enterprise Tech Zero-Days<a href="https://www.theregister.com/2024/03/27/surge_in_enterprise_zero_days/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The discovery and exploitation of zero-day vulnerabilities in enterprise-specific software and appliances appears to be outpacing the leveraging of zero-day bugs overall, judging by Google's latest research.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Notice for Long-Awaited Critical Infrastructure Reporting Requirements<a href="https://www.cybersecuritydive.com/news/cisa-notice-critical-infrastructure/711506/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) posted the 447-page set of regulations under the Cyber Incident Reporting for Critical Infrastructure Act to the Federal Register, allowing the public to comment on it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Retail Chain Hot Topic Hit by New Credential Stuffing Attacks<a href="https://www.bleepingcomputer.com/news/security/retail-chain-hot-topic-hit-by-new-credential-stuffing-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Breach notification letters sent to potentially impacted customers this week reveal that attackers targeted Hot Topic Rewards accounts in automated attacks using login information obtained from an unknown source.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 28, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
