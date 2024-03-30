@@ -6,6 +6,16 @@ nav_order: 150
 ---
 
 ## Alerts
+April 4, 2024 - Homeland Security Department, US
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Incident Reporting for Critical Infrastructure Act <a href="https://www.federalregister.gov/public-inspection/2024-06526/cyber-incident-reporting-for-critical-infrastructure-act"> Full Text</a>
+</p>
+<details>
+An unpublished Proposed Rule by the Homeland Security Department on 04/04/2024
+</details>
+</div>
+
 March 26, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

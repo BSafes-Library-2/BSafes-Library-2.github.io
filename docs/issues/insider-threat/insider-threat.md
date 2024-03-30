@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+March 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Large Trove of UK Student Records Leaked Due to School Software Server Misconfiguration<a href="https://www.hackread.com/uk-student-records-leak-school-software-server/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to researcher Jeremiah Fowler, the server was affiliated with OTrack, also known as Optimum Pupil/Sonar Tracker, developed by Juniper Education. OTrack is utilized by over 7,000 primary and secondary schools across the United Kingdom.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

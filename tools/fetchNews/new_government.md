@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+March 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Issues Notice for Long-Awaited Critical Infrastructure Reporting Requirements<a href="https://www.cybersecuritydive.com/news/cisa-notice-critical-infrastructure/711506/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency (CISA) posted the 447-page set of regulations under the Cyber Incident Reporting for Critical Infrastructure Act to the Federal Register, allowing the public to comment on it.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

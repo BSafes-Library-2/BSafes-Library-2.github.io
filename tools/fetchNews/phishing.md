@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+March 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Darcula' Phishing-as-a-Service Operation Bleeds Victims Across 100 More Than Countries<a href="https://www.darkreading.com/endpoint-security/-darcula-phishing-as-a-service-operation-bleeds-victims-worldwide?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Chinese-language, phishing-as-a-service platform "Darcula" has created 19,000 phishing domains in cyberattacks against more than 100 countries, Netcraft researchers say.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

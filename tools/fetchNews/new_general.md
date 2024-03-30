@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+March 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Suspends New User Registration to Block Malware Campaign<a href="https://www.bleepingcomputer.com/news/security/pypi-suspends-new-user-registration-to-block-malware-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With thousands of packages available, the repository is an attractive target for threat actors, who often upload typosquatted or fake packages to compromise software developers and potential supply-chain attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Increasingly Exploit Enterprise Tech Zero-Days<a href="https://www.theregister.com/2024/03/27/surge_in_enterprise_zero_days/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The discovery and exploitation of zero-day vulnerabilities in enterprise-specific software and appliances appears to be outpacing the leveraging of zero-day bugs overall, judging by Google's latest research.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+March 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coro, Building Cybersecurity for SMBs, Locks Down $100M at a $750M Valuation<a href="https://techcrunch.com/2024/03/28/coro-smb-security-series-d/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lead investor in this round is One Peak, the U.K. later-stage firm focusing on enterprise tech. Previous backers Energy Impact Partners and Balderton Capital are also participating.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
