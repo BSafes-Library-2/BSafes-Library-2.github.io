@@ -34,7 +34,71 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2024
+March 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Backdoor Spotted in Linux Compression Library XZ<a href="https://www.theregister.com/2024/03/29/malicious_backdoor_xz/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This supply-chain compromise may have been caught early enough to prevent widespread exploitation, and it may only mainly affect bleeding-edge distros that picked up the latest xz versions right away.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prisma Finance Crypto Theft Caps Strange Week of Platform Breaches<a href="https://therecord.media/prisma-finance-theft-caps-strange-crypto-week?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two prominent crypto platforms were compromised this week, with millions worth of cryptocurrency stolen by hackers with confusing motives. The two platforms include the blockchain-based game Munchables and the DeFi platform Prisma Finance.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Easy Privilege Escalation Exploit Lands for Linux Kernels<a href="https://www.theregister.com/2024/03/29/linux_kernel_flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Linux privilege-escalation proof-of-concept exploit has been published that, according to the bug hunter who developed it, typically works effortlessly on kernel versions between at least 5.14 and 6.6.14.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 100 Malicious Packages Target Popular ML PyPi Libraries<a href="https://www.mend.io/blog/over-100-malicious-packages-target-popular-ml-pypi-libraries/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Early on March 28, 2024, the Mend.io research team detected more than 100 malicious packages targeting the most popular machine learning (ML) libraries from the PyPi registry. Among those libraries are Pytorch, Matplotlib, and Selenium.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 29, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coro, Building Cybersecurity for SMBs, Locks Down $100M at a $750M Valuation<a href="https://techcrunch.com/2024/03/28/coro-smb-security-series-d/?&web_view=true"> Full Text</a>
@@ -44,13 +108,13 @@ Coro, Building Cybersecurity for SMBs, Locks Down $100M at a $750M Valuation<a h
 The lead investor in this round is One Peak, the U.K. later-stage firm focusing on enterprise tech. Previous backers Energy Impact Partners and Balderton Capital are also participating.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2024
+March 29, 2024 - [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Hackers Target Family Members to Surveil Hard Targets<a href="https://cyberscoop.com/china-hacking-family-members/?&web_view=true"> Full Text</a>
@@ -60,13 +124,13 @@ Chinese Hackers Target Family Members to Surveil Hard Targets<a href="https://cy
 According to the indictment, between 2015 and 2024, the APT31 group, linked to China’s Ministry of State Security, targeted thousands of U.S. and Western politicians, foreign policy experts, academics, journalists, and democracy activists.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2024
+March 29, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Warns of Password-Spraying Attacks Targeting Secure Firewall Devices<a href="https://securityaffairs.com/161205/hacking/cisco-warns-password-spraying-attacks.html?&web_view=true"> Full Text</a>
@@ -76,13 +140,13 @@ Cisco Warns of Password-Spraying Attacks Targeting Secure Firewall Devices<a hre
 The company published a document containing recommendations against password spray attacks aimed at Remote Access VPN (RAVPN) services. The IT giant pointed out that the attacks are also targeting third-party VPN concentrators.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2024
+March 29, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI Suspends New User Registration to Block Malware Campaign<a href="https://www.bleepingcomputer.com/news/security/pypi-suspends-new-user-registration-to-block-malware-campaign/?&web_view=true"> Full Text</a>
@@ -92,13 +156,13 @@ PyPI Suspends New User Registration to Block Malware Campaign<a href="https://ww
 With thousands of packages available, the repository is an attractive target for threat actors, who often upload typosquatted or fake packages to compromise software developers and potential supply-chain attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2024
+March 29, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Harvard Pilgrim Health Network Updates Data Breach Total to Nearly 2.9 Million<a href="https://therecord.media/harvard-pilgrim-data-breach-notification-update?&web_view=true"> Full Text</a>
@@ -108,13 +172,13 @@ Update: Harvard Pilgrim Health Network Updates Data Breach Total to Nearly 2.9 M
 Harvard Pilgrim said the files involved may contain personal data and protected health information on current and former subscribers and dependents, as well as current contracted providers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2024
+March 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several ImageMagick Vulnerabilities Addressed in Ubuntu<a href="https://tuxcare.com/blog/several-imagemagick-vulnerabilities-addressed-in-ubuntu/?&web_view=true"> Full Text</a>
@@ -124,13 +188,13 @@ Several ImageMagick Vulnerabilities Addressed in Ubuntu<a href="https://tuxcare.
 The vulnerabilities addressed by the updates impact several Ubuntu releases, including Ubuntu  22.04 LTS, Ubuntu 20.04 LTS, Ubuntu 23.10, Ubuntu 23.04, Ubuntu 18.04, and Ubuntu 16.04.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tux Care
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2024
+March 29, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Large Trove of UK Student Records Leaked Due to School Software Server Misconfiguration<a href="https://www.hackread.com/uk-student-records-leak-school-software-server/?&web_view=true"> Full Text</a>
@@ -140,13 +204,13 @@ Large Trove of UK Student Records Leaked Due to School Software Server Misconfig
 According to researcher Jeremiah Fowler, the server was affiliated with OTrack, also known as Optimum Pupil/Sonar Tracker, developed by Juniper Education. OTrack is utilized by over 7,000 primary and secondary schools across the United Kingdom.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2024
+March 29, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Increasingly Exploit Enterprise Tech Zero-Days<a href="https://www.theregister.com/2024/03/27/surge_in_enterprise_zero_days/?&web_view=true"> Full Text</a>
@@ -156,13 +220,13 @@ Attackers Increasingly Exploit Enterprise Tech Zero-Days<a href="https://www.the
 The discovery and exploitation of zero-day vulnerabilities in enterprise-specific software and appliances appears to be outpacing the leveraging of zero-day bugs overall, judging by Google's latest research.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2024
+March 29, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Issues Notice for Long-Awaited Critical Infrastructure Reporting Requirements<a href="https://www.cybersecuritydive.com/news/cisa-notice-critical-infrastructure/711506/?&web_view=true"> Full Text</a>
@@ -172,13 +236,13 @@ CISA Issues Notice for Long-Awaited Critical Infrastructure Reporting Requiremen
 The Cybersecurity and Infrastructure Security Agency (CISA) posted the 447-page set of regulations under the Cyber Incident Reporting for Critical Infrastructure Act to the Federal Register, allowing the public to comment on it.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 29, 2024
+March 29, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Retail Chain Hot Topic Hit by New Credential Stuffing Attacks<a href="https://www.bleepingcomputer.com/news/security/retail-chain-hot-topic-hit-by-new-credential-stuffing-attacks/?&web_view=true"> Full Text</a>
@@ -188,7 +252,7 @@ Retail Chain Hot Topic Hit by New Credential Stuffing Attacks<a href="https://ww
 Breach notification letters sent to potentially impacted customers this week reveal that attackers targeted Hot Topic Rewards accounts in automated attacks using login information obtained from an unknown source.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2284,7 +2348,7 @@ AI Tools Put Companies at Risk of Data Exfiltration<a href="https://www.helpnets
 The rise of GenAI, along with cloud applications, has made it challenging to monitor and protect critical data. As a result, organizations are concerned about the impact of AI on sensitive data and struggle to comply with data protection laws.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2300,7 +2364,7 @@ Feds Get Second Guilty Plea in Prosecution of Nigerian-Led BEC Case<a href="http
 Nigerian national Henry Onyedikachi Echefu pleaded guilty to wire fraud and money laundering in connection with a $6 million business email compromise scheme dating back to 2017.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2316,7 +2380,7 @@ ITRC Finds Online Job Scams on the Rise<a href="https://securityboulevard.com/20
 The surge in online job scams, targeting job seekers for personal information, has seen a significant increase in reported incidents, with a 545% spike in January 2024 compared to December 2023, according to the Identity Theft Resource Center (ITRC).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Boulevard
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2332,7 +2396,7 @@ RiskInDroid Performs Open-Source Risk Analysis of Android Apps<a href="https://w
 RiskInDroid is an open-source tool for analyzing the risk level of Android applications using machine learning. Unlike other tools, RiskInDroid conducts reverse engineering on apps to extract permissions and assess their usage in the bytecode.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2348,7 +2412,7 @@ EU Agrees 'Cyber Solidarity Act' to Bolster Incident Response and Recovery<a hre
 The regulations will establish an EU-wide cybersecurity alert system and a cybersecurity emergency mechanism to support preparedness, financial assistance, and a cybersecurity reserve for large-scale incidents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2364,7 +2428,7 @@ Organizations are Knowingly Releasing Vulnerable Applications<a href="https://ww
 Application security responsibilities have shifted to involve both AppSec managers and developers, with a high percentage of companies knowingly releasing vulnerable applications due to time and business pressures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2380,7 +2444,7 @@ CrowdStrike to Buy Israeli Data Defense Vendor Flow Security<a href="https://www
 CrowdStrike has announced plans to acquire Tel Aviv-based Flow Security, a data security posture management startup, for an undisclosed amount with the deal expected to close by the end of April.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2396,7 +2460,7 @@ Hornetsecurity Buys Vade to Fuel Strength in France, Germany<a href="https://www
 The joint company plans to integrate their products and teams by the end of 2024, enabling MSPs to manage security, compliance, and data loss prevention for Microsoft 365 from a single control portal.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

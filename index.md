@@ -34,6 +34,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Backdoor Spotted in Linux Compression Library XZ<a href="https://www.theregister.com/2024/03/29/malicious_backdoor_xz/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This supply-chain compromise may have been caught early enough to prevent widespread exploitation, and it may only mainly affect bleeding-edge distros that picked up the latest xz versions right away.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prisma Finance Crypto Theft Caps Strange Week of Platform Breaches<a href="https://therecord.media/prisma-finance-theft-caps-strange-crypto-week?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two prominent crypto platforms were compromised this week, with millions worth of cryptocurrency stolen by hackers with confusing motives. The two platforms include the blockchain-based game Munchables and the DeFi platform Prisma Finance.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Easy Privilege Escalation Exploit Lands for Linux Kernels<a href="https://www.theregister.com/2024/03/29/linux_kernel_flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Linux privilege-escalation proof-of-concept exploit has been published that, according to the bug hunter who developed it, typically works effortlessly on kernel versions between at least 5.14 and 6.6.14.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 100 Malicious Packages Target Popular ML PyPi Libraries<a href="https://www.mend.io/blog/over-100-malicious-packages-target-popular-ml-pypi-libraries/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Early on March 28, 2024, the Mend.io research team detected more than 100 malicious packages targeting the most popular machine learning (ML) libraries from the PyPi registry. Among those libraries are Pytorch, Matplotlib, and Selenium.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 29, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
