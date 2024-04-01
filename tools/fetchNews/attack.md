@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+March 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Warns of Password-Spraying Attacks Targeting Secure Firewall Devices<a href="https://securityaffairs.com/161205/hacking/cisco-warns-password-spraying-attacks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company published a document containing recommendations against password spray attacks aimed at Remote Access VPN (RAVPN) services. The IT giant pointed out that the attacks are also targeting third-party VPN concentrators.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+March 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Retail Chain Hot Topic Hit by New Credential Stuffing Attacks<a href="https://www.bleepingcomputer.com/news/security/retail-chain-hot-topic-hit-by-new-credential-stuffing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Breach notification letters sent to potentially impacted customers this week reveal that attackers targeted Hot Topic Rewards accounts in automated attacks using login information obtained from an unknown source.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

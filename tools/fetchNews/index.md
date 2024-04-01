@@ -34,6 +34,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Backdoor Spotted in Linux Compression Library XZ<a href="https://www.theregister.com/2024/03/29/malicious_backdoor_xz/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This supply-chain compromise may have been caught early enough to prevent widespread exploitation, and it may only mainly affect bleeding-edge distros that picked up the latest xz versions right away.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prisma Finance Crypto Theft Caps Strange Week of Platform Breaches<a href="https://therecord.media/prisma-finance-theft-caps-strange-crypto-week?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two prominent crypto platforms were compromised this week, with millions worth of cryptocurrency stolen by hackers with confusing motives. The two platforms include the blockchain-based game Munchables and the DeFi platform Prisma Finance.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Easy Privilege Escalation Exploit Lands for Linux Kernels<a href="https://www.theregister.com/2024/03/29/linux_kernel_flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Linux privilege-escalation proof-of-concept exploit has been published that, according to the bug hunter who developed it, typically works effortlessly on kernel versions between at least 5.14 and 6.6.14.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 100 Malicious Packages Target Popular ML PyPi Libraries<a href="https://www.mend.io/blog/over-100-malicious-packages-target-popular-ml-pypi-libraries/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Early on March 28, 2024, the Mend.io research team detected more than 100 malicious packages targeting the most popular machine learning (ML) libraries from the PyPi registry. Among those libraries are Pytorch, Matplotlib, and Selenium.
+</details>
+<div style="text-align: right" markdown="1">
+Mend
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 29, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -2412,7 +2476,7 @@ Researchers Warn of Stuxnet-Style Web-Based PLC Malware<a href="https://industri
 Researchers from the Georgia Institute of Technology have developed web-based malware called IronSpider, targeting modern programmable logic controllers (PLCs) used in industrial control systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Industrial Cyber
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2428,7 +2492,7 @@ DTEX Systems Raises $50M in Series E Funding<a href="https://www.finsmes.com/202
 The funding round was led by CapitalG, with James Luo joining the DTEX board of directors. The company plans to utilize the funding to expand its U.S. engineering team and grow its global go-to-market operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Finsmes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2444,7 +2508,7 @@ Fidelity Customers' Financial Information Feared Stolen in Cyberattack<a href="h
 Nearly 30,000 Fidelity Investments Life Insurance customers' personal and financial information, including bank account and routing numbers, may have been stolen after criminals breached Infosys' IT systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2460,7 +2524,7 @@ Apple Emergency Security Updates Fix Two New iOS Zero-Days<a href="https://secur
 The vulnerabilities, tracked as CVE-2024-23225 and CVE-2024-23296, are related to kernel and RTKit memory corruptions. The affected devices include iPhone XS and later, iPad Pro, iPad Air, and iPad mini models.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+yware
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2476,7 +2540,7 @@ Axonius, a Specialist in Cyber Asset Management, secures $200M at a $2.6B Valuat
 Axonius, a leader in enterprise asset management, has secured an additional $200 million in funding to support its business expansion. The investment is an extension of its existing Series E round, maintaining a valuation of $2.6 billion.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2492,7 +2556,7 @@ New WogRAT Malware Abuses Online Notepad Service to Store Malicious Code<a href=
 The 'WogRAT' malware targets both Windows and Linux systems and uses the online notepad platform 'aNotepad' to store and retrieve malicious code, making its infection chain stealthy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2508,7 +2572,7 @@ Android and Windows RATs Distributed Via Online Meeting Lures<a href="https://ww
 The attackers used fake Russian-language online meeting sites hosted on a single IP address to distribute malicious APK and BAT files targeting Windows and Android users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
