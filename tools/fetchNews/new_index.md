@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2024
+April 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DinodasRAT Malware Targets Linux Servers in Espionage Campaign<a href="https://www.bleepingcomputer.com/news/security/dinodasrat-malware-targets-linux-servers-in-espionage-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When executed, the Linux variant of DinodasRAT creates a hidden file in the directory where its binary resides, which acts as a mutex to prevent multiple instances from running on the infected device.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OMB Issues First Governmentwide AI Risk Mitigation Rules<a href="https://www.govinfosecurity.com/omb-issues-first-governmentwide-ai-risk-mitigation-rules-a-24723?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. federal agencies have until December to implement a series of safeguards that aim to ensure the government is responsibly using artificial intelligence, the White House ordered Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Activision Recommends Users Enable 2FA to Secure Accounts Recently Stolen by Malware<a href="https://www.bleepingcomputer.com/news/security/activision-enable-2fa-to-secure-accounts-recently-stolen-by-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An infostealer malware campaign has apparently collected millions of logins from users of various gaming websites, including players that use cheats and pay-to-cheat services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Nuclear Site Sellafield to be Prosecuted for Cybersecurity Failures<a href="https://therecord.media/sellafield-site-prosecution-nuclear-facility-cybersecurity?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's independent nuclear safety regulator has announced that it will be prosecuting the company managing the Sellafield nuclear site over “alleged information technology security offenses during a four year period between 2019 and early 2023.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli LGBTQ Dating App Atraf Faces Data Leak, 700,000 Users Affected<a href="https://www.hackread.com/hacker-leak-atraf-database-700k-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atraf, a popular Israeli LGBTQ dating app, has suffered a major data breach exposing the personal information of over half a million users. Leaked data includes cleartext passwords and payment card data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 17 Billion Personal Records Exposed in Data Breaches in 2023<a href="https://www.infosecurity-magazine.com/news/personal-records-exposed-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reported data breach incidents rose by 34.5% in 2023, with over 17 billion personal records compromised throughout the year, according to Flashpoint’s 2024 Global Threat Intelligence Report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KuCoin Charged with AML Violations That Let Cybercriminals Launder Billions<a href="https://www.bleepingcomputer.com/news/cryptocurrency/kucoin-charged-with-aml-violations-that-let-cybercriminals-launder-billions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an indictment, the Department of Justice claimed that KuCoin knowingly allowed U.S.-based users to trade on its platform while fulfilling none of its AML obligations, as defined by U.S. laws and regulations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pentagon Lays Out Strategy to Improve Defense Industrial Base Cybersecurity<a href="https://therecord.media/pentagon-unveils-first-ever-defense-industrial-base-strategy?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The strategy, which covers fiscal years 2024 through 2027, lays out four topline goals, such as improving best practices within the industrial base. Each goal contains a subset of objectives, such as being able to recover from a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Unveils New Consortium to Operate the NVD<a href="https://www.infosecurity-magazine.com/news/nist-unveils-new-nvd-consortium/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s now official: the US National Institute of Standards and Technology (NIST) will hand over some aspects of the management of the world’s most widely used software vulnerability repository to an industry consortium.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Dissect Infostealer Malware Targeting macOS Users<a href="https://www.jamf.com/blog/infostealers-pose-threat-to-macos/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ongoing infostealer attacks targeting macOS users may have adopted different methods to compromise victims' Macs, but operate with the end goal of stealing sensitive data, Jamf Threat Labs said in a report published Friday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 30, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Backdoor Spotted in Linux Compression Library XZ<a href="https://www.theregister.com/2024/03/29/malicious_backdoor_xz/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Malicious Backdoor Spotted in Linux Compression Library XZ<a href="https://www.t
 This supply-chain compromise may have been caught early enough to prevent widespread exploitation, and it may only mainly affect bleeding-edge distros that picked up the latest xz versions right away.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2024
+March 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prisma Finance Crypto Theft Caps Strange Week of Platform Breaches<a href="https://therecord.media/prisma-finance-theft-caps-strange-crypto-week?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Prisma Finance Crypto Theft Caps Strange Week of Platform Breaches<a href="https
 Two prominent crypto platforms were compromised this week, with millions worth of cryptocurrency stolen by hackers with confusing motives. The two platforms include the blockchain-based game Munchables and the DeFi platform Prisma Finance.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2024
+March 30, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Easy Privilege Escalation Exploit Lands for Linux Kernels<a href="https://www.theregister.com/2024/03/29/linux_kernel_flaw/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Easy Privilege Escalation Exploit Lands for Linux Kernels<a href="https://www.th
 A Linux privilege-escalation proof-of-concept exploit has been published that, according to the bug hunter who developed it, typically works effortlessly on kernel versions between at least 5.14 and 6.6.14.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-March 30, 2024
+March 30, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 100 Malicious Packages Target Popular ML PyPi Libraries<a href="https://www.mend.io/blog/over-100-malicious-packages-target-popular-ml-pypi-libraries/?&web_view=true"> Full Text</a>
@@ -92,7 +252,7 @@ Over 100 Malicious Packages Target Popular ML PyPi Libraries<a href="https://www
 Early on March 28, 2024, the Mend.io research team detected more than 100 malicious packages targeting the most popular machine learning (ML) libraries from the PyPi registry. Among those libraries are Pytorch, Matplotlib, and Selenium.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Mend
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2476,7 +2636,7 @@ Researchers Warn of Stuxnet-Style Web-Based PLC Malware<a href="https://industri
 Researchers from the Georgia Institute of Technology have developed web-based malware called IronSpider, targeting modern programmable logic controllers (PLCs) used in industrial control systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Industrial Cyber
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2492,7 +2652,7 @@ DTEX Systems Raises $50M in Series E Funding<a href="https://www.finsmes.com/202
 The funding round was led by CapitalG, with James Luo joining the DTEX board of directors. The company plans to utilize the funding to expand its U.S. engineering team and grow its global go-to-market operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Finsmes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2508,7 +2668,7 @@ Fidelity Customers' Financial Information Feared Stolen in Cyberattack<a href="h
 Nearly 30,000 Fidelity Investments Life Insurance customers' personal and financial information, including bank account and routing numbers, may have been stolen after criminals breached Infosys' IT systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2524,7 +2684,7 @@ Apple Emergency Security Updates Fix Two New iOS Zero-Days<a href="https://secur
 The vulnerabilities, tracked as CVE-2024-23225 and CVE-2024-23296, are related to kernel and RTKit memory corruptions. The affected devices include iPhone XS and later, iPad Pro, iPad Air, and iPad mini models.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+yware
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2540,7 +2700,7 @@ Axonius, a Specialist in Cyber Asset Management, secures $200M at a $2.6B Valuat
 Axonius, a leader in enterprise asset management, has secured an additional $200 million in funding to support its business expansion. The investment is an extension of its existing Series E round, maintaining a valuation of $2.6 billion.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2556,7 +2716,7 @@ New WogRAT Malware Abuses Online Notepad Service to Store Malicious Code<a href=
 The 'WogRAT' malware targets both Windows and Linux systems and uses the online notepad platform 'aNotepad' to store and retrieve malicious code, making its infection chain stealthy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2572,7 +2732,7 @@ Android and Windows RATs Distributed Via Online Meeting Lures<a href="https://ww
 The attackers used fake Russian-language online meeting sites hosted on a single IP address to distribute malicious APK and BAT files targeting Windows and Android users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
