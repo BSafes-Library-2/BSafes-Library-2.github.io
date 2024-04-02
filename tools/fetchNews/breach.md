@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+March 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prisma Finance Crypto Theft Caps Strange Week of Platform Breaches<a href="https://therecord.media/prisma-finance-theft-caps-strange-crypto-week?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two prominent crypto platforms were compromised this week, with millions worth of cryptocurrency stolen by hackers with confusing motives. The two platforms include the blockchain-based game Munchables and the DeFi platform Prisma Finance.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

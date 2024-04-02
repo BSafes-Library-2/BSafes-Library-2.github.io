@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+April 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Activision Recommends Users Enable 2FA to Secure Accounts Recently Stolen by Malware<a href="https://www.bleepingcomputer.com/news/security/activision-enable-2fa-to-secure-accounts-recently-stolen-by-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An infostealer malware campaign has apparently collected millions of logins from users of various gaming websites, including players that use cheats and pay-to-cheat services.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli LGBTQ Dating App Atraf Faces Data Leak, 700,000 Users Affected<a href="https://www.hackread.com/hacker-leak-atraf-database-700k-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atraf, a popular Israeli LGBTQ dating app, has suffered a major data breach exposing the personal information of over half a million users. Leaked data includes cleartext passwords and payment card data.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

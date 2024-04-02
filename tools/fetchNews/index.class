@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DinodasRAT Malware Targets Linux Servers in Espionage Campaign<a href="https://www.bleepingcomputer.com/news/security/dinodasrat-malware-targets-linux-servers-in-espionage-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When executed, the Linux variant of DinodasRAT creates a hidden file in the directory where its binary resides, which acts as a mutex to prevent multiple instances from running on the infected device.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OMB Issues First Governmentwide AI Risk Mitigation Rules<a href="https://www.govinfosecurity.com/omb-issues-first-governmentwide-ai-risk-mitigation-rules-a-24723?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. federal agencies have until December to implement a series of safeguards that aim to ensure the government is responsibly using artificial intelligence, the White House ordered Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Activision Recommends Users Enable 2FA to Secure Accounts Recently Stolen by Malware<a href="https://www.bleepingcomputer.com/news/security/activision-enable-2fa-to-secure-accounts-recently-stolen-by-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An infostealer malware campaign has apparently collected millions of logins from users of various gaming websites, including players that use cheats and pay-to-cheat services.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Nuclear Site Sellafield to be Prosecuted for Cybersecurity Failures<a href="https://therecord.media/sellafield-site-prosecution-nuclear-facility-cybersecurity?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's independent nuclear safety regulator has announced that it will be prosecuting the company managing the Sellafield nuclear site over “alleged information technology security offenses during a four year period between 2019 and early 2023.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli LGBTQ Dating App Atraf Faces Data Leak, 700,000 Users Affected<a href="https://www.hackread.com/hacker-leak-atraf-database-700k-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Atraf, a popular Israeli LGBTQ dating app, has suffered a major data breach exposing the personal information of over half a million users. Leaked data includes cleartext passwords and payment card data.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 17 Billion Personal Records Exposed in Data Breaches in 2023<a href="https://www.infosecurity-magazine.com/news/personal-records-exposed-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reported data breach incidents rose by 34.5% in 2023, with over 17 billion personal records compromised throughout the year, according to Flashpoint’s 2024 Global Threat Intelligence Report.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KuCoin Charged with AML Violations That Let Cybercriminals Launder Billions<a href="https://www.bleepingcomputer.com/news/cryptocurrency/kucoin-charged-with-aml-violations-that-let-cybercriminals-launder-billions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an indictment, the Department of Justice claimed that KuCoin knowingly allowed U.S.-based users to trade on its platform while fulfilling none of its AML obligations, as defined by U.S. laws and regulations.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pentagon Lays Out Strategy to Improve Defense Industrial Base Cybersecurity<a href="https://therecord.media/pentagon-unveils-first-ever-defense-industrial-base-strategy?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The strategy, which covers fiscal years 2024 through 2027, lays out four topline goals, such as improving best practices within the industrial base. Each goal contains a subset of objectives, such as being able to recover from a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Unveils New Consortium to Operate the NVD<a href="https://www.infosecurity-magazine.com/news/nist-unveils-new-nvd-consortium/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s now official: the US National Institute of Standards and Technology (NIST) will hand over some aspects of the management of the world’s most widely used software vulnerability repository to an industry consortium.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 1, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Dissect Infostealer Malware Targeting macOS Users<a href="https://www.jamf.com/blog/infostealers-pose-threat-to-macos/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ongoing infostealer attacks targeting macOS users may have adopted different methods to compromise victims' Macs, but operate with the end goal of stealing sensitive data, Jamf Threat Labs said in a report published Friday.
+</details>
+<div style="text-align: right" markdown="1">
+JAMF
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 30, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -2588,7 +2748,7 @@ Mr. Green Gaming Suffers Data Breach, Exposing Personal Information of 27,000 Us
 The Mr. Green Gaming data breach compromised the sensitive information of approximately 27,000 users, highlighting the urgent need for enhanced cybersecurity measures in the gaming industry.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2604,7 +2764,7 @@ Cyberattack Forces Canada’s Financial Intelligence Agency to Take Systems Offl
 Canada’s financial intelligence agency FINTRAC has experienced a cybersecurity incident, prompting the agency to take its corporate systems offline as a precautionary measure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2620,7 +2780,7 @@ New CHAVECLOAK Banking Trojan Targets Brazilians via Malicious PDFs<a href="http
 The malware uses DLL sideloading techniques to discreetly execute malicious code, actively monitors victims' interactions with financial portals, and communicates with a C2 server to facilitate data theft and deceptive pop-up windows.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2636,7 +2796,7 @@ GhostLocker 2.0 Haunts Businesses Across Middle East, Africa, and Asia<a href="h
 Cybercriminal groups GhostSec and Stormous have collaborated to unleash GhostLocker 2.0 ransomware in targeted attacks across the Middle East, Africa, and Asia, affecting organizations in various sectors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2652,7 +2812,7 @@ Update: BlackCat Ransomware Turns off Servers Amid Claim They Stole $22 Million 
 The shutdown may indicate an exit scam, with the affiliate claiming they still have critical data from Optum and other providers, while ALPHV/BlackCat has shut down its negotiation sites and messaging platform.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2668,7 +2828,7 @@ Hacktivist Collective NoName057(16) Strikes European Targets<a href="https://www
 The cyber threat actor NoName057(16) is adapting its DDoS tactics with enhanced encryption and tailored software versions to target European entities, particularly those supporting Ukraine.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2684,7 +2844,7 @@ Ukraine Claims it Hacked Russian Ministry of Defense Servers<a href="https://www
 The Main Intelligence Directorate (GUR) of Ukraine's Ministry of Defense has announced that it successfully breached the servers of the Russian Ministry of Defense (Minoborony) and obtained sensitive documents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2700,7 +2860,7 @@ South Korea Says Semiconductor Industry Targeted by Cyber-Spies From North Korea
 The National Intelligence Service (NIS) of South Korea reported that North Korean hackers targeted two South Korean microchip equipment companies, using "living-off-the-land" techniques to steal product designs and facility photos.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2716,7 +2876,7 @@ Self-Propagating Worm Created to Target Generative AI Systems<a href="https://ww
 Researchers from Israel Institute of Technology, Intuit and Cornell Tech have developed a computer worm called "Morris II" that targets generative AI (GenAI) applications to spread malware and steal personal data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2732,7 +2892,7 @@ Update: Optum Offering Financial Aid to Some Providers Hit by Outage<a href="htt
 UnitedHealth Group is offering short-term financial assistance to healthcare providers affected by the Change Healthcare IT outage, providing interest-free, fee-free funding.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2748,7 +2908,7 @@ Silence Laboratories, a Cryptographic Security Startup, Secures Funding<a href="
 The funding, co-led by Pi Ventures and Kira Studio, brings the total raised to $6 million. The company plans to use the funding to expand its teams and research and development efforts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -2764,7 +2924,7 @@ American Express Credit Cards Exposed in Vendor Data Breach<a href="https://www.
 American Express has issued a data breach notification after one of its service providers experienced unauthorized access to its systems. This has led to the exposure of American Express Card account numbers, names, and card expiration dates.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

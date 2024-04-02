@@ -6,6 +6,7 @@ nav_order: 150
 ---
 
 ## Alerts
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 4, 2024 - Homeland Security Department, US
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -16,11 +17,34 @@ An unpublished Proposed Rule by the Homeland Security Department on 04/04/2024
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 28, 2024 - OMB, EXECUTIVE OFFICE OF THE PRESIDENT
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MEMORANDUM FOR THE HEADS OF EXECUTIVE DEPARTMENTS AND AGENCIES<a href="https://dd80b675424c132b90b3-e48385e382d2e5d17821a5e1d8e4c86b.ssl.cf1.rackcdn.com/external/m-24-10-advancing-governance-innovation-and-risk-management-for-agency-use-of-artificial-intelligence.pdf"> Full Text</a>
+<r/p>
+<details>
+Artificial intelligence (AI) is one of the most powerful technologies of our time, and the President has been clear that we must seize the opportunities AI presents while managing its risks. Consistent with the AI in Government Act of 2020, the Advancing American AI Act, and Executive Order 14110 on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence, this memorandum directs agencies to advance AI governance and innovation while managing risks from the use of AI in the Federal Government, particularly those affecting the rights and safety of the public.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2024 - NIST 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Panel Discussion: It is a Tale as Old as Time…. a CNA, the NVD, and a CVE Consumer Walk Into a Bar. Hilarity Ensues, Right? <a href="https://www.first.org/conference/vulncon2024/program#pPanel-Discussion-It-is-a-Tale-as-Old-as-Time-a-CNA-the-NVD-and-a-CVE-Consumer-Walk-Into-a-Bar-Hilarity-Ensues-Right"> Full Text</a>
+<r/p>
+<details>
+Napkin-drawings aside, This panel seeks to talk through this classic “What If?” scenario by assembling a diverse team of industry and government professionals to talk about the current state of vulnerability identifiers, vulnerability databases, and how consumers interact with them. These building blocks establish the foundation for communicating and addressing vulnerabilities as they are discovered, reported, and disclosed, but the journey has not always been without challenges. Join us as we learn about the road that got us here, talk about the opportunities we continue to collaborate on, and hear about some potential future actions that could improve the ecosystem for all participants and officially start “Happy Hour”!
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 26, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds One Known Exploited Vulnerability to Catalog <a href="https://www.cisa.gov/news-events/alerts/2024/03/26/cisa-adds-one-known-exploited-vulnerability-catalog?&web_view=true"> Full Text</a>
-</p>
+<r/p>
 <details>
 CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
 
@@ -28,6 +52,18 @@ CVE-2023-24955 Microsoft SharePoint Server Code Injection Vulnerability
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 21, 2024 - Department of Defense 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Defense Industrial Base Cybersecurity Strategy 2024 <a href="https://media.defense.gov/2024/Mar/28/2003424523/-1/-1/1/DOD_DOB_CS_STRATEGY_DSD_SIGNED_20240325.PDF"> Full Text</a>
+<r/p>
+<details>
+The Department of Defense's (DoD) Defense Industrial Base (018) Cybersecurity Strategy is an actionable framework for sustaining a more resilient Joint Force and defense ecosystem-one that prevails within and through one of today's most contested domains: cyberspace
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 9, 2024 - NSA, CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -38,6 +74,7 @@ As organizations move more of their data into cloud environments, the prevention
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 7, 2024 - House Energy and Commerce Committee, US 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -48,6 +85,7 @@ Washington, D.C. — The House Energy and Commerce Committee advanced two bipart
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 6, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -62,6 +100,7 @@ These types of vulnerabilities are frequent attack vectors for malicious cyber a
 </details>
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 February 29, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

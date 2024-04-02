@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 17 Billion Personal Records Exposed in Data Breaches in 2023<a href="https://www.infosecurity-magazine.com/news/personal-records-exposed-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Reported data breach incidents rose by 34.5% in 2023, with over 17 billion personal records compromised throughout the year, according to Flashpoint’s 2024 Global Threat Intelligence Report.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

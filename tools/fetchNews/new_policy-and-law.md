@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Nuclear Site Sellafield to be Prosecuted for Cybersecurity Failures<a href="https://therecord.media/sellafield-site-prosecution-nuclear-facility-cybersecurity?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's independent nuclear safety regulator has announced that it will be prosecuting the company managing the Sellafield nuclear site over “alleged information technology security offenses during a four year period between 2019 and early 2023.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KuCoin Charged with AML Violations That Let Cybercriminals Launder Billions<a href="https://www.bleepingcomputer.com/news/cryptocurrency/kucoin-charged-with-aml-violations-that-let-cybercriminals-launder-billions/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In an indictment, the Department of Justice claimed that KuCoin knowingly allowed U.S.-based users to trade on its platform while fulfilling none of its AML obligations, as defined by U.S. laws and regulations.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
