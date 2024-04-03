@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Design and Deliver an Effective Cybersecurity Exercise<a href="https://www.helpnetsecurity.com/2024/04/01/cybersecurity-exercises/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Armed forces have always utilized war-gaming exercises for battlefield training to prepare for times of conflict. With today’s digital transformation, the same concept is being applied in the form of cybersecurity exercises.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC to Probe ‘Grave’ Weaknesses in Phone Network Infrastructure<a href="https://therecord.media/fcc-ss7-diameter-protocols-investigation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) says it is taking action to address significant weaknesses in telecommunications networks that can enable cybercrime and spying.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Losses Linked to Impersonation Scams Top $1 Billion Yearly, FTC Says<a href="https://therecord.media/impersonation-scam-losses-top-1-billion?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A classic type of fraud — when a crook impersonates a business or a government agency — appears to be bigger than ever, according to federal statistics, and it’s now most likely to begin via text message or email instead of a phone call.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Escalating Malware Tactics Drive Global Cybercrime Epidemic<a href="https://www.helpnetsecurity.com/2024/04/01/q4-2023-malware-rise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Evasive, basic, and encrypted malware all increased in Q4 2023, fueling a rise in total malware, according to WatchGuard. The average number of malware detections rose 80% from the previous quarter.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OWASP Discloses a Data Breach Due to Wiki Misconfiguration<a href="https://securityaffairs.com/161371/data-breach/owasp-data-breach.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In late February 2024, the Foundation received a few support requests and became aware of a misconfiguration of OWASP’s old Wiki web server. The misconfiguration led to a data breach involving old member resumes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Database Backlog Due to Increased Volume, Changes in ‘Support,’ NIST Says<a href="https://therecord.media/vulnerability-database-backlog-nist-support?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology (NIST) blamed increases in the volume of software and “a change in interagency support” for the recent backlog of vulnerabilities analyzed in the organization’s National Vulnerability Database (NVD).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vultur Banking Malware for Android Poses as McAfee Security App<a href="https://www.bleepingcomputer.com/news/security/vultur-banking-malware-for-android-poses-as-mcafee-security-app/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fox-IT warned that a new, evasive version of Vultur spreads to victims through a hybrid attack that relies on SMS phishing and phone calls that trick the targets into installing a version of the malware that masquerades as the McAfee Security app.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Leak at Shopping Platform PandaBuy Impacts 1.3 Million Users<a href="https://www.bleepingcomputer.com/news/security/shopping-platform-pandabuy-data-leak-impacts-13-million-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"The data was stolen by exploiting several critical vulnerabilities in the platform's API and other bugs were identified allowing access to the internal service of the website," the threat actor named 'Sanggiero' said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Advanced Cybersecurity Strategies Boost Shareholder Returns<a href="https://www.helpnetsecurity.com/2024/03/29/cybersecurity-board-oversight/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies demonstrating advanced cybersecurity performance generate a shareholder return that is 372% higher than their peers with basic cybersecurity performance, according to a new report from Diligent and Bitsight.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Prudential Insurance Says Data of 36,000 Exposed During February Cyberattack<a href="https://therecord.media/prudential-discloses-new-information-from-february-incident?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Through the investigation, we learned that the unauthorized third party gained access to our network on February 4, 2024, and removed a small percentage of personal information from our systems,” the breach notification letters said.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 1, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
