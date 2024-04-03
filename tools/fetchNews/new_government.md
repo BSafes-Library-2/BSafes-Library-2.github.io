@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+April 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC to Probe ‘Grave’ Weaknesses in Phone Network Infrastructure<a href="https://therecord.media/fcc-ss7-diameter-protocols-investigation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission (FCC) says it is taking action to address significant weaknesses in telecommunications networks that can enable cybercrime and spying.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Database Backlog Due to Increased Volume, Changes in ‘Support,’ NIST Says<a href="https://therecord.media/vulnerability-database-backlog-nist-support?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology (NIST) blamed increases in the volume of software and “a change in interagency support” for the recent backlog of vulnerabilities analyzed in the organization’s National Vulnerability Database (NVD).
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+April 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data Leak at Shopping Platform PandaBuy Impacts 1.3 Million Users<a href="https://www.bleepingcomputer.com/news/security/shopping-platform-pandabuy-data-leak-impacts-13-million-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"The data was stolen by exploiting several critical vulnerabilities in the platform's API and other bugs were identified allowing access to the internal service of the website," the threat actor named 'Sanggiero' said.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Prudential Insurance Says Data of 36,000 Exposed During February Cyberattack<a href="https://therecord.media/prudential-discloses-new-information-from-february-incident?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Through the investigation, we learned that the unauthorized third party gained access to our network on February 4, 2024, and removed a small percentage of personal information from our systems,” the breach notification letters said.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

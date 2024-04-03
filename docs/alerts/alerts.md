@@ -29,6 +29,17 @@ Artificial intelligence (AI) is one of the most powerful technologies of our tim
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+March 27, 2024 - FCC
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PUBLIC SAFETY AND HOMELAND SECURITY BUREAU REQUESTS COMMENT ON IMPLEMENTATION OF MEASURES TO PREVENT LOCATION TRACKING VIA THE DIAMETER AND SIGNALING SYSTEM 7 SECURITY PROTOCOL <a href="https://www.documentcloud.org/documents/24527269-da-24-308a1"> Full Text</a>
+</p>
+<details>
+The Federal Communications Commission’s Public Safety and Homeland Security Bureau (Bureau) requests comment on communications service providers’ implementation of security countermeasures to prevent exploitation of vulnerabilities in the Signaling System 7 (SS7) and Diameter protocols to track the location of consumers through their mobile devices.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 27, 2024 - NIST 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

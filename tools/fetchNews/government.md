@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+April 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OMB Issues First Governmentwide AI Risk Mitigation Rules<a href="https://www.govinfosecurity.com/omb-issues-first-governmentwide-ai-risk-mitigation-rules-a-24723?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. federal agencies have until December to implement a series of safeguards that aim to ensure the government is responsibly using artificial intelligence, the White House ordered Thursday.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pentagon Lays Out Strategy to Improve Defense Industrial Base Cybersecurity<a href="https://therecord.media/pentagon-unveils-first-ever-defense-industrial-base-strategy?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The strategy, which covers fiscal years 2024 through 2027, lays out four topline goals, such as improving best practices within the industrial base. Each goal contains a subset of objectives, such as being able to recover from a cyberattack.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Unveils New Consortium to Operate the NVD<a href="https://www.infosecurity-magazine.com/news/nist-unveils-new-nvd-consortium/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+It’s now official: the US National Institute of Standards and Technology (NIST) will hand over some aspects of the management of the world’s most widely used software vulnerability repository to an industry consortium.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

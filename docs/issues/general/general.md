@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+April 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Losses Linked to Impersonation Scams Top $1 Billion Yearly, FTC Says<a href="https://therecord.media/impersonation-scam-losses-top-1-billion?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A classic type of fraud — when a crook impersonates a business or a government agency — appears to be bigger than ever, according to federal statistics, and it’s now most likely to begin via text message or email instead of a phone call.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Escalating Malware Tactics Drive Global Cybercrime Epidemic<a href="https://www.helpnetsecurity.com/2024/04/01/q4-2023-malware-rise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Evasive, basic, and encrypted malware all increased in Q4 2023, fueling a rise in total malware, according to WatchGuard. The average number of malware detections rose 80% from the previous quarter.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Advanced Cybersecurity Strategies Boost Shareholder Returns<a href="https://www.helpnetsecurity.com/2024/03/29/cybersecurity-board-oversight/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies demonstrating advanced cybersecurity performance generate a shareholder return that is 372% higher than their peers with basic cybersecurity performance, according to a new report from Diligent and Bitsight.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

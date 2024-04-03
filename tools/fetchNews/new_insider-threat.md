@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+April 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OWASP Discloses a Data Breach Due to Wiki Misconfiguration<a href="https://securityaffairs.com/161371/data-breach/owasp-data-breach.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In late February 2024, the Foundation received a few support requests and became aware of a misconfiguration of OWASP’s old Wiki web server. The misconfiguration led to a data breach involving old member resumes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

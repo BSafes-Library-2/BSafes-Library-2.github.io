@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+April 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Design and Deliver an Effective Cybersecurity Exercise<a href="https://www.helpnetsecurity.com/2024/04/01/cybersecurity-exercises/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Armed forces have always utilized war-gaming exercises for battlefield training to prepare for times of conflict. With today’s digital transformation, the same concept is being applied in the form of cybersecurity exercises.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
