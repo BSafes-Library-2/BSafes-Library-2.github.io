@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2024
+April 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in LayerSlider WordPress Plugin Impacts One Million Sites<a href="https://www.bleepingcomputer.com/news/security/critical-flaw-in-layerslider-wordpress-plugin-impacts-1-million-sites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A premium WordPress plugin named LayerSlider, used in over one million sites, is vulnerable to unauthenticated SQL injection, requiring admins to prioritize applying security updates for the plugin.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scrut Automation Secures $10 Million in Growth Capital<a href="https://www.ciol.com/tech/scrut-automation-secures-10-million-in-growth-capital-4454120?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scrut Automation, a GRC platform provider, has announced today that it secured $10 million in growth capital from its existing investors, including Lightspeed, MassMutual Ventures, and Endiya Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SEXi Ransomware Gang Targets VMware ESXi Servers<a href="https://www.bleepingcomputer.com/news/security/hosting-firms-vmware-esxi-servers-hit-by-new-sexi-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chilean data center and hosting provider IxMetro Powerhost has suffered a cyberattack at the hands of a new ransomware gang known as SEXi, which encrypted the company's VMware ESXi servers and backups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Targeted Phishing Linked to 'The Com' Surges in the US, the UK, and Canada<a href="https://intel471.com/blog/targeted-phishing-linked-to-the-com-surges?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A persistent social engineering threat faced by enterprises involves attackers trying to obtain login credentials for identity and access management (IAM), cloud resources, or single sign-on (SSO)-enabled systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 73% Brace for Cybersecurity Impact on Business in the Next Year or Two<a href="https://www.helpnetsecurity.com/2024/04/02/cybersecurity-risks-readiness-level/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Only 3% of organizations across the globe have the ‘mature’ level of readiness needed to be resilient against modern cybersecurity risks, according to Cisco. The readiness is down from one year ago, when 15% of companies were ranked mature.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange State-Linked Hack Entirely Preventable, Cyber Review Board Finds<a href="https://www.cybersecuritydive.com/news/microsoft-exchange-hack-china-preventable/712146/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-affiliated threat actor Microsoft identified as Storm-0558 compromised the Microsoft Exchange Online mailboxes of 22 organizations and more than 500 individuals in the attacks, which began in May 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Distinctive Campaign Evolution of Pikabot Malware<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/distinctive-campaign-evolution-of-pikabot-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+PikaBot, along with other malicious loaders like QBot and DarkGate, heavily depends on spam campaigns for distribution. Its initial access strategies are intricately crafted, utilizing geographically targeted spam emails for specific countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Magento Shoplift Malware Targets Both WordPress and Magento CMS on E-Commerce Sites<a href="https://blog.sucuri.net/2024/04/magento-shoplift-ecommerce-malware-targets-both-wordpress-magento-cms.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While it pretends to be a Google Analytics script, this is merely a distraction from the true nature of the credit card skimming JavaScript code snippet embedded in the infected website.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unveiling the Fallout: Operation Cronos' Impact on LockBit Following Landmark Disruption<a href="https://www.trendmicro.com/en_us/research/24/d/operation-cronos-aftermath.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Contrary to what the group themselves have stated, activities observed post-disruption would indicate that Operation Chronos has a significant impact on the group’s activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Fixed Another Chrome Zero-Day Exploited at Pwn2Own<a href="https://securityaffairs.com/161445/hacking/google-chrome-zero-day-pwn2own.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability CVE-2024-3159 is an out-of-bounds memory access in the V8 JavaScript engine. The flaw was demonstrated by Edouard Bochin (@le_douds) and Tao Yan (@Ga1ois) of Palo Alto Networks during the Pwn2Own 2024 on March 22, 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 2, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How to Design and Deliver an Effective Cybersecurity Exercise<a href="https://www.helpnetsecurity.com/2024/04/01/cybersecurity-exercises/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ How to Design and Deliver an Effective Cybersecurity Exercise<a href="https://ww
 Armed forces have always utilized war-gaming exercises for battlefield training to prepare for times of conflict. With today’s digital transformation, the same concept is being applied in the form of cybersecurity exercises.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2024
+April 2, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FCC to Probe ‘Grave’ Weaknesses in Phone Network Infrastructure<a href="https://therecord.media/fcc-ss7-diameter-protocols-investigation?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ FCC to Probe ‘Grave’ Weaknesses in Phone Network Infrastructure<a href="http
 The Federal Communications Commission (FCC) says it is taking action to address significant weaknesses in telecommunications networks that can enable cybercrime and spying.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2024
+April 2, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Losses Linked to Impersonation Scams Top $1 Billion Yearly, FTC Says<a href="https://therecord.media/impersonation-scam-losses-top-1-billion?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Losses Linked to Impersonation Scams Top $1 Billion Yearly, FTC Says<a href="htt
 A classic type of fraud — when a crook impersonates a business or a government agency — appears to be bigger than ever, according to federal statistics, and it’s now most likely to begin via text message or email instead of a phone call.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2024
+April 2, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Escalating Malware Tactics Drive Global Cybercrime Epidemic<a href="https://www.helpnetsecurity.com/2024/04/01/q4-2023-malware-rise/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Escalating Malware Tactics Drive Global Cybercrime Epidemic<a href="https://www.
 Evasive, basic, and encrypted malware all increased in Q4 2023, fueling a rise in total malware, according to WatchGuard. The average number of malware detections rose 80% from the previous quarter.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2024
+April 2, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OWASP Discloses a Data Breach Due to Wiki Misconfiguration<a href="https://securityaffairs.com/161371/data-breach/owasp-data-breach.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ OWASP Discloses a Data Breach Due to Wiki Misconfiguration<a href="https://secur
 In late February 2024, the Foundation received a few support requests and became aware of a misconfiguration of OWASP’s old Wiki web server. The misconfiguration led to a data breach involving old member resumes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2024
+April 2, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability Database Backlog Due to Increased Volume, Changes in ‘Support,’ NIST Says<a href="https://therecord.media/vulnerability-database-backlog-nist-support?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Vulnerability Database Backlog Due to Increased Volume, Changes in ‘Support,�
 The National Institute of Standards and Technology (NIST) blamed increases in the volume of software and “a change in interagency support” for the recent backlog of vulnerabilities analyzed in the organization’s National Vulnerability Database (NVD).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2024
+April 2, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vultur Banking Malware for Android Poses as McAfee Security App<a href="https://www.bleepingcomputer.com/news/security/vultur-banking-malware-for-android-poses-as-mcafee-security-app/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Vultur Banking Malware for Android Poses as McAfee Security App<a href="https://
 Fox-IT warned that a new, evasive version of Vultur spreads to victims through a hybrid attack that relies on SMS phishing and phone calls that trick the targets into installing a version of the malware that masquerades as the McAfee Security app.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2024
+April 2, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data Leak at Shopping Platform PandaBuy Impacts 1.3 Million Users<a href="https://www.bleepingcomputer.com/news/security/shopping-platform-pandabuy-data-leak-impacts-13-million-users/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Data Leak at Shopping Platform PandaBuy Impacts 1.3 Million Users<a href="https:
 "The data was stolen by exploiting several critical vulnerabilities in the platform's API and other bugs were identified allowing access to the internal service of the website," the threat actor named 'Sanggiero' said.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2024
+April 2, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Advanced Cybersecurity Strategies Boost Shareholder Returns<a href="https://www.helpnetsecurity.com/2024/03/29/cybersecurity-board-oversight/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Advanced Cybersecurity Strategies Boost Shareholder Returns<a href="https://www.
 Companies demonstrating advanced cybersecurity performance generate a shareholder return that is 372% higher than their peers with basic cybersecurity performance, according to a new report from Diligent and Bitsight.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 2, 2024
+April 2, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Prudential Insurance Says Data of 36,000 Exposed During February Cyberattack<a href="https://therecord.media/prudential-discloses-new-information-from-february-incident?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Update: Prudential Insurance Says Data of 36,000 Exposed During February Cyberat
 “Through the investigation, we learned that the unauthorized third party gained access to our network on February 4, 2024, and removed a small percentage of personal information from our systems,” the breach notification letters said.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
