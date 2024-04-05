@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Targeted Phishing Linked to 'The Com' Surges in the US, the UK, and Canada<a href="https://intel471.com/blog/targeted-phishing-linked-to-the-com-surges?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A persistent social engineering threat faced by enterprises involves attackers trying to obtain login credentials for identity and access management (IAM), cloud resources, or single sign-on (SSO)-enabled systems.
+</details>
+<div style="text-align: right" markdown="1">
+Intel 471
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

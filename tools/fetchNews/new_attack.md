@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SEXi Ransomware Gang Targets VMware ESXi Servers<a href="https://www.bleepingcomputer.com/news/security/hosting-firms-vmware-esxi-servers-hit-by-new-sexi-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chilean data center and hosting provider IxMetro Powerhost has suffered a cyberattack at the hands of a new ransomware gang known as SEXi, which encrypted the company's VMware ESXi servers and backups.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

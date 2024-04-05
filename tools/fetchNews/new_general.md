@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 73% Brace for Cybersecurity Impact on Business in the Next Year or Two<a href="https://www.helpnetsecurity.com/2024/04/02/cybersecurity-risks-readiness-level/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Only 3% of organizations across the globe have the ‘mature’ level of readiness needed to be resilient against modern cybersecurity risks, according to Cisco. The readiness is down from one year ago, when 15% of companies were ranked mature.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 5, 2024
+April 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw in LayerSlider WordPress Plugin Impacts One Million Sites<a href="https://www.bleepingcomputer.com/news/security/critical-flaw-in-layerslider-wordpress-plugin-impacts-1-million-sites/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Critical Flaw in LayerSlider WordPress Plugin Impacts One Million Sites<a href="
 A premium WordPress plugin named LayerSlider, used in over one million sites, is vulnerable to unauthenticated SQL injection, requiring admins to prioritize applying security updates for the plugin.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2024
+April 4, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scrut Automation Secures $10 Million in Growth Capital<a href="https://www.ciol.com/tech/scrut-automation-secures-10-million-in-growth-capital-4454120?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Scrut Automation Secures $10 Million in Growth Capital<a href="https://www.ciol.
 Scrut Automation, a GRC platform provider, has announced today that it secured $10 million in growth capital from its existing investors, including Lightspeed, MassMutual Ventures, and Endiya Partners.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Ciol
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2024
+April 4, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SEXi Ransomware Gang Targets VMware ESXi Servers<a href="https://www.bleepingcomputer.com/news/security/hosting-firms-vmware-esxi-servers-hit-by-new-sexi-ransomware/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ New SEXi Ransomware Gang Targets VMware ESXi Servers<a href="https://www.bleepin
 Chilean data center and hosting provider IxMetro Powerhost has suffered a cyberattack at the hands of a new ransomware gang known as SEXi, which encrypted the company's VMware ESXi servers and backups.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2024
+April 4, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Targeted Phishing Linked to 'The Com' Surges in the US, the UK, and Canada<a href="https://intel471.com/blog/targeted-phishing-linked-to-the-com-surges?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Targeted Phishing Linked to 'The Com' Surges in the US, the UK, and Canada<a hre
 A persistent social engineering threat faced by enterprises involves attackers trying to obtain login credentials for identity and access management (IAM), cloud resources, or single sign-on (SSO)-enabled systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Intel 471
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2024
+April 4, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 73% Brace for Cybersecurity Impact on Business in the Next Year or Two<a href="https://www.helpnetsecurity.com/2024/04/02/cybersecurity-risks-readiness-level/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Report: 73% Brace for Cybersecurity Impact on Business in the Next Year or Two<a
 Only 3% of organizations across the globe have the ‘mature’ level of readiness needed to be resilient against modern cybersecurity risks, according to Cisco. The readiness is down from one year ago, when 15% of companies were ranked mature.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2024
+April 4, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Exchange State-Linked Hack Entirely Preventable, Cyber Review Board Finds<a href="https://www.cybersecuritydive.com/news/microsoft-exchange-hack-china-preventable/712146/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Microsoft Exchange State-Linked Hack Entirely Preventable, Cyber Review Board Fi
 The China-affiliated threat actor Microsoft identified as Storm-0558 compromised the Microsoft Exchange Online mailboxes of 22 organizations and more than 500 individuals in the attacks, which began in May 2023.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2024
+April 4, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Distinctive Campaign Evolution of Pikabot Malware<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/distinctive-campaign-evolution-of-pikabot-malware/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Distinctive Campaign Evolution of Pikabot Malware<a href="https://www.mcafee.com
 PikaBot, along with other malicious loaders like QBot and DarkGate, heavily depends on spam campaigns for distribution. Its initial access strategies are intricately crafted, utilizing geographically targeted spam emails for specific countries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+MCafee
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2024
+April 4, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Magento Shoplift Malware Targets Both WordPress and Magento CMS on E-Commerce Sites<a href="https://blog.sucuri.net/2024/04/magento-shoplift-ecommerce-malware-targets-both-wordpress-magento-cms.html?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Magento Shoplift Malware Targets Both WordPress and Magento CMS on E-Commerce Si
 While it pretends to be a Google Analytics script, this is merely a distraction from the true nature of the credit card skimming JavaScript code snippet embedded in the infected website.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2024
+April 4, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unveiling the Fallout: Operation Cronos' Impact on LockBit Following Landmark Disruption<a href="https://www.trendmicro.com/en_us/research/24/d/operation-cronos-aftermath.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Unveiling the Fallout: Operation Cronos' Impact on LockBit Following Landmark Di
 Contrary to what the group themselves have stated, activities observed post-disruption would indicate that Operation Chronos has a significant impact on the group’s activities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 4, 2024
+April 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Fixed Another Chrome Zero-Day Exploited at Pwn2Own<a href="https://securityaffairs.com/161445/hacking/google-chrome-zero-day-pwn2own.html?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Google Fixed Another Chrome Zero-Day Exploited at Pwn2Own<a href="https://securi
 The vulnerability CVE-2024-3159 is an out-of-bounds memory access in the V8 JavaScript engine. The flaw was demonstrated by Edouard Bochin (@le_douds) and Tao Yan (@Ga1ois) of Palo Alto Networks during the Pwn2Own 2024 on March 22, 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affair
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
