@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unveiling the Fallout: Operation Cronos' Impact on LockBit Following Landmark Disruption<a href="https://www.trendmicro.com/en_us/research/24/d/operation-cronos-aftermath.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Contrary to what the group themselves have stated, activities observed post-disruption would indicate that Operation Chronos has a significant impact on the group’s activities.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

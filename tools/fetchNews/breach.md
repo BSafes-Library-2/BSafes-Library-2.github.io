@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+April 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scrut Automation Secures $10 Million in Growth Capital<a href="https://www.ciol.com/tech/scrut-automation-secures-10-million-in-growth-capital-4454120?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scrut Automation, a GRC platform provider, has announced today that it secured $10 million in growth capital from its existing investors, including Lightspeed, MassMutual Ventures, and Endiya Partners.
+</details>
+<div style="text-align: right" markdown="1">
+Ciol
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Exchange State-Linked Hack Entirely Preventable, Cyber Review Board Finds<a href="https://www.cybersecuritydive.com/news/microsoft-exchange-hack-china-preventable/712146/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-affiliated threat actor Microsoft identified as Storm-0558 compromised the Microsoft Exchange Online mailboxes of 22 organizations and more than 500 individuals in the attacks, which began in May 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
