@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Attacks Targeting Political Parties, Germany Warns<a href="https://www.healthcareinfosecurity.com/phishing-attacks-targeting-political-parties-germany-warns-a-24784?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"An increase of attacks can currently be assumed, particularly in light of the upcoming European elections. These may include phishing attacks to publish stolen data or documents," a BSI spokesperson told Information Security Media Group.
+</details>
+<div style="text-align: right" markdown="1">
+Healthcare Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

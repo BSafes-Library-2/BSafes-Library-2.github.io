@@ -34,6 +34,102 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Attacks Targeting Political Parties, Germany Warns<a href="https://www.healthcareinfosecurity.com/phishing-attacks-targeting-political-parties-germany-warns-a-24784?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"An increase of attacks can currently be assumed, particularly in light of the upcoming European elections. These may include phishing attacks to publish stolen data or documents," a BSI spokesperson told Information Security Media Group.
+</details>
+<div style="text-align: right" markdown="1">
+Healthcare Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Red Ransomware Group (Red CryptoApp) Exposes Victims on Wall of Shame<a href="https://www.hackread.com/red-ransomware-group-red-cryptoapp-wall-of-shame/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers at Netenrich have uncovered a new ransomware group called Red Ransomware Group (Red CryptoApp). This group operates differently from typical ransomware outfits, adding a twist to their extortion tactics.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New HTTP/2 DoS Attack can Crash Web Servers with a Single TCP Connection<a href="https://www.bleepingcomputer.com/news/security/new-http-2-dos-attack-can-crash-web-servers-with-a-single-connection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered HTTP/2 protocol vulnerabilities called "CONTINUATION Flood" can lead to denial of service (DoS) attacks, crashing web servers with a single TCP connection in some implementations.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnamese Threat Actor Targeting Financial Data Across Asia<a href="https://www.govinfosecurity.com/vietnamese-threat-actor-targeting-financial-data-across-asia-a-24796?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vietnamese financially motivated hackers are targeting businesses across Asia in a campaign to harvest corporate credentials and financial data for resale in online criminal markets.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Latrodectus Malware Replaces IcedID in Network Breaches<a href="https://www.bleepingcomputer.com/news/security/new-latrodectus-malware-replaces-icedid-in-network-breaches/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While similar to IcedID, Proofpoint researchers confirmed it is an entirely new malware, likely created by the IcedID developers. Latrodectus shares infrastructure overlap with historic IcedID operations.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Visa Warns of New JSOutProx Malware Variant Targeting Financial Organizations<a href="https://www.bleepingcomputer.com/news/security/visa-warns-of-new-jsoutprox-malware-variant-targeting-financial-orgs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+First encountered in December 2019, JsOutProx is a RAT and highly obfuscated JavaScript backdoor that allows its operators to run shell commands, download additional payloads, execute files, capture screenshots, establish persistence, and more.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

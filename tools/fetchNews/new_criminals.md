@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Red Ransomware Group (Red CryptoApp) Exposes Victims on Wall of Shame<a href="https://www.hackread.com/red-ransomware-group-red-cryptoapp-wall-of-shame/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers at Netenrich have uncovered a new ransomware group called Red Ransomware Group (Red CryptoApp). This group operates differently from typical ransomware outfits, adding a twist to their extortion tactics.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

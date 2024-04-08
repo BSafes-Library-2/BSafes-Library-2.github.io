@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vietnamese Threat Actor Targeting Financial Data Across Asia<a href="https://www.govinfosecurity.com/vietnamese-threat-actor-targeting-financial-data-across-asia-a-24796?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vietnamese financially motivated hackers are targeting businesses across Asia in a campaign to harvest corporate credentials and financial data for resale in online criminal markets.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
