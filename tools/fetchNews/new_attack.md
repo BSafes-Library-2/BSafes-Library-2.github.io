@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+April 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Escalation of Fake E-Shop Campaign Threatens Banking Security in Multiple Regions<a href="https://thecyberexpress.com/e-shop-campaign-threaten-banking-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the fake e-shop campaign leverages tools such as the open-source string obfuscator “Paranoid” and the Janus WebRTC module, showcasing a deep understanding of technological intricacies to evade detection and amplify impact.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: Police Launch Inquiry After MPs Targeted in Apparent ‘Spear-Phishing’ Attack<a href="https://www.theguardian.com/uk-news/2024/apr/04/police-launch-inquiry-after-mps-targeted-in-apparent-spear-phishing-attack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A police investigation has been launched after MPs were apparently targeted in a “spear-phishing” attack, in what security experts believe could be an attempt to compromise the UK Parliament.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

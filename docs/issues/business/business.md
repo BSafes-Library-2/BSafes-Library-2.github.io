@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Permiso Secures $18.5 Million in Series A Funding to Fortify Cloud Identity Security Landscape<a href="https://fintech.global/2024/04/05/permiso-secures-18-5m-in-series-a-to-fortify-cloud-identity-security-landscape/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Silicon Angle, this significant injection of capital is spearheaded by Altimeter Capital Management LP, with notable participation from Point72 Ventures LLC, marking a new milestone for the company founded in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Fintech 
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

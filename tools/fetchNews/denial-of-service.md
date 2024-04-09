@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+April 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New HTTP/2 DoS Attack can Crash Web Servers with a Single TCP Connection<a href="https://www.bleepingcomputer.com/news/security/new-http-2-dos-attack-can-crash-web-servers-with-a-single-connection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Newly discovered HTTP/2 protocol vulnerabilities called "CONTINUATION Flood" can lead to denial of service (DoS) attacks, crashing web servers with a single TCP connection in some implementations.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 February 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
