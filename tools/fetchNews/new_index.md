@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2024
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Escalation of Fake E-Shop Campaign Threatens Banking Security in Multiple Regions<a href="https://thecyberexpress.com/e-shop-campaign-threaten-banking-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the fake e-shop campaign leverages tools such as the open-source string obfuscator “Paranoid” and the Janus WebRTC module, showcasing a deep understanding of technological intricacies to evade detection and amplify impact.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hotel Check-In Terminal Leaks Rafts of Guests' Room Codes<a href="https://www.theregister.com/2024/04/05/hotel_checkin_terminal_bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Martin Schobert at Swiss security firm Pentagrid discovered that an attacker could input a series of six consecutive dashes (------) in place of a booking reference number and the terminal would return an extensive list of room details.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Facebook MidJourney AI Page Promoted Malware to 1.2 Million People<a href="https://www.bleepingcomputer.com/news/security/fake-facebook-midjourney-ai-page-promoted-malware-to-12-million-people/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are using Facebook advertisements and hijacked pages to promote fake Artificial Intelligence services, such as MidJourney, OpenAI's SORA and ChatGPT-5, and DALL-E, to infect unsuspecting users with password-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Sues Crypto Investment App Makers Over Alleged Massive “Pig Butchering” Scam<a href="https://www.bitdefender.com/blog/hotforsecurity/google-sues-crypto-investment-app-makers-over-alleged-massive-pig-butchering-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two China-based Android app developers are being sued by Google for an alleged scam targeting 100,000 users worldwide through fake cryptocurrency and other investment apps.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can Use AI Hallucinations to Spread Malware<a href="https://www.healthcareinfosecurity.com/hackers-use-ai-hallucinations-to-spread-malware-a-24793?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One security researcher investigating AI-hallucinated libraries said late last month that he found chatbots calling for a nonexistent Python package dubbed "huggingface-cli."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 92,000 Internet-Facing D-Link NAS Devices can be Easily Hacked<a href="https://securityaffairs.com/161549/hacking/d-link-nas-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher who goes online with the moniker ‘Netsecfish’ disclosed a new arbitrary command injection and hardcoded backdoor flaw, tracked as CVE-2024-3273, that impacts multiple end-of-life D-Link NAS device models.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Chamber of Commerce, Industry Groups Call for 30-Day Delay in CIRCIA Rules<a href="https://therecord.media/industry-groups-call-for-delay-circia-commenting?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Chamber of Commerce and multiple industry leaders are calling for a month-long extension of the 60-day comment period for a new incident reporting rule being issued by the top cybersecurity agency in the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Permiso Secures $18.5 Million in Series A Funding to Fortify Cloud Identity Security Landscape<a href="https://fintech.global/2024/04/05/permiso-secures-18-5m-in-series-a-to-fortify-cloud-identity-security-landscape/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Silicon Angle, this significant injection of capital is spearheaded by Altimeter Capital Management LP, with notable participation from Point72 Ventures LLC, marking a new milestone for the company founded in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: Police Launch Inquiry After MPs Targeted in Apparent ‘Spear-Phishing’ Attack<a href="https://www.theguardian.com/uk-news/2024/apr/04/police-launch-inquiry-after-mps-targeted-in-apparent-spear-phishing-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A police investigation has been launched after MPs were apparently targeted in a “spear-phishing” attack, in what security experts believe could be an attempt to compromise the UK Parliament.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wiz Discovers Flaws in GenAI Models Enabling Customer Data Theft<a href="https://www.infosecurity-magazine.com/news/wiz-discovers-flaws-generative-ai/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud security provider Wiz found two critical architecture flaws in generative AI models uploaded to Hugging Face, namely shared Inference infrastructure takeover and shared CI/CD takeover.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 6, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Attacks Targeting Political Parties, Germany Warns<a href="https://www.healthcareinfosecurity.com/phishing-attacks-targeting-political-parties-germany-warns-a-24784?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Phishing Attacks Targeting Political Parties, Germany Warns<a href="https://www.
 "An increase of attacks can currently be assumed, particularly in light of the upcoming European elections. These may include phishing attacks to publish stolen data or documents," a BSI spokesperson told Information Security Media Group.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Healthcare Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2024
+April 6, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Red Ransomware Group (Red CryptoApp) Exposes Victims on Wall of Shame<a href="https://www.hackread.com/red-ransomware-group-red-cryptoapp-wall-of-shame/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ New Red Ransomware Group (Red CryptoApp) Exposes Victims on Wall of Shame<a href
 Cybersecurity researchers at Netenrich have uncovered a new ransomware group called Red Ransomware Group (Red CryptoApp). This group operates differently from typical ransomware outfits, adding a twist to their extortion tactics.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2024
+April 6, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New HTTP/2 DoS Attack can Crash Web Servers with a Single TCP Connection<a href="https://www.bleepingcomputer.com/news/security/new-http-2-dos-attack-can-crash-web-servers-with-a-single-connection/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ New HTTP/2 DoS Attack can Crash Web Servers with a Single TCP Connection<a href=
 Newly discovered HTTP/2 protocol vulnerabilities called "CONTINUATION Flood" can lead to denial of service (DoS) attacks, crashing web servers with a single TCP connection in some implementations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2024
+April 6, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vietnamese Threat Actor Targeting Financial Data Across Asia<a href="https://www.govinfosecurity.com/vietnamese-threat-actor-targeting-financial-data-across-asia-a-24796?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Vietnamese Threat Actor Targeting Financial Data Across Asia<a href="https://www
 Vietnamese financially motivated hackers are targeting businesses across Asia in a campaign to harvest corporate credentials and financial data for resale in online criminal markets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Gov Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2024
+April 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Latrodectus Malware Replaces IcedID in Network Breaches<a href="https://www.bleepingcomputer.com/news/security/new-latrodectus-malware-replaces-icedid-in-network-breaches/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ New Latrodectus Malware Replaces IcedID in Network Breaches<a href="https://www.
 While similar to IcedID, Proofpoint researchers confirmed it is an entirely new malware, likely created by the IcedID developers. Latrodectus shares infrastructure overlap with historic IcedID operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 6, 2024
+April 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Visa Warns of New JSOutProx Malware Variant Targeting Financial Organizations<a href="https://www.bleepingcomputer.com/news/security/visa-warns-of-new-jsoutprox-malware-variant-targeting-financial-orgs/?&web_view=true"> Full Text</a>
@@ -124,7 +284,7 @@ Visa Warns of New JSOutProx Malware Variant Targeting Financial Organizations<a 
 First encountered in December 2019, JsOutProx is a RAT and highly obfuscated JavaScript backdoor that allows its operators to run shell commands, download additional payloads, execute files, capture screenshots, establish persistence, and more.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

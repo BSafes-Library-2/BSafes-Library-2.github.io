@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Escalation of Fake E-Shop Campaign Threatens Banking Security in Multiple Regions<a href="https://thecyberexpress.com/e-shop-campaign-threaten-banking-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind the fake e-shop campaign leverages tools such as the open-source string obfuscator “Paranoid” and the Janus WebRTC module, showcasing a deep understanding of technological intricacies to evade detection and amplify impact.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hotel Check-In Terminal Leaks Rafts of Guests' Room Codes<a href="https://www.theregister.com/2024/04/05/hotel_checkin_terminal_bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Martin Schobert at Swiss security firm Pentagrid discovered that an attacker could input a series of six consecutive dashes (------) in place of a booking reference number and the terminal would return an extensive list of room details.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Facebook MidJourney AI Page Promoted Malware to 1.2 Million People<a href="https://www.bleepingcomputer.com/news/security/fake-facebook-midjourney-ai-page-promoted-malware-to-12-million-people/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are using Facebook advertisements and hijacked pages to promote fake Artificial Intelligence services, such as MidJourney, OpenAI's SORA and ChatGPT-5, and DALL-E, to infect unsuspecting users with password-stealing malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Sues Crypto Investment App Makers Over Alleged Massive “Pig Butchering” Scam<a href="https://www.bitdefender.com/blog/hotforsecurity/google-sues-crypto-investment-app-makers-over-alleged-massive-pig-butchering-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two China-based Android app developers are being sued by Google for an alleged scam targeting 100,000 users worldwide through fake cryptocurrency and other investment apps.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers can Use AI Hallucinations to Spread Malware<a href="https://www.healthcareinfosecurity.com/hackers-use-ai-hallucinations-to-spread-malware-a-24793?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One security researcher investigating AI-hallucinated libraries said late last month that he found chatbots calling for a nonexistent Python package dubbed "huggingface-cli."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Over 92,000 Internet-Facing D-Link NAS Devices can be Easily Hacked<a href="https://securityaffairs.com/161549/hacking/d-link-nas-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A researcher who goes online with the moniker ‘Netsecfish’ disclosed a new arbitrary command injection and hardcoded backdoor flaw, tracked as CVE-2024-3273, that impacts multiple end-of-life D-Link NAS device models.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Chamber of Commerce, Industry Groups Call for 30-Day Delay in CIRCIA Rules<a href="https://therecord.media/industry-groups-call-for-delay-circia-commenting?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Chamber of Commerce and multiple industry leaders are calling for a month-long extension of the 60-day comment period for a new incident reporting rule being issued by the top cybersecurity agency in the U.S.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Permiso Secures $18.5 Million in Series A Funding to Fortify Cloud Identity Security Landscape<a href="https://fintech.global/2024/04/05/permiso-secures-18-5m-in-series-a-to-fortify-cloud-identity-security-landscape/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Silicon Angle, this significant injection of capital is spearheaded by Altimeter Capital Management LP, with notable participation from Point72 Ventures LLC, marking a new milestone for the company founded in 2020.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: Police Launch Inquiry After MPs Targeted in Apparent ‘Spear-Phishing’ Attack<a href="https://www.theguardian.com/uk-news/2024/apr/04/police-launch-inquiry-after-mps-targeted-in-apparent-spear-phishing-attack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A police investigation has been launched after MPs were apparently targeted in a “spear-phishing” attack, in what security experts believe could be an attempt to compromise the UK Parliament.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wiz Discovers Flaws in GenAI Models Enabling Customer Data Theft<a href="https://www.infosecurity-magazine.com/news/wiz-discovers-flaws-generative-ai/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud security provider Wiz found two critical architecture flaws in generative AI models uploaded to Hugging Face, namely shared Inference infrastructure takeover and shared CI/CD takeover.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 6, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
