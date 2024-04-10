@@ -34,7 +34,151 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2024
+April 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Deception - Suspended Domains Reveal Malicious Payload for Latin American Region<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/phishing-deception-suspended-domains-reveal-malicious-payload-for-latin-american-region/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing email contained a ZIP file attachment that when extracted reveals an HTML file that leads to a malicious file download posing as an invoice. The email header has an email address format that uses the domain ‘temporary[.]link’.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Two-Step Phishing Campaign Targets LinkedIn Users<a href="https://perception-point.io/blog/professionally-hooked-microsoft-two-step-phishing-campaign-targets-linkedin-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new LinkedIn threat combines breached users’ accounts and an evasive 2-step phishing attack. A recent Python-based infostealer called Snake targets Facebook users with malicious messages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Health Deptarment Warns Hospitals of Hackers Targeting IT Help Desks<a href="https://www.bleepingcomputer.com/news/security/us-health-dept-warns-hospitals-of-hackers-targeting-it-help-desks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Health and Human Services (HHS) warns that hackers are now using social engineering tactics to target IT help desks across the Healthcare and Public Health (HPH) sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Deploy Crypto Drainers on Thousands of WordPress Sites<a href="https://www.bleepingcomputer.com/news/security/hackers-deploy-crypto-drainers-on-thousands-of-wordpress-sites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to cybersecurity researcher MalwareHunterTeam, the threat actors have now begun monetizing the pool of compromised WordPress sites to display pop-ups promoting fake NFT offers and crypto discounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patches for CVE-2024-1086 for CloudLinux 6h, 7 Users on KernelCare Live<a href="https://tuxcare.com/blog/patches-for-cve-2024-1086-for-cloudlinux-6h-7-users-on-kernelcare-live/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The KernelCare team is working on deploying a live patch for CVE-2024-1086 for CloudLinux users. A patch has already been released for CloudLinux 6h and CloudLinux 7, and users can manually update without a live patch.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminal Adoption of Browser Fingerprinting<a href="https://www.helpnetsecurity.com/2024/04/05/browser-fingerprinting/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Numerous pieces of data can be collected as a part of fingerprinting, including Time zone, Language settings, IP address, Cookie settings, Screen resolution, Browser privacy, and User-agent string.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Automating Pikabot’s String Deobfuscation<a href="https://www.zscaler.com/blogs/security-research/automating-pikabot-s-string-deobfuscation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Previous versions of Pikabot used advanced string encryption techniques, which have been replaced with simpler algorithms. Previously, the strings were encrypted using a combination of AES-CBC and RC4 algorithms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScrubCrypt Deploys VenomRAT with an Arsenal of Plugins<a href="https://www.fortinet.com/blog/threat-research/scrubcrypt-deploys-venomrat-with-arsenal-of-plugins?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered an intricate multi-stage attack that leverages invoice-themed phishing decoys to deliver a wide range of malware such as Venom RAT, Remcos RAT, XWorm, NanoCore RAT, and a stealer that targets crypto wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware-Initiated Vulnerability Scanning is on the Rise<a href="https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been using scanning methods to pinpoint vulnerabilities in networks or systems for a very long time. Some scanning attacks originate from benign networks likely driven by malware on infected machines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 8, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Escalation of Fake E-Shop Campaign Threatens Banking Security in Multiple Regions<a href="https://thecyberexpress.com/e-shop-campaign-threaten-banking-security/?&web_view=true"> Full Text</a>
@@ -44,13 +188,13 @@ Escalation of Fake E-Shop Campaign Threatens Banking Security in Multiple Region
 The threat actor behind the fake e-shop campaign leverages tools such as the open-source string obfuscator “Paranoid” and the Janus WebRTC module, showcasing a deep understanding of technological intricacies to evade detection and amplify impact.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2024
+April 8, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hotel Check-In Terminal Leaks Rafts of Guests' Room Codes<a href="https://www.theregister.com/2024/04/05/hotel_checkin_terminal_bug/?&web_view=true"> Full Text</a>
@@ -60,13 +204,13 @@ Hotel Check-In Terminal Leaks Rafts of Guests' Room Codes<a href="https://www.th
 Martin Schobert at Swiss security firm Pentagrid discovered that an attacker could input a series of six consecutive dashes (------) in place of a booking reference number and the terminal would return an extensive list of room details.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2024
+April 8, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Facebook MidJourney AI Page Promoted Malware to 1.2 Million People<a href="https://www.bleepingcomputer.com/news/security/fake-facebook-midjourney-ai-page-promoted-malware-to-12-million-people/?&web_view=true"> Full Text</a>
@@ -76,13 +220,13 @@ Fake Facebook MidJourney AI Page Promoted Malware to 1.2 Million People<a href="
 Hackers are using Facebook advertisements and hijacked pages to promote fake Artificial Intelligence services, such as MidJourney, OpenAI's SORA and ChatGPT-5, and DALL-E, to infect unsuspecting users with password-stealing malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2024
+April 8, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Sues Crypto Investment App Makers Over Alleged Massive “Pig Butchering” Scam<a href="https://www.bitdefender.com/blog/hotforsecurity/google-sues-crypto-investment-app-makers-over-alleged-massive-pig-butchering-scam/?&web_view=true"> Full Text</a>
@@ -92,13 +236,13 @@ Google Sues Crypto Investment App Makers Over Alleged Massive “Pig Butchering�
 Two China-based Android app developers are being sued by Google for an alleged scam targeting 100,000 users worldwide through fake cryptocurrency and other investment apps.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bit Defender
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2024
+April 8, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers can Use AI Hallucinations to Spread Malware<a href="https://www.healthcareinfosecurity.com/hackers-use-ai-hallucinations-to-spread-malware-a-24793?&web_view=true"> Full Text</a>
@@ -108,13 +252,13 @@ Hackers can Use AI Hallucinations to Spread Malware<a href="https://www.healthca
 One security researcher investigating AI-hallucinated libraries said late last month that he found chatbots calling for a nonexistent Python package dubbed "huggingface-cli."
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Healthcare Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2024
+April 8, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Over 92,000 Internet-Facing D-Link NAS Devices can be Easily Hacked<a href="https://securityaffairs.com/161549/hacking/d-link-nas-flaw.html?&web_view=true"> Full Text</a>
@@ -124,13 +268,13 @@ Over 92,000 Internet-Facing D-Link NAS Devices can be Easily Hacked<a href="http
 A researcher who goes online with the moniker ‘Netsecfish’ disclosed a new arbitrary command injection and hardcoded backdoor flaw, tracked as CVE-2024-3273, that impacts multiple end-of-life D-Link NAS device models.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2024
+April 8, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Chamber of Commerce, Industry Groups Call for 30-Day Delay in CIRCIA Rules<a href="https://therecord.media/industry-groups-call-for-delay-circia-commenting?&web_view=true"> Full Text</a>
@@ -140,13 +284,13 @@ US Chamber of Commerce, Industry Groups Call for 30-Day Delay in CIRCIA Rules<a 
 The U.S. Chamber of Commerce and multiple industry leaders are calling for a month-long extension of the 60-day comment period for a new incident reporting rule being issued by the top cybersecurity agency in the U.S.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2024
+April 8, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Permiso Secures $18.5 Million in Series A Funding to Fortify Cloud Identity Security Landscape<a href="https://fintech.global/2024/04/05/permiso-secures-18-5m-in-series-a-to-fortify-cloud-identity-security-landscape/?&web_view=true"> Full Text</a>
@@ -156,13 +300,13 @@ Permiso Secures $18.5 Million in Series A Funding to Fortify Cloud Identity Secu
 According to Silicon Angle, this significant injection of capital is spearheaded by Altimeter Capital Management LP, with notable participation from Point72 Ventures LLC, marking a new milestone for the company founded in 2020.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fintech 
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2024
+April 8, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK: Police Launch Inquiry After MPs Targeted in Apparent ‘Spear-Phishing’ Attack<a href="https://www.theguardian.com/uk-news/2024/apr/04/police-launch-inquiry-after-mps-targeted-in-apparent-spear-phishing-attack?&web_view=true"> Full Text</a>
@@ -172,13 +316,13 @@ UK: Police Launch Inquiry After MPs Targeted in Apparent ‘Spear-Phishing’ At
 A police investigation has been launched after MPs were apparently targeted in a “spear-phishing” attack, in what security experts believe could be an attempt to compromise the UK Parliament.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Guardian
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 8, 2024
+April 8, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Wiz Discovers Flaws in GenAI Models Enabling Customer Data Theft<a href="https://www.infosecurity-magazine.com/news/wiz-discovers-flaws-generative-ai/?&web_view=true"> Full Text</a>
@@ -188,7 +332,7 @@ Wiz Discovers Flaws in GenAI Models Enabling Customer Data Theft<a href="https:/
 Cloud security provider Wiz found two critical architecture flaws in generative AI models uploaded to Hugging Face, namely shared Inference infrastructure takeover and shared CI/CD takeover.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
