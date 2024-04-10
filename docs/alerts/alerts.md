@@ -18,6 +18,17 @@ An unpublished Proposed Rule by the Homeland Security Department on 04/04/2024
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 3, 2024 - Health Sector Cybersecurity Coordination Center 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social Engineering Attacks Targeting IT Help Desks in the Health Sector <a href="https://www.hhs.gov/sites/default/files/help-desk-social-engineering-sector-alert-tlpclear.pdf"> Full Text</a>
+</p>
+<details>
+HC3 has recently observed threat actors employing advanced social engineering tactics to target IT help desks in the health sector and gain initial access to target organizations. In general, threat actors continue to evolve their tactics, techniques, and procedures (TTPs) to achieve their goals. HC3 recommends various mitigations outlined in this alert, which involve user awareness training, as well as policies and procedures for increased security for identity verification with help desk requests. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 March 28, 2024 - OMB, EXECUTIVE OFFICE OF THE PRESIDENT
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

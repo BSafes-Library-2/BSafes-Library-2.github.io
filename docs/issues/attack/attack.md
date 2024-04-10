@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Deploy Crypto Drainers on Thousands of WordPress Sites<a href="https://www.bleepingcomputer.com/news/security/hackers-deploy-crypto-drainers-on-thousands-of-wordpress-sites/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to cybersecurity researcher MalwareHunterTeam, the threat actors have now begun monetizing the pool of compromised WordPress sites to display pop-ups promoting fake NFT offers and crypto discounts.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminal Adoption of Browser Fingerprinting<a href="https://www.helpnetsecurity.com/2024/04/05/browser-fingerprinting/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Numerous pieces of data can be collected as a part of fingerprinting, including Time zone, Language settings, IP address, Cookie settings, Screen resolution, Browser privacy, and User-agent string.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

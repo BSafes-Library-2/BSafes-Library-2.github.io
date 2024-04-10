@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Health Deptarment Warns Hospitals of Hackers Targeting IT Help Desks<a href="https://www.bleepingcomputer.com/news/security/us-health-dept-warns-hospitals-of-hackers-targeting-it-help-desks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Health and Human Services (HHS) warns that hackers are now using social engineering tactics to target IT help desks across the Healthcare and Public Health (HPH) sector.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
