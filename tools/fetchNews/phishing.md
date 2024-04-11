@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Deception - Suspended Domains Reveal Malicious Payload for Latin American Region<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/phishing-deception-suspended-domains-reveal-malicious-payload-for-latin-american-region/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing email contained a ZIP file attachment that when extracted reveals an HTML file that leads to a malicious file download posing as an invoice. The email header has an email address format that uses the domain ‘temporary[.]link’.
+</details>
+<div style="text-align: right" markdown="1">
+Trustwave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Two-Step Phishing Campaign Targets LinkedIn Users<a href="https://perception-point.io/blog/professionally-hooked-microsoft-two-step-phishing-campaign-targets-linkedin-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new LinkedIn threat combines breached users’ accounts and an evasive 2-step phishing attack. A recent Python-based infostealer called Snake targets Facebook users with malicious messages.
+</details>
+<div style="text-align: right" markdown="1">
+Perception Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ScrubCrypt Deploys VenomRAT with an Arsenal of Plugins<a href="https://www.fortinet.com/blog/threat-research/scrubcrypt-deploys-venomrat-with-arsenal-of-plugins?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered an intricate multi-stage attack that leverages invoice-themed phishing decoys to deliver a wide range of malware such as Venom RAT, Remcos RAT, XWorm, NanoCore RAT, and a stealer that targets crypto wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

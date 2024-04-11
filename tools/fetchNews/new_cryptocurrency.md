@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research Unearths RUBYCARP’s Multi-Miner Assault on Crypto<a href="https://www.infosecurity-magazine.com/news/rubycarps-multi-miner-assault/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the key findings from the technical write-up, published by Sysdig today, is the group’s use of a script capable of simultaneously deploying multiple cryptocurrency miners.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
