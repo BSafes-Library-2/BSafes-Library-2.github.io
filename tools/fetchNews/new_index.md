@@ -34,7 +34,119 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2024
+April 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat Actor Starry Addax Targets Human Rights Defenders in North Africa<a href="https://www.cybersecurity-help.cz/blog/3922.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Cisco’s Talos threat research team, Starry Addax has been active since January 2024, orchestrating spear-phishing campaigns aimed at individuals sympathetic to the Sahrawi Arab Democratic Republic (SADR) cause.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sidestepping SharePoint Security: Two New Techniques to Evade Exfiltration Detection<a href="https://www.varonis.com/blog/sidestepping-detection-while-exfiltrating-sharepoint-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These techniques can bypass the detection and enforcement policies of traditional tools, such as cloud access security brokers, data loss prevention, and SIEMs, by hiding downloads as less suspicious access and sync events.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research Unearths RUBYCARP’s Multi-Miner Assault on Crypto<a href="https://www.infosecurity-magazine.com/news/rubycarps-multi-miner-assault/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the key findings from the technical write-up, published by Sysdig today, is the group’s use of a script capable of simultaneously deploying multiple cryptocurrency miners.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover New Ransomware Gang ‘Muliaka’ Attacking Russian Businesses<a href="https://therecord.media/muliaka-ransomware-group-targeting-russian-businesses-conti?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang, which researchers at the Moscow-based cybersecurity company F.A.C.C.T. have dubbed “Muliaka," or Muddy Water in English, has left minimal traces from its attacks but has likely been active since at least December 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+91,000 Smart LG TV Devices Vulnerable to Remote Takeover<a href="https://www.hackread.com/smart-lg-tv-devices-vulnerable-remote-take-over/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers from Bitdefender discovered critical vulnerabilities in LG TVs running webOS versions 4 through 7. These vulnerabilities could allow attackers to gain complete control over the TV, steal data, or install malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Ahoi Attacks Could Compromise Confidential VMs<a href="https://www.scmagazine.com/brief/novel-ahoi-attacks-could-compromise-confidential-vms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers presented two variations of what they call Ahoi attacks. One of them, dubbed Heckler, involves a malicious hypervisor injecting interrupts to alter data and control flow, breaking the integrity and confidentiality of CVMs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vedalia APT Group Exploits Oversized LNK Files in Malware Campaign<a href="https://www.broadcom.com/support/security-center/protection-bulletin/vedalia-apt-group-exploits-oversized-lnk-files-in-malware-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vedalia APT group has ingeniously utilized LNK files with double extensions, effectively masking the malicious .lnk extension. This tactic deceives users into believing the files are harmless, increasing the likelihood of execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 9, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Deception - Suspended Domains Reveal Malicious Payload for Latin American Region<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/phishing-deception-suspended-domains-reveal-malicious-payload-for-latin-american-region/?&web_view=true"> Full Text</a>
@@ -44,13 +156,13 @@ Phishing Deception - Suspended Domains Reveal Malicious Payload for Latin Americ
 The phishing email contained a ZIP file attachment that when extracted reveals an HTML file that leads to a malicious file download posing as an invoice. The email header has an email address format that uses the domain ‘temporary[.]link’.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trustwave
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2024
+April 9, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Two-Step Phishing Campaign Targets LinkedIn Users<a href="https://perception-point.io/blog/professionally-hooked-microsoft-two-step-phishing-campaign-targets-linkedin-users/?&web_view=true"> Full Text</a>
@@ -60,13 +172,13 @@ Microsoft Two-Step Phishing Campaign Targets LinkedIn Users<a href="https://perc
 A new LinkedIn threat combines breached users’ accounts and an evasive 2-step phishing attack. A recent Python-based infostealer called Snake targets Facebook users with malicious messages.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Perception Point
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2024
+April 9, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Health Deptarment Warns Hospitals of Hackers Targeting IT Help Desks<a href="https://www.bleepingcomputer.com/news/security/us-health-dept-warns-hospitals-of-hackers-targeting-it-help-desks/?&web_view=true"> Full Text</a>
@@ -76,13 +188,13 @@ US Health Deptarment Warns Hospitals of Hackers Targeting IT Help Desks<a href="
 The U.S. Department of Health and Human Services (HHS) warns that hackers are now using social engineering tactics to target IT help desks across the Healthcare and Public Health (HPH) sector.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2024
+April 9, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Deploy Crypto Drainers on Thousands of WordPress Sites<a href="https://www.bleepingcomputer.com/news/security/hackers-deploy-crypto-drainers-on-thousands-of-wordpress-sites/?&web_view=true"> Full Text</a>
@@ -92,13 +204,13 @@ Hackers Deploy Crypto Drainers on Thousands of WordPress Sites<a href="https://w
 According to cybersecurity researcher MalwareHunterTeam, the threat actors have now begun monetizing the pool of compromised WordPress sites to display pop-ups promoting fake NFT offers and crypto discounts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2024
+April 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patches for CVE-2024-1086 for CloudLinux 6h, 7 Users on KernelCare Live<a href="https://tuxcare.com/blog/patches-for-cve-2024-1086-for-cloudlinux-6h-7-users-on-kernelcare-live/?&web_view=true"> Full Text</a>
@@ -108,13 +220,13 @@ Patches for CVE-2024-1086 for CloudLinux 6h, 7 Users on KernelCare Live<a href="
 The KernelCare team is working on deploying a live patch for CVE-2024-1086 for CloudLinux users. A patch has already been released for CloudLinux 6h and CloudLinux 7, and users can manually update without a live patch.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tuxcare
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2024
+April 9, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminal Adoption of Browser Fingerprinting<a href="https://www.helpnetsecurity.com/2024/04/05/browser-fingerprinting/?&web_view=true"> Full Text</a>
@@ -124,13 +236,13 @@ Cybercriminal Adoption of Browser Fingerprinting<a href="https://www.helpnetsecu
 Numerous pieces of data can be collected as a part of fingerprinting, including Time zone, Language settings, IP address, Cookie settings, Screen resolution, Browser privacy, and User-agent string.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2024
+April 9, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Automating Pikabot’s String Deobfuscation<a href="https://www.zscaler.com/blogs/security-research/automating-pikabot-s-string-deobfuscation?&web_view=true"> Full Text</a>
@@ -140,13 +252,13 @@ Automating Pikabot’s String Deobfuscation<a href="https://www.zscaler.com/blog
 Previous versions of Pikabot used advanced string encryption techniques, which have been replaced with simpler algorithms. Previously, the strings were encrypted using a combination of AES-CBC and RC4 algorithms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2024
+April 9, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ScrubCrypt Deploys VenomRAT with an Arsenal of Plugins<a href="https://www.fortinet.com/blog/threat-research/scrubcrypt-deploys-venomrat-with-arsenal-of-plugins?&web_view=true"> Full Text</a>
@@ -156,13 +268,13 @@ ScrubCrypt Deploys VenomRAT with an Arsenal of Plugins<a href="https://www.forti
 Cybersecurity researchers have discovered an intricate multi-stage attack that leverages invoice-themed phishing decoys to deliver a wide range of malware such as Venom RAT, Remcos RAT, XWorm, NanoCore RAT, and a stealer that targets crypto wallets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 9, 2024
+April 9, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware-Initiated Vulnerability Scanning is on the Rise<a href="https://unit42.paloaltonetworks.com/malware-initiated-scanning-attacks/?&web_view=true"> Full Text</a>
@@ -172,7 +284,7 @@ Malware-Initiated Vulnerability Scanning is on the Rise<a href="https://unit42.p
 Threat actors have been using scanning methods to pinpoint vulnerabilities in networks or systems for a very long time. Some scanning attacks originate from benign networks likely driven by malware on infected machines.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

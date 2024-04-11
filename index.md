@@ -34,6 +34,118 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat Actor Starry Addax Targets Human Rights Defenders in North Africa<a href="https://www.cybersecurity-help.cz/blog/3922.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Cisco’s Talos threat research team, Starry Addax has been active since January 2024, orchestrating spear-phishing campaigns aimed at individuals sympathetic to the Sahrawi Arab Democratic Republic (SADR) cause.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sidestepping SharePoint Security: Two New Techniques to Evade Exfiltration Detection<a href="https://www.varonis.com/blog/sidestepping-detection-while-exfiltrating-sharepoint-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These techniques can bypass the detection and enforcement policies of traditional tools, such as cloud access security brokers, data loss prevention, and SIEMs, by hiding downloads as less suspicious access and sync events.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research Unearths RUBYCARP’s Multi-Miner Assault on Crypto<a href="https://www.infosecurity-magazine.com/news/rubycarps-multi-miner-assault/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One of the key findings from the technical write-up, published by Sysdig today, is the group’s use of a script capable of simultaneously deploying multiple cryptocurrency miners.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Discover New Ransomware Gang ‘Muliaka’ Attacking Russian Businesses<a href="https://therecord.media/muliaka-ransomware-group-targeting-russian-businesses-conti?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The gang, which researchers at the Moscow-based cybersecurity company F.A.C.C.T. have dubbed “Muliaka," or Muddy Water in English, has left minimal traces from its attacks but has likely been active since at least December 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+91,000 Smart LG TV Devices Vulnerable to Remote Takeover<a href="https://www.hackread.com/smart-lg-tv-devices-vulnerable-remote-take-over/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers from Bitdefender discovered critical vulnerabilities in LG TVs running webOS versions 4 through 7. These vulnerabilities could allow attackers to gain complete control over the TV, steal data, or install malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Ahoi Attacks Could Compromise Confidential VMs<a href="https://www.scmagazine.com/brief/novel-ahoi-attacks-could-compromise-confidential-vms?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers presented two variations of what they call Ahoi attacks. One of them, dubbed Heckler, involves a malicious hypervisor injecting interrupts to alter data and control flow, breaking the integrity and confidentiality of CVMs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vedalia APT Group Exploits Oversized LNK Files in Malware Campaign<a href="https://www.broadcom.com/support/security-center/protection-bulletin/vedalia-apt-group-exploits-oversized-lnk-files-in-malware-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vedalia APT group has ingeniously utilized LNK files with double extensions, effectively masking the malicious .lnk extension. This tactic deceives users into believing the files are harmless, increasing the likelihood of execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 9, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
