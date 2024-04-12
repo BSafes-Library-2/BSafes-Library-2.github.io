@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+April 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vedalia APT Group Exploits Oversized LNK Files in Malware Campaign<a href="https://www.broadcom.com/support/security-center/protection-bulletin/vedalia-apt-group-exploits-oversized-lnk-files-in-malware-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vedalia APT group has ingeniously utilized LNK files with double extensions, effectively masking the malicious .lnk extension. This tactic deceives users into believing the files are harmless, increasing the likelihood of execution.
+</details>
+<div style="text-align: right" markdown="1">
+Broadcom
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

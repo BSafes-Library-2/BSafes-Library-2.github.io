@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK's Attitude to Security Spotlit by Government Figures<a href="https://www.theregister.com/2024/04/09/uk_biz_response_to_cybercrime/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The report from the Department for Science, Innovation and Technology (DSIT), painted security as more of an afterthought for UK businesses, especially when considering the figures about how breaches are handled.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISO Role Shows Significant Gains Amid Corporate Recognition of Cyber Risk<a href="https://www.cybersecuritydive.com/news/ciso-gains-corporate-cyber-risk/712684/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs and other management-level cybersecurity executives are gaining more influence and importance as companies have begun to recognize the need for strong cyber governance and oversight, according to a report from Moody’s Ratings.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

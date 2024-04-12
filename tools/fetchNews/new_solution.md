@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Google Workspace Feature Prevents Sensitive Security Changes if Two Admins Don’t Approve Them<a href="https://www.helpnetsecurity.com/2024/04/09/google-workspace-multi-party-approvals/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+If the feature is enabled, certain sensitive admin actions can be taken only if approved by an admin who did not initiate them and thus, in theory, preventing accidental or unauthorized changes made by either malicious insiders or outsiders
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

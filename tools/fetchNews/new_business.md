@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+April 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Wiz Buys Startup Gem Security for $350M to Spot Cloud Issues<a href="https://www.bankinfosecurity.com/wiz-buys-startup-gem-security-for-350m-to-spot-cloud-issues-a-24826?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Wiz purchased a cloud detection and response startup founded by a longtime Israeli Military Intelligence leader to address security operations and incident response use cases.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Data Security Startup Cyera Confirms $300M Raise at a $1.4B Valuation<a href="https://techcrunch.com/2024/04/09/ai-data-security-startup-cyera-confirms-300m-raise-at-a-1-4b-valuation/?_hsmi=301863557&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lead investor for the Series C funding is Coatue, which is new to the startup’s cap table. Other new investors include Spark Capital, Georgian, and strategic backer AT&amp;T Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
