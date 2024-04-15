@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2024
+April 13, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Orders Agencies Impacted by Microsoft Hack to Mitigate Risks<a href="https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-impacted-by-microsoft-hack-to-mitigate-risks/?&web_view=true"> Full Text</a>
@@ -50,7 +50,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2024
+April 13, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telegram Fixes Windows App Zero-Day Used to Launch Python Scripts<a href="https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-used-to-launch-python-scripts/?&web_view=true"> Full Text</a>
@@ -66,7 +66,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2024
+April 13, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Exploit Two MITRE Sub-Techniques: Phantom DLL Hijacking, TCC Abuse<a href="https://www.darkreading.com/vulnerabilities-threats/dprk-exploits-mitre-sub-techniques-phantom-dll-hijacking-tcc-abuse?&web_view=true"> Full Text</a>
@@ -82,7 +82,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 13, 2024
+April 13, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Massive Wave of Road Toll SMS Phishing Attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-massive-wave-of-road-toll-sms-phishing-attacks/?&web_view=true"> Full Text</a>
@@ -98,7 +98,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2024
+April 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intel and Lenovo Servers Impacted by 6-Year-Old BMC Flaw<a href="https://www.bleepingcomputer.com/news/security/intel-and-lenovo-servers-impacted-by-6-year-old-bmc-flaw/?&web_view=true"> Full Text</a>
@@ -114,7 +114,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2024
+April 12, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Boosts Spyware Alerts For Mercenary Attacks<a href="https://www.infosecurity-magazine.com/news/apple-boosts-spyware-alerts/?&web_view=true"> Full Text</a>
@@ -130,7 +130,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2024
+April 12, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkBeatC2: The Latest MuddyWater Attack Framework<a href="https://www.deepinstinct.com/blog/darkbeatc2-the-latest-muddywater-attack-framework?&web_view=true"> Full Text</a>
@@ -146,7 +146,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2024
+April 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Fixed Two Zero-Day Flaws Exploited in Malware Attacks<a href="https://securityaffairs.com/161692/security/two-zero-day-malware-attacks.html?&web_view=true"> Full Text</a>
@@ -162,7 +162,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2024
+April 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Palo Alto Networks Fixed Multiple DoS Bugs in its Firewalls<a href="https://securityaffairs.com/161724/security/palo-alto-networks-pan-os-dos-2.html?&web_view=true"> Full Text</a>
@@ -178,7 +178,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 12, 2024
+April 12, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Exposure Management Elevates Cyber Resilience<a href="https://www.helpnetsecurity.com/2024/04/09/organizations-exposure-management/?&web_view=true"> Full Text</a>

@@ -7,6 +7,28 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 12, 2024 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Smishing Scam Regarding Debt for Road Toll Services <a href="https://www.ic3.gov/Media/Y2024/PSA240412"> Full Text</a>
+</p>
+<details>
+Since early-March 2024, the FBI Internet Crime Complaint Center (IC3) has received over 2,000 complaints reporting smishing1 texts representing road toll collection service from at least three states. IC3 complaint information indicates the scam may be moving from state-to-state.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 11, 2024 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Directs Federal Agencies to Immediately Mitigate Significant Risk From Russian State-Sponsored Cyber Threat <a href="https://www.cisa.gov/news-events/news/cisa-directs-federal-agencies-immediately-mitigate-significant-risk-russian-state-sponsored-cyber"> Full Text</a>
+</p>
+<details>
+WASHINGTON – Today, the Cybersecurity and Infrastructure Security Agency (CISA) publicly issued Emergency Directive 24-02 in response to a recent campaign by Russian state-sponsored cyber actor Midnight Blizzard targeting Microsoft corporate email accounts and potentially accessing correspondence with Federal Civilian Executive Branch (FCEB) agencies. The Directive was initially issued to federal agencies on April 2nd based upon currently available threat information and limited applicability of relevant actions, which are predicated on notification of exposed credentials by Microsoft. This Directive requires agencies to analyze potentially affected emails, reset any compromised credentials, and take additional steps to secure privileged Microsoft Azure accounts.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 4, 2024 - Homeland Security Department, US
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+April 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Boosts Spyware Alerts For Mercenary Attacks<a href="https://www.infosecurity-magazine.com/news/apple-boosts-spyware-alerts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple has updated its documentation related to its warning system for mercenary spyware threats, now specifying that it alerts users when they may have been individually targeted by such attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Exposure Management Elevates Cyber Resilience<a href="https://www.helpnetsecurity.com/2024/04/09/organizations-exposure-management/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers are adept at identifying and exploiting the most cost-effective methods of compromise, highlighting the critical need for organizations to implement asset identification and understand assets’ security posture in relation to the network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
