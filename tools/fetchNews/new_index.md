@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2024
+April 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Palo Alto Networks Fixes Zero-Day Exploited to Backdoor Firewalls<a href="https://www.bleepingcomputer.com/news/security/palo-alto-networks-fixes-zero-day-exploited-to-backdoor-firewalls/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Update: Palo Alto Networks Fixes Zero-Day Exploited to Backdoor Firewalls<a href
 This maximum severity security flaw (CVE-2024-3400) affects PAN-OS 10.2, PAN-OS 11.0, and PAN-OS 11.1 firewalls with device telemetry and GlobalProtect (gateway or portal) enabled.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2024
+April 15, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloned Voice Tech Is Coming for Bank Accounts<a href="https://www.bankinfosecurity.com/cloned-voice-tech-coming-for-bank-accounts-a-24850?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Cloned Voice Tech Is Coming for Bank Accounts<a href="https://www.bankinfosecuri
 At many financial institutions, your voice is your password. Tiny variations in pitch, tone and timbre make human voices unique - apparently making them an ideal method for authenticating customers phoning for service.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2024
+April 15, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Muddled Libra Shifts Focus to SaaS and Cloud for Extortion and Data Theft Attacks<a href="https://thehackernews.com/2024/04/muddled-libra-shifts-focus-to-saas-and.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Muddled Libra Shifts Focus to SaaS and Cloud for Extortion and Data Theft Attack
 The threat actor known as Muddled Libra has been observed actively targeting software-as-a-service (SaaS) applications and cloud service provider (CSP) environments in a bid to exfiltrate sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2024
+April 15, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Cyber Command Expanded 'Hunt Forward' Operations in 2023<a href="https://www.bankinfosecurity.com/us-cyber-command-expanded-hunt-forward-operations-in-2023-a-24851?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ US Cyber Command Expanded 'Hunt Forward' Operations in 2023<a href="https://www.
 A secretive U.S. cyber military force ramped up global operations in 2023, executing more than double the average number of "hunt forward" campaigns than the previous five years, according to the head of U.S. Cyber Command.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2024
+April 15, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese-Linked LightSpy iOS Spyware Targets South Asian iPhone Users<a href="https://thehackernews.com/2024/04/chinese-linked-lightspy-ios-spyware.html?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Chinese-Linked LightSpy iOS Spyware Targets South Asian iPhone Users<a href="htt
 Cybersecurity researchers have discovered a "renewed" cyber espionage campaign targeting users in South Asia with the aim of delivering an Apple iOS spyware implant called LightSpy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2024
+April 15, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyderes Acquires Ipseity Security to Enhance IAM<a href="https://www.channele2e.com/news/cyderes-acquires-ipseity-security-to-enhance-iam-capabilities?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Cyderes Acquires Ipseity Security to Enhance IAM<a href="https://www.channele2e.
 Global cybersecurity services provider Cyderes has acquired Ipseity Security, a Canadian company specializing in identity and access management (IAM). The financial terms of the deal were not disclosed.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ChannelE2E 
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2024
+April 15, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Police Swoop on $685m Cannabis Investment Fraud Gang<a href="https://www.infosecurity-magazine.com/news/police-swoop-645m-cannabis/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ European Police Swoop on $685m Cannabis Investment Fraud Gang<a href="https://ww
 JuicyFields operated as a classic Ponzi scheme between 2020 and July 2022, according to Europol. Promising high returns with little to no risk, the scammers simply used money from new investors to pay returns to earlier ones.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2024
+April 15, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Upstream Security Gets Cisco Investment to Protect Connected Vehicles and Devices<a href="https://finance.yahoo.com/news/upstream-security-gets-cisco-investment-120000794.html?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Upstream Security Gets Cisco Investment to Protect Connected Vehicles and Device
 Upstream Security, an Israeli auto cybersecurity startup, said on Wednesday it received an undisclosed investment from Cisco Investments as demand grows for internet-connected vehicles and other devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Yahoo
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2024
+April 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability in Delinea Secret Server Allows Auth Bypass, Admin Access<a href="https://www.helpnetsecurity.com/2024/04/15/delinea-secret-server-vulnerability/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Critical Vulnerability in Delinea Secret Server Allows Auth Bypass, Admin Access
 Organizations with on-prem installations of Delinea Secret Server are urged to update them immediately, to plug a critical vulnerability that may allow attackers to bypass authentication, gain admin access and extract secrets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 15, 2024
+April 15, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FatalRAT Targets Cryptocurrency Users With DLL Side-loading Techniques<a href="https://thecyberexpress.com/fatalrat-phishing-campaign/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ FatalRAT Targets Cryptocurrency Users With DLL Side-loading Techniques<a href="h
 This campaign’s strategic inclusion of a clipper module alongside FatalRAT hints at a targeted approach towards cryptocurrency users, amplifying data interception capabilities with the addition of a keylogger module.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -204,7 +204,7 @@ CISA Orders Agencies Impacted by Microsoft Hack to Mitigate Risks<a href="https:
 CISA has issued a new emergency directive ordering U.S. federal agencies to address risks resulting from the breach of multiple Microsoft corporate email accounts by the Russian APT29 hacking group.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -220,7 +220,7 @@ Telegram Fixes Windows App Zero-Day Used to Launch Python Scripts<a href="https:
 A proof of concept exploit was shared on the XSS hacking forum explaining that a typo in the source code for Telegram for Windows could be exploited to send Python .pyzw files that bypass security warnings when clicked.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -236,7 +236,7 @@ North Korean Hackers Exploit Two MITRE Sub-Techniques: Phantom DLL Hijacking, TC
 The first, not entirely new, sub-technique involves manipulation of Transparency, Consent, and Control (TCC), a security protocol that regulates application permissions on Apple's macOS.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -252,7 +252,7 @@ FBI Warns of Massive Wave of Road Toll SMS Phishing Attacks<a href="https://www.
 While the mobile phishing campaign has yet to reach some U.S. regions, this can be explained by the fact that complaint information collected so far by IC3 indicates the scam may be moving from state to state.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -268,7 +268,7 @@ Intel and Lenovo Servers Impacted by 6-Year-Old BMC Flaw<a href="https://www.ble
 The security issue could lead to the exfiltration of process memory addresses, which could help attackers bypass protection mechanisms like Address Space Layout Randomization (ASLR).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -284,7 +284,7 @@ Apple Boosts Spyware Alerts For Mercenary Attacks<a href="https://www.infosecuri
 Apple has updated its documentation related to its warning system for mercenary spyware threats, now specifying that it alerts users when they may have been individually targeted by such attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -300,7 +300,7 @@ DarkBeatC2: The Latest MuddyWater Attack Framework<a href="https://www.deepinsti
 The Iranian threat actor known as MuddyWater has been attributed to a new command-and-control (C2) infrastructure called DarkBeatC2, becoming the latest such tool in its arsenal after SimpleHarm, MuddyC3, PhonyC2, and MuddyC2Go.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Deep Instinct
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -316,7 +316,7 @@ Microsoft Fixed Two Zero-Day Flaws Exploited in Malware Attacks<a href="https://
 Microsoft addressed two zero-day vulnerabilities, tracked as CVE-2024-29988 and CVE-2024-26234, that threat actors are exploiting to deliver malware payloads on vulnerable systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -332,7 +332,7 @@ Palo Alto Networks Fixed Multiple DoS Bugs in its Firewalls<a href="https://secu
 Palo Alto Networks released security updates to address several high-severity vulnerabilities in its PAN-OS operating system, including CVE-2024-3385, CVE-2024-3384, CVE-2024-3382.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -348,7 +348,7 @@ How Exposure Management Elevates Cyber Resilience<a href="https://www.helpnetsec
 Attackers are adept at identifying and exploiting the most cost-effective methods of compromise, highlighting the critical need for organizations to implement asset identification and understand assets’ security posture in relation to the network.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
