@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Exploit Two MITRE Sub-Techniques: Phantom DLL Hijacking, TCC Abuse<a href="https://www.darkreading.com/vulnerabilities-threats/dprk-exploits-mitre-sub-techniques-phantom-dll-hijacking-tcc-abuse?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The first, not entirely new, sub-technique involves manipulation of Transparency, Consent, and Control (TCC), a security protocol that regulates application permissions on Apple's macOS.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkBeatC2: The Latest MuddyWater Attack Framework<a href="https://www.deepinstinct.com/blog/darkbeatc2-the-latest-muddywater-attack-framework?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Iranian threat actor known as MuddyWater has been attributed to a new command-and-control (C2) infrastructure called DarkBeatC2, becoming the latest such tool in its arsenal after SimpleHarm, MuddyC3, PhonyC2, and MuddyC2Go.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

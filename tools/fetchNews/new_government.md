@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Cyber Command Expanded 'Hunt Forward' Operations in 2023<a href="https://www.bankinfosecurity.com/us-cyber-command-expanded-hunt-forward-operations-in-2023-a-24851?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A secretive U.S. cyber military force ramped up global operations in 2023, executing more than double the average number of "hunt forward" campaigns than the previous five years, according to the head of U.S. Cyber Command.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Police Swoop on $685m Cannabis Investment Fraud Gang<a href="https://www.infosecurity-magazine.com/news/police-swoop-645m-cannabis/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JuicyFields operated as a classic Ponzi scheme between 2020 and July 2022, according to Europol. Promising high returns with little to no risk, the scammers simply used money from new investors to pay returns to earlier ones.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

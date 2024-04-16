@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+April 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyderes Acquires Ipseity Security to Enhance IAM<a href="https://www.channele2e.com/news/cyderes-acquires-ipseity-security-to-enhance-iam-capabilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Global cybersecurity services provider Cyderes has acquired Ipseity Security, a Canadian company specializing in identity and access management (IAM). The financial terms of the deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+ChannelE2E 
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Upstream Security Gets Cisco Investment to Protect Connected Vehicles and Devices<a href="https://finance.yahoo.com/news/upstream-security-gets-cisco-investment-120000794.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Upstream Security, an Israeli auto cybersecurity startup, said on Wednesday it received an undisclosed investment from Cisco Investments as demand grows for internet-connected vehicles and other devices.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloned Voice Tech Is Coming for Bank Accounts<a href="https://www.bankinfosecurity.com/cloned-voice-tech-coming-for-bank-accounts-a-24850?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+At many financial institutions, your voice is your password. Tiny variations in pitch, tone and timbre make human voices unique - apparently making them an ideal method for authenticating customers phoning for service.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
