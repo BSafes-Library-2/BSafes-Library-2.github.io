@@ -8,6 +8,48 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Officials Again Push Back on Ransom Payment Ban<a href="https://www.cybersecuritydive.com/news/ransom-payment-ban-pushback/713206/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Due to multiple reasons, the Institute for Security and Technology’s Ransomware Task Force threw cold water on the need for a ransomware payment ban in a report released Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Bans Online Mental Health Firm From Sharing Certain Data<a href="https://www.bankinfosecurity.com/ftc-bans-online-mental-health-firm-from-sharing-certain-data-a-24865?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FTC in its complaint against Cerebral Inc. and the company's former CEO Kyle Robertson, alleges unfair or deceptive practice violations of the FTC Act and the Opioid Act, which pertains to substance use disorder treatment services.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law Firm to Pay $8M to Settle Health Data Hack Lawsuit<a href="https://www.bankinfosecurity.com/law-firm-to-pay-8m-to-settle-health-data-hack-lawsuit-a-24863?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Orrick Herrington &amp; Sutcliffe's proposed agreement with plaintiffs, filed last week in a northern California federal court, settles four proposed consolidated class action lawsuits filed against it in the wake of the March 2023 hacking incident.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

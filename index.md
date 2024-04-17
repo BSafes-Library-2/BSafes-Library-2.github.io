@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2024
+April 16, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Top Officials Again Push Back on Ransom Payment Ban<a href="https://www.cybersecuritydive.com/news/ransom-payment-ban-pushback/713206/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Top Officials Again Push Back on Ransom Payment Ban<a href="https://www.cybersec
 Due to multiple reasons, the Institute for Security and Technology’s Ransomware Task Force threw cold water on the need for a ransomware payment ban in a report released Wednesday.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2024
+April 16, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hive RAT Creators and $3.5M Cryptojacking Mastermind Arrested in Global Crackdown<a href="https://thehackernews.com/2024/04/hive-rat-creators-and-35m-cryptojacking.html?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Hive RAT Creators and $3.5M Cryptojacking Mastermind Arrested in Global Crackdow
 Two individuals have been arrested in Australia and the U.S. in connection with an alleged scheme to develop and distribute a remote access trojan called Hive RAT (previously Firebird).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2024
+April 16, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Bad Bots Drive 10% Annual Surge in Account Takeover Attacks<a href="https://www.infosecurity-magazine.com/news/bad-bots-10-surge-account-takeover/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Report: Bad Bots Drive 10% Annual Surge in Account Takeover Attacks<a href="http
 Internet traffic associated with malicious bots now accounts for a third (32%) of the total, driving a 10% year-on-year (YoY) increase in account takeover (ATO) attacks last year, according to Imperva.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2024
+April 16, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC Bans Online Mental Health Firm From Sharing Certain Data<a href="https://www.bankinfosecurity.com/ftc-bans-online-mental-health-firm-from-sharing-certain-data-a-24865?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ FTC Bans Online Mental Health Firm From Sharing Certain Data<a href="https://www
 The FTC in its complaint against Cerebral Inc. and the company's former CEO Kyle Robertson, alleges unfair or deceptive practice violations of the FTC Act and the Opioid Act, which pertains to substance use disorder treatment services.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2024
+April 16, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft will Limit Exchange Online Bulk Emails to Fight Spam<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-will-limit-exchange-online-bulk-emails-to-fight-spam/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Microsoft will Limit Exchange Online Bulk Emails to Fight Spam<a href="https://w
 "Exchange Online enforces a Recipient Rate limit of 10,000 recipients. The 2,000 ERR limit will become a sub-limit within this 10,000 Recipient Rate limit," the Exchange Team said on Monday.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2024
+April 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AWS, Google, and Azure CLI Tools Could Leak Credentials in Build Logs<a href="https://thehackernews.com/2024/04/aws-google-and-azure-cli-tools-could.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ AWS, Google, and Azure CLI Tools Could Leak Credentials in Build Logs<a href="ht
 New cybersecurity research has found that command-line interface (CLI) tools from Amazon Web Services (AWS) and Google Cloud can expose sensitive credentials in build logs, posing significant risks to organizations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2024
+April 16, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Microsoft Most Impersonated Brand in Phishing Scams<a href="https://www.infosecurity-magazine.com/news/microsoft-impersonated-brand/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Report: Microsoft Most Impersonated Brand in Phishing Scams<a href="https://www.
 Microsoft was impersonated in 38% of all brand phishing attacks in Q1 2024, according to new data from Check Point. Google was the second most impersonated brand in Q1 2024, making up 11% of attempts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2024
+April 16, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blackjack Group Used ICS Malware Fuxnet Against Russian Targets<a href="https://securityaffairs.com/161865/hacking/blackjack-ics-malware-fuxnet.html?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Blackjack Group Used ICS Malware Fuxnet Against Russian Targets<a href="https://
 The attack chain sees hackers targeting a list of sensor gateways IPs. Threat actors distributed their malware to each target, likely either through remote-access protocols such as SSH or the sensor protocol (SBK) over port 4321.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2024
+April 16, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Law Firm to Pay $8M to Settle Health Data Hack Lawsuit<a href="https://www.bankinfosecurity.com/law-firm-to-pay-8m-to-settle-health-data-hack-lawsuit-a-24863?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Law Firm to Pay $8M to Settle Health Data Hack Lawsuit<a href="https://www.banki
 Orrick Herrington & Sutcliffe's proposed agreement with plaintiffs, filed last week in a northern California federal court, settles four proposed consolidated class action lawsuits filed against it in the wake of the March 2023 hacking incident.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 16, 2024
+April 16, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New SteganoAmor Attacks Use Steganography to Target 320 Organizations Globally<a href="https://www.bleepingcomputer.com/news/security/new-steganoamor-attacks-use-steganography-to-target-320-orgs-globally/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ New SteganoAmor Attacks Use Steganography to Target 320 Organizations Globally<a
 The attacks begin with malicious emails containing seemingly innocuous document attachments (Excel and Word files) that exploit the CVE-2017-11882 flaw, a commonly targeted Microsoft Office Equation Editor vulnerability fixed in 2017.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
