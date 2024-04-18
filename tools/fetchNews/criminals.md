@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hive RAT Creators and $3.5M Cryptojacking Mastermind Arrested in Global Crackdown<a href="https://thehackernews.com/2024/04/hive-rat-creators-and-35m-cryptojacking.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two individuals have been arrested in Australia and the U.S. in connection with an alleged scheme to develop and distribute a remote access trojan called Hive RAT (previously Firebird).
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

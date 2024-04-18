@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BreachForums Down, But Not Out: Hackers Claim Attack, Admins Remain Unfazed<a href="https://thecyberexpress.com/breachforums-take-down-after-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The domain of the notorious BreachForums data leak and hacking forum has been taken down by rival threat actors. The threat actor group, R00TK1T, along with the Cyber Army of Russia, announced a breach of user data following the takedown.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Expres
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

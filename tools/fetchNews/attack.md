@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+April 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blackjack Group Used ICS Malware Fuxnet Against Russian Targets<a href="https://securityaffairs.com/161865/hacking/blackjack-ics-malware-fuxnet.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack chain sees hackers targeting a list of sensor gateways IPs. Threat actors distributed their malware to each target, likely either through remote-access protocols such as SSH or the sensor protocol (SBK) over port 4321.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New SteganoAmor Attacks Use Steganography to Target 320 Organizations Globally<a href="https://www.bleepingcomputer.com/news/security/new-steganoamor-attacks-use-steganography-to-target-320-orgs-globally/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks begin with malicious emails containing seemingly innocuous document attachments (Excel and Word files) that exploit the CVE-2017-11882 flaw, a commonly targeted Microsoft Office Equation Editor vulnerability fixed in 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

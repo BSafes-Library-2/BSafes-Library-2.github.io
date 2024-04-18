@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Botnets Continue Exploiting CVE-2023-1389 for Wide-Scale Spread<a href="https://www.fortinet.com/blog/threat-research/botnets-continue-exploiting-cve-2023-1389-for-wide-scale-spread?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recently, FortiGuard Labs observed multiple attacks focusing on this year-old vulnerability, spotlighting botnets like Moobot, Miori, the Golang-based agent “AGoent,” and the Gafgyt Variant.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

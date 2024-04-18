@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ivanti Warns of Critical Flaws in Its Avalanche MDM Solution<a href="https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-flaws-in-its-avalanche-mdm-solution/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Ivanti Warns of Critical Flaws in Its Avalanche MDM Solution<a href="https://www
 Ivanti has released security updates to fix 27 vulnerabilities in its Avalanche mobile device management (MDM) solution, two of them critical heap overflows that can be exploited for remote command execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia is Trying to Sabotage European Railways, Czech Minister Said<a href="https://securityaffairs.com/161899/cyber-warfare-2/russia-sabotage-european-railways-czech.html?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Russia is Trying to Sabotage European Railways, Czech Minister Said<a href="http
 Czech transport minister Martin Kupka confirmed that Russia-linked threat actors conducted “thousands of attempts to weaken our systems” since the beginning of the Russian invasion of Ukraine.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Sandworm Group Using Novel Backdoor to Target Eastern and Central Europe<a href="https://www.infosecurity-magazine.com/news/russian-sandworm-backdoor-ukraine/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Russian Sandworm Group Using Novel Backdoor to Target Eastern and Central Europe
 The previously unreported backdoor, dubbed ‘Kapeka’, has a high level of stealth and sophistication, designed to both serve as an early-stage toolkit for its operators, and also to provide long-term access to the victim estate.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 - [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Bill Would Create a Governing Body for Water System Cyber Standards<a href="https://www.nextgov.com/cybersecurity/2024/04/new-bill-would-create-governing-body-water-system-cyber-standards/395732/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ New Bill Would Create a Governing Body for Water System Cyber Standards<a href="
 A measure led by two House Republicans would enable the Environmental Protection Agency to certify a governing body to develop and recommend cybersecurity requirements for water treatment and wastewater systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NextGov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Atlassian Flaw Exploited to Deploy Linux Variant of Cerber Ransomware<a href="https://thehackernews.com/2024/04/critical-atlassian-flaw-exploited-to.html?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Critical Atlassian Flaw Exploited to Deploy Linux Variant of Cerber Ransomware<a
 Threat actors are exploiting unpatched Atlassian servers to deploy a Linux variant of Cerber (aka C3RB3R) ransomware. The vulnerability (CVE-2023-22518) allows an unauthenticated attacker to reset Confluence and create an administrator account.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several GTKWave Vulnerabilities Fixed in Debian<a href="https://tuxcare.com/blog/several-gtkwave-vulnerabilities-fixed-in-debian/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Several GTKWave Vulnerabilities Fixed in Debian<a href="https://tuxcare.com/blog
 Recently, the Debian security team fixed several issues in GTKWave, an open-source waveform viewer for VCD files. These vulnerabilities, if exploited, could result in the execution of arbitrary code, posing a significant risk to users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tuxcare
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile, Verizon Workers Get Texts Offering $300 for SIM Swaps<a href="https://www.bleepingcomputer.com/news/security/t-mobile-verizon-workers-get-texts-offering-300-for-sim-swaps/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ T-Mobile, Verizon Workers Get Texts Offering $300 for SIM Swaps<a href="https://
 According to many reports, this is part of a campaign targeted at current and former mobile carrier workers who could have access to the systems required to perform a SIM swap.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Botnets Continue Exploiting CVE-2023-1389 for Wide-Scale Spread<a href="https://www.fortinet.com/blog/threat-research/botnets-continue-exploiting-cve-2023-1389-for-wide-scale-spread?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Botnets Continue Exploiting CVE-2023-1389 for Wide-Scale Spread<a href="https://
 Recently, FortiGuard Labs observed multiple attacks focusing on this year-old vulnerability, spotlighting botnets like Moobot, Miori, the Golang-based agent “AGoent,” and the Gafgyt Variant.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Researchers Released Exploit Code for Actively Exploited Palo Alto Networks PAN-OS Bug<a href="https://securityaffairs.com/161936/hacking/exploit-code-cve-2024-3400-palo-alto-pan-os.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Update: Researchers Released Exploit Code for Actively Exploited Palo Alto Netwo
 Researchers at watchTowr Labs have released a technical analysis of the vulnerability CVE-2024-3400 in Palo Alto Networks’ PAN-OS and a proof-of-concept exploit that can be used to execute shell commands on vulnerable firewalls.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BreachForums Down, But Not Out: Hackers Claim Attack, Admins Remain Unfazed<a href="https://thecyberexpress.com/breachforums-take-down-after-attack/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ BreachForums Down, But Not Out: Hackers Claim Attack, Admins Remain Unfazed<a hr
 The domain of the notorious BreachForums data leak and hacking forum has been taken down by rival threat actors. The threat actor group, R00TK1T, along with the Cyber Army of Russia, announced a breach of user data following the takedown.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Expres
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
