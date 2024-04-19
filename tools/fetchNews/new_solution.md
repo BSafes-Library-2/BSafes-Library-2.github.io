@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Government and OpenSSF Partner on New SBOM Management Tool<a href="https://www.infosecurity-magazine.com/news/us-government-openssf-sbom-tool/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Protobom, the new open source software tool, will help all organizations read and generate SBOMs and file data, as well as translate this data across standard industry SBOM formats.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

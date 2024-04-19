@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT and Security Professionals Demand More Workplace Flexibility<a href="https://www.helpnetsecurity.com/2024/04/17/workplace-flexibility-advantage/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The concept of Everywhere Work is now much broader, encompassing where, when, and how professionals get their work done — and flexibility has become a key workplace priority, according to Ivanti.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

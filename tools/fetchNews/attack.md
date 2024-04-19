@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+April 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russia is Trying to Sabotage European Railways, Czech Minister Said<a href="https://securityaffairs.com/161899/cyber-warfare-2/russia-sabotage-european-railways-czech.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Czech transport minister Martin Kupka confirmed that Russia-linked threat actors conducted “thousands of attempts to weaken our systems” since the beginning of the Russian invasion of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Sandworm Group Using Novel Backdoor to Target Eastern and Central Europe<a href="https://www.infosecurity-magazine.com/news/russian-sandworm-backdoor-ukraine/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The previously unreported backdoor, dubbed ‘Kapeka’, has a high level of stealth and sophistication, designed to both serve as an early-stage toolkit for its operators, and also to provide long-term access to the victim estate.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

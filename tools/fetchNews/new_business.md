@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Armis Buys Cyber Remediation Startup Silk Security for $150M<a href="https://www.bankinfosecurity.com/armis-buys-cyber-remediation-startup-silk-security-for-150m-a-24885?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Armis has purchased a security prioritization and remediation vendor led by a Goldman Sachs veteran to more effectively address vulnerabilities and misconfigurations with AI and automation.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Securit
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

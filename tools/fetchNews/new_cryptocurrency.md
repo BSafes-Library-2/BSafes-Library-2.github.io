@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Possible Chinese Hackers Use OpenMetadata for Cryptomining<a href="https://www.bankinfosecurity.com/possible-chinese-hackers-use-openmetadata-to-cryptomine-a-24886?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers who appear to be Chinese are exploiting vulnerabilities in the OpenMetadata platform running as workloads on Kubernetes clusters to download cryptomining software, warns Microsoft.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
