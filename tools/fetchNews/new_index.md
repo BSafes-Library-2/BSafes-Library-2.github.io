@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Government and OpenSSF Partner on New SBOM Management Tool<a href="https://www.infosecurity-magazine.com/news/us-government-openssf-sbom-tool/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Protobom, the new open source software tool, will help all organizations read and generate SBOMs and file data, as well as translate this data across standard industry SBOM formats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Police Operation Disrupts 'LabHost' Phishing Service, Over 30 Arrested Worldwide<a href="https://thehackernews.com/2024/04/global-police-operation-disrupts.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 37 individuals have been arrested as part of an international crackdown on a cybercrime service called LabHost that has been used by criminal actors to steal personal credentials from victims around the world.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IT and Security Professionals Demand More Workplace Flexibility<a href="https://www.helpnetsecurity.com/2024/04/17/workplace-flexibility-advantage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The concept of Everywhere Work is now much broader, encompassing where, when, and how professionals get their work done — and flexibility has become a key workplace priority, according to Ivanti.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Targets American Automaker’s IT Staff in Phishing Attacks<a href="https://www.bleepingcomputer.com/news/security/fin7-targets-american-automakers-it-staff-in-phishing-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The financially motivated threat actor FIN7 targeted a large U.S. car maker with spear-phishing emails for employees in the IT department to infect systems with the Anunak backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malvertising Campaign Targeting IT Teams with MadMxShell Backdoor<a href="https://www.zscaler.com/blogs/security-research/malvertising-campaign-targeting-it-teams-madmxshell?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The backdoor uses techniques such as multiple stages of DLL sideloading and DNS tunneling for command-and-control (C2) communication as a means to evade endpoint and network security solutions, respectively.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insider Threats Surge 14% Annually as Cost-of-Living Crisis Bites<a href="https://www.infosecurity-magazine.com/news/insider-threats-14-cost-living/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Employee fraud grew significantly last year thanks to the opportunities afforded by remote working and the pressures of a cost-of-living crisis in the UK, according to Cifas.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Sandworm Hackers Pose as Hacktivists in Water Utility Breaches<a href="https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-pose-as-hacktivists-in-water-utility-breaches/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a report today, Mandiant says that Sandworm relied on three main hacktivist-branded Telegram channels named XakNet Team, CyberArmyofRussia_Reborn, and Solntsepek, all operating in parallel and independently of one another.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Moldovan Charged for Operating Botnet Used to Push Ransomware<a href="https://www.bleepingcomputer.com/news/security/moldovan-charged-for-operating-botnet-used-to-push-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Justice Department charged Moldovan national Alexander Lefterov, the owner and operator of a large-scale botnet that infected thousands of computers across the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Possible Chinese Hackers Use OpenMetadata for Cryptomining<a href="https://www.bankinfosecurity.com/possible-chinese-hackers-use-openmetadata-to-cryptomine-a-24886?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers who appear to be Chinese are exploiting vulnerabilities in the OpenMetadata platform running as workloads on Kubernetes clusters to download cryptomining software, warns Microsoft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Armis Buys Cyber Remediation Startup Silk Security for $150M<a href="https://www.bankinfosecurity.com/armis-buys-cyber-remediation-startup-silk-security-for-150m-a-24885?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Armis has purchased a security prioritization and remediation vendor led by a Goldman Sachs veteran to more effectively address vulnerabilities and misconfigurations with AI and automation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ivanti Warns of Critical Flaws in Its Avalanche MDM Solution<a href="https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-flaws-in-its-avalanche-mdm-solution/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Ivanti Warns of Critical Flaws in Its Avalanche MDM Solution<a href="https://www
 Ivanti has released security updates to fix 27 vulnerabilities in its Avalanche mobile device management (MDM) solution, two of them critical heap overflows that can be exploited for remote command execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russia is Trying to Sabotage European Railways, Czech Minister Said<a href="https://securityaffairs.com/161899/cyber-warfare-2/russia-sabotage-european-railways-czech.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Russia is Trying to Sabotage European Railways, Czech Minister Said<a href="http
 Czech transport minister Martin Kupka confirmed that Russia-linked threat actors conducted “thousands of attempts to weaken our systems” since the beginning of the Russian invasion of Ukraine.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Sandworm Group Using Novel Backdoor to Target Eastern and Central Europe<a href="https://www.infosecurity-magazine.com/news/russian-sandworm-backdoor-ukraine/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Russian Sandworm Group Using Novel Backdoor to Target Eastern and Central Europe
 The previously unreported backdoor, dubbed ‘Kapeka’, has a high level of stealth and sophistication, designed to both serve as an early-stage toolkit for its operators, and also to provide long-term access to the victim estate.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 - [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Bill Would Create a Governing Body for Water System Cyber Standards<a href="https://www.nextgov.com/cybersecurity/2024/04/new-bill-would-create-governing-body-water-system-cyber-standards/395732/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ New Bill Would Create a Governing Body for Water System Cyber Standards<a href="
 A measure led by two House Republicans would enable the Environmental Protection Agency to certify a governing body to develop and recommend cybersecurity requirements for water treatment and wastewater systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NextGov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Atlassian Flaw Exploited to Deploy Linux Variant of Cerber Ransomware<a href="https://thehackernews.com/2024/04/critical-atlassian-flaw-exploited-to.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Critical Atlassian Flaw Exploited to Deploy Linux Variant of Cerber Ransomware<a
 Threat actors are exploiting unpatched Atlassian servers to deploy a Linux variant of Cerber (aka C3RB3R) ransomware. The vulnerability (CVE-2023-22518) allows an unauthenticated attacker to reset Confluence and create an administrator account.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several GTKWave Vulnerabilities Fixed in Debian<a href="https://tuxcare.com/blog/several-gtkwave-vulnerabilities-fixed-in-debian/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Several GTKWave Vulnerabilities Fixed in Debian<a href="https://tuxcare.com/blog
 Recently, the Debian security team fixed several issues in GTKWave, an open-source waveform viewer for VCD files. These vulnerabilities, if exploited, could result in the execution of arbitrary code, posing a significant risk to users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tuxcare
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 T-Mobile, Verizon Workers Get Texts Offering $300 for SIM Swaps<a href="https://www.bleepingcomputer.com/news/security/t-mobile-verizon-workers-get-texts-offering-300-for-sim-swaps/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ T-Mobile, Verizon Workers Get Texts Offering $300 for SIM Swaps<a href="https://
 According to many reports, this is part of a campaign targeted at current and former mobile carrier workers who could have access to the systems required to perform a SIM swap.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Botnets Continue Exploiting CVE-2023-1389 for Wide-Scale Spread<a href="https://www.fortinet.com/blog/threat-research/botnets-continue-exploiting-cve-2023-1389-for-wide-scale-spread?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Botnets Continue Exploiting CVE-2023-1389 for Wide-Scale Spread<a href="https://
 Recently, FortiGuard Labs observed multiple attacks focusing on this year-old vulnerability, spotlighting botnets like Moobot, Miori, the Golang-based agent “AGoent,” and the Gafgyt Variant.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Researchers Released Exploit Code for Actively Exploited Palo Alto Networks PAN-OS Bug<a href="https://securityaffairs.com/161936/hacking/exploit-code-cve-2024-3400-palo-alto-pan-os.html?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Update: Researchers Released Exploit Code for Actively Exploited Palo Alto Netwo
 Researchers at watchTowr Labs have released a technical analysis of the vulnerability CVE-2024-3400 in Palo Alto Networks’ PAN-OS and a proof-of-concept exploit that can be used to execute shell commands on vulnerable firewalls.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 17, 2024
+April 17, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BreachForums Down, But Not Out: Hackers Claim Attack, Admins Remain Unfazed<a href="https://thecyberexpress.com/breachforums-take-down-after-attack/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ BreachForums Down, But Not Out: Hackers Claim Attack, Admins Remain Unfazed<a hr
 The domain of the notorious BreachForums data leak and hacking forum has been taken down by rival threat actors. The threat actor group, R00TK1T, along with the Cyber Army of Russia, announced a breach of user data following the takedown.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Expres
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
