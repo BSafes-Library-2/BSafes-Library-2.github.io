@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+April 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Shares Best Practices for Secure AI Systems<a href="https://meritalk.com/articles/nsa-shares-best-practices-for-secure-ai-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guidance offers a wide range of best practices, including that organizations adopt a zero trust mindset, actively monitor the AI model’s behavior, and require the primary developer of the AI system to provide a threat model for their system.
+</details>
+<div style="text-align: right" markdown="1">
+Meritalk
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, and ODNI Release Guidance for Securing Election Infrastructure Against the Tactics of Foreign Malign Influence Operations<a href="https://www.cisa.gov/news-events/news/cisa-fbi-and-odni-release-guidance-securing-election-infrastructure-against-tactics-foreign-malign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guidance document details the latest tactics employed in foreign malign influence operations to shape U.S. policies, decisions, and discourse and could be used to target America’s election infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, Europol Say Akira Ransomware Raked in $42 Million From Over 250 Victims<a href="https://www.bleepingcomputer.com/news/security/fbi-akira-ransomware-raked-in-42-million-from-250-plus-victims/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a joint advisory from the FBI, CISA, Europol's EC3, and the Netherlands' NCSC-NL, the Akira ransomware operation has breached the networks of over 250 organizations and raked in roughly $42 million in ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+April 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Police Operation Disrupts 'LabHost' Phishing Service, Over 30 Arrested Worldwide<a href="https://thehackernews.com/2024/04/global-police-operation-disrupts.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As many as 37 individuals have been arrested as part of an international crackdown on a cybercrime service called LabHost that has been used by criminal actors to steal personal credentials from victims around the world.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

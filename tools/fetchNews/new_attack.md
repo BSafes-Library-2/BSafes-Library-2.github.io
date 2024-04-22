@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Middle East Governments with Evasive "CR4T" Backdoor<a href="https://thehackernews.com/2024/04/hackers-target-middle-east-governments.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The starting point of the attack is a dropper, which comes in two variants -- a regular dropper that's either implemented as an executable or a DLL file and a tampered installer file for a legitimate tool named Total Commander.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

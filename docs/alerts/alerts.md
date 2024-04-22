@@ -7,6 +7,39 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2024 - NSA, CISA, FBI, ASD, ACSC, GCSB NCSC, Canadian Centre for Cyber Security, GCHQ NCSC  
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Deploying AI Systems Securely <a href="https://www.ic3.gov/Media/News/2024/240415.pdf"> Full Text</a>
+</p>
+<details>
+Deploying artificial intelligence (AI) systems securely requires careful setup and configuration that depends on the complexity of the AI system, the resources required (e.g., funding, technical expertise), and the infrastructure used (i.e., on premises, cloud, or hybrid). This report expands upon the ‘secure deployment’ and ‘secure operation and maintenance’ sections of the Guidelines for secure AI system development and incorporates mitigation considerations from Engaging with Artificial Intelligence (AI). It is for organizations deploying and operating AI systems designed and developed by another entity. The best practices may not be applicable to all environments, so the mitigations should be adapted to specific use cases and threat profiles.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2024 - FBI, CISA, EC3, NCSC-NL 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+#StopRansomware: Akira Ransomware <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-109a"> Full Text</a>
+</p>
+<details>
+The United States’ Federal Bureau of Investigation (FBI), Cybersecurity and Infrastructure Security Agency (CISA), Europol’s European Cybercrime Centre (EC3), and the Netherlands’ National Cyber Security Centre (NCSC-NL) are releasing this joint CSA to disseminate known Akira ransomware IOCs and TTPs identified through FBI investigations and trusted third party reporting as recently as February 2024.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 15, 2024 - NSA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Publishes Guidance for Strengthening AI System Security <a href="https://www.nsa.gov/Press-Room/Press-Releases-Statements/Press-Release-View/Article/3741371/nsa-publishes-guidance-for-strengthening-ai-system-security/"> Full Text</a>
+</p>
+<details>
+FORT MEADE, Md. – The National Security Agency (NSA) is releasing a Cybersecurity Information Sheet (CSI) today, “Deploying AI Systems Securely: Best Practices for Deploying Secure and Resilient AI Systems.” The CSI is intended to support National Security System owners and Defense Industrial Base companies that will be deploying and operating AI systems designed and developed by an external entity.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 12, 2024 - FBI 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
