@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2024
+April 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrushFTP Warns Users to Patch Exploited Zero-Day “Immediately”<a href="https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-exploited-zero-day-immediately/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the company also explains in a public security advisory published on Friday, this zero-day bug enables unauthenticated attackers to escape the user's virtual file system (VFS) and download system files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil XDR: Researcher Turns Palo Alto Software Into Perfect Malware<a href="https://www.darkreading.com/application-security/evil-xdr-researcher-turns-palo-alto-software-into-perfect-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a briefing at Black Hat Asia, Shmuel Cohen, security researcher at SafeBreach, described how he not only reverse-engineered and cracked into the company's signature Cortex product but also weaponized it to deploy a reverse shell and ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Middle East Governments with Evasive "CR4T" Backdoor<a href="https://thehackernews.com/2024/04/hackers-target-middle-east-governments.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The starting point of the attack is a dropper, which comes in two variants -- a regular dropper that's either implemented as an executable or a DLL file and a tampered installer file for a legitimate tool named Total Commander.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Cheat Lures Gamers Into Spreading Infostealer Malware<a href="https://www.bleepingcomputer.com/news/security/fake-cheat-lures-gamers-into-spreading-infostealer-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new info-stealing malware linked to Redline poses as a game cheat called 'Cheat Lab,' promising downloaders a free copy if they convince their friends to install it too.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Shares Best Practices for Secure AI Systems<a href="https://meritalk.com/articles/nsa-shares-best-practices-for-secure-ai-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guidance offers a wide range of best practices, including that organizations adopt a zero trust mindset, actively monitor the AI model’s behavior, and require the primary developer of the AI system to provide a threat model for their system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Web Sales Driving Major Rise in Credential Attacks<a href="https://www.bankinfosecurity.com/dark-web-sales-driving-major-rise-in-credential-attacks-a-24893?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A rise in infostealer malware attacks over the past three years has enabled cybercriminal groups to turn credential stealing into a major money-making business, paving the way for new entrants in the field and sophisticated hacking techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, and ODNI Release Guidance for Securing Election Infrastructure Against the Tactics of Foreign Malign Influence Operations<a href="https://www.cisa.gov/news-events/news/cisa-fbi-and-odni-release-guidance-securing-election-infrastructure-against-tactics-foreign-malign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guidance document details the latest tactics employed in foreign malign influence operations to shape U.S. policies, decisions, and discourse and could be used to target America’s election infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trust in Cyber Takes a Knock as CNI Budgets Flatline<a href="https://www.infosecurity-magazine.com/news/trust-cyber-cni-budgets-flatline/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trust in cybersecurity tools has become one of the biggest challenges facing critical national infrastructure (CNI) providers as sophisticated nation-state attacks proliferate, according to a new report from Bridewell.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, Europol Say Akira Ransomware Raked in $42 Million From Over 250 Victims<a href="https://www.bleepingcomputer.com/news/security/fbi-akira-ransomware-raked-in-42-million-from-250-plus-victims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a joint advisory from the FBI, CISA, Europol's EC3, and the Netherlands' NCSC-NL, the Akira ransomware operation has breached the networks of over 250 organizations and raked in roughly $42 million in ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking the Floodgates: US Dams Face Growing Cyber Threats<a href="https://www.bankinfosecurity.com/hacking-floodgates-us-dams-face-growing-cyber-threats-a-24894?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Could a hacker seize control of America's dams, unleashing floods and chaos across vulnerable communities? Cybersecurity analysts and leading lawmakers warn it's possible.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 18, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Government and OpenSSF Partner on New SBOM Management Tool<a href="https://www.infosecurity-magazine.com/news/us-government-openssf-sbom-tool/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ US Government and OpenSSF Partner on New SBOM Management Tool<a href="https://ww
 Protobom, the new open source software tool, will help all organizations read and generate SBOMs and file data, as well as translate this data across standard industry SBOM formats.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2024
+April 18, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Police Operation Disrupts 'LabHost' Phishing Service, Over 30 Arrested Worldwide<a href="https://thehackernews.com/2024/04/global-police-operation-disrupts.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Global Police Operation Disrupts 'LabHost' Phishing Service, Over 30 Arrested Wo
 As many as 37 individuals have been arrested as part of an international crackdown on a cybercrime service called LabHost that has been used by criminal actors to steal personal credentials from victims around the world.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2024
+April 18, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IT and Security Professionals Demand More Workplace Flexibility<a href="https://www.helpnetsecurity.com/2024/04/17/workplace-flexibility-advantage/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ IT and Security Professionals Demand More Workplace Flexibility<a href="https://
 The concept of Everywhere Work is now much broader, encompassing where, when, and how professionals get their work done — and flexibility has become a key workplace priority, according to Ivanti.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2024
+April 18, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FIN7 Targets American Automaker’s IT Staff in Phishing Attacks<a href="https://www.bleepingcomputer.com/news/security/fin7-targets-american-automakers-it-staff-in-phishing-attacks/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ FIN7 Targets American Automaker’s IT Staff in Phishing Attacks<a href="https:/
 The financially motivated threat actor FIN7 targeted a large U.S. car maker with spear-phishing emails for employees in the IT department to infect systems with the Anunak backdoor.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2024
+April 18, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malvertising Campaign Targeting IT Teams with MadMxShell Backdoor<a href="https://www.zscaler.com/blogs/security-research/malvertising-campaign-targeting-it-teams-madmxshell?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Malvertising Campaign Targeting IT Teams with MadMxShell Backdoor<a href="https:
 The backdoor uses techniques such as multiple stages of DLL sideloading and DNS tunneling for command-and-control (C2) communication as a means to evade endpoint and network security solutions, respectively.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2024
+April 18, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insider Threats Surge 14% Annually as Cost-of-Living Crisis Bites<a href="https://www.infosecurity-magazine.com/news/insider-threats-14-cost-living/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Insider Threats Surge 14% Annually as Cost-of-Living Crisis Bites<a href="https:
 Employee fraud grew significantly last year thanks to the opportunities afforded by remote working and the pressures of a cost-of-living crisis in the UK, according to Cifas.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2024
+April 18, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Sandworm Hackers Pose as Hacktivists in Water Utility Breaches<a href="https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-pose-as-hacktivists-in-water-utility-breaches/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Russian Sandworm Hackers Pose as Hacktivists in Water Utility Breaches<a href="h
 In a report today, Mandiant says that Sandworm relied on three main hacktivist-branded Telegram channels named XakNet Team, CyberArmyofRussia_Reborn, and Solntsepek, all operating in parallel and independently of one another.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2024
+April 18, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Moldovan Charged for Operating Botnet Used to Push Ransomware<a href="https://www.bleepingcomputer.com/news/security/moldovan-charged-for-operating-botnet-used-to-push-ransomware/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Moldovan Charged for Operating Botnet Used to Push Ransomware<a href="https://ww
 The U.S. Justice Department charged Moldovan national Alexander Lefterov, the owner and operator of a large-scale botnet that infected thousands of computers across the United States.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2024
+April 18, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Possible Chinese Hackers Use OpenMetadata for Cryptomining<a href="https://www.bankinfosecurity.com/possible-chinese-hackers-use-openmetadata-to-cryptomine-a-24886?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Possible Chinese Hackers Use OpenMetadata for Cryptomining<a href="https://www.b
 Hackers who appear to be Chinese are exploiting vulnerabilities in the OpenMetadata platform running as workloads on Kubernetes clusters to download cryptomining software, warns Microsoft.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 18, 2024
+April 18, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Armis Buys Cyber Remediation Startup Silk Security for $150M<a href="https://www.bankinfosecurity.com/armis-buys-cyber-remediation-startup-silk-security-for-150m-a-24885?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Armis Buys Cyber Remediation Startup Silk Security for $150M<a href="https://www
 Armis has purchased a security prioritization and remediation vendor led by a Goldman Sachs veteran to more effectively address vulnerabilities and misconfigurations with AI and automation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Securit
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

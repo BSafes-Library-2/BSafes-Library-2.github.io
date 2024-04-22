@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrushFTP Warns Users to Patch Exploited Zero-Day “Immediately”<a href="https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-exploited-zero-day-immediately/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the company also explains in a public security advisory published on Friday, this zero-day bug enables unauthenticated attackers to escape the user's virtual file system (VFS) and download system files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evil XDR: Researcher Turns Palo Alto Software Into Perfect Malware<a href="https://www.darkreading.com/application-security/evil-xdr-researcher-turns-palo-alto-software-into-perfect-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a briefing at Black Hat Asia, Shmuel Cohen, security researcher at SafeBreach, described how he not only reverse-engineered and cracked into the company's signature Cortex product but also weaponized it to deploy a reverse shell and ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target Middle East Governments with Evasive "CR4T" Backdoor<a href="https://thehackernews.com/2024/04/hackers-target-middle-east-governments.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The starting point of the attack is a dropper, which comes in two variants -- a regular dropper that's either implemented as an executable or a DLL file and a tampered installer file for a legitimate tool named Total Commander.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Cheat Lures Gamers Into Spreading Infostealer Malware<a href="https://www.bleepingcomputer.com/news/security/fake-cheat-lures-gamers-into-spreading-infostealer-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new info-stealing malware linked to Redline poses as a game cheat called 'Cheat Lab,' promising downloaders a free copy if they convince their friends to install it too.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Shares Best Practices for Secure AI Systems<a href="https://meritalk.com/articles/nsa-shares-best-practices-for-secure-ai-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guidance offers a wide range of best practices, including that organizations adopt a zero trust mindset, actively monitor the AI model’s behavior, and require the primary developer of the AI system to provide a threat model for their system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Web Sales Driving Major Rise in Credential Attacks<a href="https://www.bankinfosecurity.com/dark-web-sales-driving-major-rise-in-credential-attacks-a-24893?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A rise in infostealer malware attacks over the past three years has enabled cybercriminal groups to turn credential stealing into a major money-making business, paving the way for new entrants in the field and sophisticated hacking techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, and ODNI Release Guidance for Securing Election Infrastructure Against the Tactics of Foreign Malign Influence Operations<a href="https://www.cisa.gov/news-events/news/cisa-fbi-and-odni-release-guidance-securing-election-infrastructure-against-tactics-foreign-malign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guidance document details the latest tactics employed in foreign malign influence operations to shape U.S. policies, decisions, and discourse and could be used to target America’s election infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trust in Cyber Takes a Knock as CNI Budgets Flatline<a href="https://www.infosecurity-magazine.com/news/trust-cyber-cni-budgets-flatline/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trust in cybersecurity tools has become one of the biggest challenges facing critical national infrastructure (CNI) providers as sophisticated nation-state attacks proliferate, according to a new report from Bridewell.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, Europol Say Akira Ransomware Raked in $42 Million From Over 250 Victims<a href="https://www.bleepingcomputer.com/news/security/fbi-akira-ransomware-raked-in-42-million-from-250-plus-victims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a joint advisory from the FBI, CISA, Europol's EC3, and the Netherlands' NCSC-NL, the Akira ransomware operation has breached the networks of over 250 organizations and raked in roughly $42 million in ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking the Floodgates: US Dams Face Growing Cyber Threats<a href="https://www.bankinfosecurity.com/hacking-floodgates-us-dams-face-growing-cyber-threats-a-24894?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Could a hacker seize control of America's dams, unleashing floods and chaos across vulnerable communities? Cybersecurity analysts and leading lawmakers warn it's possible.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 18, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
