@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2024
+April 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Androxgh0st Malware Compromises Servers Worldwide for Botnet Attack<a href="https://www.hackread.com/androxgh0st-malware-servers-botnets-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Androxgh0st operators are exploiting multiple CVEs, including CVE-2021-3129 and CVE-2024-1709 to deploy a web shell on vulnerable servers, granting remote control capabilities. Evidence also suggests active web shells associated with CVE-2019-2725.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dependency Confusion Vulnerability Found in Apache Project<a href="https://www.infosecurity-magazine.com/news/dependency-confusion-flaw-found/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exploit occurs when referencing a private/local package, which inadvertently fetches a malicious package similarly named from the public registry due to misconfigurations in package managers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPI Package Attacking Discord Users to Steal Credentials<a href="https://www.fortinet.com/blog/threat-research/unraveling-cyber-threats-insights-from-code-analysis?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious PyPI package named "discordpy_bypass-1.7" was detected on March 12, 2024. This package is designed to extract sensitive information from user systems using a blend of persistence techniques, browser data extraction, and token harvesting.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Water to Wine: An Analysis of WINELOADER<a href="https://www.splunk.com/en_us/blog/security/wineloader-analysis.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent malware campaign used weaponized ZIP files to distribute the WINELOADER malware. The attackers send phishing emails with ZIP attachments that, when extracted, execute a PowerShell script to download and install the malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Developer Lures Child Exploiters Into Honeytrap to Extort Them<a href="https://www.bleepingcomputer.com/news/security/malware-dev-lures-child-exploiters-into-honeytrap-to-extort-them/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors created a website to impersonate UsenetClub, a subscription service for "uncensored" access to images and videos downloaded from Usenet. They claimed to provide free access to the site after the installation of a "CryptVPN" software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Windows Flaws Granting Hackers Rootkit-Like Powers<a href="https://thehackernews.com/2024/04/researchers-uncover-windows-flaws.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+New research has found that the DOS-to-NT path conversion process could be exploited by threat actors to achieve rootkit-like capabilities to conceal and impersonate files, directories, and processes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Soldiers’ Apps Increasingly Targeted for Spying, Cyber Agency Warns<a href="https://therecord.media/ukraine-military-personnel-cyber-espionage-uac-0184?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The agency is attributing the surge to a group tracked as UAC-0184, which was spotted in February targeting an unnamed Ukrainian entity in Finland. CERT-UA does not attribute UAC-0184’s activity to any specific foreign cyber threat group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Cyber Agency NCSC Announces Richard Horne as its Next Chief Executive<a href="https://therecord.media/richard-horne-uk-ncsc-ceo?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hire marks another coup for the British public sector in poaching talent from the technology industry, particularly at the executive level, following the recruitment of Ollie Whitehouse as the NCSC’s chief technology officer earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Dozens of Fake E-Zpass Toll Websites After FBI Warning<a href="https://therecord.media/researchers-find-dozens-of-ezpass-spoofs?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from cybersecurity firm DomainTools told Recorded Future News that they have found nearly 30 newly created domains related to tolls, 15 of which have a “high chance of being weaponized for phishing, malware, or spam.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 51% of Enterprises Experienced a Breach Despite Large Security Stacks<a href="https://www.helpnetsecurity.com/2024/04/19/enterprises-pentesting-frequency/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are continuing to successfully breach across the entire attack surface. Around 93% of enterprises who admitted a breach reported unplanned downtime, data exposure, or financial loss as a result, according to a survey by Pentera.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 20, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CrushFTP Warns Users to Patch Exploited Zero-Day “Immediately”<a href="https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-exploited-zero-day-immediately/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ CrushFTP Warns Users to Patch Exploited Zero-Day “Immediately”<a href="https
 As the company also explains in a public security advisory published on Friday, this zero-day bug enables unauthenticated attackers to escape the user's virtual file system (VFS) and download system files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2024
+April 20, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evil XDR: Researcher Turns Palo Alto Software Into Perfect Malware<a href="https://www.darkreading.com/application-security/evil-xdr-researcher-turns-palo-alto-software-into-perfect-malware?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Evil XDR: Researcher Turns Palo Alto Software Into Perfect Malware<a href="https
 In a briefing at Black Hat Asia, Shmuel Cohen, security researcher at SafeBreach, described how he not only reverse-engineered and cracked into the company's signature Cortex product but also weaponized it to deploy a reverse shell and ransomware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2024
+April 20, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target Middle East Governments with Evasive "CR4T" Backdoor<a href="https://thehackernews.com/2024/04/hackers-target-middle-east-governments.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Hackers Target Middle East Governments with Evasive "CR4T" Backdoor<a href="http
 The starting point of the attack is a dropper, which comes in two variants -- a regular dropper that's either implemented as an executable or a DLL file and a tampered installer file for a legitimate tool named Total Commander.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2024
+April 19, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Cheat Lures Gamers Into Spreading Infostealer Malware<a href="https://www.bleepingcomputer.com/news/security/fake-cheat-lures-gamers-into-spreading-infostealer-malware/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Fake Cheat Lures Gamers Into Spreading Infostealer Malware<a href="https://www.b
 A new info-stealing malware linked to Redline poses as a game cheat called 'Cheat Lab,' promising downloaders a free copy if they convince their friends to install it too.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2024
+April 19, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA Shares Best Practices for Secure AI Systems<a href="https://meritalk.com/articles/nsa-shares-best-practices-for-secure-ai-systems/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ NSA Shares Best Practices for Secure AI Systems<a href="https://meritalk.com/art
 The guidance offers a wide range of best practices, including that organizations adopt a zero trust mindset, actively monitor the AI model’s behavior, and require the primary developer of the AI system to provide a threat model for their system.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Meritalk
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2024
+April 19, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dark Web Sales Driving Major Rise in Credential Attacks<a href="https://www.bankinfosecurity.com/dark-web-sales-driving-major-rise-in-credential-attacks-a-24893?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Dark Web Sales Driving Major Rise in Credential Attacks<a href="https://www.bank
 A rise in infostealer malware attacks over the past three years has enabled cybercriminal groups to turn credential stealing into a major money-making business, paving the way for new entrants in the field and sophisticated hacking techniques.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2024
+April 19, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA, FBI, and ODNI Release Guidance for Securing Election Infrastructure Against the Tactics of Foreign Malign Influence Operations<a href="https://www.cisa.gov/news-events/news/cisa-fbi-and-odni-release-guidance-securing-election-infrastructure-against-tactics-foreign-malign?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ CISA, FBI, and ODNI Release Guidance for Securing Election Infrastructure Agains
 The guidance document details the latest tactics employed in foreign malign influence operations to shape U.S. policies, decisions, and discourse and could be used to target America’s election infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2024
+April 19, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Trust in Cyber Takes a Knock as CNI Budgets Flatline<a href="https://www.infosecurity-magazine.com/news/trust-cyber-cni-budgets-flatline/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Trust in Cyber Takes a Knock as CNI Budgets Flatline<a href="https://www.infosec
 Trust in cybersecurity tools has become one of the biggest challenges facing critical national infrastructure (CNI) providers as sophisticated nation-state attacks proliferate, according to a new report from Bridewell.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2024
+April 19, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA, FBI, Europol Say Akira Ransomware Raked in $42 Million From Over 250 Victims<a href="https://www.bleepingcomputer.com/news/security/fbi-akira-ransomware-raked-in-42-million-from-250-plus-victims/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ CISA, FBI, Europol Say Akira Ransomware Raked in $42 Million From Over 250 Victi
 According to a joint advisory from the FBI, CISA, Europol's EC3, and the Netherlands' NCSC-NL, the Akira ransomware operation has breached the networks of over 250 organizations and raked in roughly $42 million in ransom payments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 19, 2024
+April 19, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacking the Floodgates: US Dams Face Growing Cyber Threats<a href="https://www.bankinfosecurity.com/hacking-floodgates-us-dams-face-growing-cyber-threats-a-24894?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Hacking the Floodgates: US Dams Face Growing Cyber Threats<a href="https://www.b
 Could a hacker seize control of America's dams, unleashing floods and chaos across vulnerable communities? Cybersecurity analysts and leading lawmakers warn it's possible.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Securit
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
