@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+April 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPI Package Attacking Discord Users to Steal Credentials<a href="https://www.fortinet.com/blog/threat-research/unraveling-cyber-threats-insights-from-code-analysis?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious PyPI package named "discordpy_bypass-1.7" was detected on March 12, 2024. This package is designed to extract sensitive information from user systems using a blend of persistence techniques, browser data extraction, and token harvesting.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukrainian Soldiers’ Apps Increasingly Targeted for Spying, Cyber Agency Warns<a href="https://therecord.media/ukraine-military-personnel-cyber-espionage-uac-0184?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The agency is attributing the surge to a group tracked as UAC-0184, which was spotted in February targeting an unnamed Ukrainian entity in Finland. CERT-UA does not attribute UAC-0184’s activity to any specific foreign cyber threat group.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

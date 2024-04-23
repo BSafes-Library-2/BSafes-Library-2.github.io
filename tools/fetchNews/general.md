@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+April 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dark Web Sales Driving Major Rise in Credential Attacks<a href="https://www.bankinfosecurity.com/dark-web-sales-driving-major-rise-in-credential-attacks-a-24893?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A rise in infostealer malware attacks over the past three years has enabled cybercriminal groups to turn credential stealing into a major money-making business, paving the way for new entrants in the field and sophisticated hacking techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Trust in Cyber Takes a Knock as CNI Budgets Flatline<a href="https://www.infosecurity-magazine.com/news/trust-cyber-cni-budgets-flatline/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trust in cybersecurity tools has become one of the biggest challenges facing critical national infrastructure (CNI) providers as sophisticated nation-state attacks proliferate, according to a new report from Bridewell.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacking the Floodgates: US Dams Face Growing Cyber Threats<a href="https://www.bankinfosecurity.com/hacking-floodgates-us-dams-face-growing-cyber-threats-a-24894?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Could a hacker seize control of America's dams, unleashing floods and chaos across vulnerable communities? Cybersecurity analysts and leading lawmakers warn it's possible.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Securit
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

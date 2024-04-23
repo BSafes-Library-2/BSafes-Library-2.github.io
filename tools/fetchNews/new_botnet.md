@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+April 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Androxgh0st Malware Compromises Servers Worldwide for Botnet Attack<a href="https://www.hackread.com/androxgh0st-malware-servers-botnets-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Androxgh0st operators are exploiting multiple CVEs, including CVE-2021-3129 and CVE-2024-1709 to deploy a web shell on vulnerable servers, granting remote control capabilities. Evidence also suggests active web shells associated with CVE-2019-2725.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
