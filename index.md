@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+This Website is Selling Billions of Private Messages of Discord Users<a href="https://www.hackread.com/website-selling-private-messages-of-discord-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The website Spy.pet has been involved in a major privacy breach, selling billions of private messages from Discord users. This breach exposes personal information, private photos, financial details, and potentially company secrets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Exploitation on the Rise as Attackers Ditch Phishing<a href="https://www.infosecurity-magazine.com/news/vulnerability-exploitation-rise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a move away from traditional phishing scams, attackers are increasingly exploiting vulnerabilities in computer systems to gain initial network access, according to Mandiant’s M-Trends 2024 Report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian APT28 Group in New “GooseEgg” Hacking Campaign<a href="https://www.infosecurity-magazine.com/news/russian-apt28-gooseegg-hacking/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A notorious Russian APT group has been stealing credentials for years by exploiting a Windows Print Spooler bug and using a novel post-compromise tool known as “GooseEgg,” Microsoft has revealed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA to Issue List of Software Products Critical to Agency Security by End of September<a href="https://www.nextgov.com/cybersecurity/2024/04/cisa-issue-list-software-products-critical-agency-security-end-september/395965/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency is targeting a September 30 deadline to give federal agencies a list of example software products deemed critical for the federal government’s cyber posture.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GuptiMiner: Hijacking Antivirus Updates for Distributing Backdoors and Casual Mining<a href="https://decoded.avast.io/janrubin/guptiminer-hijacking-antivirus-updates-for-distributing-backdoors-and-casual-mining/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GuptiMiner malware campaign, discovered by Avast, involved hijacking an eScan antivirus update mechanism to distribute backdoors and coinminers. The campaign was orchestrated by a threat actor with possible ties to Kimsuky.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraudsters Exploit Telegram’s Popularity for Toncoin Scam<a href="https://www.infosecurity-magazine.com/news/telegram-exploited-toncoin-scam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The perpetrators attract unsuspecting Telegram users through a referral system, enticing them with promises of an “exclusive earning program” shared via contacts in their network.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nespresso Domain Serves Up Steamy Cup of Phish, No Cream or Sugar<a href="https://www.darkreading.com/cyberattacks-data-breaches/nespresso-domain-phish-cream-sugar?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign exploiting a bug in Nespresso's website has been able to evade detection by taking advantage of security tools that fail to look for malicious nested or hidden links.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of North Korean Hackers Turning to AI-Fueled Cyber Espionage<a href="https://thehackernews.com/2024/04/microsoft-warns-north-korean-hackers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft specifically highlighted a group named Emerald Sleet (aka Kimusky or TA427), which has been observed using LLMs to bolster spear-phishing efforts aimed at Korean Peninsula experts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Behavioral Patterns of Ransomware Groups are Changing<a href="https://www.helpnetsecurity.com/2024/04/23/ransomware-groups-activity-q1-2024/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware landscape has undergone significant changes in Q1 2024, with major shifts in the behavior of Ransomware-as-a-Service (RaaS) groups, according to GuidePoint Security's GRIT Q1 2024 Ransomware Report.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 23, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Sandworm Hackers Targeted 20 Critical Organizations in Ukraine<a href="https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-targeted-20-critical-orgs-in-ukraine/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CERT-UA reports that in March 2024, APT44 conducted operations to disrupt information and communication systems at energy, water, and heating suppliers in 10 regions of Ukraine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 22, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
