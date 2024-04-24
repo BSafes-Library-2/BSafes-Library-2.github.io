@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+From Water to Wine: An Analysis of WINELOADER<a href="https://www.splunk.com/en_us/blog/security/wineloader-analysis.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent malware campaign used weaponized ZIP files to distribute the WINELOADER malware. The attackers send phishing emails with ZIP attachments that, when extracted, execute a PowerShell script to download and install the malware.
+</details>
+<div style="text-align: right" markdown="1">
+Splunk
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find Dozens of Fake E-Zpass Toll Websites After FBI Warning<a href="https://therecord.media/researchers-find-dozens-of-ezpass-spoofs?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from cybersecurity firm DomainTools told Recorded Future News that they have found nearly 30 newly created domains related to tolls, 15 of which have a “high chance of being weaponized for phishing, malware, or spam.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

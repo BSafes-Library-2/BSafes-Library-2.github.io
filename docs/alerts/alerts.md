@@ -7,6 +7,16 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2024 - United States Government Accountability Office 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Implementation of Executive Order Requirements Is Essential to Address Key Actions <a href="https://www.gao.gov/assets/d24106343.pdf"> Full Text</a>
+</p>
+</details>
+Among its 115 provisions, the order contains 55 leadership and oversight requirements (actions to assist or direct the federal agencies in implementing the order). The three key agencies primarily responsible for the implementation of these requirements are the Department of Homeland Security’s (DHS) Cybersecurity and Infrastructure Security Agency, the National Institute of Standards and Technology, and the Office of Management and Budget (OMB).  These agencies fully completed 49 of the 55 requirements, partially completed five, and one was not applicable (see table below). Completing these requirements would provide the federal government with greater assurance that its systems and data are adequately protected.
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 20, 2024 - NSA, CISA, FBI, ASD, ACSC, GCSB NCSC, Canadian Centre for Cyber Security, GCHQ NCSC  
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

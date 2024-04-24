@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Cyber Agency NCSC Announces Richard Horne as its Next Chief Executive<a href="https://therecord.media/richard-horne-uk-ncsc-ceo?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hire marks another coup for the British public sector in poaching talent from the technology industry, particularly at the executive level, following the recruitment of Ollie Whitehouse as the NCSC’s chief technology officer earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

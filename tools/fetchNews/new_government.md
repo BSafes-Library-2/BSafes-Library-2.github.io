@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+April 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA to Issue List of Software Products Critical to Agency Security by End of September<a href="https://www.nextgov.com/cybersecurity/2024/04/cisa-issue-list-software-products-critical-agency-security-end-september/395965/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency is targeting a September 30 deadline to give federal agencies a list of example software products deemed critical for the federal government’s cyber posture.
+</details>
+<div style="text-align: right" markdown="1">
+NextGov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

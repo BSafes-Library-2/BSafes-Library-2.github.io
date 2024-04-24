@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+April 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Behavioral Patterns of Ransomware Groups are Changing<a href="https://www.helpnetsecurity.com/2024/04/23/ransomware-groups-activity-q1-2024/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware landscape has undergone significant changes in Q1 2024, with major shifts in the behavior of Ransomware-as-a-Service (RaaS) groups, according to GuidePoint Security's GRIT Q1 2024 Ransomware Report.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

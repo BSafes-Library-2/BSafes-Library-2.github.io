@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Exploitation on the Rise as Attackers Ditch Phishing<a href="https://www.infosecurity-magazine.com/news/vulnerability-exploitation-rise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a move away from traditional phishing scams, attackers are increasingly exploiting vulnerabilities in computer systems to gain initial network access, according to Mandiant’s M-Trends 2024 Report.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

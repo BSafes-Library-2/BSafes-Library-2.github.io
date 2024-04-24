@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 51% of Enterprises Experienced a Breach Despite Large Security Stacks<a href="https://www.helpnetsecurity.com/2024/04/19/enterprises-pentesting-frequency/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are continuing to successfully breach across the entire attack surface. Around 93% of enterprises who admitted a breach reported unplanned downtime, data exposure, or financial loss as a result, according to a survey by Pentera.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
