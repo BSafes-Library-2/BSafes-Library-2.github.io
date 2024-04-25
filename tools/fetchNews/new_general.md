@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Attacker Dwell Time Down, Ransomware up in 2023<a href="https://www.techtarget.com/searchsecurity/news/366581738/Mandiant-Attacker-dwell-time-down-ransomware-up-in-2023?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new report by Mandiant, which is based on Mandiant Consulting investigations during 2023, the global median dwell time for attackers fell to its lowest point since the company began tracking the metric in 2011.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Fifth of UK Companies Admit Staff Leaked Data via GenAI<a href="https://www.infosecurity-magazine.com/news/fifth-cisos-staff-leaked-data-genai/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One in five UK companies has experienced sensitive corporate data exposure due to employees' use of generative AI (GenAI), according to a report by cybersecurity services provider RiverSafe.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

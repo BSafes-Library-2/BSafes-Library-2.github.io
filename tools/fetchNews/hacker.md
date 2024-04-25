@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+April 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of North Korean Hackers Turning to AI-Fueled Cyber Espionage<a href="https://thehackernews.com/2024/04/microsoft-warns-north-korean-hackers.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft specifically highlighted a group named Emerald Sleet (aka Kimusky or TA427), which has been observed using LLMs to bolster spear-phishing efforts aimed at Korean Peninsula experts.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

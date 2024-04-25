@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fraudsters Exploit Telegram’s Popularity for Toncoin Scam<a href="https://www.infosecurity-magazine.com/news/telegram-exploited-toncoin-scam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The perpetrators attract unsuspecting Telegram users through a referral system, enticing them with promises of an “exclusive earning program” shared via contacts in their network.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nespresso Domain Serves Up Steamy Cup of Phish, No Cream or Sugar<a href="https://www.darkreading.com/cyberattacks-data-breaches/nespresso-domain-phish-cream-sugar?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A phishing campaign exploiting a bug in Nespresso's website has been able to evade detection by taking advantage of security tools that fail to look for malicious nested or hidden links.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

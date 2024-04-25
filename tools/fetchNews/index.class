@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Bugs in a Popular Phone-Tracking App Exposed Users’ Precise Locations<a href="https://techcrunch.com/2024/04/24/security-flaws-isharing-tracking-app-exposed-millions-precise-locations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security researcher discovered vulnerabilities in the popular phone-tracking app iSharing, which has over 35 million users. The bugs allowed a user to access others' precise coordinates, even if the user wasn't actively sharing their location data.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Ad for Facebook Redirects to Scam<a href="https://www.malwarebytes.com/blog/scams/2024/04/google-ad-for-facebook-redirects-to-scam?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers observed a malicious ad campaign targeting Facebook users via Google search. The ad, which appears at the top of Google search results for the keyword "Facebook," redirects users to a scam page.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Detail Multistage Attack Hijacking Systems with SSLoad, Cobalt Strike<a href="https://thehackernews.com/2024/04/researchers-detail-multistage-attack.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+"SSLoad is designed to stealthily infiltrate systems, gather sensitive information and transmit its findings back to its operators," security researchers Den Iuzvyk, Tim Peck, and Oleg Kolesnikov said in a report shared with The Hacker News.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran Dupes US Military Contractors, Gov't Agencies in Cyber Campaign<a href="https://www.darkreading.com/cyberattacks-data-breaches/iran-dupes-military-contractors-govt-agencies-cybercampaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian state-sponsored hacking group successfully infiltrated hundreds of thousands of employee accounts at US companies and government agencies, including the US Treasury and State Department, as part of a five-year cyber espionage campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Major Security Flaws Expose Keystrokes of Over One Billion Chinese Keyboard App Users<a href="https://thehackernews.com/2024/04/major-security-flaws-expose-keystrokes.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities could be exploited to "completely reveal the contents of users' keystrokes in transit," researchers Jeffrey Knockel, Mona Wang, and Zoë Reichert said.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Attacker Dwell Time Down, Ransomware up in 2023<a href="https://www.techtarget.com/searchsecurity/news/366581738/Mandiant-Attacker-dwell-time-down-ransomware-up-in-2023?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new report by Mandiant, which is based on Mandiant Consulting investigations during 2023, the global median dwell time for attackers fell to its lowest point since the company began tracking the metric in 2011.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Target
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2024 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Publish Fake Story About Ukrainians Attempting To Assassinate Slovak President<a href="https://therecord.media/hackers-breach-news-website-false-article-slovakia-assassination?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unidentified attacker hacked a Czech news service's website and published a fake story on Tuesday claiming that an assassination attempt had been made against the newly elected Slovak president Petr Pellegrini.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Fifth of UK Companies Admit Staff Leaked Data via GenAI<a href="https://www.infosecurity-magazine.com/news/fifth-cisos-staff-leaked-data-genai/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One in five UK companies has experienced sensitive corporate data exposure due to employees' use of generative AI (GenAI), according to a report by cybersecurity services provider RiverSafe.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Gov Slaps Visa Restrictions on Spyware Honchos<a href="https://www.darkreading.com/cybersecurity-operations/us-gov-visa-restrictions-spyware-honchos?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US State Department is imposing visa restrictions on 13 people involved in the development and sale of commercial spyware, as well as their spouses and children. The State Department can deny these people entrance to the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 24, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veeam Acquires Coveware to Boost its Ransomware Protection Capabilities<a href="https://www.helpnetsecurity.com/2024/04/23/veeam-coveware-acquisition/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veeam Software announced the acquisition of Coveware, a provider of cyber-extortion incident response. It brings ransomware recovery and first responder capabilities to further strengthen Veeam’s radical resilience solutions for customers.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Securit
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 23, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

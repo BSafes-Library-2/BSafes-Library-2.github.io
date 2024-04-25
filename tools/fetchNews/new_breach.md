@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+April 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran Dupes US Military Contractors, Gov't Agencies in Cyber Campaign<a href="https://www.darkreading.com/cyberattacks-data-breaches/iran-dupes-military-contractors-govt-agencies-cybercampaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An Iranian state-sponsored hacking group successfully infiltrated hundreds of thousands of employee accounts at US companies and government agencies, including the US Treasury and State Department, as part of a five-year cyber espionage campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

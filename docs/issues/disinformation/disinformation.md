@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+April 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Publish Fake Story About Ukrainians Attempting To Assassinate Slovak President<a href="https://therecord.media/hackers-breach-news-website-false-article-slovakia-assassination?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An unidentified attacker hacked a Czech news service's website and published a fake story on Tuesday claiming that an assassination attempt had been made against the newly elected Slovak president Petr Pellegrini.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

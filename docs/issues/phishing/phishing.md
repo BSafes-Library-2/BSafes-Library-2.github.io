@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Ad for Facebook Redirects to Scam<a href="https://www.malwarebytes.com/blog/scams/2024/04/google-ad-for-facebook-redirects-to-scam?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers observed a malicious ad campaign targeting Facebook users via Google search. The ad, which appears at the top of Google search results for the keyword "Facebook," redirects users to a scam page.
+</details>
+<div style="text-align: right" markdown="1">
+Malwarebytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

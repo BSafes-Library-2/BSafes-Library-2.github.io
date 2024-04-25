@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+April 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Gov Slaps Visa Restrictions on Spyware Honchos<a href="https://www.darkreading.com/cybersecurity-operations/us-gov-visa-restrictions-spyware-honchos?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US State Department is imposing visa restrictions on 13 people involved in the development and sale of commercial spyware, as well as their spouses and children. The State Department can deny these people entrance to the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
