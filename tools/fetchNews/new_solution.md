@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Meet opens client-side encrypted calls to non Google users<a href="https://www.bleepingcomputer.com/news/security/google-meet-opens-client-side-encrypted-calls-to-non-google-users/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google announced it is updating the client-side encryption mechanism for Google Meet to allow external participants, including those without Google accounts, to join encrypted calls.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

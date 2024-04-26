@@ -7,6 +7,27 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2024 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Releases Eight Industrial Control Systems Advisories <a href="https://www.gao.gov/assets/d24106343.pdf"> Full Text</a>
+</p>
+</details>
+CISA released eight Industrial Control Systems (ICS) advisories on April 25, 2024. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
+
+ICSA-24-116-01 Multiple Vulnerabilities in Hitachi Energy RTU500 Series
+ICSA-24-116-02 Hitachi Energy MACH SCM
+ICSA-24-116-03 Siemens RUGGEDCOM APE1808 Devices Configured with Palo Alto Networks Virtual NGFW
+ICSA-24-116-04 Honeywell Experion PKS, Experion LX, PlantCruise by Experion, Safety Manager, Safety Manager SC
+ICSA-23-143-03 Mitsubishi Electric MELSEC Series CPU Module (Update D)
+ICSA-23-157-02 Mitsubishi Electric MELSEC iQ-R Series/iQ-F Series (Update A)
+ICSA-24-102-09 Rockwell Automation 5015-AENFTXT (Update A)
+ICSA-24-067-01 Chirp Systems Chirp Access (Update B)
+CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations.
+
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 24, 2024 - United States Government Accountability Office 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

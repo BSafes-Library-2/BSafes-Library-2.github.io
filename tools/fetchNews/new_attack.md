@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ArcaneDoor Hackers Exploit Cisco Zero-Days to Breach Government Networks<a href="https://www.bleepingcomputer.com/news/security/arcanedoor-hackers-exploit-cisco-zero-days-to-breach-govt-networks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers, identified as UAT4356 by Cisco Talos and STORM-1849 by Microsoft, began infiltrating vulnerable edge devices in early November 2023 in a cyber-espionage campaign tracked as ArcaneDoor.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

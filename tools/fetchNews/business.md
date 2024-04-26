@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veeam Acquires Coveware to Boost its Ransomware Protection Capabilities<a href="https://www.helpnetsecurity.com/2024/04/23/veeam-coveware-acquisition/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Veeam Software announced the acquisition of Coveware, a provider of cyber-extortion incident response. It brings ransomware recovery and first responder capabilities to further strengthen Veeam’s radical resilience solutions for customers.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Securit
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

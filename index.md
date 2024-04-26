@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2024
+April 25, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Leverage Black Hat SEO Techniques to Distribute Info-Stealer Malware<a href="https://www.zscaler.com/blogs/security-research/black-hat-seo-leveraged-distribute-malware?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Attackers Leverage Black Hat SEO Techniques to Distribute Info-Stealer Malware<a
 Threat actors utilize fraudulent websites hosted on popular legitimate platforms to spread malware and steal data. To evade detection, attackers employ obfuscation methods and checks on referral URLs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScaler
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2024
+April 25, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ring Customers Get $5.6 Million in Privacy Breach Settlement<a href="https://www.bleepingcomputer.com/news/security/ring-customers-get-56-million-in-privacy-breach-settlement/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Ring Customers Get $5.6 Million in Privacy Breach Settlement<a href="https://www
 The FTC is sending $5.6 million in refunds to Ring users whose private video feeds were accessed without consent by Amazon employees and contractors, or had their accounts and devices hacked because of insufficient security protections.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2024
+April 25, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities in Microsoft's PlayReady DRM Could Enable Illegal Movie Downloads From Streaming Services<a href="https://security-explorations.com/microsoft-warbird-pmp.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Vulnerabilities in Microsoft's PlayReady DRM Could Enable Illegal Movie Download
 The research identified deficiencies in various PMP components that could be exploited to gain access to plaintext content keys guarded by PlayReady DRM in Windows 10/11 environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Explorations
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2024
+April 25, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ArcaneDoor Hackers Exploit Cisco Zero-Days to Breach Government Networks<a href="https://www.bleepingcomputer.com/news/security/arcanedoor-hackers-exploit-cisco-zero-days-to-breach-govt-networks/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ ArcaneDoor Hackers Exploit Cisco Zero-Days to Breach Government Networks<a href=
 The hackers, identified as UAT4356 by Cisco Talos and STORM-1849 by Microsoft, began infiltrating vulnerable edge devices in early November 2023 in a cyber-espionage campaign tracked as ArcaneDoor.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2024
+April 25, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Security Leaders Braced for Daily AI-Driven Attacks by Year-End<a href="https://www.infosecurity-magazine.com/news/security-leaders-ai-driven-attacks/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Report: Security Leaders Braced for Daily AI-Driven Attacks by Year-End<a href="
 Most businesses are concerned about AI-enabled cyber-threats, with 93% of security leaders expecting to face daily AI-driven attacks by the end of 2024, according to a new report by Netacea.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2024
+April 25, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Accuse Founders of Cryptocurrency Mixer of ‘Large-Scale Money Laundering’<a href="https://therecord.media/feds-charge-cryptocurrency-mixer-founders-samourai?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Feds Accuse Founders of Cryptocurrency Mixer of ‘Large-Scale Money Laundering�
 The two founders of a cryptocurrency mixing service that allegedly obfuscated the origins of at least $100 million in criminal proceeds have been arrested, the Department of Justice announced Wednesday.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2024
+April 25, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Maximum Severity Flowmon Bug has a Public Exploit, Patch Now<a href="https://www.bleepingcomputer.com/news/security/maximum-severity-flowmon-bug-has-a-public-exploit-patch-now/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Maximum Severity Flowmon Bug has a Public Exploit, Patch Now<a href="https://www
 Flowon developer Progress Software first alerted about the flaw on April 4, warning that it impacts versions of the product v12.x and v11.x. The company urged system admins to upgrade to the latest releases, v12.3.4 and 11.1.14.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2024
+April 25, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Cisco and CrushFTP Vulnerabilities Being Actively Exploited<a href="https://therecord.media/cisco-asa-crushftp-vulnerabilities-exploited-cisa?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ CISA Warns of Cisco and CrushFTP Vulnerabilities Being Actively Exploited<a href
 On Wednesday, the Cybersecurity and Infrastructure Security Agency (CISA) added two Cisco product vulnerabilities — CVE-2024-20353 and CVE-2024-20359 — as well as one vulnerability affecting popular file transfer tool CrushFTP.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2024
+April 25, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Meet opens client-side encrypted calls to non Google users<a href="https://www.bleepingcomputer.com/news/security/google-meet-opens-client-side-encrypted-calls-to-non-google-users/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Google Meet opens client-side encrypted calls to non Google users<a href="https:
 Google announced it is updating the client-side encryption mechanism for Google Meet to allow external participants, including those without Google accounts, to join encrypted calls.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 25, 2024
+April 25, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese, Russian Espionage Campaigns Increasingly Targeting Edge Devices<a href="https://therecord.media/chinese-russian-hackers-edge-devices?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Chinese, Russian Espionage Campaigns Increasingly Targeting Edge Devices<a href=
 Chinese and Russian hackers have turned their focus to edge devices — like VPN appliances, firewalls, routers and Internet of Things (IoT) tools — amid a startling increase in espionage attacks, according to Google security firm Mandiant.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
