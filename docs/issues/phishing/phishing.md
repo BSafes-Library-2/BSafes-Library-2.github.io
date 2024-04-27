@@ -8,6 +8,62 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: Fraudsters Using Fake Online Dating Verification Apps to Scam Lovers<a href="https://therecord.media/fbi-dating-app-verification-scams-online?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI published a warning on Friday about the scam, noting that it was akin to an offshoot of romance scams and pig butchering schemes that have proliferated in recent years.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bogus npm Packages Used to Trick Software Developers into Installing Malware<a href="https://thehackernews.com/2024/04/bogus-npm-packages-used-to-trick.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An ongoing social engineering campaign is targeting software developers with bogus npm packages under the guise of a job interview to trick them into downloading a Python backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea's Lazarus Group Deploys New Kaolin RAT via Fake Job Lures<a href="https://thehackernews.com/2024/04/north-koreas-lazarus-group-deploys-new.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Lazarus Group's use of job offer lures to infiltrate targets is not new. Dubbed Operation Dream Job, the long-running campaign has a track record of using various social media and instant messaging platforms to deliver malware.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Autodesk Hosting PDF Files Used in Microsoft Phishing Attacks<a href="https://www.netcraft.com/blog/autodesk-hosting-pdf-files-used-in-microsoft-phishing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers discovered a sophisticated phishing campaign that is using compromised email accounts and Autodesk's file sharing platform to steal Microsoft login credentials from victims.
+</details>
+<div style="text-align: right" markdown="1">
+Net Craft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

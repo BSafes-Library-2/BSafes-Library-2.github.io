@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Leverage Black Hat SEO Techniques to Distribute Info-Stealer Malware<a href="https://www.zscaler.com/blogs/security-research/black-hat-seo-leveraged-distribute-malware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors utilize fraudulent websites hosted on popular legitimate platforms to spread malware and steal data. To evade detection, attackers employ obfuscation methods and checks on referral URLs.
+</details>
+<div style="text-align: right" markdown="1">
+ZScaler
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

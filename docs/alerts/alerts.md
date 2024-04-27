@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2024 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Verification Schemes Target Users of Online Dating Platforms <a href="https://www.ic3.gov/Media/Y2024/PSA240426"> Full Text</a>
+</p>
+</details>
+The FBI warns of "free" online verification service schemes in which fraudsters target users of dating websites and applications (apps) to defraud victims into signing up for recurring payments. Unlike romance scams involving investment-confidence schemes, commonly referred to as pig-butchering, where victims are convinced to transfer large amounts of money over time, the so called "free" verification schemes involve recurring and costly monthly subscription fees. Additionally, fraudsters collect the information entered by victims at registrations (e.g., emails, phone numbers, and credit card information) and use it to commit further fraudulent activity such as identity theft or selling the information on the dark web.
+</div>
+
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 25, 2024 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -24,7 +35,6 @@ ICSA-23-157-02 Mitsubishi Electric MELSEC iQ-R Series/iQ-F Series (Update A)
 ICSA-24-102-09 Rockwell Automation 5015-AENFTXT (Update A)
 ICSA-24-067-01 Chirp Systems Chirp Access (Update B)
 CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations.
-
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+April 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Security Leaders Braced for Daily AI-Driven Attacks by Year-End<a href="https://www.infosecurity-magazine.com/news/security-leaders-ai-driven-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most businesses are concerned about AI-enabled cyber-threats, with 93% of security leaders expecting to face daily AI-driven attacks by the end of 2024, according to a new report by Netacea.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+April 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ring Customers Get $5.6 Million in Privacy Breach Settlement<a href="https://www.bleepingcomputer.com/news/security/ring-customers-get-56-million-in-privacy-breach-settlement/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FTC is sending $5.6 million in refunds to Ring users whose private video feeds were accessed without consent by Amazon employees and contractors, or had their accounts and devices hacked because of insufficient security protections.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

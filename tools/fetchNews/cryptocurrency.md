@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+April 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Accuse Founders of Cryptocurrency Mixer of ‘Large-Scale Money Laundering’<a href="https://therecord.media/feds-charge-cryptocurrency-mixer-founders-samourai?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two founders of a cryptocurrency mixing service that allegedly obfuscated the origins of at least $100 million in criminal proceeds have been arrested, the Department of Justice announced Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
