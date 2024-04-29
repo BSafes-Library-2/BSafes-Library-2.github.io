@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2024
+April 27, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Thousands of Qlik Sense Servers Open to Cactus Ransomware<a href="https://www.darkreading.com/cyber-risk/more-than-3-000-qlik-sense-servers-vuln-to-cactus-ransomware-attacks?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Thousands of Qlik Sense Servers Open to Cactus Ransomware<a href="https://www.da
 Nearly five months after security researchers warned of the Cactus ransomware group leveraging a set of three vulnerabilities in Qlik Sense data analytics and BI platform, many organizations remain dangerously vulnerable to the threat.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2024
+April 27, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: Fraudsters Using Fake Online Dating Verification Apps to Scam Lovers<a href="https://therecord.media/fbi-dating-app-verification-scams-online?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ FBI: Fraudsters Using Fake Online Dating Verification Apps to Scam Lovers<a href
 The FBI published a warning on Friday about the scam, noting that it was akin to an offshoot of romance scams and pig butchering schemes that have proliferated in recent years.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2024
+April 27, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bogus npm Packages Used to Trick Software Developers into Installing Malware<a href="https://thehackernews.com/2024/04/bogus-npm-packages-used-to-trick.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Bogus npm Packages Used to Trick Software Developers into Installing Malware<a h
 An ongoing social engineering campaign is targeting software developers with bogus npm packages under the guise of a job interview to trick them into downloading a Python backdoor.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 27, 2024
+April 27, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zero-Day from 2017 Used Along With Cobalt Strike Loader in Unholy Alliance<a href="https://www.deepinstinct.com/blog/uncorking-old-wine-zero-day-cobalt-strike-loader?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Zero-Day from 2017 Used Along With Cobalt Strike Loader in Unholy Alliance<a hre
 The operation involves a malicious PPSX file that drops a custom loader for the Cobalt Strike Beacon malware. The loader employs various techniques to slow down analysis and bypass security solutions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Deep Instinct
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2024
+April 26, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Brokewell Malware Takes Over Android Devices, Steals Data<a href="https://www.bleepingcomputer.com/news/security/new-brokewell-malware-takes-over-android-devices-steals-data/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ New Brokewell Malware Takes Over Android Devices, Steals Data<a href="https://ww
 The malware is delivered through a fake Google Chrome update that is shown while using the web browser. Brokewell is under active development and features a mix of extensive device takeover and remote control capabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2024
+April 26, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea's Lazarus Group Deploys New Kaolin RAT via Fake Job Lures<a href="https://thehackernews.com/2024/04/north-koreas-lazarus-group-deploys-new.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ North Korea's Lazarus Group Deploys New Kaolin RAT via Fake Job Lures<a href="ht
 The Lazarus Group's use of job offer lures to infiltrate targets is not new. Dubbed Operation Dream Job, the long-running campaign has a track record of using various social media and instant messaging platforms to deliver malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2024
+April 26, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Godfather Banking Trojan Spawns 1.2K Samples Across 57 Countries<a href="https://www.darkreading.com/endpoint-security/godfather-banking-trojan-spawns-1k-samples-57-countries?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Godfather Banking Trojan Spawns 1.2K Samples Across 57 Countries<a href="https:/
 First discovered in 2022, Godfather — which can record screens and keystrokes, intercepts 2FA calls and texts, initiates bank transfers, and more — has quickly become one of the most widespread malware-as-a-service offerings in cybercrime.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2024
+April 26, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Found 18 Vulnerabilities in Brocade SANnav<a href="https://pierrekim.github.io/blog/2024-04-24-brocade-sannav-18-vulnerabilities.html#insecure-sannav-access?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Researchers Found 18 Vulnerabilities in Brocade SANnav<a href="https://pierrekim
 Three of the vulnerabilities could allow an attacker to send malicious data, intercept credentials sent in clear text, and potentially compromise the entire Fibre Channel infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Pierre Kim
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2024
+April 26, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Autodesk Hosting PDF Files Used in Microsoft Phishing Attacks<a href="https://www.netcraft.com/blog/autodesk-hosting-pdf-files-used-in-microsoft-phishing-attacks/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Autodesk Hosting PDF Files Used in Microsoft Phishing Attacks<a href="https://ww
 Researchers discovered a sophisticated phishing campaign that is using compromised email accounts and Autodesk's file sharing platform to steal Microsoft login credentials from victims.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Net Craft
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 26, 2024
+April 26, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ThreatLocker Raises $115M in Series D Funding<a href="https://www.finsmes.com/2024/04/threatlocker-raises-115m-in-series-d-funding.html?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ ThreatLocker Raises $115M in Series D Funding<a href="https://www.finsmes.com/20
 The round was led by existing investor General Atlantic, with participation from other major investors StepStone Group and the D. E. Shaw group. The company intends to use the funds to drive product innovation and accelerate its global expansion.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Finsmes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
