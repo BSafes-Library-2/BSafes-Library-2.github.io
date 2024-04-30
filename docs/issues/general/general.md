@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+April 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 73% of SME Security Professionals Missed or Ignored Critical Alerts<a href="https://www.helpnetsecurity.com/2024/04/25/73-of-sme-security-pros-missed-or-ignored-critical-alerts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT staff at SMEs is overwhelmed by the complexity and demands of managing multiple tools in their security stack, leading them to miss critical severity events and weaken their company’s security posture, according to Coro.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most People Still Rely on Memory or Pen and Paper for Password Management<a href="https://www.helpnetsecurity.com/2024/04/26/current-user-password-practices/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Bitwarden survey showed that 25% of respondents globally reuse passwords across 11-20+ accounts, and 36% admit to using personal information in their credentials publicly accessible on social media (60%) platforms and online forums (30%).
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

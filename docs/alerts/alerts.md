@@ -16,6 +16,15 @@ New Verification Schemes Target Users of Online Dating Platforms <a href="https:
 The FBI warns of "free" online verification service schemes in which fraudsters target users of dating websites and applications (apps) to defraud victims into signing up for recurring payments. Unlike romance scams involving investment-confidence schemes, commonly referred to as pig-butchering, where victims are convinced to transfer large amounts of money over time, the so called "free" verification schemes involve recurring and costly monthly subscription fees. Additionally, fraudsters collect the information entered by victims at registrations (e.g., emails, phone numbers, and credit card information) and use it to commit further fraudulent activity such as identity theft or selling the information on the dark web.
 </div>
 
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 25, 2024 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Hygiene Helps Organizations Mitigate Ransomware-Related Vulnerabilities  <a href="https://www.cisa.gov/news-events/news/cyber-hygiene-helps-organizations-mitigate-ransomware-related-vulnerabilities"> Full Text</a>
+</p>
+</details>
+Ransomware continues to evolve as a scourge on critical services, businesses, and communities worldwide, causing costly incidents that are increasingly destructive and disruptive. Based on recent industry reporting, it costs businesses an average of $1.85 million to recover from a ransomware attack.1 In addition, 80% of victims who paid a ransom were targeted and victimized again by these criminals.2 The economic, technical, and reputational impacts of ransomware incidents, throughout the initial disruption and, at times, extended recovery, continue to pose a challenge for organizations large and small. 
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 25, 2024 - CISA 

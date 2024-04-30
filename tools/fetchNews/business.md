@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+April 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ThreatLocker Raises $115M in Series D Funding<a href="https://www.finsmes.com/2024/04/threatlocker-raises-115m-in-series-d-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The round was led by existing investor General Atlantic, with participation from other major investors StepStone Group and the D. E. Shaw group. The company intends to use the funds to drive product innovation and accelerate its global expansion.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

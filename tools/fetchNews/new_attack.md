@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+April 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta Warns of Unprecedented Scale in Credential Stuffing Attacks on Online Services<a href="https://securityaffairs.com/162464/hacking/okta-warned-spike-credential-stuffing-attacks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks recently observed by Okta route requests through anonymizing services like TOR and residential proxies such as NSOCKS, Luminati, and DataImpulse. The experts noticed that millions of requests have been routed through these services.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

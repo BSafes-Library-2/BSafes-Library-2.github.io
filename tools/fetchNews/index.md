@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attacks Continue, Post-Election, Against Russian Independent Media Site Meduza<a href="https://therecord.media/ddos-attacks-meduza-post-election?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In April, Meduza faced two large-scale distributed denial-of-service (DDoS) attacks, prompting it to reach out to Qurium to investigate their origin and composition, the researchers said.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than 800 Vulnerabilities Resolved Through CISA Ransomware Notification Pilot<a href="https://therecord.media/vulnerabilities-resolved-through-cisa-pilot?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ransomware Vulnerability Warning Pilot was unveiled in January 2023 as a program designed to “identify organizations with internet-accessible vulnerabilities commonly associated with known ransomware actors.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Intelligence Moves to Protect Research Universities From Espionage<a href="https://therecord.media/MI5-protect-british-universities-from-espionage?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The head of Britain’s domestic intelligence agency warned the country’s leading research universities on Thursday that foreign states are targeting their institutions and imperiling national security.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 73% of SME Security Professionals Missed or Ignored Critical Alerts<a href="https://www.helpnetsecurity.com/2024/04/25/73-of-sme-security-pros-missed-or-ignored-critical-alerts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+IT staff at SMEs is overwhelmed by the complexity and demands of managing multiple tools in their security stack, leading them to miss critical severity events and weaken their company’s security posture, according to Coro.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS Announces AI Safety Board with OpenAI Founder, CEOs of Microsoft, Nvidia, IBM<a href="https://therecord.media/dhs-artificial-intelligence-safety-security-board-announcement?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Members will include representatives of tech companies, critical infrastructure entities, academia, and government agencies, as well as “leaders in the civil rights, civil liberties, and privacy communities,” DHS Secretary Alejandro Mayorkas said.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Know-Your-Customer Executive Order Facing Stiff Opposition From Cloud Industry<a href="https://therecord.media/kyc-executive-order-cloud-industry-opposition?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A controversial executive order that would require U.S. cloud companies to closely monitor the identities of their customers will move one step closer to the finish line next week amid opposition from the industry.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LSA Whisperer: Open-source tools for interacting with authentication packages<a href="https://www.helpnetsecurity.com/2024/04/26/lsa-whisperer-open-source-tools-for-interacting-with-authentication-packages/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool allows users to directly recover multiple types of credentials from the LSASS without accessing its memory. This includes recovering Kerberos tickets, SSO cookies, DPAPI credential keys, and NTLMv1 responses.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Okta Warns of Unprecedented Scale in Credential Stuffing Attacks on Online Services<a href="https://securityaffairs.com/162464/hacking/okta-warned-spike-credential-stuffing-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks recently observed by Okta route requests through anonymizing services like TOR and residential proxies such as NSOCKS, Luminati, and DataImpulse. The experts noticed that millions of requests have been routed through these services.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most People Still Rely on Memory or Pen and Paper for Password Management<a href="https://www.helpnetsecurity.com/2024/04/26/current-user-password-practices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Bitwarden survey showed that 25% of respondents globally reuse passwords across 11-20+ accounts, and 36% admit to using personal information in their credentials publicly accessible on social media (60%) platforms and online forums (30%).
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese police create fake support scam payment cards to warn victims<a href="https://www.bleepingcomputer.com/news/security/japanese-police-create-fake-support-scam-payment-cards-to-warn-victims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cards are labeled "Virus Trojan Horse Removal Payment Card" and "Unpaid Bill Late Fee Payment Card," and were created by the Echizen Police in the Fukui prefecture in Japan as an alert mechanism.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 27, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
