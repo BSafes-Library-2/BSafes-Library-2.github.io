@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2024
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Island Raises $175 Million at $3 Billion Valuation<a href="https://www.helpnetsecurity.com/2024/04/30/island-series-d-175/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $175 million Series D funding round for Island was led by new investor Coatue and existing investor Sequoia Capital, with additional funding from other existing investors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cuttlefish Malware Infects Routers to Monitor Traffic for Credential Theft<a href="https://www.bleepingcomputer.com/news/security/new-cuttlefish-malware-infects-routers-to-monitor-traffic-for-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Lotus Labs says the malware has been active since at least July 2023. It is currently running an active campaign concentrated in Turkey, with a few infections elsewhere impacting satellite phone and data center services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Unveils Guidelines for AI and Critical Infrastructure<a href="https://fedscoop.com/cisa-unveils-guidelines-for-ai-and-critical-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA on Monday released safety and security guidelines for critical infrastructure, a move that comes just days after the Department of Homeland Security announced the formation of a safety and security board focused on the same topic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wpeeper Android Malware Hides Behind Hacked WordPress Sites<a href="https://www.bleepingcomputer.com/news/security/new-wpeeper-android-malware-hides-behind-hacked-wordpress-sites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android backdoor malware named 'Wpeeper' has been spotted in at least two unofficial app stores mimicking the Uptodown App Store, a popular third-party app store for Android devices with over 220 million downloads.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Programming Language R Patches Code Execution Security Flaw<a href="https://www.theregister.com/2024/05/01/r_programming_language_ace_vuln/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tagged CVE-2024-27322, can be exploited by tricking someone into loading a maliciously crafted RDS (R Data Serialization) file into an R-based project, or by fooling them into integrating a poisoned R package into a code base.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patched Deserialization Flaw in Siemens Product Allows RCE<a href="https://www.healthcareinfosecurity.com/patched-deserialization-flaw-in-siemens-product-allows-rce-a-24980?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers detailed a deserialization vulnerability in Siemens software used to monitor industrial energy consumption and attributed the flaw to the German conglomerate's decision to use a programming method that has known security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Latrodectus Malware Attacks Use Microsoft, Cloudflare Themes<a href="https://www.bleepingcomputer.com/news/security/new-latrodectus-malware-attacks-use-microsoft-cloudflare-themes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latrodectus malware is now being distributed in phishing campaigns using Microsoft Azure and Cloudflare lures to appear legitimate while making it harder for email security platforms to detect the emails as malicious.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belarus Secret Service Website Still Down After Hackers Claim the Breach<a href="https://therecord.media/belarus-secret-service-website-hacked?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers, known as the Belarusian Cyber-Partisans, announced their operation against the KGB late last week. The agency has not commented on the attack, but on Monday its website says that it is “in the process of development.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases New-Open Source Tool for OT Security<a href="https://www.bankinfosecurity.com/microsoft-releases-new-open-source-tool-for-ot-security-a-24961?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released a new open-source security tool to close gaps in threat analysis for industrial control systems and help address increased nation-state attacks on critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KnowBe4 to Acquire Egress<a href="https://www.finsmes.com/2024/04/knowbe4-to-acquire-egress.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KnowBe4, a Tampa Bay, FL-based provider of security awareness training and simulated phishing platform, is to acquire Egress Software Technologies, a London, UK-based company that specializes in adaptive and integrated cloud email security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS Attacks Continue, Post-Election, Against Russian Independent Media Site Meduza<a href="https://therecord.media/ddos-attacks-meduza-post-election?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ DDoS Attacks Continue, Post-Election, Against Russian Independent Media Site Med
 In April, Meduza faced two large-scale distributed denial-of-service (DDoS) attacks, prompting it to reach out to Qurium to investigate their origin and composition, the researchers said.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2024
+April 29, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Than 800 Vulnerabilities Resolved Through CISA Ransomware Notification Pilot<a href="https://therecord.media/vulnerabilities-resolved-through-cisa-pilot?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ More Than 800 Vulnerabilities Resolved Through CISA Ransomware Notification Pilo
 The Ransomware Vulnerability Warning Pilot was unveiled in January 2023 as a program designed to “identify organizations with internet-accessible vulnerabilities commonly associated with known ransomware actors.”
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2024
+April 29, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 British Intelligence Moves to Protect Research Universities From Espionage<a href="https://therecord.media/MI5-protect-british-universities-from-espionage?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ British Intelligence Moves to Protect Research Universities From Espionage<a hre
 The head of Britain’s domestic intelligence agency warned the country’s leading research universities on Thursday that foreign states are targeting their institutions and imperiling national security.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2024
+April 29, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 73% of SME Security Professionals Missed or Ignored Critical Alerts<a href="https://www.helpnetsecurity.com/2024/04/25/73-of-sme-security-pros-missed-or-ignored-critical-alerts/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Report: 73% of SME Security Professionals Missed or Ignored Critical Alerts<a hr
 IT staff at SMEs is overwhelmed by the complexity and demands of managing multiple tools in their security stack, leading them to miss critical severity events and weaken their company’s security posture, according to Coro.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2024
+April 29, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS Announces AI Safety Board with OpenAI Founder, CEOs of Microsoft, Nvidia, IBM<a href="https://therecord.media/dhs-artificial-intelligence-safety-security-board-announcement?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ DHS Announces AI Safety Board with OpenAI Founder, CEOs of Microsoft, Nvidia, IB
 Members will include representatives of tech companies, critical infrastructure entities, academia, and government agencies, as well as “leaders in the civil rights, civil liberties, and privacy communities,” DHS Secretary Alejandro Mayorkas said.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2024
+April 29, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Know-Your-Customer Executive Order Facing Stiff Opposition From Cloud Industry<a href="https://therecord.media/kyc-executive-order-cloud-industry-opposition?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Know-Your-Customer Executive Order Facing Stiff Opposition From Cloud Industry<a
 A controversial executive order that would require U.S. cloud companies to closely monitor the identities of their customers will move one step closer to the finish line next week amid opposition from the industry.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2024
+April 29, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LSA Whisperer: Open-source tools for interacting with authentication packages<a href="https://www.helpnetsecurity.com/2024/04/26/lsa-whisperer-open-source-tools-for-interacting-with-authentication-packages/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ LSA Whisperer: Open-source tools for interacting with authentication packages<a 
 The tool allows users to directly recover multiple types of credentials from the LSASS without accessing its memory. This includes recovering Kerberos tickets, SSO cookies, DPAPI credential keys, and NTLMv1 responses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2024
+April 29, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Okta Warns of Unprecedented Scale in Credential Stuffing Attacks on Online Services<a href="https://securityaffairs.com/162464/hacking/okta-warned-spike-credential-stuffing-attacks.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Okta Warns of Unprecedented Scale in Credential Stuffing Attacks on Online Servi
 The attacks recently observed by Okta route requests through anonymizing services like TOR and residential proxies such as NSOCKS, Luminati, and DataImpulse. The experts noticed that millions of requests have been routed through these services.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2024
+April 29, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most People Still Rely on Memory or Pen and Paper for Password Management<a href="https://www.helpnetsecurity.com/2024/04/26/current-user-password-practices/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Most People Still Rely on Memory or Pen and Paper for Password Management<a href
 A Bitwarden survey showed that 25% of respondents globally reuse passwords across 11-20+ accounts, and 36% admit to using personal information in their credentials publicly accessible on social media (60%) platforms and online forums (30%).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 29, 2024
+April 29, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japanese police create fake support scam payment cards to warn victims<a href="https://www.bleepingcomputer.com/news/security/japanese-police-create-fake-support-scam-payment-cards-to-warn-victims/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Japanese police create fake support scam payment cards to warn victims<a href="h
 The cards are labeled "Virus Trojan Horse Removal Payment Card" and "Unpaid Bill Late Fee Payment Card," and were created by the Echizen Police in the Fukui prefecture in Japan as an alert mechanism.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
