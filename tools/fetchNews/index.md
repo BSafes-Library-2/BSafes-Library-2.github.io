@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Island Raises $175 Million at $3 Billion Valuation<a href="https://www.helpnetsecurity.com/2024/04/30/island-series-d-175/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $175 million Series D funding round for Island was led by new investor Coatue and existing investor Sequoia Capital, with additional funding from other existing investors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cuttlefish Malware Infects Routers to Monitor Traffic for Credential Theft<a href="https://www.bleepingcomputer.com/news/security/new-cuttlefish-malware-infects-routers-to-monitor-traffic-for-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Black Lotus Labs says the malware has been active since at least July 2023. It is currently running an active campaign concentrated in Turkey, with a few infections elsewhere impacting satellite phone and data center services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Unveils Guidelines for AI and Critical Infrastructure<a href="https://fedscoop.com/cisa-unveils-guidelines-for-ai-and-critical-infrastructure/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA on Monday released safety and security guidelines for critical infrastructure, a move that comes just days after the Department of Homeland Security announced the formation of a safety and security board focused on the same topic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Wpeeper Android Malware Hides Behind Hacked WordPress Sites<a href="https://www.bleepingcomputer.com/news/security/new-wpeeper-android-malware-hides-behind-hacked-wordpress-sites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android backdoor malware named 'Wpeeper' has been spotted in at least two unofficial app stores mimicking the Uptodown App Store, a popular third-party app store for Android devices with over 220 million downloads.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Programming Language R Patches Code Execution Security Flaw<a href="https://www.theregister.com/2024/05/01/r_programming_language_ace_vuln/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tagged CVE-2024-27322, can be exploited by tricking someone into loading a maliciously crafted RDS (R Data Serialization) file into an R-based project, or by fooling them into integrating a poisoned R package into a code base.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patched Deserialization Flaw in Siemens Product Allows RCE<a href="https://www.healthcareinfosecurity.com/patched-deserialization-flaw-in-siemens-product-allows-rce-a-24980?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers detailed a deserialization vulnerability in Siemens software used to monitor industrial energy consumption and attributed the flaw to the German conglomerate's decision to use a programming method that has known security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Latrodectus Malware Attacks Use Microsoft, Cloudflare Themes<a href="https://www.bleepingcomputer.com/news/security/new-latrodectus-malware-attacks-use-microsoft-cloudflare-themes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Latrodectus malware is now being distributed in phishing campaigns using Microsoft Azure and Cloudflare lures to appear legitimate while making it harder for email security platforms to detect the emails as malicious.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belarus Secret Service Website Still Down After Hackers Claim the Breach<a href="https://therecord.media/belarus-secret-service-website-hacked?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers, known as the Belarusian Cyber-Partisans, announced their operation against the KGB late last week. The agency has not commented on the attack, but on Monday its website says that it is “in the process of development.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases New-Open Source Tool for OT Security<a href="https://www.bankinfosecurity.com/microsoft-releases-new-open-source-tool-for-ot-security-a-24961?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released a new open-source security tool to close gaps in threat analysis for industrial control systems and help address increased nation-state attacks on critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KnowBe4 to Acquire Egress<a href="https://www.finsmes.com/2024/04/knowbe4-to-acquire-egress.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KnowBe4, a Tampa Bay, FL-based provider of security awareness training and simulated phishing platform, is to acquire Egress Software Technologies, a London, UK-based company that specializes in adaptive and integrated cloud email security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 29, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
