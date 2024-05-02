@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Island Raises $175 Million at $3 Billion Valuation<a href="https://www.helpnetsecurity.com/2024/04/30/island-series-d-175/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The $175 million Series D funding round for Island was led by new investor Coatue and existing investor Sequoia Capital, with additional funding from other existing investors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+KnowBe4 to Acquire Egress<a href="https://www.finsmes.com/2024/04/knowbe4-to-acquire-egress.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+KnowBe4, a Tampa Bay, FL-based provider of security awareness training and simulated phishing platform, is to acquire Egress Software Technologies, a London, UK-based company that specializes in adaptive and integrated cloud email security.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

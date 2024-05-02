@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Releases New-Open Source Tool for OT Security<a href="https://www.bankinfosecurity.com/microsoft-releases-new-open-source-tool-for-ot-security-a-24961?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has released a new open-source security tool to close gaps in threat analysis for industrial control systems and help address increased nation-state attacks on critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+April 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than 800 Vulnerabilities Resolved Through CISA Ransomware Notification Pilot<a href="https://therecord.media/vulnerabilities-resolved-through-cisa-pilot?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ransomware Vulnerability Warning Pilot was unveiled in January 2023 as a program designed to “identify organizations with internet-accessible vulnerabilities commonly associated with known ransomware actors.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+British Intelligence Moves to Protect Research Universities From Espionage<a href="https://therecord.media/MI5-protect-british-universities-from-espionage?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The head of Britain’s domestic intelligence agency warned the country’s leading research universities on Thursday that foreign states are targeting their institutions and imperiling national security.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+April 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS Announces AI Safety Board with OpenAI Founder, CEOs of Microsoft, Nvidia, IBM<a href="https://therecord.media/dhs-artificial-intelligence-safety-security-board-announcement?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Members will include representatives of tech companies, critical infrastructure entities, academia, and government agencies, as well as “leaders in the civil rights, civil liberties, and privacy communities,” DHS Secretary Alejandro Mayorkas said.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

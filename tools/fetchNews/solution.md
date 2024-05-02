@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+April 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LSA Whisperer: Open-source tools for interacting with authentication packages<a href="https://www.helpnetsecurity.com/2024/04/26/lsa-whisperer-open-source-tools-for-interacting-with-authentication-packages/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The tool allows users to directly recover multiple types of credentials from the LSASS without accessing its memory. This includes recovering Kerberos tickets, SSO cookies, DPAPI credential keys, and NTLMv1 responses.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

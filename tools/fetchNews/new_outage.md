@@ -8,6 +8,20 @@ nav_order: 900140
 
 ## Outage
 ---
+May 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belarus Secret Service Website Still Down After Hackers Claim the Breach<a href="https://therecord.media/belarus-secret-service-website-hacked?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hackers, known as the Belarusian Cyber-Partisans, announced their operation against the KGB late last week. The agency has not commented on the attack, but on Monday its website says that it is “in the process of development.”
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

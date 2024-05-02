@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Unveils Guidelines for AI and Critical Infrastructure<a href="https://fedscoop.com/cisa-unveils-guidelines-for-ai-and-critical-infrastructure/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA on Monday released safety and security guidelines for critical infrastructure, a move that comes just days after the Department of Homeland Security announced the formation of a safety and security board focused on the same topic.
+</details>
+<div style="text-align: right" markdown="1">
+FEDSCOOP
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

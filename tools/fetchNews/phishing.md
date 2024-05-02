@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+April 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese police create fake support scam payment cards to warn victims<a href="https://www.bleepingcomputer.com/news/security/japanese-police-create-fake-support-scam-payment-cards-to-warn-victims/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cards are labeled "Virus Trojan Horse Removal Payment Card" and "Unpaid Bill Late Fee Payment Card," and were created by the Echizen Police in the Fukui prefecture in Japan as an alert mechanism.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

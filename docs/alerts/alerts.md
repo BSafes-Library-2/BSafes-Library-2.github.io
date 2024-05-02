@@ -7,6 +7,26 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 29, 2024 - NIST
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile <a href="https://airc.nist.gov/docs/NIST.AI.600-1.GenAI-Profile.ipd.pdf"> Full Text</a>
+</p>
+</details>
+This document is a companion resource for Generative AI to the AI Risk Management Framework (AI RMF), pursuant to President Biden’s Executive Order (EO) 14110 on Safe, Secure, and Trustworthy Artificial Intelligence. The AI RMF was released in January 2023, and is intended for voluntary use and to improve the ability of organizations to incorporate trustworthiness considerations into the design, development, use, and evaluation of AI products, services, and systems. 
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+April 26, 2024 - DHS 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MITIGATING ARTIFICIAL INTELLIGENCE (AI) RISK: Safety and Security Guidelines for Critical Infrastructure Owners and Operators <a href="https://www.dhs.gov/sites/default/files/2024-04/24_0426_dhs_ai-ci-safety-security-guidelines-508c.pdf"> Full Text</a>
+</p>
+</details>
+The U.S. Department of Homeland Security (DHS) was tasked in Executive Order 14110: Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence1 to develop safety and security guidelines for use by critical infrastructure owners and operators. DHS developed these guidelines in coordination with the Department of Commerce, the Sector Risk Management Agencies (SRMAs) for the 16 critical infrastructure sectors, and relevant independent regulatory agencies. 
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 April 26, 2024 - FBI
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
