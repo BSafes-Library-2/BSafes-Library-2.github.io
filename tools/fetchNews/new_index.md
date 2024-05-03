@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2024
+May 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Target New NATO Member Sweden with Surge of DDoS Attacks<a href="https://www.infosecurity-magazine.com/news/nato-sweden-surge-ddos-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sweden has faced a wave of distributed denial of service (DDoS) attacks since it started the process of joining NATO, according to network performance management provider Netscout.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finnish Psychotherapy Center Cyber-Blackmailer Gets Six Years<a href="https://www.theregister.com/2024/04/30/finnish_psychotherapy_center_crook_sentenced/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The district court of Länsi-Uusimaa, Finland, sentenced Aleksanteri Kivimäki, 26, on Tuesday for crimes against the Vastaamo center and those in its care, which included more than 20,000 extortion attempts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Goldoon Botnet Targeting D-Link Devices Using Decade-Old Flaw<a href="https://www.fortinet.com/blog/threat-research/new-goldoon-botnet-targeting-d-link-devices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This botnet exploits the CVE-2015-2051 flaw to download a dropper script, and then deploys the Goldoon malware for DDoS attacks. The botnet uses various autorun methods for persistence and connects to a C2 server for instructions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds GitLab Flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/162646/security/gitlab-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This flaw allows for an account takeover via Password Reset, enabling attackers to hijack accounts without any interaction. The affected versions range from 16.1 to 16.7, with GitLab releasing patches for versions 16.1.6 to 16.7.2.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC’s New Mobile Risk Model Aimed at “High-Threat” Firms<a href="https://www.infosecurity-magazine.com/news/ncscs-mobile-risk-model-highthreat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initiative is designed to mitigate the threat of consumer-grade devices being targeted by commercial spyware, potentially enabling sophisticated threat actors to use these as a stepping stone into back-end corporate systems and data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE Aruba Networking Fixes Four Critical RCE Flaws in ArubaOS<a href="https://www.bleepingcomputer.com/news/security/hpe-aruba-networking-fixes-four-critical-rce-flaws-in-arubaos/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HPE Aruba Networking has issued its April 2024 security advisory detailing critical remote code execution (RCE) vulnerabilities impacting multiple versions of ArubaOS, its proprietary network operating system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit, Black Basta, Play Dominate Ransomware in Q1 2024<a href="https://www.infosecurity-magazine.com/news/lockbit-black-basta-play/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit, Black Basta, and Play have been observed to be the most active ransomware groups in Q1 2024, with Black Basta experiencing a notable 41% increase in activity, according to a report by ReliaQuest.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability Exploits Triple as Initial Access Point for Breaches<a href="https://www.infosecurity-magazine.com/news/dbir-vulnerability-exploits-triple/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Verizon’s 2024 Data Breach Investigations Report, this method of gaining unauthorized access leading to a breach accounted for 14% of malicious actors’ way into a network. It is the third most used after credential theft and phishing.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SafeBase Raises $33M in Series B to Accelerate Vision for Friction-Free Security Reviews<a href="https://finance.yahoo.com/news/safebase-raises-33m-series-b-140000192.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elisity, a leader in identity-based microsegmentation, has secured $37 million in Series B funding from Insight Partners to enhance its AI capabilities for cyber threat anticipation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI is Creating a New Generation of Cyberattacks<a href="https://www.helpnetsecurity.com/2024/04/29/offensive-ai-cyberattacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most businesses see offensive AI fast becoming a standard tool for cybercriminals, with 93% of security leaders expecting to face daily AI-driven attacks, according to Netacea.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 1, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Island Raises $175 Million at $3 Billion Valuation<a href="https://www.helpnetsecurity.com/2024/04/30/island-series-d-175/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Island Raises $175 Million at $3 Billion Valuation<a href="https://www.helpnetse
 The $175 million Series D funding round for Island was led by new investor Coatue and existing investor Sequoia Capital, with additional funding from other existing investors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2024
+May 1, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Cuttlefish Malware Infects Routers to Monitor Traffic for Credential Theft<a href="https://www.bleepingcomputer.com/news/security/new-cuttlefish-malware-infects-routers-to-monitor-traffic-for-credentials/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ New Cuttlefish Malware Infects Routers to Monitor Traffic for Credential Theft<a
 Black Lotus Labs says the malware has been active since at least July 2023. It is currently running an active campaign concentrated in Turkey, with a few infections elsewhere impacting satellite phone and data center services.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2024
+May 1, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Unveils Guidelines for AI and Critical Infrastructure<a href="https://fedscoop.com/cisa-unveils-guidelines-for-ai-and-critical-infrastructure/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ CISA Unveils Guidelines for AI and Critical Infrastructure<a href="https://fedsc
 The CISA on Monday released safety and security guidelines for critical infrastructure, a move that comes just days after the Department of Homeland Security announced the formation of a safety and security board focused on the same topic.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+FEDSCOOP
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2024
+May 1, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Wpeeper Android Malware Hides Behind Hacked WordPress Sites<a href="https://www.bleepingcomputer.com/news/security/new-wpeeper-android-malware-hides-behind-hacked-wordpress-sites/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ New Wpeeper Android Malware Hides Behind Hacked WordPress Sites<a href="https://
 A new Android backdoor malware named 'Wpeeper' has been spotted in at least two unofficial app stores mimicking the Uptodown App Store, a popular third-party app store for Android devices with over 220 million downloads.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2024
+May 1, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Programming Language R Patches Code Execution Security Flaw<a href="https://www.theregister.com/2024/05/01/r_programming_language_ace_vuln/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Programming Language R Patches Code Execution Security Flaw<a href="https://www.
 The vulnerability, tagged CVE-2024-27322, can be exploited by tricking someone into loading a maliciously crafted RDS (R Data Serialization) file into an R-based project, or by fooling them into integrating a poisoned R package into a code base.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2024
+May 1, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patched Deserialization Flaw in Siemens Product Allows RCE<a href="https://www.healthcareinfosecurity.com/patched-deserialization-flaw-in-siemens-product-allows-rce-a-24980?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Patched Deserialization Flaw in Siemens Product Allows RCE<a href="https://www.h
 Researchers detailed a deserialization vulnerability in Siemens software used to monitor industrial energy consumption and attributed the flaw to the German conglomerate's decision to use a programming method that has known security risks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Healthcare Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2024
+May 1, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Latrodectus Malware Attacks Use Microsoft, Cloudflare Themes<a href="https://www.bleepingcomputer.com/news/security/new-latrodectus-malware-attacks-use-microsoft-cloudflare-themes/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ New Latrodectus Malware Attacks Use Microsoft, Cloudflare Themes<a href="https:/
 Latrodectus malware is now being distributed in phishing campaigns using Microsoft Azure and Cloudflare lures to appear legitimate while making it harder for email security platforms to detect the emails as malicious.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 1, 2024
+May 1, 2024 -- [Outage](/docs/issues/outage/outage/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belarus Secret Service Website Still Down After Hackers Claim the Breach<a href="https://therecord.media/belarus-secret-service-website-hacked?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Belarus Secret Service Website Still Down After Hackers Claim the Breach<a href=
 The hackers, known as the Belarusian Cyber-Partisans, announced their operation against the KGB late last week. The agency has not commented on the attack, but on Monday its website says that it is “in the process of development.”
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2024
+April 30, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Releases New-Open Source Tool for OT Security<a href="https://www.bankinfosecurity.com/microsoft-releases-new-open-source-tool-for-ot-security-a-24961?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Microsoft Releases New-Open Source Tool for OT Security<a href="https://www.bank
 Microsoft has released a new open-source security tool to close gaps in threat analysis for industrial control systems and help address increased nation-state attacks on critical infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 30, 2024
+April 30, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 KnowBe4 to Acquire Egress<a href="https://www.finsmes.com/2024/04/knowbe4-to-acquire-egress.html?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ KnowBe4 to Acquire Egress<a href="https://www.finsmes.com/2024/04/knowbe4-to-acq
 KnowBe4, a Tampa Bay, FL-based provider of security awareness training and simulated phishing platform, is to acquire Egress Software Technologies, a London, UK-based company that specializes in adaptive and integrated cloud email security.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Finsmes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
