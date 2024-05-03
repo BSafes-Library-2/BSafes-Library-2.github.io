@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Goldoon Botnet Targeting D-Link Devices Using Decade-Old Flaw<a href="https://www.fortinet.com/blog/threat-research/new-goldoon-botnet-targeting-d-link-devices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This botnet exploits the CVE-2015-2051 flaw to download a dropper script, and then deploys the Goldoon malware for DDoS attacks. The botnet uses various autorun methods for persistence and connects to a C2 server for instructions.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

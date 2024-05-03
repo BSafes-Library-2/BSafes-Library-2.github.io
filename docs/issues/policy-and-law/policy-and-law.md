@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finnish Psychotherapy Center Cyber-Blackmailer Gets Six Years<a href="https://www.theregister.com/2024/04/30/finnish_psychotherapy_center_crook_sentenced/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The district court of Länsi-Uusimaa, Finland, sentenced Aleksanteri Kivimäki, 26, on Tuesday for crimes against the Vastaamo center and those in its care, which included more than 20,000 extortion attempts.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

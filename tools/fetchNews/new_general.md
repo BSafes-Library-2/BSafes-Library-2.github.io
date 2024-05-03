@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+May 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI is Creating a New Generation of Cyberattacks<a href="https://www.helpnetsecurity.com/2024/04/29/offensive-ai-cyberattacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Most businesses see offensive AI fast becoming a standard tool for cybercriminals, with 93% of security leaders expecting to face daily AI-driven attacks, according to Netacea.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

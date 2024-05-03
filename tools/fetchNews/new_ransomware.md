@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LockBit, Black Basta, Play Dominate Ransomware in Q1 2024<a href="https://www.infosecurity-magazine.com/news/lockbit-black-basta-play/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LockBit, Black Basta, and Play have been observed to be the most active ransomware groups in Q1 2024, with Black Basta experiencing a notable 41% increase in activity, according to a report by ReliaQuest.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

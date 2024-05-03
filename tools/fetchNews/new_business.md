@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SafeBase Raises $33M in Series B to Accelerate Vision for Friction-Free Security Reviews<a href="https://finance.yahoo.com/news/safebase-raises-33m-series-b-140000192.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Elisity, a leader in identity-based microsegmentation, has secured $37 million in Series B funding from Insight Partners to enhance its AI capabilities for cyber threat anticipation.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+May 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds GitLab Flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/162646/security/gitlab-known-exploited-vulnerabilities-catalog.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This flaw allows for an account takeover via Password Reset, enabling attackers to hijack accounts without any interaction. The affected versions range from 16.1 to 16.7, with GitLab releasing patches for versions 16.1.6 to 16.7.2.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NCSC’s New Mobile Risk Model Aimed at “High-Threat” Firms<a href="https://www.infosecurity-magazine.com/news/ncscs-mobile-risk-model-highthreat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initiative is designed to mitigate the threat of consumer-grade devices being targeted by commercial spyware, potentially enabling sophisticated threat actors to use these as a stepping stone into back-end corporate systems and data.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

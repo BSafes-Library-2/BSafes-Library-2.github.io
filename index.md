@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2024
+May 2, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Target New NATO Member Sweden with Surge of DDoS Attacks<a href="https://www.infosecurity-magazine.com/news/nato-sweden-surge-ddos-attacks/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Hackers Target New NATO Member Sweden with Surge of DDoS Attacks<a href="https:/
 Sweden has faced a wave of distributed denial of service (DDoS) attacks since it started the process of joining NATO, according to network performance management provider Netscout.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2024
+May 2, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Finnish Psychotherapy Center Cyber-Blackmailer Gets Six Years<a href="https://www.theregister.com/2024/04/30/finnish_psychotherapy_center_crook_sentenced/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Finnish Psychotherapy Center Cyber-Blackmailer Gets Six Years<a href="https://ww
 The district court of Länsi-Uusimaa, Finland, sentenced Aleksanteri Kivimäki, 26, on Tuesday for crimes against the Vastaamo center and those in its care, which included more than 20,000 extortion attempts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2024
+May 2, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Goldoon Botnet Targeting D-Link Devices Using Decade-Old Flaw<a href="https://www.fortinet.com/blog/threat-research/new-goldoon-botnet-targeting-d-link-devices?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ New Goldoon Botnet Targeting D-Link Devices Using Decade-Old Flaw<a href="https:
 This botnet exploits the CVE-2015-2051 flaw to download a dropper script, and then deploys the Goldoon malware for DDoS attacks. The botnet uses various autorun methods for persistence and connects to a C2 server for instructions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2024
+May 2, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds GitLab Flaw to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/162646/security/gitlab-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ CISA Adds GitLab Flaw to its Known Exploited Vulnerabilities Catalog<a href="htt
 This flaw allows for an account takeover via Password Reset, enabling attackers to hijack accounts without any interaction. The affected versions range from 16.1 to 16.7, with GitLab releasing patches for versions 16.1.6 to 16.7.2.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2024
+May 2, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NCSC’s New Mobile Risk Model Aimed at “High-Threat” Firms<a href="https://www.infosecurity-magazine.com/news/ncscs-mobile-risk-model-highthreat/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ NCSC’s New Mobile Risk Model Aimed at “High-Threat” Firms<a href="https://
 The initiative is designed to mitigate the threat of consumer-grade devices being targeted by commercial spyware, potentially enabling sophisticated threat actors to use these as a stepping stone into back-end corporate systems and data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2024
+May 2, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HPE Aruba Networking Fixes Four Critical RCE Flaws in ArubaOS<a href="https://www.bleepingcomputer.com/news/security/hpe-aruba-networking-fixes-four-critical-rce-flaws-in-arubaos/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ HPE Aruba Networking Fixes Four Critical RCE Flaws in ArubaOS<a href="https://ww
 HPE Aruba Networking has issued its April 2024 security advisory detailing critical remote code execution (RCE) vulnerabilities impacting multiple versions of ArubaOS, its proprietary network operating system.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2024
+May 2, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LockBit, Black Basta, Play Dominate Ransomware in Q1 2024<a href="https://www.infosecurity-magazine.com/news/lockbit-black-basta-play/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ LockBit, Black Basta, Play Dominate Ransomware in Q1 2024<a href="https://www.in
 LockBit, Black Basta, and Play have been observed to be the most active ransomware groups in Q1 2024, with Black Basta experiencing a notable 41% increase in activity, according to a report by ReliaQuest.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2024
+May 2, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability Exploits Triple as Initial Access Point for Breaches<a href="https://www.infosecurity-magazine.com/news/dbir-vulnerability-exploits-triple/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Vulnerability Exploits Triple as Initial Access Point for Breaches<a href="https
 According to Verizon’s 2024 Data Breach Investigations Report, this method of gaining unauthorized access leading to a breach accounted for 14% of malicious actors’ way into a network. It is the third most used after credential theft and phishing.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2024
+May 2, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SafeBase Raises $33M in Series B to Accelerate Vision for Friction-Free Security Reviews<a href="https://finance.yahoo.com/news/safebase-raises-33m-series-b-140000192.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ SafeBase Raises $33M in Series B to Accelerate Vision for Friction-Free Security
 Elisity, a leader in identity-based microsegmentation, has secured $37 million in Series B funding from Insight Partners to enhance its AI capabilities for cyber threat anticipation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Yahoo
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 2, 2024
+May 2, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI is Creating a New Generation of Cyberattacks<a href="https://www.helpnetsecurity.com/2024/04/29/offensive-ai-cyberattacks/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ AI is Creating a New Generation of Cyberattacks<a href="https://www.helpnetsecur
 Most businesses see offensive AI fast becoming a standard tool for cybercriminals, with 93% of security leaders expecting to face daily AI-driven attacks, according to Netacea.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
