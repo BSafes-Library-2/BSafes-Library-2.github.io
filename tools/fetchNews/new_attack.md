@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Records Increase in Financially Motivated Attacks by Russian Hackers<a href="https://therecord.media/ukraine-russia-increase-financially-motivated-cyberattacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These hackers are employing sophisticated phishing techniques to distribute malicious software and target financial theft, with incidents steadily increasing over the past two years.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

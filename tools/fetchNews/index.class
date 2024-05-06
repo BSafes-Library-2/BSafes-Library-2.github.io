@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ukraine Records Increase in Financially Motivated Attacks by Russian Hackers<a href="https://therecord.media/ukraine-russia-increase-financially-motivated-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These hackers are employing sophisticated phishing techniques to distribute malicious software and target financial theft, with incidents steadily increasing over the past two years.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Urges Software Devs to Weed out Path Traversal Vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/cisa-urges-software-devs-to-weed-out-path-traversal-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Path traversal vulnerabilities, also known as directory traversal, can be exploited by attackers to manipulate critical files, compromise security mechanisms, access sensitive data, and disrupt systems.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Bug can Leak DNS Traffic With VPN Kill Switch Enabled<a href="https://www.bleepingcomputer.com/news/security/android-bug-can-leak-dns-traffic-with-vpn-kill-switch-enabled/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Android bug discovered by a Mullvad VPN user reveals that Android devices can leak DNS queries even with the "Always-on VPN" feature and "Block connections without VPN" option enabled.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Dirty Stream” Attack Affects Popular Android Apps<a href="https://www.microsoft.com/en-us/security/blog/2024/05/01/dirty-stream-attack-discovering-and-mitigating-a-common-vulnerability-pattern-in-android-apps/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in popular Android apps like Xiaomi File Manager and WPS Office could allow malicious apps to overwrite files in the vulnerable app's home directory, potentially leading to code execution and unauthorized access to user data.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than Two Dozen Android Vulnerabilities Fixed<a href="https://www.theregister.com/2024/05/02/google_xiaomi_flaws_oversecured/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Xiaomi resolved 20 flaws, ensuring user safety by fixing issues like arbitrary access to system components and data leaks. Google also fixed six vulnerabilities, including geolocation access through the camera and arbitrary file access.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Spoofing Journalist Emails to Spy on Experts<a href="https://www.infosecurity-magazine.com/news/north-korean-spoofing-journalist/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean threat actors, specifically the Kimsuky group, are exploiting weakly configured DMARC protocols to spoof the email addresses of legitimate journalists, academics, and other experts in East Asian affairs.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepKeep Secures $10M in Seed Funding to Boost GenAI Protection Endeavors<a href="https://medium.com/@multiplatform.ai/deepkeep-secures-10m-in-seed-funding-to-boost-genai-protection-endeavors-52f3fa675f1b?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Founded in 2021 by Rony Ohayon, DeepKeep specializes in AI-Native Trust, Risk, and Security Management (TRiSM). The platform caters to large corporations reliant on AI, GenAI, and LLM technologies for risk management and growth protection.
+</details>
+<div style="text-align: right" markdown="1">
+Medium
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+reNgine: Open-Source Automated Reconnaissance Framework for Web Applications<a href="https://www.helpnetsecurity.com/2024/05/02/rengine-open-source-automated-reconnaissance-framework/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developed to address limitations in existing tools, reNgine is beneficial for bug bounty hunters, penetration testers, and corporate security teams by automating and enhancing their information collection processes.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Consultant Arrested After Allegedly Extorting IT Firm<a href="https://www.bleepingcomputer.com/news/legal/cybersecurity-consultant-arrested-after-allegedly-extorting-it-firm/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vincent Cannady, a former cybersecurity consultant, was arrested for allegedly extorting a publicly traded IT company by threatening to disclose confidential data unless they paid him $1.5 million.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 3, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Affiliate Sentenced to Over 13 Years in Prison<a href="https://www.infosecurity-magazine.com/news/revil-ransomware-affiliate/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yaroslav Vasinskyi, a 24-year-old Ukrainian national and affiliate of the notorious REvil ransomware-as-a-service (RaaS) group, has been sentenced to 13 years and 7 months in prison by a US court.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 2, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

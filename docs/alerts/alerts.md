@@ -7,6 +7,16 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2024 - CISA, FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Cyber Actors Use Directory Traversal To Compromise Systems <a href="https://www.cisa.gov/sites/default/files/2024-05/Secure_by_Design_Alert_Eliminating_Directory_Traversal_Vulnerabilities_in_Software_508c%20%283%29.pdf"> Full Text</a>
+</p>
+</details>
+Directory traversal—or path traversal—vulnerabilities remain a persistent class of defect in software products. The software industry has documented directory traversal vulnerabilities, along with effective approaches to eliminate these vulnerabilities at scale, for over two decades.1 Yet software manufacturers continue to put customers at risk by developing products that allow for directory traversal exploitation. CISA and the FBI are releasing this Secure by Design Alert in response to recent well-publicized threat actor campaigns that exploited directory traversal vulnerabilities in software (e.g., CVE-2024-1708, CVE-2024-20345) to compromise users of the software—impacting critical infrastructure sectors, including the Healthcare and Public Health Sector. 
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 1, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DeepKeep Secures $10M in Seed Funding to Boost GenAI Protection Endeavors<a href="https://medium.com/@multiplatform.ai/deepkeep-secures-10m-in-seed-funding-to-boost-genai-protection-endeavors-52f3fa675f1b?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Founded in 2021 by Rony Ohayon, DeepKeep specializes in AI-Native Trust, Risk, and Security Management (TRiSM). The platform caters to large corporations reliant on AI, GenAI, and LLM technologies for risk management and growth protection.
+</details>
+<div style="text-align: right" markdown="1">
+Medium
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
