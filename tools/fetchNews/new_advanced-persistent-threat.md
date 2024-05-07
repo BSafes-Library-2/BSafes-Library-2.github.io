@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NiceCurl and TameCat Custom Backdoors Leveraged by Damselfly APT<a href="https://www.broadcom.com/support/security-center/protection-bulletin/nicecurl-and-tamecat-custom-backdoors-leveraged-by-damselfly-apt?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Damselfly Advanced Persistent Threat (APT) group, also known as APT42, has been actively using custom backdoor variants, NiceCurl and TameCat, to infiltrate Windows machines.
+</details>
+<div style="text-align: right" markdown="1">
+Broadcom
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

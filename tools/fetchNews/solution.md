@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+reNgine: Open-Source Automated Reconnaissance Framework for Web Applications<a href="https://www.helpnetsecurity.com/2024/05/02/rengine-open-source-automated-reconnaissance-framework/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Developed to address limitations in existing tools, reNgine is beneficial for bug bounty hunters, penetration testers, and corporate security teams by automating and enhancing their information collection processes.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

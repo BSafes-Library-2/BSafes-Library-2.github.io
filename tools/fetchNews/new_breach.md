@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian GRU Hackers Compromised German, Czech Targets<a href="https://www.bankinfosecurity.com/russian-gru-hackers-compromised-german-czech-targets-a-25007?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German and Czech governments have publicly disclosed that Russian military intelligence hackers, known as APT28, have been involved in an espionage campaign targeting political parties and critical infrastructure in both countries.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finland Warns of Android Malware Attacks Breaching Bank Accounts<a href="https://www.bleepingcomputer.com/news/security/finland-warns-of-android-malware-attacks-breaching-bank-accounts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finland's Transport and Communications Agency (Traficom) highlighted multiple cases of SMS messages written in Finnish that instruct recipients to call a number. The scammer answers the call instructs victims to install a McAfee app for protection.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

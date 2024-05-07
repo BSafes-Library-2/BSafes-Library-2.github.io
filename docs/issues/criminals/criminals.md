@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law Enforcement Seized LockBit Group’s Website Again<a href="https://securityaffairs.com/162778/cyber-crime/law-enforcement-seized-lockbit-site-again.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement authorities seized the Lockbit group's Tor website again and they plan to reveal the identities of the LockBitSupps and other gang members on May 7, 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

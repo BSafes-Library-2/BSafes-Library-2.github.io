@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+May 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations Patch CISA KEV List Bugs 3.5 Times Faster Than Others, Researchers Find<a href="https://therecord.media/kev-list-vulnerabilities-patched-significantly-faster?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The median time to patch bugs listed in the CISA's Known Exploited Vulnerabilities (KEV) catalog is 174 days, compared to 621 days for non-KEV vulnerabilities, according to an analysis by Bitsight.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Recovery Costs Reach $2.73 Million<a href="https://www.helpnetsecurity.com/2024/05/03/ransom-recovery-costs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransom recovery costs have surged, with the average payment reaching $2 million, a 500% increase from the previous year. Excluding ransoms, the average cost of recovery has risen to $2.73 million, up by almost $1 million, according to Sophos.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisa Warned 1,750 Organizations of Ransomware Vulnerabilities Last Year. Only Half Took Action.<a href="https://www.cybersecuritydive.com/news/cisa-ransomware-vulnerability-warnings/714951/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency sent out alerts to critical infrastructure sectors, with only 852 organizations responding by patching, implementing controls, or taking devices offline.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Div
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

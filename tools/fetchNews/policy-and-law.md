@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Consultant Arrested After Allegedly Extorting IT Firm<a href="https://www.bleepingcomputer.com/news/legal/cybersecurity-consultant-arrested-after-allegedly-extorting-it-firm/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vincent Cannady, a former cybersecurity consultant, was arrested for allegedly extorting a publicly traded IT company by threatening to disclose confidential data unless they paid him $1.5 million.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+REvil Ransomware Affiliate Sentenced to Over 13 Years in Prison<a href="https://www.infosecurity-magazine.com/news/revil-ransomware-affiliate/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Yaroslav Vasinskyi, a 24-year-old Ukrainian national and affiliate of the notorious REvil ransomware-as-a-service (RaaS) group, has been sentenced to 13 years and 7 months in prison by a US court.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
