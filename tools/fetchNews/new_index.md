@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2024
+May 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NiceCurl and TameCat Custom Backdoors Leveraged by Damselfly APT<a href="https://www.broadcom.com/support/security-center/protection-bulletin/nicecurl-and-tamecat-custom-backdoors-leveraged-by-damselfly-apt?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Damselfly Advanced Persistent Threat (APT) group, also known as APT42, has been actively using custom backdoor variants, NiceCurl and TameCat, to infiltrate Windows machines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgium’s Aikido Lands $17M Series A for its Security Platform Aimed at Developers<a href="https://sg.news.yahoo.com/belgiums-aikido-lands-17m-series-135226783.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aikido, a startup based in Ghent, Belgium, has secured a $17 million Series A funding to develop its innovative security platform tailored for developers. The round was led by Singular, with participation from Notion Capital and Connect Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HijackLoader Evolves with New Evasion Techniques<a href="https://www.zscaler.com/blogs/security-research/hijackloader-updates?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HijackLoader is a modular malware loader that is used to deliver second-stage payloads including Amadey, Lumma Stealer, Racoon Stealer v2, and Remcos RAT. HijackLoader decrypts and parses a PNG image to load the next stage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian GRU Hackers Compromised German, Czech Targets<a href="https://www.bankinfosecurity.com/russian-gru-hackers-compromised-german-czech-targets-a-25007?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The German and Czech governments have publicly disclosed that Russian military intelligence hackers, known as APT28, have been involved in an espionage campaign targeting political parties and critical infrastructure in both countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations Patch CISA KEV List Bugs 3.5 Times Faster Than Others, Researchers Find<a href="https://therecord.media/kev-list-vulnerabilities-patched-significantly-faster?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The median time to patch bugs listed in the CISA's Known Exploited Vulnerabilities (KEV) catalog is 174 days, compared to 621 days for non-KEV vulnerabilities, according to an analysis by Bitsight.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Finland Warns of Android Malware Attacks Breaching Bank Accounts<a href="https://www.bleepingcomputer.com/news/security/finland-warns-of-android-malware-attacks-breaching-bank-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Finland's Transport and Communications Agency (Traficom) highlighted multiple cases of SMS messages written in Finnish that instruct recipients to call a number. The scammer answers the call instructs victims to install a McAfee app for protection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransom Recovery Costs Reach $2.73 Million<a href="https://www.helpnetsecurity.com/2024/05/03/ransom-recovery-costs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransom recovery costs have surged, with the average payment reaching $2 million, a 500% increase from the previous year. Excluding ransoms, the average cost of recovery has risen to $2.73 million, up by almost $1 million, according to Sophos.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Law Enforcement Seized LockBit Group’s Website Again<a href="https://securityaffairs.com/162778/cyber-crime/law-enforcement-seized-lockbit-site-again.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Law enforcement authorities seized the Lockbit group's Tor website again and they plan to reveal the identities of the LockBitSupps and other gang members on May 7, 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LayerX Raises $26 Million for its Browser Security Platform<a href="https://www.calcalistech.com/ctechnews/article/rkevyremc?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli startup founded in 2022 by Or Eshed and David Weisbrot has raised $26 million in Series A funding. This round, led by Glilot+ and with participation from Dell Technologies Capital, brings LayerX's total investment to $34 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisa Warned 1,750 Organizations of Ransomware Vulnerabilities Last Year. Only Half Took Action.<a href="https://www.cybersecuritydive.com/news/cisa-ransomware-vulnerability-warnings/714951/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cybersecurity and Infrastructure Security Agency sent out alerts to critical infrastructure sectors, with only 852 organizations responding by patching, implementing controls, or taking devices offline.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 4, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ukraine Records Increase in Financially Motivated Attacks by Russian Hackers<a href="https://therecord.media/ukraine-russia-increase-financially-motivated-cyberattacks?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Ukraine Records Increase in Financially Motivated Attacks by Russian Hackers<a h
 These hackers are employing sophisticated phishing techniques to distribute malicious software and target financial theft, with incidents steadily increasing over the past two years.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2024
+May 4, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Urges Software Devs to Weed out Path Traversal Vulnerabilities<a href="https://www.bleepingcomputer.com/news/security/cisa-urges-software-devs-to-weed-out-path-traversal-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ CISA Urges Software Devs to Weed out Path Traversal Vulnerabilities<a href="http
 Path traversal vulnerabilities, also known as directory traversal, can be exploited by attackers to manipulate critical files, compromise security mechanisms, access sensitive data, and disrupt systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 4, 2024
+May 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android Bug can Leak DNS Traffic With VPN Kill Switch Enabled<a href="https://www.bleepingcomputer.com/news/security/android-bug-can-leak-dns-traffic-with-vpn-kill-switch-enabled/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Android Bug can Leak DNS Traffic With VPN Kill Switch Enabled<a href="https://ww
 The Android bug discovered by a Mullvad VPN user reveals that Android devices can leak DNS queries even with the "Always-on VPN" feature and "Block connections without VPN" option enabled.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2024
+May 3, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 “Dirty Stream” Attack Affects Popular Android Apps<a href="https://www.microsoft.com/en-us/security/blog/2024/05/01/dirty-stream-attack-discovering-and-mitigating-a-common-vulnerability-pattern-in-android-apps/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ May 3, 2024
 A vulnerability in popular Android apps like Xiaomi File Manager and WPS Office could allow malicious apps to overwrite files in the vulnerable app's home directory, potentially leading to code execution and unauthorized access to user data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Microsoft
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2024
+May 3, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Than Two Dozen Android Vulnerabilities Fixed<a href="https://www.theregister.com/2024/05/02/google_xiaomi_flaws_oversecured/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ More Than Two Dozen Android Vulnerabilities Fixed<a href="https://www.theregiste
 Xiaomi resolved 20 flaws, ensuring user safety by fixing issues like arbitrary access to system components and data leaks. Google also fixed six vulnerabilities, including geolocation access through the camera and arbitrary file access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2024
+May 3, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Spoofing Journalist Emails to Spy on Experts<a href="https://www.infosecurity-magazine.com/news/north-korean-spoofing-journalist/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ North Korean Hackers Spoofing Journalist Emails to Spy on Experts<a href="https:
 North Korean threat actors, specifically the Kimsuky group, are exploiting weakly configured DMARC protocols to spoof the email addresses of legitimate journalists, academics, and other experts in East Asian affairs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2024
+May 3, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DeepKeep Secures $10M in Seed Funding to Boost GenAI Protection Endeavors<a href="https://medium.com/@multiplatform.ai/deepkeep-secures-10m-in-seed-funding-to-boost-genai-protection-endeavors-52f3fa675f1b?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ DeepKeep Secures $10M in Seed Funding to Boost GenAI Protection Endeavors<a href
 Founded in 2021 by Rony Ohayon, DeepKeep specializes in AI-Native Trust, Risk, and Security Management (TRiSM). The platform caters to large corporations reliant on AI, GenAI, and LLM technologies for risk management and growth protection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Medium
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2024
+May 3, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 reNgine: Open-Source Automated Reconnaissance Framework for Web Applications<a href="https://www.helpnetsecurity.com/2024/05/02/rengine-open-source-automated-reconnaissance-framework/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ reNgine: Open-Source Automated Reconnaissance Framework for Web Applications<a h
 Developed to address limitations in existing tools, reNgine is beneficial for bug bounty hunters, penetration testers, and corporate security teams by automating and enhancing their information collection processes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2024
+May 3, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Consultant Arrested After Allegedly Extorting IT Firm<a href="https://www.bleepingcomputer.com/news/legal/cybersecurity-consultant-arrested-after-allegedly-extorting-it-firm/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Cybersecurity Consultant Arrested After Allegedly Extorting IT Firm<a href="http
 Vincent Cannady, a former cybersecurity consultant, was arrested for allegedly extorting a publicly traded IT company by threatening to disclose confidential data unless they paid him $1.5 million.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 3, 2024
+May 3, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 REvil Ransomware Affiliate Sentenced to Over 13 Years in Prison<a href="https://www.infosecurity-magazine.com/news/revil-ransomware-affiliate/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ REvil Ransomware Affiliate Sentenced to Over 13 Years in Prison<a href="https://
 Yaroslav Vasinskyi, a 24-year-old Ukrainian national and affiliate of the notorious REvil ransomware-as-a-service (RaaS) group, has been sentenced to 13 years and 7 months in prison by a US court.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
