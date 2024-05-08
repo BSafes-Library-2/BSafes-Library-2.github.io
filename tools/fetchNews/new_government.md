@@ -8,6 +8,62 @@ nav_order: 900075
 
 ## Government
 ---
+May 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany Recalls Ambassador to Russia Over Cyberattacks<a href="https://therecord.media/germany-recalls-russian-ambassador-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany has recalled its ambassador to Russia in response to alleged Moscow-backed cyberattacks targeting various sectors in Germany, including defense, aerospace, and IT companies, as well as the German Social Democratic Party.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House in Talks With Industry to Build Legal Framework for Software Liability<a href="https://www.nextgov.com/cybersecurity/2024/05/white-house-talks-industry-build-legal-framework-software-liability/396330/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House is engaging with the tech industry to establish a legal framework for software liability as part of a broader cybersecurity strategy, aiming to incentivize software developers to create products without exploitable security flaws.
+</details>
+<div style="text-align: right" markdown="1">
+NextGov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sets Sights on Partnerships to Counter Cyberthreats, Secure AI in New Global Cyber Strategy<a href="https://www.nextgov.com/cybersecurity/2024/05/us-sets-sights-partnerships-counter-cyberthreats-secure-ai-new-global-cyber-strategy/396322/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new strategy of the U.S. government aims to defend against cyberattacks on critical infrastructure, prevent surveillance misuses, and promote digital solidarity among global partners.
+</details>
+<div style="text-align: right" markdown="1">
+NextGov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Krebs, Luber Added to Cyber Safety Review Board<a href="https://cyberscoop.com/krebs-luber-added-to-cyber-safety-review-board/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Safety Review Board (CSRB) has added four new members, including Chris Krebs, former Director of the CISA, and David Luber, head of the NSA's Cybersecurity Directorate.
+</details>
+<div style="text-align: right" markdown="1">
+CYBERSCOOP
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

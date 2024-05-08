@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&amp;T Splits Cybersecurity Services Business, Launches LevelBlue<a href="https://www.darkreading.com/cybersecurity-operations/att-splits-cybersecurity-services-business-launches-levelblue?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&amp;T has split its cybersecurity services business to form a new company called LevelBlue. It includes AT&amp;T's managed security services business, cybersecurity consulting business, and assets from the acquisition of AlienVault in 2018.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synopsys to Sell its Software Integrity Business to Clearlake Capital and Francisco Partners<a href="https://www.finsmes.com/2024/05/synopsys-to-sell-its-software-integrity-business-to-clearlake-capital-and-francisco-partners.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the transaction, the business will operate independently as an application security testing software provider, with the current management team expected to lead the new entity.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

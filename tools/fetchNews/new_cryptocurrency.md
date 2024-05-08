@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+May 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Operator of BTC-e Crypto Exchange Pleads Guilty to Money Laundering<a href="https://therecord.media/btce-cryptocurrency-exchange-alexander-vinnik-money-laundering-guilty-plea?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice stated that BTC-e was a primary method for cybercriminals to transfer and launder illegal proceeds. Vinnik's actions led to a loss of at least $121 million through BTC-e.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

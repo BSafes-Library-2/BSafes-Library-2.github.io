@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belgium’s Aikido Lands $17M Series A for its Security Platform Aimed at Developers<a href="https://sg.news.yahoo.com/belgiums-aikido-lands-17m-series-135226783.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aikido, a startup based in Ghent, Belgium, has secured a $17 million Series A funding to develop its innovative security platform tailored for developers. The round was led by Singular, with participation from Notion Capital and Connect Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Yahoo
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LayerX Raises $26 Million for its Browser Security Platform<a href="https://www.calcalistech.com/ctechnews/article/rkevyremc?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Israeli startup founded in 2022 by Or Eshed and David Weisbrot has raised $26 million in Series A funding. This round, led by Glilot+ and with participation from Dell Technologies Capital, brings LayerX's total investment to $34 million.
+</details>
+<div style="text-align: right" markdown="1">
+CALCALIST
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

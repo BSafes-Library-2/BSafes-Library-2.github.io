@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+May 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Only 45% of Organizations Use MFA to Protect Against Fraud<a href="https://www.helpnetsecurity.com/2024/05/07/identity-verification-ai-concerns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report by Ping Identity highlighted the pressing need for enhanced identity protection strategies, as 97% of organizations struggle with identity verification, and 48% lack confidence in defending against AI-related attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DBIR: Supply Chain Breaches up 68% Year Over Year<a href="https://www.darkreading.com/cyber-risk/supply-chain-breaches-up-68-yoy-according-to-dbir?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Verizon's latest Data Breach Investigations Report (DBIR), supply chain breaches increased by 68% year-over-year, primarily due to software vulnerabilities exploited in ransomware and extortion attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

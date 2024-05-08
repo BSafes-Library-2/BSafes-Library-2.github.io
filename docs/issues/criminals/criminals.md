@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dangerous Scammers From the Yahoo Boys Group Operate Openly on Social Media<a href="https://arstechnica.com/security/2024/05/these-dangerous-scammers-dont-even-bother-to-hide-their-crimes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Yahoo Boys, a group of scammers primarily based in West Africa, openly operate on various social media platforms like Facebook, WhatsApp, and Telegram, engaging in fraudulent activities that range from romance fraud to business email compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Ars Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&T Splits Cybersecurity Services Business, Launches LevelBlue<a href="https://www.darkreading.com/cybersecurity-operations/att-splits-cybersecurity-services-business-launches-levelblue?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&T has split its cybersecurity services business to form a new company called LevelBlue. It includes AT&T's managed security services business, cybersecurity consulting business, and assets from the acquisition of AlienVault in 2018.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany Recalls Ambassador to Russia Over Cyberattacks<a href="https://therecord.media/germany-recalls-russian-ambassador-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany has recalled its ambassador to Russia in response to alleged Moscow-backed cyberattacks targeting various sectors in Germany, including defense, aerospace, and IT companies, as well as the German Social Democratic Party.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Only 45% of Organizations Use MFA to Protect Against Fraud<a href="https://www.helpnetsecurity.com/2024/05/07/identity-verification-ai-concerns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report by Ping Identity highlighted the pressing need for enhanced identity protection strategies, as 97% of organizations struggle with identity verification, and 48% lack confidence in defending against AI-related attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House in Talks With Industry to Build Legal Framework for Software Liability<a href="https://www.nextgov.com/cybersecurity/2024/05/white-house-talks-industry-build-legal-framework-software-liability/396330/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House is engaging with the tech industry to establish a legal framework for software liability as part of a broader cybersecurity strategy, aiming to incentivize software developers to create products without exploitable security flaws.
+</details>
+<div style="text-align: right" markdown="1">
+NextGov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DBIR: Supply Chain Breaches up 68% Year Over Year<a href="https://www.darkreading.com/cyber-risk/supply-chain-breaches-up-68-yoy-according-to-dbir?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Verizon's latest Data Breach Investigations Report (DBIR), supply chain breaches increased by 68% year-over-year, primarily due to software vulnerabilities exploited in ransomware and extortion attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Operator of BTC-e Crypto Exchange Pleads Guilty to Money Laundering<a href="https://therecord.media/btce-cryptocurrency-exchange-alexander-vinnik-money-laundering-guilty-plea?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice stated that BTC-e was a primary method for cybercriminals to transfer and launder illegal proceeds. Vinnik's actions led to a loss of at least $121 million through BTC-e.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synopsys to Sell its Software Integrity Business to Clearlake Capital and Francisco Partners<a href="https://www.finsmes.com/2024/05/synopsys-to-sell-its-software-integrity-business-to-clearlake-capital-and-francisco-partners.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the transaction, the business will operate independently as an application security testing software provider, with the current management team expected to lead the new entity.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sets Sights on Partnerships to Counter Cyberthreats, Secure AI in New Global Cyber Strategy<a href="https://www.nextgov.com/cybersecurity/2024/05/us-sets-sights-partnerships-counter-cyberthreats-secure-ai-new-global-cyber-strategy/396322/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new strategy of the U.S. government aims to defend against cyberattacks on critical infrastructure, prevent surveillance misuses, and promote digital solidarity among global partners.
+</details>
+<div style="text-align: right" markdown="1">
+NextGov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dangerous Scammers From the Yahoo Boys Group Operate Openly on Social Media<a href="https://arstechnica.com/security/2024/05/these-dangerous-scammers-dont-even-bother-to-hide-their-crimes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Yahoo Boys, a group of scammers primarily based in West Africa, openly operate on various social media platforms like Facebook, WhatsApp, and Telegram, engaging in fraudulent activities that range from romance fraud to business email compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Ars Technica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Krebs, Luber Added to Cyber Safety Review Board<a href="https://cyberscoop.com/krebs-luber-added-to-cyber-safety-review-board/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Safety Review Board (CSRB) has added four new members, including Chris Krebs, former Director of the CISA, and David Luber, head of the NSA's Cybersecurity Directorate.
+</details>
+<div style="text-align: right" markdown="1">
+CYBERSCOOP
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 6, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
