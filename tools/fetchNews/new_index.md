@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2024
+May 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&T Splits Cybersecurity Services Business, Launches LevelBlue<a href="https://www.darkreading.com/cybersecurity-operations/att-splits-cybersecurity-services-business-launches-levelblue?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AT&T has split its cybersecurity services business to form a new company called LevelBlue. It includes AT&T's managed security services business, cybersecurity consulting business, and assets from the acquisition of AlienVault in 2018.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany Recalls Ambassador to Russia Over Cyberattacks<a href="https://therecord.media/germany-recalls-russian-ambassador-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany has recalled its ambassador to Russia in response to alleged Moscow-backed cyberattacks targeting various sectors in Germany, including defense, aerospace, and IT companies, as well as the German Social Democratic Party.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Only 45% of Organizations Use MFA to Protect Against Fraud<a href="https://www.helpnetsecurity.com/2024/05/07/identity-verification-ai-concerns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report by Ping Identity highlighted the pressing need for enhanced identity protection strategies, as 97% of organizations struggle with identity verification, and 48% lack confidence in defending against AI-related attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House in Talks With Industry to Build Legal Framework for Software Liability<a href="https://www.nextgov.com/cybersecurity/2024/05/white-house-talks-industry-build-legal-framework-software-liability/396330/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The White House is engaging with the tech industry to establish a legal framework for software liability as part of a broader cybersecurity strategy, aiming to incentivize software developers to create products without exploitable security flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DBIR: Supply Chain Breaches up 68% Year Over Year<a href="https://www.darkreading.com/cyber-risk/supply-chain-breaches-up-68-yoy-according-to-dbir?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Verizon's latest Data Breach Investigations Report (DBIR), supply chain breaches increased by 68% year-over-year, primarily due to software vulnerabilities exploited in ransomware and extortion attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Operator of BTC-e Crypto Exchange Pleads Guilty to Money Laundering<a href="https://therecord.media/btce-cryptocurrency-exchange-alexander-vinnik-money-laundering-guilty-plea?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Justice stated that BTC-e was a primary method for cybercriminals to transfer and launder illegal proceeds. Vinnik's actions led to a loss of at least $121 million through BTC-e.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Synopsys to Sell its Software Integrity Business to Clearlake Capital and Francisco Partners<a href="https://www.finsmes.com/2024/05/synopsys-to-sell-its-software-integrity-business-to-clearlake-capital-and-francisco-partners.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+After the transaction, the business will operate independently as an application security testing software provider, with the current management team expected to lead the new entity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sets Sights on Partnerships to Counter Cyberthreats, Secure AI in New Global Cyber Strategy<a href="https://www.nextgov.com/cybersecurity/2024/05/us-sets-sights-partnerships-counter-cyberthreats-secure-ai-new-global-cyber-strategy/396322/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new strategy of the U.S. government aims to defend against cyberattacks on critical infrastructure, prevent surveillance misuses, and promote digital solidarity among global partners.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dangerous Scammers From the Yahoo Boys Group Operate Openly on Social Media<a href="https://arstechnica.com/security/2024/05/these-dangerous-scammers-dont-even-bother-to-hide-their-crimes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Yahoo Boys, a group of scammers primarily based in West Africa, openly operate on various social media platforms like Facebook, WhatsApp, and Telegram, engaging in fraudulent activities that range from romance fraud to business email compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Krebs, Luber Added to Cyber Safety Review Board<a href="https://cyberscoop.com/krebs-luber-added-to-cyber-safety-review-board/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cyber Safety Review Board (CSRB) has added four new members, including Chris Krebs, former Director of the CISA, and David Luber, head of the NSA's Cybersecurity Directorate.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 6, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NiceCurl and TameCat Custom Backdoors Leveraged by Damselfly APT<a href="https://www.broadcom.com/support/security-center/protection-bulletin/nicecurl-and-tamecat-custom-backdoors-leveraged-by-damselfly-apt?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ NiceCurl and TameCat Custom Backdoors Leveraged by Damselfly APT<a href="https:/
 The Damselfly Advanced Persistent Threat (APT) group, also known as APT42, has been actively using custom backdoor variants, NiceCurl and TameCat, to infiltrate Windows machines.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Broadcom
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2024
+May 6, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belgium’s Aikido Lands $17M Series A for its Security Platform Aimed at Developers<a href="https://sg.news.yahoo.com/belgiums-aikido-lands-17m-series-135226783.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Belgium’s Aikido Lands $17M Series A for its Security Platform Aimed at Develo
 Aikido, a startup based in Ghent, Belgium, has secured a $17 million Series A funding to develop its innovative security platform tailored for developers. The round was led by Singular, with participation from Notion Capital and Connect Ventures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Yahoo
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2024
+May 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HijackLoader Evolves with New Evasion Techniques<a href="https://www.zscaler.com/blogs/security-research/hijackloader-updates?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ HijackLoader Evolves with New Evasion Techniques<a href="https://www.zscaler.com
 HijackLoader is a modular malware loader that is used to deliver second-stage payloads including Amadey, Lumma Stealer, Racoon Stealer v2, and Remcos RAT. HijackLoader decrypts and parses a PNG image to load the next stage.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2024
+May 6, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian GRU Hackers Compromised German, Czech Targets<a href="https://www.bankinfosecurity.com/russian-gru-hackers-compromised-german-czech-targets-a-25007?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Russian GRU Hackers Compromised German, Czech Targets<a href="https://www.bankin
 The German and Czech governments have publicly disclosed that Russian military intelligence hackers, known as APT28, have been involved in an espionage campaign targeting political parties and critical infrastructure in both countries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2024
+May 6, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Organizations Patch CISA KEV List Bugs 3.5 Times Faster Than Others, Researchers Find<a href="https://therecord.media/kev-list-vulnerabilities-patched-significantly-faster?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Organizations Patch CISA KEV List Bugs 3.5 Times Faster Than Others, Researchers
 The median time to patch bugs listed in the CISA's Known Exploited Vulnerabilities (KEV) catalog is 174 days, compared to 621 days for non-KEV vulnerabilities, according to an analysis by Bitsight.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2024
+May 6, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Finland Warns of Android Malware Attacks Breaching Bank Accounts<a href="https://www.bleepingcomputer.com/news/security/finland-warns-of-android-malware-attacks-breaching-bank-accounts/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Finland Warns of Android Malware Attacks Breaching Bank Accounts<a href="https:/
 Finland's Transport and Communications Agency (Traficom) highlighted multiple cases of SMS messages written in Finnish that instruct recipients to call a number. The scammer answers the call instructs victims to install a McAfee app for protection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2024
+May 6, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransom Recovery Costs Reach $2.73 Million<a href="https://www.helpnetsecurity.com/2024/05/03/ransom-recovery-costs/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Ransom Recovery Costs Reach $2.73 Million<a href="https://www.helpnetsecurity.co
 Ransom recovery costs have surged, with the average payment reaching $2 million, a 500% increase from the previous year. Excluding ransoms, the average cost of recovery has risen to $2.73 million, up by almost $1 million, according to Sophos.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2024
+May 6, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Law Enforcement Seized LockBit Group’s Website Again<a href="https://securityaffairs.com/162778/cyber-crime/law-enforcement-seized-lockbit-site-again.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Law Enforcement Seized LockBit Group’s Website Again<a href="https://securitya
 Law enforcement authorities seized the Lockbit group's Tor website again and they plan to reveal the identities of the LockBitSupps and other gang members on May 7, 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2024
+May 6, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LayerX Raises $26 Million for its Browser Security Platform<a href="https://www.calcalistech.com/ctechnews/article/rkevyremc?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ LayerX Raises $26 Million for its Browser Security Platform<a href="https://www.
 The Israeli startup founded in 2022 by Or Eshed and David Weisbrot has raised $26 million in Series A funding. This round, led by Glilot+ and with participation from Dell Technologies Capital, brings LayerX's total investment to $34 million.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CALCALIST
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 6, 2024
+May 6, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisa Warned 1,750 Organizations of Ransomware Vulnerabilities Last Year. Only Half Took Action.<a href="https://www.cybersecuritydive.com/news/cisa-ransomware-vulnerability-warnings/714951/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Cisa Warned 1,750 Organizations of Ransomware Vulnerabilities Last Year. Only Ha
 The Cybersecurity and Infrastructure Security Agency sent out alerts to critical infrastructure sectors, with only 852 organizations responding by patching, implementing controls, or taking devices offline.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Div
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
