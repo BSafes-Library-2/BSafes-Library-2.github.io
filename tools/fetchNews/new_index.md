@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blackwell Security Raises $13M in Funding<a href="https://www.finsmes.com/2024/05/blackwell-security-raises-13m-in-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The healthcare cybersecurity services company intends to use the funds to broaden its offerings, including capabilities such as healthcare threat intelligence and automated response.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Desperate Taylor Swift Fans Defrauded by Ticket Scams<a href="https://www.malwarebytes.com/blog/news/2024/05/desperate-taylor-swift-fans-defrauded-by-ticket-scams?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As reported by the BBC, Lloyds Bank estimates that fans have lost an estimated £1m ($1.25 m) in ticket scams ahead of the UK leg of Taylor Swift’s Eras tour. Roughly 90% of these scams were said to have started on Facebook.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai to Acquire Noname for $450 Million<a href="https://www.helpnetsecurity.com/2024/05/07/akamai-noname-acquisition/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Noname, one of the top API security vendors in the market, will enhance Akamai’s existing API Security solution and accelerate its ability to meet growing customer demand and market requirements as the use of APIs continues to expand.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+zEus Stealer Distributed via Crafted Minecraft Source Pack<a href="https://www.fortinet.com/blog/threat-research/zeus-stealer-distributed-via-crafted-minecraft-source-pack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zeus Stealer is designed to steal sensitive information such as passwords and cryptocurrency wallets from infected systems. The attackers utilize the popularity of Minecraft to lure unsuspecting users into downloading and executing the payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BetterHelp to Pay $7.8 Million to 800,000 in Health Data Sharing Settlement<a href="https://www.bleepingcomputer.com/news/security/betterhelp-to-pay-78-million-to-800-000-in-health-data-sharing-settlement/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following an investigation into BetterHelp's handling of customer data, the FTC revealed in March 2023 that the service collected data without consent from its app users or website visitors, even from people who had not signed up for counseling.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Log4J Still Among Top Exploited Vulnerabilities<a href="https://www.infosecurity-magazine.com/news/log4j-top-exploited-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a new report, Cato observed that the Log4J exploit represented 30% of the outbound vulnerability exploitations and 18% of the inbound vulnerability exploitations detected in the first quarter of 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Operations are Becoming Less Profitable<a href="https://www.helpnetsecurity.com/2024/05/07/ransomware-payments-falling/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operations are experiencing a decline in profitability due to various factors such as increased cyber resilience of organizations, the availability of decryptors, and more frequent law enforcement actions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: MITRE Attributes the Recent Attack to China-linked UNC5221<a href="https://securityaffairs.com/162811/hacking/mitre-security-breach-china.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers exploited two zero-day vulnerabilities in Ivanti Connect Secure to gain initial access to MITRE's Networked Experimentation, Research, and Virtualization Environment (NERVE) in late December 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scattered Spider Group a Unique Challenge for Cyber Cops, FBI Leader Says<a href="https://therecord.media/scattered-spider-challenge-for-FBI?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identified by analysts in 2022, the hackers use social engineering to lure users into giving up their login credentials or one-time password codes to bypass multifactor authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Exploit LiteSpeed Cache Flaw to Create WordPress Admins<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-litespeed-cache-flaw-to-create-wordpress-admins/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WPScan observed in April increased exploitation activity against WordPress sites with versions of the plugin older than 5.7.0.1, which are vulnerable to a high-severity (8.8) unauthenticated cross-site scripting flaw tracked as CVE-2023-40000.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 7, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
