@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+May 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Desperate Taylor Swift Fans Defrauded by Ticket Scams<a href="https://www.malwarebytes.com/blog/news/2024/05/desperate-taylor-swift-fans-defrauded-by-ticket-scams?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As reported by the BBC, Lloyds Bank estimates that fans have lost an estimated £1m ($1.25 m) in ticket scams ahead of the UK leg of Taylor Swift’s Eras tour. Roughly 90% of these scams were said to have started on Facebook.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Operations are Becoming Less Profitable<a href="https://www.helpnetsecurity.com/2024/05/07/ransomware-payments-falling/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operations are experiencing a decline in profitability due to various factors such as increased cyber resilience of organizations, the availability of decryptors, and more frequent law enforcement actions.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

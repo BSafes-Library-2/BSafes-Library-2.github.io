@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: MITRE Attributes the Recent Attack to China-linked UNC5221<a href="https://securityaffairs.com/162811/hacking/mitre-security-breach-china.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers exploited two zero-day vulnerabilities in Ivanti Connect Secure to gain initial access to MITRE's Networked Experimentation, Research, and Virtualization Environment (NERVE) in late December 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

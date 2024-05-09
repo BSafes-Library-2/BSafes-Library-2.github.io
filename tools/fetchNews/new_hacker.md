@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scattered Spider Group a Unique Challenge for Cyber Cops, FBI Leader Says<a href="https://therecord.media/scattered-spider-challenge-for-FBI?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identified by analysts in 2022, the hackers use social engineering to lure users into giving up their login credentials or one-time password codes to bypass multifactor authentication.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
