@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Tools Fail to Translate Risks for Executives<a href="https://www.helpnetsecurity.com/2024/05/08/cisos-c-suite-challenges/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs stress the importance of DevSecOps automation to mitigate risks associated with AI and emphasize the need for modernized security tools to combat evolving cyber threats and comply with regulations.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

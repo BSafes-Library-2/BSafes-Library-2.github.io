@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blackwell Security Raises $13M in Funding<a href="https://www.finsmes.com/2024/05/blackwell-security-raises-13m-in-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The healthcare cybersecurity services company intends to use the funds to broaden its offerings, including capabilities such as healthcare threat intelligence and automated response.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Akamai to Acquire Noname for $450 Million<a href="https://www.helpnetsecurity.com/2024/05/07/akamai-noname-acquisition/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Noname, one of the top API security vendors in the market, will enhance Akamai’s existing API Security solution and accelerate its ability to meet growing customer demand and market requirements as the use of APIs continues to expand.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

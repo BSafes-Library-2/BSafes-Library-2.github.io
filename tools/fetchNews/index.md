@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Workforce Reductions Affect Cybersecurity Postures<a href="https://www.helpnetsecurity.com/2024/05/08/pentesting-cybersecurity-importance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cobalt State of Pentesting Report highlights the challenges faced by the cybersecurity industry in balancing the use of AI and protecting against it, amidst significant workforce reductions and resource constraints.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Boeing Confirms Attempted $200 Million Ransomware Extortion Attempt<a href="https://cyberscoop.com/boeing-confirms-attempted-200-million-ransomware-extortion-attempt/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boeing confirmed to CyberScoop that it is the unnamed multinational aeronautical and defense corporation referenced in an indictment unsealed Tuesday by the U.S. Department of Justice.
+</details>
+<div style="text-align: right" markdown="1">
+CYBERSCOOP
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With Nation-State Threats in Mind, Nearly 70 Software Firms Agree to Secure by Design Pledge<a href="https://therecord.media/secure-by-design-companies-cisa-rsa?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA announced the first round of commitments at the RSA Conference on Wednesday, with Director Jen Easterly warning that it was necessary because of widespread hacking campaigns by nation-states like China.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland Says it was Targeted by Russian Military Intelligence Hackers<a href="https://therecord.media/poland-cyber-espionage-russia-gru?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poland’s CERT-PL said on Wednesday that it had observed a large-scale malware campaign, likely carried out by the hacker group APT28, also known as Fancy Bear, associated with Russia’s military intelligence agency, the GRU.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Generative AI is a Looming Cybersecurity Threat<a href="https://www.cybersecuritydive.com/news/generative-ai-artificial-intelligence-cyber-threat/715531/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have not identified any AI-engineered cyberattack campaigns, yet, but they say it’s only a matter of time before an AI system is dominant enough in the market to draw attention.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Tools Fail to Translate Risks for Executives<a href="https://www.helpnetsecurity.com/2024/05/08/cisos-c-suite-challenges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs stress the importance of DevSecOps automation to mitigate risks associated with AI and emphasize the need for modernized security tools to combat evolving cyber threats and comply with regulations.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Botnet Exploits Ivanti Connect Secure Flaws for Payload Delivery<a href="https://blogs.juniper.net/en-us/security/protecting-your-network-from-opportunistic-ivanti-pulse-secure-vulnerability-exploitation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the attack chain observed by Juniper Threat Labs, CVE-2023-46805 is exploited to gain access to the "/api/v1/license/key-status/;" endpoint, which is vulnerable to command injection, and inject the payload.
+</details>
+<div style="text-align: right" markdown="1">
+Juniper
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Extends CIRCIA Rule Comment Period<a href="https://www.scmagazine.com/brief/cisa-extends-circia-rule-comment-period?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA will prolong the comment period for new regulations under the Cyber Incident Reporting for Critical Infrastructure Act for another month after requests from the energy and information technology sectors and other industries.
+</details>
+<div style="text-align: right" markdown="1">
+SC Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Findings Show MFA Bypass in Microsoft Azure Entra ID Using Seamless SSO<a href="https://www.hackread.com/mfa-bypass-microsoft-azure-entra-id-sso/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Pen Test Partners successfully bypassed Azure’s MFA requirement for SSO by changing the user-agent of a browser. They used a browser that resembled Chrome on Linux but encountered an error message stating MFA was required.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 97% of Organizations Hit by Ransomware Turn to Law Enforcement<a href="https://www.helpnetsecurity.com/2024/05/08/ransomware-law-enforcement-help/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new Sophos report, 59% of those organizations that did engage with law enforcement found the process easy or somewhat easy. Only 10% of those surveyed said the process was very difficult.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Securit
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 8, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

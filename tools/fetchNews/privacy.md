@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BetterHelp to Pay $7.8 Million to 800,000 in Health Data Sharing Settlement<a href="https://www.bleepingcomputer.com/news/security/betterhelp-to-pay-78-million-to-800-000-in-health-data-sharing-settlement/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Following an investigation into BetterHelp's handling of customer data, the FTC revealed in March 2023 that the service collected data without consent from its app users or website visitors, even from people who had not signed up for counseling.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
