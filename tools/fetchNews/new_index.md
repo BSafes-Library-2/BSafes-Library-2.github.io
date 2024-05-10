@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2024
+May 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Workforce Reductions Affect Cybersecurity Postures<a href="https://www.helpnetsecurity.com/2024/05/08/pentesting-cybersecurity-importance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cobalt State of Pentesting Report highlights the challenges faced by the cybersecurity industry in balancing the use of AI and protecting against it, amidst significant workforce reductions and resource constraints.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Boeing Confirms Attempted $200 Million Ransomware Extortion Attempt<a href="https://cyberscoop.com/boeing-confirms-attempted-200-million-ransomware-extortion-attempt/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boeing confirmed to CyberScoop that it is the unnamed multinational aeronautical and defense corporation referenced in an indictment unsealed Tuesday by the U.S. Department of Justice.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With Nation-State Threats in Mind, Nearly 70 Software Firms Agree to Secure by Design Pledge<a href="https://therecord.media/secure-by-design-companies-cisa-rsa?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA announced the first round of commitments at the RSA Conference on Wednesday, with Director Jen Easterly warning that it was necessary because of widespread hacking campaigns by nation-states like China.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland Says it was Targeted by Russian Military Intelligence Hackers<a href="https://therecord.media/poland-cyber-espionage-russia-gru?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poland’s CERT-PL said on Wednesday that it had observed a large-scale malware campaign, likely carried out by the hacker group APT28, also known as Fancy Bear, associated with Russia’s military intelligence agency, the GRU.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Generative AI is a Looming Cybersecurity Threat<a href="https://www.cybersecuritydive.com/news/generative-ai-artificial-intelligence-cyber-threat/715531/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have not identified any AI-engineered cyberattack campaigns, yet, but they say it’s only a matter of time before an AI system is dominant enough in the market to draw attention.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Tools Fail to Translate Risks for Executives<a href="https://www.helpnetsecurity.com/2024/05/08/cisos-c-suite-challenges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISOs stress the importance of DevSecOps automation to mitigate risks associated with AI and emphasize the need for modernized security tools to combat evolving cyber threats and comply with regulations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Botnet Exploits Ivanti Connect Secure Flaws for Payload Delivery<a href="https://blogs.juniper.net/en-us/security/protecting-your-network-from-opportunistic-ivanti-pulse-secure-vulnerability-exploitation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the attack chain observed by Juniper Threat Labs, CVE-2023-46805 is exploited to gain access to the "/api/v1/license/key-status/;" endpoint, which is vulnerable to command injection, and inject the payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Extends CIRCIA Rule Comment Period<a href="https://www.scmagazine.com/brief/cisa-extends-circia-rule-comment-period?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA will prolong the comment period for new regulations under the Cyber Incident Reporting for Critical Infrastructure Act for another month after requests from the energy and information technology sectors and other industries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Findings Show MFA Bypass in Microsoft Azure Entra ID Using Seamless SSO<a href="https://www.hackread.com/mfa-bypass-microsoft-azure-entra-id-sso/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Pen Test Partners successfully bypassed Azure’s MFA requirement for SSO by changing the user-agent of a browser. They used a browser that resembled Chrome on Linux but encountered an error message stating MFA was required.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 97% of Organizations Hit by Ransomware Turn to Law Enforcement<a href="https://www.helpnetsecurity.com/2024/05/08/ransomware-law-enforcement-help/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new Sophos report, 59% of those organizations that did engage with law enforcement found the process easy or somewhat easy. Only 10% of those surveyed said the process was very difficult.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 8, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blackwell Security Raises $13M in Funding<a href="https://www.finsmes.com/2024/05/blackwell-security-raises-13m-in-funding.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Blackwell Security Raises $13M in Funding<a href="https://www.finsmes.com/2024/0
 The healthcare cybersecurity services company intends to use the funds to broaden its offerings, including capabilities such as healthcare threat intelligence and automated response.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Finsmes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2024
+May 8, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Desperate Taylor Swift Fans Defrauded by Ticket Scams<a href="https://www.malwarebytes.com/blog/news/2024/05/desperate-taylor-swift-fans-defrauded-by-ticket-scams?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Desperate Taylor Swift Fans Defrauded by Ticket Scams<a href="https://www.malwar
 As reported by the BBC, Lloyds Bank estimates that fans have lost an estimated £1m ($1.25 m) in ticket scams ahead of the UK leg of Taylor Swift’s Eras tour. Roughly 90% of these scams were said to have started on Facebook.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2024
+May 8, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Akamai to Acquire Noname for $450 Million<a href="https://www.helpnetsecurity.com/2024/05/07/akamai-noname-acquisition/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Akamai to Acquire Noname for $450 Million<a href="https://www.helpnetsecurity.co
 Noname, one of the top API security vendors in the market, will enhance Akamai’s existing API Security solution and accelerate its ability to meet growing customer demand and market requirements as the use of APIs continues to expand.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2024
+May 8, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 zEus Stealer Distributed via Crafted Minecraft Source Pack<a href="https://www.fortinet.com/blog/threat-research/zeus-stealer-distributed-via-crafted-minecraft-source-pack?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ zEus Stealer Distributed via Crafted Minecraft Source Pack<a href="https://www.f
 Zeus Stealer is designed to steal sensitive information such as passwords and cryptocurrency wallets from infected systems. The attackers utilize the popularity of Minecraft to lure unsuspecting users into downloading and executing the payload.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2024
+May 8, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BetterHelp to Pay $7.8 Million to 800,000 in Health Data Sharing Settlement<a href="https://www.bleepingcomputer.com/news/security/betterhelp-to-pay-78-million-to-800-000-in-health-data-sharing-settlement/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ BetterHelp to Pay $7.8 Million to 800,000 in Health Data Sharing Settlement<a hr
 Following an investigation into BetterHelp's handling of customer data, the FTC revealed in March 2023 that the service collected data without consent from its app users or website visitors, even from people who had not signed up for counseling.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2024
+May 8, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Log4J Still Among Top Exploited Vulnerabilities<a href="https://www.infosecurity-magazine.com/news/log4j-top-exploited-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Report: Log4J Still Among Top Exploited Vulnerabilities<a href="https://www.info
 In a new report, Cato observed that the Log4J exploit represented 30% of the outbound vulnerability exploitations and 18% of the inbound vulnerability exploitations detected in the first quarter of 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magzine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2024
+May 8, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Operations are Becoming Less Profitable<a href="https://www.helpnetsecurity.com/2024/05/07/ransomware-payments-falling/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Ransomware Operations are Becoming Less Profitable<a href="https://www.helpnetse
 Ransomware operations are experiencing a decline in profitability due to various factors such as increased cyber resilience of organizations, the availability of decryptors, and more frequent law enforcement actions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2024
+May 8, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: MITRE Attributes the Recent Attack to China-linked UNC5221<a href="https://securityaffairs.com/162811/hacking/mitre-security-breach-china.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Update: MITRE Attributes the Recent Attack to China-linked UNC5221<a href="https
 The attackers exploited two zero-day vulnerabilities in Ivanti Connect Secure to gain initial access to MITRE's Networked Experimentation, Research, and Virtualization Environment (NERVE) in late December 2023.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2024
+May 8, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scattered Spider Group a Unique Challenge for Cyber Cops, FBI Leader Says<a href="https://therecord.media/scattered-spider-challenge-for-FBI?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Scattered Spider Group a Unique Challenge for Cyber Cops, FBI Leader Says<a href
 Identified by analysts in 2022, the hackers use social engineering to lure users into giving up their login credentials or one-time password codes to bypass multifactor authentication.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 8, 2024
+May 8, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Exploit LiteSpeed Cache Flaw to Create WordPress Admins<a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-litespeed-cache-flaw-to-create-wordpress-admins/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Hackers Exploit LiteSpeed Cache Flaw to Create WordPress Admins<a href="https://
 WPScan observed in April increased exploitation activity against WordPress sites with versions of the plugin older than 5.7.0.1, which are vulnerable to a high-severity (8.8) unauthenticated cross-site scripting flaw tracked as CVE-2023-40000.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Compute
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
