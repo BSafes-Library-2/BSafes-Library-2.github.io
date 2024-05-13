@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Extends CIRCIA Rule Comment Period<a href="https://www.scmagazine.com/brief/cisa-extends-circia-rule-comment-period?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA will prolong the comment period for new regulations under the Cyber Incident Reporting for Critical Infrastructure Act for another month after requests from the energy and information technology sectors and other industries.
+</details>
+<div style="text-align: right" markdown="1">
+SC Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

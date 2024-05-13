@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Boeing Confirms Attempted $200 Million Ransomware Extortion Attempt<a href="https://cyberscoop.com/boeing-confirms-attempted-200-million-ransomware-extortion-attempt/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Boeing confirmed to CyberScoop that it is the unnamed multinational aeronautical and defense corporation referenced in an indictment unsealed Tuesday by the U.S. Department of Justice.
+</details>
+<div style="text-align: right" markdown="1">
+CYBERSCOOP
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland Says it was Targeted by Russian Military Intelligence Hackers<a href="https://therecord.media/poland-cyber-espionage-russia-gru?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poland’s CERT-PL said on Wednesday that it had observed a large-scale malware campaign, likely carried out by the hacker group APT28, also known as Fancy Bear, associated with Russia’s military intelligence agency, the GRU.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

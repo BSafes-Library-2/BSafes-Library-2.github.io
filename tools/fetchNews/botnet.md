@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mirai Botnet Exploits Ivanti Connect Secure Flaws for Payload Delivery<a href="https://blogs.juniper.net/en-us/security/protecting-your-network-from-opportunistic-ivanti-pulse-secure-vulnerability-exploitation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the attack chain observed by Juniper Threat Labs, CVE-2023-46805 is exploited to gain access to the "/api/v1/license/key-status/;" endpoint, which is vulnerable to command injection, and inject the payload.
+</details>
+<div style="text-align: right" markdown="1">
+Juniper
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

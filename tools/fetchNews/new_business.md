@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telus Acquires Cybersecurity Services Firm Vumetric<a href="https://cartt.ca/telus-acquires-cybersecurity-services-firm-vumetric/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telus announced Tuesday its acquisition of Vumetric Cybersecurity, a Toronto-based cybersecurity provider that specializes in advanced penetration testing designed to identify cyber vulnerabilities and threats to companies across North America.
+</details>
+<div style="text-align: right" markdown="1">
+CARTT
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

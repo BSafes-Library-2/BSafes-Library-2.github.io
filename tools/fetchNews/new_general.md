@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+May 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Global Ransomware Crisis Worsens<a href="https://www.helpnetsecurity.com/2024/05/09/global-ransomware-crisis-worsens/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to NTT Security Holdings’ 2024 Global Threat Intelligence report, ransomware and extortion incidents increased by 67% in 2023, with over 5,000 victims detected or posted across social channels, up from 3,000 in 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Impact 20% of Sensitive Data in Healthcare Orgs<a href="https://www.helpnetsecurity.com/2024/05/09/healthcare-industry-ransomware-incidents/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent cyber incidents demonstrate the healthcare industry continues to be a prime target for ransomware hackers, according to Rubrik. New research by Rubrik Zero Labs reveals that ransomware attacks produce larger impacts against healthcare targets.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

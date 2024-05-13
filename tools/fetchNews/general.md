@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+May 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Workforce Reductions Affect Cybersecurity Postures<a href="https://www.helpnetsecurity.com/2024/05/08/pentesting-cybersecurity-importance/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cobalt State of Pentesting Report highlights the challenges faced by the cybersecurity industry in balancing the use of AI and protecting against it, amidst significant workforce reductions and resource constraints.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+With Nation-State Threats in Mind, Nearly 70 Software Firms Agree to Secure by Design Pledge<a href="https://therecord.media/secure-by-design-companies-cisa-rsa?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA announced the first round of commitments at the RSA Conference on Wednesday, with Director Jen Easterly warning that it was necessary because of widespread hacking campaigns by nation-states like China.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Generative AI is a Looming Cybersecurity Threat<a href="https://www.cybersecuritydive.com/news/generative-ai-artificial-intelligence-cyber-threat/715531/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have not identified any AI-engineered cyberattack campaigns, yet, but they say it’s only a matter of time before an AI system is dominant enough in the market to draw attention.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 97% of Organizations Hit by Ransomware Turn to Law Enforcement<a href="https://www.helpnetsecurity.com/2024/05/08/ransomware-law-enforcement-help/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new Sophos report, 59% of those organizations that did engage with law enforcement found the process easy or somewhat easy. Only 10% of those surveyed said the process was very difficult.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Securit
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

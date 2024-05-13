@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monday.com Removes “Share Update” Feature Abused for Phishing Attacks<a href="https://www.bleepingcomputer.com/news/security/mondaycom-removes-share-update-feature-abused-for-phishing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing emails pretended to come from a "Human Resources" department, asking users to either acknowledge the "organization's workplace sex policy" or submit feedback as part of a "2024 Employee Evaluation."
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
