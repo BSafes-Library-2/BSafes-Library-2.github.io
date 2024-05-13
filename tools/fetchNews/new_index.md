@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2024
+May 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attack Makes Autonomous Vehicle Tech Ignore Road Signs<a href="https://www.theregister.com/2024/05/10/baidu_apollo_hack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have developed a technique called "GhostStripe" that can exploit the camera-based computer vision systems of autonomous vehicles, causing them to fail to recognize road signs, making it very risky for Tesla and Baidu Apollo vehicles.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'The Mask' Espionage Group Resurfaces After 10-Year Hiatus<a href="https://www.darkreading.com/cyberattacks-data-breaches/-the-mask-espionage-group-resurfaces-after-10-year-hiatus?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) group that has been missing in action for more than a decade has suddenly resurfaced in a cyber-espionage campaign targeting organizations in Latin America and Central Africa.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telus Acquires Cybersecurity Services Firm Vumetric<a href="https://cartt.ca/telus-acquires-cybersecurity-services-firm-vumetric/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Telus announced Tuesday its acquisition of Vumetric Cybersecurity, a Toronto-based cybersecurity provider that specializes in advanced penetration testing designed to identify cyber vulnerabilities and threats to companies across North America.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LLMjacking Attack Uses Stolen Cloud Credentials to Target Cloud-Hosted AI Models<a href="https://sysdig.com/blog/llmjacking-stolen-cloud-credentials-used-in-new-ai-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sysdig researchers discovered evidence of a reverse proxy for LLMs being used to provide access to the compromised accounts, suggesting a financial motivation.  However, another possible motivation is to extract LLM training data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Thwarted Cyberattack Targeted Library of Congress in Tandem With October British Library Breach<a href="https://www.nextgov.com/cybersecurity/2024/05/thwarted-cyberattack-targeted-library-congress-tandem-october-british-library-breach/396399/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Library of Congress was targeted in a cyberattack that occurred in parallel with a high-profile intrusion into the British Library in October 2023 but it was a failed attempt, according to internal documents obtained by Nextgov/FCW.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Remote Access Trojan Equipped to Harvest Credentials<a href="https://blog.sonicwall.com/en-us/2024/04/android-remote-access-trojan-equipped-to-harvest-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This malware uses famous Android app icons to mislead users and trick victims into installing the malicious app on their devices. This includes the icons of Google, Instagram, Snapchat, WhatsApp, and X (formerly Twitter).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Global Ransomware Crisis Worsens<a href="https://www.helpnetsecurity.com/2024/05/09/global-ransomware-crisis-worsens/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to NTT Security Holdings’ 2024 Global Threat Intelligence report, ransomware and extortion incidents increased by 67% in 2023, with over 5,000 victims detected or posted across social channels, up from 3,000 in 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Monday.com Removes “Share Update” Feature Abused for Phishing Attacks<a href="https://www.bleepingcomputer.com/news/security/mondaycom-removes-share-update-feature-abused-for-phishing-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing emails pretended to come from a "Human Resources" department, asking users to either acknowledge the "organization's workplace sex policy" or submit feedback as part of a "2024 Employee Evaluation."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attacks Impact 20% of Sensitive Data in Healthcare Orgs<a href="https://www.helpnetsecurity.com/2024/05/09/healthcare-industry-ransomware-incidents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Recent cyber incidents demonstrate the healthcare industry continues to be a prime target for ransomware hackers, according to Rubrik. New research by Rubrik Zero Labs reveals that ransomware attacks produce larger impacts against healthcare targets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Explains Why it Doesn’t Call Out Tech Vendors by Name<a href="https://www.cybersecuritydive.com/news/cisa-doesnt-criticize-vendors/715668/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA isn’t inclined to call out technology vendors when their fundamental errors impact customers — officials contend they can make a greater impact by discerning and generalizing those mistakes for a broader audience.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 9, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Workforce Reductions Affect Cybersecurity Postures<a href="https://www.helpnetsecurity.com/2024/05/08/pentesting-cybersecurity-importance/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ How Workforce Reductions Affect Cybersecurity Postures<a href="https://www.helpn
 The Cobalt State of Pentesting Report highlights the challenges faced by the cybersecurity industry in balancing the use of AI and protecting against it, amidst significant workforce reductions and resource constraints.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2024
+May 9, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Boeing Confirms Attempted $200 Million Ransomware Extortion Attempt<a href="https://cyberscoop.com/boeing-confirms-attempted-200-million-ransomware-extortion-attempt/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Update: Boeing Confirms Attempted $200 Million Ransomware Extortion Attempt<a hr
 Boeing confirmed to CyberScoop that it is the unnamed multinational aeronautical and defense corporation referenced in an indictment unsealed Tuesday by the U.S. Department of Justice.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CYBERSCOOP
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2024
+May 9, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 With Nation-State Threats in Mind, Nearly 70 Software Firms Agree to Secure by Design Pledge<a href="https://therecord.media/secure-by-design-companies-cisa-rsa?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ With Nation-State Threats in Mind, Nearly 70 Software Firms Agree to Secure by D
 The CISA announced the first round of commitments at the RSA Conference on Wednesday, with Director Jen Easterly warning that it was necessary because of widespread hacking campaigns by nation-states like China.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2024
+May 9, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Poland Says it was Targeted by Russian Military Intelligence Hackers<a href="https://therecord.media/poland-cyber-espionage-russia-gru?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Poland Says it was Targeted by Russian Military Intelligence Hackers<a href="htt
 Poland’s CERT-PL said on Wednesday that it had observed a large-scale malware campaign, likely carried out by the hacker group APT28, also known as Fancy Bear, associated with Russia’s military intelligence agency, the GRU.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2024
+May 9, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Generative AI is a Looming Cybersecurity Threat<a href="https://www.cybersecuritydive.com/news/generative-ai-artificial-intelligence-cyber-threat/715531/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Generative AI is a Looming Cybersecurity Threat<a href="https://www.cybersecurit
 Researchers have not identified any AI-engineered cyberattack campaigns, yet, but they say it’s only a matter of time before an AI system is dominant enough in the market to draw attention.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2024
+May 9, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Tools Fail to Translate Risks for Executives<a href="https://www.helpnetsecurity.com/2024/05/08/cisos-c-suite-challenges/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Security Tools Fail to Translate Risks for Executives<a href="https://www.helpne
 CISOs stress the importance of DevSecOps automation to mitigate risks associated with AI and emphasize the need for modernized security tools to combat evolving cyber threats and comply with regulations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2024
+May 9, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mirai Botnet Exploits Ivanti Connect Secure Flaws for Payload Delivery<a href="https://blogs.juniper.net/en-us/security/protecting-your-network-from-opportunistic-ivanti-pulse-secure-vulnerability-exploitation?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Mirai Botnet Exploits Ivanti Connect Secure Flaws for Payload Delivery<a href="h
 In the attack chain observed by Juniper Threat Labs, CVE-2023-46805 is exploited to gain access to the "/api/v1/license/key-status/;" endpoint, which is vulnerable to command injection, and inject the payload.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Juniper
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2024
+May 9, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Extends CIRCIA Rule Comment Period<a href="https://www.scmagazine.com/brief/cisa-extends-circia-rule-comment-period?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ CISA Extends CIRCIA Rule Comment Period<a href="https://www.scmagazine.com/brief
 The CISA will prolong the comment period for new regulations under the Cyber Incident Reporting for Critical Infrastructure Act for another month after requests from the energy and information technology sectors and other industries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SC Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2024
+May 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Findings Show MFA Bypass in Microsoft Azure Entra ID Using Seamless SSO<a href="https://www.hackread.com/mfa-bypass-microsoft-azure-entra-id-sso/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Findings Show MFA Bypass in Microsoft Azure Entra ID Using Seamless SSO<a href="
 Researchers at Pen Test Partners successfully bypassed Azure’s MFA requirement for SSO by changing the user-agent of a browser. They used a browser that resembled Chrome on Linux but encountered an error message stating MFA was required.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 9, 2024
+May 9, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 97% of Organizations Hit by Ransomware Turn to Law Enforcement<a href="https://www.helpnetsecurity.com/2024/05/08/ransomware-law-enforcement-help/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Report: 97% of Organizations Hit by Ransomware Turn to Law Enforcement<a href="h
 According to a new Sophos report, 59% of those organizations that did engage with law enforcement found the process easy or somewhat easy. Only 10% of those surveyed said the process was very difficult.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Securit
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
