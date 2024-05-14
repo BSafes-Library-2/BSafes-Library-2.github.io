@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2024
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and China to Hold Discussions on AI Risks and Security<a href="https://www.bankinfosecurity.com/us-china-to-hold-discussions-on-ai-risks-security-a-25181?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Biden administration officials lowered expectations about the discussions during a call with reporters, saying the talks were "not focused on promoting any technical cooperation" between the two world superpowers on AI or emerging technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberthreat Landscape Permanently Altered by Chinese Operations, US Officials Say<a href="https://therecord.media/cyberthreat-landscape-altered-chinese-operations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US officials say that a notorious Chinese hacking operation named Volt Typhoon has permanently altered the cyberthreat landscape by moving beyond traditional nation-state espionage goals and instead aiming to cause disruption and sow societal panic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Russian’ Hackers Deface Potentially Hundreds of Local British News Sites<a href="https://therecord.media/newsquest-media-group-british-newspaper-websites-defaced?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group published a breaking news story titled “PERVOKLASSNIY RUSSIAN HACKERS ATTACK” on the sites of titles owned by Newsquest Media Group. There is no evidence the story was reproduced in print.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Secure is the “Password Protection” on Your Files and Drives?<a href="https://www.helpnetsecurity.com/2024/05/10/password-protect-pdf-excel-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password protection alone is not enough to securely protect files and drives, as it can be easily circumvented, and hardware-based encryption is recommended for robust data security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Group's Worldwide Victim Count Tops 500<a href="https://www.infosecurity-magazine.com/news/black-basta-ransomware-victim/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta ransomware group and its affiliates compromised hundreds of organizations worldwide between April 2022 and May 2024, according to a new report from several US government agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK's AI Safety Institute Unveils Platform to Accelerate Safe AI Develo<a href="https://www.infosecurity-magazine.com/news/platform-to-accelerate-safe-ai/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The platform, called Inspect, is set to pave the way for the safe innovation of AI models, according to the AI Safety Institute and Department for Science, Innovation and Technology (DIST).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Hijack Ukrainian TV to Broadcast Victory Day Parade<a href="https://therecord.media/russian-hackers-hijack-ukraine-tv?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-aligned hackers hijacked several Ukrainian television channels on Thursday to broadcast a Victory Day parade in Moscow, commemorating the defeat of Nazi Germany in World War II.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoTo Meeting Software Abused to Deploy Remcos RAT via Rust Shellcode Loader<a href="https://www.gdatasoftware.com/blog/2024/05/37906-gotomeeting-loads-remcos?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent malware campaign was found exploiting the GoTo Meeting software to deploy the Remcos RAT by using DLL sideloading to execute a malicious DLL file named g2m.dll through a Rust-based shellcode loader.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nmap 7.95 Released With New OS and Service Detection Signatures<a href="https://www.helpnetsecurity.com/2024/05/10/nmap-7-95-released/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nmap 7.95 introduces a substantial update with 336 new signatures, expanding the total to 6,036. Notable additions include support for the latest iOS versions 15 & 16, macOS Ventura & Monterey, Linux 6.1, OpenBSD 7.1, and lwIP 2.2.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Use MITM Attack to Bypass FIDO2 Phishing-Resistant Protection<a href="https://www.silverfort.com/blog/using-mitm-to-bypass-fido2/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The passwordless authentication standard FIDO2 has a critical flaw that allows attackers to launch Man-in-the-Middle (MitM) attacks and bypass authentication, gaining access to users' private areas and potentially removing their registered devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 11, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attack Makes Autonomous Vehicle Tech Ignore Road Signs<a href="https://www.theregister.com/2024/05/10/baidu_apollo_hack/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Attack Makes Autonomous Vehicle Tech Ignore Road Signs<a href="https://www.there
 Researchers have developed a technique called "GhostStripe" that can exploit the camera-based computer vision systems of autonomous vehicles, causing them to fail to recognize road signs, making it very risky for Tesla and Baidu Apollo vehicles.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 11, 2024
+May 11, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'The Mask' Espionage Group Resurfaces After 10-Year Hiatus<a href="https://www.darkreading.com/cyberattacks-data-breaches/-the-mask-espionage-group-resurfaces-after-10-year-hiatus?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ May 11, 2024
 An advanced persistent threat (APT) group that has been missing in action for more than a decade has suddenly resurfaced in a cyber-espionage campaign targeting organizations in Latin America and Central Africa.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2024
+May 10, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telus Acquires Cybersecurity Services Firm Vumetric<a href="https://cartt.ca/telus-acquires-cybersecurity-services-firm-vumetric/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Telus Acquires Cybersecurity Services Firm Vumetric<a href="https://cartt.ca/tel
 Telus announced Tuesday its acquisition of Vumetric Cybersecurity, a Toronto-based cybersecurity provider that specializes in advanced penetration testing designed to identify cyber vulnerabilities and threats to companies across North America.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CARTT
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2024
+May 10, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New LLMjacking Attack Uses Stolen Cloud Credentials to Target Cloud-Hosted AI Models<a href="https://sysdig.com/blog/llmjacking-stolen-cloud-credentials-used-in-new-ai-attack/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ New LLMjacking Attack Uses Stolen Cloud Credentials to Target Cloud-Hosted AI Mo
 Sysdig researchers discovered evidence of a reverse proxy for LLMs being used to provide access to the compromised accounts, suggesting a financial motivation.  However, another possible motivation is to extract LLM training data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+sysdig
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2024
+May 10, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Thwarted Cyberattack Targeted Library of Congress in Tandem With October British Library Breach<a href="https://www.nextgov.com/cybersecurity/2024/05/thwarted-cyberattack-targeted-library-congress-tandem-october-british-library-breach/396399/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Update: Thwarted Cyberattack Targeted Library of Congress in Tandem With October
 The Library of Congress was targeted in a cyberattack that occurred in parallel with a high-profile intrusion into the British Library in October 2023 but it was a failed attempt, according to internal documents obtained by Nextgov/FCW.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NEXTGOV
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2024
+May 10, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android Remote Access Trojan Equipped to Harvest Credentials<a href="https://blog.sonicwall.com/en-us/2024/04/android-remote-access-trojan-equipped-to-harvest-credentials/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Android Remote Access Trojan Equipped to Harvest Credentials<a href="https://blo
 This malware uses famous Android app icons to mislead users and trick victims into installing the malicious app on their devices. This includes the icons of Google, Instagram, Snapchat, WhatsApp, and X (formerly Twitter).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sonic Wall
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2024
+May 10, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Global Ransomware Crisis Worsens<a href="https://www.helpnetsecurity.com/2024/05/09/global-ransomware-crisis-worsens/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Report: Global Ransomware Crisis Worsens<a href="https://www.helpnetsecurity.com
 According to NTT Security Holdings’ 2024 Global Threat Intelligence report, ransomware and extortion incidents increased by 67% in 2023, with over 5,000 victims detected or posted across social channels, up from 3,000 in 2022.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2024
+May 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Monday.com Removes “Share Update” Feature Abused for Phishing Attacks<a href="https://www.bleepingcomputer.com/news/security/mondaycom-removes-share-update-feature-abused-for-phishing-attacks/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Monday.com Removes “Share Update” Feature Abused for Phishing Attacks<a href
 The phishing emails pretended to come from a "Human Resources" department, asking users to either acknowledge the "organization's workplace sex policy" or submit feedback as part of a "2024 Employee Evaluation."
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2024
+May 10, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attacks Impact 20% of Sensitive Data in Healthcare Orgs<a href="https://www.helpnetsecurity.com/2024/05/09/healthcare-industry-ransomware-incidents/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Ransomware Attacks Impact 20% of Sensitive Data in Healthcare Orgs<a href="https
 Recent cyber incidents demonstrate the healthcare industry continues to be a prime target for ransomware hackers, according to Rubrik. New research by Rubrik Zero Labs reveals that ransomware attacks produce larger impacts against healthcare targets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 10, 2024
+May 10, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Explains Why it Doesn’t Call Out Tech Vendors by Name<a href="https://www.cybersecuritydive.com/news/cisa-doesnt-criticize-vendors/715668/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ CISA Explains Why it Doesn’t Call Out Tech Vendors by Name<a href="https://www
 The CISA isn’t inclined to call out technology vendors when their fundamental errors impact customers — officials contend they can make a greater impact by discerning and generalizing those mistakes for a broader audience.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

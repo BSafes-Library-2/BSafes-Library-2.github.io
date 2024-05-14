@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and China to Hold Discussions on AI Risks and Security<a href="https://www.bankinfosecurity.com/us-china-to-hold-discussions-on-ai-risks-security-a-25181?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Biden administration officials lowered expectations about the discussions during a call with reporters, saying the talks were "not focused on promoting any technical cooperation" between the two world superpowers on AI or emerging technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberthreat Landscape Permanently Altered by Chinese Operations, US Officials Say<a href="https://therecord.media/cyberthreat-landscape-altered-chinese-operations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US officials say that a notorious Chinese hacking operation named Volt Typhoon has permanently altered the cyberthreat landscape by moving beyond traditional nation-state espionage goals and instead aiming to cause disruption and sow societal panic.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Russian’ Hackers Deface Potentially Hundreds of Local British News Sites<a href="https://therecord.media/newsquest-media-group-british-newspaper-websites-defaced?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group published a breaking news story titled “PERVOKLASSNIY RUSSIAN HACKERS ATTACK” on the sites of titles owned by Newsquest Media Group. There is no evidence the story was reproduced in print.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Secure is the “Password Protection” on Your Files and Drives?<a href="https://www.helpnetsecurity.com/2024/05/10/password-protect-pdf-excel-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password protection alone is not enough to securely protect files and drives, as it can be easily circumvented, and hardware-based encryption is recommended for robust data security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Group's Worldwide Victim Count Tops 500<a href="https://www.infosecurity-magazine.com/news/black-basta-ransomware-victim/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta ransomware group and its affiliates compromised hundreds of organizations worldwide between April 2022 and May 2024, according to a new report from several US government agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK's AI Safety Institute Unveils Platform to Accelerate Safe AI Develo<a href="https://www.infosecurity-magazine.com/news/platform-to-accelerate-safe-ai/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The platform, called Inspect, is set to pave the way for the safe innovation of AI models, according to the AI Safety Institute and Department for Science, Innovation and Technology (DIST).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Hijack Ukrainian TV to Broadcast Victory Day Parade<a href="https://therecord.media/russian-hackers-hijack-ukraine-tv?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-aligned hackers hijacked several Ukrainian television channels on Thursday to broadcast a Victory Day parade in Moscow, commemorating the defeat of Nazi Germany in World War II.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GoTo Meeting Software Abused to Deploy Remcos RAT via Rust Shellcode Loader<a href="https://www.gdatasoftware.com/blog/2024/05/37906-gotomeeting-loads-remcos?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent malware campaign was found exploiting the GoTo Meeting software to deploy the Remcos RAT by using DLL sideloading to execute a malicious DLL file named g2m.dll through a Rust-based shellcode loader.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nmap 7.95 Released With New OS and Service Detection Signatures<a href="https://www.helpnetsecurity.com/2024/05/10/nmap-7-95-released/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nmap 7.95 introduces a substantial update with 336 new signatures, expanding the total to 6,036. Notable additions include support for the latest iOS versions 15 & 16, macOS Ventura & Monterey, Linux 6.1, OpenBSD 7.1, and lwIP 2.2.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 13, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Use MITM Attack to Bypass FIDO2 Phishing-Resistant Protection<a href="https://www.silverfort.com/blog/using-mitm-to-bypass-fido2/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The passwordless authentication standard FIDO2 has a critical flaw that allows attackers to launch Man-in-the-Middle (MitM) attacks and bypass authentication, gaining access to users' private areas and potentially removing their registered devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 11, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
