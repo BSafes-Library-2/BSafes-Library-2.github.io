@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+May 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'The Mask' Espionage Group Resurfaces After 10-Year Hiatus<a href="https://www.darkreading.com/cyberattacks-data-breaches/-the-mask-espionage-group-resurfaces-after-10-year-hiatus?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An advanced persistent threat (APT) group that has been missing in action for more than a decade has suddenly resurfaced in a cyber-espionage campaign targeting organizations in Latin America and Central Africa.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

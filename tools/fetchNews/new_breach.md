@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+May 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Russian’ Hackers Deface Potentially Hundreds of Local British News Sites<a href="https://therecord.media/newsquest-media-group-british-newspaper-websites-defaced?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group published a breaking news story titled “PERVOKLASSNIY RUSSIAN HACKERS ATTACK” on the sites of titles owned by Newsquest Media Group. There is no evidence the story was reproduced in print.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Hijack Ukrainian TV to Broadcast Victory Day Parade<a href="https://therecord.media/russian-hackers-hijack-ukraine-tv?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russia-aligned hackers hijacked several Ukrainian television channels on Thursday to broadcast a Victory Day parade in Moscow, commemorating the defeat of Nazi Germany in World War II.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

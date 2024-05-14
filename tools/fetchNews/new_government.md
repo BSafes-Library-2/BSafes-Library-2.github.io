@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+May 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US and China to Hold Discussions on AI Risks and Security<a href="https://www.bankinfosecurity.com/us-china-to-hold-discussions-on-ai-risks-security-a-25181?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Biden administration officials lowered expectations about the discussions during a call with reporters, saying the talks were "not focused on promoting any technical cooperation" between the two world superpowers on AI or emerging technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberthreat Landscape Permanently Altered by Chinese Operations, US Officials Say<a href="https://therecord.media/cyberthreat-landscape-altered-chinese-operations?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US officials say that a notorious Chinese hacking operation named Volt Typhoon has permanently altered the cyberthreat landscape by moving beyond traditional nation-state espionage goals and instead aiming to cause disruption and sow societal panic.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK's AI Safety Institute Unveils Platform to Accelerate Safe AI Develo<a href="https://www.infosecurity-magazine.com/news/platform-to-accelerate-safe-ai/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The platform, called Inspect, is set to pave the way for the safe innovation of AI models, according to the AI Safety Institute and Department for Science, Innovation and Technology (DIST).
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

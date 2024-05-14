@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New LLMjacking Attack Uses Stolen Cloud Credentials to Target Cloud-Hosted AI Models<a href="https://sysdig.com/blog/llmjacking-stolen-cloud-credentials-used-in-new-ai-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sysdig researchers discovered evidence of a reverse proxy for LLMs being used to provide access to the compromised accounts, suggesting a financial motivation.  However, another possible motivation is to extract LLM training data.
+</details>
+<div style="text-align: right" markdown="1">
+sysdig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Thwarted Cyberattack Targeted Library of Congress in Tandem With October British Library Breach<a href="https://www.nextgov.com/cybersecurity/2024/05/thwarted-cyberattack-targeted-library-congress-tandem-october-british-library-breach/396399/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Library of Congress was targeted in a cyberattack that occurred in parallel with a high-profile intrusion into the British Library in October 2023 but it was a failed attempt, according to internal documents obtained by Nextgov/FCW.
+</details>
+<div style="text-align: right" markdown="1">
+NEXTGOV
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Nmap 7.95 Released With New OS and Service Detection Signatures<a href="https://www.helpnetsecurity.com/2024/05/10/nmap-7-95-released/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nmap 7.95 introduces a substantial update with 336 new signatures, expanding the total to 6,036. Notable additions include support for the latest iOS versions 15 &amp; 16, macOS Ventura &amp; Monterey, Linux 6.1, OpenBSD 7.1, and lwIP 2.2.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

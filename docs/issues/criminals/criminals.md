@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Group's Worldwide Victim Count Tops 500<a href="https://www.infosecurity-magazine.com/news/black-basta-ransomware-victim/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta ransomware group and its affiliates compromised hundreds of organizations worldwide between April 2022 and May 2024, according to a new report from several US government agencies.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
