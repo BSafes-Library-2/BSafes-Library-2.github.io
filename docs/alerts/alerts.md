@@ -7,6 +7,16 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2024 - NHS, England 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Possible Exploitation of Arcserve Unified Data Protection (UDP) <a href="https://digital.nhs.uk/cyber-alerts/2024/cc-4487"> Full Text</a>
+</p>
+</details>
+Possible exploitation has been reported for three vulnerabilities affecting Arcserve Unified Data Protection (UDP), a widely used backup and disaster recovery solution. 
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 14, 2024 - UK AI Safety Institute 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

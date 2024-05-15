@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leveraging DNS Tunneling for Tracking and Scanning<a href="https://unit42.paloaltonetworks.com/three-dns-tunneling-campaigns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using DNS tunneling as a means to scan for network vulnerabilities and check the success of phishing campaigns, according to new research from Palo Alto Networks.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Southeast Asian Scam Syndicates Stealing $64 Billion Annually, Researchers Find<a href="https://therecord.media/southeast-asian-scam-syndicates-stealing-billions-annually?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have found that Southeast Asian scam syndicates are stealing an estimated $64 billion annually through various online fraud operations, with the majority of the losses occurring in Cambodia, Laos, and Myanmar.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

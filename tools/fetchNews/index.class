@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS Digital Hints at Exploit Sightings of Arcserve UDP Vulnerabilities<a href="https://www.theregister.com/2024/05/14/nhs_arcserve_udp/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's National Health Service (NHS) is warning of possible exploitation attempts targeting vulnerabilities in the Arcserve Unified Data Protection (UDP) software, which were disclosed in March and had PoC exploit code released shortly after.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vermont Passes Data Privacy Law Allowing Consumers to Sue Companies<a href="https://therecord.media/vermont-passes-data-privacy-law?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vermont has passed one of the strongest comprehensive data privacy laws in the country, which includes a provision allowing individuals to sue companies for violating their privacy rights.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Backports Fix for Zero-Day Exploited in Attacks to Older iPhones<a href="https://www.bleepingcomputer.com/news/apple/apple-backports-fix-for-rtkit-ios-zero-day-to-older-iphones/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw is a memory corruption issue in Apple's RTKit real-time operating system that enables attackers with arbitrary kernel read and write capability to bypass kernel memory protections.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Leveraging DNS Tunneling for Tracking and Scanning<a href="https://unit42.paloaltonetworks.com/three-dns-tunneling-campaigns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using DNS tunneling as a means to scan for network vulnerabilities and check the success of phishing campaigns, according to new research from Palo Alto Networks.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INC Ransomware Source Code Selling on Hacking Forums for $300,000<a href="https://www.bleepingcomputer.com/news/security/inc-ransomware-source-code-selling-on-hacking-forums-for-300-000/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The source code of the INC ransomware-as-a-service (RaaS) operation, which has targeted organizations like Xerox Business Solutions, Yamaha Motor Philippines, and Scotland's National Health Service (NHS), is being sold on hacking forums for $300,000.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insider Threats Maintain a Rising Trend<a href="https://www.tripwire.com/state-of-security/insider-threats-maintain-rising-trend?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insider threats, including dishonest actions to obtain benefits through theft or deception, have seen a significant rise in the past year, driven by factors like rising cost of living, remote work, and the increasing sophistication of fraud tactics.
+</details>
+<div style="text-align: right" markdown="1">
+Tripwire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Southeast Asian Scam Syndicates Stealing $64 Billion Annually, Researchers Find<a href="https://therecord.media/southeast-asian-scam-syndicates-stealing-billions-annually?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have found that Southeast Asian scam syndicates are stealing an estimated $64 billion annually through various online fraud operations, with the majority of the losses occurring in Cambodia, Laos, and Myanmar.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Insurers Pledge to Help Reduce Ransom Payments<a href="https://www.bankinfosecurity.com/cyber-insurers-pledge-to-help-reduce-ransom-payments-a-25194?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's NCSC and major insurance associations have partnered to help reduce the profitability of ransomware attacks by providing better support and guidance to victims, encouraging resilience, and promoting alternatives to paying ransoms.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2024 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Tokens are Like Gold for Opportunistic Threat Actors<a href="https://www.darkreading.com/cyberattacks-data-breaches/why-tokens-are-like-gold-for-opportunistic-threat-actors?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tokens are valuable assets for threat actors, as they can be easily obtained through various attack methods and provide unauthorized access to corporate systems without requiring multi-factor authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome Emergency Update Fixes Sixth Zero-Day Exploited in 2024<a href="https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-6th-zero-day-exploited-in-2024/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest bug is tracked as CVE-2024-4761. It is an out-of-bounds write problem impacting Chrome’s V8 JavaScript engine, which is responsible for executing JS code in the application.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 13, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

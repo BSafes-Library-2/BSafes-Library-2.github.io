@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+May 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Secure is the “Password Protection” on Your Files and Drives?<a href="https://www.helpnetsecurity.com/2024/05/10/password-protect-pdf-excel-files/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Password protection alone is not enough to securely protect files and drives, as it can be easily circumvented, and hardware-based encryption is recommended for robust data security.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

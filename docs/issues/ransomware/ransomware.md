@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+May 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+INC Ransomware Source Code Selling on Hacking Forums for $300,000<a href="https://www.bleepingcomputer.com/news/security/inc-ransomware-source-code-selling-on-hacking-forums-for-300-000/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The source code of the INC ransomware-as-a-service (RaaS) operation, which has targeted organizations like Xerox Business Solutions, Yamaha Motor Philippines, and Scotland's National Health Service (NHS), is being sold on hacking forums for $300,000.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

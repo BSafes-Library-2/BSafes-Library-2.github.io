@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Insurers Pledge to Help Reduce Ransom Payments<a href="https://www.bankinfosecurity.com/cyber-insurers-pledge-to-help-reduce-ransom-payments-a-25194?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's NCSC and major insurance associations have partnered to help reduce the profitability of ransomware attacks by providing better support and guidance to victims, encouraging resilience, and promoting alternatives to paying ransoms.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

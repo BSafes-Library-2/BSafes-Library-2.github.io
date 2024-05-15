@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+May 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insider Threats Maintain a Rising Trend<a href="https://www.tripwire.com/state-of-security/insider-threats-maintain-rising-trend?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Insider threats, including dishonest actions to obtain benefits through theft or deception, have seen a significant rise in the past year, driven by factors like rising cost of living, remote work, and the increasing sophistication of fraud tactics.
+</details>
+<div style="text-align: right" markdown="1">
+Tripwire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
