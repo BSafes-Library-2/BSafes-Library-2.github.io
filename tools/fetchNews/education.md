@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why Tokens are Like Gold for Opportunistic Threat Actors<a href="https://www.darkreading.com/cyberattacks-data-breaches/why-tokens-are-like-gold-for-opportunistic-threat-actors?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tokens are valuable assets for threat actors, as they can be easily obtained through various attack methods and provide unauthorized access to corporate systems without requiring multi-factor authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 April 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

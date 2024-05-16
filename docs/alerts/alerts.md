@@ -12,8 +12,20 @@ May 15, 2024 - NHS, England
 <p style="font-weight:500; margin:0px" markdown="1">
 Possible Exploitation of Arcserve Unified Data Protection (UDP) <a href="https://digital.nhs.uk/cyber-alerts/2024/cc-4487"> Full Text</a>
 </p>
-</details>
+<details>
 Possible exploitation has been reported for three vulnerabilities affecting Arcserve Unified Data Protection (UDP), a widely used backup and disaster recovery solution. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2024 - CISA, FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mitigating Cyber Threats with Limited Resources: Guidance for Civil Society <a href="https://ukgovernmentbeis.github.io/inspect_ai/"> Full Text</a>
+</p>
+<details>
+Civil society—nonprofit, advocacy, cultural, faith-based, academic, think tanks, journalist, dissident, and diaspora organizations, communities, and individuals involved in defending human rights and advancing democracy—are considered high-risk communities. Often, these organizations and their employees are targeted by state-sponsored threat actors who seek to undermine democratic values and interests. Regularly conducted as a type of transnational repression (also referred to as digital transnational repression), state-sponsored actors compromise organizational or personal devices and networks to intimidate, silence, coerce, harass, or harm civil society organizations and individuals.
+</details>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
@@ -22,10 +34,11 @@ May 14, 2024 - UK AI Safety Institute
 <p style="font-weight:500; margin:0px" markdown="1">
 An open-source framework for large language model evaluations <a href="https://ukgovernmentbeis.github.io/inspect_ai/"> Full Text</a>
 </p>
-</details>
+<details>
 Welcome to Inspect, a framework for large language model evaluations created by the UK AI Safety Institute.
 
 Inspect provides many built-in components, including facilities for prompt engineering, tool usage, multi-turn dialog, and model graded evaluations. Extensions to Inspect (e.g. to support new elicitation and scoring techniques) can be provided by other Python packages.
+</details>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
@@ -34,8 +47,9 @@ May 6, 2024 - CISA, FBI
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Cyber Actors Use Directory Traversal To Compromise Systems <a href="https://www.cisa.gov/sites/default/files/2024-05/Secure_by_Design_Alert_Eliminating_Directory_Traversal_Vulnerabilities_in_Software_508c%20%283%29.pdf"> Full Text</a>
 </p>
-</details>
+<details>
 Directory traversal—or path traversal—vulnerabilities remain a persistent class of defect in software products. The software industry has documented directory traversal vulnerabilities, along with effective approaches to eliminate these vulnerabilities at scale, for over two decades.1 Yet software manufacturers continue to put customers at risk by developing products that allow for directory traversal exploitation. CISA and the FBI are releasing this Secure by Design Alert in response to recent well-publicized threat actor campaigns that exploited directory traversal vulnerabilities in software (e.g., CVE-2024-1708, CVE-2024-20345) to compromise users of the software—impacting critical infrastructure sectors, including the Healthcare and Public Health Sector. 
+</details>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
@@ -44,12 +58,11 @@ May 1, 2024 - CISA
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds One Known Exploited Vulnerability to Catalog <a href="https://www.cisa.gov/news-events/alerts/2024/05/01/cisa-adds-one-known-exploited-vulnerability-catalog"> Full Text</a>
 </p>
-</details>
+<details>
 CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
-
 CVE-2023-7028 GitLab Community and Enterprise Editions Improper Access Control Vulnerability
-
 These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise.
+</details>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
@@ -58,8 +71,9 @@ April 29, 2024 - NIST
 <p style="font-weight:500; margin:0px" markdown="1">
 Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile <a href="https://airc.nist.gov/docs/NIST.AI.600-1.GenAI-Profile.ipd.pdf"> Full Text</a>
 </p>
-</details>
+<details>
 This document is a companion resource for Generative AI to the AI Risk Management Framework (AI RMF), pursuant to President Biden’s Executive Order (EO) 14110 on Safe, Secure, and Trustworthy Artificial Intelligence. The AI RMF was released in January 2023, and is intended for voluntary use and to improve the ability of organizations to incorporate trustworthiness considerations into the design, development, use, and evaluation of AI products, services, and systems. 
+</details>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
@@ -68,8 +82,9 @@ April 26, 2024 - DHS
 <p style="font-weight:500; margin:0px" markdown="1">
 MITIGATING ARTIFICIAL INTELLIGENCE (AI) RISK: Safety and Security Guidelines for Critical Infrastructure Owners and Operators <a href="https://www.dhs.gov/sites/default/files/2024-04/24_0426_dhs_ai-ci-safety-security-guidelines-508c.pdf"> Full Text</a>
 </p>
-</details>
+<details>
 The U.S. Department of Homeland Security (DHS) was tasked in Executive Order 14110: Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence1 to develop safety and security guidelines for use by critical infrastructure owners and operators. DHS developed these guidelines in coordination with the Department of Commerce, the Sector Risk Management Agencies (SRMAs) for the 16 critical infrastructure sectors, and relevant independent regulatory agencies. 
+</details>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
@@ -78,8 +93,9 @@ April 26, 2024 - FBI
 <p style="font-weight:500; margin:0px" markdown="1">
 New Verification Schemes Target Users of Online Dating Platforms <a href="https://www.ic3.gov/Media/Y2024/PSA240426"> Full Text</a>
 </p>
-</details>
+<details>
 The FBI warns of "free" online verification service schemes in which fraudsters target users of dating websites and applications (apps) to defraud victims into signing up for recurring payments. Unlike romance scams involving investment-confidence schemes, commonly referred to as pig-butchering, where victims are convinced to transfer large amounts of money over time, the so called "free" verification schemes involve recurring and costly monthly subscription fees. Additionally, fraudsters collect the information entered by victims at registrations (e.g., emails, phone numbers, and credit card information) and use it to commit further fraudulent activity such as identity theft or selling the information on the dark web.
+</details>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
@@ -88,8 +104,9 @@ April 25, 2024 - CISA
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Hygiene Helps Organizations Mitigate Ransomware-Related Vulnerabilities  <a href="https://www.cisa.gov/news-events/news/cyber-hygiene-helps-organizations-mitigate-ransomware-related-vulnerabilities"> Full Text</a>
 </p>
-</details>
+<details>
 Ransomware continues to evolve as a scourge on critical services, businesses, and communities worldwide, causing costly incidents that are increasingly destructive and disruptive. Based on recent industry reporting, it costs businesses an average of $1.85 million to recover from a ransomware attack.1 In addition, 80% of victims who paid a ransom were targeted and victimized again by these criminals.2 The economic, technical, and reputational impacts of ransomware incidents, throughout the initial disruption and, at times, extended recovery, continue to pose a challenge for organizations large and small. 
+</details>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
@@ -98,7 +115,7 @@ April 25, 2024 - CISA
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Releases Eight Industrial Control Systems Advisories <a href="https://www.gao.gov/assets/d24106343.pdf"> Full Text</a>
 </p>
-</details>
+<details>
 CISA released eight Industrial Control Systems (ICS) advisories on April 25, 2024. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.
 
 ICSA-24-116-01 Multiple Vulnerabilities in Hitachi Energy RTU500 Series
@@ -110,6 +127,7 @@ ICSA-23-157-02 Mitsubishi Electric MELSEC iQ-R Series/iQ-F Series (Update A)
 ICSA-24-102-09 Rockwell Automation 5015-AENFTXT (Update A)
 ICSA-24-067-01 Chirp Systems Chirp Access (Update B)
 CISA encourages users and administrators to review the newly released ICS advisories for technical details and mitigations.
+</details>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
@@ -118,8 +136,9 @@ April 24, 2024 - United States Government Accountability Office
 <p style="font-weight:500; margin:0px" markdown="1">
 Implementation of Executive Order Requirements Is Essential to Address Key Actions <a href="https://www.gao.gov/assets/d24106343.pdf"> Full Text</a>
 </p>
-</details>
+<details>
 Among its 115 provisions, the order contains 55 leadership and oversight requirements (actions to assist or direct the federal agencies in implementing the order). The three key agencies primarily responsible for the implementation of these requirements are the Department of Homeland Security’s (DHS) Cybersecurity and Infrastructure Security Agency, the National Institute of Standards and Technology, and the Office of Management and Budget (OMB).  These agencies fully completed 49 of the 55 requirements, partially completed five, and one was not applicable (see table below). Completing these requirements would provide the federal government with greater assurance that its systems and data are adequately protected.
+</details>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">

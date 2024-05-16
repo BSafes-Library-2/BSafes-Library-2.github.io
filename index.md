@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2024
+May 15, 2024 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Cost-Effective Encryption Strategy Starts With Key Management<a href="https://www.darkreading.com/cloud-security/a-cost-effective-encryption-strategy-starts-with-key-management?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ A Cost-Effective Encryption Strategy Starts With Key Management<a href="https://
 A cost-effective encryption strategy starts with effective key management, which involves making critical decisions about where to store encryption keys, how to manage them, and how to prepare for the post-quantum future.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2024
+May 15, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Actors Weaponize Legitimate Services in Multi-Malware Attack<a href="https://www.infosecurity-magazine.com/news/russian-legitimate-services/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Russian Actors Weaponize Legitimate Services in Multi-Malware Attack<a href="htt
 The threat actor, likely located in the Commonwealth of Independent States (CIS), strategically targeted a spectrum of operating systems and computer architectures in the credential harvesting campaign, including Windows and macOS.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2024
+May 15, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FTC Fires ‘Shot Across the Bow’ at Automakers Over Connected-Car Data Privacy<a href="https://therecord.media/ftc-connected-cars-data-privacy-geolocation?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ FTC Fires ‘Shot Across the Bow’ at Automakers Over Connected-Car Data Privac
 The FTC issued a strong warning to automakers about their data collection and sharing practices, particularly regarding the sale of sensitive geolocation data, and emphasized that it will take enforcement action to protect consumer privacy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2024
+May 15, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Data Breaches in US Schools Exposed 37.6M Records<a href="https://www.infosecurity-magazine.com/news/data-breaches-us-schools-37m/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Report: Data Breaches in US Schools Exposed 37.6M Records<a href="https://www.in
 According to Comparitech, data breaches in US schools have exposed over 37.6 million records since 2005, with a significant surge in 2023 due to vulnerabilities in the MOVEit file transfer software affecting over 800 institutions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2024
+May 15, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideCopy APT Campaign Found Targeting Indian Universities<a href="https://thecyberexpress.com/sidecopy-campaign-targets-indian-universities/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ SideCopy APT Campaign Found Targeting Indian Universities<a href="https://thecyb
 Active since May 2023, the SideCopy APT campaign targets university students through sophisticated infection chains involving malicious LNK files, HTAs, and loader DLLs disguised as legitimate documents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2024
+May 15, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australia: AFL Players Call for Data Protection Overhaul as Concerns Include Drug Test Results<a href="https://www.theguardian.com/sport/article/2024/may/14/afl-players-data-protection-leak-breach-drug-test-results?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Australia: AFL Players Call for Data Protection Overhaul as Concerns Include Dru
 AFL players are concerned about the risk of their personal and sensitive information, such as drug test results and psychologist session notes, being leaked onto the dark web due to inadequate data protection measures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Guardian
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2024
+May 15, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA, FBI, and DHS Unveil Cybersecurity Guide For Civil Society Groups<a href="https://www.infosecurity-magazine.com/news/cisa-unveil-cybersecurity-guide/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ CISA, FBI, and DHS Unveil Cybersecurity Guide For Civil Society Groups<a href="h
 The publication Mitigating Cyber Threats with Limited Resources: Guidance for Civil Society is designed to provide high-risk communities with actionable steps to bolster their cybersecurity defenses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2024
+May 15, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI Is an Expert Liar<a href="https://www.healthcareinfosecurity.com/ai-expert-liar-a-25199?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ AI Is an Expert Liar<a href="https://www.healthcareinfosecurity.com/ai-expert-li
 AI systems trained to excel at tasks can learn to lie and deceive in order to gain an advantage, posing serious risks to society such as fraud, election tampering, and even the potential loss of human control over AI.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Healthcare Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2024
+May 15, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Issues New Guidelines on Protecting Unclassified Data in Government Systems<a href="https://www.nextgov.com/cybersecurity/2024/05/nist-issues-new-guidelines-protecting-unclassified-data-government-systems/396545/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ NIST Issues New Guidelines on Protecting Unclassified Data in Government Systems
 The NIST issued new guidelines to help federal agencies and their private sector contractors better protect sensitive unclassified information, known as Controlled Unclassified Information (CUI), from cyber threats, particularly supply chain risks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NEXTGOV
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 15, 2024
+May 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several Vulnerabilities Addressed in Ubuntu 24.04<a href="https://tuxcare.com/blog/several-vulnerabilities-addressed-in-ubuntu-24-04/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Several Vulnerabilities Addressed in Ubuntu 24.04<a href="https://tuxcare.com/bl
 Ubuntu 24.04 LTS has addressed several security vulnerabilities, including issues in less, Glibc, Curl, GnuTLS, libvirt, and Pillow, which could potentially lead to denial of service or arbitrary code execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+TuxCar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

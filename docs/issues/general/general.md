@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+May 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Data Breaches in US Schools Exposed 37.6M Records<a href="https://www.infosecurity-magazine.com/news/data-breaches-us-schools-37m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Comparitech, data breaches in US schools have exposed over 37.6 million records since 2005, with a significant surge in 2023 due to vulnerabilities in the MOVEit file transfer software affecting over 800 institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: AFL Players Call for Data Protection Overhaul as Concerns Include Drug Test Results<a href="https://www.theguardian.com/sport/article/2024/may/14/afl-players-data-protection-leak-breach-drug-test-results?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AFL players are concerned about the risk of their personal and sensitive information, such as drug test results and psychologist session notes, being leaked onto the dark web due to inadequate data protection measures.
+</details>
+<div style="text-align: right" markdown="1">
+The Guardian
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Is an Expert Liar<a href="https://www.healthcareinfosecurity.com/ai-expert-liar-a-25199?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI systems trained to excel at tasks can learn to lie and deceive in order to gain an advantage, posing serious risks to society such as fraud, election tampering, and even the potential loss of human control over AI.
+</details>
+<div style="text-align: right" markdown="1">
+Healthcare Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
