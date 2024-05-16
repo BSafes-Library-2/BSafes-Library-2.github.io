@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2024
+May 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Cost-Effective Encryption Strategy Starts With Key Management<a href="https://www.darkreading.com/cloud-security/a-cost-effective-encryption-strategy-starts-with-key-management?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cost-effective encryption strategy starts with effective key management, which involves making critical decisions about where to store encryption keys, how to manage them, and how to prepare for the post-quantum future.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Actors Weaponize Legitimate Services in Multi-Malware Attack<a href="https://www.infosecurity-magazine.com/news/russian-legitimate-services/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor, likely located in the Commonwealth of Independent States (CIS), strategically targeted a spectrum of operating systems and computer architectures in the credential harvesting campaign, including Windows and macOS.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Fires ‘Shot Across the Bow’ at Automakers Over Connected-Car Data Privacy<a href="https://therecord.media/ftc-connected-cars-data-privacy-geolocation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FTC issued a strong warning to automakers about their data collection and sharing practices, particularly regarding the sale of sensitive geolocation data, and emphasized that it will take enforcement action to protect consumer privacy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Data Breaches in US Schools Exposed 37.6M Records<a href="https://www.infosecurity-magazine.com/news/data-breaches-us-schools-37m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Comparitech, data breaches in US schools have exposed over 37.6 million records since 2005, with a significant surge in 2023 due to vulnerabilities in the MOVEit file transfer software affecting over 800 institutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideCopy APT Campaign Found Targeting Indian Universities<a href="https://thecyberexpress.com/sidecopy-campaign-targets-indian-universities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Active since May 2023, the SideCopy APT campaign targets university students through sophisticated infection chains involving malicious LNK files, HTAs, and loader DLLs disguised as legitimate documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australia: AFL Players Call for Data Protection Overhaul as Concerns Include Drug Test Results<a href="https://www.theguardian.com/sport/article/2024/may/14/afl-players-data-protection-leak-breach-drug-test-results?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AFL players are concerned about the risk of their personal and sensitive information, such as drug test results and psychologist session notes, being leaked onto the dark web due to inadequate data protection measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, and DHS Unveil Cybersecurity Guide For Civil Society Groups<a href="https://www.infosecurity-magazine.com/news/cisa-unveil-cybersecurity-guide/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The publication Mitigating Cyber Threats with Limited Resources: Guidance for Civil Society is designed to provide high-risk communities with actionable steps to bolster their cybersecurity defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Is an Expert Liar<a href="https://www.healthcareinfosecurity.com/ai-expert-liar-a-25199?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI systems trained to excel at tasks can learn to lie and deceive in order to gain an advantage, posing serious risks to society such as fraud, election tampering, and even the potential loss of human control over AI.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Issues New Guidelines on Protecting Unclassified Data in Government Systems<a href="https://www.nextgov.com/cybersecurity/2024/05/nist-issues-new-guidelines-protecting-unclassified-data-government-systems/396545/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NIST issued new guidelines to help federal agencies and their private sector contractors better protect sensitive unclassified information, known as Controlled Unclassified Information (CUI), from cyber threats, particularly supply chain risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Vulnerabilities Addressed in Ubuntu 24.04<a href="https://tuxcare.com/blog/several-vulnerabilities-addressed-in-ubuntu-24-04/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ubuntu 24.04 LTS has addressed several security vulnerabilities, including issues in less, Glibc, Curl, GnuTLS, libvirt, and Pillow, which could potentially lead to denial of service or arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NHS Digital Hints at Exploit Sightings of Arcserve UDP Vulnerabilities<a href="https://www.theregister.com/2024/05/14/nhs_arcserve_udp/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ NHS Digital Hints at Exploit Sightings of Arcserve UDP Vulnerabilities<a href="h
 The UK's National Health Service (NHS) is warning of possible exploitation attempts targeting vulnerabilities in the Arcserve Unified Data Protection (UDP) software, which were disclosed in March and had PoC exploit code released shortly after.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2024
+May 14, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vermont Passes Data Privacy Law Allowing Consumers to Sue Companies<a href="https://therecord.media/vermont-passes-data-privacy-law?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Vermont Passes Data Privacy Law Allowing Consumers to Sue Companies<a href="http
 Vermont has passed one of the strongest comprehensive data privacy laws in the country, which includes a provision allowing individuals to sue companies for violating their privacy rights.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2024
+May 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Backports Fix for Zero-Day Exploited in Attacks to Older iPhones<a href="https://www.bleepingcomputer.com/news/apple/apple-backports-fix-for-rtkit-ios-zero-day-to-older-iphones/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Apple Backports Fix for Zero-Day Exploited in Attacks to Older iPhones<a href="h
 The flaw is a memory corruption issue in Apple's RTKit real-time operating system that enables attackers with arbitrary kernel read and write capability to bypass kernel memory protections.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2024
+May 14, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Leveraging DNS Tunneling for Tracking and Scanning<a href="https://unit42.paloaltonetworks.com/three-dns-tunneling-campaigns/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Leveraging DNS Tunneling for Tracking and Scanning<a href="https://unit42.paloal
 Threat actors are using DNS tunneling as a means to scan for network vulnerabilities and check the success of phishing campaigns, according to new research from Palo Alto Networks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2024
+May 14, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 INC Ransomware Source Code Selling on Hacking Forums for $300,000<a href="https://www.bleepingcomputer.com/news/security/inc-ransomware-source-code-selling-on-hacking-forums-for-300-000/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ INC Ransomware Source Code Selling on Hacking Forums for $300,000<a href="https:
 The source code of the INC ransomware-as-a-service (RaaS) operation, which has targeted organizations like Xerox Business Solutions, Yamaha Motor Philippines, and Scotland's National Health Service (NHS), is being sold on hacking forums for $300,000.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2024
+May 14, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insider Threats Maintain a Rising Trend<a href="https://www.tripwire.com/state-of-security/insider-threats-maintain-rising-trend?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Insider Threats Maintain a Rising Trend<a href="https://www.tripwire.com/state-o
 Insider threats, including dishonest actions to obtain benefits through theft or deception, have seen a significant rise in the past year, driven by factors like rising cost of living, remote work, and the increasing sophistication of fraud tactics.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tripwire
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2024
+May 14, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Southeast Asian Scam Syndicates Stealing $64 Billion Annually, Researchers Find<a href="https://therecord.media/southeast-asian-scam-syndicates-stealing-billions-annually?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Southeast Asian Scam Syndicates Stealing $64 Billion Annually, Researchers Find<
 Researchers have found that Southeast Asian scam syndicates are stealing an estimated $64 billion annually through various online fraud operations, with the majority of the losses occurring in Cambodia, Laos, and Myanmar.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2024
+May 14, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Insurers Pledge to Help Reduce Ransom Payments<a href="https://www.bankinfosecurity.com/cyber-insurers-pledge-to-help-reduce-ransom-payments-a-25194?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Cyber Insurers Pledge to Help Reduce Ransom Payments<a href="https://www.bankinf
 The UK's NCSC and major insurance associations have partnered to help reduce the profitability of ransomware attacks by providing better support and guidance to victims, encouraging resilience, and promoting alternatives to paying ransoms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2024
+May 14, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why Tokens are Like Gold for Opportunistic Threat Actors<a href="https://www.darkreading.com/cyberattacks-data-breaches/why-tokens-are-like-gold-for-opportunistic-threat-actors?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Why Tokens are Like Gold for Opportunistic Threat Actors<a href="https://www.dar
 Tokens are valuable assets for threat actors, as they can be easily obtained through various attack methods and provide unauthorized access to corporate systems without requiring multi-factor authentication.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 14, 2024
+May 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome Emergency Update Fixes Sixth Zero-Day Exploited in 2024<a href="https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-6th-zero-day-exploited-in-2024/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Google Chrome Emergency Update Fixes Sixth Zero-Day Exploited in 2024<a href="ht
 The latest bug is tracked as CVE-2024-4761. It is an out-of-bounds write problem impacting Chrome’s V8 JavaScript engine, which is responsible for executing JS code in the application.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
