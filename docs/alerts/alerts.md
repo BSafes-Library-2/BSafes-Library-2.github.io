@@ -142,7 +142,7 @@ Among its 115 provisions, the order contains 55 leadership and oversight require
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-April 20, 2024 - NSA, CISA, FBI, ASD, ACSC, GCSB NCSC, Canadian Centre for Cyber Security, GCHQ NCSC  
+April 20, 2024 - NSA, CISA, FBI   
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Deploying AI Systems Securely <a href="https://www.ic3.gov/Media/News/2024/240415.pdf"> Full Text</a>
