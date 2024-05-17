@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+May 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android to Add New Anti-Theft and Data Protection Features<a href="https://www.bleepingcomputer.com/news/google/android-to-add-new-anti-theft-and-data-protection-features/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is adding new anti-theft and data protection features for Android, including AI-powered screen locks, remote locking, and improved factory reset protection to secure users' data if devices are lost or stolen.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple and Google Join Forces to Stop Unwanted Tracking<a href="https://www.malwarebytes.com/blog/news/2024/05/apple-and-google-join-forces-to-stop-unwanted-tracking?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Apple and Google have joined forces to develop an industry specification that will allow users across iOS and Android to be alerted if a Bluetooth tracking device is being used to unknowingly track their location.
+</details>
+<div style="text-align: right" markdown="1">
+MalwareBytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

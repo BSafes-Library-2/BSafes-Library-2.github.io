@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+May 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK: NCSC to Defend ‘High-Risk’ Political Candidates from Cyberattacks<a href="https://thecyberexpress.com/cyber-threats-targeting-political-candidates/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Personal Internet Protection (PIP) service aims to provide an additional layer of security to individuals at “high-risk” of cyberattacks like spear-phishing, malware and other threats, ahead of the upcoming election year.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Trust Label Could be in Place by End of the Year, White House Says<a href="https://therecord.media/cyber-trust-label-coming-this-year?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Biden administration plans to have consumer devices labeled with the U.S. Cyber Trust Mark on store shelves by the end of 2024, to help consumers understand security and encourage manufacturers to include basic digital defenses.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

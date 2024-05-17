@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FTC Fires ‘Shot Across the Bow’ at Automakers Over Connected-Car Data Privacy<a href="https://therecord.media/ftc-connected-cars-data-privacy-geolocation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FTC issued a strong warning to automakers about their data collection and sharing practices, particularly regarding the sale of sensitive geolocation data, and emphasized that it will take enforcement action to protect consumer privacy.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

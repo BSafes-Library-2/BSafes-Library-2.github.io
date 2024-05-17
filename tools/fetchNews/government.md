@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+May 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA, FBI, and DHS Unveil Cybersecurity Guide For Civil Society Groups<a href="https://www.infosecurity-magazine.com/news/cisa-unveil-cybersecurity-guide/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The publication Mitigating Cyber Threats with Limited Resources: Guidance for Civil Society is designed to provide high-risk communities with actionable steps to bolster their cybersecurity defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Issues New Guidelines on Protecting Unclassified Data in Government Systems<a href="https://www.nextgov.com/cybersecurity/2024/05/nist-issues-new-guidelines-protecting-unclassified-data-government-systems/396545/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NIST issued new guidelines to help federal agencies and their private sector contractors better protect sensitive unclassified information, known as Controlled Unclassified Information (CUI), from cyber threats, particularly supply chain risks.
+</details>
+<div style="text-align: right" markdown="1">
+NEXTGOV
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

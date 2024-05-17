@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Fake DocuSign Templates to Blackmail &amp; Steal From Companies<a href="https://www.darkreading.com/threat-intelligence/scammers-fake-docusign-templates-blackmail-steal-companies?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are exploiting the popularity of DocuSign by creating and selling fake email templates and login credentials to enable phishing attacks, blackmail, and business email compromise against targeted companies.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
