@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2024
+May 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky Hackers Deploy New Linux Backdoor in Attacks on South Korea<a href="https://www.bleepingcomputer.com/news/security/kimsuky-hackers-deploy-new-linux-backdoor-in-attacks-on-south-korea/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gomir shares many similarities with GoBear and features direct command and control (C2) communication, persistence mechanisms, and support for executing a wide range of commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tracking the Progression of Earth Hundun's Cyberespionage Campaign in 2024<a href="https://www.trendmicro.com/en_us/research/24/e/earth-hundun-2.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deuterbear, while similar to Waterbear in many ways, shows advancements in capabilities such as including support for shellcode plugins, avoiding handshakes for RAT operation, and using HTTPS for C&C communication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SugarGh0st RAT Variant Used in Targeted AI Industry Attacks<a href="https://www.infosecurity-magazine.com/news/sugargh0st-rat-targeted-ai/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The May 2024 campaign, dubbed UNK_SweetSpecter, employs the SugarGh0st RAT, a remote access trojan tailored from the Gh0stRAT. This variant, historically linked to Chinese-speaking threat actors, has now been repurposed to target AI-related entities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Backdoors on a European Government’s Network Appear to be Russian<a href="https://therecord.media/backdoor-malware-european-government-turla-suspected?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers with the Slovak cybersecurity firm ESET published a technical analysis on Wednesday of the two backdoors by a suspected Russian threat group, which they named LunarWeb and LunarMail.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android Banking Trojan Mimics Google Play Update App<a href="https://www.infosecurity-magazine.com/news/android-banking-trojan-google-play/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Android banking Trojan called "Antidot" is targeting users across multiple regions by mimicking a Google Play update app and incorporating various malicious features like overlay attacks, keylogging, and remote control capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is an Open-Source AI Vulnerability Next?<a href="https://www.helpnetsecurity.com/2024/05/16/open-source-ai-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The challenges within the AI supply chain mirror those of the broader software supply chain, with added complexity when integrating large language models (LLMs) or machine learning (ML) models into organizational frameworks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEC to Require Financial Firms to Have Data Breach Incident Plans<a href="https://therecord.media/sec-to-require-data-breach-plans-financial?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SEC now requires certain financial institutions to have written policies for detecting, addressing, and notifying customers of data breaches involving their personal information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Lags Europe on Exploited Vulnerability Remediation<a href="https://www.infosecurity-magazine.com/news/uk-lags-europe-exploited/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report from Bitsight revealed that UK organizations are taking significantly longer than their European counterparts to remediate software vulnerabilities listed in the US CISA's Known Exploited Vulnerability (KEV) catalog.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OWASP Dep-Scan: Open-Source Security and Risk Audit Tool<a href="https://www.helpnetsecurity.com/2024/05/16/owasp-dep-scan-open-source-security-risk-audit-tool/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OWASP dep-scan is an open-source security and risk assessment tool that analyzes project dependencies to identify vulnerabilities, licensing issues, and potential risks like dependency confusion attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New UK System Will See ISPs Benefit From Same Protections as Government Networks<a href="https://therecord.media/uk-ncsc-share-and-defend-system-isps?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's NCSC has launched a new "Share and Defend" system that will provide internet service providers with the same malicious domain blocklists used to protect government networks, helping to raise cybersecurity resilience across the country.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 16, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Brothers Arrested for $25 Million Theft in Ethereum Blockchain Attack<a href="https://www.bleepingcomputer.com/news/security/brothers-arrested-for-25-million-theft-in-ethereum-blockchain-attack/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Brothers Arrested for $25 Million Theft in Ethereum Blockchain Attack<a href="ht
 Two brothers, Anton Peraire-Bueno and James Pepaire-Bueno, were arrested for allegedly manipulating the Ethereum blockchain and stealing $25 million worth of cryptocurrency within approximately 12 seconds in a "first-of-its-kind" scheme.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2024
+May 16, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK: NCSC to Defend ‘High-Risk’ Political Candidates from Cyberattacks<a href="https://thecyberexpress.com/cyber-threats-targeting-political-candidates/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ UK: NCSC to Defend ‘High-Risk’ Political Candidates from Cyberattacks<a href
 The Personal Internet Protection (PIP) service aims to provide an additional layer of security to individuals at “high-risk” of cyberattacks like spear-phishing, malware and other threats, ahead of the upcoming election year.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2024
+May 16, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android to Add New Anti-Theft and Data Protection Features<a href="https://www.bleepingcomputer.com/news/google/android-to-add-new-anti-theft-and-data-protection-features/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Android to Add New Anti-Theft and Data Protection Features<a href="https://www.b
 Google is adding new anti-theft and data protection features for Android, including AI-powered screen locks, remote locking, and improved factory reset protection to secure users' data if devices are lost or stolen.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2024
+May 16, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Palo Alto Networks is Buying Security Assets From IBM to Expand Customer Base<a href="https://www.cnbc.com/2024/05/15/palo-alto-networks-will-buy-ibm-qradar-cloud-security-software-assets.html?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Palo Alto Networks is Buying Security Assets From IBM to Expand Customer Base<a 
 Palo Alto Networks is acquiring IBM's QRadar cloud security software assets and migrating existing customers to its own Cortex XSIAM platform, as part of a broader partnership that will give Palo Alto access to consultants and a larger customer base.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CNBC
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2024
+May 16, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Trust Label Could be in Place by End of the Year, White House Says<a href="https://therecord.media/cyber-trust-label-coming-this-year?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Cyber Trust Label Could be in Place by End of the Year, White House Says<a href=
 The Biden administration plans to have consumer devices labeled with the U.S. Cyber Trust Mark on store shelves by the end of 2024, to help consumers understand security and encourage manufacturers to include basic digital defenses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2024
+May 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Discover 11 Vulnerabilities in GE Ultrasound Devices<a href="https://www.bankinfosecurity.com/report-11-vulnerabilities-found-in-ge-ultrasound-devices-a-25228?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Researchers Discover 11 Vulnerabilities in GE Ultrasound Devices<a href="https:/
 Researchers identified 11 security flaws in certain GE HealthCare ultrasound devices, including the Invenia ABUS 2.0, that could allow malicious actors with physical access to the devices to implant ransomware or access and manipulate patient data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2024
+May 16, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple and Google Join Forces to Stop Unwanted Tracking<a href="https://www.malwarebytes.com/blog/news/2024/05/apple-and-google-join-forces-to-stop-unwanted-tracking?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Apple and Google Join Forces to Stop Unwanted Tracking<a href="https://www.malwa
 Apple and Google have joined forces to develop an industry specification that will allow users across iOS and Android to be alerted if a Bluetooth tracking device is being used to unknowingly track their location.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+MalwareBytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2024
+May 16, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Fake DocuSign Templates to Blackmail & Steal From Companies<a href="https://www.darkreading.com/threat-intelligence/scammers-fake-docusign-templates-blackmail-steal-companies?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Scammers Fake DocuSign Templates to Blackmail & Steal From Companies<a href="htt
 Cybercriminals are exploiting the popularity of DocuSign by creating and selling fake email templates and login credentials to enable phishing attacks, blackmail, and business email compromise against targeted companies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2024
+May 16, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alkira Raises $100M in Series C Funding to Simplify, Secure and Scale Critical Network Infrastructure<a href="https://www.darkreading.com/cybersecurity-operations/alkira-raises-100m-in-series-c-funding-to-simplify-secure-and-scale-critical-network-infrastructure?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Alkira Raises $100M in Series C Funding to Simplify, Secure and Scale Critical N
 Alkira, a leader in on-demand network infrastructure as-a-service, has raised $100 million in Series C funding to further expand its innovative platform that simplifies, secures, and scales critical network infrastructure for enterprises.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 16, 2024
+May 16, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Patches Third Exploited Chrome Zero-Day in a Week<a href="https://www.bleepingcomputer.com/news/google/google-patches-third-exploited-chrome-zero-day-in-a-week/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Google Patches Third Exploited Chrome Zero-Day in a Week<a href="https://www.ble
 Google has released an emergency security update for Chrome to address the third zero-day vulnerability exploited in attacks within a week, highlighting the ongoing challenges in securing the popular web browser against sophisticated cyber threats.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
