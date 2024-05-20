@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2024
+May 18, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kimsuky Hackers Deploy New Linux Backdoor in Attacks on South Korea<a href="https://www.bleepingcomputer.com/news/security/kimsuky-hackers-deploy-new-linux-backdoor-in-attacks-on-south-korea/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Kimsuky Hackers Deploy New Linux Backdoor in Attacks on South Korea<a href="http
 Gomir shares many similarities with GoBear and features direct command and control (C2) communication, persistence mechanisms, and support for executing a wide range of commands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2024
+May 18, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tracking the Progression of Earth Hundun's Cyberespionage Campaign in 2024<a href="https://www.trendmicro.com/en_us/research/24/e/earth-hundun-2.html?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Tracking the Progression of Earth Hundun's Cyberespionage Campaign in 2024<a hre
 Deuterbear, while similar to Waterbear in many ways, shows advancements in capabilities such as including support for shellcode plugins, avoiding handshakes for RAT operation, and using HTTPS for C&C communication.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2024
+May 18, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SugarGh0st RAT Variant Used in Targeted AI Industry Attacks<a href="https://www.infosecurity-magazine.com/news/sugargh0st-rat-targeted-ai/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ SugarGh0st RAT Variant Used in Targeted AI Industry Attacks<a href="https://www.
 The May 2024 campaign, dubbed UNK_SweetSpecter, employs the SugarGh0st RAT, a remote access trojan tailored from the Gh0stRAT. This variant, historically linked to Chinese-speaking threat actors, has now been repurposed to target AI-related entities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2024
+May 18, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Backdoors on a European Government’s Network Appear to be Russian<a href="https://therecord.media/backdoor-malware-european-government-turla-suspected?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ New Backdoors on a European Government’s Network Appear to be Russian<a href="
 Researchers with the Slovak cybersecurity firm ESET published a technical analysis on Wednesday of the two backdoors by a suspected Russian threat group, which they named LunarWeb and LunarMail.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 18, 2024
+May 18, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android Banking Trojan Mimics Google Play Update App<a href="https://www.infosecurity-magazine.com/news/android-banking-trojan-google-play/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ New Android Banking Trojan Mimics Google Play Update App<a href="https://www.inf
 A new Android banking Trojan called "Antidot" is targeting users across multiple regions by mimicking a Google Play update app and incorporating various malicious features like overlay attacks, keylogging, and remote control capabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2024
+May 17, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Is an Open-Source AI Vulnerability Next?<a href="https://www.helpnetsecurity.com/2024/05/16/open-source-ai-security/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Is an Open-Source AI Vulnerability Next?<a href="https://www.helpnetsecurity.com
 The challenges within the AI supply chain mirror those of the broader software supply chain, with added complexity when integrating large language models (LLMs) or machine learning (ML) models into organizational frameworks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2024
+May 17, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SEC to Require Financial Firms to Have Data Breach Incident Plans<a href="https://therecord.media/sec-to-require-data-breach-plans-financial?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ SEC to Require Financial Firms to Have Data Breach Incident Plans<a href="https:
 The SEC now requires certain financial institutions to have written policies for detecting, addressing, and notifying customers of data breaches involving their personal information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2024
+May 17, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Lags Europe on Exploited Vulnerability Remediation<a href="https://www.infosecurity-magazine.com/news/uk-lags-europe-exploited/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ UK Lags Europe on Exploited Vulnerability Remediation<a href="https://www.infose
 A report from Bitsight revealed that UK organizations are taking significantly longer than their European counterparts to remediate software vulnerabilities listed in the US CISA's Known Exploited Vulnerability (KEV) catalog.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2024
+May 17, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OWASP Dep-Scan: Open-Source Security and Risk Audit Tool<a href="https://www.helpnetsecurity.com/2024/05/16/owasp-dep-scan-open-source-security-risk-audit-tool/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ OWASP Dep-Scan: Open-Source Security and Risk Audit Tool<a href="https://www.hel
 OWASP dep-scan is an open-source security and risk assessment tool that analyzes project dependencies to identify vulnerabilities, licensing issues, and potential risks like dependency confusion attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 17, 2024
+May 17, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New UK System Will See ISPs Benefit From Same Protections as Government Networks<a href="https://therecord.media/uk-ncsc-share-and-defend-system-isps?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ New UK System Will See ISPs Benefit From Same Protections as Government Networks
 The UK's NCSC has launched a new "Share and Defend" system that will provide internet service providers with the same malicious domain blocklists used to protect government networks, helping to raise cybersecurity resilience across the country.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

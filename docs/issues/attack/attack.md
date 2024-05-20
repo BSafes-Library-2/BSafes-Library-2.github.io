@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+May 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky Hackers Deploy New Linux Backdoor in Attacks on South Korea<a href="https://www.bleepingcomputer.com/news/security/kimsuky-hackers-deploy-new-linux-backdoor-in-attacks-on-south-korea/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Gomir shares many similarities with GoBear and features direct command and control (C2) communication, persistence mechanisms, and support for executing a wide range of commands.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tracking the Progression of Earth Hundun's Cyberespionage Campaign in 2024<a href="https://www.trendmicro.com/en_us/research/24/e/earth-hundun-2.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Deuterbear, while similar to Waterbear in many ways, shows advancements in capabilities such as including support for shellcode plugins, avoiding handshakes for RAT operation, and using HTTPS for C&amp;C communication.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SugarGh0st RAT Variant Used in Targeted AI Industry Attacks<a href="https://www.infosecurity-magazine.com/news/sugargh0st-rat-targeted-ai/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The May 2024 campaign, dubbed UNK_SweetSpecter, employs the SugarGh0st RAT, a remote access trojan tailored from the Gh0stRAT. This variant, historically linked to Chinese-speaking threat actors, has now been repurposed to target AI-related entities.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

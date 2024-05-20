@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+May 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Palo Alto Networks is Buying Security Assets From IBM to Expand Customer Base<a href="https://www.cnbc.com/2024/05/15/palo-alto-networks-will-buy-ibm-qradar-cloud-security-software-assets.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Palo Alto Networks is acquiring IBM's QRadar cloud security software assets and migrating existing customers to its own Cortex XSIAM platform, as part of a broader partnership that will give Palo Alto access to consultants and a larger customer base.
+</details>
+<div style="text-align: right" markdown="1">
+CNBC
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alkira Raises $100M in Series C Funding to Simplify, Secure and Scale Critical Network Infrastructure<a href="https://www.darkreading.com/cybersecurity-operations/alkira-raises-100m-in-series-c-funding-to-simplify-secure-and-scale-critical-network-infrastructure?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Alkira, a leader in on-demand network infrastructure as-a-service, has raised $100 million in Series C funding to further expand its innovative platform that simplifies, secures, and scales critical network infrastructure for enterprises.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

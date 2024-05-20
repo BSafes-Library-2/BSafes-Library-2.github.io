@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New UK System Will See ISPs Benefit From Same Protections as Government Networks<a href="https://therecord.media/uk-ncsc-share-and-defend-system-isps?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK's NCSC has launched a new "Share and Defend" system that will provide internet service providers with the same malicious domain blocklists used to protect government networks, helping to raise cybersecurity resilience across the country.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

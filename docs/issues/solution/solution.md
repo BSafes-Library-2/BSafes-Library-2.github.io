@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OWASP Dep-Scan: Open-Source Security and Risk Audit Tool<a href="https://www.helpnetsecurity.com/2024/05/16/owasp-dep-scan-open-source-security-risk-audit-tool/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OWASP dep-scan is an open-source security and risk assessment tool that analyzes project dependencies to identify vulnerabilities, licensing issues, and potential risks like dependency confusion attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
