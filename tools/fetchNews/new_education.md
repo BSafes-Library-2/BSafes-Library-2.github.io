@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+May 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Importance of Access Controls in Incident Response<a href="https://www.helpnetsecurity.com/2024/05/17/incident-response-access-controls/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adequate IAM policies are essential for incident management tooling to ensure the right people can quickly address issues without being blocked. Authentication verifies a person's identity, while authorization manages permissions and access levels.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

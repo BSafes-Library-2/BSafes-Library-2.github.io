@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+May 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Is an Open-Source AI Vulnerability Next?<a href="https://www.helpnetsecurity.com/2024/05/16/open-source-ai-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The challenges within the AI supply chain mirror those of the broader software supply chain, with added complexity when integrating large language models (LLMs) or machine learning (ML) models into organizational frameworks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Lags Europe on Exploited Vulnerability Remediation<a href="https://www.infosecurity-magazine.com/news/uk-lags-europe-exploited/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report from Bitsight revealed that UK organizations are taking significantly longer than their European counterparts to remediate software vulnerabilities listed in the US CISA's Known Exploited Vulnerability (KEV) catalog.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
