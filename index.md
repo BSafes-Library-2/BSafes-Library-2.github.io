@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Duo Indicted for Laundering $73m in Pig Butchering Case<a href="https://www.infosecurity-magazine.com/news/chinese-indicted-laundering-73m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Chinese nationals have been indicted for their alleged involvement in a multimillion-dollar "pig butchering" investment fraud scheme, where they laundered over $73 million through US financial institutions and cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Too Many ICS Assets are Exposed to the Public Internet<a href="https://www.helpnetsecurity.com/2024/05/17/organizations-expanding-attack-surface/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The enterprise attack surface is rapidly expanding due to the convergence of IT and OT systems, leading to a large number of ICS assets being exposed to the public internet and creating new vulnerabilities that security teams struggle to manage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US SEC Approves Wall Street Data Breach Reporting Regs<a href="https://www.healthcareinfosecurity.com/us-sec-approves-wall-street-data-breach-reporting-regs-a-25268?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SEC has approved new regulations that require broker-dealers and investment firms to notify their clients within 30 days of detecting a data breach, in an effort to modernize and enhance the protection of consumers' financial data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Python Package Flaw ‘Llama Drama’ Threatens Software Supply Chain<a href="https://www.hackread.com/ai-python-package-flaw-llama-drama-supply-chain/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability in the Jinja2 template rendering Python tool used by the llama_cpp_python package for integrating AI models can allow hackers to execute arbitrary code, putting systems and data at risk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Judge Denies Class Certification in Blackbaud Hack Lawsuit<a href="https://www.bankinfosecurity.com/judge-denies-class-certification-in-blackbaud-hack-lawsuit-a-25248?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The judge said the plaintiffs did not show an "administratively feasible" way for the court to determine whether a particular individual is a class member without extensive and individualized fact-finding.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latrodectus Malware Loader Emerges as Potential Replacement for IcedID<a href="https://www.elastic.co/security-labs/spring-cleaning-with-latrodectus?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have observed a surge in email phishing campaigns delivering Latrodectus, a new malware loader believed to be the successor to the IcedID malware, which is capable of deploying additional payloads such as QakBot, DarkGate, and PikaBot.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Importance of Access Controls in Incident Response<a href="https://www.helpnetsecurity.com/2024/05/17/incident-response-access-controls/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adequate IAM policies are essential for incident management tooling to ensure the right people can quickly address issues without being blocked. Authentication verifies a person's identity, while authorization manages permissions and access levels.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Grandoreiro Banking Trojan is Back With Major Updates<a href="https://www.infosecurity-magazine.com/news/grandoreiro-banking-trojan-major/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Grandoreiro banking Trojan has resurfaced with major updates, including enhanced functionality and the ability to target over 1500 global banking applications and websites in more than 60 countries, making it a more potent threat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Addressing the Cybersecurity Vendor Ecosystem Disconnect<a href="https://www.darkreading.com/endpoint-security/addressing-the-cybersecurity-vendor-ecosystem-disconnect?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts highlight the need for better collaboration within the cybersecurity vendor ecosystem to help security teams defend against increasing automated, machine-generated cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kinsing Hacker Group Expands its Cryptoming Botnet Network with More Vulnerability Exploits<a href="https://thehackernews.com/2024/05/kinsing-hacker-group-exploits-more.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kinsing hacker group has demonstrated its ability to continuously evolve and adapt, quickly integrating newly disclosed vulnerabilities into its exploit arsenal to expand its cryptojacking botnet across various operating systems and platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 18, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
