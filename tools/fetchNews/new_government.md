@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Actively Exploited NextGen Mirth Connect Pre-Auth RCE Vulnerability<a href="https://www.horizon3.ai/attack-research/attack-blogs/writeup-for-cve-2023-43208-nextgen-mirth-connect-pre-auth-rce/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has required federal agencies to update to a patched version of Mirth Connect (version 4.4.1 or later) by June 10, 2024, to secure their networks against active threats.
+</details>
+<div style="text-align: right" markdown="1">
+Horizon S3
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Mystery of the Targeted Ad and the Library Patron<a href="https://www.theregister.com/2024/05/18/mystery_of_the_targeted_mobile_ads/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attorney discovered that the mobile ads she saw were reflecting her recent library audiobook borrowing habits, raising concerns about the privacy of library patron data and the potential for targeted advertising based on that information.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

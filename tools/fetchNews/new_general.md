@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+May 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Siren’ Mailing List Aims to Share Threat Intelligence for Open Source Projects<a href="https://therecord.media/openssf-siren-open-source-threat-intelligence-mailing-list?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Open Source Security Foundation (OpenSSF) announced a new email mailing list named Siren that aims to spread threat intelligence related to open-source projects. It will be publicly viewable and will only require registration to post on the list.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Telco Gear May Get Banned in Germany<a href="https://www.theregister.com/2024/05/20/huawei_germany_ban/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany is considering banning the use of Huawei and ZTE equipment in its 5G networks due to national security concerns, despite industry opposition and the potential high costs associated with the removal of the Chinese-made technology.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

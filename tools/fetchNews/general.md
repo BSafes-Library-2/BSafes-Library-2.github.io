@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+May 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Too Many ICS Assets are Exposed to the Public Internet<a href="https://www.helpnetsecurity.com/2024/05/17/organizations-expanding-attack-surface/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The enterprise attack surface is rapidly expanding due to the convergence of IT and OT systems, leading to a large number of ICS assets being exposed to the public internet and creating new vulnerabilities that security teams struggle to manage.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Addressing the Cybersecurity Vendor Ecosystem Disconnect<a href="https://www.darkreading.com/endpoint-security/addressing-the-cybersecurity-vendor-ecosystem-disconnect?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts highlight the need for better collaboration within the cybersecurity vendor ecosystem to help security teams defend against increasing automated, machine-generated cyberattacks.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

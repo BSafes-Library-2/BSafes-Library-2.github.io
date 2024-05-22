@@ -8,6 +8,48 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Duo Indicted for Laundering $73m in Pig Butchering Case<a href="https://www.infosecurity-magazine.com/news/chinese-indicted-laundering-73m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Chinese nationals have been indicted for their alleged involvement in a multimillion-dollar "pig butchering" investment fraud scheme, where they laundered over $73 million through US financial institutions and cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US SEC Approves Wall Street Data Breach Reporting Regs<a href="https://www.healthcareinfosecurity.com/us-sec-approves-wall-street-data-breach-reporting-regs-a-25268?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The SEC has approved new regulations that require broker-dealers and investment firms to notify their clients within 30 days of detecting a data breach, in an effort to modernize and enhance the protection of consumers' financial data.
+</details>
+<div style="text-align: right" markdown="1">
+Healthcare Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Judge Denies Class Certification in Blackbaud Hack Lawsuit<a href="https://www.bankinfosecurity.com/judge-denies-class-certification-in-blackbaud-hack-lawsuit-a-25248?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The judge said the plaintiffs did not show an "administratively feasible" way for the court to determine whether a particular individual is a class member without extensive and individualized fact-finding.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

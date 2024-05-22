@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+May 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kinsing Hacker Group Expands its Cryptoming Botnet Network with More Vulnerability Exploits<a href="https://thehackernews.com/2024/05/kinsing-hacker-group-exploits-more.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kinsing hacker group has demonstrated its ability to continuously evolve and adapt, quickly integrating newly disclosed vulnerabilities into its exploit arsenal to expand its cryptojacking botnet across various operating systems and platforms.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

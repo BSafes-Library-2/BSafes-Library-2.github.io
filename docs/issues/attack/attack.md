@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Void Manticore Launches Destructive Attacks on Albania and Israel<a href="https://research.checkpoint.com/2024/bad-karma-no-justice-void-manticore-destructive-activities-in-israel/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Void Manticore utilizes five different methods to conduct disruptive operations against its victims. This includes several custom wipers for both Windows and Linux, alongside manual deletion of files and shared drives.
+</details>
+<div style="text-align: right" markdown="1">
+Checkpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
