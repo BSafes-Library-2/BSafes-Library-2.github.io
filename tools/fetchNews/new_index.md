@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2024
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Siren’ Mailing List Aims to Share Threat Intelligence for Open Source Projects<a href="https://therecord.media/openssf-siren-open-source-threat-intelligence-mailing-list?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Open Source Security Foundation (OpenSSF) announced a new email mailing list named Siren that aims to spread threat intelligence related to open-source projects. It will be publicly viewable and will only require registration to post on the list.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP QTS Zero-Day in Share Feature Gets Public RCE Exploit<a href="https://www.bleepingcomputer.com/news/security/qnap-qts-zero-day-in-share-feature-gets-public-rce-exploit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An extensive security audit of QNAP QTS, the operating system for the company's NAS products, has uncovered fifteen vulnerabilities of varying severity, with eleven remaining unfixed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Void Manticore Launches Destructive Attacks on Albania and Israel<a href="https://research.checkpoint.com/2024/bad-karma-no-justice-void-manticore-destructive-activities-in-israel/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Void Manticore utilizes five different methods to conduct disruptive operations against its victims. This includes several custom wipers for both Windows and Linux, alongside manual deletion of files and shared drives.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Telco Gear May Get Banned in Germany<a href="https://www.theregister.com/2024/05/20/huawei_germany_ban/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany is considering banning the use of Huawei and ZTE equipment in its 5G networks due to national security concerns, despite industry opposition and the potential high costs associated with the removal of the Chinese-made technology.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Actively Exploited NextGen Mirth Connect Pre-Auth RCE Vulnerability<a href="https://www.horizon3.ai/attack-research/attack-blogs/writeup-for-cve-2023-43208-nextgen-mirth-connect-pre-auth-rce/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has required federal agencies to update to a patched version of Mirth Connect (version 4.4.1 or later) by June 10, 2024, to secure their networks against active threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Consumers Continue to Overestimate Their Ability to Spot Deepfakes<a href="https://www.helpnetsecurity.com/2024/05/20/consumers-online-identity-fraud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Jumio 2024 Online Identity Study reveals that while consumers are increasingly concerned about the risks posed by deepfakes and generative AI, they continue to overestimate their ability to detect these deceptions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Linguistic Lumberjack' Flaw in Logging Utility Fluent Bit Impacts Cloud Services<a href="https://www.tenable.com/blog/linguistic-lumberjack-attacking-cloud-services-via-logging-endpoints-fluent-bit-cve-2024-4323?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a critical vulnerability, dubbed "Linguistic Lumberjack," in the popular logging and metrics utility Fluent Bit that could allow for denial-of-service (DoS), information disclosure, or remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Mystery of the Targeted Ad and the Library Patron<a href="https://www.theregister.com/2024/05/18/mystery_of_the_targeted_mobile_ads/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attorney discovered that the mobile ads she saw were reflecting her recent library audiobook borrowing habits, raising concerns about the privacy of library patron data and the potential for targeted advertising based on that information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-Linked Kimsuky APT Attack Targets Victims via Messenger<a href="https://securityaffairs.com/163265/apt/north-korea-kimsuky-apt-uses-messenger.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Genians Security Center (GSC) identified the North Korea-linked Kimsuky APT group targeting victims via Facebook Messenger, using fake accounts posing as South Korean officials to deliver malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Shift Tactics to Pressure More Victims Into Paying Ransoms<a href="https://www.helpnetsecurity.com/2024/05/20/ransomware-claims-frequency-grow/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals' new tactics led to a 64% increase in ransomware claims in 2023, driven by a 415% rise in "indirect" incidents and remote access vulnerabilities, pressuring more victims to pay ransoms, according to At-Bay.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 20, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Duo Indicted for Laundering $73m in Pig Butchering Case<a href="https://www.infosecurity-magazine.com/news/chinese-indicted-laundering-73m/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Chinese Duo Indicted for Laundering $73m in Pig Butchering Case<a href="https://
 Two Chinese nationals have been indicted for their alleged involvement in a multimillion-dollar "pig butchering" investment fraud scheme, where they laundered over $73 million through US financial institutions and cryptocurrency wallets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2024
+May 20, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Too Many ICS Assets are Exposed to the Public Internet<a href="https://www.helpnetsecurity.com/2024/05/17/organizations-expanding-attack-surface/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Too Many ICS Assets are Exposed to the Public Internet<a href="https://www.helpn
 The enterprise attack surface is rapidly expanding due to the convergence of IT and OT systems, leading to a large number of ICS assets being exposed to the public internet and creating new vulnerabilities that security teams struggle to manage.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2024
+May 20, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US SEC Approves Wall Street Data Breach Reporting Regs<a href="https://www.healthcareinfosecurity.com/us-sec-approves-wall-street-data-breach-reporting-regs-a-25268?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ US SEC Approves Wall Street Data Breach Reporting Regs<a href="https://www.healt
 The SEC has approved new regulations that require broker-dealers and investment firms to notify their clients within 30 days of detecting a data breach, in an effort to modernize and enhance the protection of consumers' financial data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Healthcare Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2024
+May 20, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI Python Package Flaw ‘Llama Drama’ Threatens Software Supply Chain<a href="https://www.hackread.com/ai-python-package-flaw-llama-drama-supply-chain/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ AI Python Package Flaw ‘Llama Drama’ Threatens Software Supply Chain<a href=
 A critical vulnerability in the Jinja2 template rendering Python tool used by the llama_cpp_python package for integrating AI models can allow hackers to execute arbitrary code, putting systems and data at risk.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2024
+May 20, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Judge Denies Class Certification in Blackbaud Hack Lawsuit<a href="https://www.bankinfosecurity.com/judge-denies-class-certification-in-blackbaud-hack-lawsuit-a-25248?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Judge Denies Class Certification in Blackbaud Hack Lawsuit<a href="https://www.b
 The judge said the plaintiffs did not show an "administratively feasible" way for the court to determine whether a particular individual is a class member without extensive and individualized fact-finding.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2024
+May 20, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latrodectus Malware Loader Emerges as Potential Replacement for IcedID<a href="https://www.elastic.co/security-labs/spring-cleaning-with-latrodectus?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Latrodectus Malware Loader Emerges as Potential Replacement for IcedID<a href="h
 Researchers have observed a surge in email phishing campaigns delivering Latrodectus, a new malware loader believed to be the successor to the IcedID malware, which is capable of deploying additional payloads such as QakBot, DarkGate, and PikaBot.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Elastic
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2024
+May 20, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Importance of Access Controls in Incident Response<a href="https://www.helpnetsecurity.com/2024/05/17/incident-response-access-controls/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ The Importance of Access Controls in Incident Response<a href="https://www.helpn
 Adequate IAM policies are essential for incident management tooling to ensure the right people can quickly address issues without being blocked. Authentication verifies a person's identity, while authorization manages permissions and access levels.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2024
+May 20, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Grandoreiro Banking Trojan is Back With Major Updates<a href="https://www.infosecurity-magazine.com/news/grandoreiro-banking-trojan-major/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Grandoreiro Banking Trojan is Back With Major Updates<a href="https://www.infose
 The Grandoreiro banking Trojan has resurfaced with major updates, including enhanced functionality and the ability to target over 1500 global banking applications and websites in more than 60 countries, making it a more potent threat.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Info Security Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2024
+May 20, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Addressing the Cybersecurity Vendor Ecosystem Disconnect<a href="https://www.darkreading.com/endpoint-security/addressing-the-cybersecurity-vendor-ecosystem-disconnect?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Addressing the Cybersecurity Vendor Ecosystem Disconnect<a href="https://www.dar
 Experts highlight the need for better collaboration within the cybersecurity vendor ecosystem to help security teams defend against increasing automated, machine-generated cyberattacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 20, 2024
+May 20, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kinsing Hacker Group Expands its Cryptoming Botnet Network with More Vulnerability Exploits<a href="https://thehackernews.com/2024/05/kinsing-hacker-group-exploits-more.html?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Kinsing Hacker Group Expands its Cryptoming Botnet Network with More Vulnerabili
 The Kinsing hacker group has demonstrated its ability to continuously evolve and adapt, quickly integrating newly disclosed vulnerabilities into its exploit arsenal to expand its cryptojacking botnet across various operating systems and platforms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

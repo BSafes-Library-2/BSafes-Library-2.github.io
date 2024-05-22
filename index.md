@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ‘Siren’ Mailing List Aims to Share Threat Intelligence for Open Source Projects<a href="https://therecord.media/openssf-siren-open-source-threat-intelligence-mailing-list?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Open Source Security Foundation (OpenSSF) announced a new email mailing list named Siren that aims to spread threat intelligence related to open-source projects. It will be publicly viewable and will only require registration to post on the list.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+QNAP QTS Zero-Day in Share Feature Gets Public RCE Exploit<a href="https://www.bleepingcomputer.com/news/security/qnap-qts-zero-day-in-share-feature-gets-public-rce-exploit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An extensive security audit of QNAP QTS, the operating system for the company's NAS products, has uncovered fifteen vulnerabilities of varying severity, with eleven remaining unfixed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Void Manticore Launches Destructive Attacks on Albania and Israel<a href="https://research.checkpoint.com/2024/bad-karma-no-justice-void-manticore-destructive-activities-in-israel/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Void Manticore utilizes five different methods to conduct disruptive operations against its victims. This includes several custom wipers for both Windows and Linux, alongside manual deletion of files and shared drives.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Telco Gear May Get Banned in Germany<a href="https://www.theregister.com/2024/05/20/huawei_germany_ban/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Germany is considering banning the use of Huawei and ZTE equipment in its 5G networks due to national security concerns, despite industry opposition and the potential high costs associated with the removal of the Chinese-made technology.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Actively Exploited NextGen Mirth Connect Pre-Auth RCE Vulnerability<a href="https://www.horizon3.ai/attack-research/attack-blogs/writeup-for-cve-2023-43208-nextgen-mirth-connect-pre-auth-rce/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has required federal agencies to update to a patched version of Mirth Connect (version 4.4.1 or later) by June 10, 2024, to secure their networks against active threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Consumers Continue to Overestimate Their Ability to Spot Deepfakes<a href="https://www.helpnetsecurity.com/2024/05/20/consumers-online-identity-fraud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Jumio 2024 Online Identity Study reveals that while consumers are increasingly concerned about the risks posed by deepfakes and generative AI, they continue to overestimate their ability to detect these deceptions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Linguistic Lumberjack' Flaw in Logging Utility Fluent Bit Impacts Cloud Services<a href="https://www.tenable.com/blog/linguistic-lumberjack-attacking-cloud-services-via-logging-endpoints-fluent-bit-cve-2024-4323?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a critical vulnerability, dubbed "Linguistic Lumberjack," in the popular logging and metrics utility Fluent Bit that could allow for denial-of-service (DoS), information disclosure, or remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Mystery of the Targeted Ad and the Library Patron<a href="https://www.theregister.com/2024/05/18/mystery_of_the_targeted_mobile_ads/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attorney discovered that the mobile ads she saw were reflecting her recent library audiobook borrowing habits, raising concerns about the privacy of library patron data and the potential for targeted advertising based on that information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-Linked Kimsuky APT Attack Targets Victims via Messenger<a href="https://securityaffairs.com/163265/apt/north-korea-kimsuky-apt-uses-messenger.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Genians Security Center (GSC) identified the North Korea-linked Kimsuky APT group targeting victims via Facebook Messenger, using fake accounts posing as South Korean officials to deliver malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Shift Tactics to Pressure More Victims Into Paying Ransoms<a href="https://www.helpnetsecurity.com/2024/05/20/ransomware-claims-frequency-grow/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals' new tactics led to a 64% increase in ransomware claims in 2023, driven by a 415% rise in "indirect" incidents and remote access vulnerabilities, pressuring more victims to pay ransoms, according to At-Bay.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 20, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
