@@ -8,6 +8,20 @@ nav_order: 900041
 
 ## Deepfake
 ---
+May 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Consumers Continue to Overestimate Their Ability to Spot Deepfakes<a href="https://www.helpnetsecurity.com/2024/05/20/consumers-online-identity-fraud/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Jumio 2024 Online Identity Study reveals that while consumers are increasingly concerned about the risks posed by deepfakes and generative AI, they continue to overestimate their ability to detect these deceptions.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 March 06, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

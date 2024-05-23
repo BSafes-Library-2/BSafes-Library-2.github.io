@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Shift Tactics to Pressure More Victims Into Paying Ransoms<a href="https://www.helpnetsecurity.com/2024/05/20/ransomware-claims-frequency-grow/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals' new tactics led to a 64% increase in ransomware claims in 2023, driven by a 415% rise in "indirect" incidents and remote access vulnerabilities, pressuring more victims to pay ransoms, according to At-Bay.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

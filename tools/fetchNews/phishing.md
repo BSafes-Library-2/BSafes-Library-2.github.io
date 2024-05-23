@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-Linked Kimsuky APT Attack Targets Victims via Messenger<a href="https://securityaffairs.com/163265/apt/north-korea-kimsuky-apt-uses-messenger.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Genians Security Center (GSC) identified the North Korea-linked Kimsuky APT group targeting victims via Facebook Messenger, using fake accounts posing as South Korean officials to deliver malware.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

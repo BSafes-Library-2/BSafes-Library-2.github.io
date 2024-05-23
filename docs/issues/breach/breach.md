@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+May 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+100 Groups Urge Feds to Put UHG on Hook for Breach Notices<a href="https://www.bankinfosecurity.com/100-groups-urge-feds-to-put-uhg-on-hook-for-breach-notices-a-25285?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 100 medical associations and industry groups, representing thousands of U.S. doctors and healthcare professionals, have urged the HHS to hold Change Healthcare accountable for breach notifications following a massive February ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

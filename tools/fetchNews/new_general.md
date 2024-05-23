@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+May 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than 70% of Surveyed Water Systems Failed to Meet EPA Cyber Standards<a href="https://www.nextgov.com/cybersecurity/2024/05/more-70-surveyed-water-systems-failed-meet-epa-cyber-standards/396727/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 70% of water systems surveyed since last September failed to meet certain EPA security standards, leaving them vulnerable to cyberattacks that could disrupt wastewater and water sanitation systems nationwide, the EPA reported on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+NextGov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
