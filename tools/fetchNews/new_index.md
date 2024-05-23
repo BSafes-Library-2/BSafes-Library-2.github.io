@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2024
+May 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than 70% of Surveyed Water Systems Failed to Meet EPA Cyber Standards<a href="https://www.nextgov.com/cybersecurity/2024/05/more-70-surveyed-water-systems-failed-meet-epa-cyber-standards/396727/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 70% of water systems surveyed since last September failed to meet certain EPA security standards, leaving them vulnerable to cyberattacks that could disrupt wastewater and water sanitation systems nationwide, the EPA reported on Monday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostEngine Mining Attacks Kill EDR Security Using Vulnerable Drivers<a href="https://www.bleepingcomputer.com/news/security/ghostengine-mining-attacks-kill-edr-security-using-vulnerable-drivers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious crypto mining campaign codenamed 'REF4578,' has been discovered deploying a malicious payload named GhostEngine that uses vulnerable drivers to turn off security products and deploy an XMRig miner.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ARPA-H Pledges $50M for Hospital IT Security Auto-Patching<a href="https://www.theregister.com/2024/05/22/50m_investment_hospital_security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government's Advanced Research Projects Agency for Health (ARPA-H) has pledged more than $50 million to fund the development of technology that aims to automate the process of securing hospital IT environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breach Forums Plans Dark Web Return This Week Despite FBI Crackdown<a href="https://www.hackread.com/breach-forums-plan-dark-web-return-fbi-crackdown/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShinyHunters disclosed to Hackread.com their suspicion that Baphomet may have surrendered backend credentials to the FBI, leading to the complete seizure of the forum’s Escrow, both dark web and clearnet domains.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snapchat Revises AI Privacy Policy Following UK ICO Probe<a href="https://www.healthcareinfosecurity.com/snapchat-revises-ai-privacy-policy-following-uk-ico-probe-a-25288?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instant messaging app Snapchat its artificial intelligence-powered tool under compliance after the U.K. data regulator said it violated the privacy rights of individual Snapchat users.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Set of Bugs Puts Software Company and IoT Device Makers Into Motion<a href="https://therecord.media/throughtek-kalay-software-vulnerabilities-roku-wyze-owlet?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers and Internet of Things (IoT) technology companies say they worked together to eliminate four software vulnerabilities that could have given malicious hackers deep access to networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authelia: Open-Source Authentication and Authorization Server<a href="https://www.helpnetsecurity.com/2024/05/22/authelia-open-source-authentication-authorization-server/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Authelia is an open-source authentication and authorization server that offers 2FA and SSO for applications through a web portal. It works alongside reverse proxies to permit, deny, or redirect requests.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploring the Depths of SolarMarker's Multi-tiered Infrastructure<a href="https://www.recordedfuture.com/exploring-the-depths-of-solarmarkers-multi-tiered-infrastructure?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The core of SolarMarker’s operations is its layered infrastructure, which consists of at least two clusters: a primary one for active operations and a secondary one likely used for testing new strategies or targeting specific regions or industries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+100 Groups Urge Feds to Put UHG on Hook for Breach Notices<a href="https://www.bankinfosecurity.com/100-groups-urge-feds-to-put-uhg-on-hook-for-breach-notices-a-25285?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 100 medical associations and industry groups, representing thousands of U.S. doctors and healthcare professionals, have urged the HHS to hold Change Healthcare accountable for breach notifications following a massive February ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veeam Warns of Critical Backup Enterprise Manager Auth Bypass Bug<a href="https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-backup-enterprise-manager-auth-bypass-bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+?Veeam warned customers today to patch a critical security vulnerability that allows unauthenticated attackers to sign into any account via the Veeam Backup Enterprise Manager (VBEM).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 21, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ‘Siren’ Mailing List Aims to Share Threat Intelligence for Open Source Projects<a href="https://therecord.media/openssf-siren-open-source-threat-intelligence-mailing-list?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ New ‘Siren’ Mailing List Aims to Share Threat Intelligence for Open Source P
 The Open Source Security Foundation (OpenSSF) announced a new email mailing list named Siren that aims to spread threat intelligence related to open-source projects. It will be publicly viewable and will only require registration to post on the list.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2024
+May 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 QNAP QTS Zero-Day in Share Feature Gets Public RCE Exploit<a href="https://www.bleepingcomputer.com/news/security/qnap-qts-zero-day-in-share-feature-gets-public-rce-exploit/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ QNAP QTS Zero-Day in Share Feature Gets Public RCE Exploit<a href="https://www.b
 An extensive security audit of QNAP QTS, the operating system for the company's NAS products, has uncovered fifteen vulnerabilities of varying severity, with eleven remaining unfixed.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2024
+May 21, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Void Manticore Launches Destructive Attacks on Albania and Israel<a href="https://research.checkpoint.com/2024/bad-karma-no-justice-void-manticore-destructive-activities-in-israel/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Void Manticore Launches Destructive Attacks on Albania and Israel<a href="https:
 Void Manticore utilizes five different methods to conduct disruptive operations against its victims. This includes several custom wipers for both Windows and Linux, alongside manual deletion of files and shared drives.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Checkpoint
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2024
+May 21, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Telco Gear May Get Banned in Germany<a href="https://www.theregister.com/2024/05/20/huawei_germany_ban/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Chinese Telco Gear May Get Banned in Germany<a href="https://www.theregister.com
 Germany is considering banning the use of Huawei and ZTE equipment in its 5G networks due to national security concerns, despite industry opposition and the potential high costs associated with the removal of the Chinese-made technology.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2024
+May 21, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Actively Exploited NextGen Mirth Connect Pre-Auth RCE Vulnerability<a href="https://www.horizon3.ai/attack-research/attack-blogs/writeup-for-cve-2023-43208-nextgen-mirth-connect-pre-auth-rce/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ CISA Warns of Actively Exploited NextGen Mirth Connect Pre-Auth RCE Vulnerabilit
 The CISA has required federal agencies to update to a patched version of Mirth Connect (version 4.4.1 or later) by June 10, 2024, to secure their networks against active threats.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Horizon S3
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2024
+May 21, 2024 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Consumers Continue to Overestimate Their Ability to Spot Deepfakes<a href="https://www.helpnetsecurity.com/2024/05/20/consumers-online-identity-fraud/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Consumers Continue to Overestimate Their Ability to Spot Deepfakes<a href="https
 The Jumio 2024 Online Identity Study reveals that while consumers are increasingly concerned about the risks posed by deepfakes and generative AI, they continue to overestimate their ability to detect these deceptions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2024
+May 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Linguistic Lumberjack' Flaw in Logging Utility Fluent Bit Impacts Cloud Services<a href="https://www.tenable.com/blog/linguistic-lumberjack-attacking-cloud-services-via-logging-endpoints-fluent-bit-cve-2024-4323?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ May 21, 2024
 Cybersecurity researchers have discovered a critical vulnerability, dubbed "Linguistic Lumberjack," in the popular logging and metrics utility Fluent Bit that could allow for denial-of-service (DoS), information disclosure, or remote code execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tenable
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2024
+May 21, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Mystery of the Targeted Ad and the Library Patron<a href="https://www.theregister.com/2024/05/18/mystery_of_the_targeted_mobile_ads/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ The Mystery of the Targeted Ad and the Library Patron<a href="https://www.thereg
 An attorney discovered that the mobile ads she saw were reflecting her recent library audiobook borrowing habits, raising concerns about the privacy of library patron data and the potential for targeted advertising based on that information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2024
+May 21, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korea-Linked Kimsuky APT Attack Targets Victims via Messenger<a href="https://securityaffairs.com/163265/apt/north-korea-kimsuky-apt-uses-messenger.html?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ North Korea-Linked Kimsuky APT Attack Targets Victims via Messenger<a href="http
 Researchers at Genians Security Center (GSC) identified the North Korea-linked Kimsuky APT group targeting victims via Facebook Messenger, using fake accounts posing as South Korean officials to deliver malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 21, 2024
+May 21, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Shift Tactics to Pressure More Victims Into Paying Ransoms<a href="https://www.helpnetsecurity.com/2024/05/20/ransomware-claims-frequency-grow/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Cybercriminals Shift Tactics to Pressure More Victims Into Paying Ransoms<a href
 Cybercriminals' new tactics led to a 64% increase in ransomware claims in 2023, driven by a 415% rise in "indirect" incidents and remote access vulnerabilities, pressuring more victims to pay ransoms, according to At-Bay.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
