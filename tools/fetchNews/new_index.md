@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2024
+May 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Telecom Watchdog Sues Optus Over 2022 Data Breach<a href="https://www.bankinfosecurity.com/australian-telecom-watchdog-sues-optus-over-2022-data-breach-a-25321?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Australian Communications and Media Authority said it has filed proceedings against Optus in a federal court as the company failed to protect sensitive customer data during a data breach in September 2022 that affected close to 10 million people.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NVD Leaves Exploited Vulnerabilities Unchecked<a href="https://www.infosecurity-magazine.com/news/nvd-exploited-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the report published on May 23, VulnCheck showed that 30 out of 59 known exploited vulnerabilities (KEVs) registered since February 12 have not yet been analyzed by the NVD team.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious PyPI Packages Targeting Highly Specific MacOS Machines<a href="https://securitylabs.datadoghq.com/articles/malicious-pypi-package-targeting-highly-specific-macos-machines/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers at Datadog Security Labs discovered malicious software packages targeting MacOS users through the Python Package Index (PyPI) and NPM repository.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Worried About Job Security, Cyber Teams Hide Security Incidents<a href="https://www.helpnetsecurity.com/2024/05/24/cyber-teams-major-challenges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The frequency and severity of attacks are increasing—yet most businesses remain unprepared, according to VikingCloud. Between a growing talent shortage, alert fatigue, and new sophisticated attack methods, companies are more susceptible than ever.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Phish Finance Organizations in the US and Europe Using Trojanized Minesweeper Clone<a href="https://www.bleepingcomputer.com/news/security/hackers-phish-finance-orgs-using-trojanized-minesweeper-clone/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CERT-UA reports that research following the initial discovery of this attack revealed at least five potential breaches by the same files in financial and insurance institutions across Europe and the United States.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Seizing Control of the Cloud Security Cockpit<a href="https://www.darkreading.com/cloud-security/seizing-control-cloud-security-configuration-cockpit?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloud applications and SaaS tools have countless configuration options that are often poorly documented and can change frequently, making it difficult to ensure they are securely configured.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Antivirus Websites Used to Distribute Info-Stealer Malware<a href="https://securityaffairs.com/163673/cyber-crime/fake-av-websites-distribute-malware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Trellix Advanced Research Center spotted fake AV sites used to distribute info-stealers. The malicious websites hosted sophisticated malicious files such as APK, EXE, and Inno setup installer, including spying and stealer capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EU Wants Universities to Work with Intelligence Agencies to Protect Their Research<a href="https://therecord.media/eu-research-universities-intelligence-agencies-foreign-espionage?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europe’s leading research universities should work more closely with the continent’s intelligence agencies to help secure their research from being stolen by hostile states, EU member states recommended this week.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arc Browser’s Windows Launch Targeted by Google Ads Malvertising<a href="https://www.bleepingcomputer.com/news/security/arc-browsers-windows-launch-targeted-by-google-ads-malvertising/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Malwarebytes, cybercriminals prepared for the product launch, setting up malicious advertisements on Google Search to lure users looking to download the new web browser.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fail2Ban: Ban hosts that cause multiple authentication errors<a href="https://www.helpnetsecurity.com/2024/05/24/fail2ban-ban-hosts-authentication-errors/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fail2Ban is an open-source tool that monitors log files and blocks IP addresses that exhibit repeated failed login attempts. It does this by updating firewall rules to reject new connections from those IP addresses for a configurable amount of time.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Exploit Cloud Storage for SMS Phishing Scams<a href="https://www.infosecurity-magazine.com/news/cloud-storage-exploited-sms/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Cybercriminals Exploit Cloud Storage for SMS Phishing Scams<a href="https://www.
 Security researchers have revealed a series of criminal campaigns that exploit cloud storage services such as Amazon S3, Google Cloud Storage, Backblaze B2 and IBM Cloud Object Storage.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2024
+May 25, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA Issues Guidance for Maturing Application, Workload Capabilities Under Zero Trust; Dave Luber Quoted<a href="https://executivegov.com/2024/05/nsa-issues-guidance-for-maturing-application-workload-capabilities-under-zero-trust-dave-luber-quoted/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ NSA Issues Guidance for Maturing Application, Workload Capabilities Under Zero T
 “This guidance helps organizations disrupt malicious cyber activity by applying granular access control and visibility to applications and workloads in modern network environments,” said Dave Luber, director of cybersecurity at NSA.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ExecutiveGov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2024
+May 25, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Beware of HTML Masquerading as PDF Viewer Login Pages<a href="https://www.forcepoint.com/blog/x-labs/html-phishing-pdf-viewer-login-apac?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Beware of HTML Masquerading as PDF Viewer Login Pages<a href="https://www.forcep
 Forcepoint X-Labs has recently observed a significant number of phishing email instances in their telemetry targeting various government departments in APAC that masquerade as PDF viewer login pages.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Forcepoint
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 25, 2024
+May 25, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sharp Dragon Expands Towards Africa and The Caribbean<a href="https://research.checkpoint.com/2024/sharp-dragon-expands-towards-africa-and-the-caribbean/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Sharp Dragon Expands Towards Africa and The Caribbean<a href="https://research.c
 The threat actors demonstrate increased caution in selecting their targets, broadening their reconnaissance efforts, and adopting Cobalt Strike Beacon over custom backdoors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Checkpoint
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2024
+May 24, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISOs Pursuing AI Readiness Should Start by Updating Their Email Security Policy<a href="https://www.helpnetsecurity.com/2024/05/23/cisos-ai-readiness-policies-update/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ CISOs Pursuing AI Readiness Should Start by Updating Their Email Security Policy
 Effective, updated policies are foundational to an organization's cybersecurity strategy in this new era of AI-driven attacks. CISOs must proactively adapt their email security approach to protect against the latest social engineering threats.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2024
+May 24, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BloodAlchemy Malware Used to Target Government Agencies in Southern and Southeastern Asia<a href="https://blog-en.itochuci.co.jp/entry/2024/05/23/090000?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ BloodAlchemy Malware Used to Target Government Agencies in Southern and Southeas
 BLOODALCHEMY is an updated version of Deed RAT, which is believed to be a successor to ShadowPad malware. It has been used in attacks targeting government organizations in Southern and Southeastern Asia.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Itochuci
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2024
+May 24, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Morocco-based Cybercriminals Cashing in on Bold Gift Card Scams<a href="https://therecord.media/morocco-cybercriminals-cashing-in-gift-cards?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Morocco-based Cybercriminals Cashing in on Bold Gift Card Scams<a href="https://
 “Rather than scam or phish everyday people directly for gift card-based payments, Storm-0539 infiltrates large retailers and fraudulently issues gift card codes to themselves, virtually printing their own money,” Microsoft’s Vasu Jakkal explained.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2024
+May 24, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bugcrowd Buys Informer to Enhance Attack Surface Management<a href="https://www.bankinfosecurity.com/bugcrowd-buys-informer-to-enhance-attack-surface-management-a-25314?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Bugcrowd Buys Informer to Enhance Attack Surface Management<a href="https://www.
 Bugcrowd CEO Dave Gerry said their acquisition of Brighton, England-based Informer will fuel the adoption of Bugcrowd's penetration testing technology and prompt clients to expand the scope of their bug bounty programs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2024
+May 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three-Year-Old Apache Flink Flaw Now Under Active Attack<a href="https://www.theregister.com/2024/05/24/apache_flink_flaw_cisa/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Three-Year-Old Apache Flink Flaw Now Under Active Attack<a href="https://www.the
 An improper access control bug in Apache Flink that was fixed in January 2021 has been added to the US government's Known Exploited Vulnerabilities Catalog, meaning criminals are right now abusing the flaw in the wild to compromise targets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 24, 2024
+May 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 High-Severity GitLab Flaw Lets Attackers Take Over Accounts<a href="https://www.bleepingcomputer.com/news/security/high-severity-gitlab-flaw-lets-attackers-take-over-accounts/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ High-Severity GitLab Flaw Lets Attackers Take Over Accounts<a href="https://www.
 The security flaw (tracked as CVE-2024-4835) is an XSS weakness in the VS code editor (Web IDE) that lets threat actors steal restricted information using maliciously crafted pages.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
