@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2024
+May 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploit Cloud Storage for SMS Phishing Scams<a href="https://www.infosecurity-magazine.com/news/cloud-storage-exploited-sms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have revealed a series of criminal campaigns that exploit cloud storage services such as Amazon S3, Google Cloud Storage, Backblaze B2 and IBM Cloud Object Storage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Issues Guidance for Maturing Application, Workload Capabilities Under Zero Trust; Dave Luber Quoted<a href="https://executivegov.com/2024/05/nsa-issues-guidance-for-maturing-application-workload-capabilities-under-zero-trust-dave-luber-quoted/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“This guidance helps organizations disrupt malicious cyber activity by applying granular access control and visibility to applications and workloads in modern network environments,” said Dave Luber, director of cybersecurity at NSA.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of HTML Masquerading as PDF Viewer Login Pages<a href="https://www.forcepoint.com/blog/x-labs/html-phishing-pdf-viewer-login-apac?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forcepoint X-Labs has recently observed a significant number of phishing email instances in their telemetry targeting various government departments in APAC that masquerade as PDF viewer login pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sharp Dragon Expands Towards Africa and The Caribbean<a href="https://research.checkpoint.com/2024/sharp-dragon-expands-towards-africa-and-the-caribbean/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors demonstrate increased caution in selecting their targets, broadening their reconnaissance efforts, and adopting Cobalt Strike Beacon over custom backdoors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs Pursuing AI Readiness Should Start by Updating Their Email Security Policy<a href="https://www.helpnetsecurity.com/2024/05/23/cisos-ai-readiness-policies-update/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Effective, updated policies are foundational to an organization's cybersecurity strategy in this new era of AI-driven attacks. CISOs must proactively adapt their email security approach to protect against the latest social engineering threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BloodAlchemy Malware Used to Target Government Agencies in Southern and Southeastern Asia<a href="https://blog-en.itochuci.co.jp/entry/2024/05/23/090000?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BLOODALCHEMY is an updated version of Deed RAT, which is believed to be a successor to ShadowPad malware. It has been used in attacks targeting government organizations in Southern and Southeastern Asia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Morocco-based Cybercriminals Cashing in on Bold Gift Card Scams<a href="https://therecord.media/morocco-cybercriminals-cashing-in-gift-cards?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Rather than scam or phish everyday people directly for gift card-based payments, Storm-0539 infiltrates large retailers and fraudulently issues gift card codes to themselves, virtually printing their own money,” Microsoft’s Vasu Jakkal explained.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugcrowd Buys Informer to Enhance Attack Surface Management<a href="https://www.bankinfosecurity.com/bugcrowd-buys-informer-to-enhance-attack-surface-management-a-25314?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bugcrowd CEO Dave Gerry said their acquisition of Brighton, England-based Informer will fuel the adoption of Bugcrowd's penetration testing technology and prompt clients to expand the scope of their bug bounty programs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three-Year-Old Apache Flink Flaw Now Under Active Attack<a href="https://www.theregister.com/2024/05/24/apache_flink_flaw_cisa/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An improper access control bug in Apache Flink that was fixed in January 2021 has been added to the US government's Known Exploited Vulnerabilities Catalog, meaning criminals are right now abusing the flaw in the wild to compromise targets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity GitLab Flaw Lets Attackers Take Over Accounts<a href="https://www.bleepingcomputer.com/news/security/high-severity-gitlab-flaw-lets-attackers-take-over-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security flaw (tracked as CVE-2024-4835) is an XSS weakness in the VS code editor (Web IDE) that lets threat actors steal restricted information using maliciously crafted pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 22, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Than 70% of Surveyed Water Systems Failed to Meet EPA Cyber Standards<a href="https://www.nextgov.com/cybersecurity/2024/05/more-70-surveyed-water-systems-failed-meet-epa-cyber-standards/396727/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ More Than 70% of Surveyed Water Systems Failed to Meet EPA Cyber Standards<a hre
 Over 70% of water systems surveyed since last September failed to meet certain EPA security standards, leaving them vulnerable to cyberattacks that could disrupt wastewater and water sanitation systems nationwide, the EPA reported on Monday.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NextGov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2024
+May 22, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GhostEngine Mining Attacks Kill EDR Security Using Vulnerable Drivers<a href="https://www.bleepingcomputer.com/news/security/ghostengine-mining-attacks-kill-edr-security-using-vulnerable-drivers/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ GhostEngine Mining Attacks Kill EDR Security Using Vulnerable Drivers<a href="ht
 A malicious crypto mining campaign codenamed 'REF4578,' has been discovered deploying a malicious payload named GhostEngine that uses vulnerable drivers to turn off security products and deploy an XMRig miner.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2024
+May 22, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ARPA-H Pledges $50M for Hospital IT Security Auto-Patching<a href="https://www.theregister.com/2024/05/22/50m_investment_hospital_security/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ ARPA-H Pledges $50M for Hospital IT Security Auto-Patching<a href="https://www.t
 The US government's Advanced Research Projects Agency for Health (ARPA-H) has pledged more than $50 million to fund the development of technology that aims to automate the process of securing hospital IT environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2024
+May 22, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Breach Forums Plans Dark Web Return This Week Despite FBI Crackdown<a href="https://www.hackread.com/breach-forums-plan-dark-web-return-fbi-crackdown/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Breach Forums Plans Dark Web Return This Week Despite FBI Crackdown<a href="http
 ShinyHunters disclosed to Hackread.com their suspicion that Baphomet may have surrendered backend credentials to the FBI, leading to the complete seizure of the forum’s Escrow, both dark web and clearnet domains.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2024
+May 22, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Snapchat Revises AI Privacy Policy Following UK ICO Probe<a href="https://www.healthcareinfosecurity.com/snapchat-revises-ai-privacy-policy-following-uk-ico-probe-a-25288?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Snapchat Revises AI Privacy Policy Following UK ICO Probe<a href="https://www.he
 Instant messaging app Snapchat its artificial intelligence-powered tool under compliance after the U.K. data regulator said it violated the privacy rights of individual Snapchat users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Healthcare Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2024
+May 22, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Set of Bugs Puts Software Company and IoT Device Makers Into Motion<a href="https://therecord.media/throughtek-kalay-software-vulnerabilities-roku-wyze-owlet?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Set of Bugs Puts Software Company and IoT Device Makers Into Motion<a href="http
 Cybersecurity researchers and Internet of Things (IoT) technology companies say they worked together to eliminate four software vulnerabilities that could have given malicious hackers deep access to networks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2024
+May 22, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authelia: Open-Source Authentication and Authorization Server<a href="https://www.helpnetsecurity.com/2024/05/22/authelia-open-source-authentication-authorization-server/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Authelia: Open-Source Authentication and Authorization Server<a href="https://ww
 Authelia is an open-source authentication and authorization server that offers 2FA and SSO for applications through a web portal. It works alongside reverse proxies to permit, deny, or redirect requests.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2024
+May 22, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploring the Depths of SolarMarker's Multi-tiered Infrastructure<a href="https://www.recordedfuture.com/exploring-the-depths-of-solarmarkers-multi-tiered-infrastructure?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Exploring the Depths of SolarMarker's Multi-tiered Infrastructure<a href="https:
 The core of SolarMarker’s operations is its layered infrastructure, which consists of at least two clusters: a primary one for active operations and a secondary one likely used for testing new strategies or targeting specific regions or industries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Recorded Future
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2024
+May 22, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 100 Groups Urge Feds to Put UHG on Hook for Breach Notices<a href="https://www.bankinfosecurity.com/100-groups-urge-feds-to-put-uhg-on-hook-for-breach-notices-a-25285?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ May 22, 2024
 Over 100 medical associations and industry groups, representing thousands of U.S. doctors and healthcare professionals, have urged the HHS to hold Change Healthcare accountable for breach notifications following a massive February ransomware attack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 22, 2024
+May 22, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Veeam Warns of Critical Backup Enterprise Manager Auth Bypass Bug<a href="https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-backup-enterprise-manager-auth-bypass-bug/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Veeam Warns of Critical Backup Enterprise Manager Auth Bypass Bug<a href="https:
 ?Veeam warned customers today to patch a critical security vulnerability that allows unauthenticated attackers to sign into any account via the Veeam Backup Enterprise Manager (VBEM).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

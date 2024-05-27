@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploit Cloud Storage for SMS Phishing Scams<a href="https://www.infosecurity-magazine.com/news/cloud-storage-exploited-sms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have revealed a series of criminal campaigns that exploit cloud storage services such as Amazon S3, Google Cloud Storage, Backblaze B2 and IBM Cloud Object Storage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Issues Guidance for Maturing Application, Workload Capabilities Under Zero Trust; Dave Luber Quoted<a href="https://executivegov.com/2024/05/nsa-issues-guidance-for-maturing-application-workload-capabilities-under-zero-trust-dave-luber-quoted/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“This guidance helps organizations disrupt malicious cyber activity by applying granular access control and visibility to applications and workloads in modern network environments,” said Dave Luber, director of cybersecurity at NSA.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of HTML Masquerading as PDF Viewer Login Pages<a href="https://www.forcepoint.com/blog/x-labs/html-phishing-pdf-viewer-login-apac?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forcepoint X-Labs has recently observed a significant number of phishing email instances in their telemetry targeting various government departments in APAC that masquerade as PDF viewer login pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sharp Dragon Expands Towards Africa and The Caribbean<a href="https://research.checkpoint.com/2024/sharp-dragon-expands-towards-africa-and-the-caribbean/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors demonstrate increased caution in selecting their targets, broadening their reconnaissance efforts, and adopting Cobalt Strike Beacon over custom backdoors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs Pursuing AI Readiness Should Start by Updating Their Email Security Policy<a href="https://www.helpnetsecurity.com/2024/05/23/cisos-ai-readiness-policies-update/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Effective, updated policies are foundational to an organization's cybersecurity strategy in this new era of AI-driven attacks. CISOs must proactively adapt their email security approach to protect against the latest social engineering threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BloodAlchemy Malware Used to Target Government Agencies in Southern and Southeastern Asia<a href="https://blog-en.itochuci.co.jp/entry/2024/05/23/090000?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BLOODALCHEMY is an updated version of Deed RAT, which is believed to be a successor to ShadowPad malware. It has been used in attacks targeting government organizations in Southern and Southeastern Asia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Morocco-based Cybercriminals Cashing in on Bold Gift Card Scams<a href="https://therecord.media/morocco-cybercriminals-cashing-in-gift-cards?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Rather than scam or phish everyday people directly for gift card-based payments, Storm-0539 infiltrates large retailers and fraudulently issues gift card codes to themselves, virtually printing their own money,” Microsoft’s Vasu Jakkal explained.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugcrowd Buys Informer to Enhance Attack Surface Management<a href="https://www.bankinfosecurity.com/bugcrowd-buys-informer-to-enhance-attack-surface-management-a-25314?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bugcrowd CEO Dave Gerry said their acquisition of Brighton, England-based Informer will fuel the adoption of Bugcrowd's penetration testing technology and prompt clients to expand the scope of their bug bounty programs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three-Year-Old Apache Flink Flaw Now Under Active Attack<a href="https://www.theregister.com/2024/05/24/apache_flink_flaw_cisa/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An improper access control bug in Apache Flink that was fixed in January 2021 has been added to the US government's Known Exploited Vulnerabilities Catalog, meaning criminals are right now abusing the flaw in the wild to compromise targets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Severity GitLab Flaw Lets Attackers Take Over Accounts<a href="https://www.bleepingcomputer.com/news/security/high-severity-gitlab-flaw-lets-attackers-take-over-accounts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The security flaw (tracked as CVE-2024-4835) is an XSS weakness in the VS code editor (Web IDE) that lets threat actors steal restricted information using maliciously crafted pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 22, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
