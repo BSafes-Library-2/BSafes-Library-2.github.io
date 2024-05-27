@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ARPA-H Pledges $50M for Hospital IT Security Auto-Patching<a href="https://www.theregister.com/2024/05/22/50m_investment_hospital_security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US government's Advanced Research Projects Agency for Health (ARPA-H) has pledged more than $50 million to fund the development of technology that aims to automate the process of securing hospital IT environments.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

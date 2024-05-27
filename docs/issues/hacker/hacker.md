@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+May 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sharp Dragon Expands Towards Africa and The Caribbean<a href="https://research.checkpoint.com/2024/sharp-dragon-expands-towards-africa-and-the-caribbean/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors demonstrate increased caution in selecting their targets, broadening their reconnaissance efforts, and adopting Cobalt Strike Beacon over custom backdoors.
+</details>
+<div style="text-align: right" markdown="1">
+Checkpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 8, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

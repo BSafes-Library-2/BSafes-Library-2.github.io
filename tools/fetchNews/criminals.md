@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Breach Forums Plans Dark Web Return This Week Despite FBI Crackdown<a href="https://www.hackread.com/breach-forums-plan-dark-web-return-fbi-crackdown/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShinyHunters disclosed to Hackread.com their suspicion that Baphomet may have surrendered backend credentials to the FBI, leading to the complete seizure of the forum’s Escrow, both dark web and clearnet domains.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

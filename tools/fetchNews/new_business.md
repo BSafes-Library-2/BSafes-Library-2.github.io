@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bugcrowd Buys Informer to Enhance Attack Surface Management<a href="https://www.bankinfosecurity.com/bugcrowd-buys-informer-to-enhance-attack-surface-management-a-25314?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bugcrowd CEO Dave Gerry said their acquisition of Brighton, England-based Informer will fuel the adoption of Bugcrowd's penetration testing technology and prompt clients to expand the scope of their bug bounty programs.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

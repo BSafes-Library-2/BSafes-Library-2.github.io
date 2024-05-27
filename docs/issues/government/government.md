@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+May 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Issues Guidance for Maturing Application, Workload Capabilities Under Zero Trust; Dave Luber Quoted<a href="https://executivegov.com/2024/05/nsa-issues-guidance-for-maturing-application-workload-capabilities-under-zero-trust-dave-luber-quoted/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“This guidance helps organizations disrupt malicious cyber activity by applying granular access control and visibility to applications and workloads in modern network environments,” said Dave Luber, director of cybersecurity at NSA.
+</details>
+<div style="text-align: right" markdown="1">
+ExecutiveGov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+May 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snapchat Revises AI Privacy Policy Following UK ICO Probe<a href="https://www.healthcareinfosecurity.com/snapchat-revises-ai-privacy-policy-following-uk-ico-probe-a-25288?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Instant messaging app Snapchat its artificial intelligence-powered tool under compliance after the U.K. data regulator said it violated the privacy rights of individual Snapchat users.
+</details>
+<div style="text-align: right" markdown="1">
+Healthcare Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

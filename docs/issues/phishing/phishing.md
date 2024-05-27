@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Exploit Cloud Storage for SMS Phishing Scams<a href="https://www.infosecurity-magazine.com/news/cloud-storage-exploited-sms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have revealed a series of criminal campaigns that exploit cloud storage services such as Amazon S3, Google Cloud Storage, Backblaze B2 and IBM Cloud Object Storage.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Beware of HTML Masquerading as PDF Viewer Login Pages<a href="https://www.forcepoint.com/blog/x-labs/html-phishing-pdf-viewer-login-apac?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Forcepoint X-Labs has recently observed a significant number of phishing email instances in their telemetry targeting various government departments in APAC that masquerade as PDF viewer login pages.
+</details>
+<div style="text-align: right" markdown="1">
+Forcepoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

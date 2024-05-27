@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+May 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GhostEngine Mining Attacks Kill EDR Security Using Vulnerable Drivers<a href="https://www.bleepingcomputer.com/news/security/ghostengine-mining-attacks-kill-edr-security-using-vulnerable-drivers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious crypto mining campaign codenamed 'REF4578,' has been discovered deploying a malicious payload named GhostEngine that uses vulnerable drivers to turn off security products and deploy an XMRig miner.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 23, 2024 - NSA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Issues Guidance for Maturing Application, Workload Capabilities Under Zero Trust; Dave Luber Quoted <a href="https://executivegov.com/2024/05/nsa-issues-guidance-for-maturing-application-workload-capabilities-under-zero-trust-dave-luber-quoted/?web_view=true"> Full Text</a>
+</p>
+<details>
+In the current digital landscape where malware and emerging online threats continue to evolve and become more sophisticated, it is imperative that organizations prioritize cybersecurity as essential to their operations. Information Technology (IT) professionals are keenly aware of the security challenges facing applications, but workloads are every bit as important to consider in this domain. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 15, 2024 - NHS, England 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
