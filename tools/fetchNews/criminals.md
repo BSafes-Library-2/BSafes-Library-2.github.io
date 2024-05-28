@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Morocco-based Cybercriminals Cashing in on Bold Gift Card Scams<a href="https://therecord.media/morocco-cybercriminals-cashing-in-gift-cards?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“Rather than scam or phish everyday people directly for gift card-based payments, Storm-0539 infiltrates large retailers and fraudulently issues gift card codes to themselves, virtually printing their own money,” Microsoft’s Vasu Jakkal explained.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

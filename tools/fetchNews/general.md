@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+May 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISOs Pursuing AI Readiness Should Start by Updating Their Email Security Policy<a href="https://www.helpnetsecurity.com/2024/05/23/cisos-ai-readiness-policies-update/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Effective, updated policies are foundational to an organization's cybersecurity strategy in this new era of AI-driven attacks. CISOs must proactively adapt their email security approach to protect against the latest social engineering threats.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
