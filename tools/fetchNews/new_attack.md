@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+May 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA Warns of Malware Campaign Conducted by Threat Actor UAC-0006<a href="https://securityaffairs.com/163711/cyber-warfare-2/cert-ua-warns-uac-0006-massive-campaigns.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SmokeLoader acts as a loader for other malware, once it is executed it will inject malicious code into the currently running explorer process (explorer.exe) and download another payload to the system.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Threat Actors Created Rogue VMs to Evade Detection During December 2023 Attack on MITRE<a href="https://securityaffairs.com/163658/apt/mitre-december-2023-attack-rogue-vms.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the new update, threat actors exploited zero-day flaws in Ivanti Connect Secure (ICS) and created rogue virtual machines (VMs) within the organization’s VMware environment.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

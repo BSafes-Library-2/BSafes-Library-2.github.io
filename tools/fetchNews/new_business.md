@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+May 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transcend Gets $40M to Advance Privacy Tech for Enterprises<a href="https://www.govinfosecurity.com/transcend-gets-40m-to-advance-privacy-tech-for-enterprises-a-25345?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Transcend said the $40 million investment will encode privacy controls directly into business systems and address the full personal data privacy life cycle from discovery and classification to responding to data deletion and access requests.
+</details>
+<div style="text-align: right" markdown="1">
+Gov Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

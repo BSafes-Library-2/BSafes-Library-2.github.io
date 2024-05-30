@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2024
+May 29, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Watchdog calls out EPA for continued cybersecurity concerns<a href="https://www.nextgov.com/cybersecurity/2024/05/watchdog-calls-out-epa-continued-cybersecurity-concerns/396926/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Watchdog calls out EPA for continued cybersecurity concerns<a href="https://www.
 In its annual report on open priority recommendations for the agency, the GAO called out the EPA for failing to outline a procedure for assessing vulnerabilities across its operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NextGov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2024
+May 29, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Nationals Sanctioned for Botnet Used to Steal ‘Billions’ in COVID-19 Relief Funds<a href="https://therecord.media/us-sanctions-chinese-botnet-proxy?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Chinese Nationals Sanctioned for Botnet Used to Steal ‘Billions’ in COVID-19
 According to the Treasury, the botnet was especially useful “when carrying out credit card theft” and was used to facilitate tens of thousands of fraudulent applications related to COVID-19 relief funding.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2024
+May 29, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Transcend Gets $40M to Advance Privacy Tech for Enterprises<a href="https://www.govinfosecurity.com/transcend-gets-40m-to-advance-privacy-tech-for-enterprises-a-25345?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Transcend Gets $40M to Advance Privacy Tech for Enterprises<a href="https://www.
 Transcend said the $40 million investment will encode privacy controls directly into business systems and address the full personal data privacy life cycle from discovery and classification to responding to data deletion and access requests.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Gov Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2024
+May 29, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Evolution of Security Metrics for NIST CSF 2.0<a href="https://www.helpnetsecurity.com/2024/05/28/cisos-security-metrics-nist-csf-2-0/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ The Evolution of Security Metrics for NIST CSF 2.0<a href="https://www.helpnetse
 Combining effective use of metrics plus a deeper understanding of how security processes play out is the best way to build more security agility and enable teams to react more quickly and effectively.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2024
+May 29, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ATM Malware Family Emerged in the Threat Landscape<a href="https://securityaffairs.com/163732/malware/eu-atm-malware.html?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ New ATM Malware Family Emerged in the Threat Landscape<a href="https://securitya
 “The developers of this malware claim that it can generate up to $30,000 per ATM, making it a lucrative tool for cybercriminals,” reported the website DailyDarkweb. “The malware is fully automated, simplifying its deployment and operation.”
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2024
+May 29, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CVE Exploitation Nearly Tripled in 2023, Verizon Finds<a href="https://www.cybersecuritydive.com/news/cve-exploitation-tripled-2023-verizon/714848/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ CVE Exploitation Nearly Tripled in 2023, Verizon Finds<a href="https://www.cyber
 The exploitation of vulnerabilities almost tripled as an initial access vector in 2023, fueled in part by the MOVEit breach, Verizon said in its Data Breach Investigations Report released Wednesday.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2024
+May 29, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 34% of Organizations Lack Cloud Cybersecurity Skills<a href="https://www.helpnetsecurity.com/2024/05/28/cloud-visibility-challenges/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Report: 34% of Organizations Lack Cloud Cybersecurity Skills<a href="https://www
 Incident response today is too time consuming and manual, leaving organizations vulnerable to damage due to their inability to efficiently investigate and respond to identified threats, according to Cado Security.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2024
+May 29, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CatDDoS Botnet Exploits Over 80 Known Security Flaws to Execute DDoS Attacks<a href="https://blog.xlab.qianxin.com/catddos-derivative-en/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ CatDDoS Botnet Exploits Over 80 Known Security Flaws to Execute DDoS Attacks<a h
 CatDDoS uses the ChaCha20 algorithm to encrypt communications with the command-and-control (C2) server and makes use of an OpenNIC domain for C2 in an attempt to evade detection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+QianXin
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2024
+May 29, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indian Man Stole $37 Million in Crypto Using Fake Coinbase Pro Site<a href="https://www.bleepingcomputer.com/news/security/indian-man-stole-37-million-in-crypto-using-fake-coinbase-pro-site/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Indian Man Stole $37 Million in Crypto Using Fake Coinbase Pro Site<a href="http
 The fake site was created to trick legitimate Coinbase customers into entering their login credentials and two-factor authentication codes, thinking it was the actual site.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 29, 2024
+May 29, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Widespread Data Silos Slow Down Security Response Times<a href="https://www.helpnetsecurity.com/2024/05/28/data-silos-problem-for-organizations/?&web_view=true"> Full Text</a>
@@ -188,13 +188,13 @@ Widespread Data Silos Slow Down Security Response Times<a href="https://www.help
 Although the goals and challenges of IT and security professionals intersect, 72% report security data and IT data are siloed in their organization, which contributes to corporate misalignment and elevated security risk, according to Ivanti.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2024
+May 28, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomhub’s Latest Attack Raises Alarms for Industrial Control Systems (ICS) Security<a href="https://thecyberexpress.com/ransomhub-group-strikes-ics/?&web_view=true"> Full Text</a>
@@ -204,13 +204,13 @@ Ransomhub’s Latest Attack Raises Alarms for Industrial Control Systems (ICS) S
 The Ransomhub ransomware group’s modus operandi involves encrypting data and leveraging access to SCADA systems to disrupt essential functions, as evidenced in their recent breach.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2024
+May 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CERT-UA Warns of Malware Campaign Conducted by Threat Actor UAC-0006<a href="https://securityaffairs.com/163711/cyber-warfare-2/cert-ua-warns-uac-0006-massive-campaigns.html?&web_view=true"> Full Text</a>
@@ -220,13 +220,13 @@ CERT-UA Warns of Malware Campaign Conducted by Threat Actor UAC-0006<a href="htt
 SmokeLoader acts as a loader for other malware, once it is executed it will inject malicious code into the currently running explorer process (explorer.exe) and download another payload to the system.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2024
+May 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SingCERT Warns Critical Vulnerabilities Found in Multiple WordPress Plugins<a href="https://thecyberexpress.com/wordpress-plugin-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -236,13 +236,13 @@ SingCERT Warns Critical Vulnerabilities Found in Multiple WordPress Plugins<a hr
 Security updates have been promptly released to address these critical vulnerabilities in multiple WordPress plugins. SingCERT reported 9 critical plugin vulnerabilities and shared the mitigation strategies to avoid exploration by threat actors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2024
+May 28, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Digital ID Adoption: Implementation and Security Concerns<a href="https://www.helpnetsecurity.com/2024/05/27/digital-id-implementation/?&web_view=true"> Full Text</a>
@@ -252,13 +252,13 @@ Digital ID Adoption: Implementation and Security Concerns<a href="https://www.he
 As digital transformation accelerates, understanding how businesses are preparing for and implementing digital ID technologies is crucial for staying ahead in security and efficiency, according to Regula.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2024
+May 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Threat Actors Created Rogue VMs to Evade Detection During December 2023 Attack on MITRE<a href="https://securityaffairs.com/163658/apt/mitre-december-2023-attack-rogue-vms.html?&web_view=true"> Full Text</a>
@@ -268,13 +268,13 @@ Update: Threat Actors Created Rogue VMs to Evade Detection During December 2023 
 According to the new update, threat actors exploited zero-day flaws in Ivanti Connect Secure (ICS) and created rogue virtual machines (VMs) within the organization’s VMware environment.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2024
+May 28, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House Announces Plans to Revamp Data Routing Security by Year-End<a href="https://www.nextgov.com/cybersecurity/2024/05/white-house-announces-plans-revamp-data-routing-security-year-end/396886/?&web_view=true"> Full Text</a>
@@ -284,13 +284,13 @@ White House Announces Plans to Revamp Data Routing Security by Year-End<a href="
 The augmentations concern the Border Gateway Protocol, a backbone data transmission algorithm that determines the optimal path for data packets to move across networks, said National Cyber Director Harry Coker
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NextGov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2024
+May 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Usage of TLS in DDNS Services leads to Information Disclosure in Multiple Vendors<a href="https://securityaffairs.com/163617/hacking/ddns-services-leads-information-disclosure.html?&web_view=true"> Full Text</a>
@@ -300,13 +300,13 @@ Usage of TLS in DDNS Services leads to Information Disclosure in Multiple Vendor
 When DDNS is combined with automatic TLS certificate generation using ACME clients, the public Certificate Transparency logs can be abused by attackers to find vulnerable devices en masse.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2024
+May 28, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Human Error Still Perceived as the Achilles’ Heel of Cybersecurity<a href="https://www.helpnetsecurity.com/2024/05/27/cisos-cyber-attacks-defense-confidence/?&web_view=true"> Full Text</a>
@@ -316,13 +316,13 @@ Human Error Still Perceived as the Achilles’ Heel of Cybersecurity<a href="htt
 While fears of cyberattacks continue to rise, CISOs demonstrate increasing confidence in their ability to defend against these threats, reflecting a significant shift in the cybersecurity landscape, according to Proofpoint.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 28, 2024
+May 28, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing with Cloudflare Workers: Transparent Phishing and HTML Smuggling<a href="https://www.netskope.com/blog/phishing-with-cloudflare-workers-transparent-phishing-and-html-smuggling?&web_view=true"> Full Text</a>
@@ -332,7 +332,7 @@ Phishing with Cloudflare Workers: Transparent Phishing and HTML Smuggling<a href
 One campaign uses HTML smuggling to hide the phishing content from network inspection. The other uses a method called transparent phishing, where the attacker uses Cloudflare Workers to act as a reverse proxy server for a legitimate login page.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NetSkop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
