@@ -34,6 +34,150 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomhub’s Latest Attack Raises Alarms for Industrial Control Systems (ICS) Security<a href="https://thecyberexpress.com/ransomhub-group-strikes-ics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ransomhub ransomware group’s modus operandi involves encrypting data and leveraging access to SCADA systems to disrupt essential functions, as evidenced in their recent breach.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CERT-UA Warns of Malware Campaign Conducted by Threat Actor UAC-0006<a href="https://securityaffairs.com/163711/cyber-warfare-2/cert-ua-warns-uac-0006-massive-campaigns.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SmokeLoader acts as a loader for other malware, once it is executed it will inject malicious code into the currently running explorer process (explorer.exe) and download another payload to the system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SingCERT Warns Critical Vulnerabilities Found in Multiple WordPress Plugins<a href="https://thecyberexpress.com/wordpress-plugin-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security updates have been promptly released to address these critical vulnerabilities in multiple WordPress plugins. SingCERT reported 9 critical plugin vulnerabilities and shared the mitigation strategies to avoid exploration by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital ID Adoption: Implementation and Security Concerns<a href="https://www.helpnetsecurity.com/2024/05/27/digital-id-implementation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As digital transformation accelerates, understanding how businesses are preparing for and implementing digital ID technologies is crucial for staying ahead in security and efficiency, according to Regula.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Threat Actors Created Rogue VMs to Evade Detection During December 2023 Attack on MITRE<a href="https://securityaffairs.com/163658/apt/mitre-december-2023-attack-rogue-vms.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the new update, threat actors exploited zero-day flaws in Ivanti Connect Secure (ICS) and created rogue virtual machines (VMs) within the organization’s VMware environment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Announces Plans to Revamp Data Routing Security by Year-End<a href="https://www.nextgov.com/cybersecurity/2024/05/white-house-announces-plans-revamp-data-routing-security-year-end/396886/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The augmentations concern the Border Gateway Protocol, a backbone data transmission algorithm that determines the optimal path for data packets to move across networks, said National Cyber Director Harry Coker
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Usage of TLS in DDNS Services leads to Information Disclosure in Multiple Vendors<a href="https://securityaffairs.com/163617/hacking/ddns-services-leads-information-disclosure.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+When DDNS is combined with automatic TLS certificate generation using ACME clients, the public Certificate Transparency logs can be abused by attackers to find vulnerable devices en masse.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Human Error Still Perceived as the Achilles’ Heel of Cybersecurity<a href="https://www.helpnetsecurity.com/2024/05/27/cisos-cyber-attacks-defense-confidence/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While fears of cyberattacks continue to rise, CISOs demonstrate increasing confidence in their ability to defend against these threats, reflecting a significant shift in the cybersecurity landscape, according to Proofpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing with Cloudflare Workers: Transparent Phishing and HTML Smuggling<a href="https://www.netskope.com/blog/phishing-with-cloudflare-workers-transparent-phishing-and-html-smuggling?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One campaign uses HTML smuggling to hide the phishing content from network inspection. The other uses a method called transparent phishing, where the attacker uses Cloudflare Workers to act as a reverse proxy server for a legitimate login page.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 27, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

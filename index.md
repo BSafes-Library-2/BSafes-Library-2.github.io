@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watchdog calls out EPA for continued cybersecurity concerns<a href="https://www.nextgov.com/cybersecurity/2024/05/watchdog-calls-out-epa-continued-cybersecurity-concerns/396926/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its annual report on open priority recommendations for the agency, the GAO called out the EPA for failing to outline a procedure for assessing vulnerabilities across its operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Nationals Sanctioned for Botnet Used to Steal ‘Billions’ in COVID-19 Relief Funds<a href="https://therecord.media/us-sanctions-chinese-botnet-proxy?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the Treasury, the botnet was especially useful “when carrying out credit card theft” and was used to facilitate tens of thousands of fraudulent applications related to COVID-19 relief funding.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Transcend Gets $40M to Advance Privacy Tech for Enterprises<a href="https://www.govinfosecurity.com/transcend-gets-40m-to-advance-privacy-tech-for-enterprises-a-25345?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Transcend said the $40 million investment will encode privacy controls directly into business systems and address the full personal data privacy life cycle from discovery and classification to responding to data deletion and access requests.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Evolution of Security Metrics for NIST CSF 2.0<a href="https://www.helpnetsecurity.com/2024/05/28/cisos-security-metrics-nist-csf-2-0/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Combining effective use of metrics plus a deeper understanding of how security processes play out is the best way to build more security agility and enable teams to react more quickly and effectively.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ATM Malware Family Emerged in the Threat Landscape<a href="https://securityaffairs.com/163732/malware/eu-atm-malware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+“The developers of this malware claim that it can generate up to $30,000 per ATM, making it a lucrative tool for cybercriminals,” reported the website DailyDarkweb. “The malware is fully automated, simplifying its deployment and operation.”
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE Exploitation Nearly Tripled in 2023, Verizon Finds<a href="https://www.cybersecuritydive.com/news/cve-exploitation-tripled-2023-verizon/714848/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exploitation of vulnerabilities almost tripled as an initial access vector in 2023, fueled in part by the MOVEit breach, Verizon said in its Data Breach Investigations Report released Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 34% of Organizations Lack Cloud Cybersecurity Skills<a href="https://www.helpnetsecurity.com/2024/05/28/cloud-visibility-challenges/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Incident response today is too time consuming and manual, leaving organizations vulnerable to damage due to their inability to efficiently investigate and respond to identified threats, according to Cado Security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CatDDoS Botnet Exploits Over 80 Known Security Flaws to Execute DDoS Attacks<a href="https://blog.xlab.qianxin.com/catddos-derivative-en/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CatDDoS uses the ChaCha20 algorithm to encrypt communications with the command-and-control (C2) server and makes use of an OpenNIC domain for C2 in an attempt to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Man Stole $37 Million in Crypto Using Fake Coinbase Pro Site<a href="https://www.bleepingcomputer.com/news/security/indian-man-stole-37-million-in-crypto-using-fake-coinbase-pro-site/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The fake site was created to trick legitimate Coinbase customers into entering their login credentials and two-factor authentication codes, thinking it was the actual site.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Widespread Data Silos Slow Down Security Response Times<a href="https://www.helpnetsecurity.com/2024/05/28/data-silos-problem-for-organizations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although the goals and challenges of IT and security professionals intersect, 72% report security data and IT data are siloed in their organization, which contributes to corporate misalignment and elevated security risk, according to Ivanti.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 28, 2024
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
