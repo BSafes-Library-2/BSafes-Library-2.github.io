@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+May 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three-Day DDoS Attack Batters the Internet Archive<a href="https://www.theregister.com/2024/05/29/ddos_internet_archive/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Archive has been under a multi-day distributed denial-of-service (DDoS) attack since Sunday, with attackers sending tens of thousands of fake information requests per second.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

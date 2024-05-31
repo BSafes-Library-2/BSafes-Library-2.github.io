@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+May 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE Exploitation Nearly Tripled in 2023, Verizon Finds<a href="https://www.cybersecuritydive.com/news/cve-exploitation-tripled-2023-verizon/714848/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exploitation of vulnerabilities almost tripled as an initial access vector in 2023, fueled in part by the MOVEit breach, Verizon said in its Data Breach Investigations Report released Wednesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 34% of Organizations Lack Cloud Cybersecurity Skills<a href="https://www.helpnetsecurity.com/2024/05/28/cloud-visibility-challenges/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Incident response today is too time consuming and manual, leaving organizations vulnerable to damage due to their inability to efficiently investigate and respond to identified threats, according to Cado Security.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Widespread Data Silos Slow Down Security Response Times<a href="https://www.helpnetsecurity.com/2024/05/28/data-silos-problem-for-organizations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although the goals and challenges of IT and security professionals intersect, 72% report security data and IT data are siloed in their organization, which contributes to corporate misalignment and elevated security risk, according to Ivanti.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomhub’s Latest Attack Raises Alarms for Industrial Control Systems (ICS) Security<a href="https://thecyberexpress.com/ransomhub-group-strikes-ics/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ransomhub ransomware group’s modus operandi involves encrypting data and leveraging access to SCADA systems to disrupt essential functions, as evidenced in their recent breach.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Human Error Still Perceived as the Achilles’ Heel of Cybersecurity<a href="https://www.helpnetsecurity.com/2024/05/27/cisos-cyber-attacks-defense-confidence/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While fears of cyberattacks continue to rise, CISOs demonstrate increasing confidence in their ability to defend against these threats, reflecting a significant shift in the cybersecurity landscape, according to Proofpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Unveils ARIA to Evaluate and Verify AI Capabilities, Impacts<a href="https://www.helpnetsecurity.com/2024/05/30/nist-aria/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Assessing Risks and Impacts of AI (ARIA) program aims to help organizations and individuals determine whether a given AI technology will be valid, reliable, safe, secure, private, and fair once deployed.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2024 -- [Solution](/docs/issues/solution/solution/)<br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomLord: Open-Source Anti-Ransomware Exploit Tool<a href="https://www.helpnetsecurity.com/2024/05/29/ransomlord-open-source-anti-ransomware-exploit-tool/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RansomLord is an open-source tool designed to create PE files that exploit ransomware pre-encryption vulnerabilities. Developed by hyp3rlinx, the tool leverages DLL hijacking tactics and deploys exploits to defend against ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Crypto-Stealer Targets Windows Users, Revives Malware Campaign<a href="https://www.sonatype.com/blog/pypi-crypto-stealer-targets-windows-users-revives-malware-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The package, which has been downloaded 264 times, is described as an "API Management tool written in Python" but contains code that downloads and installs trojanized Windows binaries capable of surveillance, achieving persistence, and crypto-theft.
+</details>
+<div style="text-align: right" markdown="1">
+SonaType
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avoiding the Cybersecurity Blame Game<a href="https://www.helpnetsecurity.com/2024/05/29/processes-controls-company-policies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts argue the importance of avoiding the "cybersecurity blame game" and shifting the focus from blaming individuals for security incidents to addressing the underlying issues and improving the work environment.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surge in Discord Malware Attacks as 50,000 Malicious Links Uncovered<a href="https://hackread.com/discord-malware-attacks-as-50000-malicious-links/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent six-month analysis, cybersecurity firm Bitdefender has uncovered a troubling trend: cybercriminals are using Discord, a popular communication platform, to distribute malware and execute phishing campaigns.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Expects to Clear Backlog in Vulnerabilities Database by End of Fiscal Year<a href="https://therecord.media/nist-nvd-backlog-clear-end-fiscal-2024?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology (NIST) said it has awarded a new contract to an outside vendor that will help the federal government process software and hardware bugs added to the National Vulnerability Database (NVD).
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Three-Day DDoS Attack Batters the Internet Archive<a href="https://www.theregister.com/2024/05/29/ddos_internet_archive/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Internet Archive has been under a multi-day distributed denial-of-service (DDoS) attack since Sunday, with attackers sending tens of thousands of fake information requests per second.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Identity-Related Incidents Becoming Severe, Costing Organizations a Fortune<a href="https://www.helpnetsecurity.com/2024/05/30/identity-related-incidents-rise/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity-related incidents continue to dominate today’s headlines. With the rise of identity sprawl and system complexity, more businesses are suffering identity-related incidents than ever before, according to IDSA.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Seize Over 100 Malware Loader Servers, Arrest Four Cybercriminals<a href="https://www.bleepingcomputer.com/news/security/police-seize-over-100-malware-loader-servers-arrest-four-cybercriminals/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The seized infrastructure was spread across Europe and North America, hosting over 2,000 domains that facilitated illicit services, all under the control of the authorities now.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Industries Need OT-IT Convergence to Beat Attacks<a href="https://www.bankinfosecurity.com/australian-industries-need-ot-it-convergence-to-beat-attacks-a-25358?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As critical infrastructure companies provide essential services to the wider public, a successful cyberattack on these organizations could mean significant financial gain or geopolitical impact for attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 29, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+May 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CatDDoS Botnet Exploits Over 80 Known Security Flaws to Execute DDoS Attacks<a href="https://blog.xlab.qianxin.com/catddos-derivative-en/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CatDDoS uses the ChaCha20 algorithm to encrypt communications with the command-and-control (C2) server and makes use of an OpenNIC domain for C2 in an attempt to evade detection.
+</details>
+<div style="text-align: right" markdown="1">
+QianXin
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+May 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Unveils ARIA to Evaluate and Verify AI Capabilities, Impacts<a href="https://www.helpnetsecurity.com/2024/05/30/nist-aria/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Assessing Risks and Impacts of AI (ARIA) program aims to help organizations and individuals determine whether a given AI technology will be valid, reliable, safe, secure, private, and fair once deployed.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Expects to Clear Backlog in Vulnerabilities Database by End of Fiscal Year<a href="https://therecord.media/nist-nvd-backlog-clear-end-fiscal-2024?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Institute of Standards and Technology (NIST) said it has awarded a new contract to an outside vendor that will help the federal government process software and hardware bugs added to the National Vulnerability Database (NVD).
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

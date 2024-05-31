@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 28, 2024 - NIST
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Launches ARIA, a New Program to Advance Sociotechnical Testing and Evaluation for AI <a href="https://www.nist.gov/news-events/news/2024/05/nist-launches-aria-new-program-advance-sociotechnical-testing-and"> Full Text</a>
+</p>
+<details>
+The National Institute of Standards and Technology (NIST) is launching a new testing, evaluation, validation and verification (TEVV) program intended to help improve understanding of artificial intelligence’s capabilities and impacts. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 23, 2024 - NSA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

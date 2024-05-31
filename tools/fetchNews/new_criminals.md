@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+May 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Seize Over 100 Malware Loader Servers, Arrest Four Cybercriminals<a href="https://www.bleepingcomputer.com/news/security/police-seize-over-100-malware-loader-servers-arrest-four-cybercriminals/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The seized infrastructure was spread across Europe and North America, hosting over 2,000 domains that facilitated illicit services, all under the control of the authorities now.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

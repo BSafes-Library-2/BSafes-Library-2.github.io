@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+May 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing with Cloudflare Workers: Transparent Phishing and HTML Smuggling<a href="https://www.netskope.com/blog/phishing-with-cloudflare-workers-transparent-phishing-and-html-smuggling?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One campaign uses HTML smuggling to hide the phishing content from network inspection. The other uses a method called transparent phishing, where the attacker uses Cloudflare Workers to act as a reverse proxy server for a legitimate login page.
+</details>
+<div style="text-align: right" markdown="1">
+NetSkop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

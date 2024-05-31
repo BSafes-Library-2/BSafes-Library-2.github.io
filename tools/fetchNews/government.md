@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+May 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Watchdog calls out EPA for continued cybersecurity concerns<a href="https://www.nextgov.com/cybersecurity/2024/05/watchdog-calls-out-epa-continued-cybersecurity-concerns/396926/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In its annual report on open priority recommendations for the agency, the GAO called out the EPA for failing to outline a procedure for assessing vulnerabilities across its operations.
+</details>
+<div style="text-align: right" markdown="1">
+NextGov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Evolution of Security Metrics for NIST CSF 2.0<a href="https://www.helpnetsecurity.com/2024/05/28/cisos-security-metrics-nist-csf-2-0/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Combining effective use of metrics plus a deeper understanding of how security processes play out is the best way to build more security agility and enable teams to react more quickly and effectively.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Announces Plans to Revamp Data Routing Security by Year-End<a href="https://www.nextgov.com/cybersecurity/2024/05/white-house-announces-plans-revamp-data-routing-security-year-end/396886/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The augmentations concern the Border Gateway Protocol, a backbone data transmission algorithm that determines the optimal path for data packets to move across networks, said National Cyber Director Harry Coker
+</details>
+<div style="text-align: right" markdown="1">
+NextGov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+May 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Avoiding the Cybersecurity Blame Game<a href="https://www.helpnetsecurity.com/2024/05/29/processes-controls-company-policies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts argue the importance of avoiding the "cybersecurity blame game" and shifting the focus from blaming individuals for security incidents to addressing the underlying issues and improving the work environment.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Identity-Related Incidents Becoming Severe, Costing Organizations a Fortune<a href="https://www.helpnetsecurity.com/2024/05/30/identity-related-incidents-rise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Identity-related incidents continue to dominate today’s headlines. With the rise of identity sprawl and system complexity, more businesses are suffering identity-related incidents than ever before, according to IDSA.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Australian Industries Need OT-IT Convergence to Beat Attacks<a href="https://www.bankinfosecurity.com/australian-industries-need-ot-it-convergence-to-beat-attacks-a-25358?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As critical infrastructure companies provide essential services to the wider public, a successful cyberattack on these organizations could mean significant financial gain or geopolitical impact for attackers.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
