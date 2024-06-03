@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS-as-a-Service: The Rebirth Botnet<a href="https://sysdig.com/blog/ddos-as-a-service-the-rebirth-botnet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Preliminary analysis by researchers from 2020 showed that “Rebirth” or “Vulcan” was an IoT-oriented botnet distinctively constructed on Gafgyt, QBot, and STDBot with known exploits.
+</details>
+<div style="text-align: right" markdown="1">
+SysDig
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

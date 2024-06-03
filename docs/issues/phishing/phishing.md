@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Browser Updates Delivering BitRAT and Lumma Stealer<a href="https://www.esentire.com/blog/fake-browser-updates-delivering-bitrat-and-lumma-stealer?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infection chain began with a user visiting an infected webpage, which triggered the download of a ZIP archive containing malicious JavaScript code. This code acted as an initial downloader, retrieving payloads from a known BitRAT C2 address.
+</details>
+<div style="text-align: right" markdown="1">
+Esentire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shady 'Merry-Go-Round' Ad Fraud Network Leaves Orgs Hemorrhaging Cash<a href="https://www.darkreading.com/threat-intelligence/shady-merry-go-round-ad-fraud-network-orgs-hemorrhaging-cash?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Merry-Go-Round is most sophisticated in its anti-detection techniques, using a number of measures to keep away advertisers, cyber analysts, and others who would stand in its way.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+May 30, 2024 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomLord: Open-Source Anti-Ransomware Exploit Tool<a href="https://www.helpnetsecurity.com/2024/05/29/ransomlord-open-source-anti-ransomware-exploit-tool/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RansomLord is an open-source tool designed to create PE files that exploit ransomware pre-encryption vulnerabilities. Developed by hyp3rlinx, the tool leverages DLL hijacking tactics and deploys exploits to defend against ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

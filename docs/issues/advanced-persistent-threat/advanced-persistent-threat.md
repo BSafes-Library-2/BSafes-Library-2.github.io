@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT28 Targets Key Networks in Europe with Multi-Phase Espionage Campaign<a href="https://www.recordedfuture.com/grus-bluedelta-targets-key-networks-in-europe-with-multi-phase-espionage-camp?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using the HeadLace malware and credential-harvesting web pages, APT28 operates with great stealth and sophistication, relying on legitimate internet services and off-the-land binaries to conceal their activities.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

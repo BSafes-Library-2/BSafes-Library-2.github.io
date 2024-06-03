@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2024
+June 1, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT28 Targets Key Networks in Europe with Multi-Phase Espionage Campaign<a href="https://www.recordedfuture.com/grus-bluedelta-targets-key-networks-in-europe-with-multi-phase-espionage-camp?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ APT28 Targets Key Networks in Europe with Multi-Phase Espionage Campaign<a href=
 Using the HeadLace malware and credential-harvesting web pages, APT28 operates with great stealth and sophistication, relying on legitimate internet services and off-the-land binaries to conceal their activities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Recorded Future
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2024
+June 1, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Browser Updates Delivering BitRAT and Lumma Stealer<a href="https://www.esentire.com/blog/fake-browser-updates-delivering-bitrat-and-lumma-stealer?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Fake Browser Updates Delivering BitRAT and Lumma Stealer<a href="https://www.ese
 The infection chain began with a user visiting an infected webpage, which triggered the download of a ZIP archive containing malicious JavaScript code. This code acted as an initial downloader, retrieving payloads from a known BitRAT C2 address.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Esentire
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2024
+June 1, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Shady 'Merry-Go-Round' Ad Fraud Network Leaves Orgs Hemorrhaging Cash<a href="https://www.darkreading.com/threat-intelligence/shady-merry-go-round-ad-fraud-network-orgs-hemorrhaging-cash?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Shady 'Merry-Go-Round' Ad Fraud Network Leaves Orgs Hemorrhaging Cash<a href="ht
 Merry-Go-Round is most sophisticated in its anti-detection techniques, using a number of measures to keep away advertisers, cyber analysts, and others who would stand in its way.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2024
+June 1, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Active Exploitation of Unauthenticated Stored XSS Vulnerabilities in WordPress Plugins<a href="https://www.fastly.com/blog/active-exploitation-unauthenticated-stored-xss-vulnerabilities-wordpress/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Active Exploitation of Unauthenticated Stored XSS Vulnerabilities in WordPress P
 Fastly has issued a warning about vulnerabilities in three WordPress plugins, namely WP Statistics, WP Meta SEO, and LiteSpeed Cache, being exploited to inject malicious scripts and backdoors into websites.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fastly
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2024
+June 1, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS-as-a-Service: The Rebirth Botnet<a href="https://sysdig.com/blog/ddos-as-a-service-the-rebirth-botnet/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ DDoS-as-a-Service: The Rebirth Botnet<a href="https://sysdig.com/blog/ddos-as-a-
 Preliminary analysis by researchers from 2020 showed that “Rebirth” or “Vulcan” was an IoT-oriented botnet distinctively constructed on Gafgyt, QBot, and STDBot with known exploits.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SysDig
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2024
+June 1, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenAI models used in nation-state influence campaigns, company says<a href="https://therecord.media/openai-report-china-russia-iran-influence-operations?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ OpenAI models used in nation-state influence campaigns, company says<a href="htt
 The groups used the company’s tools to generate a variety of content — usually text, with some photos — including articles and social media posts, and to debug code and analyze social media activity.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 1, 2024
+June 1, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BEC 4.0: Business Communication Compromise<a href="https://www.avanan.com/blog/bec-4.0-business-communication-compromise?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ BEC 4.0: Business Communication Compromise<a href="https://www.avanan.com/blog/b
 This email starts as a message from Teams. In this attack campaign, it says “Teams” sent you a message. It says that the end-user has been named the winner of a new iPhone.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Avanan
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2024
+May 31, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hospital Allegedly Skirting Ransomware Death Suit Settlement<a href="https://www.bankinfosecurity.com/hospital-allegedly-skirting-ransomware-death-suit-settlement-a-25369?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Hospital Allegedly Skirting Ransomware Death Suit Settlement<a href="https://www
 The lawsuit filed by plaintiff Teiranni Kidd against Springhill Memorial Hospital in 2019 and amended in June 2020 alleges that Kidd's daughter, Nicko Silar, suffered birth complications and subsequently died due to the ransomware attack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2024
+May 31, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NFTs Magnets for Fraud, but Not Terrorists, Says US Treasury<a href="https://www.theregister.com/2024/05/30/us_treasury_nfts/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ NFTs Magnets for Fraud, but Not Terrorists, Says US Treasury<a href="https://www
 The US Treasury Department has assessed the risk of non-fungible tokens (NFTs) being used for illicit finance, and has found them wanting for lack of proper roadblocks preventing illegal applications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 31, 2024
+May 31, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pirated Microsoft Office Delivers Malware Cocktail on Systems<a href="https://www.bleepingcomputer.com/news/security/pirated-microsoft-office-delivers-malware-cocktail-on-systems/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Pirated Microsoft Office Delivers Malware Cocktail on Systems<a href="https://ww
 Cybercriminals are distributing a malware cocktail through cracked versions of Microsoft Office promoted on torrent sites. The malware delivered to users includes RATs, cryptocurrency miners, malware downloaders, proxy tools, and anti-AV programs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Compute
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

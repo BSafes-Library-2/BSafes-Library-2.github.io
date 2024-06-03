@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BEC 4.0: Business Communication Compromise<a href="https://www.avanan.com/blog/bec-4.0-business-communication-compromise?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This email starts as a message from Teams. In this attack campaign, it says “Teams” sent you a message. It says that the end-user has been named the winner of a new iPhone.
+</details>
+<div style="text-align: right" markdown="1">
+Avanan
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
