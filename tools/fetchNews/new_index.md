@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2024
+June 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT28 Targets Key Networks in Europe with Multi-Phase Espionage Campaign<a href="https://www.recordedfuture.com/grus-bluedelta-targets-key-networks-in-europe-with-multi-phase-espionage-camp?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using the HeadLace malware and credential-harvesting web pages, APT28 operates with great stealth and sophistication, relying on legitimate internet services and off-the-land binaries to conceal their activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Browser Updates Delivering BitRAT and Lumma Stealer<a href="https://www.esentire.com/blog/fake-browser-updates-delivering-bitrat-and-lumma-stealer?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The infection chain began with a user visiting an infected webpage, which triggered the download of a ZIP archive containing malicious JavaScript code. This code acted as an initial downloader, retrieving payloads from a known BitRAT C2 address.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Shady 'Merry-Go-Round' Ad Fraud Network Leaves Orgs Hemorrhaging Cash<a href="https://www.darkreading.com/threat-intelligence/shady-merry-go-round-ad-fraud-network-orgs-hemorrhaging-cash?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Merry-Go-Round is most sophisticated in its anti-detection techniques, using a number of measures to keep away advertisers, cyber analysts, and others who would stand in its way.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Active Exploitation of Unauthenticated Stored XSS Vulnerabilities in WordPress Plugins<a href="https://www.fastly.com/blog/active-exploitation-unauthenticated-stored-xss-vulnerabilities-wordpress/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fastly has issued a warning about vulnerabilities in three WordPress plugins, namely WP Statistics, WP Meta SEO, and LiteSpeed Cache, being exploited to inject malicious scripts and backdoors into websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS-as-a-Service: The Rebirth Botnet<a href="https://sysdig.com/blog/ddos-as-a-service-the-rebirth-botnet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Preliminary analysis by researchers from 2020 showed that “Rebirth” or “Vulcan” was an IoT-oriented botnet distinctively constructed on Gafgyt, QBot, and STDBot with known exploits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenAI models used in nation-state influence campaigns, company says<a href="https://therecord.media/openai-report-china-russia-iran-influence-operations?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The groups used the company’s tools to generate a variety of content — usually text, with some photos — including articles and social media posts, and to debug code and analyze social media activity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BEC 4.0: Business Communication Compromise<a href="https://www.avanan.com/blog/bec-4.0-business-communication-compromise?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This email starts as a message from Teams. In this attack campaign, it says “Teams” sent you a message. It says that the end-user has been named the winner of a new iPhone.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hospital Allegedly Skirting Ransomware Death Suit Settlement<a href="https://www.bankinfosecurity.com/hospital-allegedly-skirting-ransomware-death-suit-settlement-a-25369?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lawsuit filed by plaintiff Teiranni Kidd against Springhill Memorial Hospital in 2019 and amended in June 2020 alleges that Kidd's daughter, Nicko Silar, suffered birth complications and subsequently died due to the ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NFTs Magnets for Fraud, but Not Terrorists, Says US Treasury<a href="https://www.theregister.com/2024/05/30/us_treasury_nfts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Treasury Department has assessed the risk of non-fungible tokens (NFTs) being used for illicit finance, and has found them wanting for lack of proper roadblocks preventing illegal applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pirated Microsoft Office Delivers Malware Cocktail on Systems<a href="https://www.bleepingcomputer.com/news/security/pirated-microsoft-office-delivers-malware-cocktail-on-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are distributing a malware cocktail through cracked versions of Microsoft Office promoted on torrent sites. The malware delivered to users includes RATs, cryptocurrency miners, malware downloaders, proxy tools, and anti-AV programs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 30, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Unveils ARIA to Evaluate and Verify AI Capabilities, Impacts<a href="https://www.helpnetsecurity.com/2024/05/30/nist-aria/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ NIST Unveils ARIA to Evaluate and Verify AI Capabilities, Impacts<a href="https:
 The Assessing Risks and Impacts of AI (ARIA) program aims to help organizations and individuals determine whether a given AI technology will be valid, reliable, safe, secure, private, and fair once deployed.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2024
+May 30, 2024 -- [Solution](/docs/issues/solution/solution/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomLord: Open-Source Anti-Ransomware Exploit Tool<a href="https://www.helpnetsecurity.com/2024/05/29/ransomlord-open-source-anti-ransomware-exploit-tool/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ RansomLord: Open-Source Anti-Ransomware Exploit Tool<a href="https://www.helpnet
 RansomLord is an open-source tool designed to create PE files that exploit ransomware pre-encryption vulnerabilities. Developed by hyp3rlinx, the tool leverages DLL hijacking tactics and deploys exploits to defend against ransomware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2024
+May 30, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PyPI Crypto-Stealer Targets Windows Users, Revives Malware Campaign<a href="https://www.sonatype.com/blog/pypi-crypto-stealer-targets-windows-users-revives-malware-campaign?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ PyPI Crypto-Stealer Targets Windows Users, Revives Malware Campaign<a href="http
 The package, which has been downloaded 264 times, is described as an "API Management tool written in Python" but contains code that downloads and installs trojanized Windows binaries capable of surveillance, achieving persistence, and crypto-theft.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SonaType
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2024
+May 30, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Avoiding the Cybersecurity Blame Game<a href="https://www.helpnetsecurity.com/2024/05/29/processes-controls-company-policies/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Avoiding the Cybersecurity Blame Game<a href="https://www.helpnetsecurity.com/20
 Experts argue the importance of avoiding the "cybersecurity blame game" and shifting the focus from blaming individuals for security incidents to addressing the underlying issues and improving the work environment.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2024
+May 30, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Surge in Discord Malware Attacks as 50,000 Malicious Links Uncovered<a href="https://hackread.com/discord-malware-attacks-as-50000-malicious-links/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Surge in Discord Malware Attacks as 50,000 Malicious Links Uncovered<a href="htt
 In a recent six-month analysis, cybersecurity firm Bitdefender has uncovered a troubling trend: cybercriminals are using Discord, a popular communication platform, to distribute malware and execute phishing campaigns.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2024
+May 30, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Expects to Clear Backlog in Vulnerabilities Database by End of Fiscal Year<a href="https://therecord.media/nist-nvd-backlog-clear-end-fiscal-2024?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ NIST Expects to Clear Backlog in Vulnerabilities Database by End of Fiscal Year<
 The National Institute of Standards and Technology (NIST) said it has awarded a new contract to an outside vendor that will help the federal government process software and hardware bugs added to the National Vulnerability Database (NVD).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2024
+May 30, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Three-Day DDoS Attack Batters the Internet Archive<a href="https://www.theregister.com/2024/05/29/ddos_internet_archive/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Three-Day DDoS Attack Batters the Internet Archive<a href="https://www.theregist
 The Internet Archive has been under a multi-day distributed denial-of-service (DDoS) attack since Sunday, with attackers sending tens of thousands of fake information requests per second.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2024
+May 30, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Identity-Related Incidents Becoming Severe, Costing Organizations a Fortune<a href="https://www.helpnetsecurity.com/2024/05/30/identity-related-incidents-rise/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Identity-Related Incidents Becoming Severe, Costing Organizations a Fortune<a hr
 Identity-related incidents continue to dominate today’s headlines. With the rise of identity sprawl and system complexity, more businesses are suffering identity-related incidents than ever before, according to IDSA.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2024
+May 30, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police Seize Over 100 Malware Loader Servers, Arrest Four Cybercriminals<a href="https://www.bleepingcomputer.com/news/security/police-seize-over-100-malware-loader-servers-arrest-four-cybercriminals/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Police Seize Over 100 Malware Loader Servers, Arrest Four Cybercriminals<a href=
 The seized infrastructure was spread across Europe and North America, hosting over 2,000 domains that facilitated illicit services, all under the control of the authorities now.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-May 30, 2024
+May 30, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Australian Industries Need OT-IT Convergence to Beat Attacks<a href="https://www.bankinfosecurity.com/australian-industries-need-ot-it-convergence-to-beat-attacks-a-25358?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Australian Industries Need OT-IT Convergence to Beat Attacks<a href="https://www
 As critical infrastructure companies provide essential services to the wider public, a successful cyberattack on these organizations could mean significant financial gain or geopolitical impact for attackers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
