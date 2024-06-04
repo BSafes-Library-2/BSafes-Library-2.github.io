@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OpenAI models used in nation-state influence campaigns, company says<a href="https://therecord.media/openai-report-china-russia-iran-influence-operations?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The groups used the company’s tools to generate a variety of content — usually text, with some photos — including articles and social media posts, and to debug code and analyze social media activity.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+May 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NFTs Magnets for Fraud, but Not Terrorists, Says US Treasury<a href="https://www.theregister.com/2024/05/30/us_treasury_nfts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Treasury Department has assessed the risk of non-fungible tokens (NFTs) being used for illicit finance, and has found them wanting for lack of proper roadblocks preventing illegal applications.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

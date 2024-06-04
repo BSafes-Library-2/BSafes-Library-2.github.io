@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Execution Technique Observed in ClearFake Campaign<a href="https://www.reliaquest.com/blog/new-execution-technique-in-clearfake-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ReliaQuest observed new execution techniques in a campaign from the JavaScript framework “ClearFake,” tricking users into copying, pasting, and manually executing malicious PowerShell code.
+</details>
+<div style="text-align: right" markdown="1">
+ReliaQuest
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Bahrain Government Android App Steals Personal Data Used for Financial Fraud<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/fake-bahrain-government-android-app-steals-personal-data-used-for-financial-fraud/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+McAfee Mobile Research Team found an Android malware that pretends to be the official app of Bahrain and advertises that users can renew or apply for driver’s licenses, visas, and ID cards on mobile.
+</details>
+<div style="text-align: right" markdown="1">
+McAfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks Stole More Than $300M Worth of Bitcoin From DMM Bitcoin<a href="https://securityaffairs.com/163966/security/dmm-bitcoin-cyber-heist.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Japanese cryptocurrency exchange DMM Bitcoin announced that crooks stole 4,502.9 Bitcoin (BTC), approximately $304 million (48.2 billion yen), from its wallets. The company assured that the customers’ BTC deposits will be fully guaranteed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LilacSquid Targeted Organizations in the U.S., Europe, and Asia Since 2021<a href="https://securityaffairs.com/163927/apt/lilacsquid-targeted-orgs-in-us-europe-asia.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks targeted entities in multiple industries, including organizations in information technology and industrial sectors in the United States, organizations in the energy sector in Europe, and the pharmaceutical sector in Asia.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: HHS Reverses Course, Allows Change Healthcare to File Breach Notifications for Others<a href="https://therecord.media/hhs-changes-course-change-healthcare-breach-notifications-customers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Health and Human Services (HHS) changed course on Friday and announced that it would allow Change Healthcare to file breach notifications on behalf of the thousands of organizations impacted by February’s ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Apache Log4j2 Flaw Still Threatens Global Finance<a href="https://securityaffairs.com/163984/hacking/critical-apache-log4j2-flaw-still-threatens-global-finance.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The critical Apache Log4j2 vulnerability (CVE-2021-44832) still poses a significant threat to the global finance industry, even though it was discovered and patched over a year ago.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of Security Risks in Grid Modernization<a href="https://www.bankinfosecurity.com/experts-warn-security-risks-in-grid-modernization-a-25379?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the grid increasingly relies on advanced digital systems and increased interconnectivity, experts warn that the implementation of new technologies must come with robust security measures to protect against major cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Europol Identifies Eight Cybercriminals Tied to Malware Loader Botnets<a href="https://www.bleepingcomputer.com/news/legal/europol-identifies-8-cybercriminals-tied-to-malware-loader-botnets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol and German law enforcement have revealed the identities of eight cybercriminals linked to the various malware droppers and loaders disrupted as part of the Operation Endgame law enforcement operation.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2024 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Stock Exchange to Now Encrypt All Trader Messages<a href="https://www.theregister.com/2024/05/30/bse_eti_encryption/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India's Bombay Stock Exchange (BSE) has told market participants they need to adopt encryption – which, shockingly, isn't already implemented – for certain messages sent to its trading platforms when using its Enhanced Trading Interface (ETI).
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exiled Russian, Belarusian Opposition Journalists Targeted With Pegasus Spyware<a href="https://therecord.media/exiled-journalists-russia-belarus-pegasus-spyware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have found that at least seven Russian and Belarusian-speaking independent journalists and opposition activists were targeted or infected with the infamous spying malware called Pegasus.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 1, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

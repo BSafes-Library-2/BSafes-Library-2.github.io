@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of Security Risks in Grid Modernization<a href="https://www.bankinfosecurity.com/experts-warn-security-risks-in-grid-modernization-a-25379?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As the grid increasingly relies on advanced digital systems and increased interconnectivity, experts warn that the implementation of new technologies must come with robust security measures to protect against major cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

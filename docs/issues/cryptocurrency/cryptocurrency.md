@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+June 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crooks Stole More Than $300M Worth of Bitcoin From DMM Bitcoin<a href="https://securityaffairs.com/163966/security/dmm-bitcoin-cyber-heist.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Japanese cryptocurrency exchange DMM Bitcoin announced that crooks stole 4,502.9 Bitcoin (BTC), approximately $304 million (48.2 billion yen), from its wallets. The company assured that the customers’ BTC deposits will be fully guaranteed.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

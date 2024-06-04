@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: HHS Reverses Course, Allows Change Healthcare to File Breach Notifications for Others<a href="https://therecord.media/hhs-changes-course-change-healthcare-breach-notifications-customers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Health and Human Services (HHS) changed course on Friday and announced that it would allow Change Healthcare to file breach notifications on behalf of the thousands of organizations impacted by February’s ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

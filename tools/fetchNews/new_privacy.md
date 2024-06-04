@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exiled Russian, Belarusian Opposition Journalists Targeted With Pegasus Spyware<a href="https://therecord.media/exiled-journalists-russia-belarus-pegasus-spyware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have found that at least seven Russian and Belarusian-speaking independent journalists and opposition activists were targeted or infected with the infamous spying malware called Pegasus.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

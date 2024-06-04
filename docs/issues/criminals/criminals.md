@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Europol Identifies Eight Cybercriminals Tied to Malware Loader Botnets<a href="https://www.bleepingcomputer.com/news/legal/europol-identifies-8-cybercriminals-tied-to-malware-loader-botnets/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Europol and German law enforcement have revealed the identities of eight cybercriminals linked to the various malware droppers and loaders disrupted as part of the Operation Endgame law enforcement operation.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

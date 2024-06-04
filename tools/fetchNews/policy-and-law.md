@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+May 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hospital Allegedly Skirting Ransomware Death Suit Settlement<a href="https://www.bankinfosecurity.com/hospital-allegedly-skirting-ransomware-death-suit-settlement-a-25369?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lawsuit filed by plaintiff Teiranni Kidd against Springhill Memorial Hospital in 2019 and amended in June 2020 alleges that Kidd's daughter, Nicko Silar, suffered birth complications and subsequently died due to the ransomware attack.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

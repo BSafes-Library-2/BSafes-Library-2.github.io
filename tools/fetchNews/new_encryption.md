@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+June 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Indian Stock Exchange to Now Encrypt All Trader Messages<a href="https://www.theregister.com/2024/05/30/bse_eti_encryption/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India's Bombay Stock Exchange (BSE) has told market participants they need to adopt encryption – which, shockingly, isn't already implemented – for certain messages sent to its trading platforms when using its Enhanced Trading Interface (ETI).
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
