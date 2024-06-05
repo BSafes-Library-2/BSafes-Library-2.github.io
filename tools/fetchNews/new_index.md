@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2024
+June 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Challenges Mount as Companies Handle Thousands of APIs<a href="https://www.helpnetsecurity.com/2024/06/04/companies-api-management-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Modern applications are taking over enterprise portfolios, with apps classed as modern now making up 51% of the total, up by more than a quarter in the last year, according to F5.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated RAT Targeting Gulp Projects on npm<a href="https://blog.phylum.io/sophisticated-rat-shell-targeting-gulp-projects-on-npm/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NPM package masquerades as a logger for gulp and gulp plugins and has been downloaded 175 times. It contains two obfuscated files that work together to deploy the malicious payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure Service Tags Tagged as Security Risk, Microsoft Disagrees<a href="https://www.bleepingcomputer.com/news/microsoft/azure-service-tags-tagged-as-security-risk-microsoft-disagrees/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azure Service Tags, which are used for firewall filtering and access control, have been flagged as a security risk by Tenable. They discovered a vulnerability that could enable attackers to access customers' confidential information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android Trojan ‘Viper RAT’ Advertised on Dark Web Forums to Steal User Data<a href="https://thecyberexpress.com/viper-rat-goes-on-sale/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind Viper RAT has established a dedicated website and a Telegram account for ordering, adding a level of credibility. The cost of this malicious tool is surprisingly low, suggesting malicious intent.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Released PoC Exploit Code for a Critical Bug in Progress Telerik Report Servers<a href="https://securityaffairs.com/164114/hacking/progress-telerik-report-servers-poc.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers published a proof-of-concept (PoC) exploit code for an authentication bypass vulnerability on Progress Telerik Report Servers. Telerik Report Server is an end-to-end report management solution developed by Progress® Telerik.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Excel File Deploys Cobalt Strike in Advanced Attack on Ukraine<a href="https://www.fortinet.com/blog/threat-research/menace-unleashed-excel-file-deploys-cobalt-strike-at-ukraine?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DLL downloader is obfuscated with ConfuserEx and carries out various tasks, such as terminating processes associated with analysis tools or antivirus software and downloading the next stage payload from a specific URL.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resilience Isn’t Enough, NATO Must be ‘Proactive’ for Cyberdefense, Warns Official<a href="https://therecord.media/nato-resilience-cyberdefense-liflander-cycon?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NATO allies must allow their militaries to be proactive in cyberspace to prevent disruptions in force deployment during a conflict, warned Christian-Marc Lifländer, head of NATO's cyber and hybrid policy section.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Cryptocurrency Scam Goes for the Cash Prize<a href="https://www.malwarebytes.com/blog/news/2024/06/whatsapp-cryptocurrency-scam-goes-for-the-cash-prize?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any unsolicited WhatsApp message from an unknown person is suspect. No matter how harmless or friendly it may seem. Most pig butchering scams start with what seems a misdirected message.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Businesses Must Prioritize Digital Trust to Avoid Major Problems<a href="https://www.helpnetsecurity.com/2024/06/03/digital-trust-importance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As organizations pursue digital transformation, they urgently need to prioritize digital trust to achieve their goals and prepare for future market opportunities, legislation, and regulatory compliance, according to ISACA.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Risk Atlassian Confluence RCE Fixed, PoC Available (CVE-2024-21683)<a href="https://www.helpnetsecurity.com/2024/06/03/cve-2024-21683-poc/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-risk remote code execution (RCE) vulnerability in Atlassian Confluence has been fixed. Users should upgrade to the latest version as a Proof of Concept (PoC) and technical details of the flaw (CVE-2024-21683) are already public.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 3, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Execution Technique Observed in ClearFake Campaign<a href="https://www.reliaquest.com/blog/new-execution-technique-in-clearfake-campaign/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ New Execution Technique Observed in ClearFake Campaign<a href="https://www.relia
 ReliaQuest observed new execution techniques in a campaign from the JavaScript framework “ClearFake,” tricking users into copying, pasting, and manually executing malicious PowerShell code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ReliaQuest
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2024
+June 3, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Bahrain Government Android App Steals Personal Data Used for Financial Fraud<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/fake-bahrain-government-android-app-steals-personal-data-used-for-financial-fraud/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Fake Bahrain Government Android App Steals Personal Data Used for Financial Frau
 McAfee Mobile Research Team found an Android malware that pretends to be the official app of Bahrain and advertises that users can renew or apply for driver’s licenses, visas, and ID cards on mobile.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+McAfee
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2024
+June 3, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crooks Stole More Than $300M Worth of Bitcoin From DMM Bitcoin<a href="https://securityaffairs.com/163966/security/dmm-bitcoin-cyber-heist.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Crooks Stole More Than $300M Worth of Bitcoin From DMM Bitcoin<a href="https://s
 The Japanese cryptocurrency exchange DMM Bitcoin announced that crooks stole 4,502.9 Bitcoin (BTC), approximately $304 million (48.2 billion yen), from its wallets. The company assured that the customers’ BTC deposits will be fully guaranteed.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2024
+June 3, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 LilacSquid Targeted Organizations in the U.S., Europe, and Asia Since 2021<a href="https://securityaffairs.com/163927/apt/lilacsquid-targeted-orgs-in-us-europe-asia.html?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ LilacSquid Targeted Organizations in the U.S., Europe, and Asia Since 2021<a hre
 The attacks targeted entities in multiple industries, including organizations in information technology and industrial sectors in the United States, organizations in the energy sector in Europe, and the pharmaceutical sector in Asia.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2024
+June 3, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: HHS Reverses Course, Allows Change Healthcare to File Breach Notifications for Others<a href="https://therecord.media/hhs-changes-course-change-healthcare-breach-notifications-customers?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Update: HHS Reverses Course, Allows Change Healthcare to File Breach Notificatio
 The Department of Health and Human Services (HHS) changed course on Friday and announced that it would allow Change Healthcare to file breach notifications on behalf of the thousands of organizations impacted by February’s ransomware attack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2024
+June 3, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Apache Log4j2 Flaw Still Threatens Global Finance<a href="https://securityaffairs.com/163984/hacking/critical-apache-log4j2-flaw-still-threatens-global-finance.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Critical Apache Log4j2 Flaw Still Threatens Global Finance<a href="https://secur
 The critical Apache Log4j2 vulnerability (CVE-2021-44832) still poses a significant threat to the global finance industry, even though it was discovered and patched over a year ago.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2024
+June 3, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Warn of Security Risks in Grid Modernization<a href="https://www.bankinfosecurity.com/experts-warn-security-risks-in-grid-modernization-a-25379?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Experts Warn of Security Risks in Grid Modernization<a href="https://www.bankinf
 As the grid increasingly relies on advanced digital systems and increased interconnectivity, experts warn that the implementation of new technologies must come with robust security measures to protect against major cyber threats.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2024
+June 3, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Europol Identifies Eight Cybercriminals Tied to Malware Loader Botnets<a href="https://www.bleepingcomputer.com/news/legal/europol-identifies-8-cybercriminals-tied-to-malware-loader-botnets/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Update: Europol Identifies Eight Cybercriminals Tied to Malware Loader Botnets<a
 Europol and German law enforcement have revealed the identities of eight cybercriminals linked to the various malware droppers and loaders disrupted as part of the Operation Endgame law enforcement operation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2024
+June 3, 2024 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Indian Stock Exchange to Now Encrypt All Trader Messages<a href="https://www.theregister.com/2024/05/30/bse_eti_encryption/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Indian Stock Exchange to Now Encrypt All Trader Messages<a href="https://www.the
 India's Bombay Stock Exchange (BSE) has told market participants they need to adopt encryption – which, shockingly, isn't already implemented – for certain messages sent to its trading platforms when using its Enhanced Trading Interface (ETI).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 3, 2024
+June 3, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exiled Russian, Belarusian Opposition Journalists Targeted With Pegasus Spyware<a href="https://therecord.media/exiled-journalists-russia-belarus-pegasus-spyware?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Exiled Russian, Belarusian Opposition Journalists Targeted With Pegasus Spyware<
 Researchers have found that at least seven Russian and Belarusian-speaking independent journalists and opposition activists were targeted or infected with the infamous spying malware called Pegasus.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
