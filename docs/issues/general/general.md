@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+June 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Challenges Mount as Companies Handle Thousands of APIs<a href="https://www.helpnetsecurity.com/2024/06/04/companies-api-management-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Modern applications are taking over enterprise portfolios, with apps classed as modern now making up 51% of the total, up by more than a quarter in the last year, according to F5.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resilience Isn’t Enough, NATO Must be ‘Proactive’ for Cyberdefense, Warns Official<a href="https://therecord.media/nato-resilience-cyberdefense-liflander-cycon?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NATO allies must allow their militaries to be proactive in cyberspace to prevent disruptions in force deployment during a conflict, warned Christian-Marc Lifländer, head of NATO's cyber and hybrid policy section.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Businesses Must Prioritize Digital Trust to Avoid Major Problems<a href="https://www.helpnetsecurity.com/2024/06/03/digital-trust-importance/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As organizations pursue digital transformation, they urgently need to prioritize digital trust to achieve their goals and prepare for future market opportunities, legislation, and regulatory compliance, according to ISACA.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

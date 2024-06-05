@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Challenges Mount as Companies Handle Thousands of APIs<a href="https://www.helpnetsecurity.com/2024/06/04/companies-api-management-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Modern applications are taking over enterprise portfolios, with apps classed as modern now making up 51% of the total, up by more than a quarter in the last year, according to F5.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sophisticated RAT Targeting Gulp Projects on npm<a href="https://blog.phylum.io/sophisticated-rat-shell-targeting-gulp-projects-on-npm/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NPM package masquerades as a logger for gulp and gulp plugins and has been downloaded 175 times. It contains two obfuscated files that work together to deploy the malicious payload.
+</details>
+<div style="text-align: right" markdown="1">
+Phylum
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure Service Tags Tagged as Security Risk, Microsoft Disagrees<a href="https://www.bleepingcomputer.com/news/microsoft/azure-service-tags-tagged-as-security-risk-microsoft-disagrees/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azure Service Tags, which are used for firewall filtering and access control, have been flagged as a security risk by Tenable. They discovered a vulnerability that could enable attackers to access customers' confidential information.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android Trojan ‘Viper RAT’ Advertised on Dark Web Forums to Steal User Data<a href="https://thecyberexpress.com/viper-rat-goes-on-sale/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor behind Viper RAT has established a dedicated website and a Telegram account for ordering, adding a level of credibility. The cost of this malicious tool is surprisingly low, suggesting malicious intent.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Released PoC Exploit Code for a Critical Bug in Progress Telerik Report Servers<a href="https://securityaffairs.com/164114/hacking/progress-telerik-report-servers-poc.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers published a proof-of-concept (PoC) exploit code for an authentication bypass vulnerability on Progress Telerik Report Servers. Telerik Report Server is an end-to-end report management solution developed by Progress® Telerik.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Excel File Deploys Cobalt Strike in Advanced Attack on Ukraine<a href="https://www.fortinet.com/blog/threat-research/menace-unleashed-excel-file-deploys-cobalt-strike-at-ukraine?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DLL downloader is obfuscated with ConfuserEx and carries out various tasks, such as terminating processes associated with analysis tools or antivirus software and downloading the next stage payload from a specific URL.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Resilience Isn’t Enough, NATO Must be ‘Proactive’ for Cyberdefense, Warns Official<a href="https://therecord.media/nato-resilience-cyberdefense-liflander-cycon?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NATO allies must allow their militaries to be proactive in cyberspace to prevent disruptions in force deployment during a conflict, warned Christian-Marc Lifländer, head of NATO's cyber and hybrid policy section.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Cryptocurrency Scam Goes for the Cash Prize<a href="https://www.malwarebytes.com/blog/news/2024/06/whatsapp-cryptocurrency-scam-goes-for-the-cash-prize?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any unsolicited WhatsApp message from an unknown person is suspect. No matter how harmless or friendly it may seem. Most pig butchering scams start with what seems a misdirected message.
+</details>
+<div style="text-align: right" markdown="1">
+MalwareBytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Businesses Must Prioritize Digital Trust to Avoid Major Problems<a href="https://www.helpnetsecurity.com/2024/06/03/digital-trust-importance/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As organizations pursue digital transformation, they urgently need to prioritize digital trust to achieve their goals and prepare for future market opportunities, legislation, and regulatory compliance, according to ISACA.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+High-Risk Atlassian Confluence RCE Fixed, PoC Available (CVE-2024-21683)<a href="https://www.helpnetsecurity.com/2024/06/03/cve-2024-21683-poc/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-risk remote code execution (RCE) vulnerability in Atlassian Confluence has been fixed. Users should upgrade to the latest version as a Proof of Concept (PoC) and technical details of the flaw (CVE-2024-21683) are already public.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 3, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

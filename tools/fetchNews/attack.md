@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+June 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Execution Technique Observed in ClearFake Campaign<a href="https://www.reliaquest.com/blog/new-execution-technique-in-clearfake-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ReliaQuest observed new execution techniques in a campaign from the JavaScript framework “ClearFake,” tricking users into copying, pasting, and manually executing malicious PowerShell code.
+</details>
+<div style="text-align: right" markdown="1">
+ReliaQuest
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LilacSquid Targeted Organizations in the U.S., Europe, and Asia Since 2021<a href="https://securityaffairs.com/163927/apt/lilacsquid-targeted-orgs-in-us-europe-asia.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks targeted entities in multiple industries, including organizations in information technology and industrial sectors in the United States, organizations in the energy sector in Europe, and the pharmaceutical sector in Asia.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
