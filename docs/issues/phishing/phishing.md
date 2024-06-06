@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+V3B Phishing Kit Targets Over 50 European Banks, Bypasses MFA<a href="https://www.bankinfosecurity.com/phishing-kit-targets-european-banks-bypasses-mfa-a-25395?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The V3B phishing kit is designed to evade detection and supports real-time interaction to bypass MFA. In addition to traditional tokens such as SMS codes, it handles QR Codes and PhotoTAN authentication methods.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

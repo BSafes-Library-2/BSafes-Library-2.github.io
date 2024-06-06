@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Excel File Deploys Cobalt Strike in Advanced Attack on Ukraine<a href="https://www.fortinet.com/blog/threat-research/menace-unleashed-excel-file-deploys-cobalt-strike-at-ukraine?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DLL downloader is obfuscated with ConfuserEx and carries out various tasks, such as terminating processes associated with analysis tools or antivirus software and downloading the next stage payload from a specific URL.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp Cryptocurrency Scam Goes for the Cash Prize<a href="https://www.malwarebytes.com/blog/news/2024/06/whatsapp-cryptocurrency-scam-goes-for-the-cash-prize?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Any unsolicited WhatsApp message from an unknown person is suspect. No matter how harmless or friendly it may seem. Most pig butchering scams start with what seems a misdirected message.
+</details>
+<div style="text-align: right" markdown="1">
+MalwareBytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

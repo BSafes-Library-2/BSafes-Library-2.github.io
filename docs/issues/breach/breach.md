@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Threat Clusters Triple-Team High-Profile Asian Government Organization<a href="https://www.darkreading.com/threat-intelligence/chinese-threat-clusters-triple-team-high-profile-asian-government-org?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers successfully stole numerous files and emails, including strategic documents related to the South China Sea, a territory contested by the victim government and China.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

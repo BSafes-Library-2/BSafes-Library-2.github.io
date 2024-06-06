@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TargetCompany’s Linux Variant Targets ESXi Environments<a href="https://www.trendmicro.com/en_us/research/24/f/targetcompany-s-linux-variant-targets-esxi-environments.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TargetCompany ransomware group is now employing a new Linux variant that uses a custom shell script as a means of payload delivery and execution, a technique not seen in previous variants.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Fog' Ransomware Rolls in to Target Education, Recreation Sectors<a href="https://www.darkreading.com/threat-intelligence/fog-ransomware-rolls-in-to-target-education-recreation-sectors?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fog attacks typically begin with stolen virtual private network (VPN) credentials, an increasingly popular means of initial access into sizable organizations. The group has exploited two different VPN gateway vendors thus far.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Readin
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
