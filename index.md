@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Threat Clusters Triple-Team High-Profile Asian Government Organization<a href="https://www.darkreading.com/threat-intelligence/chinese-threat-clusters-triple-team-high-profile-asian-government-org?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers successfully stole numerous files and emails, including strategic documents related to the South China Sea, a territory contested by the victim government and China.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TargetCompany’s Linux Variant Targets ESXi Environments<a href="https://www.trendmicro.com/en_us/research/24/f/targetcompany-s-linux-variant-targets-esxi-environments.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The TargetCompany ransomware group is now employing a new Linux variant that uses a custom shell script as a means of payload delivery and execution, a technique not seen in previous variants.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch Your Hardy Barth cPH2 Wallbox for Critical Security Flaw<a href="https://thecyberexpress.com/cve-2023-46359-urgent-patch/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Interpol404, a threat actor (TA) is selling exploit code for a critical security vulnerability (CVE-2023-46359) on the Nuovo BreachForums. The TA has set a price tag of $200 for this vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+V3B Phishing Kit Targets Over 50 European Banks, Bypasses MFA<a href="https://www.bankinfosecurity.com/phishing-kit-targets-european-banks-bypasses-mfa-a-25395?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The V3B phishing kit is designed to evade detection and supports real-time interaction to bypass MFA. In addition to traditional tokens such as SMS codes, it handles QR Codes and PhotoTAN authentication methods.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Africa Ranks Low on Phishing Cyber Resilience<a href="https://www.darkreading.com/vulnerabilities-threats/africa-ranks-low-on-phishing-cyber-resilience?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Findings from KnowBe4 show that Africa's baseline phish-prone percentage (PPP) jumped from 32.8% to 36.7% in one year. In other words, more than one in three individuals in a company will fall for phishing schemes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android Security Bulletin for June 2024 Addresses 37 Vulnerabilities<a href="https://source.android.com/docs/security/bulletin/2024-06-01?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The June 2024 update for Android includes patches for high-severity flaws in the Framework and System components, addressing issues such as elevation of privilege and information disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Account Takeovers Outpace Ransomware as Top Security Concern<a href="https://www.infosecurity-magazine.com/news/ato-outpace-ransomware-top/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the 2024 State of Cloud Account Takeover Attacks report by Abnormal Security, 83% of organizations experienced at least one account takeover in the past year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zyxel Issues Emergency RCE Patch for End-of-Life NAS Devices<a href="https://www.bleepingcomputer.com/news/security/zyxel-issues-emergency-rce-patch-for-end-of-life-nas-devices/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An attacker can exploit the vulnerabilities to perform command injection attacks and achieve remote code execution. Two flaws can also allow attackers to elevate privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Deprecates Windows NTLM Authentication Protocol<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-windows-ntlm-authentication-protocol/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says the NTLM protocols, which are still widely used today, are no longer under active development as of June and will be phased out in favor of more secure alternatives.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Fog' Ransomware Rolls in to Target Education, Recreation Sectors<a href="https://www.darkreading.com/threat-intelligence/fog-ransomware-rolls-in-to-target-education-recreation-sectors?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fog attacks typically begin with stolen virtual private network (VPN) credentials, an increasingly popular means of initial access into sizable organizations. The group has exploited two different VPN gateway vendors thus far.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 4, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
