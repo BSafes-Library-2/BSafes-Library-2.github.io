@@ -34,7 +34,151 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2024
+June 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Websites Targeted by Fake Google Chrome Update Pop-Ups<a href="https://blog.sucuri.net/2024/06/hundreds-sites-targeted-by-fake-chrome-update-pop-ups.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers inject malicious code into vulnerable websites, displaying a misleading pop-up message urging users to update their web browsers. Clicking on the provided link leads to downloading malware like a remote access trojan or an info-stealer.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Muhstik Malware Targets Message Queuing Services Applications<a href="https://www.aquasec.com/blog/muhstik-malware-targets-message-queuing-services-applications/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A remote code execution vulnerability, CVE-2023-33246, was discovered for RocketMQ versions 5.1.0 and below, allowing attackers to execute commands within the system using the update configuration function.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel 'Commando Cat' Cryptojacking Campaign Abuses Docker Remote API Servers<a href="https://www.trendmicro.com/en_us/research/24/f/commando-cat-a-novel-cryptojacking-attack-.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack utilizes Docker images from the open-source Commando project. The attackers use the cmd.cat/chattr image to gain initial access to the server and employ techniques like chroot and volume binding to access the host system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Check-in Terminals Used at Thousands of Hotels Found Leaking Guest Information<a href="https://www.bleepingcomputer.com/news/security/check-in-terminals-used-by-thousands-of-hotels-leak-guest-info/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ariane Systems self-check-in systems installed at thousands of hotels worldwide are vulnerable to a kiosk mode bypass flaw that could allow access to guests’ personal information and the keys for other rooms.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomHub Extortion Gang Linked to Now-Defunct Knight Ransomware<a href="https://www.bleepingcomputer.com/news/security/ransomhub-extortion-gang-linked-to-now-defunct-knight-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Symantec analysts discovered similarities between the two ransomware families, indicating a common origin. They also believe that RansomHub is run by another actor who purchased the Knight source code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CarnavalHeist Banking Trojan Targets Brazil with Overlay Attacks<a href="https://www.pcrisk.com/removal-guides/30138-carnavalheist-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware primarily targets Brazilian users, as evidenced by the use of Portuguese throughout the infection chain and the C2 infrastructure exclusively using the BrazilSouth availability zone on Microsoft Azure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Jailbreaks: What They are and How They can be Mitigated<a href="https://www.microsoft.com/en-us/security/blog/2024/06/04/ai-jailbreaks-what-they-are-and-how-they-can-be-mitigated/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI jailbreaks can lead to various risks and harms, including unauthorized data access, sensitive data exfiltration, generating ransomware, subversion of decision-making systems, and IP infringement.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vulnerability in Cisco Webex Cloud Service Exposed Government Authorities, Companies<a href="https://www.helpnetsecurity.com/2024/06/05/cisco-webex-cloud-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A vulnerability in Cisco Webex allowed a German journalist to find links to video conference meetings held by the Bundeswehr and the SPD, affecting both self-hosted and cloud instances.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DarkCrystal RAT Delivered via Signal Messenger<a href="https://www.broadcom.com/support/security-center/protection-bulletin/darkcrystal-rat-delivered-via-signal-messenger?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity experts have found that the Signal messenger app is being used to distribute DarkCrystal RAT. This malware is being targeted at high-profile individuals in Ukraine, including government officials and military personnel.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 5, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Threat Clusters Triple-Team High-Profile Asian Government Organization<a href="https://www.darkreading.com/threat-intelligence/chinese-threat-clusters-triple-team-high-profile-asian-government-org?&web_view=true"> Full Text</a>
@@ -44,13 +188,13 @@ Chinese Threat Clusters Triple-Team High-Profile Asian Government Organization<a
 The attackers successfully stole numerous files and emails, including strategic documents related to the South China Sea, a territory contested by the victim government and China.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2024
+June 5, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TargetCompany’s Linux Variant Targets ESXi Environments<a href="https://www.trendmicro.com/en_us/research/24/f/targetcompany-s-linux-variant-targets-esxi-environments.html?&web_view=true"> Full Text</a>
@@ -60,13 +204,13 @@ TargetCompany’s Linux Variant Targets ESXi Environments<a href="https://www.tr
 The TargetCompany ransomware group is now employing a new Linux variant that uses a custom shell script as a means of payload delivery and execution, a technique not seen in previous variants.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2024
+June 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Patch Your Hardy Barth cPH2 Wallbox for Critical Security Flaw<a href="https://thecyberexpress.com/cve-2023-46359-urgent-patch/?&web_view=true"> Full Text</a>
@@ -76,13 +220,13 @@ Patch Your Hardy Barth cPH2 Wallbox for Critical Security Flaw<a href="https://t
 Interpol404, a threat actor (TA) is selling exploit code for a critical security vulnerability (CVE-2023-46359) on the Nuovo BreachForums. The TA has set a price tag of $200 for this vulnerability.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2024
+June 5, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 V3B Phishing Kit Targets Over 50 European Banks, Bypasses MFA<a href="https://www.bankinfosecurity.com/phishing-kit-targets-european-banks-bypasses-mfa-a-25395?&web_view=true"> Full Text</a>
@@ -92,13 +236,13 @@ V3B Phishing Kit Targets Over 50 European Banks, Bypasses MFA<a href="https://ww
 The V3B phishing kit is designed to evade detection and supports real-time interaction to bypass MFA. In addition to traditional tokens such as SMS codes, it handles QR Codes and PhotoTAN authentication methods.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2024
+June 5, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Africa Ranks Low on Phishing Cyber Resilience<a href="https://www.darkreading.com/vulnerabilities-threats/africa-ranks-low-on-phishing-cyber-resilience?&web_view=true"> Full Text</a>
@@ -108,13 +252,13 @@ Africa Ranks Low on Phishing Cyber Resilience<a href="https://www.darkreading.co
 Findings from KnowBe4 show that Africa's baseline phish-prone percentage (PPP) jumped from 32.8% to 36.7% in one year. In other words, more than one in three individuals in a company will fall for phishing schemes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2024
+June 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android Security Bulletin for June 2024 Addresses 37 Vulnerabilities<a href="https://source.android.com/docs/security/bulletin/2024-06-01?&web_view=true"> Full Text</a>
@@ -124,13 +268,13 @@ Android Security Bulletin for June 2024 Addresses 37 Vulnerabilities<a href="htt
 The June 2024 update for Android includes patches for high-severity flaws in the Framework and System components, addressing issues such as elevation of privilege and information disclosure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Android
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2024
+June 5, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Account Takeovers Outpace Ransomware as Top Security Concern<a href="https://www.infosecurity-magazine.com/news/ato-outpace-ransomware-top/?&web_view=true"> Full Text</a>
@@ -140,13 +284,13 @@ Account Takeovers Outpace Ransomware as Top Security Concern<a href="https://www
 According to the 2024 State of Cloud Account Takeover Attacks report by Abnormal Security, 83% of organizations experienced at least one account takeover in the past year.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2024
+June 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zyxel Issues Emergency RCE Patch for End-of-Life NAS Devices<a href="https://www.bleepingcomputer.com/news/security/zyxel-issues-emergency-rce-patch-for-end-of-life-nas-devices/?&web_view=true"> Full Text</a>
@@ -156,13 +300,13 @@ Zyxel Issues Emergency RCE Patch for End-of-Life NAS Devices<a href="https://www
 An attacker can exploit the vulnerabilities to perform command injection attacks and achieve remote code execution. Two flaws can also allow attackers to elevate privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2024
+June 5, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Deprecates Windows NTLM Authentication Protocol<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-windows-ntlm-authentication-protocol/?&web_view=true"> Full Text</a>
@@ -172,13 +316,13 @@ Microsoft Deprecates Windows NTLM Authentication Protocol<a href="https://www.bl
 Microsoft says the NTLM protocols, which are still widely used today, are no longer under active development as of June and will be phased out in favor of more secure alternatives.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 5, 2024
+June 5, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Fog' Ransomware Rolls in to Target Education, Recreation Sectors<a href="https://www.darkreading.com/threat-intelligence/fog-ransomware-rolls-in-to-target-education-recreation-sectors?&web_view=true"> Full Text</a>
@@ -188,7 +332,7 @@ June 5, 2024
 Fog attacks typically begin with stolen virtual private network (VPN) credentials, an increasingly popular means of initial access into sizable organizations. The group has exploited two different VPN gateway vendors thus far.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Readin
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
