@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+June 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Africa Ranks Low on Phishing Cyber Resilience<a href="https://www.darkreading.com/vulnerabilities-threats/africa-ranks-low-on-phishing-cyber-resilience?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Findings from KnowBe4 show that Africa's baseline phish-prone percentage (PPP) jumped from 32.8% to 36.7% in one year. In other words, more than one in three individuals in a company will fall for phishing schemes.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Account Takeovers Outpace Ransomware as Top Security Concern<a href="https://www.infosecurity-magazine.com/news/ato-outpace-ransomware-top/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the 2024 State of Cloud Account Takeover Attacks report by Abnormal Security, 83% of organizations experienced at least one account takeover in the past year.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Deprecates Windows NTLM Authentication Protocol<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-windows-ntlm-authentication-protocol/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft says the NTLM protocols, which are still widely used today, are no longer under active development as of June and will be phased out in favor of more secure alternatives.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

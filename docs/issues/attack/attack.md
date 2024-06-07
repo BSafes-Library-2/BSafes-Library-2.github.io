@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel 'Commando Cat' Cryptojacking Campaign Abuses Docker Remote API Servers<a href="https://www.trendmicro.com/en_us/research/24/f/commando-cat-a-novel-cryptojacking-attack-.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack utilizes Docker images from the open-source Commando project. The attackers use the cmd.cat/chattr image to gain initial access to the server and employ techniques like chroot and volume binding to access the host system.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

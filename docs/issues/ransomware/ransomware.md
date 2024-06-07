@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+June 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RansomHub Extortion Gang Linked to Now-Defunct Knight Ransomware<a href="https://www.bleepingcomputer.com/news/security/ransomhub-extortion-gang-linked-to-now-defunct-knight-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Symantec analysts discovered similarities between the two ransomware families, indicating a common origin. They also believe that RansomHub is run by another actor who purchased the Knight source code.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
