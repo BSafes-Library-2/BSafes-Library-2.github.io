@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2024
+June 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Seize Domains Linked to Crypto Investment Scam Preying on New York’s Russian Diaspora<a href="https://therecord.media/feds-seize-crypto-scam-domains-brooklyn?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scam involved fraudulent cryptocurrency investments and a shared narrative that enticed victims through Facebook advertisements featuring a deepfake video of Elon Musk.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Recall Will be Opt-in and the Data More Secure, Microsoft Says<a href="https://www.helpnetsecurity.com/2024/06/07/windows-recall-changes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has now made the feature optional, meaning it will be off by default unless users choose to enable it. Additionally, the search index database, which holds the content from the screenshots, will be encrypted.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious VSCode Extensions with Millions of Installs Discovered<a href="https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-with-millions-of-installs-discovered/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that the malicious code went undetected by endpoint detection and response (EDR) tools, as VSCode is treated leniently due to its nature as a development and testing system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hacktivists Vow Mass Attacks Against EU Elections<a href="https://www.theregister.com/2024/06/07/russian_hacktivists_eu_elections/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian hacktivist group, NoName57(16), along with seven other groups, has announced plans to launch mass cyber attacks on European internet infrastructure during the EU elections.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious AutoIt Script Delivers Vidar Stealer via Drive-by Downloads<a href="https://www.esentire.com/blog/autoit-delivering-vidar-stealer-via-drive-by-downloads?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack utilized Java dependencies and a malicious AutoIt script to disable Windows Defender and decrypt the Vidar payload. The user was lured to a website claiming to offer a Windows activator but was in fact hosting the malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 26% of Organizations Lack Any Form of IT Security Training<a href="https://www.helpnetsecurity.com/2024/06/07/organizations-it-security-training-effectiveness/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent survey conducted by Hornetsecurity has found that 26% of organizations do not provide any IT security training to their end-users. This lack of training is worrying, considering that employees are the first line of defense against attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guardian Analytics and Webster Bank Settle $1.4 Million Data Breach Lawsuit<a href="https://thecyberexpress.com/guardian-analytics-webster-bank-data-breach/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Plaintiffs contended that both Guardian Analytics, a provider of data analytics services to financial institutions, and Webster Bank, failed to implement sufficient measures to safeguard sensitive customer information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Planning JCDC Overhaul as Experts Criticize Slow Start<a href="https://www.healthcareinfosecurity.com/cisa-planning-jcdc-overhaul-as-experts-criticize-slow-start-a-25457?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The top U.S. cyber defense agency may overhaul its flagship public-private partnership as experts say the initiative is floundering due to unclear membership rules and participation hurdles.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Insurance Isn’t the Answer for Ransom Payments<a href="https://www.helpnetsecurity.com/2024/06/07/ransomware-attacks-impact-cost-on-organizations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware continues to pose a significant threat to organizations, with 41% of data compromised during cyberattacks, according to Veeam. The use of AI has led to more advanced and sophisticated attacks, impacting 75% of organizations in 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Greenlights $200M Pilot for School and Library Cybersecurity<a href="https://www.nextgov.com/cybersecurity/2024/06/fcc-greenlights-200m-pilot-school-and-library-cybersecurity/397172/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission on Thursday voted to kickstart a three year pilot program that would study the use of agency funding to support cybersecurity services and equipment for school and library networks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 6, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of Websites Targeted by Fake Google Chrome Update Pop-Ups<a href="https://blog.sucuri.net/2024/06/hundreds-sites-targeted-by-fake-chrome-update-pop-ups.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Hundreds of Websites Targeted by Fake Google Chrome Update Pop-Ups<a href="https
 Hackers inject malicious code into vulnerable websites, displaying a misleading pop-up message urging users to update their web browsers. Clicking on the provided link leads to downloading malware like a remote access trojan or an info-stealer.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2024
+June 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Muhstik Malware Targets Message Queuing Services Applications<a href="https://www.aquasec.com/blog/muhstik-malware-targets-message-queuing-services-applications/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Muhstik Malware Targets Message Queuing Services Applications<a href="https://ww
 A remote code execution vulnerability, CVE-2023-33246, was discovered for RocketMQ versions 5.1.0 and below, allowing attackers to execute commands within the system using the update configuration function.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Aqua
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2024
+June 6, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Novel 'Commando Cat' Cryptojacking Campaign Abuses Docker Remote API Servers<a href="https://www.trendmicro.com/en_us/research/24/f/commando-cat-a-novel-cryptojacking-attack-.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Novel 'Commando Cat' Cryptojacking Campaign Abuses Docker Remote API Servers<a h
 The attack utilizes Docker images from the open-source Commando project. The attackers use the cmd.cat/chattr image to gain initial access to the server and employ techniques like chroot and volume binding to access the host system.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2024
+June 6, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Check-in Terminals Used at Thousands of Hotels Found Leaking Guest Information<a href="https://www.bleepingcomputer.com/news/security/check-in-terminals-used-by-thousands-of-hotels-leak-guest-info/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Check-in Terminals Used at Thousands of Hotels Found Leaking Guest Information<a
 Ariane Systems self-check-in systems installed at thousands of hotels worldwide are vulnerable to a kiosk mode bypass flaw that could allow access to guests’ personal information and the keys for other rooms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2024
+June 6, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RansomHub Extortion Gang Linked to Now-Defunct Knight Ransomware<a href="https://www.bleepingcomputer.com/news/security/ransomhub-extortion-gang-linked-to-now-defunct-knight-ransomware/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ RansomHub Extortion Gang Linked to Now-Defunct Knight Ransomware<a href="https:/
 Symantec analysts discovered similarities between the two ransomware families, indicating a common origin. They also believe that RansomHub is run by another actor who purchased the Knight source code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2024
+June 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CarnavalHeist Banking Trojan Targets Brazil with Overlay Attacks<a href="https://www.pcrisk.com/removal-guides/30138-carnavalheist-malware?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ CarnavalHeist Banking Trojan Targets Brazil with Overlay Attacks<a href="https:/
 The malware primarily targets Brazilian users, as evidenced by the use of Portuguese throughout the infection chain and the C2 infrastructure exclusively using the BrazilSouth availability zone on Microsoft Azure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+PC Risk
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2024
+June 6, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI Jailbreaks: What They are and How They can be Mitigated<a href="https://www.microsoft.com/en-us/security/blog/2024/06/04/ai-jailbreaks-what-they-are-and-how-they-can-be-mitigated/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ AI Jailbreaks: What They are and How They can be Mitigated<a href="https://www.m
 AI jailbreaks can lead to various risks and harms, including unauthorized data access, sensitive data exfiltration, generating ransomware, subversion of decision-making systems, and IP infringement.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Microsoft
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2024
+June 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerability in Cisco Webex Cloud Service Exposed Government Authorities, Companies<a href="https://www.helpnetsecurity.com/2024/06/05/cisco-webex-cloud-vulnerability/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Vulnerability in Cisco Webex Cloud Service Exposed Government Authorities, Compa
 A vulnerability in Cisco Webex allowed a German journalist to find links to video conference meetings held by the Bundeswehr and the SPD, affecting both self-hosted and cloud instances.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 6, 2024
+June 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DarkCrystal RAT Delivered via Signal Messenger<a href="https://www.broadcom.com/support/security-center/protection-bulletin/darkcrystal-rat-delivered-via-signal-messenger?&web_view=true"> Full Text</a>
@@ -172,7 +332,7 @@ DarkCrystal RAT Delivered via Signal Messenger<a href="https://www.broadcom.com/
 Cybersecurity experts have found that the Signal messenger app is being used to distribute DarkCrystal RAT. This malware is being targeted at high-profile individuals in Ukraine, including government officials and military personnel.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Broadcom
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -332,7 +492,7 @@ June 5, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 Fog attacks typically begin with stolen virtual private network (VPN) credentials, an increasingly popular means of initial access into sizable organizations. The group has exploited two different VPN gateway vendors thus far.
 </details>
 <div style="text-align: right" markdown="1">
-Dark Readin
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
