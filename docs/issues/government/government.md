@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+June 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Planning JCDC Overhaul as Experts Criticize Slow Start<a href="https://www.healthcareinfosecurity.com/cisa-planning-jcdc-overhaul-as-experts-criticize-slow-start-a-25457?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The top U.S. cyber defense agency may overhaul its flagship public-private partnership as experts say the initiative is floundering due to unclear membership rules and participation hurdles.
+</details>
+<div style="text-align: right" markdown="1">
+Healthcare Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FCC Greenlights $200M Pilot for School and Library Cybersecurity<a href="https://www.nextgov.com/cybersecurity/2024/06/fcc-greenlights-200m-pilot-school-and-library-cybersecurity/397172/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Federal Communications Commission on Thursday voted to kickstart a three year pilot program that would study the use of agency funding to support cybersecurity services and equipment for school and library networks.
+</details>
+<div style="text-align: right" markdown="1">
+NextGov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

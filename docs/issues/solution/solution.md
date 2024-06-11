@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows Recall Will be Opt-in and the Data More Secure, Microsoft Says<a href="https://www.helpnetsecurity.com/2024/06/07/windows-recall-changes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has now made the feature optional, meaning it will be off by default unless users choose to enable it. Additionally, the search index database, which holds the content from the screenshots, will be encrypted.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 30, 2024 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

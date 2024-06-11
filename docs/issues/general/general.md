@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 26% of Organizations Lack Any Form of IT Security Training<a href="https://www.helpnetsecurity.com/2024/06/07/organizations-it-security-training-effectiveness/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent survey conducted by Hornetsecurity has found that 26% of organizations do not provide any IT security training to their end-users. This lack of training is worrying, considering that employees are the first line of defense against attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Insurance Isn’t the Answer for Ransom Payments<a href="https://www.helpnetsecurity.com/2024/06/07/ransomware-attacks-impact-cost-on-organizations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware continues to pose a significant threat to organizations, with 41% of data compromised during cyberattacks, according to Veeam. The use of AI has led to more advanced and sophisticated attacks, impacting 75% of organizations in 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

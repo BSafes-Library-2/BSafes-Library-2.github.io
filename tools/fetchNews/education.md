@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Jailbreaks: What They are and How They can be Mitigated<a href="https://www.microsoft.com/en-us/security/blog/2024/06/04/ai-jailbreaks-what-they-are-and-how-they-can-be-mitigated/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI jailbreaks can lead to various risks and harms, including unauthorized data access, sensitive data exfiltration, generating ransomware, subversion of decision-making systems, and IP infringement.
+</details>
+<div style="text-align: right" markdown="1">
+Microsoft
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

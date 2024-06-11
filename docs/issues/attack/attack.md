@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hacktivists Vow Mass Attacks Against EU Elections<a href="https://www.theregister.com/2024/06/07/russian_hacktivists_eu_elections/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Russian hacktivist group, NoName57(16), along with seven other groups, has announced plans to launch mass cyber attacks on European internet infrastructure during the EU elections.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

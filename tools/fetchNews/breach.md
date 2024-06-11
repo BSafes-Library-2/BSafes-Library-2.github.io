@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+June 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of Websites Targeted by Fake Google Chrome Update Pop-Ups<a href="https://blog.sucuri.net/2024/06/hundreds-sites-targeted-by-fake-chrome-update-pop-ups.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers inject malicious code into vulnerable websites, displaying a misleading pop-up message urging users to update their web browsers. Clicking on the provided link leads to downloading malware like a remote access trojan or an info-stealer.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Check-in Terminals Used at Thousands of Hotels Found Leaking Guest Information<a href="https://www.bleepingcomputer.com/news/security/check-in-terminals-used-by-thousands-of-hotels-leak-guest-info/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ariane Systems self-check-in systems installed at thousands of hotels worldwide are vulnerable to a kiosk mode bypass flaw that could allow access to guests’ personal information and the keys for other rooms.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

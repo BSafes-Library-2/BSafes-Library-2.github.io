@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2024
+June 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Seize Domains Linked to Crypto Investment Scam Preying on New York’s Russian Diaspora<a href="https://therecord.media/feds-seize-crypto-scam-domains-brooklyn?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Feds Seize Domains Linked to Crypto Investment Scam Preying on New York’s Russ
 The scam involved fraudulent cryptocurrency investments and a shared narrative that enticed victims through Facebook advertisements featuring a deepfake video of Elon Musk.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2024
+June 10, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Windows Recall Will be Opt-in and the Data More Secure, Microsoft Says<a href="https://www.helpnetsecurity.com/2024/06/07/windows-recall-changes/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Windows Recall Will be Opt-in and the Data More Secure, Microsoft Says<a href="h
 Microsoft has now made the feature optional, meaning it will be off by default unless users choose to enable it. Additionally, the search index database, which holds the content from the screenshots, will be encrypted.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2024
+June 10, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious VSCode Extensions with Millions of Installs Discovered<a href="https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-with-millions-of-installs-discovered/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Malicious VSCode Extensions with Millions of Installs Discovered<a href="https:/
 Researchers found that the malicious code went undetected by endpoint detection and response (EDR) tools, as VSCode is treated leniently due to its nature as a development and testing system.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2024
+June 10, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hacktivists Vow Mass Attacks Against EU Elections<a href="https://www.theregister.com/2024/06/07/russian_hacktivists_eu_elections/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Russian Hacktivists Vow Mass Attacks Against EU Elections<a href="https://www.th
 A Russian hacktivist group, NoName57(16), along with seven other groups, has announced plans to launch mass cyber attacks on European internet infrastructure during the EU elections.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2024
+June 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious AutoIt Script Delivers Vidar Stealer via Drive-by Downloads<a href="https://www.esentire.com/blog/autoit-delivering-vidar-stealer-via-drive-by-downloads?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Malicious AutoIt Script Delivers Vidar Stealer via Drive-by Downloads<a href="ht
 The attack utilized Java dependencies and a malicious AutoIt script to disable Windows Defender and decrypt the Vidar payload. The user was lured to a website claiming to offer a Windows activator but was in fact hosting the malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Esentire
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2024
+June 10, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 26% of Organizations Lack Any Form of IT Security Training<a href="https://www.helpnetsecurity.com/2024/06/07/organizations-it-security-training-effectiveness/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Report: 26% of Organizations Lack Any Form of IT Security Training<a href="https
 A recent survey conducted by Hornetsecurity has found that 26% of organizations do not provide any IT security training to their end-users. This lack of training is worrying, considering that employees are the first line of defense against attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2024
+June 10, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Guardian Analytics and Webster Bank Settle $1.4 Million Data Breach Lawsuit<a href="https://thecyberexpress.com/guardian-analytics-webster-bank-data-breach/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Guardian Analytics and Webster Bank Settle $1.4 Million Data Breach Lawsuit<a hr
 Plaintiffs contended that both Guardian Analytics, a provider of data analytics services to financial institutions, and Webster Bank, failed to implement sufficient measures to safeguard sensitive customer information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2024
+June 10, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Planning JCDC Overhaul as Experts Criticize Slow Start<a href="https://www.healthcareinfosecurity.com/cisa-planning-jcdc-overhaul-as-experts-criticize-slow-start-a-25457?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ CISA Planning JCDC Overhaul as Experts Criticize Slow Start<a href="https://www.
 The top U.S. cyber defense agency may overhaul its flagship public-private partnership as experts say the initiative is floundering due to unclear membership rules and participation hurdles.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Healthcare Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2024
+June 10, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Insurance Isn’t the Answer for Ransom Payments<a href="https://www.helpnetsecurity.com/2024/06/07/ransomware-attacks-impact-cost-on-organizations/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Cyber Insurance Isn’t the Answer for Ransom Payments<a href="https://www.helpn
 Ransomware continues to pose a significant threat to organizations, with 41% of data compromised during cyberattacks, according to Veeam. The use of AI has led to more advanced and sophisticated attacks, impacting 75% of organizations in 2023.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 10, 2024
+June 10, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FCC Greenlights $200M Pilot for School and Library Cybersecurity<a href="https://www.nextgov.com/cybersecurity/2024/06/fcc-greenlights-200m-pilot-school-and-library-cybersecurity/397172/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ FCC Greenlights $200M Pilot for School and Library Cybersecurity<a href="https:/
 The Federal Communications Commission on Thursday voted to kickstart a three year pilot program that would study the use of agency funding to support cybersecurity services and equipment for school and library networks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NextGov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

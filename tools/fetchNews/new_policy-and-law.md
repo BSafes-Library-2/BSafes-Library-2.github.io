@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Guardian Analytics and Webster Bank Settle $1.4 Million Data Breach Lawsuit<a href="https://thecyberexpress.com/guardian-analytics-webster-bank-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Plaintiffs contended that both Guardian Analytics, a provider of data analytics services to financial institutions, and Webster Bank, failed to implement sufficient measures to safeguard sensitive customer information.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 31, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
