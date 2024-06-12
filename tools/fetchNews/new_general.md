@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Pros Change Strategies to Combat AI-Powered Threats<a href="https://www.helpnetsecurity.com/2024/06/10/ai-powered-cyber-threats-rise/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The increase in AI-powered cyber threats has led 75% of security professionals to change their cybersecurity strategies, with a focus on prevention, according to a study by Deep Instinct.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Few CFOs Control Cybersecurity Budgets<a href="https://www.cybersecuritydive.com/news/cfo-cyber-budget-ciso-C-suite/718455/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While it might seem logical for CFOs to have control over cybersecurity budgets, a recent survey by RSM US found that tech executives are making the decisions on allocating money to keep digital operations safe.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+June 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Why CISOs Need to Build Cyber Fault Tolerance Into Their Business<a href="https://www.helpnetsecurity.com/2024/06/10/cisos-activity-areas/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To enhance cybersecurity measures, CISOs should focus on three key areas: building cyber fault tolerance, streamlining the cyber toolset, and developing a resilient cyber workforce.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900095
 
 ## IOT
 ---
+June 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IoT Vulnerabilities Skyrocket, Becoming Key Entry Point for Attackers<a href="https://www.infosecurity-magazine.com/news/iot-vulnerabilities-entry-point/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a Forescout report, IoT vulnerabilities have increased by 136% compared to last year. The study analyzed nearly 19 million devices and found that the proportion of IoT devices with vulnerabilities rose from 14% in 2023 to 33% in 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 30, 2023 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

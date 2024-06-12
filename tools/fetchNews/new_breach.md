@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pandabuy was Extorted Twice by the Same Threat Actor<a href="https://securityaffairs.com/164263/cyber-crime/pandabuy-extorted-again.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pandabuy admitted to paying an undisclosed amount to prevent the data leak but discovered that the threat actor may have shared the data with others. Later, the threat actor offered the entire stolen database for sale.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

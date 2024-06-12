@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+June 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DDoS Attacks Target EU Political Parties as Elections Begin<a href="https://www.bleepingcomputer.com/news/security/ddos-attacks-target-eu-political-parties-as-elections-begin/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cloudflare has detected and mitigated multiple DDoS attack waves on election-related sites and political parties in the Netherlands. The attacks peaked at 115 million and 44 million requests per hour, respectively.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Seize Domains Linked to Crypto Investment Scam Preying on New York’s Russian Diaspora<a href="https://therecord.media/feds-seize-crypto-scam-domains-brooklyn?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scam involved fraudulent cryptocurrency investments and a shared narrative that enticed victims through Facebook advertisements featuring a deepfake video of Elon Musk.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious AutoIt Script Delivers Vidar Stealer via Drive-by Downloads<a href="https://www.esentire.com/blog/autoit-delivering-vidar-stealer-via-drive-by-downloads?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack utilized Java dependencies and a malicious AutoIt script to disable Windows Defender and decrypt the Vidar payload. The user was lured to a website claiming to offer a Windows activator but was in fact hosting the malware.
+</details>
+<div style="text-align: right" markdown="1">
+Esentire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
