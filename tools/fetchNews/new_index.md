@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2024
+June 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Gang May Have Exploited Windows Flaw Before it was Patched<a href="https://therecord.media/black-basta-ransomware-zero-day-windows?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta ransomware operation allegedly exploited a Windows privilege escalation vulnerability (CVE-2024-26169) before it was patched by Microsoft. The flaw allowed attackers to elevate their privileges to SYSTEM.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Criminals Impersonating its Employees in Phone Calls<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-criminals-impersonating-its-employees-in-phone-calls/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has warned the public to be cautious and reminded them that its staff will never ask for money or instruct secrecy. The agency has also provided tips to help people avoid falling for these impersonation scams.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scattered Spider Now Affiliated with RansomHub Following BlackCat Exit<a href="https://www.infosecurity-magazine.com/news/scattered-spider-affiliated/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysis conducted by GuidePoint Security researchers reveals that a section of Scattered Spider, previously associated with ALPHV/BlackCat, is now carrying out ransomware activities with RansomHub.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy Regulators Probe Impact of 23andMe's Mega Breach<a href="https://www.bankinfosecurity.com/privacy-regulators-probe-impact-23andmes-mega-breach-a-25480?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. and Canada's privacy regulators are launching a joint investigation that will focus on the company's compliance with data protection laws, the impact of the October 2023 breach, and whether adequate safeguards were in place.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WarmCookie Gives Cyberattackers New Backdoor for Initial Access<a href="https://www.darkreading.com/cyberattacks-data-breaches/warmcookie-cyberattackers-backdoor-initial-access?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once downloaded, WarmCookie is loaded using PowerShell and subsequently provides functionality for monitoring victims and deploying more damaging payloads like ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Attacks Targeting US and European Organizations Double<a href="https://www.infosecurity-magazine.com/news/phishing-attacks-us-europe-double/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Abnormal Security, the volume of phishing attacks in Europe rose by 112.4% between April 2023 and April 2024, while in the US, they increased by 91.5% over the same period.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Migration Expands the CISO Role Yet Again<a href="https://www.helpnetsecurity.com/2024/06/11/cisos-grc-frameworks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cloud has expanded the attack surface and introduced new compliance challenges for CISOs. In response, security needs to be integrated into governance, risk, and compliance efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Platform UwU Lend Dealing with $20 Million Theft<a href="https://therecord.media/uwu-lend-reimbursing-crypto-theft-customers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DeFi platform UwU Lend has offered to negotiate with the hacker responsible for stealing $20 million worth of ETH. The company paused operations and launched an investigation after several blockchain security firms reported the theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Arrested Over ‘Text Message Blaster’ Smish Campaign<a href="https://www.theregister.com/2024/06/10/two_arrested_uk_smishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The suspects used homemade hardware, described as a "homemade mobile antenna," "an illegitimate telephone mast," and a "text message blaster," to bypass network operators' anti-phishing defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forced-Labor Camps Fuel Billions of Dollars in Cyber Scams<a href="https://www.darkreading.com/cyber-risk/forced-labor-camps-fuel-billions-of-dollars-in-cyber-scams?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese crime syndicates have shifted their operations from illicit gambling houses to online cybercrime fraud due to border closures and increased scrutiny in 2020. These syndicates have successfully stolen billions of dollars through various scams.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Noodle RAT: Reviewing the New Backdoor Used by Chinese-Speaking Groups<a href="https://www.trendmicro.com/en_us/research/24/f/noodle-rat-reviewing-the-new-backdoor-used-by-chinese-speaking-g.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Noodle RAT: Reviewing the New Backdoor Used by Chinese-Speaking Groups<a href="h
 Noodle RAT is a backdoor used by Chinese-speaking groups for cybercrime and espionage. This malware, both its Windows and Linux versions, has existed since 2016 but was misidentified as variants of other malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2024
+June 11, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Radare: Open-Source Reverse Engineering Framework<a href="https://www.helpnetsecurity.com/2024/06/10/radare-open-source-reverse-engineering-framework/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Radare: Open-Source Reverse Engineering Framework<a href="https://www.helpnetsec
 Radare started as a simple command-line hexadecimal editor but has evolved to become a versatile tool for various tasks such as debugging, disassembling, and exploring different architectures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2024
+June 11, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Variant of ValleyRAT Delivered via DLL Sideloading and Process Injection<a href="https://www.zscaler.com/blogs/security-research/technical-analysis-latest-variant-valleyrat?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Latest Variant of ValleyRAT Delivered via DLL Sideloading and Process Injection<
 The downloader and loader utilized in the campaign employ various techniques, including anti-virus checks, DLL sideloading, and process injection. The configuration to communicate to the C2 server is identified by a specific marker.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2024
+June 11, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Pros Change Strategies to Combat AI-Powered Threats<a href="https://www.helpnetsecurity.com/2024/06/10/ai-powered-cyber-threats-rise/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Cybersecurity Pros Change Strategies to Combat AI-Powered Threats<a href="https:
 The increase in AI-powered cyber threats has led 75% of security professionals to change their cybersecurity strategies, with a focus on prevention, according to a study by Deep Instinct.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2024
+June 11, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS Attacks Target EU Political Parties as Elections Begin<a href="https://www.bleepingcomputer.com/news/security/ddos-attacks-target-eu-political-parties-as-elections-begin/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ DDoS Attacks Target EU Political Parties as Elections Begin<a href="https://www.
 Cloudflare has detected and mitigated multiple DDoS attack waves on election-related sites and political parties in the Netherlands. The attacks peaked at 115 million and 44 million requests per hour, respectively.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2024
+June 11, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Why CISOs Need to Build Cyber Fault Tolerance Into Their Business<a href="https://www.helpnetsecurity.com/2024/06/10/cisos-activity-areas/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Why CISOs Need to Build Cyber Fault Tolerance Into Their Business<a href="https:
 To enhance cybersecurity measures, CISOs should focus on three key areas: building cyber fault tolerance, streamlining the cyber toolset, and developing a resilient cyber workforce.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2024
+June 11, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More_eggs Activity Persists via Fake Job Applicant Lures<a href="https://www.esentire.com/blog/more-eggs-activity-persists-via-fake-job-applicant-lures?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ More_eggs Activity Persists via Fake Job Applicant Lures<a href="https://www.ese
 Cybersecurity researchers have discovered a phishing attack that utilizes the More_eggs malware by disguising it as a resume, a tactic that was first detected over two years ago.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Esentire
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2024
+June 11, 2024 -- [IOT](/docs/issues/iot/iot/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IoT Vulnerabilities Skyrocket, Becoming Key Entry Point for Attackers<a href="https://www.infosecurity-magazine.com/news/iot-vulnerabilities-entry-point/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ IoT Vulnerabilities Skyrocket, Becoming Key Entry Point for Attackers<a href="ht
 According to a Forescout report, IoT vulnerabilities have increased by 136% compared to last year. The study analyzed nearly 19 million devices and found that the proportion of IoT devices with vulnerabilities rose from 14% in 2023 to 33% in 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2024
+June 11, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Few CFOs Control Cybersecurity Budgets<a href="https://www.cybersecuritydive.com/news/cfo-cyber-budget-ciso-C-suite/718455/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Report: Few CFOs Control Cybersecurity Budgets<a href="https://www.cybersecurity
 While it might seem logical for CFOs to have control over cybersecurity budgets, a recent survey by RSM US found that tech executives are making the decisions on allocating money to keep digital operations safe.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 11, 2024
+June 11, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pandabuy was Extorted Twice by the Same Threat Actor<a href="https://securityaffairs.com/164263/cyber-crime/pandabuy-extorted-again.html?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Pandabuy was Extorted Twice by the Same Threat Actor<a href="https://securityaff
 Pandabuy admitted to paying an undisclosed amount to prevent the data leak but discovered that the threat actor may have shared the data with others. Later, the threat actor offered the entire stolen database for sale.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
