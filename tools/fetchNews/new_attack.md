@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Gang May Have Exploited Windows Flaw Before it was Patched<a href="https://therecord.media/black-basta-ransomware-zero-day-windows?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Black Basta ransomware operation allegedly exploited a Windows privilege escalation vulnerability (CVE-2024-26169) before it was patched by Microsoft. The flaw allowed attackers to elevate their privileges to SYSTEM.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

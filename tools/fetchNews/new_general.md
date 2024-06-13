@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Attacks Targeting US and European Organizations Double<a href="https://www.infosecurity-magazine.com/news/phishing-attacks-us-europe-double/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Abnormal Security, the volume of phishing attacks in Europe rose by 112.4% between April 2023 and April 2024, while in the US, they increased by 91.5% over the same period.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloud Migration Expands the CISO Role Yet Again<a href="https://www.helpnetsecurity.com/2024/06/11/cisos-grc-frameworks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cloud has expanded the attack surface and introduced new compliance challenges for CISOs. In response, security needs to be integrated into governance, risk, and compliance efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

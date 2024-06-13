@@ -8,6 +8,48 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scattered Spider Now Affiliated with RansomHub Following BlackCat Exit<a href="https://www.infosecurity-magazine.com/news/scattered-spider-affiliated/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Analysis conducted by GuidePoint Security researchers reveals that a section of Scattered Spider, previously associated with ALPHV/BlackCat, is now carrying out ransomware activities with RansomHub.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Arrested Over ‘Text Message Blaster’ Smish Campaign<a href="https://www.theregister.com/2024/06/10/two_arrested_uk_smishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The suspects used homemade hardware, described as a "homemade mobile antenna," "an illegitimate telephone mast," and a "text message blaster," to bypass network operators' anti-phishing defenses.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Forced-Labor Camps Fuel Billions of Dollars in Cyber Scams<a href="https://www.darkreading.com/cyber-risk/forced-labor-camps-fuel-billions-of-dollars-in-cyber-scams?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese crime syndicates have shifted their operations from illicit gambling houses to online cybercrime fraud due to border closures and increased scrutiny in 2020. These syndicates have successfully stolen billions of dollars through various scams.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

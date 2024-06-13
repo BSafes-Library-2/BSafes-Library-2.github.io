@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 12, 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phone Scammers Impersonating CISA Employees <a href="https://www.cisa.gov/news-events/alerts/2024/06/12/phone-scammers-impersonating-cisa-employees"> Full Text</a>
+</p>
+<details>
+Impersonation scams are on the rise and often use the names and titles of government employees. The Cybersecurity and Infrastructure Security Agency (CISA) is aware of recent impersonation scammers claiming to represent the agency. As a reminder, CISA staff will never contact you with a request to wire money, cash, cryptocurrency, or use gift cards and will never instruct you to keep the discussion secret.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 5, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

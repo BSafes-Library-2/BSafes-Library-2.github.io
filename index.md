@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2024
+June 12, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Black Basta Ransomware Gang May Have Exploited Windows Flaw Before it was Patched<a href="https://therecord.media/black-basta-ransomware-zero-day-windows?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Black Basta Ransomware Gang May Have Exploited Windows Flaw Before it was Patche
 The Black Basta ransomware operation allegedly exploited a Windows privilege escalation vulnerability (CVE-2024-26169) before it was patched by Microsoft. The flaw allowed attackers to elevate their privileges to SYSTEM.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2024
+June 12, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Criminals Impersonating its Employees in Phone Calls<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-criminals-impersonating-its-employees-in-phone-calls/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ CISA Warns of Criminals Impersonating its Employees in Phone Calls<a href="https
 The CISA has warned the public to be cautious and reminded them that its staff will never ask for money or instruct secrecy. The agency has also provided tips to help people avoid falling for these impersonation scams.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2024
+June 12, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scattered Spider Now Affiliated with RansomHub Following BlackCat Exit<a href="https://www.infosecurity-magazine.com/news/scattered-spider-affiliated/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Scattered Spider Now Affiliated with RansomHub Following BlackCat Exit<a href="h
 Analysis conducted by GuidePoint Security researchers reveals that a section of Scattered Spider, previously associated with ALPHV/BlackCat, is now carrying out ransomware activities with RansomHub.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2024
+June 12, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Privacy Regulators Probe Impact of 23andMe's Mega Breach<a href="https://www.bankinfosecurity.com/privacy-regulators-probe-impact-23andmes-mega-breach-a-25480?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Privacy Regulators Probe Impact of 23andMe's Mega Breach<a href="https://www.ban
 The U.K. and Canada's privacy regulators are launching a joint investigation that will focus on the company's compliance with data protection laws, the impact of the October 2023 breach, and whether adequate safeguards were in place.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2024
+June 12, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WarmCookie Gives Cyberattackers New Backdoor for Initial Access<a href="https://www.darkreading.com/cyberattacks-data-breaches/warmcookie-cyberattackers-backdoor-initial-access?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ WarmCookie Gives Cyberattackers New Backdoor for Initial Access<a href="https://
 Once downloaded, WarmCookie is loaded using PowerShell and subsequently provides functionality for monitoring victims and deploying more damaging payloads like ransomware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2024
+June 12, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Attacks Targeting US and European Organizations Double<a href="https://www.infosecurity-magazine.com/news/phishing-attacks-us-europe-double/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Phishing Attacks Targeting US and European Organizations Double<a href="https://
 According to a report by Abnormal Security, the volume of phishing attacks in Europe rose by 112.4% between April 2023 and April 2024, while in the US, they increased by 91.5% over the same period.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2024
+June 12, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloud Migration Expands the CISO Role Yet Again<a href="https://www.helpnetsecurity.com/2024/06/11/cisos-grc-frameworks/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Cloud Migration Expands the CISO Role Yet Again<a href="https://www.helpnetsecur
 The cloud has expanded the attack surface and introduced new compliance challenges for CISOs. In response, security needs to be integrated into governance, risk, and compliance efforts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2024
+June 12, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto Platform UwU Lend Dealing with $20 Million Theft<a href="https://therecord.media/uwu-lend-reimbursing-crypto-theft-customers?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Crypto Platform UwU Lend Dealing with $20 Million Theft<a href="https://therecor
 DeFi platform UwU Lend has offered to negotiate with the hacker responsible for stealing $20 million worth of ETH. The company paused operations and launched an investigation after several blockchain security firms reported the theft.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2024
+June 12, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Two Arrested Over ‘Text Message Blaster’ Smish Campaign<a href="https://www.theregister.com/2024/06/10/two_arrested_uk_smishing/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Two Arrested Over ‘Text Message Blaster’ Smish Campaign<a href="https://www.
 The suspects used homemade hardware, described as a "homemade mobile antenna," "an illegitimate telephone mast," and a "text message blaster," to bypass network operators' anti-phishing defenses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 12, 2024
+June 12, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Forced-Labor Camps Fuel Billions of Dollars in Cyber Scams<a href="https://www.darkreading.com/cyber-risk/forced-labor-camps-fuel-billions-of-dollars-in-cyber-scams?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Forced-Labor Camps Fuel Billions of Dollars in Cyber Scams<a href="https://www.d
 Chinese crime syndicates have shifted their operations from illicit gambling houses to online cybercrime fraud due to border closures and increased scrutiny in 2020. These syndicates have successfully stolen billions of dollars through various scams.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

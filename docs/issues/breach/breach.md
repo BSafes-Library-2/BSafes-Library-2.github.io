@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+June 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privacy Regulators Probe Impact of 23andMe's Mega Breach<a href="https://www.bankinfosecurity.com/privacy-regulators-probe-impact-23andmes-mega-breach-a-25480?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.K. and Canada's privacy regulators are launching a joint investigation that will focus on the company's compliance with data protection laws, the impact of the October 2023 breach, and whether adequate safeguards were in place.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Platform UwU Lend Dealing with $20 Million Theft<a href="https://therecord.media/uwu-lend-reimbursing-crypto-theft-customers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DeFi platform UwU Lend has offered to negotiate with the hacker responsible for stealing $20 million worth of ETH. The company paused operations and launched an investigation after several blockchain security firms reported the theft.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

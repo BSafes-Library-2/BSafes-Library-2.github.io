@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More_eggs Activity Persists via Fake Job Applicant Lures<a href="https://www.esentire.com/blog/more-eggs-activity-persists-via-fake-job-applicant-lures?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers have discovered a phishing attack that utilizes the More_eggs malware by disguising it as a resume, a tactic that was first detected over two years ago.
+</details>
+<div style="text-align: right" markdown="1">
+Esentire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

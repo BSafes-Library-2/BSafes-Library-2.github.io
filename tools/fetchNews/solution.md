@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Radare: Open-Source Reverse Engineering Framework<a href="https://www.helpnetsecurity.com/2024/06/10/radare-open-source-reverse-engineering-framework/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Radare started as a simple command-line hexadecimal editor but has evolved to become a versatile tool for various tasks such as debugging, disassembling, and exploring different architectures.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
