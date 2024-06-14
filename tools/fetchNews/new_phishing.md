@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Search &amp; Spoof: Abuse of Windows Search to Redirect to Malware<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/search-spoof-abuse-of-windows-search-to-redirect-to-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign begins with a phishing email that contains an HTML attachment disguised as a routine document in a ZIP archive. The HTML file uses obfuscation techniques to evade detection and exploit vulnerabilities in Windows system functionalities.
+</details>
+<div style="text-align: right" markdown="1">
+Trustwave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Brief: Scammers Create Fraudulent Olympics Ticketing Websites<a href="https://www.proofpoint.com/us/blog/threat-insight/security-brief-scammers-create-fraudulent-olympics-ticketing-websites?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint has discovered a fraudulent website, paris24tickets[.]com, claiming to sell tickets for the Paris 2024 Summer Olympic Games. The site appeared as the second sponsored search result on Google, but Proofpoint confirmed its fraudulent nature.
+</details>
+<div style="text-align: right" markdown="1">
+Proofpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Toolkit Uses PWAs to Steal Login Credentials<a href="https://www.bleepingcomputer.com/news/security/new-phishing-toolkit-uses-pwas-to-steal-login-credentials/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing kit, created by security researcher mr.d0x, demonstrates how to create PWAs that display corporate login forms with a fake address bar showing the normal login URL. This makes the phishing attempt more convincing.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

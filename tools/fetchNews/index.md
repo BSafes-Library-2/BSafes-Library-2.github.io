@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arid Viper Hackers Spy in Egypt and Palestine Using Android Spyware<a href="https://www.infosecurity-magazine.com/news/arid-viper-egypt-palestine-spyware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET identified five cyber espionage campaigns targeting Android users in Egypt and Palestine since 2022. These campaigns, attributed to Arid Viper with medium confidence, involve the use of trojanized apps and a multistage spyware called AridSpy.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Search & Spoof: Abuse of Windows Search to Redirect to Malware<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/search-spoof-abuse-of-windows-search-to-redirect-to-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign begins with a phishing email that contains an HTML attachment disguised as a routine document in a ZIP archive. The HTML file uses obfuscation techniques to evade detection and exploit vulnerabilities in Windows system functionalities.
+</details>
+<div style="text-align: right" markdown="1">
+Trustwave
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Arrest Conti and Lockbit Ransomware Crypter Specialist<a href="https://www.bleepingcomputer.com/news/security/police-arrest-conti-and-lockbit-ransomware-crypter-specialist/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukraine cyber police have arrested a 28-year-old Russian man in Kyiv for working with Conti and LockBit ransomware operations to make their malware undetectable by antivirus software and conducting at least one attack himself.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dissecting SSLoad Malware: A Comprehensive Technical Analysis<a href="https://intezer.com/blog/research/ssload-technical-malware-analysis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SSLoad is a sophisticated malware used for infiltrating systems through phishing emails, gathering reconnaissance data, and transmitting it back to its operators while delivering various payloads.
+</details>
+<div style="text-align: right" markdown="1">
+Intezer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Brief: Scammers Create Fraudulent Olympics Ticketing Websites<a href="https://www.proofpoint.com/us/blog/threat-insight/security-brief-scammers-create-fraudulent-olympics-ticketing-websites?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Proofpoint has discovered a fraudulent website, paris24tickets[.]com, claiming to sell tickets for the Paris 2024 Summer Olympic Games. The site appeared as the second sponsored search result on Google, but Proofpoint confirmed its fraudulent nature.
+</details>
+<div style="text-align: right" markdown="1">
+Proofpoint
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Flaws in Fortinet FortiOS Fixed<a href="https://securityaffairs.com/164494/security/fortios-high-severity-code-execution-flaws.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fortinet released security updates for FortiOS to address multiple vulnerabilities. These included a high-severity code execution flaw and several stack-based buffer overflow vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Toolkit Uses PWAs to Steal Login Credentials<a href="https://www.bleepingcomputer.com/news/security/new-phishing-toolkit-uses-pwas-to-steal-login-credentials/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The phishing kit, created by security researcher mr.d0x, demonstrates how to create PWAs that display corporate login forms with a fake address bar showing the normal login URL. This makes the phishing attempt more convincing.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Process to Verify Software Was Built Securely Begins Today<a href="https://www.darkreading.com/application-security/process-software-self-attestation-begins-today?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US government contractors providing critical infrastructure software now need to fill out a form confirming that their software follows secure-by-design principles and has undergone scrutiny through software bills of material (SBOMs).
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XONA Raises $18 Million to Accelerate Product Development<a href="https://www.helpnetsecurity.com/2024/06/11/xona-funding-round-18-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding will be used to enhance XONA's zero-trust user access platform, helping customers meet regulatory requirements and protect against cyberattacks on critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, Google Pledge ‘Low Cost’ Cybersecurity Services to Rural Hospitals<a href="https://therecord.media/microsoft-google-rural-hospital-cybersecurity?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initiative aims to ensure effective security for all 1,800-2,100 rural hospitals across the nation through collaboration between technology providers, the White House, the American Hospital Association, and the American Rural Health Association.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 12, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

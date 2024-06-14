@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft, Google Pledge ‘Low Cost’ Cybersecurity Services to Rural Hospitals<a href="https://therecord.media/microsoft-google-rural-hospital-cybersecurity?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The initiative aims to ensure effective security for all 1,800-2,100 rural hospitals across the nation through collaboration between technology providers, the White House, the American Hospital Association, and the American Rural Health Association.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

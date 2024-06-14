@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+June 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Arid Viper Hackers Spy in Egypt and Palestine Using Android Spyware<a href="https://www.infosecurity-magazine.com/news/arid-viper-egypt-palestine-spyware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ESET identified five cyber espionage campaigns targeting Android users in Egypt and Palestine since 2022. These campaigns, attributed to Arid Viper with medium confidence, involve the use of trojanized apps and a multistage spyware called AridSpy.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

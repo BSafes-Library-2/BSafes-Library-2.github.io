@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Arrest Conti and Lockbit Ransomware Crypter Specialist<a href="https://www.bleepingcomputer.com/news/security/police-arrest-conti-and-lockbit-ransomware-crypter-specialist/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ukraine cyber police have arrested a 28-year-old Russian man in Kyiv for working with Conti and LockBit ransomware operations to make their malware undetectable by antivirus software and conducting at least one attack himself.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
