@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2024
+June 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rust Foundation Leads the Charge to Improve Critical Systems Security<a href="https://www.cybersecuritydive.com/news/rust-foundation-critical-systems-security/718816/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the Rust Foundation launched the Safety-Critical Rust Consortium, a group dedicated to the responsible use of the programming language in critical applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WithSecure Reveals Mass Exploitation of Edge Software<a href="https://www.infosecurity-magazine.com/news/withsecure-exploitation-edge/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber threat actors are increasingly exploiting vulnerabilities in edge services and infrastructure devices, making them a desirable entry point into networks, according to a report by WthSecure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS Adds Passkeys Support, Warns Root Users Must Enable MFA<a href="https://www.bleepingcomputer.com/news/security/aws-adds-passkeys-support-warns-root-users-must-enable-mfa/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services (AWS) has introduced FIDO2 passkeys for multi-factor authentication (MFA) to improve security and usability. These passkeys can be physical or software-based and use public key cryptography for authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploiting File Read Vulnerabilities in Gradio to Steal Secrets from Hugging Face Spaces<a href="https://www.horizon3.ai/attack-research/disclosures/exploiting-file-read-vulnerabilities-in-gradio-to-steal-secrets-from-hugging-face-spaces/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two high-severity vulnerabilities were disclosed to Hugging Face. CVE-2023-51449 is a path traversal vulnerability in the file endpoint whereas CVE-2024-1561 arises from an input validation flaw in the component_server API endpoint.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Security Gaps Uncovered in Open Source AI/ML Tools<a href="https://protectai.com/threat-research/june-vulnerability-report?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report by Protect AI revealed a dozen critical vulnerabilities found in various open-source AI/ML tools in recent months. These vulnerabilities can lead to information disclosure, unauthorized access, privilege escalation, and server takeover.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Target Brazilian Fintech with Sophisticated Phishing Tactics<a href="https://thehackernews.com/2024/06/north-korean-hackers-target-brazilian.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Mandiant and Threat Analysis Group (TAG) divisions reported that Brazilian governmental organizations, as well as the aerospace, technology, and financial services sectors, have been targeted by North Korean-backed actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Actor SecShow Conducts Massive DNS Probing on Global Scale<a href="https://thehackernews.com/2024/06/chinese-actor-secshow-conducts-massive.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered details about a Chinese threat actor known as SecShow, which has been conducting global Domain Name System (DNS) probing since at least June 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Sleepy Pickle' Exploit Subtly Poisons ML Models<a href="https://www.darkreading.com/threat-intelligence/sleepy-pickle-exploit-subtly-poisons-ml-models?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Pickle files provide an opportunity for attackers to insert malicious bytecode into ML programs, which can have various consequences such as manipulated output and data theft.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Chatbot Fools Scammers and Scores Money-Laundering Intel<a href="https://www.darkreading.com/cyber-risk/ai-chatbot-fools-scammers-and-scores-money-laundering-intel?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By using Open AI's ChatGPT chatbot, the researchers were able to convince cybercriminals to share sensitive information, such as bank account numbers from over 600 financial institutions across 73 countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scattered Spider hackers switch focus to cloud apps for data theft<a href="https://www.bleepingcomputer.com/news/security/scattered-spider-hackers-switch-focus-to-cloud-apps-for-data-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Scattered Spider hacking group has shifted its focus from ransomware to data theft from cloud-based software-as-a-service (SaaS) applications, using social engineering tactics and exploiting privileged access to compromise corporate environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 13, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Arid Viper Hackers Spy in Egypt and Palestine Using Android Spyware<a href="https://www.infosecurity-magazine.com/news/arid-viper-egypt-palestine-spyware/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Arid Viper Hackers Spy in Egypt and Palestine Using Android Spyware<a href="http
 ESET identified five cyber espionage campaigns targeting Android users in Egypt and Palestine since 2022. These campaigns, attributed to Arid Viper with medium confidence, involve the use of trojanized apps and a multistage spyware called AridSpy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2024
+June 13, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Search & Spoof: Abuse of Windows Search to Redirect to Malware<a href="https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/search-spoof-abuse-of-windows-search-to-redirect-to-malware/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Search & Spoof: Abuse of Windows Search to Redirect to Malware<a href="https://w
 The campaign begins with a phishing email that contains an HTML attachment disguised as a routine document in a ZIP archive. The HTML file uses obfuscation techniques to evade detection and exploit vulnerabilities in Windows system functionalities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trustwave
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2024
+June 13, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police Arrest Conti and Lockbit Ransomware Crypter Specialist<a href="https://www.bleepingcomputer.com/news/security/police-arrest-conti-and-lockbit-ransomware-crypter-specialist/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Police Arrest Conti and Lockbit Ransomware Crypter Specialist<a href="https://ww
 The Ukraine cyber police have arrested a 28-year-old Russian man in Kyiv for working with Conti and LockBit ransomware operations to make their malware undetectable by antivirus software and conducting at least one attack himself.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2024
+June 13, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dissecting SSLoad Malware: A Comprehensive Technical Analysis<a href="https://intezer.com/blog/research/ssload-technical-malware-analysis/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Dissecting SSLoad Malware: A Comprehensive Technical Analysis<a href="https://in
 SSLoad is a sophisticated malware used for infiltrating systems through phishing emails, gathering reconnaissance data, and transmitting it back to its operators while delivering various payloads.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Intezer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2024
+June 13, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Brief: Scammers Create Fraudulent Olympics Ticketing Websites<a href="https://www.proofpoint.com/us/blog/threat-insight/security-brief-scammers-create-fraudulent-olympics-ticketing-websites?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Security Brief: Scammers Create Fraudulent Olympics Ticketing Websites<a href="h
 Proofpoint has discovered a fraudulent website, paris24tickets[.]com, claiming to sell tickets for the Paris 2024 Summer Olympic Games. The site appeared as the second sponsored search result on Google, but Proofpoint confirmed its fraudulent nature.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Proofpoint
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2024
+June 13, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Flaws in Fortinet FortiOS Fixed<a href="https://securityaffairs.com/164494/security/fortios-high-severity-code-execution-flaws.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Multiple Flaws in Fortinet FortiOS Fixed<a href="https://securityaffairs.com/164
 Fortinet released security updates for FortiOS to address multiple vulnerabilities. These included a high-severity code execution flaw and several stack-based buffer overflow vulnerabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2024
+June 13, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Phishing Toolkit Uses PWAs to Steal Login Credentials<a href="https://www.bleepingcomputer.com/news/security/new-phishing-toolkit-uses-pwas-to-steal-login-credentials/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ New Phishing Toolkit Uses PWAs to Steal Login Credentials<a href="https://www.bl
 The phishing kit, created by security researcher mr.d0x, demonstrates how to create PWAs that display corporate login forms with a fake address bar showing the normal login URL. This makes the phishing attempt more convincing.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2024
+June 13, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Process to Verify Software Was Built Securely Begins Today<a href="https://www.darkreading.com/application-security/process-software-self-attestation-begins-today?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Process to Verify Software Was Built Securely Begins Today<a href="https://www.d
 US government contractors providing critical infrastructure software now need to fill out a form confirming that their software follows secure-by-design principles and has undergone scrutiny through software bills of material (SBOMs).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2024
+June 13, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 XONA Raises $18 Million to Accelerate Product Development<a href="https://www.helpnetsecurity.com/2024/06/11/xona-funding-round-18-million/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ XONA Raises $18 Million to Accelerate Product Development<a href="https://www.he
 The funding will be used to enhance XONA's zero-trust user access platform, helping customers meet regulatory requirements and protect against cyberattacks on critical infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 13, 2024
+June 13, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft, Google Pledge ‘Low Cost’ Cybersecurity Services to Rural Hospitals<a href="https://therecord.media/microsoft-google-rural-hospital-cybersecurity?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Microsoft, Google Pledge ‘Low Cost’ Cybersecurity Services to Rural Hospital
 The initiative aims to ensure effective security for all 1,800-2,100 rural hospitals across the nation through collaboration between technology providers, the White House, the American Hospital Association, and the American Rural Health Association.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
