@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+XONA Raises $18 Million to Accelerate Product Development<a href="https://www.helpnetsecurity.com/2024/06/11/xona-funding-round-18-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The funding will be used to enhance XONA's zero-trust user access platform, helping customers meet regulatory requirements and protect against cyberattacks on critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

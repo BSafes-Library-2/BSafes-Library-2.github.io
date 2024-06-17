@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rust Foundation Leads the Charge to Improve Critical Systems Security<a href="https://www.cybersecuritydive.com/news/rust-foundation-critical-systems-security/718816/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Rust Foundation Leads the Charge to Improve Critical Systems Security<a href="ht
 This week, the Rust Foundation launched the Safety-Critical Rust Consortium, a group dedicated to the responsible use of the programming language in critical applications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WithSecure Reveals Mass Exploitation of Edge Software<a href="https://www.infosecurity-magazine.com/news/withsecure-exploitation-edge/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ WithSecure Reveals Mass Exploitation of Edge Software<a href="https://www.infose
 Cyber threat actors are increasingly exploiting vulnerabilities in edge services and infrastructure devices, making them a desirable entry point into networks, according to a report by WthSecure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AWS Adds Passkeys Support, Warns Root Users Must Enable MFA<a href="https://www.bleepingcomputer.com/news/security/aws-adds-passkeys-support-warns-root-users-must-enable-mfa/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ AWS Adds Passkeys Support, Warns Root Users Must Enable MFA<a href="https://www.
 Amazon Web Services (AWS) has introduced FIDO2 passkeys for multi-factor authentication (MFA) to improve security and usability. These passkeys can be physical or software-based and use public key cryptography for authentication.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploiting File Read Vulnerabilities in Gradio to Steal Secrets from Hugging Face Spaces<a href="https://www.horizon3.ai/attack-research/disclosures/exploiting-file-read-vulnerabilities-in-gradio-to-steal-secrets-from-hugging-face-spaces/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Exploiting File Read Vulnerabilities in Gradio to Steal Secrets from Hugging Fac
 Two high-severity vulnerabilities were disclosed to Hugging Face. CVE-2023-51449 is a path traversal vulnerability in the file endpoint whereas CVE-2024-1561 arises from an input validation flaw in the component_server API endpoint.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Horizon3
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Security Gaps Uncovered in Open Source AI/ML Tools<a href="https://protectai.com/threat-research/june-vulnerability-report?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Critical Security Gaps Uncovered in Open Source AI/ML Tools<a href="https://prot
 A report by Protect AI revealed a dozen critical vulnerabilities found in various open-source AI/ML tools in recent months. These vulnerabilities can lead to information disclosure, unauthorized access, privilege escalation, and server takeover.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Protect AI
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Target Brazilian Fintech with Sophisticated Phishing Tactics<a href="https://thehackernews.com/2024/06/north-korean-hackers-target-brazilian.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ North Korean Hackers Target Brazilian Fintech with Sophisticated Phishing Tactic
 Google's Mandiant and Threat Analysis Group (TAG) divisions reported that Brazilian governmental organizations, as well as the aerospace, technology, and financial services sectors, have been targeted by North Korean-backed actors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Actor SecShow Conducts Massive DNS Probing on Global Scale<a href="https://thehackernews.com/2024/06/chinese-actor-secshow-conducts-massive.html?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Chinese Actor SecShow Conducts Massive DNS Probing on Global Scale<a href="https
 Security researchers have uncovered details about a Chinese threat actor known as SecShow, which has been conducting global Domain Name System (DNS) probing since at least June 2023.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Sleepy Pickle' Exploit Subtly Poisons ML Models<a href="https://www.darkreading.com/threat-intelligence/sleepy-pickle-exploit-subtly-poisons-ml-models?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ June 15, 2024
 Pickle files provide an opportunity for attackers to insert malicious bytecode into ML programs, which can have various consequences such as manipulated output and data theft.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI Chatbot Fools Scammers and Scores Money-Laundering Intel<a href="https://www.darkreading.com/cyber-risk/ai-chatbot-fools-scammers-and-scores-money-laundering-intel?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ AI Chatbot Fools Scammers and Scores Money-Laundering Intel<a href="https://www.
 By using Open AI's ChatGPT chatbot, the researchers were able to convince cybercriminals to share sensitive information, such as bank account numbers from over 600 financial institutions across 73 countries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2024
+June 14, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scattered Spider hackers switch focus to cloud apps for data theft<a href="https://www.bleepingcomputer.com/news/security/scattered-spider-hackers-switch-focus-to-cloud-apps-for-data-theft/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Scattered Spider hackers switch focus to cloud apps for data theft<a href="https
 The Scattered Spider hacking group has shifted its focus from ransomware to data theft from cloud-based software-as-a-service (SaaS) applications, using social engineering tactics and exploiting privileged access to compromise corporate environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

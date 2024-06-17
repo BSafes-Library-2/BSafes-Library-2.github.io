@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rust Foundation Leads the Charge to Improve Critical Systems Security<a href="https://www.cybersecuritydive.com/news/rust-foundation-critical-systems-security/718816/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This week, the Rust Foundation launched the Safety-Critical Rust Consortium, a group dedicated to the responsible use of the programming language in critical applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WithSecure Reveals Mass Exploitation of Edge Software<a href="https://www.infosecurity-magazine.com/news/withsecure-exploitation-edge/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber threat actors are increasingly exploiting vulnerabilities in edge services and infrastructure devices, making them a desirable entry point into networks, according to a report by WthSecure.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

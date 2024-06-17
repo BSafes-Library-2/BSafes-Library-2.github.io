@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Actor SecShow Conducts Massive DNS Probing on Global Scale<a href="https://thehackernews.com/2024/06/chinese-actor-secshow-conducts-massive.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered details about a Chinese threat actor known as SecShow, which has been conducting global Domain Name System (DNS) probing since at least June 2023.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scattered Spider hackers switch focus to cloud apps for data theft<a href="https://www.bleepingcomputer.com/news/security/scattered-spider-hackers-switch-focus-to-cloud-apps-for-data-theft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Scattered Spider hacking group has shifted its focus from ransomware to data theft from cloud-based software-as-a-service (SaaS) applications, using social engineering tactics and exploiting privileged access to compromise corporate environments.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

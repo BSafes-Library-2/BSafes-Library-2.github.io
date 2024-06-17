@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Target Brazilian Fintech with Sophisticated Phishing Tactics<a href="https://thehackernews.com/2024/06/north-korean-hackers-target-brazilian.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Mandiant and Threat Analysis Group (TAG) divisions reported that Brazilian governmental organizations, as well as the aerospace, technology, and financial services sectors, have been targeted by North Korean-backed actors.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

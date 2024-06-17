@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+June 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Process to Verify Software Was Built Securely Begins Today<a href="https://www.darkreading.com/application-security/process-software-self-attestation-begins-today?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+US government contractors providing critical infrastructure software now need to fill out a form confirming that their software follows secure-by-design principles and has undergone scrutiny through software bills of material (SBOMs).
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
