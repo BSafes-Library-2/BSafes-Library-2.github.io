@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Hackers Infiltrate East Asian Firm for Three Years Using F5 Devices<a href="https://thehackernews.com/2024/06/china-linked-hackers-infiltrate-east.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber espionage actor believed to have ties to China has conducted a three-year-long attack on an undisclosed East Asian organization. The attacker utilized F5 BIG-IP appliances as a command-and-control (C&C) system for evasion purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Deploying New Tactics in Campaign Targeting Exposed Docker APIs<a href="https://securitylabs.datadoghq.com/articles/attackers-deploying-new-tactics-in-campaign-targeting-exposed-docker-apis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers utilize new binaries, including chkstart, exeremo, and vurld, along with a persistence mechanism that modifies systemd services. Analysis suggests a link between this campaign and Spinning YARN.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghidra: Open-Source Software Reverse Engineering Framework<a href="https://www.helpnetsecurity.com/2024/06/17/ghidra-nsa-open-source-software-reverse-engineering-framework/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ghidra software reverse engineering (SRE) framework features high-end software analysis tools, enabling users to analyze compiled code across various platforms, including Windows, macOS, and Linux.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged Boss of ‘Scattered Spider’ Hacking Group Arrested<a href="https://krebsonsecurity.com/2024/06/alleged-boss-of-scattered-spider-hacking-group-arrested/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 22-year-old UK man recently arrested in Spain is believed to be the leader of the cybercrime group Scattered Spider, responsible for hacking into numerous organizations including Twilio, LastPass, and DoorDash.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NiceRAT Malware Targets South Korean Users via Cracked Software<a href="https://thehackernews.com/2024/06/nicerat-malware-targets-south-korean.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using the NiceRAT malware to create a botnet by infecting devices, primarily targeting South Korean users. The malware is distributed through cracked software and tools that claim to verify Microsoft Office licenses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Pauses AI Training on EU User Data Amid Privacy Concerns<a href="https://thehackernews.com/2024/06/meta-halts-ai-training-on-eu-user-data.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta has announced that it is delaying the training of its large language models (LLMs) in the European Union using public content shared by adult users on Facebook and Instagram, following a request from the Irish Data Protection Commission (DPC).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Emails Trick Consumers Into False Election Contributions<a href="https://www.helpnetsecurity.com/2024/06/17/global-cyber-threat-activities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The last six months have seen a surge in cyber threat activities, driven by major global events such as elections and military exercises, according to cybersecurity firm Trellix.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ARM 'TIKTAG' Attack Impacts Google Chrome, Linux Systems<a href="https://www.bleepingcomputer.com/news/security/new-arm-tiktag-attack-impacts-google-chrome-linux-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new speculative execution attack named "TIKTAG" targets ARM's Memory Tagging Extension (MTE) to leak data with over a 95% chance of success, allowing hackers to bypass the security feature.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistani Hackers Use DISGOMOJI Malware to Target Indian Government<a href="https://www.volexity.com/blog/2024/06/13/disgomoji-malware-used-to-target-indian-government/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor uses a malware called DISGOMOJI, written in Golang, to infect Linux systems. DISGOMOJI is a modified version of Discord-C2, utilizing emojis for its command and control communication through Discord.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blackbaud Must Pay $6.75 Million, Improve Security After Lying About Scope of 2020 Hack<a href="https://therecord.media/blackbaud-must-pay-settlement-california?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software company Blackbaud has agreed to pay $6.75 million and make improvements to its data security and breach notification practices following a hack in May 2020. The settlement was announced by California Attorney General Rob Bonta.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 15, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Hackers Infiltrate East Asian Firm for Three Years Using F5 Devices<a href="https://thehackernews.com/2024/06/china-linked-hackers-infiltrate-east.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber espionage actor believed to have ties to China has conducted a three-year-long attack on an undisclosed East Asian organization. The attacker utilized F5 BIG-IP appliances as a command-and-control (C&C) system for evasion purposes.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Deploying New Tactics in Campaign Targeting Exposed Docker APIs<a href="https://securitylabs.datadoghq.com/articles/attackers-deploying-new-tactics-in-campaign-targeting-exposed-docker-apis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers utilize new binaries, including chkstart, exeremo, and vurld, along with a persistence mechanism that modifies systemd services. Analysis suggests a link between this campaign and Spinning YARN.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghidra: Open-Source Software Reverse Engineering Framework<a href="https://www.helpnetsecurity.com/2024/06/17/ghidra-nsa-open-source-software-reverse-engineering-framework/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ghidra software reverse engineering (SRE) framework features high-end software analysis tools, enabling users to analyze compiled code across various platforms, including Windows, macOS, and Linux.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alleged Boss of ‘Scattered Spider’ Hacking Group Arrested<a href="https://krebsonsecurity.com/2024/06/alleged-boss-of-scattered-spider-hacking-group-arrested/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 22-year-old UK man recently arrested in Spain is believed to be the leader of the cybercrime group Scattered Spider, responsible for hacking into numerous organizations including Twilio, LastPass, and DoorDash.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NiceRAT Malware Targets South Korean Users via Cracked Software<a href="https://thehackernews.com/2024/06/nicerat-malware-targets-south-korean.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using the NiceRAT malware to create a botnet by infecting devices, primarily targeting South Korean users. The malware is distributed through cracked software and tools that claim to verify Microsoft Office licenses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta Pauses AI Training on EU User Data Amid Privacy Concerns<a href="https://thehackernews.com/2024/06/meta-halts-ai-training-on-eu-user-data.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Meta has announced that it is delaying the training of its large language models (LLMs) in the European Union using public content shared by adult users on Facebook and Instagram, following a request from the Irish Data Protection Commission (DPC).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Emails Trick Consumers Into False Election Contributions<a href="https://www.helpnetsecurity.com/2024/06/17/global-cyber-threat-activities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The last six months have seen a surge in cyber threat activities, driven by major global events such as elections and military exercises, according to cybersecurity firm Trellix.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New ARM 'TIKTAG' Attack Impacts Google Chrome, Linux Systems<a href="https://www.bleepingcomputer.com/news/security/new-arm-tiktag-attack-impacts-google-chrome-linux-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new speculative execution attack named "TIKTAG" targets ARM's Memory Tagging Extension (MTE) to leak data with over a 95% chance of success, allowing hackers to bypass the security feature.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistani Hackers Use DISGOMOJI Malware to Target Indian Government<a href="https://www.volexity.com/blog/2024/06/13/disgomoji-malware-used-to-target-indian-government/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor uses a malware called DISGOMOJI, written in Golang, to infect Linux systems. DISGOMOJI is a modified version of Discord-C2, utilizing emojis for its command and control communication through Discord.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blackbaud Must Pay $6.75 Million, Improve Security After Lying About Scope of 2020 Hack<a href="https://therecord.media/blackbaud-must-pay-settlement-california?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Software company Blackbaud has agreed to pay $6.75 million and make improvements to its data security and breach notification practices following a hack in May 2020. The settlement was announced by California Attorney General Rob Bonta.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 15, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rust Foundation Leads the Charge to Improve Critical Systems Security<a href="https://www.cybersecuritydive.com/news/rust-foundation-critical-systems-security/718816/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Rust Foundation Leads the Charge to Improve Critical Systems Security<a href="ht
 This week, the Rust Foundation launched the Safety-Critical Rust Consortium, a group dedicated to the responsible use of the programming language in critical applications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WithSecure Reveals Mass Exploitation of Edge Software<a href="https://www.infosecurity-magazine.com/news/withsecure-exploitation-edge/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ WithSecure Reveals Mass Exploitation of Edge Software<a href="https://www.infose
 Cyber threat actors are increasingly exploiting vulnerabilities in edge services and infrastructure devices, making them a desirable entry point into networks, according to a report by WthSecure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AWS Adds Passkeys Support, Warns Root Users Must Enable MFA<a href="https://www.bleepingcomputer.com/news/security/aws-adds-passkeys-support-warns-root-users-must-enable-mfa/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ AWS Adds Passkeys Support, Warns Root Users Must Enable MFA<a href="https://www.
 Amazon Web Services (AWS) has introduced FIDO2 passkeys for multi-factor authentication (MFA) to improve security and usability. These passkeys can be physical or software-based and use public key cryptography for authentication.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploiting File Read Vulnerabilities in Gradio to Steal Secrets from Hugging Face Spaces<a href="https://www.horizon3.ai/attack-research/disclosures/exploiting-file-read-vulnerabilities-in-gradio-to-steal-secrets-from-hugging-face-spaces/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Exploiting File Read Vulnerabilities in Gradio to Steal Secrets from Hugging Fac
 Two high-severity vulnerabilities were disclosed to Hugging Face. CVE-2023-51449 is a path traversal vulnerability in the file endpoint whereas CVE-2024-1561 arises from an input validation flaw in the component_server API endpoint.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Horizon3
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Security Gaps Uncovered in Open Source AI/ML Tools<a href="https://protectai.com/threat-research/june-vulnerability-report?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Critical Security Gaps Uncovered in Open Source AI/ML Tools<a href="https://prot
 A report by Protect AI revealed a dozen critical vulnerabilities found in various open-source AI/ML tools in recent months. These vulnerabilities can lead to information disclosure, unauthorized access, privilege escalation, and server takeover.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Protect AI
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Target Brazilian Fintech with Sophisticated Phishing Tactics<a href="https://thehackernews.com/2024/06/north-korean-hackers-target-brazilian.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ North Korean Hackers Target Brazilian Fintech with Sophisticated Phishing Tactic
 Google's Mandiant and Threat Analysis Group (TAG) divisions reported that Brazilian governmental organizations, as well as the aerospace, technology, and financial services sectors, have been targeted by North Korean-backed actors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Actor SecShow Conducts Massive DNS Probing on Global Scale<a href="https://thehackernews.com/2024/06/chinese-actor-secshow-conducts-massive.html?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Chinese Actor SecShow Conducts Massive DNS Probing on Global Scale<a href="https
 Security researchers have uncovered details about a Chinese threat actor known as SecShow, which has been conducting global Domain Name System (DNS) probing since at least June 2023.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Sleepy Pickle' Exploit Subtly Poisons ML Models<a href="https://www.darkreading.com/threat-intelligence/sleepy-pickle-exploit-subtly-poisons-ml-models?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ June 15, 2024
 Pickle files provide an opportunity for attackers to insert malicious bytecode into ML programs, which can have various consequences such as manipulated output and data theft.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 15, 2024
+June 15, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI Chatbot Fools Scammers and Scores Money-Laundering Intel<a href="https://www.darkreading.com/cyber-risk/ai-chatbot-fools-scammers-and-scores-money-laundering-intel?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ AI Chatbot Fools Scammers and Scores Money-Laundering Intel<a href="https://www.
 By using Open AI's ChatGPT chatbot, the researchers were able to convince cybercriminals to share sensitive information, such as bank account numbers from over 600 financial institutions across 73 countries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 14, 2024
+June 14, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scattered Spider hackers switch focus to cloud apps for data theft<a href="https://www.bleepingcomputer.com/news/security/scattered-spider-hackers-switch-focus-to-cloud-apps-for-data-theft/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Scattered Spider hackers switch focus to cloud apps for data theft<a href="https
 The Scattered Spider hacking group has shifted its focus from ransomware to data theft from cloud-based software-as-a-service (SaaS) applications, using social engineering tactics and exploiting privileged access to compromise corporate environments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
