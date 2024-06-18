@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+June 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Deploying New Tactics in Campaign Targeting Exposed Docker APIs<a href="https://securitylabs.datadoghq.com/articles/attackers-deploying-new-tactics-in-campaign-targeting-exposed-docker-apis/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers utilize new binaries, including chkstart, exeremo, and vurld, along with a persistence mechanism that modifies systemd services. Analysis suggests a link between this campaign and Spinning YARN.
+</details>
+<div style="text-align: right" markdown="1">
+DataDog
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pakistani Hackers Use DISGOMOJI Malware to Target Indian Government<a href="https://www.volexity.com/blog/2024/06/13/disgomoji-malware-used-to-target-indian-government/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actor uses a malware called DISGOMOJI, written in Golang, to infect Linux systems. DISGOMOJI is a modified version of Discord-C2, utilizing emojis for its command and control communication through Discord.
+</details>
+<div style="text-align: right" markdown="1">
+Volexity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

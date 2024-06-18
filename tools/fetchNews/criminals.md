@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Chatbot Fools Scammers and Scores Money-Laundering Intel<a href="https://www.darkreading.com/cyber-risk/ai-chatbot-fools-scammers-and-scores-money-laundering-intel?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By using Open AI's ChatGPT chatbot, the researchers were able to convince cybercriminals to share sensitive information, such as bank account numbers from over 600 financial institutions across 73 countries.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

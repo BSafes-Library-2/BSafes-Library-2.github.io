@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS Adds Passkeys Support, Warns Root Users Must Enable MFA<a href="https://www.bleepingcomputer.com/news/security/aws-adds-passkeys-support-warns-root-users-must-enable-mfa/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Amazon Web Services (AWS) has introduced FIDO2 passkeys for multi-factor authentication (MFA) to improve security and usability. These passkeys can be physical or software-based and use public key cryptography for authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

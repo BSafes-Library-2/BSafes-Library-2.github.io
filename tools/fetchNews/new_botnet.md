@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NiceRAT Malware Targets South Korean Users via Cracked Software<a href="https://thehackernews.com/2024/06/nicerat-malware-targets-south-korean.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are using the NiceRAT malware to create a botnet by infecting devices, primarily targeting South Korean users. The malware is distributed through cracked software and tools that claim to verify Microsoft Office licenses.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
