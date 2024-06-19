@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2024
+June 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and EAC Release Guide to Enhance Election Security Through Public Communication<a href="https://thecyberexpress.com/cisa-eac-guide-to-enhance-election-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guide advises election officials to mitigate risks to election infrastructure and operations by developing a public communications plan with accurate election information and training teams for effective incident response communication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Plead Guilty After Breaching Law Enforcement Portal<a href="https://www.bankinfosecurity.com/hackers-plead-guilty-after-breaching-law-enforcement-portal-a-25544?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two hackers, Sagar Steven Singh and Nicholas Ceraolo, have pleaded guilty to computer intrusion and identity theft. They used a law enforcement officer's stolen password to access a nonpublic portal maintained by a U.S. law enforcement agency.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Google Chrome Errors Trick Users Into Running Malicious PowerShell Scripts<a href="https://www.bleepingcomputer.com/news/security/fake-google-chrome-errors-trick-you-into-running-malicious-powershell-scripts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign has been found tricking users into running malicious PowerShell "fixes" by displaying fake Google Chrome, Word, and OneDrive errors. The campaign has been linked to multiple actors, including ClearFake, ClickFix, and TA571.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Low Code, High Stakes: Addressing SQL Injection<a href="https://www.helpnetsecurity.com/2024/06/17/sqli-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Factors contributing to SQLi vulnerabilities include human error, immature code in new technologies, and the use of open-source code. In March, CISA and the FBI issued a joint warning urging manufacturers and others to address SQLi vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Modern Fraud Detection Need Not Rely on PII<a href="https://www.helpnetsecurity.com/2024/06/14/online-fraud-detection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For fraud detection software, knowing personal details like names and addresses is less important than recognizing contextual patterns. Pseudo-anonymized data, which preserves relationships without revealing original values, can be used.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug Bounty Programs, Hacking Contests Power China's Cyber Offense<a href="https://www.darkreading.com/cybersecurity-operations/bug-bounty-programs-hacking-contests-power-chinas-cyber-offense?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decrease in Chinese teams' participation in Western hacking competitions has made these competitions less effective as a defensive strategy, as China now considers their exploits too valuable to demonstrate publicly.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Pledges to Protect Ukraine’s Critical Infrastructure From Cyberattacks in Security Deal<a href="https://therecord.media/us-pledges-protection-ukraine-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The agreement, based on a pledge by the G7 countries, focuses on assisting Ukraine in protecting its networks from cyberattacks and countering disinformation. The U.S. will also help strengthen Ukraine's cyber defenses in critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Dismantle Asian Crime Ring Behind $25M Android Fraud<a href="https://www.bankinfosecurity.com/police-dismantle-asian-crime-ring-behind-25m-android-fraud-a-25541?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Singapore-led law enforcement operation has dismantled a cybercrime ring that used malware scams to steal millions. The group operated across regions, using malicious Android apps to access victims' mobile devices and drain their bank accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+VMware by Broadcom Warns of Critical vCenter Flaws<a href="https://www.theregister.com/2024/06/18/vmware_criticial_vcenter_flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Broadcom's VMware has discovered two critical-rated flaws, CVE-2024-37079 and CVE-2024-37080, in its vCenter Server, a tool used to manage virtual machines in its Cloud Foundation and vSphere suites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 18, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BreachForums Returns With a New Owner After ShinyHunters Retires<a href="https://thecyberexpress.com/breachforums-returns-new-owner/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShinyHunters mentioned being tired of accusations and expressed a desire to move on. The new owner, Anastasia, is referred to as an "OG" by ShinyHunters and goes by the name "Anastasia Belshaw."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 17, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Linked Hackers Infiltrate East Asian Firm for Three Years Using F5 Devices<a href="https://thehackernews.com/2024/06/china-linked-hackers-infiltrate-east.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ China-Linked Hackers Infiltrate East Asian Firm for Three Years Using F5 Devices
 A cyber espionage actor believed to have ties to China has conducted a three-year-long attack on an undisclosed East Asian organization. The attacker utilized F5 BIG-IP appliances as a command-and-control (C&C) system for evasion purposes.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2024
+June 17, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Deploying New Tactics in Campaign Targeting Exposed Docker APIs<a href="https://securitylabs.datadoghq.com/articles/attackers-deploying-new-tactics-in-campaign-targeting-exposed-docker-apis/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Attackers Deploying New Tactics in Campaign Targeting Exposed Docker APIs<a href
 The attackers utilize new binaries, including chkstart, exeremo, and vurld, along with a persistence mechanism that modifies systemd services. Analysis suggests a link between this campaign and Spinning YARN.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+DataDog
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2024
+June 17, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ghidra: Open-Source Software Reverse Engineering Framework<a href="https://www.helpnetsecurity.com/2024/06/17/ghidra-nsa-open-source-software-reverse-engineering-framework/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Ghidra: Open-Source Software Reverse Engineering Framework<a href="https://www.h
 The Ghidra software reverse engineering (SRE) framework features high-end software analysis tools, enabling users to analyze compiled code across various platforms, including Windows, macOS, and Linux.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2024
+June 17, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alleged Boss of ‘Scattered Spider’ Hacking Group Arrested<a href="https://krebsonsecurity.com/2024/06/alleged-boss-of-scattered-spider-hacking-group-arrested/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Alleged Boss of ‘Scattered Spider’ Hacking Group Arrested<a href="https://kr
 A 22-year-old UK man recently arrested in Spain is believed to be the leader of the cybercrime group Scattered Spider, responsible for hacking into numerous organizations including Twilio, LastPass, and DoorDash.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Krebson Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2024
+June 17, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NiceRAT Malware Targets South Korean Users via Cracked Software<a href="https://thehackernews.com/2024/06/nicerat-malware-targets-south-korean.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ NiceRAT Malware Targets South Korean Users via Cracked Software<a href="https://
 Threat actors are using the NiceRAT malware to create a botnet by infecting devices, primarily targeting South Korean users. The malware is distributed through cracked software and tools that claim to verify Microsoft Office licenses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2024
+June 17, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta Pauses AI Training on EU User Data Amid Privacy Concerns<a href="https://thehackernews.com/2024/06/meta-halts-ai-training-on-eu-user-data.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Meta Pauses AI Training on EU User Data Amid Privacy Concerns<a href="https://th
 Meta has announced that it is delaying the training of its large language models (LLMs) in the European Union using public content shared by adult users on Facebook and Instagram, following a request from the Irish Data Protection Commission (DPC).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2024
+June 17, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious Emails Trick Consumers Into False Election Contributions<a href="https://www.helpnetsecurity.com/2024/06/17/global-cyber-threat-activities/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Malicious Emails Trick Consumers Into False Election Contributions<a href="https
 The last six months have seen a surge in cyber threat activities, driven by major global events such as elections and military exercises, according to cybersecurity firm Trellix.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2024
+June 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New ARM 'TIKTAG' Attack Impacts Google Chrome, Linux Systems<a href="https://www.bleepingcomputer.com/news/security/new-arm-tiktag-attack-impacts-google-chrome-linux-systems/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ New ARM 'TIKTAG' Attack Impacts Google Chrome, Linux Systems<a href="https://www
 A new speculative execution attack named "TIKTAG" targets ARM's Memory Tagging Extension (MTE) to leak data with over a 95% chance of success, allowing hackers to bypass the security feature.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2024
+June 17, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pakistani Hackers Use DISGOMOJI Malware to Target Indian Government<a href="https://www.volexity.com/blog/2024/06/13/disgomoji-malware-used-to-target-indian-government/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Pakistani Hackers Use DISGOMOJI Malware to Target Indian Government<a href="http
 The threat actor uses a malware called DISGOMOJI, written in Golang, to infect Linux systems. DISGOMOJI is a modified version of Discord-C2, utilizing emojis for its command and control communication through Discord.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Volexity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 17, 2024
+June 17, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blackbaud Must Pay $6.75 Million, Improve Security After Lying About Scope of 2020 Hack<a href="https://therecord.media/blackbaud-must-pay-settlement-california?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Blackbaud Must Pay $6.75 Million, Improve Security After Lying About Scope of 20
 Software company Blackbaud has agreed to pay $6.75 million and make improvements to its data security and breach notification practices following a hack in May 2020. The settlement was announced by California Attorney General Rob Bonta.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
