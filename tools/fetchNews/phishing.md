@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious Emails Trick Consumers Into False Election Contributions<a href="https://www.helpnetsecurity.com/2024/06/17/global-cyber-threat-activities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The last six months have seen a surge in cyber threat activities, driven by major global events such as elections and military exercises, according to cybersecurity firm Trellix.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

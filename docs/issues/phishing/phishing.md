@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Google Chrome Errors Trick Users Into Running Malicious PowerShell Scripts<a href="https://www.bleepingcomputer.com/news/security/fake-google-chrome-errors-trick-you-into-running-malicious-powershell-scripts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new malware campaign has been found tricking users into running malicious PowerShell "fixes" by displaying fake Google Chrome, Word, and OneDrive errors. The campaign has been linked to multiple actors, including ClearFake, ClickFix, and TA571.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

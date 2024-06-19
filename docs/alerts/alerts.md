@@ -29,6 +29,18 @@ WEST POINT, N.Y. - Today, the Cybersecurity and Infrastructure Security Agency (
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+May 31, 2024 - CISA, EAC 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Enhancing Election Security THROUGH PUBLIC COMMUNICATIONS <a href="https://www.cisa.gov/sites/default/files/2024-06/Enhancing%20Election%20Security%20Through%20Public%20Communications_508c.pdf"> Full Text</a>
+</p>
+<details>
+State, local, tribal, and territorial election officials are the primary sources of official information about elections. Election officials routinely communicate with the public about
+their work, including ...
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 May 28, 2024 - NIST
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

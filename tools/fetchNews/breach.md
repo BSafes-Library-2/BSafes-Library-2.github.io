@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Linked Hackers Infiltrate East Asian Firm for Three Years Using F5 Devices<a href="https://thehackernews.com/2024/06/china-linked-hackers-infiltrate-east.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cyber espionage actor believed to have ties to China has conducted a three-year-long attack on an undisclosed East Asian organization. The attacker utilized F5 BIG-IP appliances as a command-and-control (C&amp;C) system for evasion purposes.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

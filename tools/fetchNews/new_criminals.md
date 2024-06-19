@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Dismantle Asian Crime Ring Behind $25M Android Fraud<a href="https://www.bankinfosecurity.com/police-dismantle-asian-crime-ring-behind-25m-android-fraud-a-25541?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Singapore-led law enforcement operation has dismantled a cybercrime ring that used malware scams to steal millions. The group operated across regions, using malicious Android apps to access victims' mobile devices and drain their bank accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BreachForums Returns With a New Owner After ShinyHunters Retires<a href="https://thecyberexpress.com/breachforums-returns-new-owner/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ShinyHunters mentioned being tired of accusations and expressed a desire to move on. The new owner, Anastasia, is referred to as an "OG" by ShinyHunters and goes by the name "Anastasia Belshaw."
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Expres
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

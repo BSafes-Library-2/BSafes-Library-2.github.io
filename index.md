@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2024
+June 18, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA and EAC Release Guide to Enhance Election Security Through Public Communication<a href="https://thecyberexpress.com/cisa-eac-guide-to-enhance-election-security/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ CISA and EAC Release Guide to Enhance Election Security Through Public Communica
 The guide advises election officials to mitigate risks to election infrastructure and operations by developing a public communications plan with accurate election information and training teams for effective incident response communication.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2024
+June 18, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Plead Guilty After Breaching Law Enforcement Portal<a href="https://www.bankinfosecurity.com/hackers-plead-guilty-after-breaching-law-enforcement-portal-a-25544?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Hackers Plead Guilty After Breaching Law Enforcement Portal<a href="https://www.
 Two hackers, Sagar Steven Singh and Nicholas Ceraolo, have pleaded guilty to computer intrusion and identity theft. They used a law enforcement officer's stolen password to access a nonpublic portal maintained by a U.S. law enforcement agency.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2024
+June 18, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Google Chrome Errors Trick Users Into Running Malicious PowerShell Scripts<a href="https://www.bleepingcomputer.com/news/security/fake-google-chrome-errors-trick-you-into-running-malicious-powershell-scripts/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Fake Google Chrome Errors Trick Users Into Running Malicious PowerShell Scripts<
 A new malware campaign has been found tricking users into running malicious PowerShell "fixes" by displaying fake Google Chrome, Word, and OneDrive errors. The campaign has been linked to multiple actors, including ClearFake, ClickFix, and TA571.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2024
+June 18, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Low Code, High Stakes: Addressing SQL Injection<a href="https://www.helpnetsecurity.com/2024/06/17/sqli-attacks/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Low Code, High Stakes: Addressing SQL Injection<a href="https://www.helpnetsecur
 Factors contributing to SQLi vulnerabilities include human error, immature code in new technologies, and the use of open-source code. In March, CISA and the FBI issued a joint warning urging manufacturers and others to address SQLi vulnerabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2024
+June 18, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Modern Fraud Detection Need Not Rely on PII<a href="https://www.helpnetsecurity.com/2024/06/14/online-fraud-detection/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Modern Fraud Detection Need Not Rely on PII<a href="https://www.helpnetsecurity.
 For fraud detection software, knowing personal details like names and addresses is less important than recognizing contextual patterns. Pseudo-anonymized data, which preserves relationships without revealing original values, can be used.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2024
+June 18, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bug Bounty Programs, Hacking Contests Power China's Cyber Offense<a href="https://www.darkreading.com/cybersecurity-operations/bug-bounty-programs-hacking-contests-power-chinas-cyber-offense?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Bug Bounty Programs, Hacking Contests Power China's Cyber Offense<a href="https:
 The decrease in Chinese teams' participation in Western hacking competitions has made these competitions less effective as a defensive strategy, as China now considers their exploits too valuable to demonstrate publicly.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2024
+June 18, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Pledges to Protect Ukraine’s Critical Infrastructure From Cyberattacks in Security Deal<a href="https://therecord.media/us-pledges-protection-ukraine-cyberattacks?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ US Pledges to Protect Ukraine’s Critical Infrastructure From Cyberattacks in S
 The agreement, based on a pledge by the G7 countries, focuses on assisting Ukraine in protecting its networks from cyberattacks and countering disinformation. The U.S. will also help strengthen Ukraine's cyber defenses in critical infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2024
+June 18, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police Dismantle Asian Crime Ring Behind $25M Android Fraud<a href="https://www.bankinfosecurity.com/police-dismantle-asian-crime-ring-behind-25m-android-fraud-a-25541?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Police Dismantle Asian Crime Ring Behind $25M Android Fraud<a href="https://www.
 A Singapore-led law enforcement operation has dismantled a cybercrime ring that used malware scams to steal millions. The group operated across regions, using malicious Android apps to access victims' mobile devices and drain their bank accounts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2024
+June 18, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware by Broadcom Warns of Critical vCenter Flaws<a href="https://www.theregister.com/2024/06/18/vmware_criticial_vcenter_flaws/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ VMware by Broadcom Warns of Critical vCenter Flaws<a href="https://www.theregist
 Broadcom's VMware has discovered two critical-rated flaws, CVE-2024-37079 and CVE-2024-37080, in its vCenter Server, a tool used to manage virtual machines in its Cloud Foundation and vSphere suites.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 18, 2024
+June 18, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BreachForums Returns With a New Owner After ShinyHunters Retires<a href="https://thecyberexpress.com/breachforums-returns-new-owner/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ BreachForums Returns With a New Owner After ShinyHunters Retires<a href="https:/
 ShinyHunters mentioned being tired of accusations and expressed a desire to move on. The new owner, Anastasia, is referred to as an "OG" by ShinyHunters and goes by the name "Anastasia Belshaw."
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Expres
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

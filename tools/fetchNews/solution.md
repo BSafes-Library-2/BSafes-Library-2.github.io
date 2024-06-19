@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghidra: Open-Source Software Reverse Engineering Framework<a href="https://www.helpnetsecurity.com/2024/06/17/ghidra-nsa-open-source-software-reverse-engineering-framework/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Ghidra software reverse engineering (SRE) framework features high-end software analysis tools, enabling users to analyze compiled code across various platforms, including Windows, macOS, and Linux.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

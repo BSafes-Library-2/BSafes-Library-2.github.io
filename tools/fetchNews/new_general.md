@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bug Bounty Programs, Hacking Contests Power China's Cyber Offense<a href="https://www.darkreading.com/cybersecurity-operations/bug-bounty-programs-hacking-contests-power-chinas-cyber-offense?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The decrease in Chinese teams' participation in Western hacking competitions has made these competitions less effective as a defensive strategy, as China now considers their exploits too valuable to demonstrate publicly.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
