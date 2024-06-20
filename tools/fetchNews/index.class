@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Entro Security Raises $18 Million to Scale its Global Operations<a href="https://www.helpnetsecurity.com/2024/06/18/entro-security-series-a-round-18-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+California-based cybersecurity company, Entro Security, has secured $18 million in a Series A funding round led by Dell Technologies Capital. Existing investors Hyperwise Ventures and StageOne Ventures also participated, alongside angel investors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Quarter of Firms Suffer an API-Related Breach<a href="https://www.infosecurity-magazine.com/news/quarter-firms-suffer-api-related/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly a quarter (23%) of organizations suffered a breach via production APIs last year, according to a report by Salt Security. The report also found that 95% of respondents encountered API security problems in the past 12 months.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SELKS: Open-Source Suricata IDS/IPS, Network Security Monitoring, Threat Hunting<a href="https://www.helpnetsecurity.com/2024/06/19/selks-open-source-suricata-ids-ips-network-security-monitoring-threat-hunting/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SELKS is an open-source solution for network security monitoring, threat hunting, and intrusion detection and protection. SELKS utilizes the Suricata engine to generate all its data, making it a preferred choice for network security practitioners.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, Indonesia Hold Port-Focused Cybersecurity Exercise<a href="https://therecord.media/indonesia-port-maritime-cybersecurity-exercise-united-states?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exercise involved simulations of major cyber incidents and ransomware attacks against port operations and maritime activities. The goal was to better prepare for potential cyber threats to maritime critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report Reveals Record Exploitation Rate for Load Balancers<a href="https://www.infosecurity-magazine.com/news/record-100-exploitation-rate-load/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Load balancers have experienced a record exploitation rate, according to a report by Action1. Over a three-year period, load balancers were found to be disproportionately targeted by threat actors, with a 17% exploitation rate.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rising Exploitation in Enterprise Software: Key Trends for CISOs<a href="https://www.helpnetsecurity.com/2024/06/19/exploitation-enterprise-software/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Action1 researchers have observed a significant increase in vulnerabilities in enterprise software, emphasizing the need for CISOs to prioritize their efforts in vulnerability monitoring.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+G7 Countries Vow to Establish Collective Cybersecurity Framework for Operational Tech<a href="https://therecord.media/countries-vow-to-establish-cyber-collective?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The G7 countries have pledged to establish a collective cybersecurity framework for operational technologies to strengthen the cybersecurity of key technologies used in managing energy systems globally.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 92% of Orgs Hit by Credential Compromise from Social Engineering<a href="https://www.infosecurity-magazine.com/news/credential-compromise-social/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Barracuda, 92% of organizations experienced an average of six credential compromises due to email-based social engineering attacks in 2023. Scamming and phishing accounted for 86% of these attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Diamorphine Rootkit Variant Seen Undetected in the Wild<a href="https://decoded.avast.io/davidalvarez/new-diamorphine-rootkit-variant-seen-undetected-in-the-wild/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once loaded, the Diamorphine rootkit hides files and folders and allows the threat actor to perform certain operations such as hiding processes, elevating privileges, and interacting with the rootkit.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MFA Plays a Rising Role in Major Attacks, Research Finds<a href="https://www.cybersecuritydive.com/news/mfa-multi-factor-authentication-cisco-talos-cyber/719254/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MFA is playing an increasingly significant role in major cyberattacks, as highlighted by research conducted by Cisco Talos. Poorly configured MFA settings and intentional bypasses were key factors in numerous attacks over recent months.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 18, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

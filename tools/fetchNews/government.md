@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+June 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and EAC Release Guide to Enhance Election Security Through Public Communication<a href="https://thecyberexpress.com/cisa-eac-guide-to-enhance-election-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The guide advises election officials to mitigate risks to election infrastructure and operations by developing a public communications plan with accurate election information and training teams for effective incident response communication.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Pledges to Protect Ukraine’s Critical Infrastructure From Cyberattacks in Security Deal<a href="https://therecord.media/us-pledges-protection-ukraine-cyberattacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The agreement, based on a pledge by the G7 countries, focuses on assisting Ukraine in protecting its networks from cyberattacks and countering disinformation. The U.S. will also help strengthen Ukraine's cyber defenses in critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

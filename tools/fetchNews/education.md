@@ -8,6 +8,34 @@ nav_order: 900053
 
 ## Education
 ---
+June 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Low Code, High Stakes: Addressing SQL Injection<a href="https://www.helpnetsecurity.com/2024/06/17/sqli-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Factors contributing to SQLi vulnerabilities include human error, immature code in new technologies, and the use of open-source code. In March, CISA and the FBI issued a joint warning urging manufacturers and others to address SQLi vulnerabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 18, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Modern Fraud Detection Need Not Rely on PII<a href="https://www.helpnetsecurity.com/2024/06/14/online-fraud-detection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+For fraud detection software, knowing personal details like names and addresses is less important than recognizing contextual patterns. Pseudo-anonymized data, which preserves relationships without revealing original values, can be used.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+June 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Entro Security Raises $18 Million to Scale its Global Operations<a href="https://www.helpnetsecurity.com/2024/06/18/entro-security-series-a-round-18-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+California-based cybersecurity company, Entro Security, has secured $18 million in a Series A funding round led by Dell Technologies Capital. Existing investors Hyperwise Ventures and StageOne Ventures also participated, alongside angel investors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

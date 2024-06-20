@@ -8,6 +8,76 @@ nav_order: 900072
 
 ## General
 ---
+June 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Quarter of Firms Suffer an API-Related Breach<a href="https://www.infosecurity-magazine.com/news/quarter-firms-suffer-api-related/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Nearly a quarter (23%) of organizations suffered a breach via production APIs last year, according to a report by Salt Security. The report also found that 95% of respondents encountered API security problems in the past 12 months.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report Reveals Record Exploitation Rate for Load Balancers<a href="https://www.infosecurity-magazine.com/news/record-100-exploitation-rate-load/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Load balancers have experienced a record exploitation rate, according to a report by Action1. Over a three-year period, load balancers were found to be disproportionately targeted by threat actors, with a 17% exploitation rate.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rising Exploitation in Enterprise Software: Key Trends for CISOs<a href="https://www.helpnetsecurity.com/2024/06/19/exploitation-enterprise-software/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Action1 researchers have observed a significant increase in vulnerabilities in enterprise software, emphasizing the need for CISOs to prioritize their efforts in vulnerability monitoring.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 92% of Orgs Hit by Credential Compromise from Social Engineering<a href="https://www.infosecurity-magazine.com/news/credential-compromise-social/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Barracuda, 92% of organizations experienced an average of six credential compromises due to email-based social engineering attacks in 2023. Scamming and phishing accounted for 86% of these attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MFA Plays a Rising Role in Major Attacks, Research Finds<a href="https://www.cybersecuritydive.com/news/mfa-multi-factor-authentication-cisco-talos-cyber/719254/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MFA is playing an increasingly significant role in major cyberattacks, as highlighted by research conducted by Cisco Talos. Poorly configured MFA settings and intentional bypasses were key factors in numerous attacks over recent months.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
