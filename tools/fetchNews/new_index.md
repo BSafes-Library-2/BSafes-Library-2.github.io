@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2024
+June 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Uncover New Evasive SquidLoader Malware Targeting Chinese Organizations<a href="https://thehackernews.com/2024/06/experts-uncover-new-evasive-squidloader.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SquidLoader is designed to deliver a second-stage payload, such as Cobalt Strike, and has been active since at least April 2024. The payload is delivered through executables with descriptive Chinese filenames and icons resembling Word documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Rust-based Fickle Malware Uses PowerShell for UAC Bypass and Data Exfiltration<a href="https://thehackernews.com/2024/06/new-rust-based-fickle-malware-uses.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fickle Stealer is being distributed through various attack chains to gather sensitive data from compromised hosts. Four distribution methods have been identified, including VBA dropper, VBA downloader, link downloader, and executable downloader.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cyber Espionage Targets Telecom Operators in Asia Since 2021<a href="https://thehackernews.com/2024/06/chinese-cyber-espionage-targets-telecom.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exact motive behind the intrusions is unknown, but it is speculated that the attackers may have been gathering intelligence, eavesdropping, or attempting to disrupt critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability CVE-2024-38428 in wget<a href="https://borncity.com/win/2024/06/18/critical-vulnerability-cve-2024-38428-in-wget/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability has been found in the command line program wget, with a CVSS Base Score of 10.0. It is present in versions <=1.24.5 and poses a risk for users on Linux and Windows.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PQShield Secures $37M More for ‘Quantum Resistant’ Cryptography<a href="https://techcrunch.com/2024/06/20/pqshield-secures-37m-more-for-quantum-resistant-cryptography/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series B round was led by Addition, with participation from Chevron Technology Ventures, Legal & General, Braavos Capital, and Oxford Science Enterprises. PQShield plans to use the funds to expand its commercial operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unpatched Bug Allows Anyone to Impersonate Microsoft Corporate Email Accounts<a href="https://securityaffairs.com/164675/hacking/expert-warns-of-a-spoofing-bug.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bug has been discovered in Microsoft's corporate email accounts that allows attackers to impersonate them and conduct phishing. The security researcher, Vsevolod Kokorin, uncovered the flaw and reported it to Microsoft but received no response.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aim Security Closes $18M Series A Funding<a href="https://www.finsmes.com/2024/06/aim-security-closes-18m-series-a-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aim Security, an Israel-based company enabling the secure adoption and use of AI in enterprises, raised $18M in Series A funding. The round, which brought the total amount to $28M, was led by Canaan Partners, with participation from YL Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat Actor 'Void Arachne' Targets Chinese Users with Malicious VPN Installers<a href="https://thehackernews.com/2024/06/void-arachne-uses-deepfakes-and-ai-to.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group's campaign involves distributing compromised MSI files containing malicious software such as AI voice and facial technologies, deepfake pornography-generating software, and AI technologies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Deep Dive Into UNC3886 Actors’ Cyberespionage Realm<a href="https://thecyberexpress.com/deep-dive-into-unc3886-cyberespionage-realm/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UNC3886 group demonstrated sophisticated and cautious techniques, including using public rootkits for persistence, leveraging third-party services for C2 communications, and extracting credentials from TACACS+ authentication using custom malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome 126 Update Addresses Multiple High-Severity Flaws<a href="https://securityaffairs.com/164688/security/google-chrome-126-update.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has released the Chrome 126 update to fix several vulnerabilities, including a high-severity issue demonstrated at the TyphoonPWN 2024 hacking competition. One of the flaws is a type confusion problem in the V8 script engine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 19, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Entro Security Raises $18 Million to Scale its Global Operations<a href="https://www.helpnetsecurity.com/2024/06/18/entro-security-series-a-round-18-million/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Entro Security Raises $18 Million to Scale its Global Operations<a href="https:/
 California-based cybersecurity company, Entro Security, has secured $18 million in a Series A funding round led by Dell Technologies Capital. Existing investors Hyperwise Ventures and StageOne Ventures also participated, alongside angel investors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2024
+June 19, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Quarter of Firms Suffer an API-Related Breach<a href="https://www.infosecurity-magazine.com/news/quarter-firms-suffer-api-related/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Report: Quarter of Firms Suffer an API-Related Breach<a href="https://www.infose
 Nearly a quarter (23%) of organizations suffered a breach via production APIs last year, according to a report by Salt Security. The report also found that 95% of respondents encountered API security problems in the past 12 months.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2024
+June 19, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SELKS: Open-Source Suricata IDS/IPS, Network Security Monitoring, Threat Hunting<a href="https://www.helpnetsecurity.com/2024/06/19/selks-open-source-suricata-ids-ips-network-security-monitoring-threat-hunting/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ SELKS: Open-Source Suricata IDS/IPS, Network Security Monitoring, Threat Hunting
 SELKS is an open-source solution for network security monitoring, threat hunting, and intrusion detection and protection. SELKS utilizes the Suricata engine to generate all its data, making it a preferred choice for network security practitioners.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2024
+June 19, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US, Indonesia Hold Port-Focused Cybersecurity Exercise<a href="https://therecord.media/indonesia-port-maritime-cybersecurity-exercise-united-states?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ US, Indonesia Hold Port-Focused Cybersecurity Exercise<a href="https://therecord
 The exercise involved simulations of major cyber incidents and ransomware attacks against port operations and maritime activities. The goal was to better prepare for potential cyber threats to maritime critical infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2024
+June 19, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report Reveals Record Exploitation Rate for Load Balancers<a href="https://www.infosecurity-magazine.com/news/record-100-exploitation-rate-load/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Report Reveals Record Exploitation Rate for Load Balancers<a href="https://www.i
 Load balancers have experienced a record exploitation rate, according to a report by Action1. Over a three-year period, load balancers were found to be disproportionately targeted by threat actors, with a 17% exploitation rate.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2024
+June 19, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rising Exploitation in Enterprise Software: Key Trends for CISOs<a href="https://www.helpnetsecurity.com/2024/06/19/exploitation-enterprise-software/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Rising Exploitation in Enterprise Software: Key Trends for CISOs<a href="https:/
 Action1 researchers have observed a significant increase in vulnerabilities in enterprise software, emphasizing the need for CISOs to prioritize their efforts in vulnerability monitoring.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2024
+June 19, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 G7 Countries Vow to Establish Collective Cybersecurity Framework for Operational Tech<a href="https://therecord.media/countries-vow-to-establish-cyber-collective?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ G7 Countries Vow to Establish Collective Cybersecurity Framework for Operational
 The G7 countries have pledged to establish a collective cybersecurity framework for operational technologies to strengthen the cybersecurity of key technologies used in managing energy systems globally.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2024
+June 19, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 92% of Orgs Hit by Credential Compromise from Social Engineering<a href="https://www.infosecurity-magazine.com/news/credential-compromise-social/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Report: 92% of Orgs Hit by Credential Compromise from Social Engineering<a href=
 According to a report by Barracuda, 92% of organizations experienced an average of six credential compromises due to email-based social engineering attacks in 2023. Scamming and phishing accounted for 86% of these attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2024
+June 19, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Diamorphine Rootkit Variant Seen Undetected in the Wild<a href="https://decoded.avast.io/davidalvarez/new-diamorphine-rootkit-variant-seen-undetected-in-the-wild/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ New Diamorphine Rootkit Variant Seen Undetected in the Wild<a href="https://deco
 Once loaded, the Diamorphine rootkit hides files and folders and allows the threat actor to perform certain operations such as hiding processes, elevating privileges, and interacting with the rootkit.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Avast
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 19, 2024
+June 19, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MFA Plays a Rising Role in Major Attacks, Research Finds<a href="https://www.cybersecuritydive.com/news/mfa-multi-factor-authentication-cisco-talos-cyber/719254/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ MFA Plays a Rising Role in Major Attacks, Research Finds<a href="https://www.cyb
 MFA is playing an increasingly significant role in major cyberattacks, as highlighted by research conducted by Cisco Talos. Poorly configured MFA settings and intentional bypasses were key factors in numerous attacks over recent months.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
