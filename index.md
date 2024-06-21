@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2024
+June 20, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Experts Uncover New Evasive SquidLoader Malware Targeting Chinese Organizations<a href="https://thehackernews.com/2024/06/experts-uncover-new-evasive-squidloader.html?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Experts Uncover New Evasive SquidLoader Malware Targeting Chinese Organizations<
 SquidLoader is designed to deliver a second-stage payload, such as Cobalt Strike, and has been active since at least April 2024. The payload is delivered through executables with descriptive Chinese filenames and icons resembling Word documents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2024
+June 20, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Rust-based Fickle Malware Uses PowerShell for UAC Bypass and Data Exfiltration<a href="https://thehackernews.com/2024/06/new-rust-based-fickle-malware-uses.html?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ New Rust-based Fickle Malware Uses PowerShell for UAC Bypass and Data Exfiltrati
 Fickle Stealer is being distributed through various attack chains to gather sensitive data from compromised hosts. Four distribution methods have been identified, including VBA dropper, VBA downloader, link downloader, and executable downloader.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2024
+June 20, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese Cyber Espionage Targets Telecom Operators in Asia Since 2021<a href="https://thehackernews.com/2024/06/chinese-cyber-espionage-targets-telecom.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Chinese Cyber Espionage Targets Telecom Operators in Asia Since 2021<a href="htt
 The exact motive behind the intrusions is unknown, but it is speculated that the attackers may have been gathering intelligence, eavesdropping, or attempting to disrupt critical infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2024
+June 20, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerability CVE-2024-38428 in wget<a href="https://borncity.com/win/2024/06/18/critical-vulnerability-cve-2024-38428-in-wget/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Critical Vulnerability CVE-2024-38428 in wget<a href="https://borncity.com/win/2
 A critical vulnerability has been found in the command line program wget, with a CVSS Base Score of 10.0. It is present in versions <=1.24.5 and poses a risk for users on Linux and Windows.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+BornCity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2024
+June 20, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PQShield Secures $37M More for ‘Quantum Resistant’ Cryptography<a href="https://techcrunch.com/2024/06/20/pqshield-secures-37m-more-for-quantum-resistant-cryptography/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ PQShield Secures $37M More for ‘Quantum Resistant’ Cryptography<a href="http
 The Series B round was led by Addition, with participation from Chevron Technology Ventures, Legal & General, Braavos Capital, and Oxford Science Enterprises. PQShield plans to use the funds to expand its commercial operations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2024
+June 20, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unpatched Bug Allows Anyone to Impersonate Microsoft Corporate Email Accounts<a href="https://securityaffairs.com/164675/hacking/expert-warns-of-a-spoofing-bug.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Unpatched Bug Allows Anyone to Impersonate Microsoft Corporate Email Accounts<a 
 A bug has been discovered in Microsoft's corporate email accounts that allows attackers to impersonate them and conduct phishing. The security researcher, Vsevolod Kokorin, uncovered the flaw and reported it to Microsoft but received no response.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2024
+June 20, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Aim Security Closes $18M Series A Funding<a href="https://www.finsmes.com/2024/06/aim-security-closes-18m-series-a-funding.html?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Aim Security Closes $18M Series A Funding<a href="https://www.finsmes.com/2024/0
 Aim Security, an Israel-based company enabling the secure adoption and use of AI in enterprises, raised $18M in Series A funding. The round, which brought the total amount to $28M, was led by Canaan Partners, with participation from YL Ventures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+FINSMES
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2024
+June 20, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Threat Actor 'Void Arachne' Targets Chinese Users with Malicious VPN Installers<a href="https://thehackernews.com/2024/06/void-arachne-uses-deepfakes-and-ai-to.html?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ New Threat Actor 'Void Arachne' Targets Chinese Users with Malicious VPN Install
 The group's campaign involves distributing compromised MSI files containing malicious software such as AI voice and facial technologies, deepfake pornography-generating software, and AI technologies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2024
+June 20, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Deep Dive Into UNC3886 Actors’ Cyberespionage Realm<a href="https://thecyberexpress.com/deep-dive-into-unc3886-cyberespionage-realm/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Researchers Deep Dive Into UNC3886 Actors’ Cyberespionage Realm<a href="https:
 The UNC3886 group demonstrated sophisticated and cautious techniques, including using public rootkits for persistence, leveraging third-party services for C2 communications, and extracting credentials from TACACS+ authentication using custom malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 20, 2024
+June 20, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Chrome 126 Update Addresses Multiple High-Severity Flaws<a href="https://securityaffairs.com/164688/security/google-chrome-126-update.html?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Google Chrome 126 Update Addresses Multiple High-Severity Flaws<a href="https://
 Google has released the Chrome 126 update to fix several vulnerabilities, including a high-severity issue demonstrated at the TyphoonPWN 2024 hacking competition. One of the flaws is a type confusion problem in the V8 script engine.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SELKS: Open-Source Suricata IDS/IPS, Network Security Monitoring, Threat Hunting<a href="https://www.helpnetsecurity.com/2024/06/19/selks-open-source-suricata-ids-ips-network-security-monitoring-threat-hunting/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SELKS is an open-source solution for network security monitoring, threat hunting, and intrusion detection and protection. SELKS utilizes the Suricata engine to generate all its data, making it a preferred choice for network security practitioners.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

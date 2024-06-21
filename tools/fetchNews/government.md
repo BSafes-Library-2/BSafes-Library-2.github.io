@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+June 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US, Indonesia Hold Port-Focused Cybersecurity Exercise<a href="https://therecord.media/indonesia-port-maritime-cybersecurity-exercise-united-states?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The exercise involved simulations of major cyber incidents and ransomware attacks against port operations and maritime activities. The goal was to better prepare for potential cyber threats to maritime critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+G7 Countries Vow to Establish Collective Cybersecurity Framework for Operational Tech<a href="https://therecord.media/countries-vow-to-establish-cyber-collective?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The G7 countries have pledged to establish a collective cybersecurity framework for operational technologies to strengthen the cybersecurity of key technologies used in managing energy systems globally.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

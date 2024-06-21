@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+June 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat Actor 'Void Arachne' Targets Chinese Users with Malicious VPN Installers<a href="https://thehackernews.com/2024/06/void-arachne-uses-deepfakes-and-ai-to.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group's campaign involves distributing compromised MSI files containing malicious software such as AI voice and facial technologies, deepfake pornography-generating software, and AI technologies.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Deep Dive Into UNC3886 Actors’ Cyberespionage Realm<a href="https://thecyberexpress.com/deep-dive-into-unc3886-cyberespionage-realm/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UNC3886 group demonstrated sophisticated and cautious techniques, including using public rootkits for persistence, leveraging third-party services for C2 communications, and extracting credentials from TACACS+ authentication using custom malware.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

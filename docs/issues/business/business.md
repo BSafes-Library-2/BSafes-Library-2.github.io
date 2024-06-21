@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+June 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PQShield Secures $37M More for ‘Quantum Resistant’ Cryptography<a href="https://techcrunch.com/2024/06/20/pqshield-secures-37m-more-for-quantum-resistant-cryptography/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series B round was led by Addition, with participation from Chevron Technology Ventures, Legal &amp; General, Braavos Capital, and Oxford Science Enterprises. PQShield plans to use the funds to expand its commercial operations.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Aim Security Closes $18M Series A Funding<a href="https://www.finsmes.com/2024/06/aim-security-closes-18m-series-a-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Aim Security, an Israel-based company enabling the secure adoption and use of AI in enterprises, raised $18M in Series A funding. The round, which brought the total amount to $28M, was led by Canaan Partners, with participation from YL Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+FINSMES
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
