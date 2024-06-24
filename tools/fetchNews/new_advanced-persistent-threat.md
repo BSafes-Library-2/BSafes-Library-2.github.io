@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+June 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'SneakyChef' APT Slices Up Foreign Affairs With SugarGh0st<a href="https://www.darkreading.com/threat-intelligence/sneakychef-apt-slices-up-foreign-affairs-with-sugargh0st?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group initially used a modified version of Gh0st RAT, called "SugarGh0st RAT," to target South Korea and the Ministry of Foreign Affairs in Uzbekistan since late August last year.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

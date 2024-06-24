@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+June 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Military-themed Email Scam Spreads Malware to Infect Pakistani Users<a href="https://thehackernews.com/2024/06/military-themed-emails-used-to-spread.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered a new phishing campaign, named PHANTOM#SPIKE, targeting individuals in Pakistan. The campaign utilizes military-themed phishing documents to initiate the infection process.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

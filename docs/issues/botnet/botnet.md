@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Threat: A Deep Dive Into the Zergeca Botnet<a href="https://blog.xlab.qianxin.com/a-deep-dive-into-the-zergeca-botnet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zergeca is a botnet implemented in Golang and supports six different attack methods, as well as proxying, scanning, self-upgrading, file transfer, reverse shell, and collecting sensitive device information.
+</details>
+<div style="text-align: right" markdown="1">
+Qianxin
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
