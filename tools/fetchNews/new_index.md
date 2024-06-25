@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2024
+June 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Mirai-Like' Botnet Observed Attacking EOL Zyxel NAS devices<a href="https://www.theregister.com/2024/06/24/mirailike_botnet_zyxel_nas/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Shadowserver Foundation, in collaboration with top security agencies and vendors, detected multiple remote command execution attempts by a Mirai-like botnet. It advised Zyxel NAS owners to actively search for signs of compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Coinstats Says North Korean Hackers Breached 1,590 Crypto Wallets<a href="https://www.bleepingcomputer.com/news/cryptocurrency/coinstats-says-north-korean-hackers-breached-1-590-crypto-wallets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CoinStats, a crypto portfolio app with 1.5 million users, experienced a significant security breach affecting 1,590 cryptocurrency wallets. North Korean threat actors are suspected to be behind the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Discovered in Ollama AI Infrastructure Tool<a href="https://thehackernews.com/2024/06/critical-rce-vulnerability-discovered.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2024-37032 and dubbed Probllama, was patched in version 0.1.34 released on May 7, 2024. Ollama is a service used for running large language models locally on Windows, Linux, and macOS devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Say Microsoft Power BI Reports Expose Sensitive Data on the Web<a href="https://nokodsecurity.com/blog/in-plain-sight-how-microsoft-power-bi-reports-expose-sensitive-data-on-the-web/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability in Power BI reports allows access to underlying raw data when shared with others. This includes detailed records, hidden tables, non-displayed columns, and filtered-out data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google's Zero-Day Hunters Test AI for Security Research<a href="https://www.bankinfosecurity.com/googles-zero-day-hunters-test-ai-for-security-research-a-25592?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google's Project Zero team of zero-day hunters believes that artificial intelligence (AI) can enhance automated threat identification and analysis by detecting vulnerabilities that are often missed by current tools.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta, MS SQL Make Strange Bedfellows on Couch of Cyber-Pain<a href="https://www.theregister.com/2024/06/24/meta_ms_sql_column/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The article discusses how Meta and Microsoft SQL Server, two very different parts of the tech industry, are both facing issues related to software and services supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedJuliett Cyber Espionage Campaign Hits 75 Taiwanese Organizations<a href="https://thehackernews.com/2024/06/redjuliett-cyber-espionage-campaign.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The primary objective appears to be gathering intelligence on Taiwan's economic policy, trade, and diplomatic relations. The group focuses on targeting vulnerabilities in internet-facing devices due to their limited security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: One out of Three Breaches Remain Undetected<a href="https://www.helpnetsecurity.com/2024/06/24/detecting-breaches-struggle-in-organizations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a survey conducted by Gigamon, organizations are facing challenges in detecting breaches due to their increasing complexity and the sophistication of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook PrestaShop Module Exploited to Steal Credit Cards<a href="https://www.bleepingcomputer.com/news/security/facebook-prestashop-module-exploited-to-steal-credit-cards/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are taking advantage of a vulnerability in a Facebook module for PrestaShop called pkfacebook to carry out card skimming attacks on e-commerce websites and steal customers' payment card details.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Polish Investigators Seize Pegasus Spyware Systems as Part of Probe Into Alleged Abuse<a href="https://therecord.media/poland-seizure-pegasus-spyware-systems?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Polish prosecutors have seized Pegasus spyware systems from a government agency in Warsaw as part of an investigation into the legality of its use. The devices were secured from the headquarters of the Central Anticorruption Bureau.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 22, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Military-themed Email Scam Spreads Malware to Infect Pakistani Users<a href="https://thehackernews.com/2024/06/military-themed-emails-used-to-spread.html?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Military-themed Email Scam Spreads Malware to Infect Pakistani Users<a href="htt
 Researchers have uncovered a new phishing campaign, named PHANTOM#SPIKE, targeting individuals in Pakistan. The campaign utilizes military-themed phishing documents to initiate the infection process.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2024
+June 22, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'SneakyChef' APT Slices Up Foreign Affairs With SugarGh0st<a href="https://www.darkreading.com/threat-intelligence/sneakychef-apt-slices-up-foreign-affairs-with-sugargh0st?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ June 22, 2024
 The group initially used a modified version of Gh0st RAT, called "SugarGh0st RAT," to target South Korea and the Ministry of Foreign Affairs in Uzbekistan since late August last year.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2024
+June 22, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Threat: A Deep Dive Into the Zergeca Botnet<a href="https://blog.xlab.qianxin.com/a-deep-dive-into-the-zergeca-botnet/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ New Threat: A Deep Dive Into the Zergeca Botnet<a href="https://blog.xlab.qianxi
 Zergeca is a botnet implemented in Golang and supports six different attack methods, as well as proxying, scanning, self-upgrading, file transfer, reverse shell, and collecting sensitive device information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Qianxin
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2024
+June 22, 2024 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Decoding the Caesar Cipher Skimmer<a href="https://blog.sucuri.net/2024/06/caesar-cipher-skimmer.html?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Decoding the Caesar Cipher Skimmer<a href="https://blog.sucuri.net/2024/06/caesa
 A new variation of the "gtag" credit card skimming attack, known as the "Caesar Cipher Skimmer," has been detected on multiple CMS platforms including WordPress, Magento, and OpenCart.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 22, 2024
+June 22, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rafel RAT, Android Malware from Espionage to Ransomware Operations<a href="https://research.checkpoint.com/2024/rafel-rat-android-malware-from-espionage-to-ransomware-operations/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Rafel RAT, Android Malware from Espionage to Ransomware Operations<a href="https
 Check Point Research has identified multiple threat actors using Rafel RAT, including an espionage group. The tool's features, such as remote access and surveillance, make it effective for covert operations and infiltrating high-value targets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Check Point
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2024
+June 21, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pomerium Announces $13.75M Series A Funding Led by Benchmark<a href="https://finance.yahoo.com/news/pomerium-announces-13-75m-series-140000833.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Pomerium Announces $13.75M Series A Funding Led by Benchmark<a href="https://fin
 Eric Vishria, a general partner at Benchmark, will join Pomerium’s board of directors. Existing investors, including Bain Capital, Haystack, SNR, and Oleg Rogynskyy, also participated in the funding round.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Yahoo
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2024
+June 21, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cilium: Open-source eBPF-based networking, security, observability<a href="https://www.helpnetsecurity.com/2024/06/21/cilium-open-source-ebpf-based-networking-security-observability/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Cilium: Open-source eBPF-based networking, security, observability<a href="https
 Cilium has features like distributed load balancing, advanced ingress and egress gateways, bandwidth management, and comprehensive network and security monitoring. It is available for free on GitHub.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2024
+June 21, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity Burnout Costing Firms $700m+ Annually<a href="https://www.infosecurity-magazine.com/news/cybersecurity-burnout-costing-700m/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Cybersecurity Burnout Costing Firms $700m+ Annually<a href="https://www.infosecu
 British and US enterprises lose around $756m annually due to burnt-out cybersecurity staff, with UK employers losing $130m and US employers up to $626m, according to Hack The Box.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2024
+June 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CosmicSting Flaw Impacts 75% of Adobe Commerce, Magento Sites<a href="https://www.bleepingcomputer.com/news/security/cosmicsting-flaw-impacts-75-percent-of-adobe-commerce-magento-sites/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ CosmicSting Flaw Impacts 75% of Adobe Commerce, Magento Sites<a href="https://ww
 Approximately 75% of affected e-commerce platforms have not applied the security update, which exposes them to XML external entity injection (XXE) and remote code execution (RCE) risks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 21, 2024
+June 21, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Will Upcoming HHS Cyber Regs Move Needle in Health Sector?<a href="https://www.bankinfosecurity.com/will-upcoming-hhs-cyber-regs-move-needle-in-health-sector-a-25582?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Will Upcoming HHS Cyber Regs Move Needle in Health Sector?<a href="https://www.b
 Hospitals are expected to be the first entities required to implement new "minimum" mandates based on cybersecurity performance goals released by the Department of Health and Human Services (HHS) in January.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
