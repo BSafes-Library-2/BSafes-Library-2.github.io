@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Mirai-Like' Botnet Observed Attacking EOL Zyxel NAS devices<a href="https://www.theregister.com/2024/06/24/mirailike_botnet_zyxel_nas/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Shadowserver Foundation, in collaboration with top security agencies and vendors, detected multiple remote command execution attempts by a Mirai-like botnet. It advised Zyxel NAS owners to actively search for signs of compromise.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

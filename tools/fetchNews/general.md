@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity Burnout Costing Firms $700m+ Annually<a href="https://www.infosecurity-magazine.com/news/cybersecurity-burnout-costing-700m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+British and US enterprises lose around $756m annually due to burnt-out cybersecurity staff, with UK employers losing $130m and US employers up to $626m, according to Hack The Box.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Will Upcoming HHS Cyber Regs Move Needle in Health Sector?<a href="https://www.bankinfosecurity.com/will-upcoming-hhs-cyber-regs-move-needle-in-health-sector-a-25582?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hospitals are expected to be the first entities required to implement new "minimum" mandates based on cybersecurity performance goals released by the Department of Health and Human Services (HHS) in January.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Info Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
