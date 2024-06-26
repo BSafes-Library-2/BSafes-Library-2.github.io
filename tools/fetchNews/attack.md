@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RedJuliett Cyber Espionage Campaign Hits 75 Taiwanese Organizations<a href="https://thehackernews.com/2024/06/redjuliett-cyber-espionage-campaign.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The primary objective appears to be gathering intelligence on Taiwan's economic policy, trade, and diplomatic relations. The group focuses on targeting vulnerabilities in internet-facing devices due to their limited security solutions.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

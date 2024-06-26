@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+June 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+P2PInfect Botnet Targets Redis Servers with New Ransomware Module<a href="https://www.bleepingcomputer.com/news/security/p2pinfect-botnet-targets-redis-servers-with-new-ransomware-module/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+P2PInfect, a previously dormant peer-to-peer malware botnet, has recently become active and is now targeting Redis servers. The botnet has introduced new features like cron-based persistence mechanisms and SSH lockout.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

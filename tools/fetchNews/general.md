@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta, MS SQL Make Strange Bedfellows on Couch of Cyber-Pain<a href="https://www.theregister.com/2024/06/24/meta_ms_sql_column/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The article discusses how Meta and Microsoft SQL Server, two very different parts of the tech industry, are both facing issues related to software and services supply chain.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: One out of Three Breaches Remain Undetected<a href="https://www.helpnetsecurity.com/2024/06/24/detecting-breaches-struggle-in-organizations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a survey conducted by Gigamon, organizations are facing challenges in detecting breaches due to their increasing complexity and the sophistication of attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

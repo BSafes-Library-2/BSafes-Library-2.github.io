@@ -7,6 +7,28 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2024 - U.S. DEPARTMENT OF ENERGY  
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Cybersecurity Principles <a href="https://www.energy.gov/sites/default/files/2024-06/DOE%20Supply%20Chain%20Cyber%20Princples%20June%202024.pdf"> Full Text</a>
+</p>
+<details>
+The Supply Chain Cybersecurity Principles characterize the foundational actions and approaches needed to deliver strong cybersecurity throughout the vast global supply chains that build energy automation and industrial control systems(ICS). The principles aim to create an enduring framework to drive best practices today, while informing international coordination to advance those practices into the future.  
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2024 - FBI
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fictitious Law Firms Targeting Cryptocurrency Scam Victims Offering to Recover Funds <a href="https://www.ic3.gov/Media/Y2024/PSA240624"> Full Text</a>
+</p>
+<details>
+Using social media or other messaging platforms, fraudsters posing as lawyers representing fictitious law firms may contact scam victims and offer their services, claiming to have the authorization to investigate fund recovery cases. To validate the contact, the "lawyers" claim they are working with, or have received information on, the scam victim's case from the FBI, Consumer Financial Protection Bureau (CFPB), or other government agency. In some instances, scam victims have contacted fraudsters on fake websites, which appear legitimate, hoping to recover their funds.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 12, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

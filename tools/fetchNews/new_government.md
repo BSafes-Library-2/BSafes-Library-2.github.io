@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+June 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Fake Law Firms Targeting Crypto Scam Victims<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-law-firms-targeting-crypto-scam-victims/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a warning about cybercriminals pretending to be law firms and lawyers offering cryptocurrency recovery services. These scammers target victims of investment scams, stealing funds and personal information.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manufacturing Cybersecurity at Heart of New White House Guidance<a href="https://www.cybersecuritydive.com/news/energy-department-cybersecurity-manufacturing-supply-chain-best-practices/719612/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Energy has released a new framework of best practices for securing clean energy cyber supply chains, focusing on key technologies used in managing electricity, oil, and natural gas systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

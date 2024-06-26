@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Cloud Breaches Impact Nearly Half of Organizations<a href="https://www.infosecurity-magazine.com/news/cloud-breaches-half-organizations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the Thales 2024 Cloud Security Study, 44% of organizations have experienced a cloud data breach, with 14% reporting incidents in the past year. Human error and misconfigurations were the top root causes, affecting 31% of cases.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Fake Law Firms Targeting Crypto Scam Victims<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-law-firms-targeting-crypto-scam-victims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a warning about cybercriminals pretending to be law firms and lawyers offering cryptocurrency recovery services. These scammers target victims of investment scams, stealing funds and personal information.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four FIN9-linked Vietnamese Hackers Indicted in $71M U.S. Cybercrime Spree<a href="https://thehackernews.com/2024/06/4-fin9-linked-vietnamese-hackers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ta Van Tai, Nguyen Viet Quoc, Nguyen Trang Xuyen, and Nguyen Van Truong are accused of conducting phishing campaigns and supply chain compromises to orchestrate cyberattacks and steal millions of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android RAT SpyMax Targets Telegram Users<a href="https://labs.k7computing.com/index.php/spymax-an-android-rat-targets-telegram-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SpyMax does not require the targeted device to be rooted, making it easier for threat actors to cause damage. Once installed, SpyMax gathers personal information from the infected device without user consent and sends it to a remote threat actor.
+</details>
+<div style="text-align: right" markdown="1">
+K7 Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+P2PInfect Botnet Targets Redis Servers with New Ransomware Module<a href="https://www.bleepingcomputer.com/news/security/p2pinfect-botnet-targets-redis-servers-with-new-ransomware-module/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+P2PInfect, a previously dormant peer-to-peer malware botnet, has recently become active and is now targeting Redis servers. The botnet has introduced new features like cron-based persistence mechanisms and SSH lockout.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SnailLoad Attack can Exploit Remote Network Latency Measurements to Infer User Activity<a href="https://snailload.com/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unlike previous methods, SnailLoad doesn't require a person-in-the-middle attack or hacking the target's Wi-Fi. Instead, it lets a remote attacker infer websites and content viewed by a user without accessing their network traffic directly.
+</details>
+<div style="text-align: right" markdown="1">
+SnailLoad
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Create Rogue Admin Accounts via Backdoored WordPress Plugins<a href="https://thehackernews.com/2024/06/multiple-wordpress-plugins-compromised.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple WordPress plugins have been found to contain a backdoor that injects malicious code. This code allows attackers to create unauthorized administrator accounts, enabling them to perform malicious actions.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boolka Group's Modular Trojan BMANAGER Exposed<a href="https://www.infosecurity-magazine.com/news/modular-malware-boolkas-bmanager/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Boolka group is responsible for deploying advanced malware and conducting web attacks. They have been exploiting vulnerabilities using SQL injection attacks since 2022, targeting websites in various countries.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Uses MSC Files and Windows XSS Flaw to Breach Networks<a href="https://www.bleepingcomputer.com/news/security/new-grimresource-attack-uses-msc-files-and-windows-xss-flaw-to-breach-networks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new command execution technique called "GrimResource" has been discovered that leverages a combination of specially crafted Microsoft Saved Console (MSC) files and an unpatched Windows XSS flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manufacturing Cybersecurity at Heart of New White House Guidance<a href="https://www.cybersecuritydive.com/news/energy-department-cybersecurity-manufacturing-supply-chain-best-practices/719612/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Energy has released a new framework of best practices for securing clean energy cyber supply chains, focusing on key technologies used in managing electricity, oil, and natural gas systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 24, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

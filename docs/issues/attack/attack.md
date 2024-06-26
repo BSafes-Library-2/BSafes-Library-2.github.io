@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+June 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SnailLoad Attack can Exploit Remote Network Latency Measurements to Infer User Activity<a href="https://snailload.com/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unlike previous methods, SnailLoad doesn't require a person-in-the-middle attack or hacking the target's Wi-Fi. Instead, it lets a remote attacker infer websites and content viewed by a user without accessing their network traffic directly.
+</details>
+<div style="text-align: right" markdown="1">
+SnailLoad
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Uses MSC Files and Windows XSS Flaw to Breach Networks<a href="https://www.bleepingcomputer.com/news/security/new-grimresource-attack-uses-msc-files-and-windows-xss-flaw-to-breach-networks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new command execution technique called "GrimResource" has been discovered that leverages a combination of specially crafted Microsoft Saved Console (MSC) files and an unpatched Windows XSS flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

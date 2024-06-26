@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+June 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook PrestaShop Module Exploited to Steal Credit Cards<a href="https://www.bleepingcomputer.com/news/security/facebook-prestashop-module-exploited-to-steal-credit-cards/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are taking advantage of a vulnerability in a Facebook module for PrestaShop called pkfacebook to carry out card skimming attacks on e-commerce websites and steal customers' payment card details.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
