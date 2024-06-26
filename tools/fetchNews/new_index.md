@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2024
+June 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Cloud Breaches Impact Nearly Half of Organizations<a href="https://www.infosecurity-magazine.com/news/cloud-breaches-half-organizations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to the Thales 2024 Cloud Security Study, 44% of organizations have experienced a cloud data breach, with 14% reporting incidents in the past year. Human error and misconfigurations were the top root causes, affecting 31% of cases.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns of Fake Law Firms Targeting Crypto Scam Victims<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-law-firms-targeting-crypto-scam-victims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI has issued a warning about cybercriminals pretending to be law firms and lawyers offering cryptocurrency recovery services. These scammers target victims of investment scams, stealing funds and personal information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four FIN9-linked Vietnamese Hackers Indicted in $71M U.S. Cybercrime Spree<a href="https://thehackernews.com/2024/06/4-fin9-linked-vietnamese-hackers.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ta Van Tai, Nguyen Viet Quoc, Nguyen Trang Xuyen, and Nguyen Van Truong are accused of conducting phishing campaigns and supply chain compromises to orchestrate cyberattacks and steal millions of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Android RAT SpyMax Targets Telegram Users<a href="https://labs.k7computing.com/index.php/spymax-an-android-rat-targets-telegram-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SpyMax does not require the targeted device to be rooted, making it easier for threat actors to cause damage. Once installed, SpyMax gathers personal information from the infected device without user consent and sends it to a remote threat actor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+P2PInfect Botnet Targets Redis Servers with New Ransomware Module<a href="https://www.bleepingcomputer.com/news/security/p2pinfect-botnet-targets-redis-servers-with-new-ransomware-module/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+P2PInfect, a previously dormant peer-to-peer malware botnet, has recently become active and is now targeting Redis servers. The botnet has introduced new features like cron-based persistence mechanisms and SSH lockout.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SnailLoad Attack can Exploit Remote Network Latency Measurements to Infer User Activity<a href="https://snailload.com/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unlike previous methods, SnailLoad doesn't require a person-in-the-middle attack or hacking the target's Wi-Fi. Instead, it lets a remote attacker infer websites and content viewed by a user without accessing their network traffic directly.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Create Rogue Admin Accounts via Backdoored WordPress Plugins<a href="https://thehackernews.com/2024/06/multiple-wordpress-plugins-compromised.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple WordPress plugins have been found to contain a backdoor that injects malicious code. This code allows attackers to create unauthorized administrator accounts, enabling them to perform malicious actions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Boolka Group's Modular Trojan BMANAGER Exposed<a href="https://www.infosecurity-magazine.com/news/modular-malware-boolkas-bmanager/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Boolka group is responsible for deploying advanced malware and conducting web attacks. They have been exploiting vulnerabilities using SQL injection attacks since 2022, targeting websites in various countries.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Attack Uses MSC Files and Windows XSS Flaw to Breach Networks<a href="https://www.bleepingcomputer.com/news/security/new-grimresource-attack-uses-msc-files-and-windows-xss-flaw-to-breach-networks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new command execution technique called "GrimResource" has been discovered that leverages a combination of specially crafted Microsoft Saved Console (MSC) files and an unpatched Windows XSS flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Manufacturing Cybersecurity at Heart of New White House Guidance<a href="https://www.cybersecuritydive.com/news/energy-department-cybersecurity-manufacturing-supply-chain-best-practices/719612/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of Energy has released a new framework of best practices for securing clean energy cyber supply chains, focusing on key technologies used in managing electricity, oil, and natural gas systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 24, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Mirai-Like' Botnet Observed Attacking EOL Zyxel NAS devices<a href="https://www.theregister.com/2024/06/24/mirailike_botnet_zyxel_nas/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ June 24, 2024
 The Shadowserver Foundation, in collaboration with top security agencies and vendors, detected multiple remote command execution attempts by a Mirai-like botnet. It advised Zyxel NAS owners to actively search for signs of compromise.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2024
+June 24, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Coinstats Says North Korean Hackers Breached 1,590 Crypto Wallets<a href="https://www.bleepingcomputer.com/news/cryptocurrency/coinstats-says-north-korean-hackers-breached-1-590-crypto-wallets/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Coinstats Says North Korean Hackers Breached 1,590 Crypto Wallets<a href="https:
 CoinStats, a crypto portfolio app with 1.5 million users, experienced a significant security breach affecting 1,590 cryptocurrency wallets. North Korean threat actors are suspected to be behind the attack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2024
+June 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Vulnerability Discovered in Ollama AI Infrastructure Tool<a href="https://thehackernews.com/2024/06/critical-rce-vulnerability-discovered.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Critical RCE Vulnerability Discovered in Ollama AI Infrastructure Tool<a href="h
 The vulnerability, tracked as CVE-2024-37032 and dubbed Probllama, was patched in version 0.1.34 released on May 7, 2024. Ollama is a service used for running large language models locally on Windows, Linux, and macOS devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2024
+June 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Say Microsoft Power BI Reports Expose Sensitive Data on the Web<a href="https://nokodsecurity.com/blog/in-plain-sight-how-microsoft-power-bi-reports-expose-sensitive-data-on-the-web/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Researchers Say Microsoft Power BI Reports Expose Sensitive Data on the Web<a hr
 The vulnerability in Power BI reports allows access to underlying raw data when shared with others. This includes detailed records, hidden tables, non-displayed columns, and filtered-out data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NOKOD Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2024
+June 24, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google's Zero-Day Hunters Test AI for Security Research<a href="https://www.bankinfosecurity.com/googles-zero-day-hunters-test-ai-for-security-research-a-25592?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Google's Zero-Day Hunters Test AI for Security Research<a href="https://www.bank
 Google's Project Zero team of zero-day hunters believes that artificial intelligence (AI) can enhance automated threat identification and analysis by detecting vulnerabilities that are often missed by current tools.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Info Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2024
+June 24, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta, MS SQL Make Strange Bedfellows on Couch of Cyber-Pain<a href="https://www.theregister.com/2024/06/24/meta_ms_sql_column/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Meta, MS SQL Make Strange Bedfellows on Couch of Cyber-Pain<a href="https://www.
 The article discusses how Meta and Microsoft SQL Server, two very different parts of the tech industry, are both facing issues related to software and services supply chain.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2024
+June 24, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RedJuliett Cyber Espionage Campaign Hits 75 Taiwanese Organizations<a href="https://thehackernews.com/2024/06/redjuliett-cyber-espionage-campaign.html?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ RedJuliett Cyber Espionage Campaign Hits 75 Taiwanese Organizations<a href="http
 The primary objective appears to be gathering intelligence on Taiwan's economic policy, trade, and diplomatic relations. The group focuses on targeting vulnerabilities in internet-facing devices due to their limited security solutions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2024
+June 24, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: One out of Three Breaches Remain Undetected<a href="https://www.helpnetsecurity.com/2024/06/24/detecting-breaches-struggle-in-organizations/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Report: One out of Three Breaches Remain Undetected<a href="https://www.helpnets
 According to a survey conducted by Gigamon, organizations are facing challenges in detecting breaches due to their increasing complexity and the sophistication of attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2024
+June 24, 2024 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Facebook PrestaShop Module Exploited to Steal Credit Cards<a href="https://www.bleepingcomputer.com/news/security/facebook-prestashop-module-exploited-to-steal-credit-cards/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Facebook PrestaShop Module Exploited to Steal Credit Cards<a href="https://www.b
 Hackers are taking advantage of a vulnerability in a Facebook module for PrestaShop called pkfacebook to carry out card skimming attacks on e-commerce websites and steal customers' payment card details.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 24, 2024
+June 24, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Polish Investigators Seize Pegasus Spyware Systems as Part of Probe Into Alleged Abuse<a href="https://therecord.media/poland-seizure-pegasus-spyware-systems?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Polish Investigators Seize Pegasus Spyware Systems as Part of Probe Into Alleged
 Polish prosecutors have seized Pegasus spyware systems from a government agency in Warsaw as part of an investigation into the legality of its use. The devices were secured from the headquarters of the Central Anticorruption Bureau.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
