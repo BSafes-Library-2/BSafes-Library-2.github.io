@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chemical Security Assessment Tool (CSAT) Ivanti Notification <a href="https://www.cisa.gov/chemical-security-assessment-tool-csat-ivanti-notification"> Full Text</a>
+</p>
+<details>
+The Cybersecurity and Infrastructure Security Agency’s (CISA) Chemical Security Assessment Tool (CSAT) was the target of a cybersecurity intrusion by a malicious actor from January 23-26, 2024. While CISA’s investigation found no evidence of exfiltration of data, this intrusion may have resulted in the potential unauthorized access of Top-Screen surveys, Security Vulnerability Assessments, Site Security Plans, Personnel Surety Program (PSP) submissions, and CSAT user accounts.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 24, 2024 - U.S. DEPARTMENT OF ENERGY  
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

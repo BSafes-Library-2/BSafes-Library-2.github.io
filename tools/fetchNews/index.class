@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities in Siemens Power Automation Products<a href="https://sec-consult.com/vulnerability-lab/advisory/multiple-vulnerabilities-in-siemens-power-automation-products-cp-8000-cp-8021-cp8-022-cp-8031-cp-8050-sicore/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens recently patched several vulnerabilities in its Sicam products that could be exploited to target the energy sector. The updates addressed two high-severity and one medium-severity flaws.
+</details>
+<div style="text-align: right" markdown="1">
+SEC Consult
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches AirPods Bluetooth Vulnerability That Could Allow Eavesdropping<a href="https://thehackernews.com/2024/06/apple-patches-airpods-bluetooth.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2024-27867, affects various AirPods models, Powerbeats Pro, and Beats Fit Pro. An attacker in Bluetooth range could spoof the source device and gain access to the headphones, potentially allowing eavesdropping.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Medusa Malware Variants Target Android Users in Seven Countries<a href="https://www.bleepingcomputer.com/news/security/new-medusa-malware-variants-target-android-users-in-seven-countries/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Medusa banking trojan (aka TangleBot) operates as a malware-as-a-service, providing keylogging, screen controls, and SMS manipulation. Note that this operation is different from the ransomware gang and the Mirai-based botnet with the same name.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK and US Law Enforcement Put Qilin Ransomware Criminals in the Crosshairs<a href="https://www.theregister.com/2024/06/25/nca_fbi_qilin_ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK and US law enforcement agencies have collaborated to combat the Qilin ransomware gang, which has targeted the global healthcare industry through several recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious JavaScript Snippets Served Due to Supply Chain Attack on Polyfills Site<a href="https://www.theregister.com/2024/06/25/polyfillio_china_crisis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The polyfill.io domain, which offers JavaScript code to add functionality to older browsers, has been compromised and is infecting over 100,000 websites with malware. The domain was purchased by a Chinese organization earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: CISA Warns Chemical Facilities of Potential Data Theft<a href="https://www.cybersecuritydive.com/news/cisa-potential-data-exposure/719774/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although there was no evidence of data theft or lateral movement, the agency's investigation revealed that unauthorized access to various sensitive information, including security plans and user accounts, may have occurred.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zeek: Open-Source Network Traffic Analysis, Security Monitoring<a href="https://www.helpnetsecurity.com/2024/06/25/zeek-open-source-network-analysis-framework-security-monitoring/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zeek is an open-source network analysis framework. Unlike an active security device such as a firewall, Zeek operates on a versatile ‘sensor’ that can be a hardware, software, virtual, or cloud platform.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Target Ukraine with XWorm RAT Malware Payload<a href="https://thecyberexpress.com/russian-hackers-target-ukraine-xworm-rat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble Research and Intelligence Labs (CRIL) researchers have discovered that a Russia-linked threat group known as UAC-0184 is targeting Ukraine using the XWorm remote access trojan (RAT).
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authentication Bypasses in MOVEit Transfer and MOVEit Gateway<a href="https://www.rapid7.com/blog/post/2024/06/25/etr-authentication-bypasses-in-moveit-transfer-and-moveit-gateway/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability, CVE-2024-5806, has been found in MOVEit Transfer, a popular file transfer software. The vulnerability allows attackers to bypass authentication checks and gain administrative access by sending manipulated requests.
+</details>
+<div style="text-align: right" markdown="1">
+Rapid 7
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Growing Threat of Malware Concealed Behind Cloud Services<a href="https://www.fortinet.com/blog/threat-research/growing-threat-of-malware-concealed-behind-cloud-services?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity threats are utilizing cloud services, such as AWS and DriveHQ, to store, distribute, and control malicious activities. This poses challenges for detection and prevention, as cloud services offer scalability and anonymity.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 25, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

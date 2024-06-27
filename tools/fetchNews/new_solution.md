@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+June 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zeek: Open-Source Network Traffic Analysis, Security Monitoring<a href="https://www.helpnetsecurity.com/2024/06/25/zeek-open-source-network-analysis-framework-security-monitoring/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zeek is an open-source network analysis framework. Unlike an active security device such as a firewall, Zeek operates on a versatile ‘sensor’ that can be a hardware, software, virtual, or cloud platform.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

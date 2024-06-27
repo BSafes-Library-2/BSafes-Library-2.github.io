@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+June 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Growing Threat of Malware Concealed Behind Cloud Services<a href="https://www.fortinet.com/blog/threat-research/growing-threat-of-malware-concealed-behind-cloud-services?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity threats are utilizing cloud services, such as AWS and DriveHQ, to store, distribute, and control malicious activities. This poses challenges for detection and prevention, as cloud services offer scalability and anonymity.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

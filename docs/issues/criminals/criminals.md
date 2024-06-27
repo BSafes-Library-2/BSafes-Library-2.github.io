@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+June 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK and US Law Enforcement Put Qilin Ransomware Criminals in the Crosshairs<a href="https://www.theregister.com/2024/06/25/nca_fbi_qilin_ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK and US law enforcement agencies have collaborated to combat the Qilin ransomware gang, which has targeted the global healthcare industry through several recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+June 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Four FIN9-linked Vietnamese Hackers Indicted in $71M U.S. Cybercrime Spree<a href="https://thehackernews.com/2024/06/4-fin9-linked-vietnamese-hackers.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ta Van Tai, Nguyen Viet Quoc, Nguyen Trang Xuyen, and Nguyen Van Truong are accused of conducting phishing campaigns and supply chain compromises to orchestrate cyberattacks and steal millions of dollars.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
