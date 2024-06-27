@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2024
+June 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities in Siemens Power Automation Products<a href="https://sec-consult.com/vulnerability-lab/advisory/multiple-vulnerabilities-in-siemens-power-automation-products-cp-8000-cp-8021-cp8-022-cp-8031-cp-8050-sicore/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Siemens recently patched several vulnerabilities in its Sicam products that could be exploited to target the energy sector. The updates addressed two high-severity and one medium-severity flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple Patches AirPods Bluetooth Vulnerability That Could Allow Eavesdropping<a href="https://thehackernews.com/2024/06/apple-patches-airpods-bluetooth.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2024-27867, affects various AirPods models, Powerbeats Pro, and Beats Fit Pro. An attacker in Bluetooth range could spoof the source device and gain access to the headphones, potentially allowing eavesdropping.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Medusa Malware Variants Target Android Users in Seven Countries<a href="https://www.bleepingcomputer.com/news/security/new-medusa-malware-variants-target-android-users-in-seven-countries/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Medusa banking trojan (aka TangleBot) operates as a malware-as-a-service, providing keylogging, screen controls, and SMS manipulation. Note that this operation is different from the ransomware gang and the Mirai-based botnet with the same name.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK and US Law Enforcement Put Qilin Ransomware Criminals in the Crosshairs<a href="https://www.theregister.com/2024/06/25/nca_fbi_qilin_ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UK and US law enforcement agencies have collaborated to combat the Qilin ransomware gang, which has targeted the global healthcare industry through several recent attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious JavaScript Snippets Served Due to Supply Chain Attack on Polyfills Site<a href="https://www.theregister.com/2024/06/25/polyfillio_china_crisis/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The polyfill.io domain, which offers JavaScript code to add functionality to older browsers, has been compromised and is infecting over 100,000 websites with malware. The domain was purchased by a Chinese organization earlier this year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: CISA Warns Chemical Facilities of Potential Data Theft<a href="https://www.cybersecuritydive.com/news/cisa-potential-data-exposure/719774/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Although there was no evidence of data theft or lateral movement, the agency's investigation revealed that unauthorized access to various sensitive information, including security plans and user accounts, may have occurred.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zeek: Open-Source Network Traffic Analysis, Security Monitoring<a href="https://www.helpnetsecurity.com/2024/06/25/zeek-open-source-network-analysis-framework-security-monitoring/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Zeek is an open-source network analysis framework. Unlike an active security device such as a firewall, Zeek operates on a versatile ‘sensor’ that can be a hardware, software, virtual, or cloud platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Target Ukraine with XWorm RAT Malware Payload<a href="https://thecyberexpress.com/russian-hackers-target-ukraine-xworm-rat/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble Research and Intelligence Labs (CRIL) researchers have discovered that a Russia-linked threat group known as UAC-0184 is targeting Ukraine using the XWorm remote access trojan (RAT).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Authentication Bypasses in MOVEit Transfer and MOVEit Gateway<a href="https://www.rapid7.com/blog/post/2024/06/25/etr-authentication-bypasses-in-moveit-transfer-and-moveit-gateway/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security vulnerability, CVE-2024-5806, has been found in MOVEit Transfer, a popular file transfer software. The vulnerability allows attackers to bypass authentication checks and gain administrative access by sending manipulated requests.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Growing Threat of Malware Concealed Behind Cloud Services<a href="https://www.fortinet.com/blog/threat-research/growing-threat-of-malware-concealed-behind-cloud-services?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity threats are utilizing cloud services, such as AWS and DriveHQ, to store, distribute, and control malicious activities. This poses challenges for detection and prevention, as cloud services offer scalability and anonymity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 25, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Cloud Breaches Impact Nearly Half of Organizations<a href="https://www.infosecurity-magazine.com/news/cloud-breaches-half-organizations/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Report: Cloud Breaches Impact Nearly Half of Organizations<a href="https://www.i
 According to the Thales 2024 Cloud Security Study, 44% of organizations have experienced a cloud data breach, with 14% reporting incidents in the past year. Human error and misconfigurations were the top root causes, affecting 31% of cases.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2024
+June 25, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns of Fake Law Firms Targeting Crypto Scam Victims<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-law-firms-targeting-crypto-scam-victims/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ FBI Warns of Fake Law Firms Targeting Crypto Scam Victims<a href="https://www.bl
 The FBI has issued a warning about cybercriminals pretending to be law firms and lawyers offering cryptocurrency recovery services. These scammers target victims of investment scams, stealing funds and personal information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2024
+June 25, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Four FIN9-linked Vietnamese Hackers Indicted in $71M U.S. Cybercrime Spree<a href="https://thehackernews.com/2024/06/4-fin9-linked-vietnamese-hackers.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Four FIN9-linked Vietnamese Hackers Indicted in $71M U.S. Cybercrime Spree<a hre
 Ta Van Tai, Nguyen Viet Quoc, Nguyen Trang Xuyen, and Nguyen Van Truong are accused of conducting phishing campaigns and supply chain compromises to orchestrate cyberattacks and steal millions of dollars.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2024
+June 25, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Android RAT SpyMax Targets Telegram Users<a href="https://labs.k7computing.com/index.php/spymax-an-android-rat-targets-telegram-users/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Android RAT SpyMax Targets Telegram Users<a href="https://labs.k7computing.com/i
 SpyMax does not require the targeted device to be rooted, making it easier for threat actors to cause damage. Once installed, SpyMax gathers personal information from the infected device without user consent and sends it to a remote threat actor.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+K7 Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2024
+June 25, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 P2PInfect Botnet Targets Redis Servers with New Ransomware Module<a href="https://www.bleepingcomputer.com/news/security/p2pinfect-botnet-targets-redis-servers-with-new-ransomware-module/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ P2PInfect Botnet Targets Redis Servers with New Ransomware Module<a href="https:
 P2PInfect, a previously dormant peer-to-peer malware botnet, has recently become active and is now targeting Redis servers. The botnet has introduced new features like cron-based persistence mechanisms and SSH lockout.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2024
+June 25, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SnailLoad Attack can Exploit Remote Network Latency Measurements to Infer User Activity<a href="https://snailload.com/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ SnailLoad Attack can Exploit Remote Network Latency Measurements to Infer User A
 Unlike previous methods, SnailLoad doesn't require a person-in-the-middle attack or hacking the target's Wi-Fi. Instead, it lets a remote attacker infer websites and content viewed by a user without accessing their network traffic directly.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SnailLoad
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2024
+June 25, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Create Rogue Admin Accounts via Backdoored WordPress Plugins<a href="https://thehackernews.com/2024/06/multiple-wordpress-plugins-compromised.html?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Hackers Create Rogue Admin Accounts via Backdoored WordPress Plugins<a href="htt
 Multiple WordPress plugins have been found to contain a backdoor that injects malicious code. This code allows attackers to create unauthorized administrator accounts, enabling them to perform malicious actions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2024
+June 25, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Boolka Group's Modular Trojan BMANAGER Exposed<a href="https://www.infosecurity-magazine.com/news/modular-malware-boolkas-bmanager/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Boolka Group's Modular Trojan BMANAGER Exposed<a href="https://www.infosecurity-
 The Boolka group is responsible for deploying advanced malware and conducting web attacks. They have been exploiting vulnerabilities using SQL injection attacks since 2022, targeting websites in various countries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2024
+June 25, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Attack Uses MSC Files and Windows XSS Flaw to Breach Networks<a href="https://www.bleepingcomputer.com/news/security/new-grimresource-attack-uses-msc-files-and-windows-xss-flaw-to-breach-networks/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ New Attack Uses MSC Files and Windows XSS Flaw to Breach Networks<a href="https:
 A new command execution technique called "GrimResource" has been discovered that leverages a combination of specially crafted Microsoft Saved Console (MSC) files and an unpatched Windows XSS flaw.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 25, 2024
+June 25, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Manufacturing Cybersecurity at Heart of New White House Guidance<a href="https://www.cybersecuritydive.com/news/energy-department-cybersecurity-manufacturing-supply-chain-best-practices/719612/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Manufacturing Cybersecurity at Heart of New White House Guidance<a href="https:/
 The U.S. Department of Energy has released a new framework of best practices for securing clean energy cyber supply chains, focusing on key technologies used in managing electricity, oil, and natural gas systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
