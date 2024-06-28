@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+June 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phantom Secrets: Undetected Secrets Expose Major Corporations<a href="https://www.aquasec.com/blog/undetected-hard-code-secrets-expose-corporations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major secrets, including cloud environment credentials, internal infrastructures, and telemetry platforms, have been found exposed on the internet due to Git-based processes and Source Code Management (SCM) platforms behavior.
+</details>
+<div style="text-align: right" markdown="1">
+Aqua
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cyberspies Employ Ransomware in Attacks for Diversion<a href="https://www.bleepingcomputer.com/news/security/chinese-cyberspies-employ-ransomware-in-attacks-for-diversion/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The adoption of ransomware in cyberespionage attacks helps adversaries blur the lines between APT and cybercriminal activity, leading to potential misattribution or concealing the true nature of the operation.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

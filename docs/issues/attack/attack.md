@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Snowblind Malware Targets Banking Customers in Southeast Asia<a href="https://www.infosecurity-magazine.com/news/novel-banking-malware-asia/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Snowblind is effective on all modern Android devices and primarily targets banking apps. It avoids detection by modifying the app and exploiting the Linux kernel's seccomp feature to control the app's system calls.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

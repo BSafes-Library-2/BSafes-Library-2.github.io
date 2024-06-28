@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+June 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Hackers Target Ukraine with XWorm RAT Malware Payload<a href="https://thecyberexpress.com/russian-hackers-target-ukraine-xworm-rat/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble Research and Intelligence Labs (CRIL) researchers have discovered that a Russia-linked threat group known as UAC-0184 is targeting Ukraine using the XWorm remote access trojan (RAT).
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
