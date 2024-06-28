@@ -34,7 +34,135 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2024
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit for Critical Fortra FileCatalyst Flaw Published<a href="https://www.helpnetsecurity.com/2024/06/27/cve-2024-5276-poc/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability allows attackers to create administrative user accounts, modify and delete data in the application database, and potentially gain full control of vulnerable systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious NPM Package Targets AWS Users to Deploy Backdoor<a href="https://www.reversinglabs.com/blog/a-lurking-npm-package-makes-the-case-for-open-source-health-checks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ReversingLabs researchers discovered a suspicious package on npm called legacyreact-aws-s3-typescript. They found that the package contained a post-install script that downloaded and executed a simple backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Korean Telco Allegedly Infected Around 600,000 P2P Users with Malware<a href="https://www.theregister.com/2024/06/27/kt_p2p_malware_claim/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean telco KT has been accused of purposely infecting customers with malware as a result of excessive use of peer-to-peer (P2P) downloading tools. Around 600,000 users of online storage services have reportedly been affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Snowblind Malware Targets Banking Customers in Southeast Asia<a href="https://www.infosecurity-magazine.com/news/novel-banking-malware-asia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Snowblind is effective on all modern Android devices and primarily targets banking apps. It avoids detection by modifying the app and exploiting the Linux kernel's seccomp feature to control the app's system calls.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phantom Secrets: Undetected Secrets Expose Major Corporations<a href="https://www.aquasec.com/blog/undetected-hard-code-secrets-expose-corporations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major secrets, including cloud environment credentials, internal infrastructures, and telemetry platforms, have been found exposed on the internet due to Git-based processes and Source Code Management (SCM) platforms behavior.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: MOVEit Transfer Vulnerability Targeted Amid Disclosure Drama<a href="https://www.techtarget.com/searchsecurity/news/366591974/MoveIt-Transfer-vulnerability-targeted-amid-disclosure-drama?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The non-profit cybersecurity organization, the Shadowserver Foundation, has observed exploitation attempts against CVE-2024-5806. They noted that the exploitation began soon after the vulnerability details were made public.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cyberspies Employ Ransomware in Attacks for Diversion<a href="https://www.bleepingcomputer.com/news/security/chinese-cyberspies-employ-ransomware-in-attacks-for-diversion/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The adoption of ransomware in cyberespionage attacks helps adversaries blur the lines between APT and cybercriminal activity, leading to potential misattribution or concealing the true nature of the operation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical ADOdb Vulnerabilities Fixed in Ubuntu<a href="https://tuxcare.com/blog/critical-adodb-vulnerabilities-fixed-in-ubuntu/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities include SQL injection attacks, cross-site scripting (XSS) attacks, and authentication bypasses. Ubuntu has released updates for various versions, including Ubuntu 22.04 LTS, 20.04 LTS, 18.04 ESM, and 16.04 ESM.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 26, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Vulnerabilities in Siemens Power Automation Products<a href="https://sec-consult.com/vulnerability-lab/advisory/multiple-vulnerabilities-in-siemens-power-automation-products-cp-8000-cp-8021-cp8-022-cp-8031-cp-8050-sicore/?&web_view=true"> Full Text</a>
@@ -44,13 +172,13 @@ Multiple Vulnerabilities in Siemens Power Automation Products<a href="https://se
 Siemens recently patched several vulnerabilities in its Sicam products that could be exploited to target the energy sector. The updates addressed two high-severity and one medium-severity flaws.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+SEC Consult
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2024
+June 26, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple Patches AirPods Bluetooth Vulnerability That Could Allow Eavesdropping<a href="https://thehackernews.com/2024/06/apple-patches-airpods-bluetooth.html?&web_view=true"> Full Text</a>
@@ -60,13 +188,13 @@ Apple Patches AirPods Bluetooth Vulnerability That Could Allow Eavesdropping<a h
 The vulnerability, tracked as CVE-2024-27867, affects various AirPods models, Powerbeats Pro, and Beats Fit Pro. An attacker in Bluetooth range could spoof the source device and gain access to the headphones, potentially allowing eavesdropping.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2024
+June 26, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Medusa Malware Variants Target Android Users in Seven Countries<a href="https://www.bleepingcomputer.com/news/security/new-medusa-malware-variants-target-android-users-in-seven-countries/?&web_view=true"> Full Text</a>
@@ -76,13 +204,13 @@ New Medusa Malware Variants Target Android Users in Seven Countries<a href="http
 The Medusa banking trojan (aka TangleBot) operates as a malware-as-a-service, providing keylogging, screen controls, and SMS manipulation. Note that this operation is different from the ransomware gang and the Mirai-based botnet with the same name.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2024
+June 26, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK and US Law Enforcement Put Qilin Ransomware Criminals in the Crosshairs<a href="https://www.theregister.com/2024/06/25/nca_fbi_qilin_ransomware/?&web_view=true"> Full Text</a>
@@ -92,13 +220,13 @@ UK and US Law Enforcement Put Qilin Ransomware Criminals in the Crosshairs<a hre
 UK and US law enforcement agencies have collaborated to combat the Qilin ransomware gang, which has targeted the global healthcare industry through several recent attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2024
+June 26, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious JavaScript Snippets Served Due to Supply Chain Attack on Polyfills Site<a href="https://www.theregister.com/2024/06/25/polyfillio_china_crisis/?&web_view=true"> Full Text</a>
@@ -108,13 +236,13 @@ Malicious JavaScript Snippets Served Due to Supply Chain Attack on Polyfills Sit
 The polyfill.io domain, which offers JavaScript code to add functionality to older browsers, has been compromised and is infecting over 100,000 websites with malware. The domain was purchased by a Chinese organization earlier this year.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2024
+June 26, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: CISA Warns Chemical Facilities of Potential Data Theft<a href="https://www.cybersecuritydive.com/news/cisa-potential-data-exposure/719774/?&web_view=true"> Full Text</a>
@@ -124,13 +252,13 @@ Update: CISA Warns Chemical Facilities of Potential Data Theft<a href="https://w
 Although there was no evidence of data theft or lateral movement, the agency's investigation revealed that unauthorized access to various sensitive information, including security plans and user accounts, may have occurred.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2024
+June 26, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Zeek: Open-Source Network Traffic Analysis, Security Monitoring<a href="https://www.helpnetsecurity.com/2024/06/25/zeek-open-source-network-analysis-framework-security-monitoring/?&web_view=true"> Full Text</a>
@@ -140,13 +268,13 @@ Zeek: Open-Source Network Traffic Analysis, Security Monitoring<a href="https://
 Zeek is an open-source network analysis framework. Unlike an active security device such as a firewall, Zeek operates on a versatile ‘sensor’ that can be a hardware, software, virtual, or cloud platform.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2024
+June 26, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Hackers Target Ukraine with XWorm RAT Malware Payload<a href="https://thecyberexpress.com/russian-hackers-target-ukraine-xworm-rat/?&web_view=true"> Full Text</a>
@@ -156,13 +284,13 @@ Russian Hackers Target Ukraine with XWorm RAT Malware Payload<a href="https://th
 Cyble Research and Intelligence Labs (CRIL) researchers have discovered that a Russia-linked threat group known as UAC-0184 is targeting Ukraine using the XWorm remote access trojan (RAT).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2024
+June 26, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Authentication Bypasses in MOVEit Transfer and MOVEit Gateway<a href="https://www.rapid7.com/blog/post/2024/06/25/etr-authentication-bypasses-in-moveit-transfer-and-moveit-gateway/?&web_view=true"> Full Text</a>
@@ -172,13 +300,13 @@ Authentication Bypasses in MOVEit Transfer and MOVEit Gateway<a href="https://ww
 A critical security vulnerability, CVE-2024-5806, has been found in MOVEit Transfer, a popular file transfer software. The vulnerability allows attackers to bypass authentication checks and gain administrative access by sending manipulated requests.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Rapid 7
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 26, 2024
+June 26, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Growing Threat of Malware Concealed Behind Cloud Services<a href="https://www.fortinet.com/blog/threat-research/growing-threat-of-malware-concealed-behind-cloud-services?&web_view=true"> Full Text</a>
@@ -188,7 +316,7 @@ The Growing Threat of Malware Concealed Behind Cloud Services<a href="https://ww
 Cybersecurity threats are utilizing cloud services, such as AWS and DriveHQ, to store, distribute, and control malicious activities. This poses challenges for detection and prevention, as cloud services offer scalability and anonymity.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

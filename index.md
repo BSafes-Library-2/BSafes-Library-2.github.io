@@ -34,6 +34,134 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit for Critical Fortra FileCatalyst Flaw Published<a href="https://www.helpnetsecurity.com/2024/06/27/cve-2024-5276-poc/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability allows attackers to create administrative user accounts, modify and delete data in the application database, and potentially gain full control of vulnerable systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious NPM Package Targets AWS Users to Deploy Backdoor<a href="https://www.reversinglabs.com/blog/a-lurking-npm-package-makes-the-case-for-open-source-health-checks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ReversingLabs researchers discovered a suspicious package on npm called legacyreact-aws-s3-typescript. They found that the package contained a post-install script that downloaded and executed a simple backdoor.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Korean Telco Allegedly Infected Around 600,000 P2P Users with Malware<a href="https://www.theregister.com/2024/06/27/kt_p2p_malware_claim/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean telco KT has been accused of purposely infecting customers with malware as a result of excessive use of peer-to-peer (P2P) downloading tools. Around 600,000 users of online storage services have reportedly been affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Snowblind Malware Targets Banking Customers in Southeast Asia<a href="https://www.infosecurity-magazine.com/news/novel-banking-malware-asia/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Snowblind is effective on all modern Android devices and primarily targets banking apps. It avoids detection by modifying the app and exploiting the Linux kernel's seccomp feature to control the app's system calls.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phantom Secrets: Undetected Secrets Expose Major Corporations<a href="https://www.aquasec.com/blog/undetected-hard-code-secrets-expose-corporations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Major secrets, including cloud environment credentials, internal infrastructures, and telemetry platforms, have been found exposed on the internet due to Git-based processes and Source Code Management (SCM) platforms behavior.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: MOVEit Transfer Vulnerability Targeted Amid Disclosure Drama<a href="https://www.techtarget.com/searchsecurity/news/366591974/MoveIt-Transfer-vulnerability-targeted-amid-disclosure-drama?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The non-profit cybersecurity organization, the Shadowserver Foundation, has observed exploitation attempts against CVE-2024-5806. They noted that the exploitation began soon after the vulnerability details were made public.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese Cyberspies Employ Ransomware in Attacks for Diversion<a href="https://www.bleepingcomputer.com/news/security/chinese-cyberspies-employ-ransomware-in-attacks-for-diversion/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The adoption of ransomware in cyberespionage attacks helps adversaries blur the lines between APT and cybercriminal activity, leading to potential misattribution or concealing the true nature of the operation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical ADOdb Vulnerabilities Fixed in Ubuntu<a href="https://tuxcare.com/blog/critical-adodb-vulnerabilities-fixed-in-ubuntu/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities include SQL injection attacks, cross-site scripting (XSS) attacks, and authentication bypasses. Ubuntu has released updates for various versions, including Ubuntu 22.04 LTS, 20.04 LTS, 18.04 ESM, and 16.04 ESM.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 26, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
