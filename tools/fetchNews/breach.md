@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+June 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Korean Telco Allegedly Infected Around 600,000 P2P Users with Malware<a href="https://www.theregister.com/2024/06/27/kt_p2p_malware_claim/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korean telco KT has been accused of purposely infecting customers with malware as a result of excessive use of peer-to-peer (P2P) downloading tools. Around 600,000 users of online storage services have reportedly been affected.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
