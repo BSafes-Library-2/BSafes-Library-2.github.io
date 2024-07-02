@@ -8,6 +8,76 @@ nav_order: 900015
 
 ## Attack
 ---
+June 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Examining Water Sigbin's Infection Routine Leading to an XMRig Cryptominer<a href="https://www.trendmicro.com/en_us/research/24/f/water-sigbin-xmrig.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated multi-stage malware campaign by the threat actor "Water Sigbin" (also known as the 8220 Gang) exploits Oracle WebLogic vulnerabilities to deliver a cryptocurrency miner called XMRig.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-Sponsored Attackers Target 40K Corporate Users in 90 Days<a href="https://www.darkreading.com/threat-intelligence/china-sponsored-attackers-40k-corporate-users?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaigns, named LegalQloud, Eqooqp, and Boomer, deploy highly evasive and adaptive threat (HEAT) attack techniques that can bypass multifactor authentication (MFA) and URL filtering.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Remote Access Giant TeamViewer Says Russian Spies Hacked Its Corporate Network<a href="https://techcrunch.com/2024/06/28/teamviewer-cyberattack-apt29-russia-government-hackers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TeamViewer, a leading provider of remote access tools, has confirmed that its corporate network is currently under a cyberattack. The company has identified the attackers as a government-backed Russian intelligence group known as APT29.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky Deploys TRANSLATEXT to Target South Korean Academia<a href="https://www.zscaler.com/blogs/security-research/kimsuky-deploys-translatext-target-south-korean-academia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kimsuky uploaded TRANSLATEXT to their attacker-controlled GitHub repository on March 7, 2024, and it is capable of bypassing security measures for prominent email service providers like Gmail, Kakao, and Naver.
+</details>
+<div style="text-align: right" markdown="1">
+ZScalar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+June 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malware Peddlers Experimenting with BPL Sideloading and Masking Malicious Payloads as PGP Keys<a href="https://www.helpnetsecurity.com/2024/06/26/malware-bpl-sideloading/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign involves a Bollywood pirate movie download site leading to a Bunny content delivery platform, which then points to a ZIP file. Inside the ZIP file, there is another password-protected ZIP file with a text file containing the password.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

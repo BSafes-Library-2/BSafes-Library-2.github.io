@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+July 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web Scraping is Not Just a Security or Fraud Problem<a href="https://www.helpnetsecurity.com/2024/06/28/web-scraping-problem/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scraper bots have a negative impact on various aspects of an organization, including revenue, competitive advantage, brand identity, customer experience, infrastructure costs, and digital experience.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 18, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

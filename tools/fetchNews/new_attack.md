@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+July 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamViewer Says Russia’s ‘Cozy Bear’ Hackers Attacked Corporate IT System<a href="https://therecord.media/teamviewer-cozy-bear-hack-confirmed?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote access solution provider TeamViewer confirmed that the Russian hacking group APT29 breached its corporate IT environment. The hack on TeamViewer was traced back to an employee account.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Polyfill.io, BootCDN, Bootcss, Staticfile Attack Traced to one Operator<a href="https://www.bleepingcomputer.com/news/security/polyfillio-bootcdn-bootcss-staticfile-attack-traced-to-1-operator/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found a public GitHub repo where the operators of Polyfill.io accidentally exposed their Cloudflare secret keys. By using these leaked API keys, they were able to confirm that a single entity was behind the attack on all four domains.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

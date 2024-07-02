@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple CocoaPods Bugs Expose Millions of Apps to Code Injection<a href="https://www.darkreading.com/cloud-security/apple-cocoapods-bugs-expose-apps-code-injection?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report by E.V.A Information Security reveals that Apple's popular dependency manager, CocoaPods, has been plagued with three critical vulnerabilities for several years.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Startup Odaseva Raises $54M to Bolster Global Expansion, R&D<a href="https://www.bankinfosecurity.com/startup-odaseva-raises-54m-to-bolster-global-expansion-rd-a-25656?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series C funding will allow San Francisco-based Odaseva to provide more robust support to clients dealing with stringent data residency regulations and evolving privacy laws around the globe, according to founder and CEO Sovan Bin.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamViewer Says Russia’s ‘Cozy Bear’ Hackers Attacked Corporate IT System<a href="https://therecord.media/teamviewer-cozy-bear-hack-confirmed?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote access solution provider TeamViewer confirmed that the Russian hacking group APT29 breached its corporate IT environment. The hack on TeamViewer was traced back to an employee account.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 75% of New Vulnerabilities Exploited Within 19 Days<a href="https://www.helpnetsecurity.com/2024/06/27/nvd-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last year, Skybox Security reported that there were over 30,000 new vulnerabilities, with a new vulnerability emerging every 17 minutes on average. This amounts to around 600 new vulnerabilities per week.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities Found in Gas Chromatographs<a href="https://www.bankinfosecurity.com/multiple-vulnerabilities-found-in-gas-chromatographs-a-25655?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been discovered in Emerson gas chromatographs, which could potentially enable unauthorized access to sensitive data, cause denial-of-service attacks, and execute arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web Scraping is Not Just a Security or Fraud Problem<a href="https://www.helpnetsecurity.com/2024/06/28/web-scraping-problem/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scraper bots have a negative impact on various aspects of an organization, including revenue, competitive advantage, brand identity, customer experience, infrastructure costs, and digital experience.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'regreSSHion' Remote Unauthenticated Code Execution Vulnerability Discovered in OpenSSH Server<a href="https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Approximately 700,000 external internet-facing instances are vulnerable, accounting for 31% of global instances with OpenSSH. Additionally, a small percentage of vulnerable instances are running an End-Of-Life/End-Of-Support version of OpenSSH.
+</details>
+<div style="text-align: right" markdown="1">
+Qualys
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Allege ‘Evil Twin’ In-Flight Wi-Fi Used to Steal Information<a href="https://www.theregister.com/2024/07/01/australia_evil_twin_wifi_airline_attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A man in Australia was charged with operating fake Wi-Fi networks on a commercial flight to steal passengers' email and social media credentials. The investigation began when an airline reported a suspicious Wi-Fi network during a domestic flight.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake IT Support Sites Push Malicious PowerShell Scripts as Windows Fixes<a href="https://www.bleepingcomputer.com/news/security/fake-it-support-sites-push-malicious-powershell-scripts-as-windows-fixes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These sites are promoted through compromised YouTube channels, lending them credibility. One particular error, the 0x80070643 error, which appeared after a Microsoft security update, has been exploited by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Polyfill.io, BootCDN, Bootcss, Staticfile Attack Traced to one Operator<a href="https://www.bleepingcomputer.com/news/security/polyfillio-bootcdn-bootcss-staticfile-attack-traced-to-1-operator/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found a public GitHub repo where the operators of Polyfill.io accidentally exposed their Cloudflare secret keys. By using these leaked API keys, they were able to confirm that a single entity was behind the attack on all four domains.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

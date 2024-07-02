@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake IT Support Sites Push Malicious PowerShell Scripts as Windows Fixes<a href="https://www.bleepingcomputer.com/news/security/fake-it-support-sites-push-malicious-powershell-scripts-as-windows-fixes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These sites are promoted through compromised YouTube channels, lending them credibility. One particular error, the 0x80070643 error, which appeared after a Microsoft security update, has been exploited by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
