@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2024
+July 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apple CocoaPods Bugs Expose Millions of Apps to Code Injection<a href="https://www.darkreading.com/cloud-security/apple-cocoapods-bugs-expose-apps-code-injection?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report by E.V.A Information Security reveals that Apple's popular dependency manager, CocoaPods, has been plagued with three critical vulnerabilities for several years.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Startup Odaseva Raises $54M to Bolster Global Expansion, R&D<a href="https://www.bankinfosecurity.com/startup-odaseva-raises-54m-to-bolster-global-expansion-rd-a-25656?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series C funding will allow San Francisco-based Odaseva to provide more robust support to clients dealing with stringent data residency regulations and evolving privacy laws around the globe, according to founder and CEO Sovan Bin.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TeamViewer Says Russia’s ‘Cozy Bear’ Hackers Attacked Corporate IT System<a href="https://therecord.media/teamviewer-cozy-bear-hack-confirmed?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Remote access solution provider TeamViewer confirmed that the Russian hacking group APT29 breached its corporate IT environment. The hack on TeamViewer was traced back to an employee account.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 75% of New Vulnerabilities Exploited Within 19 Days<a href="https://www.helpnetsecurity.com/2024/06/27/nvd-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last year, Skybox Security reported that there were over 30,000 new vulnerabilities, with a new vulnerability emerging every 17 minutes on average. This amounts to around 600 new vulnerabilities per week.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Vulnerabilities Found in Gas Chromatographs<a href="https://www.bankinfosecurity.com/multiple-vulnerabilities-found-in-gas-chromatographs-a-25655?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple critical vulnerabilities have been discovered in Emerson gas chromatographs, which could potentially enable unauthorized access to sensitive data, cause denial-of-service attacks, and execute arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Web Scraping is Not Just a Security or Fraud Problem<a href="https://www.helpnetsecurity.com/2024/06/28/web-scraping-problem/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scraper bots have a negative impact on various aspects of an organization, including revenue, competitive advantage, brand identity, customer experience, infrastructure costs, and digital experience.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New 'regreSSHion' Remote Unauthenticated Code Execution Vulnerability Discovered in OpenSSH Server<a href="https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Approximately 700,000 external internet-facing instances are vulnerable, accounting for 31% of global instances with OpenSSH. Additionally, a small percentage of vulnerable instances are running an End-Of-Life/End-Of-Support version of OpenSSH.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Allege ‘Evil Twin’ In-Flight Wi-Fi Used to Steal Information<a href="https://www.theregister.com/2024/07/01/australia_evil_twin_wifi_airline_attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A man in Australia was charged with operating fake Wi-Fi networks on a commercial flight to steal passengers' email and social media credentials. The investigation began when an airline reported a suspicious Wi-Fi network during a domestic flight.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake IT Support Sites Push Malicious PowerShell Scripts as Windows Fixes<a href="https://www.bleepingcomputer.com/news/security/fake-it-support-sites-push-malicious-powershell-scripts-as-windows-fixes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These sites are promoted through compromised YouTube channels, lending them credibility. One particular error, the 0x80070643 error, which appeared after a Microsoft security update, has been exploited by threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Polyfill.io, BootCDN, Bootcss, Staticfile Attack Traced to one Operator<a href="https://www.bleepingcomputer.com/news/security/polyfillio-bootcdn-bootcss-staticfile-attack-traced-to-1-operator/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found a public GitHub repo where the operators of Polyfill.io accidentally exposed their Cloudflare secret keys. By using these leaked API keys, they were able to confirm that a single entity was behind the attack on all four domains.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Your Phone's 5G Connection Is Vulnerable to Bypass, DoS Attacks<a href="https://www.darkreading.com/mobile-security/your-phone-s-5g-connection-is-exposed-to-bypass-dos-attacks?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Your Phone's 5G Connection Is Vulnerable to Bypass, DoS Attacks<a href="https://
 One attack involves setting up a fake base station using a Raspberry Pi or a software-defined radio (SDR). These devices can imitate a real base station and are readily available for purchase.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2024
+June 29, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation First Light Seizes $257m in Global Scam Bust<a href="https://www.infosecurity-magazine.com/news/operation-first-light-seizes/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Operation First Light Seizes $257m in Global Scam Bust<a href="https://www.infos
 Police forces from 61 countries have collaborated in Operation First Light 2024, led by Interpol, resulting in the arrest of 3,950 suspects and the identification of 14,643 more.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2024
+June 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical GitLab Bug Lets Attackers Run Pipelines as Any User<a href="https://www.bleepingcomputer.com/news/security/critical-gitlab-bug-lets-attackers-run-pipelines-as-any-user/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Critical GitLab Bug Lets Attackers Run Pipelines as Any User<a href="https://www
 A critical vulnerability has been discovered in certain versions of GitLab Community and Enterprise Edition products. This vulnerability allows an attacker to run pipelines as any user.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2024
+June 29, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Examining Water Sigbin's Infection Routine Leading to an XMRig Cryptominer<a href="https://www.trendmicro.com/en_us/research/24/f/water-sigbin-xmrig.html?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Examining Water Sigbin's Infection Routine Leading to an XMRig Cryptominer<a hre
 A sophisticated multi-stage malware campaign by the threat actor "Water Sigbin" (also known as the 8220 Gang) exploits Oracle WebLogic vulnerabilities to deliver a cryptocurrency miner called XMRig.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2024
+June 29, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 MerkSpy: Exploiting CVE-2021-40444 to Infiltrate Systems<a href="https://www.fortinet.com/blog/threat-research/merkspy-exploiting-cve-2021-40444-to-infiltrate-systems?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ MerkSpy: Exploiting CVE-2021-40444 to Infiltrate Systems<a href="https://www.for
 MerkSpy is designed to covertly monitor user activities, capture sensitive information like keystrokes and Chrome login credentials, and exfiltrate the data to the attacker's server.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 29, 2024
+June 29, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-Sponsored Attackers Target 40K Corporate Users in 90 Days<a href="https://www.darkreading.com/threat-intelligence/china-sponsored-attackers-40k-corporate-users?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ China-Sponsored Attackers Target 40K Corporate Users in 90 Days<a href="https://
 The campaigns, named LegalQloud, Eqooqp, and Boomer, deploy highly evasive and adaptive threat (HEAT) attack techniques that can bypass multifactor authentication (MFA) and URL filtering.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2024
+June 28, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Unfurling Hemlock Threat Actor Floods Systems with Malware<a href="https://www.bleepingcomputer.com/news/security/new-unfurling-hemlock-threat-actor-floods-systems-with-malware/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ New Unfurling Hemlock Threat Actor Floods Systems with Malware<a href="https://w
 Unfurling Hemlock is using a new method, referred to as a "malware cluster bomb," which allows the threat actor to use one malware sample to spread additional malware on compromised machines.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2024
+June 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Remote Access Giant TeamViewer Says Russian Spies Hacked Its Corporate Network<a href="https://techcrunch.com/2024/06/28/teamviewer-cyberattack-apt29-russia-government-hackers/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Remote Access Giant TeamViewer Says Russian Spies Hacked Its Corporate Network<a
 TeamViewer, a leading provider of remote access tools, has confirmed that its corporate network is currently under a cyberattack. The company has identified the attackers as a government-backed Russian intelligence group known as APT29.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2024
+June 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kimsuky Deploys TRANSLATEXT to Target South Korean Academia<a href="https://www.zscaler.com/blogs/security-research/kimsuky-deploys-translatext-target-south-korean-academia?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Kimsuky Deploys TRANSLATEXT to Target South Korean Academia<a href="https://www.
 Kimsuky uploaded TRANSLATEXT to their attacker-controlled GitHub repository on March 7, 2024, and it is capable of bypassing security measures for prominent email service providers like Gmail, Kakao, and Naver.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-June 28, 2024
+June 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malware Peddlers Experimenting with BPL Sideloading and Masking Malicious Payloads as PGP Keys<a href="https://www.helpnetsecurity.com/2024/06/26/malware-bpl-sideloading/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Malware Peddlers Experimenting with BPL Sideloading and Masking Malicious Payloa
 The campaign involves a Bollywood pirate movie download site leading to a Bunny content delivery platform, which then points to a ZIP file. Inside the ZIP file, there is another password-protected ZIP file with a text file containing the password.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
