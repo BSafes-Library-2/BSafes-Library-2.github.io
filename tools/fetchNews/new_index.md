@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2024
+July 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7 To Acquire Attack Surface Management Startup Noetic Cyber<a href="https://www.crn.com/news/security/2024/rapid7-to-acquire-attack-surface-management-startup-noetic-cyber?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Rapid7 has announced to acquired Noetic Cyber, a startup specializing in cyber asset attack surface management (CAASM). The terms of the deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Demands Reach a Staggering $5.2m in 2024<a href="https://www.infosecurity-magazine.com/news/ransomware-demands-staggering-5m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new analysis by Comparitech, the average ransom demand per ransomware attack in the first half of 2024 was over $5.2m (£4.1m). This was calculated from 56 known ransom demands issued by threat actors during that period.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-Insurance Premiums Decline as Firms Build Resilience<a href="https://www.infosecurity-magazine.com/news/cyberinsurance-premiums-decline/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber insurance premiums have seen significant reductions in price due to improved cybersecurity measures implemented by organizations. Despite an 18% increase in ransomware incidents, premiums have decreased in 2023/24.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Preparing for Q-Day as NIST Nears Approval of PQC Standards<a href="https://www.helpnetsecurity.com/2024/07/01/pqc-standardization/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Q-Day, the day when a quantum computer can break modern encryption, is approaching rapidly, leaving our society vulnerable to cyberattacks. Recent advancements in quantum technology suggest that Q-Day is coming sooner than expected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Orcinius Trojan Uses VBA Stomping to Mask Infection<a href="https://blog.sonicwall.com/en-us/2024/06/new-orcinius-trojan-uses-vba-stomping-to-mask-infection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This multi-stage trojan utilizes Dropbox and Google Docs to update and deliver payloads. It uses the VBA stomping technique, removing the VBA source code in a Microsoft Office document, leaving only compiled p-code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Hacked YouTube Channels Spread Scams and Malware<a href="https://www.welivesecurity.com/en/scams/hijacked-hacked-youtube-channels-scams-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most common attack methods against YouTube channels involve phishing attacks to steal login credentials, exploiting weak or reused passwords, and even bypassing two-factor authentication by stealing session cookies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CapraRAT Spyware Variant Disguised as Popular Apps to Target Android Users<a href="https://siliconangle.com/2024/07/01/sentinellabs-uncovers-new-caprarat-spyware-targeting-android-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent campaign shows updates to the group's techniques and social engineering tactics, as well as efforts to maximize the spyware's compatibility with older and modern versions of the Android operating system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dev Rejects CVE Severity, Makes his GitHub Repository Read-Only<a href="https://www.bleepingcomputer.com/news/security/dev-rejects-cve-severity-makes-his-github-repo-read-only/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The open source project 'ip' has been archived on GitHub due to a dubious CVE report filed against it. This is not an isolated incident, as open-source developers have seen an increase in unsubstantiated CVE reports for their projects.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Cyber Workforce Grows 15% at Large Organizations<a href="https://www.infosecurity-magazine.com/news/cyber-workforce-grows-15-large/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Large organizations have significantly bolstered their cybersecurity workforce in 2024, with an average of one expert dedicated to cybersecurity for every 1,086 employees in companies with over $1 billion in revenue, as per a report by Wavestone.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Intel CPUs Impacted by New Indirector Side-Channel Attack<a href="https://www.bleepingcomputer.com/news/security/latest-intel-cpus-impacted-by-new-indirector-side-channel-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at the University of California, San Diego have discovered a new type of attack called 'Indirector' that targets modern Intel processors, including those from the Raptor Lake and Alder Lake generations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 1, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apple CocoaPods Bugs Expose Millions of Apps to Code Injection<a href="https://www.darkreading.com/cloud-security/apple-cocoapods-bugs-expose-apps-code-injection?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Apple CocoaPods Bugs Expose Millions of Apps to Code Injection<a href="https://w
 A report by E.V.A Information Security reveals that Apple's popular dependency manager, CocoaPods, has been plagued with three critical vulnerabilities for several years.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2024
+July 1, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Startup Odaseva Raises $54M to Bolster Global Expansion, R&D<a href="https://www.bankinfosecurity.com/startup-odaseva-raises-54m-to-bolster-global-expansion-rd-a-25656?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Startup Odaseva Raises $54M to Bolster Global Expansion, R&D<a href="https://www
 The Series C funding will allow San Francisco-based Odaseva to provide more robust support to clients dealing with stringent data residency regulations and evolving privacy laws around the globe, according to founder and CEO Sovan Bin.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2024
+July 1, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TeamViewer Says Russia’s ‘Cozy Bear’ Hackers Attacked Corporate IT System<a href="https://therecord.media/teamviewer-cozy-bear-hack-confirmed?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ TeamViewer Says Russia’s ‘Cozy Bear’ Hackers Attacked Corporate IT System<
 Remote access solution provider TeamViewer confirmed that the Russian hacking group APT29 breached its corporate IT environment. The hack on TeamViewer was traced back to an employee account.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2024
+July 1, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 75% of New Vulnerabilities Exploited Within 19 Days<a href="https://www.helpnetsecurity.com/2024/06/27/nvd-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Report: 75% of New Vulnerabilities Exploited Within 19 Days<a href="https://www.
 Last year, Skybox Security reported that there were over 30,000 new vulnerabilities, with a new vulnerability emerging every 17 minutes on average. This amounts to around 600 new vulnerabilities per week.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2024
+July 1, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Vulnerabilities Found in Gas Chromatographs<a href="https://www.bankinfosecurity.com/multiple-vulnerabilities-found-in-gas-chromatographs-a-25655?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Multiple Vulnerabilities Found in Gas Chromatographs<a href="https://www.bankinf
 Multiple critical vulnerabilities have been discovered in Emerson gas chromatographs, which could potentially enable unauthorized access to sensitive data, cause denial-of-service attacks, and execute arbitrary commands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2024
+July 1, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Web Scraping is Not Just a Security or Fraud Problem<a href="https://www.helpnetsecurity.com/2024/06/28/web-scraping-problem/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Web Scraping is Not Just a Security or Fraud Problem<a href="https://www.helpnet
 Scraper bots have a negative impact on various aspects of an organization, including revenue, competitive advantage, brand identity, customer experience, infrastructure costs, and digital experience.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2024
+July 1, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New 'regreSSHion' Remote Unauthenticated Code Execution Vulnerability Discovered in OpenSSH Server<a href="https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ New 'regreSSHion' Remote Unauthenticated Code Execution Vulnerability Discovered
 Approximately 700,000 external internet-facing instances are vulnerable, accounting for 31% of global instances with OpenSSH. Additionally, a small percentage of vulnerable instances are running an End-Of-Life/End-Of-Support version of OpenSSH.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Qualys
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2024
+July 1, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Police Allege ‘Evil Twin’ In-Flight Wi-Fi Used to Steal Information<a href="https://www.theregister.com/2024/07/01/australia_evil_twin_wifi_airline_attack/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Police Allege ‘Evil Twin’ In-Flight Wi-Fi Used to Steal Information<a href="
 A man in Australia was charged with operating fake Wi-Fi networks on a commercial flight to steal passengers' email and social media credentials. The investigation began when an airline reported a suspicious Wi-Fi network during a domestic flight.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2024
+July 1, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake IT Support Sites Push Malicious PowerShell Scripts as Windows Fixes<a href="https://www.bleepingcomputer.com/news/security/fake-it-support-sites-push-malicious-powershell-scripts-as-windows-fixes/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Fake IT Support Sites Push Malicious PowerShell Scripts as Windows Fixes<a href=
 These sites are promoted through compromised YouTube channels, lending them credibility. One particular error, the 0x80070643 error, which appeared after a Microsoft security update, has been exploited by threat actors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 1, 2024
+July 1, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Polyfill.io, BootCDN, Bootcss, Staticfile Attack Traced to one Operator<a href="https://www.bleepingcomputer.com/news/security/polyfillio-bootcdn-bootcss-staticfile-attack-traced-to-1-operator/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Update: Polyfill.io, BootCDN, Bootcss, Staticfile Attack Traced to one Operator<
 Researchers found a public GitHub repo where the operators of Polyfill.io accidentally exposed their Cloudflare secret keys. By using these leaked API keys, they were able to confirm that a single entity was behind the attack on all four domains.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
