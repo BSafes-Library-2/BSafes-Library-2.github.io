@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rapid7 To Acquire Attack Surface Management Startup Noetic Cyber<a href="https://www.crn.com/news/security/2024/rapid7-to-acquire-attack-surface-management-startup-noetic-cyber?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity firm Rapid7 has announced to acquired Noetic Cyber, a startup specializing in cyber asset attack surface management (CAASM). The terms of the deal were not disclosed.
+</details>
+<div style="text-align: right" markdown="1">
+CRN
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Demands Reach a Staggering $5.2m in 2024<a href="https://www.infosecurity-magazine.com/news/ransomware-demands-staggering-5m/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new analysis by Comparitech, the average ransom demand per ransomware attack in the first half of 2024 was over $5.2m (£4.1m). This was calculated from 56 known ransom demands issued by threat actors during that period.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-Insurance Premiums Decline as Firms Build Resilience<a href="https://www.infosecurity-magazine.com/news/cyberinsurance-premiums-decline/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber insurance premiums have seen significant reductions in price due to improved cybersecurity measures implemented by organizations. Despite an 18% increase in ransomware incidents, premiums have decreased in 2023/24.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024 -- [Encryption](/docs/issues/encryption/encryption/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Preparing for Q-Day as NIST Nears Approval of PQC Standards<a href="https://www.helpnetsecurity.com/2024/07/01/pqc-standardization/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Q-Day, the day when a quantum computer can break modern encryption, is approaching rapidly, leaving our society vulnerable to cyberattacks. Recent advancements in quantum technology suggest that Q-Day is coming sooner than expected.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Orcinius Trojan Uses VBA Stomping to Mask Infection<a href="https://blog.sonicwall.com/en-us/2024/06/new-orcinius-trojan-uses-vba-stomping-to-mask-infection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This multi-stage trojan utilizes Dropbox and Google Docs to update and deliver payloads. It uses the VBA stomping technique, removing the VBA source code in a Microsoft Office document, leaving only compiled p-code.
+</details>
+<div style="text-align: right" markdown="1">
+SonicWall
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Hacked YouTube Channels Spread Scams and Malware<a href="https://www.welivesecurity.com/en/scams/hijacked-hacked-youtube-channels-scams-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most common attack methods against YouTube channels involve phishing attacks to steal login credentials, exploiting weak or reused passwords, and even bypassing two-factor authentication by stealing session cookies.
+</details>
+<div style="text-align: right" markdown="1">
+WeLiveSecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CapraRAT Spyware Variant Disguised as Popular Apps to Target Android Users<a href="https://siliconangle.com/2024/07/01/sentinellabs-uncovers-new-caprarat-spyware-targeting-android-users/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent campaign shows updates to the group's techniques and social engineering tactics, as well as efforts to maximize the spyware's compatibility with older and modern versions of the Android operating system.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dev Rejects CVE Severity, Makes his GitHub Repository Read-Only<a href="https://www.bleepingcomputer.com/news/security/dev-rejects-cve-severity-makes-his-github-repo-read-only/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The open source project 'ip' has been archived on GitHub due to a dubious CVE report filed against it. This is not an isolated incident, as open-source developers have seen an increase in unsubstantiated CVE reports for their projects.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Cyber Workforce Grows 15% at Large Organizations<a href="https://www.infosecurity-magazine.com/news/cyber-workforce-grows-15-large/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Large organizations have significantly bolstered their cybersecurity workforce in 2024, with an average of one expert dedicated to cybersecurity for every 1,086 employees in companies with over $1 billion in revenue, as per a report by Wavestone.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 2, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Intel CPUs Impacted by New Indirector Side-Channel Attack<a href="https://www.bleepingcomputer.com/news/security/latest-intel-cpus-impacted-by-new-indirector-side-channel-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at the University of California, San Diego have discovered a new type of attack called 'Indirector' that targets modern Intel processors, including those from the Raptor Lake and Alder Lake generations.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 1, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

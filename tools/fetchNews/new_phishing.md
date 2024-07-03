@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Hacked YouTube Channels Spread Scams and Malware<a href="https://www.welivesecurity.com/en/scams/hijacked-hacked-youtube-channels-scams-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most common attack methods against YouTube channels involve phishing attacks to steal login credentials, exploiting weak or reused passwords, and even bypassing two-factor authentication by stealing session cookies.
+</details>
+<div style="text-align: right" markdown="1">
+WeLiveSecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 75% of New Vulnerabilities Exploited Within 19 Days<a href="https://www.helpnetsecurity.com/2024/06/27/nvd-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last year, Skybox Security reported that there were over 30,000 new vulnerabilities, with a new vulnerability emerging every 17 minutes on average. This amounts to around 600 new vulnerabilities per week.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

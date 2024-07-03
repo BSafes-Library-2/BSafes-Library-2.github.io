@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Police Allege ‘Evil Twin’ In-Flight Wi-Fi Used to Steal Information<a href="https://www.theregister.com/2024/07/01/australia_evil_twin_wifi_airline_attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A man in Australia was charged with operating fake Wi-Fi networks on a commercial flight to steal passengers' email and social media credentials. The investigation began when an airline reported a suspicious Wi-Fi network during a domestic flight.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Startup Odaseva Raises $54M to Bolster Global Expansion, R&amp;D<a href="https://www.bankinfosecurity.com/startup-odaseva-raises-54m-to-bolster-global-expansion-rd-a-25656?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series C funding will allow San Francisco-based Odaseva to provide more robust support to clients dealing with stringent data residency regulations and evolving privacy laws around the globe, according to founder and CEO Sovan Bin.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
