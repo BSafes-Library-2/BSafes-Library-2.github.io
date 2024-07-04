@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+July 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack Demands Reach a Staggering $5.2m in 2024<a href="https://www.infosecurity-magazine.com/news/ransomware-demands-staggering-5m/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a new analysis by Comparitech, the average ransom demand per ransomware attack in the first half of 2024 was over $5.2m (£4.1m). This was calculated from 56 known ransom demands issued by threat actors during that period.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber-Insurance Premiums Decline as Firms Build Resilience<a href="https://www.infosecurity-magazine.com/news/cyberinsurance-premiums-decline/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyber insurance premiums have seen significant reductions in price due to improved cybersecurity measures implemented by organizations. Despite an 18% increase in ransomware incidents, premiums have decreased in 2023/24.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Cyber Workforce Grows 15% at Large Organizations<a href="https://www.infosecurity-magazine.com/news/cyber-workforce-grows-15-large/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Large organizations have significantly bolstered their cybersecurity workforce in 2024, with an average of one expert dedicated to cybersecurity for every 1,086 employees in companies with over $1 billion in revenue, as per a report by Wavestone.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

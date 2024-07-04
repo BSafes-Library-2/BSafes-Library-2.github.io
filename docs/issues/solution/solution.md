@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Secator: Open-Source Pentesting Swiss Army Knife<a href="https://www.helpnetsecurity.com/2024/07/03/secator-open-source-pentesting-swiss-army-knife/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Secator is an open-source task and workflow runner designed for security assessments to streamline the use of various security tools for pen testers and security researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

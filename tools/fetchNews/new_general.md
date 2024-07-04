@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RUSI Report Exposes Psychological Toll of Ransomware, Urges Action<a href="https://www.infosecurity-magazine.com/news/report-exposes-psychological-toll/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report by the Royal United Services Institute (RUSI) emphasized the need for all incident response stakeholders to address the psychological and physiological impact of ransomware attacks on individuals.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Industry Groups Ask HHS for Guidance on Massive Change Breach Reports<a href="https://www.bankinfosecurity.com/groups-ask-hhs-for-guidance-on-massive-change-breach-reports-a-25671?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Industry groups are seeking further clarification on delegation processes and want a clear statement that covered entities without a business associate relationship with Change Healthcare are not obliged to notify patients.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,62 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Group Uses Phone Calls to Pressure Victims, Researchers Say<a href="https://therecord.media/ransomware-group-volcano-demon-lukalocker?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have identified a new ransomware group called Volcano Demon responsible for two recent successful attacks on companies in the manufacturing and logistics sectors.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Understanding the FakeBat Loader: Distribution Tactics and Cybercriminal Infrastructure<a href="https://thecyberexpress.com/fakebat-loader/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In the early part of 2024, the FakeBat loader, also known as EugenLoader or PaykLoader, emerged as a significant threat utilizing the drive-by download technique to spread malware.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Arrests Disrupt $2.7m Vishing Gang<a href="https://www.infosecurity-magazine.com/news/dozens-arrests-disrupt-25m-vishing/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The criminal gang targeted elderly Spanish citizens by posing as bank employees through voice phishing and then showing up unannounced at their homes to collect cards, bank details, and PINs.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supposed Grasshopper Operators Impersonate Israeli Government and Private Companies to Deploy Open-Source Malware<a href="https://harfanglab.io/en/insidethelab/supposed-grasshopper-operators-impersonate-israeli-gov-private-companies-deploy-open-source-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group uses a mix of publicly available malware and custom development to carry out their attacks. They have been using custom WordPress websites as a payload delivery mechanism.
+</details>
+<div style="text-align: right" markdown="1">
+HarfanLab
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
