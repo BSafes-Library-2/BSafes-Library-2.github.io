@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2024
+July 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: French Diplomats Targeted By Russian Cyber Attacks<a href="https://securityboulevard.com/2024/07/alert-french-diplomats-targeted-by-russian-cyber-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ANSSI warned about a hacking group linked to Russia's SVR targeting French diplomatic interests. The group has compromised email accounts at the French Ministry of Culture and the National Agency for Territorial Cohesion
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers attack HFS servers to drop malware and Monero miners<a href="https://www.bleepingcomputer.com/news/security/hackers-attack-hfs-servers-to-drop-malware-and-monero-miners/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are targeting older versions of the HTTP File Server from Rejetto to drop malware and cryptocurrency mining software by exploiting a critical vulnerability (CVE-2024-23692) that allows executing arbitrary commands without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ghostscript Vulnerabilities Patched in Recent Ubuntu Updates<a href="https://securityboulevard.com/2024/07/ghostscript-vulnerabilities-patched-in-recent-ubuntu-updates/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canonical has released Ubuntu security updates to address bugs in Ghostscript, a tool used for interpreting PostScript and PDF files. These vulnerabilities could potentially allow attackers to bypass security restrictions or execute malicious code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mekotio Banking Trojan Threatens Financial Systems in Latin America<a href="https://www.trendmicro.com/en_us/research/24/g/mekotio-banking-trojan.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Mekotio banking trojan is a highly sophisticated malware that targets Latin American countries, with a focus on stealing banking credentials. It spreads through phishing emails, tricking users into interacting with malicious links or attachments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Splunk fixed tens of flaws in Splunk Enterprise and Cloud Platform<a href="https://securityaffairs.com/165204/security/splunk-enterprise-and-cloud-platform-flaws.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Splunk has released security updates to address 16 vulnerabilities in Splunk Enterprise and Cloud Platform. These vulnerabilities include high-severity flaws such as Remote Code Execution (RCE) and Serialized Session Payload exploits.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OVHcloud blames record-breaking DDoS attack on MikroTik botnet<a href="https://www.bleepingcomputer.com/news/security/ovhcloud-blames-record-breaking-ddos-attack-on-mikrotik-botnet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OVHcloud successfully mitigated a record-breaking DDoS attack with a packet rate of 840 million packets per second. The attack originated from compromised MikroTik network devices, which were used to generate high packet rates.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Morpheus took down 593 Cobalt Strike servers used by threat actors<a href="https://securityaffairs.com/165172/cyber-crime/operation-morpheus-aganst-cobalt-strike-abuse.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The international law enforcement operation, Operation Morpheus, led to the takedown of 593 Cobalt Strike servers used by cybercriminals. This action was a collaborative effort involving multiple countries and private partners.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+384,000 sites pull code from sketchy code library recently bought by Chinese firm<a href="https://arstechnica.com/security/2024/07/384000-sites-link-to-code-library-caught-performing-supply-chain-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 384,000 websites, including those of major companies and government entities, are still linking to the polyfill[.]io code library that was recently acquired by a Chinese firm and used to perform a supply chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Extortion Soars: SMBs Hit Four Times Harder<a href="https://www.infosecurity-magazine.com/news/cyber-extortion-soars-smb-hit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cy-Xplorer 2024 report by Orange Cyberdefense reveals a significant rise in cyber extortion, with 60 ransomware groups affecting 4374 victims from Q1 2023 to Q1 2024. SMBs are targeted 4.2 times more than larger enterprises.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Infostealer malware logs used to identify child abuse website members<a href="https://www.bleepingcomputer.com/news/security/infostealer-malware-logs-used-to-identify-child-abuse-website-members/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Recorded Future's Insikt Group analyzed infostealer malware logs captured between February 2021 and February 2024. They cross-referenced the credentials with 20 known CSAM domains, identifying 3,324 unique username-password pairs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 3, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New RUSI Report Exposes Psychological Toll of Ransomware, Urges Action<a href="https://www.infosecurity-magazine.com/news/report-exposes-psychological-toll/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ New RUSI Report Exposes Psychological Toll of Ransomware, Urges Action<a href="h
 A recent report by the Royal United Services Institute (RUSI) emphasized the need for all incident response stakeholders to address the psychological and physiological impact of ransomware attacks on individuals.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2024
+July 3, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RCE, DoS Exploits Found in Rockwell PanelView Plus: Patch Now<a href="https://thecyberexpress.com/microsoft-rce-dos-exploits-found-in-rockwell/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ RCE, DoS Exploits Found in Rockwell PanelView Plus: Patch Now<a href="https://th
 Microsoft has exposed two significant vulnerabilities in Rockwell Automation's PanelView Plus devices that could be exploited by attackers to execute remote code and launch denial-of-service attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2024
+July 3, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Secator: Open-Source Pentesting Swiss Army Knife<a href="https://www.helpnetsecurity.com/2024/07/03/secator-open-source-pentesting-swiss-army-knife/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Secator: Open-Source Pentesting Swiss Army Knife<a href="https://www.helpnetsecu
 Secator is an open-source task and workflow runner designed for security assessments to streamline the use of various security tools for pen testers and security researchers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2024
+July 3, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vulnerabilities in CocoaPods: The Achilles' Heel of the Apple App Ecosystem<a href="https://cyware.com/news/vulnerabilities-in-cocoapods-the-achilles-heel-of-the-apple-app-ecosystem-21e33ebb"> Full Text</a>
@@ -98,7 +258,7 @@ Cyware
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2024
+July 3, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Ransomware Group Uses Phone Calls to Pressure Victims, Researchers Say<a href="https://therecord.media/ransomware-group-volcano-demon-lukalocker?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ New Ransomware Group Uses Phone Calls to Pressure Victims, Researchers Say<a hre
 Researchers have identified a new ransomware group called Volcano Demon responsible for two recent successful attacks on companies in the manufacturing and logistics sectors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2024
+July 3, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Understanding the FakeBat Loader: Distribution Tactics and Cybercriminal Infrastructure<a href="https://thecyberexpress.com/fakebat-loader/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Understanding the FakeBat Loader: Distribution Tactics and Cybercriminal Infrast
 In the early part of 2024, the FakeBat loader, also known as EugenLoader or PaykLoader, emerged as a significant threat utilizing the drive-by download technique to spread malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2024
+July 3, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Hit Health Entity With $950K Fine in Ransomware Attack<a href="https://www.bankinfosecurity.com/feds-hit-health-entity-950k-fine-in-ransomware-attack-a-25677?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Feds Hit Health Entity With $950K Fine in Ransomware Attack<a href="https://www.
 The US Department of Health and Human Services has levied a fine of $950,000 from the Heritage Valley Health System in Pennsylvania. It must address potential HIPAA violations after a ransomware attack in 2017.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2024
+July 3, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industry Groups Ask HHS for Guidance on Massive Change Breach Reports<a href="https://www.bankinfosecurity.com/groups-ask-hhs-for-guidance-on-massive-change-breach-reports-a-25671?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Industry Groups Ask HHS for Guidance on Massive Change Breach Reports<a href="ht
 Industry groups are seeking further clarification on delegation processes and want a clear statement that covered entities without a business associate relationship with Change Healthcare are not obliged to notify patients.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2024
+July 3, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dozens of Arrests Disrupt $2.7m Vishing Gang<a href="https://www.infosecurity-magazine.com/news/dozens-arrests-disrupt-25m-vishing/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Dozens of Arrests Disrupt $2.7m Vishing Gang<a href="https://www.infosecurity-ma
 The criminal gang targeted elderly Spanish citizens by posing as bank employees through voice phishing and then showing up unannounced at their homes to collect cards, bank details, and PINs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 3, 2024
+July 3, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Supposed Grasshopper Operators Impersonate Israeli Government and Private Companies to Deploy Open-Source Malware<a href="https://harfanglab.io/en/insidethelab/supposed-grasshopper-operators-impersonate-israeli-gov-private-companies-deploy-open-source-malware/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Supposed Grasshopper Operators Impersonate Israeli Government and Private Compan
 The group uses a mix of publicly available malware and custom development to carry out their attacks. They have been using custom WordPress websites as a payload delivery mechanism.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HarfanLab
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
