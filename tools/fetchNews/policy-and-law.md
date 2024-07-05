@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Hit Health Entity With $950K Fine in Ransomware Attack<a href="https://www.bankinfosecurity.com/feds-hit-health-entity-950k-fine-in-ransomware-attack-a-25677?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US Department of Health and Human Services has levied a fine of $950,000 from the Heritage Valley Health System in Pennsylvania. It must address potential HIPAA violations after a ransomware attack in 2017.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

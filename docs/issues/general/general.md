@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+384,000 sites pull code from sketchy code library recently bought by Chinese firm<a href="https://arstechnica.com/security/2024/07/384000-sites-link-to-code-library-caught-performing-supply-chain-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Over 384,000 websites, including those of major companies and government entities, are still linking to the polyfill[.]io code library that was recently acquired by a Chinese firm and used to perform a supply chain attack.
+</details>
+<div style="text-align: right" markdown="1">
+ArsTechnica
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Extortion Soars: SMBs Hit Four Times Harder<a href="https://www.infosecurity-magazine.com/news/cyber-extortion-soars-smb-hit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Cy-Xplorer 2024 report by Orange Cyberdefense reveals a significant rise in cyber extortion, with 60 ransomware groups affecting 4374 victims from Q1 2023 to Q1 2024. SMBs are targeted 4.2 times more than larger enterprises.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

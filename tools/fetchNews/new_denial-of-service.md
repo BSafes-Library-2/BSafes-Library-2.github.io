@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+July 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OVHcloud blames record-breaking DDoS attack on MikroTik botnet<a href="https://www.bleepingcomputer.com/news/security/ovhcloud-blames-record-breaking-ddos-attack-on-mikrotik-botnet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+OVHcloud successfully mitigated a record-breaking DDoS attack with a packet rate of 840 million packets per second. The attack originated from compromised MikroTik network devices, which were used to generate high packet rates.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

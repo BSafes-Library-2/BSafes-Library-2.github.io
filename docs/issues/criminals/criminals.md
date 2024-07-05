@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Morpheus took down 593 Cobalt Strike servers used by threat actors<a href="https://securityaffairs.com/165172/cyber-crime/operation-morpheus-aganst-cobalt-strike-abuse.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The international law enforcement operation, Operation Morpheus, led to the takedown of 593 Cobalt Strike servers used by cybercriminals. This action was a collaborative effort involving multiple countries and private partners.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+July 4, 2024 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Alert: French Diplomats Targeted By Russian Cyber Attacks<a href="https://securityboulevard.com/2024/07/alert-french-diplomats-targeted-by-russian-cyber-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ANSSI warned about a hacking group linked to Russia's SVR targeting French diplomatic interests. The group has compromised email accounts at the French Ministry of Culture and the National Agency for Territorial Cohesion
+</details>
+<div style="text-align: right" markdown="1">
+Security Boulevard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers attack HFS servers to drop malware and Monero miners<a href="https://www.bleepingcomputer.com/news/security/hackers-attack-hfs-servers-to-drop-malware-and-monero-miners/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are targeting older versions of the HTTP File Server from Rejetto to drop malware and cryptocurrency mining software by exploiting a critical vulnerability (CVE-2024-23692) that allows executing arbitrary commands without authentication.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
