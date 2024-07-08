@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passkey Redaction Attacks Subvert GitHub, Microsoft Authentication<a href="https://www.darkreading.com/cloud-security/passkey-redaction-attacks-subvert-github-microsoft-authentication?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online accounts are increasingly protected by passkey technology, but many platforms like banking, e-commerce, social media, and software development can still be compromised using adversary-in-the-middle (AitM) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 4, 2024 <br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
