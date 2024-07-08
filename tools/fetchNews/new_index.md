@@ -34,7 +34,119 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2024
+July 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Ghostscript Vulnerability Haunts Experts as the Next Big Breach Enabler<a href="https://www.theregister.com/2024/07/05/ghostscript_vulnerability_severity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability could be exploited to compromise systems without requiring user interaction, contrary to some severity assessments initially made by Tenable and Red Hat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Eldorado Ransomware Targets Windows, VMware ESXi VMs<a href="https://www.bleepingcomputer.com/news/security/new-eldorado-ransomware-targets-windows-vmware-esxi-vms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eldorado also encrypts network shares using the SMB protocol, deletes shadow volume copies, and skips certain file types to prevent system damage. Affiliates can customize attacks on Windows, while Linux customization is limited.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Traeger Security Bugs Threatening Grillers' Hard Work<a href="https://www.theregister.com/2024/07/03/traeger_security_bugs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Traeger grills face security bugs that could spell trouble for BBQ enthusiasts. High-severity vulnerabilities in the Traeger Grill D2 Wi-Fi Controller could allow remote attackers to control the grill's temperature or shut it down.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passkey Redaction Attacks Subvert GitHub, Microsoft Authentication<a href="https://www.darkreading.com/cloud-security/passkey-redaction-attacks-subvert-github-microsoft-authentication?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online accounts are increasingly protected by passkey technology, but many platforms like banking, e-commerce, social media, and software development can still be compromised using adversary-in-the-middle (AitM) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Golang Zergeca Botnet appeared in the threat landscape<a href="https://securityaffairs.com/165288/cyber-crime/golang-based-zergeca-botnet.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers at QiAnXin XLab team discovered a new Golang-based botnet called Zergeca, capable of conducting DDoS attacks. It was detected through a suspicious ELF file and has been used to launch DDoS attacks in Canada, the U.S., and Germany.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Turla: A Master of Deception<a href="https://www.gdatasoftware.com/blog/2024/07/37977-turla-evasion-lnk-files?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Turla malware has been found using weaponized LNK files to infect computers. The malware leverages a compromised website to distribute malicious packages through phishing emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious QR Reader App in Google Play Delivers Anatsa Banking Malware<a href="https://cybersecuritynews.com/malicious-qr-reader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious QR code reader app on Google Play has been found distributing the Anatsa banking malware, posing a significant threat to users' financial data. The app has already been downloaded thousands of times.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 4, 2024 -- [Attack](/docs/issues/attack/attack/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Alert: French Diplomats Targeted By Russian Cyber Attacks<a href="https://securityboulevard.com/2024/07/alert-french-diplomats-targeted-by-russian-cyber-attacks/?&web_view=true"> Full Text</a>
@@ -44,13 +156,13 @@ Alert: French Diplomats Targeted By Russian Cyber Attacks<a href="https://securi
 ANSSI warned about a hacking group linked to Russia's SVR targeting French diplomatic interests. The group has compromised email accounts at the French Ministry of Culture and the National Agency for Territorial Cohesion
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Boulevard
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2024
+July 4, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers attack HFS servers to drop malware and Monero miners<a href="https://www.bleepingcomputer.com/news/security/hackers-attack-hfs-servers-to-drop-malware-and-monero-miners/?&web_view=true"> Full Text</a>
@@ -60,13 +172,13 @@ Hackers attack HFS servers to drop malware and Monero miners<a href="https://www
 Hackers are targeting older versions of the HTTP File Server from Rejetto to drop malware and cryptocurrency mining software by exploiting a critical vulnerability (CVE-2024-23692) that allows executing arbitrary commands without authentication.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2024
+July 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ghostscript Vulnerabilities Patched in Recent Ubuntu Updates<a href="https://securityboulevard.com/2024/07/ghostscript-vulnerabilities-patched-in-recent-ubuntu-updates/?&web_view=true"> Full Text</a>
@@ -76,13 +188,13 @@ Ghostscript Vulnerabilities Patched in Recent Ubuntu Updates<a href="https://sec
 Canonical has released Ubuntu security updates to address bugs in Ghostscript, a tool used for interpreting PostScript and PDF files. These vulnerabilities could potentially allow attackers to bypass security restrictions or execute malicious code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Boulevard
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2024
+July 4, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mekotio Banking Trojan Threatens Financial Systems in Latin America<a href="https://www.trendmicro.com/en_us/research/24/g/mekotio-banking-trojan.html?&web_view=true"> Full Text</a>
@@ -92,13 +204,13 @@ Mekotio Banking Trojan Threatens Financial Systems in Latin America<a href="http
 The Mekotio banking trojan is a highly sophisticated malware that targets Latin American countries, with a focus on stealing banking credentials. It spreads through phishing emails, tricking users into interacting with malicious links or attachments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2024
+July 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Splunk fixed tens of flaws in Splunk Enterprise and Cloud Platform<a href="https://securityaffairs.com/165204/security/splunk-enterprise-and-cloud-platform-flaws.html?&web_view=true"> Full Text</a>
@@ -108,13 +220,13 @@ Splunk fixed tens of flaws in Splunk Enterprise and Cloud Platform<a href="https
 Splunk has released security updates to address 16 vulnerabilities in Splunk Enterprise and Cloud Platform. These vulnerabilities include high-severity flaws such as Remote Code Execution (RCE) and Serialized Session Payload exploits.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2024
+July 4, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OVHcloud blames record-breaking DDoS attack on MikroTik botnet<a href="https://www.bleepingcomputer.com/news/security/ovhcloud-blames-record-breaking-ddos-attack-on-mikrotik-botnet/?&web_view=true"> Full Text</a>
@@ -124,13 +236,13 @@ OVHcloud blames record-breaking DDoS attack on MikroTik botnet<a href="https://w
 OVHcloud successfully mitigated a record-breaking DDoS attack with a packet rate of 840 million packets per second. The attack originated from compromised MikroTik network devices, which were used to generate high packet rates.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2024
+July 4, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation Morpheus took down 593 Cobalt Strike servers used by threat actors<a href="https://securityaffairs.com/165172/cyber-crime/operation-morpheus-aganst-cobalt-strike-abuse.html?&web_view=true"> Full Text</a>
@@ -140,13 +252,13 @@ Operation Morpheus took down 593 Cobalt Strike servers used by threat actors<a h
 The international law enforcement operation, Operation Morpheus, led to the takedown of 593 Cobalt Strike servers used by cybercriminals. This action was a collaborative effort involving multiple countries and private partners.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2024
+July 4, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 384,000 sites pull code from sketchy code library recently bought by Chinese firm<a href="https://arstechnica.com/security/2024/07/384000-sites-link-to-code-library-caught-performing-supply-chain-attack/?&web_view=true"> Full Text</a>
@@ -156,13 +268,13 @@ July 4, 2024
 Over 384,000 websites, including those of major companies and government entities, are still linking to the polyfill[.]io code library that was recently acquired by a Chinese firm and used to perform a supply chain attack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ArsTechnica
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2024
+July 4, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Extortion Soars: SMBs Hit Four Times Harder<a href="https://www.infosecurity-magazine.com/news/cyber-extortion-soars-smb-hit/?&web_view=true"> Full Text</a>
@@ -172,13 +284,13 @@ Cyber Extortion Soars: SMBs Hit Four Times Harder<a href="https://www.infosecuri
 The Cy-Xplorer 2024 report by Orange Cyberdefense reveals a significant rise in cyber extortion, with 60 ransomware groups affecting 4374 victims from Q1 2023 to Q1 2024. SMBs are targeted 4.2 times more than larger enterprises.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 4, 2024
+July 4, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Infostealer malware logs used to identify child abuse website members<a href="https://www.bleepingcomputer.com/news/security/infostealer-malware-logs-used-to-identify-child-abuse-website-members/?&web_view=true"> Full Text</a>
@@ -188,7 +300,7 @@ Infostealer malware logs used to identify child abuse website members<a href="ht
 Researchers at Recorded Future's Insikt Group analyzed infostealer malware logs captured between February 2021 and February 2024. They cross-referenced the credentials with 20 known CSAM domains, identifying 3,324 unique username-password pairs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

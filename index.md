@@ -34,6 +34,118 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Latest Ghostscript Vulnerability Haunts Experts as the Next Big Breach Enabler<a href="https://www.theregister.com/2024/07/05/ghostscript_vulnerability_severity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability could be exploited to compromise systems without requiring user interaction, contrary to some severity assessments initially made by Tenable and Red Hat.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Eldorado Ransomware Targets Windows, VMware ESXi VMs<a href="https://www.bleepingcomputer.com/news/security/new-eldorado-ransomware-targets-windows-vmware-esxi-vms/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eldorado also encrypts network shares using the SMB protocol, deletes shadow volume copies, and skips certain file types to prevent system damage. Affiliates can customize attacks on Windows, while Linux customization is limited.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Traeger Security Bugs Threatening Grillers' Hard Work<a href="https://www.theregister.com/2024/07/03/traeger_security_bugs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Traeger grills face security bugs that could spell trouble for BBQ enthusiasts. High-severity vulnerabilities in the Traeger Grill D2 Wi-Fi Controller could allow remote attackers to control the grill's temperature or shut it down.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Passkey Redaction Attacks Subvert GitHub, Microsoft Authentication<a href="https://www.darkreading.com/cloud-security/passkey-redaction-attacks-subvert-github-microsoft-authentication?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Online accounts are increasingly protected by passkey technology, but many platforms like banking, e-commerce, social media, and software development can still be compromised using adversary-in-the-middle (AitM) attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Golang Zergeca Botnet appeared in the threat landscape<a href="https://securityaffairs.com/165288/cyber-crime/golang-based-zergeca-botnet.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers at QiAnXin XLab team discovered a new Golang-based botnet called Zergeca, capable of conducting DDoS attacks. It was detected through a suspicious ELF file and has been used to launch DDoS attacks in Canada, the U.S., and Germany.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Turla: A Master of Deception<a href="https://www.gdatasoftware.com/blog/2024/07/37977-turla-evasion-lnk-files?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Turla malware has been found using weaponized LNK files to infect computers. The malware leverages a compromised website to distribute malicious packages through phishing emails.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Malicious QR Reader App in Google Play Delivers Anatsa Banking Malware<a href="https://cybersecuritynews.com/malicious-qr-reader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A malicious QR code reader app on Google Play has been found distributing the Anatsa banking malware, posing a significant threat to users' financial data. The app has already been downloaded thousands of times.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 4, 2024 -- [Attack](/docs/issues/attack/attack/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
