@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2024
+July 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Catch Yemeni Hackers Spying on Middle East Military Phones<a href="https://cyberscoop.com/researchers-catch-yemeni-hackers-spying-on-middle-east-military-phones/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Yemeni hacking group associated with the Houthi movement has been spying on military personnel in the Middle East by infecting their phones with surveillance software, according to cybersecurity firm Lookout.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and Partner Agencies Join ASD’S ACSC to Release Advisory on APT40, a Chinese State-Sponsored Group<a href="https://www.cisa.gov/news-events/alerts/2024/07/08/cisa-and-partners-join-asds-acsc-release-advisory-prc-state-sponsored-group-apt-40?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies from Australia, Canada, Germany, Japan, New Zealand, South Korea, the UK, and the US have warned about APT40, a China-linked cyber espionage group known for quickly exploiting new security bugs after public disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Ghostscript flaw exploited in the wild. Patch it now!<a href="https://securityaffairs.com/165449/hacking/ghostscript-vulnerability-cve-2024-29510.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability affects Ghostscript versions ? 10.03.0 and can have a significant impact on web applications and services using Ghostscript for document conversion and previews.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Scammers Double-Dip by Offering Prior Victims Help to Recover Stolen Funds<a href="https://www.theregister.com/2024/07/09/australia_rescam_warning/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The scammers identify previous scam victims and pose as trusted entities such as government agencies, cybersecurity firms, or fund recovery services, asking for upfront fees or personal information to supposedly help with the recovery process.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Apache Fixed a Source Code Disclosure Flaw in Apache HTTP Server<a href="https://securityaffairs.com/165422/security/apache-source-code-disclosure-flaw-apache-http-server.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability, tracked as CVE-2024-39884 and caused by a regression, can lead to unintentional exposure of sensitive data when legacy content-type configurations are used.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mallox Ransomware Variant Targets Linux Systems<a href="https://hackread.com/mallox-ransomware-variant-targets-linux-systems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of Mallox ransomware has been discovered by cybersecurity researchers at Uptycs, targeting Linux systems with custom encryption and a builder web panel. A custom Python script called web_server.py is used to deliver the ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Splunk Addresses Critical Vulnerabilities in Enterprise and Cloud Platforms<a href="https://thecyberexpress.com/updates-released-for-splunk-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Splunk has released a set of security updates to address 16 vulnerabilities in Splunk Enterprise and Cloud Platform, including high-severity issues. CVE-2024-36985 allows remote code execution via External Lookup in Splunk Enterprise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Network Segmentation Hobbled Midnight Blizzard's Attack on TeamViewer<a href="https://www.helpnetsecurity.com/2024/07/08/teamviewer-breach-june-2024/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company revealed that their corporate IT network, production environment, and TeamViewer connectivity platform are segmented to prevent unauthorized access. Immediate remediation measures were effective in blocking suspicious activity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Increase in the Exploitation of Microsoft SmartScreen Vulnerability<a href="https://cyble.com/blog/increase-in-the-exploitation-of-microsoft-smartscreen-vulnerability-cve-2024-21412/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cyble Research and Intelligence Labs (CRIL) has identified an increase in the exploitation of the Microsoft SmartScreen vulnerability (CVE-2024-21412) through an active campaign targeting regions like Spain, the US, and Australia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Infrastructure Providers Seek Guardrails on Scope, Timeline for CIRCIA Rules<a href="https://www.cybersecuritydive.com/news/critical-infrastructure-changes-circia/720703/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Critical infrastructure providers are urging federal officials for more flexibility in reporting cyber incidents within the first 72 hours under the Cyber Incident Reporting for Critical Infrastructure Act.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Latest Ghostscript Vulnerability Haunts Experts as the Next Big Breach Enabler<a href="https://www.theregister.com/2024/07/05/ghostscript_vulnerability_severity/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Latest Ghostscript Vulnerability Haunts Experts as the Next Big Breach Enabler<a
 The vulnerability could be exploited to compromise systems without requiring user interaction, contrary to some severity assessments initially made by Tenable and Red Hat.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2024
+July 6, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Eldorado Ransomware Targets Windows, VMware ESXi VMs<a href="https://www.bleepingcomputer.com/news/security/new-eldorado-ransomware-targets-windows-vmware-esxi-vms/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ New Eldorado Ransomware Targets Windows, VMware ESXi VMs<a href="https://www.ble
 Eldorado also encrypts network shares using the SMB protocol, deletes shadow volume copies, and skips certain file types to prevent system damage. Affiliates can customize attacks on Windows, while Linux customization is limited.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2024
+July 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Traeger Security Bugs Threatening Grillers' Hard Work<a href="https://www.theregister.com/2024/07/03/traeger_security_bugs/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Traeger Security Bugs Threatening Grillers' Hard Work<a href="https://www.thereg
 Traeger grills face security bugs that could spell trouble for BBQ enthusiasts. High-severity vulnerabilities in the Traeger Grill D2 Wi-Fi Controller could allow remote attackers to control the grill's temperature or shut it down.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 6, 2024
+July 6, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Passkey Redaction Attacks Subvert GitHub, Microsoft Authentication<a href="https://www.darkreading.com/cloud-security/passkey-redaction-attacks-subvert-github-microsoft-authentication?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Passkey Redaction Attacks Subvert GitHub, Microsoft Authentication<a href="https
 Online accounts are increasingly protected by passkey technology, but many platforms like banking, e-commerce, social media, and software development can still be compromised using adversary-in-the-middle (AitM) attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2024
+July 5, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Golang Zergeca Botnet appeared in the threat landscape<a href="https://securityaffairs.com/165288/cyber-crime/golang-based-zergeca-botnet.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ New Golang Zergeca Botnet appeared in the threat landscape<a href="https://secur
 The researchers at QiAnXin XLab team discovered a new Golang-based botnet called Zergeca, capable of conducting DDoS attacks. It was detected through a suspicious ELF file and has been used to launch DDoS attacks in Canada, the U.S., and Germany.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2024
+July 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Turla: A Master of Deception<a href="https://www.gdatasoftware.com/blog/2024/07/37977-turla-evasion-lnk-files?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Turla: A Master of Deception<a href="https://www.gdatasoftware.com/blog/2024/07/
 The Turla malware has been found using weaponized LNK files to infect computers. The malware leverages a compromised website to distribute malicious packages through phishing emails.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+G Data
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 5, 2024
+July 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Malicious QR Reader App in Google Play Delivers Anatsa Banking Malware<a href="https://cybersecuritynews.com/malicious-qr-reader/?&web_view=true"> Full Text</a>
@@ -140,7 +300,7 @@ Malicious QR Reader App in Google Play Delivers Anatsa Banking Malware<a href="h
 A malicious QR code reader app on Google Play has been found distributing the Anatsa banking malware, posing a significant threat to users' financial data. The app has already been downloaded thousands of times.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Security News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
