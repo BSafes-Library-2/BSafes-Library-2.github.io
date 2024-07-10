@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Golang Zergeca Botnet appeared in the threat landscape<a href="https://securityaffairs.com/165288/cyber-crime/golang-based-zergeca-botnet.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The researchers at QiAnXin XLab team discovered a new Golang-based botnet called Zergeca, capable of conducting DDoS attacks. It was detected through a suspicious ELF file and has been used to launch DDoS attacks in Canada, the U.S., and Germany.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

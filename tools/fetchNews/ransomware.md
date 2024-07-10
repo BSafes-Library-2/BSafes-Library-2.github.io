@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Eldorado Ransomware Targets Windows, VMware ESXi VMs<a href="https://www.bleepingcomputer.com/news/security/new-eldorado-ransomware-targets-windows-vmware-esxi-vms/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Eldorado also encrypts network shares using the SMB protocol, deletes shadow volume copies, and skips certain file types to prevent system damage. Affiliates can customize attacks on Windows, while Linux customization is limited.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2024
+July 9, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Catch Yemeni Hackers Spying on Middle East Military Phones<a href="https://cyberscoop.com/researchers-catch-yemeni-hackers-spying-on-middle-east-military-phones/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Researchers Catch Yemeni Hackers Spying on Middle East Military Phones<a href="h
 A Yemeni hacking group associated with the Houthi movement has been spying on military personnel in the Middle East by infecting their phones with surveillance software, according to cybersecurity firm Lookout.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyber Scoop
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2024
+July 9, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA and Partner Agencies Join ASD’S ACSC to Release Advisory on APT40, a Chinese State-Sponsored Group<a href="https://www.cisa.gov/news-events/alerts/2024/07/08/cisa-and-partners-join-asds-acsc-release-advisory-prc-state-sponsored-group-apt-40?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ CISA and Partner Agencies Join ASD’S ACSC to Release Advisory on APT40, a Chin
 Cybersecurity agencies from Australia, Canada, Germany, Japan, New Zealand, South Korea, the UK, and the US have warned about APT40, a China-linked cyber espionage group known for quickly exploiting new security bugs after public disclosure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2024
+July 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Ghostscript flaw exploited in the wild. Patch it now!<a href="https://securityaffairs.com/165449/hacking/ghostscript-vulnerability-cve-2024-29510.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Critical Ghostscript flaw exploited in the wild. Patch it now!<a href="https://s
 This vulnerability affects Ghostscript versions ? 10.03.0 and can have a significant impact on web applications and services using Ghostscript for document conversion and previews.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2024
+July 9, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scammers Double-Dip by Offering Prior Victims Help to Recover Stolen Funds<a href="https://www.theregister.com/2024/07/09/australia_rescam_warning/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Scammers Double-Dip by Offering Prior Victims Help to Recover Stolen Funds<a hre
 The scammers identify previous scam victims and pose as trusted entities such as government agencies, cybersecurity firms, or fund recovery services, asking for upfront fees or personal information to supposedly help with the recovery process.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2024
+July 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache Fixed a Source Code Disclosure Flaw in Apache HTTP Server<a href="https://securityaffairs.com/165422/security/apache-source-code-disclosure-flaw-apache-http-server.html?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Apache Fixed a Source Code Disclosure Flaw in Apache HTTP Server<a href="https:/
 This vulnerability, tracked as CVE-2024-39884 and caused by a regression, can lead to unintentional exposure of sensitive data when legacy content-type configurations are used.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2024
+July 9, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Mallox Ransomware Variant Targets Linux Systems<a href="https://hackread.com/mallox-ransomware-variant-targets-linux-systems/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ New Mallox Ransomware Variant Targets Linux Systems<a href="https://hackread.com
 A new variant of Mallox ransomware has been discovered by cybersecurity researchers at Uptycs, targeting Linux systems with custom encryption and a builder web panel. A custom Python script called web_server.py is used to deliver the ransomware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2024
+July 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Splunk Addresses Critical Vulnerabilities in Enterprise and Cloud Platforms<a href="https://thecyberexpress.com/updates-released-for-splunk-vulnerability/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Splunk Addresses Critical Vulnerabilities in Enterprise and Cloud Platforms<a hr
 Splunk has released a set of security updates to address 16 vulnerabilities in Splunk Enterprise and Cloud Platform, including high-severity issues. CVE-2024-36985 allows remote code execution via External Lookup in Splunk Enterprise.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2024
+July 9, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Network Segmentation Hobbled Midnight Blizzard's Attack on TeamViewer<a href="https://www.helpnetsecurity.com/2024/07/08/teamviewer-breach-june-2024/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Update: Network Segmentation Hobbled Midnight Blizzard's Attack on TeamViewer<a 
 The company revealed that their corporate IT network, production environment, and TeamViewer connectivity platform are segmented to prevent unauthorized access. Immediate remediation measures were effective in blocking suspicious activity.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2024
+July 9, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Increase in the Exploitation of Microsoft SmartScreen Vulnerability<a href="https://cyble.com/blog/increase-in-the-exploitation-of-microsoft-smartscreen-vulnerability-cve-2024-21412/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Increase in the Exploitation of Microsoft SmartScreen Vulnerability<a href="http
 Cyble Research and Intelligence Labs (CRIL) has identified an increase in the exploitation of the Microsoft SmartScreen vulnerability (CVE-2024-21412) through an active campaign targeting regions like Spain, the US, and Australia.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyble
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 9, 2024
+July 9, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Infrastructure Providers Seek Guardrails on Scope, Timeline for CIRCIA Rules<a href="https://www.cybersecuritydive.com/news/critical-infrastructure-changes-circia/720703/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Critical Infrastructure Providers Seek Guardrails on Scope, Timeline for CIRCIA 
 Critical infrastructure providers are urging federal officials for more flexibility in reporting cyber incidents within the first 72 hours under the Cyber Incident Reporting for Critical Infrastructure Act.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

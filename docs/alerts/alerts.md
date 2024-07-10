@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 8, 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and Partners join ASD’S ACSC to Release Advisory on PRC State-Sponsored Group, APT 40 <a href="https://www.cisa.gov/news-events/alerts/2024/07/08/cisa-and-partners-join-asds-acsc-release-advisory-prc-state-sponsored-group-apt-40?&web_view=true"> Full Text</a>
+</p>
+<details>
+CISA has collaborated with the Australian Signals Directorate’s Australian Cyber Security Centre (ASD's ACSC) to release an advisory, People’s Republic of China (PRC) Ministry of State Security APT40 Tradecraft in Action outlining a PRC state-sponsored cyber group’s activity. The following organizations also collaborated with ASD's ACSC on the guidance:
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 3, 2024 - NIST 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

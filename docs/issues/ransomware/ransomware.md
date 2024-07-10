@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Mallox Ransomware Variant Targets Linux Systems<a href="https://hackread.com/mallox-ransomware-variant-targets-linux-systems/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of Mallox ransomware has been discovered by cybersecurity researchers at Uptycs, targeting Linux systems with custom encryption and a builder web panel. A custom Python script called web_server.py is used to deliver the ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Network Segmentation Hobbled Midnight Blizzard's Attack on TeamViewer<a href="https://www.helpnetsecurity.com/2024/07/08/teamviewer-breach-june-2024/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The company revealed that their corporate IT network, production environment, and TeamViewer connectivity platform are segmented to prevent unauthorized access. Immediate remediation measures were effective in blocking suspicious activity.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

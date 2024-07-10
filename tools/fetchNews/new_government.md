@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA and Partner Agencies Join ASD’S ACSC to Release Advisory on APT40, a Chinese State-Sponsored Group<a href="https://www.cisa.gov/news-events/alerts/2024/07/08/cisa-and-partners-join-asds-acsc-release-advisory-prc-state-sponsored-group-apt-40?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity agencies from Australia, Canada, Germany, Japan, New Zealand, South Korea, the UK, and the US have warned about APT40, a China-linked cyber espionage group known for quickly exploiting new security bugs after public disclosure.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
