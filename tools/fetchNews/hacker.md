@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Catch Yemeni Hackers Spying on Middle East Military Phones<a href="https://cyberscoop.com/researchers-catch-yemeni-hackers-spying-on-middle-east-military-phones/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Yemeni hacking group associated with the Houthi movement has been spying on military personnel in the Middle East by infecting their phones with surveillance software, according to cybersecurity firm Lookout.
+</details>
+<div style="text-align: right" markdown="1">
+Cyber Scoop
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 June 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

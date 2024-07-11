@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+U.S. CISA ADDS MICROSOFT WINDOWS AND REJETTO HTTP FILE SERVER BUGS TO ITS KNOWN EXPLOITED VULNERABILITIES CATALOG <a href="https://securityaffairs.com/165513/security/cisa-adds-windows-rejetto-http-file-server-bugs-known-exploited-vulnerabilities-catalog.html?web_view=true"> Full Text</a>
+</p>
+<details>
+CVE-2024-23692 (CVSS score of 9.8) – the flaw is a template injection vulnerability that impacts Rejetto HTTP File Server, up to and including version 2.3m. This vulnerability allows a remote, unauthenticated attacker to execute arbitrary commands on the affected system by sending a specially crafted HTTP request.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 8, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,158 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Most Security Pros Admit Shadow SaaS and AI Use<a href="https://www.infosecurity-magazine.com/news/most-security-pros-shadow-saas-ai/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent Next DLP poll revealed that 73% of cybersecurity professionals used unauthorized apps, including AI, last year. Top concerns were data loss, lack of control, and breaches, with 10% admitting to a breach due to these tools.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2024 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Busts Russian AI-Driven Disinformation Operation<a href="https://www.bankinfosecurity.com/us-busts-russian-ai-driven-disinformation-operation-a-25729?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice investigated around 1,000 accounts on social media platform X, previously Twitter, which were used by the Kremlin to spread pro-Moscow propaganda created by the AI-driven Meliorator software.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Regional Transport Office Themed Phishing Campaign Targets Android Users In India<a href="https://cyble.com/blog/regional-transport-office-phishing-scam-targets-android-users-in-india/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing messages impersonating the Regional Transport Office have been circulating since 2024, claiming traffic violations and prompting users to download a malicious APK named "VAHAN PARIVAHAN.apk".
+</details>
+<div style="text-align: right" markdown="1">
+Cyble
+As CISOs Grapple with the C-Suite, Job Satisfaction Takes a Hit<a href="https://www.cybersecuritydive.com/news/ciso-security-burnout/720857/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Research shows that 75% of CISOs are considering a job change due to various challenges and pressures. CISOs often face accountability for cyber incidents and compliance failures, leading to discontent.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Microsoft Windows and Rejetto HTTP File Server Bugs to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/165513/security/cisa-adds-windows-rejetto-http-file-server-bugs-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities added include CVE-2024-23692 affecting Rejetto HTTP File Server, CVE-2024-38080 impacting Windows Hyper-V, and CVE-2024-38112 targeting Windows MSHTML Platform.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>`
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ticket Heist Network of 700 Domains Sells Fake Olympic Games Tickets<a href="https://www.bleepingcomputer.com/news/security/ticket-heist-network-of-700-domains-sells-fake-olympic-games-tickets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+QuoIntelligence discovered the operation called Ticket Heist, with convincing websites selling fake Olympic tickets. The prices on these websites are much higher than the official ones.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Senate NDAA 2025 Boosts Military Cyber and AI Initiatives<a href="https://www.bankinfosecurity.com/senate-ndaa-2025-boosts-military-cyber-ai-initiatives-a-25731?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate Armed Services Committee presented the NDAA for fiscal year 2025, totaling $923.3 billion for defense funding. This includes $878.4 billion for the Pentagon and $33.4 billion for national security programs under the Department of Energy.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft July 2024 Patch Tuesday Fixes 142 Flaws, 4 Zero-Days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2024-patch-tuesday-fixes-142-flaws-4-zero-days/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+As part of Microsoft's July 2024 Patch Tuesday, 142 flaws were addressed, including two zero-days actively exploited and two publicly disclosed. Five critical vulnerabilities were fixed, all related to remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Thefts Double to $1.4 Billion, TRM Labs Finds<a href="https://www.infosecurity-magazine.com/news/crypto-thefts-double-2024-trm-labs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cryptocurrency exchange hacks and exploits are on the rise, with $1.38bn stolen in the first half of 2024, double the amount stolen in 2023. While it is lower than the record-breaking $2bn stolen in 2022, the surge may be due to higher token prices.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Blast RADIUS Attack can Bypass Authentication for Clients<a href="https://www.theregister.com/2024/07/10/radius_critical_vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This vulnerability, known as Blast RADIUS and rated 7.5 out of 10 on the severity scale, affects the RADIUS networking protocol, potentially granting unauthorized access to network devices and services without credentials.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 9, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
