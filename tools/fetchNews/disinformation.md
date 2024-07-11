@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+July 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Busts Russian AI-Driven Disinformation Operation<a href="https://www.bankinfosecurity.com/us-busts-russian-ai-driven-disinformation-operation-a-25729?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Department of Justice investigated around 1,000 accounts on social media platform X, previously Twitter, which were used by the Kremlin to spread pro-Moscow propaganda created by the AI-driven Meliorator software.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
