@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BunkerWeb: Open-Source Web Application Firewall (WAF)<a href="https://www.helpnetsecurity.com/2024/07/10/bunkerweb-open-source-web-application-firewall-waf/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The genesis of BunkerWeb came from the need to apply security practices manually every time a web application was put online. The solution meets global needs with a modular architecture allowing for extensions.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Stark Truth Behind the Resurgence of Russia’s FIN7<a href="https://krebsonsecurity.com/2024/07/the-stark-truth-behind-the-resurgence-of-russias-fin7/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FIN7, a cybercrime group responsible for billions in losses, was dismantled by U.S. authorities in 2023. However, they resurfaced in 2024 with Stark Industries Solutions, hosting thousands of fake websites mimicking renowned companies.
+</details>
+<div style="text-align: right" markdown="1">
+Krebs On Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Invest in Custom Data Stealing Malware<a href="https://www.theregister.com/2024/07/10/ransomware_data_exfil_malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs are now creating custom data-stealing malware instead of just encrypting files. Mature crime organizations are investing in bespoke data theft tools, according to a Cisco Talos report on the top 14 ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
