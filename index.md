@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese Space Agency Spots Unspecified Zero-Day Attacks<a href="https://www.theregister.com/2024/07/11/jaxa_m365_zeroday_attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JAXA was targeted with zero-day exploits during its investigation with Microsoft into a 2023 cyberattack. The attack mainly affected its Active Directory system, prompting JAXA to shut down networks to prevent data compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Macau Government Websites Hit with Cyberattack by Suspected Foreign Hackers<a href="https://therecord.media/macau-government-websites-hit-with-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack, identified as a distributed denial-of-service attack (DDoS), affected websites of security services, police, fire and rescue services, and the academy for public security forces.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan Warns of Attacks Linked to North Korean Kimsuky Hackers<a href="https://www.bleepingcomputer.com/news/security/japan-warns-of-attacks-linked-to-north-korean-kimsuky-hackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks were detected earlier this year, with indicators of compromise shared by AhnLab Security Intelligence Center. The attackers initiate their attacks with phishing emails containing malicious attachments disguised as documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Stark Truth Behind the Resurgence of Russia’s FIN7<a href="https://krebsonsecurity.com/2024/07/the-stark-truth-behind-the-resurgence-of-russias-fin7/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FIN7, a cybercrime group responsible for billions in losses, was dismantled by U.S. authorities in 2023. However, they resurfaced in 2024 with Stark Industries Solutions, hosting thousands of fake websites mimicking renowned companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Threat Actors Exploit PHP Flaw CVE-2024-4577 to Deliver Malware<a href="https://securityaffairs.com/165586/hacking/php-flaw-cve-2024-4577-actively-exploited.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PHP vulnerability, tracked as CVE-2024-4577, with a CVSS score of 9.8, allows attackers to execute commands on Windows systems using Chinese and Japanese language settings.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Invest in Custom Data Stealing Malware<a href="https://www.theregister.com/2024/07/10/ransomware_data_exfil_malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs are now creating custom data-stealing malware instead of just encrypting files. Mature crime organizations are investing in bespoke data theft tools, according to a Cisco Talos report on the top 14 ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veeam Flaw Becomes Ransomware Vector a Year After Patching<a href="https://www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware gang known as EstateRansomware is exploiting a Veeam vulnerability that was patched over a year ago to spread file-encrypting malware and demand ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cytactic Raises $16M in Seed Funding<a href="https://www.finsmes.com/2024/07/cytactic-raises-16m-in-seed-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cytactic, an Israel-based provider of a platform pioneering cyber crisis readiness and management, raised $16M in a seed funding round led by Evolution Equity Partners. It intends to use the funds to expand operations and development efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploring Compiled V8 JavaScript Usage in Malware<a href="https://research.checkpoint.com/2024/exploring-compiled-v8-javascript-usage-in-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compiled V8 JavaScript in Google's engine converts JavaScript into low-level bytecode, making analysis and detection difficult. Attacks using this bytecode ensure compatibility with the V8 engine for successful execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BunkerWeb: Open-Source Web Application Firewall (WAF)<a href="https://www.helpnetsecurity.com/2024/07/10/bunkerweb-open-source-web-application-firewall-waf/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The genesis of BunkerWeb came from the need to apply security practices manually every time a web application was put online. The solution meets global needs with a modular architecture allowing for extensions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 10, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

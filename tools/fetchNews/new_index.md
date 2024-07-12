@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2024
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese Space Agency Spots Unspecified Zero-Day Attacks<a href="https://www.theregister.com/2024/07/11/jaxa_m365_zeroday_attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JAXA was targeted with zero-day exploits during its investigation with Microsoft into a 2023 cyberattack. The attack mainly affected its Active Directory system, prompting JAXA to shut down networks to prevent data compromise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Macau Government Websites Hit with Cyberattack by Suspected Foreign Hackers<a href="https://therecord.media/macau-government-websites-hit-with-cyberattack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack, identified as a distributed denial-of-service attack (DDoS), affected websites of security services, police, fire and rescue services, and the academy for public security forces.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan Warns of Attacks Linked to North Korean Kimsuky Hackers<a href="https://www.bleepingcomputer.com/news/security/japan-warns-of-attacks-linked-to-north-korean-kimsuky-hackers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks were detected earlier this year, with indicators of compromise shared by AhnLab Security Intelligence Center. The attackers initiate their attacks with phishing emails containing malicious attachments disguised as documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Stark Truth Behind the Resurgence of Russia’s FIN7<a href="https://krebsonsecurity.com/2024/07/the-stark-truth-behind-the-resurgence-of-russias-fin7/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FIN7, a cybercrime group responsible for billions in losses, was dismantled by U.S. authorities in 2023. However, they resurfaced in 2024 with Stark Industries Solutions, hosting thousands of fake websites mimicking renowned companies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple Threat Actors Exploit PHP Flaw CVE-2024-4577 to Deliver Malware<a href="https://securityaffairs.com/165586/hacking/php-flaw-cve-2024-4577-actively-exploited.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The PHP vulnerability, tracked as CVE-2024-4577, with a CVSS score of 9.8, allows attackers to execute commands on Windows systems using Chinese and Japanese language settings.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Invest in Custom Data Stealing Malware<a href="https://www.theregister.com/2024/07/10/ransomware_data_exfil_malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware gangs are now creating custom data-stealing malware instead of just encrypting files. Mature crime organizations are investing in bespoke data theft tools, according to a Cisco Talos report on the top 14 ransomware groups.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Veeam Flaw Becomes Ransomware Vector a Year After Patching<a href="https://www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware gang known as EstateRansomware is exploiting a Veeam vulnerability that was patched over a year ago to spread file-encrypting malware and demand ransom payments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cytactic Raises $16M in Seed Funding<a href="https://www.finsmes.com/2024/07/cytactic-raises-16m-in-seed-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cytactic, an Israel-based provider of a platform pioneering cyber crisis readiness and management, raised $16M in a seed funding round led by Evolution Equity Partners. It intends to use the funds to expand operations and development efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Exploring Compiled V8 JavaScript Usage in Malware<a href="https://research.checkpoint.com/2024/exploring-compiled-v8-javascript-usage-in-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Compiled V8 JavaScript in Google's engine converts JavaScript into low-level bytecode, making analysis and detection difficult. Attacks using this bytecode ensure compatibility with the V8 engine for successful execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 11, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BunkerWeb: Open-Source Web Application Firewall (WAF)<a href="https://www.helpnetsecurity.com/2024/07/10/bunkerweb-open-source-web-application-firewall-waf/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The genesis of BunkerWeb came from the need to apply security practices manually every time a web application was put online. The solution meets global needs with a modular architecture allowing for extensions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 10, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Most Security Pros Admit Shadow SaaS and AI Use<a href="https://www.infosecurity-magazine.com/news/most-security-pros-shadow-saas-ai/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Most Security Pros Admit Shadow SaaS and AI Use<a href="https://www.infosecurity
 A recent Next DLP poll revealed that 73% of cybersecurity professionals used unauthorized apps, including AI, last year. Top concerns were data loss, lack of control, and breaches, with 10% admitting to a breach due to these tools.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2024
+July 10, 2024 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Busts Russian AI-Driven Disinformation Operation<a href="https://www.bankinfosecurity.com/us-busts-russian-ai-driven-disinformation-operation-a-25729?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ US Busts Russian AI-Driven Disinformation Operation<a href="https://www.bankinfo
 The Department of Justice investigated around 1,000 accounts on social media platform X, previously Twitter, which were used by the Kremlin to spread pro-Moscow propaganda created by the AI-driven Meliorator software.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2024
+July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Regional Transport Office Themed Phishing Campaign Targets Android Users In India<a href="https://cyble.com/blog/regional-transport-office-phishing-scam-targets-android-users-in-india/?&web_view=true"> Full Text</a>
@@ -76,15 +236,7 @@ Regional Transport Office Themed Phishing Campaign Targets Android Users In Indi
 Phishing messages impersonating the Regional Transport Office have been circulating since 2024, claiming traffic violations and prompting users to download a malicious APK named "VAHAN PARIVAHAN.apk".
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
-{: .fs-2 .fw-300 .lh-0}
-</div>
-</div>
-
-<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2024
-{: .fs-4 .fw-700 .lh-0  }
-<p style="font-weight:500; margin:0px" markdown="1">
+Cyble
 As CISOs Grapple with the C-Suite, Job Satisfaction Takes a Hit<a href="https://www.cybersecuritydive.com/news/ciso-security-burnout/720857/?&web_view=true"> Full Text</a>
 </p>
 <details>
@@ -92,13 +244,13 @@ As CISOs Grapple with the C-Suite, Job Satisfaction Takes a Hit<a href="https://
 Research shows that 75% of CISOs are considering a job change due to various challenges and pressures. CISOs often face accountability for cyber incidents and compliance failures, leading to discontent.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2024
+July 10, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Microsoft Windows and Rejetto HTTP File Server Bugs to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/165513/security/cisa-adds-windows-rejetto-http-file-server-bugs-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
@@ -108,13 +260,13 @@ CISA Adds Microsoft Windows and Rejetto HTTP File Server Bugs to its Known Explo
 The vulnerabilities added include CVE-2024-23692 affecting Rejetto HTTP File Server, CVE-2024-38080 impacting Windows Hyper-V, and CVE-2024-38112 targeting Windows MSHTML Platform.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2024
+July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>`
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ticket Heist Network of 700 Domains Sells Fake Olympic Games Tickets<a href="https://www.bleepingcomputer.com/news/security/ticket-heist-network-of-700-domains-sells-fake-olympic-games-tickets/?&web_view=true"> Full Text</a>
@@ -124,13 +276,13 @@ Ticket Heist Network of 700 Domains Sells Fake Olympic Games Tickets<a href="htt
 QuoIntelligence discovered the operation called Ticket Heist, with convincing websites selling fake Olympic tickets. The prices on these websites are much higher than the official ones.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2024
+July 10, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Senate NDAA 2025 Boosts Military Cyber and AI Initiatives<a href="https://www.bankinfosecurity.com/senate-ndaa-2025-boosts-military-cyber-ai-initiatives-a-25731?&web_view=true"> Full Text</a>
@@ -140,13 +292,13 @@ US Senate NDAA 2025 Boosts Military Cyber and AI Initiatives<a href="https://www
 The Senate Armed Services Committee presented the NDAA for fiscal year 2025, totaling $923.3 billion for defense funding. This includes $878.4 billion for the Pentagon and $33.4 billion for national security programs under the Department of Energy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2024
+July 10, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft July 2024 Patch Tuesday Fixes 142 Flaws, 4 Zero-Days<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2024-patch-tuesday-fixes-142-flaws-4-zero-days/?&web_view=true"> Full Text</a>
@@ -156,13 +308,13 @@ Microsoft July 2024 Patch Tuesday Fixes 142 Flaws, 4 Zero-Days<a href="https://w
 As part of Microsoft's July 2024 Patch Tuesday, 142 flaws were addressed, including two zero-days actively exploited and two publicly disclosed. Five critical vulnerabilities were fixed, all related to remote code execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2024
+July 10, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crypto Thefts Double to $1.4 Billion, TRM Labs Finds<a href="https://www.infosecurity-magazine.com/news/crypto-thefts-double-2024-trm-labs/?&web_view=true"> Full Text</a>
@@ -172,13 +324,13 @@ Crypto Thefts Double to $1.4 Billion, TRM Labs Finds<a href="https://www.infosec
 Cryptocurrency exchange hacks and exploits are on the rise, with $1.38bn stolen in the first half of 2024, double the amount stolen in 2023. While it is lower than the record-breaking $2bn stolen in 2022, the surge may be due to higher token prices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 10, 2024
+July 10, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Blast RADIUS Attack can Bypass Authentication for Clients<a href="https://www.theregister.com/2024/07/10/radius_critical_vulnerability/?&web_view=true"> Full Text</a>
@@ -188,7 +340,7 @@ Blast RADIUS Attack can Bypass Authentication for Clients<a href="https://www.th
 This vulnerability, known as Blast RADIUS and rated 7.5 out of 10 on the severity scale, affects the RADIUS networking protocol, potentially granting unauthorized access to network devices and services without credentials.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
