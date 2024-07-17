@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEXi Ransomware Rebrands as 'APT Inc.,' Retains Prior Extortion Tactics<a href="https://www.darkreading.com/threat-intelligence/sexi-ransomware-rebrands-maintains-original-methods-of-operation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercrime group known as SEXi ransomware, now operating as APT Inc., has been targeting organizations since February. They use a leaked Babuk encryptor for VMware ESXi servers and LockBit 3 encryptor for Windows servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HardBit Ransomware Version 4.0 Supports New Obfuscation Techniques<a href="https://securityaffairs.com/165735/malware/hardbit-ransomware-version-4-0.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To ensure victims cannot recover encrypted files easily, the ransomware deletes the Volume Shadow Copy Service (VSS) and makes adjustments to the boot configuration to prevent errors upon restart.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

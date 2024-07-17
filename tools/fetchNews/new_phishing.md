@@ -8,6 +8,48 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HR-Themed Phishing Campaign Targets Employees to Steal Microsoft Credentials<a href="https://cofense.com/blog/beware-of-the-latest-phishing-tactic-targeting-employees/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent phishing attempt, Cofense researchers spotted an email disguised as a communication from a company's HR department, prompting recipients to review an updated employee handbook.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Ads for Windows Desktop Themes Push Info-Stealing Malware<a href="https://www.bleepingcomputer.com/news/security/facebook-ads-for-windows-themes-push-sys01-info-stealing-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors take out ads for Windows themes, free game downloads, and software cracks for apps like Photoshop and Microsoft Office. These ads are shared through new or hijacked Facebook business pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Exploit URL Protections to Disguise Phishing Links<a href="https://www.infosecurity-magazine.com/news/attackers-exploit-url-protections/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing campaigns are utilizing three different URL protection services to disguise phishing URLs and trick victims into giving up their credentials. These attacks have targeted numerous companies already.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

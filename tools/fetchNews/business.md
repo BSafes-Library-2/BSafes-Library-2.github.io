@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cytactic Raises $16M in Seed Funding<a href="https://www.finsmes.com/2024/07/cytactic-raises-16m-in-seed-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cytactic, an Israel-based provider of a platform pioneering cyber crisis readiness and management, raised $16M in a seed funding round led by Evolution Equity Partners. It intends to use the funds to expand operations and development efforts.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

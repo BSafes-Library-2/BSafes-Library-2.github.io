@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+July 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japanese Space Agency Spots Unspecified Zero-Day Attacks<a href="https://www.theregister.com/2024/07/11/jaxa_m365_zeroday_attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+JAXA was targeted with zero-day exploits during its investigation with Microsoft into a 2023 cyberattack. The attack mainly affected its Active Directory system, prompting JAXA to shut down networks to prevent data compromise.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Japan Warns of Attacks Linked to North Korean Kimsuky Hackers<a href="https://www.bleepingcomputer.com/news/security/japan-warns-of-attacks-linked-to-north-korean-kimsuky-hackers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks were detected earlier this year, with indicators of compromise shared by AhnLab Security Intelligence Center. The attackers initiate their attacks with phishing emails containing malicious attachments disguised as documents.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

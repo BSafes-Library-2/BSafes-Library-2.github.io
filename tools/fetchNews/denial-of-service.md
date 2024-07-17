@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+July 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Macau Government Websites Hit with Cyberattack by Suspected Foreign Hackers<a href="https://therecord.media/macau-government-websites-hit-with-cyberattack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack, identified as a distributed denial-of-service attack (DDoS), affected websites of security services, police, fire and rescue services, and the academy for public security forces.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
