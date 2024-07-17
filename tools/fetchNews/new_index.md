@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2024
+July 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HR-Themed Phishing Campaign Targets Employees to Steal Microsoft Credentials<a href="https://cofense.com/blog/beware-of-the-latest-phishing-tactic-targeting-employees/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a recent phishing attempt, Cofense researchers spotted an email disguised as a communication from a company's HR department, prompting recipients to review an updated employee handbook.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Facebook Ads for Windows Desktop Themes Push Info-Stealing Malware<a href="https://www.bleepingcomputer.com/news/security/facebook-ads-for-windows-themes-push-sys01-info-stealing-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat actors take out ads for Windows themes, free game downloads, and software cracks for apps like Photoshop and Microsoft Office. These ads are shared through new or hijacked Facebook business pages.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Void Banshee Targets Windows Users Through MSHTML Flaw to Spread Atlantida Stealer<a href="https://www.trendmicro.com/en_us/research/24/g/CVE-2024-38112-void-banshee.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, CVE-2024-38112, was observed by Trend Micro in May 2024, being exploited as part of a multi-stage attack chain using internet shortcut files. The campaign has been active throughout 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SEXi Ransomware Rebrands as 'APT Inc.,' Retains Prior Extortion Tactics<a href="https://www.darkreading.com/threat-intelligence/sexi-ransomware-rebrands-maintains-original-methods-of-operation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The cybercrime group known as SEXi ransomware, now operating as APT Inc., has been targeting organizations since February. They use a leaked Babuk encryptor for VMware ESXi servers and LockBit 3 encryptor for Windows servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Exploit URL Protections to Disguise Phishing Links<a href="https://www.infosecurity-magazine.com/news/attackers-exploit-url-protections/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Phishing campaigns are utilizing three different URL protection services to disguise phishing URLs and trick victims into giving up their credentials. These attacks have targeted numerous companies already.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ShadowRoot Ransomware Targets Turkish Businesses<a href="https://securityonline.info/shadowroot-ransomware-targets-turkish-businesses/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers target Turkish businesses with this ransomware campaign, distributing it via email addresses like Kurumsal[.]tasilat[@]internet[.]ru. The malware payload is hosted on a compromised GitHub account.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HardBit Ransomware Version 4.0 Supports New Obfuscation Techniques<a href="https://securityaffairs.com/165735/malware/hardbit-ransomware-version-4-0.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+To ensure victims cannot recover encrypted files easily, the ransomware deletes the Volume Shadow Copy Service (VSS) and makes adjustments to the boot configuration to prevent errors upon restart.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DNS Hijacks Target Cryptocurrency Platforms Registered With Squarespace<a href="https://www.bleepingcomputer.com/news/security/dns-hijacks-target-crypto-platforms-registered-with-squarespace/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A coordinated wave of DNS hijacking attacks recently targeted decentralized finance (DeFi) cryptocurrency domains. Attackers used the Squarespace registrar to redirect visitors to phishing sites that aimed to steal cryptocurrency and NFTs.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Risk Related to Non-Human Identities: Believe the Hype, Reject the FUD<a href="https://www.helpnetsecurity.com/2024/07/15/non-human-identities-nhi-risk/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The hype surrounding non-human identities (NHIs) has recently increased due to the risk they pose, with breaches causing fear, uncertainty, and doubt. With NHIs outnumbering human identities, the associated risks need to be addressed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 16, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Realm: Open-Source Adversary Emulation Framework<a href="https://www.helpnetsecurity.com/2024/07/15/realm-open-source-adversary-emulation-framework/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Realm is an open-source adversary emulation framework focused on scalability, reliability, and automation. It features a custom interpreter in Rust, enabling the creation of complex TTPs as code.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 12, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japanese Space Agency Spots Unspecified Zero-Day Attacks<a href="https://www.theregister.com/2024/07/11/jaxa_m365_zeroday_attacks/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Japanese Space Agency Spots Unspecified Zero-Day Attacks<a href="https://www.the
 JAXA was targeted with zero-day exploits during its investigation with Microsoft into a 2023 cyberattack. The attack mainly affected its Active Directory system, prompting JAXA to shut down networks to prevent data compromise.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2024
+July 12, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Macau Government Websites Hit with Cyberattack by Suspected Foreign Hackers<a href="https://therecord.media/macau-government-websites-hit-with-cyberattack?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Macau Government Websites Hit with Cyberattack by Suspected Foreign Hackers<a hr
 The attack, identified as a distributed denial-of-service attack (DDoS), affected websites of security services, police, fire and rescue services, and the academy for public security forces.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2024
+July 12, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Japan Warns of Attacks Linked to North Korean Kimsuky Hackers<a href="https://www.bleepingcomputer.com/news/security/japan-warns-of-attacks-linked-to-north-korean-kimsuky-hackers/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Japan Warns of Attacks Linked to North Korean Kimsuky Hackers<a href="https://ww
 The attacks were detected earlier this year, with indicators of compromise shared by AhnLab Security Intelligence Center. The attackers initiate their attacks with phishing emails containing malicious attachments disguised as documents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2024
+July 12, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Stark Truth Behind the Resurgence of Russia’s FIN7<a href="https://krebsonsecurity.com/2024/07/the-stark-truth-behind-the-resurgence-of-russias-fin7/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ The Stark Truth Behind the Resurgence of Russia’s FIN7<a href="https://krebson
 FIN7, a cybercrime group responsible for billions in losses, was dismantled by U.S. authorities in 2023. However, they resurfaced in 2024 with Stark Industries Solutions, hosting thousands of fake websites mimicking renowned companies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Krebs On Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2024
+July 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple Threat Actors Exploit PHP Flaw CVE-2024-4577 to Deliver Malware<a href="https://securityaffairs.com/165586/hacking/php-flaw-cve-2024-4577-actively-exploited.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Multiple Threat Actors Exploit PHP Flaw CVE-2024-4577 to Deliver Malware<a href=
 The PHP vulnerability, tracked as CVE-2024-4577, with a CVSS score of 9.8, allows attackers to execute commands on Windows systems using Chinese and Japanese language settings.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2024
+July 12, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Gangs Invest in Custom Data Stealing Malware<a href="https://www.theregister.com/2024/07/10/ransomware_data_exfil_malware/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Ransomware Gangs Invest in Custom Data Stealing Malware<a href="https://www.ther
 Ransomware gangs are now creating custom data-stealing malware instead of just encrypting files. Mature crime organizations are investing in bespoke data theft tools, according to a Cisco Talos report on the top 14 ransomware groups.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2024
+July 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Veeam Flaw Becomes Ransomware Vector a Year After Patching<a href="https://www.theregister.com/2024/07/11/estate_ransomware_veeam_bug/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Veeam Flaw Becomes Ransomware Vector a Year After Patching<a href="https://www.t
 A new ransomware gang known as EstateRansomware is exploiting a Veeam vulnerability that was patched over a year ago to spread file-encrypting malware and demand ransom payments.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2024
+July 12, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cytactic Raises $16M in Seed Funding<a href="https://www.finsmes.com/2024/07/cytactic-raises-16m-in-seed-funding.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Cytactic Raises $16M in Seed Funding<a href="https://www.finsmes.com/2024/07/cyt
 Cytactic, an Israel-based provider of a platform pioneering cyber crisis readiness and management, raised $16M in a seed funding round led by Evolution Equity Partners. It intends to use the funds to expand operations and development efforts.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Finsmes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 12, 2024
+July 12, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploring Compiled V8 JavaScript Usage in Malware<a href="https://research.checkpoint.com/2024/exploring-compiled-v8-javascript-usage-in-malware/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Exploring Compiled V8 JavaScript Usage in Malware<a href="https://research.check
 Compiled V8 JavaScript in Google's engine converts JavaScript into low-level bytecode, making analysis and detection difficult. Attacks using this bytecode ensure compatibility with the V8 engine for successful execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CheckPoint
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 11, 2024
+July 11, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BunkerWeb: Open-Source Web Application Firewall (WAF)<a href="https://www.helpnetsecurity.com/2024/07/10/bunkerweb-open-source-web-application-firewall-waf/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ BunkerWeb: Open-Source Web Application Firewall (WAF)<a href="https://www.helpne
 The genesis of BunkerWeb came from the need to apply security practices manually every time a web application was put online. The solution meets global needs with a modular architecture allowing for extensions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
