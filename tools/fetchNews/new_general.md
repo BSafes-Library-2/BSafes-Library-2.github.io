@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+July 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Nearly One in Three Software Development Professionals Unaware of Secure Practices<a href="https://www.cybersecuritydive.com/news/1-in-3-software-unaware-secure-practice/721481/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One-third of software development professionals lack awareness of secure practices, according to a report by the Linux Foundation and the Open Source Security Foundation.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Paris 2024 Olympics to Face Complex Cyber Threats<a href="https://www.helpnetsecurity.com/2024/07/16/france-olympic-games-2024-cybersecurity-services-spending/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Paris 2024 Olympics are expected to face a significant increase in cyber threats, with IDC predicting the Games will encounter a complex threat landscape and a large ecosystem of threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Leak Site Posts Jumped 20% in Q2<a href="https://www.cybersecuritydive.com/news/ransomware-leak-site-increase/721480/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Reliaquest, ransomware incidents surged in Q2, with 1,237 organizations listed on data leak sites, a 20% increase from Q1. U.S. businesses were hit the hardest, accounting for over half of the victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

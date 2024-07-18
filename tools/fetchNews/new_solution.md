@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+July 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firmware Update Hides Bluetooth Fingerprints<a href="https://www.helpnetsecurity.com/2024/07/16/firmware-hide-bluetooth-fingerprint/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers from the University of California San Diego has developed a firmware update to hide a smartphone's unique Bluetooth fingerprint, which can be used to track the user.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
