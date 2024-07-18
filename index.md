@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WP Time Capsule Plugin Update Urged After Critical Security Flaw<a href="https://www.infosecurity-magazine.com/news/wp-time-capsule-plugin-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By exploiting this flaw, attackers could bypass critical authentication checks, manipulating JSON-encoded POST data to elevate their privileges and effectively log in as site administrators.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Nearly One in Three Software Development Professionals Unaware of Secure Practices<a href="https://www.cybersecuritydive.com/news/1-in-3-software-unaware-secure-practice/721481/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+One-third of software development professionals lack awareness of secure practices, according to a report by the Linux Foundation and the Open Source Security Foundation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Konfety” Mobile Ad Fraud Campaign Found Using Unique Obfuscation Method<a href="https://www.humansecurity.com/learn/blog/the-partys-over-humans-satori-threat-intelligence-and-research-team-cleans-up-konfety-mobile-ad-fraud-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive ad fraud operation known as Konfety is using over 250 Google Play decoy apps to hide malicious twins. The campaign leverages a mobile advertising SDK linked to a Russia-based ad network named CaramelAds.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaspersky to Quit US This Weekend<a href="https://www.infosecurity-magazine.com/news/kaspersky-to-quit-us/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky, the Russian cybersecurity vendor, is winding down its operations in the US due to a Commerce Department decision prohibiting the sale of its products and services in the country.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivist Groups Target Romania Amid Geopolitical Tensions<a href="https://www.infosecurity-magazine.com/news/hacktivist-groups-target-romania/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacktivist groups are targeting Romania amidst geopolitical tensions, with increased DDoS attacks observed by security researchers. These attacks involve CyberDragon and the Cyber Army of Russia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tether Freezes $29 Million of Cryptocurrency Connected To Cambodian Marketplace Accused of Fueling Scams<a href="https://therecord.media/tether-freezes-29-million-crypto-connected-to-scam-marketplace?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Tether has frozen $29 million of cryptocurrency linked to a Cambodian marketplace accused of supporting scams. Tether confirmed the freeze, citing concerns about fraudulent and criminal activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Firmware Update Hides Bluetooth Fingerprints<a href="https://www.helpnetsecurity.com/2024/07/16/firmware-hide-bluetooth-fingerprint/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A team of researchers from the University of California San Diego has developed a firmware update to hide a smartphone's unique Bluetooth fingerprint, which can be used to track the user.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Paris 2024 Olympics to Face Complex Cyber Threats<a href="https://www.helpnetsecurity.com/2024/07/16/france-olympic-games-2024-cybersecurity-services-spending/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Paris 2024 Olympics are expected to face a significant increase in cyber threats, with IDC predicting the Games will encounter a complex threat landscape and a large ecosystem of threat actors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake AWS Packages Ship Command and Control Malware in JPEG Files<a href="https://blog.phylum.io/fake-aws-packages-ship-command-and-control-malware-in-jpeg-files/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The two malicious packages, img-aws-s3-object-multipart-copy and legacyaws-s3-object-multipart-copy, were downloaded 190 and 48 times, respectively, before being removed by npm security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Leak Site Posts Jumped 20% in Q2<a href="https://www.cybersecuritydive.com/news/ransomware-leak-site-increase/721480/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Reliaquest, ransomware incidents surged in Q2, with 1,237 organizations listed on data leak sites, a 20% increase from Q1. U.S. businesses were hit the hardest, accounting for over half of the victims.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 16, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
