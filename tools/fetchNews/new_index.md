@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2024
+July 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT41 Has Arisen From the DUST<a href="https://cloud.google.com/blog/topics/threat-intelligence/apt41-arisen-from-dust?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+APT41, a China-based hacking group, has targeted organizations in shipping, logistics, media, technology, and automotive sectors in Italy, Spain, Taiwan, Thailand, Turkey, and the U.K. since 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OilAlpha Malicious Applications Target Humanitarian Aid Groups Operating in Yemen<a href="https://www.recordedfuture.com/research/oilalpha-spyware-used-to-target-humanitarian-aid-groups?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks, linked to a group called OilAlpha, involved malicious mobile apps and targeted CARE International, Norwegian Refugee Council (NRC), and Saudi Arabian King Salman Humanitarian Aid and Relief Centre.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Play Ransomware Linux Variant Targets ESXi Shows Ties With Prolific Puma<a href="https://www.trendmicro.com/en_us/research/24/g/new-play-ransomware-linux-variant-targets-esxi-shows-ties-with-p.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware group has introduced a Linux variant that targets ESXi environments. This variant verifies its environment before executing and has been successful in evading security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers May Have Attacked Indian Crypto Exchange WazirX<a href="https://www.theregister.com/2024/07/19/wasirx_pauses_trade/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indian crypto exchange WazirX disclosed a loss of virtual assets worth more than $230 million due to a cyber attack linked to North Korea. The attack targeted a multi-signature wallet with six signatories, leading to a breach in security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Data Breach Victim Numbers Surge 1170% Annually<a href="https://www.infosecurity-magazine.com/news/us-data-breach-victims-surge-1170/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of US data breach victims in Q2 2024 increased annually by over 1000%, despite a 12% decrease in the actual number of incidents in those three months, according to the Identity Theft Resource Center (ITRC).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Larger Deals Propel Cybersecurity Funding to Two-Year High in Q2 2024<a href="https://www.cybersecuritydive.com/news/funding-hits-2-year-high/721748/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Crunchbase data, cybersecurity funding reached a two-year high in Q2 of 2024, with venture capitalists investing $4.4 billion in startups, the strongest quarter since 2022. This marked a 144% increase from the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Splunk Flaw can be Exploited to Grab Passwords<a href="https://www.helpnetsecurity.com/2024/07/18/cve-2024-36991-poc/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability (CVE-2024-36991) in Splunk Enterprise on Windows is considered more severe than initially thought, allowing attackers to grab passwords. Various proof-of-concept exploits have been published.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical TE.0 HTTP Request Smuggling Vulnerability Impacts Thousands of Google Cloud-hosted Websites<a href="https://www.bugcrowd.com/blog/unveiling-te-0-http-request-smuggling-discovering-a-critical-vulnerability-in-thousands-of-google-cloud-websites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This new class of HTTP Request Smuggling vulnerabilities poses a significant risk to thousands of websites, including those protected by Google's Load Balancer and Identity-Aware Proxy (IAP).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Spincaster Targets Crypto Pig-Butchering Scams<a href="https://www.bankinfosecurity.com/operation-spincaster-targets-crypto-pig-butchering-scams-a-25800?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operation Spincaster, involving law enforcement and government agencies across six countries, as well as 17 cryptocurrency exchanges, has identified 7,000 leads and $162 million in losses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hacker Group Uses Open-Source Tools to Spy on Entities in Asia-Pacific Region<a href="https://therecord.media/tag-100-espionage-hacking-backdoors-asia-pacific?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Targets of TAG-100's attacks include intergovernmental and diplomatic entities in the Asia-Pacific region, religious organizations in the U.S. and Taiwan, as well as a political party supporting an investigation into the Chinese government.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WP Time Capsule Plugin Update Urged After Critical Security Flaw<a href="https://www.infosecurity-magazine.com/news/wp-time-capsule-plugin-flaw/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ WP Time Capsule Plugin Update Urged After Critical Security Flaw<a href="https:/
 By exploiting this flaw, attackers could bypass critical authentication checks, manipulating JSON-encoded POST data to elevate their privileges and effectively log in as site administrators.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2024
+July 17, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Nearly One in Three Software Development Professionals Unaware of Secure Practices<a href="https://www.cybersecuritydive.com/news/1-in-3-software-unaware-secure-practice/721481/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Report: Nearly One in Three Software Development Professionals Unaware of Secure
 One-third of software development professionals lack awareness of secure practices, according to a report by the Linux Foundation and the Open Source Security Foundation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2024
+July 17, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 “Konfety” Mobile Ad Fraud Campaign Found Using Unique Obfuscation Method<a href="https://www.humansecurity.com/learn/blog/the-partys-over-humans-satori-threat-intelligence-and-research-team-cleans-up-konfety-mobile-ad-fraud-campaign?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ July 17, 2024
 A massive ad fraud operation known as Konfety is using over 250 Google Play decoy apps to hide malicious twins. The campaign leverages a mobile advertising SDK linked to a Russia-based ad network named CaramelAds.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Human Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2024
+July 17, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kaspersky to Quit US This Weekend<a href="https://www.infosecurity-magazine.com/news/kaspersky-to-quit-us/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Kaspersky to Quit US This Weekend<a href="https://www.infosecurity-magazine.com/
 Kaspersky, the Russian cybersecurity vendor, is winding down its operations in the US due to a Commerce Department decision prohibiting the sale of its products and services in the country.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2024
+July 17, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hacktivist Groups Target Romania Amid Geopolitical Tensions<a href="https://www.infosecurity-magazine.com/news/hacktivist-groups-target-romania/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Hacktivist Groups Target Romania Amid Geopolitical Tensions<a href="https://www.
 Hacktivist groups are targeting Romania amidst geopolitical tensions, with increased DDoS attacks observed by security researchers. These attacks involve CyberDragon and the Cyber Army of Russia.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2024
+July 17, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tether Freezes $29 Million of Cryptocurrency Connected To Cambodian Marketplace Accused of Fueling Scams<a href="https://therecord.media/tether-freezes-29-million-crypto-connected-to-scam-marketplace?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Tether Freezes $29 Million of Cryptocurrency Connected To Cambodian Marketplace 
 Tether has frozen $29 million of cryptocurrency linked to a Cambodian marketplace accused of supporting scams. Tether confirmed the freeze, citing concerns about fraudulent and criminal activities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2024
+July 17, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Firmware Update Hides Bluetooth Fingerprints<a href="https://www.helpnetsecurity.com/2024/07/16/firmware-hide-bluetooth-fingerprint/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Firmware Update Hides Bluetooth Fingerprints<a href="https://www.helpnetsecurity
 A team of researchers from the University of California San Diego has developed a firmware update to hide a smartphone's unique Bluetooth fingerprint, which can be used to track the user.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2024
+July 17, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Paris 2024 Olympics to Face Complex Cyber Threats<a href="https://www.helpnetsecurity.com/2024/07/16/france-olympic-games-2024-cybersecurity-services-spending/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Paris 2024 Olympics to Face Complex Cyber Threats<a href="https://www.helpnetsec
 Paris 2024 Olympics are expected to face a significant increase in cyber threats, with IDC predicting the Games will encounter a complex threat landscape and a large ecosystem of threat actors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2024
+July 17, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake AWS Packages Ship Command and Control Malware in JPEG Files<a href="https://blog.phylum.io/fake-aws-packages-ship-command-and-control-malware-in-jpeg-files/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Fake AWS Packages Ship Command and Control Malware in JPEG Files<a href="https:/
 The two malicious packages, img-aws-s3-object-multipart-copy and legacyaws-s3-object-multipart-copy, were downloaded 190 and 48 times, respectively, before being removed by npm security.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Phylum
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 17, 2024
+July 17, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Leak Site Posts Jumped 20% in Q2<a href="https://www.cybersecuritydive.com/news/ransomware-leak-site-increase/721480/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Ransomware Leak Site Posts Jumped 20% in Q2<a href="https://www.cybersecuritydiv
 According to Reliaquest, ransomware incidents surged in Q2, with 1,237 organizations listed on data leak sites, a 20% increase from Q1. U.S. businesses were hit the hardest, accounting for over half of the victims.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -204,7 +364,7 @@ HR-Themed Phishing Campaign Targets Employees to Steal Microsoft Credentials<a h
 In a recent phishing attempt, Cofense researchers spotted an email disguised as a communication from a company's HR department, prompting recipients to review an updated employee handbook.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cofense
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -220,7 +380,7 @@ Facebook Ads for Windows Desktop Themes Push Info-Stealing Malware<a href="https
 The threat actors take out ads for Windows themes, free game downloads, and software cracks for apps like Photoshop and Microsoft Office. These ads are shared through new or hijacked Facebook business pages.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -236,7 +396,7 @@ Void Banshee Targets Windows Users Through MSHTML Flaw to Spread Atlantida Steal
 The vulnerability, CVE-2024-38112, was observed by Trend Micro in May 2024, being exploited as part of a multi-stage attack chain using internet shortcut files. The campaign has been active throughout 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -252,7 +412,7 @@ SEXi Ransomware Rebrands as 'APT Inc.,' Retains Prior Extortion Tactics<a href="
 The cybercrime group known as SEXi ransomware, now operating as APT Inc., has been targeting organizations since February. They use a leaked Babuk encryptor for VMware ESXi servers and LockBit 3 encryptor for Windows servers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -268,7 +428,7 @@ Attackers Exploit URL Protections to Disguise Phishing Links<a href="https://www
 Phishing campaigns are utilizing three different URL protection services to disguise phishing URLs and trick victims into giving up their credentials. These attacks have targeted numerous companies already.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -284,7 +444,7 @@ ShadowRoot Ransomware Targets Turkish Businesses<a href="https://securityonline.
 The attackers target Turkish businesses with this ransomware campaign, distributing it via email addresses like Kurumsal[.]tasilat[@]internet[.]ru. The malware payload is hosted on a compromised GitHub account.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -300,7 +460,7 @@ HardBit Ransomware Version 4.0 Supports New Obfuscation Techniques<a href="https
 To ensure victims cannot recover encrypted files easily, the ransomware deletes the Volume Shadow Copy Service (VSS) and makes adjustments to the boot configuration to prevent errors upon restart.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -316,7 +476,7 @@ DNS Hijacks Target Cryptocurrency Platforms Registered With Squarespace<a href="
 A coordinated wave of DNS hijacking attacks recently targeted decentralized finance (DeFi) cryptocurrency domains. Attackers used the Squarespace registrar to redirect visitors to phishing sites that aimed to steal cryptocurrency and NFTs.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -332,7 +492,7 @@ Risk Related to Non-Human Identities: Believe the Hype, Reject the FUD<a href="h
 The hype surrounding non-human identities (NHIs) has recently increased due to the risk they pose, with breaches causing fear, uncertainty, and doubt. With NHIs outnumbering human identities, the associated risks need to be addressed.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
@@ -348,7 +508,7 @@ Realm: Open-Source Adversary Emulation Framework<a href="https://www.helpnetsecu
 Realm is an open-source adversary emulation framework focused on scalability, reliability, and automation. It features a custom interpreter in Rust, enabling the creation of complex TTPs as code.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
