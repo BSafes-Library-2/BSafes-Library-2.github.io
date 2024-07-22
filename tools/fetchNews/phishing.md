@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+“Konfety” Mobile Ad Fraud Campaign Found Using Unique Obfuscation Method<a href="https://www.humansecurity.com/learn/blog/the-partys-over-humans-satori-threat-intelligence-and-research-team-cleans-up-konfety-mobile-ad-fraud-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A massive ad fraud operation known as Konfety is using over 250 Google Play decoy apps to hide malicious twins. The campaign leverages a mobile advertising SDK linked to a Russia-based ad network named CaramelAds.
+</details>
+<div style="text-align: right" markdown="1">
+Human Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

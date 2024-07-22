@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+July 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation Spincaster Targets Crypto Pig-Butchering Scams<a href="https://www.bankinfosecurity.com/operation-spincaster-targets-crypto-pig-butchering-scams-a-25800?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Operation Spincaster, involving law enforcement and government agencies across six countries, as well as 17 cryptocurrency exchanges, has identified 7,000 leads and $162 million in losses.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

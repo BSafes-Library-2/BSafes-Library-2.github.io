@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hacktivist Groups Target Romania Amid Geopolitical Tensions<a href="https://www.infosecurity-magazine.com/news/hacktivist-groups-target-romania/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hacktivist groups are targeting Romania amidst geopolitical tensions, with increased DDoS attacks observed by security researchers. These attacks involve CyberDragon and the Cyber Army of Russia.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

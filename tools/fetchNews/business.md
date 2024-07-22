@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kaspersky to Quit US This Weekend<a href="https://www.infosecurity-magazine.com/news/kaspersky-to-quit-us/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kaspersky, the Russian cybersecurity vendor, is winding down its operations in the US due to a Commerce Department decision prohibiting the sale of its products and services in the country.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+July 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+OilAlpha Malicious Applications Target Humanitarian Aid Groups Operating in Yemen<a href="https://www.recordedfuture.com/research/oilalpha-spyware-used-to-target-humanitarian-aid-groups?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks, linked to a group called OilAlpha, involved malicious mobile apps and targeted CARE International, Norwegian Refugee Council (NRC), and Saudi Arabian King Salman Humanitarian Aid and Relief Centre.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers May Have Attacked Indian Crypto Exchange WazirX<a href="https://www.theregister.com/2024/07/19/wasirx_pauses_trade/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Indian crypto exchange WazirX disclosed a loss of virtual assets worth more than $230 million due to a cyber attack linked to North Korea. The attack targeted a multi-signature wallet with six signatories, leading to a breach in security measures.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Hacker Group Uses Open-Source Tools to Spy on Entities in Asia-Pacific Region<a href="https://therecord.media/tag-100-espionage-hacking-backdoors-asia-pacific?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Targets of TAG-100's attacks include intergovernmental and diplomatic entities in the Asia-Pacific region, religious organizations in the U.S. and Taiwan, as well as a political party supporting an investigation into the Chinese government.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
