@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2024
+July 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Grand Theft Auto VI Beta Download Spreads Malware<a href="https://hackread.com/grand-theft-auto-fake-gta-vi-beta-download-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender researchers found suspicious Facebook ads promoting fake beta versions for free download on PC. These ads promise early access to a non-existent GTA VI beta with attractive features and release dates, using stolen gameplay footage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Nationals Plead Guilty to Participating in the LockBit Ransomware Group<a href="https://securityaffairs.com/165941/cyber-crime/lockbit-ransomware-group-members-plead-guilty.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Russian nationals, Ruslan Magomedovich Astamirov and Mikhail Vasiliev, pleaded guilty in a federal court in Newark for their roles in the LockBit ransomware operation.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Linux Kernel Azure Vulnerabilities Fixed in Ubuntu<a href="https://tuxcare.com/blog/several-linux-kernel-azure-vulnerabilities-fixed-in-ubuntu/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canonical released security updates to fix various vulnerabilities in the Linux kernel for Microsoft Azure Cloud systems on Ubuntu 16.04 ESM and Ubuntu 18.04 ESM. These flaws could lead to denial of service, data leakage, or arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Arrests Suspected Scattered Spider Hacker Linked to MGM Attack<a href="https://www.bleepingcomputer.com/news/security/uk-arrests-suspected-scattered-spider-hacker-linked-to-mgm-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 17-year-old boy from Walsall has been arrested by UK police for his involvement in the 2023 MGM Resorts ransomware attack, connected to the Scattered Spider hacking group. The arrest was made with assistance from the NCA and the FBI.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Abuse Swap File to Steal Credit Cards<a href="https://blog.sucuri.net/2024/07/attackers-abuse-swap-file-to-steal-credit-cards.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers recently abused the swap file in a Magento e-commerce site to steal credit card information. Despite multiple cleanup attempts, the malware persisted until analysts discovered it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analyzing Container Escape Techniques in Cloud Environments<a href="https://unit42.paloaltonetworks.com/container-escape-techniques/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While containers offer efficiency, they are vulnerable to attacks exploiting misconfigurations. Attackers can execute code or escalate privileges, endangering organizational security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sanctions Two Members of Russian ‘Cyber Army’ Hacktivist Group<a href="https://therecord.media/cyber-army-russia-us-sanctions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. sanctioned two members of the Russian hacktivist group Cyber Army of Russia Reborn (CARR) for carrying out cyber operations against critical U.S. infrastructure. CARR has launched low-impact DDoS attacks in Ukraine and its allies since 2022.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake CrowdStrike Fixes Target Companies With Malware, Data Wipers<a href="https://www.bleepingcomputer.com/news/security/fake-crowdstrike-fixes-target-companies-with-malware-data-wipers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious campaigns have emerged, including one targeting BBVA bank customers with a fake CrowdStrike Hotfix that installs remote access tools. Another attack involves a data wiper distributed under the guise of a CrowdStrike update.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China Claims Volt Typhoon was a False Flag Inside Job Conspiracy<a href="https://www.theregister.com/2024/07/19/volt_typhoon_china_theory/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beijing has claimed that the Volt Typhoon attack gang, accused by Five Eyes nations of being a Beijing-backed threat to critical infrastructure, was actually fabricated by the US intelligence community.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Says Malicious Hackers are 'Taking Advantage' of CrowdStrike Outage<a href="https://techcrunch.com/2024/07/19/us-cyber-agency-cisa-says-malicious-hackers-are-taking-advantage-of-crowdstrike-outage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. cybersecurity agency CISA warned against clicking on suspicious links to prevent email compromise. Cybercriminals are already impersonating CrowdStrike in phishing emails, asking for payment to "fix the CrowdStrike apocalypse."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 20, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 APT41 Has Arisen From the DUST<a href="https://cloud.google.com/blog/topics/threat-intelligence/apt41-arisen-from-dust?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ APT41 Has Arisen From the DUST<a href="https://cloud.google.com/blog/topics/thre
 APT41, a China-based hacking group, has targeted organizations in shipping, logistics, media, technology, and automotive sectors in Italy, Spain, Taiwan, Thailand, Turkey, and the U.K. since 2023.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Google
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2024
+July 20, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OilAlpha Malicious Applications Target Humanitarian Aid Groups Operating in Yemen<a href="https://www.recordedfuture.com/research/oilalpha-spyware-used-to-target-humanitarian-aid-groups?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ OilAlpha Malicious Applications Target Humanitarian Aid Groups Operating in Yeme
 The attacks, linked to a group called OilAlpha, involved malicious mobile apps and targeted CARE International, Norwegian Refugee Council (NRC), and Saudi Arabian King Salman Humanitarian Aid and Relief Centre.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Recorded Future
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2024
+July 20, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Play Ransomware Linux Variant Targets ESXi Shows Ties With Prolific Puma<a href="https://www.trendmicro.com/en_us/research/24/g/new-play-ransomware-linux-variant-targets-esxi-shows-ties-with-p.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ New Play Ransomware Linux Variant Targets ESXi Shows Ties With Prolific Puma<a h
 The Play ransomware group has introduced a Linux variant that targets ESXi environments. This variant verifies its environment before executing and has been successful in evading security measures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 20, 2024
+July 20, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers May Have Attacked Indian Crypto Exchange WazirX<a href="https://www.theregister.com/2024/07/19/wasirx_pauses_trade/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ North Korean Hackers May Have Attacked Indian Crypto Exchange WazirX<a href="htt
 Indian crypto exchange WazirX disclosed a loss of virtual assets worth more than $230 million due to a cyber attack linked to North Korea. The attack targeted a multi-signature wallet with six signatories, leading to a breach in security measures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2024
+July 19, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Data Breach Victim Numbers Surge 1170% Annually<a href="https://www.infosecurity-magazine.com/news/us-data-breach-victims-surge-1170/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ US Data Breach Victim Numbers Surge 1170% Annually<a href="https://www.infosecur
 The number of US data breach victims in Q2 2024 increased annually by over 1000%, despite a 12% decrease in the actual number of incidents in those three months, according to the Identity Theft Resource Center (ITRC).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magzaine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2024
+July 19, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Larger Deals Propel Cybersecurity Funding to Two-Year High in Q2 2024<a href="https://www.cybersecuritydive.com/news/funding-hits-2-year-high/721748/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Larger Deals Propel Cybersecurity Funding to Two-Year High in Q2 2024<a href="ht
 According to Crunchbase data, cybersecurity funding reached a two-year high in Q2 of 2024, with venture capitalists investing $4.4 billion in startups, the strongest quarter since 2022. This marked a 144% increase from the previous year.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2024
+July 19, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Splunk Flaw can be Exploited to Grab Passwords<a href="https://www.helpnetsecurity.com/2024/07/18/cve-2024-36991-poc/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Critical Splunk Flaw can be Exploited to Grab Passwords<a href="https://www.help
 A critical vulnerability (CVE-2024-36991) in Splunk Enterprise on Windows is considered more severe than initially thought, allowing attackers to grab passwords. Various proof-of-concept exploits have been published.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2024
+July 19, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical TE.0 HTTP Request Smuggling Vulnerability Impacts Thousands of Google Cloud-hosted Websites<a href="https://www.bugcrowd.com/blog/unveiling-te-0-http-request-smuggling-discovering-a-critical-vulnerability-in-thousands-of-google-cloud-websites/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Critical TE.0 HTTP Request Smuggling Vulnerability Impacts Thousands of Google C
 This new class of HTTP Request Smuggling vulnerabilities poses a significant risk to thousands of websites, including those protected by Google's Load Balancer and Identity-Aware Proxy (IAP).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bug Crowd
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2024
+July 19, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation Spincaster Targets Crypto Pig-Butchering Scams<a href="https://www.bankinfosecurity.com/operation-spincaster-targets-crypto-pig-butchering-scams-a-25800?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Operation Spincaster Targets Crypto Pig-Butchering Scams<a href="https://www.ban
 Operation Spincaster, involving law enforcement and government agencies across six countries, as well as 17 cryptocurrency exchanges, has identified 7,000 leads and $162 million in losses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 19, 2024
+July 19, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Hacker Group Uses Open-Source Tools to Spy on Entities in Asia-Pacific Region<a href="https://therecord.media/tag-100-espionage-hacking-backdoors-asia-pacific?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ New Hacker Group Uses Open-Source Tools to Spy on Entities in Asia-Pacific Regio
 Targets of TAG-100's attacks include intergovernmental and diplomatic entities in the Asia-Pacific region, religious organizations in the U.S. and Taiwan, as well as a political party supporting an investigation into the Chinese government.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
