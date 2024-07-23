@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Larger Deals Propel Cybersecurity Funding to Two-Year High in Q2 2024<a href="https://www.cybersecuritydive.com/news/funding-hits-2-year-high/721748/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Crunchbase data, cybersecurity funding reached a two-year high in Q2 of 2024, with venture capitalists investing $4.4 billion in startups, the strongest quarter since 2022. This marked a 144% increase from the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

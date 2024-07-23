@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+July 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Play Ransomware Linux Variant Targets ESXi Shows Ties With Prolific Puma<a href="https://www.trendmicro.com/en_us/research/24/g/new-play-ransomware-linux-variant-targets-esxi-shows-ties-with-p.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Play ransomware group has introduced a Linux variant that targets ESXi environments. This variant verifies its environment before executing and has been successful in evading security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Arrests Suspected Scattered Spider Hacker Linked to MGM Attack<a href="https://www.bleepingcomputer.com/news/security/uk-arrests-suspected-scattered-spider-hacker-linked-to-mgm-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 17-year-old boy from Walsall has been arrested by UK police for his involvement in the 2023 MGM Resorts ransomware attack, connected to the Scattered Spider hacking group. The arrest was made with assistance from the NCA and the FBI.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Grand Theft Auto VI Beta Download Spreads Malware<a href="https://hackread.com/grand-theft-auto-fake-gta-vi-beta-download-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender researchers found suspicious Facebook ads promoting fake beta versions for free download on PC. These ads promise early access to a non-existent GTA VI beta with attractive features and release dates, using stolen gameplay footage.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Nationals Plead Guilty to Participating in the LockBit Ransomware Group<a href="https://securityaffairs.com/165941/cyber-crime/lockbit-ransomware-group-members-plead-guilty.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two Russian nationals, Ruslan Magomedovich Astamirov and Mikhail Vasiliev, pleaded guilty in a federal court in Newark for their roles in the LockBit ransomware operation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Several Linux Kernel Azure Vulnerabilities Fixed in Ubuntu<a href="https://tuxcare.com/blog/several-linux-kernel-azure-vulnerabilities-fixed-in-ubuntu/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canonical released security updates to fix various vulnerabilities in the Linux kernel for Microsoft Azure Cloud systems on Ubuntu 16.04 ESM and Ubuntu 18.04 ESM. These flaws could lead to denial of service, data leakage, or arbitrary code execution.
+</details>
+<div style="text-align: right" markdown="1">
+TuxCare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK Arrests Suspected Scattered Spider Hacker Linked to MGM Attack<a href="https://www.bleepingcomputer.com/news/security/uk-arrests-suspected-scattered-spider-hacker-linked-to-mgm-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A 17-year-old boy from Walsall has been arrested by UK police for his involvement in the 2023 MGM Resorts ransomware attack, connected to the Scattered Spider hacking group. The arrest was made with assistance from the NCA and the FBI.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Abuse Swap File to Steal Credit Cards<a href="https://blog.sucuri.net/2024/07/attackers-abuse-swap-file-to-steal-credit-cards.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers recently abused the swap file in a Magento e-commerce site to steal credit card information. Despite multiple cleanup attempts, the malware persisted until analysts discovered it.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Analyzing Container Escape Techniques in Cloud Environments<a href="https://unit42.paloaltonetworks.com/container-escape-techniques/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While containers offer efficiency, they are vulnerable to attacks exploiting misconfigurations. Attackers can execute code or escalate privileges, endangering organizational security.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sanctions Two Members of Russian ‘Cyber Army’ Hacktivist Group<a href="https://therecord.media/cyber-army-russia-us-sanctions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. sanctioned two members of the Russian hacktivist group Cyber Army of Russia Reborn (CARR) for carrying out cyber operations against critical U.S. infrastructure. CARR has launched low-impact DDoS attacks in Ukraine and its allies since 2022.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake CrowdStrike Fixes Target Companies With Malware, Data Wipers<a href="https://www.bleepingcomputer.com/news/security/fake-crowdstrike-fixes-target-companies-with-malware-data-wipers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious campaigns have emerged, including one targeting BBVA bank customers with a fake CrowdStrike Hotfix that installs remote access tools. Another attack involves a data wiper distributed under the guise of a CrowdStrike update.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China Claims Volt Typhoon was a False Flag Inside Job Conspiracy<a href="https://www.theregister.com/2024/07/19/volt_typhoon_china_theory/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beijing has claimed that the Volt Typhoon attack gang, accused by Five Eyes nations of being a Beijing-backed threat to critical infrastructure, was actually fabricated by the US intelligence community.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Says Malicious Hackers are 'Taking Advantage' of CrowdStrike Outage<a href="https://techcrunch.com/2024/07/19/us-cyber-agency-cisa-says-malicious-hackers-are-taking-advantage-of-crowdstrike-outage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. cybersecurity agency CISA warned against clicking on suspicious links to prevent email compromise. Cybercriminals are already impersonating CrowdStrike in phishing emails, asking for payment to "fix the CrowdStrike apocalypse."
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 20, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

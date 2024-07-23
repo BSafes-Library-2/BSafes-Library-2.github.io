@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Data Breach Victim Numbers Surge 1170% Annually<a href="https://www.infosecurity-magazine.com/news/us-data-breach-victims-surge-1170/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of US data breach victims in Q2 2024 increased annually by over 1000%, despite a 12% decrease in the actual number of incidents in those three months, according to the Identity Theft Resource Center (ITRC).
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magzaine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
