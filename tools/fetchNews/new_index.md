@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2024
+July 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ConfusedFunction: A Privilege Escalation Vulnerability Impacting GCP Cloud Functions<a href="https://www.tenable.com/blog/confusedfunction-a-privilege-escalation-vulnerability-impacting-gcp-cloud-functions?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered a vulnerability in Google Cloud Platform's Cloud Functions service called ConfusedFunction. This flaw allows an attacker to escalate their privileges to access other services and sensitive data in an unauthorized manner.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hacker Group Targeting Healthcare, Energy Sectors<a href="https://www.bankinfosecurity.com/mandiant-north-korean-hackers-targeting-healthcare-energy-a-25845?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers, specifically the Andariel hacking group, are now targeting the healthcare, energy, and financial sectors according to a Mandiant report. This group is believed to be associated with North Korea's Reconnaissance General Bureau.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TransparentTribe’s Spear-Phishing Targeting Indian Government Departments<a href="https://nsfocusglobal.com/transparenttribes-spear-phishing-targeting-indian-government-departments/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious file, disguised as “Recommendation for the award of President’s.docm,” contained a VBA script that executed the CrimsonRAT remote control program, capable of stealing sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Accelerates Code Development Faster Than Security Teams can Keep up<a href="https://www.helpnetsecurity.com/2024/07/24/vulnerability-management-automation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a Seemplicity survey, AI is speeding up code development faster than security teams can keep up, leading to concerns about vulnerability management. 91% of organizations are increasing their security budgets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Docker Patches Critical AuthZ Plugin Bypass Vulnerability Dating Back to 2018<a href="https://www.docker.com/blog/docker-security-advisory-docker-engine-authz-plugin/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The critical vulnerability in Docker Engine, identified as CVE-2024-41110 with a severity score of 10/10, was first discovered in 2018 and reappeared due to a missed patch in January 2019. It allows attackers to bypass authorization plugins.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Malware Attacks Surge 30% in First Half of 2024<a href="https://www.infosecurity-magazine.com/news/malware-attacks-surge-30-per-cent/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 2024 Mid-Year Cyber Threat Report from SonicWall revealed a 30% increase in malware-based threats compared to 2023, with a significant spike in attacks from March to May, including 78,923 new variants observed in the first half of 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Stargazer Goblin' Amasses Thousands of Rogue GitHub Accounts to Spread Malware<a href="https://www.darkreading.com/application-security/stargazer-goblin-amasses-rogue-github-accounts-to-spread-malware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stargazer Goblin has been distributing various malware families like Atlantida Stealer, Lumma, and Rhadamanthys, since at least August 2022. The threat actor charges users to "star" repositories with fake accounts, increasing their credibility.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vanta Raises $150M Series C, Now Valued at $2.45B<a href="https://techcrunch.com/2024/07/24/trust-management-platform-vanta-raises-150m-series-c-now-valued-at-2-45b/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vanta's Series C funding was led by Sequoia Capital. Other participating investors include Growth Equity at Goldman Sachs Alternatives and J.P. Morgan, along with existing partners like Atlassian Ventures and Y Combinator.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Pro-Palestinian Actor Levels Six-Day DDoS Attack on UAE Bank<a href="https://www.darkreading.com/cyberattacks-data-breaches/pro-palestinian-actor-levels-six-day-ddos-on-uae-bank?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BlackMeta, known for targeting organizations in Israel, UAE, and the US, used a cybercrime service called InfraShutdown to target a UAE bank for $500-$625 a week. The attach lasted 100 hours in total.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lakera Raises $20 Million to Secure GenAI Applications<a href="https://www.helpnetsecurity.com/2024/07/25/lakera-funding-20-million/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lakera has raised $20 million in a Series A funding round. Led by European VC Atomico, with participation from Citi Ventures, Dropbox Ventures, and existing investors including redalpine, this investment brings Lakera’s total funding to $30 million.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 22, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake Grand Theft Auto VI Beta Download Spreads Malware<a href="https://hackread.com/grand-theft-auto-fake-gta-vi-beta-download-malware/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Fake Grand Theft Auto VI Beta Download Spreads Malware<a href="https://hackread.
 Bitdefender researchers found suspicious Facebook ads promoting fake beta versions for free download on PC. These ads promise early access to a non-existent GTA VI beta with attractive features and release dates, using stolen gameplay footage.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2024
+July 22, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Russian Nationals Plead Guilty to Participating in the LockBit Ransomware Group<a href="https://securityaffairs.com/165941/cyber-crime/lockbit-ransomware-group-members-plead-guilty.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Russian Nationals Plead Guilty to Participating in the LockBit Ransomware Group<
 Two Russian nationals, Ruslan Magomedovich Astamirov and Mikhail Vasiliev, pleaded guilty in a federal court in Newark for their roles in the LockBit ransomware operation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2024
+July 22, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Several Linux Kernel Azure Vulnerabilities Fixed in Ubuntu<a href="https://tuxcare.com/blog/several-linux-kernel-azure-vulnerabilities-fixed-in-ubuntu/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Several Linux Kernel Azure Vulnerabilities Fixed in Ubuntu<a href="https://tuxca
 Canonical released security updates to fix various vulnerabilities in the Linux kernel for Microsoft Azure Cloud systems on Ubuntu 16.04 ESM and Ubuntu 18.04 ESM. These flaws could lead to denial of service, data leakage, or arbitrary code execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+TuxCare
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2024
+July 22, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK Arrests Suspected Scattered Spider Hacker Linked to MGM Attack<a href="https://www.bleepingcomputer.com/news/security/uk-arrests-suspected-scattered-spider-hacker-linked-to-mgm-attack/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ UK Arrests Suspected Scattered Spider Hacker Linked to MGM Attack<a href="https:
 A 17-year-old boy from Walsall has been arrested by UK police for his involvement in the 2023 MGM Resorts ransomware attack, connected to the Scattered Spider hacking group. The arrest was made with assistance from the NCA and the FBI.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2024
+July 22, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Attackers Abuse Swap File to Steal Credit Cards<a href="https://blog.sucuri.net/2024/07/attackers-abuse-swap-file-to-steal-credit-cards.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Attackers Abuse Swap File to Steal Credit Cards<a href="https://blog.sucuri.net/
 Attackers recently abused the swap file in a Magento e-commerce site to steal credit card information. Despite multiple cleanup attempts, the malware persisted until analysts discovered it.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2024
+July 22, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Analyzing Container Escape Techniques in Cloud Environments<a href="https://unit42.paloaltonetworks.com/container-escape-techniques/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Analyzing Container Escape Techniques in Cloud Environments<a href="https://unit
 While containers offer efficiency, they are vulnerable to attacks exploiting misconfigurations. Attackers can execute code or escalate privileges, endangering organizational security.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Palo Alto Networks
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2024
+July 22, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Sanctions Two Members of Russian ‘Cyber Army’ Hacktivist Group<a href="https://therecord.media/cyber-army-russia-us-sanctions?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ US Sanctions Two Members of Russian ‘Cyber Army’ Hacktivist Group<a href="ht
 The U.S. sanctioned two members of the Russian hacktivist group Cyber Army of Russia Reborn (CARR) for carrying out cyber operations against critical U.S. infrastructure. CARR has launched low-impact DDoS attacks in Ukraine and its allies since 2022.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2024
+July 22, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake CrowdStrike Fixes Target Companies With Malware, Data Wipers<a href="https://www.bleepingcomputer.com/news/security/fake-crowdstrike-fixes-target-companies-with-malware-data-wipers/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Fake CrowdStrike Fixes Target Companies With Malware, Data Wipers<a href="https:
 Malicious campaigns have emerged, including one targeting BBVA bank customers with a fake CrowdStrike Hotfix that installs remote access tools. Another attack involves a data wiper distributed under the guise of a CrowdStrike update.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2024
+July 22, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China Claims Volt Typhoon was a False Flag Inside Job Conspiracy<a href="https://www.theregister.com/2024/07/19/volt_typhoon_china_theory/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ China Claims Volt Typhoon was a False Flag Inside Job Conspiracy<a href="https:/
 Beijing has claimed that the Volt Typhoon attack gang, accused by Five Eyes nations of being a Beijing-backed threat to critical infrastructure, was actually fabricated by the US intelligence community.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 22, 2024
+July 22, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Says Malicious Hackers are 'Taking Advantage' of CrowdStrike Outage<a href="https://techcrunch.com/2024/07/19/us-cyber-agency-cisa-says-malicious-hackers-are-taking-advantage-of-crowdstrike-outage/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ CISA Says Malicious Hackers are 'Taking Advantage' of CrowdStrike Outage<a href=
 The U.S. cybersecurity agency CISA warned against clicking on suspicious links to prevent email compromise. Cybercriminals are already impersonating CrowdStrike in phishing emails, asking for payment to "fix the CrowdStrike apocalypse."
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
