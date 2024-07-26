@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hacker Group Targeting Healthcare, Energy Sectors<a href="https://www.bankinfosecurity.com/mandiant-north-korean-hackers-targeting-healthcare-energy-a-25845?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers, specifically the Andariel hacking group, are now targeting the healthcare, energy, and financial sectors according to a Mandiant report. This group is believed to be associated with North Korea's Reconnaissance General Bureau.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

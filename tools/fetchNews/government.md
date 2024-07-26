@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+July 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sanctions Two Members of Russian ‘Cyber Army’ Hacktivist Group<a href="https://therecord.media/cyber-army-russia-us-sanctions?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. sanctioned two members of the Russian hacktivist group Cyber Army of Russia Reborn (CARR) for carrying out cyber operations against critical U.S. infrastructure. CARR has launched low-impact DDoS attacks in Ukraine and its allies since 2022.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China Claims Volt Typhoon was a False Flag Inside Job Conspiracy<a href="https://www.theregister.com/2024/07/19/volt_typhoon_china_theory/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Beijing has claimed that the Volt Typhoon attack gang, accused by Five Eyes nations of being a Beijing-backed threat to critical infrastructure, was actually fabricated by the US intelligence community.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Says Malicious Hackers are 'Taking Advantage' of CrowdStrike Outage<a href="https://techcrunch.com/2024/07/19/us-cyber-agency-cisa-says-malicious-hackers-are-taking-advantage-of-crowdstrike-outage/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. cybersecurity agency CISA warned against clicking on suspicious links to prevent email compromise. Cybercriminals are already impersonating CrowdStrike in phishing emails, asking for payment to "fix the CrowdStrike apocalypse."
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

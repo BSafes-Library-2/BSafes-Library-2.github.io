@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Grand Theft Auto VI Beta Download Spreads Malware<a href="https://hackread.com/grand-theft-auto-fake-gta-vi-beta-download-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Bitdefender researchers found suspicious Facebook ads promoting fake beta versions for free download on PC. These ads promise early access to a non-existent GTA VI beta with attractive features and release dates, using stolen gameplay footage.
+</details>
+<div style="text-align: right" markdown="1">
+Hack Read
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

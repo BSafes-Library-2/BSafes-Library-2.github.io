@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+July 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'Stargazer Goblin' Amasses Thousands of Rogue GitHub Accounts to Spread Malware<a href="https://www.darkreading.com/application-security/stargazer-goblin-amasses-rogue-github-accounts-to-spread-malware?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Stargazer Goblin has been distributing various malware families like Atlantida Stealer, Lumma, and Rhadamanthys, since at least August 2022. The threat actor charges users to "star" repositories with fake accounts, increasing their credibility.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

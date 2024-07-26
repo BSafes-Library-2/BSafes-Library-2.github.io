@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+July 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attackers Abuse Swap File to Steal Credit Cards<a href="https://blog.sucuri.net/2024/07/attackers-abuse-swap-file-to-steal-credit-cards.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Attackers recently abused the swap file in a Magento e-commerce site to steal credit card information. Despite multiple cleanup attempts, the malware persisted until analysts discovered it.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake CrowdStrike Fixes Target Companies With Malware, Data Wipers<a href="https://www.bleepingcomputer.com/news/security/fake-crowdstrike-fixes-target-companies-with-malware-data-wipers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Malicious campaigns have emerged, including one targeting BBVA bank customers with a fake CrowdStrike Hotfix that installs remote access tools. Another attack involves a data wiper distributed under the guise of a CrowdStrike update.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
