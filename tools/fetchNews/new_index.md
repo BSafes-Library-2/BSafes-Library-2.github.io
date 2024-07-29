@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2024
+July 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unveiling the Latest Banking Trojan Threats in Latin America<a href="https://securityintelligence.com/posts/unveiling-latest-banking-trojan-threats-latam/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious Chrome extension campaign in LATAM involves infecting victims through phishing websites and installing rogue extensions to steal sensitive information. The extensions mimic Google Drive, giving them access to a wide range of user data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Targeting Mobile Users in India Using India Post Lures<a href="https://www.fortinet.com/blog/threat-research/phishing-campaign-targeting-mobile-users-in-india-using-india-post-lures?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs Threat Research team has identified a fraud campaign targeting India Post users on social media, specifically iPhone users through smishing attacks. The Smishing Triad, a Chinese threat actor, is believed to be behind this campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PKfail Secure Boot bypass Lets Attackers Install UEFI Malware<a href="https://www.bleepingcomputer.com/news/security/pkfail-secure-boot-bypass-lets-attackers-install-uefi-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The issue originates from a test Secure Boot key provided by American Megatrends International (AMI) that was not replaced by OEMs, resulting in devices shipping with untrusted keys.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chainguard Raises $140M to Drive AI Support, Global Growth<a href="https://www.bankinfosecurity.com/chainguard-raises-140m-to-drive-ai-support-global-growth-a-25854?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chainguard, a supply chain security startup, recently raised $140 million in a Series C funding round led by Redpoint Ventures, Lightspeed Venture Partners, and JVP. It aims to expand globally and strengthen its presence in the U.S. public sector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Defense University Cyber Professor Tapped as ONCD Deputy Director<a href="https://therecord.media/oncd-deputy-director-harry-wingo-national-defense-university?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Office of the National Cyber Director (ONCD) announced Wednesday that former Navy SEAL and National Defense University cyberspace professor Harry Wingo has been selected as its deputy director.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Most Urgent Security Risks for GenAI Users are all Data-Related<a href="https://www.helpnetsecurity.com/2024/07/25/genai-data-security-risks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GenAI users face significant security risks related to data, with regulated data making up a large share of sensitive information shared with GenAI applications, posing a threat of costly data breaches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software Maker MCG Health Settles Data Breach Suit for $8.8M<a href="https://www.bankinfosecurity.com/software-maker-mcg-health-settles-data-breach-suit-for-88m-a-25851?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MCG Health has agreed to a settlement of $8.8 million for a data breach lawsuit following a hacking incident in 2020. The lawsuit alleges that it took MCG Health two years to discover and report the data theft affecting around 1.1 million people.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Cyber Insurance Coverage is Evolving<a href="https://www.cybersecuritydive.com/news/cyber-insurance-coverage-evolution/721171/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While purchasing cyber insurance won't completely prevent data breaches, it does improve the cyber posture as it requires strict underwriting processes. However, only a quarter of companies currently have standalone cyber insurance policies.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belarus-linked Hackers Target Ukrainian Organizations with PicassoLoader Malware<a href="https://therecord.media/belarus-ukraine-picasso-malware-ghostwriter?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GhostWriter, also known as UAC-0057, used PicassoLoader and Cobalt Strike Beacon to infect victims, including local government offices and groups associated with USAID’s Hoverla project.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 26, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware and BEC Make Up 60% of Cyber Incidents<a href="https://www.infosecurity-magazine.com/news/ransomware-bec-cyber-incidents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Cisco Talos, ransomware and BEC attacks made up 60% of all incidents in Q2 2024, with technology being the most targeted sector at 24%. Other highly targeted sectors included retail, healthcare, pharmaceuticals, and education.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 25, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ConfusedFunction: A Privilege Escalation Vulnerability Impacting GCP Cloud Functions<a href="https://www.tenable.com/blog/confusedfunction-a-privilege-escalation-vulnerability-impacting-gcp-cloud-functions?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ ConfusedFunction: A Privilege Escalation Vulnerability Impacting GCP Cloud Funct
 Researchers have uncovered a vulnerability in Google Cloud Platform's Cloud Functions service called ConfusedFunction. This flaw allows an attacker to escalate their privileges to access other services and sensitive data in an unauthorized manner.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tenable
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2024
+July 25, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hacker Group Targeting Healthcare, Energy Sectors<a href="https://www.bankinfosecurity.com/mandiant-north-korean-hackers-targeting-healthcare-energy-a-25845?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ North Korean Hacker Group Targeting Healthcare, Energy Sectors<a href="https://w
 North Korean hackers, specifically the Andariel hacking group, are now targeting the healthcare, energy, and financial sectors according to a Mandiant report. This group is believed to be associated with North Korea's Reconnaissance General Bureau.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2024
+July 25, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TransparentTribe’s Spear-Phishing Targeting Indian Government Departments<a href="https://nsfocusglobal.com/transparenttribes-spear-phishing-targeting-indian-government-departments/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ TransparentTribe’s Spear-Phishing Targeting Indian Government Departments<a hr
 The malicious file, disguised as “Recommendation for the award of President’s.docm,” contained a VBA script that executed the CrimsonRAT remote control program, capable of stealing sensitive information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NSFOCUS
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2024
+July 25, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI Accelerates Code Development Faster Than Security Teams can Keep up<a href="https://www.helpnetsecurity.com/2024/07/24/vulnerability-management-automation/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ AI Accelerates Code Development Faster Than Security Teams can Keep up<a href="h
 According to a Seemplicity survey, AI is speeding up code development faster than security teams can keep up, leading to concerns about vulnerability management. 91% of organizations are increasing their security budgets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2024
+July 25, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Docker Patches Critical AuthZ Plugin Bypass Vulnerability Dating Back to 2018<a href="https://www.docker.com/blog/docker-security-advisory-docker-engine-authz-plugin/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Docker Patches Critical AuthZ Plugin Bypass Vulnerability Dating Back to 2018<a 
 The critical vulnerability in Docker Engine, identified as CVE-2024-41110 with a severity score of 10/10, was first discovered in 2018 and reappeared due to a missed patch in January 2019. It allows attackers to bypass authorization plugins.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Docker
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2024
+July 25, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Malware Attacks Surge 30% in First Half of 2024<a href="https://www.infosecurity-magazine.com/news/malware-attacks-surge-30-per-cent/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Report: Malware Attacks Surge 30% in First Half of 2024<a href="https://www.info
 The 2024 Mid-Year Cyber Threat Report from SonicWall revealed a 30% increase in malware-based threats compared to 2023, with a significant spike in attacks from March to May, including 78,923 new variants observed in the first half of 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2024
+July 25, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 'Stargazer Goblin' Amasses Thousands of Rogue GitHub Accounts to Spread Malware<a href="https://www.darkreading.com/application-security/stargazer-goblin-amasses-rogue-github-accounts-to-spread-malware?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ July 25, 2024
 Stargazer Goblin has been distributing various malware families like Atlantida Stealer, Lumma, and Rhadamanthys, since at least August 2022. The threat actor charges users to "star" repositories with fake accounts, increasing their credibility.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2024
+July 25, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Vanta Raises $150M Series C, Now Valued at $2.45B<a href="https://techcrunch.com/2024/07/24/trust-management-platform-vanta-raises-150m-series-c-now-valued-at-2-45b/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Vanta Raises $150M Series C, Now Valued at $2.45B<a href="https://techcrunch.com
 Vanta's Series C funding was led by Sequoia Capital. Other participating investors include Growth Equity at Goldman Sachs Alternatives and J.P. Morgan, along with existing partners like Atlassian Ventures and Y Combinator.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Tech Crunch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2024
+July 25, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Pro-Palestinian Actor Levels Six-Day DDoS Attack on UAE Bank<a href="https://www.darkreading.com/cyberattacks-data-breaches/pro-palestinian-actor-levels-six-day-ddos-on-uae-bank?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Pro-Palestinian Actor Levels Six-Day DDoS Attack on UAE Bank<a href="https://www
 BlackMeta, known for targeting organizations in Israel, UAE, and the US, used a cybercrime service called InfraShutdown to target a UAE bank for $500-$625 a week. The attach lasted 100 hours in total.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 25, 2024
+July 25, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Lakera Raises $20 Million to Secure GenAI Applications<a href="https://www.helpnetsecurity.com/2024/07/25/lakera-funding-20-million/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Lakera Raises $20 Million to Secure GenAI Applications<a href="https://www.helpn
 Lakera has raised $20 million in a Series A funding round. Led by European VC Atomico, with participation from Citi Ventures, Dropbox Ventures, and existing investors including redalpine, this investment brings Lakera’s total funding to $30 million.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
