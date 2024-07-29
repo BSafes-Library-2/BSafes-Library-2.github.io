@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Targeting Mobile Users in India Using India Post Lures<a href="https://www.fortinet.com/blog/threat-research/phishing-campaign-targeting-mobile-users-in-india-using-india-post-lures?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FortiGuard Labs Threat Research team has identified a fraud campaign targeting India Post users on social media, specifically iPhone users through smishing attacks. The Smishing Triad, a Chinese threat actor, is believed to be behind this campaign.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

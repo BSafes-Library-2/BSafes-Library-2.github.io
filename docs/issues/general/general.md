@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+July 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Most Urgent Security Risks for GenAI Users are all Data-Related<a href="https://www.helpnetsecurity.com/2024/07/25/genai-data-security-risks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GenAI users face significant security risks related to data, with regulated data making up a large share of sensitive information shared with GenAI applications, posing a threat of costly data breaches.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How Cyber Insurance Coverage is Evolving<a href="https://www.cybersecuritydive.com/news/cyber-insurance-coverage-evolution/721171/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While purchasing cyber insurance won't completely prevent data breaches, it does improve the cyber posture as it requires strict underwriting processes. However, only a quarter of companies currently have standalone cyber insurance policies.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware and BEC Make Up 60% of Cyber Incidents<a href="https://www.infosecurity-magazine.com/news/ransomware-bec-cyber-incidents/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Cisco Talos, ransomware and BEC attacks made up 60% of all incidents in Q2 2024, with technology being the most targeted sector at 24%. Other highly targeted sectors included retail, healthcare, pharmaceuticals, and education.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

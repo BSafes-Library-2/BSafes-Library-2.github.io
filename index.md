@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2024
+July 27, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Unveiling the Latest Banking Trojan Threats in Latin America<a href="https://securityintelligence.com/posts/unveiling-latest-banking-trojan-threats-latam/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Unveiling the Latest Banking Trojan Threats in Latin America<a href="https://sec
 The malicious Chrome extension campaign in LATAM involves infecting victims through phishing websites and installing rogue extensions to steal sensitive information. The extensions mimic Google Drive, giving them access to a wide range of user data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2024
+July 27, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Campaign Targeting Mobile Users in India Using India Post Lures<a href="https://www.fortinet.com/blog/threat-research/phishing-campaign-targeting-mobile-users-in-india-using-india-post-lures?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Phishing Campaign Targeting Mobile Users in India Using India Post Lures<a href=
 FortiGuard Labs Threat Research team has identified a fraud campaign targeting India Post users on social media, specifically iPhone users through smishing attacks. The Smishing Triad, a Chinese threat actor, is believed to be behind this campaign.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 27, 2024
+July 27, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PKfail Secure Boot bypass Lets Attackers Install UEFI Malware<a href="https://www.bleepingcomputer.com/news/security/pkfail-secure-boot-bypass-lets-attackers-install-uefi-malware/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ PKfail Secure Boot bypass Lets Attackers Install UEFI Malware<a href="https://ww
 The issue originates from a test Secure Boot key provided by American Megatrends International (AMI) that was not replaced by OEMs, resulting in devices shipping with untrusted keys.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2024
+July 26, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chainguard Raises $140M to Drive AI Support, Global Growth<a href="https://www.bankinfosecurity.com/chainguard-raises-140m-to-drive-ai-support-global-growth-a-25854?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Chainguard Raises $140M to Drive AI Support, Global Growth<a href="https://www.b
 Chainguard, a supply chain security startup, recently raised $140 million in a Series C funding round led by Redpoint Ventures, Lightspeed Venture Partners, and JVP. It aims to expand globally and strengthen its presence in the U.S. public sector.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2024
+July 26, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 National Defense University Cyber Professor Tapped as ONCD Deputy Director<a href="https://therecord.media/oncd-deputy-director-harry-wingo-national-defense-university?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ National Defense University Cyber Professor Tapped as ONCD Deputy Director<a hre
 The Office of the National Cyber Director (ONCD) announced Wednesday that former Navy SEAL and National Defense University cyberspace professor Harry Wingo has been selected as its deputy director.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2024
+July 26, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Most Urgent Security Risks for GenAI Users are all Data-Related<a href="https://www.helpnetsecurity.com/2024/07/25/genai-data-security-risks/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ The Most Urgent Security Risks for GenAI Users are all Data-Related<a href="http
 GenAI users face significant security risks related to data, with regulated data making up a large share of sensitive information shared with GenAI applications, posing a threat of costly data breaches.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2024
+July 26, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Software Maker MCG Health Settles Data Breach Suit for $8.8M<a href="https://www.bankinfosecurity.com/software-maker-mcg-health-settles-data-breach-suit-for-88m-a-25851?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Software Maker MCG Health Settles Data Breach Suit for $8.8M<a href="https://www
 MCG Health has agreed to a settlement of $8.8 million for a data breach lawsuit following a hacking incident in 2020. The lawsuit alleges that it took MCG Health two years to discover and report the data theft affecting around 1.1 million people.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2024
+July 26, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How Cyber Insurance Coverage is Evolving<a href="https://www.cybersecuritydive.com/news/cyber-insurance-coverage-evolution/721171/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ How Cyber Insurance Coverage is Evolving<a href="https://www.cybersecuritydive.c
 While purchasing cyber insurance won't completely prevent data breaches, it does improve the cyber posture as it requires strict underwriting processes. However, only a quarter of companies currently have standalone cyber insurance policies.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2024
+July 26, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Belarus-linked Hackers Target Ukrainian Organizations with PicassoLoader Malware<a href="https://therecord.media/belarus-ukraine-picasso-malware-ghostwriter?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Belarus-linked Hackers Target Ukrainian Organizations with PicassoLoader Malware
 GhostWriter, also known as UAC-0057, used PicassoLoader and Cobalt Strike Beacon to infect victims, including local government offices and groups associated with USAID’s Hoverla project.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 26, 2024
+July 26, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware and BEC Make Up 60% of Cyber Incidents<a href="https://www.infosecurity-magazine.com/news/ransomware-bec-cyber-incidents/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Ransomware and BEC Make Up 60% of Cyber Incidents<a href="https://www.infosecuri
 According to Cisco Talos, ransomware and BEC attacks made up 60% of all incidents in Q2 2024, with technology being the most targeted sector at 24%. Other highly targeted sectors included retail, healthcare, pharmaceuticals, and education.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

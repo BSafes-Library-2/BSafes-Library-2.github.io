@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+July 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vanta Raises $150M Series C, Now Valued at $2.45B<a href="https://techcrunch.com/2024/07/24/trust-management-platform-vanta-raises-150m-series-c-now-valued-at-2-45b/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Vanta's Series C funding was led by Sequoia Capital. Other participating investors include Growth Equity at Goldman Sachs Alternatives and J.P. Morgan, along with existing partners like Atlassian Ventures and Y Combinator.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Crunch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lakera Raises $20 Million to Secure GenAI Applications<a href="https://www.helpnetsecurity.com/2024/07/25/lakera-funding-20-million/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lakera has raised $20 million in a Series A funding round. Led by European VC Atomico, with participation from Citi Ventures, Dropbox Ventures, and existing investors including redalpine, this investment brings Lakera’s total funding to $30 million.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

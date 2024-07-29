@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Accelerates Code Development Faster Than Security Teams can Keep up<a href="https://www.helpnetsecurity.com/2024/07/24/vulnerability-management-automation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a Seemplicity survey, AI is speeding up code development faster than security teams can keep up, leading to concerns about vulnerability management. 91% of organizations are increasing their security budgets.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 25, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Malware Attacks Surge 30% in First Half of 2024<a href="https://www.infosecurity-magazine.com/news/malware-attacks-surge-30-per-cent/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The 2024 Mid-Year Cyber Threat Report from SonicWall revealed a 30% increase in malware-based threats compared to 2023, with a significant spike in attacks from March to May, including 78,923 new variants observed in the first half of 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

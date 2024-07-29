@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+July 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Software Maker MCG Health Settles Data Breach Suit for $8.8M<a href="https://www.bankinfosecurity.com/software-maker-mcg-health-settles-data-breach-suit-for-88m-a-25851?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MCG Health has agreed to a settlement of $8.8 million for a data breach lawsuit following a hacking incident in 2020. The lawsuit alleges that it took MCG Health two years to discover and report the data theft affecting around 1.1 million people.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
