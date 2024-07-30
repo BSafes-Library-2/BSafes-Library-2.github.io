@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Russian Ransomware Gangs Account for 69% of all Ransom Proceeds<a href="https://www.bleepingcomputer.com/news/security/russian-ransomware-gangs-account-for-69-percent-of-all-ransom-proceeds/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to an analysis by TRM Labs, Russian-speaking threat actors were responsible for over 69% of all ransomware-related cryptocurrency earnings in the past year, amounting to more than $500 million.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Despite Bans, AI Code Generation Tools Widely Used in Organizations<a href="https://www.infosecurity-magazine.com/news/ai-code-tools-widespread-in/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite bans, organizations are widespread in using AI code tools, causing security concerns, as reported by Checkmarx. While 15% prohibit AI tools for code generation, a staggering 99% still use them.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators to FTC: Car Companies’ Data Privacy Practices Must be Investigated<a href="https://therecord.media/markey-wyden-ask-ftc-to-probe-car-company-data-practices?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. senators have raised concerns about how car companies handle consumer data, revealing that major automakers share and sell drivers' information without proper consent.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+WhatsApp for Windows Lets Python, PHP Scripts Execute with no Warning<a href="https://www.bleepingcomputer.com/news/security/whatsapp-for-windows-lets-python-php-scripts-execute-with-no-warning/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WhatsApp currently blocks certain file types considered risky, but Python and PHP scripts are not included in the blocklist. Security researcher Saumyajeet Das identified this vulnerability while testing file attachments in WhatsApp conversations.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Vulnerability Backlog Could Surge to 30,000 by 2025<a href="https://www.bankinfosecurity.com/national-vulnerability-backlog-could-surge-to-30000-by-2025-a-25866?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Vulnerability Database (NVD), maintained by the National Institute of Standards and Technology (NIST), currently has a backlog of over 16,000 vulnerabilities, with an average daily influx of more than 100 new security flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acronis Warns of Cyber Infrastructure Default Password Abused in Attacks<a href="https://www.bleepingcomputer.com/news/security/acronis-warns-of-cyber-infrastructure-default-password-abused-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability (CVE-2023-45249) was patched nine months ago but is still being exploited in attacks. Admins are advised to update their systems immediately to prevent unauthorized remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data From Deleted Github Repositories May Not Actually be Deleted<a href="https://www.theregister.com/2024/07/25/data_from_deleted_github_repos/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Truffle Security have found, or arguably rediscovered, that data from deleted GitHub repositories (public or private) and from deleted copies (forks) of repositories isn't necessarily deleted.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Gh0stGambit Dropper Used to Deploy Gh0st RAT Against Chinese Users<a href="https://www.esentire.com/blog/a-dropper-for-deploying-gh0st-rat?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Gh0st RAT Trojan is being distributed to Chinese Windows users through a fake Chrome website. The malware has been around since 2008 and has evolved over the years, often used by cyberespionage groups in China.
+</details>
+<div style="text-align: right" markdown="1">
+Esentire
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2024 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI-Generated Deepfake Attacks Force Companies To Reassess Cybersecurity<a href="https://www.helpnetsecurity.com/2024/07/26/deepfake-response-plans/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Companies are reevaluating their cybersecurity defenses in response to the rise of AI-generated deepfake attacks and identity fraud. According to GetApp, 73% of US organizations have already developed deepfake response plans.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Targeted PyPI Package Steals Google Cloud Credentials from macOS Devs<a href="https://www.darkreading.com/threat-intelligence/targeted-pypi-package-steals-google-cloud-credentials-macos-devs?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware is designed to target only 64 specific machines, attempting to exfiltrate Google Cloud Platform credentials for potential follow-on attacks such as data theft and malware implantation.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 27, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

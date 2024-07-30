@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+July 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unveiling the Latest Banking Trojan Threats in Latin America<a href="https://securityintelligence.com/posts/unveiling-latest-banking-trojan-threats-latam/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious Chrome extension campaign in LATAM involves infecting victims through phishing websites and installing rogue extensions to steal sensitive information. The extensions mimic Google Drive, giving them access to a wide range of user data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 26, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Belarus-linked Hackers Target Ukrainian Organizations with PicassoLoader Malware<a href="https://therecord.media/belarus-ukraine-picasso-malware-ghostwriter?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GhostWriter, also known as UAC-0057, used PicassoLoader and Cobalt Strike Beacon to infect victims, including local government offices and groups associated with USAID’s Hoverla project.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

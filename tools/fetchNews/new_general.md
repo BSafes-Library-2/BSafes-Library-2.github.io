@@ -8,6 +8,62 @@ nav_order: 900072
 
 ## General
 ---
+July 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Russian Ransomware Gangs Account for 69% of all Ransom Proceeds<a href="https://www.bleepingcomputer.com/news/security/russian-ransomware-gangs-account-for-69-percent-of-all-ransom-proceeds/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to an analysis by TRM Labs, Russian-speaking threat actors were responsible for over 69% of all ransomware-related cryptocurrency earnings in the past year, amounting to more than $500 million.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Despite Bans, AI Code Generation Tools Widely Used in Organizations<a href="https://www.infosecurity-magazine.com/news/ai-code-tools-widespread-in/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite bans, organizations are widespread in using AI code tools, causing security concerns, as reported by Checkmarx. While 15% prohibit AI tools for code generation, a staggering 99% still use them.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+National Vulnerability Backlog Could Surge to 30,000 by 2025<a href="https://www.bankinfosecurity.com/national-vulnerability-backlog-could-surge-to-30000-by-2025-a-25866?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The National Vulnerability Database (NVD), maintained by the National Institute of Standards and Technology (NIST), currently has a backlog of over 16,000 vulnerabilities, with an average daily influx of more than 100 new security flaws.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Data From Deleted Github Repositories May Not Actually be Deleted<a href="https://www.theregister.com/2024/07/25/data_from_deleted_github_repos/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers at Truffle Security have found, or arguably rediscovered, that data from deleted GitHub repositories (public or private) and from deleted copies (forks) of repositories isn't necessarily deleted.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900165
 
 ## Privacy
 ---
+July 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Senators to FTC: Car Companies’ Data Privacy Practices Must be Investigated<a href="https://therecord.media/markey-wyden-ask-ftc-to-probe-car-company-data-practices?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. senators have raised concerns about how car companies handle consumer data, revealing that major automakers share and sell drivers' information without proper consent.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
