@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta's AI Safety System Manipulated by Space Bar Characters to Enable Prompt Injection<a href="https://www.theregister.com/2024/07/29/meta_ai_safety/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bug hunter discovered a bypass in Meta's Prompt-Guard-86M model by inserting character-wise spaces between English alphabet characters, rendering the classifier ineffective in detecting harmful content.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US State Department Says UN Cybercrime Treaty Must Include Human Rights Protections<a href="https://therecord.media/state-department-treaty-human-rights-protections?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department emphasized the importance of including human rights protections in the upcoming United Nations cybercrime treaty. The final round of negotiations for the treaty, which began on Monday and will conclude on August 9, 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideWinder Utilizes New Infrastructure to Target Ports and Maritime Facilities in the Mediterranean Sea<a href="https://blogs.blackberry.com/en/2024/07/sidewinder-targets-ports-and-maritime-facilities-in-the-mediterranean-sea?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent attacks by the SideWinder APT group use phishing lures related to emotional topics like sexual harassment and salary cuts to trick victims into opening booby-trapped Microsoft Word documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Change Healthcare Begins to Notify Millions Affected by Hack<a href="https://www.bankinfosecurity.com/change-healthcare-begins-to-notify-millions-affected-by-hack-a-25874?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Change Healthcare has started the process of notifying millions of Americans affected by a massive cyberattack and data theft that occurred more than five months ago. The company is sending individual breach notification letters on a rolling basis.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PowerShell Backdoor Linked to Zloader Malware<a href="https://www.infosecurity-magazine.com/news/walmart-powershell-backdoor-zloader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newly discovered backdoor has limited samples available on VirusTotal, making detection more difficult. It operates by collecting system information and sending it to a command and control server, awaiting further instructions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cowbell Secures $60 Million Series C Funding From Zurich Insurance Group<a href="https://www.darkreading.com/cybersecurity-operations/cowbell-secures-60-million-series-c-funding-from-zurich-insurance-group?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This investment will allow Cowbell to expand its operations, enter key global markets, enhance cyber resilience services, introduce innovative products, and strengthen partnerships.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Central Bank Concludes Banking Cyber Stress Test<a href="https://www.bankinfosecurity.com/european-central-bank-concludes-banking-cyber-stress-test-a-25871?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Central Bank has completed a cyber stress test for the banking sector, finding that while banks have strong response frameworks, there is still room for improvement in recovery capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crafty ClickFix-Style Phishing Campaign Targets Microsoft OneDrive Users<a href="https://securityaffairs.com/166312/hacking/microsoft-onedrive-phishing.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers use social engineering tactics to get users to run a PowerShell script, compromising their systems. The scam starts with an email containing an HTML file that tricks the recipient into clicking on a button to fix a fake DNS issue.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Phishing Campaign Exploiting Proofpoint’s Email Protection to Dispatch Millions of Perfectly Spoofed Emails<a href="https://labs.guard.io/echospoofing-a-massive-phishing-campaign-exploiting-proofpoints-email-protection-to-dispatch-3dd6b5417db6?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign began in January 2024 and peaked at 14 million emails in June. The emails were designed to steal sensitive information and included authentic-looking signatures to bypass security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Ransomware Gangs Abusing VMware ESXi Authentication Bypass in Attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-ransomware-gangs-exploit-vmware-esxi-auth-bypass-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators like Black Basta and Akira have already used this vulnerability in attacks, with Storm-0506 deploying Black Basta ransomware on the ESXi hypervisors of a North American engineering firm.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 July 29, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

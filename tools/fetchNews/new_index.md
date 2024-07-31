@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2024
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Meta's AI Safety System Manipulated by Space Bar Characters to Enable Prompt Injection<a href="https://www.theregister.com/2024/07/29/meta_ai_safety/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A bug hunter discovered a bypass in Meta's Prompt-Guard-86M model by inserting character-wise spaces between English alphabet characters, rendering the classifier ineffective in detecting harmful content.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US State Department Says UN Cybercrime Treaty Must Include Human Rights Protections<a href="https://therecord.media/state-department-treaty-human-rights-protections?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department emphasized the importance of including human rights protections in the upcoming United Nations cybercrime treaty. The final round of negotiations for the treaty, which began on Monday and will conclude on August 9, 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideWinder Utilizes New Infrastructure to Target Ports and Maritime Facilities in the Mediterranean Sea<a href="https://blogs.blackberry.com/en/2024/07/sidewinder-targets-ports-and-maritime-facilities-in-the-mediterranean-sea?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent attacks by the SideWinder APT group use phishing lures related to emotional topics like sexual harassment and salary cuts to trick victims into opening booby-trapped Microsoft Word documents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Change Healthcare Begins to Notify Millions Affected by Hack<a href="https://www.bankinfosecurity.com/change-healthcare-begins-to-notify-millions-affected-by-hack-a-25874?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Change Healthcare has started the process of notifying millions of Americans affected by a massive cyberattack and data theft that occurred more than five months ago. The company is sending individual breach notification letters on a rolling basis.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New PowerShell Backdoor Linked to Zloader Malware<a href="https://www.infosecurity-magazine.com/news/walmart-powershell-backdoor-zloader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The newly discovered backdoor has limited samples available on VirusTotal, making detection more difficult. It operates by collecting system information and sending it to a command and control server, awaiting further instructions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cowbell Secures $60 Million Series C Funding From Zurich Insurance Group<a href="https://www.darkreading.com/cybersecurity-operations/cowbell-secures-60-million-series-c-funding-from-zurich-insurance-group?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This investment will allow Cowbell to expand its operations, enter key global markets, enhance cyber resilience services, introduce innovative products, and strengthen partnerships.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Central Bank Concludes Banking Cyber Stress Test<a href="https://www.bankinfosecurity.com/european-central-bank-concludes-banking-cyber-stress-test-a-25871?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Central Bank has completed a cyber stress test for the banking sector, finding that while banks have strong response frameworks, there is still room for improvement in recovery capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crafty ClickFix-Style Phishing Campaign Targets Microsoft OneDrive Users<a href="https://securityaffairs.com/166312/hacking/microsoft-onedrive-phishing.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers use social engineering tactics to get users to run a PowerShell script, compromising their systems. The scam starts with an email containing an HTML file that tricks the recipient into clicking on a button to fix a fake DNS issue.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Phishing Campaign Exploiting Proofpoint’s Email Protection to Dispatch Millions of Perfectly Spoofed Emails<a href="https://labs.guard.io/echospoofing-a-massive-phishing-campaign-exploiting-proofpoints-email-protection-to-dispatch-3dd6b5417db6?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign began in January 2024 and peaked at 14 million emails in June. The emails were designed to steal sensitive information and included authentic-looking signatures to bypass security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of Ransomware Gangs Abusing VMware ESXi Authentication Bypass in Attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-ransomware-gangs-exploit-vmware-esxi-auth-bypass-in-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ransomware operators like Black Basta and Akira have already used this vulnerability in attacks, with Storm-0506 deploying Black Basta ransomware on the ESXi hypervisors of a North American engineering firm.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 29, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Russian Ransomware Gangs Account for 69% of all Ransom Proceeds<a href="https://www.bleepingcomputer.com/news/security/russian-ransomware-gangs-account-for-69-percent-of-all-ransom-proceeds/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Report: Russian Ransomware Gangs Account for 69% of all Ransom Proceeds<a href="
 According to an analysis by TRM Labs, Russian-speaking threat actors were responsible for over 69% of all ransomware-related cryptocurrency earnings in the past year, amounting to more than $500 million.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2024
+July 29, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Despite Bans, AI Code Generation Tools Widely Used in Organizations<a href="https://www.infosecurity-magazine.com/news/ai-code-tools-widespread-in/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Despite Bans, AI Code Generation Tools Widely Used in Organizations<a href="http
 Despite bans, organizations are widespread in using AI code tools, causing security concerns, as reported by Checkmarx. While 15% prohibit AI tools for code generation, a staggering 99% still use them.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2024
+July 29, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Senators to FTC: Car Companies’ Data Privacy Practices Must be Investigated<a href="https://therecord.media/markey-wyden-ask-ftc-to-probe-car-company-data-practices?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Senators to FTC: Car Companies’ Data Privacy Practices Must be Investigated<a 
 U.S. senators have raised concerns about how car companies handle consumer data, revealing that major automakers share and sell drivers' information without proper consent.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2024
+July 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 WhatsApp for Windows Lets Python, PHP Scripts Execute with no Warning<a href="https://www.bleepingcomputer.com/news/security/whatsapp-for-windows-lets-python-php-scripts-execute-with-no-warning/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ WhatsApp for Windows Lets Python, PHP Scripts Execute with no Warning<a href="ht
 WhatsApp currently blocks certain file types considered risky, but Python and PHP scripts are not included in the blocklist. Security researcher Saumyajeet Das identified this vulnerability while testing file attachments in WhatsApp conversations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2024
+July 29, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 National Vulnerability Backlog Could Surge to 30,000 by 2025<a href="https://www.bankinfosecurity.com/national-vulnerability-backlog-could-surge-to-30000-by-2025-a-25866?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ National Vulnerability Backlog Could Surge to 30,000 by 2025<a href="https://www
 The National Vulnerability Database (NVD), maintained by the National Institute of Standards and Technology (NIST), currently has a backlog of over 16,000 vulnerabilities, with an average daily influx of more than 100 new security flaws.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2024
+July 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Acronis Warns of Cyber Infrastructure Default Password Abused in Attacks<a href="https://www.bleepingcomputer.com/news/security/acronis-warns-of-cyber-infrastructure-default-password-abused-in-attacks/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Acronis Warns of Cyber Infrastructure Default Password Abused in Attacks<a href=
 The vulnerability (CVE-2023-45249) was patched nine months ago but is still being exploited in attacks. Admins are advised to update their systems immediately to prevent unauthorized remote code execution.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2024
+July 29, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Data From Deleted Github Repositories May Not Actually be Deleted<a href="https://www.theregister.com/2024/07/25/data_from_deleted_github_repos/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Data From Deleted Github Repositories May Not Actually be Deleted<a href="https:
 Researchers at Truffle Security have found, or arguably rediscovered, that data from deleted GitHub repositories (public or private) and from deleted copies (forks) of repositories isn't necessarily deleted.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2024
+July 29, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Gh0stGambit Dropper Used to Deploy Gh0st RAT Against Chinese Users<a href="https://www.esentire.com/blog/a-dropper-for-deploying-gh0st-rat?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Gh0stGambit Dropper Used to Deploy Gh0st RAT Against Chinese Users<a href="https
 The Gh0st RAT Trojan is being distributed to Chinese Windows users through a fake Chrome website. The malware has been around since 2008 and has evolved over the years, often used by cyberespionage groups in China.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Esentire
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2024
+July 29, 2024 -- [Deepfake](/docs/issues/deepfake/deepfake/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI-Generated Deepfake Attacks Force Companies To Reassess Cybersecurity<a href="https://www.helpnetsecurity.com/2024/07/26/deepfake-response-plans/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ AI-Generated Deepfake Attacks Force Companies To Reassess Cybersecurity<a href="
 Companies are reevaluating their cybersecurity defenses in response to the rise of AI-generated deepfake attacks and identity fraud. According to GetApp, 73% of US organizations have already developed deepfake response plans.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 29, 2024
+July 29, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Targeted PyPI Package Steals Google Cloud Credentials from macOS Devs<a href="https://www.darkreading.com/threat-intelligence/targeted-pypi-package-steals-google-cloud-credentials-macos-devs?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Targeted PyPI Package Steals Google Cloud Credentials from macOS Devs<a href="ht
 The malware is designed to target only 64 specific machines, attempting to exfiltrate Google Cloud Platform credentials for potential follow-on attacks such as data theft and malware implantation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
