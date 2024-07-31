@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+July 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US State Department Says UN Cybercrime Treaty Must Include Human Rights Protections<a href="https://therecord.media/state-department-treaty-human-rights-protections?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department emphasized the importance of including human rights protections in the upcoming United Nations cybercrime treaty. The final round of negotiations for the treaty, which began on Monday and will conclude on August 9, 2024.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

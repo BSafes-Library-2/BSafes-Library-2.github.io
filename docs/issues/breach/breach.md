@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+July 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Change Healthcare Begins to Notify Millions Affected by Hack<a href="https://www.bankinfosecurity.com/change-healthcare-begins-to-notify-millions-affected-by-hack-a-25874?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Change Healthcare has started the process of notifying millions of Americans affected by a massive cyberattack and data theft that occurred more than five months ago. The company is sending individual breach notification letters on a rolling basis.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

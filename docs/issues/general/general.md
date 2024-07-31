@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+July 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+European Central Bank Concludes Banking Cyber Stress Test<a href="https://www.bankinfosecurity.com/european-central-bank-concludes-banking-cyber-stress-test-a-25871?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The European Central Bank has completed a cyber stress test for the banking sector, finding that while banks have strong response frameworks, there is still room for improvement in recovery capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
