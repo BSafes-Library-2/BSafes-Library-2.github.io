@@ -34,7 +34,151 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2024
+July 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Source Code of Phorpiex Botnet with Anti-AV Capabilities on Sale<a href="https://cybersecuritynews.com/beware-of-trik-loader-botnet/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious Trik botnet, aka Phorpiex, is being sold in antivirus circles, offering advanced capabilities to evade detection. This C++ botnet includes modules such as a crypto clipper, a USB emitter, and a PE infector targeting crypto wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Multiple SMTP Servers Vulnerable to Spoofing Attacks, Let Hackers Bypass Authentication<a href="https://cybersecuritynews.com/multiple-smtp-servers-vulnerable/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple SMTP servers are vulnerable to spoofing attacks that allow hackers to bypass authentication. Two vulnerabilities, CVE-2024-7208 and CVE-2024-7209, exploit weaknesses in authentication and verification mechanisms provided by SPF and DKIM.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubuntu Fixes Two OpenVPN Vulnerabilities<a href="https://tuxcare.com/blog/ubuntu-fixes-two-openvpn-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ubuntu has fixed two vulnerabilities in OpenVPN, a virtual private network software. These vulnerabilities could keep the closing session active or lead to denial of service. Canonical released security updates for affected Ubuntu releases.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Target Polish Businesses with Agent Tesla and Formbook Malware Delivered by ModiLoader<a href="https://www.welivesecurity.com/en/eset-research/phishing-targeting-polish-smbs-continues-modiloader/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals targeted Polish businesses with Agent Tesla and Formbook malware through widespread phishing campaigns in May 2024. Small and medium-sized businesses (SMBs) in Poland, Italy, and Romania have been affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 40% of Environments Exposed to Full Take Over<a href="https://www.picussecurity.com/resource/blog/blue-report-2024-reveals-40-percent-of-environments-exposed-to-full-take-over?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Blue Report 2024 highlights alarming findings, with 40% of environments vulnerable to total takeover, emphasizing the importance of cybersecurity. Prevention effectiveness has improved to 69%, but detection effectiveness has dropped to 12%.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Specula Tool Uses Outlook for Remote Code Execution in Windows<a href="https://www.bleepingcomputer.com/news/security/new-specula-tool-uses-outlook-for-remote-code-execution-in-windows/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TrustedSec released a post-exploitation framework called "Specula", which exploits CVE-2017-11774 to create a custom Outlook Home Page using WebView and execute arbitrary commands on compromised Windows systems.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mandrake Spyware Infects 32,000 Devices via Google Play Apps<a href="https://www.infosecurity-magazine.com/news/mandrake-spyware-infects-32000/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Initially detected in May 2020 by Bitdefender, Mandrake went undetected for four years. In April 2024, Kaspersky identified a new variant hidden in five Google Play apps from 2022 to 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Study Evolution of Ransomware Gang UNC4393’s Campaigns After Qakbot Takedown<a href="https://thecyberexpress.com/researchers-ransomware-gang-unc4393s/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Initially relying on Qakbot botnet infections, UNC4393 now uses custom malware and diverse access techniques after the crackdown on Qakbot. They have quick reconnaissance and encryption objectives, with a median time of 42 hours to ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM: Cost of a Breach Reaches Nearly $5 Million, With Healthcare Being Hit the Hardest<a href="https://therecord.media/ibm-breach-report-cost-rise-to-5-million?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Breaches impacted 17 industries across 16 countries and regions, with costs related to detecting breaches, notifying victims, post-breach response efforts, and lost business.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 30, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Meta's AI Safety System Manipulated by Space Bar Characters to Enable Prompt Injection<a href="https://www.theregister.com/2024/07/29/meta_ai_safety/?&web_view=true"> Full Text</a>
@@ -44,13 +188,13 @@ Meta's AI Safety System Manipulated by Space Bar Characters to Enable Prompt Inj
 A bug hunter discovered a bypass in Meta's Prompt-Guard-86M model by inserting character-wise spaces between English alphabet characters, rendering the classifier ineffective in detecting harmful content.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2024
+July 30, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US State Department Says UN Cybercrime Treaty Must Include Human Rights Protections<a href="https://therecord.media/state-department-treaty-human-rights-protections?&web_view=true"> Full Text</a>
@@ -60,13 +204,13 @@ US State Department Says UN Cybercrime Treaty Must Include Human Rights Protecti
 The U.S. State Department emphasized the importance of including human rights protections in the upcoming United Nations cybercrime treaty. The final round of negotiations for the treaty, which began on Monday and will conclude on August 9, 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2024
+July 30, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 SideWinder Utilizes New Infrastructure to Target Ports and Maritime Facilities in the Mediterranean Sea<a href="https://blogs.blackberry.com/en/2024/07/sidewinder-targets-ports-and-maritime-facilities-in-the-mediterranean-sea?&web_view=true"> Full Text</a>
@@ -76,13 +220,13 @@ SideWinder Utilizes New Infrastructure to Target Ports and Maritime Facilities i
 The recent attacks by the SideWinder APT group use phishing lures related to emotional topics like sexual harassment and salary cuts to trick victims into opening booby-trapped Microsoft Word documents.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Blackberry
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2024
+July 30, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Change Healthcare Begins to Notify Millions Affected by Hack<a href="https://www.bankinfosecurity.com/change-healthcare-begins-to-notify-millions-affected-by-hack-a-25874?&web_view=true"> Full Text</a>
@@ -92,13 +236,13 @@ Change Healthcare Begins to Notify Millions Affected by Hack<a href="https://www
 Change Healthcare has started the process of notifying millions of Americans affected by a massive cyberattack and data theft that occurred more than five months ago. The company is sending individual breach notification letters on a rolling basis.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2024
+July 30, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New PowerShell Backdoor Linked to Zloader Malware<a href="https://www.infosecurity-magazine.com/news/walmart-powershell-backdoor-zloader/?&web_view=true"> Full Text</a>
@@ -108,13 +252,13 @@ New PowerShell Backdoor Linked to Zloader Malware<a href="https://www.infosecuri
 The newly discovered backdoor has limited samples available on VirusTotal, making detection more difficult. It operates by collecting system information and sending it to a command and control server, awaiting further instructions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2024
+July 30, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cowbell Secures $60 Million Series C Funding From Zurich Insurance Group<a href="https://www.darkreading.com/cybersecurity-operations/cowbell-secures-60-million-series-c-funding-from-zurich-insurance-group?&web_view=true"> Full Text</a>
@@ -124,13 +268,13 @@ Cowbell Secures $60 Million Series C Funding From Zurich Insurance Group<a href=
 This investment will allow Cowbell to expand its operations, enter key global markets, enhance cyber resilience services, introduce innovative products, and strengthen partnerships.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2024
+July 30, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 European Central Bank Concludes Banking Cyber Stress Test<a href="https://www.bankinfosecurity.com/european-central-bank-concludes-banking-cyber-stress-test-a-25871?&web_view=true"> Full Text</a>
@@ -140,13 +284,13 @@ European Central Bank Concludes Banking Cyber Stress Test<a href="https://www.ba
 The European Central Bank has completed a cyber stress test for the banking sector, finding that while banks have strong response frameworks, there is still room for improvement in recovery capabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bank Infosecurity
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2024
+July 30, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Crafty ClickFix-Style Phishing Campaign Targets Microsoft OneDrive Users<a href="https://securityaffairs.com/166312/hacking/microsoft-onedrive-phishing.html?&web_view=true"> Full Text</a>
@@ -156,13 +300,13 @@ Crafty ClickFix-Style Phishing Campaign Targets Microsoft OneDrive Users<a href=
 The attackers use social engineering tactics to get users to run a PowerShell script, compromising their systems. The scam starts with an email containing an HTML file that tricks the recipient into clicking on a button to fix a fake DNS issue.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2024
+July 30, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Massive Phishing Campaign Exploiting Proofpoint’s Email Protection to Dispatch Millions of Perfectly Spoofed Emails<a href="https://labs.guard.io/echospoofing-a-massive-phishing-campaign-exploiting-proofpoints-email-protection-to-dispatch-3dd6b5417db6?&web_view=true"> Full Text</a>
@@ -172,13 +316,13 @@ Massive Phishing Campaign Exploiting Proofpoint’s Email Protection to Dispatch
 The campaign began in January 2024 and peaked at 14 million emails in June. The emails were designed to steal sensitive information and included authentic-looking signatures to bypass security measures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Guard
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 30, 2024
+July 30, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Warns of Ransomware Gangs Abusing VMware ESXi Authentication Bypass in Attacks<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-ransomware-gangs-exploit-vmware-esxi-auth-bypass-in-attacks/?&web_view=true"> Full Text</a>
@@ -188,7 +332,7 @@ Microsoft Warns of Ransomware Gangs Abusing VMware ESXi Authentication Bypass in
 Ransomware operators like Black Basta and Akira have already used this vulnerability in attacks, with Storm-0506 deploying Black Basta ransomware on the ESXi hypervisors of a North American engineering firm.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
