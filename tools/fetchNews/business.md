@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+July 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cowbell Secures $60 Million Series C Funding From Zurich Insurance Group<a href="https://www.darkreading.com/cybersecurity-operations/cowbell-secures-60-million-series-c-funding-from-zurich-insurance-group?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This investment will allow Cowbell to expand its operations, enter key global markets, enhance cyber resilience services, introduce innovative products, and strengthen partnerships.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

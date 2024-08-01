@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+July 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crafty ClickFix-Style Phishing Campaign Targets Microsoft OneDrive Users<a href="https://securityaffairs.com/166312/hacking/microsoft-onedrive-phishing.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attackers use social engineering tactics to get users to run a PowerShell script, compromising their systems. The scam starts with an email containing an HTML file that tricks the recipient into clicking on a button to fix a fake DNS issue.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Massive Phishing Campaign Exploiting Proofpoint’s Email Protection to Dispatch Millions of Perfectly Spoofed Emails<a href="https://labs.guard.io/echospoofing-a-massive-phishing-campaign-exploiting-proofpoints-email-protection-to-dispatch-3dd6b5417db6?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign began in January 2024 and peaked at 14 million emails in June. The emails were designed to steal sensitive information and included authentic-looking signatures to bypass security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Guard
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

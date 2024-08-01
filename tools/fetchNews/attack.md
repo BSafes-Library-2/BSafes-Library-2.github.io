@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SideWinder Utilizes New Infrastructure to Target Ports and Maritime Facilities in the Mediterranean Sea<a href="https://blogs.blackberry.com/en/2024/07/sidewinder-targets-ports-and-maritime-facilities-in-the-mediterranean-sea?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The recent attacks by the SideWinder APT group use phishing lures related to emotional topics like sexual harassment and salary cuts to trick victims into opening booby-trapped Microsoft Word documents.
+</details>
+<div style="text-align: right" markdown="1">
+Blackberry
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+July 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Source Code of Phorpiex Botnet with Anti-AV Capabilities on Sale<a href="https://cybersecuritynews.com/beware-of-trik-loader-botnet/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The notorious Trik botnet, aka Phorpiex, is being sold in antivirus circles, offering advanced capabilities to evade detection. This C++ botnet includes modules such as a crypto clipper, a USB emitter, and a PE infector targeting crypto wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
