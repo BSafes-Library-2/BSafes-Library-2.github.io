@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2024
+August 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inaugural Pentagon Cyber Policy Chief Nominee Sails Through Senate Armed Services Committee<a href="https://therecord.media/first-pentagon-cyber-policy-chief-sulmeyer-confirmation?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate Armed Services Committee has approved Michael Sulmeyer, the Army’s top digital adviser, as the inaugural assistant secretary of defense for cyber policy, paving the way for his nomination to the Senate floor for a vote.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Innovative Approach Promises Faster Bug Fixes<a href="https://www.helpnetsecurity.com/2024/07/31/debugging-faster-bug-fixes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Birgit Hofer and Thomas Hirsch from TU Graz have developed a new approach to speed up software bug fixes. By identifying bottlenecks in fault localization, they created a scalable solution using NLP and metrics to analyze code for faults.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Largest Ever Ransomware Payment of $75m<a href="https://www.infosecurity-magazine.com/news/researchers-largest-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered the largest ransomware payment ever recorded, amounting to $75m, which was made to the Dark Angels group. This finding was revealed in Zscaler's ThreatLabz Ransom Report for 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DigiCert Mass-Revoking TLS Certificates Due to Domain Validation Bug<a href="https://www.bleepingcomputer.com/news/security/digicert-mass-revoking-tls-certificates-due-to-domain-validation-bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DigiCert discovered a bug in how domain ownership was verified, leading to the mass revocation of SSL/TLS certificates. Approximately 0.4% of domain validations conducted between August 2019 and June 2024 are affected.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Senate Passes Landmark Bill Protecting Children’s Online Safety and Privacy<a href="https://therecord.media/senate-passes-landmark-bill-children?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kids Online Safety and Privacy Act (KOPSA) combines two bills to enhance protections for children under 17, prohibiting targeted advertising, requiring consent for data collection, and limiting exposure to harmful content.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Insecure File-Sharing Practices in Healthcare Put Patient Privacy at Risk<a href="https://www.helpnetsecurity.com/2024/07/30/healthcare-sensitive-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Healthcare organizations are jeopardizing patient privacy due to insecure file-sharing practices, according to a report by Metomic. The study found that 25% of publicly shared files in healthcare contain Personally Identifiable Information (PII).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack On Service Provider Hits 300 Small Banks Across India<a href="https://www.ndtv.com/india-news/ransomware-attack-on-tech-service-provider-shuts-down-payment-systems-of-300-small-banks-across-india-news-agency-reuters-6234160?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack targeted C-Edge Technologies, a provider of banking systems for these banks. As a precaution, the National Payment Corporation of India (NPCI) has isolated these banks from the broader payment network to contain the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BEC Attacks Surge 20% Annually Thanks to AI Tooling<a href="https://www.infosecurity-magazine.com/news/bec-attacks-surge-20-annually-ai/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report by Vipre Security Group, based on data from processing 1.8 billion emails, revealed that 49% of blocked spam emails were BEC attacks, with CEOs, HR, and IT being common targets. The study also found that 40% of BEC attacks were AI-generated.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Telegram-Controlled TgRat Trojan Now Targets Linux Servers<a href="https://hackread.com/telegram-controlled-tgrat-trojan-targets-linux-servers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TgRat Trojan, previously targeting Windows, now focuses on Linux, using Telegram to control infected machines. Discovered by Dr. Web, this RAT allows cybercriminals to exfiltrate data and execute commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Some Companies Pay Ransomware Attackers Multiple Times, Survey Finds<a href="https://www.cybersecuritydive.com/news/ransomware-cyber-attack-security-payment/722856/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some companies are paying ransomware attackers multiple times, with more than a third not receiving the decryption keys or getting corrupted keys after paying, according to a survey by Semperis.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+July 31, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Source Code of Phorpiex Botnet with Anti-AV Capabilities on Sale<a href="https://cybersecuritynews.com/beware-of-trik-loader-botnet/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Source Code of Phorpiex Botnet with Anti-AV Capabilities on Sale<a href="https:/
 The notorious Trik botnet, aka Phorpiex, is being sold in antivirus circles, offering advanced capabilities to evade detection. This C++ botnet includes modules such as a crypto clipper, a USB emitter, and a PE infector targeting crypto wallets.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2024
+July 31, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Multiple SMTP Servers Vulnerable to Spoofing Attacks, Let Hackers Bypass Authentication<a href="https://cybersecuritynews.com/multiple-smtp-servers-vulnerable/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Multiple SMTP Servers Vulnerable to Spoofing Attacks, Let Hackers Bypass Authent
 Multiple SMTP servers are vulnerable to spoofing attacks that allow hackers to bypass authentication. Two vulnerabilities, CVE-2024-7208 and CVE-2024-7209, exploit weaknesses in authentication and verification mechanisms provided by SPF and DKIM.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2024
+July 31, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ubuntu Fixes Two OpenVPN Vulnerabilities<a href="https://tuxcare.com/blog/ubuntu-fixes-two-openvpn-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Ubuntu Fixes Two OpenVPN Vulnerabilities<a href="https://tuxcare.com/blog/ubuntu
 Ubuntu has fixed two vulnerabilities in OpenVPN, a virtual private network software. These vulnerabilities could keep the closing session active or lead to denial of service. Canonical released security updates for affected Ubuntu releases.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+TuxCare
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2024
+July 31, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Target Polish Businesses with Agent Tesla and Formbook Malware Delivered by ModiLoader<a href="https://www.welivesecurity.com/en/eset-research/phishing-targeting-polish-smbs-continues-modiloader/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Cybercriminals Target Polish Businesses with Agent Tesla and Formbook Malware De
 Cybercriminals targeted Polish businesses with Agent Tesla and Formbook malware through widespread phishing campaigns in May 2024. Small and medium-sized businesses (SMBs) in Poland, Italy, and Romania have been affected.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+We Live Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2024
+July 31, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 40% of Environments Exposed to Full Take Over<a href="https://www.picussecurity.com/resource/blog/blue-report-2024-reveals-40-percent-of-environments-exposed-to-full-take-over?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Report: 40% of Environments Exposed to Full Take Over<a href="https://www.picuss
 The Blue Report 2024 highlights alarming findings, with 40% of environments vulnerable to total takeover, emphasizing the importance of cybersecurity. Prevention effectiveness has improved to 69%, but detection effectiveness has dropped to 12%.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Picus Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2024
+July 31, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Specula Tool Uses Outlook for Remote Code Execution in Windows<a href="https://www.bleepingcomputer.com/news/security/new-specula-tool-uses-outlook-for-remote-code-execution-in-windows/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ New Specula Tool Uses Outlook for Remote Code Execution in Windows<a href="https
 TrustedSec released a post-exploitation framework called "Specula", which exploits CVE-2017-11774 to create a custom Outlook Home Page using WebView and execute arbitrary commands on compromised Windows systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2024
+July 31, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mandrake Spyware Infects 32,000 Devices via Google Play Apps<a href="https://www.infosecurity-magazine.com/news/mandrake-spyware-infects-32000/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Mandrake Spyware Infects 32,000 Devices via Google Play Apps<a href="https://www
 Initially detected in May 2020 by Bitdefender, Mandrake went undetected for four years. In April 2024, Kaspersky identified a new variant hidden in five Google Play apps from 2022 to 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2024
+July 31, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Study Evolution of Ransomware Gang UNC4393’s Campaigns After Qakbot Takedown<a href="https://thecyberexpress.com/researchers-ransomware-gang-unc4393s/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Researchers Study Evolution of Ransomware Gang UNC4393’s Campaigns After Qakbo
 Initially relying on Qakbot botnet infections, UNC4393 now uses custom malware and diverse access techniques after the crackdown on Qakbot. They have quick reconnaissance and encryption objectives, with a median time of 42 hours to ransomware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Cyber Express
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-July 31, 2024
+July 31, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 IBM: Cost of a Breach Reaches Nearly $5 Million, With Healthcare Being Hit the Hardest<a href="https://therecord.media/ibm-breach-report-cost-rise-to-5-million?&web_view=true"> Full Text</a>
@@ -172,7 +332,7 @@ IBM: Cost of a Breach Reaches Nearly $5 Million, With Healthcare Being Hit the H
 Breaches impacted 17 industries across 16 countries and regions, with costs related to detecting breaches, notifying victims, post-breach response efforts, and lost business.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
