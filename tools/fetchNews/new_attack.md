@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Attack On Service Provider Hits 300 Small Banks Across India<a href="https://www.ndtv.com/india-news/ransomware-attack-on-tech-service-provider-shuts-down-payment-systems-of-300-small-banks-across-india-news-agency-reuters-6234160?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack targeted C-Edge Technologies, a provider of banking systems for these banks. As a precaution, the National Payment Corporation of India (NPCI) has isolated these banks from the broader payment network to contain the attack.
+</details>
+<div style="text-align: right" markdown="1">
+Ndtv
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

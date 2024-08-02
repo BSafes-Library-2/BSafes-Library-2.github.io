@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inaugural Pentagon Cyber Policy Chief Nominee Sails Through Senate Armed Services Committee<a href="https://therecord.media/first-pentagon-cyber-policy-chief-sulmeyer-confirmation?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate Armed Services Committee has approved Michael Sulmeyer, the Army’s top digital adviser, as the inaugural assistant secretary of defense for cyber policy, paving the way for his nomination to the Senate floor for a vote.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

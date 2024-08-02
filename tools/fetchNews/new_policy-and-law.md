@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Senate Passes Landmark Bill Protecting Children’s Online Safety and Privacy<a href="https://therecord.media/senate-passes-landmark-bill-children?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Kids Online Safety and Privacy Act (KOPSA) combines two bills to enhance protections for children under 17, prohibiting targeted advertising, requiring consent for data collection, and limiting exposure to harmful content.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 26, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

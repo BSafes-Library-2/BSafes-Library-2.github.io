@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+July 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Study Evolution of Ransomware Gang UNC4393’s Campaigns After Qakbot Takedown<a href="https://thecyberexpress.com/researchers-ransomware-gang-unc4393s/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Initially relying on Qakbot botnet infections, UNC4393 now uses custom malware and diverse access techniques after the crackdown on Qakbot. They have quick reconnaissance and encryption objectives, with a median time of 42 hours to ransomware.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+July 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Target Polish Businesses with Agent Tesla and Formbook Malware Delivered by ModiLoader<a href="https://www.welivesecurity.com/en/eset-research/phishing-targeting-polish-smbs-continues-modiloader/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals targeted Polish businesses with Agent Tesla and Formbook malware through widespread phishing campaigns in May 2024. Small and medium-sized businesses (SMBs) in Poland, Italy, and Romania have been affected.
+</details>
+<div style="text-align: right" markdown="1">
+We Live Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+July 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 40% of Environments Exposed to Full Take Over<a href="https://www.picussecurity.com/resource/blog/blue-report-2024-reveals-40-percent-of-environments-exposed-to-full-take-over?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Blue Report 2024 highlights alarming findings, with 40% of environments vulnerable to total takeover, emphasizing the importance of cybersecurity. Prevention effectiveness has improved to 69%, but detection effectiveness has dropped to 12%.
+</details>
+<div style="text-align: right" markdown="1">
+Picus Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+July 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+IBM: Cost of a Breach Reaches Nearly $5 Million, With Healthcare Being Hit the Hardest<a href="https://therecord.media/ibm-breach-report-cost-rise-to-5-million?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Breaches impacted 17 industries across 16 countries and regions, with costs related to detecting breaches, notifying victims, post-breach response efforts, and lost business.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
