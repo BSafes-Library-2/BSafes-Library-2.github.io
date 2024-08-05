@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Intelligence: A Blessing and a Curse?<a href="https://www.helpnetsecurity.com/2024/08/01/threat-intelligence-platform-tips/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Access to timely and accurate threat intelligence is essential for organizations, but it can be overwhelming to navigate the vast amount of available data and feeds. Balancing comprehensive information with relevance is crucial.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 22, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

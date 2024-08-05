@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+August 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike Investors File Class Action Suit Following Global IT Outage<a href="https://www.cybersecuritydive.com/news/crowdstrike-class-action-suit-investors/723053/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Plymouth County Retirement Association claims the company misrepresented the effectiveness of its software platform and quality control procedures. The lawsuit alleges that CrowdStrike did not adequately test its software.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

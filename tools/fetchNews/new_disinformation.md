@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+August 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StackExchange Abused to Spread Malicious PyPI Packages as Answers<a href="https://www.bleepingcomputer.com/news/security/stackexchange-abused-to-spread-malicious-pypi-packages-as-answers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors used StackExchange to promote malicious PyPi packages, including 'spl-types,' 'raydium,' 'sol-structs,' 'sol-instruct,' and 'raydium-sdk,' which steal data from browsers, messaging apps, and cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

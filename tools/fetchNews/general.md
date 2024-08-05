@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+August 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover Largest Ever Ransomware Payment of $75m<a href="https://www.infosecurity-magazine.com/news/researchers-largest-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have uncovered the largest ransomware payment ever recorded, amounting to $75m, which was made to the Dark Angels group. This finding was revealed in Zscaler's ThreatLabz Ransom Report for 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BEC Attacks Surge 20% Annually Thanks to AI Tooling<a href="https://www.infosecurity-magazine.com/news/bec-attacks-surge-20-annually-ai/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A report by Vipre Security Group, based on data from processing 1.8 billion emails, revealed that 49% of blocked spam emails were BEC attacks, with CEOs, HR, and IT being common targets. The study also found that 40% of BEC attacks were AI-generated.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 1, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Some Companies Pay Ransomware Attackers Multiple Times, Survey Finds<a href="https://www.cybersecuritydive.com/news/ransomware-cyber-attack-security-payment/722856/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Some companies are paying ransomware attackers multiple times, with more than a third not receiving the decryption keys or getting corrupted keys after paying, according to a survey by Semperis.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 31, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

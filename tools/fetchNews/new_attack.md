@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacks on Bytecode Interpreters Conceal Malicious Injection Activity<a href="https://www.darkreading.com/vulnerabilities-threats/attacks-on-bytecode-interpreters-conceal-malicious-injection-activity?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This type of attack, known as Bytecode Jiu-Jitsu, takes advantage of the fact that interpreters do not require execution privilege for bytecode, making it difficult for security tools to detect.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 3, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacks on Bytecode Interpreters Conceal Malicious Injection Activity<a href="https://www.darkreading.com/vulnerabilities-threats/attacks-on-bytecode-interpreters-conceal-malicious-injection-activity?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This type of attack, known as Bytecode Jiu-Jitsu, takes advantage of the fact that interpreters do not require execution privilege for bytecode, making it difficult for security tools to detect.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StackExchange Abused to Spread Malicious PyPI Packages as Answers<a href="https://www.bleepingcomputer.com/news/security/stackexchange-abused-to-spread-malicious-pypi-packages-as-answers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors used StackExchange to promote malicious PyPi packages, including 'spl-types,' 'raydium,' 'sol-structs,' 'sol-instruct,' and 'raydium-sdk,' which steal data from browsers, messaging apps, and cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike Investors File Class Action Suit Following Global IT Outage<a href="https://www.cybersecuritydive.com/news/crowdstrike-class-action-suit-investors/723053/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Plymouth County Retirement Association claims the company misrepresented the effectiveness of its software platform and quality control procedures. The lawsuit alleges that CrowdStrike did not adequately test its software.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social Media Malvertising Campaign Promotes Fake AI Editor Website for Credential Theft<a href="https://www.trendmicro.com/en_us/research/24/h/malvertising-campaign-fake-ai-editor-website-credential-theft.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent malvertising campaign has been exposed, where threat actors take over social media pages, rebranding them as popular AI photo editors and posting malicious links to fake websites.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspects in 'Russian Coms' Spoofing Service Arrested in London, as NCA Announces Takedown<a href="https://therecord.media/russian-coms-caller-id-spoofing-service-arrests-takedown-uk-nca?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The caller ID spoofing service, which was established in 2021, is believed to have caused financial losses in the tens of millions and had around 170,000 victims in Britain.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Homebrew Security Audit Finds 25 Vulnerabilities<a href="https://brew.sh/2024/07/30/homebrew-security-audit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security audit sponsored by the Open Tech Fund in August 2023 revealed 25 vulnerabilities in Homebrew. The audit found issues that could have allowed attackers to execute code, modify builds, control CI/CD workflows, and access sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Homebrew
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Intelligence: A Blessing and a Curse?<a href="https://www.helpnetsecurity.com/2024/08/01/threat-intelligence-platform-tips/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Access to timely and accurate threat intelligence is essential for organizations, but it can be overwhelming to navigate the vast amount of available data and feeds. Balancing comprehensive information with relevance is crucial.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome Adds App-Bound Encryption to Block Infostealer Malware<a href="https://www.bleepingcomputer.com/news/security/google-chrome-adds-app-bound-encryption-to-block-infostealer-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome has implemented app-bound encryption to enhance cookie protection on Windows and defend against infostealer malware. This new feature encrypts data tied to app identity, similar to macOS's Keychain, to prevent unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT41 Likely Compromised Taiwanese Government-Affiliated Research Institute with ShadowPad and Cobalt Strike<a href="https://blog.talosintelligence.com/chinese-hacking-group-apt41-compromised-taiwanese-government-affiliated-research-institute-with-shadowpad-and-cobaltstrike-2/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A government-affiliated research organization in Taiwan was attacked by APT41 hackers, a notorious Chinese hacking group known for targeting sensitive technologies. The breach, starting in July 2023, was identified by Cisco Talos researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credo AI Raises $21M to Help Enterprises Deploy AI Safely and Responsibly<a href="https://siliconangle.com/2024/07/30/credo-ai-raises-21m-help-enterprises-deploy-ai-safely-responsibly-compliant-way/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Credo AI, a startup specializing in artificial intelligence governance software, recently closed a $21 million Series B funding round led by CrimsoNox Capital, Mozilla Ventures, and FPV Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 1, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
