@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2024
+August 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Attacks on Bytecode Interpreters Conceal Malicious Injection Activity<a href="https://www.darkreading.com/vulnerabilities-threats/attacks-on-bytecode-interpreters-conceal-malicious-injection-activity?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This type of attack, known as Bytecode Jiu-Jitsu, takes advantage of the fact that interpreters do not require execution privilege for bytecode, making it difficult for security tools to detect.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+StackExchange Abused to Spread Malicious PyPI Packages as Answers<a href="https://www.bleepingcomputer.com/news/security/stackexchange-abused-to-spread-malicious-pypi-packages-as-answers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors used StackExchange to promote malicious PyPi packages, including 'spl-types,' 'raydium,' 'sol-structs,' 'sol-instruct,' and 'raydium-sdk,' which steal data from browsers, messaging apps, and cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike Investors File Class Action Suit Following Global IT Outage<a href="https://www.cybersecuritydive.com/news/crowdstrike-class-action-suit-investors/723053/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Plymouth County Retirement Association claims the company misrepresented the effectiveness of its software platform and quality control procedures. The lawsuit alleges that CrowdStrike did not adequately test its software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Social Media Malvertising Campaign Promotes Fake AI Editor Website for Credential Theft<a href="https://www.trendmicro.com/en_us/research/24/h/malvertising-campaign-fake-ai-editor-website-credential-theft.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent malvertising campaign has been exposed, where threat actors take over social media pages, rebranding them as popular AI photo editors and posting malicious links to fake websites.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspects in 'Russian Coms' Spoofing Service Arrested in London, as NCA Announces Takedown<a href="https://therecord.media/russian-coms-caller-id-spoofing-service-arrests-takedown-uk-nca?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The caller ID spoofing service, which was established in 2021, is believed to have caused financial losses in the tens of millions and had around 170,000 victims in Britain.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Homebrew Security Audit Finds 25 Vulnerabilities<a href="https://brew.sh/2024/07/30/homebrew-security-audit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security audit sponsored by the Open Tech Fund in August 2023 revealed 25 vulnerabilities in Homebrew. The audit found issues that could have allowed attackers to execute code, modify builds, control CI/CD workflows, and access sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Intelligence: A Blessing and a Curse?<a href="https://www.helpnetsecurity.com/2024/08/01/threat-intelligence-platform-tips/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Access to timely and accurate threat intelligence is essential for organizations, but it can be overwhelming to navigate the vast amount of available data and feeds. Balancing comprehensive information with relevance is crucial.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Chrome Adds App-Bound Encryption to Block Infostealer Malware<a href="https://www.bleepingcomputer.com/news/security/google-chrome-adds-app-bound-encryption-to-block-infostealer-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Chrome has implemented app-bound encryption to enhance cookie protection on Windows and defend against infostealer malware. This new feature encrypts data tied to app identity, similar to macOS's Keychain, to prevent unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+APT41 Likely Compromised Taiwanese Government-Affiliated Research Institute with ShadowPad and Cobalt Strike<a href="https://blog.talosintelligence.com/chinese-hacking-group-apt41-compromised-taiwanese-government-affiliated-research-institute-with-shadowpad-and-cobaltstrike-2/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A government-affiliated research organization in Taiwan was attacked by APT41 hackers, a notorious Chinese hacking group known for targeting sensitive technologies. The breach, starting in July 2023, was identified by Cisco Talos researchers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credo AI Raises $21M to Help Enterprises Deploy AI Safely and Responsibly<a href="https://siliconangle.com/2024/07/30/credo-ai-raises-21m-help-enterprises-deploy-ai-safely-responsibly-compliant-way/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Credo AI, a startup specializing in artificial intelligence governance software, recently closed a $21 million Series B funding round led by CrimsoNox Capital, Mozilla Ventures, and FPV Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inaugural Pentagon Cyber Policy Chief Nominee Sails Through Senate Armed Services Committee<a href="https://therecord.media/first-pentagon-cyber-policy-chief-sulmeyer-confirmation?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Inaugural Pentagon Cyber Policy Chief Nominee Sails Through Senate Armed Service
 The Senate Armed Services Committee has approved Michael Sulmeyer, the Army’s top digital adviser, as the inaugural assistant secretary of defense for cyber policy, paving the way for his nomination to the Senate floor for a vote.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2024
+August 1, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Innovative Approach Promises Faster Bug Fixes<a href="https://www.helpnetsecurity.com/2024/07/31/debugging-faster-bug-fixes/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Innovative Approach Promises Faster Bug Fixes<a href="https://www.helpnetsecurit
 Birgit Hofer and Thomas Hirsch from TU Graz have developed a new approach to speed up software bug fixes. By identifying bottlenecks in fault localization, they created a scalable solution using NLP and metrics to analyze code for faults.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2024
+August 1, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover Largest Ever Ransomware Payment of $75m<a href="https://www.infosecurity-magazine.com/news/researchers-largest-ransomware/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Researchers Uncover Largest Ever Ransomware Payment of $75m<a href="https://www.
 Security researchers have uncovered the largest ransomware payment ever recorded, amounting to $75m, which was made to the Dark Angels group. This finding was revealed in Zscaler's ThreatLabz Ransom Report for 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2024
+August 1, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DigiCert Mass-Revoking TLS Certificates Due to Domain Validation Bug<a href="https://www.bleepingcomputer.com/news/security/digicert-mass-revoking-tls-certificates-due-to-domain-validation-bug/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ DigiCert Mass-Revoking TLS Certificates Due to Domain Validation Bug<a href="htt
 DigiCert discovered a bug in how domain ownership was verified, leading to the mass revocation of SSL/TLS certificates. Approximately 0.4% of domain validations conducted between August 2019 and June 2024 are affected.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2024
+August 1, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Senate Passes Landmark Bill Protecting Children’s Online Safety and Privacy<a href="https://therecord.media/senate-passes-landmark-bill-children?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ US Senate Passes Landmark Bill Protecting Children’s Online Safety and Privacy
 The Kids Online Safety and Privacy Act (KOPSA) combines two bills to enhance protections for children under 17, prohibiting targeted advertising, requiring consent for data collection, and limiting exposure to harmful content.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2024
+August 1, 2024 -- [Privacy](/docs/issues/privacy/privacy/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Insecure File-Sharing Practices in Healthcare Put Patient Privacy at Risk<a href="https://www.helpnetsecurity.com/2024/07/30/healthcare-sensitive-data/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Insecure File-Sharing Practices in Healthcare Put Patient Privacy at Risk<a href
 Healthcare organizations are jeopardizing patient privacy due to insecure file-sharing practices, according to a report by Metomic. The study found that 25% of publicly shared files in healthcare contain Personally Identifiable Information (PII).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2024
+August 1, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Attack On Service Provider Hits 300 Small Banks Across India<a href="https://www.ndtv.com/india-news/ransomware-attack-on-tech-service-provider-shuts-down-payment-systems-of-300-small-banks-across-india-news-agency-reuters-6234160?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Ransomware Attack On Service Provider Hits 300 Small Banks Across India<a href="
 The attack targeted C-Edge Technologies, a provider of banking systems for these banks. As a precaution, the National Payment Corporation of India (NPCI) has isolated these banks from the broader payment network to contain the attack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Ndtv
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2024
+August 1, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BEC Attacks Surge 20% Annually Thanks to AI Tooling<a href="https://www.infosecurity-magazine.com/news/bec-attacks-surge-20-annually-ai/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ BEC Attacks Surge 20% Annually Thanks to AI Tooling<a href="https://www.infosecu
 A report by Vipre Security Group, based on data from processing 1.8 billion emails, revealed that 49% of blocked spam emails were BEC attacks, with CEOs, HR, and IT being common targets. The study also found that 40% of BEC attacks were AI-generated.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2024
+August 1, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Telegram-Controlled TgRat Trojan Now Targets Linux Servers<a href="https://hackread.com/telegram-controlled-tgrat-trojan-targets-linux-servers/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Telegram-Controlled TgRat Trojan Now Targets Linux Servers<a href="https://hackr
 TgRat Trojan, previously targeting Windows, now focuses on Linux, using Telegram to control infected machines. Discovered by Dr. Web, this RAT allows cybercriminals to exfiltrate data and execute commands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Hack Read
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 1, 2024
+August 1, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Some Companies Pay Ransomware Attackers Multiple Times, Survey Finds<a href="https://www.cybersecuritydive.com/news/ransomware-cyber-attack-security-payment/722856/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Some Companies Pay Ransomware Attackers Multiple Times, Survey Finds<a href="htt
 Some companies are paying ransomware attackers multiple times, with more than a third not receiving the decryption keys or getting corrupted keys after paying, according to a survey by Semperis.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
