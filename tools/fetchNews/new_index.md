@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Senate Confirms First DOD Cyber Policy Chief<a href="https://therecord.media/senate-confirms-first-dod-cyber-policy-chief?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate has confirmed Michael Sulmeyer as the first cyber policy chief at the Defense Department, where he will serve as the assistant secretary of Defense for cyber policy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Legal Records Stolen in 2023 Than Previous 5 Years Combined<a href="https://www.darkreading.com/threat-intelligence/more-legal-records-stolen-2023-than-prior-5-years-combined?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The sensitive nature of legal data makes law firms lucrative targets for hackers, who aim to access valuable information for specific purposes. Despite the costly demands, firms face the dilemma of paying the ransom or risking backlash from clients.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations Fail to Log 44% of Cyberattacks, Major Exposure Gaps Remain<a href="https://www.helpnetsecurity.com/2024/08/02/threat-exposure-management/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Picus Security, organizations are failing to detect 44% of cyberattacks, revealing major exposure gaps. 40% of environments tested allowed for attack paths leading to domain admin access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Hacktivist Group Claims it Took Down Iran’s Internet<a href="https://www.theregister.com/2024/08/02/israeli_hacktivists/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WeRedEvils announced their intention to target Iranian systems on Telegram, claiming their attack was successful in infiltrating Iran's computer systems, stealing data, and causing the outage.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Sues TikTok for Violating Children Privacy Protection Laws<a href="https://www.bleepingcomputer.com/news/security/us-sues-tiktok-for-violating-children-privacy-protection-laws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The lawsuit alleges that TikTok collected personal information from children under 13 without parental consent, failed to delete children-created accounts, and misled parents about data collection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surge in Magniber Ransomware Attacks Impact Home Users Worldwide<a href="https://www.bleepingcomputer.com/news/security/surge-in-magniber-ransomware-attacks-impact-home-users-worldwide/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unlike other ransomware groups targeting businesses, Magniber focuses on individuals. Victims report their devices getting infected after running software cracks. Ransom demands start at $1,000 and escalate to $5,000 if not paid within three days.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike Outage Renews Supply Chain Concerns, Federal Officials Say<a href="https://www.cybersecuritydive.com/news/crowdstrike-outage-supply-chain/723198/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal officials have raised concerns about the software supply chain and memory safety vulnerabilities following a global IT outage caused by a faulty CrowdStrike software update.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evasive Panda Compromises ISP to Distribute Malicious Software Updates<a href="https://informationsecuritybuzz.com/stormbamboo-malicious-software-updates/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group used DNS poisoning to redirect software update queries to attacker-controlled servers, infecting victims with malware. Volexity detected one attack in Hong Kong, which ceased when the ISP took action.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Officials Meet with Allies, Industry on Connected Car Risks<a href="https://therecord.media/white-house-officials-meet-with-nations-industry-connected-cars?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Representatives from various countries and the European Union participated in the meeting, addressing cybersecurity and data risks in connected vehicles. The meeting highlighted the importance of connected cars as a critical part of infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Kernel Impacted by New SLUBStick Cross-Cache Attack<a href="https://www.bleepingcomputer.com/news/security/linux-kernel-impacted-by-new-slubstick-cross-cache-attack/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Linux Kernel attack called SLUBStick has a 99% success rate in turning a limited heap vulnerability into a powerful memory read-and-write capability, allowing for privilege escalation and container escape.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 3, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
