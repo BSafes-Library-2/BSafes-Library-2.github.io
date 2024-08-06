@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Credo AI Raises $21M to Help Enterprises Deploy AI Safely and Responsibly<a href="https://siliconangle.com/2024/07/30/credo-ai-raises-21m-help-enterprises-deploy-ai-safely-responsibly-compliant-way/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Credo AI, a startup specializing in artificial intelligence governance software, recently closed a $21 million Series B funding round led by CrimsoNox Capital, Mozilla Ventures, and FPV Ventures.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
