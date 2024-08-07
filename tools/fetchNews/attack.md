@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Surge in Magniber Ransomware Attacks Impact Home Users Worldwide<a href="https://www.bleepingcomputer.com/news/security/surge-in-magniber-ransomware-attacks-impact-home-users-worldwide/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Unlike other ransomware groups targeting businesses, Magniber focuses on individuals. Victims report their devices getting infected after running software cracks. Ransom demands start at $1,000 and escalate to $5,000 if not paid within three days.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Linux Kernel Impacted by New SLUBStick Cross-Cache Attack<a href="https://www.bleepingcomputer.com/news/security/linux-kernel-impacted-by-new-slubstick-cross-cache-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new Linux Kernel attack called SLUBStick has a 99% success rate in turning a limited heap vulnerability into a powerful memory read-and-write capability, allowing for privilege escalation and container escape.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

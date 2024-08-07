@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Legal Records Stolen in 2023 Than Previous 5 Years Combined<a href="https://www.darkreading.com/threat-intelligence/more-legal-records-stolen-2023-than-prior-5-years-combined?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The sensitive nature of legal data makes law firms lucrative targets for hackers, who aim to access valuable information for specific purposes. Despite the costly demands, firms face the dilemma of paying the ransom or risking backlash from clients.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Organizations Fail to Log 44% of Cyberattacks, Major Exposure Gaps Remain<a href="https://www.helpnetsecurity.com/2024/08/02/threat-exposure-management/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Picus Security, organizations are failing to detect 44% of cyberattacks, revealing major exposure gaps. 40% of environments tested allowed for attack paths leading to domain admin access.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

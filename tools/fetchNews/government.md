@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+August 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Senate Confirms First DOD Cyber Policy Chief<a href="https://therecord.media/senate-confirms-first-dod-cyber-policy-chief?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Senate has confirmed Michael Sulmeyer as the first cyber policy chief at the Defense Department, where he will serve as the assistant secretary of Defense for cyber policy.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CrowdStrike Outage Renews Supply Chain Concerns, Federal Officials Say<a href="https://www.cybersecuritydive.com/news/crowdstrike-outage-supply-chain/723198/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal officials have raised concerns about the software supply chain and memory safety vulnerabilities following a global IT outage caused by a faulty CrowdStrike software update.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+White House Officials Meet with Allies, Industry on Connected Car Risks<a href="https://therecord.media/white-house-officials-meet-with-nations-industry-connected-cars?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Representatives from various countries and the European Union participated in the meeting, addressing cybersecurity and data risks in connected vehicles. The meeting highlighted the importance of connected cars as a critical part of infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 1, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Israeli Hacktivist Group Claims it Took Down Iran’s Internet<a href="https://www.theregister.com/2024/08/02/israeli_hacktivists/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+WeRedEvils announced their intention to target Iranian systems on Telegram, claiming their attack was successful in infiltrating Iran's computer systems, stealing data, and causing the outage.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Evasive Panda Compromises ISP to Distribute Malicious Software Updates<a href="https://informationsecuritybuzz.com/stormbamboo-malicious-software-updates/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group used DNS poisoning to redirect software update queries to attacker-controlled servers, infecting victims with malware. Volexity detected one attack in Hong Kong, which ceased when the ISP took action.
+</details>
+<div style="text-align: right" markdown="1">
+Information Security Buzz
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

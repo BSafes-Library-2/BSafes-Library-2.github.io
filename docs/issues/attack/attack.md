@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+August 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bloody Wolf Strikes Organizations in Kazakhstan with STRRAT Commercial Malware<a href="https://bi.zone/eng/expertise/blog/bloody-wolf-primenyaet-kommercheskoe-vpo-strrat-protiv-organizatsiy-v-kazakhstane/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The STRRAT malware, sold for $80, allows attackers to take control of computers and steal data. Attackers use phishing emails pretending to be from government agencies to trick victims into downloading malicious files.
+</details>
+<div style="text-align: right" markdown="1">
+BI.ZONE
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Exploit VPN Update Flaw to Install Malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-vpn-update-flaw-to-install-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers exploited a VPN software update flaw to install malware and breach networks, as warned by South Korea's National Cyber Security Center. The threat groups involved in these activities are Kimsuky (APT43) and Andariel (APT45).
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gang Targets IT Workers With New SharpRhino Malware<a href="https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-gang-targets-it-workers-with-new-sharprhino-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hunters International ransomware group is using a new C# remote access trojan named SharpRhino to target IT workers and breach corporate networks. It is distributed through a typosquatting site posing as Angry IP Scanner's website.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
