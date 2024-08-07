@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bloody Wolf Strikes Organizations in Kazakhstan with STRRAT Commercial Malware<a href="https://bi.zone/eng/expertise/blog/bloody-wolf-primenyaet-kommercheskoe-vpo-strrat-protiv-organizatsiy-v-kazakhstane/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The STRRAT malware, sold for $80, allows attackers to take control of computers and steal data. Attackers use phishing emails pretending to be from government agencies to trick victims into downloading malicious files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sneaky SnakeKeylogger Slithers Into Windows Email Inboxes<a href="https://www.theregister.com/2024/08/05/snakekeylogger_malware_windows/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SnakeKeylogger, also known as KrakenKeylogger, is a malicious software targeting Windows users. It logs keystrokes, steals credentials, and takes screenshots, allowing cybercriminals to capture sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Exploit VPN Update Flaw to Install Malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-vpn-update-flaw-to-install-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers exploited a VPN software update flaw to install malware and breach networks, as warned by South Korea's National Cyber Security Center. The threat groups involved in these activities are Kimsuky (APT43) and Andariel (APT45).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Cost More Than $17 Million, Key Tronic Tells Regulators<a href="https://therecord.media/key-tronic-cyberattack-cost-17-million-sec?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Key Tronic revealed to regulators that a cyberattack in May 2024 cost the company over $17 million. The attack led to a shutdown of operations in Mexico and the U.S. for two weeks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gang Targets IT Workers With New SharpRhino Malware<a href="https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-gang-targets-it-workers-with-new-sharprhino-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hunters International ransomware group is using a new C# remote access trojan named SharpRhino to target IT workers and breach corporate networks. It is distributed through a typosquatting site posing as Angry IP Scanner's website.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks Still Ravage Schools, Defying White House Efforts Launched Last Year<a href="https://www.nextgov.com/cybersecurity/2024/08/cyberattacks-still-ravage-schools-defying-white-house-efforts-launched-last-year/398556/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last year, the White House launched an initiative to strengthen school cybersecurity, but cyberattacks on schools persist. Private sector resources have been utilized by thousands of school districts to enhance their defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Around 20K Ubiquiti IoT Cameras & Routers are Sitting Ducks for Hackers<a href="https://www.darkreading.com/ics-ot-security/20k-ubiquiti-iot-cameras-and-routers-are-sitting-ducks-for-hackers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Around 20,000 Ubiquiti IoT cameras and routers are at risk due to a vulnerability that has been known for five years. Researchers have found that despite patches being available, many devices are still vulnerable.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Fixes Android Kernel Zero-Day Exploited in Targeted Attacks<a href="https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-targeted-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has patched a zero-day vulnerability in the Android kernel that was being exploited in targeted attacks. The vulnerability, tracked as CVE-2024-36971, allows for arbitrary code execution without user interaction on unpatched devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mint Stealer: New MaaS Malware Threatens Confidential Data<a href="https://securityonline.info/mint-stealer-new-maas-malware-threatens-confidential-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new MaaS malware known as Mint Stealer has emerged, threatening confidential data. This malware, identified by experts from Cyfirma, is designed to steal a wide range of information by employing advanced encryption and obfuscation techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of a New Critical Apache OFBiz Flaw<a href="https://securityaffairs.com/166612/hacking/critical-apache-ofbiz-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability allows unauthenticated users to execute screen rendering code under certain conditions in versions up to 18.12.14, with version 18.12.15 addressing the issue.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 5, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2024
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Bloody Wolf Strikes Organizations in Kazakhstan with STRRAT Commercial Malware<a href="https://bi.zone/eng/expertise/blog/bloody-wolf-primenyaet-kommercheskoe-vpo-strrat-protiv-organizatsiy-v-kazakhstane/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The STRRAT malware, sold for $80, allows attackers to take control of computers and steal data. Attackers use phishing emails pretending to be from government agencies to trick victims into downloading malicious files.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sneaky SnakeKeylogger Slithers Into Windows Email Inboxes<a href="https://www.theregister.com/2024/08/05/snakekeylogger_malware_windows/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SnakeKeylogger, also known as KrakenKeylogger, is a malicious software targeting Windows users. It logs keystrokes, steals credentials, and takes screenshots, allowing cybercriminals to capture sensitive information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Exploit VPN Update Flaw to Install Malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-vpn-update-flaw-to-install-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers exploited a VPN software update flaw to install malware and breach networks, as warned by South Korea's National Cyber Security Center. The threat groups involved in these activities are Kimsuky (APT43) and Andariel (APT45).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattack Cost More Than $17 Million, Key Tronic Tells Regulators<a href="https://therecord.media/key-tronic-cyberattack-cost-17-million-sec?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Key Tronic revealed to regulators that a cyberattack in May 2024 cost the company over $17 million. The attack led to a shutdown of operations in Mexico and the U.S. for two weeks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gang Targets IT Workers With New SharpRhino Malware<a href="https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-gang-targets-it-workers-with-new-sharprhino-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Hunters International ransomware group is using a new C# remote access trojan named SharpRhino to target IT workers and breach corporate networks. It is distributed through a typosquatting site posing as Angry IP Scanner's website.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks Still Ravage Schools, Defying White House Efforts Launched Last Year<a href="https://www.nextgov.com/cybersecurity/2024/08/cyberattacks-still-ravage-schools-defying-white-house-efforts-launched-last-year/398556/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last year, the White House launched an initiative to strengthen school cybersecurity, but cyberattacks on schools persist. Private sector resources have been utilized by thousands of school districts to enhance their defenses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Around 20K Ubiquiti IoT Cameras & Routers are Sitting Ducks for Hackers<a href="https://www.darkreading.com/ics-ot-security/20k-ubiquiti-iot-cameras-and-routers-are-sitting-ducks-for-hackers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Around 20,000 Ubiquiti IoT cameras and routers are at risk due to a vulnerability that has been known for five years. Researchers have found that despite patches being available, many devices are still vulnerable.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Fixes Android Kernel Zero-Day Exploited in Targeted Attacks<a href="https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-targeted-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has patched a zero-day vulnerability in the Android kernel that was being exploited in targeted attacks. The vulnerability, tracked as CVE-2024-36971, allows for arbitrary code execution without user interaction on unpatched devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mint Stealer: New MaaS Malware Threatens Confidential Data<a href="https://securityonline.info/mint-stealer-new-maas-malware-threatens-confidential-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new MaaS malware known as Mint Stealer has emerged, threatening confidential data. This malware, identified by experts from Cyfirma, is designed to steal a wide range of information by employing advanced encryption and obfuscation techniques.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Warn of a New Critical Apache OFBiz Flaw<a href="https://securityaffairs.com/166612/hacking/critical-apache-ofbiz-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability allows unauthenticated users to execute screen rendering code under certain conditions in versions up to 18.12.14, with version 18.12.15 addressing the issue.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 5, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Senate Confirms First DOD Cyber Policy Chief<a href="https://therecord.media/senate-confirms-first-dod-cyber-policy-chief?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ US Senate Confirms First DOD Cyber Policy Chief<a href="https://therecord.media/
 The Senate has confirmed Michael Sulmeyer as the first cyber policy chief at the Defense Department, where he will serve as the assistant secretary of Defense for cyber policy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2024
+August 5, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Legal Records Stolen in 2023 Than Previous 5 Years Combined<a href="https://www.darkreading.com/threat-intelligence/more-legal-records-stolen-2023-than-prior-5-years-combined?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ More Legal Records Stolen in 2023 Than Previous 5 Years Combined<a href="https:/
 The sensitive nature of legal data makes law firms lucrative targets for hackers, who aim to access valuable information for specific purposes. Despite the costly demands, firms face the dilemma of paying the ransom or risking backlash from clients.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2024
+August 5, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Organizations Fail to Log 44% of Cyberattacks, Major Exposure Gaps Remain<a href="https://www.helpnetsecurity.com/2024/08/02/threat-exposure-management/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Organizations Fail to Log 44% of Cyberattacks, Major Exposure Gaps Remain<a href
 According to Picus Security, organizations are failing to detect 44% of cyberattacks, revealing major exposure gaps. 40% of environments tested allowed for attack paths leading to domain admin access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2024
+August 5, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Israeli Hacktivist Group Claims it Took Down Iran’s Internet<a href="https://www.theregister.com/2024/08/02/israeli_hacktivists/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Israeli Hacktivist Group Claims it Took Down Iran’s Internet<a href="https://w
 WeRedEvils announced their intention to target Iranian systems on Telegram, claiming their attack was successful in infiltrating Iran's computer systems, stealing data, and causing the outage.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2024
+August 5, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Sues TikTok for Violating Children Privacy Protection Laws<a href="https://www.bleepingcomputer.com/news/security/us-sues-tiktok-for-violating-children-privacy-protection-laws/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ US Sues TikTok for Violating Children Privacy Protection Laws<a href="https://ww
 The lawsuit alleges that TikTok collected personal information from children under 13 without parental consent, failed to delete children-created accounts, and misled parents about data collection.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2024
+August 5, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Surge in Magniber Ransomware Attacks Impact Home Users Worldwide<a href="https://www.bleepingcomputer.com/news/security/surge-in-magniber-ransomware-attacks-impact-home-users-worldwide/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Surge in Magniber Ransomware Attacks Impact Home Users Worldwide<a href="https:/
 Unlike other ransomware groups targeting businesses, Magniber focuses on individuals. Victims report their devices getting infected after running software cracks. Ransom demands start at $1,000 and escalate to $5,000 if not paid within three days.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2024
+August 5, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CrowdStrike Outage Renews Supply Chain Concerns, Federal Officials Say<a href="https://www.cybersecuritydive.com/news/crowdstrike-outage-supply-chain/723198/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ CrowdStrike Outage Renews Supply Chain Concerns, Federal Officials Say<a href="h
 Federal officials have raised concerns about the software supply chain and memory safety vulnerabilities following a global IT outage caused by a faulty CrowdStrike software update.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2024
+August 5, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Evasive Panda Compromises ISP to Distribute Malicious Software Updates<a href="https://informationsecuritybuzz.com/stormbamboo-malicious-software-updates/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Evasive Panda Compromises ISP to Distribute Malicious Software Updates<a href="h
 The group used DNS poisoning to redirect software update queries to attacker-controlled servers, infecting victims with malware. Volexity detected one attack in Hong Kong, which ceased when the ISP took action.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Information Security Buzz
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2024
+August 5, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 White House Officials Meet with Allies, Industry on Connected Car Risks<a href="https://therecord.media/white-house-officials-meet-with-nations-industry-connected-cars?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ White House Officials Meet with Allies, Industry on Connected Car Risks<a href="
 Representatives from various countries and the European Union participated in the meeting, addressing cybersecurity and data risks in connected vehicles. The meeting highlighted the importance of connected cars as a critical part of infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 5, 2024
+August 5, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Linux Kernel Impacted by New SLUBStick Cross-Cache Attack<a href="https://www.bleepingcomputer.com/news/security/linux-kernel-impacted-by-new-slubstick-cross-cache-attack/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Linux Kernel Impacted by New SLUBStick Cross-Cache Attack<a href="https://www.bl
 A new Linux Kernel attack called SLUBStick has a 99% success rate in turning a limited heap vulnerability into a powerful memory read-and-write capability, allowing for privilege escalation and container escape.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
