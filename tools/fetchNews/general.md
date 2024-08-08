@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyberattacks Still Ravage Schools, Defying White House Efforts Launched Last Year<a href="https://www.nextgov.com/cybersecurity/2024/08/cyberattacks-still-ravage-schools-defying-white-house-efforts-launched-last-year/398556/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Last year, the White House launched an initiative to strengthen school cybersecurity, but cyberattacks on schools persist. Private sector resources have been utilized by thousands of school districts to enhance their defenses.
+</details>
+<div style="text-align: right" markdown="1">
+NextGov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

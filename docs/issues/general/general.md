@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Email Attacks Skyrocket 293%<a href="https://www.helpnetsecurity.com/2024/08/06/email-attacks-h1-2024/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Acronis, ransomware remains a top threat for SMBs, especially in critical sectors like government and healthcare, where 10 new ransomware groups conducted 84 cyberattacks globally in Q1 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Swells Despite Collective Push to Curb Attacks<a href="https://www.cybersecuritydive.com/news/ransomware-swells-first-half-2024/723419/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid7 researchers noted over 2,570 attacks in the first half of 2024, equating to around 14 attacks daily. The number of ransomware groups posting on data leak sites surged 67% compared to the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Email Attacks Skyrocket 293%<a href="https://www.helpnetsecurity.com/2024/08/06/email-attacks-h1-2024/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Report: Email Attacks Skyrocket 293%<a href="https://www.helpnetsecurity.com/202
 According to Acronis, ransomware remains a top threat for SMBs, especially in critical sectors like government and healthcare, where 10 new ransomware groups conducted 84 cyberattacks globally in Q1 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal Watchdog Urges EPA to Develop Comprehensive Cyber Strategy to Protect Water Systems<a href="https://www.cybersecuritydive.com/news/federal-watchdog-epa-cyber-strategy/723427/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Federal Watchdog Urges EPA to Develop Comprehensive Cyber Strategy to Protect Wa
 The U.S. Government Accountability Office is urging the Environmental Protection Agency (EPA) to develop a comprehensive strategy to protect the nation's drinking and wastewater systems from cyber threats.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NHS Software Supplier Advanced Faces $7.6 Million Fine Over Ransomware Attack Failings<a href="https://therecord.media/nhs-software-supplier-hit-with-6-million-fine?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ NHS Software Supplier Advanced Faces $7.6 Million Fine Over Ransomware Attack Fa
 NHS software supplier Advanced faces a hefty fine of over £6 million (~$7.6 Million) for failing to protect personal information during a ransomware attack that impacted the National Health Service in the UK.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Swells Despite Collective Push to Curb Attacks<a href="https://www.cybersecuritydive.com/news/ransomware-swells-first-half-2024/723419/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Ransomware Swells Despite Collective Push to Curb Attacks<a href="https://www.cy
 Rapid7 researchers noted over 2,570 attacks in the first half of 2024, equating to around 14 attacks daily. The number of ransomware groups posting on data leak sites surged 67% compared to the previous year.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Announced Doubleface Ransomware, Claims Fully Undetectable<a href="https://cybersecuritynews.com/doubleface-ransomware-claims/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Threat Actors Announced Doubleface Ransomware, Claims Fully Undetectable<a href=
 Threat actors have introduced Doubleface ransomware, claiming it to be fully undetectable by major antivirus software. The ransomware utilizes a unique algorithm with AES-128 and RSA-4096 encryption, making decryption difficult without the right key.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Training Organization Pledges $15 Million in Education Programs<a href="https://therecord.media/cyber-training-org-pledges-15-million-white-house-coker?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Cyber Training Organization Pledges $15 Million in Education Programs<a href="ht
 EC-Council, a cyber certification organization, has pledged $15 million in scholarships to support over 50,000 students in cybersecurity programs. The goal is to help students earn industry credentials and enhance their cybersecurity skills.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Leverage Malicious NPM Packages for Initial Access<a href="https://securitylabs.datadoghq.com/articles/stressed-pungsan-dprk-aligned-threat-actor-leverages-npm-for-initial-access/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ North Korean Hackers Leverage Malicious NPM Packages for Initial Access<a href="
 North Korean hackers, identified as Moonstone Sleet, have been distributing malicious JavaScript packages on the npm registry to infect Windows systems. The two packages, harthat-api and harthat-hash, were uploaded on July 7, 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+DataDog
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abnormal Security Raises $250M on $5.1B Valuation to Enhance AI-Driven Cyber Protection<a href="https://siliconangle.com/2024/08/06/abnormal-security-raises-250m-5-1b-valuation-enhance-ai-driven-cyber-protection/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Abnormal Security Raises $250M on $5.1B Valuation to Enhance AI-Driven Cyber Pro
 Abnormal Security, an AI-driven cybersecurity company, has raised $250 million in funding, valuing the company at $5.1 billion. The funding will support their mission of using AI to protect against cybercrime by understanding human behavior.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Silicon Angle
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chameleon Malware Now Targeting Employees Masquerading as a CRM app<a href="https://www.threatfabric.com/blogs/chameleon-is-now-targeting-employees-masquerading-as-crm-app?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Chameleon Malware Now Targeting Employees Masquerading as a CRM app<a href="http
 Researchers have revealed a new tactic used by threat actors behind the Chameleon Android banking trojan, targeting Canadian users with a disguised Customer Relationship Management (CRM) app.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Threat Fabric
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Role of AI in Cybersecurity Operations<a href="https://www.helpnetsecurity.com/2024/08/05/ai-soc-analysts/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ The Role of AI in Cybersecurity Operations<a href="https://www.helpnetsecurity.c
 AI can analyze data quickly, detect patterns of malicious behavior, and automate routine tasks like alert triaging and log analysis. However, human oversight is still necessary to ensure the accuracy and relevance of AI-generated insights.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

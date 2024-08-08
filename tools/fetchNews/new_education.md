@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Role of AI in Cybersecurity Operations<a href="https://www.helpnetsecurity.com/2024/08/05/ai-soc-analysts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI can analyze data quickly, detect patterns of malicious behavior, and automate routine tasks like alert triaging and log analysis. However, human oversight is still necessary to ensure the accuracy and relevance of AI-generated insights.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

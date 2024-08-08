@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abnormal Security Raises $250M on $5.1B Valuation to Enhance AI-Driven Cyber Protection<a href="https://siliconangle.com/2024/08/06/abnormal-security-raises-250m-5-1b-valuation-enhance-ai-driven-cyber-protection/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Abnormal Security, an AI-driven cybersecurity company, has raised $250 million in funding, valuing the company at $5.1 billion. The funding will support their mission of using AI to protect against cybercrime by understanding human behavior.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angle
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
