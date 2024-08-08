@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2024
+August 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: Email Attacks Skyrocket 293%<a href="https://www.helpnetsecurity.com/2024/08/06/email-attacks-h1-2024/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to Acronis, ransomware remains a top threat for SMBs, especially in critical sectors like government and healthcare, where 10 new ransomware groups conducted 84 cyberattacks globally in Q1 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal Watchdog Urges EPA to Develop Comprehensive Cyber Strategy to Protect Water Systems<a href="https://www.cybersecuritydive.com/news/federal-watchdog-epa-cyber-strategy/723427/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Government Accountability Office is urging the Environmental Protection Agency (EPA) to develop a comprehensive strategy to protect the nation's drinking and wastewater systems from cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS Software Supplier Advanced Faces $7.6 Million Fine Over Ransomware Attack Failings<a href="https://therecord.media/nhs-software-supplier-hit-with-6-million-fine?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NHS software supplier Advanced faces a hefty fine of over £6 million (~$7.6 Million) for failing to protect personal information during a ransomware attack that impacted the National Health Service in the UK.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Swells Despite Collective Push to Curb Attacks<a href="https://www.cybersecuritydive.com/news/ransomware-swells-first-half-2024/723419/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid7 researchers noted over 2,570 attacks in the first half of 2024, equating to around 14 attacks daily. The number of ransomware groups posting on data leak sites surged 67% compared to the previous year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actors Announced Doubleface Ransomware, Claims Fully Undetectable<a href="https://cybersecuritynews.com/doubleface-ransomware-claims/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have introduced Doubleface ransomware, claiming it to be fully undetectable by major antivirus software. The ransomware utilizes a unique algorithm with AES-128 and RSA-4096 encryption, making decryption difficult without the right key.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Training Organization Pledges $15 Million in Education Programs<a href="https://therecord.media/cyber-training-org-pledges-15-million-white-house-coker?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EC-Council, a cyber certification organization, has pledged $15 million in scholarships to support over 50,000 students in cybersecurity programs. The goal is to help students earn industry credentials and enhance their cybersecurity skills.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Leverage Malicious NPM Packages for Initial Access<a href="https://securitylabs.datadoghq.com/articles/stressed-pungsan-dprk-aligned-threat-actor-leverages-npm-for-initial-access/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers, identified as Moonstone Sleet, have been distributing malicious JavaScript packages on the npm registry to infect Windows systems. The two packages, harthat-api and harthat-hash, were uploaded on July 7, 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Abnormal Security Raises $250M on $5.1B Valuation to Enhance AI-Driven Cyber Protection<a href="https://siliconangle.com/2024/08/06/abnormal-security-raises-250m-5-1b-valuation-enhance-ai-driven-cyber-protection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Abnormal Security, an AI-driven cybersecurity company, has raised $250 million in funding, valuing the company at $5.1 billion. The funding will support their mission of using AI to protect against cybercrime by understanding human behavior.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chameleon Malware Now Targeting Employees Masquerading as a CRM app<a href="https://www.threatfabric.com/blogs/chameleon-is-now-targeting-employees-masquerading-as-crm-app?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have revealed a new tactic used by threat actors behind the Chameleon Android banking trojan, targeting Canadian users with a disguised Customer Relationship Management (CRM) app.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Role of AI in Cybersecurity Operations<a href="https://www.helpnetsecurity.com/2024/08/05/ai-soc-analysts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI can analyze data quickly, detect patterns of malicious behavior, and automate routine tasks like alert triaging and log analysis. However, human oversight is still necessary to ensure the accuracy and relevance of AI-generated insights.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 6, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Bloody Wolf Strikes Organizations in Kazakhstan with STRRAT Commercial Malware<a href="https://bi.zone/eng/expertise/blog/bloody-wolf-primenyaet-kommercheskoe-vpo-strrat-protiv-organizatsiy-v-kazakhstane/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Bloody Wolf Strikes Organizations in Kazakhstan with STRRAT Commercial Malware<a
 The STRRAT malware, sold for $80, allows attackers to take control of computers and steal data. Attackers use phishing emails pretending to be from government agencies to trick victims into downloading malicious files.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+BI.ZONE
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2024
+August 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sneaky SnakeKeylogger Slithers Into Windows Email Inboxes<a href="https://www.theregister.com/2024/08/05/snakekeylogger_malware_windows/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Sneaky SnakeKeylogger Slithers Into Windows Email Inboxes<a href="https://www.th
 SnakeKeylogger, also known as KrakenKeylogger, is a malicious software targeting Windows users. It logs keystrokes, steals credentials, and takes screenshots, allowing cybercriminals to capture sensitive information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2024
+August 6, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Exploit VPN Update Flaw to Install Malware<a href="https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-vpn-update-flaw-to-install-malware/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ North Korean Hackers Exploit VPN Update Flaw to Install Malware<a href="https://
 North Korean hackers exploited a VPN software update flaw to install malware and breach networks, as warned by South Korea's National Cyber Security Center. The threat groups involved in these activities are Kimsuky (APT43) and Andariel (APT45).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2024
+August 6, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattack Cost More Than $17 Million, Key Tronic Tells Regulators<a href="https://therecord.media/key-tronic-cyberattack-cost-17-million-sec?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Cyberattack Cost More Than $17 Million, Key Tronic Tells Regulators<a href="http
 Key Tronic revealed to regulators that a cyberattack in May 2024 cost the company over $17 million. The attack led to a shutdown of operations in Mexico and the U.S. for two weeks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2024
+August 6, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Gang Targets IT Workers With New SharpRhino Malware<a href="https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-gang-targets-it-workers-with-new-sharprhino-malware/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Ransomware Gang Targets IT Workers With New SharpRhino Malware<a href="https://w
 The Hunters International ransomware group is using a new C# remote access trojan named SharpRhino to target IT workers and breach corporate networks. It is distributed through a typosquatting site posing as Angry IP Scanner's website.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2024
+August 6, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyberattacks Still Ravage Schools, Defying White House Efforts Launched Last Year<a href="https://www.nextgov.com/cybersecurity/2024/08/cyberattacks-still-ravage-schools-defying-white-house-efforts-launched-last-year/398556/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Cyberattacks Still Ravage Schools, Defying White House Efforts Launched Last Yea
 Last year, the White House launched an initiative to strengthen school cybersecurity, but cyberattacks on schools persist. Private sector resources have been utilized by thousands of school districts to enhance their defenses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+NextGov
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2024
+August 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Around 20K Ubiquiti IoT Cameras & Routers are Sitting Ducks for Hackers<a href="https://www.darkreading.com/ics-ot-security/20k-ubiquiti-iot-cameras-and-routers-are-sitting-ducks-for-hackers?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Around 20K Ubiquiti IoT Cameras & Routers are Sitting Ducks for Hackers<a href="
 Around 20,000 Ubiquiti IoT cameras and routers are at risk due to a vulnerability that has been known for five years. Researchers have found that despite patches being available, many devices are still vulnerable.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2024
+August 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Fixes Android Kernel Zero-Day Exploited in Targeted Attacks<a href="https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-targeted-attacks/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Google Fixes Android Kernel Zero-Day Exploited in Targeted Attacks<a href="https
 Google has patched a zero-day vulnerability in the Android kernel that was being exploited in targeted attacks. The vulnerability, tracked as CVE-2024-36971, allows for arbitrary code execution without user interaction on unpatched devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2024
+August 6, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Mint Stealer: New MaaS Malware Threatens Confidential Data<a href="https://securityonline.info/mint-stealer-new-maas-malware-threatens-confidential-data/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Mint Stealer: New MaaS Malware Threatens Confidential Data<a href="https://secur
 A new MaaS malware known as Mint Stealer has emerged, threatening confidential data. This malware, identified by experts from Cyfirma, is designed to steal a wide range of information by employing advanced encryption and obfuscation techniques.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 6, 2024
+August 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Warn of a New Critical Apache OFBiz Flaw<a href="https://securityaffairs.com/166612/hacking/critical-apache-ofbiz-flaw.html?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Researchers Warn of a New Critical Apache OFBiz Flaw<a href="https://securityaff
 The vulnerability allows unauthenticated users to execute screen rendering code under certain conditions in versions up to 18.12.14, with version 18.12.15 addressing the issue.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
