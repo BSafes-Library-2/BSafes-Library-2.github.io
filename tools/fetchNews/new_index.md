@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'0.0.0.0 Day' Flaw Puts Chrome, Firefox, Mozilla Browsers at RCE Risk<a href="https://www.darkreading.com/cyberattacks-data-breaches/0000-day-flaw-puts-chrome-firefox-mozilla-browsers-at-rce-risk?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An open source security firm, Oligo Security, has discovered a vulnerability called "0.0.0.0 Day" that allows attackers to execute code on web browsers like Chrome, Safari, and Firefox, potentially leading to data theft and malware.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Warns of Critical RCE Zero-Days in End of Life IP Phones<a href="https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-rce-zero-days-in-end-of-life-ip-phones/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has issued a warning about critical remote code execution zero-days affecting the web-based management interface of the Small Business SPA 300 and SPA 500 series IP phones, which are no longer supported.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Hackers Abusing Cisco Smart Install Feature<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-abusing-cisco-smart-install-feature/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has advised organizations to disable the legacy Cisco Smart Install (SMI) feature due to recent attacks exploiting it.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea Kimsuky Launch Phishing Attacks on Universities<a href="https://www.infosecurity-magazine.com/news/north-korea-kimsuky-phishing/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity analysts have uncovered critical details about the North Korean advanced persistent threat (APT) group Kimsuky, which has been targeting universities as part of its global espionage operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Russian Spies Hacked UK Government Systems Earlier This Year, Stole Data and Emails<a href="https://therecord.media/russia-hack-uk-government-home-office-microsoft?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Russian spies hacked UK government systems earlier this year, stealing data and emails in a nation-state attack. The breach targeted the Home Office's systems, which had not been previously reported.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hazy Issue in Entra ID Allows Privileged Users to Become Global Admins<a href="https://www.darkreading.com/application-security/hazy-issue-entra-id-privileged-users-become-global-admins?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An issue with Microsoft's Entra ID identity and access management service could allow a hacker with admin-level access to gain global administrator privileges within an organization's cloud environment.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How to Weaponize Microsoft Copilot for Cyberattackers<a href="https://www.darkreading.com/application-security/how-to-weaponize-microsoft-copilot-for-cyberattackers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Copilot is an AI-based chatbot used by enterprises to streamline tasks, but it can also be manipulated by attackers to steal data and conduct phishing scams without leaving a trace.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Offers $10 Million for Information on Iranian Hackers Behind CyberAv3ngers Water Utility Attacks<a href="https://therecord.media/us-offers-reward-for-info-on-iranian-hackers-water-utilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department has offered a $10 million reward for information on six Iranian government hackers who allegedly targeted U.S. water utilities last fall. These individuals were previously sanctioned for targeting critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Number of Incidents Affecting GitHub, Bitbucket, GitLab, and Jira Continues to Rise<a href="https://www.helpnetsecurity.com/2024/08/07/github-bitbucket-gitlab-jira-incidents/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of incidents affecting GitHub, Bitbucket, GitLab, and Jira is on the rise, leading to outages, human errors, cyberattacks, data breaches, ransomware, security vulnerabilities, and data loss for DevSecOps teams, according to GitProtect.io.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Groups Emerge Despite Crackdowns<a href="https://www.infosecurity-magazine.com/news/new-ransomware-groups-emerge-1/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Rapid7, a total of 21 new or rebranded groups have emerged since January 2024, alongside existing groups like LockBit, which has survived law enforcement crackdowns.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 7, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: Email Attacks Skyrocket 293%<a href="https://www.helpnetsecurity.com/2024/08/06/email-attacks-h1-2024/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Report: Email Attacks Skyrocket 293%<a href="https://www.helpnetsecurity.com/202
 According to Acronis, ransomware remains a top threat for SMBs, especially in critical sectors like government and healthcare, where 10 new ransomware groups conducted 84 cyberattacks globally in Q1 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Federal Watchdog Urges EPA to Develop Comprehensive Cyber Strategy to Protect Water Systems<a href="https://www.cybersecuritydive.com/news/federal-watchdog-epa-cyber-strategy/723427/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Federal Watchdog Urges EPA to Develop Comprehensive Cyber Strategy to Protect Wa
 The U.S. Government Accountability Office is urging the Environmental Protection Agency (EPA) to develop a comprehensive strategy to protect the nation's drinking and wastewater systems from cyber threats.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NHS Software Supplier Advanced Faces $7.6 Million Fine Over Ransomware Attack Failings<a href="https://therecord.media/nhs-software-supplier-hit-with-6-million-fine?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ NHS Software Supplier Advanced Faces $7.6 Million Fine Over Ransomware Attack Fa
 NHS software supplier Advanced faces a hefty fine of over £6 million (~$7.6 Million) for failing to protect personal information during a ransomware attack that impacted the National Health Service in the UK.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Swells Despite Collective Push to Curb Attacks<a href="https://www.cybersecuritydive.com/news/ransomware-swells-first-half-2024/723419/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Ransomware Swells Despite Collective Push to Curb Attacks<a href="https://www.cy
 Rapid7 researchers noted over 2,570 attacks in the first half of 2024, equating to around 14 attacks daily. The number of ransomware groups posting on data leak sites surged 67% compared to the previous year.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Announced Doubleface Ransomware, Claims Fully Undetectable<a href="https://cybersecuritynews.com/doubleface-ransomware-claims/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Threat Actors Announced Doubleface Ransomware, Claims Fully Undetectable<a href=
 Threat actors have introduced Doubleface ransomware, claiming it to be fully undetectable by major antivirus software. The ransomware utilizes a unique algorithm with AES-128 and RSA-4096 encryption, making decryption difficult without the right key.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Training Organization Pledges $15 Million in Education Programs<a href="https://therecord.media/cyber-training-org-pledges-15-million-white-house-coker?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Cyber Training Organization Pledges $15 Million in Education Programs<a href="ht
 EC-Council, a cyber certification organization, has pledged $15 million in scholarships to support over 50,000 students in cybersecurity programs. The goal is to help students earn industry credentials and enhance their cybersecurity skills.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 North Korean Hackers Leverage Malicious NPM Packages for Initial Access<a href="https://securitylabs.datadoghq.com/articles/stressed-pungsan-dprk-aligned-threat-actor-leverages-npm-for-initial-access/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ North Korean Hackers Leverage Malicious NPM Packages for Initial Access<a href="
 North Korean hackers, identified as Moonstone Sleet, have been distributing malicious JavaScript packages on the npm registry to infect Windows systems. The two packages, harthat-api and harthat-hash, were uploaded on July 7, 2024.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+DataDog
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Abnormal Security Raises $250M on $5.1B Valuation to Enhance AI-Driven Cyber Protection<a href="https://siliconangle.com/2024/08/06/abnormal-security-raises-250m-5-1b-valuation-enhance-ai-driven-cyber-protection/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Abnormal Security Raises $250M on $5.1B Valuation to Enhance AI-Driven Cyber Pro
 Abnormal Security, an AI-driven cybersecurity company, has raised $250 million in funding, valuing the company at $5.1 billion. The funding will support their mission of using AI to protect against cybercrime by understanding human behavior.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Silicon Angle
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chameleon Malware Now Targeting Employees Masquerading as a CRM app<a href="https://www.threatfabric.com/blogs/chameleon-is-now-targeting-employees-masquerading-as-crm-app?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Chameleon Malware Now Targeting Employees Masquerading as a CRM app<a href="http
 Researchers have revealed a new tactic used by threat actors behind the Chameleon Android banking trojan, targeting Canadian users with a disguised Customer Relationship Management (CRM) app.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Threat Fabric
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 7, 2024
+August 7, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 The Role of AI in Cybersecurity Operations<a href="https://www.helpnetsecurity.com/2024/08/05/ai-soc-analysts/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ The Role of AI in Cybersecurity Operations<a href="https://www.helpnetsecurity.c
 AI can analyze data quickly, detect patterns of malicious behavior, and automate routine tasks like alert triaging and log analysis. However, human oversight is still necessary to ensure the accuracy and relevance of AI-generated insights.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
