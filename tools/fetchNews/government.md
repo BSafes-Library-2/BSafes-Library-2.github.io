@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+August 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Federal Watchdog Urges EPA to Develop Comprehensive Cyber Strategy to Protect Water Systems<a href="https://www.cybersecuritydive.com/news/federal-watchdog-epa-cyber-strategy/723427/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Government Accountability Office is urging the Environmental Protection Agency (EPA) to develop a comprehensive strategy to protect the nation's drinking and wastewater systems from cyber threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Training Organization Pledges $15 Million in Education Programs<a href="https://therecord.media/cyber-training-org-pledges-15-million-white-house-coker?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EC-Council, a cyber certification organization, has pledged $15 million in scholarships to support over 50,000 students in cybersecurity programs. The goal is to help students earn industry credentials and enhance their cybersecurity skills.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

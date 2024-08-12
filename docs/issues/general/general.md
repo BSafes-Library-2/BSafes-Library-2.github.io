@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Number of Incidents Affecting GitHub, Bitbucket, GitLab, and Jira Continues to Rise<a href="https://www.helpnetsecurity.com/2024/08/07/github-bitbucket-gitlab-jira-incidents/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The number of incidents affecting GitHub, Bitbucket, GitLab, and Jira is on the rise, leading to outages, human errors, cyberattacks, data breaches, ransomware, security vulnerabilities, and data loss for DevSecOps teams, according to GitProtect.io.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Ransomware Groups Emerge Despite Crackdowns<a href="https://www.infosecurity-magazine.com/news/new-ransomware-groups-emerge-1/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Rapid7, a total of 21 new or rebranded groups have emerged since January 2024, alongside existing groups like LockBit, which has survived law enforcement crackdowns.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

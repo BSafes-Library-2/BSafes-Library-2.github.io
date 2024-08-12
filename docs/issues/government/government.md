@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Hackers Abusing Cisco Smart Install Feature<a href="https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-abusing-cisco-smart-install-feature/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has advised organizations to disable the legacy Cisco Smart Install (SMI) feature due to recent attacks exploiting it.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

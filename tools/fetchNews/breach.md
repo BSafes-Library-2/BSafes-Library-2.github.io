@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NHS Software Supplier Advanced Faces $7.6 Million Fine Over Ransomware Attack Failings<a href="https://therecord.media/nhs-software-supplier-hit-with-6-million-fine?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+NHS software supplier Advanced faces a hefty fine of over £6 million (~$7.6 Million) for failing to protect personal information during a ransomware attack that impacted the National Health Service in the UK.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 6, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
