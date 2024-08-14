@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+August 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Misconfigurations and IAM Weaknesses Top Cloud Security Concerns<a href="https://www.helpnetsecurity.com/2024/08/12/cloud-computing-issues/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While traditional cloud security issues associated with Cloud Service Providers (CSPs) are decreasing in significance, misconfigurations, IAM weaknesses, and API risks remain critical in cloud computing.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 74% of Ransomware Victims Were Attacked Multiple Times in a Year<a href="https://www.helpnetsecurity.com/2024/08/12/74-of-ransomware-victims-were-attacked-multiple-times-in-a-year/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Despite implementing cybersecurity measures, many companies are paying multiple ransoms annually, with 78% of targeted organizations paying the ransom, according to a report by Semperis.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIS2: A Catalyst for Cybersecurity Innovation or Just Another Box-Ticking Exercise?<a href="https://www.helpnetsecurity.com/2024/08/09/nis2-cybersecurity-innovation-catalyst/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Network and Information Security (NIS) 2 Directive is a major cybersecurity regulation in Europe, with EU Member States having until October 17, 2024, to comply with the increased security standards and reporting requirements.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

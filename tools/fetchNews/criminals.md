@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 9, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Offers $10 Million for Information on Iranian Hackers Behind CyberAv3ngers Water Utility Attacks<a href="https://therecord.media/us-offers-reward-for-info-on-iranian-hackers-water-utilities?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. State Department has offered a $10 million reward for information on six Iranian government hackers who allegedly targeted U.S. water utilities last fall. These individuals were previously sanctioned for targeting critical infrastructure.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

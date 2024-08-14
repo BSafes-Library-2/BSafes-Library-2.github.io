@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Dark Skippy Attack Let Hackers Steal Secret Keys From Signing Devices<a href="https://cybersecuritynews.com/dark-skippy-attack/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The "Dark Skippy" method allows hackers to steal Bitcoin hardware wallet keys by embedding secret data into public Bitcoin transactions, which can then be used to extract a person's seed words.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
