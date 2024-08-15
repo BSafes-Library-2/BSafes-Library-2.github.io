@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+August 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Formalizes World's First Post-Quantum Cryptography Standards<a href="https://www.infosecurity-magazine.com/news/nist-quantum-cryptography-standards/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The finalized post-quantum cryptography standards are Module-Lattice-Based Key-Encapsulation Mechanism Standard (FIPS 203), Module-Lattice-Based Digital Signature Standard (FIPS 204), and Stateless Hash-Based Digital Signature Standard (FIPS 205).
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

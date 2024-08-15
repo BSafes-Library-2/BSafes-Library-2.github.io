@@ -7,6 +7,28 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2024 - NIST 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Releases First 3 Finalized Post-Quantum Encryption Standards <a href="https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards"> Full Text</a>
+</p>
+<details>
+The U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) has finalized its principal set of encryption algorithms designed to withstand cyberattacks from a quantum computer. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 9, 2024 - White House 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fact Sheet: Biden-⁠Harris Administration Releases Summary Report of 2023 RFI on Open Source-Software Security Initiative <a href="https://www.whitehouse.gov/oncd/briefing-room/2024/08/09/fact-sheet-biden-harris-administration-releases-end-of-year-report-on-open-source-software-security-initiative-2/#:~:text=The%20OSSPI%20is%20intended%20to,the%20open%2Dsource%20software%20ecosystem."> Full Text</a>
+</p>
+<details>
+Today, the White House Office of the National Cyber Director, in partnership with members of the Open-Source Software Security Initiative (OS3I), is publishing a summary report on the Request for Information (RFI): Open-Source Software Security: Areas of Long-Term Focus and Prioritization. This builds on the commitment the Administration made in the National Cybersecurity Strategy, “to invest in the development of secure software, including memory-safe languages and software development techniques, frameworks, and testing tools.” 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 8, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

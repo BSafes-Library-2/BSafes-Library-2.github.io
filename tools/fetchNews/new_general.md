@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DARPA Awards $14m to Seven Teams in AI Cyber Challenge<a href="https://www.infosecurity-magazine.com/news/darpa-awards-14m-seven-teams-ai-1/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DARPA has awarded $14 million to seven teams in the AI Cyber Challenge (AIxCC) at DEFCON 32. The competition aims to find a cyber reasoning system to identify and fix vulnerabilities in open-source software.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

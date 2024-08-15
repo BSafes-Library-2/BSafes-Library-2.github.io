@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How CIOs, CTOs, and CISOs View Cyber Risks Differently<a href="https://www.helpnetsecurity.com/2024/08/13/c-suite-priorities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+C-suite executives face the challenge of balancing technological innovation with cybersecurity resilience. A report by LevelBlue highlighted the complexities of their roles and the need for strategic cybersecurity approaches.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

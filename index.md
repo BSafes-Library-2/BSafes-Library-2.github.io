@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: New Windows SmartScreen Bypass Exploited as Zero-Day Since March<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-smartscreen-bypass-exploited-as-zero-day-since-march/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Update: New Windows SmartScreen Bypass Exploited as Zero-Day Since March<a href=
 A security loophole in Windows SmartScreen, known as CVE-2024-38213, was exploited by attackers as a zero-day to bypass protection. Microsoft patched this vulnerability during the June 2024 Patch Tuesday.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prolific Malvertising Scammer Arrested and Extradited to US to Face Charges<a href="https://therecord.media/prolific-scammer-arrested-extradited-us?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Prolific Malvertising Scammer Arrested and Extradited to US to Face Charges<a hr
 Maxim Silnikau, a Belarusian-Ukrainian cybercriminal dubbed one of the most prolific Russian-speaking hackers by the UK's NCA, has been arrested in Spain and extradited to the US.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw in Ivanti Virtual Traffic Manager Could Allow Rogue Admin Access<a href="https://thehackernews.com/2024/08/critical-flaw-in-ivanti-virtual-traffic.html?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Critical Flaw in Ivanti Virtual Traffic Manager Could Allow Rogue Admin Access<a
 Ivanti Virtual Traffic Manager has a critical flaw that could allow rogue admin access. A security update has been released for this vulnerability, tracked as CVE-2024-7593, with a CVSS score of 9.8.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Formalizes World's First Post-Quantum Cryptography Standards<a href="https://www.infosecurity-magazine.com/news/nist-quantum-cryptography-standards/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ NIST Formalizes World's First Post-Quantum Cryptography Standards<a href="https:
 The finalized post-quantum cryptography standards are Module-Lattice-Based Key-Encapsulation Mechanism Standard (FIPS 203), Module-Lattice-Based Digital Signature Standard (FIPS 204), and Stateless Hash-Based Digital Signature Standard (FIPS 205).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Azure AI Health Bot Infected With Critical Vulnerabilities<a href="https://www.darkreading.com/application-security/microsoft-azure-ai-health-bot-infected-with-critical-vulnerabilities?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Microsoft Azure AI Health Bot Infected With Critical Vulnerabilities<a href="htt
 Multiple privilege escalation issues in Microsoft Azure's cloud-based Health Bot service opened the platform to server-side request forgery (SSRF) and could have allowed access to cross-tenant resources.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DARPA Awards $14m to Seven Teams in AI Cyber Challenge<a href="https://www.infosecurity-magazine.com/news/darpa-awards-14m-seven-teams-ai-1/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ DARPA Awards $14m to Seven Teams in AI Cyber Challenge<a href="https://www.infos
 DARPA has awarded $14 million to seven teams in the AI Cyber Challenge (AIxCC) at DEFCON 32. The competition aims to find a cyber reasoning system to identify and fix vulnerabilities in open-source software.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Campaign Poses as Ukraine's Security Service to Spread ANONVNC Malware<a href="https://www.darkreading.com/vulnerabilities-threats/ukraine-cert-phishing-campaign-poses-as-nations-security-service?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Phishing Campaign Poses as Ukraine's Security Service to Spread ANONVNC Malware<
 Cybercriminals impersonated the Security Service of Ukraine (SSU) using malicious spam emails to target and infect the systems of Ukrainian government agencies. The attackers successfully distributed AnonVNC malware to over 100 computers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How CIOs, CTOs, and CISOs View Cyber Risks Differently<a href="https://www.helpnetsecurity.com/2024/08/13/c-suite-priorities/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ How CIOs, CTOs, and CISOs View Cyber Risks Differently<a href="https://www.helpn
 C-suite executives face the challenge of balancing technological innovation with cybersecurity resilience. A report by LevelBlue highlighted the complexities of their roles and the need for strategic cybersecurity approaches.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Seize Radar/Dispossessor Ransomware Gang Servers in US and Europe<a href="https://therecord.media/fbi-seizes-ransomware-servers-radar?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Feds Seize Radar/Dispossessor Ransomware Gang Servers in US and Europe<a href="h
 Federal authorities have seized servers belonging to the Radar/Dispossessor ransomware gang in the U.S. and Europe. The FBI dismantled dozens of servers linked to the group, which is believed to have ties to the LockBit ransomware enterprise.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden Administration Pledges $11 Million to Open Source Security Initiative<a href="https://therecord.media/open-source-software-security-white-house-dhs-11million-funding?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Biden Administration Pledges $11 Million to Open Source Security Initiative<a hr
 The effort, known as the Open-Source Software Prevalence Initiative (OSSPI), aims to identify where open-source software components are being used in sectors like healthcare, transportation, and energy production to enhance national cybersecurity.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

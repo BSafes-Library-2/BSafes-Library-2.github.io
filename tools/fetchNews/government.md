@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 13, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Britain and France to Discuss Misuse of Commercial Cyber Intrusion Tools<a href="https://therecord.media/united-kingdom-france-pall-mall-process-cyber-intrusion-tools?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK and France will discuss the misuse of commercial cyber intrusion tools as part of the Pall Mall Process, aiming to address the irresponsible use of hacking tools like spyware.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

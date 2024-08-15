@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prolific Malvertising Scammer Arrested and Extradited to US to Face Charges<a href="https://therecord.media/prolific-scammer-arrested-extradited-us?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maxim Silnikau, a Belarusian-Ukrainian cybercriminal dubbed one of the most prolific Russian-speaking hackers by the UK's NCA, has been arrested in Spain and extradited to the US.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Seize Radar/Dispossessor Ransomware Gang Servers in US and Europe<a href="https://therecord.media/fbi-seizes-ransomware-servers-radar?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal authorities have seized servers belonging to the Radar/Dispossessor ransomware gang in the U.S. and Europe. The FBI dismantled dozens of servers linked to the group, which is believed to have ties to the LockBit ransomware enterprise.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 9, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

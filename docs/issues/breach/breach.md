@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Poses as Ukraine's Security Service to Spread ANONVNC Malware<a href="https://www.darkreading.com/vulnerabilities-threats/ukraine-cert-phishing-campaign-poses-as-nations-security-service?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals impersonated the Security Service of Ukraine (SSU) using malicious spam emails to target and infect the systems of Ukrainian government agencies. The attackers successfully distributed AnonVNC malware to over 100 computers.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
