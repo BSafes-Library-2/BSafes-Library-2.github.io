@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2024
+August 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: New Windows SmartScreen Bypass Exploited as Zero-Day Since March<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-smartscreen-bypass-exploited-as-zero-day-since-march/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security loophole in Windows SmartScreen, known as CVE-2024-38213, was exploited by attackers as a zero-day to bypass protection. Microsoft patched this vulnerability during the June 2024 Patch Tuesday.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Prolific Malvertising Scammer Arrested and Extradited to US to Face Charges<a href="https://therecord.media/prolific-scammer-arrested-extradited-us?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Maxim Silnikau, a Belarusian-Ukrainian cybercriminal dubbed one of the most prolific Russian-speaking hackers by the UK's NCA, has been arrested in Spain and extradited to the US.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in Ivanti Virtual Traffic Manager Could Allow Rogue Admin Access<a href="https://thehackernews.com/2024/08/critical-flaw-in-ivanti-virtual-traffic.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Ivanti Virtual Traffic Manager has a critical flaw that could allow rogue admin access. A security update has been released for this vulnerability, tracked as CVE-2024-7593, with a CVSS score of 9.8.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Formalizes World's First Post-Quantum Cryptography Standards<a href="https://www.infosecurity-magazine.com/news/nist-quantum-cryptography-standards/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The finalized post-quantum cryptography standards are Module-Lattice-Based Key-Encapsulation Mechanism Standard (FIPS 203), Module-Lattice-Based Digital Signature Standard (FIPS 204), and Stateless Hash-Based Digital Signature Standard (FIPS 205).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Azure AI Health Bot Infected With Critical Vulnerabilities<a href="https://www.darkreading.com/application-security/microsoft-azure-ai-health-bot-infected-with-critical-vulnerabilities?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Multiple privilege escalation issues in Microsoft Azure's cloud-based Health Bot service opened the platform to server-side request forgery (SSRF) and could have allowed access to cross-tenant resources.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DARPA Awards $14m to Seven Teams in AI Cyber Challenge<a href="https://www.infosecurity-magazine.com/news/darpa-awards-14m-seven-teams-ai-1/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DARPA has awarded $14 million to seven teams in the AI Cyber Challenge (AIxCC) at DEFCON 32. The competition aims to find a cyber reasoning system to identify and fix vulnerabilities in open-source software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Phishing Campaign Poses as Ukraine's Security Service to Spread ANONVNC Malware<a href="https://www.darkreading.com/vulnerabilities-threats/ukraine-cert-phishing-campaign-poses-as-nations-security-service?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals impersonated the Security Service of Ukraine (SSU) using malicious spam emails to target and infect the systems of Ukrainian government agencies. The attackers successfully distributed AnonVNC malware to over 100 computers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+How CIOs, CTOs, and CISOs View Cyber Risks Differently<a href="https://www.helpnetsecurity.com/2024/08/13/c-suite-priorities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+C-suite executives face the challenge of balancing technological innovation with cybersecurity resilience. A report by LevelBlue highlighted the complexities of their roles and the need for strategic cybersecurity approaches.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Feds Seize Radar/Dispossessor Ransomware Gang Servers in US and Europe<a href="https://therecord.media/fbi-seizes-ransomware-servers-radar?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal authorities have seized servers belonging to the Radar/Dispossessor ransomware gang in the U.S. and Europe. The FBI dismantled dozens of servers linked to the group, which is believed to have ties to the LockBit ransomware enterprise.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Administration Pledges $11 Million to Open Source Security Initiative<a href="https://therecord.media/open-source-software-security-white-house-dhs-11million-funding?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The effort, known as the Open-Source Software Prevalence Initiative (OSSPI), aims to identify where open-source software components are being used in sectors like healthcare, transportation, and energy production to enhance national cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Misconfigurations and IAM Weaknesses Top Cloud Security Concerns<a href="https://www.helpnetsecurity.com/2024/08/12/cloud-computing-issues/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Misconfigurations and IAM Weaknesses Top Cloud Security Concerns<a href="https:/
 While traditional cloud security issues associated with Cloud Service Providers (CSPs) are decreasing in significance, misconfigurations, IAM weaknesses, and API risks remain critical in cloud computing.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2024
+August 13, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Industrial Remote Access Tool Ewon Cosy+ Vulnerable to Root Access Attacks<a href="https://thehackernews.com/2024/08/industrial-remote-access-tool-ewon-cosy.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Industrial Remote Access Tool Ewon Cosy+ Vulnerable to Root Access Attacks<a hre
 Researchers at SySS GmbH revealed that attackers could exploit vulnerabilities in Ewon Cosy+ to gain elevated access, decrypt encrypted data, and hijack VPN sessions, posing a significant threat to users and industrial infrastructure.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2024
+August 13, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 74% of Ransomware Victims Were Attacked Multiple Times in a Year<a href="https://www.helpnetsecurity.com/2024/08/12/74-of-ransomware-victims-were-attacked-multiple-times-in-a-year/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Report: 74% of Ransomware Victims Were Attacked Multiple Times in a Year<a href=
 Despite implementing cybersecurity measures, many companies are paying multiple ransoms annually, with 78% of targeted organizations paying the ransom, according to a report by Semperis.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2024
+August 13, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Dark Skippy Attack Let Hackers Steal Secret Keys From Signing Devices<a href="https://cybersecuritynews.com/dark-skippy-attack/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ New Dark Skippy Attack Let Hackers Steal Secret Keys From Signing Devices<a href
 The "Dark Skippy" method allows hackers to steal Bitcoin hardware wallet keys by embedding secret data into public Bitcoin transactions, which can then be used to extract a person's seed words.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2024
+August 13, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Scout Suite: Open-Source Cloud Security Auditing Tool<a href="https://www.helpnetsecurity.com/2024/08/12/scout-suite-open-source-cloud-security-auditing-tool/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Scout Suite: Open-Source Cloud Security Auditing Tool<a href="https://www.helpne
 Scout Suite is an open-source cloud security auditing tool that assesses security in multi-cloud environments. By using cloud vendors' APIs, it gathers configuration data to identify risks efficiently.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2024
+August 13, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fake X Content Warnings on Ukraine War, Earthquakes Used as Clickbait<a href="https://www.bleepingcomputer.com/news/security/fake-x-content-warnings-on-ukraine-war-earthquakes-used-as-clickbait/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Fake X Content Warnings on Ukraine War, Earthquakes Used as Clickbait<a href="ht
 Scammers are using fake content warnings related to the Ukraine war and earthquakes to lure users into clicking on links that lead to adult sites, malicious browser extensions, and affiliate scams on X.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2024
+August 13, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Britain and France to Discuss Misuse of Commercial Cyber Intrusion Tools<a href="https://therecord.media/united-kingdom-france-pall-mall-process-cyber-intrusion-tools?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Britain and France to Discuss Misuse of Commercial Cyber Intrusion Tools<a href=
 The UK and France will discuss the misuse of commercial cyber intrusion tools as part of the Pall Mall Process, aiming to address the irresponsible use of hacking tools like spyware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2024
+August 13, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Uncover 10 Flaws in Google's File Transfer Tool Quick Share<a href="https://thehackernews.com/2024/08/researchers-uncover-10-flaws-in-googles.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Researchers Uncover 10 Flaws in Google's File Transfer Tool Quick Share<a href="
 The flaws include denial-of-service issues, unauthorized file write bugs, directory traversal, and forced Wi-Fi connections. Google has released an update (v1.0.1724.0) to address these vulnerabilities and is tracking them under two CVE identifiers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2024
+August 13, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Actors Hijacking Websites to Deliver .NET-Based Malware<a href="https://cybersecuritynews.com/web-hijack-dotnet-malware/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Threat Actors Hijacking Websites to Deliver .NET-Based Malware<a href="https://c
 Cyber threat operation ClearFake distributes fake antivirus software to trick users into believing their systems are infected, leading to requests for payment or installation of more malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 13, 2024
+August 13, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIS2: A Catalyst for Cybersecurity Innovation or Just Another Box-Ticking Exercise?<a href="https://www.helpnetsecurity.com/2024/08/09/nis2-cybersecurity-innovation-catalyst/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ NIS2: A Catalyst for Cybersecurity Innovation or Just Another Box-Ticking Exerci
 The Network and Information Security (NIS) 2 Directive is a major cybersecurity regulation in Europe, with EU Member States having until October 17, 2024, to comply with the increased security standards and reporting requirements.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
