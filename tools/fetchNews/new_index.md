@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research Uncovers New Microsoft Outlook Vulnerability<a href="https://www.infosecurity-magazine.com/news/research-uncovers-new-microsoft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new vulnerability has been discovered in Microsoft Outlook by security researchers, labeled as CVE-2024-38173 with a CVSS score of 6.7. This Form Injection RCE flaw is similar to a previous vulnerability, CVE-2024-30103, patched in July 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Attack Uses Sophisticated Infostealer Malware<a href="https://www.infosecurity-magazine.com/news/phishing-attack-uses-infostealer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing attack with advanced infostealer malware has been discovered by analysts. The malware collects sensitive data like passwords, cookies, credit card info, and browsing history.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows TCP/IP RCE Impacts all Systems with IPv6 Enabled, Patch Now<a href="https://www.bleepingcomputer.com/news/microsoft/zero-click-windows-tcp-ip-rce-impacts-all-systems-with-ipv6-enabled-patch-now/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical TCP/IP remote code execution (RCE) vulnerability affecting all Windows systems with IPv6 enabled has been discovered, prompting Microsoft to issue a warning urging users to patch their systems immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Gafgyt Botnet Variant Targets Weak SSH Passwords for GPU Crypto Mining<a href="https://thehackernews.com/2024/08/new-gafgyt-botnet-variant-targets-weak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Gafgyt botnet has been discovered by cybersecurity researchers, targeting machines with weak SSH passwords to mine cryptocurrency using GPU power. This variant is focusing on servers in cloud native environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Urges Upgrade After Revealing Critical RCE Bug<a href="https://www.infosecurity-magazine.com/news/solarwinds-upgrade-critical-rce-bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds is advising customers to upgrade their Web Help Desk platform due to a critical vulnerability, CVE-2024-28986, discovered by Inmarsat Government researchers. The bug allows for remote code execution through Java deserialization.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Gang Linked to a Malware Campaign<a href="https://securityaffairs.com/167079/cyber-crime/black-basta-ransomware-systembc-campaign.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks, detected on June 20, 2024, show threat actors using various tools like AnyDesk and AntiSpam.exe to harvest credentials. They also deploy payloads like Golang HTTP beacons and Socks proxy beacons.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea Says DPRK Hackers Stole Spy Plane Technical Data<a href="https://www.bleepingcomputer.com/news/security/south-korea-says-dprk-hackers-stole-spy-plane-technical-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korea's ruling party, the People Power Party (PPP), has reported that hackers from North Korea have stolen important technical data related to the country's main battle tank, the K2, as well as its spy planes known as "Baekdu" and "Geumgang."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Social Engineering Campaign Refreshes Payloads<a href="https://www.rapid7.com/blog/post/2024/08/12/ongoing-social-engineering-campaign-refreshes-payloads/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid7 identified multiple intrusion attempts by threat actors utilizing social engineering tactics on June 20, 2024. The threat actors use email bombs followed by calls to offer fake solutions, with recent incidents involving Microsoft Teams calls.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Says it is Investigating Purported Trump Campaign Hack<a href="https://therecord.media/fbi-investigating-trump-campaign-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is investigating a suspected hack of the Trump campaign, following accusations of Iranian involvement. The Trump campaign blames foreign sources and cited a Microsoft report linking Iranian hackers to covert efforts to influence the election.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CryptoCore: Unmasking the Sophisticated Cryptocurrency Scam Operations<a href="https://decoded.avast.io/martinchlumecky1/cryptocore-unmasking-the-sophisticated-cryptocurrency-scam-operations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CryptoCore group's scam operation leverages deepfake technology, hijacked YouTube accounts, and professionally designed websites to trick users into sending cryptocurrencies to scammer wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: New Windows SmartScreen Bypass Exploited as Zero-Day Since March<a href="https://www.bleepingcomputer.com/news/microsoft/new-windows-smartscreen-bypass-exploited-as-zero-day-since-march/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Update: New Windows SmartScreen Bypass Exploited as Zero-Day Since March<a href=
 A security loophole in Windows SmartScreen, known as CVE-2024-38213, was exploited by attackers as a zero-day to bypass protection. Microsoft patched this vulnerability during the June 2024 Patch Tuesday.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Prolific Malvertising Scammer Arrested and Extradited to US to Face Charges<a href="https://therecord.media/prolific-scammer-arrested-extradited-us?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Prolific Malvertising Scammer Arrested and Extradited to US to Face Charges<a hr
 Maxim Silnikau, a Belarusian-Ukrainian cybercriminal dubbed one of the most prolific Russian-speaking hackers by the UK's NCA, has been arrested in Spain and extradited to the US.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw in Ivanti Virtual Traffic Manager Could Allow Rogue Admin Access<a href="https://thehackernews.com/2024/08/critical-flaw-in-ivanti-virtual-traffic.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Critical Flaw in Ivanti Virtual Traffic Manager Could Allow Rogue Admin Access<a
 Ivanti Virtual Traffic Manager has a critical flaw that could allow rogue admin access. A security update has been released for this vulnerability, tracked as CVE-2024-7593, with a CVSS score of 9.8.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NIST Formalizes World's First Post-Quantum Cryptography Standards<a href="https://www.infosecurity-magazine.com/news/nist-quantum-cryptography-standards/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ NIST Formalizes World's First Post-Quantum Cryptography Standards<a href="https:
 The finalized post-quantum cryptography standards are Module-Lattice-Based Key-Encapsulation Mechanism Standard (FIPS 203), Module-Lattice-Based Digital Signature Standard (FIPS 204), and Stateless Hash-Based Digital Signature Standard (FIPS 205).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Azure AI Health Bot Infected With Critical Vulnerabilities<a href="https://www.darkreading.com/application-security/microsoft-azure-ai-health-bot-infected-with-critical-vulnerabilities?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Microsoft Azure AI Health Bot Infected With Critical Vulnerabilities<a href="htt
 Multiple privilege escalation issues in Microsoft Azure's cloud-based Health Bot service opened the platform to server-side request forgery (SSRF) and could have allowed access to cross-tenant resources.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DARPA Awards $14m to Seven Teams in AI Cyber Challenge<a href="https://www.infosecurity-magazine.com/news/darpa-awards-14m-seven-teams-ai-1/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ DARPA Awards $14m to Seven Teams in AI Cyber Challenge<a href="https://www.infos
 DARPA has awarded $14 million to seven teams in the AI Cyber Challenge (AIxCC) at DEFCON 32. The competition aims to find a cyber reasoning system to identify and fix vulnerabilities in open-source software.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Phishing Campaign Poses as Ukraine's Security Service to Spread ANONVNC Malware<a href="https://www.darkreading.com/vulnerabilities-threats/ukraine-cert-phishing-campaign-poses-as-nations-security-service?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Phishing Campaign Poses as Ukraine's Security Service to Spread ANONVNC Malware<
 Cybercriminals impersonated the Security Service of Ukraine (SSU) using malicious spam emails to target and infect the systems of Ukrainian government agencies. The attackers successfully distributed AnonVNC malware to over 100 computers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 How CIOs, CTOs, and CISOs View Cyber Risks Differently<a href="https://www.helpnetsecurity.com/2024/08/13/c-suite-priorities/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ How CIOs, CTOs, and CISOs View Cyber Risks Differently<a href="https://www.helpn
 C-suite executives face the challenge of balancing technological innovation with cybersecurity resilience. A report by LevelBlue highlighted the complexities of their roles and the need for strategic cybersecurity approaches.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Feds Seize Radar/Dispossessor Ransomware Gang Servers in US and Europe<a href="https://therecord.media/fbi-seizes-ransomware-servers-radar?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Feds Seize Radar/Dispossessor Ransomware Gang Servers in US and Europe<a href="h
 Federal authorities have seized servers belonging to the Radar/Dispossessor ransomware gang in the U.S. and Europe. The FBI dismantled dozens of servers linked to the group, which is believed to have ties to the LockBit ransomware enterprise.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 14, 2024
+August 14, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biden Administration Pledges $11 Million to Open Source Security Initiative<a href="https://therecord.media/open-source-software-security-white-house-dhs-11million-funding?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Biden Administration Pledges $11 Million to Open Source Security Initiative<a hr
 The effort, known as the Open-Source Software Prevalence Initiative (OSSPI), aims to identify where open-source software components are being used in sectors like healthcare, transportation, and energy production to enhance national cybersecurity.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Research Uncovers New Microsoft Outlook Vulnerability<a href="https://www.infosecurity-magazine.com/news/research-uncovers-new-microsoft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new vulnerability has been discovered in Microsoft Outlook by security researchers, labeled as CVE-2024-38173 with a CVSS score of 6.7. This Form Injection RCE flaw is similar to a previous vulnerability, CVE-2024-30103, patched in July 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Attack Uses Sophisticated Infostealer Malware<a href="https://www.infosecurity-magazine.com/news/phishing-attack-uses-infostealer/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing attack with advanced infostealer malware has been discovered by analysts. The malware collects sensitive data like passwords, cookies, credit card info, and browsing history.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Windows TCP/IP RCE Impacts all Systems with IPv6 Enabled, Patch Now<a href="https://www.bleepingcomputer.com/news/microsoft/zero-click-windows-tcp-ip-rce-impacts-all-systems-with-ipv6-enabled-patch-now/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical TCP/IP remote code execution (RCE) vulnerability affecting all Windows systems with IPv6 enabled has been discovered, prompting Microsoft to issue a warning urging users to patch their systems immediately.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Gafgyt Botnet Variant Targets Weak SSH Passwords for GPU Crypto Mining<a href="https://thehackernews.com/2024/08/new-gafgyt-botnet-variant-targets-weak.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new variant of the Gafgyt botnet has been discovered by cybersecurity researchers, targeting machines with weak SSH passwords to mine cryptocurrency using GPU power. This variant is focusing on servers in cloud native environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SolarWinds Urges Upgrade After Revealing Critical RCE Bug<a href="https://www.infosecurity-magazine.com/news/solarwinds-upgrade-critical-rce-bug/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SolarWinds is advising customers to upgrade their Web Help Desk platform due to a critical vulnerability, CVE-2024-28986, discovered by Inmarsat Government researchers. The bug allows for remote code execution through Java deserialization.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Gang Linked to a Malware Campaign<a href="https://securityaffairs.com/167079/cyber-crime/black-basta-ransomware-systembc-campaign.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks, detected on June 20, 2024, show threat actors using various tools like AnyDesk and AntiSpam.exe to harvest credentials. They also deploy payloads like Golang HTTP beacons and Socks proxy beacons.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea Says DPRK Hackers Stole Spy Plane Technical Data<a href="https://www.bleepingcomputer.com/news/security/south-korea-says-dprk-hackers-stole-spy-plane-technical-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korea's ruling party, the People Power Party (PPP), has reported that hackers from North Korea have stolen important technical data related to the country's main battle tank, the K2, as well as its spy planes known as "Baekdu" and "Geumgang."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Social Engineering Campaign Refreshes Payloads<a href="https://www.rapid7.com/blog/post/2024/08/12/ongoing-social-engineering-campaign-refreshes-payloads/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid7 identified multiple intrusion attempts by threat actors utilizing social engineering tactics on June 20, 2024. The threat actors use email bombs followed by calls to offer fake solutions, with recent incidents involving Microsoft Teams calls.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Says it is Investigating Purported Trump Campaign Hack<a href="https://therecord.media/fbi-investigating-trump-campaign-hack?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is investigating a suspected hack of the Trump campaign, following accusations of Iranian involvement. The Trump campaign blames foreign sources and cited a Microsoft report linking Iranian hackers to covert efforts to influence the election.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 15, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CryptoCore: Unmasking the Sophisticated Cryptocurrency Scam Operations<a href="https://decoded.avast.io/martinchlumecky1/cryptocore-unmasking-the-sophisticated-cryptocurrency-scam-operations/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CryptoCore group's scam operation leverages deepfake technology, hijacked YouTube accounts, and professionally designed websites to trick users into sending cryptocurrencies to scammer wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
