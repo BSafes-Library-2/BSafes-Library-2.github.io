@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+August 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CryptoCore: Unmasking the Sophisticated Cryptocurrency Scam Operations<a href="https://decoded.avast.io/martinchlumecky1/cryptocore-unmasking-the-sophisticated-cryptocurrency-scam-operations/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CryptoCore group's scam operation leverages deepfake technology, hijacked YouTube accounts, and professionally designed websites to trick users into sending cryptocurrencies to scammer wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Avast
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

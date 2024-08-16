@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biden Administration Pledges $11 Million to Open Source Security Initiative<a href="https://therecord.media/open-source-software-security-white-house-dhs-11million-funding?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The effort, known as the Open-Source Software Prevalence Initiative (OSSPI), aims to identify where open-source software components are being used in sectors like healthcare, transportation, and energy production to enhance national cybersecurity.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Phishing Attack Uses Sophisticated Infostealer Malware<a href="https://www.infosecurity-magazine.com/news/phishing-attack-uses-infostealer/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new phishing attack with advanced infostealer malware has been discovered by analysts. The malware collects sensitive data like passwords, cookies, credit card info, and browsing history.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ongoing Social Engineering Campaign Refreshes Payloads<a href="https://www.rapid7.com/blog/post/2024/08/12/ongoing-social-engineering-campaign-refreshes-payloads/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Rapid7 identified multiple intrusion attempts by threat actors utilizing social engineering tactics on June 20, 2024. The threat actors use email bombs followed by calls to offer fake solutions, with recent incidents involving Microsoft Teams calls.
+</details>
+<div style="text-align: right" markdown="1">
+Rapid7
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

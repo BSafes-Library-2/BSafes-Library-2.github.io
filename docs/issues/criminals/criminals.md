@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Black Basta Ransomware Gang Linked to a Malware Campaign<a href="https://securityaffairs.com/167079/cyber-crime/black-basta-ransomware-systembc-campaign.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attacks, detected on June 20, 2024, show threat actors using various tools like AnyDesk and AntiSpam.exe to harvest credentials. They also deploy payloads like Golang HTTP beacons and Socks proxy beacons.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

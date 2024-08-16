@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+South Korea Says DPRK Hackers Stole Spy Plane Technical Data<a href="https://www.bleepingcomputer.com/news/security/south-korea-says-dprk-hackers-stole-spy-plane-technical-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+South Korea's ruling party, the People Power Party (PPP), has reported that hackers from North Korea have stolen important technical data related to the country's main battle tank, the K2, as well as its spy planes known as "Baekdu" and "Geumgang."
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 15, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Says it is Investigating Purported Trump Campaign Hack<a href="https://therecord.media/fbi-investigating-trump-campaign-hack?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI is investigating a suspected hack of the Trump campaign, following accusations of Iranian involvement. The Trump campaign blames foreign sources and cited a Microsoft report linking Iranian hackers to covert efforts to influence the election.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
