@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biotech Company Hacked in 2023 Pays States $4.5 Million Over Breached Data<a href="https://therecord.media/enzo-biotech-company-pays-states-over-2023-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The state attorneys general of New York, New Jersey, and Connecticut reached an agreement with Enzo Biochem, which revealed the incident to the federal government in May 2023.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

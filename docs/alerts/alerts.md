@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 13, 2024 - NIST
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Releases First 3 Finalized Post-Quantum Encryption Standards <a href="https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards"> Full Text</a>
+</p>
+<details>
+The U.S. Department of Commerce’s National Institute of Standards and Technology (NIST) has finalized its principal set of encryption algorithms designed to withstand cyberattacks from a quantum computer.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 13, 2024 - NIST 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -36,6 +47,17 @@ Best Practices for Cisco Device Configuration <a href="https://www.cisa.gov/news
 </p>
 <details>
 In recent incidents, CISA has seen malicious cyber actors acquire system configuration files by leveraging available protocols or software on devices, such as abusing the legacy Cisco Smart Install feature. CISA recommends organizations disable Smart Install and review NSA’s Smart Install Protocol Misuse advisory and Network Infrastructure Security Guide for configuration guidance. 
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 1, 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Vonets WiFi Bridges <a href="https://www.cisa.gov/news-events/ics-advisories/icsa-24-214-08"> Full Text</a>
+</p>
+<details>
+Successful exploitation of these vulnerabilities could allow an attacker to disclose sensitive information, cause a denial-of-service condition, or execute arbitrary code on the affected device.
 </details>
 </div>
 

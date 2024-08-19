@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+August 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Server-Side Template Injection: Transforming Web Applications from Assets to Liabilities - Check Point Research<a href="https://research.checkpoint.com/2024/server-side-template-injection-transforming-web-applications-from-assets-to-liabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Server-Side Template Injection (SSTI) vulnerabilities are a growing concern in web applications, allowing attackers to inject malicious code into templates and gain control over servers.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

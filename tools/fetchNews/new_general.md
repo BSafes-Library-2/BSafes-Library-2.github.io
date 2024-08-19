@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+August 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 56% of Security Professionals Worry About AI-Powered Threats<a href="https://www.helpnetsecurity.com/2024/08/15/it-professionals-ai-worry/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI professionals have concerns about their jobs being replaced by AI tools, with 56% of security professionals worried about AI-powered threats, as reported by Pluralsight.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

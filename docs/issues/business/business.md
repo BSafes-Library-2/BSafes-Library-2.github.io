@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+August 16, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DigiCert Announces Acquisition of Vercara<a href="https://www.securityinfowatch.com/cybersecurity/press-release/55132989/digicert-announces-acquisition-of-vercara?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DigiCert has announced the acquisition of Vercara to offer customers a unified DNS and certificate management experience. Vercara provides cloud-based services like managed DNS and DDoS security to protect networks and applications.
+</details>
+<div style="text-align: right" markdown="1">
+Security Info Watch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

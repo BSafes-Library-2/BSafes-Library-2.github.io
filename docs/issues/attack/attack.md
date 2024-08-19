@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Google Products Targeted by Scammers via Malicious Search Ads<a href="https://www.malwarebytes.com/blog/scams/2024/08/dozens-of-google-products-targeted-by-scammers-via-malicious-search-ads?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers have been targeting dozens of Google products through malicious search ads. They impersonated Google's product line and used Looker Studio to lock up Windows and Mac users' browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Deep Dive Into a New ValleyRAT Campaign Targeting Chinese Speakers<a href="https://www.fortinet.com/blog/threat-research/valleyrat-campaign-targeting-chinese-speakers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware masquerades as legitimate applications like Microsoft Office and creates an empty file to lure users. It also checks for virtual machines and uses sleep obfuscation to evade memory scanners.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

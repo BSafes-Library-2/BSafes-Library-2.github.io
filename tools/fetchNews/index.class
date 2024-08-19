@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Pixel Devices Shipped with Vulnerable App, Leaving Millions at Risk<a href="https://thehackernews.com/2024/08/google-pixel-devices-shipped-with.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google Pixel devices shipped globally since September 2017 were found to contain a pre-installed app called Showcase.apk, leaving them vulnerable to potential attacks and malware infections.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dozens of Google Products Targeted by Scammers via Malicious Search Ads<a href="https://www.malwarebytes.com/blog/scams/2024/08/dozens-of-google-products-targeted-by-scammers-via-malicious-search-ads?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Scammers have been targeting dozens of Google products through malicious search ads. They impersonated Google's product line and used Looker Studio to lock up Windows and Mac users' browsers.
+</details>
+<div style="text-align: right" markdown="1">
+Malware Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Deep Dive Into a New ValleyRAT Campaign Targeting Chinese Speakers<a href="https://www.fortinet.com/blog/threat-research/valleyrat-campaign-targeting-chinese-speakers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malware masquerades as legitimate applications like Microsoft Office and creates an empty file to lure users. It also checks for virtual machines and uses sleep obfuscation to evade memory scanners.
+</details>
+<div style="text-align: right" markdown="1">
+Fortinet
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2024 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Server-Side Template Injection: Transforming Web Applications from Assets to Liabilities - Check Point Research<a href="https://research.checkpoint.com/2024/server-side-template-injection-transforming-web-applications-from-assets-to-liabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Server-Side Template Injection (SSTI) vulnerabilities are a growing concern in web applications, allowing attackers to inject malicious code into templates and gain control over servers.
+</details>
+<div style="text-align: right" markdown="1">
+Check Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns Critical Vulnerabilities in Vonets WiFi Bridge Devices, No Patch Available<a href="https://securityonline.info/cisa-warns-critical-vulnerabilities-in-vonets-wifi-bridge-devices-no-patch-available/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities could allow attackers to execute arbitrary code, disclose sensitive information, or disrupt device functionality, posing a significant threat to industrial and commercial networks relying on these devices.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2024 -- [Skimming](/docs/issues/skimming/skimming/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PrestaShop GTAG Websocket Skimmer<a href="https://blog.sucuri.net/2024/08/prestashop-gtag-websocket-skimmer.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent investigation uncovered a credit card skimmer using a web socket connection to steal credit card details from an infected PrestaShop website. Attackers use web sockets for obfuscation, making it difficult to analyze traffic.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2024 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Doppelgänger Operation Rushes to Secure Itself Amid Ongoing Detections, German Agency Says<a href="https://therecord.media/doppelganger-influence-operation-struggle-bavarian-baylfv-report?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+European hosting companies were found to be supporting the Kremlin-linked disinformation campaign, prompting Doppelgänger operators to quickly back up their systems and data.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DigiCert Announces Acquisition of Vercara<a href="https://www.securityinfowatch.com/cybersecurity/press-release/55132989/digicert-announces-acquisition-of-vercara?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DigiCert has announced the acquisition of Vercara to offer customers a unified DNS and certificate management experience. Vercara provides cloud-based services like managed DNS and DDoS security to protect networks and applications.
+</details>
+<div style="text-align: right" markdown="1">
+Security Info Watch
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Biotech Company Hacked in 2023 Pays States $4.5 Million Over Breached Data<a href="https://therecord.media/enzo-biotech-company-pays-states-over-2023-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The state attorneys general of New York, New Jersey, and Connecticut reached an agreement with Enzo Biochem, which revealed the incident to the federal government in May 2023.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 16, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: 56% of Security Professionals Worry About AI-Powered Threats<a href="https://www.helpnetsecurity.com/2024/08/15/it-professionals-ai-worry/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+AI professionals have concerns about their jobs being replaced by AI tools, with 56% of security professionals worried about AI-powered threats, as reported by Pluralsight.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 15, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
