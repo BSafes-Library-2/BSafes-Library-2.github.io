@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+August 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Windows Zero-Day Flaw was Exploited by North Korea-linked Lazarus APT<a href="https://securityaffairs.com/167246/apt/microsoft-zero-day-cve-2024-38193-lazarus.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has patched a zero-day vulnerability, known as CVE-2024-38193, that was being exploited by the North Korea-linked Lazarus APT group. This vulnerability is a privilege escalation issue in the Windows Ancillary Function Driver for WinSock.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

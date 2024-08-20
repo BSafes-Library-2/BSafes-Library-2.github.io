@@ -8,6 +8,34 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mad Liberator Gang Uses Fake Windows Update Screen to Hide Data Theft<a href="https://www.bleepingcomputer.com/news/security/new-mad-liberator-gang-uses-fake-windows-update-screen-to-hide-data-theft/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cybercrime group named Mad Liberator has been identified by the Sophos X-Ops Incident Response team for targeting AnyDesk users. This ransomware group is using a fake Microsoft Windows update screen to hide their data exfiltration activities.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Infrastructure Tied to FIN7 Cybercrime Group<a href="https://thehackernews.com/2024/08/researchers-uncover-new-infrastructure.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered new infrastructure connected to the financially motivated threat actor FIN7. The analysis reveals communications inbound to FIN7 infrastructure from IP addresses assigned to Post Ltd in Russia and SmartApe in Estonia.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

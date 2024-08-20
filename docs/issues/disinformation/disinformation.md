@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Disinformation
 ---
+August 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure Domains and Google Abused to Spread Disinformation and Malware<a href="https://www.bleepingcomputer.com/news/security/azure-domains-and-google-abused-to-spread-disinformation-and-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azure domains and Google have been exploited to spread disinformation and malware in a sophisticated campaign that involves using several Microsoft Azure and OVH cloud subdomains along with Google search notifications.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

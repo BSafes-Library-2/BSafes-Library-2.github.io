@@ -8,6 +8,20 @@ nav_order: 900190
 
 ## Skimming
 ---
+August 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PrestaShop GTAG Websocket Skimmer<a href="https://blog.sucuri.net/2024/08/prestashop-gtag-websocket-skimmer.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent investigation uncovered a credit card skimmer using a web socket connection to steal credit card details from an infected PrestaShop website. Attackers use web sockets for obfuscation, making it difficult to analyze traffic.
+</details>
+<div style="text-align: right" markdown="1">
+Sucuri
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 10, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
