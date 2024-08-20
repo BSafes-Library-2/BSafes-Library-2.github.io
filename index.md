@@ -34,6 +34,118 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure Domains and Google Abused to Spread Disinformation and Malware<a href="https://www.bleepingcomputer.com/news/security/azure-domains-and-google-abused-to-spread-disinformation-and-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azure domains and Google have been exploited to spread disinformation and malware in a sophisticated campaign that involves using several Microsoft Azure and OVH cloud subdomains along with Google search notifications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Firm Says Hacker Locked All Employees Out of Google Products for Four Days<a href="https://therecord.media/unicoin-cryptocurrency-company-hack-gsuite?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cryptocurrency company reported to the SEC that a hacker breached its systems on August 9, 2024, locking all employees out of Google products for four days by changing the passwords on their G-Suite accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mad Liberator Gang Uses Fake Windows Update Screen to Hide Data Theft<a href="https://www.bleepingcomputer.com/news/security/new-mad-liberator-gang-uses-fake-windows-update-screen-to-hide-data-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cybercrime group named Mad Liberator has been identified by the Sophos X-Ops Incident Response team for targeting AnyDesk users. This ransomware group is using a fake Microsoft Windows update screen to hide their data exfiltration activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unfixed Microsoft Entra ID Authentication Bypass Threatens Hybrid IDs<a href="https://www.darkreading.com/application-security/unfixed-microsoft-entra-id-authentication-bypass-threatens-hybrid-clouds?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cymulate's proof-of-concept attack demonstrates how multiple on-premises domains syncing to a single Azure tenant can lead to credential mishandling, potentially allowing unauthorized access to different domains.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Infrastructure Tied to FIN7 Cybercrime Group<a href="https://thehackernews.com/2024/08/researchers-uncover-new-infrastructure.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered new infrastructure connected to the financially motivated threat actor FIN7. The analysis reveals communications inbound to FIN7 infrastructure from IP addresses assigned to Post Ltd in Russia and SmartApe in Estonia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Windows Zero-Day Flaw was Exploited by North Korea-linked Lazarus APT<a href="https://securityaffairs.com/167246/apt/microsoft-zero-day-cve-2024-38193-lazarus.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has patched a zero-day vulnerability, known as CVE-2024-38193, that was being exploited by the North Korea-linked Lazarus APT group. This vulnerability is a privilege escalation issue in the Windows Ancillary Function Driver for WinSock.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Oracle NetSuite E-Commerce Sites Expose Sensitive Customer Data<a href="https://www.darkreading.com/application-security/oracle-netsuite-ecommerce-sites-expose-customer-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of Oracle NetSuite E-Commerce Sites are at Risk of Exposing Sensitive Customer Data due to a widespread misconfiguration in the SuiteCommerce enterprise resource planning (ERP) platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

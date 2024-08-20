@@ -34,7 +34,119 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2024
+August 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Azure Domains and Google Abused to Spread Disinformation and Malware<a href="https://www.bleepingcomputer.com/news/security/azure-domains-and-google-abused-to-spread-disinformation-and-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Azure domains and Google have been exploited to spread disinformation and malware in a sophisticated campaign that involves using several Microsoft Azure and OVH cloud subdomains along with Google search notifications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Firm Says Hacker Locked All Employees Out of Google Products for Four Days<a href="https://therecord.media/unicoin-cryptocurrency-company-hack-gsuite?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cryptocurrency company reported to the SEC that a hacker breached its systems on August 9, 2024, locking all employees out of Google products for four days by changing the passwords on their G-Suite accounts.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mad Liberator Gang Uses Fake Windows Update Screen to Hide Data Theft<a href="https://www.bleepingcomputer.com/news/security/new-mad-liberator-gang-uses-fake-windows-update-screen-to-hide-data-theft/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new cybercrime group named Mad Liberator has been identified by the Sophos X-Ops Incident Response team for targeting AnyDesk users. This ransomware group is using a fake Microsoft Windows update screen to hide their data exfiltration activities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unfixed Microsoft Entra ID Authentication Bypass Threatens Hybrid IDs<a href="https://www.darkreading.com/application-security/unfixed-microsoft-entra-id-authentication-bypass-threatens-hybrid-clouds?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cymulate's proof-of-concept attack demonstrates how multiple on-premises domains syncing to a single Azure tenant can lead to credential mishandling, potentially allowing unauthorized access to different domains.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Uncover New Infrastructure Tied to FIN7 Cybercrime Group<a href="https://thehackernews.com/2024/08/researchers-uncover-new-infrastructure.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have uncovered new infrastructure connected to the financially motivated threat actor FIN7. The analysis reveals communications inbound to FIN7 infrastructure from IP addresses assigned to Post Ltd in Russia and SmartApe in Estonia.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Windows Zero-Day Flaw was Exploited by North Korea-linked Lazarus APT<a href="https://securityaffairs.com/167246/apt/microsoft-zero-day-cve-2024-38193-lazarus.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has patched a zero-day vulnerability, known as CVE-2024-38193, that was being exploited by the North Korea-linked Lazarus APT group. This vulnerability is a privilege escalation issue in the Windows Ancillary Function Driver for WinSock.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Oracle NetSuite E-Commerce Sites Expose Sensitive Customer Data<a href="https://www.darkreading.com/application-security/oracle-netsuite-ecommerce-sites-expose-customer-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of Oracle NetSuite E-Commerce Sites are at Risk of Exposing Sensitive Customer Data due to a widespread misconfiguration in the SuiteCommerce enterprise resource planning (ERP) platform.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 17, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Pixel Devices Shipped with Vulnerable App, Leaving Millions at Risk<a href="https://thehackernews.com/2024/08/google-pixel-devices-shipped-with.html?&web_view=true"> Full Text</a>
@@ -44,13 +156,13 @@ Google Pixel Devices Shipped with Vulnerable App, Leaving Millions at Risk<a hre
 Google Pixel devices shipped globally since September 2017 were found to contain a pre-installed app called Showcase.apk, leaving them vulnerable to potential attacks and malware infections.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2024
+August 17, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dozens of Google Products Targeted by Scammers via Malicious Search Ads<a href="https://www.malwarebytes.com/blog/scams/2024/08/dozens-of-google-products-targeted-by-scammers-via-malicious-search-ads?&web_view=true"> Full Text</a>
@@ -60,13 +172,13 @@ Dozens of Google Products Targeted by Scammers via Malicious Search Ads<a href="
 Scammers have been targeting dozens of Google products through malicious search ads. They impersonated Google's product line and used Looker Studio to lock up Windows and Mac users' browsers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Malware Bytes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2024
+August 17, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 A Deep Dive Into a New ValleyRAT Campaign Targeting Chinese Speakers<a href="https://www.fortinet.com/blog/threat-research/valleyrat-campaign-targeting-chinese-speakers?&web_view=true"> Full Text</a>
@@ -76,13 +188,13 @@ A Deep Dive Into a New ValleyRAT Campaign Targeting Chinese Speakers<a href="htt
 The malware masquerades as legitimate applications like Microsoft Office and creates an empty file to lure users. It also checks for virtual machines and uses sleep obfuscation to evade memory scanners.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2024
+August 17, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Server-Side Template Injection: Transforming Web Applications from Assets to Liabilities - Check Point Research<a href="https://research.checkpoint.com/2024/server-side-template-injection-transforming-web-applications-from-assets-to-liabilities/?&web_view=true"> Full Text</a>
@@ -92,13 +204,13 @@ Server-Side Template Injection: Transforming Web Applications from Assets to Lia
 Server-Side Template Injection (SSTI) vulnerabilities are a growing concern in web applications, allowing attackers to inject malicious code into templates and gain control over servers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Check Point
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2024
+August 17, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns Critical Vulnerabilities in Vonets WiFi Bridge Devices, No Patch Available<a href="https://securityonline.info/cisa-warns-critical-vulnerabilities-in-vonets-wifi-bridge-devices-no-patch-available/?&web_view=true"> Full Text</a>
@@ -108,13 +220,13 @@ CISA Warns Critical Vulnerabilities in Vonets WiFi Bridge Devices, No Patch Avai
 These vulnerabilities could allow attackers to execute arbitrary code, disclose sensitive information, or disrupt device functionality, posing a significant threat to industrial and commercial networks relying on these devices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 17, 2024
+August 17, 2024 -- [Skimming](/docs/issues/skimming/skimming/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 PrestaShop GTAG Websocket Skimmer<a href="https://blog.sucuri.net/2024/08/prestashop-gtag-websocket-skimmer.html?&web_view=true"> Full Text</a>
@@ -124,13 +236,13 @@ PrestaShop GTAG Websocket Skimmer<a href="https://blog.sucuri.net/2024/08/presta
 A recent investigation uncovered a credit card skimmer using a web socket connection to steal credit card details from an infected PrestaShop website. Attackers use web sockets for obfuscation, making it difficult to analyze traffic.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Sucuri
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2024
+August 16, 2024 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Doppelgänger Operation Rushes to Secure Itself Amid Ongoing Detections, German Agency Says<a href="https://therecord.media/doppelganger-influence-operation-struggle-bavarian-baylfv-report?&web_view=true"> Full Text</a>
@@ -140,13 +252,13 @@ Doppelgänger Operation Rushes to Secure Itself Amid Ongoing Detections, German 
 European hosting companies were found to be supporting the Kremlin-linked disinformation campaign, prompting Doppelgänger operators to quickly back up their systems and data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2024
+August 16, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DigiCert Announces Acquisition of Vercara<a href="https://www.securityinfowatch.com/cybersecurity/press-release/55132989/digicert-announces-acquisition-of-vercara?&web_view=true"> Full Text</a>
@@ -156,13 +268,13 @@ DigiCert Announces Acquisition of Vercara<a href="https://www.securityinfowatch.
 DigiCert has announced the acquisition of Vercara to offer customers a unified DNS and certificate management experience. Vercara provides cloud-based services like managed DNS and DDoS security to protect networks and applications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Info Watch
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2024
+August 16, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Biotech Company Hacked in 2023 Pays States $4.5 Million Over Breached Data<a href="https://therecord.media/enzo-biotech-company-pays-states-over-2023-breach?&web_view=true"> Full Text</a>
@@ -172,13 +284,13 @@ Biotech Company Hacked in 2023 Pays States $4.5 Million Over Breached Data<a hre
 The state attorneys general of New York, New Jersey, and Connecticut reached an agreement with Enzo Biochem, which revealed the incident to the federal government in May 2023.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 16, 2024
+August 16, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Report: 56% of Security Professionals Worry About AI-Powered Threats<a href="https://www.helpnetsecurity.com/2024/08/15/it-professionals-ai-worry/?&web_view=true"> Full Text</a>
@@ -188,7 +300,7 @@ Report: 56% of Security Professionals Worry About AI-Powered Threats<a href="htt
 AI professionals have concerns about their jobs being replaced by AI tools, with 56% of security professionals worried about AI-powered threats, as reported by Pluralsight.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
