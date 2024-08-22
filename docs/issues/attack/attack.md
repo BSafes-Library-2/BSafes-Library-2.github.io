@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA453 Targets Religious Figure with Fake Podcast Invite Delivering New BlackSmith Malware Toolset<a href="https://www.proofpoint.com/us/blog/threat-insight/best-laid-plans-ta453-targets-religious-figure-fake-podcast-invite-delivering?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked TA453 targeted a religious figure with a fake podcast interview invitation, attempting to deliver the BlackSmith malware toolkit. The initial lure involved an email leading to a malicious link containing the AnvilEcho PowerShell trojan.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Msupedge Backdoor Targeting Taiwan Employs Stealthy Communications<a href="https://symantec-enterprise-blogs.security.com/threat-intelligence/taiwan-malware-dns?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have been using a PHP vulnerability to deploy a stealthy backdoor called Msupedge. This backdoor was recently used in a cyberattack against an unnamed university in Taiwan.
+</details>
+<div style="text-align: right" markdown="1">
+Symantech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

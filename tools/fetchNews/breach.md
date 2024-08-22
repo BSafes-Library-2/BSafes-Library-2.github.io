@@ -8,6 +8,34 @@ nav_order: 900029
 
 ## Breach
 ---
+August 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Crypto Firm Says Hacker Locked All Employees Out of Google Products for Four Days<a href="https://therecord.media/unicoin-cryptocurrency-company-hack-gsuite?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A cryptocurrency company reported to the SEC that a hacker breached its systems on August 9, 2024, locking all employees out of Google products for four days by changing the passwords on their G-Suite accounts.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Thousands of Oracle NetSuite E-Commerce Sites Expose Sensitive Customer Data<a href="https://www.darkreading.com/application-security/oracle-netsuite-ecommerce-sites-expose-customer-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Thousands of Oracle NetSuite E-Commerce Sites are at Risk of Exposing Sensitive Customer Data due to a widespread misconfiguration in the SuiteCommerce enterprise resource planning (ERP) platform.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

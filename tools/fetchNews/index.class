@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ubuntu Addresses Multiple OpenJDK 8 Vulnerabilities<a href="https://tuxcare.com/blog/ubuntu-addresses-multiple-openjdk-8-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Canonical has released security fixes for multiple OpenJDK 8 vulnerabilities that could result in denial of service, information disclosure, or arbitrary code execution on certain Ubuntu releases.
+</details>
+<div style="text-align: right" markdown="1">
+TuxCare
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Phishing Method Used in Android and iOS Financial Fraud Campaigns<a href="https://www.infosecurity-magazine.com/news/novel-phishing-android-ios-pwa/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This method was first disclosed by CSIRT KNF in Poland in July 2023 and later observed in Czechia by ESET analysts. Similar campaigns were also observed targeting banks in Hungary and Georgia.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Remote Code Execution Vulnerability Addressed in GiveWP Plugin<a href="https://thecyberexpress.com/critical-givewp-vulnerability-fixed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, identified as CVE-2024-5932, arises from inadequate validation of user-provided serialized data, allowing attackers to inject harmful PHP objects through the give_title parameter.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TA453 Targets Religious Figure with Fake Podcast Invite Delivering New BlackSmith Malware Toolset<a href="https://www.proofpoint.com/us/blog/threat-insight/best-laid-plans-ta453-targets-religious-figure-fake-podcast-invite-delivering?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Iran-linked TA453 targeted a religious figure with a fake podcast interview invitation, attempting to deliver the BlackSmith malware toolkit. The initial lure involved an email leading to a malicious link containing the AnvilEcho PowerShell trojan.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researcher Details Microsoft Outlook Zero-Click Vulnerability (CVE-2024-38021)<a href="https://securityonline.info/researcher-details-microsoft-outlook-zero-click-vulnerability-cve-2024-38021/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability stems from how Outlook handles hyperlink objects in image tags in emails, enabling attackers to exploit a composite moniker to trigger remote code execution.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TLS Bootstrap Attack on Azure Kubernetes Services can Leak Sensitive Credentials<a href="https://cloud.google.com/blog/topics/threat-intelligence/escalating-privileges-azure-kubernetes-services/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new threat known as "WireServing" has been identified in Azure Kubernetes Services (AKS) by Mandiant. This vulnerability could have allowed attackers to escalate privileges and access sensitive credentials within compromised clusters.
+</details>
+<div style="text-align: right" markdown="1">
+Google
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Heap Overflow Vulnerability Discovered in FFmpeg, PoC Published<a href="https://securityonline.info/cve-2024-7272-critical-heap-overflow-vulnerability-discovered-in-ffmpeg-poc-published/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CVE-2024-7272 is a critical heap overflow vulnerability found in FFmpeg, the popular multimedia framework. The vulnerability affects versions up to 5.1.5 and has a CVSS score of 8.8.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Msupedge Backdoor Targeting Taiwan Employs Stealthy Communications<a href="https://symantec-enterprise-blogs.security.com/threat-intelligence/taiwan-malware-dns?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers have been using a PHP vulnerability to deploy a stealthy backdoor called Msupedge. This backdoor was recently used in a cyberattack against an unnamed university in Taiwan.
+</details>
+<div style="text-align: right" markdown="1">
+Symantech
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RCE Vulnerability in Atlassian Bamboo Data Center and Server<a href="https://securityonline.info/cve-2024-21689-rce-vulnerability-in-atlassian-bamboo-data-center-and-server/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This flaw, present in versions 9.1.0 through 9.6.0, allows authenticated attackers to execute arbitrary code within the Bamboo environment, posing risks to confidentiality, integrity, and availability.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spring Security Flaw Leaves Applications Open to Unauthorized Access<a href="https://securityonline.info/cve-2024-38810-spring-security-flaw-leaves-applications-open-to-unauthorized-access/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A high-severity vulnerability (CVE-2024-38810) has been discovered in Spring Security, potentially allowing unauthorized access to sensitive data within affected applications. The vulnerability impacts Spring Security versions 6.3.0 and 6.3.1.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 19, 2024 -- [Disinformation](/docs/issues/disinformation/disinformation/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
