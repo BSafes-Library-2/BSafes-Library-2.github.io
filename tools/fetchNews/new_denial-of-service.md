@@ -8,6 +8,20 @@ nav_order: 900042
 
 ## Denial Of Service
 ---
+August 22, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MegaMedusa, RipperSec’s Public Web DDoS Attack Tool<a href="https://www.radware.com/blog/uncategorized/2024/08/megamedusa-rippersec-public-web-ddos-attack-tool/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RipperSec, a pro-Palestinian hacktivist group based in Malaysia, has released MegaMedusa, a publicly available Web DDoS attack tool that simplifies launching large-scale DDoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Radware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
