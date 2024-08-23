@@ -34,6 +34,70 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ingress-NGINX Annotation Validation Bypass Flaw (CVE-2024-7646) Allows Command Injection<a href="https://www.armosec.io/blog/cve-2024-7646-ingress-nginx-annotation-validation-bypass/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability allows attackers to inject malicious content into annotations, leading to arbitrary command injection and potential access to controller credentials, enabling full access to cluster secrets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Fixes Ninth Chrome Zero-Day Exploited in Attacks This Year<a href="https://www.bleepingcomputer.com/news/security/google-fixes-tenth-actively-exploited-chrome-zero-day-in-2024/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released an emergency security update to fix the ninth zero-day vulnerability exploited in attacks this year. The vulnerability, known as CVE-2024-7971, involves a type confusion weakness in Chrome's V8 JavaScript engine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in LiteSpeed Cache Plugin Actively Exploited: Over 30,000 Attacks Blocked in 24 Hours<a href="https://securityonline.info/cve-2024-28000-in-litespeed-cache-plugin-actively-exploited-over-30000-attacks-blocked-in-24-hours/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The widely used LiteSpeed Cache plugin for WordPress is being actively exploited through a critical security vulnerability, CVE-2024-28000, with over 30,000 attack attempts blocked in just 24 hours.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 22, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MegaMedusa, RipperSec’s Public Web DDoS Attack Tool<a href="https://www.radware.com/blog/uncategorized/2024/08/megamedusa-rippersec-public-web-ddos-attack-tool/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+RipperSec, a pro-Palestinian hacktivist group based in Malaysia, has released MegaMedusa, a publicly available Web DDoS attack tool that simplifies launching large-scale DDoS attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 21, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
