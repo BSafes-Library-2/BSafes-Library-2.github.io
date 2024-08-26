@@ -7,6 +7,37 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 26, 2024 - ASD, CISA, FBI, NSA, NCSC-UK, CCCS, CERT NZ, JPCERT/CC, NCSC-KOREA, CSA, MIVD  
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Best practices for event logging and threat detection <a href="https://media.defense.gov/2024/Aug/21/2003530453/-1/-1/0/JOINT-CSI-BEST-PRACTICES-EVENT-LOGGING-THREAT-DETECTION.PDF"> Full Text</a>
+</p>
+<details>
+Event logging supports the continued delivery of operations and improves the security and resilience
+of critical systems by enabling network visibility. This guidance makes recommendations that improve
+an organisation’s resilience in the current cyber threat environment, with regard for resourcing
+constraints. The guidance is of moderate technical complexity and assumes a basic understanding of
+event logging.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2024 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Four Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2024/08/21/cisa-adds-four-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+CVE-2021-33044 Dahua IP Camera Authentication Bypass Vulnerability
+CVE-2021-33045 Dahua IP Camera Authentication Bypass Vulnerability
+CVE-2022-0185 Linux Kernel Heap-Based Buffer Overflow
+CVE-2021-31196 Microsoft Exchange Server Information Disclosure Vulnerability
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 13, 2024 - NIST
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+August 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Liverpool Fans Lose Big in Premier League Ticket Scams<a href="https://www.infosecurity-magazine.com/news/liverpool-fans-lose-big-ticket/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Liverpool fans have suffered the most in Premier League ticket scams for the 2023/24 season, losing over £17,000 (~$22,460) to criminals, as revealed by a report from NatWest Bank. Arsenal supporters were also hit hard, losing £12,000 (~$15,855).
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Flaws in UK Political Party Donation Platforms Exposed<a href="https://www.infosecurity-magazine.com/news/security-flaws-uk-political/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+DataDome researchers found that major UK political parties lack critical security features to protect against bot and credential stuffing attacks on their donation platforms.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

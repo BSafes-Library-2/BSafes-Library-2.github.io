@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+August 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT Velvet Ant Exploited Zero-Day to Compromise Cisco Nexus Switches<a href="https://securityaffairs.com/167423/apt/china-velvet-ant-zero-day-cisco-switches.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The China-linked APT group Velvet Ant exploited a zero-day vulnerability in Cisco switches, CVE-2024-20399, to take control of network devices. The flaw in Cisco NX-OS Software's CLI enabled attackers with Admin credentials to run arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 20, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
