@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2024
+August 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: A Third of Organizations Suffer SaaS Data Breaches Last Year<a href="https://www.infosecurity-magazine.com/news/third-organizations-saas-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to AppOmni, one-third of organizations experienced SaaS data breaches last year due to a lack of visibility and control, as revealed by a survey of 644 enterprises globally.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lateral Movement: Clearest Sign of Unfolding Ransomware Attack<a href="https://www.helpnetsecurity.com/2024/08/27/ransomware-attacks-lateral-movement/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lateral movement is a key indicator of ransomware attacks, with 44% of attacks being spotted during this phase, as reported by Barracuda Networks. Additionally, file modifications and off-pattern behavior were also significant triggers for detection.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cheana Stealer Threat Targets VPN Users Across Multiple Operating Systems<a href="https://thecyberexpress.com/cheana-stealer-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This campaign is notable for its malicious apps for Windows, Linux, and macOS users. The attackers have created different versions of Cheana Stealer for each OS to widen their attack surface.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India's Critical Infrastructure Suffers Spike in Cyberattacks<a href="https://www.darkreading.com/cyber-risk/india-s-critical-infrastructure-suffers-spike-in-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India is experiencing a rise in cyberattacks on its critical infrastructure, particularly in the financial and government sectors, prompting the Reserve Bank of India to issue warnings about the need for enhanced cybersecurity measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Tags a Tenth Chrome Zero-Day as Exploited This Year<a href="https://www.bleepingcomputer.com/news/security/google-tags-a-tenth-chrome-zero-day-as-exploited-this-year/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2024-7965 and reported by a security researcher known as TheDog, involved a bug in the compiler backend that could allow remote attackers to exploit heap corruption through a crafted HTML page.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Universities to Battle in Cybersecurity at UNSW’s Upcoming Australian Cybersecurity Games<a href="https://thecyberexpress.com/unsw-hosts-australian-cybersecurity-games/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top universities in Australia will compete in the Australian Cybersecurity Games at UNSW from September 2-30, 2024. This event, organized by SECedu, features cybersecurity experts collaborating with leading universities like UNSW.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Patches Critical Flaw Affecting its Firewalls (CVE-2024-40766)<a href="https://www.helpnetsecurity.com/2024/08/26/cve-2024-40766/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has addressed a critical vulnerability (CVE-2024-40766) in its next-gen firewalls, which could be exploited by remote attackers to gain unauthorized access and potentially crash the devices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Strategies to Protect Your Business From the Next Large-Scale Tech Failure<a href="https://www.helpnetsecurity.com/2024/08/26/large-scale-software-failures-strategy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Diversifying suppliers and systems can help minimize risks, as shown by corporations that purchase networking equipment from multiple vendors to prevent total network failure in case of vendor issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PythonAnywhere Cloud Platform Abused for Hosting Ransomware<a href="https://hackread.com/pythonanywhere-cloud-platform-abused-for-hosting-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that attackers are leveraging PythonAnywhere cloud platform to host and distribute malicious files using Razr ransomware discreetly. The ransomware generates a unique machine ID, encryption key, and IV to begin operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In a Kyiv Hangar, Ukraine Launches a Cyber Range for Everyone<a href="https://therecord.media/ukraine-cyber-range-kyiv-hangar?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The project is led by Ukrainian cyber entrepreneur Yehor Aushev and is unique in that it is free and open to a wide range of citizens, including students, researchers, and state officials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 24, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 NSA Issues Guidance for Better Logging, Threat Detection to Prevent LotL Incidents<a href="https://www.darkreading.com/cybersecurity-operations/nsa-issues-tips-for-better-logging-threat-detection-in-lotl-incidents?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ NSA Issues Guidance for Better Logging, Threat Detection to Prevent LotL Inciden
 The NSA has released guidelines to improve logging and threat detection for Living-off-the-Land (LotL) attacks in cloud services, enterprise networks, mobile devices, and OT networks as part of a global effort for critical infrastructure security.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2024
+August 24, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Dahua IP Camera, Linux Kernel, and Microsoft Exchange Server Bugs to its KEV Catalog<a href="https://securityaffairs.com/167414/uncategorized/u-s-cisa-dahua-ip-camera-linux-kernel-microsoft-exchange-server-bugs-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ CISA Adds Dahua IP Camera, Linux Kernel, and Microsoft Exchange Server Bugs to i
 The CISA has added new vulnerabilities to its Known Exploited Vulnerabilities catalog, including Dahua IP Camera authentication bypass flaws, a Linux Kernel buffer overflow issue, and a Microsoft Exchange Server vulnerability.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2024
+August 24, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Liverpool Fans Lose Big in Premier League Ticket Scams<a href="https://www.infosecurity-magazine.com/news/liverpool-fans-lose-big-ticket/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Liverpool Fans Lose Big in Premier League Ticket Scams<a href="https://www.infos
 Liverpool fans have suffered the most in Premier League ticket scams for the 2023/24 season, losing over £17,000 (~$22,460) to criminals, as revealed by a report from NatWest Bank. Arsenal supporters were also hit hard, losing £12,000 (~$15,855).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2024
+August 24, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Greasy Opal's CAPTCHA Solver Still Serving Cybercrime After 16 Years<a href="https://www.bleepingcomputer.com/news/security/greasy-opals-captcha-solver-still-serving-cybercrime-after-16-years/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Greasy Opal's CAPTCHA Solver Still Serving Cybercrime After 16 Years<a href="htt
 Greasy Opal, a well-known developer, has been aiding cybercriminals for 16 years by offering a tool that can solve CAPTCHAs automatically on a large scale, bypassing security measures.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2024
+August 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Urgent Edge Security Update: Microsoft Patches Zero-day & RCE Vulnerabilities<a href="https://securityonline.info/urgent-edge-security-update-microsoft-patches-zero-day-rce-vulnerabilities/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Urgent Edge Security Update: Microsoft Patches Zero-day & RCE Vulnerabilities<a 
 The urgent security update, Microsoft Edge Stable Channel Version 128.0.2739.42, based on Chromium versions 128.0.6613.85 and 128.0.6613.84, addresses a total of 25 security issues.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Onine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2024
+August 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Slack Patches AI Bug That Exposed Private Channels<a href="https://www.darkreading.com/cyberattacks-data-breaches/slack-ai-patches-bug-that-let-attackers-steal-data-from-private-channels?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Slack Patches AI Bug That Exposed Private Channels<a href="https://www.darkreadi
 Slack fixed a vulnerability in its AI feature that could allow attackers to steal data from private channels. The flaw involved a prompt injection flaw in an AI feature, which allowed attackers to manipulate the system to perform malicious actions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2024
+August 24, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT Velvet Ant Exploited Zero-Day to Compromise Cisco Nexus Switches<a href="https://securityaffairs.com/167423/apt/china-velvet-ant-zero-day-cisco-switches.html?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ China-linked APT Velvet Ant Exploited Zero-Day to Compromise Cisco Nexus Switche
 The China-linked APT group Velvet Ant exploited a zero-day vulnerability in Cisco switches, CVE-2024-20399, to take control of network devices. The flaw in Cisco NX-OS Software's CLI enabled attackers with Admin credentials to run arbitrary commands.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2024
+August 24, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Flaws in UK Political Party Donation Platforms Exposed<a href="https://www.infosecurity-magazine.com/news/security-flaws-uk-political/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Security Flaws in UK Political Party Donation Platforms Exposed<a href="https://
 DataDome researchers found that major UK political parties lack critical security features to protect against bot and credential stuffing attacks on their donation platforms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2024
+August 24, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Now Use AppDomain Injection to Drop Cobalt Strike Beacons<a href="https://www.bleepingcomputer.com/news/security/hackers-now-use-appdomain-injection-to-drop-cobaltstrike-beacons/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Hackers Now Use AppDomain Injection to Drop Cobalt Strike Beacons<a href="https:
 Hackers are now using AppDomain Injection to drop Cobalt Strike beacons in a series of attacks that began in July 2024. This technique, known as AppDomain Manager Injection, can weaponize any Microsoft .NET application on Windows.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 24, 2024
+August 24, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Exploit for CVE-2024-38054 Released: Elevation of Privilege Flaw in Windows Kernel Streaming WOW Thunk<a href="https://securityonline.info/exploit-for-cve-2024-38054-released-elevation-of-privilege-flaw-in-windows-kernel-streaming-wow-thunk/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Exploit for CVE-2024-38054 Released: Elevation of Privilege Flaw in Windows Kern
 This vulnerability allows local attackers to escalate privileges to SYSTEM level through a heap-based buffer overflow. With a CVSS score of 7.8, CVE-2024-38054 is a critical flaw patched by Microsoft in July.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
