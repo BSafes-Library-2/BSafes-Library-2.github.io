@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+August 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NSA Issues Guidance for Better Logging, Threat Detection to Prevent LotL Incidents<a href="https://www.darkreading.com/cybersecurity-operations/nsa-issues-tips-for-better-logging-threat-detection-in-lotl-incidents?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The NSA has released guidelines to improve logging and threat detection for Living-off-the-Land (LotL) attacks in cloud services, enterprise networks, mobile devices, and OT networks as part of a global effort for critical infrastructure security.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Dahua IP Camera, Linux Kernel, and Microsoft Exchange Server Bugs to its KEV Catalog<a href="https://securityaffairs.com/167414/uncategorized/u-s-cisa-dahua-ip-camera-linux-kernel-microsoft-exchange-server-bugs-its-known-exploited-vulnerabilities-catalog.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has added new vulnerabilities to its Known Exploited Vulnerabilities catalog, including Dahua IP Camera authentication bypass flaws, a Linux Kernel buffer overflow issue, and a Microsoft Exchange Server vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

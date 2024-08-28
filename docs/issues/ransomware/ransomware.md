@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lateral Movement: Clearest Sign of Unfolding Ransomware Attack<a href="https://www.helpnetsecurity.com/2024/08/27/ransomware-attacks-lateral-movement/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lateral movement is a key indicator of ransomware attacks, with 44% of attacks being spotted during this phase, as reported by Barracuda Networks. Additionally, file modifications and off-pattern behavior were also significant triggers for detection.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PythonAnywhere Cloud Platform Abused for Hosting Ransomware<a href="https://hackread.com/pythonanywhere-cloud-platform-abused-for-hosting-ransomware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that attackers are leveraging PythonAnywhere cloud platform to host and distribute malicious files using Razr ransomware discreetly. The ransomware generates a unique machine ID, encryption key, and IV to begin operations.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

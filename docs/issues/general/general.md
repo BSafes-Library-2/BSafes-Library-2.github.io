@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+August 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: A Third of Organizations Suffer SaaS Data Breaches Last Year<a href="https://www.infosecurity-magazine.com/news/third-organizations-saas-data/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to AppOmni, one-third of organizations experienced SaaS data breaches last year due to a lack of visibility and control, as revealed by a survey of 644 enterprises globally.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Universities to Battle in Cybersecurity at UNSW’s Upcoming Australian Cybersecurity Games<a href="https://thecyberexpress.com/unsw-hosts-australian-cybersecurity-games/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top universities in Australia will compete in the Australian Cybersecurity Games at UNSW from September 2-30, 2024. This event, organized by SECedu, features cybersecurity experts collaborating with leading universities like UNSW.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In a Kyiv Hangar, Ukraine Launches a Cyber Range for Everyone<a href="https://therecord.media/ukraine-cyber-range-kyiv-hangar?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The project is led by Ukrainian cyber entrepreneur Yehor Aushev and is unique in that it is free and open to a wide range of citizens, including students, researchers, and state officials.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

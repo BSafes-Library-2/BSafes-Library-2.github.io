@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 24, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Greasy Opal's CAPTCHA Solver Still Serving Cybercrime After 16 Years<a href="https://www.bleepingcomputer.com/news/security/greasy-opals-captcha-solver-still-serving-cybercrime-after-16-years/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Greasy Opal, a well-known developer, has been aiding cybercriminals for 16 years by offering a tool that can solve CAPTCHAs automatically on a large scale, bypassing security measures.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

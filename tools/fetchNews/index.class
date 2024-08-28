@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Report: A Third of Organizations Suffer SaaS Data Breaches Last Year<a href="https://www.infosecurity-magazine.com/news/third-organizations-saas-data/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to AppOmni, one-third of organizations experienced SaaS data breaches last year due to a lack of visibility and control, as revealed by a survey of 644 enterprises globally.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Lateral Movement: Clearest Sign of Unfolding Ransomware Attack<a href="https://www.helpnetsecurity.com/2024/08/27/ransomware-attacks-lateral-movement/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Lateral movement is a key indicator of ransomware attacks, with 44% of attacks being spotted during this phase, as reported by Barracuda Networks. Additionally, file modifications and off-pattern behavior were also significant triggers for detection.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cheana Stealer Threat Targets VPN Users Across Multiple Operating Systems<a href="https://thecyberexpress.com/cheana-stealer-campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This campaign is notable for its malicious apps for Windows, Linux, and macOS users. The attackers have created different versions of Cheana Stealer for each OS to widen their attack surface.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India's Critical Infrastructure Suffers Spike in Cyberattacks<a href="https://www.darkreading.com/cyber-risk/india-s-critical-infrastructure-suffers-spike-in-cyberattacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India is experiencing a rise in cyberattacks on its critical infrastructure, particularly in the financial and government sectors, prompting the Reserve Bank of India to issue warnings about the need for enhanced cybersecurity measures.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Tags a Tenth Chrome Zero-Day as Exploited This Year<a href="https://www.bleepingcomputer.com/news/security/google-tags-a-tenth-chrome-zero-day-as-exploited-this-year/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2024-7965 and reported by a security researcher known as TheDog, involved a bug in the compiler backend that could allow remote attackers to exploit heap corruption through a crafted HTML page.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Top Universities to Battle in Cybersecurity at UNSW’s Upcoming Australian Cybersecurity Games<a href="https://thecyberexpress.com/unsw-hosts-australian-cybersecurity-games/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Top universities in Australia will compete in the Australian Cybersecurity Games at UNSW from September 2-30, 2024. This event, organized by SECedu, features cybersecurity experts collaborating with leading universities like UNSW.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+SonicWall Patches Critical Flaw Affecting its Firewalls (CVE-2024-40766)<a href="https://www.helpnetsecurity.com/2024/08/26/cve-2024-40766/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SonicWall has addressed a critical vulnerability (CVE-2024-40766) in its next-gen firewalls, which could be exploited by remote attackers to gain unauthorized access and potentially crash the devices.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024 -- [Education](/docs/issues/education/education/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Two Strategies to Protect Your Business From the Next Large-Scale Tech Failure<a href="https://www.helpnetsecurity.com/2024/08/26/large-scale-software-failures-strategy/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Diversifying suppliers and systems can help minimize risks, as shown by corporations that purchase networking equipment from multiple vendors to prevent total network failure in case of vendor issues.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PythonAnywhere Cloud Platform Abused for Hosting Ransomware<a href="https://hackread.com/pythonanywhere-cloud-platform-abused-for-hosting-ransomware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers found that attackers are leveraging PythonAnywhere cloud platform to host and distribute malicious files using Razr ransomware discreetly. The ransomware generates a unique machine ID, encryption key, and IV to begin operations.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 27, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+In a Kyiv Hangar, Ukraine Launches a Cyber Range for Everyone<a href="https://therecord.media/ukraine-cyber-range-kyiv-hangar?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The project is led by Ukrainian cyber entrepreneur Yehor Aushev and is unique in that it is free and open to a wide range of citizens, including students, researchers, and state officials.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 24, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
