@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Fortra FileCatalyst Workflow Vulnerability Patched (CVE-2024-6633)<a href="https://www.helpnetsecurity.com/2024/08/28/cve-2024-6633/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The flaw, known as CVE-2024-6633, involves the use of default credentials for the HSQL database, which could compromise the software's confidentiality, integrity, and availability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-241a?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pioneer Kitten attackers are monetizing their access to compromised organizations' networks by selling domain admin credentials and full domain control privileges on cybercrime marketplaces.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Group 'Bling Libra' Pivots to Extortion for Cloud Attacks<a href="https://www.darkreading.com/threat-intelligence/threat-group-bling-libra-extortion-cloud-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat group known as Bling Libra, previously linked to the Ticketmaster data breach, has shifted to the double extortion strategy in cloud attacks, according to researchers at Palo Alto Networks' Unit 42.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of LLM Servers Expose Corporate, Health & Other Online Data<a href="https://www.darkreading.com/application-security/hundreds-of-llm-servers-expose-corporate-health-and-other-online-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flowise, a popular low-code tool backed by Y Combinator, was particularly at risk due to an authentication bypass vulnerability that allowed access to sensitive information such as GitHub tokens and API keys in plaintext.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AWS Load Balancer Plagued by Authentication Bypass Flaw<a href="https://securityboulevard.com/2024/08/miggio-uncovers-aws-load-balancer-security-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Miggo has uncovered a security flaw in AWS Load Balancer that could allow cybercriminals to bypass authentication and authorization services, potentially affecting over 15,000 applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Google Chromium V8 Bug to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/167722/security/u-s-cisa-adds-google-chromium-v8-bug-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released a security update this week to address the actively exploited Chrome zero-day vulnerability. The vulnerability, CVE-2024-7965, is an inappropriate implementation issue in Chrome's V8 JavaScript engine.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Unicode QR Code Phishing Scam Bypasses Traditional Security<a href="https://hackread.com/unicode-qr-code-phishing-scam-bypasses-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are using Unicode QR codes in a new type of phishing attack that can bypass traditional security measures, putting users at risk of visiting malicious websites and having their data stolen.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Unmasked the Notorious Threat Actor USDoD<a href="https://securityaffairs.com/167646/cyber-crime/researchers-unmasked-usdod.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike researchers have uncovered the identity of the hacker USDoD, also known as EquationCorp, responsible for multiple high-profile data breaches. According to a report from TecMundo, USDoD is a man named Luan BG from Brazil.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte Blends Known Tactics With New Encryptor Variant and Vulnerability Exploits to Support Ongoing Attacks<a href="https://blog.talosintelligence.com/blackbyte-blends-tried-and-true-tradecraft-with-newly-disclosed-vulnerabilities-to-support-ongoing-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest encryptor variant identified by researchers at Cisco Talos appends the file extension ‘blackbytent_h’ to encrypted files. This variant also includes the deployment of four vulnerable drivers, an increase from previous reports.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's Sway Serves as Launchpad for 'Quishing' Campaign<a href="https://www.darkreading.com/vulnerabilities-threats/microsofts-sway-serves-as-launchpad-for-quishing-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new QR code phishing campaign is using Microsoft Sway to steal credentials. The attacks primarily target users in Asia and North America, particularly in the technology, manufacturing, and finance sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 27, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
