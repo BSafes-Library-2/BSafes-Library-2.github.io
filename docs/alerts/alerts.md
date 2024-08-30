@@ -6,6 +6,20 @@ nav_order: 150
 ---
 
 ## Alerts
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 28, 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds One Known Exploited Vulnerability to Catalog <a href="https://www.cisa.gov/news-events/alerts/2024/08/28/cisa-adds-one-known-exploited-vulnerability-catalog"> Full Text</a>
+</p>
+<details>
+CISA has added one new vulnerability to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+CVE-2024-7965 Google Chromium V8 Inappropriate Implementation Vulnerability
+</details>
+</div>
+
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 26, 2024 - ASD, CISA, FBI, NSA, NCSC-UK, CCCS, CERT NZ, JPCERT/CC, NCSC-KOREA, CSA, MIVD  
 {: .fs-4 .fw-700 .lh-0  }

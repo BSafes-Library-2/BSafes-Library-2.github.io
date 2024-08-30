@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+August 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackByte Blends Known Tactics With New Encryptor Variant and Vulnerability Exploits to Support Ongoing Attacks<a href="https://blog.talosintelligence.com/blackbyte-blends-tried-and-true-tradecraft-with-newly-disclosed-vulnerabilities-to-support-ongoing-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest encryptor variant identified by researchers at Cisco Talos appends the file extension ‘blackbytent_h’ to encrypted files. This variant also includes the deployment of four vulnerable drivers, an increase from previous reports.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

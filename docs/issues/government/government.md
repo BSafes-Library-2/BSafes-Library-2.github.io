@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Google Chromium V8 Bug to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/167722/security/u-s-cisa-adds-google-chromium-v8-bug-known-exploited-vulnerabilities-catalog.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google released a security update this week to address the actively exploited Chrome zero-day vulnerability. The vulnerability, CVE-2024-7965, is an inappropriate implementation issue in Chrome's V8 JavaScript engine.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

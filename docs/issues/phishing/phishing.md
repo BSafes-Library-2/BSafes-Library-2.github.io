@@ -8,6 +8,34 @@ nav_order: 900160
 
 ## Phishing
 ---
+August 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Unicode QR Code Phishing Scam Bypasses Traditional Security<a href="https://hackread.com/unicode-qr-code-phishing-scam-bypasses-security/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybercriminals are using Unicode QR codes in a new type of phishing attack that can bypass traditional security measures, putting users at risk of visiting malicious websites and having their data stolen.
+</details>
+<div style="text-align: right" markdown="1">
+HackRead
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft's Sway Serves as Launchpad for 'Quishing' Campaign<a href="https://www.darkreading.com/vulnerabilities-threats/microsofts-sway-serves-as-launchpad-for-quishing-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new QR code phishing campaign is using Microsoft Sway to steal credentials. The attacks primarily target users in Asia and North America, particularly in the technology, manufacturing, and finance sectors.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

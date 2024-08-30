@@ -8,6 +8,34 @@ nav_order: 900080
 
 ## Hacker
 ---
+August 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Group 'Bling Libra' Pivots to Extortion for Cloud Attacks<a href="https://www.darkreading.com/threat-intelligence/threat-group-bling-libra-extortion-cloud-attacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The threat group known as Bling Libra, previously linked to the Ticketmaster data breach, has shifted to the double extortion strategy in cloud attacks, according to researchers at Palo Alto Networks' Unit 42.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Unmasked the Notorious Threat Actor USDoD<a href="https://securityaffairs.com/167646/cyber-crime/researchers-unmasked-usdod.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CrowdStrike researchers have uncovered the identity of the hacker USDoD, also known as EquationCorp, responsible for multiple high-profile data breaches. According to a report from TecMundo, USDoD is a man named Luan BG from Brazil.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 July 25, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

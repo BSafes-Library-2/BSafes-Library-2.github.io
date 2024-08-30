@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Cheana Stealer Threat Targets VPN Users Across Multiple Operating Systems<a href="https://thecyberexpress.com/cheana-stealer-campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This campaign is notable for its malicious apps for Windows, Linux, and macOS users. The attackers have created different versions of Cheana Stealer for each OS to widen their attack surface.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 27, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India's Critical Infrastructure Suffers Spike in Cyberattacks<a href="https://www.darkreading.com/cyber-risk/india-s-critical-infrastructure-suffers-spike-in-cyberattacks?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+India is experiencing a rise in cyberattacks on its critical infrastructure, particularly in the financial and government sectors, prompting the Reserve Bank of India to issue warnings about the need for enhanced cybersecurity measures.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
