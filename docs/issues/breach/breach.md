@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: RansomHub Ransomware Breached 210 Victims Since February 2024<a href="https://www.bleepingcomputer.com/news/security/fbi-ransomhub-ransomware-breached-210-victims-since-february/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware operation focuses on data theft extortion rather than encrypting files, with victims facing the threat of stolen data being leaked or sold if negotiations fail.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

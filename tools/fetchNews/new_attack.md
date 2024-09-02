@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+August 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Snake Keylogger Variant Slithers Into Phishing Campaigns<a href="https://securityonline.info/new-snake-keylogger-variant-slithers-into-phishing-campaigns/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack starts with a phishing email disguised as a fund transfer notification, with an attached Excel file named “swift copy.xls” that triggers the deployment of Snake Keylogger on the victim's computer upon opening.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+August 31, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Espionage Campaign Delivers New Voldemort Malware<a href="https://www.proofpoint.com/us/blog/threat-insight/malware-must-not-be-named-suspected-espionage-campaign-delivers-voldemort?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign, which targeted organizations worldwide, involved impersonating tax authorities from various countries and utilizing Google Sheets for command and control (C2).
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

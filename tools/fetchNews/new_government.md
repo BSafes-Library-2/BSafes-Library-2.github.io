@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+August 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Offers $2.5 Million Reward for Hacker Linked to Angler Exploit Kit<a href="https://www.bleepingcomputer.com/news/legal/us-offers-25-million-reward-for-hacker-linked-to-angler-exploit-kit/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of State and the Secret Service are offering a reward of $2.5 million for information leading to the capture of Belarusian cybercriminal Volodymyr Kadariya, who is linked to the Angler Exploit Kit.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

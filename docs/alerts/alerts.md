@@ -6,6 +6,16 @@ nav_order: 150
 ---
 
 ## Alerts
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2 2024 - United States Secret Service 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+The Secret Service, in partnership with the U.S. Department of State, is offering a reward of up to $2,500,000 for information leading to the arrest and/or conviction of this individual. <a href="https://www.secretservice.gov/investigations/mostwanted/kadariya"> Full Text</a>
+</p>
+<details>
+On August 12, 2024, the U.S. Attorney’s Office for the District of New Jersey unsealed an indictment charging Belarusian national Volodymyr Iuriyovych Kadariya with conspiracy to commit wire fraud, conspiracy to commit computer fraud, and two counts of substantive wire fraud. 
+</details>
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 28, 2024 - CISA

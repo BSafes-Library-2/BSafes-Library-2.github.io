@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+August 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hundreds of LLM Servers Expose Corporate, Health &amp; Other Online Data<a href="https://www.darkreading.com/application-security/hundreds-of-llm-servers-expose-corporate-health-and-other-online-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Flowise, a popular low-code tool backed by Y Combinator, was particularly at risk due to an authentication bypass vulnerability that allowed access to sensitive information such as GitHub tokens and API keys in plaintext.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

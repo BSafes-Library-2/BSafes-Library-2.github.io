@@ -8,6 +8,20 @@ nav_order: 900090
 
 ## Insider Threat
 ---
+August 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Employee Arrested for Locking Windows Admins Out of 254 Servers in Extortion Plot<a href="https://www.bleepingcomputer.com/news/security/employee-arrested-for-locking-windows-admins-out-of-254-servers-in-extortion-plot/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI investigation revealed that the suspect, Daniel Rhyne, had accessed the company's systems without authorization and changed passwords for various accounts. Rhyne's actions were intended to deny the company access to its systems and data.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 May 27, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

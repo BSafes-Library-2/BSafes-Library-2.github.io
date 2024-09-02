@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 29, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-241a?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pioneer Kitten attackers are monetizing their access to compromised organizations' networks by selling domain admin credentials and full domain control privileges on cybercrime marketplaces.
+</details>
+<div style="text-align: right" markdown="1">
+CISA
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 24, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

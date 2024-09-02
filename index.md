@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2024
+August 31, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rocinante: The Trojan Horse That Wanted to Fly<a href="https://www.threatfabric.com/blogs/the-trojan-horse-that-wanted-to-fly-rocinante#rocinante-or-pegasus?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Rocinante: The Trojan Horse That Wanted to Fly<a href="https://www.threatfabric.
 Once installed, the Rocinante malware prompts the victim to grant Accessibility Services and displays phishing screens tailored to different banks to steal personal information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Threat Fabric
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2024
+August 31, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Snake Keylogger Variant Slithers Into Phishing Campaigns<a href="https://securityonline.info/new-snake-keylogger-variant-slithers-into-phishing-campaigns/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ New Snake Keylogger Variant Slithers Into Phishing Campaigns<a href="https://sec
 The attack starts with a phishing email disguised as a fund transfer notification, with an attached Excel file named “swift copy.xls” that triggers the deployment of Snake Keylogger on the victim's computer upon opening.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2024
+August 31, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: RansomHub Ransomware Breached 210 Victims Since February 2024<a href="https://www.bleepingcomputer.com/news/security/fbi-ransomhub-ransomware-breached-210-victims-since-february/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ FBI: RansomHub Ransomware Breached 210 Victims Since February 2024<a href="https
 The ransomware operation focuses on data theft extortion rather than encrypting files, with victims facing the threat of stolen data being leaked or sold if negotiations fail.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2024
+August 31, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation DevilTiger: APT-Q-12’s Shadowy Tactics and Zero-Day Exploits Unveiled<a href="https://securityonline.info/operation-deviltiger-apt-q-12s-shadowy-tactics-and-zero-day-exploits-unveiled/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Operation DevilTiger: APT-Q-12’s Shadowy Tactics and Zero-Day Exploits Unveile
 The QiAnXin Threat Intelligence Center has revealed the details of "Operation DevilTiger," a cyber espionage campaign carried out by the elusive APT-Q-12 group, also known as "Pseudo Hunter."
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2024
+August 31, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspected Espionage Campaign Delivers New Voldemort Malware<a href="https://www.proofpoint.com/us/blog/threat-insight/malware-must-not-be-named-suspected-espionage-campaign-delivers-voldemort?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Suspected Espionage Campaign Delivers New Voldemort Malware<a href="https://www.
 The campaign, which targeted organizations worldwide, involved impersonating tax authorities from various countries and utilizing Google Sheets for command and control (C2).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Proof Point
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2024
+August 31, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Godzilla Fileless Backdoors Targeting Atlassian Confluence<a href="https://www.trendmicro.com/en_us/research/24/h/godzilla-fileless-backdoors.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Godzilla Fileless Backdoors Targeting Atlassian Confluence<a href="https://www.t
 The Godzilla fileless backdoor relies on a complex series of actions, such as cryptographic operations, class loading, and dynamic injection, to establish unauthorized access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2024
+August 30, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Offers $2.5 Million Reward for Hacker Linked to Angler Exploit Kit<a href="https://www.bleepingcomputer.com/news/legal/us-offers-25-million-reward-for-hacker-linked-to-angler-exploit-kit/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ US Offers $2.5 Million Reward for Hacker Linked to Angler Exploit Kit<a href="ht
 The U.S. Department of State and the Secret Service are offering a reward of $2.5 million for information leading to the capture of Belarusian cybercriminal Volodymyr Kadariya, who is linked to the Angler Exploit Kit.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2024
+August 30, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Capitalize on Travel Industry’s Peak Season<a href="https://www.helpnetsecurity.com/2024/08/28/cybercriminals-capitalize-travel-season/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Cybercriminals Capitalize on Travel Industry’s Peak Season<a href="https://www
 Cequence Security found that cyberattacks against the travel industry surge during holidays, with 91% of severe vulnerabilities in the top 10 travel and hospitality sites enabling man-in-the-middle attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2024
+August 30, 2024 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Store Now, Decrypt Later’: US Leaders Prep for Quantum Cryptography Concerns<a href="https://therecord.media/us-leaders-prep-for-quantum-cryptography-concerns?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ August 30, 2024
 U.S. cybersecurity leaders are focusing on preparing for the potential risks posed by quantum cryptography tools that could threaten critical infrastructure and national security.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2024
+August 30, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Employee Arrested for Locking Windows Admins Out of 254 Servers in Extortion Plot<a href="https://www.bleepingcomputer.com/news/security/employee-arrested-for-locking-windows-admins-out-of-254-servers-in-extortion-plot/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Employee Arrested for Locking Windows Admins Out of 254 Servers in Extortion Plo
 The FBI investigation revealed that the suspect, Daniel Rhyne, had accessed the company's systems without authorization and changed passwords for various accounts. Rhyne's actions were intended to deny the company access to its systems and data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
