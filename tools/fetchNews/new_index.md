@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2024
+August 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rocinante: The Trojan Horse That Wanted to Fly<a href="https://www.threatfabric.com/blogs/the-trojan-horse-that-wanted-to-fly-rocinante#rocinante-or-pegasus?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Once installed, the Rocinante malware prompts the victim to grant Accessibility Services and displays phishing screens tailored to different banks to steal personal information.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Snake Keylogger Variant Slithers Into Phishing Campaigns<a href="https://securityonline.info/new-snake-keylogger-variant-slithers-into-phishing-campaigns/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack starts with a phishing email disguised as a fund transfer notification, with an attached Excel file named “swift copy.xls” that triggers the deployment of Snake Keylogger on the victim's computer upon opening.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI: RansomHub Ransomware Breached 210 Victims Since February 2024<a href="https://www.bleepingcomputer.com/news/security/fbi-ransomhub-ransomware-breached-210-victims-since-february/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware operation focuses on data theft extortion rather than encrypting files, with victims facing the threat of stolen data being leaked or sold if negotiations fail.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Operation DevilTiger: APT-Q-12’s Shadowy Tactics and Zero-Day Exploits Unveiled<a href="https://securityonline.info/operation-deviltiger-apt-q-12s-shadowy-tactics-and-zero-day-exploits-unveiled/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The QiAnXin Threat Intelligence Center has revealed the details of "Operation DevilTiger," a cyber espionage campaign carried out by the elusive APT-Q-12 group, also known as "Pseudo Hunter."
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Suspected Espionage Campaign Delivers New Voldemort Malware<a href="https://www.proofpoint.com/us/blog/threat-insight/malware-must-not-be-named-suspected-espionage-campaign-delivers-voldemort?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign, which targeted organizations worldwide, involved impersonating tax authorities from various countries and utilizing Google Sheets for command and control (C2).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Godzilla Fileless Backdoors Targeting Atlassian Confluence<a href="https://www.trendmicro.com/en_us/research/24/h/godzilla-fileless-backdoors.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Godzilla fileless backdoor relies on a complex series of actions, such as cryptographic operations, class loading, and dynamic injection, to establish unauthorized access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Offers $2.5 Million Reward for Hacker Linked to Angler Exploit Kit<a href="https://www.bleepingcomputer.com/news/legal/us-offers-25-million-reward-for-hacker-linked-to-angler-exploit-kit/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The U.S. Department of State and the Secret Service are offering a reward of $2.5 million for information leading to the capture of Belarusian cybercriminal Volodymyr Kadariya, who is linked to the Angler Exploit Kit.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Capitalize on Travel Industry’s Peak Season<a href="https://www.helpnetsecurity.com/2024/08/28/cybercriminals-capitalize-travel-season/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cequence Security found that cyberattacks against the travel industry surge during holidays, with 91% of severe vulnerabilities in the top 10 travel and hospitality sites enabling man-in-the-middle attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Store Now, Decrypt Later’: US Leaders Prep for Quantum Cryptography Concerns<a href="https://therecord.media/us-leaders-prep-for-quantum-cryptography-concerns?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. cybersecurity leaders are focusing on preparing for the potential risks posed by quantum cryptography tools that could threaten critical infrastructure and national security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 30, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Employee Arrested for Locking Windows Admins Out of 254 Servers in Extortion Plot<a href="https://www.bleepingcomputer.com/news/security/employee-arrested-for-locking-windows-admins-out-of-254-servers-in-extortion-plot/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI investigation revealed that the suspect, Daniel Rhyne, had accessed the company's systems without authorization and changed passwords for various accounts. Rhyne's actions were intended to deny the company access to its systems and data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Fortra FileCatalyst Workflow Vulnerability Patched (CVE-2024-6633)<a href="https://www.helpnetsecurity.com/2024/08/28/cve-2024-6633/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Critical Fortra FileCatalyst Workflow Vulnerability Patched (CVE-2024-6633)<a hr
 The flaw, known as CVE-2024-6633, involves the use of default credentials for the HSQL database, which could compromise the software's confidentiality, integrity, and availability.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2024
+August 29, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-241a?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Iran-based Cyber Actors Enabling Ransomware Attacks on US Organizations<a href="
 The Pioneer Kitten attackers are monetizing their access to compromised organizations' networks by selling domain admin credentials and full domain control privileges on cybercrime marketplaces.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+CISA
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2024
+August 29, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Threat Group 'Bling Libra' Pivots to Extortion for Cloud Attacks<a href="https://www.darkreading.com/threat-intelligence/threat-group-bling-libra-extortion-cloud-attacks?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Threat Group 'Bling Libra' Pivots to Extortion for Cloud Attacks<a href="https:/
 The threat group known as Bling Libra, previously linked to the Ticketmaster data breach, has shifted to the double extortion strategy in cloud attacks, according to researchers at Palo Alto Networks' Unit 42.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2024
+August 29, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hundreds of LLM Servers Expose Corporate, Health & Other Online Data<a href="https://www.darkreading.com/application-security/hundreds-of-llm-servers-expose-corporate-health-and-other-online-data?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Hundreds of LLM Servers Expose Corporate, Health & Other Online Data<a href="htt
 Flowise, a popular low-code tool backed by Y Combinator, was particularly at risk due to an authentication bypass vulnerability that allowed access to sensitive information such as GitHub tokens and API keys in plaintext.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2024
+August 29, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AWS Load Balancer Plagued by Authentication Bypass Flaw<a href="https://securityboulevard.com/2024/08/miggio-uncovers-aws-load-balancer-security-flaw/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ AWS Load Balancer Plagued by Authentication Bypass Flaw<a href="https://security
 Miggo has uncovered a security flaw in AWS Load Balancer that could allow cybercriminals to bypass authentication and authorization services, potentially affecting over 15,000 applications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Boulevard
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2024
+August 29, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Adds Google Chromium V8 Bug to its Known Exploited Vulnerabilities Catalog<a href="https://securityaffairs.com/167722/security/u-s-cisa-adds-google-chromium-v8-bug-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ CISA Adds Google Chromium V8 Bug to its Known Exploited Vulnerabilities Catalog<
 Google released a security update this week to address the actively exploited Chrome zero-day vulnerability. The vulnerability, CVE-2024-7965, is an inappropriate implementation issue in Chrome's V8 JavaScript engine.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2024
+August 29, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Unicode QR Code Phishing Scam Bypasses Traditional Security<a href="https://hackread.com/unicode-qr-code-phishing-scam-bypasses-security/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ New Unicode QR Code Phishing Scam Bypasses Traditional Security<a href="https://
 Cybercriminals are using Unicode QR codes in a new type of phishing attack that can bypass traditional security measures, putting users at risk of visiting malicious websites and having their data stolen.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 29, 2024
+August 29, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Researchers Unmasked the Notorious Threat Actor USDoD<a href="https://securityaffairs.com/167646/cyber-crime/researchers-unmasked-usdod.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Researchers Unmasked the Notorious Threat Actor USDoD<a href="https://securityaf
 CrowdStrike researchers have uncovered the identity of the hacker USDoD, also known as EquationCorp, responsible for multiple high-profile data breaches. According to a report from TecMundo, USDoD is a man named Luan BG from Brazil.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2024
+August 28, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlackByte Blends Known Tactics With New Encryptor Variant and Vulnerability Exploits to Support Ongoing Attacks<a href="https://blog.talosintelligence.com/blackbyte-blends-tried-and-true-tradecraft-with-newly-disclosed-vulnerabilities-to-support-ongoing-attacks/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ BlackByte Blends Known Tactics With New Encryptor Variant and Vulnerability Expl
 The latest encryptor variant identified by researchers at Cisco Talos appends the file extension ‘blackbytent_h’ to encrypted files. This variant also includes the deployment of four vulnerable drivers, an increase from previous reports.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Talos Intelligence
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 28, 2024
+August 28, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft's Sway Serves as Launchpad for 'Quishing' Campaign<a href="https://www.darkreading.com/vulnerabilities-threats/microsofts-sway-serves-as-launchpad-for-quishing-campaign?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Microsoft's Sway Serves as Launchpad for 'Quishing' Campaign<a href="https://www
 A new QR code phishing campaign is using Microsoft Sway to steal credentials. The attacks primarily target users in Asia and North America, particularly in the technology, manufacturing, and finance sectors.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
