@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Macro Look at the Most Pressing Cybersecurity Risks<a href="https://www.helpnetsecurity.com/2024/08/30/forescout-2024h1-threat-review/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Forescout report highlighted a 43% increase in published vulnerabilities, with 23,668 reported in H1 2024. Ransomware attacks also rose by 6%, totaling 3,085 incidents, with the U.S. being the most targeted country.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Variant of Cicada Ransomware Targets VMware ESXi Systems<a href="https://securityaffairs.com/167897/cyber-crime/a-new-variant-of-cicada-ransomware-targets-vmware-esxi-systems.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group behind Cicada3301 has been recruiting affiliates on cybercrime forums since June. It is speculated that Cicada3301 could be related to the now-defunct ALPHV group, as both ransomware share similarities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024 -- [Business](/docs/issues/business/business/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uniqkey Raises $5.92M in Funding<a href="https://www.finsmes.com/2024/08/uniqkey-raises-e5-35m-in-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Backers included BackingMinds, in combination with industry veterans such as Jesper Zerlang (ex-CEO of Logpoint), Lars Ankjer, Otto Krabbe, Rolf Bladt, and several angels and key employees.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GreenCharlie Infrastructure Targeting US Political Entities with Advanced Phishing and Malware<a href="https://www.recordedfuture.com/research/greencharlie-infrastructure-linked-us-political-campaign-targeting?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GreenCharlie attackers use dynamic DNS providers to register domains for phishing attacks, with deceptive themes like cloud services and document visualization to trick victims into revealing sensitive information or downloading malware payloads.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sinon: Open-Source Automatic Generative Burn-in for Windows Deception Hosts<a href="https://www.helpnetsecurity.com/2024/08/30/sinon-open-source-automatic-generative-burn-in-for-windows-deception-hosts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sinon is an open-source tool designed to automate the burn-in process of Windows-based deception hosts. It simplifies the orchestration of deception hosts at scale by incorporating generative capabilities to introduce diversity and randomness.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Palo Alto GlobalProtect Tool Used as Lure to Backdoor Enterprises<a href="https://www.bleepingcomputer.com/news/security/fake-palo-alto-globalprotect-used-as-lure-to-backdoor-enterprises/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fake Palo Alto GlobalProtect VPN access tool is being used as bait by threat actors targeting Middle Eastern organizations. The malware, disguised as a legitimate tool, can steal data and execute remote commands to infiltrate networks further.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Releases New Draft of Digital Identity Proofing Guidelines<a href="https://www.nextgov.com/digital-government/2024/08/nist-releases-new-draft-digital-identity-proofing-guidelines/399071/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new draft of NIST's digital identity proofing guidelines includes updates to accommodate passkeys and mobile driver's licenses, as well as options for identification without using biometrics like facial recognition.
+</details>
+<div style="text-align: right" markdown="1">
+NextGov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Launches Cyber Incident Reporting Portal To Streamline Breach Disclosure<a href="https://www.cybersecuritydive.com/news/cisa-cyber-incident-portal/725770/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has launched a cyber incident reporting portal to make breach disclosure easier. It allows organizations to report cyberattacks, vulnerabilities, and data breaches voluntarily.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Cyberattacks Persist: Developers Targeted via npm Packages<a href="https://securityonline.info/north-korean-cyberattacks-persist-developers-targeted-via-npm/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign, known as "Contagious Interview," tricks developers into downloading fake npm packages or installers. The attackers deploy a Python payload named InvisibleFerret to steal data from cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Threats That Shaped the First Half of 2024<a href="https://www.helpnetsecurity.com/2024/08/30/cyber-threat-intelligence-report-key-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Critical Start Cyber Research Unit, the manufacturing industry was the top target for cyber threats in H1 2024, professional services saw a 15% increase in attacks, and healthcare experienced a 180% surge in incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 31, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

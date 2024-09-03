@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Palo Alto GlobalProtect Tool Used as Lure to Backdoor Enterprises<a href="https://www.bleepingcomputer.com/news/security/fake-palo-alto-globalprotect-used-as-lure-to-backdoor-enterprises/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fake Palo Alto GlobalProtect VPN access tool is being used as bait by threat actors targeting Middle Eastern organizations. The malware, disguised as a legitimate tool, can steal data and execute remote commands to infiltrate networks further.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

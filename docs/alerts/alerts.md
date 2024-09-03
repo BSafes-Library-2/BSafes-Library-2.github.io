@@ -18,6 +18,17 @@ On August 12, 2024, the U.S. Attorney’s Office for the District of New Jersey 
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 29, 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Launches New Portal to Improve Cyber Reporting <a href="https://www.cisa.gov/news-events/news/cisa-launches-new-portal-improve-cyber-reporting"> Full Text</a>
+</p>
+<details>
+WASHINGTON – Today, the Cybersecurity and Infrastructure Security Agency (CISA) announces its cyber incident reporting form moved to the new CISA Services Portal as part of its ongoing effort to improve cyber incident reporting.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 August 28, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
@@ -42,6 +53,17 @@ of critical systems by enabling network visibility. This guidance makes recommen
 an organisation’s resilience in the current cyber threat environment, with regard for resourcing
 constraints. The guidance is of moderate technical complexity and assumes a basic understanding of
 event logging.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 21, 2024 - NIST 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Digital Identity Guidelines <a href="https://csrc.nist.gov/pubs/sp/800/63/4/2pd"> Full Text</a>
+</p>
+<details>
+NIST requests comments on the second draft of the fourth revision to the four-volume suite of Special Publication 800-63, Digital Identity Guidelines. This publication presents the process and technical requirements for meeting the digital identity management assurance levels specified in each volume. They also provide considerations for enhancing privacy, equity, and usability of digital identity solutions and technology.
 </details>
 </div>
 

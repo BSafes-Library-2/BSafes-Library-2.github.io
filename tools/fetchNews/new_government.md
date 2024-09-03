@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+September 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Releases New Draft of Digital Identity Proofing Guidelines<a href="https://www.nextgov.com/digital-government/2024/08/nist-releases-new-draft-digital-identity-proofing-guidelines/399071/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new draft of NIST's digital identity proofing guidelines includes updates to accommodate passkeys and mobile driver's licenses, as well as options for identification without using biometrics like facial recognition.
+</details>
+<div style="text-align: right" markdown="1">
+NextGov
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Launches Cyber Incident Reporting Portal To Streamline Breach Disclosure<a href="https://www.cybersecuritydive.com/news/cisa-cyber-incident-portal/725770/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has launched a cyber incident reporting portal to make breach disclosure easier. It allows organizations to report cyberattacks, vulnerabilities, and data breaches voluntarily.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+August 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+‘Store Now, Decrypt Later’: US Leaders Prep for Quantum Cryptography Concerns<a href="https://therecord.media/us-leaders-prep-for-quantum-cryptography-concerns?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+U.S. cybersecurity leaders are focusing on preparing for the potential risks posed by quantum cryptography tools that could threaten critical infrastructure and national security.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

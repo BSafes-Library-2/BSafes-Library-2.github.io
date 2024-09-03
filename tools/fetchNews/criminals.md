@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+August 30, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Capitalize on Travel Industry’s Peak Season<a href="https://www.helpnetsecurity.com/2024/08/28/cybercriminals-capitalize-travel-season/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cequence Security found that cyberattacks against the travel industry surge during holidays, with 91% of severe vulnerabilities in the top 10 travel and hospitality sites enabling man-in-the-middle attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

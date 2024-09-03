@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Macro Look at the Most Pressing Cybersecurity Risks<a href="https://www.helpnetsecurity.com/2024/08/30/forescout-2024h1-threat-review/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Forescout report highlighted a 43% increase in published vulnerabilities, with 23,668 reported in H1 2024. Ransomware attacks also rose by 6%, totaling 3,085 incidents, with the U.S. being the most targeted country.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Threats That Shaped the First Half of 2024<a href="https://www.helpnetsecurity.com/2024/08/30/cyber-threat-intelligence-report-key-threats/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Critical Start Cyber Research Unit, the manufacturing industry was the top target for cyber threats in H1 2024, professional services saw a 15% increase in attacks, and healthcare experienced a 180% surge in incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

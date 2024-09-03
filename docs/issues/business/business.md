@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uniqkey Raises $5.92M in Funding<a href="https://www.finsmes.com/2024/08/uniqkey-raises-e5-35m-in-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Backers included BackingMinds, in combination with industry veterans such as Jesper Zerlang (ex-CEO of Logpoint), Lars Ankjer, Otto Krabbe, Rolf Bladt, and several angels and key employees.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 16, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

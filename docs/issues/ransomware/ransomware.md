@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Variant of Cicada Ransomware Targets VMware ESXi Systems<a href="https://securityaffairs.com/167897/cyber-crime/a-new-variant-of-cicada-ransomware-targets-vmware-esxi-systems.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group behind Cicada3301 has been recruiting affiliates on cybercrime forums since June. It is speculated that Cicada3301 could be related to the now-defunct ALPHV group, as both ransomware share similarities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

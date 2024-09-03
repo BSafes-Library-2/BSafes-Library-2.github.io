@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sinon: Open-Source Automatic Generative Burn-in for Windows Deception Hosts<a href="https://www.helpnetsecurity.com/2024/08/30/sinon-open-source-automatic-generative-burn-in-for-windows-deception-hosts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sinon is an open-source tool designed to automate the burn-in process of Windows-based deception hosts. It simplifies the orchestration of deception hosts at scale by incorporating generative capabilities to introduce diversity and randomness.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 13, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
