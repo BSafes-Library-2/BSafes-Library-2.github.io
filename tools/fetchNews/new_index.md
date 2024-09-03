@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2024
+September 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A Macro Look at the Most Pressing Cybersecurity Risks<a href="https://www.helpnetsecurity.com/2024/08/30/forescout-2024h1-threat-review/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A Forescout report highlighted a 43% increase in published vulnerabilities, with 23,668 reported in H1 2024. Ransomware attacks also rose by 6%, totaling 3,085 incidents, with the U.S. being the most targeted country.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A New Variant of Cicada Ransomware Targets VMware ESXi Systems<a href="https://securityaffairs.com/167897/cyber-crime/a-new-variant-of-cicada-ransomware-targets-vmware-esxi-systems.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group behind Cicada3301 has been recruiting affiliates on cybercrime forums since June. It is speculated that Cicada3301 could be related to the now-defunct ALPHV group, as both ransomware share similarities.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Uniqkey Raises $5.92M in Funding<a href="https://www.finsmes.com/2024/08/uniqkey-raises-e5-35m-in-funding.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Backers included BackingMinds, in combination with industry veterans such as Jesper Zerlang (ex-CEO of Logpoint), Lars Ankjer, Otto Krabbe, Rolf Bladt, and several angels and key employees.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GreenCharlie Infrastructure Targeting US Political Entities with Advanced Phishing and Malware<a href="https://www.recordedfuture.com/research/greencharlie-infrastructure-linked-us-political-campaign-targeting?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GreenCharlie attackers use dynamic DNS providers to register domains for phishing attacks, with deceptive themes like cloud services and document visualization to trick victims into revealing sensitive information or downloading malware payloads.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sinon: Open-Source Automatic Generative Burn-in for Windows Deception Hosts<a href="https://www.helpnetsecurity.com/2024/08/30/sinon-open-source-automatic-generative-burn-in-for-windows-deception-hosts/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sinon is an open-source tool designed to automate the burn-in process of Windows-based deception hosts. It simplifies the orchestration of deception hosts at scale by incorporating generative capabilities to introduce diversity and randomness.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Palo Alto GlobalProtect Tool Used as Lure to Backdoor Enterprises<a href="https://www.bleepingcomputer.com/news/security/fake-palo-alto-globalprotect-used-as-lure-to-backdoor-enterprises/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A fake Palo Alto GlobalProtect VPN access tool is being used as bait by threat actors targeting Middle Eastern organizations. The malware, disguised as a legitimate tool, can steal data and execute remote commands to infiltrate networks further.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+NIST Releases New Draft of Digital Identity Proofing Guidelines<a href="https://www.nextgov.com/digital-government/2024/08/nist-releases-new-draft-digital-identity-proofing-guidelines/399071/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The new draft of NIST's digital identity proofing guidelines includes updates to accommodate passkeys and mobile driver's licenses, as well as options for identification without using biometrics like facial recognition.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Launches Cyber Incident Reporting Portal To Streamline Breach Disclosure<a href="https://www.cybersecuritydive.com/news/cisa-cyber-incident-portal/725770/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has launched a cyber incident reporting portal to make breach disclosure easier. It allows organizations to report cyberattacks, vulnerabilities, and data breaches voluntarily.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Cyberattacks Persist: Developers Targeted via npm Packages<a href="https://securityonline.info/north-korean-cyberattacks-persist-developers-targeted-via-npm/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign, known as "Contagious Interview," tricks developers into downloading fake npm packages or installers. The attackers deploy a Python payload named InvisibleFerret to steal data from cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 2, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Threats That Shaped the First Half of 2024<a href="https://www.helpnetsecurity.com/2024/08/30/cyber-threat-intelligence-report-key-threats/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to a report by Critical Start Cyber Research Unit, the manufacturing industry was the top target for cyber threats in H1 2024, professional services saw a 15% increase in attacks, and healthcare experienced a 180% surge in incidents.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+August 31, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Rocinante: The Trojan Horse That Wanted to Fly<a href="https://www.threatfabric.com/blogs/the-trojan-horse-that-wanted-to-fly-rocinante#rocinante-or-pegasus?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Rocinante: The Trojan Horse That Wanted to Fly<a href="https://www.threatfabric.
 Once installed, the Rocinante malware prompts the victim to grant Accessibility Services and displays phishing screens tailored to different banks to steal personal information.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Threat Fabric
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2024
+August 31, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Snake Keylogger Variant Slithers Into Phishing Campaigns<a href="https://securityonline.info/new-snake-keylogger-variant-slithers-into-phishing-campaigns/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ New Snake Keylogger Variant Slithers Into Phishing Campaigns<a href="https://sec
 The attack starts with a phishing email disguised as a fund transfer notification, with an attached Excel file named “swift copy.xls” that triggers the deployment of Snake Keylogger on the victim's computer upon opening.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2024
+August 31, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI: RansomHub Ransomware Breached 210 Victims Since February 2024<a href="https://www.bleepingcomputer.com/news/security/fbi-ransomhub-ransomware-breached-210-victims-since-february/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ FBI: RansomHub Ransomware Breached 210 Victims Since February 2024<a href="https
 The ransomware operation focuses on data theft extortion rather than encrypting files, with victims facing the threat of stolen data being leaked or sold if negotiations fail.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2024
+August 31, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Operation DevilTiger: APT-Q-12’s Shadowy Tactics and Zero-Day Exploits Unveiled<a href="https://securityonline.info/operation-deviltiger-apt-q-12s-shadowy-tactics-and-zero-day-exploits-unveiled/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Operation DevilTiger: APT-Q-12’s Shadowy Tactics and Zero-Day Exploits Unveile
 The QiAnXin Threat Intelligence Center has revealed the details of "Operation DevilTiger," a cyber espionage campaign carried out by the elusive APT-Q-12 group, also known as "Pseudo Hunter."
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2024
+August 31, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Suspected Espionage Campaign Delivers New Voldemort Malware<a href="https://www.proofpoint.com/us/blog/threat-insight/malware-must-not-be-named-suspected-espionage-campaign-delivers-voldemort?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Suspected Espionage Campaign Delivers New Voldemort Malware<a href="https://www.
 The campaign, which targeted organizations worldwide, involved impersonating tax authorities from various countries and utilizing Google Sheets for command and control (C2).
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Proof Point
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 31, 2024
+August 31, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Godzilla Fileless Backdoors Targeting Atlassian Confluence<a href="https://www.trendmicro.com/en_us/research/24/h/godzilla-fileless-backdoors.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Godzilla Fileless Backdoors Targeting Atlassian Confluence<a href="https://www.t
 The Godzilla fileless backdoor relies on a complex series of actions, such as cryptographic operations, class loading, and dynamic injection, to establish unauthorized access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2024
+August 30, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Offers $2.5 Million Reward for Hacker Linked to Angler Exploit Kit<a href="https://www.bleepingcomputer.com/news/legal/us-offers-25-million-reward-for-hacker-linked-to-angler-exploit-kit/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ US Offers $2.5 Million Reward for Hacker Linked to Angler Exploit Kit<a href="ht
 The U.S. Department of State and the Secret Service are offering a reward of $2.5 million for information leading to the capture of Belarusian cybercriminal Volodymyr Kadariya, who is linked to the Angler Exploit Kit.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2024
+August 30, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybercriminals Capitalize on Travel Industry’s Peak Season<a href="https://www.helpnetsecurity.com/2024/08/28/cybercriminals-capitalize-travel-season/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Cybercriminals Capitalize on Travel Industry’s Peak Season<a href="https://www
 Cequence Security found that cyberattacks against the travel industry surge during holidays, with 91% of severe vulnerabilities in the top 10 travel and hospitality sites enabling man-in-the-middle attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2024
+August 30, 2024 -- [Encryption](/docs/issues/encryption/encryption/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ‘Store Now, Decrypt Later’: US Leaders Prep for Quantum Cryptography Concerns<a href="https://therecord.media/us-leaders-prep-for-quantum-cryptography-concerns?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ August 30, 2024
 U.S. cybersecurity leaders are focusing on preparing for the potential risks posed by quantum cryptography tools that could threaten critical infrastructure and national security.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-August 30, 2024
+August 30, 2024 -- [Insider Threat](/docs/issues/insider-threat/insider-threat/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Employee Arrested for Locking Windows Admins Out of 254 Servers in Extortion Plot<a href="https://www.bleepingcomputer.com/news/security/employee-arrested-for-locking-windows-admins-out-of-254-servers-in-extortion-plot/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Employee Arrested for Locking Windows Admins Out of 254 Servers in Extortion Plo
 The FBI investigation revealed that the suspect, Daniel Rhyne, had accessed the company's systems without authorization and changed passwords for various accounts. Rhyne's actions were intended to deny the company access to its systems and data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
