@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GreenCharlie Infrastructure Targeting US Political Entities with Advanced Phishing and Malware<a href="https://www.recordedfuture.com/research/greencharlie-infrastructure-linked-us-political-campaign-targeting?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GreenCharlie attackers use dynamic DNS providers to register domains for phishing attacks, with deceptive themes like cloud services and document visualization to trick victims into revealing sensitive information or downloading malware payloads.
+</details>
+<div style="text-align: right" markdown="1">
+Recorded Future
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 2, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Cyberattacks Persist: Developers Targeted via npm Packages<a href="https://securityonline.info/north-korean-cyberattacks-persist-developers-targeted-via-npm/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The campaign, known as "Contagious Interview," tricks developers into downloading fake npm packages or installers. The attackers deploy a Python payload named InvisibleFerret to steal data from cryptocurrency wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

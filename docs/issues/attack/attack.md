@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roblox Developers Under Attack by New Malicious NPM Campaign<a href="https://www.techradar.com/pro/security/roblox-devs-under-attack-by-new-malicious-npm-campaign?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Roblox developers are being targeted by a new malicious npm campaign. Cybercriminals have created fake Roblox npm packages with the aim of deploying a remote access trojan called Quasar.
+</details>
+<div style="text-align: right" markdown="1">
+Tech Radar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
