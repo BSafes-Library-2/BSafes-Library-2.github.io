@@ -34,6 +34,102 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Canonical Addresses Critical Linux Kernel AWS Vulnerabilities with New Patches<a href="https://thecyberexpress.com/linux-kernel-vulnerabilitie/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers have identified six vulnerabilities, including a race condition in the Bluetooth RFCOMM protocol driver that can crash the system, a race condition in the Bluetooth subsystem, and a double-free error in the net/mlx5e module.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Link ManticoraLoader Malware to Ares Malware Developer<a href="https://thecyberexpress.com/researchers-link-manticoraloader-malware-ares/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have traced the new ManticoraLoader malware-as-a-service (MaaS) to the cybercriminal group 'DarkBLUP,' previously associated with distributing AresLoader and AiDLocker ransomware from the DeadXInject group.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Find SQL Injection Flaw to Bypass Airport TSA Security Checks<a href="https://www.bleepingcomputer.com/news/security/researchers-find-sql-injection-to-bypass-airport-tsa-security-checks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers discovered a SQL injection vulnerability in FlyCASS, a third-party web service used by airlines to manage the Known Crewmember (KCM) program and the Cockpit Access Security System (CASS).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked APT Citrine Sleet Exploit Chrome Zero-Day to Deliver FudModule Rootkit<a href="https://securityaffairs.com/167848/breaking-news/north-korea-linked-apt-exploited-chrome-zero-day-cve-2024-7971.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean APT used a Google Chrome zero-day flaw, CVE-2024-7971, to deploy the FudModule rootkit. Microsoft researchers linked these attacks to Citrine Sleet (AppleJeus, Labyrinth Chollima, UNC4736, or Hidden Cobra) with medium confidence.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Roblox Developers Under Attack by New Malicious NPM Campaign<a href="https://www.techradar.com/pro/security/roblox-devs-under-attack-by-new-malicious-npm-campaign?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Roblox developers are being targeted by a new malicious npm campaign. Cybercriminals have created fake Roblox npm packages with the aim of deploying a remote access trojan called Quasar.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Attack on Windows Spotted in Chinese Phishing Campaign<a href="https://www.theregister.com/2024/09/02/securonix_china_slowtempest_campaign/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious DLL implant for the Cobalt Strike attack toolkit gets injected into the Windows binary "runonce.exe," giving total control to the attackers. The campaign further deploys various malicious tools for reconnaissance and data exfiltration.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 2, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
