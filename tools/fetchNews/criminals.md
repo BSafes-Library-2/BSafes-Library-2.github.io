@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Researchers Link ManticoraLoader Malware to Ares Malware Developer<a href="https://thecyberexpress.com/researchers-link-manticoraloader-malware-ares/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have traced the new ManticoraLoader malware-as-a-service (MaaS) to the cybercriminal group 'DarkBLUP,' previously associated with distributing AresLoader and AiDLocker ransomware from the DeadXInject group.
+</details>
+<div style="text-align: right" markdown="1">
+The Cyber Express
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

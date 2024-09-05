@@ -227,6 +227,17 @@ Impersonation scams are on the rise and often use the names and titles of govern
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+June 11, 2024 - PCI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Just Published: PCI DSS v4.0.1 <a href="https://blog.pcisecuritystandards.org/just-published-pci-dss-v4-0-1"> Full Text</a>
+</p>
+<details>
+To address stakeholder feedback and questions received since PCI DSS v4.0 was published in March 2022, the PCI Security Standards Council (PCI SSC) has published a limited revision to the standard, PCI DSS v4.0.1. It includes corrections to formatting and typographical errors and clarifies the focus and intent of some of the requirements and guidance. There are no additional or deleted requirements in this revision.  
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 June 5, 2024 - CISA
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

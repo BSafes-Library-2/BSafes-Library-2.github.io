@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2024
+September 4, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US Government Isn’t Ready for Cyber Chaos in the Food and Agriculture Sector<a href="https://therecord.media/government-is-not-ready-for-food-agriculture-cybersecurity-usda?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ US Government Isn’t Ready for Cyber Chaos in the Food and Agriculture Sector<a
 The industry remains largely unscathed by cyber threats, but recent events like the JBS ransomware attack highlight vulnerabilities. The sector's increased automation makes it a target for hackers, posing risks to the US food supply.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2024
+September 4, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Initial Access Brokers Target $2bn Revenue Companies<a href="https://www.infosecurity-magazine.com/news/initial-access-brokers-2bn-revenue/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Initial Access Brokers Target $2bn Revenue Companies<a href="https://www.infosec
 Initial Access Brokers (IABs) are now targeting companies with revenues reaching $2 billion, particularly in the US and business services sector, according to new research from Cyberint.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2024
+September 4, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Crisis Deepens as Attacks and Payouts Rise<a href="https://www.helpnetsecurity.com/2024/09/02/ransomware-crisis-attacks-payouts/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Ransomware Crisis Deepens as Attacks and Payouts Rise<a href="https://www.helpne
 The ransomware crisis is escalating, with a surge in attacks and payouts. New ransomware groups like PLAY and Medusa have led a wave of attacks in the second quarter, following the takedown of LockBit and BlackCat.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2024
+September 4, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Travelers Targeted in New Booking.com Phishing Scam<a href="https://securityonline.info/travelers-targeted-booking-com-phishing-scam-unveiled/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Travelers Targeted in New Booking.com Phishing Scam<a href="https://securityonli
 The attack involves compromising hotel managers' accounts to access customer reservation systems, ultimately tricking hotel guests via the Booking.com app. The scheme utilizes a fake domain to deceive users and harvest sensitive data.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2024
+September 4, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Earth Lusca Uses KTLVdoor Backdoor for Multiplatform Intrusion<a href="https://www.trendmicro.com/en_us/research/24/i/earth-lusca-ktlvdoor.html?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Earth Lusca Uses KTLVdoor Backdoor for Multiplatform Intrusion<a href="https://w
 The highly obfuscated KTLVdoor malware has versions for both Microsoft Windows and Linux, allowing attackers to perform tasks like file manipulation, command execution, and remote port scanning.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2024
+September 4, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Dutch Privacy Watchdog Fines Clearview AI $34 Million for ‘Illegal’ Database of Faces<a href="https://therecord.media/clearview-ai-fined-34-million-dutch-data-privacy-watchdog?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Dutch Privacy Watchdog Fines Clearview AI $34 Million for ‘Illegal’ Database
 The Dutch Data Protection Authority (Dutch DPA) fined Clearview AI $34 million for the illegal creation of a facial image database. If Clearview AI does not comply, an additional fine of up to $5.5 million will be imposed.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2024
+September 4, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Emansrepo Stealer: Multi-Vector Attack Chains<a href="https://www.fortinet.com/blog/threat-research/emansrepo-stealer-multi-vector-attack-chains?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Emansrepo Stealer: Multi-Vector Attack Chains<a href="https://www.fortinet.com/b
 The Python-based infostealer collects user information, text files, PDF files, browser data, crypto wallets, game platforms, browser extensions, and cookies. The stolen data is sent via email to the attacker.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Fortinet
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2024
+September 4, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Ransomware Gangs Pummel Southeast Asia<a href="https://www.darkreading.com/cyber-risk/ransomware-gangs-pummel-southeast-asia?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Ransomware Gangs Pummel Southeast Asia<a href="https://www.darkreading.com/cyber
 According to telemetry data from Trend Micro, Ransomware attacks in Southeast Asia are on the rise in 2024, with major incidents in countries like Thailand, Japan, South Korea, Singapore, Taiwan, and Indonesia.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2024
+September 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 VMware Fixed a Code Execution Flaw in Fusion Hypervisor<a href="https://securityaffairs.com/168009/security/vmware-fusion-cve-2024-38811.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ VMware Fixed a Code Execution Flaw in Fusion Hypervisor<a href="https://security
 VMware has patched a high-severity code execution flaw in its Fusion hypervisor. The vulnerability, tracked as CVE-2024-38811, is caused by an insecure environment variable.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 4, 2024
+September 4, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Complying with PCI DSS Requirements by 2025<a href="https://www.helpnetsecurity.com/2024/09/02/pci-dss-requirements/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Complying with PCI DSS Requirements by 2025<a href="https://www.helpnetsecurity.
 The latest version 4.0.1 of the Payment Card Industry Data Security Standard (PCI DSS) has introduced key changes to address the evolving digital landscape. While some requirements are already in effect, others will come into play by April 2025.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

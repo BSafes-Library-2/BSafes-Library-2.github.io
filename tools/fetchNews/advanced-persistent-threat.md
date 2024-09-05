@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea-linked APT Citrine Sleet Exploit Chrome Zero-Day to Deliver FudModule Rootkit<a href="https://securityaffairs.com/167848/breaking-news/north-korea-linked-apt-exploited-chrome-zero-day-cve-2024-7971.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A North Korean APT used a Google Chrome zero-day flaw, CVE-2024-7971, to deploy the FudModule rootkit. Microsoft researchers linked these attacks to Citrine Sleet (AppleJeus, Labyrinth Chollima, UNC4736, or Hidden Cobra) with medium confidence.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

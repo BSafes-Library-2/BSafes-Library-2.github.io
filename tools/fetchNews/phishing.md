@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 3, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Novel Attack on Windows Spotted in Chinese Phishing Campaign<a href="https://www.theregister.com/2024/09/02/securonix_china_slowtempest_campaign/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious DLL implant for the Cobalt Strike attack toolkit gets injected into the Windows binary "runonce.exe," giving total control to the attackers. The campaign further deploys various malicious tools for reconnaissance and data exfiltration.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
