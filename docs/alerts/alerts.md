@@ -7,6 +7,28 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 5 2024 - FBI, CISA, NSA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI, CISA, NSA, and US and International Partners Release Advisory on Russian Military Cyber Actors Targeting US and Global Critical Infrastructure <a href="https://www.cisa.gov/news-events/alerts/2024/09/05/fbi-cisa-nsa-and-us-and-international-partners-release-advisory-russian-military-cyber-actors"> Full Text</a>
+</p>
+<details>
+Today, the Federal Bureau of Investigation (FBI)—in partnership with CISA, the National Security Agency (NSA), and other U.S. and international partners—released a joint Cybersecurity Advisory Russian Military Cyber Actors Target U.S. and Global Critical Infrastructure. This advisory provides overlapping cybersecurity industry cyber threat intelligence, tactics, techniques, and procedures (TTPs) and Indicators of Compromise (IOCs) associated with Russian General Staff Main Intelligence Directorate (GRU) 161st Specialist Training Center (Unit 29155) cyber actors, both during and succeeding their deployment of the WhisperGate malware against Ukraine.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 3 2024 - FBI 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korea Aggressively Targeting Crypto Industry with Well-Disguised Social Engineering Attacks <a href="https://www.ic3.gov/Media/Y2024/PSA240903"> Full Text</a>
+</p>
+<details>
+The Democratic People's Republic of Korea ("DPRK" aka North Korea) is conducting highly tailored, difficult-to-detect social engineering campaigns against employees of decentralized finance ("DeFi"), cryptocurrency, and similar businesses to deploy malware and steal company cryptocurrency.
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 2 2024 - United States Secret Service 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

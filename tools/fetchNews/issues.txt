@@ -29,8 +29,6 @@
  -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 
 Alerts:
-. https://securityonline.info/cisa-issues-alert-three-actively-exploited-vulnerabilities-demand-immediate-attention/?&web_view=true
-. https://www.bleepingcomputer.com/news/security/fbi-warns-crypto-firms-of-aggressive-social-engineering-attacks/?&web_view=true
 . https://s3.documentcloud.org/documents/23321540/dod-ztstrategy.pdf
 . https://media.defense.gov/2022/Oct/31/2003105368/-1/-1/0/SECURING_THE_SOFTWARE_SUPPLY_CHAIN_SUPPLIERS.PDF
 [DOC]. https://securityaffairs.co/wordpress/138077/security/enisa-threat-landscape-2022.html
