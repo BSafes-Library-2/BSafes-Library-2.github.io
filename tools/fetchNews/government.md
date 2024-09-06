@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Government Isn’t Ready for Cyber Chaos in the Food and Agriculture Sector<a href="https://therecord.media/government-is-not-ready-for-food-agriculture-cybersecurity-usda?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The industry remains largely unscathed by cyber threats, but recent events like the JBS ransomware attack highlight vulnerabilities. The sector's increased automation makes it a target for hackers, posing risks to the US food supply.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2024
+September 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Litespeed Cache Flaw Exposes Millions of WordPress Sites to Takeover Attacks<a href="https://securityonline.info/cve-2024-44000-cvss-9-8-litespeed-cache-flaw-exposes-millions-of-wordpress-sites-to-takeover-attacks/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Litespeed Cache Flaw Exposes Millions of WordPress Sites to Takeover Attacks<a h
 Discovered by security researcher Rafie Muhammad, the flaw allows unauthorized users to take control of logged-in accounts, potentially gaining administrator privileges on WordPress sites.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2024
+September 5, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Intricate Babylon RAT Campaign Targets Malaysian Politicians, Government<a href="https://cyble.com/blog/the-intricate-babylon-rat-campaign-targets-malaysian-politicians-government/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Intricate Babylon RAT Campaign Targets Malaysian Politicians, Government<a href=
 This campaign, active since July, utilizes at least three malicious ISO files to compromise Malaysian entities, containing components like a malicious executable and a decoy PDF file, ultimately delivering the Babylon RAT as a final payload.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cyble
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2024
+September 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Fixes Root Escalation Vulnerability With Public Exploit Code<a href="https://www.bleepingcomputer.com/news/security/cisco-fixes-root-escalation-vulnerability-with-public-exploit-code/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Cisco Fixes Root Escalation Vulnerability With Public Exploit Code<a href="https
 Local attackers can exploit this weakness through malicious CLI commands without user interaction, but only if they have Administrator privileges. So far, there is no evidence of this vulnerability being exploited in the wild.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2024
+September 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cisco Warns of Backdoor Admin Account in Smart Licensing Utility<a href="https://www.bleepingcomputer.com/news/security/cisco-warns-of-backdoor-admin-account-in-smart-licensing-utility/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Cisco Warns of Backdoor Admin Account in Smart Licensing Utility<a href="https:/
 Cisco has issued a warning about a backdoor admin account discovered in the Cisco Smart Licensing Utility (CSLU), allowing unauthorized access to unpatched systems. This critical flaw (CVE-2024-20439) enables remote access with admin privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2024
+September 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 EUCLEAK Attack Allows Yubico Security Keys to be Cloned<a href="https://www.helpnetsecurity.com/2024/09/04/yubico-security-keys-vulnerability/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ EUCLEAK Attack Allows Yubico Security Keys to be Cloned<a href="https://www.help
 Despite this, the risk is limited as attackers would need physical access to the device, specific knowledge of targeted accounts, and specialized equipment for the attack.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2024
+September 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Google Fixed Actively Exploited Android Privilege Escalation Flaw (CVE-2024-32896)<a href="https://securityaffairs.com/168047/mobile-2/google-fixed-actively-exploited-android-flaw-cve-2024-32896.html?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Google Fixed Actively Exploited Android Privilege Escalation Flaw (CVE-2024-3289
 Google has patched a high-severity vulnerability, known as CVE-2024-32896, in its Android OS actively exploited in the wild. The issue involves a privilege escalation in the Android Framework component.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2024
+September 5, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Revival Hijack Attack Puts 22,000 PyPI Packages at Risk of Hijack<a href="https://jfrog.com/blog/revival-hijack-pypi-hijack-technique-exploited-22k-packages-at-risk/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Revival Hijack Attack Puts 22,000 PyPI Packages at Risk of Hijack<a href="https:
 This method could potentially lead to numerous malicious package downloads. The attack involves hijacking popular projects by registering new projects under the names of removed packages on PyPI.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+JFrog
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2024
+September 5, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA Warns of Three Actively Exploited Vulnerabilities That Demand Immediate Attention<a href="https://securityonline.info/cisa-issues-alert-three-actively-exploited-vulnerabilities-demand-immediate-attention/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ CISA Warns of Three Actively Exploited Vulnerabilities That Demand Immediate Att
 Two vulnerabilities, CVE-2021-20123 and CVE-2021-20124, pose serious risks for Draytek VigorConnect routers, potentially leading to unauthorized access to sensitive files. Another vulnerability, CVE-2024-7262, affects Kingsoft WPS Office.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2024
+September 5, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 RomCom Group’s Underground Ransomware Exploits Microsoft Zero-Day Flaw<a href="https://securityonline.info/romcom-groups-underground-ransomware-exploits-microsoft-zero-day-flaw/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ RomCom Group’s Underground Ransomware Exploits Microsoft Zero-Day Flaw<a href=
 A new ransomware variant named Underground, linked to the Russia-based RomCom group, encrypts files on victims’ Windows machines and demands a ransom for decryption. It has been active since July 2023.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 5, 2024
+September 5, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FBI Warns Crypto Firms of Aggressive Social Engineering Attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-crypto-firms-of-aggressive-social-engineering-attacks/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ FBI Warns Crypto Firms of Aggressive Social Engineering Attacks<a href="https://
 The FBI issued a warning about aggressive social engineering attacks by North Korean hacking groups targeting cryptocurrency firms. The attacks involve deploying malware to steal crypto assets through highly targeted tactics that are hard to detect.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+September 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Three Actively Exploited Vulnerabilities That Demand Immediate Attention<a href="https://securityonline.info/cisa-issues-alert-three-actively-exploited-vulnerabilities-demand-immediate-attention/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two vulnerabilities, CVE-2021-20123 and CVE-2021-20124, pose serious risks for Draytek VigorConnect routers, potentially leading to unauthorized access to sensitive files. Another vulnerability, CVE-2024-7262, affects Kingsoft WPS Office.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FBI Warns Crypto Firms of Aggressive Social Engineering Attacks<a href="https://www.bleepingcomputer.com/news/security/fbi-warns-crypto-firms-of-aggressive-social-engineering-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The FBI issued a warning about aggressive social engineering attacks by North Korean hacking groups targeting cryptocurrency firms. The attacks involve deploying malware to steal crypto assets through highly targeted tactics that are hard to detect.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

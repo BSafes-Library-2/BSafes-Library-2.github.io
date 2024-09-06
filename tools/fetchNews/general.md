@@ -8,6 +8,48 @@ nav_order: 900072
 
 ## General
 ---
+September 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Initial Access Brokers Target $2bn Revenue Companies<a href="https://www.infosecurity-magazine.com/news/initial-access-brokers-2bn-revenue/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Initial Access Brokers (IABs) are now targeting companies with revenues reaching $2 billion, particularly in the US and business services sector, according to new research from Cyberint.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Crisis Deepens as Attacks and Payouts Rise<a href="https://www.helpnetsecurity.com/2024/09/02/ransomware-crisis-attacks-payouts/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The ransomware crisis is escalating, with a surge in attacks and payouts. New ransomware groups like PLAY and Medusa have led a wave of attacks in the second quarter, following the takedown of LockBit and BlackCat.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Ransomware Gangs Pummel Southeast Asia<a href="https://www.darkreading.com/cyber-risk/ransomware-gangs-pummel-southeast-asia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to telemetry data from Trend Micro, Ransomware attacks in Southeast Asia are on the rise in 2024, with major incidents in countries like Thailand, Japan, South Korea, Singapore, Taiwan, and Indonesia.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

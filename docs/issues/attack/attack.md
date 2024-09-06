@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Intricate Babylon RAT Campaign Targets Malaysian Politicians, Government<a href="https://cyble.com/blog/the-intricate-babylon-rat-campaign-targets-malaysian-politicians-government/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This campaign, active since July, utilizes at least three malicious ISO files to compromise Malaysian entities, containing components like a malicious executable and a decoy PDF file, ultimately delivering the Babylon RAT as a final payload.
+</details>
+<div style="text-align: right" markdown="1">
+Cyble
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Revival Hijack Attack Puts 22,000 PyPI Packages at Risk of Hijack<a href="https://jfrog.com/blog/revival-hijack-pypi-hijack-technique-exploited-22k-packages-at-risk/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This method could potentially lead to numerous malicious package downloads. The attack involves hijacking popular projects by registering new projects under the names of removed packages on PyPI.
+</details>
+<div style="text-align: right" markdown="1">
+JFrog
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

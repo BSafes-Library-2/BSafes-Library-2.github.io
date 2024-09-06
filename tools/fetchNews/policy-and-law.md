@@ -8,6 +8,34 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Dutch Privacy Watchdog Fines Clearview AI $34 Million for ‘Illegal’ Database of Faces<a href="https://therecord.media/clearview-ai-fined-34-million-dutch-data-privacy-watchdog?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Dutch Data Protection Authority (Dutch DPA) fined Clearview AI $34 million for the illegal creation of a facial image database. If Clearview AI does not comply, an additional fine of up to $5.5 million will be imposed.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Complying with PCI DSS Requirements by 2025<a href="https://www.helpnetsecurity.com/2024/09/02/pci-dss-requirements/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The latest version 4.0.1 of the Payment Card Industry Data Security Standard (PCI DSS) has introduced key changes to address the evolving digital landscape. While some requirements are already in effect, others will come into play by April 2025.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

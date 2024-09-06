@@ -8,6 +8,20 @@ nav_order: 900160
 
 ## Phishing
 ---
+September 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Travelers Targeted in New Booking.com Phishing Scam<a href="https://securityonline.info/travelers-targeted-booking-com-phishing-scam-unveiled/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack involves compromising hotel managers' accounts to access customer reservation systems, ultimately tricking hotel guests via the Booking.com app. The scheme utilizes a fake domain to deceive users and harvest sensitive data.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
