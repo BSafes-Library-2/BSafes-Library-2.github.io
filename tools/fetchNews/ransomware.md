@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 5, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RomCom Group’s Underground Ransomware Exploits Microsoft Zero-Day Flaw<a href="https://securityonline.info/romcom-groups-underground-ransomware-exploits-microsoft-zero-day-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new ransomware variant named Underground, linked to the Russia-based RomCom group, encrypts files on victims’ Windows machines and demands a ransom for decryption. It has been active since July 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

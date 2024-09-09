@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Sami Khoury, Head of Canada’s Cyber Agency, Starts New Role in Government<a href="https://therecord.media/sami-khoury-canada-cyber-new-role?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Sami Khoury, the head of Canada's cyber agency, is moving to a new role as the government's senior official for cybersecurity after leading the Canadian Centre for Cyber Security (CCCS) since August 2021.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

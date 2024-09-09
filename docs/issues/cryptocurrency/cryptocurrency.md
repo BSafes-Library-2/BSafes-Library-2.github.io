@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Penpie DeFi platform files reports with FBI, Singapore police after $27 million crypto theft<a href="https://therecord.media/penpie-defi-protocol-ethereum-stolen?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Penpie DeFi platform recently reported a $27 million cryptocurrency theft to the FBI and Singapore police. Hackers targeted the protocol, stealing ethereum and prompting Penpie to halt withdrawals and deposits.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 6, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android SpyAgent Campaign Steals Crypto Credentials via Image Recognition<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/new-android-spyagent-campaign-steals-crypto-credentials-via-image-recognition/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A new mobile malware called SpyAgent has been uncovered by McAfee's Mobile Research Team. This malware targets mnemonic keys used for cryptocurrency wallets by scanning for images containing them on your device.
+</details>
+<div style="text-align: right" markdown="1">
+Macfee
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

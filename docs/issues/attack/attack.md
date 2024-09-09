@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlindEagle Targets Colombian Insurance Sector with BlotchyQuasar<a href="https://www.zscaler.com/blogs/security-research/blindeagle-targets-colombian-insurance-sector-blotchyquasar?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The BlindEagle APT group has recently targeted the Colombian insurance sector. The attack chain starts with a phishing email impersonating DIAN, the Colombian tax authority.
+</details>
+<div style="text-align: right" markdown="1">
+ZScalar
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

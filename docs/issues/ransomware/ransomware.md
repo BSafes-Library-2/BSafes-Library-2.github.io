@@ -8,6 +8,34 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fog Ransomware Now Targeting the Financial Sector<a href="https://adlumin.com/post/fog-ransomware-now-targeting-the-financial-sector/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Fog, a variant of STOP/DJVU family, targets various sectors, exploiting VPN vulnerabilities to infiltrate network defenses. After infiltration, Fog ransomware disables protective measures, encrypts vital files, and demands ransom via the Tor network.
+</details>
+<div style="text-align: right" markdown="1">
+Adlumin
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CyberVolk Ransomware: A New and Evolving Threat to Global Cybersecurity<a href="https://securityonline.info/cybervolk-ransomware-a-new-and-evolving-threat-to-global-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CyberVolk, infamous for DDoS attacks and data breaches, has gained particular notoriety for its ransomware, detected in July 2024, due to its advanced features and capabilities.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 5, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
