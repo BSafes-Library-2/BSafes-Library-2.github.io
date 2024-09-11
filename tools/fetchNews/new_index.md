@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2024
+September 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Flags ICS Bugs in Baxter, Mitsubishi Products<a href="https://www.darkreading.com/ics-ot-security/cisa-flags-ics-bugs-in-baxter-mitsubishi-products?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has identified vulnerabilities in industrial control system products from Baxter and Mitsubishi that are commonly used in healthcare and critical manufacturing sectors. Both the firms have released advisories with mitigation measures.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland Dismantles Cyber Sabotage Group Linked to Russia, Belarus<a href="https://therecord.media/poland-dismantles-cyber-sabotage-group-russia-belarus?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poland has dismantled a cyber sabotage group with links to Russia and Belarus. The group attempted to disrupt the country through cyberattacks, extorting information from local government agencies and state companies related to security matters.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky-linked Hackers Use Similar Tactics to Attack Russia and South Korea<a href="https://therecord.media/kimsuky-north-korea-hackers-targeting-russia-south-korea?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Known as Konni, the threat actor uses similar tactics in both countries since at least 2021, targeting entities like the Russian Ministry of Foreign Affairs, the Russian Embassy in Indonesia, and South Korean businesses, including a tax law firm.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Predator Spyware Roars Back with New Infrastructure, Evasive Tactics<a href="https://securityonline.info/predator-spyware-roars-back-new-infrastructure-evasive-tactics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have warned of the resurgence of Predator spyware, previously thought to be inactive due to sanctions and exposure, thanks to new infrastructure and evasive tactics.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Group Abuses Visual Studio Code to Target Government in Asia<a href="https://unit42.paloaltonetworks.com/stately-taurus-abuses-vscode-southeast-asian-espionage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese APT group Stately Taurus exploited Visual Studio Code to target government entities in Southeast Asia for cyberespionage. They utilized the software's reverse shell feature to infiltrate networks, a technique first detected in 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'TIDrone' Cyberattackers Target Taiwan's Drone Manufacturers<a href="https://www.darkreading.com/ics-ot-security/tidrone-cyberattackers-taiwan-drone-manufacturers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TIDrone, linked to Chinese-speaking groups, deploys advanced malware through ERP software or remote desktop tools. Trend Micro identified the threat actor as actively pursuing military and satellite industrial supply chains in Taiwan.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Underground Demand for Malicious LLMs is Robust<a href="https://www.bankinfosecurity.com/underground-demand-for-malicious-llms-robust-a-26223?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The underground market for malicious large language models (LLMs) is thriving, according to researchers from Indiana University Bloomington. They found 212 malicious LLMs for sale from April through September 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key Cyber Insurance Stakeholders Urge Government To Help Close $900B in Uncovered Risk<a href="https://www.cybersecuritydive.com/news/cyber-insurance-government-900b/726305/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Marsh McLennan and Zurich Insurance Group have issued a white paper highlighting the need for a public-private partnership to help close this significant coverage gap, which poses a threat to both businesses and the economy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Target Latin American Banks with Mekotio, BBTok, and Grandoreiro Trojans<a href="https://securityonline.info/cybercriminals-target-latam-banks-mekotio-bbtok-lead-the-charge/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These campaigns aim to steal sensitive banking credentials using innovative tactics, expanding beyond traditional regions like Brazil and Argentina to industries such as manufacturing, retail, and financial services.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyware Vendors' Nebulous Ecosystem Helps Them Evade Sanctions<a href="https://www.infosecurity-magazine.com/news/spyware-ecosystem-evade-sanctions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spyware vendors have developed a complex ecosystem that enables them to evade sanctions effectively by utilizing a network of interconnected entities across various jurisdictions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 7, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BlindEagle Targets Colombian Insurance Sector with BlotchyQuasar<a href="https://www.zscaler.com/blogs/security-research/blindeagle-targets-colombian-insurance-sector-blotchyquasar?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ BlindEagle Targets Colombian Insurance Sector with BlotchyQuasar<a href="https:/
 The BlindEagle APT group has recently targeted the Colombian insurance sector. The attack chain starts with a phishing email impersonating DIAN, the Colombian tax authority.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ZScalar
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2024
+September 7, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Veeam Backup & Replication Faces RCE Flaw Allows Full System Takeover<a href="https://securityonline.info/veeam-backup-replication-faces-rce-flaw-cve-2024-40711-cvss-9-8-allows-full-system-takeover/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Veeam Backup & Replication Faces RCE Flaw Allows Full System Takeover<a href="ht
 A critical Remote Code Execution (RCE) flaw, CVE-2024-40711, with a CVSS score of 9. 8 has been discovered in Veeam Backup & Replication, allowing unauthorized attackers to take full control over systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2024
+September 7, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Apache fixes critical OFBiz remote code execution vulnerability<a href="https://www.bleepingcomputer.com/news/security/apache-fixes-critical-ofbiz-remote-code-execution-vulnerability/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Apache fixes critical OFBiz remote code execution vulnerability<a href="https://
 Apache has addressed a critical remote code execution vulnerability in its OFBiz software, which could allow attackers to run malicious code on Linux and Windows servers. OFBiz is a CRM and ERP suite that serves as a Java-based web framework.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2024
+September 7, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fog Ransomware Now Targeting the Financial Sector<a href="https://adlumin.com/post/fog-ransomware-now-targeting-the-financial-sector/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Fog Ransomware Now Targeting the Financial Sector<a href="https://adlumin.com/po
 Fog, a variant of STOP/DJVU family, targets various sectors, exploiting VPN vulnerabilities to infiltrate network defenses. After infiltration, Fog ransomware disables protective measures, encrypts vital files, and demands ransom via the Tor network.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Adlumin
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2024
+September 7, 2024 DarkCracks
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Stealthy Malware Campaign Dubbed DarkCracks Exploits GLPI and WordPress Sites<a href="https://securityonline.info/darkcracks-a-new-stealthy-malware-framework-exploiting-glpi-and-wordpress/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ New Stealthy Malware Campaign Dubbed DarkCracks Exploits GLPI and WordPress Site
 DarkCracks isn’t your typical malware campaign—it’s a sophisticated Launcher designed for long-term exploitation. It deploys malicious payloads through public websites, like school portals and booking systems, to infect unsuspecting users.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2024
+September 7, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Penpie DeFi platform files reports with FBI, Singapore police after $27 million crypto theft<a href="https://therecord.media/penpie-defi-protocol-ethereum-stolen?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Penpie DeFi platform files reports with FBI, Singapore police after $27 million 
 The Penpie DeFi platform recently reported a $27 million cryptocurrency theft to the FBI and Singapore police. Hackers targeted the protocol, stealing ethereum and prompting Penpie to halt withdrawals and deposits.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 7, 2024
+September 7, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CyberVolk Ransomware: A New and Evolving Threat to Global Cybersecurity<a href="https://securityonline.info/cybervolk-ransomware-a-new-and-evolving-threat-to-global-cybersecurity/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ CyberVolk Ransomware: A New and Evolving Threat to Global Cybersecurity<a href="
 CyberVolk, infamous for DDoS attacks and data breaches, has gained particular notoriety for its ransomware, detected in July 2024, due to its advanced features and capabilities.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2024
+September 6, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 OpenStack Ironic Users Urged to Patch Critical Vulnerability<a href="https://securityonline.info/openstack-ironic-users-urged-to-patch-critical-vulnerability-cve-2024-44082/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ OpenStack Ironic Users Urged to Patch Critical Vulnerability<a href="https://sec
 The flaw, discovered by security researchers at Red Hat and G-Research, could lead to unauthorized access to sensitive data through mishandled images processed by qemu-img.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2024
+September 6, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android SpyAgent Campaign Steals Crypto Credentials via Image Recognition<a href="https://www.mcafee.com/blogs/other-blogs/mcafee-labs/new-android-spyagent-campaign-steals-crypto-credentials-via-image-recognition/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ New Android SpyAgent Campaign Steals Crypto Credentials via Image Recognition<a 
 A new mobile malware called SpyAgent has been uncovered by McAfee's Mobile Research Team. This malware targets mnemonic keys used for cryptocurrency wallets by scanning for images containing them on your device.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Macfee
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 6, 2024
+September 6, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Sami Khoury, Head of Canada’s Cyber Agency, Starts New Role in Government<a href="https://therecord.media/sami-khoury-canada-cyber-new-role?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Sami Khoury, Head of Canada’s Cyber Agency, Starts New Role in Government<a hr
 Sami Khoury, the head of Canada's cyber agency, is moving to a new role as the government's senior official for cybersecurity after leading the Canadian Centre for Cyber Security (CCCS) since August 2021.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
