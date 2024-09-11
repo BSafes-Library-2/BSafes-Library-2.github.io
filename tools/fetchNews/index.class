@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Flags ICS Bugs in Baxter, Mitsubishi Products<a href="https://www.darkreading.com/ics-ot-security/cisa-flags-ics-bugs-in-baxter-mitsubishi-products?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+CISA has identified vulnerabilities in industrial control system products from Baxter and Mitsubishi that are commonly used in healthcare and critical manufacturing sectors. Both the firms have released advisories with mitigation measures.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland Dismantles Cyber Sabotage Group Linked to Russia, Belarus<a href="https://therecord.media/poland-dismantles-cyber-sabotage-group-russia-belarus?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poland has dismantled a cyber sabotage group with links to Russia and Belarus. The group attempted to disrupt the country through cyberattacks, extorting information from local government agencies and state companies related to security matters.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky-linked Hackers Use Similar Tactics to Attack Russia and South Korea<a href="https://therecord.media/kimsuky-north-korea-hackers-targeting-russia-south-korea?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Known as Konni, the threat actor uses similar tactics in both countries since at least 2021, targeting entities like the Russian Ministry of Foreign Affairs, the Russian Embassy in Indonesia, and South Korean businesses, including a tax law firm.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024  -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Predator Spyware Roars Back with New Infrastructure, Evasive Tactics<a href="https://securityonline.info/predator-spyware-roars-back-new-infrastructure-evasive-tactics/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have warned of the resurgence of Predator spyware, previously thought to be inactive due to sanctions and exposure, thanks to new infrastructure and evasive tactics.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024 -- [APT](/docs/issues/advanced-persistent-threat/advanced-persistent-threat/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Group Abuses Visual Studio Code to Target Government in Asia<a href="https://unit42.paloaltonetworks.com/stately-taurus-abuses-vscode-southeast-asian-espionage/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese APT group Stately Taurus exploited Visual Studio Code to target government entities in Southeast Asia for cyberespionage. They utilized the software's reverse shell feature to infiltrate networks, a technique first detected in 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'TIDrone' Cyberattackers Target Taiwan's Drone Manufacturers<a href="https://www.darkreading.com/ics-ot-security/tidrone-cyberattackers-taiwan-drone-manufacturers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TIDrone, linked to Chinese-speaking groups, deploys advanced malware through ERP software or remote desktop tools. Trend Micro identified the threat actor as actively pursuing military and satellite industrial supply chains in Taiwan.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Underground Demand for Malicious LLMs is Robust<a href="https://www.bankinfosecurity.com/underground-demand-for-malicious-llms-robust-a-26223?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The underground market for malicious large language models (LLMs) is thriving, according to researchers from Indiana University Bloomington. They found 212 malicious LLMs for sale from April through September 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key Cyber Insurance Stakeholders Urge Government To Help Close $900B in Uncovered Risk<a href="https://www.cybersecuritydive.com/news/cyber-insurance-government-900b/726305/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Marsh McLennan and Zurich Insurance Group have issued a white paper highlighting the need for a public-private partnership to help close this significant coverage gap, which poses a threat to both businesses and the economy.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Target Latin American Banks with Mekotio, BBTok, and Grandoreiro Trojans<a href="https://securityonline.info/cybercriminals-target-latam-banks-mekotio-bbtok-lead-the-charge/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These campaigns aim to steal sensitive banking credentials using innovative tactics, expanding beyond traditional regions like Brazil and Argentina to industries such as manufacturing, retail, and financial services.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 10, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Spyware Vendors' Nebulous Ecosystem Helps Them Evade Sanctions<a href="https://www.infosecurity-magazine.com/news/spyware-ecosystem-evade-sanctions/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Spyware vendors have developed a complex ecosystem that enables them to evade sanctions effectively by utilizing a network of interconnected entities across various jurisdictions.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 7, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

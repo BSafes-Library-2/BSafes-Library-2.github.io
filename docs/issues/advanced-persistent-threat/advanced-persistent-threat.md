@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese APT Group Abuses Visual Studio Code to Target Government in Asia<a href="https://unit42.paloaltonetworks.com/stately-taurus-abuses-vscode-southeast-asian-espionage/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Chinese APT group Stately Taurus exploited Visual Studio Code to target government entities in Southeast Asia for cyberespionage. They utilized the software's reverse shell feature to infiltrate networks, a technique first detected in 2023.
+</details>
+<div style="text-align: right" markdown="1">
+Palo Alto Networks
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

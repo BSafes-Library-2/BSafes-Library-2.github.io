@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Poland Dismantles Cyber Sabotage Group Linked to Russia, Belarus<a href="https://therecord.media/poland-dismantles-cyber-sabotage-group-russia-belarus?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Poland has dismantled a cyber sabotage group with links to Russia and Belarus. The group attempted to disrupt the country through cyberattacks, extorting information from local government agencies and state companies related to security matters.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 3, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
