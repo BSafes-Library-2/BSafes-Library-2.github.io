@@ -7,6 +7,32 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11 2024 - UK's ICO, NCA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Memorandum of Understanding between the National Crime Agency and the Information Commissioner <a href="https://ico.org.uk/media/about-the-ico/mou/4030961/ico_nca_mou.pdf"> Full Text</a>
+</p>
+<details>
+This Memorandum of Understanding (MoU) establishes a framework for cooperation and information sharing between the National Crime Agency (NCA) and the Information Commissioner (the “Commissioner”), collectively referred to as “the Participants” throughout this document. In particular, it sets out the broad principles of collaboration and the legal framework governing the sharing of relevant information and intelligence between the Participants. 
+</details>
+</div
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 9 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Three Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2024/09/09/cisa-adds-three-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+CVE-2016-3714 ImageMagick Improper Input Validation Vulnerability
+CVE-2017-1000253 Linux Kernel PIE Stack Buffer Corruption Vulnerability
+CVE-2024-40766 SonicWall SonicOS Improper Access Control Vulnerability
+</details>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 5 2024 - FBI, CISA, NSA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

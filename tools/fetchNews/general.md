@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Underground Demand for Malicious LLMs is Robust<a href="https://www.bankinfosecurity.com/underground-demand-for-malicious-llms-robust-a-26223?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The underground market for malicious large language models (LLMs) is thriving, according to researchers from Indiana University Bloomington. They found 212 malicious LLMs for sale from April through September 2024.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Key Cyber Insurance Stakeholders Urge Government To Help Close $900B in Uncovered Risk<a href="https://www.cybersecuritydive.com/news/cyber-insurance-government-900b/726305/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Marsh McLennan and Zurich Insurance Group have issued a white paper highlighting the need for a public-private partnership to help close this significant coverage gap, which poses a threat to both businesses and the economy.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

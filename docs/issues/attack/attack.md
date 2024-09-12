@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese ‘Crimson Palace’ Espionage Campaign Keeps Hacking Southeast Asian Governments<a href="https://therecord.media/chinese-crimson-palace-keeps-hacking-asia?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated trio of Chinese cyberespionage groups known as Cluster Alpha, Cluster Bravo, and Cluster Charlie are behind the Crimson Palace espionage campaign targeting government organizations in Southeast Asia.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

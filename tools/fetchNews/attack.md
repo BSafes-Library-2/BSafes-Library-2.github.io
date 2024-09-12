@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+September 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kimsuky-linked Hackers Use Similar Tactics to Attack Russia and South Korea<a href="https://therecord.media/kimsuky-north-korea-hackers-targeting-russia-south-korea?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Known as Konni, the threat actor uses similar tactics in both countries since at least 2021, targeting entities like the Russian Ministry of Foreign Affairs, the Russian Embassy in Indonesia, and South Korean businesses, including a tax law firm.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+'TIDrone' Cyberattackers Target Taiwan's Drone Manufacturers<a href="https://www.darkreading.com/ics-ot-security/tidrone-cyberattackers-taiwan-drone-manufacturers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+TIDrone, linked to Chinese-speaking groups, deploys advanced malware through ERP software or remote desktop tools. Trend Micro identified the threat actor as actively pursuing military and satellite industrial supply chains in Taiwan.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 10, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybercriminals Target Latin American Banks with Mekotio, BBTok, and Grandoreiro Trojans<a href="https://securityonline.info/cybercriminals-target-latam-banks-mekotio-bbtok-lead-the-charge/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These campaigns aim to steal sensitive banking credentials using innovative tactics, expanding beyond traditional regions like Brazil and Argentina to industries such as manufacturing, retail, and financial services.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

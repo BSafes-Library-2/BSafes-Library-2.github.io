@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AI Cybersecurity Needs to be as Multi-Layered as the System it’s Protecting<a href="https://www.helpnetsecurity.com/2024/09/09/ai-cybersecurity-needs/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+LLMs can be manipulated to generate harmful outputs through malicious prompts, posing risks to enterprises. To counter these attacks, companies must focus on the design, development, deployment, and operation of their AI systems.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 27, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
