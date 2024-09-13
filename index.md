@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Cybersecurity Workforce Growth Flatlines, Stalling at 5.5 Million Pros<a href="https://www.cybersecuritydive.com/news/global-cyber-workforce-flatlines-isc2/726667/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ Global Cybersecurity Workforce Growth Flatlines, Stalling at 5.5 Million Pros<a 
 According to ISC2, the global cybersecurity workforce growth has stagnated at 5. 5 million professionals, increasing by just 0. 1% in a year, marking the sector's first stall since 2019.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DockerSpy: Search for Images on Docker Hub, Extract Sensitive Information<a href="https://www.helpnetsecurity.com/2024/09/11/dockerspy-extract-sensitive-information-docker-hub-images/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ DockerSpy: Search for Images on Docker Hub, Extract Sensitive Information<a href
 Created to combat data leaks within publicly available Docker images, DockerSpy automates the process of scanning for secrets to enhance security and compliance. Its scanning engine can identify various secret types and provides detailed analysis.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inc Ransom Attack Analysis: Extortion Methodologies<a href="https://www.reliaquest.com/blog/inc-ransom-attack-analysis-extortion-methodologies/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Inc Ransom Attack Analysis: Extortion Methodologies<a href="https://www.reliaque
 The attack lifecycle involved initial access gained through a firewall vulnerability, followed by enumeration of network shares and lateral movement using Impacket and pass-the-hash attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ReliaQuest
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India Needs Better Cybersecurity for Space Systems<a href="https://www.darkreading.com/ics-ot-security/india-cybersecurity-space-critical-infrastructure?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ India Needs Better Cybersecurity for Space Systems<a href="https://www.darkreadi
 Dr. Sreedhara Panicker Somanath, chairman of the Indian Space Research Organization, emphasized the importance of cybersecurity for the entire system during the recent inauguration of a cybersecurity training center.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity is a Fundamental Component of Patient Care and Safety<a href="https://www.helpnetsecurity.com/2024/09/11/patient-care-cybersecurity/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ Cybersecurity is a Fundamental Component of Patient Care and Safety<a href="http
 A multipronged cybersecurity approach is necessary for the healthcare sector, involving technology investments, staff training, and collaboration between stakeholders to develop industry-wide standards and best practices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Fixes Windows Smart App Control Zero-Day Exploited Since 2018<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-smart-app-control-zero-day-exploited-since-2018/?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Microsoft Fixes Windows Smart App Control Zero-Day Exploited Since 2018<a href="
 Threat actors have been using this flaw, now labeled as CVE-2024-38217, to bypass Smart App Control and MotW security features to run potentially dangerous applications without warnings.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Staffing Shortages Remain CISOs' Biggest Challenge<a href="https://www.darkreading.com/cybersecurity-operations/cyber-staffing-shortages-remain-cisos-biggest-challenge?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Cyber Staffing Shortages Remain CISOs' Biggest Challenge<a href="https://www.dar
 A recent report by Command Zero highlights the struggles CISOs and their teams are dealing with, including navigating the skills gap in the cyber field and operating commonly used tools effectively.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New RansomHub Attack Uses TDSSKiller and LaZagne, Disables EDR<a href="https://www.threatdown.com/blog/new-ransomhub-attack-uses-tdskiller-and-lazagne-disables-edr/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ New RansomHub Attack Uses TDSSKiller and LaZagne, Disables EDR<a href="https://w
 The RansomHub ransomware gang has been found using Kaspersky's TDSSKiller tool to disable EDR software on target systems, allowing for credential harvesting with LaZagne.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Threat Down
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kali Linux 2024.3 Released: 11 New Tools, Qualcomm Snapdragon SDM845 SoC Support<a href="https://www.helpnetsecurity.com/2024/09/11/kali-linux-2024-3-released/?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Kali Linux 2024.3 Released: 11 New Tools, Qualcomm Snapdragon SDM845 SoC Support
 Kali Linux 2024. 3 has been released with 11 new tools and added support for Qualcomm Snapdragon SDM845 SoC devices. This release emphasizes behind-the-scenes updates and optimization.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Discloses Four Zero-Days in September Update<a href="https://www.darkreading.com/application-security/microsoft-discloses-4-zero-days-in-september-update?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Microsoft Discloses Four Zero-Days in September Update<a href="https://www.darkr
 Microsoft recently revealed four zero-day vulnerabilities in its September update, part of the Patch Tuesday release containing 79 vulnerabilities, making it the fourth-largest release of the year.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

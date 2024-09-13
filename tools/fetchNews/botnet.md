@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Quad7 Botnet Targets More SOHO and VPN Routers, Media Servers<a href="https://www.bleepingcomputer.com/news/security/quad7-botnet-targets-more-soho-and-vpn-routers-media-servers/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Quad7 botnet is expanding its reach by targeting additional SOHO devices with custom malware for Zyxel VPN appliances, Ruckus wireless routers, and Axentra media servers, in addition to previously reported TP-Link and ASUS routers.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 15, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

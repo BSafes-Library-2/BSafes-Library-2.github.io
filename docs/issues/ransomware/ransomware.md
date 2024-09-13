@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inc Ransom Attack Analysis: Extortion Methodologies<a href="https://www.reliaquest.com/blog/inc-ransom-attack-analysis-extortion-methodologies/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack lifecycle involved initial access gained through a firewall vulnerability, followed by enumeration of network shares and lateral movement using Impacket and pass-the-hash attacks.
+</details>
+<div style="text-align: right" markdown="1">
+ReliaQuest
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Tech Stack Uniformity has Become a Systemic Vulnerability<a href="https://www.helpnetsecurity.com/2024/09/10/tech-stack-diversity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+By recognizing the importance of diversity in technology stacks and incorporating it into security protocols and incident response plans, companies can proactively protect their infrastructure and reduce the likelihood of catastrophic events.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Security Budgets Continue Modest Growth, but Staff Hiring Slows Considerably, Research Finds<a href="https://www.cybersecuritydive.com/news/security-budgets-growth-hiring-slows/726511/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security budgets are seeing modest growth in 2024, with an 8% increase compared to a 6% growth in 2023. However, hiring of security staff has significantly slowed down, according to a report by IANS Research and Artico Search.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

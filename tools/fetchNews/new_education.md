@@ -8,6 +8,20 @@ nav_order: 900053
 
 ## Education
 ---
+September 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity is a Fundamental Component of Patient Care and Safety<a href="https://www.helpnetsecurity.com/2024/09/11/patient-care-cybersecurity/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A multipronged cybersecurity approach is necessary for the healthcare sector, involving technology investments, staff training, and collaboration between stakeholders to develop industry-wide standards and best practices.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

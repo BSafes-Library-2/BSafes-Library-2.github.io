@@ -8,6 +8,48 @@ nav_order: 900075
 
 ## Government
 ---
+September 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UK’s ICO and NCA Sign Memorandum to Boost Reporting and Resilience<a href="https://www.infosecurity-magazine.com/news/uk-ico-nca-memorandum-reporting/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The UK’s data protection watchdog and serious and organized crime agency have signed a memorandum of understanding (MoU) designed to enhance cooperation and reaffirm their commitment to helping victim organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DHS Cyber Review Board Will Announce Next Investigation ‘Soon’<a href="https://therecord.media/dhs-cyber-safety-review-board-new-investigation-coming-soon?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The DHS Cyber Safety Review Board, led by Homeland Security officials, is preparing to announce its next investigation soon, as hinted by DHS undersecretary Rob Silvers. Silvers mentioned criteria for incident review but did not reveal details.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 11, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA adds SonicWall SonicOS, ImageMagick,&nbsp;and Linux Kernel Bugs to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/168251/security/u-s-cisa-adds-sonicwall-sonicos-imagemagick-and-linux-kernel-bugs-to-its-known-exploited-vulnerabilities-catalog.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+. The ImageMagick vulnerability (CVE-2016-3714) could allow remote code execution through crafted images. Linux Kernel flaw (CVE-2017-1000253) enables privilege escalation for unpatched systems.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RansomHub Attack Uses TDSSKiller and LaZagne, Disables EDR<a href="https://www.threatdown.com/blog/new-ransomhub-attack-uses-tdskiller-and-lazagne-disables-edr/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RansomHub ransomware gang has been found using Kaspersky's TDSSKiller tool to disable EDR software on target systems, allowing for credential harvesting with LaZagne.
+</details>
+<div style="text-align: right" markdown="1">
+Threat Down
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
