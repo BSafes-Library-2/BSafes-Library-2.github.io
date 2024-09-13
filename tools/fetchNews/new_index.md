@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2024
+September 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Cybersecurity Workforce Growth Flatlines, Stalling at 5.5 Million Pros<a href="https://www.cybersecuritydive.com/news/global-cyber-workforce-flatlines-isc2/726667/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to ISC2, the global cybersecurity workforce growth has stagnated at 5. 5 million professionals, increasing by just 0. 1% in a year, marking the sector's first stall since 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DockerSpy: Search for Images on Docker Hub, Extract Sensitive Information<a href="https://www.helpnetsecurity.com/2024/09/11/dockerspy-extract-sensitive-information-docker-hub-images/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Created to combat data leaks within publicly available Docker images, DockerSpy automates the process of scanning for secrets to enhance security and compliance. Its scanning engine can identify various secret types and provides detailed analysis.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Inc Ransom Attack Analysis: Extortion Methodologies<a href="https://www.reliaquest.com/blog/inc-ransom-attack-analysis-extortion-methodologies/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attack lifecycle involved initial access gained through a firewall vulnerability, followed by enumeration of network shares and lateral movement using Impacket and pass-the-hash attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+India Needs Better Cybersecurity for Space Systems<a href="https://www.darkreading.com/ics-ot-security/india-cybersecurity-space-critical-infrastructure?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Dr. Sreedhara Panicker Somanath, chairman of the Indian Space Research Organization, emphasized the importance of cybersecurity for the entire system during the recent inauguration of a cybersecurity training center.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cybersecurity is a Fundamental Component of Patient Care and Safety<a href="https://www.helpnetsecurity.com/2024/09/11/patient-care-cybersecurity/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A multipronged cybersecurity approach is necessary for the healthcare sector, involving technology investments, staff training, and collaboration between stakeholders to develop industry-wide standards and best practices.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Fixes Windows Smart App Control Zero-Day Exploited Since 2018<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-smart-app-control-zero-day-exploited-since-2018/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors have been using this flaw, now labeled as CVE-2024-38217, to bypass Smart App Control and MotW security features to run potentially dangerous applications without warnings.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Staffing Shortages Remain CISOs' Biggest Challenge<a href="https://www.darkreading.com/cybersecurity-operations/cyber-staffing-shortages-remain-cisos-biggest-challenge?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report by Command Zero highlights the struggles CISOs and their teams are dealing with, including navigating the skills gap in the cyber field and operating commonly used tools effectively.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New RansomHub Attack Uses TDSSKiller and LaZagne, Disables EDR<a href="https://www.threatdown.com/blog/new-ransomhub-attack-uses-tdskiller-and-lazagne-disables-edr/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The RansomHub ransomware gang has been found using Kaspersky's TDSSKiller tool to disable EDR software on target systems, allowing for credential harvesting with LaZagne.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux 2024.3 Released: 11 New Tools, Qualcomm Snapdragon SDM845 SoC Support<a href="https://www.helpnetsecurity.com/2024/09/11/kali-linux-2024-3-released/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kali Linux 2024. 3 has been released with 11 new tools and added support for Qualcomm Snapdragon SDM845 SoC devices. This release emphasizes behind-the-scenes updates and optimization.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Discloses Four Zero-Days in September Update<a href="https://www.darkreading.com/application-security/microsoft-discloses-4-zero-days-in-september-update?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft recently revealed four zero-day vulnerabilities in its September update, part of the Patch Tuesday release containing 79 vulnerabilities, making it the fourth-largest release of the year.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 11, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 UK’s ICO and NCA Sign Memorandum to Boost Reporting and Resilience<a href="https://www.infosecurity-magazine.com/news/uk-ico-nca-memorandum-reporting/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ UK’s ICO and NCA Sign Memorandum to Boost Reporting and Resilience<a href="htt
 The UK’s data protection watchdog and serious and organized crime agency have signed a memorandum of understanding (MoU) designed to enhance cooperation and reaffirm their commitment to helping victim organizations.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2024
+September 11, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Tech Stack Uniformity has Become a Systemic Vulnerability<a href="https://www.helpnetsecurity.com/2024/09/10/tech-stack-diversity/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ Tech Stack Uniformity has Become a Systemic Vulnerability<a href="https://www.he
 By recognizing the importance of diversity in technology stacks and incorporating it into security protocols and incident response plans, companies can proactively protect their infrastructure and reduce the likelihood of catastrophic events.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2024
+September 11, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DoJ Distributes $18.5 Million to Western Union Fraud Victims<a href="https://www.infosecurity-magazine.com/news/doj-185m-western-union-fraud/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ DoJ Distributes $18.5 Million to Western Union Fraud Victims<a href="https://www
 The U.S. Department of Justice has distributed $18. 5m to about 3000 victims of fraud facilitated by Western Union. This is part of the second phase of the Western Union Remission program, which aims to fully compensate victims.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2024
+September 11, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Security Budgets Continue Modest Growth, but Staff Hiring Slows Considerably, Research Finds<a href="https://www.cybersecuritydive.com/news/security-budgets-growth-hiring-slows/726511/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Security Budgets Continue Modest Growth, but Staff Hiring Slows Considerably, Re
 Security budgets are seeing modest growth in 2024, with an 8% increase compared to a 6% growth in 2023. However, hiring of security staff has significantly slowed down, according to a report by IANS Research and Artico Search.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2024
+September 11, 2024 -- [Denial Of Service](/docs/issues/denial-of-service/denial-of-service/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DDoS Attacks Double With Governments Most Targeted<a href="https://www.infosecurity-magazine.com/news/ddos-attacks-double-govt-targeted/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ DDoS Attacks Double With Governments Most Targeted<a href="https://www.infosecur
 DDoS attacks have doubled, with governments being the most targeted sector, according to StormWall's report. The number of DDoS incidents globally increased by 102% in the first half of 2024 compared to the same period in 2023.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Infosecurity Magazine
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2024
+September 11, 2024 -- [Botnet](/docs/issues/botnet/botnet/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Quad7 Botnet Targets More SOHO and VPN Routers, Media Servers<a href="https://www.bleepingcomputer.com/news/security/quad7-botnet-targets-more-soho-and-vpn-routers-media-servers/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Quad7 Botnet Targets More SOHO and VPN Routers, Media Servers<a href="https://ww
 Quad7 botnet is expanding its reach by targeting additional SOHO devices with custom malware for Zyxel VPN appliances, Ruckus wireless routers, and Axentra media servers, in addition to previously reported TP-Link and ASUS routers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2024
+September 11, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AI Cybersecurity Needs to be as Multi-Layered as the System it’s Protecting<a href="https://www.helpnetsecurity.com/2024/09/09/ai-cybersecurity-needs/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ AI Cybersecurity Needs to be as Multi-Layered as the System it’s Protecting<a 
 LLMs can be manipulated to generate harmful outputs through malicious prompts, posing risks to enterprises. To counter these attacks, companies must focus on the design, development, deployment, and operation of their AI systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2024
+September 11, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese ‘Crimson Palace’ Espionage Campaign Keeps Hacking Southeast Asian Governments<a href="https://therecord.media/chinese-crimson-palace-keeps-hacking-asia?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ Chinese ‘Crimson Palace’ Espionage Campaign Keeps Hacking Southeast Asian Go
 A sophisticated trio of Chinese cyberespionage groups known as Cluster Alpha, Cluster Bravo, and Cluster Charlie are behind the Crimson Palace espionage campaign targeting government organizations in Southeast Asia.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2024
+September 11, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DHS Cyber Review Board Will Announce Next Investigation ‘Soon’<a href="https://therecord.media/dhs-cyber-safety-review-board-new-investigation-coming-soon?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ DHS Cyber Review Board Will Announce Next Investigation ‘Soon’<a href="https
 The DHS Cyber Safety Review Board, led by Homeland Security officials, is preparing to announce its next investigation soon, as hinted by DHS undersecretary Rob Silvers. Silvers mentioned criteria for incident review but did not reveal details.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 11, 2024
+September 11, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 CISA adds SonicWall SonicOS, ImageMagick, and Linux Kernel Bugs to its Known Exploited Vulnerabilities catalog<a href="https://securityaffairs.com/168251/security/u-s-cisa-adds-sonicwall-sonicos-imagemagick-and-linux-kernel-bugs-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ CISA adds SonicWall SonicOS, ImageMagick, and Linux Kernel Bugs to its Known Ex
 . The ImageMagick vulnerability (CVE-2016-3714) could allow remote code execution through crafted images. Linux Kernel flaw (CVE-2017-1000253) enables privilege escalation for unpatched systems.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
