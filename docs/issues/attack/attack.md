@@ -8,6 +8,48 @@ nav_order: 900015
 
 ## Attack
 ---
+September 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fileless Remcos RAT Campaign Leverages CVE-2017-0199 Flaw<a href="https://securityonline.info/fileless-remcos-rat-campaign-leverages-cve-2017-0199-flaw/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a newly uncovered advanced malware campaign, threat actors are using a complex, fileless approach to deliver the Remcos Remote Access Trojan (RAT), leveraging a benign-looking Excel document as the attack vector.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Targeted Campaigns in Retail Sector Involve Domain Fraud, Brand Impersonation, and Ponzi Schemes<a href="https://www.domaintools.com/resources/blog/retail-targeted-campaigns-domain-fraud-brand-impersonation-and-ponzi-schemes/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively engaging in domain fraud, brand impersonation, and Ponzi schemes targeting the retail sector, which plays a significant role in the global economy.
+</details>
+<div style="text-align: right" markdown="1">
+Domain Tools
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Protecting Against RCE Attacks Abusing WhatsUp Gold Vulnerabilities<a href="https://www.trendmicro.com/en_us/research/24/i/whatsup-gold-rce.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro researchers uncovered remote code execution attacks targeting Progress Software's WhatsUp Gold using the vulnerabilities tracked as CVE-2024-6670 and CVE-2024-6671.
+</details>
+<div style="text-align: right" markdown="1">
+Trend Micro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

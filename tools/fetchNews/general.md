@@ -8,6 +8,34 @@ nav_order: 900072
 
 ## General
 ---
+September 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Global Cybersecurity Workforce Growth Flatlines, Stalling at 5.5 Million Pros<a href="https://www.cybersecuritydive.com/news/global-cyber-workforce-flatlines-isc2/726667/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+According to ISC2, the global cybersecurity workforce growth has stagnated at 5. 5 million professionals, increasing by just 0. 1% in a year, marking the sector's first stall since 2019.
+</details>
+<div style="text-align: right" markdown="1">
+Cybersecurity Dive
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cyber Staffing Shortages Remain CISOs' Biggest Challenge<a href="https://www.darkreading.com/cybersecurity-operations/cyber-staffing-shortages-remain-cisos-biggest-challenge?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report by Command Zero highlights the struggles CISOs and their teams are dealing with, including navigating the skills gap in the cyber field and operating commonly used tools effectively.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

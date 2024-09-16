@@ -8,6 +8,34 @@ nav_order: 900075
 
 ## Government
 ---
+September 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese-Made Port Cranes in US Included ‘Backdoor’ Modems, House Report Says<a href="https://therecord.media/port-cranes-china-modems-republican-house-report?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent congressional investigation revealed that Chinese-made port cranes in the United States contained hidden modems that could provide unauthorized access to the machines.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 14, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Have Sights Set on Four Microsoft Vulnerabilities, CISA Warns<a href="https://therecord.media/hackers-four-microsoft-vulnerabilities-cisa?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal civilian agencies have until the end of the month to address these issues. The vulnerabilities are part of Microsoft's monthly security release, with CVE-2024-43491 considered the most concerning due to its severity score.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

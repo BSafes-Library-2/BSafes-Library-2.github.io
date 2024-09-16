@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab Warns of Critical Pipeline Execution Vulnerability<a href="https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-pipeline-execution-vulnerability/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ GitLab Warns of Critical Pipeline Execution Vulnerability<a href="https://www.bl
 GitLab released updates covering versions 17.1.7, 17.2.5, and 17.3.2 for GitLab Community Edition (CE) and Enterprise Edition (EE), addressing a total of 18 security issues.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickMo Android Trojan Exploits Accessibility Services for On-Device Banking Fraud<a href="https://thehackernews.com/2024/09/trickmo-android-trojan-exploits.html?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ TrickMo Android Trojan Exploits Accessibility Services for On-Device Banking Fra
 Cybersecurity researchers at Cleafy discovered a new variant of the TrickMo Android banking trojan that evades analysis and displays fake login screens to steal banking credentials.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fileless Remcos RAT Campaign Leverages CVE-2017-0199 Flaw<a href="https://securityonline.info/fileless-remcos-rat-campaign-leverages-cve-2017-0199-flaw/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Fileless Remcos RAT Campaign Leverages CVE-2017-0199 Flaw<a href="https://securi
 In a newly uncovered advanced malware campaign, threat actors are using a complex, fileless approach to deliver the Remcos Remote Access Trojan (RAT), leveraging a benign-looking Excel document as the attack vector.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese-Made Port Cranes in US Included ‘Backdoor’ Modems, House Report Says<a href="https://therecord.media/port-cranes-china-modems-republican-house-report?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Chinese-Made Port Cranes in US Included ‘Backdoor’ Modems, House Report Says
 A recent congressional investigation revealed that Chinese-made port cranes in the United States contained hidden modems that could provide unauthorized access to the machines.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android Malware Ajina.Banker Steals 2FA Codes, Spreads via Telegram<a href="https://hackread.com/android-malware-ajina-banker-steal-2fa-codes-telegram/?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ New Android Malware Ajina.Banker Steals 2FA Codes, Spreads via Telegram<a href="
 Discovering the threat in May 2024, Group-IB highlighted that the malware is spread through Telegram channels disguised as legitimate banking and government service applications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Have Sights Set on Four Microsoft Vulnerabilities, CISA Warns<a href="https://therecord.media/hackers-four-microsoft-vulnerabilities-cisa?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ Hackers Have Sights Set on Four Microsoft Vulnerabilities, CISA Warns<a href="ht
 Federal civilian agencies have until the end of the month to address these issues. The vulnerabilities are part of Microsoft's monthly security release, with CVE-2024-43491 considered the most concerning due to its severity score.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Targeted Campaigns in Retail Sector Involve Domain Fraud, Brand Impersonation, and Ponzi Schemes<a href="https://www.domaintools.com/resources/blog/retail-targeted-campaigns-domain-fraud-brand-impersonation-and-ponzi-schemes/?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ Targeted Campaigns in Retail Sector Involve Domain Fraud, Brand Impersonation, a
 Threat actors are actively engaging in domain fraud, brand impersonation, and Ponzi schemes targeting the retail sector, which plays a significant role in the global economy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Domain Tools
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Vo1d Malware Infects 1.3 Million Android Streaming Boxes<a href="https://www.bleepingcomputer.com/news/security/new-vo1d-malware-infects-13-million-android-streaming-boxes/?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ New Vo1d Malware Infects 1.3 Million Android Streaming Boxes<a href="https://www
 The Vo1d malware campaign targets specific Android firmware versions like Android 7.1.2 and Android 10.1. The malware modifies system files to launch itself on boot and persist on the device.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Protecting Against RCE Attacks Abusing WhatsUp Gold Vulnerabilities<a href="https://www.trendmicro.com/en_us/research/24/i/whatsup-gold-rce.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ Update: Protecting Against RCE Attacks Abusing WhatsUp Gold Vulnerabilities<a hr
 Trend Micro researchers uncovered remote code execution attacks targeting Progress Software's WhatsUp Gold using the vulnerabilities tracked as CVE-2024-6670 and CVE-2024-6671.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Citrix Workspace App Users Urged to Update Following Two Privilege Escalation Flaws<a href="https://securityonline.info/citrix-workspace-app-users-urged-to-update-following-two-privilege-escalation-flaws/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ Citrix Workspace App Users Urged to Update Following Two Privilege Escalation Fl
 Users of Citrix Workspace App are advised to update due to two privilege escalation flaws. Cloud Software Group disclosed vulnerabilities (CVE-2024-7889 & CVE-2024-7890) in the Windows app, allowing attackers to gain high-level access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

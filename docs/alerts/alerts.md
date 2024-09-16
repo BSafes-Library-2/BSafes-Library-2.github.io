@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12 2024 - Homeland Security, Repulicans 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Handling Our Cargo: How The People's Republic of China Invests Strategically in The U.S. Maritime Industry <a href="https://ico.org.uk/media/about-the-ico/mou/4030961/ico_nca_mou.pdf"> Full Text</a>
+</p>
+<details>
+This Memorandum of Understanding (MoU) establishes a framework for cooperation and information sharing between the National Crime Agency (NCA) and the Information Commissioner (the “Commissioner”), collectively referred to as “the Participants” throughout this document. In particular, it sets out the broad principles of collaboration and the legal framework governing the sharing of relevant information and intelligence between the Participants.
+</details>
+</div
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 11 2024 - UK's ICO, NCA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

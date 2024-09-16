@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+September 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DockerSpy: Search for Images on Docker Hub, Extract Sensitive Information<a href="https://www.helpnetsecurity.com/2024/09/11/dockerspy-extract-sensitive-information-docker-hub-images/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Created to combat data leaks within publicly available Docker images, DockerSpy automates the process of scanning for secrets to enhance security and compliance. Its scanning engine can identify various secret types and provides detailed analysis.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 12, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kali Linux 2024.3 Released: 11 New Tools, Qualcomm Snapdragon SDM845 SoC Support<a href="https://www.helpnetsecurity.com/2024/09/11/kali-linux-2024-3-released/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Kali Linux 2024. 3 has been released with 11 new tools and added support for Qualcomm Snapdragon SDM845 SoC devices. This release emphasizes behind-the-scenes updates and optimization.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
