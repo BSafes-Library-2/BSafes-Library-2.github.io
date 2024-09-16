@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GitLab Warns of Critical Pipeline Execution Vulnerability<a href="https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-pipeline-execution-vulnerability/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+GitLab released updates covering versions 17.1.7, 17.2.5, and 17.3.2 for GitLab Community Edition (CE) and Enterprise Edition (EE), addressing a total of 18 security issues.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+TrickMo Android Trojan Exploits Accessibility Services for On-Device Banking Fraud<a href="https://thehackernews.com/2024/09/trickmo-android-trojan-exploits.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers at Cleafy discovered a new variant of the TrickMo Android banking trojan that evades analysis and displays fake login screens to steal banking credentials.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fileless Remcos RAT Campaign Leverages CVE-2017-0199 Flaw<a href="https://securityonline.info/fileless-remcos-rat-campaign-leverages-cve-2017-0199-flaw/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In a newly uncovered advanced malware campaign, threat actors are using a complex, fileless approach to deliver the Remcos Remote Access Trojan (RAT), leveraging a benign-looking Excel document as the attack vector.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chinese-Made Port Cranes in US Included ‘Backdoor’ Modems, House Report Says<a href="https://therecord.media/port-cranes-china-modems-republican-house-report?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent congressional investigation revealed that Chinese-made port cranes in the United States contained hidden modems that could provide unauthorized access to the machines.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Android Malware Ajina.Banker Steals 2FA Codes, Spreads via Telegram<a href="https://hackread.com/android-malware-ajina-banker-steal-2fa-codes-telegram/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discovering the threat in May 2024, Group-IB highlighted that the malware is spread through Telegram channels disguised as legitimate banking and government service applications.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Have Sights Set on Four Microsoft Vulnerabilities, CISA Warns<a href="https://therecord.media/hackers-four-microsoft-vulnerabilities-cisa?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Federal civilian agencies have until the end of the month to address these issues. The vulnerabilities are part of Microsoft's monthly security release, with CVE-2024-43491 considered the most concerning due to its severity score.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Targeted Campaigns in Retail Sector Involve Domain Fraud, Brand Impersonation, and Ponzi Schemes<a href="https://www.domaintools.com/resources/blog/retail-targeted-campaigns-domain-fraud-brand-impersonation-and-ponzi-schemes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Threat actors are actively engaging in domain fraud, brand impersonation, and Ponzi schemes targeting the retail sector, which plays a significant role in the global economy.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+New Vo1d Malware Infects 1.3 Million Android Streaming Boxes<a href="https://www.bleepingcomputer.com/news/security/new-vo1d-malware-infects-13-million-android-streaming-boxes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Vo1d malware campaign targets specific Android firmware versions like Android 7.1.2 and Android 10.1. The malware modifies system files to launch itself on boot and persist on the device.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Protecting Against RCE Attacks Abusing WhatsUp Gold Vulnerabilities<a href="https://www.trendmicro.com/en_us/research/24/i/whatsup-gold-rce.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Trend Micro researchers uncovered remote code execution attacks targeting Progress Software's WhatsUp Gold using the vulnerabilities tracked as CVE-2024-6670 and CVE-2024-6671.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Citrix Workspace App Users Urged to Update Following Two Privilege Escalation Flaws<a href="https://securityonline.info/citrix-workspace-app-users-urged-to-update-following-two-privilege-escalation-flaws/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Users of Citrix Workspace App are advised to update due to two privilege escalation flaws. Cloud Software Group disclosed vulnerabilities (CVE-2024-7889 & CVE-2024-7890) in the Windows app, allowing attackers to gain high-level access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 12, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Global Cybersecurity Workforce Growth Flatlines, Stalling at 5.5 Million Pros<a href="https://www.cybersecuritydive.com/news/global-cyber-workforce-flatlines-isc2/726667/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ Global Cybersecurity Workforce Growth Flatlines, Stalling at 5.5 Million Pros<a 
 According to ISC2, the global cybersecurity workforce growth has stagnated at 5. 5 million professionals, increasing by just 0. 1% in a year, marking the sector's first stall since 2019.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Cybersecurity Dive
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DockerSpy: Search for Images on Docker Hub, Extract Sensitive Information<a href="https://www.helpnetsecurity.com/2024/09/11/dockerspy-extract-sensitive-information-docker-hub-images/?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ DockerSpy: Search for Images on Docker Hub, Extract Sensitive Information<a href
 Created to combat data leaks within publicly available Docker images, DockerSpy automates the process of scanning for secrets to enhance security and compliance. Its scanning engine can identify various secret types and provides detailed analysis.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Ransomware](/docs/issues/ransomware/ransomware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Inc Ransom Attack Analysis: Extortion Methodologies<a href="https://www.reliaquest.com/blog/inc-ransom-attack-analysis-extortion-methodologies/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Inc Ransom Attack Analysis: Extortion Methodologies<a href="https://www.reliaque
 The attack lifecycle involved initial access gained through a firewall vulnerability, followed by enumeration of network shares and lateral movement using Impacket and pass-the-hash attacks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+ReliaQuest
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 India Needs Better Cybersecurity for Space Systems<a href="https://www.darkreading.com/ics-ot-security/india-cybersecurity-space-critical-infrastructure?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ India Needs Better Cybersecurity for Space Systems<a href="https://www.darkreadi
 Dr. Sreedhara Panicker Somanath, chairman of the Indian Space Research Organization, emphasized the importance of cybersecurity for the entire system during the recent inauguration of a cybersecurity training center.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Education](/docs/issues/education/education/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cybersecurity is a Fundamental Component of Patient Care and Safety<a href="https://www.helpnetsecurity.com/2024/09/11/patient-care-cybersecurity/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ Cybersecurity is a Fundamental Component of Patient Care and Safety<a href="http
 A multipronged cybersecurity approach is necessary for the healthcare sector, involving technology investments, staff training, and collaboration between stakeholders to develop industry-wide standards and best practices.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Fixes Windows Smart App Control Zero-Day Exploited Since 2018<a href="https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-smart-app-control-zero-day-exploited-since-2018/?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Microsoft Fixes Windows Smart App Control Zero-Day Exploited Since 2018<a href="
 Threat actors have been using this flaw, now labeled as CVE-2024-38217, to bypass Smart App Control and MotW security features to run potentially dangerous applications without warnings.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [General](/docs/issues/general/general/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cyber Staffing Shortages Remain CISOs' Biggest Challenge<a href="https://www.darkreading.com/cybersecurity-operations/cyber-staffing-shortages-remain-cisos-biggest-challenge?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Cyber Staffing Shortages Remain CISOs' Biggest Challenge<a href="https://www.dar
 A recent report by Command Zero highlights the struggles CISOs and their teams are dealing with, including navigating the skills gap in the cyber field and operating commonly used tools effectively.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Criminals](/docs/issues/criminals/criminals/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New RansomHub Attack Uses TDSSKiller and LaZagne, Disables EDR<a href="https://www.threatdown.com/blog/new-ransomhub-attack-uses-tdskiller-and-lazagne-disables-edr/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ New RansomHub Attack Uses TDSSKiller and LaZagne, Disables EDR<a href="https://w
 The RansomHub ransomware gang has been found using Kaspersky's TDSSKiller tool to disable EDR software on target systems, allowing for credential harvesting with LaZagne.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Threat Down
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kali Linux 2024.3 Released: 11 New Tools, Qualcomm Snapdragon SDM845 SoC Support<a href="https://www.helpnetsecurity.com/2024/09/11/kali-linux-2024-3-released/?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Kali Linux 2024.3 Released: 11 New Tools, Qualcomm Snapdragon SDM845 SoC Support
 Kali Linux 2024. 3 has been released with 11 new tools and added support for Qualcomm Snapdragon SDM845 SoC devices. This release emphasizes behind-the-scenes updates and optimization.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Help Net Security
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 12, 2024
+September 12, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Microsoft Discloses Four Zero-Days in September Update<a href="https://www.darkreading.com/application-security/microsoft-discloses-4-zero-days-in-september-update?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Microsoft Discloses Four Zero-Days in September Update<a href="https://www.darkr
 Microsoft recently revealed four zero-day vulnerabilities in its September update, part of the Patch Tuesday release containing 79 vulnerabilities, making it the fourth-largest release of the year.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Dark Reading
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
