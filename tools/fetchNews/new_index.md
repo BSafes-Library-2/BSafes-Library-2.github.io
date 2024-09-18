@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Hits Intellexa Spyware Maker With More Sanctions<a href="https://therecord.media/us-hits-intellexa-sanctions-treasury?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US has imposed further sanctions on Intellexa, the maker of the Predator spyware, targeting individuals and entities associated with the company due to its opaque corporate structure designed to evade accountability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: PoC Exploit Released for Windows Hyper-V Zero-Day Vulnerability<a href="https://securityonline.info/poc-exploit-released-for-windows-hyper-v-zero-day-vulnerability-cve-2024-38080/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This critical flaw, actively exploited in the wild, allows attackers to elevate privileges to SYSTEM level, posing a significant risk to organizations using Microsoft's Hyper-V virtualization technology.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EchoStrike: Generate Undetectable Reverse Shells, Perform Process Injection<a href="https://www.helpnetsecurity.com/2024/09/16/echostrike-reverse-shells-process-injection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EchoStrike features an interactive Python wizard for easy customization, various persistence techniques, binary padding for evasion, AES payload encryption, and dynamic binary download.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Target Cryptocurrency Users on LinkedIn with RustDoor Malware<a href="https://thehackernews.com/2024/09/north-korean-hackers-target.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers are using RustDoor malware to target cryptocurrency users on LinkedIn, posing as recruiters for legitimate decentralized finance (DeFi) companies like STON.fi.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Switching to NIST-Approved ML-KEM Quantum Encryption<a href="https://www.bleepingcomputer.com/news/security/chrome-switching-to-nist-approved-ml-kem-quantum-encryption/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is updating Chrome's post-quantum cryptography to defend against quantum computer attacks. The new encryption system, ML-KEM, replaces Kyber for enhanced security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attack on Google Cloud Composer Could Have Resulted in Remote Code Execution<a href="https://www.tenable.com/blog/cloudimposer-executing-code-on-millions-of-google-servers-with-a-single-malicious-package?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has addressed a critical security flaw in Google Cloud Platform (GCP) Composer that could have allowed remote code execution via a supply chain attack known as dependency confusion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in AutoGPT Puts Over 166,000 Projects at Risk<a href="https://securityonline.info/166k-projects-at-risk-autogpts-critical-vulnerability-explained-cve-2024-6091-cvss-9-8/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2024-6091 (CVSS 9. 8), has been found in AutoGPT, a popular AI tool with over 166,000 projects at risk. The flaw allows for OS Command Injection, potentially enabling unauthorized actions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rising Clipper Malware Attacks Target Cryptocurrency Users<a href="https://thehackernews.com/2024/09/binance-warns-of-rising-clipper-malware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious software called ClipBankers can monitor clipboard activity and replace cryptocurrency addresses with those controlled by attackers, diverting digital asset transfers to rogue wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Click Calendar Invite: Critical macOS Vulnerability Chain Uncovered<a href="https://securityonline.info/zero-click-calendar-invite-critical-macos-vulnerability-chain-uncovered/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2022-46723, enables attackers to manipulate files within the macOS Calendar app environment and execute remote code during system upgrades.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+23andMe Pledges $30 Million to the 6.4 Million People Affected by Data Breach<a href="https://therecord.media/dna-pledges-millions-to-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+23andMe has pledged $30 million to compensate the 6.4 million people affected by a data breach in October 2023. The breach occurred when a hacker used stolen credentials to access a significant amount of account information, including health data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GitLab Warns of Critical Pipeline Execution Vulnerability<a href="https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-pipeline-execution-vulnerability/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ GitLab Warns of Critical Pipeline Execution Vulnerability<a href="https://www.bl
 GitLab released updates covering versions 17.1.7, 17.2.5, and 17.3.2 for GitLab Community Edition (CE) and Enterprise Edition (EE), addressing a total of 18 security issues.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 TrickMo Android Trojan Exploits Accessibility Services for On-Device Banking Fraud<a href="https://thehackernews.com/2024/09/trickmo-android-trojan-exploits.html?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ TrickMo Android Trojan Exploits Accessibility Services for On-Device Banking Fra
 Cybersecurity researchers at Cleafy discovered a new variant of the TrickMo Android banking trojan that evades analysis and displays fake login screens to steal banking credentials.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Fileless Remcos RAT Campaign Leverages CVE-2017-0199 Flaw<a href="https://securityonline.info/fileless-remcos-rat-campaign-leverages-cve-2017-0199-flaw/?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Fileless Remcos RAT Campaign Leverages CVE-2017-0199 Flaw<a href="https://securi
 In a newly uncovered advanced malware campaign, threat actors are using a complex, fileless approach to deliver the Remcos Remote Access Trojan (RAT), leveraging a benign-looking Excel document as the attack vector.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Chinese-Made Port Cranes in US Included ‘Backdoor’ Modems, House Report Says<a href="https://therecord.media/port-cranes-china-modems-republican-house-report?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Chinese-Made Port Cranes in US Included ‘Backdoor’ Modems, House Report Says
 A recent congressional investigation revealed that Chinese-made port cranes in the United States contained hidden modems that could provide unauthorized access to the machines.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Android Malware Ajina.Banker Steals 2FA Codes, Spreads via Telegram<a href="https://hackread.com/android-malware-ajina-banker-steal-2fa-codes-telegram/?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ New Android Malware Ajina.Banker Steals 2FA Codes, Spreads via Telegram<a href="
 Discovering the threat in May 2024, Group-IB highlighted that the malware is spread through Telegram channels disguised as legitimate banking and government service applications.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+HackRead
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Have Sights Set on Four Microsoft Vulnerabilities, CISA Warns<a href="https://therecord.media/hackers-four-microsoft-vulnerabilities-cisa?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Hackers Have Sights Set on Four Microsoft Vulnerabilities, CISA Warns<a href="ht
 Federal civilian agencies have until the end of the month to address these issues. The vulnerabilities are part of Microsoft's monthly security release, with CVE-2024-43491 considered the most concerning due to its severity score.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Targeted Campaigns in Retail Sector Involve Domain Fraud, Brand Impersonation, and Ponzi Schemes<a href="https://www.domaintools.com/resources/blog/retail-targeted-campaigns-domain-fraud-brand-impersonation-and-ponzi-schemes/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Targeted Campaigns in Retail Sector Involve Domain Fraud, Brand Impersonation, a
 Threat actors are actively engaging in domain fraud, brand impersonation, and Ponzi schemes targeting the retail sector, which plays a significant role in the global economy.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Domain Tools
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 New Vo1d Malware Infects 1.3 Million Android Streaming Boxes<a href="https://www.bleepingcomputer.com/news/security/new-vo1d-malware-infects-13-million-android-streaming-boxes/?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ New Vo1d Malware Infects 1.3 Million Android Streaming Boxes<a href="https://www
 The Vo1d malware campaign targets specific Android firmware versions like Android 7.1.2 and Android 10.1. The malware modifies system files to launch itself on boot and persist on the device.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Update: Protecting Against RCE Attacks Abusing WhatsUp Gold Vulnerabilities<a href="https://www.trendmicro.com/en_us/research/24/i/whatsup-gold-rce.html?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Update: Protecting Against RCE Attacks Abusing WhatsUp Gold Vulnerabilities<a hr
 Trend Micro researchers uncovered remote code execution attacks targeting Progress Software's WhatsUp Gold using the vulnerabilities tracked as CVE-2024-6670 and CVE-2024-6671.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Trend Micro
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 14, 2024
+September 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Citrix Workspace App Users Urged to Update Following Two Privilege Escalation Flaws<a href="https://securityonline.info/citrix-workspace-app-users-urged-to-update-following-two-privilege-escalation-flaws/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Citrix Workspace App Users Urged to Update Following Two Privilege Escalation Fl
 Users of Citrix Workspace App are advised to update due to two privilege escalation flaws. Cloud Software Group disclosed vulnerabilities (CVE-2024-7889 & CVE-2024-7890) in the Windows app, allowing attackers to gain high-level access.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

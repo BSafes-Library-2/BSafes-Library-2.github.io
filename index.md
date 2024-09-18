@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US Hits Intellexa Spyware Maker With More Sanctions<a href="https://therecord.media/us-hits-intellexa-sanctions-treasury?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The US has imposed further sanctions on Intellexa, the maker of the Predator spyware, targeting individuals and entities associated with the company due to its opaque corporate structure designed to evade accountability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: PoC Exploit Released for Windows Hyper-V Zero-Day Vulnerability<a href="https://securityonline.info/poc-exploit-released-for-windows-hyper-v-zero-day-vulnerability-cve-2024-38080/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This critical flaw, actively exploited in the wild, allows attackers to elevate privileges to SYSTEM level, posing a significant risk to organizations using Microsoft's Hyper-V virtualization technology.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+EchoStrike: Generate Undetectable Reverse Shells, Perform Process Injection<a href="https://www.helpnetsecurity.com/2024/09/16/echostrike-reverse-shells-process-injection/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+EchoStrike features an interactive Python wizard for easy customization, various persistence techniques, binary padding for evasion, AES payload encryption, and dynamic binary download.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Target Cryptocurrency Users on LinkedIn with RustDoor Malware<a href="https://thehackernews.com/2024/09/north-korean-hackers-target.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers are using RustDoor malware to target cryptocurrency users on LinkedIn, posing as recruiters for legitimate decentralized finance (DeFi) companies like STON.fi.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Switching to NIST-Approved ML-KEM Quantum Encryption<a href="https://www.bleepingcomputer.com/news/security/chrome-switching-to-nist-approved-ml-kem-quantum-encryption/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is updating Chrome's post-quantum cryptography to defend against quantum computer attacks. The new encryption system, ML-KEM, replaces Kyber for enhanced security.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Supply Chain Attack on Google Cloud Composer Could Have Resulted in Remote Code Execution<a href="https://www.tenable.com/blog/cloudimposer-executing-code-on-millions-of-google-servers-with-a-single-malicious-package?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google has addressed a critical security flaw in Google Cloud Platform (GCP) Composer that could have allowed remote code execution via a supply chain attack known as dependency confusion.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerability in AutoGPT Puts Over 166,000 Projects at Risk<a href="https://securityonline.info/166k-projects-at-risk-autogpts-critical-vulnerability-explained-cve-2024-6091-cvss-9-8/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical vulnerability, CVE-2024-6091 (CVSS 9. 8), has been found in AutoGPT, a popular AI tool with over 166,000 projects at risk. The flaw allows for OS Command Injection, potentially enabling unauthorized actions.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rising Clipper Malware Attacks Target Cryptocurrency Users<a href="https://thehackernews.com/2024/09/binance-warns-of-rising-clipper-malware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious software called ClipBankers can monitor clipboard activity and replace cryptocurrency addresses with those controlled by attackers, diverting digital asset transfers to rogue wallets.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Zero-Click Calendar Invite: Critical macOS Vulnerability Chain Uncovered<a href="https://securityonline.info/zero-click-calendar-invite-critical-macos-vulnerability-chain-uncovered/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerability, tracked as CVE-2022-46723, enables attackers to manipulate files within the macOS Calendar app environment and execute remote code during system upgrades.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 17, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+23andMe Pledges $30 Million to the 6.4 Million People Affected by Data Breach<a href="https://therecord.media/dna-pledges-millions-to-data-breach?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+23andMe has pledged $30 million to compensate the 6.4 million people affected by a data breach in October 2023. The breach occurred when a hacker used stolen credentials to access a significant amount of account information, including health data.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 14, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
