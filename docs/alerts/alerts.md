@@ -7,6 +7,17 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 13 2024 - Google 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+A new path for Kyber on the web <a href="https://security.googleblog.com/2024/09/a-new-path-for-kyber-on-web.html"> Full Text</a>
+</p>
+<details>
+We previously posted about experimenting with a hybrid post-quantum key exchange, and enabling it for 100% of Chrome Desktop clients. The hybrid key exchange used both the pre-quantum X25519 algorithm, and the new post-quantum algorithm Kyber. At the time, the NIST standardization process for Kyber had not yet finished.
+</details>
+</div
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 12 2024 - Homeland Security, Repulicans 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

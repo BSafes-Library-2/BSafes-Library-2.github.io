@@ -8,6 +8,20 @@ nav_order: 900056
 
 ## Encryption
 ---
+September 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Switching to NIST-Approved ML-KEM Quantum Encryption<a href="https://www.bleepingcomputer.com/news/security/chrome-switching-to-nist-approved-ml-kem-quantum-encryption/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Google is updating Chrome's post-quantum cryptography to defend against quantum computer attacks. The new encryption system, ML-KEM, replaces Kyber for enhanced security.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 30, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
