@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Confirms CVE-2024-37985 as Zero-Day Bug in Windows<a href="https://securityonline.info/microsoft-confirms-cve-2024-37985-as-zero-day-bug-in-windows/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft has confirmed CVE-2024-37985 as a zero-day bug in Windows with a CVSS score of 5.9. It is a Windows Kernel information disclosure vulnerability, allowing attackers to access heap memory from a privileged process on a vulnerable server.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Baxia Uses Spear-Phishing and GeoServer Exploit to Target APAC Region<a href="https://www.trendmicro.com/en_us/research/24/i/earth-baxia-spear-phishing-and-geoserver-exploit.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this campaign aimed at the APAC region, Earth Baxia used a new backdoor named EAGLEDOOR, which supports multiple communication protocols for information gathering and payload delivery.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Actively Exploited Adobe Flash Player Vulnerabilities<a href="https://securityonline.info/cisa-warns-of-actively-exploited-adobe-flash-player-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has directed federal agencies to remove Flash Player by October 8, 2024, to safeguard sensitive data and critical operations. Adobe officially ended Flash Player support in 2020, recognizing its security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New INC Ransomware Targeting U.S. Healthcare Sector<a href="https://thehackernews.com/2024/09/microsoft-warns-of-new-inc-ransomware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said Vanilla Tempest has been active since at least July 2022, with previous attacks targeting education, healthcare, IT, and manufacturing sectors using various ransomware families such as BlackCat, Quantum Locker, Zeppelin, and Rhysida.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCloak Raises $17M to Boost Cybersecurity for Executives<a href="https://www.bankinfosecurity.com/blackcloak-raises-17m-to-boost-cybersecurity-for-executives-a-26300?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using the fresh funding, the company plans to improve its threat modeling and deepfake protection services to safeguard high-profile individuals from cyber threats in their personal lives.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch Issued for Critical VMware vCenter Flaw Allowing Remote Code Execution<a href="https://thehackernews.com/2024/09/patch-issued-for-critical-vmware.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Broadcom has released a patch for a critical security flaw in VMware vCenter Server, allowing remote code execution through a heap overflow vulnerability in the DCE/RPC protocol (CVE-2024-38812).
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snowflake Moves to MFA, 14-Character Passwords<a href="https://www.bankinfosecurity.com/breach-weary-snowflake-moves-to-mfa-14-character-passwords-a-26297?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Snowflake, a cloud-based data warehousing platform, has implemented default multifactor authentication and a minimum 14-character password requirement following cyberattacks in June affecting multiple customers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marko Polo Cybercrime Gang Targets Cryptocurrency Users, Influencers With Scams<a href="https://therecord.media/marko-polo-cybercrime-group-cryptocurrency-gamers-influencers?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group primarily focuses on online gaming personalities, cryptocurrency influencers, and technology professionals, enticing them with fake job opportunities on social media that lead to downloading malicious software.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RunSafe Security Raises $12M to Drive Global Expansion and Product Development<a href="https://siliconangle.com/2024/09/17/runsafe-security-raises-12m-drive-global-expansion-product-development/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series B funding was led by Critical Ventures and SineWave Venture Partners, with other key investors joining in to support RunSafe's mission to protect critical systems from global threats.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 19, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: PKfail Secure Boot Bypass Remains a Significant Risk Two Months Later<a href="https://www.bleepingcomputer.com/news/security/pkfail-secure-boot-bypass-remains-a-significant-risk-two-months-later/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Approximately nine percent of tested firmware images use non-production cryptographic keys that are publicly known, making Secure Boot devices vulnerable to UEFI bootkit malware attacks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 17, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
