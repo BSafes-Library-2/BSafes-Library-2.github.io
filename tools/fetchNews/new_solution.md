@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Snowflake Moves to MFA, 14-Character Passwords<a href="https://www.bankinfosecurity.com/breach-weary-snowflake-moves-to-mfa-14-character-passwords-a-26297?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Snowflake, a cloud-based data warehousing platform, has implemented default multifactor authentication and a minimum 14-character password requirement following cyberattacks in June affecting multiple customers.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

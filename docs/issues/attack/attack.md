@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Earth Baxia Uses Spear-Phishing and GeoServer Exploit to Target APAC Region<a href="https://www.trendmicro.com/en_us/research/24/i/earth-baxia-spear-phishing-and-geoserver-exploit.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+In this campaign aimed at the APAC region, Earth Baxia used a new backdoor named EAGLEDOOR, which supports multiple communication protocols for information gathering and payload delivery.
+</details>
+<div style="text-align: right" markdown="1">
+TrendMicro
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+23andMe Pledges $30 Million to the 6.4 Million People Affected by Data Breach<a href="https://therecord.media/dna-pledges-millions-to-data-breach?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+23andMe has pledged $30 million to compensate the 6.4 million people affected by a data breach in October 2023. The breach occurred when a hacker used stolen credentials to access a significant amount of account information, including health data.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 31, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

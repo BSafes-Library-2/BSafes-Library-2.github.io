@@ -8,6 +8,20 @@ nav_order: 900031
 
 ## Criminals
 ---
+September 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Marko Polo Cybercrime Gang Targets Cryptocurrency Users, Influencers With Scams<a href="https://therecord.media/marko-polo-cybercrime-group-cryptocurrency-gamers-influencers?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The group primarily focuses on online gaming personalities, cryptocurrency influencers, and technology professionals, enticing them with fake job opportunities on social media that lead to downloading malicious software.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

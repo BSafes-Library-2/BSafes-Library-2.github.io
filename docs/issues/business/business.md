@@ -8,6 +8,34 @@ nav_order: 900027
 
 ## Business
 ---
+September 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BlackCloak Raises $17M to Boost Cybersecurity for Executives<a href="https://www.bankinfosecurity.com/blackcloak-raises-17m-to-boost-cybersecurity-for-executives-a-26300?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Using the fresh funding, the company plans to improve its threat modeling and deepfake protection services to safeguard high-profile individuals from cyber threats in their personal lives.
+</details>
+<div style="text-align: right" markdown="1">
+Bank Infosecurity
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+RunSafe Security Raises $12M to Drive Global Expansion and Product Development<a href="https://siliconangle.com/2024/09/17/runsafe-security-raises-12m-drive-global-expansion-product-development/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Series B funding was led by Critical Ventures and SineWave Venture Partners, with other key investors joining in to support RunSafe's mission to protect critical systems from global threats.
+</details>
+<div style="text-align: right" markdown="1">
+Silicon Angel
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 2, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

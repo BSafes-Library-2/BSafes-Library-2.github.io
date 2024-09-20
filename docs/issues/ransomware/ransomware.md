@@ -8,6 +8,20 @@ nav_order: 900180
 
 ## Ransomware
 ---
+September 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Warns of New INC Ransomware Targeting U.S. Healthcare Sector<a href="https://thehackernews.com/2024/09/microsoft-warns-of-new-inc-ransomware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Microsoft said Vanilla Tempest has been active since at least July 2022, with previous attacks targeting education, healthcare, IT, and manufacturing sectors using various ransomware families such as BlackCat, Quantum Locker, Zeppelin, and Rhysida.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

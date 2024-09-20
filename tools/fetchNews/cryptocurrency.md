@@ -8,6 +8,34 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+North Korean Hackers Target Cryptocurrency Users on LinkedIn with RustDoor Malware<a href="https://thehackernews.com/2024/09/north-korean-hackers-target.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+North Korean hackers are using RustDoor malware to target cryptocurrency users on LinkedIn, posing as recruiters for legitimate decentralized finance (DeFi) companies like STON.fi.
+</details>
+<div style="text-align: right" markdown="1">
+THe Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 17, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Rising Clipper Malware Attacks Target Cryptocurrency Users<a href="https://thehackernews.com/2024/09/binance-warns-of-rising-clipper-malware.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The malicious software called ClipBankers can monitor clipboard activity and replace cryptocurrency addresses with those controlled by attackers, diverting digital asset transfers to rogue wallets.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 7, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
