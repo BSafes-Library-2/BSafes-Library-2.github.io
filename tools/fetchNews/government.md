@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 19, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Warns of Actively Exploited Adobe Flash Player Vulnerabilities<a href="https://securityonline.info/cisa-warns-of-actively-exploited-adobe-flash-player-vulnerabilities/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The CISA has directed federal agencies to remove Flash Player by October 8, 2024, to safeguard sensitive data and critical operations. Adobe officially ended Flash Player support in 2020, recognizing its security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 14, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

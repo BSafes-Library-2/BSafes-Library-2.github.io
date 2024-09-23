@@ -7,6 +7,23 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18 2024 - CISA 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Five Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2024/09/18/cisa-adds-five-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+CVE-2024-27348 Apache HugeGraph-Server Improper Access Control Vulnerability
+CVE-2020-0618 Microsoft SQL Server Reporting Services Remote Code Execution Vulnerability
+CVE-2019-1069 Microsoft Windows Task Scheduler Privilege Escalation Vulnerability
+CVE-2022-21445 Oracle JDeveloper Remote Code Execution Vulnerability
+CVE-2020-14644 Oracle WebLogic Server Remote Code Execution Vulnerability
+</details>
+</div
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 13 2024 - Google 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

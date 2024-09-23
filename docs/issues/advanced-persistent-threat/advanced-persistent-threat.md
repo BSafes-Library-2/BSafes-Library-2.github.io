@@ -8,6 +8,20 @@ nav_order: 900010
 
 ## Advanced Persistent Threat
 ---
+September 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC1860 and the Temple of Oats: Iran’s Hidden Hand in Middle Eastern Networks<a href="https://cloud.google.com/blog/topics/threat-intelligence/unc1860-iran-middle-eastern-networks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UNC1860 has been observed using victim networks as staging areas for additional operations, targeting entities in Saudi Arabia and Qatar. They overlap with APT34, assisting in lateral movement within compromised organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Google
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 10, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

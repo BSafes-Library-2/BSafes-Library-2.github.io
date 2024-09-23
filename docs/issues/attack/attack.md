@@ -8,6 +8,20 @@ nav_order: 900015
 
 ## Attack
 ---
+September 21, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clever 'GitHub Scanner' Campaign Abusing Repositories to Push Malware<a href="https://www.bleepingcomputer.com/news/security/clever-github-scanner-campaign-abusing-repos-to-push-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated campaign is using GitHub repositories to spread the Lumma Stealer malware, targeting users interested in open-source projects or receiving email notifications from them.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

@@ -8,6 +8,20 @@ nav_order: 900025
 
 ## Botnet
 ---
+September 20, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of China-Linked APT's Raptor Train IoT Botnet<a href="https://securityaffairs.com/168563/malware/raptor-train-botnet-iot.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attribution of the Raptor Train botnet to a Chinese nation-state actor is based on various factors, including operational timelines, targeting sectors aligned with Chinese interests, and the use of the Chinese language.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 11, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
