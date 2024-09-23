@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Patch this Critical Safeguard for Privileged Passwords Authentication Bypass Flaw<a href="https://www.helpnetsecurity.com/2024/09/19/cve-2024-45488/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers have released technical details about CVE-2024-45488, a critical authentication bypass vulnerability affecting One Identity’s Safeguard for Privileged Passwords (SPP), which could allow attackers to gain full administrative access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Windows, Apache HugeGraph-Server, Oracle JDeveloper, Oracle WebLogic Server, and MSSQL Server Bugs to its KEV Catalog<a href="https://securityaffairs.com/168592/security/u-s-cisa-windows-apache-hugegraph-oracle-jdeveloper-oracle-weblogic-sql-server-bugs-to-its-known-exploited-vulnerabilities-catalog.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These vulnerabilities can lead to remote code execution and privilege escalation, posing a significant risk to affected systems. For example, the Oracle JDeveloper vulnerability can allow attackers to compromise the software and take over the system.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Clever 'GitHub Scanner' Campaign Abusing Repositories to Push Malware<a href="https://www.bleepingcomputer.com/news/security/clever-github-scanner-campaign-abusing-repos-to-push-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A sophisticated campaign is using GitHub repositories to spread the Lumma Stealer malware, targeting users interested in open-source projects or receiving email notifications from them.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Germany Seizes 47 Crypto Exchanges Used by Ransomware Gangs<a href="https://www.bleepingcomputer.com/news/security/germany-seizes-47-crypto-exchanges-used-by-ransomware-gangs/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These exchanges allowed users to trade cryptocurrencies anonymously, creating a safe environment for cybercriminals to launder their proceeds without fear of prosecution.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 21, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Microsoft Entra ID’s Administrative Units Weaponized to Gain Stealthy Persistence<a href="https://securityonline.info/stealthy-persistence-microsoft-entra-ids-administrative-units-weaponized/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Datadog Security Labs recently revealed a security risk within Microsoft Entra ID, showing how its administrative units (AUs) can be weaponized by attackers to create persistent backdoor access.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Deliver Popular Crypto-Miner Through Malicious Email Auto Replies, Researchers Say<a href="https://therecord.media/hackers-deliver-crypto-miner-through-email-auto-replies?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are distributing a popular crypto-miner via malicious email auto-replies, as per researchers. They compromised email accounts to send innocent automatic replies with links to crypto-mining malware, specifically XMRig.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+UNC1860 and the Temple of Oats: Iran’s Hidden Hand in Middle Eastern Networks<a href="https://cloud.google.com/blog/topics/threat-intelligence/unc1860-iran-middle-eastern-networks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UNC1860 has been observed using victim networks as staging areas for additional operations, targeting entities in Saudi Arabia and Qatar. They overlap with APT34, assisting in lateral movement within compromised organizations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Acronis Backup Plugins Hit by CVE-2024-8767: CVSS 9.9 Severity Alert<a href="https://securityonline.info/acronis-backup-plugins-hit-by-cve-2024-8767-cvss-9-9-severity-alert/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Acronis Backup Plugins have been affected by a critical security flaw, CVE-2024-8767 (CVSS 9.9). The vulnerability impacts Linux-based plugins for cPanel & WHM, Plesk, and DirectAdmin, potentially leading to data breaches and unauthorized operations.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Experts Warn of China-Linked APT's Raptor Train IoT Botnet<a href="https://securityaffairs.com/168563/malware/raptor-train-botnet-iot.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The attribution of the Raptor Train botnet to a Chinese nation-state actor is based on various factors, including operational timelines, targeting sectors aligned with Chinese interests, and the use of the Chinese language.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 20, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CVE-2023-48788 Exploited: Researcher Details Cyberattacks on Fortinet FortiClient EMS<a href="https://securityonline.info/cve-2023-48788-exploited-researcher-details-cyberattacks-on-fortinet-ems/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cybersecurity researchers at Darktrace have discovered cybercriminals exploiting Fortinet’s FortiClient EMS. The attackers targeted a critical vulnerability, CVE-2023-48788, to gain unauthorized access through an SQL injection flaw.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 19, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
