@@ -8,6 +8,20 @@ nav_order: 900163
 
 ## Policy and Law
 ---
+September 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+US DoJ Charged Two Men With Stealing and Laundering $230 Million Worth of Cryptocurrency<a href="https://securityaffairs.com/168647/cyber-crime/us-doj-charged-two-men-stealing-laundering-230m.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Two suspects, Malone Lam and Jeandiel Serrano, were arrested by the US Department of Justice for stealing and laundering over $230 million worth of cryptocurrency in Miami.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

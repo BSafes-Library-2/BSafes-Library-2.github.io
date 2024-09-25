@@ -8,6 +8,20 @@ nav_order: 900029
 
 ## Breach
 ---
+September 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+AT&amp;T Pays $13 Million FCC Settlement Over 2023 Data Breach<a href="https://www.bleepingcomputer.com/news/security/atandt-pays-13-million-fcc-settlement-over-2023-data-breach/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The breach occurred when threat actors gained access to customer data of about 9 million AT&amp;T wireless accounts stored by a vendor. This exposed sensitive customer information like account numbers, phone numbers, and email addresses.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 17, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

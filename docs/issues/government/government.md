@@ -8,6 +8,20 @@ nav_order: 900075
 
 ## Government
 ---
+September 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+DOJ, FBI Need Better Metrics for Tracking Ransomware Disruption Efforts, Audit Finds<a href="https://therecord.media/doj-fbi-metrics-ransomware-needed?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+An audit found that both the DOJ and FBI need to improve in three key areas to enhance their fight against ransomware. While the FBI reported an improvement in taking action within 72 hours in 47% of incidents, there is still room for progress.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

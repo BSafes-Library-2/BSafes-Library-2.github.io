@@ -8,6 +8,20 @@ nav_order: 900195
 
 ## Solution
 ---
+September 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+GSMA Plans End-to-End Encryption for Cross-Platform RCS Messaging<a href="https://thehackernews.com/2024/09/gsma-plans-end-to-end-encryption-for.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The GSM Association is working on implementing end-to-end encryption for Rich Communications Services (RCS) messaging between Android and iOS. This important step aims to enhance user protection and secure messages across platforms.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

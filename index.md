@@ -34,7 +34,7 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2024
+September 23, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 FreeBSD Issues Critical Security Advisory for CVE-2024-41721 (CVSS 9.8)<a href="https://securityonline.info/freebsd-issues-critical-security-advisory-for-cve-2024-41721-cvss-9-8/?&web_view=true"> Full Text</a>
@@ -44,13 +44,13 @@ FreeBSD Issues Critical Security Advisory for CVE-2024-41721 (CVSS 9.8)<a href="
 The flaw, CVE-2024-41721, in bhyve's USB emulation functionality could lead to malicious code execution, posing a serious threat to systems running vulnerable versions of FreeBSD.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2024
+September 23, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Dragonfly2 Flaw Due to Hardcoded Key Threatens Admin Access<a href="https://securityonline.info/critical-dragonfly2-flaw-cve-2023-27584-hardcoded-key-threatens-admin-access/?&web_view=true"> Full Text</a>
@@ -60,13 +60,13 @@ Critical Dragonfly2 Flaw Due to Hardcoded Key Threatens Admin Access<a href="htt
 The flaw, tracked as CVE-2023-27584, stems from a hard-coded cryptographic key used in the authentication process, posing a serious risk of unauthorized access, including admin-level privileges.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2024
+September 23, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Grafana Plugin SDK Flaw Exposes Sensitive Information<a href="https://securityonline.info/cve-2024-8986-cvss-9-1-critical-grafana-plugin-sdk-flaw-exposes-sensitive-information/?&web_view=true"> Full Text</a>
@@ -76,13 +76,13 @@ Critical Grafana Plugin SDK Flaw Exposes Sensitive Information<a href="https://s
 This flaw, tracked as CVE-2024-8986 with a CVSS score of 9.1, could lead to the unintentional exposure of sensitive information, such as repository credentials, due to the build metadata being included in compiled binaries.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2024
+September 23, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Keycloak Vulnerability Puts SAML Authentication at Risk<a href="https://securityonline.info/cve-2024-8698-keycloak-vulnerability-puts-saml-authentication-at-risk/?&web_view=true"> Full Text</a>
@@ -92,13 +92,13 @@ Keycloak Vulnerability Puts SAML Authentication at Risk<a href="https://security
 The vulnerability lies in Keycloak's XMLSignatureUtil class, which incorrectly verifies SAML signatures, disregarding the vital "Reference" element that specifies the signed portion of the document.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2024
+September 23, 2024 -- [Government](/docs/issues/government/government/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 DOJ, FBI Need Better Metrics for Tracking Ransomware Disruption Efforts, Audit Finds<a href="https://therecord.media/doj-fbi-metrics-ransomware-needed?&web_view=true"> Full Text</a>
@@ -108,13 +108,13 @@ DOJ, FBI Need Better Metrics for Tracking Ransomware Disruption Efforts, Audit F
 An audit found that both the DOJ and FBI need to improve in three key areas to enhance their fight against ransomware. While the FBI reported an improvement in taking action within 72 hours in 47% of incidents, there is still room for progress.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2024
+September 23, 2024 -- [Cryptocurrency](/docs/issues/cryptocurrency/cryptocurrency/)<br> 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 More Than $44 Million in Cryptocurrency Stolen From Singaporean Platform Bingx<a href="https://therecord.media/44-million-stolen-from-crypto-platform-singapore?&web_view=true"> Full Text</a>
@@ -124,13 +124,13 @@ More Than $44 Million in Cryptocurrency Stolen From Singaporean Platform Bingx<a
 Singaporean cryptocurrency platform BingX was hit by a cyberattack resulting in the theft of over $44 million. The attack was detected by two blockchain security firms, leading to a temporary suspension of withdrawals and emergency asset transfers.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Record
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2024
+September 23, 2024 -- [Policy and Law](/docs/issues/policy-and-law/policy-and-law/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 US DoJ Charged Two Men With Stealing and Laundering $230 Million Worth of Cryptocurrency<a href="https://securityaffairs.com/168647/cyber-crime/us-doj-charged-two-men-stealing-laundering-230m.html?&web_view=true"> Full Text</a>
@@ -140,13 +140,13 @@ US DoJ Charged Two Men With Stealing and Laundering $230 Million Worth of Crypto
 Two suspects, Malone Lam and Jeandiel Serrano, were arrested by the US Department of Justice for stealing and laundering over $230 million worth of cryptocurrency in Miami.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2024
+September 23, 2024 -- [Business](/docs/issues/business/business/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Picus Security Raises $45M in Funding<a href="https://www.finsmes.com/2024/09/picus-security-raises-45m-in-funding.html?&web_view=true"> Full Text</a>
@@ -156,13 +156,13 @@ Picus Security Raises $45M in Funding<a href="https://www.finsmes.com/2024/09/pi
 Picus Security, a San Francisco, CA-based security validation company, raised $45M in funding. The round, which brought total funds raised to $80M, was led by Riverwood Capital, with participation from existing investor Earlybird Digital East Fund.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Finsmes
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2024
+September 23, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 GSMA Plans End-to-End Encryption for Cross-Platform RCS Messaging<a href="https://thehackernews.com/2024/09/gsma-plans-end-to-end-encryption-for.html?&web_view=true"> Full Text</a>
@@ -172,13 +172,13 @@ GSMA Plans End-to-End Encryption for Cross-Platform RCS Messaging<a href="https:
 The GSM Association is working on implementing end-to-end encryption for Rich Communications Services (RCS) messaging between Android and iOS. This important step aims to enhance user protection and secure messages across platforms.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 23, 2024
+September 23, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 AT&T Pays $13 Million FCC Settlement Over 2023 Data Breach<a href="https://www.bleepingcomputer.com/news/security/atandt-pays-13-million-fcc-settlement-over-2023-data-breach/?&web_view=true"> Full Text</a>
@@ -188,7 +188,7 @@ AT&T Pays $13 Million FCC Settlement Over 2023 Data Breach<a href="https://www.b
 The breach occurred when threat actors gained access to customer data of about 9 million AT&T wireless accounts stored by a vendor. This exposed sensitive customer information like account numbers, phone numbers, and email addresses.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>

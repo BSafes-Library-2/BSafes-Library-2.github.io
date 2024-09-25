@@ -8,6 +8,20 @@ nav_order: 900033
 
 ## Cryptocurrency
 ---
+September 23, 2024 <br> 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+More Than $44 Million in Cryptocurrency Stolen From Singaporean Platform Bingx<a href="https://therecord.media/44-million-stolen-from-crypto-platform-singapore?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Singaporean cryptocurrency platform BingX was hit by a cyberattack resulting in the theft of over $44 million. The attack was detected by two blockchain security firms, leading to a temporary suspension of withdrawals and emergency asset transfers.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
