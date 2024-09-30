@@ -8,6 +8,34 @@ nav_order: 900015
 
 ## Attack
 ---
+September 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BBTok Targeting Brazil Using the AppDomain Manager Injection Technique<a href="https://www.gdatasoftware.com/blog/2024/09/38039-bbtok-deobfuscating-net-loader?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Brazilian-targeted threat BBTok has a complex infection chain that starts with an email containing an ISO image. The malware compiles C# code directly on the infected machine and uses the AppDomain Manager Injection technique.
+</details>
+<div style="text-align: right" markdown="1">
+GData Software
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+September 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Deploy AI-Written Malware in Targeted Attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-deploy-ai-written-malware-in-targeted-attacks/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are now using AI-generated malware in targeted attacks. In a recent email campaign in France, researchers found malicious code crafted with the help of generative AI to distribute the AsyncRAT malware.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 21, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

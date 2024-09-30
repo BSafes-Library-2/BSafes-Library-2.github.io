@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+September 28, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Warns of India-Linked Hackers Targeting South and East Asian Entities<a href="https://thehackernews.com/2024/09/cloudflare-warns-of-india-linked.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SloppyLemming has been active since at least July 2021 and has targeted the government, law enforcement, energy, education, telecommunications, and technology sectors in countries such as Pakistan, Sri Lanka, Bangladesh, China, Nepal, and Indonesia.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 August 29, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

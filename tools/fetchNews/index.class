@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+HPE Patches Three Critical Security Holes in Aruba PAPI<a href="https://www.theregister.com/2024/09/26/hpe_aruba_patch_papi/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HPE has released patches for three critical security vulnerabilities in Aruba's networking access points, which could allow attackers to run code on the systems by sending specially crafted packets to UDP port 8211.
+</details>
+<div style="text-align: right" markdown="1">
+The Register
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+BBTok Targeting Brazil Using the AppDomain Manager Injection Technique<a href="https://www.gdatasoftware.com/blog/2024/09/38039-bbtok-deobfuscating-net-loader?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Brazilian-targeted threat BBTok has a complex infection chain that starts with an email containing an ISO image. The malware compiles C# code directly on the infected machine and uses the AppDomain Manager Injection technique.
+</details>
+<div style="text-align: right" markdown="1">
+GData Software
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical RCE Vulnerability Found in OpenPLC<a href="https://securityaffairs.com/168953/ics-scada/openplc-critical-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The most severe issue is a stack-based buffer overflow vulnerability (CVE-2024-34026) that allows an attacker to execute remote code. Users are advised to update to the latest version of OpenPLC to protect against these security risks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Kia Dealer Portal Flaw Could Let Attackers Hack Millions of Cars<a href="https://www.bleepingcomputer.com/news/security/kia-dealer-portal-flaw-could-let-attackers-hack-millions-of-cars/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities could be exploited to remotely control Kia vehicles equipped with remote hardware in under 30 seconds, exposing the sensitive personal information of car owners.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked APT group Salt Typhoon compromised some US ISPs<a href="https://securityaffairs.com/168941/apt/salt-typhoon-china-linked-threat-actors-breached-us-isp.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Experts are investigating whether the hackers gained access to Cisco Systems routers, a key component of ISP infrastructures, but Cisco has not found any indication of router involvement.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affair
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cloudflare Warns of India-Linked Hackers Targeting South and East Asian Entities<a href="https://thehackernews.com/2024/09/cloudflare-warns-of-india-linked.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+SloppyLemming has been active since at least July 2021 and has targeted the government, law enforcement, energy, education, telecommunications, and technology sectors in countries such as Pakistan, Sri Lanka, Bangladesh, China, Nepal, and Indonesia.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Hackers Deploy AI-Written Malware in Targeted Attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-deploy-ai-written-malware-in-targeted-attacks/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers are now using AI-generated malware in targeted attacks. In a recent email campaign in France, researchers found malicious code crafted with the help of generative AI to distribute the AsyncRAT malware.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ChatGPT macOS Flaw Could've Enabled Long-Term Spyware via Memory Function<a href="https://thehackernews.com/2024/09/chatgpt-macos-flaw-couldve-enabled-long.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A security flaw in OpenAI's ChatGPT app for macOS, now patched, could have allowed attackers to implant persistent spyware into the AI tool's memory. This could lead to continuous data exfiltration of user information across chat sessions.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Vulnerabilities Discovered in Automated Tank Gauge Systems From Multiple Vendors<a href="https://www.bitsight.com/blog/critical-vulnerabilities-discovered-automated-tank-gauge-systems?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Security researchers at Bitsight discovered critical vulnerabilities in Automated Tank Gauge (ATG) systems, including Maglink LX, Maglink LX4, OPW SiteSentinel, Proteus OEL8000, Alisonic Sibylla, and Franklin TS-550.
+</details>
+<div style="text-align: right" markdown="1">
+Bitsight
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 27, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in HashiCorp Vault Enables Unrestricted SSH Access, Threatens System Security<a href="https://securityonline.info/hashicorp-vault-flaw-cve-2024-759-unrestricted-ssh-access-threatens-system-security/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+HashiCorp has released updated versions (1.17.6, 1.16.10, 1.15.15) to fix the flaw, along with a new configuration option to enhance security. Users are advised to upgrade or adjust their configurations to protect against exploitation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 23, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

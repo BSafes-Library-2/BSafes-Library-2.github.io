@@ -8,6 +8,20 @@ nav_order: 900027
 
 ## Business
 ---
+September 23, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Picus Security Raises $45M in Funding<a href="https://www.finsmes.com/2024/09/picus-security-raises-45m-in-funding.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Picus Security, a San Francisco, CA-based security validation company, raised $45M in funding. The round, which brought total funds raised to $80M, was led by Riverwood Capital, with participation from existing investor Earlybird Digital East Fund.
+</details>
+<div style="text-align: right" markdown="1">
+Finsmes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 19, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
