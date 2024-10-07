@@ -15,7 +15,7 @@ Principles of operational technology cyber security <a href="https://www.cyber.g
 <details>
 Critical infrastructure organisations provide vital services, including supplying clean water, energy, and transportation, to the public. These organisations rely on operational technology (OT) to control and manage the physical equipment and processes that provide these critical services.  As such, the continuity of vital services relies on critical infrastructure organisations ensuring the cyber security and safety of their OT.
 </details>
-</div
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 18 2024 - CISA
@@ -32,7 +32,7 @@ CVE-2019-1069 Microsoft Windows Task Scheduler Privilege Escalation Vulnerabilit
 CVE-2022-21445 Oracle JDeveloper Remote Code Execution Vulnerability
 CVE-2020-14644 Oracle WebLogic Server Remote Code Execution Vulnerability
 </details>
-</div
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 18 2024 - CISA 
@@ -49,7 +49,7 @@ CVE-2019-1069 Microsoft Windows Task Scheduler Privilege Escalation Vulnerabilit
 CVE-2022-21445 Oracle JDeveloper Remote Code Execution Vulnerability
 CVE-2020-14644 Oracle WebLogic Server Remote Code Execution Vulnerability
 </details>
-</div
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 13 2024 - Google 
@@ -60,7 +60,7 @@ A new path for Kyber on the web <a href="https://security.googleblog.com/2024/09
 <details>
 We previously posted about experimenting with a hybrid post-quantum key exchange, and enabling it for 100% of Chrome Desktop clients. The hybrid key exchange used both the pre-quantum X25519 algorithm, and the new post-quantum algorithm Kyber. At the time, the NIST standardization process for Kyber had not yet finished.
 </details>
-</div
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 12 2024 - Homeland Security, Repulicans 
@@ -71,7 +71,7 @@ Handling Our Cargo: How The People's Republic of China Invests Strategically in 
 <details>
 This Memorandum of Understanding (MoU) establishes a framework for cooperation and information sharing between the National Crime Agency (NCA) and the Information Commissioner (the “Commissioner”), collectively referred to as “the Participants” throughout this document. In particular, it sets out the broad principles of collaboration and the legal framework governing the sharing of relevant information and intelligence between the Participants.
 </details>
-</div
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 11 2024 - UK's ICO, NCA 
@@ -82,7 +82,7 @@ Memorandum of Understanding between the National Crime Agency and the Informatio
 <details>
 This Memorandum of Understanding (MoU) establishes a framework for cooperation and information sharing between the National Crime Agency (NCA) and the Information Commissioner (the “Commissioner”), collectively referred to as “the Participants” throughout this document. In particular, it sets out the broad principles of collaboration and the legal framework governing the sharing of relevant information and intelligence between the Participants. 
 </details>
-</div
+</div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 9 2024 - CISA
