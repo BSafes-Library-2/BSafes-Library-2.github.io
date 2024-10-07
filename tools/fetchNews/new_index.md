@@ -34,7 +34,167 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2024
+October 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Trading Apps Target Victims Globally via Apple App Store and Google Play<a href="https://thehackernews.com/2024/10/fake-trading-apps-target-victims.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These apps are part of a consumer investment fraud scheme known as pig butchering, where victims are tricked into investing in cryptocurrency or other financial instruments under false pretenses.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ACSC and CISA Launch Critical OT Cybersecurity Guidelines<a href="https://www.infosecurity-magazine.com/news/acsc-cisa-launch-ot-guidelines/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ACSC and CISA have jointly launched a new guide called Principles of Operational Technology Cybersecurity. This guide aims to assist organizations, especially those in critical infrastructure sectors, in securing their OT environments.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Adobe Commerce and Magento Stores Under Attack from CosmicSting Exploit<a href="https://thehackernews.com/2024/10/alert-adobe-commerce-and-magento-stores.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe Commerce and Magento stores are being targeted by CosmicSting exploit, with about 5% already compromised. The exploit, tracked as CVE-2024-34102, allows for remote code execution due to an XXE vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Zimbra RCE Vulnerability Under Mass Exploitation<a href="https://www.helpnetsecurity.com/2024/10/02/cve-2024-45519-exploited/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical Zimbra RCE vulnerability (CVE-2024-45519) is being exploited by attackers to run arbitrary commands on vulnerable systems. The attacks began after patches were released, with ProjectDiscovery detailing the vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Andariel Hacking Group Shifts Focus to Financial Attacks on U.S. Organizations<a href="https://thehackernews.com/2024/10/andariel-hacker-group-shifts-focus-to.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Andariel, a North Korean state-sponsored threat actor, has shifted its focus to conducting financial attacks on U.S. organizations. While three organizations in the U.S. were recently targeted in August 2024, no ransomware was successfully deployed.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Releases Stable Channel Update Addressing High Security Vulnerabilities<a href="https://securityonline.info/chrome-releases-stable-channel-update-addressing-high-security-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These flaws could allow attackers to execute arbitrary code, leak sensitive information, or manipulate web content. Users are advised to update their browsers to the latest version to ensure they are protected against these risks.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Nexus Dashboard Fabric Controller Exposed to RCE<a href="https://securityonline.info/cve-2024-20432-cvss-9-9-cisco-nexus-dashboard-fabric-controller-exposed-to-rce/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has issued a security advisory for a critical flaw in the Nexus Dashboard Fabric Controller (NDFC), allowing a remote attacker with network-admin privileges to execute arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unix Printing Vulnerabilities Enable Easy DDoS Attacks<a href="https://www.darkreading.com/vulnerabilities-threats/unix-printing-vulnerabilities-easy-ddos-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the focus was on remote code execution, researchers found that the vulnerabilities can also be exploited for DDoS attacks. Attackers can manipulate a target system by sending crafted packets to vulnerable CUPS servers.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Repository Found Hosting Fake Crypto Wallet Recovery Tools That Steal User Data<a href="https://thehackernews.com/2024/10/pypi-repository-found-hosting-fake.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python Package Index (PyPI) repository was found hosting fake cryptocurrency wallet recovery tools that steal user data, targeting popular wallets like Atomic and Trust Wallet.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2024
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LiteSpeed Cache Plugin Flaw Threatens Millions of WordPress Sites<a href="https://securityonline.info/cve-2024-47374-litespeed-cache-plugin-flaw-threatens-millions-of-wordpress-sites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LiteSpeed Cache plugin for WordPress has a serious security flaw (CVE-2024-47374) that allows unauthenticated users to inject malicious scripts leading to data theft or privilege escalation. This flaw was patched in version 6.5.1.
+</details>
+<div style="text-align: right" markdown="1">
+Cyware
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 HPE Patches Three Critical Security Holes in Aruba PAPI<a href="https://www.theregister.com/2024/09/26/hpe_aruba_patch_papi/?&web_view=true"> Full Text</a>
@@ -44,13 +204,13 @@ HPE Patches Three Critical Security Holes in Aruba PAPI<a href="https://www.ther
 HPE has released patches for three critical security vulnerabilities in Aruba's networking access points, which could allow attackers to run code on the systems by sending specially crafted packets to UDP port 8211.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Register
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2024
+September 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 BBTok Targeting Brazil Using the AppDomain Manager Injection Technique<a href="https://www.gdatasoftware.com/blog/2024/09/38039-bbtok-deobfuscating-net-loader?&web_view=true"> Full Text</a>
@@ -60,13 +220,13 @@ BBTok Targeting Brazil Using the AppDomain Manager Injection Technique<a href="h
 The Brazilian-targeted threat BBTok has a complex infection chain that starts with an email containing an ISO image. The malware compiles C# code directly on the infected machine and uses the AppDomain Manager Injection technique.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+GData Software
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2024
+September 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical RCE Vulnerability Found in OpenPLC<a href="https://securityaffairs.com/168953/ics-scada/openplc-critical-flaw.html?&web_view=true"> Full Text</a>
@@ -76,13 +236,13 @@ Critical RCE Vulnerability Found in OpenPLC<a href="https://securityaffairs.com/
 The most severe issue is a stack-based buffer overflow vulnerability (CVE-2024-34026) that allows an attacker to execute remote code. Users are advised to update to the latest version of OpenPLC to protect against these security risks.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affairs
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2024
+September 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Kia Dealer Portal Flaw Could Let Attackers Hack Millions of Cars<a href="https://www.bleepingcomputer.com/news/security/kia-dealer-portal-flaw-could-let-attackers-hack-millions-of-cars/?&web_view=true"> Full Text</a>
@@ -92,13 +252,13 @@ Kia Dealer Portal Flaw Could Let Attackers Hack Millions of Cars<a href="https:/
 The vulnerabilities could be exploited to remotely control Kia vehicles equipped with remote hardware in under 30 seconds, exposing the sensitive personal information of car owners.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2024
+September 28, 2024 -- [Breach](/docs/issues/breach/breach/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 China-linked APT group Salt Typhoon compromised some US ISPs<a href="https://securityaffairs.com/168941/apt/salt-typhoon-china-linked-threat-actors-breached-us-isp.html?&web_view=true"> Full Text</a>
@@ -108,13 +268,13 @@ China-linked APT group Salt Typhoon compromised some US ISPs<a href="https://sec
 Experts are investigating whether the hackers gained access to Cisco Systems routers, a key component of ISP infrastructures, but Cisco has not found any indication of router involvement.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Affair
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2024
+September 28, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Cloudflare Warns of India-Linked Hackers Targeting South and East Asian Entities<a href="https://thehackernews.com/2024/09/cloudflare-warns-of-india-linked.html?&web_view=true"> Full Text</a>
@@ -124,13 +284,13 @@ Cloudflare Warns of India-Linked Hackers Targeting South and East Asian Entities
 SloppyLemming has been active since at least July 2021 and has targeted the government, law enforcement, energy, education, telecommunications, and technology sectors in countries such as Pakistan, Sri Lanka, Bangladesh, China, Nepal, and Indonesia.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2024
+September 28, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Hackers Deploy AI-Written Malware in Targeted Attacks<a href="https://www.bleepingcomputer.com/news/security/hackers-deploy-ai-written-malware-in-targeted-attacks/?&web_view=true"> Full Text</a>
@@ -140,13 +300,13 @@ Hackers Deploy AI-Written Malware in Targeted Attacks<a href="https://www.bleepi
 Hackers are now using AI-generated malware in targeted attacks. In a recent email campaign in France, researchers found malicious code crafted with the help of generative AI to distribute the AsyncRAT malware.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bleeping Computer
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 28, 2024
+September 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 ChatGPT macOS Flaw Could've Enabled Long-Term Spyware via Memory Function<a href="https://thehackernews.com/2024/09/chatgpt-macos-flaw-couldve-enabled-long.html?&web_view=true"> Full Text</a>
@@ -156,13 +316,13 @@ ChatGPT macOS Flaw Could've Enabled Long-Term Spyware via Memory Function<a href
 A security flaw in OpenAI's ChatGPT app for macOS, now patched, could have allowed attackers to implant persistent spyware into the AI tool's memory. This could lead to continuous data exfiltration of user information across chat sessions.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+The Hacker News
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2024
+September 27, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Vulnerabilities Discovered in Automated Tank Gauge Systems From Multiple Vendors<a href="https://www.bitsight.com/blog/critical-vulnerabilities-discovered-automated-tank-gauge-systems?&web_view=true"> Full Text</a>
@@ -172,13 +332,13 @@ Critical Vulnerabilities Discovered in Automated Tank Gauge Systems From Multipl
 Security researchers at Bitsight discovered critical vulnerabilities in Automated Tank Gauge (ATG) systems, including Maglink LX, Maglink LX4, OPW SiteSentinel, Proteus OEL8000, Alisonic Sibylla, and Franklin TS-550.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Bitsight
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
 
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
-September 27, 2024
+September 27, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
 Critical Flaw in HashiCorp Vault Enables Unrestricted SSH Access, Threatens System Security<a href="https://securityonline.info/hashicorp-vault-flaw-cve-2024-759-unrestricted-ssh-access-threatens-system-security/?&web_view=true"> Full Text</a>
@@ -188,7 +348,7 @@ Critical Flaw in HashiCorp Vault Enables Unrestricted SSH Access, Threatens Syst
 HashiCorp has released updated versions (1.17.6, 1.16.10, 1.15.15) to fix the flaw, along with a new configuration option to enhance security. Users are advised to upgrade or adjust their configurations to protect against exploitation.
 </details>
 <div style="text-align: right" markdown="1">
-Cyware
+Security Online
 {: .fs-2 .fw-300 .lh-0}
 </div>
 </div>
