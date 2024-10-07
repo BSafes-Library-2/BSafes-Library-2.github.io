@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 4, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Andariel Hacking Group Shifts Focus to Financial Attacks on U.S. Organizations<a href="https://thehackernews.com/2024/10/andariel-hacker-group-shifts-focus-to.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Andariel, a North Korean state-sponsored threat actor, has shifted its focus to conducting financial attacks on U.S. organizations. While three organizations in the U.S. were recently targeted in August 2024, no ransomware was successfully deployed.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 28, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

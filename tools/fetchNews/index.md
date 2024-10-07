@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Trading Apps Target Victims Globally via Apple App Store and Google Play<a href="https://thehackernews.com/2024/10/fake-trading-apps-target-victims.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These apps are part of a consumer investment fraud scheme known as pig butchering, where victims are tricked into investing in cryptocurrency or other financial instruments under false pretenses.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2024 -- [Government](/docs/issues/government/government/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+ACSC and CISA Launch Critical OT Cybersecurity Guidelines<a href="https://www.infosecurity-magazine.com/news/acsc-cisa-launch-ot-guidelines/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+ACSC and CISA have jointly launched a new guide called Principles of Operational Technology Cybersecurity. This guide aims to assist organizations, especially those in critical infrastructure sectors, in securing their OT environments.
+</details>
+<div style="text-align: right" markdown="1">
+Infosecurity Magazine
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 5, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Adobe Commerce and Magento Stores Under Attack from CosmicSting Exploit<a href="https://thehackernews.com/2024/10/alert-adobe-commerce-and-magento-stores.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Adobe Commerce and Magento stores are being targeted by CosmicSting exploit, with about 5% already compromised. The exploit, tracked as CVE-2024-34102, allows for remote code execution due to an XXE vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Zimbra RCE Vulnerability Under Mass Exploitation<a href="https://www.helpnetsecurity.com/2024/10/02/cve-2024-45519-exploited/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical Zimbra RCE vulnerability (CVE-2024-45519) is being exploited by attackers to run arbitrary commands on vulnerable systems. The attacks began after patches were released, with ProjectDiscovery detailing the vulnerability.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Andariel Hacking Group Shifts Focus to Financial Attacks on U.S. Organizations<a href="https://thehackernews.com/2024/10/andariel-hacker-group-shifts-focus-to.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Andariel, a North Korean state-sponsored threat actor, has shifted its focus to conducting financial attacks on U.S. organizations. While three organizations in the U.S. were recently targeted in August 2024, no ransomware was successfully deployed.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Chrome Releases Stable Channel Update Addressing High Security Vulnerabilities<a href="https://securityonline.info/chrome-releases-stable-channel-update-addressing-high-security-vulnerabilities/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These flaws could allow attackers to execute arbitrary code, leak sensitive information, or manipulate web content. Users are advised to update their browsers to the latest version to ensure they are protected against these risks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Cisco Nexus Dashboard Fabric Controller Exposed to RCE<a href="https://securityonline.info/cve-2024-20432-cvss-9-9-cisco-nexus-dashboard-fabric-controller-exposed-to-rce/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Cisco has issued a security advisory for a critical flaw in the Nexus Dashboard Fabric Controller (NDFC), allowing a remote attacker with network-admin privileges to execute arbitrary commands.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 4, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Unix Printing Vulnerabilities Enable Easy DDoS Attacks<a href="https://www.darkreading.com/vulnerabilities-threats/unix-printing-vulnerabilities-easy-ddos-attacks?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+While the focus was on remote code execution, researchers found that the vulnerabilities can also be exploited for DDoS attacks. Attackers can manipulate a target system by sending crafted packets to vulnerable CUPS servers.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PyPI Repository Found Hosting Fake Crypto Wallet Recovery Tools That Steal User Data<a href="https://thehackernews.com/2024/10/pypi-repository-found-hosting-fake.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Python Package Index (PyPI) repository was found hosting fake cryptocurrency wallet recovery tools that steal user data, targeting popular wallets like Atomic and Trust Wallet.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 3, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LiteSpeed Cache Plugin Flaw Threatens Millions of WordPress Sites<a href="https://securityonline.info/cve-2024-47374-litespeed-cache-plugin-flaw-threatens-millions-of-wordpress-sites/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The LiteSpeed Cache plugin for WordPress has a serious security flaw (CVE-2024-47374) that allows unauthenticated users to inject malicious scripts leading to data theft or privilege escalation. This flaw was patched in version 6.5.1.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 28, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
