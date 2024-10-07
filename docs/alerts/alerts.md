@@ -7,6 +7,34 @@ nav_order: 150
 
 ## Alerts
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 2 2024 - ASD, CISA, NSA, FBI, ISAC, NCSC, CCCS, Te Tira Tiaki, BFDI, NCSC, NISC, NPA, NIS, NCSC 
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Principles of operational technology cyber security <a href="https://www.cyber.gov.au/sites/default/files/2024-10/principles_of_operational_technology_cyber_security.pdf"> Full Text</a>
+</p>
+<details>
+Critical infrastructure organisations provide vital services, including supplying clean water, energy, and transportation, to the public. These organisations rely on operational technology (OT) to control and manage the physical equipment and processes that provide these critical services.  As such, the continuity of vital services relies on critical infrastructure organisations ensuring the cyber security and safety of their OT.
+</details>
+</div
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+September 18 2024 - CISA
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+CISA Adds Five Known Exploited Vulnerabilities to Catalog <a href="https://www.cisa.gov/news-events/alerts/2024/09/18/cisa-adds-five-known-exploited-vulnerabilities-catalog"> Full Text</a>
+</p>
+<details>
+CISA has added five new vulnerabilities to its Known Exploited Vulnerabilities Catalog, based on evidence of active exploitation.
+
+CVE-2024-27348 Apache HugeGraph-Server Improper Access Control Vulnerability
+CVE-2020-0618 Microsoft SQL Server Reporting Services Remote Code Execution Vulnerability
+CVE-2019-1069 Microsoft Windows Task Scheduler Privilege Escalation Vulnerability
+CVE-2022-21445 Oracle JDeveloper Remote Code Execution Vulnerability
+CVE-2020-14644 Oracle WebLogic Server Remote Code Execution Vulnerability
+</details>
+</div
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 September 18 2024 - CISA 
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
