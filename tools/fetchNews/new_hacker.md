@@ -8,6 +8,20 @@ nav_order: 900080
 
 ## Hacker
 ---
+October 7, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Hackers Launch Deepfake Nude Generator Sites to Spread Malware<a href="https://www.bleepingcomputer.com/news/security/fin7-hackers-launch-deepfake-nude-generator-sites-to-spread-malware/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FIN7 gang is hiding malware in AI "Deepnude" sites to lure victims with promises of deepfake tool downloads. Security experts have identified the malicious sites hosted by the Russia-based FIN7 on various aiNude[.]ai domains.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 October 4, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

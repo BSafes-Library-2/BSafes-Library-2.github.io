@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MediaTek Patches Critical Vulnerabilities in Smartphone, Tablet, and IoT Chipsets<a href="https://securityonline.info/mediatek-patches-critical-vulnerabilities-in-smartphone-tablet-and-iot-chipsets/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The vulnerabilities, affecting various chipsets like MT6761, MT6765, and MT6873, could lead to remote code execution, privilege escalation, or denial-of-service conditions if exploited.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+China-linked CeranaKeeper Group Targets Southeast Asia with Data Exfiltration Attacks<a href="https://thehackernews.com/2024/10/china-linked-ceranakeeper-targeting.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The custom toolset used by the Thailand-based CeranaKeeper group includes WavyExfiller, DropboxFlop, OneDoor, and BingoShell for various data exfiltration and remote control purposes.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Privilege Escalation and Remote Code Execution Threaten Cisco Routers; No Updates Available<a href="https://securityonline.info/privilege-escalation-and-remote-code-execution-threaten-cisco-routers-no-updates-available/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Privilege escalation and remote code execution vulnerabilities have been identified in Cisco's Small Business RV340, RV340W, RV345, and RV345P Dual WAN Gigabit VPN Routers, posing serious security risks for business networks.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2024 -- [Attack](/docs/issues/attack/attack/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Royal Mail-Themed Lures Deliver Open Source Prince Ransomware<a href="https://www.proofpoint.com/us/blog/threat-insight/security-brief-royal-mail-lures-deliver-open-source-prince-ransomware?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Hackers posed as the UK's Royal Mail to spread Prince ransomware in a destructive campaign that targeted organizations in the US and UK in mid-September. Unlike typical ransomware attacks, this campaign had no decryption methods.
+</details>
+<div style="text-align: right" markdown="1">
+Proof Point
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Redis Patches for Multiple Flaws, Including Potential RCE<a href="https://securityonline.info/redis-patches-for-multi-flaws-including-potential-rce-cve-2024-31449/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Three key vulnerabilities (CVE-2024-31449, CVE-2024-31227, and CVE-2024-31228) have been identified, with the most critical being CVE-2024-31449, allowing remote attackers to execute code.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Fake Job Applications Deliver Dangerous More_eggs Malware to HR Professionals<a href="https://thehackernews.com/2024/10/fake-job-applications-deliver-dangerous.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This malware, which can steal credentials from online bank accounts, email accounts, and IT administrator accounts, is attributed to a threat actor group known as Golden Chickens.
+</details>
+<div style="text-align: right" markdown="1">
+The Hacker News
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Flaw in OATH-Toolkit PAM Module Could Lead to Root Exploits<a href="https://securityonline.info/cve-2024-47191-critical-flaw-in-oath-toolkit-pam-module-could-lead-to-root-exploits/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Discovered by Matthias Gerstner of the SUSE Security Team, this vulnerability (CVE-2024-47191) allows unprivileged users to manipulate file operations conducted by the PAM stack, which operates with root privileges.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Python-based Malware Slithers Into Systems via Legit VS Code<a href="https://www.darkreading.com/endpoint-security/python-malware-slithers-legit-vs-code?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers from Cyble Research and Intelligence Lab (CRIL) uncovered the attack, which begins with a malicious email and utilizes Visual Studio Code to distribute Python-based malware, granting unauthorized remote access to infected devices.
+</details>
+<div style="text-align: right" markdown="1">
+Dark Reading
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: PoC Exploit Released Local Privilege Escalation Vulnerability in iTunes<a href="https://securityonline.info/poc-exploit-releases-for-cve-2024-44193-local-privilege-escalation-vulnerability-in-itunes/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+This flaw, now fixed by Apple as of September 12, 2024, enables an attacker to achieve SYSTEM-level access on Windows devices by exploiting the AppleMobileDeviceService[.]exe component that comes with iTunes.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 7, 2024 -- [Hacker](/docs/issues/hacker/hacker/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+FIN7 Hackers Launch Deepfake Nude Generator Sites to Spread Malware<a href="https://www.bleepingcomputer.com/news/security/fin7-hackers-launch-deepfake-nude-generator-sites-to-spread-malware/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+FIN7 gang is hiding malware in AI "Deepnude" sites to lure victims with promises of deepfake tool downloads. Security experts have identified the malicious sites hosted by the Russia-based FIN7 on various aiNude[.]ai domains.
+</details>
+<div style="text-align: right" markdown="1">
+Bleeping Computer
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 5, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
