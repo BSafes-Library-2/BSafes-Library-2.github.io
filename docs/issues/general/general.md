@@ -8,6 +8,20 @@ nav_order: 900072
 
 ## General
 ---
+October 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Ransomware Attacks Surge, UK Privacy Regulator Investigating Fewer Incidents Than Ever<a href="https://therecord.media/uk-ico-ransomware-investigations-data?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With ransomware attacks on the rise, the UK's privacy regulator is investigating fewer incidents than before. Only 87 out of 1,253 incidents reported last year, and 19 out of 440 incidents reported in the first half this year, have been investigated.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 12, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

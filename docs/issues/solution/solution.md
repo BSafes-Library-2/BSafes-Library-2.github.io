@@ -8,6 +8,34 @@ nav_order: 900195
 
 ## Solution
 ---
+October 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Pixel 9 Supports New Security Features To Mitigate Baseband Attacks<a href="https://securityaffairs.com/169402/security/google-pixel-9-mitigates-baseband-attacks.html?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pixel 9 series now includes defenses like Bounds Sanitizer, Integer Overflow Sanitizer, Stack Canaries, Control Flow Integrity (CFI), and Auto-Initialize Stack Variables to enhance security.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
+October 8, 2024 <br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MaLDAPtive: Open-Source Framework for LDAP SearchFilter Parsing, Obfuscation, and More<a href="https://www.helpnetsecurity.com/2024/10/04/maldaptive-open-source-framework-for-ldap-searchfilter-parsing-obfuscation/?&amp;web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MaLDAPtive is an open-source framework for LDAP SearchFilter parsing, obfuscation, deobfuscation, and detection. The project features a custom C# LDAP parser for tokenization and syntax tree parsing.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+---
 September 23, 2024 <br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">

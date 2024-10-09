@@ -34,6 +34,166 @@ BSafes library includes mobile-friendly cybersecurity publications.
 ## News
 {: .fs-6 .label .label-yellow }
 <div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Apache Avro SDK RCE flaw impacts Java applications<a href="https://securityaffairs.com/169469/security/apache-avro-java-sdk-critical-flaw.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A critical security flaw in Apache Avro SDK for Java has been revealed, allowing remote code execution on vulnerable systems. The vulnerability, CVE-2024-47561, affects all versions prior to 1.11.4.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Critical Zero-Day Automotive Systems Vulnerabilities Exposed<a href="https://securityonline.info/critical-zero-day-automotive-systems-vulnerabilities-exposed/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+UncoveredRecent research by security expert Amit Geynis has shed light on the presence of critical vulnerabilities in modern vehicles, raising concerns about the safety of connected cars.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+LemonDuck Unleashes Cryptomining Attacks Through SMB Service Exploits<a href="https://notes.netbytesec.com/2024/10/lemonduck-unleashes-cryptomining.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+A recent report by security researchers at Aufa and NetbyteSEC reveals the resurgence of the LemonDuck malware, exploiting the EternalBlue vulnerability in Microsoft’s SMB protocol for cryptomining.
+</details>
+<div style="text-align: right" markdown="1">
+Net Bytes
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Google Pixel 9 Supports New Security Features To Mitigate Baseband Attacks<a href="https://securityaffairs.com/169402/security/google-pixel-9-mitigates-baseband-attacks.html?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+The Pixel 9 series now includes defenses like Bounds Sanitizer, Integer Overflow Sanitizer, Stack Canaries, Control Flow Integrity (CFI), and Auto-Initialize Stack Variables to enhance security.
+</details>
+<div style="text-align: right" markdown="1">
+Security Affairs
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Update: Exploit Released for TeamViewer Flaws Letting Unprivileged Users Load Arbitrary Kernel Drivers<a href="https://securityonline.info/exploit-releases-for-teamviewer-flaws-cve-2024-7479-cve-2024-7481-let-unprivileged-users-load-arbitrary-kernel-drivers/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+These flaws enable attackers to execute arbitrary code and escalate privileges on Windows systems by exploiting inadequate cryptographic signature verification during driver installation.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2024 -- [Phishing](/docs/issues/phishing/phishing/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Mamba 2FA Phishing Kit Bypasses 2FA with AitM Tactics<a href="https://securityonline.info/beware-the-bite-of-mamba-2fa-this-phishing-kit-bypasses-2fa/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Mamba 2FA has gained popularity in the phishing-as-a-service market, allowing attackers to bypass non-phishing-resistant MFA methods like one-time codes and app notifications.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2024 -- [Solution](/docs/issues/solution/solution/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+MaLDAPtive: Open-Source Framework for LDAP SearchFilter Parsing, Obfuscation, and More<a href="https://www.helpnetsecurity.com/2024/10/04/maldaptive-open-source-framework-for-ldap-searchfilter-parsing-obfuscation/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+MaLDAPtive is an open-source framework for LDAP SearchFilter parsing, obfuscation, deobfuscation, and detection. The project features a custom C# LDAP parser for tokenization and syntax tree parsing.
+</details>
+<div style="text-align: right" markdown="1">
+Help Net Security
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+PoC Exploit Released for Linux Kernel Flaw Enabling Container Escape<a href="https://securityonline.info/poc-exploit-releases-for-cve-2023-52447-a-linux-kernel-flaw-enabling-container-escape/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+Researchers disclosed technical details and a proof-of-concept (PoC) exploit for a vulnerability in the Linux kernel, tracked as CVE-2023-52447. This use-after-free flaw affects Linux kernel versions from v5.8 to v6.6, with a CVSS score of 7.8.
+</details>
+<div style="text-align: right" markdown="1">
+Security Online
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2024 -- [General](/docs/issues/general/general/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+As Ransomware Attacks Surge, UK Privacy Regulator Investigating Fewer Incidents Than Ever<a href="https://therecord.media/uk-ico-ransomware-investigations-data?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+With ransomware attacks on the rise, the UK's privacy regulator is investigating fewer incidents than before. Only 87 out of 1,253 incidents reported last year, and 19 out of 440 incidents reported in the first half this year, have been investigated.
+</details>
+<div style="text-align: right" markdown="1">
+The Record
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
+October 8, 2024 -- [Malware](/docs/issues/malware/malware/)<br>
+{: .fs-4 .fw-700 .lh-0  }
+<p style="font-weight:500; margin:0px" markdown="1">
+Threat Actor Believed to be Spreading New Medusalocker Variant Since 2022<a href="https://blog.talosintelligence.com/threat-actor-believed-to-be-spreading-new-medusalocker-variant-since-2022/?&web_view=true"> Full Text</a>
+</p>
+<details>
+  <summary>Abstract</summary>
+BabyLockerKZ has expanded its reach to different continents, shifting from Europe to South America in early 2023. It has distinct features compared to MedusaLocker, such as unique storage keys and differences between Windows and Linux versions.
+</details>
+<div style="text-align: right" markdown="1">
+Talos Intelligence
+{: .fs-2 .fw-300 .lh-0}
+</div>
+</div>
+
+<div class="code-example dont-break-out" markdown="1" style="padding-top:0px;padding-bottom:0px">
 October 7, 2024 -- [Vulnerabilities](/docs/issues/vulnerabilities/vulnerabilities/)<br>
 {: .fs-4 .fw-700 .lh-0  }
 <p style="font-weight:500; margin:0px" markdown="1">
